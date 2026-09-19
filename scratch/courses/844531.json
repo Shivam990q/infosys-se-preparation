@@ -1,0 +1,854 @@
+[
+  {
+    "id": 85697321,
+    "name": "Interview Schedule & Whattsap.pdf",
+    "type": 3,
+    "stats": {}
+  },
+  {
+    "id": 85697320,
+    "name": "2. Assessment -Actual Interview Experience TCS June 2024.pdf",
+    "type": 3,
+    "stats": {}
+  },
+  {
+    "id": 52552452,
+    "name": "3. Imp : Resume + Self Introduction Format V.V Imp",
+    "type": 1,
+    "stats": {
+      "videos": 1,
+      "files": 3,
+      "tests": 0
+    },
+    "children": [
+      {
+        "id": 162549881,
+        "name": "How to Make Resume ( Imp )- Step by Step",
+        "type": 2,
+        "stats": {}
+      },
+      {
+        "id": 85697341,
+        "name": "OverLeaf_resume_template_CM.pdf",
+        "type": 3,
+        "stats": {}
+      },
+      {
+        "id": 85697339,
+        "name": "Best Sample Resume.pdf",
+        "type": 3,
+        "stats": {}
+      },
+      {
+        "id": 85697340,
+        "name": "Self Introduction Template.pdf",
+        "type": 3,
+        "stats": {}
+      }
+    ]
+  },
+  {
+    "id": 52552449,
+    "name": "4 :Imp- HR + Technical + Managerial -Inter",
+    "type": 1,
+    "stats": {
+      "videos": 0,
+      "files": 16,
+      "tests": 0
+    },
+    "children": [
+      {
+        "id": 52552451,
+        "name": "Real TCS Interview Questions ASKED",
+        "type": 1,
+        "stats": {
+          "videos": 0,
+          "files": 2,
+          "tests": 0
+        },
+        "children": [
+          {
+            "id": 85697338,
+            "name": "TCS_Ninja_Interview_Questions.pdf",
+            "type": 3,
+            "stats": {}
+          },
+          {
+            "id": 85697337,
+            "name": "Prime_Interview_Questions.pdf",
+            "type": 3,
+            "stats": {}
+          }
+        ]
+      },
+      {
+        "id": 85697322,
+        "name": "Interview HR Questions",
+        "type": 3,
+        "stats": {}
+      },
+      {
+        "id": 85697335,
+        "name": "Top 30+ OOPs Interview Questions and Answers.pdf",
+        "type": 3,
+        "stats": {}
+      },
+      {
+        "id": 85697329,
+        "name": "C Interview Questions",
+        "type": 3,
+        "stats": {}
+      },
+      {
+        "id": 85697328,
+        "name": "Java Interview Questions",
+        "type": 3,
+        "stats": {}
+      },
+      {
+        "id": 85697331,
+        "name": "Python Interview & Coding Questions",
+        "type": 3,
+        "stats": {}
+      },
+      {
+        "id": 85697327,
+        "name": "C++ Interview Questions",
+        "type": 3,
+        "stats": {}
+      },
+      {
+        "id": 85697326,
+        "name": "DBMS Interview Questions",
+        "type": 3,
+        "stats": {}
+      },
+      {
+        "id": 85697323,
+        "name": "OS Interview Questions",
+        "type": 3,
+        "stats": {}
+      },
+      {
+        "id": 85697324,
+        "name": "DSA Interview Questions",
+        "type": 3,
+        "stats": {}
+      },
+      {
+        "id": 85697325,
+        "name": "Coding Interview Questions",
+        "type": 3,
+        "stats": {}
+      },
+      {
+        "id": 85697332,
+        "name": "Interview Project based Questions",
+        "type": 3,
+        "stats": {}
+      },
+      {
+        "id": 85697330,
+        "name": "Interview Internship Certification",
+        "type": 3,
+        "stats": {}
+      },
+      {
+        "id": 85697333,
+        "name": "SQL_NOTES_CAMPUS_MONK.pdf",
+        "type": 3,
+        "stats": {}
+      },
+      {
+        "id": 85697334,
+        "name": "COMPUTER_NETWORK_CM.pdf",
+        "type": 3,
+        "stats": {}
+      }
+    ]
+  },
+  {
+    "id": 52552453,
+    "name": "5: SQL: Zero to Hero Series",
+    "type": 1,
+    "stats": {
+      "videos": 56,
+      "files": 0,
+      "tests": 0
+    },
+    "children": [
+      {
+        "id": 162549888,
+        "name": "SQL Introduction Video",
+        "type": 2,
+        "stats": {}
+      },
+      {
+        "id": 162549890,
+        "name": "How to setup SQL",
+        "type": 2,
+        "stats": {}
+      },
+      {
+        "id": 162549905,
+        "name": "SQL Foundation: 1",
+        "type": 2,
+        "stats": {}
+      },
+      {
+        "id": 162549930,
+        "name": "SQL Foundation: 2",
+        "type": 2,
+        "stats": {}
+      },
+      {
+        "id": 162549903,
+        "name": "SQL Foundation: 3",
+        "type": 2,
+        "stats": {}
+      },
+      {
+        "id": 162549937,
+        "name": "SQL Foundation: 4",
+        "type": 2,
+        "stats": {}
+      },
+      {
+        "id": 162549882,
+        "name": "Part 1: SQL Leetcode Questions",
+        "type": 2,
+        "stats": {}
+      },
+      {
+        "id": 162549886,
+        "name": "Part 2: SQL Leetcode Questions",
+        "type": 2,
+        "stats": {}
+      },
+      {
+        "id": 162549895,
+        "name": "Part 3: SQL Leetcode Questions",
+        "type": 2,
+        "stats": {}
+      },
+      {
+        "id": 162549883,
+        "name": "Part 4: SQL Leetcode Questions",
+        "type": 2,
+        "stats": {}
+      },
+      {
+        "id": 162549884,
+        "name": "Part 5: SQL Leetcode Questions",
+        "type": 2,
+        "stats": {}
+      },
+      {
+        "id": 162549885,
+        "name": "Part 6: SQL Leetcode Questions",
+        "type": 2,
+        "stats": {}
+      },
+      {
+        "id": 162549892,
+        "name": "Part 7: SQL Leetcode Questions",
+        "type": 2,
+        "stats": {}
+      },
+      {
+        "id": 162549893,
+        "name": "Part 8: SQL Leetcode Questions",
+        "type": 2,
+        "stats": {}
+      },
+      {
+        "id": 162549889,
+        "name": "Part 9: SQL Leetcode Questions",
+        "type": 2,
+        "stats": {}
+      },
+      {
+        "id": 162549902,
+        "name": "Part 10 : SQL Leetcode Questions",
+        "type": 2,
+        "stats": {}
+      },
+      {
+        "id": 162549897,
+        "name": "Part 11 : SQL Leetcode Questions",
+        "type": 2,
+        "stats": {}
+      },
+      {
+        "id": 162549891,
+        "name": "Part 12 : SQL Leetcode Questions",
+        "type": 2,
+        "stats": {}
+      },
+      {
+        "id": 162549894,
+        "name": "Part 13: SQL Leetcode Questions",
+        "type": 2,
+        "stats": {}
+      },
+      {
+        "id": 162549896,
+        "name": "Part 14: SQL Leetcode Questions",
+        "type": 2,
+        "stats": {}
+      },
+      {
+        "id": 162549887,
+        "name": "Part 15: SQL Leetcode Questions",
+        "type": 2,
+        "stats": {}
+      },
+      {
+        "id": 162549901,
+        "name": "Part 16: SQL Leetcode Questions",
+        "type": 2,
+        "stats": {}
+      },
+      {
+        "id": 162549900,
+        "name": "Part 17: SQL Leetcode Questions",
+        "type": 2,
+        "stats": {}
+      },
+      {
+        "id": 162549898,
+        "name": "Part 18: SQL Leetcode Questions",
+        "type": 2,
+        "stats": {}
+      },
+      {
+        "id": 162549904,
+        "name": "Part 19: SQL Leetcode Questions",
+        "type": 2,
+        "stats": {}
+      },
+      {
+        "id": 162549899,
+        "name": "Part 20: SQL Leetcode Questions",
+        "type": 2,
+        "stats": {}
+      },
+      {
+        "id": 162549906,
+        "name": "Part 21: SQL Leetcode Questions",
+        "type": 2,
+        "stats": {}
+      },
+      {
+        "id": 162549924,
+        "name": "Part 22: SQL Leetcode Questions",
+        "type": 2,
+        "stats": {}
+      },
+      {
+        "id": 162549907,
+        "name": "Part 23: SQL Leetcode Questions",
+        "type": 2,
+        "stats": {}
+      },
+      {
+        "id": 162549909,
+        "name": "Part 24: SQL Leetcode Questions",
+        "type": 2,
+        "stats": {}
+      },
+      {
+        "id": 162549913,
+        "name": "Part 25: SQL Leetcode Questions",
+        "type": 2,
+        "stats": {}
+      },
+      {
+        "id": 162549911,
+        "name": "Part 26: SQL Leetcode Questions",
+        "type": 2,
+        "stats": {}
+      },
+      {
+        "id": 162549908,
+        "name": "Part 27: SQL Leetcode Questions",
+        "type": 2,
+        "stats": {}
+      },
+      {
+        "id": 162549910,
+        "name": "Part 29: SQL Leetcode Questions",
+        "type": 2,
+        "stats": {}
+      },
+      {
+        "id": 162549912,
+        "name": "Part 28: SQL Leetcode Questions",
+        "type": 2,
+        "stats": {}
+      },
+      {
+        "id": 162549914,
+        "name": "Part 30: SQL Leetcode Questions",
+        "type": 2,
+        "stats": {}
+      },
+      {
+        "id": 162549918,
+        "name": "Part 31: SQL Leetcode Questions",
+        "type": 2,
+        "stats": {}
+      },
+      {
+        "id": 162549925,
+        "name": "Part 32: SQL Leetcode Questions",
+        "type": 2,
+        "stats": {}
+      },
+      {
+        "id": 162549921,
+        "name": "Part 33: SQL Leetcode Questions",
+        "type": 2,
+        "stats": {}
+      },
+      {
+        "id": 162549917,
+        "name": "Part 34: SQL Leetcode Questions",
+        "type": 2,
+        "stats": {}
+      },
+      {
+        "id": 162549916,
+        "name": "Part 35: SQL Leetcode Questions",
+        "type": 2,
+        "stats": {}
+      },
+      {
+        "id": 162549915,
+        "name": "Part 36: SQL Leetcode Questions",
+        "type": 2,
+        "stats": {}
+      },
+      {
+        "id": 162549922,
+        "name": "Part 37: SQL Leetcode Questions",
+        "type": 2,
+        "stats": {}
+      },
+      {
+        "id": 162549929,
+        "name": "Part 38: SQL Leetcode Questions",
+        "type": 2,
+        "stats": {}
+      },
+      {
+        "id": 162549931,
+        "name": "Part 39: SQL Leetcode Questions",
+        "type": 2,
+        "stats": {}
+      },
+      {
+        "id": 162549919,
+        "name": "Part 40: SQL Leetcode Questions",
+        "type": 2,
+        "stats": {}
+      },
+      {
+        "id": 162549926,
+        "name": "Part 41: SQL Leetcode Question",
+        "type": 2,
+        "stats": {}
+      },
+      {
+        "id": 162549932,
+        "name": "Part 42: SQL Leetcode Question",
+        "type": 2,
+        "stats": {}
+      },
+      {
+        "id": 162549920,
+        "name": "Part 43: SQL Leetcode Question",
+        "type": 2,
+        "stats": {}
+      },
+      {
+        "id": 162549923,
+        "name": "Part 44: SQL Leetcode Question",
+        "type": 2,
+        "stats": {}
+      },
+      {
+        "id": 162549928,
+        "name": "Part 45: SQL Leetcode Question",
+        "type": 2,
+        "stats": {}
+      },
+      {
+        "id": 162549927,
+        "name": "Part 46: SQL Leetcode Question",
+        "type": 2,
+        "stats": {}
+      },
+      {
+        "id": 162549935,
+        "name": "Part 47: SQL Leetcode Quesrion",
+        "type": 2,
+        "stats": {}
+      },
+      {
+        "id": 162549934,
+        "name": "Part 48: SQL Leetcode Quesrion",
+        "type": 2,
+        "stats": {}
+      },
+      {
+        "id": 162549936,
+        "name": "Part 49: SQL Leetcode Quesrion",
+        "type": 2,
+        "stats": {}
+      },
+      {
+        "id": 162549933,
+        "name": "Part 50: SQL Leetcode Quesrion",
+        "type": 2,
+        "stats": {}
+      }
+    ]
+  },
+  {
+    "id": 52552454,
+    "name": "6: Live Interview Classes",
+    "type": 1,
+    "stats": {
+      "videos": 11,
+      "files": 6,
+      "tests": 0
+    },
+    "children": [
+      {
+        "id": 52552455,
+        "name": "Latest: Interview Prep",
+        "type": 1,
+        "stats": {
+          "videos": 1,
+          "files": 0,
+          "tests": 0
+        },
+        "children": [
+          {
+            "id": 162549939,
+            "name": "TCS NQT Interview Prep (1)",
+            "type": 2,
+            "stats": {}
+          }
+        ]
+      },
+      {
+        "id": 52552456,
+        "name": "Day 0: How to Crack an Interview?",
+        "type": 1,
+        "stats": {
+          "videos": 1,
+          "files": 0,
+          "tests": 0
+        },
+        "children": [
+          {
+            "id": 162549940,
+            "name": "How to crack an interview?",
+            "type": 2,
+            "stats": {}
+          }
+        ]
+      },
+      {
+        "id": 52552457,
+        "name": "Day 1: Interview Imp Ques",
+        "type": 1,
+        "stats": {
+          "videos": 1,
+          "files": 1,
+          "tests": 0
+        },
+        "children": [
+          {
+            "id": 162549941,
+            "name": "Imp interview Questions",
+            "type": 2,
+            "stats": {}
+          },
+          {
+            "id": 85697342,
+            "name": "Interview Tips .pdf",
+            "type": 3,
+            "stats": {}
+          }
+        ]
+      },
+      {
+        "id": 52552458,
+        "name": "Day 2",
+        "type": 1,
+        "stats": {
+          "videos": 1,
+          "files": 0,
+          "tests": 0
+        },
+        "children": [
+          {
+            "id": 162549942,
+            "name": "Personal Interview 1:1",
+            "type": 2,
+            "stats": {}
+          }
+        ]
+      },
+      {
+        "id": 52552459,
+        "name": "Day 03",
+        "type": 1,
+        "stats": {
+          "videos": 1,
+          "files": 0,
+          "tests": 0
+        },
+        "children": [
+          {
+            "id": 162549943,
+            "name": "TCS 1:1 Interview  prep",
+            "type": 2,
+            "stats": {}
+          }
+        ]
+      },
+      {
+        "id": 52552460,
+        "name": "Day 4",
+        "type": 1,
+        "stats": {
+          "videos": 1,
+          "files": 0,
+          "tests": 0
+        },
+        "children": [
+          {
+            "id": 162549944,
+            "name": "HR & Managerial Round Questions!",
+            "type": 2,
+            "stats": {}
+          }
+        ]
+      },
+      {
+        "id": 52552461,
+        "name": "Day 5",
+        "type": 1,
+        "stats": {
+          "videos": 1,
+          "files": 3,
+          "tests": 0
+        },
+        "children": [
+          {
+            "id": 85697345,
+            "name": "Resume-harvard.pdf",
+            "type": 3,
+            "stats": {}
+          },
+          {
+            "id": 85697344,
+            "name": "DSA-Interview-coding_question.pdf",
+            "type": 3,
+            "stats": {}
+          },
+          {
+            "id": 85697343,
+            "name": "Data_Structure_Interview_Questions.pdf",
+            "type": 3,
+            "stats": {}
+          },
+          {
+            "id": 162549945,
+            "name": "HR & Technical Interview Questions",
+            "type": 2,
+            "stats": {}
+          }
+        ]
+      },
+      {
+        "id": 52552462,
+        "name": "Day 6: OOPs Interview Questions- One Shot",
+        "type": 1,
+        "stats": {
+          "videos": 1,
+          "files": 0,
+          "tests": 0
+        },
+        "children": [
+          {
+            "id": 162549946,
+            "name": "OOps Technical Questions",
+            "type": 2,
+            "stats": {}
+          }
+        ]
+      },
+      {
+        "id": 52552463,
+        "name": "Day 7: HR & Technical Questions",
+        "type": 1,
+        "stats": {
+          "videos": 2,
+          "files": 1,
+          "tests": 0
+        },
+        "children": [
+          {
+            "id": 85697346,
+            "name": "Interview_Questions_and_Answers.pdf",
+            "type": 3,
+            "stats": {}
+          },
+          {
+            "id": 162549947,
+            "name": "1- HR & Technical Interview Questions",
+            "type": 2,
+            "stats": {}
+          },
+          {
+            "id": 162549948,
+            "name": "2- HR & Technical Questions ",
+            "type": 2,
+            "stats": {}
+          }
+        ]
+      },
+      {
+        "id": 52552464,
+        "name": "Day 8: Exception Handling Interview Questions",
+        "type": 1,
+        "stats": {
+          "videos": 1,
+          "files": 1,
+          "tests": 0
+        },
+        "children": [
+          {
+            "id": 162549949,
+            "name": "Exception Handling Interview Questions ",
+            "type": 2,
+            "stats": {}
+          },
+          {
+            "id": 85697347,
+            "name": "exception_handling_java.pdf",
+            "type": 3,
+            "stats": {}
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 52552450,
+    "name": "7: OOPS by Kajal Ma'am",
+    "type": 1,
+    "stats": {
+      "videos": 3,
+      "files": 1,
+      "tests": 0
+    },
+    "children": [
+      {
+        "id": 85697336,
+        "name": "Imp OOPS_CAMPUS_MONK Important Interview.pdf",
+        "type": 3,
+        "stats": {}
+      },
+      {
+        "id": 162549880,
+        "name": "1.1 OOPS By Kajal Ma'am ",
+        "type": 2,
+        "stats": {}
+      },
+      {
+        "id": 162549879,
+        "name": "1.2- OOPS By Kajal Ma'am",
+        "type": 2,
+        "stats": {}
+      },
+      {
+        "id": 162549878,
+        "name": "1.3- OOPS By Kajal Ma'am",
+        "type": 2,
+        "stats": {}
+      }
+    ]
+  },
+  {
+    "id": 52552448,
+    "name": "Psychometric",
+    "type": 1,
+    "stats": {
+      "videos": 2,
+      "files": 0,
+      "tests": 0
+    },
+    "children": [
+      {
+        "id": 162549876,
+        "name": "Lecture 1",
+        "type": 2,
+        "stats": {}
+      },
+      {
+        "id": 162549877,
+        "name": "Lecture 2",
+        "type": 2,
+        "stats": {}
+      }
+    ]
+  },
+  {
+    "id": 162549870,
+    "name": "How does Interview looks like?",
+    "type": 2,
+    "stats": {}
+  },
+  {
+    "id": 162549871,
+    "name": "Resume Building",
+    "type": 2,
+    "stats": {}
+  },
+  {
+    "id": 162549869,
+    "name": "Most Asked Questions in Interview",
+    "type": 2,
+    "stats": {}
+  },
+  {
+    "id": 162549875,
+    "name": "Must avoid these Mistakes during an Interview",
+    "type": 2,
+    "stats": {}
+  },
+  {
+    "id": 162549874,
+    "name": "Project's Based Questions",
+    "type": 2,
+    "stats": {}
+  },
+  {
+    "id": 162549872,
+    "name": "Internship Based Questions",
+    "type": 2,
+    "stats": {}
+  },
+  {
+    "id": 162549873,
+    "name": "Interview Do's or Don't",
+    "type": 2,
+    "stats": {}
+  }
+]

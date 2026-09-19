@@ -1,0 +1,2568 @@
+[
+  {
+    "id": 93400848,
+    "name": "Capgemini_Mock_Assessment_Campusmonk.pdf",
+    "type": 3,
+    "stats": {}
+  },
+  {
+    "id": 56840421,
+    "name": "1.0 New Content",
+    "type": 1,
+    "stats": {
+      "videos": 13,
+      "files": 1,
+      "tests": 0
+    },
+    "children": [
+      {
+        "id": 93938871,
+        "name": "Campusmonk 200+_Technical_Question_Bank.pdf",
+        "type": 3,
+        "stats": {}
+      },
+      {
+        "id": 56840422,
+        "name": "1: Pseudo Code",
+        "type": 1,
+        "stats": {
+          "videos": 2,
+          "files": 0,
+          "tests": 0
+        },
+        "children": [
+          {
+            "id": 174861119,
+            "name": "1 - Pseudocodes Prep",
+            "type": 2,
+            "stats": {}
+          },
+          {
+            "id": 174861120,
+            "name": "2 - Pseudocodes One Shot",
+            "type": 2,
+            "stats": {}
+          }
+        ]
+      },
+      {
+        "id": 56840423,
+        "name": "2: DSA MCQ",
+        "type": 1,
+        "stats": {
+          "videos": 2,
+          "files": 0,
+          "tests": 0
+        },
+        "children": [
+          {
+            "id": 174861121,
+            "name": "1: DSA MCQs",
+            "type": 2,
+            "stats": {}
+          },
+          {
+            "id": 174861122,
+            "name": "2: Technical MCQ",
+            "type": 2,
+            "stats": {}
+          }
+        ]
+      },
+      {
+        "id": 56840424,
+        "name": "3: Computer Networking",
+        "type": 1,
+        "stats": {
+          "videos": 1,
+          "files": 0,
+          "tests": 0
+        },
+        "children": [
+          {
+            "id": 174861123,
+            "name": "Computer Networking",
+            "type": 2,
+            "stats": {}
+          }
+        ]
+      },
+      {
+        "id": 56840425,
+        "name": "4: OS",
+        "type": 1,
+        "stats": {
+          "videos": 1,
+          "files": 0,
+          "tests": 0
+        },
+        "children": [
+          {
+            "id": 174861124,
+            "name": "Operating System",
+            "type": 2,
+            "stats": {}
+          }
+        ]
+      },
+      {
+        "id": 56840426,
+        "name": "5: ⁠⁠AI Literacy",
+        "type": 1,
+        "stats": {
+          "videos": 1,
+          "files": 0,
+          "tests": 0
+        },
+        "children": [
+          {
+            "id": 174861125,
+            "name": "AI literacy",
+            "type": 2,
+            "stats": {}
+          }
+        ]
+      },
+      {
+        "id": 56840427,
+        "name": "6: ⁠OOPs",
+        "type": 1,
+        "stats": {
+          "videos": 1,
+          "files": 0,
+          "tests": 0
+        },
+        "children": [
+          {
+            "id": 174861126,
+            "name": "OOPs",
+            "type": 2,
+            "stats": {}
+          }
+        ]
+      },
+      {
+        "id": 56840428,
+        "name": "7: ⁠DBMS/SQL",
+        "type": 1,
+        "stats": {
+          "videos": 1,
+          "files": 0,
+          "tests": 0
+        },
+        "children": [
+          {
+            "id": 175465991,
+            "name": " DBMS/ SQL",
+            "type": 2,
+            "stats": {}
+          }
+        ]
+      },
+      {
+        "id": 56840429,
+        "name": "8: ⁠HTTPS/Rest API/GIT/Version Control",
+        "type": 1,
+        "stats": {
+          "videos": 1,
+          "files": 0,
+          "tests": 0
+        },
+        "children": [
+          {
+            "id": 175465862,
+            "name": "HTTPS/ RestAPI/ Version Controls/ GIT",
+            "type": 2,
+            "stats": {}
+          }
+        ]
+      },
+      {
+        "id": 56840430,
+        "name": "9: ⁠Cloud computing",
+        "type": 1,
+        "stats": {
+          "videos": 1,
+          "files": 0,
+          "tests": 0
+        },
+        "children": [
+          {
+            "id": 174861127,
+            "name": "Cloud Computing",
+            "type": 2,
+            "stats": {}
+          }
+        ]
+      },
+      {
+        "id": 56840431,
+        "name": "10: ⁠Cybersecurity",
+        "type": 1,
+        "stats": {
+          "videos": 1,
+          "files": 0,
+          "tests": 0
+        },
+        "children": [
+          {
+            "id": 174861128,
+            "name": "Cybersecurity",
+            "type": 2,
+            "stats": {}
+          }
+        ]
+      },
+      {
+        "id": 56840432,
+        "name": "11: Docker/few other small topics",
+        "type": 1,
+        "stats": {
+          "videos": 1,
+          "files": 0,
+          "tests": 0
+        },
+        "children": [
+          {
+            "id": 174861129,
+            "name": "Docker/ ClientServer/ Architecture/ AgileAPIDe",
+            "type": 2,
+            "stats": {}
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 52574971,
+    "name": "1. Assessment :  Technical",
+    "type": 1,
+    "stats": {
+      "videos": 17,
+      "files": 4,
+      "tests": 10
+    },
+    "children": [
+      {
+        "id": 52574977,
+        "name": "1.1 Technical MCQ",
+        "type": 1,
+        "stats": {
+          "videos": 17,
+          "files": 0,
+          "tests": 0
+        },
+        "children": [
+          {
+            "id": 162633725,
+            "name": "CapG1 ",
+            "type": 2,
+            "stats": {}
+          },
+          {
+            "id": 162633737,
+            "name": "CapG 2",
+            "type": 2,
+            "stats": {}
+          },
+          {
+            "id": 162633739,
+            "name": "capG 3",
+            "type": 2,
+            "stats": {}
+          },
+          {
+            "id": 162633734,
+            "name": "capG 4",
+            "type": 2,
+            "stats": {}
+          },
+          {
+            "id": 162633736,
+            "name": "capG 5",
+            "type": 2,
+            "stats": {}
+          },
+          {
+            "id": 162633738,
+            "name": "capg 6",
+            "type": 2,
+            "stats": {}
+          },
+          {
+            "id": 162633731,
+            "name": "capg 7",
+            "type": 2,
+            "stats": {}
+          },
+          {
+            "id": 162633732,
+            "name": "capg 8",
+            "type": 2,
+            "stats": {}
+          },
+          {
+            "id": 162633730,
+            "name": "capg9",
+            "type": 2,
+            "stats": {}
+          },
+          {
+            "id": 162633724,
+            "name": "capg10",
+            "type": 2,
+            "stats": {}
+          },
+          {
+            "id": 162633729,
+            "name": "capg11",
+            "type": 2,
+            "stats": {}
+          },
+          {
+            "id": 162633726,
+            "name": "capg12",
+            "type": 2,
+            "stats": {}
+          },
+          {
+            "id": 162633740,
+            "name": "capg 13 DBMS",
+            "type": 2,
+            "stats": {}
+          },
+          {
+            "id": 162633727,
+            "name": "capg 14 _ Computer Networking",
+            "type": 2,
+            "stats": {}
+          },
+          {
+            "id": 162633728,
+            "name": "capg15 Operating System",
+            "type": 2,
+            "stats": {}
+          },
+          {
+            "id": 162633735,
+            "name": "capg16",
+            "type": 2,
+            "stats": {}
+          },
+          {
+            "id": 162633733,
+            "name": "capg17",
+            "type": 2,
+            "stats": {}
+          }
+        ]
+      },
+      {
+        "id": 52574982,
+        "name": "1.2 Practice MCQ Technical Questions E book With V",
+        "type": 1,
+        "stats": {
+          "videos": 0,
+          "files": 3,
+          "tests": 0
+        },
+        "children": [
+          {
+            "id": 85740537,
+            "name": "Pseudo Codes Technical ebook",
+            "type": 3,
+            "stats": {}
+          },
+          {
+            "id": 85740538,
+            "name": "CLOUD_COMPUTING_CAMPUS_MONK_.pdf",
+            "type": 3,
+            "stats": {}
+          },
+          {
+            "id": 85740536,
+            "name": "COMPUTER_NETWORK_CM.pdf",
+            "type": 3,
+            "stats": {}
+          }
+        ]
+      },
+      {
+        "id": 85740517,
+        "name": "Capgemini Latest Questions asked in the exam.pdf",
+        "type": 3,
+        "stats": {}
+      },
+      {
+        "id": 29493455,
+        "name": "CapG Mock Test 1",
+        "type": 4,
+        "stats": {
+          "tests": 0
+        }
+      },
+      {
+        "id": 29493447,
+        "name": "CapG Mock Test 2",
+        "type": 4,
+        "stats": {
+          "tests": 0
+        }
+      },
+      {
+        "id": 29493448,
+        "name": "CapG Mock Test 4",
+        "type": 4,
+        "stats": {
+          "tests": 0
+        }
+      },
+      {
+        "id": 29493449,
+        "name": "CapG Mock Test 3",
+        "type": 4,
+        "stats": {
+          "tests": 0
+        }
+      },
+      {
+        "id": 29493450,
+        "name": "CapG Mock Test 5",
+        "type": 4,
+        "stats": {
+          "tests": 0
+        }
+      },
+      {
+        "id": 29493451,
+        "name": "CapG Mock Test 6",
+        "type": 4,
+        "stats": {
+          "tests": 0
+        }
+      },
+      {
+        "id": 29493452,
+        "name": "CapG Mock Test 9",
+        "type": 4,
+        "stats": {
+          "tests": 0
+        }
+      },
+      {
+        "id": 29493453,
+        "name": "CapG Mock Test 7",
+        "type": 4,
+        "stats": {
+          "tests": 0
+        }
+      },
+      {
+        "id": 29493454,
+        "name": "CapG Mock Test 8",
+        "type": 4,
+        "stats": {
+          "tests": 0
+        }
+      },
+      {
+        "id": 29493456,
+        "name": "CapG Mock Test 10",
+        "type": 4,
+        "stats": {
+          "tests": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": 52574961,
+    "name": "2. Mock  TEST",
+    "type": 1,
+    "stats": {
+      "videos": 0,
+      "files": 0,
+      "tests": 7
+    },
+    "children": [
+      {
+        "id": 52574963,
+        "name": "Technical Mock Test",
+        "type": 1,
+        "stats": {
+          "videos": 0,
+          "files": 0,
+          "tests": 7
+        },
+        "children": [
+          {
+            "id": 29493443,
+            "name": "Technical MCQ",
+            "type": 4,
+            "stats": {
+              "tests": 0
+            }
+          },
+          {
+            "id": 29493441,
+            "name": "Technical MCQ  01  (with Video Solutions)",
+            "type": 4,
+            "stats": {
+              "tests": 0
+            }
+          },
+          {
+            "id": 29493446,
+            "name": "Technical MCQ 02 (with Video Solutions)",
+            "type": 4,
+            "stats": {
+              "tests": 0
+            }
+          },
+          {
+            "id": 29493445,
+            "name": "Technical MCQ 03 (with Video Solutions)",
+            "type": 4,
+            "stats": {
+              "tests": 0
+            }
+          },
+          {
+            "id": 29493444,
+            "name": "Technical MCQ 04 (with Video Solutions)",
+            "type": 4,
+            "stats": {
+              "tests": 0
+            }
+          },
+          {
+            "id": 29493440,
+            "name": "Technical MCQ 05 (with Video Solutions)",
+            "type": 4,
+            "stats": {
+              "tests": 0
+            }
+          },
+          {
+            "id": 29493442,
+            "name": "Data Structures MCQ (with video Solutions)",
+            "type": 4,
+            "stats": {
+              "tests": 0
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 52574976,
+    "name": "3. Essay Writing",
+    "type": 1,
+    "stats": {
+      "videos": 4,
+      "files": 1,
+      "tests": 0
+    },
+    "children": [
+      {
+        "id": 85740533,
+        "name": "Capg Essay Writing Topics PYQ and Tips",
+        "type": 3,
+        "stats": {}
+      },
+      {
+        "id": 162633721,
+        "name": "Part 1: Essay Question Prep",
+        "type": 2,
+        "stats": {}
+      },
+      {
+        "id": 162633723,
+        "name": "Part 2: Essay Question Prep",
+        "type": 2,
+        "stats": {}
+      },
+      {
+        "id": 162633720,
+        "name": "Part 3: Essay Question Prep",
+        "type": 2,
+        "stats": {}
+      },
+      {
+        "id": 162633722,
+        "name": "Part 4: Essay Question Prep",
+        "type": 2,
+        "stats": {}
+      }
+    ]
+  },
+  {
+    "id": 52574966,
+    "name": "4. Gamified Assessment - New Videos - Zero to Hero",
+    "type": 1,
+    "stats": {
+      "videos": 10,
+      "files": 0,
+      "tests": 0
+    },
+    "children": [
+      {
+        "id": 162633687,
+        "name": "1 : Introduction",
+        "type": 2,
+        "stats": {}
+      },
+      {
+        "id": 162633688,
+        "name": "1.1. Motion Challenge - Concept",
+        "type": 2,
+        "stats": {}
+      },
+      {
+        "id": 162633685,
+        "name": "1.2 : Motion Challenge - On Screen Played",
+        "type": 2,
+        "stats": {}
+      },
+      {
+        "id": 162633679,
+        "name": "2: Gap Challenge - Concept Video",
+        "type": 2,
+        "stats": {}
+      },
+      {
+        "id": 162633684,
+        "name": "2.1 : Gap Challenge On Screen",
+        "type": 2,
+        "stats": {}
+      },
+      {
+        "id": 162633686,
+        "name": "3 : Grid Challenge - Concept",
+        "type": 2,
+        "stats": {}
+      },
+      {
+        "id": 162633680,
+        "name": "3.1 : Grid Challenge - 2nd Type",
+        "type": 2,
+        "stats": {}
+      },
+      {
+        "id": 162633682,
+        "name": "3.2 Grid Challenge 3rd Type",
+        "type": 2,
+        "stats": {}
+      },
+      {
+        "id": 162633681,
+        "name": "4. Digit Challenge -Concept",
+        "type": 2,
+        "stats": {}
+      },
+      {
+        "id": 162633683,
+        "name": "4.1 : Digit Challenge On Screen",
+        "type": 2,
+        "stats": {}
+      }
+    ]
+  },
+  {
+    "id": 52574987,
+    "name": "5: Pseudo Code Series",
+    "type": 1,
+    "stats": {
+      "videos": 3,
+      "files": 1,
+      "tests": 0
+    },
+    "children": [
+      {
+        "id": 52574992,
+        "name": "1: Pseudo Code",
+        "type": 1,
+        "stats": {
+          "videos": 3,
+          "files": 0,
+          "tests": 0
+        },
+        "children": [
+          {
+            "id": 162633830,
+            "name": "Pseudo Code PYQ",
+            "type": 2,
+            "stats": {}
+          },
+          {
+            "id": 162633829,
+            "name": "2: PSEUDO CODES",
+            "type": 2,
+            "stats": {}
+          },
+          {
+            "id": 162633831,
+            "name": "3: Pseudo Code for Upcoming Exam",
+            "type": 2,
+            "stats": {}
+          }
+        ]
+      },
+      {
+        "id": 85740541,
+        "name": "Pseudocode prep.pdf",
+        "type": 3,
+        "stats": {}
+      }
+    ]
+  },
+  {
+    "id": 52574962,
+    "name": "6. Coding Assessment",
+    "type": 1,
+    "stats": {
+      "videos": 195,
+      "files": 25,
+      "tests": 0
+    },
+    "children": [
+      {
+        "id": 52574965,
+        "name": "2.2 DSA With C/C++",
+        "type": 1,
+        "stats": {
+          "videos": 82,
+          "files": 11,
+          "tests": 0
+        },
+        "children": [
+          {
+            "id": 52574973,
+            "name": "1.2 Leetcode E-Book with Video Solution",
+            "type": 1,
+            "stats": {
+              "videos": 0,
+              "files": 2,
+              "tests": 0
+            },
+            "children": [
+              {
+                "id": 85740530,
+                "name": "PYQ DSA TCS/ Other.pdf",
+                "type": 3,
+                "stats": {}
+              },
+              {
+                "id": 85740531,
+                "name": "Top Leetcode Question with Video Solution.pdf",
+                "type": 3,
+                "stats": {}
+              }
+            ]
+          },
+          {
+            "id": 52574978,
+            "name": "1.3 DSA by Akshat Sir",
+            "type": 1,
+            "stats": {
+              "videos": 40,
+              "files": 1,
+              "tests": 0
+            },
+            "children": [
+              {
+                "id": 52574983,
+                "name": "DSA by Akshat Sir",
+                "type": 1,
+                "stats": {
+                  "videos": 26,
+                  "files": 0,
+                  "tests": 0
+                },
+                "children": [
+                  {
+                    "id": 162633742,
+                    "name": "Day 1 - DSA (Introduction)",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162633747,
+                    "name": "Day 2 - Time Complexity and Space Complexity",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162633761,
+                    "name": "Day 3 - Array (Mathematics Approach)",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162633752,
+                    "name": "Day 4 - Maps and Two Pointer",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162633743,
+                    "name": "Day 5 - Union and Intersection of Array",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162633757,
+                    "name": "Day 6 - Kadane's Algo and Dutch National Flag Algo",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162633741,
+                    "name": "Day 7 - Arrays Advance",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162633744,
+                    "name": "Day 8 - Maps (Hashmaps)",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162633759,
+                    "name": "Day 9 - Recursion (1)",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162633749,
+                    "name": "Day 10 - Recursion (2)",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162633765,
+                    "name": "Day 11 - Recursion (3)",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162633745,
+                    "name": "Day 12 - Recursion (Revision)",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162633751,
+                    "name": "Day 13 - Backtracking",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162633754,
+                    "name": "Day 14 - Strings + Bit Manipulation (Easy)",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162633753,
+                    "name": "Day 15 - String (2)",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162633756,
+                    "name": "Day 16 - String (Maps)",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162633746,
+                    "name": "Day 17 - Introduction : Sliding Window ",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162633760,
+                    "name": "Day 18 - Contest Discussion",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162633748,
+                    "name": "Day 19 - Introduction : Stack and Queue",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162633764,
+                    "name": "Day 20 -  Trees Foundation",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162633763,
+                    "name": "Day 21 - Trees (Part 2)",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162633758,
+                    "name": "Day 22 - Trees (Questions)",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162633750,
+                    "name": "DSA (Live - 21)",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162633762,
+                    "name": "DSA (Live - 22)",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162633766,
+                    "name": "DSA (Live - 23)",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162633755,
+                    "name": "DSA (Live - 24)",
+                    "type": 2,
+                    "stats": {}
+                  }
+                ]
+              },
+              {
+                "id": 52574988,
+                "name": "CM DSA Black Book Top 100 Question With Video Solu",
+                "type": 1,
+                "stats": {
+                  "videos": 14,
+                  "files": 1,
+                  "tests": 0
+                },
+                "children": [
+                  {
+                    "id": 85740542,
+                    "name": "100_DSA_Sheet",
+                    "type": 3,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162633816,
+                    "name": "1.1 Arrays & Strings - Remove element",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162633822,
+                    "name": "1.2 Arrays & Strings - Needle & Haystack",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162633821,
+                    "name": "1.3 Arrays & Strings - Longest Common Prefix",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162633820,
+                    "name": "1.4 Arrays & Strings - Length of Last word",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162633815,
+                    "name": "1.5 Arrays & Strings - Roman to Integer",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162633813,
+                    "name": "1.6 Arrays & Strings - Merge Sorted Arrays",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162633825,
+                    "name": "1.7 Arrays & Strings - Buy & Sell Stocks",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162633814,
+                    "name": "1.9 Arrays & Strings - Rotate Array",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162633812,
+                    "name": "1.13 Arrays & Strings - Trapping Rain Water",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162633817,
+                    "name": "2.1 Arrays & Strings - Defanging IP Address",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162633818,
+                    "name": "2.2 Arrays & Strings - Max Words",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162633824,
+                    "name": "2.3 Arrays & Strings - Number of Senior Citizen",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162633819,
+                    "name": "2.4 Arrays & Strings - Collect Garbage",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162633823,
+                    "name": "2.5 Arrays & Strings - Find & Replace Pattern",
+                    "type": 2,
+                    "stats": {}
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": 52574969,
+            "name": "1.1 Basic to Advance - Anshul Sir ( Google)",
+            "type": 1,
+            "stats": {
+              "videos": 42,
+              "files": 8,
+              "tests": 0
+            },
+            "children": [
+              {
+                "id": 52574974,
+                "name": "1.1 Basic to Advance (Programming)",
+                "type": 1,
+                "stats": {
+                  "videos": 28,
+                  "files": 0,
+                  "tests": 0
+                },
+                "children": [
+                  {
+                    "id": 162633699,
+                    "name": "Lecture 1 : Basics of Programming",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162633702,
+                    "name": "Lecture 2 : Introduction to Arrays",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162633695,
+                    "name": "Lecture 3 : Questions on array (Part 1)",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162633717,
+                    "name": "Lecture  4:  Questions on Array (Part 2)",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162633697,
+                    "name": "Lecture 5 :  Question on Arrays (Part-3)",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162633696,
+                    "name": "Lecture 6 : Introduction to String",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162633692,
+                    "name": "Lecture 7 : Question on strings (Part 1)",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162633694,
+                    "name": "Lecture  8 : Question on strings(Part 2)",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162633716,
+                    "name": "Lecture 9 : Strings, Intro to Matrix(2-D Array)",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162633714,
+                    "name": "Lecture 10 : Question on Matrix (Part-1)",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162633701,
+                    "name": "Lecture 11 : Question on Matrix (Part 2)",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162633693,
+                    "name": "Lecture 12 : Time and Space Complexity",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162633704,
+                    "name": "Lecture 13 :  Binary Search",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162633700,
+                    "name": "Lecture 14 : Recursion",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162633709,
+                    "name": "Lecture 15 : Recursion (PART 2)",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162633698,
+                    "name": "Lecture 16  : (Intro to STL)",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162633706,
+                    "name": "Lecture  17 : (Implementation of STL - Vector, Set)",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162633710,
+                    "name": "Lecture  18 : (Implementation of STL - maps)",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162633712,
+                    "name": "Lecture - 19 (Questions1)",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162633703,
+                    "name": "Lecture - 20 (Questions2)",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162633718,
+                    "name": "Lecture - 21(Bubble,Selection and Insertion Sort)",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162633705,
+                    "name": "Lecture - 22  (Kadane's Algo)",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162633711,
+                    "name": "Lecture - 23 (Generate all subsequences)",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162633715,
+                    "name": "Lecture - 24 (Merge Sort)",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162633719,
+                    "name": "Lecture - 25 (Minimum Number of Jumps)",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162633713,
+                    "name": "Lecture - 26 (Pointers)",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162633708,
+                    "name": "Lecture - 27 (Knapsack and Fractional)",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162633707,
+                    "name": "Lecture - 28 (Valid Parenthesis)",
+                    "type": 2,
+                    "stats": {}
+                  }
+                ]
+              },
+              {
+                "id": 52574979,
+                "name": "1.2  Logic Building by Anshul Sir",
+                "type": 1,
+                "stats": {
+                  "videos": 14,
+                  "files": 8,
+                  "tests": 0
+                },
+                "children": [
+                  {
+                    "id": 52574984,
+                    "name": "Logic Building by Anshul Sir",
+                    "type": 1,
+                    "stats": {
+                      "videos": 14,
+                      "files": 8,
+                      "tests": 0
+                    },
+                    "children": [
+                      {
+                        "id": 52574989,
+                        "name": "Practice Questions",
+                        "type": 1,
+                        "stats": {
+                          "videos": 0,
+                          "files": 8,
+                          "tests": 0
+                        },
+                        "children": [
+                          {
+                            "id": 85740545,
+                            "name": "Practice Question - 1",
+                            "type": 3,
+                            "stats": {}
+                          },
+                          {
+                            "id": 85740550,
+                            "name": "Practice Question - 2",
+                            "type": 3,
+                            "stats": {}
+                          },
+                          {
+                            "id": 85740546,
+                            "name": "Practice Question - 3",
+                            "type": 3,
+                            "stats": {}
+                          },
+                          {
+                            "id": 85740548,
+                            "name": "Practice Question - 4",
+                            "type": 3,
+                            "stats": {}
+                          },
+                          {
+                            "id": 85740547,
+                            "name": "Practice Question - 5",
+                            "type": 3,
+                            "stats": {}
+                          },
+                          {
+                            "id": 85740549,
+                            "name": "Practice Question - 6",
+                            "type": 3,
+                            "stats": {}
+                          },
+                          {
+                            "id": 85740544,
+                            "name": "Practice Question - 7",
+                            "type": 3,
+                            "stats": {}
+                          },
+                          {
+                            "id": 85740543,
+                            "name": "Practice Question - 8",
+                            "type": 3,
+                            "stats": {}
+                          }
+                        ]
+                      },
+                      {
+                        "id": 162633769,
+                        "name": "Logic Building - 1",
+                        "type": 2,
+                        "stats": {}
+                      },
+                      {
+                        "id": 162633772,
+                        "name": "Logic Building - 2",
+                        "type": 2,
+                        "stats": {}
+                      },
+                      {
+                        "id": 162633777,
+                        "name": "Logic Building - 3",
+                        "type": 2,
+                        "stats": {}
+                      },
+                      {
+                        "id": 162633778,
+                        "name": "Logic Building - 4",
+                        "type": 2,
+                        "stats": {}
+                      },
+                      {
+                        "id": 162633780,
+                        "name": "Live - 5",
+                        "type": 2,
+                        "stats": {}
+                      },
+                      {
+                        "id": 162633767,
+                        "name": "Live - 6",
+                        "type": 2,
+                        "stats": {}
+                      },
+                      {
+                        "id": 162633770,
+                        "name": "Live - 7",
+                        "type": 2,
+                        "stats": {}
+                      },
+                      {
+                        "id": 162633771,
+                        "name": "Live - 8",
+                        "type": 2,
+                        "stats": {}
+                      },
+                      {
+                        "id": 162633774,
+                        "name": "Live - 9",
+                        "type": 2,
+                        "stats": {}
+                      },
+                      {
+                        "id": 162633768,
+                        "name": "Live - 10",
+                        "type": 2,
+                        "stats": {}
+                      },
+                      {
+                        "id": 162633779,
+                        "name": "Live 11",
+                        "type": 2,
+                        "stats": {}
+                      },
+                      {
+                        "id": 162633775,
+                        "name": "Live 12",
+                        "type": 2,
+                        "stats": {}
+                      },
+                      {
+                        "id": 162633773,
+                        "name": "Live - 13",
+                        "type": 2,
+                        "stats": {}
+                      },
+                      {
+                        "id": 162633776,
+                        "name": "Live 14",
+                        "type": 2,
+                        "stats": {}
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 52574967,
+        "name": "2.3 DSA With Java",
+        "type": 1,
+        "stats": {
+          "videos": 113,
+          "files": 14,
+          "tests": 0
+        },
+        "children": [
+          {
+            "id": 52574970,
+            "name": "1.1 100 DSA Leetcode Question Sheet With Java Solu",
+            "type": 1,
+            "stats": {
+              "videos": 0,
+              "files": 1,
+              "tests": 0
+            },
+            "children": [
+              {
+                "id": 85740516,
+                "name": "DSA Ka Baap - Java Video Solution",
+                "type": 3,
+                "stats": {}
+              }
+            ]
+          },
+          {
+            "id": 52574975,
+            "name": "1.2 Leetcode E-Book with Video Solution",
+            "type": 1,
+            "stats": {
+              "videos": 0,
+              "files": 1,
+              "tests": 0
+            },
+            "children": [
+              {
+                "id": 85740532,
+                "name": "Top Leetcode Question with Video Solution.pdf",
+                "type": 3,
+                "stats": {}
+              }
+            ]
+          },
+          {
+            "id": 52574980,
+            "name": "2.1 DSA in Java (Itika Ma'am)",
+            "type": 1,
+            "stats": {
+              "videos": 31,
+              "files": 1,
+              "tests": 0
+            },
+            "children": [
+              {
+                "id": 52574986,
+                "name": "Java From Basic - Pro",
+                "type": 1,
+                "stats": {
+                  "videos": 31,
+                  "files": 1,
+                  "tests": 0
+                },
+                "children": [
+                  {
+                    "id": 85740540,
+                    "name": "DSA_BLACKBOOK_NEW-.pdf",
+                    "type": 3,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162633794,
+                    "name": "Java Intro",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162633784,
+                    "name": "Class 1 :  Java Basic Introduction",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162633786,
+                    "name": "Class 2 :  Taking Input & Output in Java",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162633789,
+                    "name": "Class 3 :  Basic Maths Important Questions 1",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162633788,
+                    "name": "Class 4 :  Maths Important Questions 2",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162633781,
+                    "name": "Class 5 : Java Arrays Introduction",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162633787,
+                    "name": "Class 6 : Input an Array in Java",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162633785,
+                    "name": "Class 7 : Searching in Array",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162633783,
+                    "name": "Class 8 : Reverse & Rotate Array in Java",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162633782,
+                    "name": "Class 9 : Dynamic Arrays in Java",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162633790,
+                    "name": "Class 10 : Java Array PYQ",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162633791,
+                    "name": "Class 11 : Java Arrays PYQ",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162633792,
+                    "name": "Class 12: Java union of two sorted arrays",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162633793,
+                    "name": "Class 14: Dutch National Flag Algorithm",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162633795,
+                    "name": "Class 15: Single among double in sorted array",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162633796,
+                    "name": "Class 13: Kadane's Algorithm",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162633797,
+                    "name": "Class 16: Map in Java",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162633798,
+                    "name": "Class 17: Find frequency of each element",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162633799,
+                    "name": "Class 18: Find Length of longest subarray with sum k",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162633800,
+                    "name": "Class 19: Find Longest sub-array with sum k ( all positives )",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162633801,
+                    "name": "Class 20: Two sum problem (brute force , better and optimal solution )",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162633804,
+                    "name": "Class 21: Sliding Window Technique",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162633802,
+                    "name": "Class 22: Rearrange array elements by  sign",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162633803,
+                    "name": "Class 23: Maximum Consecutive One",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162633807,
+                    "name": "Class 24: Moore's Voting Algorithm",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162633806,
+                    "name": "Class 25: Assign cookies",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162633805,
+                    "name": "Class 26: Lemonade Change",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162633808,
+                    "name": "Class 27: Jump Game 1",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162633809,
+                    "name": "Class 28: Search in rotated sorted array-1",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162633811,
+                    "name": "Class 29: Find Minimum in rotated sorted array",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162633810,
+                    "name": "Class 30: How many times array is rotated",
+                    "type": 2,
+                    "stats": {}
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": 52574985,
+            "name": "2.2 DSA With C/C++",
+            "type": 1,
+            "stats": {
+              "videos": 82,
+              "files": 11,
+              "tests": 0
+            },
+            "children": [
+              {
+                "id": 52574993,
+                "name": "1.2 Leetcode E-Book with Video Solution",
+                "type": 1,
+                "stats": {
+                  "videos": 0,
+                  "files": 2,
+                  "tests": 0
+                },
+                "children": [
+                  {
+                    "id": 85740552,
+                    "name": "PYQ DSA TCS/ Other.pdf",
+                    "type": 3,
+                    "stats": {}
+                  },
+                  {
+                    "id": 85740553,
+                    "name": "Top Leetcode Question with Video Solution.pdf",
+                    "type": 3,
+                    "stats": {}
+                  }
+                ]
+              },
+              {
+                "id": 52574995,
+                "name": "1.3 DSA by Akshat Sir",
+                "type": 1,
+                "stats": {
+                  "videos": 40,
+                  "files": 1,
+                  "tests": 0
+                },
+                "children": [
+                  {
+                    "id": 52574997,
+                    "name": "DSA by Akshat Sir",
+                    "type": 1,
+                    "stats": {
+                      "videos": 26,
+                      "files": 0,
+                      "tests": 0
+                    },
+                    "children": [
+                      {
+                        "id": 162633860,
+                        "name": "Day 1 - DSA (Introduction)",
+                        "type": 2,
+                        "stats": {}
+                      },
+                      {
+                        "id": 162633868,
+                        "name": "Day 2 - Time Complexity and Space Complexity",
+                        "type": 2,
+                        "stats": {}
+                      },
+                      {
+                        "id": 162633885,
+                        "name": "Day 3 - Array (Mathematics Approach)",
+                        "type": 2,
+                        "stats": {}
+                      },
+                      {
+                        "id": 162633870,
+                        "name": "Day 4 - Maps and Two Pointer",
+                        "type": 2,
+                        "stats": {}
+                      },
+                      {
+                        "id": 162633862,
+                        "name": "Day 5 - Union and Intersection of Array",
+                        "type": 2,
+                        "stats": {}
+                      },
+                      {
+                        "id": 162633878,
+                        "name": "Day 6 - Kadane's Algo and Dutch National Flag Algo",
+                        "type": 2,
+                        "stats": {}
+                      },
+                      {
+                        "id": 162633863,
+                        "name": "Day 7 - Arrays Advance",
+                        "type": 2,
+                        "stats": {}
+                      },
+                      {
+                        "id": 162633861,
+                        "name": "Day 8 - Maps (Hashmaps)",
+                        "type": 2,
+                        "stats": {}
+                      },
+                      {
+                        "id": 162633884,
+                        "name": "Day 9 - Recursion (1)",
+                        "type": 2,
+                        "stats": {}
+                      },
+                      {
+                        "id": 162633867,
+                        "name": "Day 10 - Recursion (2)",
+                        "type": 2,
+                        "stats": {}
+                      },
+                      {
+                        "id": 162633874,
+                        "name": "Day 11 - Recursion (3)",
+                        "type": 2,
+                        "stats": {}
+                      },
+                      {
+                        "id": 162633866,
+                        "name": "Day 12 - Recursion (Revision)",
+                        "type": 2,
+                        "stats": {}
+                      },
+                      {
+                        "id": 162633864,
+                        "name": "Day 13 - Backtracking",
+                        "type": 2,
+                        "stats": {}
+                      },
+                      {
+                        "id": 162633875,
+                        "name": "Day 14 - Strings + Bit Manipulation (Easy)",
+                        "type": 2,
+                        "stats": {}
+                      },
+                      {
+                        "id": 162633872,
+                        "name": "Day 15 - String (2)",
+                        "type": 2,
+                        "stats": {}
+                      },
+                      {
+                        "id": 162633877,
+                        "name": "Day 16 - String (Maps)",
+                        "type": 2,
+                        "stats": {}
+                      },
+                      {
+                        "id": 162633865,
+                        "name": "Day 17 - Introduction : Sliding Window ",
+                        "type": 2,
+                        "stats": {}
+                      },
+                      {
+                        "id": 162633880,
+                        "name": "Day 18 - Contest Discussion",
+                        "type": 2,
+                        "stats": {}
+                      },
+                      {
+                        "id": 162633869,
+                        "name": "Day 19 - Introduction : Stack and Queue",
+                        "type": 2,
+                        "stats": {}
+                      },
+                      {
+                        "id": 162633876,
+                        "name": "Day 20 -  Trees Foundation",
+                        "type": 2,
+                        "stats": {}
+                      },
+                      {
+                        "id": 162633882,
+                        "name": "Day 21 - Trees (Part 2)",
+                        "type": 2,
+                        "stats": {}
+                      },
+                      {
+                        "id": 162633881,
+                        "name": "Day 22 - Trees (Questions)",
+                        "type": 2,
+                        "stats": {}
+                      },
+                      {
+                        "id": 162633873,
+                        "name": "DSA (Live - 21)",
+                        "type": 2,
+                        "stats": {}
+                      },
+                      {
+                        "id": 162633883,
+                        "name": "DSA (Live - 22)",
+                        "type": 2,
+                        "stats": {}
+                      },
+                      {
+                        "id": 162633879,
+                        "name": "DSA (Live - 23)",
+                        "type": 2,
+                        "stats": {}
+                      },
+                      {
+                        "id": 162633871,
+                        "name": "DSA (Live - 24)",
+                        "type": 2,
+                        "stats": {}
+                      }
+                    ]
+                  },
+                  {
+                    "id": 52574999,
+                    "name": "CM DSA Black Book Top 100 Question With Video Solu",
+                    "type": 1,
+                    "stats": {
+                      "videos": 14,
+                      "files": 1,
+                      "tests": 0
+                    },
+                    "children": [
+                      {
+                        "id": 85740555,
+                        "name": "100_DSA_Sheet",
+                        "type": 3,
+                        "stats": {}
+                      },
+                      {
+                        "id": 162633906,
+                        "name": "1.1 Arrays & Strings - Remove element",
+                        "type": 2,
+                        "stats": {}
+                      },
+                      {
+                        "id": 162633910,
+                        "name": "1.2 Arrays & Strings - Needle & Haystack",
+                        "type": 2,
+                        "stats": {}
+                      },
+                      {
+                        "id": 162633905,
+                        "name": "1.3 Arrays & Strings - Longest Common Prefix",
+                        "type": 2,
+                        "stats": {}
+                      },
+                      {
+                        "id": 162633908,
+                        "name": "1.4 Arrays & Strings - Length of Last word",
+                        "type": 2,
+                        "stats": {}
+                      },
+                      {
+                        "id": 162633903,
+                        "name": "1.5 Arrays & Strings - Roman to Integer",
+                        "type": 2,
+                        "stats": {}
+                      },
+                      {
+                        "id": 162633900,
+                        "name": "1.6 Arrays & Strings - Merge Sorted Arrays",
+                        "type": 2,
+                        "stats": {}
+                      },
+                      {
+                        "id": 162633913,
+                        "name": "1.7 Arrays & Strings - Buy & Sell Stocks",
+                        "type": 2,
+                        "stats": {}
+                      },
+                      {
+                        "id": 162633901,
+                        "name": "1.9 Arrays & Strings - Rotate Array",
+                        "type": 2,
+                        "stats": {}
+                      },
+                      {
+                        "id": 162633902,
+                        "name": "1.13 Arrays & Strings - Trapping Rain Water",
+                        "type": 2,
+                        "stats": {}
+                      },
+                      {
+                        "id": 162633907,
+                        "name": "2.1 Arrays & Strings - Defanging IP Address",
+                        "type": 2,
+                        "stats": {}
+                      },
+                      {
+                        "id": 162633904,
+                        "name": "2.2 Arrays & Strings - Max Words",
+                        "type": 2,
+                        "stats": {}
+                      },
+                      {
+                        "id": 162633911,
+                        "name": "2.3 Arrays & Strings - Number of Senior Citizen",
+                        "type": 2,
+                        "stats": {}
+                      },
+                      {
+                        "id": 162633909,
+                        "name": "2.4 Arrays & Strings - Collect Garbage",
+                        "type": 2,
+                        "stats": {}
+                      },
+                      {
+                        "id": 162633912,
+                        "name": "2.5 Arrays & Strings - Find & Replace Pattern",
+                        "type": 2,
+                        "stats": {}
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": 52574990,
+                "name": "1.1 Basic to Advance - Anshul Sir ( Google)",
+                "type": 1,
+                "stats": {
+                  "videos": 42,
+                  "files": 8,
+                  "tests": 0
+                },
+                "children": [
+                  {
+                    "id": 52574994,
+                    "name": "1.1 Basic to Advance (Programming)",
+                    "type": 1,
+                    "stats": {
+                      "videos": 28,
+                      "files": 0,
+                      "tests": 0
+                    },
+                    "children": [
+                      {
+                        "id": 162633836,
+                        "name": "Lecture 1 : Basics of Programming",
+                        "type": 2,
+                        "stats": {}
+                      },
+                      {
+                        "id": 162633843,
+                        "name": "Lecture 2 : Introduction to Arrays",
+                        "type": 2,
+                        "stats": {}
+                      },
+                      {
+                        "id": 162633838,
+                        "name": "Lecture 3 : Questions on array (Part 1)",
+                        "type": 2,
+                        "stats": {}
+                      },
+                      {
+                        "id": 162633855,
+                        "name": "Lecture  4:  Questions on Array (Part 2)",
+                        "type": 2,
+                        "stats": {}
+                      },
+                      {
+                        "id": 162633837,
+                        "name": "Lecture 5 :  Question on Arrays (Part-3)",
+                        "type": 2,
+                        "stats": {}
+                      },
+                      {
+                        "id": 162633835,
+                        "name": "Lecture 6 : Introduction to String",
+                        "type": 2,
+                        "stats": {}
+                      },
+                      {
+                        "id": 162633832,
+                        "name": "Lecture 7 : Question on strings (Part 1)",
+                        "type": 2,
+                        "stats": {}
+                      },
+                      {
+                        "id": 162633833,
+                        "name": "Lecture  8 : Question on strings(Part 2)",
+                        "type": 2,
+                        "stats": {}
+                      },
+                      {
+                        "id": 162633856,
+                        "name": "Lecture 9 : Strings, Intro to Matrix(2-D Array)",
+                        "type": 2,
+                        "stats": {}
+                      },
+                      {
+                        "id": 162633853,
+                        "name": "Lecture 10 : Question on Matrix (Part-1)",
+                        "type": 2,
+                        "stats": {}
+                      },
+                      {
+                        "id": 162633846,
+                        "name": "Lecture 11 : Question on Matrix (Part 2)",
+                        "type": 2,
+                        "stats": {}
+                      },
+                      {
+                        "id": 162633834,
+                        "name": "Lecture 12 : Time and Space Complexity",
+                        "type": 2,
+                        "stats": {}
+                      },
+                      {
+                        "id": 162633842,
+                        "name": "Lecture 13 :  Binary Search",
+                        "type": 2,
+                        "stats": {}
+                      },
+                      {
+                        "id": 162633840,
+                        "name": "Lecture 14 : Recursion",
+                        "type": 2,
+                        "stats": {}
+                      },
+                      {
+                        "id": 162633852,
+                        "name": "Lecture 15 : Recursion (PART 2)",
+                        "type": 2,
+                        "stats": {}
+                      },
+                      {
+                        "id": 162633839,
+                        "name": "Lecture 16  : (Intro to STL)",
+                        "type": 2,
+                        "stats": {}
+                      },
+                      {
+                        "id": 162633847,
+                        "name": "Lecture  17 : (Implementation of STL - Vector, Set)",
+                        "type": 2,
+                        "stats": {}
+                      },
+                      {
+                        "id": 162633844,
+                        "name": "Lecture  18 : (Implementation of STL - maps)",
+                        "type": 2,
+                        "stats": {}
+                      },
+                      {
+                        "id": 162633857,
+                        "name": "Lecture - 19 (Questions1)",
+                        "type": 2,
+                        "stats": {}
+                      },
+                      {
+                        "id": 162633841,
+                        "name": "Lecture - 20 (Questions2)",
+                        "type": 2,
+                        "stats": {}
+                      },
+                      {
+                        "id": 162633858,
+                        "name": "Lecture - 21(Bubble,Selection and Insertion Sort)",
+                        "type": 2,
+                        "stats": {}
+                      },
+                      {
+                        "id": 162633848,
+                        "name": "Lecture - 22  (Kadane's Algo)",
+                        "type": 2,
+                        "stats": {}
+                      },
+                      {
+                        "id": 162633851,
+                        "name": "Lecture - 23 (Generate all subsequences)",
+                        "type": 2,
+                        "stats": {}
+                      },
+                      {
+                        "id": 162633849,
+                        "name": "Lecture - 24 (Merge Sort)",
+                        "type": 2,
+                        "stats": {}
+                      },
+                      {
+                        "id": 162633859,
+                        "name": "Lecture - 25 (Minimum Number of Jumps)",
+                        "type": 2,
+                        "stats": {}
+                      },
+                      {
+                        "id": 162633850,
+                        "name": "Lecture - 26 (Pointers)",
+                        "type": 2,
+                        "stats": {}
+                      },
+                      {
+                        "id": 162633854,
+                        "name": "Lecture - 27 (Knapsack and Fractional)",
+                        "type": 2,
+                        "stats": {}
+                      },
+                      {
+                        "id": 162633845,
+                        "name": "Lecture - 28 (Valid Parenthesis)",
+                        "type": 2,
+                        "stats": {}
+                      }
+                    ]
+                  },
+                  {
+                    "id": 52574996,
+                    "name": "1.2  Logic Building by Anshul Sir",
+                    "type": 1,
+                    "stats": {
+                      "videos": 14,
+                      "files": 8,
+                      "tests": 0
+                    },
+                    "children": [
+                      {
+                        "id": 52574998,
+                        "name": "Logic Building by Anshul Sir",
+                        "type": 1,
+                        "stats": {
+                          "videos": 14,
+                          "files": 8,
+                          "tests": 0
+                        },
+                        "children": [
+                          {
+                            "id": 52575000,
+                            "name": "Practice Questions",
+                            "type": 1,
+                            "stats": {
+                              "videos": 0,
+                              "files": 8,
+                              "tests": 0
+                            },
+                            "children": [
+                              {
+                                "id": 85740560,
+                                "name": "Practice Question - 1",
+                                "type": 3,
+                                "stats": {}
+                              },
+                              {
+                                "id": 85740556,
+                                "name": "Practice Question - 2",
+                                "type": 3,
+                                "stats": {}
+                              },
+                              {
+                                "id": 85740559,
+                                "name": "Practice Question - 3",
+                                "type": 3,
+                                "stats": {}
+                              },
+                              {
+                                "id": 85740563,
+                                "name": "Practice Question - 4",
+                                "type": 3,
+                                "stats": {}
+                              },
+                              {
+                                "id": 85740562,
+                                "name": "Practice Question - 5",
+                                "type": 3,
+                                "stats": {}
+                              },
+                              {
+                                "id": 85740561,
+                                "name": "Practice Question - 6",
+                                "type": 3,
+                                "stats": {}
+                              },
+                              {
+                                "id": 85740557,
+                                "name": "Practice Question - 7",
+                                "type": 3,
+                                "stats": {}
+                              },
+                              {
+                                "id": 85740558,
+                                "name": "Practice Question - 8",
+                                "type": 3,
+                                "stats": {}
+                              }
+                            ]
+                          },
+                          {
+                            "id": 162633889,
+                            "name": "Logic Building - 1",
+                            "type": 2,
+                            "stats": {}
+                          },
+                          {
+                            "id": 162633892,
+                            "name": "Logic Building - 2",
+                            "type": 2,
+                            "stats": {}
+                          },
+                          {
+                            "id": 162633895,
+                            "name": "Logic Building - 3",
+                            "type": 2,
+                            "stats": {}
+                          },
+                          {
+                            "id": 162633899,
+                            "name": "Logic Building - 4",
+                            "type": 2,
+                            "stats": {}
+                          },
+                          {
+                            "id": 162633898,
+                            "name": "Live - 5",
+                            "type": 2,
+                            "stats": {}
+                          },
+                          {
+                            "id": 162633888,
+                            "name": "Live - 6",
+                            "type": 2,
+                            "stats": {}
+                          },
+                          {
+                            "id": 162633886,
+                            "name": "Live - 7",
+                            "type": 2,
+                            "stats": {}
+                          },
+                          {
+                            "id": 162633891,
+                            "name": "Live - 8",
+                            "type": 2,
+                            "stats": {}
+                          },
+                          {
+                            "id": 162633897,
+                            "name": "Live - 9",
+                            "type": 2,
+                            "stats": {}
+                          },
+                          {
+                            "id": 162633887,
+                            "name": "Live - 10",
+                            "type": 2,
+                            "stats": {}
+                          },
+                          {
+                            "id": 162633894,
+                            "name": "Live 11",
+                            "type": 2,
+                            "stats": {}
+                          },
+                          {
+                            "id": 162633890,
+                            "name": "Live 12",
+                            "type": 2,
+                            "stats": {}
+                          },
+                          {
+                            "id": 162633893,
+                            "name": "Live - 13",
+                            "type": 2,
+                            "stats": {}
+                          },
+                          {
+                            "id": 162633896,
+                            "name": "Live 14",
+                            "type": 2,
+                            "stats": {}
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 52574964,
+    "name": "7. Technical Interview",
+    "type": 1,
+    "stats": {
+      "videos": 10,
+      "files": 12,
+      "tests": 0
+    },
+    "children": [
+      {
+        "id": 52574968,
+        "name": "Psychometric ",
+        "type": 1,
+        "stats": {
+          "videos": 3,
+          "files": 0,
+          "tests": 0
+        },
+        "children": [
+          {
+            "id": 162633690,
+            "name": "Lecture 1",
+            "type": 2,
+            "stats": {}
+          },
+          {
+            "id": 162633691,
+            "name": "Lecture 2",
+            "type": 2,
+            "stats": {}
+          },
+          {
+            "id": 162633689,
+            "name": "Lecture 3",
+            "type": 2,
+            "stats": {}
+          }
+        ]
+      },
+      {
+        "id": 52574972,
+        "name": "Interview Questions",
+        "type": 1,
+        "stats": {
+          "videos": 0,
+          "files": 12,
+          "tests": 0
+        },
+        "children": [
+          {
+            "id": 85740519,
+            "name": "Interview HR Questions",
+            "type": 3,
+            "stats": {}
+          },
+          {
+            "id": 85740522,
+            "name": "C Interview Questions",
+            "type": 3,
+            "stats": {}
+          },
+          {
+            "id": 85740524,
+            "name": "C++ Interview Questions",
+            "type": 3,
+            "stats": {}
+          },
+          {
+            "id": 85740523,
+            "name": "Java Interview Questions",
+            "type": 3,
+            "stats": {}
+          },
+          {
+            "id": 85740526,
+            "name": "Python Interview & Coding Questions",
+            "type": 3,
+            "stats": {}
+          },
+          {
+            "id": 85740528,
+            "name": "DBMS Interview Questions",
+            "type": 3,
+            "stats": {}
+          },
+          {
+            "id": 85740520,
+            "name": "OS Interview Questions",
+            "type": 3,
+            "stats": {}
+          },
+          {
+            "id": 85740518,
+            "name": "DSA Interview Questions",
+            "type": 3,
+            "stats": {}
+          },
+          {
+            "id": 85740521,
+            "name": "Coding Interview Questions",
+            "type": 3,
+            "stats": {}
+          },
+          {
+            "id": 85740527,
+            "name": "Must Do Questions [Core Subjects]",
+            "type": 3,
+            "stats": {}
+          },
+          {
+            "id": 85740529,
+            "name": "Interview Project based Questions",
+            "type": 3,
+            "stats": {}
+          },
+          {
+            "id": 85740525,
+            "name": "Interview Internship Certification",
+            "type": 3,
+            "stats": {}
+          }
+        ]
+      },
+      {
+        "id": 162633678,
+        "name": "How does Interview looks like?",
+        "type": 2,
+        "stats": {}
+      },
+      {
+        "id": 162633676,
+        "name": "Resume Building",
+        "type": 2,
+        "stats": {}
+      },
+      {
+        "id": 162633675,
+        "name": "Most Asked Questions in Interview",
+        "type": 2,
+        "stats": {}
+      },
+      {
+        "id": 162633672,
+        "name": "Must avoid these Mistakes during an Interview",
+        "type": 2,
+        "stats": {}
+      },
+      {
+        "id": 162633673,
+        "name": "Project's Based Questions",
+        "type": 2,
+        "stats": {}
+      },
+      {
+        "id": 162633674,
+        "name": "Internship Based Questions",
+        "type": 2,
+        "stats": {}
+      },
+      {
+        "id": 162633677,
+        "name": "Interview Do's or Don't",
+        "type": 2,
+        "stats": {}
+      }
+    ]
+  },
+  {
+    "id": 52574991,
+    "name": "Capgemini: ONE SHOT",
+    "type": 1,
+    "stats": {
+      "videos": 2,
+      "files": 0,
+      "tests": 0
+    },
+    "children": [
+      {
+        "id": 162633827,
+        "name": "2: Capgemini Pseudo Code MCQs",
+        "type": 2,
+        "stats": {}
+      },
+      {
+        "id": 162633826,
+        "name": "3: Capgemini- DSA Based MCQs",
+        "type": 2,
+        "stats": {}
+      }
+    ]
+  },
+  {
+    "id": 52574981,
+    "name": "PYQ: Coding - MOCK TESTS",
+    "type": 1,
+    "stats": {
+      "videos": 0,
+      "files": 2,
+      "tests": 0
+    },
+    "children": [
+      {
+        "id": 85740535,
+        "name": "01 PYQ Mock Test",
+        "type": 3,
+        "stats": {}
+      },
+      {
+        "id": 85740534,
+        "name": "02 PYQ Mock Test",
+        "type": 3,
+        "stats": {}
+      }
+    ]
+  }
+]

@@ -1,0 +1,6750 @@
+[
+  {
+    "id": 52393366,
+    "name": "Introduction Syllabus & Group",
+    "type": 1,
+    "stats": {
+      "videos": 1,
+      "files": 8,
+      "tests": 0
+    },
+    "children": [
+      {
+        "id": 162125980,
+        "name": "Full Details: TCS Course introduction video",
+        "type": 2,
+        "stats": {}
+      },
+      {
+        "id": 85400852,
+        "name": "1. New Whattsapp Group.pdf",
+        "type": 3,
+        "stats": {}
+      },
+      {
+        "id": 88145049,
+        "name": "TCS 2026-2027 Syllabus and 30 days plan .pdf",
+        "type": 3,
+        "stats": {}
+      },
+      {
+        "id": 85400853,
+        "name": "DSA_OneShot_Guide_CampusMonk.pdf",
+        "type": 3,
+        "stats": {}
+      },
+      {
+        "id": 85400847,
+        "name": "Logical Reasoning Sheet .pdf",
+        "type": 3,
+        "stats": {}
+      },
+      {
+        "id": 85400848,
+        "name": "Numerical Ability- Quantitative Sheet .pdf",
+        "type": 3,
+        "stats": {}
+      },
+      {
+        "id": 85400850,
+        "name": "ADVANCE APTITUDE-TCS.pdf",
+        "type": 3,
+        "stats": {}
+      },
+      {
+        "id": 85400846,
+        "name": "Black Book -DSA_SHEET.pdf",
+        "type": 3,
+        "stats": {}
+      },
+      {
+        "id": 85400849,
+        "name": "Verbal Ability.pdf",
+        "type": 3,
+        "stats": {}
+      }
+    ]
+  },
+  {
+    "id": 52393393,
+    "name": "1. Logical Reasoning",
+    "type": 1,
+    "stats": {
+      "videos": 32,
+      "files": 25,
+      "tests": 12
+    },
+    "children": [
+      {
+        "id": 52393400,
+        "name": "1 : Alphabet Related Topics",
+        "type": 1,
+        "stats": {
+          "videos": 4,
+          "files": 6,
+          "tests": 1
+        },
+        "children": [
+          {
+            "id": 52393430,
+            "name": "2. Topic Test",
+            "type": 1,
+            "stats": {
+              "videos": 0,
+              "files": 0,
+              "tests": 1
+            },
+            "children": [
+              {
+                "id": 29434890,
+                "name": "Coding decoding",
+                "type": 4,
+                "stats": {
+                  "tests": 0
+                }
+              }
+            ]
+          },
+          {
+            "id": 52393410,
+            "name": "2. Coding Decoding Concept Videos",
+            "type": 1,
+            "stats": {
+              "videos": 2,
+              "files": 5,
+              "tests": 0
+            },
+            "children": [
+              {
+                "id": 52393432,
+                "name": "4 -DPP Solution- Hand written",
+                "type": 1,
+                "stats": {
+                  "videos": 0,
+                  "files": 4,
+                  "tests": 0
+                },
+                "children": [
+                  {
+                    "id": 85400906,
+                    "name": "HW-1",
+                    "type": 3,
+                    "stats": {}
+                  },
+                  {
+                    "id": 85400909,
+                    "name": "HW-2",
+                    "type": 3,
+                    "stats": {}
+                  },
+                  {
+                    "id": 85400908,
+                    "name": "HW-3",
+                    "type": 3,
+                    "stats": {}
+                  },
+                  {
+                    "id": 85400907,
+                    "name": "HW-4",
+                    "type": 3,
+                    "stats": {}
+                  }
+                ]
+              },
+              {
+                "id": 162126179,
+                "name": "1. Coding Decoding _ By Rachit Rastogi",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 162126180,
+                "name": "2. Coding Decoding  _ Rachit Rastogi",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 85400900,
+                "name": "3.  DPP 01  Coding Decoding",
+                "type": 3,
+                "stats": {}
+              }
+            ]
+          },
+          {
+            "id": 162126130,
+            "name": "1 Logical Reasoning (0-Hero)",
+            "type": 2,
+            "stats": {}
+          },
+          {
+            "id": 162126129,
+            "name": "3 Chinese Coding and New Type Ques",
+            "type": 2,
+            "stats": {}
+          },
+          {
+            "id": 85400886,
+            "name": "Day 01 - Logical Reasoning .pdf",
+            "type": 3,
+            "stats": {}
+          }
+        ]
+      },
+      {
+        "id": 52393409,
+        "name": "2 : Distance and Direction",
+        "type": 1,
+        "stats": {
+          "videos": 1,
+          "files": 1,
+          "tests": 2
+        },
+        "children": [
+          {
+            "id": 52393431,
+            "name": "Topic Test",
+            "type": 1,
+            "stats": {
+              "videos": 0,
+              "files": 0,
+              "tests": 2
+            },
+            "children": [
+              {
+                "id": 29434891,
+                "name": "DISTANCE AND DIRECTION TEST 02",
+                "type": 4,
+                "stats": {
+                  "tests": 0
+                }
+              },
+              {
+                "id": 29434892,
+                "name": "DISTANCE AND DIRECTION TEST",
+                "type": 4,
+                "stats": {
+                  "tests": 0
+                }
+              }
+            ]
+          },
+          {
+            "id": 162126178,
+            "name": "1. Distance & Directions",
+            "type": 2,
+            "stats": {}
+          },
+          {
+            "id": 85400899,
+            "name": "Distance and Direction .pdf",
+            "type": 3,
+            "stats": {}
+          }
+        ]
+      },
+      {
+        "id": 52393428,
+        "name": "3: Linear & Parallel Arrangement",
+        "type": 1,
+        "stats": {
+          "videos": 2,
+          "files": 2,
+          "tests": 0
+        },
+        "children": [
+          {
+            "id": 162126209,
+            "name": "Linear Arrangement",
+            "type": 2,
+            "stats": {}
+          },
+          {
+            "id": 162126208,
+            "name": "Parallel Arrangement 1",
+            "type": 2,
+            "stats": {}
+          },
+          {
+            "id": 85400905,
+            "name": "Logical Reasoning.pdf",
+            "type": 3,
+            "stats": {}
+          },
+          {
+            "id": 85400904,
+            "name": "Parallel Arrangement Sheet.pdf",
+            "type": 3,
+            "stats": {}
+          }
+        ]
+      },
+      {
+        "id": 52393442,
+        "name": "4 :  Blood Relation",
+        "type": 1,
+        "stats": {
+          "videos": 1,
+          "files": 2,
+          "tests": 1
+        },
+        "children": [
+          {
+            "id": 52393450,
+            "name": "Concept Video Blood Relation _ Live",
+            "type": 1,
+            "stats": {
+              "videos": 1,
+              "files": 1,
+              "tests": 0
+            },
+            "children": [
+              {
+                "id": 162126255,
+                "name": "Blood Relation ",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 85400931,
+                "name": "Practice Sheet _ assignment blood relaton CM",
+                "type": 3,
+                "stats": {}
+              }
+            ]
+          },
+          {
+            "id": 52393458,
+            "name": "Topic Mock Test",
+            "type": 1,
+            "stats": {
+              "videos": 0,
+              "files": 1,
+              "tests": 1
+            },
+            "children": [
+              {
+                "id": 29434893,
+                "name": "BLOOD RELATION TEST 01",
+                "type": 4,
+                "stats": {
+                  "tests": 0
+                }
+              },
+              {
+                "id": 85400939,
+                "name": "Blood Relation",
+                "type": 3,
+                "stats": {}
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 52393449,
+        "name": "5 Circular Arrangement",
+        "type": 1,
+        "stats": {
+          "videos": 1,
+          "files": 3,
+          "tests": 0
+        },
+        "children": [
+          {
+            "id": 162126254,
+            "name": "Circular Arrangement",
+            "type": 2,
+            "stats": {}
+          },
+          {
+            "id": 85400928,
+            "name": "Circular Arrangement",
+            "type": 3,
+            "stats": {}
+          },
+          {
+            "id": 85400929,
+            "name": "Circular Arrangement Assignment Sheet.pdf",
+            "type": 3,
+            "stats": {}
+          },
+          {
+            "id": 85400930,
+            "name": "Solution circular arrangement assignment.pdf",
+            "type": 3,
+            "stats": {}
+          }
+        ]
+      },
+      {
+        "id": 52393457,
+        "name": "6 Square Triangle Based Arrangement",
+        "type": 1,
+        "stats": {
+          "videos": 1,
+          "files": 1,
+          "tests": 0
+        },
+        "children": [
+          {
+            "id": 162126274,
+            "name": "Square Triangle Based Arrangement",
+            "type": 2,
+            "stats": {}
+          },
+          {
+            "id": 85400938,
+            "name": "Arrangement - Square Rectangle Miss.pdf",
+            "type": 3,
+            "stats": {}
+          }
+        ]
+      },
+      {
+        "id": 52393464,
+        "name": "7 Floor Arrangement",
+        "type": 1,
+        "stats": {
+          "videos": 1,
+          "files": 1,
+          "tests": 0
+        },
+        "children": [
+          {
+            "id": 85400946,
+            "name": "Floor Based Arrangement - Zero to Hero.pdf",
+            "type": 3,
+            "stats": {}
+          },
+          {
+            "id": 162126296,
+            "name": "Flood based Arrangement",
+            "type": 2,
+            "stats": {}
+          }
+        ]
+      },
+      {
+        "id": 52393470,
+        "name": "8 : Puzzle",
+        "type": 1,
+        "stats": {
+          "videos": 2,
+          "files": 1,
+          "tests": 0
+        },
+        "children": [
+          {
+            "id": 162126316,
+            "name": "BASIC PART 01",
+            "type": 2,
+            "stats": {}
+          },
+          {
+            "id": 162126315,
+            "name": "PART 02",
+            "type": 2,
+            "stats": {}
+          },
+          {
+            "id": 85400950,
+            "name": "Puzzles",
+            "type": 3,
+            "stats": {}
+          }
+        ]
+      },
+      {
+        "id": 52393475,
+        "name": "9 : Critical Reasoning & Syllogism",
+        "type": 1,
+        "stats": {
+          "videos": 5,
+          "files": 3,
+          "tests": 3
+        },
+        "children": [
+          {
+            "id": 52393490,
+            "name": "Assumption Argument C.R",
+            "type": 1,
+            "stats": {
+              "videos": 3,
+              "files": 1,
+              "tests": 0
+            },
+            "children": [
+              {
+                "id": 85400962,
+                "name": "Critical Reasoning Practice Sheet",
+                "type": 3,
+                "stats": {}
+              },
+              {
+                "id": 162126389,
+                "name": "Critical Reasoning Part 1",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 162126387,
+                "name": "Critical Reasoning - Part 2",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 162126388,
+                "name": "Critical Reasoning - Part 3",
+                "type": 2,
+                "stats": {}
+              }
+            ]
+          },
+          {
+            "id": 52393482,
+            "name": "Syllogism",
+            "type": 1,
+            "stats": {
+              "videos": 2,
+              "files": 2,
+              "tests": 3
+            },
+            "children": [
+              {
+                "id": 52393491,
+                "name": "Concept Videos",
+                "type": 1,
+                "stats": {
+                  "videos": 2,
+                  "files": 0,
+                  "tests": 0
+                },
+                "children": [
+                  {
+                    "id": 162126390,
+                    "name": "Syllogism 1_ Foundation",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126391,
+                    "name": "Syllogisms 2 _ Reverse Syllogism",
+                    "type": 2,
+                    "stats": {}
+                  }
+                ]
+              },
+              {
+                "id": 52393499,
+                "name": "Topic Tests",
+                "type": 1,
+                "stats": {
+                  "videos": 0,
+                  "files": 2,
+                  "tests": 3
+                },
+                "children": [
+                  {
+                    "id": 29434898,
+                    "name": "syllogisms 01",
+                    "type": 4,
+                    "stats": {
+                      "tests": 0
+                    }
+                  },
+                  {
+                    "id": 29434899,
+                    "name": "syllogisms Test 02",
+                    "type": 4,
+                    "stats": {
+                      "tests": 0
+                    }
+                  },
+                  {
+                    "id": 29434900,
+                    "name": "Syllogisms 03",
+                    "type": 4,
+                    "stats": {
+                      "tests": 0
+                    }
+                  },
+                  {
+                    "id": 85400969,
+                    "name": "syllogism",
+                    "type": 3,
+                    "stats": {}
+                  },
+                  {
+                    "id": 85400968,
+                    "name": " Syllogism Questions 2",
+                    "type": 3,
+                    "stats": {}
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 52393481,
+        "name": "10 : Number Series _ Important types",
+        "type": 1,
+        "stats": {
+          "videos": 5,
+          "files": 1,
+          "tests": 0
+        },
+        "children": [
+          {
+            "id": 162126366,
+            "name": "Part 1",
+            "type": 2,
+            "stats": {}
+          },
+          {
+            "id": 162126365,
+            "name": "Part 2",
+            "type": 2,
+            "stats": {}
+          },
+          {
+            "id": 162126363,
+            "name": "Numbe Series 03",
+            "type": 2,
+            "stats": {}
+          },
+          {
+            "id": 162126362,
+            "name": "Number Series 04 (Zero Difference)",
+            "type": 2,
+            "stats": {}
+          },
+          {
+            "id": 162126364,
+            "name": "Number Series 05",
+            "type": 2,
+            "stats": {}
+          },
+          {
+            "id": 85400957,
+            "name": "Number Series -Live Sheet",
+            "type": 3,
+            "stats": {}
+          }
+        ]
+      },
+      {
+        "id": 52393489,
+        "name": "11: LR (Data Sufficiency)",
+        "type": 1,
+        "stats": {
+          "videos": 3,
+          "files": 1,
+          "tests": 0
+        },
+        "children": [
+          {
+            "id": 162126384,
+            "name": "1. Logical Reasoning Data Sufficiency Prep",
+            "type": 2,
+            "stats": {}
+          },
+          {
+            "id": 162126385,
+            "name": "2.Data Sufficiency",
+            "type": 2,
+            "stats": {}
+          },
+          {
+            "id": 162126386,
+            "name": "3.Data Sufficiency",
+            "type": 2,
+            "stats": {}
+          },
+          {
+            "id": 85400961,
+            "name": "Data Sufficiency ppt.pdf",
+            "type": 3,
+            "stats": {}
+          }
+        ]
+      },
+      {
+        "id": 52393498,
+        "name": "12 :  Dice Mirror Image Water",
+        "type": 1,
+        "stats": {
+          "videos": 2,
+          "files": 1,
+          "tests": 4
+        },
+        "children": [
+          {
+            "id": 29434895,
+            "name": "Number Puzzles",
+            "type": 4,
+            "stats": {
+              "tests": 0
+            }
+          },
+          {
+            "id": 29434896,
+            "name": "Water Image",
+            "type": 4,
+            "stats": {
+              "tests": 0
+            }
+          },
+          {
+            "id": 29434897,
+            "name": "Mirror Imge",
+            "type": 4,
+            "stats": {
+              "tests": 0
+            }
+          },
+          {
+            "id": 52393506,
+            "name": "Dice",
+            "type": 1,
+            "stats": {
+              "videos": 1,
+              "files": 0,
+              "tests": 0
+            },
+            "children": [
+              {
+                "id": 162126440,
+                "name": "Dice",
+                "type": 2,
+                "stats": {}
+              }
+            ]
+          },
+          {
+            "id": 52393516,
+            "name": "Paper Folding",
+            "type": 1,
+            "stats": {
+              "videos": 1,
+              "files": 1,
+              "tests": 1
+            },
+            "children": [
+              {
+                "id": 52393524,
+                "name": "Concept Video",
+                "type": 1,
+                "stats": {
+                  "videos": 1,
+                  "files": 1,
+                  "tests": 0
+                },
+                "children": [
+                  {
+                    "id": 162126497,
+                    "name": "Paper Folding",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 85400986,
+                    "name": "Paper Folding and Cutting",
+                    "type": 3,
+                    "stats": {}
+                  }
+                ]
+              },
+              {
+                "id": 52393541,
+                "name": "Topic Test",
+                "type": 1,
+                "stats": {
+                  "videos": 0,
+                  "files": 0,
+                  "tests": 1
+                },
+                "children": [
+                  {
+                    "id": 29874085,
+                    "name": "Paper Folding Mock Test",
+                    "type": 4,
+                    "stats": {
+                      "tests": null
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 52393505,
+        "name": "13 : Inequalities",
+        "type": 1,
+        "stats": {
+          "videos": 1,
+          "files": 1,
+          "tests": 0
+        },
+        "children": [
+          {
+            "id": 85400974,
+            "name": "Class Solution Sheet - Logical Reasoning Inequalities.pdf",
+            "type": 3,
+            "stats": {}
+          },
+          {
+            "id": 162126439,
+            "name": "Logical Reasoning: Inequalities Questions",
+            "type": 2,
+            "stats": {}
+          }
+        ]
+      },
+      {
+        "id": 52393515,
+        "name": "Module 14: Clocks & Calendar",
+        "type": 1,
+        "stats": {
+          "videos": 3,
+          "files": 0,
+          "tests": 1
+        },
+        "children": [
+          {
+            "id": 52393523,
+            "name": "Calenadar",
+            "type": 1,
+            "stats": {
+              "videos": 1,
+              "files": 0,
+              "tests": 1
+            },
+            "children": [
+              {
+                "id": 29434906,
+                "name": "Calender _ LR",
+                "type": 4,
+                "stats": {
+                  "tests": null
+                }
+              },
+              {
+                "id": 162126496,
+                "name": "Calendar Class",
+                "type": 2,
+                "stats": {}
+              }
+            ]
+          },
+          {
+            "id": 162126469,
+            "name": "Clocks 01",
+            "type": 2,
+            "stats": {}
+          },
+          {
+            "id": 162126470,
+            "name": "Live 2 Clocks",
+            "type": 2,
+            "stats": {}
+          }
+        ]
+      },
+      {
+        "id": 52393522,
+        "name": "Module 15  Scan Book Logical Reasoning",
+        "type": 1,
+        "stats": {
+          "videos": 0,
+          "files": 1,
+          "tests": 0
+        },
+        "children": [
+          {
+            "id": 85400985,
+            "name": "Logical Reasoning ",
+            "type": 3,
+            "stats": {}
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 52393399,
+    "name": "2. Quantitative / Numerical Aptitude",
+    "type": 1,
+    "stats": {
+      "videos": 59,
+      "files": 50,
+      "tests": 3
+    },
+    "children": [
+      {
+        "id": 52393408,
+        "name": "1. Percentage - With DPP Solution ( 100 Questions)",
+        "type": 1,
+        "stats": {
+          "videos": 3,
+          "files": 2,
+          "tests": 1
+        },
+        "children": [
+          {
+            "id": 29434886,
+            "name": "Percentage  01- Imp Test",
+            "type": 4,
+            "stats": {
+              "tests": null
+            }
+          },
+          {
+            "id": 85400898,
+            "name": "One Shot Percentage Live Class Sheet.pdf",
+            "type": 3,
+            "stats": {}
+          },
+          {
+            "id": 162126176,
+            "name": "1: Percentage All Type",
+            "type": 2,
+            "stats": {}
+          },
+          {
+            "id": 162126175,
+            "name": "02: Percentage",
+            "type": 2,
+            "stats": {}
+          },
+          {
+            "id": 162126177,
+            "name": "03: Percentage",
+            "type": 2,
+            "stats": {}
+          },
+          {
+            "id": 85400897,
+            "name": "Assignment- Percenatge .pdf",
+            "type": 3,
+            "stats": {}
+          }
+        ]
+      },
+      {
+        "id": 52393427,
+        "name": "2. Ratio & Proportion",
+        "type": 1,
+        "stats": {
+          "videos": 2,
+          "files": 1,
+          "tests": 0
+        },
+        "children": [
+          {
+            "id": 85400903,
+            "name": "Day 01 Ratio and Proportion Live Class Sheet.pdf",
+            "type": 3,
+            "stats": {}
+          },
+          {
+            "id": 162126207,
+            "name": "Ratio And Proportion Prep",
+            "type": 2,
+            "stats": {}
+          },
+          {
+            "id": 162126206,
+            "name": "Part 2: Ratio And Proportion Prep",
+            "type": 2,
+            "stats": {}
+          }
+        ]
+      },
+      {
+        "id": 52393441,
+        "name": "3: Mixture & Alligation",
+        "type": 1,
+        "stats": {
+          "videos": 3,
+          "files": 3,
+          "tests": 0
+        },
+        "children": [
+          {
+            "id": 85400919,
+            "name": "Alligation Live Class Sheet.pdf",
+            "type": 3,
+            "stats": {}
+          },
+          {
+            "id": 85400920,
+            "name": "Mixtures - All Types - One Shot Marathon.pdf",
+            "type": 3,
+            "stats": {}
+          },
+          {
+            "id": 85400921,
+            "name": "Tawa Fry Method - Ratio Mixtures",
+            "type": 3,
+            "stats": {}
+          },
+          {
+            "id": 162126234,
+            "name": "ALLIGATION 01",
+            "type": 2,
+            "stats": {}
+          },
+          {
+            "id": 162126235,
+            "name": "MIXTURES 1",
+            "type": 2,
+            "stats": {}
+          },
+          {
+            "id": 162126236,
+            "name": "Tawa Fry Method + Replacement",
+            "type": 2,
+            "stats": {}
+          }
+        ]
+      },
+      {
+        "id": 52393448,
+        "name": "4: Profit Loss & discount",
+        "type": 1,
+        "stats": {
+          "videos": 3,
+          "files": 7,
+          "tests": 0
+        },
+        "children": [
+          {
+            "id": 52393456,
+            "name": "Assignment",
+            "type": 1,
+            "stats": {
+              "videos": 0,
+              "files": 3,
+              "tests": 0
+            },
+            "children": [
+              {
+                "id": 85400935,
+                "name": "Assignmnet Profit Loss .pdf",
+                "type": 3,
+                "stats": {}
+              },
+              {
+                "id": 85400936,
+                "name": "Solution Assignment Profit and Loss.pdf",
+                "type": 3,
+                "stats": {}
+              },
+              {
+                "id": 85400937,
+                "name": "Solution 2 Profit Loss Assignment.pdf",
+                "type": 3,
+                "stats": {}
+              }
+            ]
+          },
+          {
+            "id": 162126251,
+            "name": "Profit and loss 01",
+            "type": 2,
+            "stats": {}
+          },
+          {
+            "id": 85400924,
+            "name": "Profit Loss 01",
+            "type": 3,
+            "stats": {}
+          },
+          {
+            "id": 162126252,
+            "name": "Profit and loss 02",
+            "type": 2,
+            "stats": {}
+          },
+          {
+            "id": 85400925,
+            "name": "Profit Loss 02",
+            "type": 3,
+            "stats": {}
+          },
+          {
+            "id": 162126253,
+            "name": "Discount One Shot 1",
+            "type": 2,
+            "stats": {}
+          },
+          {
+            "id": 85400927,
+            "name": "Discount -PL.pdf",
+            "type": 3,
+            "stats": {}
+          },
+          {
+            "id": 85400926,
+            "name": "Solution Discount PL class sheet.pdf",
+            "type": 3,
+            "stats": {}
+          }
+        ]
+      },
+      {
+        "id": 52393463,
+        "name": "6: Time & Work/ Pipes & Cistern",
+        "type": 1,
+        "stats": {
+          "videos": 3,
+          "files": 4,
+          "tests": 0
+        },
+        "children": [
+          {
+            "id": 85400943,
+            "name": "TIme And Work .pdf",
+            "type": 3,
+            "stats": {}
+          },
+          {
+            "id": 85400944,
+            "name": "Pipes and Cistern Live Class Sheet - 01-1.pdf",
+            "type": 3,
+            "stats": {}
+          },
+          {
+            "id": 85400945,
+            "name": "Remaining Type Questions .pdf",
+            "type": 3,
+            "stats": {}
+          },
+          {
+            "id": 85400942,
+            "name": "Assignment Sheet .pdf",
+            "type": 3,
+            "stats": {}
+          },
+          {
+            "id": 162126293,
+            "name": "01 Time & Work",
+            "type": 2,
+            "stats": {}
+          },
+          {
+            "id": 162126294,
+            "name": "02 Pipes & Cistern Prep",
+            "type": 2,
+            "stats": {}
+          },
+          {
+            "id": 162126295,
+            "name": "03 Time & Work  Men & Women",
+            "type": 2,
+            "stats": {}
+          }
+        ]
+      },
+      {
+        "id": 52393469,
+        "name": "7 Ages _ Tawa Fry Method",
+        "type": 1,
+        "stats": {
+          "videos": 4,
+          "files": 2,
+          "tests": 0
+        },
+        "children": [
+          {
+            "id": 85400948,
+            "name": "Problem on Ages",
+            "type": 3,
+            "stats": {}
+          },
+          {
+            "id": 85400949,
+            "name": "Problem on Ages",
+            "type": 3,
+            "stats": {}
+          },
+          {
+            "id": 162126312,
+            "name": "Q1-Q5",
+            "type": 2,
+            "stats": {}
+          },
+          {
+            "id": 162126313,
+            "name": "Q6-Q11",
+            "type": 2,
+            "stats": {}
+          },
+          {
+            "id": 162126311,
+            "name": "Q12-Q15",
+            "type": 2,
+            "stats": {}
+          },
+          {
+            "id": 162126314,
+            "name": "Q15-Q20",
+            "type": 2,
+            "stats": {}
+          }
+        ]
+      },
+      {
+        "id": 52393486,
+        "name": "10: TSD (Time, Speed & Distance)",
+        "type": 1,
+        "stats": {
+          "videos": 3,
+          "files": 3,
+          "tests": 0
+        },
+        "children": [
+          {
+            "id": 85400960,
+            "name": "TSD 01 TRAIN.pdf",
+            "type": 3,
+            "stats": {}
+          },
+          {
+            "id": 85400959,
+            "name": "TSD 02 .pdf",
+            "type": 3,
+            "stats": {}
+          },
+          {
+            "id": 85400958,
+            "name": "TSD Imp Types 03.pdf",
+            "type": 3,
+            "stats": {}
+          },
+          {
+            "id": 162126380,
+            "name": "TSD 01",
+            "type": 2,
+            "stats": {}
+          },
+          {
+            "id": 162126379,
+            "name": "TSD 02",
+            "type": 2,
+            "stats": {}
+          },
+          {
+            "id": 162126381,
+            "name": "TSD 03",
+            "type": 2,
+            "stats": {}
+          }
+        ]
+      },
+      {
+        "id": 52393474,
+        "name": "8 Partnership & Average",
+        "type": 1,
+        "stats": {
+          "videos": 4,
+          "files": 4,
+          "tests": 1
+        },
+        "children": [
+          {
+            "id": 52393480,
+            "name": "1 Partnership",
+            "type": 1,
+            "stats": {
+              "videos": 2,
+              "files": 4,
+              "tests": 1
+            },
+            "children": [
+              {
+                "id": 29434894,
+                "name": "Partnership",
+                "type": 4,
+                "stats": {
+                  "tests": 0
+                }
+              },
+              {
+                "id": 162126360,
+                "name": "Partnership 01",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 85400953,
+                "name": "Partneship Day 01",
+                "type": 3,
+                "stats": {}
+              },
+              {
+                "id": 85400955,
+                "name": "Partneship Day 01",
+                "type": 3,
+                "stats": {}
+              },
+              {
+                "id": 162126361,
+                "name": "Partnership 02 ",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 85400954,
+                "name": "Partnership 02",
+                "type": 3,
+                "stats": {}
+              },
+              {
+                "id": 85400956,
+                "name": "Partnership 02",
+                "type": 3,
+                "stats": {}
+              }
+            ]
+          },
+          {
+            "id": 52393488,
+            "name": "2 Average",
+            "type": 1,
+            "stats": {
+              "videos": 2,
+              "files": 0,
+              "tests": 0
+            },
+            "children": [
+              {
+                "id": 162126383,
+                "name": "PART 01: Average ",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 162126382,
+                "name": "Part 02 - Average",
+                "type": 2,
+                "stats": {}
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 52393496,
+        "name": "11: Boat & Stream",
+        "type": 1,
+        "stats": {
+          "videos": 1,
+          "files": 1,
+          "tests": 0
+        },
+        "children": [
+          {
+            "id": 85400964,
+            "name": "bosts and stream One Shot.pdf",
+            "type": 3,
+            "stats": {}
+          },
+          {
+            "id": 162126407,
+            "name": "Boat & Stream Questions",
+            "type": 2,
+            "stats": {}
+          }
+        ]
+      },
+      {
+        "id": 52393503,
+        "name": "12: Number System from basic",
+        "type": 1,
+        "stats": {
+          "videos": 3,
+          "files": 2,
+          "tests": 0
+        },
+        "children": [
+          {
+            "id": 162126435,
+            "name": "Part 1:  Number System from Basic",
+            "type": 2,
+            "stats": {}
+          },
+          {
+            "id": 162126434,
+            "name": "Part 2: Number System Updated Questions",
+            "type": 2,
+            "stats": {}
+          },
+          {
+            "id": 162126436,
+            "name": "Part 3: UNIT DIGIT & FACTORS",
+            "type": 2,
+            "stats": {}
+          },
+          {
+            "id": 85400970,
+            "name": "Number System Day 01.pdf",
+            "type": 3,
+            "stats": {}
+          },
+          {
+            "id": 85400971,
+            "name": "Number System 02 .pdf",
+            "type": 3,
+            "stats": {}
+          }
+        ]
+      },
+      {
+        "id": 52393510,
+        "name": "13: LCM/ HCF From Basic",
+        "type": 1,
+        "stats": {
+          "videos": 1,
+          "files": 1,
+          "tests": 0
+        },
+        "children": [
+          {
+            "id": 85400978,
+            "name": "LCM HCF .pdf",
+            "type": 3,
+            "stats": {}
+          },
+          {
+            "id": 162126467,
+            "name": "1: LCM/ HCF from basic",
+            "type": 2,
+            "stats": {}
+          }
+        ]
+      },
+      {
+        "id": 52393520,
+        "name": "14: Permutation & Combination",
+        "type": 1,
+        "stats": {
+          "videos": 2,
+          "files": 1,
+          "tests": 0
+        },
+        "children": [
+          {
+            "id": 85400982,
+            "name": "PnC  .pdf",
+            "type": 3,
+            "stats": {}
+          },
+          {
+            "id": 162126492,
+            "name": "PnC Prep from Basic",
+            "type": 2,
+            "stats": {}
+          },
+          {
+            "id": 162126493,
+            "name": "2: Permutation & Combination",
+            "type": 2,
+            "stats": {}
+          }
+        ]
+      },
+      {
+        "id": 52393540,
+        "name": "15: Probability Questions prep",
+        "type": 1,
+        "stats": {
+          "videos": 1,
+          "files": 1,
+          "tests": 0
+        },
+        "children": [
+          {
+            "id": 85400987,
+            "name": "Probability Type Bag Based.pdf",
+            "type": 3,
+            "stats": {}
+          },
+          {
+            "id": 162126503,
+            "name": "Probability Type Bag based Ques",
+            "type": 2,
+            "stats": {}
+          }
+        ]
+      },
+      {
+        "id": 52393479,
+        "name": "9 :  Data Interpretation and Set Theory",
+        "type": 1,
+        "stats": {
+          "videos": 10,
+          "files": 10,
+          "tests": 0
+        },
+        "children": [
+          {
+            "id": 52393495,
+            "name": "Set Theory Venn Diagram ",
+            "type": 1,
+            "stats": {
+              "videos": 4,
+              "files": 2,
+              "tests": 0
+            },
+            "children": [
+              {
+                "id": 162126410,
+                "name": "Concept Q1-4",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 162126409,
+                "name": "3 variable Q.5-Q11",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 162126411,
+                "name": "Q12-14",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 162126408,
+                "name": "SET Q15-20  IIM VENN DIAGRAM",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 85400963,
+                "name": "Venn Diagram Based Caselets",
+                "type": 3,
+                "stats": {}
+              },
+              {
+                "id": 85400965,
+                "name": "Venn Diagram Based Caselets",
+                "type": 3,
+                "stats": {}
+              }
+            ]
+          },
+          {
+            "id": 52393487,
+            "name": "DATA INTERPRETATIION AND CASELETS",
+            "type": 1,
+            "stats": {
+              "videos": 6,
+              "files": 8,
+              "tests": 0
+            },
+            "children": [
+              {
+                "id": 52393497,
+                "name": "Pie Chart",
+                "type": 1,
+                "stats": {
+                  "videos": 2,
+                  "files": 2,
+                  "tests": 0
+                },
+                "children": [
+                  {
+                    "id": 162126413,
+                    "name": "D.I-  01 Pie chart  SET 01 of sheet",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126412,
+                    "name": "D. I - 02 Pie chart SET 02 SET 03 of sheet",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 85400966,
+                    "name": "Data Interpretation Pie chart",
+                    "type": 3,
+                    "stats": {}
+                  },
+                  {
+                    "id": 85400967,
+                    "name": "Data Interpretation Pie chart",
+                    "type": 3,
+                    "stats": {}
+                  }
+                ]
+              },
+              {
+                "id": 52393504,
+                "name": "Radar D. I",
+                "type": 1,
+                "stats": {
+                  "videos": 1,
+                  "files": 2,
+                  "tests": 0
+                },
+                "children": [
+                  {
+                    "id": 162126437,
+                    "name": "Radar Based D.I ",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 85400972,
+                    "name": "Radar based Question",
+                    "type": 3,
+                    "stats": {}
+                  },
+                  {
+                    "id": 85400973,
+                    "name": "Radar based Question",
+                    "type": 3,
+                    "stats": {}
+                  }
+                ]
+              },
+              {
+                "id": 52393511,
+                "name": "Caselet based D.I ",
+                "type": 1,
+                "stats": {
+                  "videos": 1,
+                  "files": 2,
+                  "tests": 0
+                },
+                "children": [
+                  {
+                    "id": 162126468,
+                    "name": "caselete1.0",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 85400979,
+                    "name": "Data Interpretation Pie Charts _01",
+                    "type": 3,
+                    "stats": {}
+                  },
+                  {
+                    "id": 85400980,
+                    "name": "Data Interpretation Pie Charts _01",
+                    "type": 3,
+                    "stats": {}
+                  }
+                ]
+              },
+              {
+                "id": 52393521,
+                "name": "Missing D.I",
+                "type": 1,
+                "stats": {
+                  "videos": 2,
+                  "files": 2,
+                  "tests": 0
+                },
+                "children": [
+                  {
+                    "id": 162126494,
+                    "name": "Missing D.I Q.1-5 solution",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126495,
+                    "name": "Miss. D.I Q6-10 solution",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 85400983,
+                    "name": "Missing DI",
+                    "type": 3,
+                    "stats": {}
+                  },
+                  {
+                    "id": 85400984,
+                    "name": "Missing DI",
+                    "type": 3,
+                    "stats": {}
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 52393545,
+        "name": "17: Clock Apti Questions",
+        "type": 1,
+        "stats": {
+          "videos": 1,
+          "files": 1,
+          "tests": 0
+        },
+        "children": [
+          {
+            "id": 85400990,
+            "name": "Clocks Class Solution.pdf",
+            "type": 3,
+            "stats": {}
+          },
+          {
+            "id": 162126506,
+            "name": "Clocks Aptitude Questions",
+            "type": 2,
+            "stats": {}
+          }
+        ]
+      },
+      {
+        "id": 52393543,
+        "name": "16 : Mensuration",
+        "type": 1,
+        "stats": {
+          "videos": 7,
+          "files": 1,
+          "tests": 1
+        },
+        "children": [
+          {
+            "id": 29434908,
+            "name": "Mensuration Pre-Test",
+            "type": 4,
+            "stats": {
+              "tests": null
+            }
+          },
+          {
+            "id": 52393546,
+            "name": "Updated Rachit Sir Mensuration",
+            "type": 1,
+            "stats": {
+              "videos": 7,
+              "files": 0,
+              "tests": 0
+            },
+            "children": [
+              {
+                "id": 162126510,
+                "name": "1.1 BG Music Mensuration 3D Cheat Sheet",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 162126511,
+                "name": "Mensuartion 1.1",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 162126512,
+                "name": "Mensuartion 1.2",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 162126509,
+                "name": "Mensuartion 1.3",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 162126507,
+                "name": "Mensuartion 1.4",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 162126508,
+                "name": "Mensuartion 1.6",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 162126513,
+                "name": "Mensuartion 1.5",
+                "type": 2,
+                "stats": {}
+              }
+            ]
+          },
+          {
+            "id": 85400989,
+            "name": "mensuration3D",
+            "type": 3,
+            "stats": {}
+          }
+        ]
+      },
+      {
+        "id": 52393548,
+        "name": "18: Quadratic Equations",
+        "type": 1,
+        "stats": {
+          "videos": 2,
+          "files": 2,
+          "tests": 0
+        },
+        "children": [
+          {
+            "id": 85400992,
+            "name": "02 Quadratic Equation Live Class Sheet.pdf",
+            "type": 3,
+            "stats": {}
+          },
+          {
+            "id": 85400993,
+            "name": "01 Quadratic Equations - New .pdf",
+            "type": 3,
+            "stats": {}
+          },
+          {
+            "id": 162126515,
+            "name": "Part 1: Quadratic Equations",
+            "type": 2,
+            "stats": {}
+          },
+          {
+            "id": 162126516,
+            "name": "Part 2: Quadratic Equations",
+            "type": 2,
+            "stats": {}
+          }
+        ]
+      },
+      {
+        "id": 52393550,
+        "name": "19: Statistics",
+        "type": 1,
+        "stats": {
+          "videos": 2,
+          "files": 0,
+          "tests": 0
+        },
+        "children": [
+          {
+            "id": 162126519,
+            "name": "Part 1",
+            "type": 2,
+            "stats": {}
+          },
+          {
+            "id": 162126518,
+            "name": "Part 2",
+            "type": 2,
+            "stats": {}
+          }
+        ]
+      },
+      {
+        "id": 52393552,
+        "name": "20 : Imp E-Book With Video Solution",
+        "type": 1,
+        "stats": {
+          "videos": 0,
+          "files": 1,
+          "tests": 0
+        },
+        "children": [
+          {
+            "id": 85400995,
+            "name": "250 + Video Solution Quant Assorted Book",
+            "type": 3,
+            "stats": {}
+          }
+        ]
+      },
+      {
+        "id": 52393455,
+        "name": "5: Simple & Compound interest + Installment",
+        "type": 1,
+        "stats": {
+          "videos": 4,
+          "files": 3,
+          "tests": 0
+        },
+        "children": [
+          {
+            "id": 85400932,
+            "name": "Simple Interest DAY01.pdf",
+            "type": 3,
+            "stats": {}
+          },
+          {
+            "id": 85400933,
+            "name": "2 - C.I Solution sheet",
+            "type": 3,
+            "stats": {}
+          },
+          {
+            "id": 85400934,
+            "name": "03 - SI CI sheet",
+            "type": 3,
+            "stats": {}
+          },
+          {
+            "id": 162126271,
+            "name": "1: Simple interest",
+            "type": 2,
+            "stats": {}
+          },
+          {
+            "id": 162126272,
+            "name": "2: Compound Interest",
+            "type": 2,
+            "stats": {}
+          },
+          {
+            "id": 162126273,
+            "name": "3: SIMPLE & COMPOUND INTEREST",
+            "type": 2,
+            "stats": {}
+          },
+          {
+            "id": 168321422,
+            "name": "4: Installment",
+            "type": 2,
+            "stats": {}
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 52393407,
+    "name": "3. Verbal Ability",
+    "type": 1,
+    "stats": {
+      "videos": 20,
+      "files": 6,
+      "tests": 0
+    },
+    "children": [
+      {
+        "id": 53714037,
+        "name": "TCS NQT: NEW VERBAL PATTERN",
+        "type": 1,
+        "stats": {
+          "videos": 4,
+          "files": 4,
+          "tests": 0
+        },
+        "children": [
+          {
+            "id": 55018276,
+            "name": "TCS NQT: NEW PRACTICE SET BASED ON THE NEW PATTERN",
+            "type": 1,
+            "stats": {
+              "videos": 0,
+              "files": 4,
+              "tests": 0
+            },
+            "children": [
+              {
+                "id": 90253559,
+                "name": "TCS_NQT_2026_Prep_Guide_Updated.pdf",
+                "type": 3,
+                "stats": {}
+              },
+              {
+                "id": 90253560,
+                "name": "TCS_NQT_Top 50_Sentence_Completion_@campusmonk.pdf",
+                "type": 3,
+                "stats": {}
+              },
+              {
+                "id": 90253561,
+                "name": "TCS_NQT_Top50_Passage_Recall_@campusmonk.pdf",
+                "type": 3,
+                "stats": {}
+              },
+              {
+                "id": 90253558,
+                "name": "TCS_NQT_50_Email_Writing_Questions.pdf",
+                "type": 3,
+                "stats": {}
+              }
+            ]
+          },
+          {
+            "id": 165927459,
+            "name": "Part 1: TCS - Sentence Completion",
+            "type": 2,
+            "stats": {}
+          },
+          {
+            "id": 166005934,
+            "name": "Part 2: Verbal New pattern ",
+            "type": 2,
+            "stats": {}
+          },
+          {
+            "id": 166005945,
+            "name": "Part 3: TCS - Email Writing",
+            "type": 2,
+            "stats": {}
+          },
+          {
+            "id": 166185004,
+            "name": "Part 4: Passage Recall",
+            "type": 2,
+            "stats": {}
+          }
+        ]
+      },
+      {
+        "id": 52393426,
+        "name": "Day 01",
+        "type": 1,
+        "stats": {
+          "videos": 1,
+          "files": 0,
+          "tests": 0
+        },
+        "children": [
+          {
+            "id": 162126205,
+            "name": "01: Antonyms and synonyms",
+            "type": 2,
+            "stats": {}
+          }
+        ]
+      },
+      {
+        "id": 52393440,
+        "name": "Day 02 : IMP PREVIOUS YEAR PAPER",
+        "type": 1,
+        "stats": {
+          "videos": 1,
+          "files": 1,
+          "tests": 0
+        },
+        "children": [
+          {
+            "id": 85400918,
+            "name": "ASSORTED VERBAL FULL LENGTH PAPER24.pdf",
+            "type": 3,
+            "stats": {}
+          },
+          {
+            "id": 162126233,
+            "name": "Assorted Verbal Question",
+            "type": 2,
+            "stats": {}
+          }
+        ]
+      },
+      {
+        "id": 52393447,
+        "name": "Day 3 : IMP PREVIOUS YEAR PAPER",
+        "type": 1,
+        "stats": {
+          "videos": 1,
+          "files": 1,
+          "tests": 0
+        },
+        "children": [
+          {
+            "id": 85400923,
+            "name": "ASSORTED VERBAL FULL LENGTH PAPER27.pdf",
+            "type": 3,
+            "stats": {}
+          },
+          {
+            "id": 162126250,
+            "name": "Verbal Ability PYQ",
+            "type": 2,
+            "stats": {}
+          }
+        ]
+      },
+      {
+        "id": 52393454,
+        "name": "Day 04 IMP PREVIOUS YEAR PAPER",
+        "type": 1,
+        "stats": {
+          "videos": 1,
+          "files": 0,
+          "tests": 0
+        },
+        "children": [
+          {
+            "id": 162126270,
+            "name": "2: Assorted Verbal PYQ",
+            "type": 2,
+            "stats": {}
+          }
+        ]
+      },
+      {
+        "id": 52393462,
+        "name": "Day 5: Imp PYQ Verbal Ability",
+        "type": 1,
+        "stats": {
+          "videos": 1,
+          "files": 0,
+          "tests": 0
+        },
+        "children": [
+          {
+            "id": 162126292,
+            "name": "Verbal PYQ",
+            "type": 2,
+            "stats": {}
+          }
+        ]
+      },
+      {
+        "id": 52393468,
+        "name": "Day 6: IMP Verbal PYQ",
+        "type": 1,
+        "stats": {
+          "videos": 1,
+          "files": 0,
+          "tests": 0
+        },
+        "children": [
+          {
+            "id": 162126310,
+            "name": "Verbal Ability PYQ  Questions",
+            "type": 2,
+            "stats": {}
+          }
+        ]
+      },
+      {
+        "id": 162126165,
+        "name": "Day 7: Verbal- ParaJumbles - One Shot",
+        "type": 2,
+        "stats": {}
+      },
+      {
+        "id": 162126167,
+        "name": "Day 08 : Article Based Error - One Shot",
+        "type": 2,
+        "stats": {}
+      },
+      {
+        "id": 162126168,
+        "name": "Day 09 : Preposition Based Error - One Shot",
+        "type": 2,
+        "stats": {}
+      },
+      {
+        "id": 162126166,
+        "name": "Day 10 : Conjuction Based Error - One Shot",
+        "type": 2,
+        "stats": {}
+      },
+      {
+        "id": 162126169,
+        "name": "Day 11: Tense Based Error - One Shot",
+        "type": 2,
+        "stats": {}
+      },
+      {
+        "id": 162126170,
+        "name": "Day 12 : Fill in the blanks-Preposition Based",
+        "type": 2,
+        "stats": {}
+      },
+      {
+        "id": 162126173,
+        "name": "Day 13 : Verbal-Articles-Fill in the blanks",
+        "type": 2,
+        "stats": {}
+      },
+      {
+        "id": 162126174,
+        "name": "Day 14 : Verbal-Tenses-Fill in the blanks",
+        "type": 2,
+        "stats": {}
+      },
+      {
+        "id": 162126171,
+        "name": "Day 15 :  Verbal-Conjunction-Fill in the Blanks",
+        "type": 2,
+        "stats": {}
+      },
+      {
+        "id": 162126172,
+        "name": "Day 16 Verbal-Active Passive Questions",
+        "type": 2,
+        "stats": {}
+      }
+    ]
+  },
+  {
+    "id": 54222984,
+    "name": "4. Imp Top 250+ TCS NQT PYQ Aptitude & Technical P",
+    "type": 1,
+    "stats": {
+      "videos": 27,
+      "files": 18,
+      "tests": 0
+    },
+    "children": [
+      {
+        "id": 54222985,
+        "name": "#Day 0 - Simplification Imp",
+        "type": 1,
+        "stats": {
+          "videos": 1,
+          "files": 1,
+          "tests": 0
+        },
+        "children": [
+          {
+            "id": 88819785,
+            "name": "Day 01 - Simplification Marathon PYQ .pdf",
+            "type": 3,
+            "stats": {}
+          },
+          {
+            "id": 167457636,
+            "name": "Day 01 Simplification Marathon",
+            "type": 2,
+            "stats": {}
+          }
+        ]
+      },
+      {
+        "id": 54222986,
+        "name": "#Day 01 Challenge - PYQ Coding - 20/02/2026",
+        "type": 1,
+        "stats": {
+          "videos": 1,
+          "files": 1,
+          "tests": 0
+        },
+        "children": [
+          {
+            "id": 167457637,
+            "name": "PYQ Coding TCS",
+            "type": 2,
+            "stats": {}
+          },
+          {
+            "id": 88819786,
+            "name": "Coding.pdf",
+            "type": 3,
+            "stats": {}
+          }
+        ]
+      },
+      {
+        "id": 54222987,
+        "name": "#Day 02 Challenge - PYQ Verbal - 20/02/2026",
+        "type": 1,
+        "stats": {
+          "videos": 1,
+          "files": 0,
+          "tests": 0
+        },
+        "children": [
+          {
+            "id": 167457638,
+            "name": "PYQ Verbal TCS",
+            "type": 2,
+            "stats": {}
+          }
+        ]
+      },
+      {
+        "id": 54222988,
+        "name": "#Day 03 Challenge  -  PYQ Coding",
+        "type": 1,
+        "stats": {
+          "videos": 1,
+          "files": 2,
+          "tests": 0
+        },
+        "children": [
+          {
+            "id": 88819794,
+            "name": "PYQ Coding.pdf",
+            "type": 3,
+            "stats": {}
+          },
+          {
+            "id": 88819793,
+            "name": "CodingQuestions_21st Feb_Class.pdf",
+            "type": 3,
+            "stats": {}
+          },
+          {
+            "id": 167457639,
+            "name": "PYQ Coding Questions",
+            "type": 2,
+            "stats": {}
+          }
+        ]
+      },
+      {
+        "id": 54222990,
+        "name": "#Day 4 Challenge - Percentage - Aptitude",
+        "type": 1,
+        "stats": {
+          "videos": 1,
+          "files": 1,
+          "tests": 0
+        },
+        "children": [
+          {
+            "id": 88819799,
+            "name": "Best 250+ Sure Shot -01  (1).pdf",
+            "type": 3,
+            "stats": {}
+          },
+          {
+            "id": 167457640,
+            "name": "01 Advance Aptitude Questions",
+            "type": 2,
+            "stats": {}
+          }
+        ]
+      },
+      {
+        "id": 54222991,
+        "name": "#Day 5 Challenge - Ratio - Best Aptitude Series",
+        "type": 1,
+        "stats": {
+          "videos": 1,
+          "files": 1,
+          "tests": 0
+        },
+        "children": [
+          {
+            "id": 88819800,
+            "name": "Day 02 - 250+ Best Question Series .pdf",
+            "type": 3,
+            "stats": {}
+          },
+          {
+            "id": 167457641,
+            "name": "Best ADVANCE Aptitude Ques",
+            "type": 2,
+            "stats": {}
+          }
+        ]
+      },
+      {
+        "id": 54222992,
+        "name": "#Day 6 Challenge -  PYQ Verbal Ability",
+        "type": 1,
+        "stats": {
+          "videos": 1,
+          "files": 0,
+          "tests": 0
+        },
+        "children": [
+          {
+            "id": 167457642,
+            "name": "PYQ Verbal Ability",
+            "type": 2,
+            "stats": {}
+          }
+        ]
+      },
+      {
+        "id": 54222993,
+        "name": "#Day 7 Challenge - PYQ TCS Coding",
+        "type": 1,
+        "stats": {
+          "videos": 1,
+          "files": 1,
+          "tests": 0
+        },
+        "children": [
+          {
+            "id": 88819801,
+            "name": "TCS NQT .pdf",
+            "type": 3,
+            "stats": {}
+          },
+          {
+            "id": 167457643,
+            "name": "TCS PYQ Coding",
+            "type": 2,
+            "stats": {}
+          }
+        ]
+      },
+      {
+        "id": 54222994,
+        "name": "#Day 8 Challenge - PYQ Verbal",
+        "type": 1,
+        "stats": {
+          "videos": 1,
+          "files": 0,
+          "tests": 0
+        },
+        "children": [
+          {
+            "id": 167457644,
+            "name": "PYQ TCS VERBAL",
+            "type": 2,
+            "stats": {}
+          }
+        ]
+      },
+      {
+        "id": 54222995,
+        "name": "#Day 9 Challenge - PYQ Coding",
+        "type": 1,
+        "stats": {
+          "videos": 1,
+          "files": 0,
+          "tests": 0
+        },
+        "children": [
+          {
+            "id": 167457645,
+            "name": "TCS PYQ Coding ",
+            "type": 2,
+            "stats": {}
+          }
+        ]
+      },
+      {
+        "id": 54222996,
+        "name": "#Day 10 Challenge - PYQ Coding",
+        "type": 1,
+        "stats": {
+          "videos": 1,
+          "files": 1,
+          "tests": 0
+        },
+        "children": [
+          {
+            "id": 167457646,
+            "name": "PYQ Coding Questions ",
+            "type": 2,
+            "stats": {}
+          },
+          {
+            "id": 88819802,
+            "name": "TCS_Class3 (1).pdf",
+            "type": 3,
+            "stats": {}
+          }
+        ]
+      },
+      {
+        "id": 54222997,
+        "name": "#Day 11 Challenge - SI/CI Instalment- Advance Apti",
+        "type": 1,
+        "stats": {
+          "videos": 1,
+          "files": 1,
+          "tests": 0
+        },
+        "children": [
+          {
+            "id": 88819803,
+            "name": "Aptitude 250.pdf",
+            "type": 3,
+            "stats": {}
+          },
+          {
+            "id": 167457647,
+            "name": "Advance Aptitude _ TCS NQT",
+            "type": 2,
+            "stats": {}
+          }
+        ]
+      },
+      {
+        "id": 54222998,
+        "name": "#Day 12 Challenge -Profit Loss Discount- Advance A",
+        "type": 1,
+        "stats": {
+          "videos": 1,
+          "files": 1,
+          "tests": 0
+        },
+        "children": [
+          {
+            "id": 88819804,
+            "name": "250+ Day 04.pdf",
+            "type": 3,
+            "stats": {}
+          },
+          {
+            "id": 167457648,
+            "name": "Advance Aptitude _ TCS NQT",
+            "type": 2,
+            "stats": {}
+          }
+        ]
+      },
+      {
+        "id": 54222999,
+        "name": "#Day 13 Challenge - PYQ Coding",
+        "type": 1,
+        "stats": {
+          "videos": 1,
+          "files": 1,
+          "tests": 0
+        },
+        "children": [
+          {
+            "id": 88819805,
+            "name": "05_03_2026.pdf",
+            "type": 3,
+            "stats": {}
+          },
+          {
+            "id": 167457649,
+            "name": "TCS PYQ Questions ",
+            "type": 2,
+            "stats": {}
+          }
+        ]
+      },
+      {
+        "id": 54223000,
+        "name": "#Day 14 Challenge - PYQ Coding",
+        "type": 1,
+        "stats": {
+          "videos": 1,
+          "files": 0,
+          "tests": 0
+        },
+        "children": [
+          {
+            "id": 167457650,
+            "name": " PYQ TCS NQT CODING",
+            "type": 2,
+            "stats": {}
+          }
+        ]
+      },
+      {
+        "id": 54223001,
+        "name": "#Day 15 Challenge - PYQ Coding",
+        "type": 1,
+        "stats": {
+          "videos": 1,
+          "files": 0,
+          "tests": 0
+        },
+        "children": [
+          {
+            "id": 167457651,
+            "name": "PYQ CODING New",
+            "type": 2,
+            "stats": {}
+          }
+        ]
+      },
+      {
+        "id": 54223002,
+        "name": "#Day 16 Challenge - PYQ Verbal",
+        "type": 1,
+        "stats": {
+          "videos": 1,
+          "files": 0,
+          "tests": 0
+        },
+        "children": [
+          {
+            "id": 167457652,
+            "name": "PYQ Verbal Ability",
+            "type": 2,
+            "stats": {}
+          }
+        ]
+      },
+      {
+        "id": 54223003,
+        "name": "#Day 17 Challenge -Average TSD Advance Aptitude 25",
+        "type": 1,
+        "stats": {
+          "videos": 1,
+          "files": 1,
+          "tests": 0
+        },
+        "children": [
+          {
+            "id": 88819806,
+            "name": "Aptitude 250+ Day 05  (1).pdf",
+            "type": 3,
+            "stats": {}
+          },
+          {
+            "id": 167457653,
+            "name": "Advance Aptitude Questions ",
+            "type": 2,
+            "stats": {}
+          }
+        ]
+      },
+      {
+        "id": 54223004,
+        "name": "#Day 18 Challenge - PYQ Coding",
+        "type": 1,
+        "stats": {
+          "videos": 1,
+          "files": 1,
+          "tests": 0
+        },
+        "children": [
+          {
+            "id": 88819807,
+            "name": "Coding_CM.pdf",
+            "type": 3,
+            "stats": {}
+          },
+          {
+            "id": 167457654,
+            "name": "PYQ Coding Prep",
+            "type": 2,
+            "stats": {}
+          }
+        ]
+      },
+      {
+        "id": 54223005,
+        "name": "#Day 19 Challenge  -  PYQ Coding",
+        "type": 1,
+        "stats": {
+          "videos": 1,
+          "files": 0,
+          "tests": 0
+        },
+        "children": [
+          {
+            "id": 167457655,
+            "name": "PYQ Coding",
+            "type": 2,
+            "stats": {}
+          }
+        ]
+      },
+      {
+        "id": 54223006,
+        "name": "#Day 20 Challenge - Boats & Stream -Advance Aptitu",
+        "type": 1,
+        "stats": {
+          "videos": 1,
+          "files": 1,
+          "tests": 0
+        },
+        "children": [
+          {
+            "id": 88819808,
+            "name": "Day 06 .pdf",
+            "type": 3,
+            "stats": {}
+          },
+          {
+            "id": 167457656,
+            "name": "Boat & Stream Aptitude Question",
+            "type": 2,
+            "stats": {}
+          }
+        ]
+      },
+      {
+        "id": 54223007,
+        "name": "#Day 21 Challenge -  PYQ Coding",
+        "type": 1,
+        "stats": {
+          "videos": 1,
+          "files": 0,
+          "tests": 0
+        },
+        "children": [
+          {
+            "id": 167457657,
+            "name": "PYQ Coding Class",
+            "type": 2,
+            "stats": {}
+          }
+        ]
+      },
+      {
+        "id": 54223008,
+        "name": "#Day 22 Challenge -  Pnc & Probability Advance Apt",
+        "type": 1,
+        "stats": {
+          "videos": 1,
+          "files": 1,
+          "tests": 0
+        },
+        "children": [
+          {
+            "id": 88819811,
+            "name": "solution sheet day 07.pdf",
+            "type": 3,
+            "stats": {}
+          },
+          {
+            "id": 167457663,
+            "name": " Pnc Probability",
+            "type": 2,
+            "stats": {}
+          }
+        ]
+      },
+      {
+        "id": 54223011,
+        "name": "#Day 23 Challenge -  PYQ Coding",
+        "type": 1,
+        "stats": {
+          "videos": 1,
+          "files": 1,
+          "tests": 0
+        },
+        "children": [
+          {
+            "id": 167457664,
+            "name": "PYQ CODING",
+            "type": 2,
+            "stats": {}
+          },
+          {
+            "id": 88819812,
+            "name": "17-03-2026-Trees.pdf",
+            "type": 3,
+            "stats": {}
+          }
+        ]
+      },
+      {
+        "id": 54223012,
+        "name": "#Day 24 Challenge - TCS Coding (Graph, Hashmap, Tr",
+        "type": 1,
+        "stats": {
+          "videos": 1,
+          "files": 0,
+          "tests": 0
+        },
+        "children": [
+          {
+            "id": 167457665,
+            "name": "PYQ Coding Trees, Hashmap, Graph",
+            "type": 2,
+            "stats": {}
+          }
+        ]
+      },
+      {
+        "id": 54223013,
+        "name": "#Day 25 Challenge - TCS Coding Ques",
+        "type": 1,
+        "stats": {
+          "videos": 1,
+          "files": 0,
+          "tests": 0
+        },
+        "children": [
+          {
+            "id": 167457666,
+            "name": "TCS Coding Questions",
+            "type": 2,
+            "stats": {}
+          }
+        ]
+      },
+      {
+        "id": 54223014,
+        "name": "#Day 26 Challenge -Quadratic - Aptitude Assorted Q",
+        "type": 1,
+        "stats": {
+          "videos": 1,
+          "files": 2,
+          "tests": 0
+        },
+        "children": [
+          {
+            "id": 88819814,
+            "name": "day 08 250+ Question .pdf",
+            "type": 3,
+            "stats": {}
+          },
+          {
+            "id": 88819815,
+            "name": "day 08 solution sheet 250+ Question solution.pdf",
+            "type": 3,
+            "stats": {}
+          },
+          {
+            "id": 167457668,
+            "name": "TCS Assorted Aptitude Questions",
+            "type": 2,
+            "stats": {}
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 52393387,
+    "name": "5. V.Imp Coding Challenge -Lakshya - Daily Coding ",
+    "type": 1,
+    "stats": {
+      "videos": 1,
+      "files": 2,
+      "tests": 0
+    },
+    "children": [
+      {
+        "id": 162126047,
+        "name": "How to Give Mock test | Full Details",
+        "type": 2,
+        "stats": {}
+      },
+      {
+        "id": 85400880,
+        "name": "Coding Mock Link .pdf",
+        "type": 3,
+        "stats": {}
+      },
+      {
+        "id": 85400881,
+        "name": "If unable to give coding assessment - Fill This .pdf",
+        "type": 3,
+        "stats": {}
+      }
+    ]
+  },
+  {
+    "id": 52393368,
+    "name": "6: Coding - DSA",
+    "type": 1,
+    "stats": {
+      "videos": 409,
+      "files": 12,
+      "tests": 0
+    },
+    "children": [
+      {
+        "id": 53203890,
+        "name": "2.1. DSA in Java with Itika Ma'am - Black Book Sol",
+        "type": 1,
+        "stats": {
+          "videos": 50,
+          "files": 1,
+          "tests": 0
+        },
+        "children": [
+          {
+            "id": 53203891,
+            "name": "Module 1:  Basic Java Intro and how to take Input/",
+            "type": 1,
+            "stats": {
+              "videos": 3,
+              "files": 0,
+              "tests": 0
+            },
+            "children": [
+              {
+                "id": 164452038,
+                "name": "Java Intro",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 164452037,
+                "name": "Class 1 :  Java Basic Introduction",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 164452042,
+                "name": "Class 2 :  Taking Input & Output in Java",
+                "type": 2,
+                "stats": {}
+              }
+            ]
+          },
+          {
+            "id": 53203892,
+            "name": "Module 2: Important Mathematics concepts and PYQ",
+            "type": 1,
+            "stats": {
+              "videos": 2,
+              "files": 0,
+              "tests": 0
+            },
+            "children": [
+              {
+                "id": 164452045,
+                "name": "Class 3 :  Basic Maths Important Questions 1",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 164452044,
+                "name": "Class 4 :  Maths Important Questions 2",
+                "type": 2,
+                "stats": {}
+              }
+            ]
+          },
+          {
+            "id": 53203896,
+            "name": "Module 3: Java Arrays",
+            "type": 1,
+            "stats": {
+              "videos": 10,
+              "files": 0,
+              "tests": 0
+            },
+            "children": [
+              {
+                "id": 164452054,
+                "name": "Class 5 : Java Arrays Introduction",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 164452056,
+                "name": "Class 6 : Input an Array in Java",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 164452055,
+                "name": "Class 7 : Searching in Array",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 164452053,
+                "name": "Class 8 : Reverse & Rotate Array in Java",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 164452052,
+                "name": "Class 9 : Dynamic Arrays in Java",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 164452058,
+                "name": "Class 10 : Java Array PYQ",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 164452057,
+                "name": "Class 11 : Java Arrays PYQ",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 164452060,
+                "name": "Class 12: Java union of two sorted arrays",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 164452059,
+                "name": "Class 14: Dutch National Flag Algorithm",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 164452061,
+                "name": "Class 15: Single among double in sorted array",
+                "type": 2,
+                "stats": {}
+              }
+            ]
+          },
+          {
+            "id": 53203897,
+            "name": "Module 4: Map in Java",
+            "type": 1,
+            "stats": {
+              "videos": 5,
+              "files": 0,
+              "tests": 0
+            },
+            "children": [
+              {
+                "id": 164452062,
+                "name": "Class 16: Map in Java",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 164452064,
+                "name": "Class 17: Find frequency of each element",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 164452063,
+                "name": "Class 18: Find Length of longest subarray with sum k",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 164452066,
+                "name": "Class 19: Find Longest sub-array with sum k ( all positives )",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 164452065,
+                "name": "Class 20: Two sum problem (brute force , better and optimal solution )",
+                "type": 2,
+                "stats": {}
+              }
+            ]
+          },
+          {
+            "id": 53203898,
+            "name": "Module 5: Sliding Window technique and 2 Pointer A",
+            "type": 1,
+            "stats": {
+              "videos": 4,
+              "files": 0,
+              "tests": 0
+            },
+            "children": [
+              {
+                "id": 164452069,
+                "name": "Class 21: Sliding Window Technique",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 164452067,
+                "name": "Class 22: Rearrange array elements by  sign",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 164452068,
+                "name": "Class 23: Maximum Consecutive One",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 164452070,
+                "name": "Class 24: Moore's Voting Algorithm",
+                "type": 2,
+                "stats": {}
+              }
+            ]
+          },
+          {
+            "id": 53203899,
+            "name": "Module 6: Greedy Algorithm",
+            "type": 1,
+            "stats": {
+              "videos": 4,
+              "files": 0,
+              "tests": 0
+            },
+            "children": [
+              {
+                "id": 164452072,
+                "name": "Class 25: Assign cookies",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 164452071,
+                "name": "Class 26: Lemonade Change",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 164452074,
+                "name": "Class 27: Jump Game 1",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 164452073,
+                "name": "Class 28: Search in rotated sorted array-1",
+                "type": 2,
+                "stats": {}
+              }
+            ]
+          },
+          {
+            "id": 53203900,
+            "name": "Module 7: Binary search Questions",
+            "type": 1,
+            "stats": {
+              "videos": 2,
+              "files": 0,
+              "tests": 0
+            },
+            "children": [
+              {
+                "id": 164452076,
+                "name": "Class 29: Find Minimum in rotated sorted array",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 164452075,
+                "name": "Class 30: How many times array is rotated",
+                "type": 2,
+                "stats": {}
+              }
+            ]
+          },
+          {
+            "id": 53203901,
+            "name": "Module 8:  Strings in Java",
+            "type": 1,
+            "stats": {
+              "videos": 7,
+              "files": 0,
+              "tests": 0
+            },
+            "children": [
+              {
+                "id": 164452077,
+                "name": "Class 31: Strings in JAVA",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 164452078,
+                "name": "Class 32: Longest Odd number in String",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 164452079,
+                "name": "Class 33: Longest Common Prefix",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 164452082,
+                "name": "Class 34: Isomorphic strings",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 164452080,
+                "name": "Class 35: Rotate String ",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 164452081,
+                "name": "Class 36: Valid Anagram Leetcode 242",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 164452087,
+                "name": "Class 37: Number of substrings with only 1\\'s",
+                "type": 2,
+                "stats": {}
+              }
+            ]
+          },
+          {
+            "id": 53203909,
+            "name": "Module 9: Dynamic Programming",
+            "type": 1,
+            "stats": {
+              "videos": 2,
+              "files": 0,
+              "tests": 0
+            },
+            "children": [
+              {
+                "id": 164452110,
+                "name": "Dp Lec-1 ",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 164452111,
+                "name": "Dp Lec-2",
+                "type": 2,
+                "stats": {}
+              }
+            ]
+          },
+          {
+            "id": 53203911,
+            "name": "Module 10: Recursion &  DP",
+            "type": 1,
+            "stats": {
+              "videos": 5,
+              "files": 0,
+              "tests": 0
+            },
+            "children": [
+              {
+                "id": 164452112,
+                "name": "1- Frog Jump Question",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 164452114,
+                "name": " 2 - Frog Jump with K distance",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 164452113,
+                "name": "Maximum sum of non - adjacent elements",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 164452116,
+                "name": "2 - Best Time To Buy And Sell stock 2",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 164452115,
+                "name": "3 - Buy and sell stock",
+                "type": 2,
+                "stats": {}
+              }
+            ]
+          },
+          {
+            "id": 53669094,
+            "name": "Module 11:  Binary Trees",
+            "type": 1,
+            "stats": {
+              "videos": 6,
+              "files": 0,
+              "tests": 0
+            },
+            "children": [
+              {
+                "id": 165817679,
+                "name": "Part 1: Binary Tree ",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 165817678,
+                "name": "Part 2: Maximum Depth of Binary Tress",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 165817680,
+                "name": "Part 3: Binary Same tree",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 167492381,
+                "name": "Part 4: Balanced Binary Tree",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 167492380,
+                "name": "Part 5: Diameter of Binary Tree",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 167492379,
+                "name": "Part 6: Maximum Path Sum in Binary Tree",
+                "type": 2,
+                "stats": {}
+              }
+            ]
+          },
+          {
+            "id": 86952942,
+            "name": "NEW Updated_Black_book_2026.pdf",
+            "type": 3,
+            "stats": {}
+          }
+        ]
+      },
+      {
+        "id": 52393373,
+        "name": "2.2 DSA With C/C++",
+        "type": 1,
+        "stats": {
+          "videos": 82,
+          "files": 11,
+          "tests": 0
+        },
+        "children": [
+          {
+            "id": 52393378,
+            "name": "1.1 Basic to Advance - Anshul Sir ( Google)",
+            "type": 1,
+            "stats": {
+              "videos": 42,
+              "files": 8,
+              "tests": 0
+            },
+            "children": [
+              {
+                "id": 52393384,
+                "name": "1.1 Basic to Advance (Programming)",
+                "type": 1,
+                "stats": {
+                  "videos": 28,
+                  "files": 0,
+                  "tests": 0
+                },
+                "children": [
+                  {
+                    "id": 162125995,
+                    "name": "Lecture 1 : Basics of Programming",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126001,
+                    "name": "Lecture 2 : Introduction to Arrays",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162125998,
+                    "name": "Lecture 3 : Questions on array (Part 1)",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126014,
+                    "name": "Lecture  4:  Questions on Array (Part 2)",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162125996,
+                    "name": "Lecture 5 :  Question on Arrays (Part-3)",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162125993,
+                    "name": "Lecture 6 : Introduction to String",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162125992,
+                    "name": "Lecture 7 : Question on strings (Part 1)",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162125994,
+                    "name": "Lecture  8 : Question on strings(Part 2)",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126015,
+                    "name": "Lecture 9 : Strings, Intro to Matrix(2-D Array)",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126011,
+                    "name": "Lecture 10 : Question on Matrix (Part-1)",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126007,
+                    "name": "Lecture 11 : Question on Matrix (Part 2)",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162125991,
+                    "name": "Lecture 12 : Time and Space Complexity",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126003,
+                    "name": "Lecture 13 :  Binary Search",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162125999,
+                    "name": "Lecture 14 : Recursion",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126012,
+                    "name": "Lecture 15 : Recursion (PART 2)",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162125997,
+                    "name": "Lecture 16  : (Intro to STL)",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126006,
+                    "name": "Lecture  17 : (Implementation of STL - Vector, Set)",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126002,
+                    "name": "Lecture  18 : (Implementation of STL - maps)",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126016,
+                    "name": "Lecture - 19 (Questions1)",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126000,
+                    "name": "Lecture - 20 (Questions2)",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126017,
+                    "name": "Lecture - 21(Bubble,Selection and Insertion Sort)",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126004,
+                    "name": "Lecture - 22  (Kadane's Algo)",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126010,
+                    "name": "Lecture - 23 (Generate all subsequences)",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126008,
+                    "name": "Lecture - 24 (Merge Sort)",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126018,
+                    "name": "Lecture - 25 (Minimum Number of Jumps)",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126009,
+                    "name": "Lecture - 26 (Pointers)",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126013,
+                    "name": "Lecture - 27 (Knapsack and Fractional)",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126005,
+                    "name": "Lecture - 28 (Valid Parenthesis)",
+                    "type": 2,
+                    "stats": {}
+                  }
+                ]
+              },
+              {
+                "id": 52393390,
+                "name": "1.2  Logic Building by Anshul Sir",
+                "type": 1,
+                "stats": {
+                  "videos": 14,
+                  "files": 8,
+                  "tests": 0
+                },
+                "children": [
+                  {
+                    "id": 52393396,
+                    "name": "Logic Building by Anshul Sir",
+                    "type": 1,
+                    "stats": {
+                      "videos": 14,
+                      "files": 8,
+                      "tests": 0
+                    },
+                    "children": [
+                      {
+                        "id": 52393404,
+                        "name": "Practice Questions",
+                        "type": 1,
+                        "stats": {
+                          "videos": 0,
+                          "files": 8,
+                          "tests": 0
+                        },
+                        "children": [
+                          {
+                            "id": 85400894,
+                            "name": "Practice Question - 1",
+                            "type": 3,
+                            "stats": {}
+                          },
+                          {
+                            "id": 85400889,
+                            "name": "Practice Question - 2",
+                            "type": 3,
+                            "stats": {}
+                          },
+                          {
+                            "id": 85400893,
+                            "name": "Practice Question - 3",
+                            "type": 3,
+                            "stats": {}
+                          },
+                          {
+                            "id": 85400896,
+                            "name": "Practice Question - 4",
+                            "type": 3,
+                            "stats": {}
+                          },
+                          {
+                            "id": 85400891,
+                            "name": "Practice Question - 5",
+                            "type": 3,
+                            "stats": {}
+                          },
+                          {
+                            "id": 85400895,
+                            "name": "Practice Question - 6",
+                            "type": 3,
+                            "stats": {}
+                          },
+                          {
+                            "id": 85400890,
+                            "name": "Practice Question - 7",
+                            "type": 3,
+                            "stats": {}
+                          },
+                          {
+                            "id": 85400892,
+                            "name": "Practice Question - 8",
+                            "type": 3,
+                            "stats": {}
+                          }
+                        ]
+                      },
+                      {
+                        "id": 162126116,
+                        "name": "Logic Building - 1",
+                        "type": 2,
+                        "stats": {}
+                      },
+                      {
+                        "id": 162126117,
+                        "name": "Logic Building - 2",
+                        "type": 2,
+                        "stats": {}
+                      },
+                      {
+                        "id": 162126121,
+                        "name": "Logic Building - 3",
+                        "type": 2,
+                        "stats": {}
+                      },
+                      {
+                        "id": 162126124,
+                        "name": "Logic Building - 4",
+                        "type": 2,
+                        "stats": {}
+                      },
+                      {
+                        "id": 162126123,
+                        "name": "Live - 5",
+                        "type": 2,
+                        "stats": {}
+                      },
+                      {
+                        "id": 162126111,
+                        "name": "Live - 6",
+                        "type": 2,
+                        "stats": {}
+                      },
+                      {
+                        "id": 162126112,
+                        "name": "Live - 7",
+                        "type": 2,
+                        "stats": {}
+                      },
+                      {
+                        "id": 162126113,
+                        "name": "Live - 8",
+                        "type": 2,
+                        "stats": {}
+                      },
+                      {
+                        "id": 162126120,
+                        "name": "Live - 9",
+                        "type": 2,
+                        "stats": {}
+                      },
+                      {
+                        "id": 162126114,
+                        "name": "Live - 10",
+                        "type": 2,
+                        "stats": {}
+                      },
+                      {
+                        "id": 162126119,
+                        "name": "Live 11",
+                        "type": 2,
+                        "stats": {}
+                      },
+                      {
+                        "id": 162126115,
+                        "name": "Live 12",
+                        "type": 2,
+                        "stats": {}
+                      },
+                      {
+                        "id": 162126118,
+                        "name": "Live - 13",
+                        "type": 2,
+                        "stats": {}
+                      },
+                      {
+                        "id": 162126122,
+                        "name": "Live 14",
+                        "type": 2,
+                        "stats": {}
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": 52393382,
+            "name": "1.2 Leetcode E-Book with Video Solution",
+            "type": 1,
+            "stats": {
+              "videos": 0,
+              "files": 2,
+              "tests": 0
+            },
+            "children": [
+              {
+                "id": 85400878,
+                "name": "PYQ DSA TCS/ Other.pdf",
+                "type": 3,
+                "stats": {}
+              },
+              {
+                "id": 85400879,
+                "name": "Top Leetcode Question with Video Solution.pdf",
+                "type": 3,
+                "stats": {}
+              }
+            ]
+          },
+          {
+            "id": 52393389,
+            "name": "1.3 DSA by Akshat Sir",
+            "type": 1,
+            "stats": {
+              "videos": 40,
+              "files": 1,
+              "tests": 0
+            },
+            "children": [
+              {
+                "id": 52393395,
+                "name": "DSA by Akshat Sir",
+                "type": 1,
+                "stats": {
+                  "videos": 26,
+                  "files": 0,
+                  "tests": 0
+                },
+                "children": [
+                  {
+                    "id": 162126085,
+                    "name": "Day 1 - DSA (Introduction)",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126093,
+                    "name": "Day 2 - Time Complexity and Space Complexity",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126110,
+                    "name": "Day 3 - Array (Mathematics Approach)",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126095,
+                    "name": "Day 4 - Maps and Two Pointer",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126091,
+                    "name": "Day 5 - Union and Intersection of Array",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126104,
+                    "name": "Day 6 - Kadane's Algo and Dutch National Flag Algo",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126088,
+                    "name": "Day 7 - Arrays Advance",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126086,
+                    "name": "Day 8 - Maps (Hashmaps)",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126109,
+                    "name": "Day 9 - Recursion (1)",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126092,
+                    "name": "Day 10 - Recursion (2)",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126098,
+                    "name": "Day 11 - Recursion (3)",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126090,
+                    "name": "Day 12 - Recursion (Revision)",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126089,
+                    "name": "Day 13 - Backtracking",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126100,
+                    "name": "Day 14 - Strings + Bit Manipulation (Easy)",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126096,
+                    "name": "Day 15 - String (2)",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126101,
+                    "name": "Day 16 - String (Maps)",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126087,
+                    "name": "Day 17 - Introduction : Sliding Window ",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126105,
+                    "name": "Day 18 - Contest Discussion",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126094,
+                    "name": "Day 19 - Introduction : Stack and Queue",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126102,
+                    "name": "Day 20 -  Trees Foundation",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126108,
+                    "name": "Day 21 - Trees (Part 2)",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126106,
+                    "name": "Day 22 - Trees (Questions)",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126099,
+                    "name": "DSA (Live - 21)",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126107,
+                    "name": "DSA (Live - 22)",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126103,
+                    "name": "DSA (Live - 23)",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126097,
+                    "name": "DSA (Live - 24)",
+                    "type": 2,
+                    "stats": {}
+                  }
+                ]
+              },
+              {
+                "id": 52393402,
+                "name": "CM DSA Black Book Top 100 Question With Video Solu",
+                "type": 1,
+                "stats": {
+                  "videos": 14,
+                  "files": 1,
+                  "tests": 0
+                },
+                "children": [
+                  {
+                    "id": 85400888,
+                    "name": "100_DSA_Sheet",
+                    "type": 3,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126137,
+                    "name": "1.1 Arrays & Strings - Remove element",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126141,
+                    "name": "1.2 Arrays & Strings - Needle & Haystack",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126139,
+                    "name": "1.3 Arrays & Strings - Longest Common Prefix",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126140,
+                    "name": "1.4 Arrays & Strings - Length of Last word",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126134,
+                    "name": "1.5 Arrays & Strings - Roman to Integer",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126133,
+                    "name": "1.6 Arrays & Strings - Merge Sorted Arrays",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126145,
+                    "name": "1.7 Arrays & Strings - Buy & Sell Stocks",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126132,
+                    "name": "1.9 Arrays & Strings - Rotate Array",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126135,
+                    "name": "1.13 Arrays & Strings - Trapping Rain Water",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126138,
+                    "name": "2.1 Arrays & Strings - Defanging IP Address",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126136,
+                    "name": "2.2 Arrays & Strings - Max Words",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126142,
+                    "name": "2.3 Arrays & Strings - Number of Senior Citizen",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126143,
+                    "name": "2.4 Arrays & Strings - Collect Garbage",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126144,
+                    "name": "2.5 Arrays & Strings - Find & Replace Pattern",
+                    "type": 2,
+                    "stats": {}
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 52393377,
+        "name": "2.3 DSA with Python & Java -Shatarupa Ma'am- Micro",
+        "type": 1,
+        "stats": {
+          "videos": 276,
+          "files": 0,
+          "tests": 0
+        },
+        "children": [
+          {
+            "id": 52393385,
+            "name": "Python: Basic",
+            "type": 1,
+            "stats": {
+              "videos": 18,
+              "files": 0,
+              "tests": 0
+            },
+            "children": [
+              {
+                "id": 162126020,
+                "name": "1: Introduction",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 162126019,
+                "name": "DSA 2: Basic Syntax and Operations using Python",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 162126021,
+                "name": "DSA 3-  final trip list",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 162126022,
+                "name": "DSA 4: List, for while loop, increment decrement operations and logical and Logical OR operations",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 162126023,
+                "name": "DSA-5-Functions",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 162126024,
+                "name": "DSA-6-part1- IS & Function Tricks",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 162126025,
+                "name": "DSA-7-part2- IS & Function Tricks",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 162126027,
+                "name": "DSA-8-File Reading and File Writing",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 162126028,
+                "name": "DSA-9-Class & Objects",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 162126031,
+                "name": "DSA-10-Comments,Help & Lists",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 162126026,
+                "name": "DSA-11-Dictionary",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 162126033,
+                "name": "DSA-12-Strings",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 162126030,
+                "name": "DSA-13-Tuples/Sets",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 162126029,
+                "name": "DSA-14-Error/Try/Except",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 162126032,
+                "name": "DSA-15-List Comprehension",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 162126035,
+                "name": "DSA-16-ASCII, Modules & Packages",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 162126034,
+                "name": "DSA-17-Python Script",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 162126036,
+                "name": "DSA-18-Lambda Functions",
+                "type": 2,
+                "stats": {}
+              }
+            ]
+          },
+          {
+            "id": 52393391,
+            "name": "Python: Data Structures & Concepts",
+            "type": 1,
+            "stats": {
+              "videos": 30,
+              "files": 0,
+              "tests": 0
+            },
+            "children": [
+              {
+                "id": 162126053,
+                "name": "DSA-19- Static Arrays, Dynamic Arrays & Strings-part 1",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 162126051,
+                "name": "DSA-20- Static Arrays, Dynamic Arrays & Strings-part 2",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 162126052,
+                "name": "DSA-21-Singly Linked Lists & Doubly Linked Lists – part 1",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 162126054,
+                "name": "DSA-22-Singly Linked Lists & Doubly Linked Lists – part 2",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 162126049,
+                "name": "DSA-23-Hash Table: Hash Function, Sets & Maps- Part 1",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 162126050,
+                "name": "DSA-24-Hash Table: Hash Function, Sets & Maps- Part 2",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 162126056,
+                "name": "DSA-25-Hash Table: Hash Function, Sets & Maps- Part 3",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 162126055,
+                "name": "DSA-26-Stacks & Queue – Part 1",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 162126057,
+                "name": "DSA-27-Stacks & Queue – Part 2",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 162126061,
+                "name": "DSA-28-Recursion-Recursion Call Stack & Algorithm- Part 1",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 162126062,
+                "name": "DSA-29-Recursion-Recursion Call Stack & Algorithm- Part 2",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 162126059,
+                "name": "DSA-30-Binary Search -part 1",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 162126058,
+                "name": "DSA-31-Binary Search -part 2",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 162126060,
+                "name": "DSA-32-Binary Tree -Part 1",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 162126063,
+                "name": "DSA-33-Binary Tree -Part 2",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 162126070,
+                "name": "DSA-34-Binary Tree -Part 3",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 162126077,
+                "name": "DSA-35- Heaps & Priority Queue - part 1",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 162126066,
+                "name": "DSA-36- Heaps & Priority Queue-Part2",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 162126068,
+                "name": "DSA-37-Bubble Sort, Insertion Sort & Selection Sort",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 162126067,
+                "name": "DSA-38-Merge Sort",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 162126065,
+                "name": "DSA-39-Quick Sort",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 162126072,
+                "name": "DSA-40-Counting Sort",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 162126069,
+                "name": "DSA-41-Graphs-Part 1",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 162126064,
+                "name": "DSA-42-Graphs-Part 2",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 162126075,
+                "name": "DSA-43-Graphs-Part 3",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 162126071,
+                "name": "DSA-44-Two Pointers",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 162126073,
+                "name": "DSA-45-Sliding Window – Part 1",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 162126074,
+                "name": "DSA-46-Sliding Window – Part 2",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 162126076,
+                "name": "DSA-47-Recursive Backtracking",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 162126078,
+                "name": "DSA-48-DynamicProgramming",
+                "type": 2,
+                "stats": {}
+              }
+            ]
+          },
+          {
+            "id": 52393397,
+            "name": "Python LeetCode Series",
+            "type": 1,
+            "stats": {
+              "videos": 113,
+              "files": 0,
+              "tests": 0
+            },
+            "children": [
+              {
+                "id": 52393405,
+                "name": "1. Arrays & Strings",
+                "type": 1,
+                "stats": {
+                  "videos": 11,
+                  "files": 0,
+                  "tests": 0
+                },
+                "children": [
+                  {
+                    "id": 162126147,
+                    "name": "DSA-L1-leetcode-2239-Find closest number to zero",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126150,
+                    "name": "DSA-L2-leetcode-1768-Merge strings alternatively",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126156,
+                    "name": "DSA-L3- Leetcode 13- Roman to Integer( Arrays & Strings)",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126148,
+                    "name": "DSA-L4-leetcode-392-Is Subsequence",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126149,
+                    "name": "DSA-L5-leetcode-121-Best time to buy and sell Stock",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126155,
+                    "name": "DSA-L6-Longest Common Prefix-leetcode-14",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126146,
+                    "name": "DSA-L7-leetcode-228-Summary Ranges",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126151,
+                    "name": "DSA-L8-leetcode-238-Product of Array Except Self",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126153,
+                    "name": "DSA-9 Leetcode 56- Merge Intervals( Array&Strings)",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126154,
+                    "name": "DSA-L 10 Leetcode-54-Spiral Matrix(Arrays & String",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126152,
+                    "name": "DSA L-11 Leetcode 48- Rotate Image(Arrays&Strings)",
+                    "type": 2,
+                    "stats": {}
+                  }
+                ]
+              },
+              {
+                "id": 52393413,
+                "name": "2. Hash Maps & Hash Set",
+                "type": 1,
+                "stats": {
+                  "videos": 10,
+                  "files": 0,
+                  "tests": 0
+                },
+                "children": [
+                  {
+                    "id": 162126194,
+                    "name": "DSA L-12 Leetcode-771-Jewels & Stones(Hashmap & Ha",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126196,
+                    "name": "DSA L-13 Leetcode-383-Ransom Note( Hashmap & Hashs",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126195,
+                    "name": "Leetcode-14- Longest Common Prefix(Array & Strings",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126193,
+                    "name": "DSA L-15 Valid Anagrams (Hash Maps & Hash Sets)",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126197,
+                    "name": "DSA L16 Leetcode -1- Two Sums( Hash map & Hash set",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126199,
+                    "name": "DSA L-17 Group Anagrams-Leetcode- 49(Hash map & Ha",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126201,
+                    "name": "DSA L-18 Valid Sudoku- Leetcode-36(Hashmap&hashset",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126198,
+                    "name": "DSA L-19 maximum number of balloons-leetcode-1189(",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126202,
+                    "name": "DSA L-20 Longest Consecutive Sequence-LeetCode-128",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126200,
+                    "name": "DSA L-21 Majority Element- Leetcode-169(Hash Maps ",
+                    "type": 2,
+                    "stats": {}
+                  }
+                ]
+              },
+              {
+                "id": 52393437,
+                "name": "3. Two Pointers",
+                "type": 1,
+                "stats": {
+                  "videos": 5,
+                  "files": 0,
+                  "tests": 0
+                },
+                "children": [
+                  {
+                    "id": 162126221,
+                    "name": "DSA L-22 Reverse String- LeetCode- 344( Two pointe",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126222,
+                    "name": "DSA L-23 Two Sum II-Input Array is Sorted- Leetcod",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126223,
+                    "name": "DSA L-24 Valid Palindrome-LeetCode-125(Two Pointer",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126224,
+                    "name": "DSA L-25 3Sum -Leetcode-15( Two Pointers)",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126225,
+                    "name": "DSA L-26 trapping Rain Water -LeetCode-42 (Two Poi",
+                    "type": 2,
+                    "stats": {}
+                  }
+                ]
+              },
+              {
+                "id": 52393445,
+                "name": "4. Stacks",
+                "type": 1,
+                "stats": {
+                  "videos": 5,
+                  "files": 0,
+                  "tests": 0
+                },
+                "children": [
+                  {
+                    "id": 162126244,
+                    "name": "DSA L-27 Baseball Game-Leetcode-682(Stacks)",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126246,
+                    "name": "DSA L- 28 valid Parentheses-Leetcode-20(Stacks)",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126247,
+                    "name": "DSA L-29 3Sum -Leetcode-15( Two Pointers)",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126243,
+                    "name": "DSA L - 30 Leetcode 150-Evaluate Reverse Polish Notation",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126245,
+                    "name": "DSA L-31 leetcode-155-Min Stack",
+                    "type": 2,
+                    "stats": {}
+                  }
+                ]
+              },
+              {
+                "id": 52393453,
+                "name": "5. Binary Search",
+                "type": 1,
+                "stats": {
+                  "videos": 8,
+                  "files": 0,
+                  "tests": 0
+                },
+                "children": [
+                  {
+                    "id": 162126265,
+                    "name": "DSA L-32 leetcode-704-Binary Search",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126268,
+                    "name": "DSA L- 33 Search Insert Position -Leetcode-35(Bina",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126269,
+                    "name": "DSA L- 34 Search a 2D Matrix-LeetCode-74(Binary Se",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126263,
+                    "name": "DSA L-35 Find Minimum in Rotated Sorted Array- Lee (1)",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126267,
+                    "name": "DSA L-36  Search in Rotated Sorted Array-Leetcode-",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126266,
+                    "name": "DSA L-37 First Bad Version-Leetcode-278(Binary Sea",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126262,
+                    "name": "DSA L-38 valid Perfect Square-LeetCode-367(Binary ",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126264,
+                    "name": "DSA L-39 Koko Eating Bananas-Leetcode-875(Binary S",
+                    "type": 2,
+                    "stats": {}
+                  }
+                ]
+              },
+              {
+                "id": 52393461,
+                "name": "6. Linked List",
+                "type": 1,
+                "stats": {
+                  "videos": 8,
+                  "files": 0,
+                  "tests": 0
+                },
+                "children": [
+                  {
+                    "id": 162126284,
+                    "name": "DSA L-40 Remove Duplicates from Sorted List-LeetCo",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126288,
+                    "name": "DSA L-41 Reverse Linked List-Leetcode-206(Linked L",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126290,
+                    "name": "DSA L- 42 Merge Two Sorted Lists-LeetCode-21(Linke",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126289,
+                    "name": "DSA L-43 Linked List Cycle-Leetcode-141(Linked Lis",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126286,
+                    "name": "DSA L-44 Insert Greatest Common Divisor in Linked ",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126287,
+                    "name": "DSA L-45 Remove the Nth Node from End of the Linke",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126285,
+                    "name": "DSA L-46 Middle of the Linked List-LeetCode-876(Li",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126291,
+                    "name": "DSA L- 47 Copy List with Random Pointer-Leetcode- ",
+                    "type": 2,
+                    "stats": {}
+                  }
+                ]
+              },
+              {
+                "id": 52393467,
+                "name": "7. Sliding Window",
+                "type": 1,
+                "stats": {
+                  "videos": 4,
+                  "files": 0,
+                  "tests": 0
+                },
+                "children": [
+                  {
+                    "id": 162126307,
+                    "name": "DSA L-48 max Consecutive Ones III - Leetcode-1004(",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126306,
+                    "name": "DSA L-49 Longest Repeating Character Replacement-L",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126309,
+                    "name": "DSA L-50 Minimum Size Subarray Sum- Leetcode-209(S",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126308,
+                    "name": "DSA L-51 Permutation in String-Leetcode-567(Fixed ",
+                    "type": 2,
+                    "stats": {}
+                  }
+                ]
+              },
+              {
+                "id": 52393473,
+                "name": "8. Trees",
+                "type": 1,
+                "stats": {
+                  "videos": 16,
+                  "files": 0,
+                  "tests": 0
+                },
+                "children": [
+                  {
+                    "id": 162126325,
+                    "name": "DSA L-52 Invert Binary Tree-LeetCode-226(Trees)",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126322,
+                    "name": "DSA L-53 Maximum Depth of Binary Tree-LeetCode-104",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126330,
+                    "name": "DSA L-54 Balanced Binary Tree-Leetcode-110(Trees)",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126337,
+                    "name": "DSA L- 55 Diameter of Binary Tree-Leetcode-543(Tre",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126324,
+                    "name": "DSA L-56 Same Tree-LeetCode-100(Trees)",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126336,
+                    "name": "DSA L- 57 Symmetric Tree-LeetCode-101(Trees)",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126329,
+                    "name": "DSA L-58 Subtree of Another Tree-LeetCode-572(Tree",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126326,
+                    "name": "DSA L-59 Count Good Nodes in Binary Tree- Leetcode",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126327,
+                    "name": "DSA L-60 Path Sum- LeetCode-112(Trees)",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126332,
+                    "name": "DSA L-61 Binary Tree Level order Traversal- Leetco",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126323,
+                    "name": "DSA L-62 Average of Levels in Binary Tree-LeetCode",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126328,
+                    "name": "DSA L-63 kth Smallest Element in BST-LeetCode- 230",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126331,
+                    "name": "DSA L-64 Minimum Absolute Difference in BST-LeetCo",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126333,
+                    "name": "DSA L-65 Validate Binary Search Tree-Leetcode-98(T",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126334,
+                    "name": "DSA L-66 Lowest Common Ancestor of a BST-LeetCode-",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126335,
+                    "name": "DSA L-67 Implement Trie(Prefix Tree)-LeetCode-208(",
+                    "type": 2,
+                    "stats": {}
+                  }
+                ]
+              },
+              {
+                "id": 52393478,
+                "name": "9. Heaps",
+                "type": 1,
+                "stats": {
+                  "videos": 5,
+                  "files": 0,
+                  "tests": 0
+                },
+                "children": [
+                  {
+                    "id": 162126356,
+                    "name": "DSA L-68 Last Stone Weight-LeetCode-1046(Heaps)",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126357,
+                    "name": "DSA L-70 Top K Frequent Elements-LeetCode-347(Heap",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126358,
+                    "name": "DSA L-69 Kth Largest Element-Leetcode-215(Heaps)",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126359,
+                    "name": "DSA L-71 K Closest Points to Origin-Leetcode-973(H",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126355,
+                    "name": "DSA L-72 Merge K Sorted Lists-LeetCode-23(Heaps)",
+                    "type": 2,
+                    "stats": {}
+                  }
+                ]
+              },
+              {
+                "id": 52393485,
+                "name": "10. Recursive Backtracking",
+                "type": 1,
+                "stats": {
+                  "videos": 6,
+                  "files": 0,
+                  "tests": 0
+                },
+                "children": [
+                  {
+                    "id": 162126375,
+                    "name": "DSA L-73 Permutations-LeetCode-46(Recursive Backtr",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126374,
+                    "name": "DSA L-74 Combinations-LeetCode-77(Recursive Backtr",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126377,
+                    "name": "DSA L-75 Combination Sum-Leetcode-39(Recursive Bac",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126376,
+                    "name": "DSA L-76 Letter Combination of a Phone Number-Leet",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126373,
+                    "name": "DSA L-77 Generate Parentheses-LeetCode-22(Recursiv",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126378,
+                    "name": "DSA L-78 Word Search-LeetCode-79(Recursive Backtra",
+                    "type": 2,
+                    "stats": {}
+                  }
+                ]
+              },
+              {
+                "id": 52393494,
+                "name": "11. Graphs",
+                "type": 1,
+                "stats": {
+                  "videos": 8,
+                  "files": 0,
+                  "tests": 0
+                },
+                "children": [
+                  {
+                    "id": 162126401,
+                    "name": "DSA L-79 Find if Paths Exists in Graph-Leetcode-19",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126400,
+                    "name": "DSA L-80 Number of Islands-LeetCode-200(Graphs)",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126399,
+                    "name": "DSA L-81 Max area of Island-Leetcode-695(Graphs)",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126404,
+                    "name": "DSA L-82 Course Schedule-LeetCode-207(Graphs)",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126403,
+                    "name": "DSA L-83 Course Schedule II-LeetCode-210(Graphs)",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126405,
+                    "name": "DSA L-85 Clone Graph-Leetcode-133(Graphs)",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126406,
+                    "name": "DSA L-86 Rotting Oranges-LeetCode-994(Graph)",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126402,
+                    "name": "DSA L-87 Min Cost to Connect All Points- LeetCode-",
+                    "type": 2,
+                    "stats": {}
+                  }
+                ]
+              },
+              {
+                "id": 52393502,
+                "name": "12. Dynamic Programming",
+                "type": 1,
+                "stats": {
+                  "videos": 10,
+                  "files": 0,
+                  "tests": 0
+                },
+                "children": [
+                  {
+                    "id": 162126432,
+                    "name": "DSA L-89 Fibonacci Series- Leetcode-509(Dynamic Pr",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126428,
+                    "name": "DSA L-90 Climbing Stairs-LeetCode-70(Dynamic Progr",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126427,
+                    "name": "DSA L-91 Min Cost Climbing Stairs-LeetCode-746(Dyn",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126426,
+                    "name": "DSA L-92 Coin Change-LeetCode-322(Dynamic Programm",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126430,
+                    "name": "DSA L-93 House Robber-Leetcode-198(Dynamic Program",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126433,
+                    "name": "DSA L-94 Unique Paths-LeetCode-62(Dynamic Programm",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126424,
+                    "name": "DSA L-95 Maximum Subarray-Kadane’s Algorithm-LeetC",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126425,
+                    "name": "DSA L-96 jump Game-LeetCode-55(Dynamic Programming",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126429,
+                    "name": "DSA L-97 Longest Increasing Subsequence-LeetCode-3",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126431,
+                    "name": "DSA L-98 longest Common Subsequence- LeetCode-1143",
+                    "type": 2,
+                    "stats": {}
+                  }
+                ]
+              },
+              {
+                "id": 52393509,
+                "name": "13. Miscellaneous – Common LeetCode Questions",
+                "type": 1,
+                "stats": {
+                  "videos": 13,
+                  "files": 0,
+                  "tests": 0
+                },
+                "children": [
+                  {
+                    "id": 162126457,
+                    "name": "DSA L-99 4Sum-LeetCode-18(Two Pointers)",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126459,
+                    "name": "DSA L-100 3Sum Closest-LeetCode-16(Two Pointers)",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126456,
+                    "name": "DSA L-101 Sort Colors- LeetCode-75(Arrays & String",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126458,
+                    "name": "DSA L-102 ZigZag Conversion-Leetcode-6(Arrays & St",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126461,
+                    "name": "DSA L-103 Largest Rectangle in HistogramLeetCode-",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126460,
+                    "name": "DSA L-104 Merge Sorted Array-LeetCode-88(Arrays & ",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126454,
+                    "name": "DSA L-106 Remove Duplicates from Sorted Array-Leet",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126455,
+                    "name": "DSA L-105 Remove Elements - LeetCode- 27(Two Point",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126462,
+                    "name": "DSA L-106 Remove Duplicates from Sorted Array-Leet",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126463,
+                    "name": "DSA L-107 Remove Duplicates from Sorted Array II-L",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126464,
+                    "name": "DSA L-108 Best Time to Buy and Sell Stocks II-Leet",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126465,
+                    "name": "DSA L-109 Jump Game II-LeetCode-45(Recursive Backt",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126466,
+                    "name": "DSA L-110 H Index-LeetCode-274(Arrays & Strings)",
+                    "type": 2,
+                    "stats": {}
+                  }
+                ]
+              },
+              {
+                "id": 52393519,
+                "name": "14. Bit Manipulation",
+                "type": 1,
+                "stats": {
+                  "videos": 4,
+                  "files": 0,
+                  "tests": 0
+                },
+                "children": [
+                  {
+                    "id": 162126484,
+                    "name": "DSA L-111 Base 7- Leetcode- 504(Bit Manipulation)",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126487,
+                    "name": "DSA L- 112 Number of 1 Bits-Leetcode-191(Bit Manip",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126486,
+                    "name": "DSA L-113 Add Binary- Leetcode-67(Bit Manipulation",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126485,
+                    "name": "DSA L-114 Single Number-LeetCode-136(Bit Manipulat",
+                    "type": 2,
+                    "stats": {}
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": 52393403,
+            "name": "Java Leet Code Series (Basic - Advance)",
+            "type": 1,
+            "stats": {
+              "videos": 114,
+              "files": 0,
+              "tests": 0
+            },
+            "children": [
+              {
+                "id": 52393412,
+                "name": "1. Arrays & Strings",
+                "type": 1,
+                "stats": {
+                  "videos": 11,
+                  "files": 0,
+                  "tests": 0
+                },
+                "children": [
+                  {
+                    "id": 162126192,
+                    "name": "DSA JAVA L-1",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126186,
+                    "name": "DSA JAVA 2 - Merge strings alternatively",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126187,
+                    "name": "DSA JAVA 3 - Roman to integer",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126182,
+                    "name": "DSA JAVA 4 - Is Subsequence",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126184,
+                    "name": "DSA JAVA 5 - Best time to buy and sell Stock",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126188,
+                    "name": "DSA JAVA 6 - Longest Common Prefix",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126185,
+                    "name": "DSA JAVA 7 - Summary Ranges",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126183,
+                    "name": "DSA JAVA 8 - Product of Array Except Self",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126190,
+                    "name": "DSA JAVA 9 - Merge Intervals",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126191,
+                    "name": "DSA JAVA 10 - Spiral Matrix",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126189,
+                    "name": "DSA JAVA 11 - Rotate Image",
+                    "type": 2,
+                    "stats": {}
+                  }
+                ]
+              },
+              {
+                "id": 52393436,
+                "name": "2. Hash Maps & Hash Set",
+                "type": 1,
+                "stats": {
+                  "videos": 10,
+                  "files": 0,
+                  "tests": 0
+                },
+                "children": [
+                  {
+                    "id": 162126214,
+                    "name": "DSA JAVA 12  - jewels and stones",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126215,
+                    "name": "DSA JAVA 13 - Ransome Note",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126211,
+                    "name": "DSA JAVA 14 - Contains Duplicate",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126212,
+                    "name": "DSA JAVA 15 - Valid Anagram",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126213,
+                    "name": "DSA JAVA 16 - Two Sum",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126216,
+                    "name": "DSA JAVA 17 - Group Anagrams",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126219,
+                    "name": "DSA JAVA 18 - Valid Sudoku",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126218,
+                    "name": "DSA JAVA 19 Maximum number of balloons",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126220,
+                    "name": "DSA JAVA 20 Longest Consecutive Sequence",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126217,
+                    "name": "DSA JAVA 21 Majority Elements",
+                    "type": 2,
+                    "stats": {}
+                  }
+                ]
+              },
+              {
+                "id": 52393444,
+                "name": "3. Two Pointers",
+                "type": 1,
+                "stats": {
+                  "videos": 5,
+                  "files": 0,
+                  "tests": 0
+                },
+                "children": [
+                  {
+                    "id": 162126239,
+                    "name": "DSA JAVA 25 Trapping Rain Water",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126238,
+                    "name": "DSA JAVA 23 Two Sum II – Input Array is Sorted",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126240,
+                    "name": "DSA JAVA 22 Reverse String",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126241,
+                    "name": "DSA JAVA 24 Valid Palindrome",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126242,
+                    "name": "DSA JAVA 26 Trapping Rain Water",
+                    "type": 2,
+                    "stats": {}
+                  }
+                ]
+              },
+              {
+                "id": 52393452,
+                "name": "4. Stacks",
+                "type": 1,
+                "stats": {
+                  "videos": 5,
+                  "files": 0,
+                  "tests": 0
+                },
+                "children": [
+                  {
+                    "id": 162126258,
+                    "name": "DSA JAVA 27 Baseball Game",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126260,
+                    "name": "DSA JAVA 28 Valid Parentheses",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126257,
+                    "name": "DSA JAVA 29 Daily Temperatures",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126259,
+                    "name": "DSA JAVA 30 Evaluate Reverse Polish Notation",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126261,
+                    "name": "DSA JAVA 31 155-Min Stack",
+                    "type": 2,
+                    "stats": {}
+                  }
+                ]
+              },
+              {
+                "id": 52393460,
+                "name": "5. Binary Search",
+                "type": 1,
+                "stats": {
+                  "videos": 8,
+                  "files": 0,
+                  "tests": 0
+                },
+                "children": [
+                  {
+                    "id": 162126278,
+                    "name": "DSA JAVA 32 Binary Search",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126277,
+                    "name": "DSA JAVA 33 Search Insert Position",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126279,
+                    "name": "DSA JAVA 34 Search a 2D Matrix",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126276,
+                    "name": "DSA JAVA 35 Find Minimum in Rotated Sorted Array",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126281,
+                    "name": "DSA JAVA 36 Search in Rotated Sorted Array",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126282,
+                    "name": "DSA JAVA 37 First Bad Version",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126280,
+                    "name": "DSA JAVA 38 Valid Perfect Square",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126283,
+                    "name": "DSA JAVA 39 Koko Eating Bananas",
+                    "type": 2,
+                    "stats": {}
+                  }
+                ]
+              },
+              {
+                "id": 52393466,
+                "name": "6. Linked List",
+                "type": 1,
+                "stats": {
+                  "videos": 8,
+                  "files": 0,
+                  "tests": 0
+                },
+                "children": [
+                  {
+                    "id": 162126298,
+                    "name": "DSA JAVA 40 Remove Duplicates from Sorted List",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126299,
+                    "name": "DSA JAVA 41 Reverse Linked List",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126301,
+                    "name": "DSA JAVA 42 Merge Two Sorted Lists",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126300,
+                    "name": "DSA JAVA 43 Linked List Cycle",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126303,
+                    "name": "DSA JAVA 44 Insert Greatest Common Divisors in Lin",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126304,
+                    "name": "DSA JAVA 45 Remove the Nth Node from the End of Th",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126302,
+                    "name": "DSA JAVA 46 Middle of the Linked List",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126305,
+                    "name": "DSA JAVA 47 Copy List with Random Pointer",
+                    "type": 2,
+                    "stats": {}
+                  }
+                ]
+              },
+              {
+                "id": 52393472,
+                "name": "7. Sliding Window",
+                "type": 1,
+                "stats": {
+                  "videos": 4,
+                  "files": 0,
+                  "tests": 0
+                },
+                "children": [
+                  {
+                    "id": 162126320,
+                    "name": "DSA JAVA 48 Max Consecutive Ones III",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126319,
+                    "name": "DSA JAVA 49 Longest Repeating Character Replacemen",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126318,
+                    "name": "DSA JAVA 50 Minimum Size Subarray Sum",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126321,
+                    "name": "DSA JAVA 51 Permutation in String(Fixed Sliding Wi",
+                    "type": 2,
+                    "stats": {}
+                  }
+                ]
+              },
+              {
+                "id": 52393477,
+                "name": "8. Trees",
+                "type": 1,
+                "stats": {
+                  "videos": 16,
+                  "files": 0,
+                  "tests": 0
+                },
+                "children": [
+                  {
+                    "id": 162126339,
+                    "name": "DSA JAVA 52 Invert Binary Tree",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126340,
+                    "name": "DSA JAVA 53 Maximum Depth of Binary Tree",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126344,
+                    "name": "DSA JAVA 54 Balanced Binary Tree",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126343,
+                    "name": "DSA JAVA 55 Diameter of Binary Tree",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126341,
+                    "name": "DSA JAVA 56 Same Tree",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126345,
+                    "name": "DSA JAVA 57 Symmetric Tree",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126347,
+                    "name": "DSA JAVA 58 Subtree of Another Tree",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126346,
+                    "name": "DSA JAVA 59 Count Good Nodes in Binary Tree",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126342,
+                    "name": "DSA JAVA 60 Path Sum",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126352,
+                    "name": "DSA JAVA 61 Binary Tree Level Order Traversal",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126353,
+                    "name": "DSA JAVA 62 Average of Levels in Binary Tree",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126351,
+                    "name": "DSA JAVA 63 Kth Smallest Element in BST",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126349,
+                    "name": "DSA JAVA 64 Minimum Absolute Difference in BST",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126350,
+                    "name": "DSA JAVA 65 Validate Binary Search Tree",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126348,
+                    "name": "DSA JAVA 66 Lowest Common Ancestor of a BST",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126354,
+                    "name": "DSA JAVA 67 Implement Trie(prefix Tree)",
+                    "type": 2,
+                    "stats": {}
+                  }
+                ]
+              },
+              {
+                "id": 52393484,
+                "name": "9. Heaps",
+                "type": 1,
+                "stats": {
+                  "videos": 5,
+                  "files": 0,
+                  "tests": 0
+                },
+                "children": [
+                  {
+                    "id": 162126369,
+                    "name": "DSA JAVA 68 Last Stone Weight",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126371,
+                    "name": "DSA JAVA 69 Kth Largest Element",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126372,
+                    "name": "DSA JAVA 70 Top K Frequent Elements",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126370,
+                    "name": "DSA JAVA 71 K Closest Points to Origin",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126368,
+                    "name": "DSA JAVA 72 Merge K Sorted Linked Lists",
+                    "type": 2,
+                    "stats": {}
+                  }
+                ]
+              },
+              {
+                "id": 52393493,
+                "name": "10. Recursive Backtracking",
+                "type": 1,
+                "stats": {
+                  "videos": 6,
+                  "files": 0,
+                  "tests": 0
+                },
+                "children": [
+                  {
+                    "id": 162126395,
+                    "name": "DSA JAVA 73 Permutations",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126393,
+                    "name": "DSA JAVA 74 Copmbinations",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126394,
+                    "name": "DSA JAVA 75 Combination Sum",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126396,
+                    "name": "DSA JAVA 76 Letter Combinations of a Phone Number",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126397,
+                    "name": "DSA JAVA 77 Generate Parentheses",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126398,
+                    "name": "DSA JAVA 78 Word Search",
+                    "type": 2,
+                    "stats": {}
+                  }
+                ]
+              },
+              {
+                "id": 52393501,
+                "name": "11. Graphs",
+                "type": 1,
+                "stats": {
+                  "videos": 9,
+                  "files": 0,
+                  "tests": 0
+                },
+                "children": [
+                  {
+                    "id": 162126419,
+                    "name": "DSA JAVA 79 Find if Path Exists in Graph",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126417,
+                    "name": "DSA JAVA 80 Number of Islands",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126415,
+                    "name": "DSA JAVA 81 Max Area of Island",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126416,
+                    "name": "DSA JAVA 82 Course Schedule",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126418,
+                    "name": "DSA JAVA 83 Course Schedule II",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126420,
+                    "name": "DSA JAVA 84 Pacific Atlantic Water Flow",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126422,
+                    "name": "DSA JAVA 85 Clone Graphs",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126423,
+                    "name": "DSA JAVA 86 Rotting Oranges",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126421,
+                    "name": "DSA JAVA 87 Min Cost to Connect All Points(Prim’s ",
+                    "type": 2,
+                    "stats": {}
+                  }
+                ]
+              },
+              {
+                "id": 52393508,
+                "name": "12. Dynamic Programming",
+                "type": 1,
+                "stats": {
+                  "videos": 11,
+                  "files": 0,
+                  "tests": 0
+                },
+                "children": [
+                  {
+                    "id": 162126450,
+                    "name": "DSA JAVA 88 Network Delay Time(Djikstra’s Algo)",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126448,
+                    "name": "DSA JAVA 89 Fibonacci Number",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126445,
+                    "name": "DSA JAVA 90 Climbing Stairs",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126446,
+                    "name": "DSA JAVA 91 Min Cost Climbing Stairs",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126451,
+                    "name": "DSA JAVA 92 Coin Change",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126449,
+                    "name": "DSA JAVA 93 House Robber",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126447,
+                    "name": "DSA jAVA 94 Unique Paths",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126443,
+                    "name": "DSA JAVA 95 Maximum Subarray(Kadane’s Algorithm)",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126444,
+                    "name": "DSA JAVA 96 Jump Game",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126452,
+                    "name": "DSA JAVA 97 Longest Increasing Subsequence",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126453,
+                    "name": "DSA JAVA 98 Longest Common Subsequence",
+                    "type": 2,
+                    "stats": {}
+                  }
+                ]
+              },
+              {
+                "id": 52393518,
+                "name": "13. Miscellaneous – Common LeetCode Questions",
+                "type": 1,
+                "stats": {
+                  "videos": 12,
+                  "files": 0,
+                  "tests": 0
+                },
+                "children": [
+                  {
+                    "id": 162126477,
+                    "name": "DSA JAVA 99 4Sum- Two Pointers",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126474,
+                    "name": "DSA JAVA 100 3Sum Closest- Two Pointers",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126473,
+                    "name": "DSA JAVA 101 Sort Colors- Arrays & Strings",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126476,
+                    "name": "DSA JAVA 102 ZigZag Conversion - Arrays & Strings",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126475,
+                    "name": "DSA JAVA 103 Largest Rectangle in Histogram- Stack",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126472,
+                    "name": "DSA JAVA 104 Merge Sorted Array-Arrays & Strings",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126483,
+                    "name": "DSA JAVA 105 Remove Elements-Two Pointers",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126479,
+                    "name": "DSA JAVA 106 Remove Duplicates from Sorted Array-A",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126478,
+                    "name": "DSA JAVA 107 Remove Duplicates from Sorted Array I",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126481,
+                    "name": "DSA JAVA 108 Best Time to Buy and Sell Stocks- Arr",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126480,
+                    "name": "DSA JAVA 109 Jump Game II- Recursive Backtracking",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126482,
+                    "name": "DSA JAVA 110 H Index- Arrays & Strings",
+                    "type": 2,
+                    "stats": {}
+                  }
+                ]
+              },
+              {
+                "id": 52393526,
+                "name": "14. Bit Manipulation",
+                "type": 1,
+                "stats": {
+                  "videos": 4,
+                  "files": 0,
+                  "tests": 0
+                },
+                "children": [
+                  {
+                    "id": 162126501,
+                    "name": "DSA JAVA 111 Base 7",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126499,
+                    "name": "DSA JAVA 112 Number of 1Bits",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126502,
+                    "name": "DSA JAVA 113 Add Binary",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162126500,
+                    "name": "DSA JAVA 114 Single Number",
+                    "type": 2,
+                    "stats": {}
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": 162125986,
+            "name": "Python Course: Overview",
+            "type": 2,
+            "stats": {}
+          }
+        ]
+      },
+      {
+        "id": 52393383,
+        "name": "2.4 Advance - DSA HARD LEVEL PYTHON QUESTIONS",
+        "type": 1,
+        "stats": {
+          "videos": 1,
+          "files": 0,
+          "tests": 0
+        },
+        "children": [
+          {
+            "id": 162125990,
+            "name": "Advance DSA- Hard DSA level questions( JAVA & Python)",
+            "type": 2,
+            "stats": {}
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 85400840,
+    "name": "Course Overview -Mock Test & E Books with Video Solutions.pdf",
+    "type": 3,
+    "stats": {}
+  },
+  {
+    "id": 162125977,
+    "name": "Overview TCS NQT: Mock Test Course",
+    "type": 2,
+    "stats": {}
+  },
+  {
+    "id": 52393358,
+    "name": "Day 1 : 4 Mock Test with video Solution",
+    "type": 1,
+    "stats": {
+      "videos": 0,
+      "files": 0,
+      "tests": 4
+    },
+    "children": [
+      {
+        "id": 29434856,
+        "name": "Verbal Ability (with Video Solutions)",
+        "type": 4,
+        "stats": {
+          "tests": 0
+        }
+      },
+      {
+        "id": 29434857,
+        "name": "1.1  Logical Reasoning - Assorted - With Video Solution",
+        "type": 4,
+        "stats": {
+          "tests": 0
+        }
+      },
+      {
+        "id": 29434858,
+        "name": "Para Jumbles",
+        "type": 4,
+        "stats": {
+          "tests": 0
+        }
+      },
+      {
+        "id": 29434859,
+        "name": "1.1 Quantitative Mock",
+        "type": 4,
+        "stats": {
+          "tests": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": 52393359,
+    "name": "Day 2 : 4 Mock Test with video Solution",
+    "type": 1,
+    "stats": {
+      "videos": 2,
+      "files": 0,
+      "tests": 4
+    },
+    "children": [
+      {
+        "id": 52393361,
+        "name": "Assorted Mock - Quant + Lr with solution",
+        "type": 1,
+        "stats": {
+          "videos": 2,
+          "files": 0,
+          "tests": 1
+        },
+        "children": [
+          {
+            "id": 29434866,
+            "name": "Assorted Mock 01 with Video Solutions",
+            "type": 4,
+            "stats": {
+              "tests": 0
+            }
+          },
+          {
+            "id": 162125978,
+            "name": "Q1-Q6",
+            "type": 2,
+            "stats": {}
+          },
+          {
+            "id": 162125979,
+            "name": "Q7-Q13",
+            "type": 2,
+            "stats": {}
+          }
+        ]
+      },
+      {
+        "id": 29434860,
+        "name": "1.2 Verbal ability Assorted 02  with Solution",
+        "type": 4,
+        "stats": {
+          "tests": 0
+        }
+      },
+      {
+        "id": 29434861,
+        "name": "1.3 Logical Reasoning Assorted With Video Solution",
+        "type": 4,
+        "stats": {
+          "tests": null
+        }
+      },
+      {
+        "id": 29434862,
+        "name": "VERBAL ABILITY _RC 02",
+        "type": 4,
+        "stats": {
+          "tests": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": 52393360,
+    "name": "Day 3 : Full Length Test with Video Solution",
+    "type": 1,
+    "stats": {
+      "videos": 0,
+      "files": 1,
+      "tests": 3
+    },
+    "children": [
+      {
+        "id": 29434863,
+        "name": "Numerical Ability- All India 2024",
+        "type": 4,
+        "stats": {
+          "tests": null
+        }
+      },
+      {
+        "id": 29434864,
+        "name": "All Indai - Logical Reasoning 2024",
+        "type": 4,
+        "stats": {
+          "tests": null
+        }
+      },
+      {
+        "id": 29434865,
+        "name": "Full length verbal ability - All India",
+        "type": 4,
+        "stats": {
+          "tests": null
+        }
+      },
+      {
+        "id": 85400841,
+        "name": "All India TCS MOCK Numercial 01",
+        "type": 3,
+        "stats": {}
+      }
+    ]
+  },
+  {
+    "id": 52393362,
+    "name": "Day 4 : Full Length Test with Video Solution",
+    "type": 1,
+    "stats": {
+      "videos": 0,
+      "files": 0,
+      "tests": 3
+    },
+    "children": [
+      {
+        "id": 29434867,
+        "name": "1.4 Verbal ability Assorted 04- Mock With Solution",
+        "type": 4,
+        "stats": {
+          "tests": 0
+        }
+      },
+      {
+        "id": 29434868,
+        "name": "TCS Full length 04",
+        "type": 4,
+        "stats": {
+          "tests": null
+        }
+      },
+      {
+        "id": 29434869,
+        "name": "1.4 Pre Assessment (TCS  Updated Pattern Mock Test _ PYQ)",
+        "type": 4,
+        "stats": {
+          "tests": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": 52393363,
+    "name": "Day 5 : Full Length Mock Test with Video Solution",
+    "type": 1,
+    "stats": {
+      "videos": 0,
+      "files": 1,
+      "tests": 3
+    },
+    "children": [
+      {
+        "id": 29434870,
+        "name": "TCS 2024",
+        "type": 4,
+        "stats": {
+          "tests": null
+        }
+      },
+      {
+        "id": 29434871,
+        "name": "1.3 Verbal Ability Assorted 03",
+        "type": 4,
+        "stats": {
+          "tests": 0
+        }
+      },
+      {
+        "id": 29434872,
+        "name": "Assorted LRDI Important",
+        "type": 4,
+        "stats": {
+          "tests": 0
+        }
+      },
+      {
+        "id": 85400842,
+        "name": "1.1 With Solution- Full Mock Test Coding.pdf",
+        "type": 3,
+        "stats": {}
+      }
+    ]
+  },
+  {
+    "id": 52393364,
+    "name": "Day 6: Full Length Mock Test with Video Solution",
+    "type": 1,
+    "stats": {
+      "videos": 0,
+      "files": 1,
+      "tests": 3
+    },
+    "children": [
+      {
+        "id": 29434874,
+        "name": "Full Lenght 02",
+        "type": 4,
+        "stats": {
+          "tests": null
+        }
+      },
+      {
+        "id": 29434873,
+        "name": "Verbal Ability : Synonym & Antonym",
+        "type": 4,
+        "stats": {
+          "tests": 0
+        }
+      },
+      {
+        "id": 29434875,
+        "name": "1.1 Verbal Ability Assorted  01",
+        "type": 4,
+        "stats": {
+          "tests": 0
+        }
+      },
+      {
+        "id": 85400843,
+        "name": "1.2 With Solution Full Mock Test Coding.pdf",
+        "type": 3,
+        "stats": {}
+      }
+    ]
+  },
+  {
+    "id": 52393365,
+    "name": "Day 7 : Full Length Mock Test",
+    "type": 1,
+    "stats": {
+      "videos": 0,
+      "files": 1,
+      "tests": 2
+    },
+    "children": [
+      {
+        "id": 29434876,
+        "name": "1.3 Numerical Ability",
+        "type": 4,
+        "stats": {
+          "tests": 0
+        }
+      },
+      {
+        "id": 52393367,
+        "name": "All India TCS Mock 03",
+        "type": 1,
+        "stats": {
+          "videos": 0,
+          "files": 0,
+          "tests": 1
+        },
+        "children": [
+          {
+            "id": 29434877,
+            "name": "TCS 03",
+            "type": 4,
+            "stats": {
+              "tests": null
+            }
+          }
+        ]
+      },
+      {
+        "id": 85400844,
+        "name": "1.3 With Solution-Full Mock Test Coding.pdf",
+        "type": 3,
+        "stats": {}
+      }
+    ]
+  },
+  {
+    "id": 52393371,
+    "name": "1. Coding 10 days : 30 Min Coding",
+    "type": 1,
+    "stats": {
+      "videos": 0,
+      "files": 10,
+      "tests": 0
+    },
+    "children": [
+      {
+        "id": 85400857,
+        "name": "Day 01 Coding Mock.pdf",
+        "type": 3,
+        "stats": {}
+      },
+      {
+        "id": 85400861,
+        "name": "Day 02 Coding Mock.pdf",
+        "type": 3,
+        "stats": {}
+      },
+      {
+        "id": 85400860,
+        "name": "Day 03 Coding Mock .pdf",
+        "type": 3,
+        "stats": {}
+      },
+      {
+        "id": 85400859,
+        "name": "Day 04 Coding Mock.pdf",
+        "type": 3,
+        "stats": {}
+      },
+      {
+        "id": 85400858,
+        "name": "Day 05 Coding Mock .pdf",
+        "type": 3,
+        "stats": {}
+      },
+      {
+        "id": 85400856,
+        "name": "Day 06 Coding Mock.pdf",
+        "type": 3,
+        "stats": {}
+      },
+      {
+        "id": 85400855,
+        "name": "Day 07 Coding Mock.pdf",
+        "type": 3,
+        "stats": {}
+      },
+      {
+        "id": 85400863,
+        "name": "Day 08 Coding Mock.pdf",
+        "type": 3,
+        "stats": {}
+      },
+      {
+        "id": 85400864,
+        "name": "Day 09 Coding Mock.pdf",
+        "type": 3,
+        "stats": {}
+      },
+      {
+        "id": 85400862,
+        "name": "Day 10 Coding Mock.pdf",
+        "type": 3,
+        "stats": {}
+      }
+    ]
+  },
+  {
+    "id": 52393375,
+    "name": "2. Coding 10 days : 40-50 Min Coding Ques",
+    "type": 1,
+    "stats": {
+      "videos": 0,
+      "files": 10,
+      "tests": 0
+    },
+    "children": [
+      {
+        "id": 85400873,
+        "name": "Day 11 Coding Mock.pdf",
+        "type": 3,
+        "stats": {}
+      },
+      {
+        "id": 85400874,
+        "name": "Day 12 Coding Mock (1).pdf",
+        "type": 3,
+        "stats": {}
+      },
+      {
+        "id": 85400872,
+        "name": "Day 13 Coding Mock.pdf",
+        "type": 3,
+        "stats": {}
+      },
+      {
+        "id": 85400871,
+        "name": "Day 14 Coding Mock.pdf",
+        "type": 3,
+        "stats": {}
+      },
+      {
+        "id": 85400870,
+        "name": "Day 15 Coding Mock.pdf",
+        "type": 3,
+        "stats": {}
+      },
+      {
+        "id": 85400869,
+        "name": "Day 16 Coding Mock.pdf",
+        "type": 3,
+        "stats": {}
+      },
+      {
+        "id": 85400875,
+        "name": "Day 17 Coding Mock.pdf",
+        "type": 3,
+        "stats": {}
+      },
+      {
+        "id": 85400868,
+        "name": "Day 18 Coding Mock.pdf",
+        "type": 3,
+        "stats": {}
+      },
+      {
+        "id": 85400866,
+        "name": "Day 19 Coding Mock.pdf",
+        "type": 3,
+        "stats": {}
+      },
+      {
+        "id": 85400867,
+        "name": "Day 20 Coding Mock.pdf",
+        "type": 3,
+        "stats": {}
+      }
+    ]
+  },
+  {
+    "id": 52393380,
+    "name": "Day 8 : Full Length Mock Test",
+    "type": 1,
+    "stats": {
+      "videos": 0,
+      "files": 1,
+      "tests": 3
+    },
+    "children": [
+      {
+        "id": 29434878,
+        "name": "Numerical ability TCS NQT 2025",
+        "type": 4,
+        "stats": {
+          "tests": null
+        }
+      },
+      {
+        "id": 29434879,
+        "name": "Verbal Ability All India",
+        "type": 4,
+        "stats": {
+          "tests": null
+        }
+      },
+      {
+        "id": 29434880,
+        "name": "Logical Reasoning TCSNQT 2025",
+        "type": 4,
+        "stats": {
+          "tests": null
+        }
+      },
+      {
+        "id": 85400877,
+        "name": "Mock Test 8 Full Length Solutions.pdf",
+        "type": 3,
+        "stats": {}
+      }
+    ]
+  },
+  {
+    "id": 52393424,
+    "name": "All India Mock -8 March 2026",
+    "type": 1,
+    "stats": {
+      "videos": 0,
+      "files": 1,
+      "tests": 3
+    },
+    "children": [
+      {
+        "id": 29434887,
+        "name": "Final  All India: Numerical Mock Test",
+        "type": 4,
+        "stats": {
+          "tests": null
+        }
+      },
+      {
+        "id": 29434888,
+        "name": "Logical Reasoning",
+        "type": 4,
+        "stats": {
+          "tests": null
+        }
+      },
+      {
+        "id": 29434889,
+        "name": "Verbal ability All India 01",
+        "type": 4,
+        "stats": {
+          "tests": null
+        }
+      },
+      {
+        "id": 85400902,
+        "name": "Video Solution.pdf",
+        "type": 3,
+        "stats": {}
+      }
+    ]
+  },
+  {
+    "id": 52393439,
+    "name": "E Books With Video Solutions",
+    "type": 1,
+    "stats": {
+      "videos": 0,
+      "files": 7,
+      "tests": 0
+    },
+    "children": [
+      {
+        "id": 85400915,
+        "name": "1. Pseudo Codes Technical ebook",
+        "type": 3,
+        "stats": {}
+      },
+      {
+        "id": 85400912,
+        "name": "2. Coding Book - Amogh Sir Imp Leetcode Questions with Video Solutions",
+        "type": 3,
+        "stats": {}
+      },
+      {
+        "id": 85400916,
+        "name": "3. Logical Ebook with Video Solutions",
+        "type": 3,
+        "stats": {}
+      },
+      {
+        "id": 85400911,
+        "name": "4. Quantitative Aptitude with Video Sol",
+        "type": 3,
+        "stats": {}
+      },
+      {
+        "id": 85400913,
+        "name": "5. Verbal Ability With Video Solution",
+        "type": 3,
+        "stats": {}
+      },
+      {
+        "id": 85400914,
+        "name": "Data Interpretation with Video Solpdf",
+        "type": 3,
+        "stats": {}
+      },
+      {
+        "id": 85400917,
+        "name": "DSA Ka Baap - Java Video Solution",
+        "type": 3,
+        "stats": {}
+      }
+    ]
+  },
+  {
+    "id": 52856659,
+    "name": "01: Weekly Test",
+    "type": 1,
+    "stats": {
+      "videos": 0,
+      "files": 7,
+      "tests": 4
+    },
+    "children": [
+      {
+        "id": 54032980,
+        "name": "Coding Cheat Sheets",
+        "type": 1,
+        "stats": {
+          "videos": 0,
+          "files": 3,
+          "tests": 0
+        },
+        "children": [
+          {
+            "id": 88486143,
+            "name": "C++ - InputOutput - CheatSheet.pdf",
+            "type": 3,
+            "stats": {}
+          },
+          {
+            "id": 88486142,
+            "name": "Java - InputOutput - CheatSheet.pdf",
+            "type": 3,
+            "stats": {}
+          },
+          {
+            "id": 88486144,
+            "name": "Python - InputOutput - CheatSheet.pdf",
+            "type": 3,
+            "stats": {}
+          }
+        ]
+      },
+      {
+        "id": 88364500,
+        "name": "Coding_Mock_Test_Complete with cheat code.pdf",
+        "type": 3,
+        "stats": {}
+      },
+      {
+        "id": 88364506,
+        "name": "C++ Input-Output CheatSheet.pdf",
+        "type": 3,
+        "stats": {}
+      },
+      {
+        "id": 88364505,
+        "name": "Java Input-Output CheatSheet.pdf",
+        "type": 3,
+        "stats": {}
+      },
+      {
+        "id": 88364504,
+        "name": "Python Input-Output CheatSheet.pdf",
+        "type": 3,
+        "stats": {}
+      },
+      {
+        "id": 30204624,
+        "name": "Time Work Pipes",
+        "type": 4,
+        "stats": {
+          "tests": null
+        }
+      },
+      {
+        "id": 29864725,
+        "name": "Floor Based Arrangement",
+        "type": 4,
+        "stats": {
+          "tests": null
+        }
+      },
+      {
+        "id": 29682787,
+        "name": "1. Coding Decoding",
+        "type": 4,
+        "stats": {
+          "tests": 0
+        }
+      },
+      {
+        "id": 29682788,
+        "name": "Percenatge 01",
+        "type": 4,
+        "stats": {
+          "tests": null
+        }
+      }
+    ]
+  }
+]

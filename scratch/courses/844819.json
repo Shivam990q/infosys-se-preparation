@@ -1,0 +1,454 @@
+[
+  {
+    "id": 162635155,
+    "name": "1.0   Access through website",
+    "type": 2,
+    "stats": {}
+  },
+  {
+    "id": 52575671,
+    "name": "Day 01",
+    "type": 1,
+    "stats": {
+      "videos": 0,
+      "files": 0,
+      "tests": 3
+    },
+    "children": [
+      {
+        "id": 29493991,
+        "name": "1. Full Length Logical Reasoning Mock ( Video Sol)",
+        "type": 4,
+        "stats": {
+          "tests": null
+        }
+      },
+      {
+        "id": 29493992,
+        "name": "1. Full length verbal ability",
+        "type": 4,
+        "stats": {
+          "tests": null
+        }
+      },
+      {
+        "id": 29493993,
+        "name": "1. Full Length Numerical Ability with Video Solution- Level -Medium",
+        "type": 4,
+        "stats": {
+          "tests": null
+        }
+      }
+    ]
+  },
+  {
+    "id": 52575672,
+    "name": "Day 02",
+    "type": 1,
+    "stats": {
+      "videos": 0,
+      "files": 0,
+      "tests": 3
+    },
+    "children": [
+      {
+        "id": 29493994,
+        "name": "2. Full length Verbal Ability",
+        "type": 4,
+        "stats": {
+          "tests": 0
+        }
+      },
+      {
+        "id": 29493995,
+        "name": "2. Full length Logical Reasoning (with sol)",
+        "type": 4,
+        "stats": {
+          "tests": 0
+        }
+      },
+      {
+        "id": 29493996,
+        "name": "2. Full length Quantitative Aptitude (with sol) Level -2",
+        "type": 4,
+        "stats": {
+          "tests": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": 52575673,
+    "name": "Day 03",
+    "type": 1,
+    "stats": {
+      "videos": 0,
+      "files": 0,
+      "tests": 3
+    },
+    "children": [
+      {
+        "id": 29493997,
+        "name": "3. Full length Quantitative Aptitude (with sol) Level -1-2",
+        "type": 4,
+        "stats": {
+          "tests": 0
+        }
+      },
+      {
+        "id": 29493998,
+        "name": "3. Full Length Verbala Ability Mock",
+        "type": 4,
+        "stats": {
+          "tests": 0
+        }
+      },
+      {
+        "id": 29493999,
+        "name": "3. Full Length Logical Reasoning Mock(with sol)",
+        "type": 4,
+        "stats": {
+          "tests": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": 52575674,
+    "name": "Day 04",
+    "type": 1,
+    "stats": {
+      "videos": 0,
+      "files": 0,
+      "tests": 3
+    },
+    "children": [
+      {
+        "id": 29494000,
+        "name": "4. Full Length Logical Reasoning(with sol)",
+        "type": 4,
+        "stats": {
+          "tests": null
+        }
+      },
+      {
+        "id": 29494001,
+        "name": "4. Full Length Verbal Ability",
+        "type": 4,
+        "stats": {
+          "tests": 0
+        }
+      },
+      {
+        "id": 29494002,
+        "name": "Technical MCQ - Pseudo Codes Based on PYQ With Video Sol",
+        "type": 4,
+        "stats": {
+          "tests": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": 52575675,
+    "name": "Day 05",
+    "type": 1,
+    "stats": {
+      "videos": 0,
+      "files": 0,
+      "tests": 2
+    },
+    "children": [
+      {
+        "id": 29494003,
+        "name": "5 Ful length Logical Reasoning Mock",
+        "type": 4,
+        "stats": {
+          "tests": null
+        }
+      },
+      {
+        "id": 29494004,
+        "name": "5 Ful length Verbal Ability",
+        "type": 4,
+        "stats": {
+          "tests": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": 52575676,
+    "name": "Day 06",
+    "type": 1,
+    "stats": {
+      "videos": 1,
+      "files": 0,
+      "tests": 4
+    },
+    "children": [
+      {
+        "id": 52575678,
+        "name": "1. Full Length Mock I- Based on Infosys PYQ",
+        "type": 1,
+        "stats": {
+          "videos": 1,
+          "files": 0,
+          "tests": 4
+        },
+        "children": [
+          {
+            "id": 29494005,
+            "name": "Quantitative Aptitude/Technical Abilty",
+            "type": 4,
+            "stats": {
+              "tests": null
+            }
+          },
+          {
+            "id": 29494006,
+            "name": "Logical Puzzle",
+            "type": 4,
+            "stats": {
+              "tests": null
+            }
+          },
+          {
+            "id": 29494007,
+            "name": "Pseudo Code",
+            "type": 4,
+            "stats": {
+              "tests": null
+            }
+          },
+          {
+            "id": 29494008,
+            "name": "Verbal Ability",
+            "type": 4,
+            "stats": {
+              "tests": null
+            }
+          },
+          {
+            "id": 162635156,
+            "name": "1. Full Mock Test Video Solution",
+            "type": 2,
+            "stats": {}
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 52575677,
+    "name": "Day 07",
+    "type": 1,
+    "stats": {
+      "videos": 0,
+      "files": 1,
+      "tests": 4
+    },
+    "children": [
+      {
+        "id": 52575680,
+        "name": "2. Full Length Mock II- Based on Infosys PYQ",
+        "type": 1,
+        "stats": {
+          "videos": 0,
+          "files": 1,
+          "tests": 4
+        },
+        "children": [
+          {
+            "id": 29494009,
+            "name": "SECTION-II: ANALYTICAL THINKING",
+            "type": 4,
+            "stats": {
+              "tests": null
+            }
+          },
+          {
+            "id": 29494010,
+            "name": "Section IV: Puzzle Solving",
+            "type": 4,
+            "stats": {
+              "tests": null
+            }
+          },
+          {
+            "id": 29494011,
+            "name": "SECTION-I: MATHEMATICAL ABILITY",
+            "type": 4,
+            "stats": {
+              "tests": null
+            }
+          },
+          {
+            "id": 29494012,
+            "name": "Section III : Pseudo Codes Based on PYQ",
+            "type": 4,
+            "stats": {
+              "tests": null
+            }
+          },
+          {
+            "id": 85741138,
+            "name": "Infosys Mock Test Video Solution.pdf",
+            "type": 3,
+            "stats": {}
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 52575679,
+    "name": "Day 08",
+    "type": 1,
+    "stats": {
+      "videos": 0,
+      "files": 1,
+      "tests": 2
+    },
+    "children": [
+      {
+        "id": 52575682,
+        "name": "3 Full Length Mock III- Based on Infosys PYQ",
+        "type": 1,
+        "stats": {
+          "videos": 0,
+          "files": 1,
+          "tests": 2
+        },
+        "children": [
+          {
+            "id": 29494013,
+            "name": "Technical MCQ - Pseudo Codes Based on PYQ 01",
+            "type": 4,
+            "stats": {
+              "tests": null
+            }
+          },
+          {
+            "id": 29494014,
+            "name": "Aptitude 01 - All India Mock 01",
+            "type": 4,
+            "stats": {
+              "tests": null
+            }
+          },
+          {
+            "id": 85741139,
+            "name": "Solution Link",
+            "type": 3,
+            "stats": {}
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 52575681,
+    "name": "Day 09",
+    "type": 1,
+    "stats": {
+      "videos": 0,
+      "files": 0,
+      "tests": 2
+    },
+    "children": [
+      {
+        "id": 52575684,
+        "name": "4. Full Length Mock IV Based on Infosys PYQ",
+        "type": 1,
+        "stats": {
+          "videos": 0,
+          "files": 0,
+          "tests": 2
+        },
+        "children": [
+          {
+            "id": 29494017,
+            "name": "Technical MCQ - Pseudo Codes Based on PYQ 02",
+            "type": 4,
+            "stats": {
+              "tests": null
+            }
+          },
+          {
+            "id": 29494016,
+            "name": "Aptitude 02 - All India Mock",
+            "type": 4,
+            "stats": {
+              "tests": null
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 52575683,
+    "name": "V. Imp PYQ: Puzzle Solving",
+    "type": 1,
+    "stats": {
+      "videos": 1,
+      "files": 0,
+      "tests": 1
+    },
+    "children": [
+      {
+        "id": 29494015,
+        "name": "LR (Number Puzzle Questions)",
+        "type": 4,
+        "stats": {
+          "tests": null
+        }
+      },
+      {
+        "id": 162635157,
+        "name": "Infosys Number puzzle",
+        "type": 2,
+        "stats": {}
+      }
+    ]
+  },
+  {
+    "id": 29493990,
+    "name": "Infosys English Question asked on 4 Oct 2025",
+    "type": 4,
+    "stats": {
+      "tests": null
+    }
+  },
+  {
+    "id": 85741136,
+    "name": "1. Imp Book - DI With Video Sol.pdf",
+    "type": 3,
+    "stats": {}
+  },
+  {
+    "id": 85741133,
+    "name": "2. Pseudo Codes With Video Sol",
+    "type": 3,
+    "stats": {}
+  },
+  {
+    "id": 85741134,
+    "name": "3. Verbal Ability with Video Sol",
+    "type": 3,
+    "stats": {}
+  },
+  {
+    "id": 85741132,
+    "name": "4. Book - Numerical ability",
+    "type": 3,
+    "stats": {}
+  },
+  {
+    "id": 85741135,
+    "name": "5. Book-Logical Reasoning",
+    "type": 3,
+    "stats": {}
+  }
+]

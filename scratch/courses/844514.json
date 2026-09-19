@@ -1,0 +1,4882 @@
+[
+  {
+    "id": 52856736,
+    "name": "NEW Weekly Mock Test",
+    "type": 1,
+    "stats": {
+      "videos": 0,
+      "files": 0,
+      "tests": 6
+    },
+    "children": [
+      {
+        "id": 31692968,
+        "name": "Ratio - Mixtures and Alligation - PYQ",
+        "type": 4,
+        "stats": {
+          "tests": null
+        }
+      },
+      {
+        "id": 31189443,
+        "name": "S.I & C.I  Mock test 2026",
+        "type": 4,
+        "stats": {
+          "tests": 0
+        }
+      },
+      {
+        "id": 29683667,
+        "name": "Percenatge 01",
+        "type": 4,
+        "stats": {
+          "tests": null
+        }
+      },
+      {
+        "id": 29683668,
+        "name": "1. Coding Decoding",
+        "type": 4,
+        "stats": {
+          "tests": 0
+        }
+      },
+      {
+        "id": 30204625,
+        "name": "Time Work Pipes",
+        "type": 4,
+        "stats": {
+          "tests": null
+        }
+      },
+      {
+        "id": 29864878,
+        "name": "Floor Based Arrangement",
+        "type": 4,
+        "stats": {
+          "tests": null
+        }
+      }
+    ]
+  },
+  {
+    "id": 52551138,
+    "name": "1.1 Induction : Please Follow This Before You Star",
+    "type": 1,
+    "stats": {
+      "videos": 1,
+      "files": 9,
+      "tests": 0
+    },
+    "children": [
+      {
+        "id": 162545058,
+        "name": "1. Induction",
+        "type": 2,
+        "stats": {}
+      },
+      {
+        "id": 85694669,
+        "name": "2025 Premium Whattsup 02.pdf",
+        "type": 3,
+        "stats": {}
+      },
+      {
+        "id": 85694670,
+        "name": "1.2 Aptitude Topics covered Stratergy docx",
+        "type": 3,
+        "stats": {}
+      },
+      {
+        "id": 85694671,
+        "name": "1.3 Telegram Group Premium",
+        "type": 3,
+        "stats": {}
+      },
+      {
+        "id": 85694675,
+        "name": "Logical Reasoning Sheet .pdf",
+        "type": 3,
+        "stats": {}
+      },
+      {
+        "id": 85694674,
+        "name": "Numerical Ability- Quantitative Sheet .pdf",
+        "type": 3,
+        "stats": {}
+      },
+      {
+        "id": 85694676,
+        "name": "Verbal Ability.pdf",
+        "type": 3,
+        "stats": {}
+      },
+      {
+        "id": 85694673,
+        "name": "SQL Sheet.pdf",
+        "type": 3,
+        "stats": {}
+      },
+      {
+        "id": 85694672,
+        "name": "Black Book -DSA_SHEET.pdf",
+        "type": 3,
+        "stats": {}
+      },
+      {
+        "id": 85694677,
+        "name": "ADVANCE APTITUDE-TCS.pdf",
+        "type": 3,
+        "stats": {}
+      }
+    ]
+  },
+  {
+    "id": 52551136,
+    "name": "1.2: Pre-Recorded- Logical , Quant  and Ver",
+    "type": 1,
+    "stats": {
+      "videos": 164,
+      "files": 63,
+      "tests": 26
+    },
+    "children": [
+      {
+        "id": 52551139,
+        "name": "1.1 Logical Reasoning",
+        "type": 1,
+        "stats": {
+          "videos": 38,
+          "files": 19,
+          "tests": 13
+        },
+        "children": [
+          {
+            "id": 52551143,
+            "name": "Module 01 : Alphabet Related Topics ",
+            "type": 1,
+            "stats": {
+              "videos": 2,
+              "files": 5,
+              "tests": 1
+            },
+            "children": [
+              {
+                "id": 52551157,
+                "name": "2. Topic Test",
+                "type": 1,
+                "stats": {
+                  "videos": 0,
+                  "files": 0,
+                  "tests": 1
+                },
+                "children": [
+                  {
+                    "id": 29486164,
+                    "name": "Coding decoding",
+                    "type": 4,
+                    "stats": {
+                      "tests": 0
+                    }
+                  }
+                ]
+              },
+              {
+                "id": 52551149,
+                "name": "1. Coding Decoding Concept Videos",
+                "type": 1,
+                "stats": {
+                  "videos": 2,
+                  "files": 5,
+                  "tests": 0
+                },
+                "children": [
+                  {
+                    "id": 52551159,
+                    "name": "4 -DPP Solution- Hand written",
+                    "type": 1,
+                    "stats": {
+                      "videos": 0,
+                      "files": 4,
+                      "tests": 0
+                    },
+                    "children": [
+                      {
+                        "id": 85694687,
+                        "name": "HW-1",
+                        "type": 3,
+                        "stats": {}
+                      },
+                      {
+                        "id": 85694688,
+                        "name": "HW-2",
+                        "type": 3,
+                        "stats": {}
+                      },
+                      {
+                        "id": 85694690,
+                        "name": "HW-3",
+                        "type": 3,
+                        "stats": {}
+                      },
+                      {
+                        "id": 85694689,
+                        "name": "HW-4",
+                        "type": 3,
+                        "stats": {}
+                      }
+                    ]
+                  },
+                  {
+                    "id": 162545072,
+                    "name": "1. Coding Decoding _ By Rachit Rastogi",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162545073,
+                    "name": "2. Coding Decoding  _ Rachit Rastogi",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 85694683,
+                    "name": "3.  DPP 01  Coding Decoding",
+                    "type": 3,
+                    "stats": {}
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": 52551148,
+            "name": "Module 02 : Distance and Direction",
+            "type": 1,
+            "stats": {
+              "videos": 2,
+              "files": 1,
+              "tests": 2
+            },
+            "children": [
+              {
+                "id": 52551156,
+                "name": "Distance and Direction Concept Video",
+                "type": 1,
+                "stats": {
+                  "videos": 2,
+                  "files": 1,
+                  "tests": 0
+                },
+                "children": [
+                  {
+                    "id": 162545091,
+                    "name": "1.  Direction and Distance  _ Placement Part 1",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162545092,
+                    "name": "2. Types: distance , angle ,Shadow",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 85694686,
+                    "name": "LR- distance direction",
+                    "type": 3,
+                    "stats": {}
+                  }
+                ]
+              },
+              {
+                "id": 52551167,
+                "name": "Topic Test",
+                "type": 1,
+                "stats": {
+                  "videos": 0,
+                  "files": 0,
+                  "tests": 2
+                },
+                "children": [
+                  {
+                    "id": 29486169,
+                    "name": "DISTANCE AND DIRECTION TEST 02",
+                    "type": 4,
+                    "stats": {
+                      "tests": 0
+                    }
+                  },
+                  {
+                    "id": 29486170,
+                    "name": "DISTANCE AND DIRECTION TEST",
+                    "type": 4,
+                    "stats": {
+                      "tests": 0
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": 52551186,
+            "name": "Module 06 : Miscellaneous Arrangement",
+            "type": 1,
+            "stats": {
+              "videos": 2,
+              "files": 1,
+              "tests": 0
+            },
+            "children": [
+              {
+                "id": 85694728,
+                "name": "square , Circle , Triangular ",
+                "type": 3,
+                "stats": {}
+              },
+              {
+                "id": 162545117,
+                "name": "Q1 Q.2",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 162545118,
+                "name": "Q.2",
+                "type": 2,
+                "stats": {}
+              }
+            ]
+          },
+          {
+            "id": 52551162,
+            "name": "Module 04 :  Blood Relation",
+            "type": 1,
+            "stats": {
+              "videos": 1,
+              "files": 2,
+              "tests": 1
+            },
+            "children": [
+              {
+                "id": 52551174,
+                "name": "Concept Video Blood Relation _ Live",
+                "type": 1,
+                "stats": {
+                  "videos": 1,
+                  "files": 1,
+                  "tests": 0
+                },
+                "children": [
+                  {
+                    "id": 162545106,
+                    "name": "Blood Relation ",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 85694715,
+                    "name": "Practice Sheet _ assignment blood relaton CM",
+                    "type": 3,
+                    "stats": {}
+                  }
+                ]
+              },
+              {
+                "id": 52551189,
+                "name": "Topic Mock Test",
+                "type": 1,
+                "stats": {
+                  "videos": 0,
+                  "files": 1,
+                  "tests": 1
+                },
+                "children": [
+                  {
+                    "id": 29486188,
+                    "name": "BLOOD RELATION TEST 01",
+                    "type": 4,
+                    "stats": {
+                      "tests": 0
+                    }
+                  },
+                  {
+                    "id": 85694729,
+                    "name": "Blood Relation",
+                    "type": 3,
+                    "stats": {}
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": 52551154,
+            "name": "Module 03  : Linear and Parallel Arrangement ",
+            "type": 1,
+            "stats": {
+              "videos": 4,
+              "files": 0,
+              "tests": 1
+            },
+            "children": [
+              {
+                "id": 52551164,
+                "name": "Linear Arrangement Concept Videos",
+                "type": 1,
+                "stats": {
+                  "videos": 2,
+                  "files": 0,
+                  "tests": 0
+                },
+                "children": [
+                  {
+                    "id": 162545100,
+                    "name": "1. Foundation",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162545099,
+                    "name": "2. Live (Linear Arrangement)",
+                    "type": 2,
+                    "stats": {}
+                  }
+                ]
+              },
+              {
+                "id": 52551178,
+                "name": "Linear Arrangement Mock With Solution",
+                "type": 1,
+                "stats": {
+                  "videos": 0,
+                  "files": 0,
+                  "tests": 1
+                },
+                "children": [
+                  {
+                    "id": 29486182,
+                    "name": "Arrangement : Video Solution",
+                    "type": 4,
+                    "stats": {
+                      "tests": 0
+                    }
+                  }
+                ]
+              },
+              {
+                "id": 52551192,
+                "name": "Parallel Arrangement Concept Video",
+                "type": 1,
+                "stats": {
+                  "videos": 2,
+                  "files": 0,
+                  "tests": 0
+                },
+                "children": [
+                  {
+                    "id": 162545128,
+                    "name": "Q.1 Parallel Arrangement",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162545129,
+                    "name": "2. Live (Parallel Arrangement)_ Foundation",
+                    "type": 2,
+                    "stats": {}
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": 52551209,
+            "name": "Module 8 : Number Series _ Important types",
+            "type": 1,
+            "stats": {
+              "videos": 5,
+              "files": 1,
+              "tests": 0
+            },
+            "children": [
+              {
+                "id": 162545150,
+                "name": "Part 1",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 162545151,
+                "name": "Part 2",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 162545147,
+                "name": "Numbe Series 03",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 162545148,
+                "name": "Number Series 04 (Zero Difference)",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 162545149,
+                "name": "Number Series 05",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 85694745,
+                "name": "Number Series -Live Sheet",
+                "type": 3,
+                "stats": {}
+              }
+            ]
+          },
+          {
+            "id": 52551220,
+            "name": "Module 09 : Puzzle",
+            "type": 1,
+            "stats": {
+              "videos": 2,
+              "files": 1,
+              "tests": 0
+            },
+            "children": [
+              {
+                "id": 162545168,
+                "name": "BASIC PART 01",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 162545169,
+                "name": "PART 02",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 85694749,
+                "name": "Puzzles",
+                "type": 3,
+                "stats": {}
+              }
+            ]
+          },
+          {
+            "id": 52551173,
+            "name": "Module  05 : Circular Arrangement 2 variables",
+            "type": 1,
+            "stats": {
+              "videos": 4,
+              "files": 2,
+              "tests": 0
+            },
+            "children": [
+              {
+                "id": 52551187,
+                "name": "Circular Arrangement Concept Video",
+                "type": 1,
+                "stats": {
+                  "videos": 4,
+                  "files": 2,
+                  "tests": 0
+                },
+                "children": [
+                  {
+                    "id": 52551200,
+                    "name": "Foundation _ 1 variable",
+                    "type": 1,
+                    "stats": {
+                      "videos": 1,
+                      "files": 1,
+                      "tests": 0
+                    },
+                    "children": [
+                      {
+                        "id": 162545132,
+                        "name": "Live Circular Arrangement 1 Variable",
+                        "type": 2,
+                        "stats": {}
+                      },
+                      {
+                        "id": 85694735,
+                        "name": "CIRCULAR ARRANGEMENT 1 Variable Sheet.pdf",
+                        "type": 3,
+                        "stats": {}
+                      }
+                    ]
+                  },
+                  {
+                    "id": 52551212,
+                    "name": "Circular Arrangement Two Variable",
+                    "type": 1,
+                    "stats": {
+                      "videos": 3,
+                      "files": 1,
+                      "tests": 0
+                    },
+                    "children": [
+                      {
+                        "id": 85694746,
+                        "name": "Circular Arrangement 2 variable",
+                        "type": 3,
+                        "stats": {}
+                      },
+                      {
+                        "id": 162545155,
+                        "name": "Q.1. of uploaded sheet",
+                        "type": 2,
+                        "stats": {}
+                      },
+                      {
+                        "id": 162545154,
+                        "name": "Q.2 of sheet uploded",
+                        "type": 2,
+                        "stats": {}
+                      },
+                      {
+                        "id": 162545156,
+                        "name": "Q.3 of uploaded sheet ",
+                        "type": 2,
+                        "stats": {}
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": 52551232,
+            "name": "Module 10: Data Sufficiency",
+            "type": 1,
+            "stats": {
+              "videos": 3,
+              "files": 0,
+              "tests": 0
+            },
+            "children": [
+              {
+                "id": 162545187,
+                "name": "Data Sufficiency",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 162545186,
+                "name": "Data Sufficiency 02",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 162545185,
+                "name": "Data Sufficiency 03",
+                "type": 2,
+                "stats": {}
+              }
+            ]
+          },
+          {
+            "id": 52551243,
+            "name": "Module 11 : Inequalities",
+            "type": 1,
+            "stats": {
+              "videos": 1,
+              "files": 1,
+              "tests": 0
+            },
+            "children": [
+              {
+                "id": 85694767,
+                "name": "Class Solution Sheet - Logical Reasoning Inequalities.pdf",
+                "type": 3,
+                "stats": {}
+              },
+              {
+                "id": 162545200,
+                "name": "Logical Reasoning: Inequalities Questions",
+                "type": 2,
+                "stats": {}
+              }
+            ]
+          },
+          {
+            "id": 52551199,
+            "name": "Module 07 : Critical Reasoning",
+            "type": 1,
+            "stats": {
+              "videos": 5,
+              "files": 3,
+              "tests": 3
+            },
+            "children": [
+              {
+                "id": 52551221,
+                "name": "Assumption Argument C.R",
+                "type": 1,
+                "stats": {
+                  "videos": 3,
+                  "files": 1,
+                  "tests": 0
+                },
+                "children": [
+                  {
+                    "id": 85694750,
+                    "name": "Critical Reasoning Practice Sheet",
+                    "type": 3,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162545172,
+                    "name": "Critical Reasoning Part 1",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162545171,
+                    "name": "Critical Reasoning - Part 2",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162545170,
+                    "name": "Critical Reasoning - Part 3",
+                    "type": 2,
+                    "stats": {}
+                  }
+                ]
+              },
+              {
+                "id": 52551210,
+                "name": "Syllogism",
+                "type": 1,
+                "stats": {
+                  "videos": 2,
+                  "files": 2,
+                  "tests": 3
+                },
+                "children": [
+                  {
+                    "id": 52551222,
+                    "name": "Concept Videos",
+                    "type": 1,
+                    "stats": {
+                      "videos": 2,
+                      "files": 0,
+                      "tests": 0
+                    },
+                    "children": [
+                      {
+                        "id": 162545173,
+                        "name": "Syllogism 1_ Foundation",
+                        "type": 2,
+                        "stats": {}
+                      },
+                      {
+                        "id": 162545174,
+                        "name": "Syllogisms 2 _ Reverse Syllogism",
+                        "type": 2,
+                        "stats": {}
+                      }
+                    ]
+                  },
+                  {
+                    "id": 52551233,
+                    "name": "Topic Tests",
+                    "type": 1,
+                    "stats": {
+                      "videos": 0,
+                      "files": 2,
+                      "tests": 3
+                    },
+                    "children": [
+                      {
+                        "id": 29486195,
+                        "name": "syllogisms Test 02",
+                        "type": 4,
+                        "stats": {
+                          "tests": 0
+                        }
+                      },
+                      {
+                        "id": 29486196,
+                        "name": "syllogisms 01",
+                        "type": 4,
+                        "stats": {
+                          "tests": 0
+                        }
+                      },
+                      {
+                        "id": 29486197,
+                        "name": "Syllogisms 03",
+                        "type": 4,
+                        "stats": {
+                          "tests": 0
+                        }
+                      },
+                      {
+                        "id": 85694754,
+                        "name": "syllogism",
+                        "type": 3,
+                        "stats": {}
+                      },
+                      {
+                        "id": 85694755,
+                        "name": " Syllogism Questions 2",
+                        "type": 3,
+                        "stats": {}
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": 52551252,
+            "name": "Module 12 : Logical Reasoning Advance",
+            "type": 1,
+            "stats": {
+              "videos": 2,
+              "files": 0,
+              "tests": 0
+            },
+            "children": [
+              {
+                "id": 162545220,
+                "name": "Logical ",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 162545219,
+                "name": "logical",
+                "type": 2,
+                "stats": {}
+              }
+            ]
+          },
+          {
+            "id": 52551259,
+            "name": "Module 12  Scan Book Logical Reasoning",
+            "type": 1,
+            "stats": {
+              "videos": 0,
+              "files": 1,
+              "tests": 0
+            },
+            "children": [
+              {
+                "id": 85694778,
+                "name": "Logical Reasoning ",
+                "type": 3,
+                "stats": {}
+              }
+            ]
+          },
+          {
+            "id": 52551268,
+            "name": "Module 14: Clocks & Calendar",
+            "type": 1,
+            "stats": {
+              "videos": 3,
+              "files": 0,
+              "tests": 1
+            },
+            "children": [
+              {
+                "id": 52551271,
+                "name": "Calenadar",
+                "type": 1,
+                "stats": {
+                  "videos": 1,
+                  "files": 0,
+                  "tests": 1
+                },
+                "children": [
+                  {
+                    "id": 29486203,
+                    "name": "Calender _ LR",
+                    "type": 4,
+                    "stats": {
+                      "tests": null
+                    }
+                  },
+                  {
+                    "id": 162545266,
+                    "name": "Calendar Class",
+                    "type": 2,
+                    "stats": {}
+                  }
+                ]
+              },
+              {
+                "id": 162545263,
+                "name": "Clocks 01",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 162545264,
+                "name": "Live 2 Clocks",
+                "type": 2,
+                "stats": {}
+              }
+            ]
+          },
+          {
+            "id": 52551266,
+            "name": "Module 13 :  Mock Test : Mirror Image,  Water Imag",
+            "type": 1,
+            "stats": {
+              "videos": 2,
+              "files": 1,
+              "tests": 4
+            },
+            "children": [
+              {
+                "id": 29486200,
+                "name": "Number Puzzles",
+                "type": 4,
+                "stats": {
+                  "tests": 0
+                }
+              },
+              {
+                "id": 29486201,
+                "name": "Mirror Imge",
+                "type": 4,
+                "stats": {
+                  "tests": 0
+                }
+              },
+              {
+                "id": 29486202,
+                "name": "Water Image",
+                "type": 4,
+                "stats": {
+                  "tests": 0
+                }
+              },
+              {
+                "id": 52551272,
+                "name": "Dice",
+                "type": 1,
+                "stats": {
+                  "videos": 1,
+                  "files": 0,
+                  "tests": 0
+                },
+                "children": [
+                  {
+                    "id": 162545268,
+                    "name": "Dice",
+                    "type": 2,
+                    "stats": {}
+                  }
+                ]
+              },
+              {
+                "id": 52551269,
+                "name": "Paper Folding",
+                "type": 1,
+                "stats": {
+                  "videos": 1,
+                  "files": 1,
+                  "tests": 1
+                },
+                "children": [
+                  {
+                    "id": 52551273,
+                    "name": "Concept Video",
+                    "type": 1,
+                    "stats": {
+                      "videos": 1,
+                      "files": 1,
+                      "tests": 0
+                    },
+                    "children": [
+                      {
+                        "id": 162545269,
+                        "name": "Paper Folding",
+                        "type": 2,
+                        "stats": {}
+                      },
+                      {
+                        "id": 85694783,
+                        "name": "Paper Folding and Cutting",
+                        "type": 3,
+                        "stats": {}
+                      }
+                    ]
+                  },
+                  {
+                    "id": 52551275,
+                    "name": "Topic Test",
+                    "type": 1,
+                    "stats": {
+                      "videos": 0,
+                      "files": 0,
+                      "tests": 1
+                    },
+                    "children": [
+                      {
+                        "id": 29874086,
+                        "name": "Paper Folding Mock Test",
+                        "type": 4,
+                        "stats": {
+                          "tests": null
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 52551141,
+        "name": "1.2 Quantitative aptitude",
+        "type": 1,
+        "stats": {
+          "videos": 67,
+          "files": 38,
+          "tests": 9
+        },
+        "children": [
+          {
+            "id": 52551147,
+            "name": "Module 1 : Speed Math's ",
+            "type": 1,
+            "stats": {
+              "videos": 4,
+              "files": 3,
+              "tests": 0
+            },
+            "children": [
+              {
+                "id": 162545071,
+                "name": "1.1",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 162545070,
+                "name": "1.2 ",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 162545068,
+                "name": "1.3 Multiplication Tricks _",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 85694682,
+                "name": "1.4 Try Yourself than watch the video solution in 1.5 Simplification Practice Sheet",
+                "type": 3,
+                "stats": {}
+              },
+              {
+                "id": 162545069,
+                "name": "1.5 Simplification Practice Sheet (Video Solution)",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 85694680,
+                "name": "Simplifications__Assignment with Answer Key",
+                "type": 3,
+                "stats": {}
+              },
+              {
+                "id": 85694681,
+                "name": "Simplifications__Assignment",
+                "type": 3,
+                "stats": {}
+              }
+            ]
+          },
+          {
+            "id": 52551165,
+            "name": "Module 3 : Time and Work",
+            "type": 1,
+            "stats": {
+              "videos": 4,
+              "files": 2,
+              "tests": 1
+            },
+            "children": [
+              {
+                "id": 52551179,
+                "name": "3.1 Time and Work",
+                "type": 1,
+                "stats": {
+                  "videos": 4,
+                  "files": 2,
+                  "tests": 1
+                },
+                "children": [
+                  {
+                    "id": 29486183,
+                    "name": "TIME AND WORK",
+                    "type": 4,
+                    "stats": {
+                      "tests": 0
+                    }
+                  },
+                  {
+                    "id": 162545111,
+                    "name": "1. Time and Work Rachit Sir",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162545110,
+                    "name": "2 Alternate Days Time and Work _ Rachit Sir",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162545113,
+                    "name": "3. PIPES and CISTERNS",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 85694717,
+                    "name": "4. DPP Complete Time and Work Sheet.pdf",
+                    "type": 3,
+                    "stats": {}
+                  },
+                  {
+                    "id": 85694716,
+                    "name": "5. Time and work solution sheet without advance questions.pdf",
+                    "type": 3,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162545112,
+                    "name": " Marathon Class on Time and work ",
+                    "type": 2,
+                    "stats": {}
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": 52551202,
+            "name": "Module 6  : Permutation and Combination",
+            "type": 1,
+            "stats": {
+              "videos": 3,
+              "files": 0,
+              "tests": 2
+            },
+            "children": [
+              {
+                "id": 52551214,
+                "name": "Permutation and Combination",
+                "type": 1,
+                "stats": {
+                  "videos": 2,
+                  "files": 0,
+                  "tests": 1
+                },
+                "children": [
+                  {
+                    "id": 29486192,
+                    "name": "permutation and combination",
+                    "type": 4,
+                    "stats": {
+                      "tests": 0
+                    }
+                  },
+                  {
+                    "id": 162545157,
+                    "name": "Permuation and Combination 01",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162545158,
+                    "name": "Permutation and Combination 02",
+                    "type": 2,
+                    "stats": {}
+                  }
+                ]
+              },
+              {
+                "id": 52551227,
+                "name": "Probability",
+                "type": 1,
+                "stats": {
+                  "videos": 1,
+                  "files": 0,
+                  "tests": 1
+                },
+                "children": [
+                  {
+                    "id": 29486193,
+                    "name": "PROBABILITY",
+                    "type": 4,
+                    "stats": {
+                      "tests": 0
+                    }
+                  },
+                  {
+                    "id": 162545176,
+                    "name": "Probability ",
+                    "type": 2,
+                    "stats": {}
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": 52551177,
+            "name": "Module 4  : Ages , Ratio  , Partnership , Mixtures",
+            "type": 1,
+            "stats": {
+              "videos": 11,
+              "files": 7,
+              "tests": 2
+            },
+            "children": [
+              {
+                "id": 52551191,
+                "name": "4.1 Ages _ Tawa Fry Method",
+                "type": 1,
+                "stats": {
+                  "videos": 4,
+                  "files": 2,
+                  "tests": 0
+                },
+                "children": [
+                  {
+                    "id": 85694730,
+                    "name": "Problem on Ages",
+                    "type": 3,
+                    "stats": {}
+                  },
+                  {
+                    "id": 85694731,
+                    "name": "Problem on Ages",
+                    "type": 3,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162545124,
+                    "name": "Q1-Q5",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162545125,
+                    "name": "Q6-Q11",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162545127,
+                    "name": "Q12-Q15",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162545126,
+                    "name": "Q15-Q20",
+                    "type": 2,
+                    "stats": {}
+                  }
+                ]
+              },
+              {
+                "id": 52551204,
+                "name": "4.2 Partnership",
+                "type": 1,
+                "stats": {
+                  "videos": 2,
+                  "files": 4,
+                  "tests": 1
+                },
+                "children": [
+                  {
+                    "id": 29486190,
+                    "name": "Partnership",
+                    "type": 4,
+                    "stats": {
+                      "tests": 0
+                    }
+                  },
+                  {
+                    "id": 162545142,
+                    "name": "Partnership 01",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 85694738,
+                    "name": "Partneship Day 01",
+                    "type": 3,
+                    "stats": {}
+                  },
+                  {
+                    "id": 85694739,
+                    "name": "Partneship Day 01",
+                    "type": 3,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162545141,
+                    "name": "Partnership 02 ",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 85694740,
+                    "name": "Partnership 02",
+                    "type": 3,
+                    "stats": {}
+                  },
+                  {
+                    "id": 85694741,
+                    "name": "Partnership 02",
+                    "type": 3,
+                    "stats": {}
+                  }
+                ]
+              },
+              {
+                "id": 52551216,
+                "name": "4.3 Ratio",
+                "type": 1,
+                "stats": {
+                  "videos": 2,
+                  "files": 0,
+                  "tests": 0
+                },
+                "children": [
+                  {
+                    "id": 162545162,
+                    "name": "One Shot",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162545163,
+                    "name": "Live Practice : Practice",
+                    "type": 2,
+                    "stats": {}
+                  }
+                ]
+              },
+              {
+                "id": 52551228,
+                "name": "4.4 Mixtures and Alligation",
+                "type": 1,
+                "stats": {
+                  "videos": 1,
+                  "files": 1,
+                  "tests": 1
+                },
+                "children": [
+                  {
+                    "id": 29486194,
+                    "name": "Mixtures , Alligations & Partenership",
+                    "type": 4,
+                    "stats": {
+                      "tests": 0
+                    }
+                  },
+                  {
+                    "id": 162545177,
+                    "name": "1.1 Mixture and allegation _ Rachit sir",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 85694751,
+                    "name": "Mixture and Alligation questions",
+                    "type": 3,
+                    "stats": {}
+                  }
+                ]
+              },
+              {
+                "id": 52551240,
+                "name": "4.5 Average ",
+                "type": 1,
+                "stats": {
+                  "videos": 2,
+                  "files": 0,
+                  "tests": 0
+                },
+                "children": [
+                  {
+                    "id": 162545196,
+                    "name": "PART 01: Average ",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162545197,
+                    "name": "Part 02 - Average",
+                    "type": 2,
+                    "stats": {}
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": 52551245,
+            "name": "MODULE 10 : Quadratic Equation",
+            "type": 1,
+            "stats": {
+              "videos": 1,
+              "files": 0,
+              "tests": 0
+            },
+            "children": [
+              {
+                "id": 162545205,
+                "name": "Quadratic Equations by Rachit sir ",
+                "type": 2,
+                "stats": {}
+              }
+            ]
+          },
+          {
+            "id": 52551224,
+            "name": "Module 8 : Number System ",
+            "type": 1,
+            "stats": {
+              "videos": 2,
+              "files": 4,
+              "tests": 0
+            },
+            "children": [
+              {
+                "id": 52551236,
+                "name": "LCM /HCF Questions",
+                "type": 1,
+                "stats": {
+                  "videos": 1,
+                  "files": 2,
+                  "tests": 0
+                },
+                "children": [
+                  {
+                    "id": 85694759,
+                    "name": "Lcm Hcf Live Class.pdf",
+                    "type": 3,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162545189,
+                    "name": "LCM/ HCF Prep",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 85694760,
+                    "name": "Live Class Solution Sheet.pdf",
+                    "type": 3,
+                    "stats": {}
+                  }
+                ]
+              },
+              {
+                "id": 52551247,
+                "name": "Number System (0-HERO)",
+                "type": 1,
+                "stats": {
+                  "videos": 1,
+                  "files": 2,
+                  "tests": 0
+                },
+                "children": [
+                  {
+                    "id": 85694769,
+                    "name": "Day 01 Number System.pdf",
+                    "type": 3,
+                    "stats": {}
+                  },
+                  {
+                    "id": 85694770,
+                    "name": "Number System.pdf",
+                    "type": 3,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162545213,
+                    "name": "Number system From Foundation",
+                    "type": 2,
+                    "stats": {}
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": 52551235,
+            "name": "Module 9 : Mensuration",
+            "type": 1,
+            "stats": {
+              "videos": 8,
+              "files": 2,
+              "tests": 1
+            },
+            "children": [
+              {
+                "id": 29486198,
+                "name": "Mensuration Pre-Test",
+                "type": 4,
+                "stats": {
+                  "tests": null
+                }
+              },
+              {
+                "id": 52551246,
+                "name": "Updated Rachit Sir Mensuration",
+                "type": 1,
+                "stats": {
+                  "videos": 7,
+                  "files": 0,
+                  "tests": 0
+                },
+                "children": [
+                  {
+                    "id": 162545207,
+                    "name": "1.1 BG Music Mensuration 3D Cheat Sheet",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162545209,
+                    "name": "Mensuartion 1.1",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162545212,
+                    "name": "Mensuartion 1.2",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162545206,
+                    "name": "Mensuartion 1.3",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162545208,
+                    "name": "Mensuartion 1.4",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162545210,
+                    "name": "Mensuartion 1.5",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162545211,
+                    "name": "Mensuartion 1.6",
+                    "type": 2,
+                    "stats": {}
+                  }
+                ]
+              },
+              {
+                "id": 162545188,
+                "name": "2D Mensuration",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 85694757,
+                "name": "mensuration3D",
+                "type": 3,
+                "stats": {}
+              },
+              {
+                "id": 85694758,
+                "name": "mensuration3D",
+                "type": 3,
+                "stats": {}
+              }
+            ]
+          },
+          {
+            "id": 52551254,
+            "name": "Module 11: Statistics",
+            "type": 1,
+            "stats": {
+              "videos": 2,
+              "files": 0,
+              "tests": 0
+            },
+            "children": [
+              {
+                "id": 162545223,
+                "name": "Part 1",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 162545224,
+                "name": "Part 2",
+                "type": 2,
+                "stats": {}
+              }
+            ]
+          },
+          {
+            "id": 52551261,
+            "name": "Module 12 : Imp E-Book With Video Solution",
+            "type": 1,
+            "stats": {
+              "videos": 0,
+              "files": 1,
+              "tests": 0
+            },
+            "children": [
+              {
+                "id": 85694779,
+                "name": "250 + Video Solution Quant Assorted Book",
+                "type": 3,
+                "stats": {}
+              }
+            ]
+          },
+          {
+            "id": 52551190,
+            "name": "Module 5 :  Data Interpretation and Set Theory ",
+            "type": 1,
+            "stats": {
+              "videos": 13,
+              "files": 10,
+              "tests": 0
+            },
+            "children": [
+              {
+                "id": 52551203,
+                "name": "Set Theory Venn Diagram ",
+                "type": 1,
+                "stats": {
+                  "videos": 4,
+                  "files": 2,
+                  "tests": 0
+                },
+                "children": [
+                  {
+                    "id": 162545137,
+                    "name": "Concept Q1-4",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162545138,
+                    "name": "3 variable Q.5-Q11",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162545140,
+                    "name": "Q12-14",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162545139,
+                    "name": "SET Q15-20  IIM VENN DIAGRAM",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 85694736,
+                    "name": "Venn Diagram Based Caselets",
+                    "type": 3,
+                    "stats": {}
+                  },
+                  {
+                    "id": 85694737,
+                    "name": "Venn Diagram Based Caselets",
+                    "type": 3,
+                    "stats": {}
+                  }
+                ]
+              },
+              {
+                "id": 52551215,
+                "name": "DATA INTERPRETATION",
+                "type": 1,
+                "stats": {
+                  "videos": 3,
+                  "files": 0,
+                  "tests": 0
+                },
+                "children": [
+                  {
+                    "id": 162545160,
+                    "name": "Part 1: Data Interpretation",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162545161,
+                    "name": "Part 2: Data Interpretation",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162545159,
+                    "name": "Part 3: Data Interpretation",
+                    "type": 2,
+                    "stats": {}
+                  }
+                ]
+              },
+              {
+                "id": 52551226,
+                "name": "DATA INTERPRETATIION AND CASELETS",
+                "type": 1,
+                "stats": {
+                  "videos": 6,
+                  "files": 8,
+                  "tests": 0
+                },
+                "children": [
+                  {
+                    "id": 52551239,
+                    "name": "Pie Chart",
+                    "type": 1,
+                    "stats": {
+                      "videos": 2,
+                      "files": 2,
+                      "tests": 0
+                    },
+                    "children": [
+                      {
+                        "id": 162545195,
+                        "name": "D.I-  01 Pie chart  SET 01 of sheet",
+                        "type": 2,
+                        "stats": {}
+                      },
+                      {
+                        "id": 162545194,
+                        "name": "D. I - 02 Pie chart SET 02 SET 03 of sheet",
+                        "type": 2,
+                        "stats": {}
+                      },
+                      {
+                        "id": 85694763,
+                        "name": "Data Interpretation Pie chart",
+                        "type": 3,
+                        "stats": {}
+                      },
+                      {
+                        "id": 85694764,
+                        "name": "Data Interpretation Pie chart",
+                        "type": 3,
+                        "stats": {}
+                      }
+                    ]
+                  },
+                  {
+                    "id": 52551248,
+                    "name": "Radar D. I",
+                    "type": 1,
+                    "stats": {
+                      "videos": 1,
+                      "files": 2,
+                      "tests": 0
+                    },
+                    "children": [
+                      {
+                        "id": 162545214,
+                        "name": "Radar Based D.I ",
+                        "type": 2,
+                        "stats": {}
+                      },
+                      {
+                        "id": 85694771,
+                        "name": "Radar based Question",
+                        "type": 3,
+                        "stats": {}
+                      },
+                      {
+                        "id": 85694772,
+                        "name": "Radar based Question",
+                        "type": 3,
+                        "stats": {}
+                      }
+                    ]
+                  },
+                  {
+                    "id": 52551255,
+                    "name": "Caselet based D.I ",
+                    "type": 1,
+                    "stats": {
+                      "videos": 1,
+                      "files": 2,
+                      "tests": 0
+                    },
+                    "children": [
+                      {
+                        "id": 162545225,
+                        "name": "caselete1.0",
+                        "type": 2,
+                        "stats": {}
+                      },
+                      {
+                        "id": 85694774,
+                        "name": "Data Interpretation Pie Charts _01",
+                        "type": 3,
+                        "stats": {}
+                      },
+                      {
+                        "id": 85694775,
+                        "name": "Data Interpretation Pie Charts _01",
+                        "type": 3,
+                        "stats": {}
+                      }
+                    ]
+                  },
+                  {
+                    "id": 52551262,
+                    "name": "Missing D.I",
+                    "type": 1,
+                    "stats": {
+                      "videos": 2,
+                      "files": 2,
+                      "tests": 0
+                    },
+                    "children": [
+                      {
+                        "id": 162545254,
+                        "name": "Missing D.I Q.1-5 solution",
+                        "type": 2,
+                        "stats": {}
+                      },
+                      {
+                        "id": 162545255,
+                        "name": "Miss. D.I Q6-10 solution",
+                        "type": 2,
+                        "stats": {}
+                      },
+                      {
+                        "id": 85694780,
+                        "name": "Missing DI",
+                        "type": 3,
+                        "stats": {}
+                      },
+                      {
+                        "id": 85694781,
+                        "name": "Missing DI",
+                        "type": 3,
+                        "stats": {}
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": 52551213,
+            "name": "Module 7 : Time Speed Distance ",
+            "type": 1,
+            "stats": {
+              "videos": 9,
+              "files": 2,
+              "tests": 1
+            },
+            "children": [
+              {
+                "id": 52551237,
+                "name": "Boat and Stream",
+                "type": 1,
+                "stats": {
+                  "videos": 2,
+                  "files": 0,
+                  "tests": 0
+                },
+                "children": [
+                  {
+                    "id": 162545190,
+                    "name": "Boat and Stream",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162545191,
+                    "name": "Part 2 - Boat and Stream ",
+                    "type": 2,
+                    "stats": {}
+                  }
+                ]
+              },
+              {
+                "id": 52551225,
+                "name": "Time Speed Distance",
+                "type": 1,
+                "stats": {
+                  "videos": 7,
+                  "files": 2,
+                  "tests": 1
+                },
+                "children": [
+                  {
+                    "id": 52551238,
+                    "name": "DAY 01",
+                    "type": 1,
+                    "stats": {
+                      "videos": 2,
+                      "files": 2,
+                      "tests": 1
+                    },
+                    "children": [
+                      {
+                        "id": 29486199,
+                        "name": "Train",
+                        "type": 4,
+                        "stats": {
+                          "tests": 0
+                        }
+                      },
+                      {
+                        "id": 162545193,
+                        "name": "Concept (1-4)Q",
+                        "type": 2,
+                        "stats": {}
+                      },
+                      {
+                        "id": 162545192,
+                        "name": "Part 02",
+                        "type": 2,
+                        "stats": {}
+                      },
+                      {
+                        "id": 85694761,
+                        "name": "Question on Train",
+                        "type": 3,
+                        "stats": {}
+                      },
+                      {
+                        "id": 85694762,
+                        "name": "Question on Train",
+                        "type": 3,
+                        "stats": {}
+                      }
+                    ]
+                  },
+                  {
+                    "id": 52551249,
+                    "name": "DAY02",
+                    "type": 1,
+                    "stats": {
+                      "videos": 2,
+                      "files": 0,
+                      "tests": 0
+                    },
+                    "children": [
+                      {
+                        "id": 162545216,
+                        "name": "Part 1",
+                        "type": 2,
+                        "stats": {}
+                      },
+                      {
+                        "id": 162545215,
+                        "name": "Part - 2",
+                        "type": 2,
+                        "stats": {}
+                      }
+                    ]
+                  },
+                  {
+                    "id": 52551256,
+                    "name": "DAY 03",
+                    "type": 1,
+                    "stats": {
+                      "videos": 2,
+                      "files": 0,
+                      "tests": 0
+                    },
+                    "children": [
+                      {
+                        "id": 162545227,
+                        "name": "TSD 03",
+                        "type": 2,
+                        "stats": {}
+                      },
+                      {
+                        "id": 162545226,
+                        "name": " TSD3(b)",
+                        "type": 2,
+                        "stats": {}
+                      }
+                    ]
+                  },
+                  {
+                    "id": 52551263,
+                    "name": "Day 04 ",
+                    "type": 1,
+                    "stats": {
+                      "videos": 1,
+                      "files": 0,
+                      "tests": 0
+                    },
+                    "children": [
+                      {
+                        "id": 162545256,
+                        "name": "TSD part 04",
+                        "type": 2,
+                        "stats": {}
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": 52551155,
+            "name": "Module 2 : Percentage , S.I/C.I, P/L",
+            "type": 1,
+            "stats": {
+              "videos": 10,
+              "files": 7,
+              "tests": 2
+            },
+            "children": [
+              {
+                "id": 52551166,
+                "name": "2.1 Percentage ",
+                "type": 1,
+                "stats": {
+                  "videos": 4,
+                  "files": 4,
+                  "tests": 1
+                },
+                "children": [
+                  {
+                    "id": 29486168,
+                    "name": "Percentage 01",
+                    "type": 4,
+                    "stats": {
+                      "tests": 0
+                    }
+                  },
+                  {
+                    "id": 162545102,
+                    "name": "1 Q1-Q14 Concept ",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162545103,
+                    "name": "2. Successive Change",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162545104,
+                    "name": "3. Consumption Based",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162545101,
+                    "name": "4. Election Based Questions ",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 85694693,
+                    "name": "Q1-Q14",
+                    "type": 3,
+                    "stats": {}
+                  },
+                  {
+                    "id": 85694695,
+                    "name": "Successive pptx",
+                    "type": 3,
+                    "stats": {}
+                  },
+                  {
+                    "id": 85694696,
+                    "name": "Election Problem",
+                    "type": 3,
+                    "stats": {}
+                  },
+                  {
+                    "id": 85694694,
+                    "name": "Consumption Change",
+                    "type": 3,
+                    "stats": {}
+                  }
+                ]
+              },
+              {
+                "id": 52551180,
+                "name": "2.2   Profit - Loss Live",
+                "type": 1,
+                "stats": {
+                  "videos": 2,
+                  "files": 1,
+                  "tests": 0
+                },
+                "children": [
+                  {
+                    "id": 52551194,
+                    "name": "Profit Loss E-Book With Video Solution",
+                    "type": 1,
+                    "stats": {
+                      "videos": 0,
+                      "files": 1,
+                      "tests": 0
+                    },
+                    "children": [
+                      {
+                        "id": 85694732,
+                        "name": "Profit_Loss_foundation_Sheet WIHT SOLUTION",
+                        "type": 3,
+                        "stats": {}
+                      }
+                    ]
+                  },
+                  {
+                    "id": 162545115,
+                    "name": "1. Profit Loss (8 types - Crash Course)",
+                    "type": 2,
+                    "stats": {}
+                  },
+                  {
+                    "id": 162545114,
+                    "name": "2. Discount Type - 9 onwards",
+                    "type": 2,
+                    "stats": {}
+                  }
+                ]
+              },
+              {
+                "id": 52551193,
+                "name": "2.3 Simple And Compound Interest",
+                "type": 1,
+                "stats": {
+                  "videos": 4,
+                  "files": 2,
+                  "tests": 1
+                },
+                "children": [
+                  {
+                    "id": 52551205,
+                    "name": "1. Simple Interest (0-HERO)",
+                    "type": 1,
+                    "stats": {
+                      "videos": 1,
+                      "files": 1,
+                      "tests": 1
+                    },
+                    "children": [
+                      {
+                        "id": 29486191,
+                        "name": "Simple Interest",
+                        "type": 4,
+                        "stats": {
+                          "tests": 0
+                        }
+                      },
+                      {
+                        "id": 85694742,
+                        "name": "Updated Simple Interest Top Questions.pdf",
+                        "type": 3,
+                        "stats": {}
+                      },
+                      {
+                        "id": 162545143,
+                        "name": "Simple Interest Questions",
+                        "type": 2,
+                        "stats": {}
+                      }
+                    ]
+                  },
+                  {
+                    "id": 52551229,
+                    "name": "3. DPP : Practice Sheet",
+                    "type": 1,
+                    "stats": {
+                      "videos": 1,
+                      "files": 1,
+                      "tests": 0
+                    },
+                    "children": [
+                      {
+                        "id": 85694752,
+                        "name": "S.I C.I",
+                        "type": 3,
+                        "stats": {}
+                      },
+                      {
+                        "id": 162545178,
+                        "name": "DPP :  Some Sheet Solution",
+                        "type": 2,
+                        "stats": {}
+                      }
+                    ]
+                  },
+                  {
+                    "id": 52551217,
+                    "name": "2. Compound & Installment",
+                    "type": 1,
+                    "stats": {
+                      "videos": 2,
+                      "files": 0,
+                      "tests": 0
+                    },
+                    "children": [
+                      {
+                        "id": 162545164,
+                        "name": "1: Important  Simple +d Compound INTEREST",
+                        "type": 2,
+                        "stats": {}
+                      },
+                      {
+                        "id": 168324297,
+                        "name": "2: Installment",
+                        "type": 2,
+                        "stats": {}
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 52551146,
+        "name": "1.3 Verbal Ability",
+        "type": 1,
+        "stats": {
+          "videos": 59,
+          "files": 6,
+          "tests": 4
+        },
+        "children": [
+          {
+            "id": 53731904,
+            "name": "TCS NQT: NEW VERBAL PATTERN",
+            "type": 1,
+            "stats": {
+              "videos": 4,
+              "files": 4,
+              "tests": 0
+            },
+            "children": [
+              {
+                "id": 55018279,
+                "name": "TCS NQT: NEW PRACTICE SET BASED ON THE NEW PATTERN",
+                "type": 1,
+                "stats": {
+                  "videos": 0,
+                  "files": 4,
+                  "tests": 0
+                },
+                "children": [
+                  {
+                    "id": 90253570,
+                    "name": "TCS_NQT_2026_Prep_Guide_Updated.pdf",
+                    "type": 3,
+                    "stats": {}
+                  },
+                  {
+                    "id": 90253571,
+                    "name": "TCS_NQT_Top 50_Sentence_Completion_@campusmonk.pdf",
+                    "type": 3,
+                    "stats": {}
+                  },
+                  {
+                    "id": 90253572,
+                    "name": "TCS_NQT_Top50_Passage_Recall_@campusmonk.pdf",
+                    "type": 3,
+                    "stats": {}
+                  },
+                  {
+                    "id": 90253569,
+                    "name": "TCS_NQT_50_Email_Writing_Questions.pdf",
+                    "type": 3,
+                    "stats": {}
+                  }
+                ]
+              },
+              {
+                "id": 165978187,
+                "name": "Part 1:  TCS - Sentence Completion",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 166005955,
+                "name": "Part 2: Verbal New pattern ",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 166005959,
+                "name": "Part 3: TCS - Email Writing",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 166188508,
+                "name": "Part 4: Passage Recall",
+                "type": 2,
+                "stats": {}
+              }
+            ]
+          },
+          {
+            "id": 52551153,
+            "name": "One Shot: Verbal Ability Prep by Shatarupa Ma'am",
+            "type": 1,
+            "stats": {
+              "videos": 6,
+              "files": 0,
+              "tests": 0
+            },
+            "children": [
+              {
+                "id": 162545088,
+                "name": "1: Verbal- ParaJumbles",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 162545085,
+                "name": "2: Verbal- ErrorHandling Questions",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 162545086,
+                "name": "3: Verbal- Article Quesitons",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 162545087,
+                "name": "4: Verbal-Preposition Questions",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 162545090,
+                "name": "5: Verbal-Active Passive Questions",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 162545089,
+                "name": "6: Verbal-Conjuction-Error Detection",
+                "type": 2,
+                "stats": {}
+              }
+            ]
+          },
+          {
+            "id": 52551163,
+            "name": "Module 1: Vocab",
+            "type": 1,
+            "stats": {
+              "videos": 5,
+              "files": 0,
+              "tests": 1
+            },
+            "children": [
+              {
+                "id": 52551176,
+                "name": "Topic Test",
+                "type": 1,
+                "stats": {
+                  "videos": 0,
+                  "files": 0,
+                  "tests": 1
+                },
+                "children": [
+                  {
+                    "id": 29486181,
+                    "name": "Synonym & Antonym",
+                    "type": 4,
+                    "stats": {
+                      "tests": 0
+                    }
+                  }
+                ]
+              },
+              {
+                "id": 162545096,
+                "name": "vocab 1",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 162545097,
+                "name": "vocab 2",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 162545095,
+                "name": "vocab 3",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 162545094,
+                "name": "Vocab Lec 4",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 162545098,
+                "name": "Vocab Lec 5",
+                "type": 2,
+                "stats": {}
+              }
+            ]
+          },
+          {
+            "id": 52551175,
+            "name": "Module 2: One word  substitution",
+            "type": 1,
+            "stats": {
+              "videos": 3,
+              "files": 0,
+              "tests": 0
+            },
+            "children": [
+              {
+                "id": 162545109,
+                "name": "One word substitution 1",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 162545107,
+                "name": "One word substitution 2",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 162545108,
+                "name": "One word substitution 3",
+                "type": 2,
+                "stats": {}
+              }
+            ]
+          },
+          {
+            "id": 52551188,
+            "name": "Module 3: Reading Comprehension",
+            "type": 1,
+            "stats": {
+              "videos": 5,
+              "files": 0,
+              "tests": 3
+            },
+            "children": [
+              {
+                "id": 29486185,
+                "name": "VERBAL ABILITY_RC 01",
+                "type": 4,
+                "stats": {
+                  "tests": 0
+                }
+              },
+              {
+                "id": 29486186,
+                "name": "VERBAL ABILITY _RC 02",
+                "type": 4,
+                "stats": {
+                  "tests": 0
+                }
+              },
+              {
+                "id": 29486187,
+                "name": "ENGLISH SESSION",
+                "type": 4,
+                "stats": {
+                  "tests": 0
+                }
+              },
+              {
+                "id": 162545119,
+                "name": "1. RC Introduction",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 162545123,
+                "name": "2. RC Tones",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 162545121,
+                "name": "3. Strategies to ace RC",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 162545122,
+                "name": "4. Tones Identification  Questions",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 162545120,
+                "name": "5. Types of Questions in RC",
+                "type": 2,
+                "stats": {}
+              }
+            ]
+          },
+          {
+            "id": 52551201,
+            "name": "Module 4: Error Detection- SVA",
+            "type": 1,
+            "stats": {
+              "videos": 4,
+              "files": 0,
+              "tests": 0
+            },
+            "children": [
+              {
+                "id": 162545135,
+                "name": "SVA 1",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 162545133,
+                "name": "SVA 2",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 162545134,
+                "name": "SVA 3",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 162545136,
+                "name": "Live (SVA)",
+                "type": 2,
+                "stats": {}
+              }
+            ]
+          },
+          {
+            "id": 52551211,
+            "name": "Module 5: Error - Article",
+            "type": 1,
+            "stats": {
+              "videos": 2,
+              "files": 0,
+              "tests": 0
+            },
+            "children": [
+              {
+                "id": 162545152,
+                "name": "Articles ",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 162545153,
+                "name": "Article 2",
+                "type": 2,
+                "stats": {}
+              }
+            ]
+          },
+          {
+            "id": 52551223,
+            "name": "Module 6: Error- Parallelism",
+            "type": 1,
+            "stats": {
+              "videos": 1,
+              "files": 0,
+              "tests": 0
+            },
+            "children": [
+              {
+                "id": 162545175,
+                "name": "Live - 1",
+                "type": 2,
+                "stats": {}
+              }
+            ]
+          },
+          {
+            "id": 52551234,
+            "name": "Module 7 : E book With Video Solution",
+            "type": 1,
+            "stats": {
+              "videos": 0,
+              "files": 1,
+              "tests": 0
+            },
+            "children": [
+              {
+                "id": 85694756,
+                "name": " Verbal Ability",
+                "type": 3,
+                "stats": {}
+              }
+            ]
+          },
+          {
+            "id": 52551244,
+            "name": "Module 8 : Critical Reasoning",
+            "type": 1,
+            "stats": {
+              "videos": 3,
+              "files": 1,
+              "tests": 0
+            },
+            "children": [
+              {
+                "id": 85694768,
+                "name": "Critical Reasoning Practice Sheet",
+                "type": 3,
+                "stats": {}
+              },
+              {
+                "id": 162545201,
+                "name": "Critical Reasoning Part 1",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 162545203,
+                "name": "Critical Reasoning - Part 2",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 162545202,
+                "name": "Critical Reasoning - Part 3",
+                "type": 2,
+                "stats": {}
+              }
+            ]
+          },
+          {
+            "id": 52551253,
+            "name": "One Shot Live Assorted Paper",
+            "type": 1,
+            "stats": {
+              "videos": 2,
+              "files": 0,
+              "tests": 0
+            },
+            "children": [
+              {
+                "id": 162545221,
+                "name": "Previous Year Part 02",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 162545222,
+                "name": "Previous Year TCS 01",
+                "type": 2,
+                "stats": {}
+              }
+            ]
+          },
+          {
+            "id": 52551260,
+            "name": "Assorted Questions _ Live Important",
+            "type": 1,
+            "stats": {
+              "videos": 24,
+              "files": 0,
+              "tests": 0
+            },
+            "children": [
+              {
+                "id": 162545237,
+                "name": "Live - 1",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 162545232,
+                "name": "Live - 2",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 162545230,
+                "name": "Live - 3",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 162545233,
+                "name": "Live - 4",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 162545235,
+                "name": "Live - 5",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 162545231,
+                "name": "Live - 6",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 162545238,
+                "name": "Live - 7",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 162545240,
+                "name": "Live - 8",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 162545236,
+                "name": "Live - 9",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 162545251,
+                "name": "Live - 10",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 162545234,
+                "name": "Live - 11  Previous Year TCS NQT ",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 162545239,
+                "name": "Live 12",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 162545246,
+                "name": "Live - 13",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 162545249,
+                "name": "Live - 14",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 162545248,
+                "name": "Live 15",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 162545241,
+                "name": "Live 16",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 162545250,
+                "name": "Live 17",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 162545243,
+                "name": "Live 18",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 162545245,
+                "name": "Live 19",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 162545252,
+                "name": "Live 20",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 162545242,
+                "name": "Live - 21",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 162545244,
+                "name": "Live - 22",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 162545247,
+                "name": "Article Live - 23",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 162545253,
+                "name": "Article 2 (Live - 24)",
+                "type": 2,
+                "stats": {}
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 52551168,
+    "name": "1.3: Daily Live session",
+    "type": 1,
+    "stats": {
+      "videos": 48,
+      "files": 45,
+      "tests": 0
+    },
+    "children": [
+      {
+        "id": 54173826,
+        "name": "Aptitude Prep With Rachit sir",
+        "type": 1,
+        "stats": {
+          "videos": 43,
+          "files": 45,
+          "tests": 0
+        },
+        "children": [
+          {
+            "id": 54173827,
+            "name": "Day 1: Logical from basic",
+            "type": 1,
+            "stats": {
+              "videos": 2,
+              "files": 2,
+              "tests": 0
+            },
+            "children": [
+              {
+                "id": 88725897,
+                "name": "Logical Reasoning.pdf",
+                "type": 3,
+                "stats": {}
+              },
+              {
+                "id": 88725898,
+                "name": "Day 02 Reasoning .pdf",
+                "type": 3,
+                "stats": {}
+              },
+              {
+                "id": 167300036,
+                "name": "1 - Logical Reasoning from Basic",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 167300037,
+                "name": "2 - Logical Reasoning",
+                "type": 2,
+                "stats": {}
+              }
+            ]
+          },
+          {
+            "id": 54173828,
+            "name": "Day 2: Numerical Ability (Vedic Math)",
+            "type": 1,
+            "stats": {
+              "videos": 2,
+              "files": 2,
+              "tests": 0
+            },
+            "children": [
+              {
+                "id": 88725899,
+                "name": "SPEED MATHS Day 01 - VEDIC UU.pdf",
+                "type": 3,
+                "stats": {}
+              },
+              {
+                "id": 167300039,
+                "name": "1: Numerical Ability (Vedic Math)",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 88725900,
+                "name": "Number System solution sheet.pdf",
+                "type": 3,
+                "stats": {}
+              },
+              {
+                "id": 167300040,
+                "name": "2: Numerical ability",
+                "type": 2,
+                "stats": {}
+              }
+            ]
+          },
+          {
+            "id": 54173829,
+            "name": "Day 3: Number System",
+            "type": 1,
+            "stats": {
+              "videos": 1,
+              "files": 2,
+              "tests": 0
+            },
+            "children": [
+              {
+                "id": 88725901,
+                "name": "Number System 01 .pdf",
+                "type": 3,
+                "stats": {}
+              },
+              {
+                "id": 88725902,
+                "name": "Number System solution sheet.pdf",
+                "type": 3,
+                "stats": {}
+              },
+              {
+                "id": 167300041,
+                "name": "Number system - Divisibility",
+                "type": 2,
+                "stats": {}
+              }
+            ]
+          },
+          {
+            "id": 54173830,
+            "name": "Day 4: LR Linear & Parallel",
+            "type": 1,
+            "stats": {
+              "videos": 2,
+              "files": 2,
+              "tests": 0
+            },
+            "children": [
+              {
+                "id": 88725903,
+                "name": "LR linear and parallel arrangement.pdf",
+                "type": 3,
+                "stats": {}
+              },
+              {
+                "id": 88725904,
+                "name": "day 02 Arrangement .pdf",
+                "type": 3,
+                "stats": {}
+              },
+              {
+                "id": 167300042,
+                "name": "1 - LR Linear & Parallel",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 167300043,
+                "name": "2 - Linear arrangement",
+                "type": 2,
+                "stats": {}
+              }
+            ]
+          },
+          {
+            "id": 54173831,
+            "name": "Day 5: Arrangement from basic",
+            "type": 1,
+            "stats": {
+              "videos": 3,
+              "files": 3,
+              "tests": 0
+            },
+            "children": [
+              {
+                "id": 88725905,
+                "name": "1 - New Circular Arrangement Sheet .pdf",
+                "type": 3,
+                "stats": {}
+              },
+              {
+                "id": 88725906,
+                "name": "2 - New Circular Arrangement Sheet .pdf",
+                "type": 3,
+                "stats": {}
+              },
+              {
+                "id": 88725907,
+                "name": "3 - Arrangement Live Sheet - Medium Level.pdf",
+                "type": 3,
+                "stats": {}
+              },
+              {
+                "id": 167300045,
+                "name": "Part 1: Arrangement from basic",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 167300046,
+                "name": "Part 2: Circular arranegement",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 167300044,
+                "name": "Part 3: Floor arrangement",
+                "type": 2,
+                "stats": {}
+              }
+            ]
+          },
+          {
+            "id": 54173832,
+            "name": "Day 6: Percentage",
+            "type": 1,
+            "stats": {
+              "videos": 2,
+              "files": 2,
+              "tests": 0
+            },
+            "children": [
+              {
+                "id": 88725908,
+                "name": "CM PERCENTAGE Day 01.pdf",
+                "type": 3,
+                "stats": {}
+              },
+              {
+                "id": 167300047,
+                "name": "Percentage  01",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 167300048,
+                "name": "Percentage 02",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 88725909,
+                "name": "One Shot Percentage (2).pdf",
+                "type": 3,
+                "stats": {}
+              }
+            ]
+          },
+          {
+            "id": 54173833,
+            "name": "Day 7: Time & Work",
+            "type": 1,
+            "stats": {
+              "videos": 2,
+              "files": 2,
+              "tests": 0
+            },
+            "children": [
+              {
+                "id": 88725910,
+                "name": "TIME AND WORK DAY 01.pdf",
+                "type": 3,
+                "stats": {}
+              },
+              {
+                "id": 167300049,
+                "name": "1 - Time & Work ",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 88725911,
+                "name": "Time & Work 02.pdf",
+                "type": 3,
+                "stats": {}
+              },
+              {
+                "id": 167300050,
+                "name": "2 - Time & work ",
+                "type": 2,
+                "stats": {}
+              }
+            ]
+          },
+          {
+            "id": 54173834,
+            "name": "Day 8: Pipes & Cistern",
+            "type": 1,
+            "stats": {
+              "videos": 2,
+              "files": 2,
+              "tests": 0
+            },
+            "children": [
+              {
+                "id": 88725912,
+                "name": "Pipes and Cistern Live Class Sheet - 01.pdf",
+                "type": 3,
+                "stats": {}
+              },
+              {
+                "id": 167300051,
+                "name": "01 Pipes & Cistern ",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 88725913,
+                "name": "Advacnce Set TIme Work Pipes PYQ .pdf",
+                "type": 3,
+                "stats": {}
+              },
+              {
+                "id": 167300052,
+                "name": "02 - Pipes & Cistern  ",
+                "type": 2,
+                "stats": {}
+              }
+            ]
+          },
+          {
+            "id": 54173835,
+            "name": "Day 9: Logical Reasoning Puzzle",
+            "type": 1,
+            "stats": {
+              "videos": 2,
+              "files": 2,
+              "tests": 0
+            },
+            "children": [
+              {
+                "id": 88725914,
+                "name": "Part 1 Puzzle .pdf",
+                "type": 3,
+                "stats": {}
+              },
+              {
+                "id": 167300053,
+                "name": "Part 1: Logical Reasoning puzzle",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 88725915,
+                "name": "Part 2 Hard Level PYQ Live Class Sheet Puzzles .pdf",
+                "type": 3,
+                "stats": {}
+              },
+              {
+                "id": 167300054,
+                "name": "Part 2:  Logical Reasoning Puzzle",
+                "type": 2,
+                "stats": {}
+              }
+            ]
+          },
+          {
+            "id": 54173836,
+            "name": "Day 10: Data sufficiency",
+            "type": 1,
+            "stats": {
+              "videos": 2,
+              "files": 2,
+              "tests": 0
+            },
+            "children": [
+              {
+                "id": 88725916,
+                "name": "Part 1 - Data Sufficiency Types I ppt.pdf",
+                "type": 3,
+                "stats": {}
+              },
+              {
+                "id": 88725917,
+                "name": "Part 2 - Data Sufficiency .pdf",
+                "type": 3,
+                "stats": {}
+              },
+              {
+                "id": 167300056,
+                "name": "1: Data Sufficiency PYQ: TCS & Others ",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 167300055,
+                "name": "2: Data Sufficiecny: PYQ TCS & Others",
+                "type": 2,
+                "stats": {}
+              }
+            ]
+          },
+          {
+            "id": 54409389,
+            "name": "Day 11: Profit, Loss & Discount",
+            "type": 1,
+            "stats": {
+              "videos": 3,
+              "files": 3,
+              "tests": 0
+            },
+            "children": [
+              {
+                "id": 89159787,
+                "name": "01 Profit Loss foundation Sheet with Solution.pdf",
+                "type": 3,
+                "stats": {}
+              },
+              {
+                "id": 167992682,
+                "name": "Part 1: Profit & Loss - TCS & OTHER",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 89159788,
+                "name": "02 Profit Loss PYQ Series .pdf",
+                "type": 3,
+                "stats": {}
+              },
+              {
+                "id": 167992681,
+                "name": "Part 2: Profit & Loss",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 89159789,
+                "name": "Discount PL.pdf",
+                "type": 3,
+                "stats": {}
+              },
+              {
+                "id": 167992683,
+                "name": "Discount ",
+                "type": 2,
+                "stats": {}
+              }
+            ]
+          },
+          {
+            "id": 54378166,
+            "name": "Day 12:  LRDI",
+            "type": 1,
+            "stats": {
+              "videos": 1,
+              "files": 1,
+              "tests": 0
+            },
+            "children": [
+              {
+                "id": 89098951,
+                "name": "LRDI 01 .pdf",
+                "type": 3,
+                "stats": {}
+              },
+              {
+                "id": 167895212,
+                "name": " LRDI 01",
+                "type": 2,
+                "stats": {}
+              }
+            ]
+          },
+          {
+            "id": 54667439,
+            "name": "Day 13: Simple Interest",
+            "type": 1,
+            "stats": {
+              "videos": 1,
+              "files": 1,
+              "tests": 0
+            },
+            "children": [
+              {
+                "id": 89617948,
+                "name": "S.I 01 - Zero to Hero.pdf",
+                "type": 3,
+                "stats": {}
+              },
+              {
+                "id": 168845836,
+                "name": "Simple Interest based on the PYQ ",
+                "type": 2,
+                "stats": {}
+              }
+            ]
+          },
+          {
+            "id": 54718936,
+            "name": "Day 14: Compound Interest",
+            "type": 1,
+            "stats": {
+              "videos": 1,
+              "files": 1,
+              "tests": 0
+            },
+            "children": [
+              {
+                "id": 89725510,
+                "name": "CI Class Sheet  (1).pdf",
+                "type": 3,
+                "stats": {}
+              },
+              {
+                "id": 168991567,
+                "name": "CI Compound Interest",
+                "type": 2,
+                "stats": {}
+              }
+            ]
+          },
+          {
+            "id": 54912381,
+            "name": "Day 15: LRDI",
+            "type": 1,
+            "stats": {
+              "videos": 1,
+              "files": 1,
+              "tests": 0
+            },
+            "children": [
+              {
+                "id": 90024932,
+                "name": "LRDI .pdf",
+                "type": 3,
+                "stats": {}
+              },
+              {
+                "id": 169483130,
+                "name": " LRDI 2 ",
+                "type": 2,
+                "stats": {}
+              }
+            ]
+          },
+          {
+            "id": 54977749,
+            "name": "Day 16: SI/ CI",
+            "type": 1,
+            "stats": {
+              "videos": 1,
+              "files": 1,
+              "tests": 0
+            },
+            "children": [
+              {
+                "id": 90119013,
+                "name": "Previous Year S.i C.i Important Questions (2).pdf",
+                "type": 3,
+                "stats": {}
+              },
+              {
+                "id": 169628546,
+                "name": "SI/ CI  Installments",
+                "type": 2,
+                "stats": {}
+              }
+            ]
+          },
+          {
+            "id": 55140550,
+            "name": "Day 17: Ratio & proportion",
+            "type": 1,
+            "stats": {
+              "videos": 1,
+              "files": 2,
+              "tests": 0
+            },
+            "children": [
+              {
+                "id": 90526802,
+                "name": "Ratio & Proportion 01 .pdf",
+                "type": 3,
+                "stats": {}
+              },
+              {
+                "id": 90526803,
+                "name": "Ratio & Proportion 02 Live Class Sheet.pdf",
+                "type": 3,
+                "stats": {}
+              },
+              {
+                "id": 170231185,
+                "name": "Ratio & Proportion 01  From Basic ",
+                "type": 2,
+                "stats": {}
+              }
+            ]
+          },
+          {
+            "id": 55425651,
+            "name": "Day 18: Mixture & Alligation",
+            "type": 1,
+            "stats": {
+              "videos": 2,
+              "files": 2,
+              "tests": 0
+            },
+            "children": [
+              {
+                "id": 91028214,
+                "name": "Alligation One Shot .pdf",
+                "type": 3,
+                "stats": {}
+              },
+              {
+                "id": 171051952,
+                "name": "Alligation 01",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 91028215,
+                "name": "Mixtures All Imp Types New .pdf",
+                "type": 3,
+                "stats": {}
+              },
+              {
+                "id": 171051953,
+                "name": "Mixtures one Shot 02",
+                "type": 2,
+                "stats": {}
+              }
+            ]
+          },
+          {
+            "id": 55877774,
+            "name": "Day 19: Data Interpretation & Logical Reasoning",
+            "type": 1,
+            "stats": {
+              "videos": 2,
+              "files": 2,
+              "tests": 0
+            },
+            "children": [
+              {
+                "id": 91525541,
+                "name": "Data prep and Logical - PYQ TCS Cognizant Other .pdf",
+                "type": 3,
+                "stats": {}
+              },
+              {
+                "id": 171885743,
+                "name": "LRDI 01",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 91525542,
+                "name": "Logical and Data Interpretation 02.pdf",
+                "type": 3,
+                "stats": {}
+              },
+              {
+                "id": 171885744,
+                "name": "LRDI 02",
+                "type": 2,
+                "stats": {}
+              }
+            ]
+          },
+          {
+            "id": 56192431,
+            "name": "Day 20: Permutation & Combination",
+            "type": 1,
+            "stats": {
+              "videos": 2,
+              "files": 2,
+              "tests": 0
+            },
+            "children": [
+              {
+                "id": 92180779,
+                "name": "PnC 01 Live From Basic .pdf",
+                "type": 3,
+                "stats": {}
+              },
+              {
+                "id": 92180778,
+                "name": "02 Pnc & Probability Imp .pdf",
+                "type": 3,
+                "stats": {}
+              },
+              {
+                "id": 172883873,
+                "name": "1 - Permutation & Combination ",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 173178673,
+                "name": "2 - PNC ",
+                "type": 2,
+                "stats": {}
+              }
+            ]
+          },
+          {
+            "id": 56311011,
+            "name": "Day 21: Logical Venn & DI",
+            "type": 1,
+            "stats": {
+              "videos": 1,
+              "files": 1,
+              "tests": 0
+            },
+            "children": [
+              {
+                "id": 92412031,
+                "name": "Venn Diagram & Data Interpre PYQ.pdf",
+                "type": 3,
+                "stats": {}
+              },
+              {
+                "id": 173244659,
+                "name": "Venn Diagram and DI",
+                "type": 2,
+                "stats": {}
+              }
+            ]
+          },
+          {
+            "id": 56374284,
+            "name": "Day 22:  Probability Prep",
+            "type": 1,
+            "stats": {
+              "videos": 1,
+              "files": 1,
+              "tests": 0
+            },
+            "children": [
+              {
+                "id": 92551278,
+                "name": "Probability Type Bag Based.pdf",
+                "type": 3,
+                "stats": {}
+              },
+              {
+                "id": 173460626,
+                "name": "Probability Prep",
+                "type": 2,
+                "stats": {}
+              }
+            ]
+          },
+          {
+            "id": 56812634,
+            "name": "Day 23: Time, Speed & Distance",
+            "type": 1,
+            "stats": {
+              "videos": 2,
+              "files": 2,
+              "tests": 0
+            },
+            "children": [
+              {
+                "id": 174772306,
+                "name": "1 - Time, Speed & Distance ",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 93343196,
+                "name": "TSD - 01 .pdf",
+                "type": 3,
+                "stats": {}
+              },
+              {
+                "id": 93343195,
+                "name": "TSD 02 - Zero to Hero.pdf",
+                "type": 3,
+                "stats": {}
+              },
+              {
+                "id": 174772307,
+                "name": "2 - Time, Speed & Distance ",
+                "type": 2,
+                "stats": {}
+              }
+            ]
+          },
+          {
+            "id": 57083276,
+            "name": "Day 24: Boat & Stream",
+            "type": 1,
+            "stats": {
+              "videos": 1,
+              "files": 1,
+              "tests": 0
+            },
+            "children": [
+              {
+                "id": 93890893,
+                "name": "Boats and Stream One Shot Live .pdf",
+                "type": 3,
+                "stats": {}
+              },
+              {
+                "id": 175654363,
+                "name": "Boats & Stream One Shot",
+                "type": 2,
+                "stats": {}
+              }
+            ]
+          },
+          {
+            "id": 57431942,
+            "name": "Day 25: Arrangement Topic",
+            "type": 1,
+            "stats": {
+              "videos": 3,
+              "files": 3,
+              "tests": 0
+            },
+            "children": [
+              {
+                "id": 94469653,
+                "name": "Class Sheet - CIRCULAR ARRANGEMENT.pdf",
+                "type": 3,
+                "stats": {}
+              },
+              {
+                "id": 176511427,
+                "name": "1: Circular Arrangement from basic to advance",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 94469656,
+                "name": "Linear and Parallel arrangement 01.pdf",
+                "type": 3,
+                "stats": {}
+              },
+              {
+                "id": 176511428,
+                "name": "2: Linear and Parallel Arrangement",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 94469657,
+                "name": "Parallel Arrangement Sheet .pdf",
+                "type": 3,
+                "stats": {}
+              },
+              {
+                "id": 176511429,
+                "name": "3: Parallel Arrangement  One Shot",
+                "type": 2,
+                "stats": {}
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 53321590,
+        "name": "Verbal prep with Okesh sir",
+        "type": 1,
+        "stats": {
+          "videos": 5,
+          "files": 0,
+          "tests": 0
+        },
+        "children": [
+          {
+            "id": 164908752,
+            "name": "1: Vocabulary",
+            "type": 2,
+            "stats": {}
+          },
+          {
+            "id": 164908750,
+            "name": "2: Sentence Correction",
+            "type": 2,
+            "stats": {}
+          },
+          {
+            "id": 165229593,
+            "name": "3: Sentence Correction",
+            "type": 2,
+            "stats": {}
+          },
+          {
+            "id": 165423807,
+            "name": "4: PYQ Verbal Ability pre",
+            "type": 2,
+            "stats": {}
+          },
+          {
+            "id": 170095482,
+            "name": "5: Verbal Sentence Correction",
+            "type": 2,
+            "stats": {}
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 52551134,
+    "name": "Module 1.4: Mock Test",
+    "type": 1,
+    "stats": {
+      "videos": 2,
+      "files": 4,
+      "tests": 22
+    },
+    "children": [
+      {
+        "id": 52551137,
+        "name": "Day 1",
+        "type": 1,
+        "stats": {
+          "videos": 0,
+          "files": 0,
+          "tests": 4
+        },
+        "children": [
+          {
+            "id": 29486150,
+            "name": "1.1  Logical Reasoning - Assorted - With Video Solution",
+            "type": 4,
+            "stats": {
+              "tests": 0
+            }
+          },
+          {
+            "id": 29486151,
+            "name": "Verbal Ability (with Video Solutions)",
+            "type": 4,
+            "stats": {
+              "tests": 0
+            }
+          },
+          {
+            "id": 29486152,
+            "name": "1.1 Quantitative Mock",
+            "type": 4,
+            "stats": {
+              "tests": 0
+            }
+          },
+          {
+            "id": 29486153,
+            "name": "Para Jumbles",
+            "type": 4,
+            "stats": {
+              "tests": 0
+            }
+          }
+        ]
+      },
+      {
+        "id": 52551144,
+        "name": "Day 3 - YT",
+        "type": 1,
+        "stats": {
+          "videos": 0,
+          "files": 1,
+          "tests": 3
+        },
+        "children": [
+          {
+            "id": 29486157,
+            "name": "All Indai - Logical Reasoning 2024",
+            "type": 4,
+            "stats": {
+              "tests": null
+            }
+          },
+          {
+            "id": 29486158,
+            "name": "Numerical Ability- All India 2024",
+            "type": 4,
+            "stats": {
+              "tests": null
+            }
+          },
+          {
+            "id": 29486159,
+            "name": "Full length verbal ability - All India",
+            "type": 4,
+            "stats": {
+              "tests": null
+            }
+          },
+          {
+            "id": 85694679,
+            "name": "All India TCS MOCK Numercial 01",
+            "type": 3,
+            "stats": {}
+          }
+        ]
+      },
+      {
+        "id": 52551140,
+        "name": "Day 2",
+        "type": 1,
+        "stats": {
+          "videos": 2,
+          "files": 0,
+          "tests": 4
+        },
+        "children": [
+          {
+            "id": 52551145,
+            "name": "Assorted Mock - Quant + Lr with solution",
+            "type": 1,
+            "stats": {
+              "videos": 2,
+              "files": 0,
+              "tests": 1
+            },
+            "children": [
+              {
+                "id": 29486160,
+                "name": "Assorted Mock 01 with Video Solutions",
+                "type": 4,
+                "stats": {
+                  "tests": 0
+                }
+              },
+              {
+                "id": 162545067,
+                "name": "Q1-Q6",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 162545066,
+                "name": "Q7-Q13",
+                "type": 2,
+                "stats": {}
+              }
+            ]
+          },
+          {
+            "id": 29486154,
+            "name": "1.2 Verbal ability Assorted 02  with Solution",
+            "type": 4,
+            "stats": {
+              "tests": 0
+            }
+          },
+          {
+            "id": 29486155,
+            "name": "VERBAL ABILITY _RC 02",
+            "type": 4,
+            "stats": {
+              "tests": 0
+            }
+          },
+          {
+            "id": 29486156,
+            "name": "1.3 Logical Reasoning Assorted With Video Solution",
+            "type": 4,
+            "stats": {
+              "tests": null
+            }
+          }
+        ]
+      },
+      {
+        "id": 52551152,
+        "name": "Day 4",
+        "type": 1,
+        "stats": {
+          "videos": 0,
+          "files": 0,
+          "tests": 3
+        },
+        "children": [
+          {
+            "id": 29486161,
+            "name": "1.4 Verbal ability Assorted 04- Mock With Solution",
+            "type": 4,
+            "stats": {
+              "tests": 0
+            }
+          },
+          {
+            "id": 29486162,
+            "name": "TCS Full length 04",
+            "type": 4,
+            "stats": {
+              "tests": null
+            }
+          },
+          {
+            "id": 29486163,
+            "name": "1.4 Pre Assessment (TCS  Updated Pattern Mock Test _ PYQ)",
+            "type": 4,
+            "stats": {
+              "tests": 0
+            }
+          }
+        ]
+      },
+      {
+        "id": 52551161,
+        "name": "Day 5",
+        "type": 1,
+        "stats": {
+          "videos": 0,
+          "files": 1,
+          "tests": 3
+        },
+        "children": [
+          {
+            "id": 29486165,
+            "name": "TCS 2024",
+            "type": 4,
+            "stats": {
+              "tests": null
+            }
+          },
+          {
+            "id": 29486166,
+            "name": "1.3 Verbal Ability Assorted 03",
+            "type": 4,
+            "stats": {
+              "tests": 0
+            }
+          },
+          {
+            "id": 29486167,
+            "name": "Assorted LRDI Important",
+            "type": 4,
+            "stats": {
+              "tests": 0
+            }
+          },
+          {
+            "id": 85694691,
+            "name": "1.1 With Solution- Full Mock Test Coding.pdf",
+            "type": 3,
+            "stats": {}
+          }
+        ]
+      },
+      {
+        "id": 52551172,
+        "name": "Day 6",
+        "type": 1,
+        "stats": {
+          "videos": 0,
+          "files": 1,
+          "tests": 3
+        },
+        "children": [
+          {
+            "id": 29486179,
+            "name": "Verbal Ability : Synonym & Antonym",
+            "type": 4,
+            "stats": {
+              "tests": 0
+            }
+          },
+          {
+            "id": 29486178,
+            "name": "1.1 Verbal Ability Assorted  01",
+            "type": 4,
+            "stats": {
+              "tests": 0
+            }
+          },
+          {
+            "id": 29486180,
+            "name": "Full Lenght 02",
+            "type": 4,
+            "stats": {
+              "tests": null
+            }
+          },
+          {
+            "id": 85694714,
+            "name": "1.2 With Solution Full Mock Test Coding.pdf",
+            "type": 3,
+            "stats": {}
+          }
+        ]
+      },
+      {
+        "id": 52551185,
+        "name": "Day 7",
+        "type": 1,
+        "stats": {
+          "videos": 0,
+          "files": 1,
+          "tests": 2
+        },
+        "children": [
+          {
+            "id": 29486184,
+            "name": "1.3 Numerical Ability",
+            "type": 4,
+            "stats": {
+              "tests": 0
+            }
+          },
+          {
+            "id": 52551198,
+            "name": "All India TCS Mock 03",
+            "type": 1,
+            "stats": {
+              "videos": 0,
+              "files": 0,
+              "tests": 1
+            },
+            "children": [
+              {
+                "id": 29486189,
+                "name": "TCS 03",
+                "type": 4,
+                "stats": {
+                  "tests": null
+                }
+              }
+            ]
+          },
+          {
+            "id": 85694727,
+            "name": "1.3 With Solution-Full Mock Test Coding.pdf",
+            "type": 3,
+            "stats": {}
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 52551142,
+    "name": "Module 1.5: Interview Preparation",
+    "type": 1,
+    "stats": {
+      "videos": 25,
+      "files": 23,
+      "tests": 0
+    },
+    "children": [
+      {
+        "id": 52551151,
+        "name": "1.1 Resume + Self Introduction Format V.V Imp",
+        "type": 1,
+        "stats": {
+          "videos": 0,
+          "files": 2,
+          "tests": 0
+        },
+        "children": [
+          {
+            "id": 85694684,
+            "name": "Self Introduction Template.pdf",
+            "type": 3,
+            "stats": {}
+          },
+          {
+            "id": 85694685,
+            "name": "Best Sample Resume.pdf",
+            "type": 3,
+            "stats": {}
+          }
+        ]
+      },
+      {
+        "id": 52551170,
+        "name": "1.3 Important - HR + Technical + Managerial -Inter",
+        "type": 1,
+        "stats": {
+          "videos": 0,
+          "files": 16,
+          "tests": 0
+        },
+        "children": [
+          {
+            "id": 85694712,
+            "name": "Extempore Topics 1",
+            "type": 3,
+            "stats": {}
+          },
+          {
+            "id": 85694713,
+            "name": "Extempore Topics 2",
+            "type": 3,
+            "stats": {}
+          },
+          {
+            "id": 85694698,
+            "name": "Interview HR Questions",
+            "type": 3,
+            "stats": {}
+          },
+          {
+            "id": 85694707,
+            "name": "Top 30+ OOPs Interview Questions and Answers.pdf",
+            "type": 3,
+            "stats": {}
+          },
+          {
+            "id": 85694704,
+            "name": "C Interview Questions",
+            "type": 3,
+            "stats": {}
+          },
+          {
+            "id": 85694699,
+            "name": "Java Interview Questions",
+            "type": 3,
+            "stats": {}
+          },
+          {
+            "id": 85694708,
+            "name": "Python Interview & Coding Questions",
+            "type": 3,
+            "stats": {}
+          },
+          {
+            "id": 85694700,
+            "name": "C++ Interview Questions",
+            "type": 3,
+            "stats": {}
+          },
+          {
+            "id": 85694711,
+            "name": "DBMS Interview Questions",
+            "type": 3,
+            "stats": {}
+          },
+          {
+            "id": 85694701,
+            "name": "OS Interview Questions",
+            "type": 3,
+            "stats": {}
+          },
+          {
+            "id": 85694702,
+            "name": "DSA Interview Questions",
+            "type": 3,
+            "stats": {}
+          },
+          {
+            "id": 85694705,
+            "name": "Coding Interview Questions",
+            "type": 3,
+            "stats": {}
+          },
+          {
+            "id": 85694703,
+            "name": "Interview Project based Questions",
+            "type": 3,
+            "stats": {}
+          },
+          {
+            "id": 85694709,
+            "name": "Interview Internship Certification",
+            "type": 3,
+            "stats": {}
+          },
+          {
+            "id": 85694710,
+            "name": "SQL_NOTES_CAMPUS_MONK.pdf",
+            "type": 3,
+            "stats": {}
+          },
+          {
+            "id": 85694706,
+            "name": "COMPUTER_NETWORK_CM.pdf",
+            "type": 3,
+            "stats": {}
+          }
+        ]
+      },
+      {
+        "id": 52551160,
+        "name": "1.2 Live Interview Classes",
+        "type": 1,
+        "stats": {
+          "videos": 18,
+          "files": 4,
+          "tests": 0
+        },
+        "children": [
+          {
+            "id": 52551171,
+            "name": "Day 01 : Imp : Top TCS Interview Questions",
+            "type": 1,
+            "stats": {
+              "videos": 1,
+              "files": 0,
+              "tests": 0
+            },
+            "children": [
+              {
+                "id": 162545105,
+                "name": "Top TCS Interview Questions | How to Answer",
+                "type": 2,
+                "stats": {}
+              }
+            ]
+          },
+          {
+            "id": 52551184,
+            "name": "Day 02 : DSA - Imp - Technical Interview Questions",
+            "type": 1,
+            "stats": {
+              "videos": 1,
+              "files": 1,
+              "tests": 0
+            },
+            "children": [
+              {
+                "id": 85694726,
+                "name": "Technical Interview Prep.pdf",
+                "type": 3,
+                "stats": {}
+              },
+              {
+                "id": 162545116,
+                "name": "Technical Interview",
+                "type": 2,
+                "stats": {}
+              }
+            ]
+          },
+          {
+            "id": 52551197,
+            "name": "Day 03 : HR Related - Interview Prep Questions",
+            "type": 1,
+            "stats": {
+              "videos": 1,
+              "files": 1,
+              "tests": 0
+            },
+            "children": [
+              {
+                "id": 85694734,
+                "name": "Interview Prep Question Task.pdf",
+                "type": 3,
+                "stats": {}
+              },
+              {
+                "id": 162545131,
+                "name": "Most Commonly Asked Questions in Interview",
+                "type": 2,
+                "stats": {}
+              }
+            ]
+          },
+          {
+            "id": 52551208,
+            "name": "Day 04: Technical Coding Interview Questions",
+            "type": 1,
+            "stats": {
+              "videos": 1,
+              "files": 1,
+              "tests": 0
+            },
+            "children": [
+              {
+                "id": 85694744,
+                "name": "Interview Technical Questions (Java)",
+                "type": 3,
+                "stats": {}
+              },
+              {
+                "id": 162545146,
+                "name": "Technical Coding Interview Question",
+                "type": 2,
+                "stats": {}
+              }
+            ]
+          },
+          {
+            "id": 52551219,
+            "name": "Day 05: 1 ON 1 HR + Technical Interview",
+            "type": 1,
+            "stats": {
+              "videos": 2,
+              "files": 0,
+              "tests": 0
+            },
+            "children": [
+              {
+                "id": 162545166,
+                "name": "TCS Interview Phase - 1",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 162545167,
+                "name": "TCS Interview Phase - 2",
+                "type": 2,
+                "stats": {}
+              }
+            ]
+          },
+          {
+            "id": 52551231,
+            "name": "Day 06: 1 on 1 HR + Technical Interview",
+            "type": 1,
+            "stats": {
+              "videos": 2,
+              "files": 0,
+              "tests": 0
+            },
+            "children": [
+              {
+                "id": 162545183,
+                "name": "TCS Mock Interview - 1",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 162545182,
+                "name": "TCS Mock Interview - 2",
+                "type": 2,
+                "stats": {}
+              }
+            ]
+          },
+          {
+            "id": 52551242,
+            "name": "Day 07: How to handle TCS Most Imp Interview Quest",
+            "type": 1,
+            "stats": {
+              "videos": 1,
+              "files": 0,
+              "tests": 0
+            },
+            "children": [
+              {
+                "id": 162545199,
+                "name": "How to handle TCS Interview Questions",
+                "type": 2,
+                "stats": {}
+              }
+            ]
+          },
+          {
+            "id": 52551251,
+            "name": "Day 08: How to handle TCS Most Imp Interview Quest",
+            "type": 1,
+            "stats": {
+              "videos": 1,
+              "files": 0,
+              "tests": 0
+            },
+            "children": [
+              {
+                "id": 162545218,
+                "name": "Day 07: How to handle TCS Most Imp Interview Questions",
+                "type": 2,
+                "stats": {}
+              }
+            ]
+          },
+          {
+            "id": 52551258,
+            "name": "Day 09: Technical Coding Interview Questions",
+            "type": 1,
+            "stats": {
+              "videos": 1,
+              "files": 1,
+              "tests": 0
+            },
+            "children": [
+              {
+                "id": 85694777,
+                "name": "Interview Prep Coding Questions ",
+                "type": 3,
+                "stats": {}
+              },
+              {
+                "id": 162545229,
+                "name": "Technical Coding interview Questions",
+                "type": 2,
+                "stats": {}
+              }
+            ]
+          },
+          {
+            "id": 52551265,
+            "name": "Day 10: 1:1 Technical + HR Mock Interview",
+            "type": 1,
+            "stats": {
+              "videos": 2,
+              "files": 0,
+              "tests": 0
+            },
+            "children": [
+              {
+                "id": 162545260,
+                "name": "1:1 Mock Interview (HR + Technical)",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 162545259,
+                "name": "1:1 Mock Interview (HR + Technical)",
+                "type": 2,
+                "stats": {}
+              }
+            ]
+          },
+          {
+            "id": 52551267,
+            "name": "Day 11: 1:1 Mock Interview (HR + Technical)",
+            "type": 1,
+            "stats": {
+              "videos": 2,
+              "files": 0,
+              "tests": 0
+            },
+            "children": [
+              {
+                "id": 162545261,
+                "name": "Mock Interview (HR + Technical)",
+                "type": 2,
+                "stats": {}
+              },
+              {
+                "id": 162545262,
+                "name": "Mock Interview (HR + Technical)",
+                "type": 2,
+                "stats": {}
+              }
+            ]
+          },
+          {
+            "id": 52551270,
+            "name": "Day 12: Interview Prep",
+            "type": 1,
+            "stats": {
+              "videos": 1,
+              "files": 0,
+              "tests": 0
+            },
+            "children": [
+              {
+                "id": 162545265,
+                "name": "Interview Prep",
+                "type": 2,
+                "stats": {}
+              }
+            ]
+          },
+          {
+            "id": 52551274,
+            "name": "Day 13: Mock Interview (HR + Technical)",
+            "type": 1,
+            "stats": {
+              "videos": 1,
+              "files": 0,
+              "tests": 0
+            },
+            "children": [
+              {
+                "id": 162545270,
+                "name": "Mock Interview TCS",
+                "type": 2,
+                "stats": {}
+              }
+            ]
+          },
+          {
+            "id": 52551276,
+            "name": "Day 14: Mock Interview (HR + Technical)",
+            "type": 1,
+            "stats": {
+              "videos": 1,
+              "files": 0,
+              "tests": 0
+            },
+            "children": [
+              {
+                "id": 162545273,
+                "name": "1:1 Mock Interview",
+                "type": 2,
+                "stats": {}
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 162545059,
+        "name": "How does Interview looks like?",
+        "type": 2,
+        "stats": {}
+      },
+      {
+        "id": 162545060,
+        "name": "Resume Building",
+        "type": 2,
+        "stats": {}
+      },
+      {
+        "id": 162545065,
+        "name": "Most Asked Questions in Interview",
+        "type": 2,
+        "stats": {}
+      },
+      {
+        "id": 162545061,
+        "name": "Must avoid these Mistakes during an Interview",
+        "type": 2,
+        "stats": {}
+      },
+      {
+        "id": 162545063,
+        "name": "Project's Based Questions",
+        "type": 2,
+        "stats": {}
+      },
+      {
+        "id": 162545062,
+        "name": "Internship Based Questions",
+        "type": 2,
+        "stats": {}
+      },
+      {
+        "id": 162545064,
+        "name": "Interview Do's or Don't",
+        "type": 2,
+        "stats": {}
+      },
+      {
+        "id": 85694678,
+        "name": "Actual Interview Experience TCS June 2024.pdf",
+        "type": 3,
+        "stats": {}
+      }
+    ]
+  },
+  {
+    "id": 52551133,
+    "name": "1.6 E-Books",
+    "type": 1,
+    "stats": {
+      "videos": 0,
+      "files": 3,
+      "tests": 0
+    },
+    "children": [
+      {
+        "id": 52551135,
+        "name": "Verbal Practice Before Exam _ Shatarupa Ma'am with",
+        "type": 1,
+        "stats": {
+          "videos": 0,
+          "files": 1,
+          "tests": 0
+        },
+        "children": [
+          {
+            "id": 85694668,
+            "name": "Verbal Ability",
+            "type": 3,
+            "stats": {}
+          }
+        ]
+      },
+      {
+        "id": 85694666,
+        "name": "Logical Reasoning ",
+        "type": 3,
+        "stats": {}
+      },
+      {
+        "id": 85694667,
+        "name": "QUANT",
+        "type": 3,
+        "stats": {}
+      }
+    ]
+  },
+  {
+    "id": 52551150,
+    "name": "Gamified Assessment - New Videos - Zero to Hero",
+    "type": 1,
+    "stats": {
+      "videos": 10,
+      "files": 0,
+      "tests": 0
+    },
+    "children": [
+      {
+        "id": 162545081,
+        "name": "1 : Introduction",
+        "type": 2,
+        "stats": {}
+      },
+      {
+        "id": 162545082,
+        "name": "1.1. Motion Challenge - Concept",
+        "type": 2,
+        "stats": {}
+      },
+      {
+        "id": 162545083,
+        "name": "1.2 : Motion Challenge - On Screen Played",
+        "type": 2,
+        "stats": {}
+      },
+      {
+        "id": 162545080,
+        "name": "2: Gap Challenge - Concept Video",
+        "type": 2,
+        "stats": {}
+      },
+      {
+        "id": 162545077,
+        "name": "2.1 : Gap Challenge On Screen",
+        "type": 2,
+        "stats": {}
+      },
+      {
+        "id": 162545078,
+        "name": "3 : Grid Challenge - Concept",
+        "type": 2,
+        "stats": {}
+      },
+      {
+        "id": 162545074,
+        "name": "3.1 : Grid Challenge - 2nd Type",
+        "type": 2,
+        "stats": {}
+      },
+      {
+        "id": 162545076,
+        "name": "3.2 Grid Challenge 3rd Type",
+        "type": 2,
+        "stats": {}
+      },
+      {
+        "id": 162545075,
+        "name": "4. Digit Challenge -Concept",
+        "type": 2,
+        "stats": {}
+      },
+      {
+        "id": 162545079,
+        "name": "4.1 : Digit Challenge On Screen",
+        "type": 2,
+        "stats": {}
+      }
+    ]
+  },
+  {
+    "id": 52551158,
+    "name": "Company Specific",
+    "type": 1,
+    "stats": {
+      "videos": 0,
+      "files": 9,
+      "tests": 7
+    },
+    "children": [
+      {
+        "id": 52551182,
+        "name": "Infosys PYQ",
+        "type": 1,
+        "stats": {
+          "videos": 0,
+          "files": 4,
+          "tests": 0
+        },
+        "children": [
+          {
+            "id": 85694718,
+            "name": "Infosys 1.pdf",
+            "type": 3,
+            "stats": {}
+          },
+          {
+            "id": 85694719,
+            "name": "Infosys 2.pdf",
+            "type": 3,
+            "stats": {}
+          },
+          {
+            "id": 85694720,
+            "name": "Infosys 3.pdf",
+            "type": 3,
+            "stats": {}
+          },
+          {
+            "id": 85694721,
+            "name": "Infosys 4.pdf",
+            "type": 3,
+            "stats": {}
+          }
+        ]
+      },
+      {
+        "id": 52551169,
+        "name": "LTI Mock TESTS & Ebook- SHL",
+        "type": 1,
+        "stats": {
+          "videos": 0,
+          "files": 5,
+          "tests": 7
+        },
+        "children": [
+          {
+            "id": 29486171,
+            "name": "AMCAT Logical Previous Year - 01",
+            "type": 4,
+            "stats": {
+              "tests": 0
+            }
+          },
+          {
+            "id": 29486173,
+            "name": "AMCAT Logical Previous Year - 02",
+            "type": 4,
+            "stats": {
+              "tests": 0
+            }
+          },
+          {
+            "id": 29486172,
+            "name": "AMCAT Quant Previous Year - 01",
+            "type": 4,
+            "stats": {
+              "tests": 0
+            }
+          },
+          {
+            "id": 29486174,
+            "name": "AMCAT Quant Previous Year - 02",
+            "type": 4,
+            "stats": {
+              "tests": 0
+            }
+          },
+          {
+            "id": 29486175,
+            "name": "AMCAT Verbal Ability Previous Year - 02",
+            "type": 4,
+            "stats": {
+              "tests": 0
+            }
+          },
+          {
+            "id": 29486176,
+            "name": "AMCAT/Cocubes / TCS/Other placement  Logical Ability-03",
+            "type": 4,
+            "stats": {
+              "tests": 0
+            }
+          },
+          {
+            "id": 29486177,
+            "name": "Amcat/ Cocubes/ Placement -  Quant Mock-03",
+            "type": 4,
+            "stats": {
+              "tests": 0
+            }
+          },
+          {
+            "id": 52551183,
+            "name": "Amcat all Previous year papers",
+            "type": 1,
+            "stats": {
+              "videos": 0,
+              "files": 4,
+              "tests": 0
+            },
+            "children": [
+              {
+                "id": 85694722,
+                "name": "Logical Ability DXC Previous Q's",
+                "type": 3,
+                "stats": {}
+              },
+              {
+                "id": 85694723,
+                "name": "Technical Ability DXC Previous Q's",
+                "type": 3,
+                "stats": {}
+              },
+              {
+                "id": 85694725,
+                "name": "Numerical Ability DXC Previous Q's",
+                "type": 3,
+                "stats": {}
+              },
+              {
+                "id": 85694724,
+                "name": "DXC_PROGRAMS",
+                "type": 3,
+                "stats": {}
+              }
+            ]
+          },
+          {
+            "id": 85694697,
+            "name": "LTI Exam Pattern Updated .pdf",
+            "type": 3,
+            "stats": {}
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,12 @@
+# Antigravity IDE / System generated directories
+.system_generated/
+.tempmediaStorage/
+.user_uploaded/
+*.log
+
+# OS Metadata
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
