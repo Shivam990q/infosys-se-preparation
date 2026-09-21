@@ -478,53 +478,81 @@ export default function CourseExplorer({ onLaunchTest }) {
               ))}
             </div>
           ) : (
-            /* Search List View */
-            <div className="glass-card rounded-2xl border border-[var(--theme-border)] overflow-hidden divide-y divide-[var(--theme-border)]">
+            /* Search List View (Upgraded with animations, big font & premium aesthetics) */
+            <div className="space-y-3">
               {searchResults.map((item, idx) => (
-                <div key={idx} className="p-3.5 hover:bg-[var(--theme-bg-subtle)] transition-colors flex items-center justify-between gap-3">
-                  <div className="flex items-center gap-3 min-w-0">
-                    <div className={`p-2 rounded-lg shrink-0 ${
-                      item.itemType === 'video' ? 'bg-amber-500/10 text-amber-400' :
-                      item.itemType === 'pdf' ? 'bg-rose-500/10 text-rose-400' : 'bg-indigo-500/10 text-indigo-400'
+                <motion.div
+                  key={idx}
+                  initial={{ opacity: 0, y: 10 }}
+                  animate={{ opacity: 1, y: 0 }}
+                  transition={{ duration: 0.25, delay: Math.min(idx * 0.03, 0.3) }}
+                  whileHover={{ x: 6, scale: 1.006 }}
+                  className="p-4 md:p-5 rounded-2xl glass-card border border-[var(--theme-border)] hover:border-[var(--theme-border-accent)] transition-all flex flex-col md:flex-row md:items-center justify-between gap-4 group shadow-sm hover:shadow-xl hover:bg-[var(--theme-bg-subtle)] relative overflow-hidden"
+                >
+                  <div className="flex items-center gap-4 min-w-0">
+                    <div className={`w-12 h-12 rounded-2xl flex items-center justify-center shrink-0 shadow-md group-hover:scale-105 transition-all ${
+                      item.itemType === 'video' ? 'bg-amber-500/10 text-amber-400 border border-amber-500/20 group-hover:bg-amber-500 group-hover:text-white' :
+                      item.itemType === 'pdf' ? 'bg-rose-500/10 text-rose-400 border border-rose-500/20 group-hover:bg-rose-600 group-hover:text-white' : 
+                      'bg-indigo-500/10 text-indigo-400 border border-indigo-500/20 group-hover:bg-indigo-600 group-hover:text-white'
                     }`}>
-                      {item.itemType === 'video' && <Video size={16} />}
-                      {item.itemType === 'pdf' && <FileText size={16} />}
-                      {item.itemType === 'test' && <Award size={16} />}
+                      {item.itemType === 'video' && <Play size={20} className="fill-current ml-0.5" />}
+                      {item.itemType === 'pdf' && <FileText size={22} />}
+                      {item.itemType === 'test' && <Award size={22} />}
                     </div>
                     <div className="min-w-0">
-                      <div className="font-bold text-xs text-[var(--theme-text-heading)] truncate" title={item.name}>
+                      <h3 className="font-bold text-sm md:text-base text-[var(--theme-text-heading)] group-hover:text-[var(--theme-text-accent)] transition-colors leading-snug line-clamp-1" title={item.name}>
                         {item.name}
-                      </div>
-                      <div className="text-[10px] text-[var(--theme-text-muted)] truncate">
-                        {item.fullPath}
+                      </h3>
+                      <div className="flex items-center gap-2 mt-1.5 flex-wrap">
+                        {item.duration && (
+                          <span className="text-[10px] md:text-xs font-mono font-bold px-2.5 py-0.5 rounded-md bg-amber-500/15 text-amber-300 border border-amber-500/30">
+                            {item.duration}
+                          </span>
+                        )}
+                        <span className="text-[10px] md:text-xs text-[var(--theme-text-muted)] truncate max-w-md">
+                          📁 {item.fullPath}
+                        </span>
                       </div>
                     </div>
                   </div>
 
-                  <div className="flex items-center gap-2 shrink-0">
-                    {item.duration && (
-                      <span className="text-[10px] font-mono text-amber-400 px-2 py-0.5 rounded bg-[var(--theme-bg-subtle)] font-bold">
-                        {item.duration}
-                      </span>
-                    )}
+                  <div className="flex items-center gap-2.5 shrink-0 self-end md:self-center">
                     {item.itemType === 'pdf' && item.url && (
+                      <>
+                        <button
+                          onClick={() => setSelectedPdf(item)}
+                          className="btn-secondary text-xs md:text-sm py-2 px-4 flex items-center gap-2 font-bold shadow-sm"
+                        >
+                          <Eye size={14} /> Instant Preview
+                        </button>
+                        <a
+                          href={item.url}
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          className="btn-secondary text-xs md:text-sm py-2 px-3 text-rose-400 hover:text-white hover:bg-rose-600 border-rose-500/30 transition-all shadow-sm"
+                        >
+                          <ExternalLink size={14} />
+                        </a>
+                      </>
+                    )}
+                    {item.itemType === 'video' && item.isLocal && item.url && (
                       <button
-                        onClick={() => setSelectedPdf(item)}
-                        className="btn-secondary text-xs py-1 px-2.5 flex items-center gap-1"
+                        onClick={() => setSelectedVideo(item)}
+                        className="btn-primary text-xs md:text-sm py-2 px-5 flex items-center gap-2 font-bold shadow-md"
                       >
-                        <Eye size={12} /> Preview
+                        <Play size={14} className="fill-current" /> Watch Lecture
                       </button>
                     )}
                     {item.itemType === 'test' && (
                       <button
                         onClick={() => onLaunchTest && onLaunchTest(item)}
-                        className="btn-premium text-xs py-1 px-3 flex items-center gap-1"
+                        className="btn-premium text-xs md:text-sm py-2 px-5 flex items-center gap-2 font-black shadow-md"
                       >
-                        Take Test
+                        <Play size={14} className="fill-current" /> Start Mock Test
                       </button>
                     )}
                   </div>
-                </div>
+                </motion.div>
               ))}
             </div>
           )}
@@ -600,31 +628,61 @@ export default function CourseExplorer({ onLaunchTest }) {
                   ))}
                 </div>
               ) : (
-                /* Folders List Mode */
-                <div className="glass-card rounded-2xl border border-[var(--theme-border)] overflow-hidden divide-y divide-[var(--theme-border)]">
+                /* Folders List Mode (Upgraded with animations, big font & premium aesthetics) */
+                <div className="space-y-3">
                   {filteredSubfolders.map((sub, i) => (
-                    <div
+                    <motion.div
                       key={sub.id || i}
+                      initial={{ opacity: 0, y: 10 }}
+                      animate={{ opacity: 1, y: 0 }}
+                      transition={{ duration: 0.25, delay: i * 0.03 }}
+                      whileHover={{ x: 6, scale: 1.006 }}
+                      whileTap={{ scale: 0.995 }}
                       onClick={() => navigateToFolder(sub)}
-                      className="p-3.5 hover:bg-[var(--theme-bg-subtle)] transition-colors cursor-pointer flex items-center justify-between gap-3 group"
+                      className="p-4 md:p-5 rounded-2xl glass-card border border-[var(--theme-border)] hover:border-blue-500/50 cursor-pointer transition-all flex items-center justify-between gap-4 group shadow-sm hover:shadow-xl hover:bg-[var(--theme-bg-subtle)] relative overflow-hidden"
                     >
-                      <div className="flex items-center gap-3 min-w-0">
-                        <Folder size={18} className="text-blue-400 shrink-0 group-hover:scale-110 transition-transform" />
-                        <span className="font-bold text-xs text-[var(--theme-text-heading)] group-hover:text-[var(--theme-text-accent)] truncate">
-                          {sub.name}
-                        </span>
+                      <div className="flex items-center gap-4 min-w-0">
+                        <div className="w-12 h-12 rounded-2xl bg-blue-500/10 text-blue-400 border border-blue-500/20 flex items-center justify-center shrink-0 group-hover:bg-blue-600 group-hover:text-white transition-all shadow-md group-hover:scale-105">
+                          <Folder size={22} className="fill-current/20" />
+                        </div>
+                        <div className="min-w-0">
+                          <h3 className="font-black text-sm md:text-base text-[var(--theme-text-heading)] group-hover:text-[var(--theme-text-accent)] transition-colors truncate">
+                            {sub.name}
+                          </h3>
+                          <div className="flex items-center gap-2 mt-1.5 flex-wrap">
+                            {sub.stats.videos > 0 && (
+                              <span className="text-[10px] md:text-xs font-bold px-2.5 py-0.5 rounded-full bg-amber-500/10 text-amber-400 border border-amber-500/20">
+                                {sub.stats.videos} Videos
+                              </span>
+                            )}
+                            {sub.stats.files > 0 && (
+                              <span className="text-[10px] md:text-xs font-bold px-2.5 py-0.5 rounded-full bg-rose-500/10 text-rose-400 border border-rose-500/20">
+                                {sub.stats.files} PDFs & DPPs
+                              </span>
+                            )}
+                            {sub.stats.tests > 0 && (
+                              <span className="text-[10px] md:text-xs font-bold px-2.5 py-0.5 rounded-full bg-indigo-500/10 text-indigo-400 border border-indigo-500/20">
+                                {sub.stats.tests} Mocks
+                              </span>
+                            )}
+                            {sub.stats.videos === 0 && sub.stats.files === 0 && sub.stats.tests === 0 && (
+                              <span className="text-[10px] md:text-xs text-[var(--theme-text-muted)] font-medium">
+                                Direct Directory
+                              </span>
+                            )}
+                          </div>
+                        </div>
                       </div>
+
                       <div className="flex items-center gap-3 shrink-0">
-                        <span className="text-[10px] text-[var(--theme-text-muted)] font-medium">
-                          {[
-                            sub.stats.videos > 0 ? `${sub.stats.videos} vids` : null,
-                            sub.stats.files > 0 ? `${sub.stats.files} files` : null,
-                            sub.stats.tests > 0 ? `${sub.stats.tests} tests` : null,
-                          ].filter(Boolean).join(', ')}
+                        <span className="hidden sm:inline-block text-xs font-bold text-[var(--theme-text-muted)] group-hover:text-[var(--theme-text-heading)] transition-colors">
+                          Open Folder
                         </span>
-                        <ChevronRight size={14} className="text-[var(--theme-text-muted)] group-hover:translate-x-1 transition-transform" />
+                        <div className="w-9 h-9 rounded-xl bg-[var(--theme-bg-subtle)] border border-[var(--theme-border)] flex items-center justify-center text-[var(--theme-text-muted)] group-hover:text-[var(--theme-text-accent)] group-hover:border-[var(--theme-border-accent)] group-hover:translate-x-1 transition-all">
+                          <ChevronRight size={18} />
+                        </div>
                       </div>
-                    </div>
+                    </motion.div>
                   ))}
                 </div>
               )}
@@ -686,32 +744,55 @@ export default function CourseExplorer({ onLaunchTest }) {
                   ))}
                 </div>
               ) : (
-                /* Videos List Mode */
-                <div className="glass-card rounded-2xl border border-[var(--theme-border)] overflow-hidden divide-y divide-[var(--theme-border)]">
+                /* Videos List Mode (Upgraded with animations, big font & premium aesthetics) */
+                <div className="space-y-3">
                   {filteredVideos.map((v, i) => (
-                    <div key={v.id || i} className="p-3.5 hover:bg-[var(--theme-bg-subtle)] transition-colors flex items-center justify-between gap-3">
-                      <div className="flex items-center gap-3 min-w-0">
-                        <Video size={16} className="text-amber-400 shrink-0" />
-                        <span className="font-bold text-xs text-[var(--theme-text-heading)] truncate" title={v.name}>
-                          {v.name}
-                        </span>
+                    <motion.div
+                      key={v.id || i}
+                      initial={{ opacity: 0, y: 10 }}
+                      animate={{ opacity: 1, y: 0 }}
+                      transition={{ duration: 0.25, delay: i * 0.03 }}
+                      whileHover={{ x: 6, scale: 1.006 }}
+                      className="p-4 md:p-5 rounded-2xl glass-card border border-[var(--theme-border)] hover:border-amber-500/50 transition-all flex flex-col md:flex-row md:items-center justify-between gap-4 group shadow-sm hover:shadow-xl hover:bg-[var(--theme-bg-subtle)] relative overflow-hidden"
+                    >
+                      <div className="flex items-center gap-4 min-w-0">
+                        <div className="w-12 h-12 rounded-2xl bg-amber-500/10 text-amber-400 border border-amber-500/20 flex items-center justify-center shrink-0 group-hover:bg-amber-500 group-hover:text-white transition-all shadow-md group-hover:scale-105">
+                          <Play size={20} className="fill-current ml-0.5" />
+                        </div>
+                        <div className="min-w-0">
+                          <div className="flex items-center gap-2 flex-wrap">
+                            <span className="text-[10px] md:text-xs font-mono font-black px-2.5 py-0.5 rounded-md bg-amber-500/15 text-amber-300 border border-amber-500/30">
+                              {v.duration}
+                            </span>
+                            <span className={`text-[10px] md:text-xs font-bold uppercase tracking-wider px-2.5 py-0.5 rounded-md ${
+                              v.isLocal ? 'bg-emerald-500/15 text-emerald-300 border border-emerald-500/30' : 'bg-[var(--theme-bg-subtle)] text-[var(--theme-text-muted)] border border-[var(--theme-border)]'
+                            }`}>
+                              {v.isLocal ? 'Offline HD Available' : 'Classplus DRM Track'}
+                            </span>
+                          </div>
+                          <h3 className="font-bold text-sm md:text-base text-[var(--theme-text-heading)] group-hover:text-amber-400 transition-colors mt-1.5 leading-snug line-clamp-1" title={v.name}>
+                            {v.name}
+                          </h3>
+                        </div>
                       </div>
-                      <div className="flex items-center gap-3 shrink-0">
-                        <span className="text-[10px] font-mono text-amber-400 font-bold bg-amber-500/10 px-2 py-0.5 rounded">
-                          {v.duration}
-                        </span>
+
+                      <div className="flex items-center gap-3 shrink-0 self-end md:self-center">
                         {v.isLocal && v.url ? (
                           <button
                             onClick={() => setSelectedVideo(v)}
-                            className="btn-primary text-xs py-1 px-3 flex items-center gap-1"
+                            className="btn-primary text-xs md:text-sm py-2 px-5 flex items-center gap-2 font-bold shadow-md hover:shadow-amber-500/20 active:scale-95"
                           >
-                            <Play size={12} /> Play
+                            <Play size={14} className="fill-current" /> Watch Lecture
                           </button>
                         ) : (
-                          <span className="text-[9px] text-[var(--theme-text-muted)] uppercase font-bold">DRM</span>
+                          <div className="flex items-center gap-2">
+                            <span className="text-xs font-bold text-[var(--theme-text-muted)] px-3 py-1.5 rounded-xl bg-[var(--theme-bg-subtle)] border border-[var(--theme-border)]">
+                              DRM Encrypted
+                            </span>
+                          </div>
                         )}
                       </div>
-                    </div>
+                    </motion.div>
                   ))}
                 </div>
               )}
@@ -775,42 +856,64 @@ export default function CourseExplorer({ onLaunchTest }) {
                   ))}
                 </div>
               ) : (
-                /* PDFs List Mode */
-                <div className="glass-card rounded-2xl border border-[var(--theme-border)] overflow-hidden divide-y divide-[var(--theme-border)]">
+                /* PDFs List Mode (Upgraded with animations, big font & premium aesthetics) */
+                <div className="space-y-3">
                   {filteredDocs.map((doc, i) => (
-                    <div key={i} className="p-3.5 hover:bg-[var(--theme-bg-subtle)] transition-colors flex items-center justify-between gap-3">
-                      <div className="flex items-center gap-3 min-w-0">
-                        <FileText size={16} className="text-rose-400 shrink-0" />
-                        <span className="font-bold text-xs text-[var(--theme-text-heading)] truncate" title={doc.name}>
-                          {doc.name}
-                        </span>
+                    <motion.div
+                      key={doc.id || i}
+                      initial={{ opacity: 0, y: 10 }}
+                      animate={{ opacity: 1, y: 0 }}
+                      transition={{ duration: 0.25, delay: i * 0.03 }}
+                      whileHover={{ x: 6, scale: 1.006 }}
+                      className="p-4 md:p-5 rounded-2xl glass-card border border-[var(--theme-border)] hover:border-rose-500/50 transition-all flex flex-col md:flex-row md:items-center justify-between gap-4 group shadow-sm hover:shadow-xl hover:bg-[var(--theme-bg-subtle)] relative overflow-hidden"
+                    >
+                      <div className="flex items-center gap-4 min-w-0">
+                        <div className="w-12 h-12 rounded-2xl bg-rose-500/10 text-rose-400 border border-rose-500/20 flex items-center justify-center shrink-0 group-hover:bg-rose-600 group-hover:text-white transition-all shadow-md group-hover:scale-105">
+                          <FileText size={22} />
+                        </div>
+                        <div className="min-w-0">
+                          <h3 className="font-bold text-sm md:text-base text-[var(--theme-text-heading)] group-hover:text-rose-400 transition-colors leading-snug line-clamp-1" title={doc.name}>
+                            {doc.name}
+                          </h3>
+                          <div className="flex items-center gap-2 mt-1.5 flex-wrap">
+                            {doc.size > 0 && (
+                              <span className="text-[10px] md:text-xs font-mono font-bold px-2.5 py-0.5 rounded-md bg-rose-500/15 text-rose-300 border border-rose-500/30">
+                                {(doc.size / (1024 * 1024)).toFixed(2)} MB
+                              </span>
+                            )}
+                            <span className="text-[10px] md:text-xs font-bold text-[var(--theme-text-muted)] uppercase tracking-wider">
+                              Verified CampusMonk Handout
+                            </span>
+                          </div>
+                        </div>
                       </div>
-                      <div className="flex items-center gap-2 shrink-0">
-                        {doc.size > 0 && (
-                          <span className="text-[10px] font-mono text-[var(--theme-text-muted)]">
-                            {(doc.size / (1024 * 1024)).toFixed(1)} MB
-                          </span>
-                        )}
-                        {doc.url && (
+
+                      <div className="flex items-center gap-2.5 shrink-0 self-end md:self-center">
+                        {doc.url ? (
                           <>
                             <button
                               onClick={() => setSelectedPdf(doc)}
-                              className="btn-secondary text-xs py-1 px-2.5 flex items-center gap-1"
+                              className="btn-secondary text-xs md:text-sm py-2 px-4 flex items-center gap-2 font-bold shadow-sm hover:border-rose-500/40"
                             >
-                              <Eye size={12} /> Preview
+                              <Eye size={14} /> Instant Preview
                             </button>
                             <a
                               href={doc.url}
                               target="_blank"
                               rel="noopener noreferrer"
-                              className="btn-secondary text-xs py-1 px-2.5 flex items-center gap-1"
+                              className="btn-secondary text-xs md:text-sm py-2 px-3.5 flex items-center gap-1.5 font-bold text-rose-400 hover:text-white hover:bg-rose-600 border-rose-500/30 transition-all shadow-sm"
+                              title="Open in new browser tab"
                             >
-                              <ExternalLink size={12} />
+                              <ExternalLink size={14} />
                             </a>
                           </>
+                        ) : (
+                          <span className="text-xs font-bold text-[var(--theme-text-muted)] px-3 py-1.5 rounded-xl bg-[var(--theme-bg-subtle)] border border-[var(--theme-border)]">
+                            Catalog Reference
+                          </span>
                         )}
                       </div>
-                    </div>
+                    </motion.div>
                   ))}
                 </div>
               )}
@@ -878,35 +981,67 @@ export default function CourseExplorer({ onLaunchTest }) {
                   ))}
                 </div>
               ) : (
-                /* Tests List Mode */
-                <div className="glass-card rounded-2xl border border-[var(--theme-border)] overflow-hidden divide-y divide-[var(--theme-border)]">
+                /* Tests List Mode (Upgraded with animations, big font & premium aesthetics) */
+                <div className="space-y-3">
                   {filteredTests.map((t, i) => (
-                    <div key={i} className="p-3.5 hover:bg-[var(--theme-bg-subtle)] transition-colors flex items-center justify-between gap-3">
-                      <div className="flex items-center gap-3 min-w-0">
-                        <Award size={18} className="text-indigo-400 shrink-0" />
-                        <span className="font-bold text-xs text-[var(--theme-text-heading)] truncate" title={t.name}>
-                          {t.name}
-                        </span>
+                    <motion.div
+                      key={t.id || i}
+                      initial={{ opacity: 0, y: 10 }}
+                      animate={{ opacity: 1, y: 0 }}
+                      transition={{ duration: 0.25, delay: i * 0.03 }}
+                      whileHover={{ x: 6, scale: 1.006 }}
+                      className="p-4 md:p-5 rounded-2xl glass-card border border-[var(--theme-border)] hover:border-indigo-500/50 transition-all flex flex-col md:flex-row md:items-center justify-between gap-4 group shadow-sm hover:shadow-xl hover:bg-[var(--theme-bg-subtle)] relative overflow-hidden"
+                    >
+                      <div className="flex items-center gap-4 min-w-0">
+                        <div className="w-12 h-12 rounded-2xl bg-indigo-500/10 text-indigo-400 border border-indigo-500/20 flex items-center justify-center shrink-0 group-hover:bg-indigo-600 group-hover:text-white transition-all shadow-md group-hover:scale-105">
+                          <Award size={22} />
+                        </div>
+                        <div className="min-w-0">
+                          <h3 className="font-black text-sm md:text-base text-[var(--theme-text-heading)] group-hover:text-indigo-400 transition-colors leading-snug line-clamp-1" title={t.name}>
+                            {t.name}
+                          </h3>
+                          <div className="flex items-center gap-2 mt-1.5 flex-wrap">
+                            <span className="text-[10px] md:text-xs font-bold px-2.5 py-0.5 rounded-md bg-indigo-500/15 text-indigo-300 border border-indigo-500/30">
+                              {t.questionCount > 0 ? `${t.questionCount} Questions` : 'Official CBT Exam Paper'}
+                            </span>
+                            <span className="text-[10px] md:text-xs font-bold text-emerald-400 flex items-center gap-1">
+                              <CheckCircle2 size={12} /> Solution Walkthrough Included
+                            </span>
+                          </div>
+                        </div>
                       </div>
-                      <div className="flex items-center gap-2 shrink-0">
+
+                      <div className="flex items-center gap-2.5 shrink-0 self-end md:self-center">
                         {t.qpHtml && (
                           <a
                             href={t.qpHtml}
                             target="_blank"
                             rel="noopener noreferrer"
-                            className="btn-secondary text-xs py-1 px-2.5"
+                            className="btn-secondary text-xs md:text-sm py-2 px-3.5 flex items-center gap-1.5 font-bold text-[var(--theme-text-muted)] hover:text-white transition-colors"
+                            title="Open raw HTML question paper"
                           >
-                            HTML
+                            <ExternalLink size={13} /> Paper HTML
+                          </a>
+                        )}
+                        {t.solHtml && (
+                          <a
+                            href={t.solHtml}
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            className="btn-secondary text-xs md:text-sm py-2 px-3.5 flex items-center gap-1.5 font-bold text-emerald-400 hover:text-emerald-300 transition-colors"
+                            title="Open raw HTML solutions"
+                          >
+                            <CheckCircle2 size={13} /> Sol HTML
                           </a>
                         )}
                         <button
                           onClick={() => onLaunchTest && onLaunchTest(t)}
-                          className="btn-premium text-xs py-1 px-3 flex items-center gap-1"
+                          className="btn-premium text-xs md:text-sm py-2 px-5 flex items-center gap-2 font-black shadow-md active:scale-95"
                         >
-                          Start Test
+                          <Play size={14} className="fill-current" /> Start Mock Test
                         </button>
                       </div>
-                    </div>
+                    </motion.div>
                   ))}
                 </div>
               )}
