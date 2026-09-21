@@ -9,8 +9,10 @@ import {
   RotateCcw, ChevronLeft, Award, Zap, Clock, Loader2,
   ShieldCheck, Activity,
   ChevronDown, SearchCode, GraduationCap, Layers,
-  Menu, Infinity as InfinityIcon, Sun, Moon, Sparkles
+  Menu, Infinity as InfinityIcon, Sun, Moon, Sparkles,
+  Folder
 } from 'lucide-react';
+import CourseExplorer from './components/CourseExplorer';
 
 const SUBJECT_DESCRIPTIONS = {
   "Analytical & Critical Reasoning": "Evaluate complex arguments, recognize patterns, and apply logical structures to solve high-level problems.",
@@ -913,6 +915,46 @@ const App = () => {
     setActiveTab('test');
   };
 
+  const handleLaunchCourseTest = async (testItem) => {
+    if (testItem.qpJson) {
+      try {
+        const res = await fetch(testItem.qpJson);
+        if (res.ok) {
+          const data = await res.json();
+          const questionsList = [];
+          if (data.sections && data.sections.length > 0) {
+            data.sections.forEach(sec => {
+              sec.questions?.forEach((q, idx) => {
+                questionsList.push({
+                  id: q._id || `course_q_${idx}`,
+                  question_text: q.en?.value || 'Question',
+                  options: (q.en?.options || []).map((opt, oIdx) => ({
+                    id: opt._id || opt.prompt || String(oIdx),
+                    option_text: opt.value,
+                    is_correct: false
+                  })),
+                  subject: { name: sec.title || 'Course Test' },
+                  difficulty: { name: 'Medium' }
+                });
+              });
+            });
+          }
+          if (questionsList.length > 0) {
+            setTestQuestions(questionsList);
+            setTestTimeLimit(data.duration || 1800);
+            setActiveTab('test');
+            return;
+          }
+        }
+      } catch (e) {
+        console.warn('Could not load qpJson, opening qpHtml instead', e);
+      }
+    }
+    if (testItem.qpHtml) {
+      window.open(testItem.qpHtml, '_blank');
+    }
+  };
+
   const appFilters = indexData ? [
     { label: 'Subject', value: selectedSubject, options: ['All', ...(indexData.subjects || [])], setter: setSelectedSubject },
     { label: 'Difficulty', value: selectedDifficulty, options: availableDifficulties, setter: setSelectedDifficulty },
@@ -1048,6 +1090,7 @@ const App = () => {
         <nav className="flex flex-col gap-1">
           {[
             { id: 'dashboard', icon: Layout, label: 'Dashboard' },
+            { id: 'course', icon: Folder, label: 'Course Library (844567)' },
             { id: 'questions', icon: Target, label: 'Questions' },
           ].map(item => (
             <button 
@@ -1182,7 +1225,13 @@ const App = () => {
                   <p className="text-[var(--theme-text-muted)] text-sm font-medium max-w-xl leading-relaxed">Your centralized question bank for exam preparation. <span className="text-[var(--theme-text-success)]">{stats.total.toLocaleString()}</span> questions loaded.</p>
                 </div>
                 <div className="flex gap-3">
-                   <button 
+                  <button 
+                    onClick={() => setActiveTab('course')}
+                    className="btn-secondary flex items-center gap-2"
+                  >
+                    <Folder size={15} /> CampusMonk Vault
+                  </button>
+                  <button 
                     onClick={() => setActiveTab('questions')}
                     className="btn-secondary"
                   >
@@ -1220,6 +1269,36 @@ const App = () => {
                   </motion.div>
                 ))}
               </div>
+
+              {/* CampusMonk Course Vault Feature Card */}
+              <motion.div
+                whileHover={{ scale: 1.005 }}
+                onClick={() => setActiveTab('course')}
+                className="p-5 md:p-6 rounded-2xl glass-card border border-[var(--theme-border)] hover:border-[var(--theme-border-accent)] cursor-pointer transition-all flex flex-col md:flex-row md:items-center justify-between gap-4 bg-gradient-to-r from-blue-900/10 via-purple-900/10 to-indigo-900/10 shadow-sm"
+              >
+                <div className="flex items-center gap-4">
+                  <div className="w-12 h-12 rounded-2xl bg-blue-500/10 text-blue-400 border border-blue-500/20 flex items-center justify-center shrink-0 shadow-sm">
+                    <Folder size={24} />
+                  </div>
+                  <div>
+                    <div className="flex items-center gap-2">
+                      <span className="text-[10px] font-black uppercase tracking-wider px-2 py-0.5 rounded bg-blue-500/10 text-blue-400 border border-blue-500/20">
+                        Course ID: 844567
+                      </span>
+                      <span className="text-xs text-[var(--theme-text-muted)] font-bold">CampusMonk Official Vault</span>
+                    </div>
+                    <h3 className="text-base font-black text-[var(--theme-text-heading)] mt-1">
+                      Infosys SE, DSE & SP Role Preparation - Full Course Vault
+                    </h3>
+                    <p className="text-xs text-[var(--theme-text-muted)] font-medium mt-0.5">
+                      405 Lecture Videos • 162 PDF Handouts & DPPs • 56 Mock Tests with Full Solutions
+                    </p>
+                  </div>
+                </div>
+                <button className="btn-primary text-xs py-2 px-4 flex items-center gap-2 self-start md:self-center shrink-0">
+                  Open Course Explorer <ChevronRight size={14} />
+                </button>
+              </motion.div>
 
               <section className="space-y-6">
                 <div className="flex items-center gap-3">
@@ -1439,6 +1518,17 @@ const App = () => {
             </motion.div>
           )}
 
+          {activeTab === 'course' && (
+            <motion.div 
+              key="course"
+              initial={{ opacity: 0, y: 20 }}
+              animate={{ opacity: 1, y: 0 }}
+              exit={{ opacity: 0, y: -20 }}
+              className="max-w-[1400px] mx-auto w-full"
+            >
+              <CourseExplorer onLaunchTest={handleLaunchCourseTest} />
+            </motion.div>
+          )}
 
           {activeTab === 'test' && (
             <motion.div 
