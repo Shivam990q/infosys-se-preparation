@@ -187,126 +187,108 @@ export default function CourseExplorer({ onLaunchTest }) {
 
   return (
     <div className="max-w-7xl mx-auto space-y-6 pb-24">
-      {/* Top Course Hub Header */}
-      <div className="p-6 md:p-8 rounded-3xl glass-card border border-[var(--theme-border)] relative overflow-hidden shadow-2xl">
-        <div className="absolute top-0 right-0 w-[500px] h-[500px] bg-gradient-to-bl from-blue-600/10 via-indigo-600/10 to-transparent rounded-full blur-3xl -z-10 pointer-events-none" />
-        
-        <div className="flex flex-col lg:flex-row lg:items-center justify-between gap-6">
-          <div className="space-y-3">
-            {/* Multi-Course Switcher Badge & Dropdown */}
-            <div className="relative inline-block text-left">
-              <button
-                onClick={() => setIsCourseDropdownOpen(!isCourseDropdownOpen)}
-                className="inline-flex items-center gap-2.5 px-3.5 py-1.5 rounded-full text-xs font-black uppercase tracking-wider bg-[var(--theme-bg-accent-subtle)] text-[var(--theme-text-accent)] border border-[var(--theme-border-accent)] hover:bg-[var(--theme-bg-accent-subtle)]/80 transition-all shadow-sm"
-              >
-                <Sparkles size={13} />
-                <span>Active Course: {activeCourse.shortName}</span>
-                <ChevronDown size={14} className={`transition-transform duration-200 ${isCourseDropdownOpen ? 'rotate-180' : ''}`} />
-              </button>
+      {/* Sleek Integrated Course Header Bar */}
+      <div className="flex flex-col md:flex-row md:items-center justify-between gap-3 p-3 md:p-4 rounded-2xl glass-card border border-[var(--theme-border)] shadow-md">
+        <div className="flex items-center gap-3">
+          {/* Multi-Course Switcher Badge & Dropdown */}
+          <div className="relative inline-block text-left">
+            <button
+              onClick={() => setIsCourseDropdownOpen(!isCourseDropdownOpen)}
+              className="inline-flex items-center gap-2 px-3 py-1.5 rounded-xl text-xs font-black uppercase tracking-wider bg-[var(--theme-bg-accent-subtle)] text-[var(--theme-text-accent)] border border-[var(--theme-border-accent)] hover:bg-[var(--theme-bg-accent-subtle)]/80 transition-all shadow-sm"
+            >
+              <Sparkles size={13} />
+              <span>{activeCourse.shortName}</span>
+              <ChevronDown size={14} className={`transition-transform duration-200 ${isCourseDropdownOpen ? 'rotate-180' : ''}`} />
+            </button>
 
-              {/* Course Selector Dropdown Menu */}
-              <AnimatePresence>
-                {isCourseDropdownOpen && (
-                  <motion.div 
-                    initial={{ opacity: 0, y: 10, scale: 0.95 }}
-                    animate={{ opacity: 1, y: 0, scale: 1 }}
-                    exit={{ opacity: 0, y: 10, scale: 0.95 }}
-                    className="absolute left-0 mt-2 w-80 md:w-96 rounded-2xl glass-card border border-[var(--theme-border-strong)] shadow-2xl p-2 z-50 backdrop-blur-3xl space-y-1.5"
-                  >
-                    <div className="px-3 py-2 text-[10px] font-black uppercase tracking-widest text-[var(--theme-text-muted)] border-b border-[var(--theme-border)]">
-                      Select Available Course
-                    </div>
+            {/* Course Selector Dropdown Menu */}
+            <AnimatePresence>
+              {isCourseDropdownOpen && (
+                <motion.div 
+                  initial={{ opacity: 0, y: 10, scale: 0.95 }}
+                  animate={{ opacity: 1, y: 0, scale: 1 }}
+                  exit={{ opacity: 0, y: 10, scale: 0.95 }}
+                  className="absolute left-0 mt-2 w-80 md:w-96 rounded-2xl glass-card border border-[var(--theme-border-strong)] shadow-2xl p-2 z-50 backdrop-blur-3xl space-y-1.5"
+                >
+                  <div className="px-3 py-2 text-[10px] font-black uppercase tracking-widest text-[var(--theme-text-muted)] border-b border-[var(--theme-border)]">
+                    Select Available Course
+                  </div>
 
-                    {AVAILABLE_COURSES.map(course => (
-                      <button
-                        key={course.id}
-                        onClick={() => {
-                          if (course.status === 'loaded') {
-                            setActiveCourseId(course.id);
-                          } else {
-                            alert(`"${course.name}" is scheduled in this slot. You can add more course directories anytime.`);
-                          }
-                          setIsCourseDropdownOpen(false);
-                        }}
-                        className={`w-full text-left p-3 rounded-xl transition-all flex items-start justify-between gap-3 ${
-                          activeCourseId === course.id 
-                            ? 'bg-[var(--theme-bg-accent-subtle)] border border-[var(--theme-border-accent)]' 
-                            : 'hover:bg-[var(--theme-bg-subtle)]'
-                        }`}
-                      >
-                        <div>
-                          <div className="font-bold text-xs text-[var(--theme-text-heading)] leading-snug">
-                            {course.shortName}
-                          </div>
-                          <div className="text-[10px] text-[var(--theme-text-muted)] mt-0.5">
-                            {course.targetRole}
-                          </div>
+                  {AVAILABLE_COURSES.map(course => (
+                    <button
+                      key={course.id}
+                      onClick={() => {
+                        if (course.status === 'loaded') {
+                          setActiveCourseId(course.id);
+                        } else {
+                          alert(`"${course.name}" is scheduled in this slot. You can add more course directories anytime.`);
+                        }
+                        setIsCourseDropdownOpen(false);
+                      }}
+                      className={`w-full text-left p-3 rounded-xl transition-all flex items-start justify-between gap-3 ${
+                        activeCourseId === course.id 
+                          ? 'bg-[var(--theme-bg-accent-subtle)] border border-[var(--theme-border-accent)]' 
+                          : 'hover:bg-[var(--theme-bg-subtle)]'
+                      }`}
+                    >
+                      <div>
+                        <div className="font-bold text-xs text-[var(--theme-text-heading)] leading-snug">
+                          {course.shortName}
                         </div>
-                        <span className={`text-[9px] font-black uppercase px-2 py-0.5 rounded-full shrink-0 ${
-                          course.status === 'loaded' ? 'bg-emerald-500/20 text-emerald-400' : 'bg-[var(--theme-bg-subtle)] text-[var(--theme-text-muted)]'
-                        }`}>
-                          {course.tag}
-                        </span>
-                      </button>
-                    ))}
+                        <div className="text-[10px] text-[var(--theme-text-muted)] mt-0.5">
+                          {course.targetRole}
+                        </div>
+                      </div>
+                      <span className={`text-[9px] font-black uppercase px-2 py-0.5 rounded-full shrink-0 ${
+                        course.status === 'loaded' ? 'bg-emerald-500/20 text-emerald-400' : 'bg-[var(--theme-bg-subtle)] text-[var(--theme-text-muted)]'
+                      }`}>
+                        {course.tag}
+                      </span>
+                    </button>
+                  ))}
 
-                    <div className="pt-2 border-t border-[var(--theme-border)]">
-                      <button
-                        onClick={() => {
-                          setIsCourseDropdownOpen(false);
-                          setIsAddCourseModalOpen(true);
-                        }}
-                        className="w-full py-2.5 px-3 rounded-xl text-xs font-black uppercase tracking-wider text-[var(--theme-text-accent)] hover:bg-[var(--theme-bg-accent-subtle)] flex items-center justify-center gap-2 transition-colors"
-                      >
-                        <Plus size={14} /> Add Another Course / Folder Vault
-                      </button>
-                    </div>
-                  </motion.div>
-                )}
-              </AnimatePresence>
-            </div>
-
-            <h1 className="text-2xl md:text-3xl font-black tracking-tight text-[var(--theme-text-heading)] leading-tight">
-              {courseData?.courseTitle || activeCourse.name}
-            </h1>
-            <p className="text-xs md:text-sm text-[var(--theme-text-muted)] font-medium max-w-2xl">
-              Complete offline vault including 400+ lecture videos, 100+ PDF workbooks & DPPs, and 50+ official mock examinations.
-            </p>
+                  <div className="pt-2 border-t border-[var(--theme-border)]">
+                    <button
+                      onClick={() => {
+                        setIsCourseDropdownOpen(false);
+                        setIsAddCourseModalOpen(true);
+                      }}
+                      className="w-full py-2.5 px-3 rounded-xl text-xs font-black uppercase tracking-wider text-[var(--theme-text-accent)] hover:bg-[var(--theme-bg-accent-subtle)] flex items-center justify-center gap-2 transition-colors"
+                    >
+                      <Plus size={14} /> Add Another Course / Folder Vault
+                    </button>
+                  </div>
+                </motion.div>
+              )}
+            </AnimatePresence>
           </div>
 
-          {/* Quick Course Stats Badges */}
+          {/* Quick Stats Pill */}
           {courseData?.totalStats && (
-            <div className="flex items-center gap-2 bg-[var(--theme-bg-elevated)] p-2.5 rounded-2xl border border-[var(--theme-border)] shrink-0 shadow-sm">
-              <div className="text-center px-4 py-1.5 border-r border-[var(--theme-border)]">
-                <div className="text-lg font-black text-[var(--theme-text-heading)] font-mono">{courseData.totalStats.videos}</div>
-                <div className="text-[9px] uppercase font-bold text-amber-400">Videos</div>
-              </div>
-              <div className="text-center px-4 py-1.5 border-r border-[var(--theme-border)]">
-                <div className="text-lg font-black text-[var(--theme-text-heading)] font-mono">{courseData.totalStats.files}</div>
-                <div className="text-[9px] uppercase font-bold text-rose-400">PDFs</div>
-              </div>
-              <div className="text-center px-4 py-1.5">
-                <div className="text-lg font-black text-[var(--theme-text-heading)] font-mono">{courseData.totalStats.tests}</div>
-                <div className="text-[9px] uppercase font-bold text-indigo-400">Mocks</div>
-              </div>
+            <div className="hidden sm:flex items-center gap-2 text-xs font-bold text-[var(--theme-text-muted)] bg-[var(--theme-bg-subtle)] px-3 py-1.5 rounded-xl border border-[var(--theme-border)]">
+              <span className="text-amber-400 font-mono font-black">{courseData.totalStats.videos}</span> Vids
+              <span>•</span>
+              <span className="text-rose-400 font-mono font-black">{courseData.totalStats.files}</span> PDFs
+              <span>•</span>
+              <span className="text-indigo-400 font-mono font-black">{courseData.totalStats.tests}</span> Mocks
             </div>
           )}
         </div>
 
         {/* Global Search Bar */}
-        <div className="mt-6 relative">
-          <Search className="absolute left-4 top-1/2 -translate-y-1/2 text-[var(--theme-text-muted)]" size={18} />
+        <div className="relative flex-1 max-w-lg">
+          <Search className="absolute left-3.5 top-1/2 -translate-y-1/2 text-[var(--theme-text-muted)]" size={16} />
           <input
             type="text"
-            placeholder="Search across all 400+ videos, PDFs, and tests in this course..."
+            placeholder="Search all videos, PDFs, and tests..."
             value={searchQuery}
             onChange={(e) => setSearchQuery(e.target.value)}
-            className="w-full pl-11 pr-24 py-3.5 rounded-2xl bg-[var(--theme-bg-input)] border border-[var(--theme-border)] focus:border-[var(--theme-bg-accent-solid)] focus:ring-4 focus:ring-[var(--theme-shadow-accent)] outline-none text-sm font-medium text-[var(--theme-text-primary)] placeholder:text-[var(--theme-text-muted)] transition-all shadow-inner"
+            className="w-full pl-9 pr-16 py-2 rounded-xl bg-[var(--theme-bg-input)] border border-[var(--theme-border)] focus:border-[var(--theme-bg-accent-solid)] focus:ring-2 focus:ring-[var(--theme-shadow-accent)] outline-none text-xs font-medium text-[var(--theme-text-primary)] placeholder:text-[var(--theme-text-muted)] transition-all"
           />
           {searchQuery && (
             <button 
               onClick={() => setSearchQuery('')}
-              className="absolute right-4 top-1/2 -translate-y-1/2 text-xs font-bold text-[var(--theme-text-muted)] hover:text-white bg-[var(--theme-bg-subtle)] px-2.5 py-1 rounded-lg transition-colors"
+              className="absolute right-2.5 top-1/2 -translate-y-1/2 text-[10px] font-bold text-[var(--theme-text-muted)] hover:text-white bg-[var(--theme-bg-subtle)] px-2 py-0.5 rounded transition-colors"
             >
               Clear
             </button>
@@ -405,76 +387,89 @@ export default function CourseExplorer({ onLaunchTest }) {
               No matching videos, PDFs, or tests found for "{searchQuery}".
             </div>
           ) : viewMode === 'tiles' ? (
-            /* Search Tiles View */
-            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+            /* Search Tiles View (Upgraded with animations, big typography & rich actions) */
+            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 md:gap-5">
               {searchResults.map((item, idx) => (
-                <div key={idx} className="p-4 rounded-2xl glass-card border border-[var(--theme-border)] hover:border-[var(--theme-border-accent)] transition-all flex flex-col justify-between gap-3 group">
-                  <div className="flex items-start gap-3">
-                    <div className={`p-2.5 rounded-xl shrink-0 ${
-                      item.itemType === 'video' ? 'bg-amber-500/10 text-amber-400' :
-                      item.itemType === 'pdf' ? 'bg-rose-500/10 text-rose-400' : 'bg-indigo-500/10 text-indigo-400'
+                <motion.div
+                  key={idx}
+                  initial={{ opacity: 0, y: 15 }}
+                  animate={{ opacity: 1, y: 0 }}
+                  transition={{ duration: 0.25, delay: Math.min(idx * 0.03, 0.3) }}
+                  whileHover={{ y: -6, scale: 1.015 }}
+                  className="p-5 rounded-3xl glass-card border border-[var(--theme-border)] hover:border-[var(--theme-border-accent)] transition-all flex flex-col justify-between gap-4 group shadow-sm hover:shadow-2xl hover:bg-[var(--theme-bg-subtle)] relative overflow-hidden"
+                >
+                  <div className="flex items-start gap-3.5">
+                    <div className={`w-[52px] h-[52px] rounded-2xl flex items-center justify-center shrink-0 shadow-md group-hover:scale-105 transition-all ${
+                      item.itemType === 'video' ? 'bg-amber-500/10 text-amber-400 border border-amber-500/20 group-hover:bg-amber-500 group-hover:text-white' :
+                      item.itemType === 'pdf' ? 'bg-rose-500/10 text-rose-400 border border-rose-500/20 group-hover:bg-rose-600 group-hover:text-white' : 
+                      'bg-indigo-500/10 text-indigo-400 border border-indigo-500/20 group-hover:bg-indigo-600 group-hover:text-white'
                     }`}>
-                      {item.itemType === 'video' && <Video size={20} />}
-                      {item.itemType === 'pdf' && <FileText size={20} />}
-                      {item.itemType === 'test' && <Award size={20} />}
+                      {item.itemType === 'video' && <Play size={22} className="fill-current ml-0.5" />}
+                      {item.itemType === 'pdf' && <FileText size={24} />}
+                      {item.itemType === 'test' && <Award size={24} />}
                     </div>
                     <div className="min-w-0 flex-1">
-                      <div className="flex items-center gap-2">
-                        <span className="text-[9px] uppercase font-black tracking-wider text-[var(--theme-text-muted)]">
-                          {item.itemType}
+                      <div className="flex items-center gap-2 flex-wrap">
+                        <span className={`text-[10px] uppercase font-black px-2 py-0.5 rounded-full border ${
+                          item.itemType === 'video' ? 'bg-amber-500/10 text-amber-400 border-amber-500/20' :
+                          item.itemType === 'pdf' ? 'bg-rose-500/10 text-rose-400 border-rose-500/20' :
+                          'bg-indigo-500/10 text-indigo-400 border-indigo-500/20'
+                        }`}>
+                          {item.itemType === 'video' ? 'Video Lecture' : item.itemType === 'pdf' ? 'Study PDF' : 'Mock Test'}
                         </span>
                         {item.duration && (
-                          <span className="text-[9px] font-mono px-1.5 py-0.5 rounded bg-[var(--theme-bg-subtle)] text-amber-400 font-bold">
+                          <span className="text-[10px] font-mono px-2 py-0.5 rounded-md bg-amber-500/15 text-amber-300 font-bold border border-amber-500/30">
                             {item.duration}
                           </span>
                         )}
                       </div>
-                      <h3 className="font-bold text-sm text-[var(--theme-text-heading)] mt-1 line-clamp-2" title={item.name}>
+                      <h3 className="font-black text-base md:text-lg text-[var(--theme-text-heading)] group-hover:text-[var(--theme-text-accent)] transition-colors mt-2 line-clamp-2 leading-snug" title={item.name}>
                         {item.name}
                       </h3>
-                      <p className="text-[10px] text-[var(--theme-text-muted)] truncate mt-1">
+                      <p className="text-[11px] text-[var(--theme-text-muted)] truncate mt-1">
                         📁 {item.fullPath}
                       </p>
                     </div>
                   </div>
 
-                  <div className="pt-3 border-t border-[var(--theme-border)] flex items-center gap-2">
+                  <div className="pt-3.5 border-t border-[var(--theme-border)] flex items-center gap-2">
                     {item.itemType === 'pdf' && item.url && (
                       <>
                         <button
                           onClick={() => setSelectedPdf(item)}
-                          className="btn-secondary text-xs py-1 px-2.5 flex items-center gap-1"
+                          className="btn-secondary text-xs md:text-sm py-2 px-3.5 flex items-center gap-2 font-bold shadow-sm flex-1 justify-center"
                         >
-                          <Eye size={12} /> Preview
+                          <Eye size={14} /> Instant Preview
                         </button>
                         <a
                           href={item.url}
                           target="_blank"
                           rel="noopener noreferrer"
-                          className="btn-secondary text-xs py-1 px-2.5 flex items-center gap-1 ml-auto"
+                          className="btn-secondary text-xs md:text-sm py-2 px-3 text-rose-400 hover:text-white hover:bg-rose-600 border-rose-500/30 transition-all shadow-sm"
+                          title="Open PDF in new tab"
                         >
-                          <ExternalLink size={12} /> Open
+                          <ExternalLink size={14} />
                         </a>
                       </>
                     )}
                     {item.itemType === 'video' && item.isLocal && (
                       <button
                         onClick={() => setSelectedVideo(item)}
-                        className="btn-primary text-xs py-1 px-3 flex items-center gap-1.5 ml-auto"
+                        className="btn-primary text-xs md:text-sm py-2.5 px-4 flex items-center justify-center gap-2 font-black shadow-md w-full"
                       >
-                        <Play size={12} /> Play Video
+                        <Play size={14} className="fill-current" /> Watch Lecture
                       </button>
                     )}
                     {item.itemType === 'test' && (
                       <button
                         onClick={() => onLaunchTest && onLaunchTest(item)}
-                        className="btn-premium text-xs py-1 px-3 flex items-center gap-1.5 ml-auto"
+                        className="btn-premium text-xs md:text-sm py-2.5 px-4 flex items-center justify-center gap-2 font-black shadow-md w-full"
                       >
-                        <CheckCircle2 size={12} /> Take Test
+                        <CheckCircle2 size={14} /> Start Mock Test
                       </button>
                     )}
                   </div>
-                </div>
+                </motion.div>
               ))}
             </div>
           ) : (
@@ -596,34 +591,57 @@ export default function CourseExplorer({ onLaunchTest }) {
               </h2>
 
               {viewMode === 'tiles' ? (
-                /* Folders Tiles Grid */
-                <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-3.5">
+                /* Folders Tiles Grid (Upgraded with animations, big typography & rich badges) */
+                <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 md:gap-5">
                   {filteredSubfolders.map((sub, i) => (
                     <motion.div
                       key={sub.id || i}
-                      whileHover={{ scale: 1.01 }}
-                      whileTap={{ scale: 0.99 }}
+                      initial={{ opacity: 0, y: 15 }}
+                      animate={{ opacity: 1, y: 0 }}
+                      transition={{ duration: 0.25, delay: i * 0.035 }}
+                      whileHover={{ y: -6, scale: 1.015 }}
+                      whileTap={{ scale: 0.985 }}
                       onClick={() => navigateToFolder(sub)}
-                      className="p-4 rounded-2xl glass-card border border-[var(--theme-border)] hover:border-[var(--theme-border-accent)] cursor-pointer transition-all flex items-center justify-between group shadow-sm hover:shadow-md"
+                      className="p-5 rounded-3xl glass-card border border-[var(--theme-border)] hover:border-blue-500/50 cursor-pointer transition-all flex flex-col justify-between gap-4 group shadow-sm hover:shadow-2xl hover:bg-[var(--theme-bg-subtle)] relative overflow-hidden"
                     >
-                      <div className="flex items-center gap-3.5 min-w-0">
-                        <div className="w-12 h-12 rounded-2xl bg-blue-500/10 text-blue-400 border border-blue-500/20 flex items-center justify-center shrink-0 group-hover:bg-blue-600 group-hover:text-white transition-all shadow-sm">
-                          <Folder size={22} className="fill-current/20" />
+                      <div className="flex items-center justify-between">
+                        <div className="w-[52px] h-[52px] rounded-2xl bg-blue-500/10 text-blue-400 border border-blue-500/20 flex items-center justify-center shrink-0 group-hover:bg-blue-600 group-hover:text-white transition-all shadow-md group-hover:scale-105">
+                          <Folder size={26} className="fill-current/20" />
                         </div>
-                        <div className="min-w-0">
-                          <h3 className="font-black text-sm text-[var(--theme-text-heading)] group-hover:text-[var(--theme-text-accent)] transition-colors truncate">
-                            {sub.name}
-                          </h3>
-                          <p className="text-[11px] text-[var(--theme-text-muted)] font-medium mt-0.5">
-                            {[
-                              sub.stats.videos > 0 ? `${sub.stats.videos} video(s)` : null,
-                              sub.stats.files > 0 ? `${sub.stats.files} file(s)` : null,
-                              sub.stats.tests > 0 ? `${sub.stats.tests} test(s)` : null,
-                            ].filter(Boolean).join(' • ') || 'Folder'}
-                          </p>
+                        <div className="flex items-center gap-1 px-3 py-1 rounded-full bg-[var(--theme-bg-subtle)] border border-[var(--theme-border)] text-[11px] font-bold text-[var(--theme-text-muted)] group-hover:text-[var(--theme-text-accent)] group-hover:border-[var(--theme-border-accent)] transition-all">
+                          <span>Open</span>
+                          <ChevronRight size={14} className="group-hover:translate-x-0.5 transition-transform" />
                         </div>
                       </div>
-                      <ChevronRight size={18} className="text-[var(--theme-text-muted)] group-hover:text-[var(--theme-text-accent)] group-hover:translate-x-1 transition-all shrink-0" />
+
+                      <div className="min-w-0">
+                        <h3 className="font-black text-base md:text-lg text-[var(--theme-text-heading)] group-hover:text-[var(--theme-text-accent)] transition-colors leading-snug line-clamp-2">
+                          {sub.name}
+                        </h3>
+                      </div>
+
+                      <div className="pt-3 border-t border-[var(--theme-border)] flex items-center gap-2 flex-wrap">
+                        {sub.stats.videos > 0 && (
+                          <span className="text-[10px] md:text-xs font-bold px-2.5 py-0.5 rounded-full bg-amber-500/10 text-amber-400 border border-amber-500/20">
+                            {sub.stats.videos} Videos
+                          </span>
+                        )}
+                        {sub.stats.files > 0 && (
+                          <span className="text-[10px] md:text-xs font-bold px-2.5 py-0.5 rounded-full bg-rose-500/10 text-rose-400 border border-rose-500/20">
+                            {sub.stats.files} PDFs
+                          </span>
+                        )}
+                        {sub.stats.tests > 0 && (
+                          <span className="text-[10px] md:text-xs font-bold px-2.5 py-0.5 rounded-full bg-indigo-500/10 text-indigo-400 border border-indigo-500/20">
+                            {sub.stats.tests} Mocks
+                          </span>
+                        )}
+                        {sub.stats.videos === 0 && sub.stats.files === 0 && sub.stats.tests === 0 && (
+                          <span className="text-[10px] md:text-xs text-[var(--theme-text-muted)] font-medium">
+                            Direct Directory
+                          </span>
+                        )}
+                      </div>
                     </motion.div>
                   ))}
                 </div>
@@ -697,50 +715,54 @@ export default function CourseExplorer({ onLaunchTest }) {
               </h2>
 
               {viewMode === 'tiles' ? (
-                /* Videos Tiles Grid */
-                <div className="grid grid-cols-1 md:grid-cols-2 gap-3.5">
+                /* Videos Tiles Grid (Upgraded with animations, big typography & responsive actions) */
+                <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 md:gap-5">
                   {filteredVideos.map((v, i) => (
-                    <div 
+                    <motion.div 
                       key={v.id || i}
-                      className="p-4 rounded-2xl glass-card border border-[var(--theme-border)] hover:border-amber-500/40 transition-all flex flex-col justify-between gap-3 group"
+                      initial={{ opacity: 0, y: 15 }}
+                      animate={{ opacity: 1, y: 0 }}
+                      transition={{ duration: 0.25, delay: i * 0.035 }}
+                      whileHover={{ y: -6, scale: 1.015 }}
+                      className="p-5 rounded-3xl glass-card border border-[var(--theme-border)] hover:border-amber-500/50 transition-all flex flex-col justify-between gap-4 group shadow-sm hover:shadow-2xl hover:bg-[var(--theme-bg-subtle)] relative overflow-hidden"
                     >
-                      <div className="flex items-start gap-3.5 min-w-0">
-                        <div className="w-10 h-10 rounded-xl bg-amber-500/10 text-amber-400 border border-amber-500/20 flex items-center justify-center shrink-0 mt-0.5">
-                          <Play size={18} className="fill-amber-400 ml-0.5" />
+                      <div className="flex items-center justify-between gap-2">
+                        <div className="w-[52px] h-[52px] rounded-2xl bg-amber-500/10 text-amber-400 border border-amber-500/20 flex items-center justify-center shrink-0 group-hover:bg-amber-500 group-hover:text-white transition-all shadow-md group-hover:scale-105">
+                          <Play size={24} className="fill-current ml-0.5" />
                         </div>
-                        <div className="min-w-0 flex-1">
-                          <div className="flex items-center gap-2">
-                            <span className="text-[9px] font-mono font-bold px-2 py-0.5 rounded bg-amber-500/10 text-amber-400 border border-amber-500/20 shrink-0">
-                              {v.duration}
-                            </span>
-                            <span className="text-[9px] font-bold text-[var(--theme-text-muted)] uppercase tracking-wider">
-                              {v.isLocal ? 'Offline HD' : 'Classplus DRM'}
-                            </span>
-                          </div>
-                          <h3 className="font-bold text-xs md:text-sm text-[var(--theme-text-heading)] mt-1.5 leading-snug">
-                            {v.name}
-                          </h3>
+                        <div className="flex items-center gap-1.5 flex-wrap justify-end">
+                          <span className="text-[10px] md:text-xs font-mono font-black px-2.5 py-1 rounded-lg bg-amber-500/15 text-amber-300 border border-amber-500/30">
+                            {v.duration}
+                          </span>
+                          <span className={`text-[10px] font-bold uppercase tracking-wider px-2 py-0.5 rounded-md ${
+                            v.isLocal ? 'bg-emerald-500/15 text-emerald-300 border border-emerald-500/30' : 'bg-[var(--theme-bg-subtle)] text-[var(--theme-text-muted)] border border-[var(--theme-border)]'
+                          }`}>
+                            {v.isLocal ? 'Offline HD' : 'DRM'}
+                          </span>
                         </div>
                       </div>
 
-                      <div className="pt-3 border-t border-[var(--theme-border)] flex items-center justify-between">
-                        <span className="text-[10px] text-[var(--theme-text-muted)] font-medium">
-                          {v.isLocal ? 'Local Storage Video' : 'Akamai Cloud Stream'}
-                        </span>
+                      <div className="min-w-0">
+                        <h3 className="font-bold text-base md:text-lg text-[var(--theme-text-heading)] group-hover:text-amber-400 transition-colors leading-snug line-clamp-2" title={v.name}>
+                          {v.name}
+                        </h3>
+                      </div>
+
+                      <div className="pt-3 border-t border-[var(--theme-border)]">
                         {v.isLocal && v.url ? (
                           <button
                             onClick={() => setSelectedVideo(v)}
-                            className="btn-primary text-xs py-1.5 px-3.5 flex items-center gap-1.5 shadow-sm"
+                            className="btn-primary text-xs md:text-sm py-2.5 px-4 w-full flex items-center justify-center gap-2 font-bold shadow-md hover:shadow-amber-500/20 active:scale-95"
                           >
-                            <Play size={12} /> Play Video
+                            <Play size={14} className="fill-current" /> Watch Lecture
                           </button>
                         ) : (
-                          <span className="text-[10px] font-bold text-[var(--theme-text-muted)] px-2.5 py-1 rounded bg-[var(--theme-bg-subtle)] border border-[var(--theme-border)]">
-                            DRM Lecture Track
-                          </span>
+                          <div className="w-full py-2.5 text-center text-xs font-bold text-[var(--theme-text-muted)] rounded-xl bg-[var(--theme-bg-subtle)] border border-[var(--theme-border)]">
+                            Classplus DRM Protected
+                          </div>
                         )}
                       </div>
-                    </div>
+                    </motion.div>
                   ))}
                 </div>
               ) : (
@@ -807,27 +829,37 @@ export default function CourseExplorer({ onLaunchTest }) {
               </h2>
 
               {viewMode === 'tiles' ? (
-                /* PDFs Tiles Grid */
-                <div className="grid grid-cols-1 md:grid-cols-2 gap-3.5">
+                /* PDFs Tiles Grid (Upgraded with animations, big typography & responsive actions) */
+                <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 md:gap-5">
                   {filteredDocs.map((doc, i) => (
-                    <div 
+                    <motion.div 
                       key={i}
-                      className="p-4 rounded-2xl glass-card border border-[var(--theme-border)] hover:border-rose-500/40 transition-all flex flex-col justify-between gap-3 group"
+                      initial={{ opacity: 0, y: 15 }}
+                      animate={{ opacity: 1, y: 0 }}
+                      transition={{ duration: 0.25, delay: i * 0.035 }}
+                      whileHover={{ y: -6, scale: 1.015 }}
+                      className="p-5 rounded-3xl glass-card border border-[var(--theme-border)] hover:border-rose-500/50 transition-all flex flex-col justify-between gap-4 group shadow-sm hover:shadow-2xl hover:bg-[var(--theme-bg-subtle)] relative overflow-hidden"
                     >
-                      <div className="flex items-start gap-3.5 min-w-0">
-                        <div className="w-10 h-10 rounded-xl bg-rose-500/10 text-rose-400 border border-rose-500/20 flex items-center justify-center shrink-0">
-                          <FileText size={20} />
+                      <div className="flex items-center justify-between gap-2">
+                        <div className="w-[52px] h-[52px] rounded-2xl bg-rose-500/10 text-rose-400 border border-rose-500/20 flex items-center justify-center shrink-0 group-hover:bg-rose-600 group-hover:text-white transition-all shadow-md group-hover:scale-105">
+                          <FileText size={26} />
                         </div>
-                        <div className="min-w-0 flex-1">
-                          <h4 className="font-bold text-xs md:text-sm text-[var(--theme-text-heading)] leading-snug line-clamp-2" title={doc.name}>
-                            {doc.name}
-                          </h4>
+                        <div className="flex items-center gap-1.5 flex-wrap justify-end">
                           {doc.size > 0 && (
-                            <p className="text-[10px] text-[var(--theme-text-muted)] font-mono mt-1">
-                              {(doc.size / (1024 * 1024)).toFixed(2)} MB • Verified CampusMonk Handout
-                            </p>
+                            <span className="text-[10px] md:text-xs font-mono font-bold px-2.5 py-1 rounded-lg bg-rose-500/15 text-rose-300 border border-rose-500/30">
+                              {(doc.size / (1024 * 1024)).toFixed(2)} MB
+                            </span>
                           )}
+                          <span className="text-[10px] font-bold text-[var(--theme-text-muted)] uppercase tracking-wider px-2 py-0.5 rounded-md bg-[var(--theme-bg-subtle)] border border-[var(--theme-border)]">
+                            DPP
+                          </span>
                         </div>
+                      </div>
+
+                      <div className="min-w-0">
+                        <h4 className="font-bold text-base md:text-lg text-[var(--theme-text-heading)] group-hover:text-rose-400 transition-colors leading-snug line-clamp-2" title={doc.name}>
+                          {doc.name}
+                        </h4>
                       </div>
 
                       <div className="pt-3 border-t border-[var(--theme-border)] flex items-center gap-2">
@@ -835,24 +867,27 @@ export default function CourseExplorer({ onLaunchTest }) {
                           <>
                             <button
                               onClick={() => setSelectedPdf(doc)}
-                              className="btn-secondary text-xs py-1.5 px-3 flex items-center gap-1.5"
+                              className="btn-secondary flex-1 text-xs md:text-sm py-2.5 px-3 flex items-center justify-center gap-2 font-bold shadow-sm hover:border-rose-500/40"
                             >
-                              <Eye size={12} /> Instant Preview
+                              <Eye size={14} /> Instant Preview
                             </button>
                             <a
                               href={doc.url}
                               target="_blank"
                               rel="noopener noreferrer"
-                              className="btn-secondary text-xs py-1.5 px-3 flex items-center gap-1.5 ml-auto text-rose-400"
+                              className="btn-secondary text-xs md:text-sm py-2.5 px-3.5 flex items-center justify-center font-bold text-rose-400 hover:text-white hover:bg-rose-600 border border-rose-500/30 rounded-xl transition-all shadow-sm"
+                              title="Open in new browser tab"
                             >
-                              <ExternalLink size={12} /> Open in Tab
+                              <ExternalLink size={14} />
                             </a>
                           </>
                         ) : (
-                          <span className="text-[10px] text-[var(--theme-text-muted)] font-bold">Catalog Reference Only</span>
+                          <div className="w-full py-2 text-center text-xs font-bold text-[var(--theme-text-muted)]">
+                            Catalog Reference Only
+                          </div>
                         )}
                       </div>
-                    </div>
+                    </motion.div>
                   ))}
                 </div>
               ) : (
@@ -928,56 +963,67 @@ export default function CourseExplorer({ onLaunchTest }) {
               </h2>
 
               {viewMode === 'tiles' ? (
-                /* Tests Tiles Grid */
-                <div className="grid grid-cols-1 md:grid-cols-2 gap-3.5">
+                /* Tests Tiles Grid (Upgraded with animations, big typography & responsive actions) */
+                <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 md:gap-5">
                   {filteredTests.map((t, i) => (
-                    <div 
+                    <motion.div 
                       key={i}
-                      className="p-4 md:p-5 rounded-2xl glass-card border border-[var(--theme-border)] hover:border-indigo-500/40 transition-all flex flex-col justify-between gap-4 shadow-sm"
+                      initial={{ opacity: 0, y: 15 }}
+                      animate={{ opacity: 1, y: 0 }}
+                      transition={{ duration: 0.25, delay: i * 0.035 }}
+                      whileHover={{ y: -6, scale: 1.015 }}
+                      className="p-5 rounded-3xl glass-card border border-[var(--theme-border)] hover:border-indigo-500/50 transition-all flex flex-col justify-between gap-4 group shadow-sm hover:shadow-2xl hover:bg-[var(--theme-bg-subtle)] relative overflow-hidden"
                     >
-                      <div className="flex items-start gap-3.5">
-                        <div className="w-11 h-11 rounded-2xl bg-indigo-500/10 text-indigo-400 border border-indigo-500/20 flex items-center justify-center shrink-0">
-                          <Award size={22} />
+                      <div className="flex items-center justify-between gap-2">
+                        <div className="w-[52px] h-[52px] rounded-2xl bg-indigo-500/10 text-indigo-400 border border-indigo-500/20 flex items-center justify-center shrink-0 group-hover:bg-indigo-600 group-hover:text-white transition-all shadow-md group-hover:scale-105">
+                          <Award size={26} />
                         </div>
-                        <div className="min-w-0 flex-1">
-                          <h4 className="font-black text-sm text-[var(--theme-text-heading)] leading-snug">
-                            {t.name}
-                          </h4>
-                          <p className="text-xs text-[var(--theme-text-muted)] mt-1 font-medium">
-                            {t.questionCount > 0 ? `${t.questionCount} Questions` : 'Official CBT Exam Paper'}
-                          </p>
-                        </div>
+                        <span className="text-[10px] md:text-xs font-black px-2.5 py-1 rounded-lg bg-indigo-500/15 text-indigo-300 border border-indigo-500/30">
+                          {t.questionCount > 0 ? `${t.questionCount} Questions` : 'Official CBT Exam'}
+                        </span>
                       </div>
 
-                      <div className="pt-3 border-t border-[var(--theme-border)] flex flex-wrap items-center gap-2">
-                        {t.qpHtml && (
-                          <a
-                            href={t.qpHtml}
-                            target="_blank"
-                            rel="noopener noreferrer"
-                            className="btn-secondary text-xs py-1 px-2.5 flex items-center gap-1 text-[var(--theme-text-muted)]"
-                          >
-                            <ExternalLink size={12} /> Paper HTML
-                          </a>
-                        )}
-                        {t.solHtml && (
-                          <a
-                            href={t.solHtml}
-                            target="_blank"
-                            rel="noopener noreferrer"
-                            className="btn-secondary text-xs py-1 px-2.5 flex items-center gap-1 text-emerald-400"
-                          >
-                            <CheckCircle2 size={12} /> Sol HTML
-                          </a>
-                        )}
+                      <div className="min-w-0">
+                        <h4 className="font-black text-base md:text-lg text-[var(--theme-text-heading)] group-hover:text-indigo-400 transition-colors leading-snug line-clamp-2">
+                          {t.name}
+                        </h4>
+                        <p className="text-xs text-emerald-400 mt-1.5 flex items-center gap-1 font-medium">
+                          <CheckCircle2 size={13} /> Verified Solutions & Video Explanations
+                        </p>
+                      </div>
+
+                      <div className="pt-3 border-t border-[var(--theme-border)] flex flex-col gap-2">
+                        <div className="flex items-center gap-2">
+                          {t.qpHtml && (
+                            <a
+                              href={t.qpHtml}
+                              target="_blank"
+                              rel="noopener noreferrer"
+                              className="btn-secondary text-xs py-1.5 px-3 flex-1 flex items-center justify-center gap-1 text-[var(--theme-text-muted)] hover:text-white"
+                            >
+                              <ExternalLink size={12} /> Paper HTML
+                            </a>
+                          )}
+                          {t.solHtml && (
+                            <a
+                              href={t.solHtml}
+                              target="_blank"
+                              rel="noopener noreferrer"
+                              className="btn-secondary text-xs py-1.5 px-3 flex-1 flex items-center justify-center gap-1 text-emerald-400 hover:text-emerald-300"
+                            >
+                              <CheckCircle2 size={12} /> Sol HTML
+                            </a>
+                          )}
+                        </div>
+
                         <button
                           onClick={() => onLaunchTest && onLaunchTest(t)}
-                          className="btn-premium text-xs py-1.5 px-4 flex items-center gap-1.5 ml-auto shadow-sm active:scale-95"
+                          className="btn-premium w-full text-xs md:text-sm py-2.5 px-4 flex items-center justify-center gap-2 font-black shadow-md hover:shadow-indigo-500/25 active:scale-95"
                         >
-                          <Play size={12} /> Start Mock Test
+                          <Play size={14} className="fill-current" /> Start Mock Test
                         </button>
                       </div>
-                    </div>
+                    </motion.div>
                   ))}
                 </div>
               ) : (
