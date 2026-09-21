@@ -74,7 +74,7 @@ export default function CourseExplorer({ onLaunchTest }) {
         setCourseData(data);
         if (data && data.tree) {
           setCurrentFolder(data.tree);
-          setBreadcrumb([{ id: 'root', name: 'Root Content', node: data.tree }]);
+          setBreadcrumb([{ id: 'root', name: 'Infosys SE, DSE & SP (844567)', node: data.tree }]);
         }
         setLoading(false);
       })
@@ -187,119 +187,10 @@ export default function CourseExplorer({ onLaunchTest }) {
 
   return (
     <div className="max-w-7xl mx-auto space-y-6 pb-24">
-      {/* Sleek Integrated Course Header Bar */}
-      <div className="flex flex-col md:flex-row md:items-center justify-between gap-3 p-3 md:p-4 rounded-2xl glass-card border border-[var(--theme-border)] shadow-md">
-        <div className="flex items-center gap-3">
-          {/* Multi-Course Switcher Badge & Dropdown */}
-          <div className="relative inline-block text-left">
-            <button
-              onClick={() => setIsCourseDropdownOpen(!isCourseDropdownOpen)}
-              className="inline-flex items-center gap-2 px-3 py-1.5 rounded-xl text-xs font-black uppercase tracking-wider bg-[var(--theme-bg-accent-subtle)] text-[var(--theme-text-accent)] border border-[var(--theme-border-accent)] hover:bg-[var(--theme-bg-accent-subtle)]/80 transition-all shadow-sm"
-            >
-              <Sparkles size={13} />
-              <span>{activeCourse.shortName}</span>
-              <ChevronDown size={14} className={`transition-transform duration-200 ${isCourseDropdownOpen ? 'rotate-180' : ''}`} />
-            </button>
-
-            {/* Course Selector Dropdown Menu */}
-            <AnimatePresence>
-              {isCourseDropdownOpen && (
-                <motion.div 
-                  initial={{ opacity: 0, y: 10, scale: 0.95 }}
-                  animate={{ opacity: 1, y: 0, scale: 1 }}
-                  exit={{ opacity: 0, y: 10, scale: 0.95 }}
-                  className="absolute left-0 mt-2 w-80 md:w-96 rounded-2xl glass-card border border-[var(--theme-border-strong)] shadow-2xl p-2 z-50 backdrop-blur-3xl space-y-1.5"
-                >
-                  <div className="px-3 py-2 text-[10px] font-black uppercase tracking-widest text-[var(--theme-text-muted)] border-b border-[var(--theme-border)]">
-                    Select Available Course
-                  </div>
-
-                  {AVAILABLE_COURSES.map(course => (
-                    <button
-                      key={course.id}
-                      onClick={() => {
-                        if (course.status === 'loaded') {
-                          setActiveCourseId(course.id);
-                        } else {
-                          alert(`"${course.name}" is scheduled in this slot. You can add more course directories anytime.`);
-                        }
-                        setIsCourseDropdownOpen(false);
-                      }}
-                      className={`w-full text-left p-3 rounded-xl transition-all flex items-start justify-between gap-3 ${
-                        activeCourseId === course.id 
-                          ? 'bg-[var(--theme-bg-accent-subtle)] border border-[var(--theme-border-accent)]' 
-                          : 'hover:bg-[var(--theme-bg-subtle)]'
-                      }`}
-                    >
-                      <div>
-                        <div className="font-bold text-xs text-[var(--theme-text-heading)] leading-snug">
-                          {course.shortName}
-                        </div>
-                        <div className="text-[10px] text-[var(--theme-text-muted)] mt-0.5">
-                          {course.targetRole}
-                        </div>
-                      </div>
-                      <span className={`text-[9px] font-black uppercase px-2 py-0.5 rounded-full shrink-0 ${
-                        course.status === 'loaded' ? 'bg-emerald-500/20 text-emerald-400' : 'bg-[var(--theme-bg-subtle)] text-[var(--theme-text-muted)]'
-                      }`}>
-                        {course.tag}
-                      </span>
-                    </button>
-                  ))}
-
-                  <div className="pt-2 border-t border-[var(--theme-border)]">
-                    <button
-                      onClick={() => {
-                        setIsCourseDropdownOpen(false);
-                        setIsAddCourseModalOpen(true);
-                      }}
-                      className="w-full py-2.5 px-3 rounded-xl text-xs font-black uppercase tracking-wider text-[var(--theme-text-accent)] hover:bg-[var(--theme-bg-accent-subtle)] flex items-center justify-center gap-2 transition-colors"
-                    >
-                      <Plus size={14} /> Add Another Course / Folder Vault
-                    </button>
-                  </div>
-                </motion.div>
-              )}
-            </AnimatePresence>
-          </div>
-
-          {/* Quick Stats Pill */}
-          {courseData?.totalStats && (
-            <div className="hidden sm:flex items-center gap-2 text-xs font-bold text-[var(--theme-text-muted)] bg-[var(--theme-bg-subtle)] px-3 py-1.5 rounded-xl border border-[var(--theme-border)]">
-              <span className="text-amber-400 font-mono font-black">{courseData.totalStats.videos}</span> Vids
-              <span>•</span>
-              <span className="text-rose-400 font-mono font-black">{courseData.totalStats.files}</span> PDFs
-              <span>•</span>
-              <span className="text-indigo-400 font-mono font-black">{courseData.totalStats.tests}</span> Mocks
-            </div>
-          )}
-        </div>
-
-        {/* Global Search Bar */}
-        <div className="relative flex-1 max-w-lg">
-          <Search className="absolute left-3.5 top-1/2 -translate-y-1/2 text-[var(--theme-text-muted)]" size={16} />
-          <input
-            type="text"
-            placeholder="Search all videos, PDFs, and tests..."
-            value={searchQuery}
-            onChange={(e) => setSearchQuery(e.target.value)}
-            className="w-full pl-9 pr-16 py-2 rounded-xl bg-[var(--theme-bg-input)] border border-[var(--theme-border)] focus:border-[var(--theme-bg-accent-solid)] focus:ring-2 focus:ring-[var(--theme-shadow-accent)] outline-none text-xs font-medium text-[var(--theme-text-primary)] placeholder:text-[var(--theme-text-muted)] transition-all"
-          />
-          {searchQuery && (
-            <button 
-              onClick={() => setSearchQuery('')}
-              className="absolute right-2.5 top-1/2 -translate-y-1/2 text-[10px] font-bold text-[var(--theme-text-muted)] hover:text-white bg-[var(--theme-bg-subtle)] px-2 py-0.5 rounded transition-colors"
-            >
-              Clear
-            </button>
-          )}
-        </div>
-      </div>
-
-      {/* Control Bar: View Mode Switcher (Tiles vs List) + Filters + Sorting */}
-      <div className="flex flex-wrap items-center justify-between gap-4 p-3 md:p-4 rounded-2xl glass-card border border-[var(--theme-border)]">
-        {/* Filter Pills */}
-        <div className="flex items-center gap-1.5 overflow-x-auto custom-scrollbar py-1">
+      {/* Control Bar: Filters + Integrated Search + Sort + View Mode Switcher */}
+      <div className="flex flex-col lg:flex-row lg:items-center justify-between gap-3 p-3 md:p-3.5 rounded-2xl glass-card border border-[var(--theme-border)] shadow-sm">
+        {/* Left: Filter Pills */}
+        <div className="flex items-center gap-1.5 overflow-x-auto custom-scrollbar py-0.5">
           {[
             { id: 'all', label: 'All Items' },
             { id: 'folders', label: `Folders (${currentFolder?.subfolders.length || 0})` },
@@ -321,10 +212,30 @@ export default function CourseExplorer({ onLaunchTest }) {
           ))}
         </div>
 
-        {/* View Mode & Sort Buttons */}
-        <div className="flex items-center gap-3 ml-auto">
+        {/* Right: Search Input + Sort Selector + View Mode Switcher */}
+        <div className="flex items-center gap-2.5 flex-1 justify-end min-w-0">
+          {/* Integrated Search Bar */}
+          <div className="relative flex-1 max-w-xs sm:max-w-sm">
+            <Search className="absolute left-3 top-1/2 -translate-y-1/2 text-[var(--theme-text-muted)]" size={14} />
+            <input
+              type="text"
+              placeholder="Search in course..."
+              value={searchQuery}
+              onChange={(e) => setSearchQuery(e.target.value)}
+              className="w-full pl-8 pr-14 py-1.5 rounded-xl bg-[var(--theme-bg-subtle)] border border-[var(--theme-border)] focus:border-[var(--theme-border-accent)] focus:bg-[var(--theme-bg-input)] outline-none text-xs font-medium text-[var(--theme-text-primary)] placeholder:text-[var(--theme-text-muted)] transition-all"
+            />
+            {searchQuery && (
+              <button 
+                onClick={() => setSearchQuery('')}
+                className="absolute right-2 top-1/2 -translate-y-1/2 text-[10px] font-bold text-[var(--theme-text-muted)] hover:text-white bg-[var(--theme-bg-subtle-hover)] px-1.5 py-0.5 rounded transition-colors"
+              >
+                Clear
+              </button>
+            )}
+          </div>
+
           {/* Sort Selector */}
-          <div className="flex items-center gap-1.5 text-xs text-[var(--theme-text-muted)] font-bold">
+          <div className="flex items-center gap-1.5 text-xs text-[var(--theme-text-muted)] font-bold shrink-0">
             <span className="hidden sm:inline">Sort:</span>
             <select
               value={sortOrder}
@@ -337,10 +248,10 @@ export default function CourseExplorer({ onLaunchTest }) {
             </select>
           </div>
 
-          <div className="h-5 w-px bg-[var(--theme-border)]" />
+          <div className="h-5 w-px bg-[var(--theme-border)] shrink-0 hidden sm:block" />
 
           {/* View Mode Toggle: Tiles vs List */}
-          <div className="flex items-center gap-1 bg-[var(--theme-bg-subtle)] p-1 rounded-xl border border-[var(--theme-border)]">
+          <div className="flex items-center gap-1 bg-[var(--theme-bg-subtle)] p-1 rounded-xl border border-[var(--theme-border)] shrink-0">
             <button
               onClick={() => handleSetViewMode('tiles')}
               title="Tiles / Grid View"
@@ -350,7 +261,7 @@ export default function CourseExplorer({ onLaunchTest }) {
                   : 'text-[var(--theme-text-muted)] hover:text-white'
               }`}
             >
-              <LayoutGrid size={16} />
+              <LayoutGrid size={15} />
             </button>
             <button
               onClick={() => handleSetViewMode('list')}
@@ -361,7 +272,7 @@ export default function CourseExplorer({ onLaunchTest }) {
                   : 'text-[var(--theme-text-muted)] hover:text-white'
               }`}
             >
-              <ListIcon size={16} />
+              <ListIcon size={15} />
             </button>
           </div>
         </div>
