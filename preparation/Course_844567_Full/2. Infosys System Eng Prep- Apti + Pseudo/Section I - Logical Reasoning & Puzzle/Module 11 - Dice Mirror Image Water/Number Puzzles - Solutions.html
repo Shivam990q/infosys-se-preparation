@@ -1,0 +1,522 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Number Puzzles - Questions & Solutions</title>
+<style>
+  body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; line-height: 1.6; max-width: 900px; margin: 30px auto; padding: 0 20px; color: #222; background: #f8fafc; }
+  .header { background: #fff; border: 1px solid #e2e8f0; border-radius: 10px; padding: 25px; margin-bottom: 25px; box-shadow: 0 2px 5px rgba(0,0,0,0.04); }
+  .header h1 { margin: 0 0 10px 0; color: #0284c7; }
+  .meta { display: flex; gap: 15px; font-weight: 600; color: #475569; flex-wrap: wrap; }
+  .meta span { background: #f1f5f9; padding: 6px 14px; border-radius: 6px; font-size: 0.9em; }
+  .q-card { background: #fff; border: 1px solid #e2e8f0; border-radius: 10px; padding: 24px; margin-bottom: 25px; box-shadow: 0 2px 4px rgba(0,0,0,0.03); }
+  .q-header { display: flex; justify-content: space-between; font-weight: bold; margin-bottom: 14px; font-size: 1.1em; color: #0f172a; border-bottom: 1px solid #f1f5f9; padding-bottom: 8px; }
+  .q-text { margin-bottom: 18px; font-size: 1.05em; color: #334155; }
+  .options { list-style-type: none; padding-left: 0; margin: 0 0 18px 0; }
+  .options li { padding: 12px 16px; margin-bottom: 8px; background: #fff; border: 1px solid #cbd5e1; border-radius: 6px; display: flex; align-items: baseline; }
+  .options li.correct { background: #ecfdf5; border-color: #10b981; font-weight: 600; color: #065f46; }
+  .opt-badge { font-weight: bold; margin-right: 12px; min-width: 28px; color: #0284c7; }
+  .options li.correct .opt-badge { color: #059669; }
+  .correct-tag { margin-left: auto; background: #10b981; color: white; padding: 2px 8px; border-radius: 4px; font-size: 0.8em; font-weight: 600; }
+  .solution-box { background: #f0fdf4; border-left: 4px solid #10b981; padding: 14px 18px; border-radius: 0 8px 8px 0; color: #1e293b; font-size: 0.98em; }
+  .solution-title { font-weight: bold; color: #047857; margin-bottom: 6px; display: flex; align-items: center; gap: 6px; }
+  @media print { body { margin: 0; padding: 0; max-width: 100%; background: #fff; } .q-card { break-inside: avoid; border: 1px solid #ccc; } }
+</style>
+
+<!-- MathJax for LaTeX / Math equations rendering -->
+<script>
+  window.MathJax = {
+    tex: {
+      inlineMath: [['$', '$'], ['\\(', '\\)']],
+      displayMath: [['$$', '$$'], ['\\[', '\\]']],
+      processEscapes: true
+    },
+    svg: { fontCache: 'global' },
+    options: { skipHtmlTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code'] }
+  };
+</script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
+<style>
+  /* Rich styling for diagrams, mathematical formulas, tables, and pseudo-code */
+  img { max-width: 100%; height: auto; display: inline-block; vertical-align: middle; border-radius: 4px; }
+  .q-text img { max-width: 95%; margin: 12px auto; display: block; border: 1px solid #e2e8f0; padding: 6px; background: #fff; border-radius: 8px; box-shadow: 0 1px 4px rgba(0,0,0,0.05); }
+  .options img { max-width: 85%; margin: 6px 0; display: inline-block; vertical-align: middle; }
+  .solution-box img { max-width: 95%; margin: 12px auto; display: block; border: 1px solid #cbd5e1; padding: 6px; background: #fff; border-radius: 8px; }
+  
+  table { border-collapse: collapse; width: 100%; margin: 16px 0; font-size: 0.95em; border-radius: 6px; overflow: hidden; }
+  th, td { border: 1px solid #cbd5e1; padding: 10px 14px; text-align: left; }
+  th { background-color: #f1f5f9; font-weight: 700; color: #1e293b; }
+  tr:nth-child(even) { background-color: #f8fafc; }
+  tr:hover { background-color: #f1f5f9; }
+  
+  pre, code { font-family: 'Consolas', 'Fira Code', 'Courier New', monospace; }
+  code { background: #f1f5f9; padding: 2px 6px; border-radius: 4px; font-size: 0.9em; color: #0284c7; }
+  pre { background: #0f172a; color: #f8fafc; padding: 16px 20px; border-radius: 8px; overflow-x: auto; line-height: 1.5; font-size: 0.95em; margin: 14px 0; }
+  pre code { background: transparent; color: inherit; padding: 0; }
+  
+  .MathJax { font-size: 1.1em !important; }
+</style>
+
+</head>
+<body>
+  <div class="header">
+    <h1>Number Puzzles — Solutions & Explanations</h1>
+    <div class="meta">
+      <span>📝 15 Questions</span>
+      <span>⭐ 15 Marks</span>
+      <span>✅ 100% Official Answer Key & Solutions</span>
+    </div>
+  </div>
+
+  <div class="q-card">
+    <div class="q-header">
+      <span>Question 1</span>
+    </div>
+    <div class="q-text"><p><img src="images/img_4fd077834da3.png" width="605" height="248" /></p></div>
+    <ul class="options">
+      <li><span class="opt-badge">(A)</span> <div><p><span style="font-size: 14pt;">4</span></p></div></li>
+      <li><span class="opt-badge">(B)</span> <div><p><span style="font-size: 14pt;">7</span></p></div></li>
+      <li class="correct"><span class="opt-badge">(C)</span> <div><p><span style="font-size: 14pt;">9</span></p></div><span class="correct-tag">✓ Correct Answer</span></li>
+      <li><span class="opt-badge">(D)</span> <div><p><span style="font-size: 14pt;">11</span></p></div></li>
+    </ul>
+    <div class="solution-box">
+      <div class="solution-title">💡 Official Solution & Explanation:</div>
+      <div><table style="margin: 0px; font-family: arial;" border="0" width="80%" cellspacing="0" cellpadding="0">
+<tbody style="margin: 0px;">
+<tr style="margin: 0px;">
+<td style="margin: 0px; padding: 5px; line-height: 1.7;" valign="top" width="10%"><span class="mx-green mx-bold" style="margin: 0px; font-weight: bold; color: #5eac1a; font-size: 14pt;">Answer</span></td>
+<td style="margin: 0px; padding: 5px; line-height: 1.7;" valign="top" width="2%"><span class="mx-green mx-bold" style="margin: 0px; font-weight: bold; color: #5eac1a; font-size: 14pt;">:</span></td>
+<td style="margin: 0px; padding: 5px; line-height: 1.7;" valign="top" width="88%"><span class="mx-bold" style="margin: 0px; font-weight: bold; font-size: 14pt;">C</span></td>
+</tr>
+<tr style="margin: 0px;">
+<td style="margin: 0px; padding: 5px; line-height: 1.7;" valign="top" width="10%"><span class="mx-green mx-bold" style="margin: 0px; font-weight: bold; color: #5eac1a; font-size: 14pt;">Explanation</span></td>
+<td style="margin: 0px; padding: 5px; line-height: 1.7;" valign="top" width="2%"><span class="mx-green mx-bold" style="margin: 0px; font-weight: bold; color: #5eac1a; font-size: 14pt;">:</span></td>
+<td style="margin: 0px; padding: 5px; line-height: 1.7;" valign="top" width="88%"><span style="font-size: 14pt;">In each triangle, multiply the lower two numbers together and add the upper number to give the value in the centre.</span></td>
+</tr>
+</tbody>
+</table></div>
+    </div>
+  </div>
+
+  <div class="q-card">
+    <div class="q-header">
+      <span>Question 2</span>
+    </div>
+    <div class="q-text"><p><img style="margin: 0px; outline: 0px; border: 0px; color: #000000; font-family: arial; text-align: -webkit-center;" src="images/img_173128006432.png" width="463" height="343" /></p></div>
+    <ul class="options">
+      <li><span class="opt-badge">(A)</span> <div><p><span style="font-size: 14pt;">1</span></p></div></li>
+      <li><span class="opt-badge">(B)</span> <div><p><span style="font-size: 14pt;">2</span></p></div></li>
+      <li class="correct"><span class="opt-badge">(C)</span> <div><p><span style="font-size: 14pt;">3</span></p></div><span class="correct-tag">✓ Correct Answer</span></li>
+      <li><span class="opt-badge">(D)</span> <div><p><span style="font-size: 14pt;">4</span></p></div></li>
+    </ul>
+    <div class="solution-box">
+      <div class="solution-title">💡 Official Solution & Explanation:</div>
+      <div><table style="margin: 0px; font-family: arial;" border="0" width="80%" cellspacing="0" cellpadding="0">
+<tbody style="margin: 0px;">
+<tr style="margin: 0px;">
+<td style="margin: 0px; padding: 5px; line-height: 1.7;" valign="top" width="10%"><span class="mx-green mx-bold" style="margin: 0px; font-weight: bold; color: #5eac1a; font-size: 14pt;">Answer</span></td>
+<td style="margin: 0px; padding: 5px; line-height: 1.7;" valign="top" width="2%"><span class="mx-green mx-bold" style="margin: 0px; font-weight: bold; color: #5eac1a; font-size: 14pt;">:</span></td>
+<td style="margin: 0px; padding: 5px; line-height: 1.7;" valign="top" width="88%"><span class="mx-bold" style="margin: 0px; font-weight: bold; font-size: 14pt;">C</span></td>
+</tr>
+<tr style="margin: 0px;">
+<td style="margin: 0px; padding: 5px; line-height: 1.7;" valign="top" width="10%"><span class="mx-green mx-bold" style="margin: 0px; font-weight: bold; color: #5eac1a; font-size: 14pt;">Explanation</span></td>
+<td style="margin: 0px; padding: 5px; line-height: 1.7;" valign="top" width="2%"><span class="mx-green mx-bold" style="margin: 0px; font-weight: bold; color: #5eac1a; font-size: 14pt;">:</span></td>
+<td style="margin: 0px; padding: 5px; line-height: 1.7;" valign="top" width="88%"><span style="font-size: 14pt;">Using the lower two circles as a source, the values in corresponding segments of the upper left circle equal the sums of the numbers in the lower two circles. The values in the upper central circle equal the products of the values in the lower two circles, and the upper right circle equals the difference between values in the lower two circles.</span></td>
+</tr>
+</tbody>
+</table></div>
+    </div>
+  </div>
+
+  <div class="q-card">
+    <div class="q-header">
+      <span>Question 3</span>
+    </div>
+    <div class="q-text"><p><img src="images/img_9f51dd3fa203.png" width="597" height="150" /></p></div>
+    <ul class="options">
+      <li><span class="opt-badge">(A)</span> <div><p><span style="font-size: 14pt;">2</span></p></div></li>
+      <li class="correct"><span class="opt-badge">(B)</span> <div><p><span style="font-size: 14pt;">6</span></p></div><span class="correct-tag">✓ Correct Answer</span></li>
+      <li><span class="opt-badge">(C)</span> <div><p><span style="font-size: 14pt;">9</span></p></div></li>
+      <li><span class="opt-badge">(D)</span> <div><p><span style="font-size: 14pt;">12</span></p></div></li>
+    </ul>
+    <div class="solution-box">
+      <div class="solution-title">💡 Official Solution & Explanation:</div>
+      <div><table style="margin: 0px; font-family: arial;" border="0" width="80%" cellspacing="0" cellpadding="0">
+<tbody style="margin: 0px;">
+<tr style="margin: 0px;">
+<td style="margin: 0px; padding: 5px; line-height: 1.7;" valign="top" width="10%"><span class="mx-green mx-bold" style="margin: 0px; font-weight: bold; color: #5eac1a; font-size: 14pt;">Answer</span></td>
+<td style="margin: 0px; padding: 5px; line-height: 1.7;" valign="top" width="2%"><span class="mx-green mx-bold" style="margin: 0px; font-weight: bold; color: #5eac1a; font-size: 14pt;">:</span></td>
+<td style="margin: 0px; padding: 5px; line-height: 1.7;" valign="top" width="88%"><span class="mx-bold" style="margin: 0px; font-weight: bold; font-size: 14pt;">B</span></td>
+</tr>
+<tr style="margin: 0px;">
+<td style="margin: 0px; padding: 5px; line-height: 1.7;" valign="top" width="10%"><span class="mx-green mx-bold" style="margin: 0px; font-weight: bold; color: #5eac1a; font-size: 14pt;">Explanation</span></td>
+<td style="margin: 0px; padding: 5px; line-height: 1.7;" valign="top" width="2%"><span class="mx-green mx-bold" style="margin: 0px; font-weight: bold; color: #5eac1a; font-size: 14pt;">:</span></td>
+<td style="margin: 0px; padding: 5px; line-height: 1.7;" valign="top" width="88%"><span style="font-size: 14pt;">Starting on the extreme left and right hand of the row and working towards the centre, add the end digits together and subtract 3 to give the next value along to the left, and add 1 to give the next value along to the right. Repeat this sequence, working towards the centre.</span></td>
+</tr>
+</tbody>
+</table></div>
+    </div>
+  </div>
+
+  <div class="q-card">
+    <div class="q-header">
+      <span>Question 4</span>
+    </div>
+    <div class="q-text"><p><img src="images/img_4af7878c6596.png" width="406" height="335" /></p></div>
+    <ul class="options">
+      <li class="correct"><span class="opt-badge">(A)</span> <div><p><span style="font-size: 14pt;">16</span></p></div><span class="correct-tag">✓ Correct Answer</span></li>
+      <li><span class="opt-badge">(B)</span> <div><p><span style="font-size: 14pt;">20</span></p></div></li>
+      <li><span class="opt-badge">(C)</span> <div><p><span style="font-size: 14pt;">24</span></p></div></li>
+      <li><span class="opt-badge">(D)</span> <div><p><span style="font-size: 14pt;">28</span></p></div></li>
+    </ul>
+    <div class="solution-box">
+      <div class="solution-title">💡 Official Solution & Explanation:</div>
+      <div><table style="margin: 0px; font-family: arial;" border="0" width="80%" cellspacing="0" cellpadding="0">
+<tbody style="margin: 0px;">
+<tr style="margin: 0px;">
+<td style="margin: 0px; padding: 5px; line-height: 1.7;" valign="top" width="10%"><span class="mx-green mx-bold" style="margin: 0px; font-weight: bold; color: #5eac1a; font-size: 14pt;">Answer</span></td>
+<td style="margin: 0px; padding: 5px; line-height: 1.7;" valign="top" width="2%"><span class="mx-green mx-bold" style="margin: 0px; font-weight: bold; color: #5eac1a; font-size: 14pt;">:</span></td>
+<td style="margin: 0px; padding: 5px; line-height: 1.7;" valign="top" width="88%"><span class="mx-bold" style="margin: 0px; font-weight: bold; font-size: 14pt;">A</span></td>
+</tr>
+<tr style="margin: 0px;">
+<td style="margin: 0px; padding: 5px; line-height: 1.7;" valign="top" width="10%"><span class="mx-green mx-bold" style="margin: 0px; font-weight: bold; color: #5eac1a; font-size: 14pt;">Explanation</span></td>
+<td style="margin: 0px; padding: 5px; line-height: 1.7;" valign="top" width="2%"><span class="mx-green mx-bold" style="margin: 0px; font-weight: bold; color: #5eac1a; font-size: 14pt;">:</span></td>
+<td style="margin: 0px; padding: 5px; line-height: 1.7;" valign="top" width="88%"><span style="font-size: 14pt;">Starting bottom left and moving clockwise around the triangle, numbers follow the sequence of Square Numbers.</span></td>
+</tr>
+</tbody>
+</table></div>
+    </div>
+  </div>
+
+  <div class="q-card">
+    <div class="q-header">
+      <span>Question 5</span>
+    </div>
+    <div class="q-text"><p><img style="margin: 0px; outline: 0px; border: 0px; color: #000000; font-family: arial; text-align: -webkit-center;" src="images/img_6035547edbbf.png" width="405" height="367" /></p></div>
+    <ul class="options">
+      <li><span class="opt-badge">(A)</span> <div><p><span style="font-size: 14pt;">21</span></p></div></li>
+      <li><span class="opt-badge">(B)</span> <div><p><span style="font-size: 14pt;">25</span></p></div></li>
+      <li><span class="opt-badge">(C)</span> <div><p><span style="font-size: 14pt;">30</span></p></div></li>
+      <li class="correct"><span class="opt-badge">(D)</span> <div><p><span style="font-size: 14pt;">39</span></p></div><span class="correct-tag">✓ Correct Answer</span></li>
+    </ul>
+    <div class="solution-box">
+      <div class="solution-title">💡 Official Solution & Explanation:</div>
+      <div><table style="margin: 0px; font-family: arial;" border="0" width="80%" cellspacing="0" cellpadding="0">
+<tbody style="margin: 0px;">
+<tr style="margin: 0px;">
+<td style="margin: 0px; padding: 5px; line-height: 1.7;" valign="top" width="10%"><span class="mx-green mx-bold" style="margin: 0px; font-weight: bold; color: #5eac1a; font-size: 14pt;">Answer</span></td>
+<td style="margin: 0px; padding: 5px; line-height: 1.7;" valign="top" width="2%"><span class="mx-green mx-bold" style="margin: 0px; font-weight: bold; color: #5eac1a; font-size: 14pt;">:</span></td>
+<td style="margin: 0px; padding: 5px; line-height: 1.7;" valign="top" width="88%"><span class="mx-bold" style="margin: 0px; font-weight: bold; font-size: 14pt;">D</span></td>
+</tr>
+<tr style="margin: 0px;">
+<td style="margin: 0px; padding: 5px; line-height: 1.7;" valign="top" width="10%"><span class="mx-green mx-bold" style="margin: 0px; font-weight: bold; color: #5eac1a; font-size: 14pt;">Explanation</span></td>
+<td style="margin: 0px; padding: 5px; line-height: 1.7;" valign="top" width="2%"><span class="mx-green mx-bold" style="margin: 0px; font-weight: bold; color: #5eac1a; font-size: 14pt;">:</span></td>
+<td style="margin: 0px; padding: 5px; line-height: 1.7;" valign="top" width="88%"><span style="font-size: 14pt;">Working from top to bottom, double each number and subtract 1, then 2, then 3 etc.</span></td>
+</tr>
+</tbody>
+</table></div>
+    </div>
+  </div>
+
+  <div class="q-card">
+    <div class="q-header">
+      <span>Question 6</span>
+    </div>
+    <div class="q-text"><p><img style="margin: 0px; outline: 0px; border: 0px; color: #000000; font-family: arial; text-align: -webkit-center;" src="images/img_976d67281ccd.png" width="402" height="338" /></p></div>
+    <ul class="options">
+      <li><span class="opt-badge">(A)</span> <div><p><span style="font-size: 14pt;">1</span></p></div></li>
+      <li><span class="opt-badge">(B)</span> <div><p><span style="font-size: 14pt;">2</span></p></div></li>
+      <li><span class="opt-badge">(C)</span> <div><p><span style="font-size: 14pt;">3</span></p></div></li>
+      <li class="correct"><span class="opt-badge">(D)</span> <div><p><span style="font-size: 14pt;">4</span></p></div><span class="correct-tag">✓ Correct Answer</span></li>
+    </ul>
+    <div class="solution-box">
+      <div class="solution-title">💡 Official Solution & Explanation:</div>
+      <div><table style="margin: 0px; font-family: arial;" border="0" width="80%" cellspacing="0" cellpadding="0">
+<tbody style="margin: 0px;">
+<tr style="margin: 0px;">
+<td style="margin: 0px; padding: 5px; line-height: 1.7;" valign="top" width="10%"><span class="mx-green mx-bold" style="margin: 0px; font-weight: bold; color: #5eac1a; font-size: 14pt;">Answer</span></td>
+<td style="margin: 0px; padding: 5px; line-height: 1.7;" valign="top" width="2%"><span class="mx-green mx-bold" style="margin: 0px; font-weight: bold; color: #5eac1a; font-size: 14pt;">:</span></td>
+<td style="margin: 0px; padding: 5px; line-height: 1.7;" valign="top" width="88%"><span class="mx-bold" style="margin: 0px; font-weight: bold; font-size: 14pt;">D</span></td>
+</tr>
+<tr style="margin: 0px;">
+<td style="margin: 0px; padding: 5px; line-height: 1.7;" valign="top" width="10%"><span class="mx-green mx-bold" style="margin: 0px; font-weight: bold; color: #5eac1a; font-size: 14pt;">Explanation</span></td>
+<td style="margin: 0px; padding: 5px; line-height: 1.7;" valign="top" width="2%"><span class="mx-green mx-bold" style="margin: 0px; font-weight: bold; color: #5eac1a; font-size: 14pt;">:</span></td>
+<td style="margin: 0px; padding: 5px; line-height: 1.7;" valign="top" width="88%"><span style="font-size: 14pt;">Working in columns, the sum of the numbers in each column is always 14.</span></td>
+</tr>
+</tbody>
+</table></div>
+    </div>
+  </div>
+
+  <div class="q-card">
+    <div class="q-header">
+      <span>Question 7</span>
+    </div>
+    <div class="q-text"><p><img style="margin: 0px; outline: 0px; border: 0px; color: #000000; font-family: arial; text-align: -webkit-center;" src="images/img_776c0033da9e.png" width="404" height="327" /></p></div>
+    <ul class="options">
+      <li class="correct"><span class="opt-badge">(A)</span> <div><p><span style="font-size: 14pt;">6</span></p></div><span class="correct-tag">✓ Correct Answer</span></li>
+      <li><span class="opt-badge">(B)</span> <div><p><span style="font-size: 14pt;">12</span></p></div></li>
+      <li><span class="opt-badge">(C)</span> <div><p><span style="font-size: 14pt;">18</span></p></div></li>
+      <li><span class="opt-badge">(D)</span> <div><p><span style="font-size: 14pt;">24</span></p></div></li>
+    </ul>
+    <div class="solution-box">
+      <div class="solution-title">💡 Official Solution & Explanation:</div>
+      <div><table style="margin: 0px; font-family: arial;" border="0" width="80%" cellspacing="0" cellpadding="0">
+<tbody style="margin: 0px;">
+<tr style="margin: 0px;">
+<td style="margin: 0px; padding: 5px; line-height: 1.7;" valign="top" width="10%"><span class="mx-green mx-bold" style="margin: 0px; font-weight: bold; color: #5eac1a; font-size: 14pt;">Answer</span></td>
+<td style="margin: 0px; padding: 5px; line-height: 1.7;" valign="top" width="2%"><span class="mx-green mx-bold" style="margin: 0px; font-weight: bold; color: #5eac1a; font-size: 14pt;">:</span></td>
+<td style="margin: 0px; padding: 5px; line-height: 1.7;" valign="top" width="88%"><span class="mx-bold" style="margin: 0px; font-weight: bold; font-size: 14pt;">A</span></td>
+</tr>
+<tr style="margin: 0px;">
+<td style="margin: 0px; padding: 5px; line-height: 1.7;" valign="top" width="10%"><span class="mx-green mx-bold" style="margin: 0px; font-weight: bold; color: #5eac1a; font-size: 14pt;">Explanation</span></td>
+<td style="margin: 0px; padding: 5px; line-height: 1.7;" valign="top" width="2%"><span class="mx-green mx-bold" style="margin: 0px; font-weight: bold; color: #5eac1a; font-size: 14pt;">:</span></td>
+<td style="margin: 0px; padding: 5px; line-height: 1.7;" valign="top" width="88%"><span style="font-size: 14pt;">The numbers in each row and column add up to 15.</span></td>
+</tr>
+</tbody>
+</table></div>
+    </div>
+  </div>
+
+  <div class="q-card">
+    <div class="q-header">
+      <span>Question 8</span>
+    </div>
+    <div class="q-text"><p><img style="margin: 0px; outline: 0px; border: 0px; color: #000000; font-family: arial; text-align: -webkit-center;" src="images/img_ad4f6ea7ce55.png" width="404" height="145" /></p></div>
+    <ul class="options">
+      <li><span class="opt-badge">(A)</span> <div><p><span style="font-size: 14pt;">35</span></p></div></li>
+      <li class="correct"><span class="opt-badge">(B)</span> <div><p><span style="font-size: 14pt;">40</span></p></div><span class="correct-tag">✓ Correct Answer</span></li>
+      <li><span class="opt-badge">(C)</span> <div><p><span style="font-size: 14pt;">45</span></p></div></li>
+      <li><span class="opt-badge">(D)</span> <div><p><span style="font-size: 14pt;">50</span></p></div></li>
+    </ul>
+    <div class="solution-box">
+      <div class="solution-title">💡 Official Solution & Explanation:</div>
+      <div><table style="margin: 0px; font-family: arial;" border="0" width="80%" cellspacing="0" cellpadding="0">
+<tbody style="margin: 0px;">
+<tr style="margin: 0px;">
+<td style="margin: 0px; padding: 5px; line-height: 1.7;" valign="top" width="10%"><span class="mx-green mx-bold" style="margin: 0px; font-weight: bold; color: #5eac1a; font-size: 14pt;">Answer</span></td>
+<td style="margin: 0px; padding: 5px; line-height: 1.7;" valign="top" width="2%"><span class="mx-green mx-bold" style="margin: 0px; font-weight: bold; color: #5eac1a; font-size: 14pt;">:</span></td>
+<td style="margin: 0px; padding: 5px; line-height: 1.7;" valign="top" width="88%"><span class="mx-bold" style="margin: 0px; font-weight: bold; font-size: 14pt;">B</span></td>
+</tr>
+<tr style="margin: 0px;">
+<td style="margin: 0px; padding: 5px; line-height: 1.7;" valign="top" width="10%"><span class="mx-green mx-bold" style="margin: 0px; font-weight: bold; color: #5eac1a; font-size: 14pt;">Explanation</span></td>
+<td style="margin: 0px; padding: 5px; line-height: 1.7;" valign="top" width="2%"><span class="mx-green mx-bold" style="margin: 0px; font-weight: bold; color: #5eac1a; font-size: 14pt;">:</span></td>
+<td style="margin: 0px; padding: 5px; line-height: 1.7;" valign="top" width="88%"><span style="font-size: 14pt;">Moving from left to right, numbers increase by 2,3,4 and 5.</span></td>
+</tr>
+</tbody>
+</table></div>
+    </div>
+  </div>
+
+  <div class="q-card">
+    <div class="q-header">
+      <span>Question 9</span>
+    </div>
+    <div class="q-text"><p><img style="margin: 0px; outline: 0px; border: 0px; color: #000000; font-family: arial; text-align: -webkit-center;" src="images/img_da0ec40a99ed.png" width="409" height="326" /></p></div>
+    <ul class="options">
+      <li><span class="opt-badge">(A)</span> <div><p><span style="font-size: 14pt;">3</span></p></div></li>
+      <li><span class="opt-badge">(B)</span> <div><p><span style="font-size: 14pt;">6</span></p></div></li>
+      <li class="correct"><span class="opt-badge">(C)</span> <div><p><span style="font-size: 14pt;">9</span></p></div><span class="correct-tag">✓ Correct Answer</span></li>
+      <li><span class="opt-badge">(D)</span> <div><p><span style="font-size: 14pt;">12</span></p></div></li>
+    </ul>
+    <div class="solution-box">
+      <div class="solution-title">💡 Official Solution & Explanation:</div>
+      <div><table style="margin: 0px; font-family: arial;" border="0" width="80%" cellspacing="0" cellpadding="0">
+<tbody style="margin: 0px;">
+<tr style="margin: 0px;">
+<td style="margin: 0px; padding: 5px; line-height: 1.7;" valign="top" width="10%"><span class="mx-green mx-bold" style="margin: 0px; font-weight: bold; color: #5eac1a; font-size: 14pt;">Answer</span></td>
+<td style="margin: 0px; padding: 5px; line-height: 1.7;" valign="top" width="2%"><span class="mx-green mx-bold" style="margin: 0px; font-weight: bold; color: #5eac1a; font-size: 14pt;">:</span></td>
+<td style="margin: 0px; padding: 5px; line-height: 1.7;" valign="top" width="88%"><span class="mx-bold" style="margin: 0px; font-weight: bold; font-size: 14pt;">C</span></td>
+</tr>
+<tr style="margin: 0px;">
+<td style="margin: 0px; padding: 5px; line-height: 1.7;" valign="top" width="10%"><span class="mx-green mx-bold" style="margin: 0px; font-weight: bold; color: #5eac1a; font-size: 14pt;">Explanation</span></td>
+<td style="margin: 0px; padding: 5px; line-height: 1.7;" valign="top" width="2%"><span class="mx-green mx-bold" style="margin: 0px; font-weight: bold; color: #5eac1a; font-size: 14pt;">:</span></td>
+<td style="margin: 0px; padding: 5px; line-height: 1.7;" valign="top" width="88%"><span style="font-size: 14pt;">In each square of the diagram, the sum of the numbers is always 22.</span></td>
+</tr>
+</tbody>
+</table></div>
+    </div>
+  </div>
+
+  <div class="q-card">
+    <div class="q-header">
+      <span>Question 10</span>
+    </div>
+    <div class="q-text"><p><img style="margin: 0px; outline: 0px; border: 0px; color: #000000; font-family: arial; text-align: -webkit-center;" src="images/img_ec0b3d529d07.png" width="396" height="316" /></p></div>
+    <ul class="options">
+      <li class="correct"><span class="opt-badge">(A)</span> <div><p><span style="font-size: 14pt;">16</span></p></div><span class="correct-tag">✓ Correct Answer</span></li>
+      <li><span class="opt-badge">(B)</span> <div><p><span style="font-size: 14pt;">22</span></p></div></li>
+      <li><span class="opt-badge">(C)</span> <div><p><span style="font-size: 14pt;">26</span></p></div></li>
+      <li><span class="opt-badge">(D)</span> <div><p><span style="font-size: 14pt;">29</span></p></div></li>
+    </ul>
+    <div class="solution-box">
+      <div class="solution-title">💡 Official Solution & Explanation:</div>
+      <div><table style="margin: 0px; font-family: arial;" border="0" width="80%" cellspacing="0" cellpadding="0">
+<tbody style="margin: 0px;">
+<tr style="margin: 0px;">
+<td style="margin: 0px; padding: 5px; line-height: 1.7;" valign="top" width="10%"><span class="mx-green mx-bold" style="margin: 0px; font-weight: bold; color: #5eac1a; font-size: 14pt;">Answer</span></td>
+<td style="margin: 0px; padding: 5px; line-height: 1.7;" valign="top" width="2%"><span class="mx-green mx-bold" style="margin: 0px; font-weight: bold; color: #5eac1a; font-size: 14pt;">:</span></td>
+<td style="margin: 0px; padding: 5px; line-height: 1.7;" valign="top" width="88%"><span class="mx-bold" style="margin: 0px; font-weight: bold; font-size: 14pt;">A</span></td>
+</tr>
+<tr style="margin: 0px;">
+<td style="margin: 0px; padding: 5px; line-height: 1.7;" valign="top" width="10%"><span class="mx-green mx-bold" style="margin: 0px; font-weight: bold; color: #5eac1a; font-size: 14pt;">Explanation</span></td>
+<td style="margin: 0px; padding: 5px; line-height: 1.7;" valign="top" width="2%"><span class="mx-green mx-bold" style="margin: 0px; font-weight: bold; color: #5eac1a; font-size: 14pt;">:</span></td>
+<td style="margin: 0px; padding: 5px; line-height: 1.7;" valign="top" width="88%"><span style="font-size: 14pt;">Moving clockwise, around alternate segments in the chain, one sequence decreases by 1, 2, 3 and 4 each time, while the other increases by 2, 3, 4 and 5.</span></td>
+</tr>
+</tbody>
+</table></div>
+    </div>
+  </div>
+
+  <div class="q-card">
+    <div class="q-header">
+      <span>Question 11</span>
+    </div>
+    <div class="q-text"><p><img style="margin: 0px; outline: 0px; border: 0px; color: #000000; font-family: arial; text-align: -webkit-center;" src="images/img_c35fd86ad3a7.png" width="405" height="323" /></p></div>
+    <ul class="options">
+      <li><span class="opt-badge">(A)</span> <div><p><span style="font-size: 18.6667px;">4</span></p></div></li>
+      <li><span class="opt-badge">(B)</span> <div><p><span style="font-size: 14pt;">5</span></p></div></li>
+      <li><span class="opt-badge">(C)</span> <div><p><span style="font-size: 14pt;">6</span></p></div></li>
+      <li class="correct"><span class="opt-badge">(D)</span> <div><p><span style="font-size: 14pt;">7</span></p></div><span class="correct-tag">✓ Correct Answer</span></li>
+    </ul>
+    <div class="solution-box">
+      <div class="solution-title">💡 Official Solution & Explanation:</div>
+      <div><table style="margin: 0px; font-family: arial;" border="0" width="80%" cellspacing="0" cellpadding="0">
+<tbody style="margin: 0px;">
+<tr style="margin: 0px;">
+<td style="margin: 0px; padding: 5px; line-height: 1.7;" valign="top" width="10%"><span class="mx-green mx-bold" style="margin: 0px; font-weight: bold; color: #5eac1a; font-size: 14pt;">Answer</span></td>
+<td style="margin: 0px; padding: 5px; line-height: 1.7;" valign="top" width="2%"><span class="mx-green mx-bold" style="margin: 0px; font-weight: bold; color: #5eac1a; font-size: 14pt;">:</span></td>
+<td style="margin: 0px; padding: 5px; line-height: 1.7;" valign="top" width="88%"><span class="mx-bold" style="margin: 0px; font-weight: bold; font-size: 14pt;">D</span></td>
+</tr>
+<tr style="margin: 0px;">
+<td style="margin: 0px; padding: 5px; line-height: 1.7;" valign="top" width="10%"><span class="mx-green mx-bold" style="margin: 0px; font-weight: bold; color: #5eac1a; font-size: 14pt;">Explanation</span></td>
+<td style="margin: 0px; padding: 5px; line-height: 1.7;" valign="top" width="2%"><span class="mx-green mx-bold" style="margin: 0px; font-weight: bold; color: #5eac1a; font-size: 14pt;">:</span></td>
+<td style="margin: 0px; padding: 5px; line-height: 1.7;" valign="top" width="88%"><span style="font-size: 14pt;">Starting with the numbers in the top row, and following straight lines through the centre of the diagram, subtract the middle number from the top number to give the corresponding value on the bottom row.</span></td>
+</tr>
+</tbody>
+</table></div>
+    </div>
+  </div>
+
+  <div class="q-card">
+    <div class="q-header">
+      <span>Question 12</span>
+    </div>
+    <div class="q-text"><p><img style="margin: 0px; outline: 0px; border: 0px; color: #000000; font-family: arial; text-align: -webkit-center;" src="images/img_3c9139b68774.png" width="398" height="356" /></p></div>
+    <ul class="options">
+      <li><span class="opt-badge">(A)</span> <div><p><span style="font-size: 14pt;">10</span></p></div></li>
+      <li class="correct"><span class="opt-badge">(B)</span> <div><p><span style="font-size: 14pt;">13</span></p></div><span class="correct-tag">✓ Correct Answer</span></li>
+      <li><span class="opt-badge">(C)</span> <div><p><span style="font-size: 14pt;">16</span></p></div></li>
+      <li><span class="opt-badge">(D)</span> <div><p><span style="font-size: 14pt;">19</span></p></div></li>
+    </ul>
+    <div class="solution-box">
+      <div class="solution-title">💡 Official Solution & Explanation:</div>
+      <div><table style="margin: 0px; font-family: arial;" border="0" width="80%" cellspacing="0" cellpadding="0">
+<tbody style="margin: 0px;">
+<tr style="margin: 0px;">
+<td style="margin: 0px; padding: 5px; line-height: 1.7;" valign="top" width="10%"><span class="mx-green mx-bold" style="margin: 0px; font-weight: bold; color: #5eac1a; font-size: 14pt;">Answer</span></td>
+<td style="margin: 0px; padding: 5px; line-height: 1.7;" valign="top" width="2%"><span class="mx-green mx-bold" style="margin: 0px; font-weight: bold; color: #5eac1a; font-size: 14pt;">:</span></td>
+<td style="margin: 0px; padding: 5px; line-height: 1.7;" valign="top" width="88%"><span class="mx-bold" style="margin: 0px; font-weight: bold; font-size: 14pt;">B</span></td>
+</tr>
+<tr style="margin: 0px;">
+<td style="margin: 0px; padding: 5px; line-height: 1.7;" valign="top" width="10%"><span class="mx-green mx-bold" style="margin: 0px; font-weight: bold; color: #5eac1a; font-size: 14pt;">Explanation</span></td>
+<td style="margin: 0px; padding: 5px; line-height: 1.7;" valign="top" width="2%"><span class="mx-green mx-bold" style="margin: 0px; font-weight: bold; color: #5eac1a; font-size: 14pt;">:</span></td>
+<td style="margin: 0px; padding: 5px; line-height: 1.7;" valign="top" width="88%"><span style="font-size: 14pt;">In each circle, starting at the top left segment, numbers increase, as you move clockwise, by 2 for the upper left circle, 3 for the upper right, 4 for the lower right and 5 for the lower left.</span></td>
+</tr>
+</tbody>
+</table></div>
+    </div>
+  </div>
+
+  <div class="q-card">
+    <div class="q-header">
+      <span>Question 13</span>
+    </div>
+    <div class="q-text"><p><img style="margin: 0px; outline: 0px; border: 0px; color: #000000; font-family: arial; text-align: -webkit-center;" src="images/img_8352a44fb1ce.png" width="401" height="262" /></p></div>
+    <ul class="options">
+      <li><span class="opt-badge">(A)</span> <div><p><span style="font-size: 14pt;">1</span></p></div></li>
+      <li><span class="opt-badge">(B)</span> <div><p><span style="font-size: 14pt;">2</span></p></div></li>
+      <li class="correct"><span class="opt-badge">(C)</span> <div><p><span style="font-size: 14pt;">3</span></p></div><span class="correct-tag">✓ Correct Answer</span></li>
+      <li><span class="opt-badge">(D)</span> <div><p><span style="font-size: 14pt;">4</span></p></div></li>
+    </ul>
+    <div class="solution-box">
+      <div class="solution-title">💡 Official Solution & Explanation:</div>
+      <div><table style="margin: 0px; font-family: arial;" border="0" width="80%" cellspacing="0" cellpadding="0">
+<tbody style="margin: 0px;">
+<tr style="margin: 0px;">
+<td style="margin: 0px; padding: 5px; line-height: 1.7;" valign="top" width="10%"><span class="mx-green mx-bold" style="margin: 0px; font-weight: bold; color: #5eac1a; font-size: 14pt;">Answer</span></td>
+<td style="margin: 0px; padding: 5px; line-height: 1.7;" valign="top" width="2%"><span class="mx-green mx-bold" style="margin: 0px; font-weight: bold; color: #5eac1a; font-size: 14pt;">:</span></td>
+<td style="margin: 0px; padding: 5px; line-height: 1.7;" valign="top" width="88%"><span class="mx-bold" style="margin: 0px; font-weight: bold; font-size: 14pt;">C</span></td>
+</tr>
+<tr style="margin: 0px;">
+<td style="margin: 0px; padding: 5px; line-height: 1.7;" valign="top" width="10%"><span class="mx-green mx-bold" style="margin: 0px; font-weight: bold; color: #5eac1a; font-size: 14pt;">Explanation</span></td>
+<td style="margin: 0px; padding: 5px; line-height: 1.7;" valign="top" width="2%"><span class="mx-green mx-bold" style="margin: 0px; font-weight: bold; color: #5eac1a; font-size: 14pt;">:</span></td>
+<td style="margin: 0px; padding: 5px; line-height: 1.7;" valign="top" width="88%"><span style="font-size: 14pt;">In each group of 3 numbers, the lower number equals the average of the top two numbers.</span></td>
+</tr>
+</tbody>
+</table></div>
+    </div>
+  </div>
+
+  <div class="q-card">
+    <div class="q-header">
+      <span>Question 14</span>
+    </div>
+    <div class="q-text"><p><img style="margin: 0px; outline: 0px; border: 0px; color: #000000; font-family: arial; text-align: -webkit-center;" src="images/img_36cce263d848.png" width="401" height="303" /></p></div>
+    <ul class="options">
+      <li class="correct"><span class="opt-badge">(A)</span> <div><p><span style="font-size: 14pt;">1</span></p></div><span class="correct-tag">✓ Correct Answer</span></li>
+      <li><span class="opt-badge">(B)</span> <div><p><span style="font-size: 14pt;">3</span></p></div></li>
+      <li><span class="opt-badge">(C)</span> <div><p><span style="font-size: 14pt;">4</span></p></div></li>
+      <li><span class="opt-badge">(D)</span> <div><p><span style="font-size: 14pt;">6</span></p></div></li>
+    </ul>
+    <div class="solution-box">
+      <div class="solution-title">💡 Official Solution & Explanation:</div>
+      <div><table style="margin: 0px; font-family: arial;" border="0" width="80%" cellspacing="0" cellpadding="0">
+<tbody style="margin: 0px;">
+<tr style="margin: 0px;">
+<td style="margin: 0px; padding: 5px; line-height: 1.7;" valign="top" width="10%"><span class="mx-green mx-bold" style="margin: 0px; font-weight: bold; color: #5eac1a; font-size: 14pt;">Answer</span></td>
+<td style="margin: 0px; padding: 5px; line-height: 1.7;" valign="top" width="2%"><span class="mx-green mx-bold" style="margin: 0px; font-weight: bold; color: #5eac1a; font-size: 14pt;">:</span></td>
+<td style="margin: 0px; padding: 5px; line-height: 1.7;" valign="top" width="88%"><span class="mx-bold" style="margin: 0px; font-weight: bold; font-size: 14pt;">A</span></td>
+</tr>
+<tr style="margin: 0px;">
+<td style="margin: 0px; padding: 5px; line-height: 1.7;" valign="top" width="10%"><span class="mx-green mx-bold" style="margin: 0px; font-weight: bold; color: #5eac1a; font-size: 14pt;">Explanation</span></td>
+<td style="margin: 0px; padding: 5px; line-height: 1.7;" valign="top" width="2%"><span class="mx-green mx-bold" style="margin: 0px; font-weight: bold; color: #5eac1a; font-size: 14pt;">:</span></td>
+<td style="margin: 0px; padding: 5px; line-height: 1.7;" valign="top" width="88%"><span style="font-size: 14pt;">Reading each row as a 3 digit number, the rows follow the sequence of square numbers, from 17 to 19.</span></td>
+</tr>
+</tbody>
+</table></div>
+    </div>
+  </div>
+
+  <div class="q-card">
+    <div class="q-header">
+      <span>Question 15</span>
+    </div>
+    <div class="q-text"><p><img style="margin: 0px; outline: 0px; border: 0px; color: #000000; font-family: arial; text-align: -webkit-center;" src="images/img_3b52b656a3bd.png" width="403" height="309" /></p></div>
+    <ul class="options">
+      <li><span class="opt-badge">(A)</span> <div><p><span style="font-size: 14pt;">4</span></p></div></li>
+      <li><span class="opt-badge">(B)</span> <div><p><span style="font-size: 14pt;">3</span></p></div></li>
+      <li><span class="opt-badge">(C)</span> <div><p><span style="font-size: 14pt;">2</span></p></div></li>
+      <li class="correct"><span class="opt-badge">(D)</span> <div><p><span style="font-size: 14pt;">1</span></p></div><span class="correct-tag">✓ Correct Answer</span></li>
+    </ul>
+    <div class="solution-box">
+      <div class="solution-title">💡 Official Solution & Explanation:</div>
+      <div><table style="margin: 0px; font-family: arial;" border="0" width="80%" cellspacing="0" cellpadding="0">
+<tbody style="margin: 0px;">
+<tr style="margin: 0px;">
+<td style="margin: 0px; padding: 5px; line-height: 1.7;" valign="top" width="10%"><span class="mx-green mx-bold" style="margin: 0px; font-weight: bold; color: #5eac1a; font-size: 14pt;">Answer</span></td>
+<td style="margin: 0px; padding: 5px; line-height: 1.7;" valign="top" width="2%"><span class="mx-green mx-bold" style="margin: 0px; font-weight: bold; color: #5eac1a; font-size: 14pt;">:</span></td>
+<td style="margin: 0px; padding: 5px; line-height: 1.7;" valign="top" width="88%"><span class="mx-bold" style="margin: 0px; font-weight: bold; font-size: 14pt;">D</span></td>
+</tr>
+<tr style="margin: 0px;">
+<td style="margin: 0px; padding: 5px; line-height: 1.7;" valign="top" width="10%"><span class="mx-green mx-bold" style="margin: 0px; font-weight: bold; color: #5eac1a; font-size: 14pt;">Explanation</span></td>
+<td style="margin: 0px; padding: 5px; line-height: 1.7;" valign="top" width="2%"><span class="mx-green mx-bold" style="margin: 0px; font-weight: bold; color: #5eac1a; font-size: 14pt;">:</span></td>
+<td style="margin: 0px; padding: 5px; line-height: 1.7;" valign="top" width="88%"><span style="font-size: 14pt;">Starting with the circle on the top left, and moving to the right, top row then bottom row, the sum of the numbers in each circle follows the sequence 12, 15, 18, 21 etc.</span></td>
+</tr>
+</tbody>
+</table></div>
+    </div>
+  </div>
+</body>
+</html>

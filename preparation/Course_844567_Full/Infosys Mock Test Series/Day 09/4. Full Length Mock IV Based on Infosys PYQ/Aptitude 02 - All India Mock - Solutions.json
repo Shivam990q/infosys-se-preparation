@@ -1,0 +1,9152 @@
+{
+  "6151ceb7905535198b5982b9": {
+    "correctOption": "1",
+    "multiCorrectOptions": null,
+    "range": {
+      "start": "",
+      "end": ""
+    },
+    "negMarks": 0.25,
+    "posMarks": 1,
+    "skipMarks": 0,
+    "partialM": {
+      "type": "",
+      "marks": 0
+    },
+    "isPartialMarking": false,
+    "sol": {
+      "en": {
+        "value": "<p><span style=\"font-size: 14pt; font-family: Lato;\">Answer - A</span></p>\n<p style=\"margin-top: 20px; margin-bottom: 20px; color: #666666; font-family: Roboto; font-size: 16px;\"><span style=\"font-size: 14pt; font-family: Lato;\"><strong>Explanation:</strong></span></p>\n<p style=\"margin-top: 20px; margin-bottom: 20px; color: #666666; font-family: Roboto; font-size: 16px;\"><span style=\"font-size: 14pt; font-family: Lato;\">A=(x/100)*y=xy/100</span></p>\n<p style=\"margin-top: 20px; margin-bottom: 20px; color: #666666; font-family: Roboto; font-size: 16px;\"><span style=\"font-size: 14pt; font-family: Lato;\">B=(y/100)*x=xy/100</span></p>\n<p>&nbsp;</p>\n<p style=\"margin-top: 20px; margin-bottom: 20px; color: #666666; font-family: Roboto; font-size: 16px;\"><span style=\"font-size: 14pt; font-family: Lato;\">Therefore A=B</span></p>",
+        "type": "cp",
+        "videoSol": ""
+      },
+      "hn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "te": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mr": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ml": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "gu": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ta": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "or": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "as": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ks": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kok": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mni": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ne": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "pa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sd": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ur": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sat": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mai": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "brx": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "doi": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "grt": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kha": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "lus": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bo": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "trp": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      }
+    },
+    "tags": null,
+    "globalConcept": null,
+    "stats": {
+      "totalStudents": 189,
+      "bestTime": 0,
+      "averageTime": 16.634920634920643,
+      "attempts": {
+        "correct": 71,
+        "incorrect": 49,
+        "partial": 0,
+        "skipped": 69,
+        "skipOptionSelected": 0
+      },
+      "sectionNo": 0,
+      "subSectionNo": 0
+    },
+    "votes": 0,
+    "SSNo": 1,
+    "SSSNo": 0,
+    "marksObtained": 0,
+    "studentResStatus": "",
+    "studentResponse": {
+      "time": 0,
+      "visits": null
+    }
+  },
+  "6151cf1d3760c4a18252effe": {
+    "correctOption": "4",
+    "multiCorrectOptions": null,
+    "range": {
+      "start": "",
+      "end": ""
+    },
+    "negMarks": 0.25,
+    "posMarks": 1,
+    "skipMarks": 0,
+    "partialM": {
+      "type": "",
+      "marks": 0
+    },
+    "isPartialMarking": false,
+    "sol": {
+      "en": {
+        "value": "<p><span style=\"font-size: 14pt; font-family: Lato;\">Answer - D</span></p>\n<p style=\"margin-top: 20px; margin-bottom: 20px; color: #666666; font-family: Roboto; font-size: 16px;\"><span style=\"font-size: 14pt; font-family: Lato;\"><strong>Explanation:</strong></span></p>\n<p style=\"margin-top: 20px; margin-bottom: 20px; color: #666666; font-family: Roboto; font-size: 16px;\"><span style=\"font-size: 14pt; font-family: Lato;\">cost price of 1 mango =1/6</span></p>\n<p style=\"margin-top: 20px; margin-bottom: 20px; color: #666666; font-family: Roboto; font-size: 16px;\"><span style=\"font-size: 14pt; font-family: Lato;\">gain =20%=1/5</span></p>\n<p style=\"margin-top: 20px; margin-bottom: 20px; color: #666666; font-family: Roboto; font-size: 16px;\"><span style=\"font-size: 14pt; font-family: Lato;\">the selling price of 1mango =1/6+1/6*1/5=1/6+1/30=1/5</span></p>\n<p>&nbsp;</p>\n<p style=\"margin-top: 20px; margin-bottom: 20px; color: #666666; font-family: Roboto; font-size: 16px;\"><span style=\"font-size: 14pt; font-family: Lato;\">Therefore, number of mangoes he should sell for Rs.1 for a gain of 20%=5</span></p>",
+        "type": "cp",
+        "videoSol": ""
+      },
+      "hn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "te": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mr": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ml": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "gu": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ta": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "or": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "as": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ks": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kok": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mni": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ne": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "pa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sd": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ur": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sat": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mai": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "brx": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "doi": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "grt": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kha": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "lus": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bo": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "trp": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      }
+    },
+    "tags": null,
+    "globalConcept": null,
+    "stats": {
+      "totalStudents": 189,
+      "bestTime": 0,
+      "averageTime": 32.38095238095237,
+      "attempts": {
+        "correct": 49,
+        "incorrect": 51,
+        "partial": 0,
+        "skipped": 89,
+        "skipOptionSelected": 0
+      },
+      "sectionNo": 0,
+      "subSectionNo": 0
+    },
+    "votes": 0,
+    "SSNo": 1,
+    "SSSNo": 0,
+    "marksObtained": 0,
+    "studentResStatus": "",
+    "studentResponse": {
+      "time": 0,
+      "visits": null
+    }
+  },
+  "6151cf1e25f4d70845faecb4": {
+    "correctOption": "1",
+    "multiCorrectOptions": null,
+    "range": {
+      "start": "",
+      "end": ""
+    },
+    "negMarks": 0.25,
+    "posMarks": 1,
+    "skipMarks": 0,
+    "partialM": {
+      "type": "",
+      "marks": 0
+    },
+    "isPartialMarking": false,
+    "sol": {
+      "en": {
+        "value": "<p><span style=\"font-size: 14pt; font-family: Lato;\">Answer - A</span></p>\n<p style=\"margin-top: 20px; margin-bottom: 20px; color: #666666; font-family: Roboto; font-size: 16px;\"><span style=\"font-size: 14pt; font-family: Lato;\"><strong>Explanation:</strong></span></p>\n<p style=\"margin-top: 20px; margin-bottom: 20px; color: #666666; font-family: Roboto; font-size: 16px;\"><span style=\"font-size: 14pt; font-family: Lato;\">The word 'ADVERTISING' has 10 different letters.</span></p>\n<p style=\"margin-top: 20px; margin-bottom: 20px; color: #666666; font-family: Roboto; font-size: 16px;\"><span style=\"font-size: 14pt; font-family: Lato;\">Hence, the number of 3-letter words(with or without meaning) formed by using these letters</span></p>\n<p>&nbsp;</p>\n<p style=\"margin-top: 20px; margin-bottom: 20px; color: #666666; font-family: Roboto; font-size: 16px;\"><span style=\"font-size: 14pt; font-family: Lato;\">= 10P3</span></p>",
+        "type": "cp",
+        "videoSol": ""
+      },
+      "hn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "te": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mr": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ml": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "gu": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ta": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "or": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "as": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ks": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kok": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mni": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ne": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "pa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sd": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ur": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sat": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mai": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "brx": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "doi": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "grt": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kha": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "lus": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bo": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "trp": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      }
+    },
+    "tags": null,
+    "globalConcept": null,
+    "stats": {
+      "totalStudents": 189,
+      "bestTime": 0,
+      "averageTime": 29.41798941798942,
+      "attempts": {
+        "correct": 36,
+        "incorrect": 59,
+        "partial": 0,
+        "skipped": 94,
+        "skipOptionSelected": 0
+      },
+      "sectionNo": 0,
+      "subSectionNo": 0
+    },
+    "votes": 0,
+    "SSNo": 1,
+    "SSSNo": 0,
+    "marksObtained": 0,
+    "studentResStatus": "",
+    "studentResponse": {
+      "time": 0,
+      "visits": null
+    }
+  },
+  "6151cf213760c45ad152f00d": {
+    "correctOption": "1",
+    "multiCorrectOptions": null,
+    "range": {
+      "start": "",
+      "end": ""
+    },
+    "negMarks": 0.25,
+    "posMarks": 1,
+    "skipMarks": 0,
+    "partialM": {
+      "type": "",
+      "marks": 0
+    },
+    "isPartialMarking": false,
+    "sol": {
+      "en": {
+        "value": "<p><span style=\"font-size: 14pt; font-family: Lato;\">Answer - A</span></p>\n<p><span style=\"font-size: 14pt; font-family: Lato;\"><span style=\"text-align: justify;\">Originally, let the number of seats for Mathematics, Physics and Biology be 5x, 7x and 8x respectively. Number of increased seats are (140% of 5x), (150% of 7x) and (175% of 8x).[140/(100 * 5x)] , [150/(100 * 7x) and [175/(100 * 8x)7x, 21x/2 and 14x The required ratio = 7x : 21x/2 : 14x14x :21x :28x2 :3 :4</span></span></p>",
+        "type": "cp",
+        "videoSol": ""
+      },
+      "hn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "te": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mr": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ml": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "gu": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ta": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "or": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "as": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ks": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kok": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mni": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ne": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "pa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sd": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ur": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sat": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mai": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "brx": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "doi": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "grt": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kha": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "lus": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bo": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "trp": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      }
+    },
+    "tags": null,
+    "globalConcept": null,
+    "stats": {
+      "totalStudents": 189,
+      "bestTime": 0,
+      "averageTime": 56.76190476190476,
+      "attempts": {
+        "correct": 41,
+        "incorrect": 52,
+        "partial": 0,
+        "skipped": 96,
+        "skipOptionSelected": 0
+      },
+      "sectionNo": 0,
+      "subSectionNo": 0
+    },
+    "votes": 0,
+    "SSNo": 1,
+    "SSSNo": 0,
+    "marksObtained": 0,
+    "studentResStatus": "",
+    "studentResponse": {
+      "time": 0,
+      "visits": null
+    }
+  },
+  "659e04889b7cbe51de2682b7": {
+    "correctOption": "1",
+    "multiCorrectOptions": null,
+    "range": {
+      "start": "",
+      "end": ""
+    },
+    "negMarks": 0,
+    "posMarks": 1,
+    "skipMarks": 0,
+    "partialM": {
+      "type": "",
+      "marks": 0
+    },
+    "isPartialMarking": false,
+    "sol": {
+      "en": {
+        "value": "<p class=\"MsoNormal\"><span lang=\"EN-IN\" style=\"font-size: 14pt;\">Solution:<o:p></o:p></span></p>\n<p></p>\n<p class=\"MsoNormal\"><span lang=\"EN-IN\"><span style=\"font-size: 14pt;\">&lsquo;requests&rsquo; will be used in place of &lsquo;request&rsquo; because &lsquo;several, many, various, few, a few, very few&rsquo; tells the number hence nouns after them is used as plural.</span><o:p></o:p></span></p>",
+        "type": "cp",
+        "videoSol": ""
+      },
+      "hn": {
+        "value": "",
+        "type": "cp",
+        "videoSol": ""
+      },
+      "te": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mr": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ml": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "gu": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ta": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "or": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "as": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ks": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kok": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mni": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ne": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "pa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sd": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ur": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sat": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mai": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "brx": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "doi": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "grt": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kha": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "lus": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bo": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "trp": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      }
+    },
+    "tags": null,
+    "globalConcept": null,
+    "stats": {
+      "totalStudents": 189,
+      "bestTime": 0,
+      "averageTime": 27.185185185185187,
+      "attempts": {
+        "correct": 57,
+        "incorrect": 63,
+        "partial": 0,
+        "skipped": 69,
+        "skipOptionSelected": 0
+      },
+      "sectionNo": 0,
+      "subSectionNo": 0
+    },
+    "votes": 0,
+    "SSNo": 3,
+    "SSSNo": 0,
+    "marksObtained": 0,
+    "studentResStatus": "",
+    "studentResponse": {
+      "time": 0,
+      "visits": null
+    }
+  },
+  "659e07c3364c1487a97cb3db": {
+    "correctOption": "3",
+    "multiCorrectOptions": null,
+    "range": {
+      "start": "",
+      "end": ""
+    },
+    "negMarks": 0,
+    "posMarks": 1,
+    "skipMarks": 0,
+    "partialM": {
+      "type": "",
+      "marks": 0
+    },
+    "isPartialMarking": false,
+    "sol": {
+      "en": {
+        "value": "<p>Answer - C<br /><br /></p>\n<p><iframe title=\"15\" src=\"//www.youtube.com/embed/n9_Lz2yq_1I\" width=\"949\" height=\"534\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+        "type": "cp",
+        "videoSol": ""
+      },
+      "hn": {
+        "value": "",
+        "type": "cp",
+        "videoSol": ""
+      },
+      "te": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mr": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ml": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "gu": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ta": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "or": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "as": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ks": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kok": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mni": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ne": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "pa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sd": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ur": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sat": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mai": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "brx": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "doi": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "grt": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kha": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "lus": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bo": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "trp": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      }
+    },
+    "tags": null,
+    "globalConcept": null,
+    "stats": {
+      "totalStudents": 189,
+      "bestTime": 0,
+      "averageTime": 22.42328042328043,
+      "attempts": {
+        "correct": 54,
+        "incorrect": 74,
+        "partial": 0,
+        "skipped": 61,
+        "skipOptionSelected": 0
+      },
+      "sectionNo": 0,
+      "subSectionNo": 0
+    },
+    "votes": 0,
+    "SSNo": 3,
+    "SSSNo": 0,
+    "marksObtained": 0,
+    "studentResStatus": "",
+    "studentResponse": {
+      "time": 0,
+      "visits": null
+    }
+  },
+  "661e257a63ceed18fb6a466e": {
+    "correctOption": "3",
+    "multiCorrectOptions": null,
+    "range": {
+      "start": "",
+      "end": ""
+    },
+    "negMarks": 0,
+    "posMarks": 1,
+    "skipMarks": 0,
+    "partialM": {
+      "type": "",
+      "marks": 0
+    },
+    "isPartialMarking": false,
+    "sol": {
+      "en": {
+        "value": "<p class=\"Default\"><span style=\"font-size: 14.0pt;\">Answer: C</span></p>\n<p class=\"Default\"></p>\n<p class=\"Default\"><span style=\"font-size: 14.0pt;\"> <iframe title=\"YouTube video player\" src=\"//www.youtube.com/embed/frb1-QvMIBY\" width=\"560\" height=\"315\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe><o:p></o:p></span></p>",
+        "type": "cp",
+        "videoSol": ""
+      },
+      "hn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "te": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mr": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ml": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "gu": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ta": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "or": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "as": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ks": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kok": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mni": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ne": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "pa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sd": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ur": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sat": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mai": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "brx": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "doi": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "grt": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kha": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "lus": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bo": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "trp": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      }
+    },
+    "tags": null,
+    "globalConcept": null,
+    "stats": {
+      "totalStudents": 189,
+      "bestTime": 0,
+      "averageTime": 111.10052910052923,
+      "attempts": {
+        "correct": 101,
+        "incorrect": 28,
+        "partial": 0,
+        "skipped": 60,
+        "skipOptionSelected": 0
+      },
+      "sectionNo": 0,
+      "subSectionNo": 0
+    },
+    "votes": 0,
+    "SSNo": 3,
+    "SSSNo": 0,
+    "marksObtained": 0,
+    "studentResStatus": "",
+    "studentResponse": {
+      "time": 0,
+      "visits": null
+    }
+  },
+  "661e257a63ceed41426a466b": {
+    "correctOption": "4",
+    "multiCorrectOptions": null,
+    "range": {
+      "start": "",
+      "end": ""
+    },
+    "negMarks": 0,
+    "posMarks": 1,
+    "skipMarks": 0,
+    "partialM": {
+      "type": "",
+      "marks": 0
+    },
+    "isPartialMarking": false,
+    "sol": {
+      "en": {
+        "value": "<p class=\"Default\"><span style=\"font-size: 14.0pt;\">Answer: D</span></p>\n<p class=\"Default\"></p>\n<p class=\"Default\"><span style=\"font-size: 14.0pt;\"><iframe title=\"YouTube video player\" src=\"//www.youtube.com/embed/O6y0VffvTlY\" width=\"560\" height=\"315\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe>&nbsp;<o:p></o:p></span></p>",
+        "type": "cp",
+        "videoSol": ""
+      },
+      "hn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "te": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mr": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ml": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "gu": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ta": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "or": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "as": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ks": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kok": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mni": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ne": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "pa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sd": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ur": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sat": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mai": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "brx": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "doi": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "grt": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kha": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "lus": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bo": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "trp": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      }
+    },
+    "tags": null,
+    "globalConcept": null,
+    "stats": {
+      "totalStudents": 189,
+      "bestTime": 0,
+      "averageTime": 21.968253968253983,
+      "attempts": {
+        "correct": 42,
+        "incorrect": 81,
+        "partial": 0,
+        "skipped": 66,
+        "skipOptionSelected": 0
+      },
+      "sectionNo": 0,
+      "subSectionNo": 0
+    },
+    "votes": 0,
+    "SSNo": 3,
+    "SSSNo": 0,
+    "marksObtained": 0,
+    "studentResStatus": "",
+    "studentResponse": {
+      "time": 0,
+      "visits": null
+    }
+  },
+  "661e257a63ceed55746a4670": {
+    "correctOption": "2",
+    "multiCorrectOptions": null,
+    "range": {
+      "start": "",
+      "end": ""
+    },
+    "negMarks": 0,
+    "posMarks": 1,
+    "skipMarks": 0,
+    "partialM": {
+      "type": "",
+      "marks": 0
+    },
+    "isPartialMarking": false,
+    "sol": {
+      "en": {
+        "value": "<p><span style=\"font-size: 18.6667px;\">Answer: B&nbsp;</span></p>\n<p></p>\n<p><iframe title=\"YouTube video player\" src=\"//www.youtube.com/embed/9WF_P94ni0M\" width=\"560\" height=\"315\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+        "type": "cp",
+        "videoSol": ""
+      },
+      "hn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "te": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mr": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ml": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "gu": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ta": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "or": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "as": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ks": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kok": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mni": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ne": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "pa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sd": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ur": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sat": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mai": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "brx": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "doi": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "grt": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kha": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "lus": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bo": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "trp": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      }
+    },
+    "tags": null,
+    "globalConcept": null,
+    "stats": {
+      "totalStudents": 189,
+      "bestTime": 0,
+      "averageTime": 20.82010582010582,
+      "attempts": {
+        "correct": 60,
+        "incorrect": 65,
+        "partial": 0,
+        "skipped": 64,
+        "skipOptionSelected": 0
+      },
+      "sectionNo": 0,
+      "subSectionNo": 0
+    },
+    "votes": 0,
+    "SSNo": 3,
+    "SSSNo": 0,
+    "marksObtained": 0,
+    "studentResStatus": "",
+    "studentResponse": {
+      "time": 0,
+      "visits": null
+    }
+  },
+  "661e257a63ceed587f6a4668": {
+    "correctOption": "4",
+    "multiCorrectOptions": null,
+    "range": {
+      "start": "",
+      "end": ""
+    },
+    "negMarks": 0,
+    "posMarks": 1,
+    "skipMarks": 0,
+    "partialM": {
+      "type": "",
+      "marks": 0
+    },
+    "isPartialMarking": false,
+    "sol": {
+      "en": {
+        "value": "<p><span style=\"font-size: 18.6667px;\">Answer: D</span></p>\n<p></p>\n<p><span style=\"font-size: 18.6667px;\"><iframe title=\"YouTube video player\" src=\"//www.youtube.com/embed/D-axUo72iqs\" width=\"560\" height=\"315\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></span></p>",
+        "type": "cp",
+        "videoSol": ""
+      },
+      "hn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "te": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mr": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ml": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "gu": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ta": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "or": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "as": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ks": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kok": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mni": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ne": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "pa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sd": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ur": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sat": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mai": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "brx": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "doi": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "grt": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kha": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "lus": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bo": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "trp": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      }
+    },
+    "tags": null,
+    "globalConcept": null,
+    "stats": {
+      "totalStudents": 189,
+      "bestTime": 0,
+      "averageTime": 28.883597883597897,
+      "attempts": {
+        "correct": 49,
+        "incorrect": 79,
+        "partial": 0,
+        "skipped": 61,
+        "skipOptionSelected": 0
+      },
+      "sectionNo": 0,
+      "subSectionNo": 0
+    },
+    "votes": 0,
+    "SSNo": 3,
+    "SSSNo": 0,
+    "marksObtained": 0,
+    "studentResStatus": "",
+    "studentResponse": {
+      "time": 0,
+      "visits": null
+    }
+  },
+  "661e257a63ceed5ae96a466f": {
+    "correctOption": "1",
+    "multiCorrectOptions": null,
+    "range": {
+      "start": "",
+      "end": ""
+    },
+    "negMarks": 0,
+    "posMarks": 1,
+    "skipMarks": 0,
+    "partialM": {
+      "type": "",
+      "marks": 0
+    },
+    "isPartialMarking": false,
+    "sol": {
+      "en": {
+        "value": "<p class=\"Default\"><span style=\"font-size: 14.0pt;\">Answer: A</span></p>\n<p class=\"Default\"></p>\n<p class=\"Default\"><span style=\"font-size: 14.0pt;\"><iframe title=\"YouTube video player\" src=\"//www.youtube.com/embed/WJIFSgLantM\" width=\"560\" height=\"315\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe>&nbsp;<o:p></o:p></span></p>",
+        "type": "cp",
+        "videoSol": ""
+      },
+      "hn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "te": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mr": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ml": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "gu": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ta": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "or": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "as": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ks": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kok": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mni": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ne": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "pa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sd": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ur": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sat": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mai": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "brx": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "doi": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "grt": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kha": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "lus": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bo": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "trp": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      }
+    },
+    "tags": null,
+    "globalConcept": null,
+    "stats": {
+      "totalStudents": 189,
+      "bestTime": 0,
+      "averageTime": 24.444444444444443,
+      "attempts": {
+        "correct": 28,
+        "incorrect": 97,
+        "partial": 0,
+        "skipped": 64,
+        "skipOptionSelected": 0
+      },
+      "sectionNo": 0,
+      "subSectionNo": 0
+    },
+    "votes": 0,
+    "SSNo": 3,
+    "SSSNo": 0,
+    "marksObtained": 0,
+    "studentResStatus": "",
+    "studentResponse": {
+      "time": 0,
+      "visits": null
+    }
+  },
+  "661e257a63ceed650f6a4678": {
+    "correctOption": "3",
+    "multiCorrectOptions": null,
+    "range": {
+      "start": "",
+      "end": ""
+    },
+    "negMarks": 0,
+    "posMarks": 1,
+    "skipMarks": 0,
+    "partialM": {
+      "type": "",
+      "marks": 0
+    },
+    "isPartialMarking": false,
+    "sol": {
+      "en": {
+        "value": "<p><span style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">Answer C</span></p>\n<p></p>\n<p class=\"Default\"><span style=\"font-size: 14.0pt; color: black; mso-themecolor: text1;\">Sol. In the given sentence, &ldquo;origin &amp; portion&rdquo; are incorrectly placed as the given statement is discussing that India has an advantage as a large portion of semiconductor design engineers globally are either Indian or Indian-origin. Thus, the correct arrangement will be ADCB.<o:p></o:p></span></p>\n<p class=\"Default\"><span style=\"font-size: 14.0pt; color: black; mso-themecolor: text1;\">No other rearrangement results in a meaningful sentence.<o:p></o:p></span></p>\n<p></p>\n<p class=\"Default\"><span style=\"font-size: 14.0pt; color: black; mso-themecolor: text1;\">Hence, the correct sentence formed will be, &ldquo;India has an advantage here, as a large portion of semiconductor design engineers globally are either Indian or Indian-origin.&rdquo;<o:p></o:p></span></p>",
+        "type": "cp",
+        "videoSol": ""
+      },
+      "hn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "te": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mr": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ml": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "gu": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ta": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "or": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "as": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ks": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kok": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mni": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ne": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "pa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sd": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ur": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sat": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mai": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "brx": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "doi": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "grt": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kha": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "lus": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bo": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "trp": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      }
+    },
+    "tags": null,
+    "globalConcept": null,
+    "stats": {
+      "totalStudents": 189,
+      "bestTime": 0,
+      "averageTime": 58.53968253968256,
+      "attempts": {
+        "correct": 26,
+        "incorrect": 95,
+        "partial": 0,
+        "skipped": 68,
+        "skipOptionSelected": 0
+      },
+      "sectionNo": 0,
+      "subSectionNo": 0
+    },
+    "votes": 0,
+    "SSNo": 3,
+    "SSSNo": 0,
+    "marksObtained": 0,
+    "studentResStatus": "",
+    "studentResponse": {
+      "time": 0,
+      "visits": null
+    }
+  },
+  "661e257a63ceed74916a4677": {
+    "correctOption": "3",
+    "multiCorrectOptions": null,
+    "range": {
+      "start": "",
+      "end": ""
+    },
+    "negMarks": 0,
+    "posMarks": 1,
+    "skipMarks": 0,
+    "partialM": {
+      "type": "",
+      "marks": 0
+    },
+    "isPartialMarking": false,
+    "sol": {
+      "en": {
+        "value": "<p><span style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">Answer C</span></p>\n<p></p>\n<p class=\"Default\"><span style=\"font-size: 14.0pt; color: black; mso-themecolor: text1;\">Sol. In the given sentence, &ldquo;native &amp; affected&rdquo; are incorrectly placed as the given statement is talking about pollution that has badly affected the fish harvest and has destroyed the breeding grounds of the native fish. Thus, the correct arrangement will be DBCA.<o:p></o:p></span></p>\n<p class=\"Default\"><span style=\"font-size: 14.0pt; color: black; mso-themecolor: text1;\">No other rearrangement results in a meaningful sentence.<o:p></o:p></span></p>\n<p class=\"Default\"></p>\n<p class=\"Default\"><span style=\"font-size: 14.0pt; color: black; mso-themecolor: text1;\">Hence, the correct sentence formed will be, &ldquo;Pollution has badly affected the fish harvest and has destroyed the breeding grounds of the native fish.&rdquo;<o:p></o:p></span></p>",
+        "type": "cp",
+        "videoSol": ""
+      },
+      "hn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "te": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mr": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ml": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "gu": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ta": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "or": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "as": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ks": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kok": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mni": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ne": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "pa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sd": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ur": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sat": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mai": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "brx": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "doi": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "grt": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kha": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "lus": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bo": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "trp": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      }
+    },
+    "tags": null,
+    "globalConcept": null,
+    "stats": {
+      "totalStudents": 189,
+      "bestTime": 0,
+      "averageTime": 55.253968253968274,
+      "attempts": {
+        "correct": 24,
+        "incorrect": 90,
+        "partial": 0,
+        "skipped": 75,
+        "skipOptionSelected": 0
+      },
+      "sectionNo": 0,
+      "subSectionNo": 0
+    },
+    "votes": 0,
+    "SSNo": 3,
+    "SSSNo": 0,
+    "marksObtained": 0,
+    "studentResStatus": "",
+    "studentResponse": {
+      "time": 0,
+      "visits": null
+    }
+  },
+  "661e257a63ceeda4926a4667": {
+    "correctOption": "3",
+    "multiCorrectOptions": null,
+    "range": {
+      "start": "",
+      "end": ""
+    },
+    "negMarks": 0,
+    "posMarks": 1,
+    "skipMarks": 0,
+    "partialM": {
+      "type": "",
+      "marks": 0
+    },
+    "isPartialMarking": false,
+    "sol": {
+      "en": {
+        "value": "<p class=\"Default\"><span style=\"font-size: 14.0pt;\">Answer: C</span></p>\n<p class=\"Default\"></p>\n<p class=\"Default\"><iframe title=\"YouTube video player\" src=\"//www.youtube.com/embed/e7nIEaoOCMI\" width=\"560\" height=\"315\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+        "type": "cp",
+        "videoSol": ""
+      },
+      "hn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "te": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mr": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ml": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "gu": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ta": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "or": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "as": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ks": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kok": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mni": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ne": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "pa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sd": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ur": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sat": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mai": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "brx": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "doi": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "grt": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kha": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "lus": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bo": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "trp": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      }
+    },
+    "tags": null,
+    "globalConcept": null,
+    "stats": {
+      "totalStudents": 189,
+      "bestTime": 0,
+      "averageTime": 21.931216931216923,
+      "attempts": {
+        "correct": 51,
+        "incorrect": 77,
+        "partial": 0,
+        "skipped": 61,
+        "skipOptionSelected": 0
+      },
+      "sectionNo": 0,
+      "subSectionNo": 0
+    },
+    "votes": 0,
+    "SSNo": 3,
+    "SSSNo": 0,
+    "marksObtained": 0,
+    "studentResStatus": "",
+    "studentResponse": {
+      "time": 0,
+      "visits": null
+    }
+  },
+  "662210fa7026ff02615c28c3": {
+    "correctOption": "2",
+    "multiCorrectOptions": null,
+    "range": {
+      "start": "",
+      "end": ""
+    },
+    "negMarks": 0,
+    "posMarks": 1,
+    "skipMarks": 0,
+    "partialM": {
+      "type": "",
+      "marks": 0
+    },
+    "isPartialMarking": false,
+    "sol": {
+      "en": {
+        "value": "<p>Ans - B</p>\n<p></p>\n<p><iframe title=\"TCS NQT PREPARATION MOCK Q8\" src=\"//www.youtube.com/embed/1LjiPiJ92Xo\" width=\"659\" height=\"371\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+        "type": "cp",
+        "videoSol": ""
+      },
+      "hn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "te": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mr": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ml": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "gu": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ta": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "or": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "as": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ks": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kok": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mni": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ne": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "pa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sd": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ur": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sat": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mai": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "brx": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "doi": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "grt": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kha": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "lus": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bo": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "trp": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      }
+    },
+    "tags": null,
+    "globalConcept": null,
+    "stats": {
+      "totalStudents": 189,
+      "bestTime": 0,
+      "averageTime": 79.79894179894178,
+      "attempts": {
+        "correct": 98,
+        "incorrect": 43,
+        "partial": 0,
+        "skipped": 48,
+        "skipOptionSelected": 0
+      },
+      "sectionNo": 0,
+      "subSectionNo": 0
+    },
+    "votes": 0,
+    "SSNo": 1,
+    "SSSNo": 0,
+    "marksObtained": 0,
+    "studentResStatus": "",
+    "studentResponse": {
+      "time": 0,
+      "visits": null
+    }
+  },
+  "662210fa7026ff30335c28b9": {
+    "correctOption": "1",
+    "multiCorrectOptions": null,
+    "range": {
+      "start": "",
+      "end": ""
+    },
+    "negMarks": 0,
+    "posMarks": 1,
+    "skipMarks": 0,
+    "partialM": {
+      "type": "",
+      "marks": 0
+    },
+    "isPartialMarking": false,
+    "sol": {
+      "en": {
+        "value": "<p>Ans - A</p>\n<p></p>\n<p><iframe title=\"TCS NQT PREPARATION MOCK Q12\" src=\"//www.youtube.com/embed/fCG8tbOsgBk\" width=\"659\" height=\"371\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+        "type": "cp",
+        "videoSol": ""
+      },
+      "hn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "te": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mr": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ml": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "gu": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ta": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "or": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "as": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ks": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kok": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mni": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ne": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "pa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sd": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ur": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sat": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mai": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "brx": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "doi": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "grt": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kha": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "lus": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bo": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "trp": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      }
+    },
+    "tags": null,
+    "globalConcept": null,
+    "stats": {
+      "totalStudents": 189,
+      "bestTime": 0,
+      "averageTime": 61.756613756613746,
+      "attempts": {
+        "correct": 28,
+        "incorrect": 71,
+        "partial": 0,
+        "skipped": 90,
+        "skipOptionSelected": 0
+      },
+      "sectionNo": 0,
+      "subSectionNo": 0
+    },
+    "votes": 0,
+    "SSNo": 1,
+    "SSSNo": 0,
+    "marksObtained": 0,
+    "studentResStatus": "",
+    "studentResponse": {
+      "time": 0,
+      "visits": null
+    }
+  },
+  "662358e5f226090a267d5b2b": {
+    "correctOption": "",
+    "multiCorrectOptions": null,
+    "range": {
+      "start": "6",
+      "end": "6"
+    },
+    "negMarks": 0,
+    "posMarks": 2,
+    "skipMarks": 0,
+    "partialM": {
+      "type": "",
+      "marks": 0
+    },
+    "isPartialMarking": false,
+    "sol": {
+      "en": {
+        "value": "<p><iframe title=\"TCS NQT FREE MAHA MOCK Q5\" src=\"//www.youtube.com/embed/Ba4Sj5hiG5o\" width=\"780\" height=\"439\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+        "type": "cp",
+        "videoSol": ""
+      },
+      "hn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "te": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mr": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ml": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "gu": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ta": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "or": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "as": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ks": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kok": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mni": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ne": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "pa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sd": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ur": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sat": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mai": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "brx": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "doi": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "grt": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kha": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "lus": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bo": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "trp": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      }
+    },
+    "tags": null,
+    "globalConcept": null,
+    "stats": {
+      "totalStudents": 189,
+      "bestTime": 0,
+      "averageTime": 61.98412698412695,
+      "attempts": {
+        "correct": 24,
+        "incorrect": 42,
+        "partial": 0,
+        "skipped": 0,
+        "skipOptionSelected": 123
+      },
+      "sectionNo": 0,
+      "subSectionNo": 0
+    },
+    "votes": 0,
+    "SSNo": 1,
+    "SSSNo": 0,
+    "marksObtained": 0,
+    "studentResStatus": "",
+    "studentResponse": {
+      "time": 0,
+      "visits": null
+    }
+  },
+  "662358e5f22609a6d37d5b25": {
+    "correctOption": "",
+    "multiCorrectOptions": null,
+    "range": {
+      "start": "40",
+      "end": "40"
+    },
+    "negMarks": 0,
+    "posMarks": 2,
+    "skipMarks": 0,
+    "partialM": {
+      "type": "",
+      "marks": 0
+    },
+    "isPartialMarking": false,
+    "sol": {
+      "en": {
+        "value": "<p><iframe title=\"TCS NQT FREE MAHA MOCK Q2\" src=\"//www.youtube.com/embed/cdFZxrezzCo\" width=\"780\" height=\"439\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+        "type": "cp",
+        "videoSol": ""
+      },
+      "hn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "te": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mr": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ml": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "gu": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ta": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "or": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "as": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ks": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kok": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mni": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ne": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "pa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sd": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ur": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sat": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mai": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "brx": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "doi": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "grt": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kha": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "lus": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bo": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "trp": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      }
+    },
+    "tags": null,
+    "globalConcept": null,
+    "stats": {
+      "totalStudents": 189,
+      "bestTime": 0,
+      "averageTime": 54.64550264550267,
+      "attempts": {
+        "correct": 44,
+        "incorrect": 53,
+        "partial": 0,
+        "skipped": 0,
+        "skipOptionSelected": 92
+      },
+      "sectionNo": 0,
+      "subSectionNo": 0
+    },
+    "votes": 0,
+    "SSNo": 1,
+    "SSSNo": 0,
+    "marksObtained": 0,
+    "studentResStatus": "",
+    "studentResponse": {
+      "time": 0,
+      "visits": null
+    }
+  },
+  "66236036666d620524c0a570": {
+    "correctOption": "1",
+    "multiCorrectOptions": null,
+    "range": {
+      "start": "",
+      "end": ""
+    },
+    "negMarks": 0,
+    "posMarks": 1,
+    "skipMarks": 0,
+    "partialM": {
+      "type": "",
+      "marks": 0
+    },
+    "isPartialMarking": false,
+    "sol": {
+      "en": {
+        "value": "<p><iframe title=\"TCS NQT FREE MAHA MOCK Q14\" src=\"//www.youtube.com/embed/uN3uu8Awy-0\" width=\"780\" height=\"439\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+        "type": "cp",
+        "videoSol": ""
+      },
+      "hn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "te": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mr": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ml": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "gu": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ta": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "or": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "as": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ks": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kok": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mni": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ne": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "pa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sd": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ur": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sat": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mai": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "brx": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "doi": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "grt": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kha": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "lus": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bo": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "trp": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      }
+    },
+    "tags": null,
+    "globalConcept": null,
+    "stats": {
+      "totalStudents": 189,
+      "bestTime": 0,
+      "averageTime": 16.507936507936513,
+      "attempts": {
+        "correct": 18,
+        "incorrect": 61,
+        "partial": 0,
+        "skipped": 110,
+        "skipOptionSelected": 0
+      },
+      "sectionNo": 0,
+      "subSectionNo": 0
+    },
+    "votes": 0,
+    "SSNo": 1,
+    "SSSNo": 0,
+    "marksObtained": 0,
+    "studentResStatus": "",
+    "studentResponse": {
+      "time": 0,
+      "visits": null
+    }
+  },
+  "66236036666d625995c0a575": {
+    "correctOption": "1",
+    "multiCorrectOptions": null,
+    "range": {
+      "start": "",
+      "end": ""
+    },
+    "negMarks": 0,
+    "posMarks": 1,
+    "skipMarks": 0,
+    "partialM": {
+      "type": "",
+      "marks": 0
+    },
+    "isPartialMarking": false,
+    "sol": {
+      "en": {
+        "value": "<p><iframe title=\"TCS NQT FREE MAHA MOCK Q15\" src=\"//www.youtube.com/embed/9SHym9bcr8U\" width=\"780\" height=\"439\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+        "type": "cp",
+        "videoSol": ""
+      },
+      "hn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "te": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mr": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ml": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "gu": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ta": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "or": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "as": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ks": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kok": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mni": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ne": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "pa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sd": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ur": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sat": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mai": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "brx": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "doi": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "grt": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kha": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "lus": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bo": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "trp": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      }
+    },
+    "tags": null,
+    "globalConcept": null,
+    "stats": {
+      "totalStudents": 189,
+      "bestTime": 0,
+      "averageTime": 29.671957671957667,
+      "attempts": {
+        "correct": 30,
+        "incorrect": 64,
+        "partial": 0,
+        "skipped": 95,
+        "skipOptionSelected": 0
+      },
+      "sectionNo": 0,
+      "subSectionNo": 0
+    },
+    "votes": 0,
+    "SSNo": 1,
+    "SSSNo": 0,
+    "marksObtained": 0,
+    "studentResStatus": "",
+    "studentResponse": {
+      "time": 0,
+      "visits": null
+    }
+  },
+  "6626125d18085e092135fb13": {
+    "correctOption": "3",
+    "multiCorrectOptions": null,
+    "range": {
+      "start": "",
+      "end": ""
+    },
+    "negMarks": 0,
+    "posMarks": 1,
+    "skipMarks": 0,
+    "partialM": {
+      "type": "",
+      "marks": 0
+    },
+    "isPartialMarking": false,
+    "sol": {
+      "en": {
+        "value": "<p>Ans - C</p>\n<p></p>\n<p><iframe title=\"TCS Ninja Q1\" src=\"//www.youtube.com/embed/zs-pzzzxxWI\" width=\"659\" height=\"371\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+        "type": "cp",
+        "videoSol": ""
+      },
+      "hn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "te": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mr": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ml": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "gu": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ta": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "or": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "as": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ks": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kok": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mni": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ne": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "pa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sd": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ur": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sat": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mai": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "brx": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "doi": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "grt": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kha": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "lus": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bo": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "trp": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      }
+    },
+    "tags": null,
+    "globalConcept": null,
+    "stats": {
+      "totalStudents": 189,
+      "bestTime": 0,
+      "averageTime": 108.35978835978838,
+      "attempts": {
+        "correct": 45,
+        "incorrect": 107,
+        "partial": 0,
+        "skipped": 37,
+        "skipOptionSelected": 0
+      },
+      "sectionNo": 0,
+      "subSectionNo": 0
+    },
+    "votes": 0,
+    "SSNo": 1,
+    "SSSNo": 0,
+    "marksObtained": 0,
+    "studentResStatus": "",
+    "studentResponse": {
+      "time": 0,
+      "visits": null
+    }
+  },
+  "6626125d18085e494635fb22": {
+    "correctOption": "4",
+    "multiCorrectOptions": null,
+    "range": {
+      "start": "",
+      "end": ""
+    },
+    "negMarks": 0,
+    "posMarks": 1,
+    "skipMarks": 0,
+    "partialM": {
+      "type": "",
+      "marks": 0
+    },
+    "isPartialMarking": false,
+    "sol": {
+      "en": {
+        "value": "<p>And - D</p>\n<p></p>\n<p><iframe title=\"TCS Ninja Q4\" src=\"//www.youtube.com/embed/Rv1dAPN0pzw\" width=\"659\" height=\"371\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+        "type": "cp",
+        "videoSol": ""
+      },
+      "hn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "te": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mr": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ml": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "gu": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ta": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "or": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "as": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ks": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kok": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mni": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ne": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "pa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sd": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ur": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sat": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mai": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "brx": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "doi": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "grt": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kha": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "lus": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bo": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "trp": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      }
+    },
+    "tags": null,
+    "globalConcept": null,
+    "stats": {
+      "totalStudents": 189,
+      "bestTime": 0,
+      "averageTime": 98.89947089947091,
+      "attempts": {
+        "correct": 43,
+        "incorrect": 70,
+        "partial": 0,
+        "skipped": 76,
+        "skipOptionSelected": 0
+      },
+      "sectionNo": 0,
+      "subSectionNo": 0
+    },
+    "votes": 0,
+    "SSNo": 1,
+    "SSSNo": 0,
+    "marksObtained": 0,
+    "studentResStatus": "",
+    "studentResponse": {
+      "time": 0,
+      "visits": null
+    }
+  },
+  "6626125d18085e7e6d35fb27": {
+    "correctOption": "1",
+    "multiCorrectOptions": null,
+    "range": {
+      "start": "",
+      "end": ""
+    },
+    "negMarks": 0,
+    "posMarks": 1,
+    "skipMarks": 0,
+    "partialM": {
+      "type": "",
+      "marks": 0
+    },
+    "isPartialMarking": false,
+    "sol": {
+      "en": {
+        "value": "<p>Ans - A</p>\n<p></p>\n<p><iframe title=\"TCS Ninja Q5, 6\" src=\"//www.youtube.com/embed/ERHgI_ebXc8\" width=\"659\" height=\"371\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+        "type": "cp",
+        "videoSol": ""
+      },
+      "hn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "te": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mr": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ml": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "gu": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ta": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "or": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "as": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ks": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kok": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mni": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ne": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "pa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sd": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ur": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sat": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mai": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "brx": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "doi": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "grt": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kha": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "lus": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bo": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "trp": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      }
+    },
+    "tags": null,
+    "globalConcept": null,
+    "stats": {
+      "totalStudents": 189,
+      "bestTime": 0,
+      "averageTime": 76.00529100529103,
+      "attempts": {
+        "correct": 53,
+        "incorrect": 62,
+        "partial": 0,
+        "skipped": 74,
+        "skipOptionSelected": 0
+      },
+      "sectionNo": 0,
+      "subSectionNo": 0
+    },
+    "votes": 0,
+    "SSNo": 1,
+    "SSSNo": 0,
+    "marksObtained": 0,
+    "studentResStatus": "",
+    "studentResponse": {
+      "time": 0,
+      "visits": null
+    }
+  },
+  "6626125d18085e904335fb18": {
+    "correctOption": "5",
+    "multiCorrectOptions": null,
+    "range": {
+      "start": "",
+      "end": ""
+    },
+    "negMarks": 0,
+    "posMarks": 1,
+    "skipMarks": 0,
+    "partialM": {
+      "type": "",
+      "marks": 0
+    },
+    "isPartialMarking": false,
+    "sol": {
+      "en": {
+        "value": "<p>Ans - E</p>\n<p></p>\n<p><iframe title=\"TCS Ninja Q2\" src=\"//www.youtube.com/embed/M-C8GYWRhJk\" width=\"659\" height=\"371\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+        "type": "cp",
+        "videoSol": ""
+      },
+      "hn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "te": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mr": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ml": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "gu": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ta": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "or": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "as": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ks": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kok": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mni": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ne": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "pa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sd": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ur": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sat": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mai": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "brx": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "doi": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "grt": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kha": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "lus": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bo": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "trp": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      }
+    },
+    "tags": null,
+    "globalConcept": null,
+    "stats": {
+      "totalStudents": 189,
+      "bestTime": 0,
+      "averageTime": 82.19047619047618,
+      "attempts": {
+        "correct": 64,
+        "incorrect": 90,
+        "partial": 0,
+        "skipped": 35,
+        "skipOptionSelected": 0
+      },
+      "sectionNo": 0,
+      "subSectionNo": 0
+    },
+    "votes": 0,
+    "SSNo": 1,
+    "SSSNo": 0,
+    "marksObtained": 0,
+    "studentResStatus": "",
+    "studentResponse": {
+      "time": 0,
+      "visits": null
+    }
+  },
+  "66b3c33917228904733d434d": {
+    "correctOption": "1",
+    "multiCorrectOptions": null,
+    "range": {
+      "start": "",
+      "end": ""
+    },
+    "negMarks": 0,
+    "posMarks": 1,
+    "skipMarks": 0,
+    "partialM": {
+      "type": "",
+      "marks": 0
+    },
+    "isPartialMarking": false,
+    "sol": {
+      "en": {
+        "value": "<p>Answer -&nbsp;</p>\n<p></p>\n<p></p>",
+        "type": "cp",
+        "videoSol": ""
+      },
+      "hn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "te": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mr": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ml": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "gu": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ta": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "or": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "as": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ks": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kok": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mni": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ne": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "pa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sd": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ur": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sat": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mai": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "brx": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "doi": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "grt": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kha": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "lus": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bo": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "trp": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      }
+    },
+    "tags": null,
+    "globalConcept": null,
+    "stats": {
+      "totalStudents": 189,
+      "bestTime": 0,
+      "averageTime": 9.354497354497349,
+      "attempts": {
+        "correct": 80,
+        "incorrect": 17,
+        "partial": 0,
+        "skipped": 92,
+        "skipOptionSelected": 0
+      },
+      "sectionNo": 0,
+      "subSectionNo": 0
+    },
+    "votes": 0,
+    "SSNo": 2,
+    "SSSNo": 0,
+    "marksObtained": 0,
+    "studentResStatus": "",
+    "studentResponse": {
+      "time": 0,
+      "visits": null
+    }
+  },
+  "66b3c33917228905213d4320": {
+    "correctOption": "2",
+    "multiCorrectOptions": null,
+    "range": {
+      "start": "",
+      "end": ""
+    },
+    "negMarks": 0,
+    "posMarks": 1,
+    "skipMarks": 0,
+    "partialM": {
+      "type": "",
+      "marks": 0
+    },
+    "isPartialMarking": false,
+    "sol": {
+      "en": {
+        "value": "<p>Answer -&nbsp;</p>\n<p></p>\n<p></p>",
+        "type": "cp",
+        "videoSol": ""
+      },
+      "hn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "te": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mr": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ml": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "gu": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ta": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "or": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "as": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ks": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kok": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mni": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ne": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "pa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sd": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ur": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sat": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mai": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "brx": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "doi": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "grt": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kha": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "lus": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bo": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "trp": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      }
+    },
+    "tags": null,
+    "globalConcept": null,
+    "stats": {
+      "totalStudents": 189,
+      "bestTime": 0,
+      "averageTime": 73.36507936507938,
+      "attempts": {
+        "correct": 72,
+        "incorrect": 44,
+        "partial": 0,
+        "skipped": 73,
+        "skipOptionSelected": 0
+      },
+      "sectionNo": 0,
+      "subSectionNo": 0
+    },
+    "votes": 0,
+    "SSNo": 2,
+    "SSSNo": 0,
+    "marksObtained": 0,
+    "studentResStatus": "",
+    "studentResponse": {
+      "time": 0,
+      "visits": null
+    }
+  },
+  "66b3c3391722891f733d4357": {
+    "correctOption": "2",
+    "multiCorrectOptions": null,
+    "range": {
+      "start": "",
+      "end": ""
+    },
+    "negMarks": 0,
+    "posMarks": 1,
+    "skipMarks": 0,
+    "partialM": {
+      "type": "",
+      "marks": 0
+    },
+    "isPartialMarking": false,
+    "sol": {
+      "en": {
+        "value": "<p>Answer -&nbsp;</p>\n<p></p>\n<p></p>",
+        "type": "cp",
+        "videoSol": ""
+      },
+      "hn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "te": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mr": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ml": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "gu": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ta": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "or": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "as": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ks": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kok": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mni": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ne": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "pa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sd": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ur": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sat": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mai": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "brx": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "doi": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "grt": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kha": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "lus": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bo": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "trp": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      }
+    },
+    "tags": null,
+    "globalConcept": null,
+    "stats": {
+      "totalStudents": 189,
+      "bestTime": 0,
+      "averageTime": 16.423280423280413,
+      "attempts": {
+        "correct": 81,
+        "incorrect": 30,
+        "partial": 0,
+        "skipped": 78,
+        "skipOptionSelected": 0
+      },
+      "sectionNo": 0,
+      "subSectionNo": 0
+    },
+    "votes": 0,
+    "SSNo": 2,
+    "SSSNo": 0,
+    "marksObtained": 0,
+    "studentResStatus": "",
+    "studentResponse": {
+      "time": 0,
+      "visits": null
+    }
+  },
+  "66b3c3391722891f933d431b": {
+    "correctOption": "3",
+    "multiCorrectOptions": null,
+    "range": {
+      "start": "",
+      "end": ""
+    },
+    "negMarks": 0,
+    "posMarks": 1,
+    "skipMarks": 0,
+    "partialM": {
+      "type": "",
+      "marks": 0
+    },
+    "isPartialMarking": false,
+    "sol": {
+      "en": {
+        "value": "<p>Answer -&nbsp;</p>\n<p></p>\n<p></p>",
+        "type": "cp",
+        "videoSol": ""
+      },
+      "hn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "te": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mr": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ml": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "gu": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ta": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "or": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "as": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ks": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kok": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mni": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ne": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "pa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sd": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ur": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sat": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mai": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "brx": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "doi": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "grt": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kha": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "lus": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bo": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "trp": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      }
+    },
+    "tags": null,
+    "globalConcept": null,
+    "stats": {
+      "totalStudents": 189,
+      "bestTime": 0,
+      "averageTime": 35.04761904761903,
+      "attempts": {
+        "correct": 78,
+        "incorrect": 34,
+        "partial": 0,
+        "skipped": 77,
+        "skipOptionSelected": 0
+      },
+      "sectionNo": 0,
+      "subSectionNo": 0
+    },
+    "votes": 0,
+    "SSNo": 2,
+    "SSSNo": 0,
+    "marksObtained": 0,
+    "studentResStatus": "",
+    "studentResponse": {
+      "time": 0,
+      "visits": null
+    }
+  },
+  "66b3c33917228926913d432a": {
+    "correctOption": "1",
+    "multiCorrectOptions": null,
+    "range": {
+      "start": "",
+      "end": ""
+    },
+    "negMarks": 0,
+    "posMarks": 1,
+    "skipMarks": 0,
+    "partialM": {
+      "type": "",
+      "marks": 0
+    },
+    "isPartialMarking": false,
+    "sol": {
+      "en": {
+        "value": "<p>Answer -&nbsp;</p>\n<p></p>\n<p></p>",
+        "type": "cp",
+        "videoSol": ""
+      },
+      "hn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "te": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mr": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ml": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "gu": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ta": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "or": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "as": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ks": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kok": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mni": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ne": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "pa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sd": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ur": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sat": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mai": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "brx": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "doi": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "grt": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kha": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "lus": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bo": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "trp": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      }
+    },
+    "tags": null,
+    "globalConcept": null,
+    "stats": {
+      "totalStudents": 189,
+      "bestTime": 0,
+      "averageTime": 63.43915343915348,
+      "attempts": {
+        "correct": 71,
+        "incorrect": 43,
+        "partial": 0,
+        "skipped": 75,
+        "skipOptionSelected": 0
+      },
+      "sectionNo": 0,
+      "subSectionNo": 0
+    },
+    "votes": 0,
+    "SSNo": 2,
+    "SSSNo": 0,
+    "marksObtained": 0,
+    "studentResStatus": "",
+    "studentResponse": {
+      "time": 0,
+      "visits": null
+    }
+  },
+  "66b3c339172289304d3d4366": {
+    "correctOption": "4",
+    "multiCorrectOptions": null,
+    "range": {
+      "start": "",
+      "end": ""
+    },
+    "negMarks": 0,
+    "posMarks": 1,
+    "skipMarks": 0,
+    "partialM": {
+      "type": "",
+      "marks": 0
+    },
+    "isPartialMarking": false,
+    "sol": {
+      "en": {
+        "value": "<p>Answer -&nbsp;</p>\n<p></p>\n<p></p>",
+        "type": "cp",
+        "videoSol": ""
+      },
+      "hn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "te": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mr": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ml": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "gu": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ta": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "or": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "as": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ks": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kok": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mni": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ne": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "pa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sd": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ur": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sat": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mai": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "brx": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "doi": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "grt": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kha": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "lus": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bo": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "trp": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      }
+    },
+    "tags": null,
+    "globalConcept": null,
+    "stats": {
+      "totalStudents": 189,
+      "bestTime": 0,
+      "averageTime": 22.35978835978836,
+      "attempts": {
+        "correct": 49,
+        "incorrect": 67,
+        "partial": 0,
+        "skipped": 73,
+        "skipOptionSelected": 0
+      },
+      "sectionNo": 0,
+      "subSectionNo": 0
+    },
+    "votes": 0,
+    "SSNo": 2,
+    "SSSNo": 0,
+    "marksObtained": 0,
+    "studentResStatus": "",
+    "studentResponse": {
+      "time": 0,
+      "visits": null
+    }
+  },
+  "66b3c339172289343c3d4352": {
+    "correctOption": "2",
+    "multiCorrectOptions": null,
+    "range": {
+      "start": "",
+      "end": ""
+    },
+    "negMarks": 0,
+    "posMarks": 1,
+    "skipMarks": 0,
+    "partialM": {
+      "type": "",
+      "marks": 0
+    },
+    "isPartialMarking": false,
+    "sol": {
+      "en": {
+        "value": "<p>Answer -&nbsp;</p>\n<p></p>\n<p></p>",
+        "type": "cp",
+        "videoSol": ""
+      },
+      "hn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "te": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mr": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ml": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "gu": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ta": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "or": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "as": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ks": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kok": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mni": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ne": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "pa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sd": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ur": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sat": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mai": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "brx": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "doi": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "grt": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kha": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "lus": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bo": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "trp": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      }
+    },
+    "tags": null,
+    "globalConcept": null,
+    "stats": {
+      "totalStudents": 189,
+      "bestTime": 0,
+      "averageTime": 29.275132275132275,
+      "attempts": {
+        "correct": 53,
+        "incorrect": 15,
+        "partial": 0,
+        "skipped": 121,
+        "skipOptionSelected": 0
+      },
+      "sectionNo": 0,
+      "subSectionNo": 0
+    },
+    "votes": 0,
+    "SSNo": 2,
+    "SSSNo": 0,
+    "marksObtained": 0,
+    "studentResStatus": "",
+    "studentResponse": {
+      "time": 0,
+      "visits": null
+    }
+  },
+  "66b3c33917228946c13d4343": {
+    "correctOption": "1",
+    "multiCorrectOptions": null,
+    "range": {
+      "start": "",
+      "end": ""
+    },
+    "negMarks": 0,
+    "posMarks": 1,
+    "skipMarks": 0,
+    "partialM": {
+      "type": "",
+      "marks": 0
+    },
+    "isPartialMarking": false,
+    "sol": {
+      "en": {
+        "value": "<p>Answer -&nbsp;</p>\n<p></p>\n<p></p>",
+        "type": "cp",
+        "videoSol": ""
+      },
+      "hn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "te": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mr": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ml": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "gu": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ta": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "or": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "as": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ks": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kok": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mni": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ne": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "pa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sd": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ur": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sat": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mai": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "brx": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "doi": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "grt": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kha": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "lus": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bo": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "trp": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      }
+    },
+    "tags": null,
+    "globalConcept": null,
+    "stats": {
+      "totalStudents": 189,
+      "bestTime": 0,
+      "averageTime": 19.349206349206355,
+      "attempts": {
+        "correct": 66,
+        "incorrect": 29,
+        "partial": 0,
+        "skipped": 94,
+        "skipOptionSelected": 0
+      },
+      "sectionNo": 0,
+      "subSectionNo": 0
+    },
+    "votes": 0,
+    "SSNo": 2,
+    "SSSNo": 0,
+    "marksObtained": 0,
+    "studentResStatus": "",
+    "studentResponse": {
+      "time": 0,
+      "visits": null
+    }
+  },
+  "66b3c33917228947d33d432f": {
+    "correctOption": "1",
+    "multiCorrectOptions": null,
+    "range": {
+      "start": "",
+      "end": ""
+    },
+    "negMarks": 0,
+    "posMarks": 1,
+    "skipMarks": 0,
+    "partialM": {
+      "type": "",
+      "marks": 0
+    },
+    "isPartialMarking": false,
+    "sol": {
+      "en": {
+        "value": "<p>Answer -&nbsp;</p>\n<p></p>\n<p></p>",
+        "type": "cp",
+        "videoSol": ""
+      },
+      "hn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "te": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mr": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ml": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "gu": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ta": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "or": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "as": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ks": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kok": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mni": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ne": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "pa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sd": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ur": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sat": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mai": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "brx": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "doi": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "grt": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kha": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "lus": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bo": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "trp": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      }
+    },
+    "tags": null,
+    "globalConcept": null,
+    "stats": {
+      "totalStudents": 189,
+      "bestTime": 0,
+      "averageTime": 39.03703703703706,
+      "attempts": {
+        "correct": 96,
+        "incorrect": 27,
+        "partial": 0,
+        "skipped": 66,
+        "skipOptionSelected": 0
+      },
+      "sectionNo": 0,
+      "subSectionNo": 0
+    },
+    "votes": 0,
+    "SSNo": 2,
+    "SSSNo": 0,
+    "marksObtained": 0,
+    "studentResStatus": "",
+    "studentResponse": {
+      "time": 0,
+      "visits": null
+    }
+  },
+  "66b3c33917228948cb3d4325": {
+    "correctOption": "3",
+    "multiCorrectOptions": null,
+    "range": {
+      "start": "",
+      "end": ""
+    },
+    "negMarks": 0,
+    "posMarks": 1,
+    "skipMarks": 0,
+    "partialM": {
+      "type": "",
+      "marks": 0
+    },
+    "isPartialMarking": false,
+    "sol": {
+      "en": {
+        "value": "<p>Answer -&nbsp;</p>\n<p></p>\n<p></p>",
+        "type": "cp",
+        "videoSol": ""
+      },
+      "hn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "te": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mr": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ml": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "gu": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ta": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "or": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "as": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ks": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kok": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mni": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ne": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "pa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sd": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ur": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sat": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mai": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "brx": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "doi": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "grt": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kha": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "lus": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bo": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "trp": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      }
+    },
+    "tags": null,
+    "globalConcept": null,
+    "stats": {
+      "totalStudents": 189,
+      "bestTime": 0,
+      "averageTime": 52.25396825396825,
+      "attempts": {
+        "correct": 52,
+        "incorrect": 63,
+        "partial": 0,
+        "skipped": 74,
+        "skipOptionSelected": 0
+      },
+      "sectionNo": 0,
+      "subSectionNo": 0
+    },
+    "votes": 0,
+    "SSNo": 2,
+    "SSSNo": 0,
+    "marksObtained": 0,
+    "studentResStatus": "",
+    "studentResponse": {
+      "time": 0,
+      "visits": null
+    }
+  },
+  "66b3c3391722895ab13d4316": {
+    "correctOption": "4",
+    "multiCorrectOptions": null,
+    "range": {
+      "start": "",
+      "end": ""
+    },
+    "negMarks": 0,
+    "posMarks": 1,
+    "skipMarks": 0,
+    "partialM": {
+      "type": "",
+      "marks": 0
+    },
+    "isPartialMarking": false,
+    "sol": {
+      "en": {
+        "value": "<p>Answer -</p>\n<p></p>\n<p></p>",
+        "type": "cp",
+        "videoSol": ""
+      },
+      "hn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "te": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mr": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ml": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "gu": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ta": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "or": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "as": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ks": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kok": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mni": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ne": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "pa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sd": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ur": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sat": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mai": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "brx": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "doi": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "grt": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kha": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "lus": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bo": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "trp": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      }
+    },
+    "tags": null,
+    "globalConcept": null,
+    "stats": {
+      "totalStudents": 189,
+      "bestTime": 0,
+      "averageTime": 79.7883597883598,
+      "attempts": {
+        "correct": 59,
+        "incorrect": 48,
+        "partial": 0,
+        "skipped": 82,
+        "skipOptionSelected": 0
+      },
+      "sectionNo": 0,
+      "subSectionNo": 0
+    },
+    "votes": 0,
+    "SSNo": 2,
+    "SSSNo": 0,
+    "marksObtained": 0,
+    "studentResStatus": "",
+    "studentResponse": {
+      "time": 0,
+      "visits": null
+    }
+  },
+  "66b3c339172289668e3d4339": {
+    "correctOption": "3",
+    "multiCorrectOptions": null,
+    "range": {
+      "start": "",
+      "end": ""
+    },
+    "negMarks": 0,
+    "posMarks": 1,
+    "skipMarks": 0,
+    "partialM": {
+      "type": "",
+      "marks": 0
+    },
+    "isPartialMarking": false,
+    "sol": {
+      "en": {
+        "value": "<p>Answer -&nbsp;</p>\n<p></p>\n<p></p>",
+        "type": "cp",
+        "videoSol": ""
+      },
+      "hn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "te": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mr": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ml": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "gu": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ta": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "or": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "as": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ks": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kok": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mni": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ne": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "pa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sd": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ur": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sat": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mai": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "brx": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "doi": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "grt": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kha": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "lus": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bo": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "trp": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      }
+    },
+    "tags": null,
+    "globalConcept": null,
+    "stats": {
+      "totalStudents": 189,
+      "bestTime": 0,
+      "averageTime": 18.687830687830697,
+      "attempts": {
+        "correct": 46,
+        "incorrect": 61,
+        "partial": 0,
+        "skipped": 82,
+        "skipOptionSelected": 0
+      },
+      "sectionNo": 0,
+      "subSectionNo": 0
+    },
+    "votes": 0,
+    "SSNo": 2,
+    "SSSNo": 0,
+    "marksObtained": 0,
+    "studentResStatus": "",
+    "studentResponse": {
+      "time": 0,
+      "visits": null
+    }
+  },
+  "66b3c339172289674e3d4348": {
+    "correctOption": "2",
+    "multiCorrectOptions": null,
+    "range": {
+      "start": "",
+      "end": ""
+    },
+    "negMarks": 0,
+    "posMarks": 1,
+    "skipMarks": 0,
+    "partialM": {
+      "type": "",
+      "marks": 0
+    },
+    "isPartialMarking": false,
+    "sol": {
+      "en": {
+        "value": "<p>Answer -&nbsp;</p>\n<p></p>\n<p></p>",
+        "type": "cp",
+        "videoSol": ""
+      },
+      "hn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "te": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mr": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ml": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "gu": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ta": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "or": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "as": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ks": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kok": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mni": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ne": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "pa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sd": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ur": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sat": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mai": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "brx": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "doi": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "grt": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kha": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "lus": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bo": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "trp": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      }
+    },
+    "tags": null,
+    "globalConcept": null,
+    "stats": {
+      "totalStudents": 189,
+      "bestTime": 0,
+      "averageTime": 30.571428571428573,
+      "attempts": {
+        "correct": 53,
+        "incorrect": 34,
+        "partial": 0,
+        "skipped": 102,
+        "skipOptionSelected": 0
+      },
+      "sectionNo": 0,
+      "subSectionNo": 0
+    },
+    "votes": 0,
+    "SSNo": 2,
+    "SSSNo": 0,
+    "marksObtained": 0,
+    "studentResStatus": "",
+    "studentResponse": {
+      "time": 0,
+      "visits": null
+    }
+  },
+  "66b3c3391722896ccf3d435c": {
+    "correctOption": "3",
+    "multiCorrectOptions": null,
+    "range": {
+      "start": "",
+      "end": ""
+    },
+    "negMarks": 0,
+    "posMarks": 1,
+    "skipMarks": 0,
+    "partialM": {
+      "type": "",
+      "marks": 0
+    },
+    "isPartialMarking": false,
+    "sol": {
+      "en": {
+        "value": "<p>Answer -&nbsp;</p>\n<p></p>\n<p></p>",
+        "type": "cp",
+        "videoSol": ""
+      },
+      "hn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "te": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mr": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ml": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "gu": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ta": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "or": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "as": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ks": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kok": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mni": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ne": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "pa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sd": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ur": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sat": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mai": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "brx": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "doi": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "grt": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kha": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "lus": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bo": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "trp": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      }
+    },
+    "tags": null,
+    "globalConcept": null,
+    "stats": {
+      "totalStudents": 189,
+      "bestTime": 0,
+      "averageTime": 27.85714285714286,
+      "attempts": {
+        "correct": 71,
+        "incorrect": 51,
+        "partial": 0,
+        "skipped": 67,
+        "skipOptionSelected": 0
+      },
+      "sectionNo": 0,
+      "subSectionNo": 0
+    },
+    "votes": 0,
+    "SSNo": 2,
+    "SSSNo": 0,
+    "marksObtained": 0,
+    "studentResStatus": "",
+    "studentResponse": {
+      "time": 0,
+      "visits": null
+    }
+  },
+  "66b3c33917228978493d4311": {
+    "correctOption": "3",
+    "multiCorrectOptions": null,
+    "range": {
+      "start": "",
+      "end": ""
+    },
+    "negMarks": 0,
+    "posMarks": 1,
+    "skipMarks": 0,
+    "partialM": {
+      "type": "",
+      "marks": 0
+    },
+    "isPartialMarking": false,
+    "sol": {
+      "en": {
+        "value": "<p>Answer -&nbsp;</p>\n<p></p>\n<p></p>",
+        "type": "cp",
+        "videoSol": ""
+      },
+      "hn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "te": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mr": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ml": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "gu": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ta": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "or": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "as": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ks": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kok": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mni": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ne": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "pa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sd": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ur": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sat": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mai": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "brx": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "doi": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "grt": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kha": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "lus": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bo": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "trp": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      }
+    },
+    "tags": null,
+    "globalConcept": null,
+    "stats": {
+      "totalStudents": 189,
+      "bestTime": 0,
+      "averageTime": 40.75661375661373,
+      "attempts": {
+        "correct": 95,
+        "incorrect": 43,
+        "partial": 0,
+        "skipped": 51,
+        "skipOptionSelected": 0
+      },
+      "sectionNo": 0,
+      "subSectionNo": 0
+    },
+    "votes": 0,
+    "SSNo": 2,
+    "SSSNo": 0,
+    "marksObtained": 0,
+    "studentResStatus": "",
+    "studentResponse": {
+      "time": 0,
+      "visits": null
+    }
+  },
+  "66b3c339172289a38f3d4334": {
+    "correctOption": "3",
+    "multiCorrectOptions": null,
+    "range": {
+      "start": "",
+      "end": ""
+    },
+    "negMarks": 0,
+    "posMarks": 1,
+    "skipMarks": 0,
+    "partialM": {
+      "type": "",
+      "marks": 0
+    },
+    "isPartialMarking": false,
+    "sol": {
+      "en": {
+        "value": "<p>Answer -&nbsp;</p>\n<p></p>\n<p></p>",
+        "type": "cp",
+        "videoSol": ""
+      },
+      "hn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "te": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mr": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ml": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "gu": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ta": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "or": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "as": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ks": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kok": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mni": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ne": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "pa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sd": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ur": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sat": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mai": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "brx": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "doi": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "grt": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kha": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "lus": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bo": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "trp": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      }
+    },
+    "tags": null,
+    "globalConcept": null,
+    "stats": {
+      "totalStudents": 189,
+      "bestTime": 0,
+      "averageTime": 32.544973544973544,
+      "attempts": {
+        "correct": 55,
+        "incorrect": 27,
+        "partial": 0,
+        "skipped": 107,
+        "skipOptionSelected": 0
+      },
+      "sectionNo": 0,
+      "subSectionNo": 0
+    },
+    "votes": 0,
+    "SSNo": 2,
+    "SSSNo": 0,
+    "marksObtained": 0,
+    "studentResStatus": "",
+    "studentResponse": {
+      "time": 0,
+      "visits": null
+    }
+  },
+  "66b3c339172289a8593d4361": {
+    "correctOption": "1",
+    "multiCorrectOptions": null,
+    "range": {
+      "start": "",
+      "end": ""
+    },
+    "negMarks": 0,
+    "posMarks": 1,
+    "skipMarks": 0,
+    "partialM": {
+      "type": "",
+      "marks": 0
+    },
+    "isPartialMarking": false,
+    "sol": {
+      "en": {
+        "value": "<p>Answer -&nbsp;</p>\n<p></p>\n<p></p>",
+        "type": "cp",
+        "videoSol": ""
+      },
+      "hn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "te": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mr": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ml": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "gu": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ta": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "or": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "as": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ks": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kok": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mni": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ne": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "pa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sd": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ur": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sat": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mai": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "brx": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "doi": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "grt": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kha": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "lus": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bo": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "trp": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      }
+    },
+    "tags": null,
+    "globalConcept": null,
+    "stats": {
+      "totalStudents": 189,
+      "bestTime": 0,
+      "averageTime": 30.03703703703703,
+      "attempts": {
+        "correct": 22,
+        "incorrect": 58,
+        "partial": 0,
+        "skipped": 109,
+        "skipOptionSelected": 0
+      },
+      "sectionNo": 0,
+      "subSectionNo": 0
+    },
+    "votes": 0,
+    "SSNo": 2,
+    "SSSNo": 0,
+    "marksObtained": 0,
+    "studentResStatus": "",
+    "studentResponse": {
+      "time": 0,
+      "visits": null
+    }
+  },
+  "66b3c339172289e3403d433e": {
+    "correctOption": "4",
+    "multiCorrectOptions": null,
+    "range": {
+      "start": "",
+      "end": ""
+    },
+    "negMarks": 0,
+    "posMarks": 1,
+    "skipMarks": 0,
+    "partialM": {
+      "type": "",
+      "marks": 0
+    },
+    "isPartialMarking": false,
+    "sol": {
+      "en": {
+        "value": "<p>Answer -&nbsp;</p>\n<p></p>\n<p></p>",
+        "type": "cp",
+        "videoSol": ""
+      },
+      "hn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "te": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mr": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ml": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "gu": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ta": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "or": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "as": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ks": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kok": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mni": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ne": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "pa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sd": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ur": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sat": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mai": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "brx": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "doi": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "grt": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kha": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "lus": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bo": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "trp": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      }
+    },
+    "tags": null,
+    "globalConcept": null,
+    "stats": {
+      "totalStudents": 189,
+      "bestTime": 0,
+      "averageTime": 19.978835978835964,
+      "attempts": {
+        "correct": 42,
+        "incorrect": 41,
+        "partial": 0,
+        "skipped": 106,
+        "skipOptionSelected": 0
+      },
+      "sectionNo": 0,
+      "subSectionNo": 0
+    },
+    "votes": 0,
+    "SSNo": 2,
+    "SSSNo": 0,
+    "marksObtained": 0,
+    "studentResStatus": "",
+    "studentResponse": {
+      "time": 0,
+      "visits": null
+    }
+  },
+  "66b824d84affc04b9b4989d5": {
+    "correctOption": "3",
+    "multiCorrectOptions": null,
+    "range": {
+      "start": "",
+      "end": ""
+    },
+    "negMarks": 0,
+    "posMarks": 1,
+    "skipMarks": 0,
+    "partialM": {
+      "type": "",
+      "marks": 0
+    },
+    "isPartialMarking": false,
+    "sol": {
+      "en": {
+        "value": "<p class=\"MsoNormal\"><span style=\"font-size: 14pt;\">Ans.(c)</span><o:p></o:p></p>\n<p class=\"MsoNormal\"><span style=\"font-size: 14pt;\">Sol. The phrase &ldquo;larger than life&rdquo; refers to a flamboyant, gregarious person whose mannerisms or appearance is considered more outlandish than those of other people.</span><o:p></o:p></p>\n<p></p>\n<p class=\"MsoNormal\"><span style=\"font-size: 14pt;\">Example: &ldquo;His colorful waistcoats and unusual taste for hats made him a larger-than-life character in the local community.&rdquo;.</span><o:p></o:p></p>",
+        "type": "cp",
+        "videoSol": ""
+      },
+      "hn": {
+        "value": "",
+        "type": "cp",
+        "videoSol": ""
+      },
+      "te": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mr": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ml": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "gu": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ta": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "or": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "as": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ks": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kok": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mni": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ne": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "pa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sd": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ur": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sat": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mai": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "brx": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "doi": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "grt": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kha": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "lus": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bo": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "trp": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      }
+    },
+    "tags": null,
+    "globalConcept": null,
+    "stats": {
+      "totalStudents": 189,
+      "bestTime": 0,
+      "averageTime": 19.43386243386243,
+      "attempts": {
+        "correct": 73,
+        "incorrect": 50,
+        "partial": 0,
+        "skipped": 66,
+        "skipOptionSelected": 0
+      },
+      "sectionNo": 0,
+      "subSectionNo": 0
+    },
+    "votes": 0,
+    "SSNo": 3,
+    "SSSNo": 0,
+    "marksObtained": 0,
+    "studentResStatus": "",
+    "studentResponse": {
+      "time": 0,
+      "visits": null
+    }
+  },
+  "66b824e8519ac9fb9673ec5d": {
+    "correctOption": "2",
+    "multiCorrectOptions": null,
+    "range": {
+      "start": "",
+      "end": ""
+    },
+    "negMarks": 0,
+    "posMarks": 1,
+    "skipMarks": 0,
+    "partialM": {
+      "type": "",
+      "marks": 0
+    },
+    "isPartialMarking": false,
+    "sol": {
+      "en": {
+        "value": "<p>Ans - B</p>\n<p></p>\n<p></p>",
+        "type": "cp",
+        "videoSol": ""
+      },
+      "hn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "te": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mr": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ml": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "gu": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ta": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "or": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "as": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ks": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kok": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mni": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ne": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "pa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sd": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ur": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sat": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mai": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "brx": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "doi": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "grt": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kha": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "lus": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bo": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "trp": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      }
+    },
+    "tags": null,
+    "globalConcept": null,
+    "stats": {
+      "totalStudents": 189,
+      "bestTime": 0,
+      "averageTime": 20.010582010582016,
+      "attempts": {
+        "correct": 75,
+        "incorrect": 49,
+        "partial": 0,
+        "skipped": 65,
+        "skipOptionSelected": 0
+      },
+      "sectionNo": 0,
+      "subSectionNo": 0
+    },
+    "votes": 0,
+    "SSNo": 3,
+    "SSSNo": 0,
+    "marksObtained": 0,
+    "studentResStatus": "",
+    "studentResponse": {
+      "time": 0,
+      "visits": null
+    }
+  },
+  "66b824f43e2cb80a027550ce": {
+    "correctOption": "4",
+    "multiCorrectOptions": null,
+    "range": {
+      "start": "",
+      "end": ""
+    },
+    "negMarks": 0,
+    "posMarks": 1,
+    "skipMarks": 0,
+    "partialM": {
+      "type": "",
+      "marks": 0
+    },
+    "isPartialMarking": false,
+    "sol": {
+      "en": {
+        "value": "<p>Ans - D</p>\n<p></p>\n<p></p>",
+        "type": "cp",
+        "videoSol": ""
+      },
+      "hn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "te": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mr": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ml": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "gu": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ta": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "or": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "as": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ks": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kok": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mni": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ne": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "pa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sd": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ur": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sat": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mai": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "brx": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "doi": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "grt": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kha": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "lus": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bo": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "trp": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      }
+    },
+    "tags": null,
+    "globalConcept": null,
+    "stats": {
+      "totalStudents": 189,
+      "bestTime": 0,
+      "averageTime": 16.70370370370371,
+      "attempts": {
+        "correct": 24,
+        "incorrect": 96,
+        "partial": 0,
+        "skipped": 69,
+        "skipOptionSelected": 0
+      },
+      "sectionNo": 0,
+      "subSectionNo": 0
+    },
+    "votes": 0,
+    "SSNo": 3,
+    "SSSNo": 0,
+    "marksObtained": 0,
+    "studentResStatus": "",
+    "studentResponse": {
+      "time": 0,
+      "visits": null
+    }
+  },
+  "66b825034affc0e10d4989eb": {
+    "correctOption": "3",
+    "multiCorrectOptions": null,
+    "range": {
+      "start": "",
+      "end": ""
+    },
+    "negMarks": 0,
+    "posMarks": 1,
+    "skipMarks": 0,
+    "partialM": {
+      "type": "",
+      "marks": 0
+    },
+    "isPartialMarking": false,
+    "sol": {
+      "en": {
+        "value": "<p>Ans - C</p>\n<p></p>\n<p>&nbsp;'Unique' starts with consonant sound 'Yu' hence it will take article 'a'.</p>",
+        "type": "cp",
+        "videoSol": ""
+      },
+      "hn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "te": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mr": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ml": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "gu": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ta": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "or": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "as": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ks": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kok": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mni": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ne": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "pa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sd": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ur": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sat": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mai": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "brx": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "doi": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "grt": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kha": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "lus": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bo": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "trp": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      }
+    },
+    "tags": null,
+    "globalConcept": null,
+    "stats": {
+      "totalStudents": 189,
+      "bestTime": 0,
+      "averageTime": 21.285714285714278,
+      "attempts": {
+        "correct": 34,
+        "incorrect": 92,
+        "partial": 0,
+        "skipped": 63,
+        "skipOptionSelected": 0
+      },
+      "sectionNo": 0,
+      "subSectionNo": 0
+    },
+    "votes": 0,
+    "SSNo": 3,
+    "SSSNo": 0,
+    "marksObtained": 0,
+    "studentResStatus": "",
+    "studentResponse": {
+      "time": 0,
+      "visits": null
+    }
+  },
+  "66b825113e2cb860a57550f1": {
+    "correctOption": "3",
+    "multiCorrectOptions": null,
+    "range": {
+      "start": "",
+      "end": ""
+    },
+    "negMarks": 0,
+    "posMarks": 1,
+    "skipMarks": 0,
+    "partialM": {
+      "type": "",
+      "marks": 0
+    },
+    "isPartialMarking": false,
+    "sol": {
+      "en": {
+        "value": "<p>Ans - C</p>\n<p></p>\n<p></p>",
+        "type": "cp",
+        "videoSol": ""
+      },
+      "hn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "te": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mr": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ml": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "gu": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ta": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "or": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "as": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ks": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kok": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mni": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ne": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "pa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sd": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ur": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sat": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mai": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "brx": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "doi": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "grt": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kha": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "lus": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bo": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "trp": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      }
+    },
+    "tags": null,
+    "globalConcept": null,
+    "stats": {
+      "totalStudents": 189,
+      "bestTime": 0,
+      "averageTime": 42.25925925925927,
+      "attempts": {
+        "correct": 92,
+        "incorrect": 30,
+        "partial": 0,
+        "skipped": 67,
+        "skipOptionSelected": 0
+      },
+      "sectionNo": 0,
+      "subSectionNo": 0
+    },
+    "votes": 0,
+    "SSNo": 3,
+    "SSSNo": 0,
+    "marksObtained": 0,
+    "studentResStatus": "",
+    "studentResponse": {
+      "time": 0,
+      "visits": null
+    }
+  },
+  "66b8251b3e2cb8ffc77550fa": {
+    "correctOption": "4",
+    "multiCorrectOptions": null,
+    "range": {
+      "start": "",
+      "end": ""
+    },
+    "negMarks": 0,
+    "posMarks": 1,
+    "skipMarks": 0,
+    "partialM": {
+      "type": "",
+      "marks": 0
+    },
+    "isPartialMarking": false,
+    "sol": {
+      "en": {
+        "value": "<p>Ans - D</p>\n<p></p>\n<p></p>",
+        "type": "cp",
+        "videoSol": ""
+      },
+      "hn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "te": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mr": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ml": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "gu": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ta": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "or": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "as": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ks": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kok": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mni": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ne": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "pa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sd": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ur": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sat": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mai": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "brx": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "doi": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "grt": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kha": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "lus": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bo": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "trp": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      }
+    },
+    "tags": null,
+    "globalConcept": null,
+    "stats": {
+      "totalStudents": 189,
+      "bestTime": 0,
+      "averageTime": 25.1005291005291,
+      "attempts": {
+        "correct": 42,
+        "incorrect": 77,
+        "partial": 0,
+        "skipped": 70,
+        "skipOptionSelected": 0
+      },
+      "sectionNo": 0,
+      "subSectionNo": 0
+    },
+    "votes": 0,
+    "SSNo": 3,
+    "SSSNo": 0,
+    "marksObtained": 0,
+    "studentResStatus": "",
+    "studentResponse": {
+      "time": 0,
+      "visits": null
+    }
+  },
+  "66b82527519ac9c1a973ecda": {
+    "correctOption": "3",
+    "multiCorrectOptions": null,
+    "range": {
+      "start": "",
+      "end": ""
+    },
+    "negMarks": 0,
+    "posMarks": 1,
+    "skipMarks": 0,
+    "partialM": {
+      "type": "",
+      "marks": 0
+    },
+    "isPartialMarking": false,
+    "sol": {
+      "en": {
+        "value": "<p>Ans - C</p>\n<p></p>\n<p></p>",
+        "type": "cp",
+        "videoSol": ""
+      },
+      "hn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "te": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mr": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ml": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "gu": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ta": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "or": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "as": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ks": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kok": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mni": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ne": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "pa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sd": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ur": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sat": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mai": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "brx": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "doi": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "grt": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kha": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "lus": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bo": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "trp": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      }
+    },
+    "tags": null,
+    "globalConcept": null,
+    "stats": {
+      "totalStudents": 189,
+      "bestTime": 0,
+      "averageTime": 23.77777777777777,
+      "attempts": {
+        "correct": 38,
+        "incorrect": 78,
+        "partial": 0,
+        "skipped": 73,
+        "skipOptionSelected": 0
+      },
+      "sectionNo": 0,
+      "subSectionNo": 0
+    },
+    "votes": 0,
+    "SSNo": 3,
+    "SSSNo": 0,
+    "marksObtained": 0,
+    "studentResStatus": "",
+    "studentResponse": {
+      "time": 0,
+      "visits": null
+    }
+  },
+  "66b825303e2cb879cd755104": {
+    "correctOption": "4",
+    "multiCorrectOptions": null,
+    "range": {
+      "start": "",
+      "end": ""
+    },
+    "negMarks": 0,
+    "posMarks": 1,
+    "skipMarks": 0,
+    "partialM": {
+      "type": "",
+      "marks": 0
+    },
+    "isPartialMarking": false,
+    "sol": {
+      "en": {
+        "value": "<p>Ans - D</p>\n<p></p>\n<p></p>",
+        "type": "cp",
+        "videoSol": ""
+      },
+      "hn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "te": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mr": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ml": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "gu": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ta": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "or": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "as": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ks": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kok": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mni": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ne": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "pa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sd": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ur": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sat": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mai": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "brx": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "doi": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "grt": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kha": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "lus": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bo": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "trp": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      }
+    },
+    "tags": null,
+    "globalConcept": null,
+    "stats": {
+      "totalStudents": 189,
+      "bestTime": 0,
+      "averageTime": 56.46031746031749,
+      "attempts": {
+        "correct": 39,
+        "incorrect": 77,
+        "partial": 0,
+        "skipped": 73,
+        "skipOptionSelected": 0
+      },
+      "sectionNo": 0,
+      "subSectionNo": 0
+    },
+    "votes": 0,
+    "SSNo": 3,
+    "SSSNo": 0,
+    "marksObtained": 0,
+    "studentResStatus": "",
+    "studentResponse": {
+      "time": 0,
+      "visits": null
+    }
+  }
+}

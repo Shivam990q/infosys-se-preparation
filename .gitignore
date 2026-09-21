@@ -15,4 +15,8 @@ $RECYCLE.BIN/
 *.avi
 *.mov
 *.zip
-*.tar.gz
+# Build outputs and dependencies
+node_modules/
+dist/
+dist-ssr/
+*.local

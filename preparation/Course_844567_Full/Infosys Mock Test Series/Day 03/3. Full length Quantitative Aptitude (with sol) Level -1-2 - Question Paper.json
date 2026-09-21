@@ -1,0 +1,835 @@
+{
+  "_id": "662210fa7026ff38eb5c28b6",
+  "settings": {
+    "fonts": {
+      "fonts": [
+        {
+          "face": "var(--font-family)",
+          "supported": true
+        },
+        {
+          "face": "var(--font-family)",
+          "supported": true
+        }
+      ],
+      "include": "https://cms-gcp.classplusapp.com/parser/v3/css/combined?face=var(--font-family),var(--font-family)"
+    },
+    "grades": {
+      "A": {
+        "max": 100,
+        "min": 70
+      },
+      "B": {
+        "max": 69,
+        "min": 50
+      },
+      "C": {
+        "max": 49,
+        "min": 35
+      },
+      "D": {
+        "max": 34,
+        "min": 20
+      },
+      "E": {
+        "max": 19,
+        "min": 10
+      },
+      "F": {
+        "max": 9,
+        "min": 0
+      }
+    },
+    "hasOptionalQuestions": false,
+    "settingsForRTG": {},
+    "generateBatchRank": true,
+    "defaultFont": null,
+    "generateInstitutionalRank": true,
+    "generatePercentile": true,
+    "showQuestionWiseTime": true,
+    "allowResultSharing": true,
+    "showQuestionTimer": true,
+    "calculatorType": null,
+    "enableLetterGrading": true,
+    "generateRandomTest": false,
+    "isSectionSwitchingEnabled": true,
+    "isSectionalSubmit": false,
+    "shuffleQuestions": false,
+    "showAnswers": true,
+    "isSolutionMultipleViewEnabled": true,
+    "shuffleOptions": false,
+    "revealCorrectAnswers": "all",
+    "revealAnswersTime": "now",
+    "parseMathJax": false
+  },
+  "isReadyToLink": true,
+  "isLinked": true,
+  "instructions": "",
+  "isSectionEnable": false,
+  "isReloadRequired": false,
+  "totalNumberOfQuestions": 13,
+  "totalMarks": 13,
+  "isAttempted": true,
+  "isTemplateSelected": true,
+  "isCdnUpdated": false,
+  "languageList": [],
+  "lastAttemptedAt": "2026-09-17T12:50:55.271Z",
+  "name": "3. Full length Quantitative Aptitude (with sol) Level -1-2",
+  "duration": 1080000,
+  "createdBy": "609d141ffef055578d05892c",
+  "parentFolder": "661cc18e97f17b12c39a07d6",
+  "sections": [
+    {
+      "draftMode": false,
+      "isActive": true,
+      "sectionDuration": 0,
+      "sectionMarks": 13,
+      "sectionInstructions": " ",
+      "hasOptionalQuestions": false,
+      "_id": "662210fa7026ffaa935c28b5",
+      "name": "Quantitative Aptitude - with D.I",
+      "order": 1,
+      "numberOfQuestions": 13,
+      "questions": [
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p>125%</p>",
+              "nameText": "125%",
+              "order": 1,
+              "isNewOption": false,
+              "_id": "66207f5efc5a0b43f7eaebe1"
+            },
+            {
+              "name": "<p>280<span style=\"font-family: var(--font-family);\">%</span></p>",
+              "nameText": "280%",
+              "order": 2,
+              "isNewOption": false,
+              "_id": "66207f5efc5a0b56a6eaebe2"
+            },
+            {
+              "name": "<p>217<span style=\"font-family: var(--font-family);\">%</span></p>",
+              "nameText": "217%",
+              "order": 3,
+              "isNewOption": false,
+              "_id": "66207f5efc5a0b14feeaebe3"
+            },
+            {
+              "name": "<p>189<span style=\"font-family: var(--font-family);\">%</span></p>",
+              "nameText": "189%",
+              "order": 4,
+              "isNewOption": false,
+              "_id": "66207f5efc5a0b0312eaebe4"
+            },
+            {
+              "name": "<p>77<span style=\"font-family: var(--font-family);\">%</span></p>",
+              "nameText": "77%",
+              "order": 4,
+              "isNewOption": true,
+              "_id": "66207f5efc5a0b792eeaebe5"
+            }
+          ],
+          "_id": "662210fa7026ff99d55c28b8",
+          "isGlobal": false,
+          "name": "<p>Study the pie chart carefully and answer the questions. The pie chart shows the percentage breakup students in different classes from VI to X in the year 2017</p>\n<p><img src=\"images/img_3d9202d8f0ea.png\" alt=\"\" width=\"226\" height=\"198\" /></p>\n<p>1. The total number of students study in class VI and class IX together is approximately what percentage more than that of the total number of students study in class X?</p>",
+          "paragraph": null,
+          "nameText": "Study the pie chart carefully and answer the questions. The pie chart shows the percentage breakup students in different classes from VI to X in the year 2017\n\n1. The total number of students study in class VI and class IX together is approximately what percentage more than that of the total number of students study in class X?",
+          "type": "multiple_choice",
+          "createdBy": "609d141ffef055578d05892c",
+          "order": 1,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p>5:7</p>",
+              "nameText": "5:7",
+              "order": 1,
+              "isNewOption": false,
+              "_id": "66207f5efc5a0b41adeaebb1"
+            },
+            {
+              "name": "<p>7:11</p>",
+              "nameText": "7:11",
+              "order": 2,
+              "isNewOption": false,
+              "_id": "66207f5efc5a0b8ffceaebb2"
+            },
+            {
+              "name": "<p>9:13</p>",
+              "nameText": "9:13",
+              "order": 3,
+              "isNewOption": false,
+              "_id": "66207f5efc5a0b6189eaebb3"
+            },
+            {
+              "name": "<p>6:13</p>",
+              "nameText": "6:13",
+              "order": 4,
+              "isNewOption": false,
+              "_id": "66207f5efc5a0b7915eaebb4"
+            },
+            {
+              "name": "<p>Option 54:5</p>",
+              "nameText": "Option 54:5",
+              "order": 4,
+              "isNewOption": true,
+              "_id": "66207f5efc5a0b0c4beaebb5"
+            }
+          ],
+          "_id": "662210fa7026ff0cac5c28be",
+          "isGlobal": false,
+          "name": "<p>Study the pie chart carefully and answer the questions. The pie chart shows the percentage breakup students in different classes from VI to X in the year 2017</p>\n<p><img src=\"images/img_3d9202d8f0ea.png\" alt=\"\" width=\"226\" height=\"198\" /></p>\n<p>2. If in class VI, the ratio of boys to girls is 6:5 and the total number of girls in class VI is 50 less than that of the total number of girls in class VII. Find the ratio of the total number of boys in class VI to class VII.</p>",
+          "paragraph": null,
+          "nameText": "Study the pie chart carefully and answer the questions. The pie chart shows the percentage breakup students in different classes from VI to X in the year 2017\n\n2. If in class VI, the ratio of boys to girls is 6:5 and the total number of girls in class VI is 50 less than that of the total number of girls in class VII. Find the ratio of the total number of boys in class VI to class VII.",
+          "type": "multiple_choice",
+          "createdBy": "609d141ffef055578d05892c",
+          "order": 2,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p>190</p>",
+              "nameText": "190",
+              "order": 1,
+              "isNewOption": false,
+              "_id": "66207f5efc5a0b4e04eaebd8"
+            },
+            {
+              "name": "<p>210</p>",
+              "nameText": "210",
+              "order": 2,
+              "isNewOption": false,
+              "_id": "66207f5efc5a0bb164eaebd9"
+            },
+            {
+              "name": "<p>174</p>",
+              "nameText": "174",
+              "order": 3,
+              "isNewOption": false,
+              "_id": "66207f5efc5a0b66e9eaebda"
+            },
+            {
+              "name": "<p>184</p>",
+              "nameText": "184",
+              "order": 4,
+              "isNewOption": false,
+              "_id": "66207f5efc5a0b15aeeaebdb"
+            },
+            {
+              "name": "<p>196</p>",
+              "nameText": "196",
+              "order": 4,
+              "isNewOption": true,
+              "_id": "66207f5efc5a0b2543eaebdc"
+            }
+          ],
+          "_id": "662210fa7026ffceb35c28bf",
+          "isGlobal": false,
+          "name": "<p>Study the pie chart carefully and answer the questions. The pie chart shows the percentage breakup students in different classes from VI to X in the year 2017</p>\n<p><img src=\"images/img_3d9202d8f0ea.png\" alt=\"\" width=\"226\" height=\"198\" /></p>\n<p>3. If the total number of boys in class VIII is \"x\" and the total number of boys in class IX is \"x+40\". The total number of girls in class VIII and class IX together is 306. Then find the value of \"x\".</p>",
+          "paragraph": null,
+          "nameText": "Study the pie chart carefully and answer the questions. The pie chart shows the percentage breakup students in different classes from VI to X in the year 2017\n\n3. If the total number of boys in class VIII is \"x\" and the total number of boys in class IX is \"x+40\". The total number of girls in class VIII and class IX together is 306. Then find the value of \"x\".",
+          "type": "multiple_choice",
+          "createdBy": "609d141ffef055578d05892c",
+          "order": 3,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p>480</p>",
+              "nameText": "480",
+              "order": 1,
+              "isNewOption": false,
+              "_id": "66207f5efc5a0b00e8eaebce"
+            },
+            {
+              "name": "<p>520</p>",
+              "nameText": "520",
+              "order": 2,
+              "isNewOption": false,
+              "_id": "66207f5efc5a0ba92ceaebcf"
+            },
+            {
+              "name": "<p>440</p>",
+              "nameText": "440",
+              "order": 3,
+              "isNewOption": false,
+              "_id": "66207f5efc5a0b3907eaebd0"
+            },
+            {
+              "name": "<p>400</p>",
+              "nameText": "400",
+              "order": 4,
+              "isNewOption": false,
+              "_id": "66207f5efc5a0b74cbeaebd1"
+            },
+            {
+              "name": "<p>560</p>",
+              "nameText": "560",
+              "order": 4,
+              "isNewOption": true,
+              "_id": "66207f5efc5a0b300feaebd2"
+            }
+          ],
+          "_id": "662210fa7026ffac8f5c28bc",
+          "isGlobal": false,
+          "name": "<p>Study the pie chart carefully and answer the questions. The pie chart shows the percentage breakup students in different classes from VI to X in the year 2017</p>\n<p><img src=\"images/img_3d9202d8f0ea.png\" alt=\"\" width=\"226\" height=\"198\" /></p>\n<p>4. What is the difference between the total number of students in class VII and class VIII together to that of the total number of students in class IX and class X together?&nbsp;</p>",
+          "paragraph": null,
+          "nameText": "Study the pie chart carefully and answer the questions. The pie chart shows the percentage breakup students in different classes from VI to X in the year 2017\n\n4. What is the difference between the total number of students in class VII and class VIII together to that of the total number of students in class IX and class X together? ",
+          "type": "multiple_choice",
+          "createdBy": "609d141ffef055578d05892c",
+          "order": 4,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p>1.4</p>",
+              "nameText": "1.4",
+              "order": 1,
+              "isNewOption": false,
+              "_id": "66207f5efc5a0bf08deaebbf"
+            },
+            {
+              "name": "<p>14</p>",
+              "nameText": "14",
+              "order": 2,
+              "isNewOption": false,
+              "_id": "66207f5efc5a0ba0ddeaebc0"
+            },
+            {
+              "name": "<p>35</p>",
+              "nameText": "35",
+              "order": 3,
+              "isNewOption": false,
+              "_id": "66207f5efc5a0b1554eaebc1"
+            },
+            {
+              "name": "<p>21</p>",
+              "nameText": "21",
+              "order": 4,
+              "isNewOption": false,
+              "_id": "66207f5efc5a0b2822eaebc2"
+            },
+            {
+              "name": "<p>3.5</p>",
+              "nameText": "3.5",
+              "order": 4,
+              "isNewOption": true,
+              "_id": "66207f5efc5a0b2ec5eaebc3"
+            }
+          ],
+          "_id": "662210fa7026ff13565c28c2",
+          "isGlobal": false,
+          "name": "<p>Four circles having equal radii are drawn with centres at the four corners of a square. Each circle touches the other two adjacent circle. If remaining area of the square is 168 cm square, what is the size of the radius of the circle? (in centimeters) (take &pi; = 22/7)</p>",
+          "paragraph": null,
+          "nameText": "Four circles having equal radii are drawn with centres at the four corners of a square. Each circle touches the other two adjacent circle. If remaining area of the square is 168 cm square, what is the size of the radius of the circle? (in centimeters) (take π = 22/7)",
+          "type": "multiple_choice",
+          "createdBy": "609d141ffef055578d05892c",
+          "order": 5,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p>4050</p>",
+              "nameText": "4050",
+              "order": 1,
+              "isNewOption": false,
+              "_id": "66207f5efc5a0b69b0eaebe6"
+            },
+            {
+              "name": "<p>4080</p>",
+              "nameText": "4080",
+              "order": 2,
+              "isNewOption": false,
+              "_id": "66207f5efc5a0bf18feaebe7"
+            },
+            {
+              "name": "<p>4090</p>",
+              "nameText": "4090",
+              "order": 3,
+              "isNewOption": false,
+              "_id": "66207f5efc5a0b5b18eaebe8"
+            },
+            {
+              "name": "<p>4085</p>",
+              "nameText": "4085",
+              "order": 4,
+              "isNewOption": false,
+              "_id": "66207f5efc5a0b2795eaebe9"
+            }
+          ],
+          "_id": "662210fa7026ff5bdf5c28c4",
+          "isGlobal": false,
+          "name": "<p>A man wants to invest Rs. 16850 in bank account of his 2 sons, whose ages are 12 years &amp; 16 years in such a way so that they will get equal amount at an age of 120 years at the rate of 33(1/3)% compounded annually. Find the share of younger son?</p>",
+          "paragraph": null,
+          "nameText": "A man wants to invest Rs. 16850 in bank account of his 2 sons, whose ages are 12 years & 16 years in such a way so that they will get equal amount at an age of 120 years at the rate of 33(1/3)% compounded annually. Find the share of younger son?",
+          "type": "multiple_choice",
+          "createdBy": "609d141ffef055578d05892c",
+          "order": 6,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p>7/99</p>",
+              "nameText": "7/99",
+              "order": 1,
+              "isNewOption": false,
+              "_id": "66207f5efc5a0b6f1deaebc4"
+            },
+            {
+              "name": "<p>11/99</p>",
+              "nameText": "11/99",
+              "order": 2,
+              "isNewOption": false,
+              "_id": "66207f5efc5a0bd508eaebc5"
+            },
+            {
+              "name": "<p>14/99</p>",
+              "nameText": "14/99",
+              "order": 3,
+              "isNewOption": false,
+              "_id": "66207f5efc5a0b73f1eaebc6"
+            },
+            {
+              "name": "<p>19/99</p>",
+              "nameText": "19/99",
+              "order": 4,
+              "isNewOption": false,
+              "_id": "66207f5efc5a0b55b6eaebc7"
+            },
+            {
+              "name": "<p>None of these</p>",
+              "nameText": "None of these",
+              "order": 4,
+              "isNewOption": true,
+              "_id": "66207f5efc5a0bb4bceaebc8"
+            }
+          ],
+          "_id": "662210fa7026ff2bee5c28ba",
+          "isGlobal": false,
+          "name": "<p>A bag contains 5 red and 7 white balls. Four balls are drawn out one by one and not replaced. What is the probability that they are alternatively of different colours?</p>",
+          "paragraph": null,
+          "nameText": "A bag contains 5 red and 7 white balls. Four balls are drawn out one by one and not replaced. What is the probability that they are alternatively of different colours?",
+          "type": "multiple_choice",
+          "createdBy": "609d141ffef055578d05892c",
+          "order": 7,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p>1 : 2</p>",
+              "nameText": "1 : 2",
+              "order": 1,
+              "isNewOption": false,
+              "_id": "66207f5efc5a0bb935eaebb6"
+            },
+            {
+              "name": "<p>3 : 5</p>",
+              "nameText": "3 : 5",
+              "order": 2,
+              "isNewOption": false,
+              "_id": "66207f5efc5a0b765feaebb7"
+            },
+            {
+              "name": "<p>3 : 4</p>",
+              "nameText": "3 : 4",
+              "order": 3,
+              "isNewOption": false,
+              "_id": "66207f5efc5a0b9ef9eaebb8"
+            },
+            {
+              "name": "<p>2 : 5</p>",
+              "nameText": "2 : 5",
+              "order": 4,
+              "isNewOption": false,
+              "_id": "66207f5efc5a0b204beaebb9"
+            }
+          ],
+          "_id": "662210fa7026ff02615c28c3",
+          "isGlobal": false,
+          "name": "<p>The ratio of the age of Ram and Rahim 10 years ago was 1 : 3. The ratio of their age five years hence will be</p>\n<p>2 : 3. Then the ratio of their present age is</p>",
+          "paragraph": null,
+          "nameText": "The ratio of the age of Ram and Rahim 10 years ago was 1 : 3. The ratio of their age five years hence will be\n2 : 3. Then the ratio of their present age is",
+          "type": "multiple_choice",
+          "createdBy": "609d141ffef055578d05892c",
+          "order": 8,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p>7(3/5)</p>",
+              "nameText": "7(3/5)",
+              "order": 1,
+              "isNewOption": false,
+              "_id": "66207f5efc5a0b271deaebdd"
+            },
+            {
+              "name": "<p>7 days</p>",
+              "nameText": "7 days",
+              "order": 2,
+              "isNewOption": false,
+              "_id": "66207f5efc5a0b3ac1eaebde"
+            },
+            {
+              "name": "<p>7(7/9)</p>",
+              "nameText": "7(7/9)",
+              "order": 3,
+              "isNewOption": false,
+              "_id": "66207f5efc5a0b4897eaebdf"
+            },
+            {
+              "name": "<p>not</p>",
+              "nameText": "not",
+              "order": 4,
+              "isNewOption": false,
+              "_id": "66207f5efc5a0ba8cbeaebe0"
+            }
+          ],
+          "_id": "662210fa7026ff202c5c28bd",
+          "isGlobal": false,
+          "name": "<p>\"A\" can complete a piece of work in 8 days,while \"B\" is 20% more efficient than him. A works for 2 days,then B works for 1 day, and the cycle continues like this.in how many days would the work be completed?</p>",
+          "paragraph": null,
+          "nameText": "\"A\" can complete a piece of work in 8 days,while \"B\" is 20% more efficient than him. A works for 2 days,then B works for 1 day, and the cycle continues like this.in how many days would the work be completed?",
+          "type": "multiple_choice",
+          "createdBy": "609d141ffef055578d05892c",
+          "order": 9,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p>Cannot be determined</p>",
+              "nameText": "Cannot be determined",
+              "order": 1,
+              "isNewOption": false,
+              "_id": "66207f5efc5a0b8ab3eaebd3"
+            },
+            {
+              "name": "<p>Other than those given as option</p>",
+              "nameText": "Other than those given as option",
+              "order": 2,
+              "isNewOption": false,
+              "_id": "66207f5efc5a0b8bf3eaebd4"
+            },
+            {
+              "name": "<p>3570</p>",
+              "nameText": "3570",
+              "order": 3,
+              "isNewOption": false,
+              "_id": "66207f5efc5a0b376eeaebd5"
+            },
+            {
+              "name": "<p>3260</p>",
+              "nameText": "3260",
+              "order": 4,
+              "isNewOption": false,
+              "_id": "66207f5efc5a0b5e0feaebd6"
+            },
+            {
+              "name": "<p>3980</p>",
+              "nameText": "3980",
+              "order": 4,
+              "isNewOption": true,
+              "_id": "66207f5efc5a0b5c77eaebd7"
+            }
+          ],
+          "_id": "662210fa7026ff06865c28bb",
+          "isGlobal": false,
+          "name": "<p>The simple interest (p.a.) accrued on an amount of Rs 17,000 at the end of four years is Rs 6,800. What would be the compound interest (compounded annually) accrued on the same amount at the same rate in two years?</p>",
+          "paragraph": null,
+          "nameText": "The simple interest (p.a.) accrued on an amount of Rs 17,000 at the end of four years is Rs 6,800. What would be the compound interest (compounded annually) accrued on the same amount at the same rate in two years?",
+          "type": "multiple_choice",
+          "createdBy": "609d141ffef055578d05892c",
+          "order": 10,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p>42</p>",
+              "nameText": "42",
+              "order": 1,
+              "isNewOption": false,
+              "_id": "66207f5efc5a0b874beaebea"
+            },
+            {
+              "name": "<p>52</p>",
+              "nameText": "52",
+              "order": 2,
+              "isNewOption": false,
+              "_id": "66207f5efc5a0bead3eaebeb"
+            },
+            {
+              "name": "<p>46</p>",
+              "nameText": "46",
+              "order": 3,
+              "isNewOption": false,
+              "_id": "66207f5efc5a0b717aeaebec"
+            },
+            {
+              "name": "<p>62</p>",
+              "nameText": "62",
+              "order": 4,
+              "isNewOption": false,
+              "_id": "66207f5efc5a0ba140eaebed"
+            },
+            {
+              "name": "<p>None of these</p>",
+              "nameText": "None of these",
+              "order": 4,
+              "isNewOption": true,
+              "_id": "66207f5efc5a0beafaeaebee"
+            }
+          ],
+          "_id": "662210fa7026ff19125c28c0",
+          "isGlobal": false,
+          "name": "<p>Find the missing number in the given seriese.</p>\n<p>2, 7, 10, 22, 18, 37, 26,?</p>",
+          "paragraph": null,
+          "nameText": "Find the missing number in the given seriese.\n2, 7, 10, 22, 18, 37, 26,?",
+          "type": "multiple_choice",
+          "createdBy": "609d141ffef055578d05892c",
+          "order": 11,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p>12285</p>",
+              "nameText": "12285",
+              "order": 1,
+              "isNewOption": false,
+              "_id": "66207f5efc5a0b3a6aeaebc9"
+            },
+            {
+              "name": "<p>10530</p>",
+              "nameText": "10530",
+              "order": 2,
+              "isNewOption": false,
+              "_id": "66207f5efc5a0bda97eaebca"
+            },
+            {
+              "name": "<p>11700</p>",
+              "nameText": "11700",
+              "order": 3,
+              "isNewOption": false,
+              "_id": "66207f5efc5a0b771deaebcb"
+            },
+            {
+              "name": "<p>12870</p>",
+              "nameText": "12870",
+              "order": 4,
+              "isNewOption": false,
+              "_id": "66207f5efc5a0ba892eaebcc"
+            },
+            {
+              "name": "<p>9945</p>",
+              "nameText": "9945",
+              "order": 4,
+              "isNewOption": true,
+              "_id": "66207f5efc5a0b2958eaebcd"
+            }
+          ],
+          "_id": "662210fa7026ff30335c28b9",
+          "isGlobal": false,
+          "name": "<p><span style=\"font-family: var(--font-family);\">Find the missing number in the given seriese.</span></p>\n<p></p>\n<p>12,&nbsp; &nbsp; &nbsp;12,&nbsp; &nbsp; &nbsp;18,&nbsp; &nbsp; &nbsp;45,&nbsp; &nbsp; &nbsp;180,&nbsp; &nbsp; &nbsp;1170,&nbsp; &nbsp; &nbsp;?</p>",
+          "paragraph": null,
+          "nameText": "Find the missing number in the given seriese.\n\n12,     12,     18,     45,     180,     1170,     ?",
+          "type": "multiple_choice",
+          "createdBy": "609d141ffef055578d05892c",
+          "order": 12,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p>2</p>",
+              "nameText": "2",
+              "order": 1,
+              "isNewOption": false,
+              "_id": "66207f5efc5a0b15dfeaebba"
+            },
+            {
+              "name": "<p>3</p>",
+              "nameText": "3",
+              "order": 2,
+              "isNewOption": false,
+              "_id": "66207f5efc5a0b6b1aeaebbb"
+            },
+            {
+              "name": "<p>10</p>",
+              "nameText": "10",
+              "order": 3,
+              "isNewOption": false,
+              "_id": "66207f5efc5a0b7be5eaebbc"
+            },
+            {
+              "name": "<p>38</p>",
+              "nameText": "38",
+              "order": 4,
+              "isNewOption": false,
+              "_id": "66207f5efc5a0b7e86eaebbd"
+            },
+            {
+              "name": "<p>172</p>",
+              "nameText": "172",
+              "order": 4,
+              "isNewOption": true,
+              "_id": "66207f5efc5a0b5382eaebbe"
+            }
+          ],
+          "_id": "662210fa7026ff9f5c5c28c1",
+          "isGlobal": false,
+          "name": "<p>Find the wrong term in the series</p>\n<p></p>\n<p>2,&nbsp; &nbsp;3,&nbsp; &nbsp;10,&nbsp; &nbsp;38,&nbsp; &nbsp;172</p>",
+          "paragraph": null,
+          "nameText": "Find the wrong term in the series\n\n2,   3,   10,   38,   172",
+          "type": "multiple_choice",
+          "createdBy": "609d141ffef055578d05892c",
+          "order": 13,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        }
+      ]
+    }
+  ],
+  "practiceTestUrls": [],
+  "updateAfterSync": {},
+  "currentSection": "662210fa7026ffaa935c28b5",
+  "testTotalDuration": 1080000,
+  "examStartDate": "2026-09-20T19:25:59.823Z"
+}

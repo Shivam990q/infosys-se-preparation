@@ -1,0 +1,333 @@
+# 4. Full Length Logical Reasoning(with sol)
+
+**Total Questions:** 25 | **Total Marks:** 25 | **Duration:** 25 Minutes
+
+---
+
+## Section: SSC CGL
+
+### Question 1 [Marks: +1, -0]
+
+Select the figure that will replace the question mark (?) in the following figure series.
+
+**Options:**
+
+- **(A)** 
+- **(B)** 
+- **(C)** 
+- **(D)** 
+
+---
+
+### Question 2 [Marks: +1, -0]
+
+Select the option that is related to the fifth number in the same way as the second number is related to the first number and the fourth number is related to the third number. 5:45::3:3::6: ?
+
+**Options:**
+
+- **(A)** 90
+- **(B)** 106
+- **(C)** 110
+- **(D)** 96
+
+---
+
+### Question 3 [Marks: +1, -0]
+
+Three statements are given, followed by four conclusions numbered I, II, III and IV. Assuming the statements to be true, even if they seem to be at variance with commonly known facts, decide which of the conclusions logically follow(s) from the statements. Statements: Some desks are trays. Some trays are plates. Some plates are desks. Conclusions: I. All desks are plates. II. All plates are desks. III. Some plates are trays. IV. All trays are desks.
+
+**Options:**
+
+- **(A)** Only conclusion III follows
+- **(B)** Only conclusion IV follows
+- **(C)** Only conclusion II follows
+- **(D)** Only conclusion I follows
+
+---
+
+### Question 4 [Marks: +1, -0]
+
+Select the set in which the numbers are related in the same way as are the numbers of the following sets. (55, 11, 25) (64,16, 16) (NOTE: Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g. 13-Operations on 13 such as adding /subtracting /multiplying etc. to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is NOT allowed)
+
+**Options:**
+
+- **(A)** ( 33 , 11, 9)
+- **(B)** ( 33, 11, 22)
+- **(C)** ( 33, 11, 3)
+- **(D)** ( 33, 11, 10)
+
+---
+
+### Question 5 [Marks: +1, -0]
+
+Ganesh was taking a walk with his mother's brother's father's granddaughter. Who was he walking with?
+
+**Options:**
+
+- **(A)** Daughter
+- **(B)** Mother
+- **(C)** Cousin
+- **(D)** Granddaughter
+
+---
+
+### Question 6 [Marks: +1, -0]
+
+Select the correct mirror image of the given figure when the mirror is placed at MN as shown below. T e 2 9 E K P M _______ N
+
+**Options:**
+
+- **(A)** 
+- **(B)** 
+- **(C)** 
+- **(D)** 
+
+---
+
+### Question 7 [Marks: +1, -0]
+
+Which of the following letter-clusters will replace the question mark (?) in the given series? UV, OY, IB, EE, ?
+
+**Options:**
+
+- **(A)** ZK
+- **(B)** AH
+- **(C)** BI
+- **(D)** BH
+
+---
+
+### Question 8 [Marks: +1, -0]
+
+The second number in the given number-pairs is obtained by performing certain mathematical operation(s) on the first number. The same operation(s) is/are followed in all the number-pairs except one. Find that odd number-pair.
+
+**Options:**
+
+- **(A)** 20:11
+- **(B)** 6:4
+- **(C)** 15:9
+- **(D)** 12:7
+
+---
+
+### Question 9 [Marks: +1, -0]
+
+Three different positions of the same dice are shown. Find the number on the face opposite the face showing '1'.
+
+**Options:**
+
+- **(A)** 6
+- **(B)** 2
+- **(C)** 3
+- **(D)** 4
+
+---
+
+### Question 10 [Marks: +1, -0]
+
+Select the option that is related to the sixth letter-cluster in the same way as the first letter-cluster is related to the second letter-cluster and the third letter-cluster is related to the fourth letter-cluster. HMD: KOE :: BNQ: EPR :: ?: FLV
+
+**Options:**
+
+- **(A)** SJE
+- **(B)** UJC
+- **(C)** EJS
+- **(D)** CJU
+
+---
+
+### Question 11 [Marks: +1, -0]
+
+Select the figure from the options that can replace the question mark (?) and complete the given patter.
+
+**Options:**
+
+- **(A)** 
+- **(B)** 
+- **(C)** 
+- **(D)** 
+
+---
+
+### Question 12 [Marks: +1, -0]
+
+Four letter-clusters have been given, out of which three are alike in some manner and one is different. Select the odd letter-cluster .
+
+**Options:**
+
+- **(A)** BFJN
+- **(B)** DHLP
+- **(C)** HJKP
+- **(D)** JNRV
+
+---
+
+### Question 13 [Marks: +1, -0]
+
+Select the option that represents the correct order of the given words as they would appear in an English dictionary. 1. Warriors 2. Warehouse 3. Warcraft 4. Warranty 5. Wardrobe 6. Wardenship
+
+**Options:**
+
+- **(A)** 3, 6, 5, 2, 1, 4
+- **(B)** 3, 5, 6, 2, 1, 4
+- **(C)** 3, 5, 6, 2, 4, 1
+- **(D)** 3, 6, 5, 2, 4, 1
+
+---
+
+### Question 14 [Marks: +1, -0]
+
+Which of the following numbers will replace the question mark (?) in the given series? 8, 15, 26, ?, 56, 75
+
+**Options:**
+
+- **(A)** 39
+- **(B)** 41
+- **(C)** 35
+- **(D)** 43
+
+---
+
+### Question 15 [Marks: +1, -0]
+
+46 23 34.5 86.25 ?
+
+**Options:**
+
+- **(A)** 300
+- **(B)** 301.875
+- **(C)** 301.975
+- **(D)** 300.875
+
+---
+
+### Question 16 [Marks: +1, -0]
+
+Select the option that is related to the fifth number in the same way as the second number is related to the first number and the fourth number is related to the third number. 625 : 5 :: 2560 : 8 :: 5000: ?
+
+**Options:**
+
+- **(A)** 9
+- **(B)** 12
+- **(C)** 10
+- **(D)** 15
+
+---
+
+### Question 17 [Marks: +1, -0]
+
+In a certain code language, 'ASK' is written as '62' and 'BYE' is written as '64'. How will 'CRY' be written in that language?
+
+**Options:**
+
+- **(A)** 68
+- **(B)** 72
+- **(C)** 86
+- **(D)** 92
+
+---
+
+### Question 18 [Marks: +1, -0]
+
+Select the correct combination of mathematical signs that can sequentially replace the * signs and balance the given equation. 256 * 4 * 9 * 3 * 14 = 51
+
+**Options:**
+
+- **(A)** x + – ÷ ÷
+- **(B)** ÷ ÷ x – +
+- **(C)** x ÷ ÷ + –
+- **(D)** ÷ ÷ – x +
+
+---
+
+### Question 19 [Marks: +1, -0]
+
+Select the option that represents the letters that, when placed from left to right in the following blanks, will complete the letter-series. C L_V E C_ _W E C L O_ _C_O_E
+
+**Options:**
+
+- **(A)** OLPXELY
+- **(B)** OLOYELZ
+- **(C)** OLOXFMY
+- **(D)** OLOXELY
+
+---
+
+### Question 20 [Marks: +1, -0]
+
+In a certain code language, 'TABLE' is coded as ELEAT and 'SWING' is coded as GNLWS. How will 'FRAME' be coded in the same language?
+
+**Options:**
+
+- **(A)** EMERF
+- **(B)** EMDRF
+- **(C)** ERMDF
+- **(D)** MEDFR
+
+---
+
+### Question 21 [Marks: +1, -0]
+
+Two different positions of the same dice are shown, the six faces of which are marked from A to F. Select the letter that will be on the face opposite to the face showing the letter C.
+
+**Options:**
+
+- **(A)** F
+- **(B)** B
+- **(C)** A
+- **(D)** D
+
+---
+
+### Question 22 [Marks: +1, -0]
+
+Select the option figure which is embedded in the given figure. (Rotation is NOT allowed).
+
+**Options:**
+
+- **(A)** 
+- **(B)** 
+- **(C)** 
+- **(D)** 
+
+---
+
+### Question 23 [Marks: +1, -0]
+
+Select the option that is related to the third word in the same way as the second word is related to the first word. (The words must be considered as meaningful English words and must not be related to each other based on the number of letters/number of consonants/vowels in the word.) Skin : Touch :: Nose : ?
+
+**Options:**
+
+- **(A)** Smell
+- **(B)** Taste
+- **(C)** Nose ring
+- **(D)** Sweat
+
+---
+
+### Question 24 [Marks: +1, -0]
+
+Three different positions of the same dice are shown. Find the number on the face opposite the face showing ‘4’.
+
+**Options:**
+
+- **(A)** 5
+- **(B)** 6
+- **(C)** 2
+- **(D)** 3
+
+---
+
+### Question 25 [Marks: +1, -0]
+
+Select the Venn diagram that best illustration the relationship between the following classes. Ticket, Aeroplane, Rail
+
+**Options:**
+
+- **(A)** 
+- **(B)** 
+- **(C)** 
+- **(D)** 
+
+---
+

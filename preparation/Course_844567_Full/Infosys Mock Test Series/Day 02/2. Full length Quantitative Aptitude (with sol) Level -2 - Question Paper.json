@@ -1,0 +1,883 @@
+{
+  "_id": "661cddc9ab9847d60b8df9a0",
+  "settings": {
+    "fonts": {
+      "fonts": [
+        {
+          "face": "Arial",
+          "supported": true
+        },
+        {
+          "face": "Helvetica",
+          "supported": true
+        },
+        {
+          "face": "sans-serif",
+          "supported": false
+        },
+        {
+          "face": "hind",
+          "supported": true
+        },
+        {
+          "face": "var(--font-family)",
+          "supported": true
+        },
+        {
+          "face": "Arial",
+          "supported": true
+        },
+        {
+          "face": "Helvetica",
+          "supported": true
+        },
+        {
+          "face": "sans-serif",
+          "supported": false
+        },
+        {
+          "face": "hind",
+          "supported": true
+        },
+        {
+          "face": "var(--font-family)",
+          "supported": true
+        }
+      ],
+      "include": "https://cms-gcp.classplusapp.com/parser/v3/css/combined?face=Arial,Helvetica,sans-serif,hind,var(--font-family),Arial,Helvetica,sans-serif,hind,var(--font-family)"
+    },
+    "grades": {
+      "A": {
+        "max": 100,
+        "min": 70
+      },
+      "B": {
+        "max": 69,
+        "min": 50
+      },
+      "C": {
+        "max": 49,
+        "min": 35
+      },
+      "D": {
+        "max": 34,
+        "min": 20
+      },
+      "E": {
+        "max": 19,
+        "min": 10
+      },
+      "F": {
+        "max": 9,
+        "min": 0
+      }
+    },
+    "hasOptionalQuestions": false,
+    "settingsForRTG": {},
+    "generateBatchRank": true,
+    "defaultFont": null,
+    "generateInstitutionalRank": true,
+    "generatePercentile": true,
+    "showQuestionWiseTime": true,
+    "allowResultSharing": true,
+    "showQuestionTimer": true,
+    "calculatorType": null,
+    "enableLetterGrading": true,
+    "generateRandomTest": false,
+    "isSectionSwitchingEnabled": true,
+    "isSectionalSubmit": false,
+    "shuffleQuestions": false,
+    "showAnswers": true,
+    "isSolutionMultipleViewEnabled": true,
+    "shuffleOptions": false,
+    "revealCorrectAnswers": "all",
+    "revealAnswersTime": "now",
+    "parseMathJax": false
+  },
+  "isReadyToLink": true,
+  "isLinked": true,
+  "instructions": "",
+  "isSectionEnable": false,
+  "isReloadRequired": false,
+  "totalNumberOfQuestions": 14,
+  "totalMarks": 14,
+  "isAttempted": true,
+  "isTemplateSelected": true,
+  "isCdnUpdated": false,
+  "languageList": [],
+  "lastAttemptedAt": "2026-09-20T07:09:26.788Z",
+  "name": "2. Full length Quantitative Aptitude (with sol) Level -2",
+  "duration": 900000,
+  "createdBy": "609d141ffef055578d05892c",
+  "parentFolder": "661cc18e97f17b12c39a07d6",
+  "sections": [
+    {
+      "draftMode": false,
+      "isActive": true,
+      "sectionDuration": 0,
+      "sectionMarks": 14,
+      "sectionInstructions": " ",
+      "hasOptionalQuestions": false,
+      "_id": "661cddd54bd0267a580ef603",
+      "name": "1.1 Quantitative Mock",
+      "order": 1,
+      "numberOfQuestions": 14,
+      "questions": [
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p>8, 9</p>",
+              "nameText": "8, 9",
+              "order": 1,
+              "isNewOption": false,
+              "_id": "661ce928b8749776fbc839e4"
+            },
+            {
+              "name": "<p>7, 8</p>",
+              "nameText": "7, 8",
+              "order": 2,
+              "isNewOption": false,
+              "_id": "661ce928b874972c19c839e5"
+            },
+            {
+              "name": "<p>3, 4</p>",
+              "nameText": "3, 4",
+              "order": 3,
+              "isNewOption": false,
+              "_id": "661ce928b87497909dc839e6"
+            },
+            {
+              "name": "<p>2, 7</p>",
+              "nameText": "2, 7",
+              "order": 4,
+              "isNewOption": false,
+              "_id": "661ce928b8749701f9c839e7"
+            }
+          ],
+          "_id": "661cdde4ab984735398df9ae",
+          "isGlobal": false,
+          "name": "<p><span style=\"color: #000000; font-family: Arial, Helvetica, sans-serif; font-size: 12pt;\">In the IT department of backrub, the administrator password is changed every month. The team of administrators, spread across the globe, receive an 8 digit number via email. This number is to be prefixed with a single digit number and suffixed with a single digit number to get the actual password. The password is divisible by 11 and 8. If the team received 65351364 this month, then which of the following pairs give prefix and suffix respectively.</span></p>",
+          "paragraph": null,
+          "nameText": "In the IT department of backrub, the administrator password is changed every month. The team of administrators, spread across the globe, receive an 8 digit number via email. This number is to be prefixed with a single digit number and suffixed with a single digit number to get the actual password. The password is divisible by 11 and 8. If the team received 65351364 this month, then which of the following pairs give prefix and suffix respectively.",
+          "type": "multiple_choice",
+          "createdBy": "609d141ffef055578d05892c",
+          "order": 1,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p>3, 7</p>",
+              "nameText": "3, 7",
+              "order": 1,
+              "isNewOption": false,
+              "_id": "661ce928b87497de50c839b3"
+            },
+            {
+              "name": "<p>1, 6</p>",
+              "nameText": "1, 6",
+              "order": 2,
+              "isNewOption": false,
+              "_id": "661ce928b874975c93c839b4"
+            },
+            {
+              "name": "<p>2, 4</p>",
+              "nameText": "2, 4",
+              "order": 3,
+              "isNewOption": false,
+              "_id": "661ce928b87497c4f7c839b5"
+            },
+            {
+              "name": "<p>4, 2</p>",
+              "nameText": "4, 2",
+              "order": 4,
+              "isNewOption": false,
+              "_id": "661ce928b87497ceabc839b6"
+            }
+          ],
+          "_id": "661cdde4ab984728348df9b3",
+          "isGlobal": false,
+          "name": "<p><span style=\"color: #000000; font-family: hind, sans-serif; font-size: 12pt;\">In the IT department of backrub, the administrator password is changed every month. The team of administrator, spread across the globe, receive an 8 digits number via email. This number is to be prefixed with a single digit number and suffixed with a single digit number to get the actual password. The password is divisible by 11 and 8. If the team received 54218345 this month. Then which of the following pairs give valid prefix and suffix respectively?</span></p>",
+          "paragraph": null,
+          "nameText": "In the IT department of backrub, the administrator password is changed every month. The team of administrator, spread across the globe, receive an 8 digits number via email. This number is to be prefixed with a single digit number and suffixed with a single digit number to get the actual password. The password is divisible by 11 and 8. If the team received 54218345 this month. Then which of the following pairs give valid prefix and suffix respectively?",
+          "type": "multiple_choice",
+          "createdBy": "609d141ffef055578d05892c",
+          "order": 2,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p>0.44 sec</p>",
+              "nameText": "0.44 sec",
+              "order": 1,
+              "isNewOption": false,
+              "_id": "661ce928b874976326c839cd"
+            },
+            {
+              "name": "<p>44 sec</p>",
+              "nameText": "44 sec",
+              "order": 2,
+              "isNewOption": false,
+              "_id": "661ce928b87497b39dc839ce"
+            },
+            {
+              "name": "<p>6.4 sec</p>",
+              "nameText": "6.4 sec",
+              "order": 3,
+              "isNewOption": false,
+              "_id": "661ce928b8749747d8c839cf"
+            },
+            {
+              "name": "<p>Not</p>",
+              "nameText": "Not",
+              "order": 4,
+              "isNewOption": false,
+              "_id": "661ce928b874970f01c839d0"
+            }
+          ],
+          "_id": "661cdde4ab984766cd8df9b8",
+          "isGlobal": false,
+          "name": "<p><span style=\"color: #000000; font-family: Arial, Helvetica, sans-serif; font-size: 12pt;\">Two ants of length 1 cm and 1.2 cm crawl in opposite directions with average speeds of 2 and 3 mm per second respectively. How many seconds will they take to cross each other?</span></p>",
+          "paragraph": null,
+          "nameText": "Two ants of length 1 cm and 1.2 cm crawl in opposite directions with average speeds of 2 and 3 mm per second respectively. How many seconds will they take to cross each other?",
+          "type": "multiple_choice",
+          "createdBy": "609d141ffef055578d05892c",
+          "order": 3,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p>800</p>",
+              "nameText": "800",
+              "order": 1,
+              "isNewOption": false,
+              "_id": "661ce928b8749759fac839bf"
+            },
+            {
+              "name": "<p>1000</p>",
+              "nameText": "1000",
+              "order": 2,
+              "isNewOption": false,
+              "_id": "661ce928b874976b8ec839c0"
+            },
+            {
+              "name": "<p>1200</p>",
+              "nameText": "1200",
+              "order": 3,
+              "isNewOption": false,
+              "_id": "661ce928b874975ebac839c1"
+            },
+            {
+              "name": "<p>1500</p>",
+              "nameText": "1500",
+              "order": 4,
+              "isNewOption": false,
+              "_id": "661ce928b874978424c839c2"
+            },
+            {
+              "name": "<p>1800</p>",
+              "nameText": "1800",
+              "order": 4,
+              "isNewOption": true,
+              "_id": "661ce928b874976c45c839c3"
+            }
+          ],
+          "_id": "661cdde4ab984792b58df9bd",
+          "isGlobal": false,
+          "name": "<p><span style=\"color: #000000; font-family: Arial, Helvetica, sans-serif; font-size: 12pt;\">Rs. 3000 is distributed among A, B and C such that A gets 2/3 rd of what B and C together get and C gets 1/2 of what A and B together get. Find B's share.</span></p>",
+          "paragraph": null,
+          "nameText": "Rs. 3000 is distributed among A, B and C such that A gets 2/3 rd of what B and C together get and C gets 1/2 of what A and B together get. Find B's share.",
+          "type": "multiple_choice",
+          "createdBy": "609d141ffef055578d05892c",
+          "order": 4,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p>2.5%</p>",
+              "nameText": "2.5%",
+              "order": 1,
+              "isNewOption": false,
+              "_id": "661ce928b87497337ec839da"
+            },
+            {
+              "name": "<p>4%</p>",
+              "nameText": "4%",
+              "order": 2,
+              "isNewOption": false,
+              "_id": "661ce928b87497db87c839db"
+            },
+            {
+              "name": "<p>5%</p>",
+              "nameText": "5%",
+              "order": 3,
+              "isNewOption": false,
+              "_id": "661ce928b8749756b9c839dc"
+            },
+            {
+              "name": "<p>6.66%</p>",
+              "nameText": "6.66%",
+              "order": 4,
+              "isNewOption": false,
+              "_id": "661ce928b874977bd5c839dd"
+            },
+            {
+              "name": "<p>Option 5None of these</p>",
+              "nameText": "Option 5None of these",
+              "order": 4,
+              "isNewOption": true,
+              "_id": "661ce928b874970930c839de"
+            }
+          ],
+          "_id": "661cdde4ab9847de448df9c2",
+          "isGlobal": false,
+          "name": "<p>A sum of money invested at compound interest amounts of 800 in 3 years and 882 in 5 years.<br />What is the rate of Interest?</p>",
+          "paragraph": null,
+          "nameText": "A sum of money invested at compound interest amounts of 800 in 3 years and 882 in 5 years.What is the rate of Interest?",
+          "type": "multiple_choice",
+          "createdBy": "609d141ffef055578d05892c",
+          "order": 5,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p>100</p>",
+              "nameText": "100",
+              "order": 1,
+              "isNewOption": false,
+              "_id": "661ce928b87497fbaec839e8"
+            },
+            {
+              "name": "<p>150</p>",
+              "nameText": "150",
+              "order": 2,
+              "isNewOption": false,
+              "_id": "661ce928b874977bf6c839e9"
+            },
+            {
+              "name": "<p>170</p>",
+              "nameText": "170",
+              "order": 3,
+              "isNewOption": false,
+              "_id": "661ce928b874977bdfc839ea"
+            },
+            {
+              "name": "<p>200</p>",
+              "nameText": "200",
+              "order": 4,
+              "isNewOption": false,
+              "_id": "661ce928b874970be4c839eb"
+            }
+          ],
+          "_id": "661cdde4ab984733998df9c7",
+          "isGlobal": false,
+          "name": "<p><span style=\"font-size: 12pt;\"><span style=\"color: #000000; font-family: Arial, Helvetica, sans-serif;\">Two trains are on the same line, 100 miles apart, heading towards each other, each traveling at 20 miles/h. A bee starts flying between the trains when the distance between two trains is 100 km. The bee first flies from first train to second train. Once it reaches the second train, it immediately flies back to the first train ... and so on until trains collide. Calculate the total distance travelled by the bee, if Speed of bee is 40 miles/h</span></span></p>",
+          "paragraph": null,
+          "nameText": "Two trains are on the same line, 100 miles apart, heading towards each other, each traveling at 20 miles/h. A bee starts flying between the trains when the distance between two trains is 100 km. The bee first flies from first train to second train. Once it reaches the second train, it immediately flies back to the first train ... and so on until trains collide. Calculate the total distance travelled by the bee, if Speed of bee is 40 miles/h",
+          "type": "multiple_choice",
+          "createdBy": "609d141ffef055578d05892c",
+          "order": 6,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p>16(1/4)</p>",
+              "nameText": "16(1/4)",
+              "order": 1,
+              "isNewOption": false,
+              "_id": "661ce928b874974456c839b7"
+            },
+            {
+              "name": "<p>7<span style=\"font-family: var(--font-family);\">(1/4)</span></p>",
+              "nameText": "7(1/4)",
+              "order": 2,
+              "isNewOption": false,
+              "_id": "661ce928b8749706f4c839b8"
+            },
+            {
+              "name": "<p>16(2/3)</p>",
+              "nameText": "16(2/3)",
+              "order": 3,
+              "isNewOption": false,
+              "_id": "661ce928b87497b9d4c839b9"
+            },
+            {
+              "name": "<p>NOT</p>",
+              "nameText": "NOT",
+              "order": 4,
+              "isNewOption": false,
+              "_id": "661ce928b8749744fbc839ba"
+            }
+          ],
+          "_id": "661cdde4ab984722448df9cc",
+          "isGlobal": false,
+          "name": "<p><span style=\"color: #000000; font-family: Arial, Helvetica, sans-serif; font-size: 12pt;\">The mark price of an article is Rs. 300.After allowing a discount 15% on the marked price, the shopkeeper makes a gain of Rs.15.What is the gain percentage?</span></p>",
+          "paragraph": null,
+          "nameText": "The mark price of an article is Rs. 300.After allowing a discount 15% on the marked price, the shopkeeper makes a gain of Rs.15.What is the gain percentage?",
+          "type": "multiple_choice",
+          "createdBy": "609d141ffef055578d05892c",
+          "order": 7,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p><img src=\"images/img_00874f408792.png\" alt=\"\" /></p>",
+              "nameText": "",
+              "order": 1,
+              "isNewOption": false,
+              "_id": "661ce928b87497f58bc839d1"
+            },
+            {
+              "name": "<p><img src=\"images/img_f81e0708d6f5.png\" alt=\"\" /></p>",
+              "nameText": "",
+              "order": 2,
+              "isNewOption": false,
+              "_id": "661ce928b87497afb2c839d2"
+            },
+            {
+              "name": "<p><img src=\"images/img_b73f6907835f.png\" alt=\"\" /></p>",
+              "nameText": "",
+              "order": 3,
+              "isNewOption": false,
+              "_id": "661ce928b87497f204c839d3"
+            },
+            {
+              "name": "<p><img src=\"images/img_1ee4b87f817e.png\" alt=\"\" /></p>",
+              "nameText": "",
+              "order": 4,
+              "isNewOption": false,
+              "_id": "661ce928b8749787b0c839d4"
+            },
+            {
+              "name": "<p><img src=\"images/img_37e4c45771df.png\" alt=\"\" /></p>",
+              "nameText": "",
+              "order": 4,
+              "isNewOption": true,
+              "_id": "661ce928b8749757a5c839d5"
+            }
+          ],
+          "_id": "661cdde4ab9847c5cd8df9d1",
+          "isGlobal": false,
+          "name": "<p><span style=\"color: #000000; font-family: Arial, Helvetica, sans-serif; font-size: 12pt;\">Quantity 1: Speed of boat in still water, if a man can travel 54 km downstream in 9 hours and 40 km upstream in 10 hours. Quantity II: Speed of boat in still water, if a man can travel 45 km downstream in 9 hours and the speed of stream is 1 kmph.</span></p>",
+          "paragraph": null,
+          "nameText": "Quantity 1: Speed of boat in still water, if a man can travel 54 km downstream in 9 hours and 40 km upstream in 10 hours. Quantity II: Speed of boat in still water, if a man can travel 45 km downstream in 9 hours and the speed of stream is 1 kmph.",
+          "type": "multiple_choice",
+          "createdBy": "609d141ffef055578d05892c",
+          "order": 8,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p><img src=\"images/img_c906e0bca087.png\" alt=\"\" /></p>",
+              "nameText": "",
+              "order": 1,
+              "isNewOption": false,
+              "_id": "661ce928b874970cadc839c4"
+            },
+            {
+              "name": "<p><img src=\"images/img_2506215f0c3f.png\" alt=\"\" /></p>",
+              "nameText": "",
+              "order": 2,
+              "isNewOption": false,
+              "_id": "661ce928b874978a7cc839c5"
+            },
+            {
+              "name": "<p><img src=\"images/img_ba03a0f24323.png\" alt=\"\" /></p>",
+              "nameText": "",
+              "order": 3,
+              "isNewOption": false,
+              "_id": "661ce928b87497efe2c839c6"
+            },
+            {
+              "name": "<p><img src=\"images/img_33ac3c6d2e02.png\" alt=\"\" /></p>",
+              "nameText": "",
+              "order": 4,
+              "isNewOption": false,
+              "_id": "661ce928b874970e55c839c7"
+            },
+            {
+              "name": "<p><img src=\"images/img_89593c0dd558.png\" alt=\"\" /></p>",
+              "nameText": "",
+              "order": 4,
+              "isNewOption": true,
+              "_id": "661ce928b87497a604c839c8"
+            }
+          ],
+          "_id": "661cdde4ab984781e18df9d6",
+          "isGlobal": false,
+          "name": "<p><span style=\"color: #000000; font-family: Arial, Helvetica, sans-serif; font-size: 12pt;\">In an envelope there are 5 green, 3 yellow and 4 pink tablets. 3 tablets are picked at random.</span><br style=\"outline: 0px; transition: all 0.3s ease 0s; color: #000000; font-family: Arial, Helvetica, sans-serif;\" /><span style=\"color: #000000; font-family: Arial, Helvetica, sans-serif; font-size: 12pt;\">Quantity I: The probability that 2 tablets are yellow in colour and 1 tablet is pink in colour.</span><br style=\"outline: 0px; transition: all 0.3s ease 0s; color: #000000; font-family: Arial, Helvetica, sans-serif;\" /><span style=\"color: #000000; font-family: Arial, Helvetica, sans-serif; font-size: 12pt;\">Quantity II: The probability that all the tablets are green in colour.</span></p>",
+          "paragraph": null,
+          "nameText": "In an envelope there are 5 green, 3 yellow and 4 pink tablets. 3 tablets are picked at random.Quantity I: The probability that 2 tablets are yellow in colour and 1 tablet is pink in colour.Quantity II: The probability that all the tablets are green in colour.",
+          "type": "multiple_choice",
+          "createdBy": "609d141ffef055578d05892c",
+          "order": 9,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p>Rs. 3,000</p>",
+              "nameText": "Rs. 3,000",
+              "order": 1,
+              "isNewOption": false,
+              "_id": "661ce928b87497a25bc839df"
+            },
+            {
+              "name": "<p>Rs. 2,000</p>",
+              "nameText": "Rs. 2,000",
+              "order": 2,
+              "isNewOption": false,
+              "_id": "661ce928b874972df3c839e0"
+            },
+            {
+              "name": "<p>Rs. 1,500</p>",
+              "nameText": "Rs. 1,500",
+              "order": 3,
+              "isNewOption": false,
+              "_id": "661ce928b874976db5c839e1"
+            },
+            {
+              "name": "<p>Rs. 2,500</p>",
+              "nameText": "Rs. 2,500",
+              "order": 4,
+              "isNewOption": false,
+              "_id": "661ce928b874972fc4c839e2"
+            },
+            {
+              "name": "<p>None of these</p>",
+              "nameText": "None of these",
+              "order": 4,
+              "isNewOption": true,
+              "_id": "661ce928b8749741aec839e3"
+            }
+          ],
+          "_id": "661cdde4ab9847abb68df9db",
+          "isGlobal": false,
+          "name": "<p><span style=\"color: #000000; font-family: Arial, Helvetica, sans-serif; font-size: 14pt;\">Sum of CP's of two cows is Rs. 39, 000. Both the cows are sold at a profit of 20% and 40% respectively with their SP's being the same. What is the difference of CP's of both the cows?</span></p>",
+          "paragraph": null,
+          "nameText": "Sum of CP's of two cows is Rs. 39, 000. Both the cows are sold at a profit of 20% and 40% respectively with their SP's being the same. What is the difference of CP's of both the cows?",
+          "type": "multiple_choice",
+          "createdBy": "609d141ffef055578d05892c",
+          "order": 10,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p>(S-10)/4</p>",
+              "nameText": "(S-10)/4",
+              "order": 1,
+              "isNewOption": false,
+              "_id": "661ce928b874971b21c839ec"
+            },
+            {
+              "name": "<p>(S+4)/4</p>",
+              "nameText": "(S+4)/4",
+              "order": 2,
+              "isNewOption": false,
+              "_id": "661ce928b874971442c839ed"
+            },
+            {
+              "name": "<p>(S+5)/4</p>",
+              "nameText": "(S+5)/4",
+              "order": 3,
+              "isNewOption": false,
+              "_id": "661ce928b8749731b8c839ee"
+            },
+            {
+              "name": "<p>(S+10)/5</p>",
+              "nameText": "(S+10)/5",
+              "order": 4,
+              "isNewOption": false,
+              "_id": "661ce928b87497c848c839ef"
+            }
+          ],
+          "_id": "661cdde4ab984733608df9e0",
+          "isGlobal": false,
+          "name": "<p>If the sum of five consecutive is S, then the largest of, those integers in term of S is:</p>",
+          "paragraph": null,
+          "nameText": "If the sum of five consecutive is S, then the largest of, those integers in term of S is:",
+          "type": "multiple_choice",
+          "createdBy": "609d141ffef055578d05892c",
+          "order": 11,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p>20</p>",
+              "nameText": "20",
+              "order": 1,
+              "isNewOption": false,
+              "_id": "661ce928b8749777d1c839bb"
+            },
+            {
+              "name": "<p>15</p>",
+              "nameText": "15",
+              "order": 2,
+              "isNewOption": false,
+              "_id": "661ce928b874972d30c839bc"
+            },
+            {
+              "name": "<p>25</p>",
+              "nameText": "25",
+              "order": 3,
+              "isNewOption": false,
+              "_id": "661ce928b8749723f4c839bd"
+            },
+            {
+              "name": "<p>NOT</p>",
+              "nameText": "NOT",
+              "order": 4,
+              "isNewOption": false,
+              "_id": "661ce928b87497e31ac839be"
+            }
+          ],
+          "_id": "661cdde4ab98478a528df9e5",
+          "isGlobal": false,
+          "name": "<p><span style=\"color: #000000; font-family: Arial, Helvetica, sans-serif; font-size: 12pt;\">A person can complete a job in 120 days. He works alone on Day 1. On Day 2, he is joined by another person who also can complete the job in exactly 120 days. On Day 3, they are joined by another person of equal efficiency. Like this, everyday a new person with the same efficiency joins the work. How many days are required to complete the job?</span></p>",
+          "paragraph": null,
+          "nameText": "A person can complete a job in 120 days. He works alone on Day 1. On Day 2, he is joined by another person who also can complete the job in exactly 120 days. On Day 3, they are joined by another person of equal efficiency. Like this, everyday a new person with the same efficiency joins the work. How many days are required to complete the job?",
+          "type": "multiple_choice",
+          "createdBy": "609d141ffef055578d05892c",
+          "order": 12,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p>26.34 liters</p>",
+              "nameText": "26.34 liters",
+              "order": 1,
+              "isNewOption": false,
+              "_id": "661ce928b874976fdec839d6"
+            },
+            {
+              "name": "<p>29.16&nbsp;<span style=\"font-family: var(--font-family);\">liters</span></p>",
+              "nameText": "29.16 liters",
+              "order": 2,
+              "isNewOption": false,
+              "_id": "661ce928b8749760cdc839d7"
+            },
+            {
+              "name": "<p>28.34&nbsp;<span style=\"font-family: var(--font-family);\">liters</span></p>",
+              "nameText": "28.34 liters",
+              "order": 3,
+              "isNewOption": false,
+              "_id": "661ce928b87497b15bc839d8"
+            },
+            {
+              "name": "<p>29.18&nbsp;<span style=\"font-family: var(--font-family);\">liters</span></p>",
+              "nameText": "29.18 liters",
+              "order": 4,
+              "isNewOption": false,
+              "_id": "661ce928b874971e81c839d9"
+            }
+          ],
+          "_id": "661cdde4ab98472a7b8df9ea",
+          "isGlobal": false,
+          "name": "<p><span style=\"color: #000000; font-family: Arial, Helvetica, sans-serif; font-size: 12pt;\">A container contains 40 liters of milk. From this container 4 liters of milk was taken out and replaced by water. This process was repeated further two times. How much milk Is now contained by the container?</span></p>",
+          "paragraph": null,
+          "nameText": "A container contains 40 liters of milk. From this container 4 liters of milk was taken out and replaced by water. This process was repeated further two times. How much milk Is now contained by the container?",
+          "type": "multiple_choice",
+          "createdBy": "609d141ffef055578d05892c",
+          "order": 13,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p>445 km</p>",
+              "nameText": "445 km",
+              "order": 1,
+              "isNewOption": false,
+              "_id": "661ce928b8749731f7c839c9"
+            },
+            {
+              "name": "<p>444 km</p>",
+              "nameText": "444 km",
+              "order": 2,
+              "isNewOption": false,
+              "_id": "661ce928b874972b16c839ca"
+            },
+            {
+              "name": "<p>440 km</p>",
+              "nameText": "440 km",
+              "order": 3,
+              "isNewOption": false,
+              "_id": "661ce928b874977677c839cb"
+            },
+            {
+              "name": "<p>450 km</p>",
+              "nameText": "450 km",
+              "order": 4,
+              "isNewOption": false,
+              "_id": "661ce928b87497b21fc839cc"
+            }
+          ],
+          "_id": "661cdde4ab9847590f8df9ef",
+          "isGlobal": false,
+          "name": "<p><span style=\"color: #000000; font-family: Arial, Helvetica, sans-serif; font-size: 12pt;\">The Ghaziabad-Hapur-Meerut EMU and the Meerut-Hapur- Ghaziabad EMU start at the same time from Ghaziabad and Meerut and proceed towards each other at 16 km/hr and 21 km/hr, respectively. When they meet, it is found that one train </span><span style=\"color: #000000; font-family: Arial, Helvetica, sans-serif; font-size: 12pt;\">has travelled 60 km more than the other. The distance between </span><span style=\"color: #000000; font-family: Arial, Helvetica, sans-serif; font-size: 12pt;\">two stations is:</span></p>",
+          "paragraph": null,
+          "nameText": "The Ghaziabad-Hapur-Meerut EMU and the Meerut-Hapur- Ghaziabad EMU start at the same time from Ghaziabad and Meerut and proceed towards each other at 16 km/hr and 21 km/hr, respectively. When they meet, it is found that one train has travelled 60 km more than the other. The distance between two stations is:",
+          "type": "multiple_choice",
+          "createdBy": "609d141ffef055578d05892c",
+          "order": 14,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        }
+      ]
+    }
+  ],
+  "practiceTestUrls": [],
+  "updateAfterSync": {},
+  "currentSection": "661cddd54bd0267a580ef603",
+  "testTotalDuration": 900000,
+  "examStartDate": "2026-09-20T19:25:56.125Z"
+}

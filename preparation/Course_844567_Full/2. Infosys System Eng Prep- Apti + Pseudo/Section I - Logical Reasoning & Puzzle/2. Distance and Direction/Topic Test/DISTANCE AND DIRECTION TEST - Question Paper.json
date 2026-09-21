@@ -1,0 +1,707 @@
+{
+  "_id": "60e885e28446f7828bcfe940",
+  "settings": {
+    "fonts": {},
+    "grades": {
+      "A": {
+        "max": 100,
+        "min": 70
+      },
+      "B": {
+        "max": 69,
+        "min": 50
+      },
+      "C": {
+        "max": 49,
+        "min": 35
+      },
+      "D": {
+        "max": 34,
+        "min": 20
+      },
+      "E": {
+        "max": 19,
+        "min": 10
+      },
+      "F": {
+        "max": 9,
+        "min": 0
+      }
+    },
+    "hasOptionalQuestions": false,
+    "settingsForRTG": {},
+    "generateBatchRank": true,
+    "defaultFont": null,
+    "generateInstitutionalRank": true,
+    "generatePercentile": true,
+    "showQuestionWiseTime": true,
+    "allowResultSharing": true,
+    "showQuestionTimer": true,
+    "calculatorType": null,
+    "enableLetterGrading": true,
+    "generateRandomTest": false,
+    "isSectionSwitchingEnabled": true,
+    "shuffleQuestions": false,
+    "showAnswers": true,
+    "isSolutionMultipleViewEnabled": true,
+    "shuffleOptions": false,
+    "revealCorrectAnswers": "all",
+    "revealAnswersTime": "now",
+    "parseMathJax": false
+  },
+  "isReadyToLink": true,
+  "isLinked": true,
+  "instructions": "",
+  "isSectionEnable": false,
+  "isReloadRequired": false,
+  "totalNumberOfQuestions": 10,
+  "totalMarks": 10,
+  "isAttempted": true,
+  "name": "DISTANCE AND DIRECTION TEST",
+  "duration": 720000,
+  "createdBy": "609d141ffef055578d05892c",
+  "parentFolder": "60dc8da46dd5421eea70833f",
+  "sections": [
+    {
+      "draftMode": false,
+      "isActive": true,
+      "sectionDuration": 0,
+      "sectionMarks": 10,
+      "sectionInstructions": "<p>PLEASE ATTEMPT EVERY QUESTION</p>",
+      "hasOptionalQuestions": false,
+      "_id": "60e88609ebeee2948604412e",
+      "name": "DISTANCE AND DIRECTION",
+      "order": 1,
+      "numberOfQuestions": 10,
+      "questions": [
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0.25,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "id": "a9c4f92c-a97e-4faa-938a-e864cfc1e1c9",
+              "name": "<p>12m</p>",
+              "nameText": "12m",
+              "order": 1,
+              "isNewOption": false,
+              "_id": "60e83982688f9e7e89efd8c0"
+            },
+            {
+              "id": "94148b11-b381-47db-911e-3c212fbc8ede",
+              "name": "<p>28m</p>",
+              "nameText": "28m",
+              "order": 2,
+              "isNewOption": false,
+              "_id": "60e83982688f9e4835efd8c1"
+            },
+            {
+              "id": "0d9c63e7-f060-46f8-8de0-c4e907a46db9",
+              "name": "<p>30m</p>",
+              "nameText": "30m",
+              "order": 3,
+              "isNewOption": false,
+              "_id": "60e83982688f9ea878efd8c2"
+            },
+            {
+              "id": "58baa3d6-2d84-4e3b-8e9c-3176ff7a743d",
+              "name": "<p>20m</p>",
+              "nameText": "20m",
+              "order": 4,
+              "isNewOption": false,
+              "_id": "60e83982688f9e7fd2efd8c3"
+            },
+            {
+              "name": "<p>None of these</p>",
+              "nameText": "None of these",
+              "order": 4,
+              "isNewOption": true,
+              "_id": "60e83982688f9e7188efd8c4"
+            }
+          ],
+          "_id": "60e8377740775d07da23b082",
+          "isGlobal": false,
+          "name": "<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 12pt;\">Directions (1-5): Study the following information carefully and answer the questions given below:</span></strong></p>\n<p class=\"MsoNormal\">&nbsp;</p>\n<p><strong><span style=\"font-family: Calibri, sans-serif; font-size: 12pt;\">Payal starts walking from point A, walks 8m in east direction and reach at point B. From point B she takes a left turn and walks 10m to reach at point C, then takes two consecutive right turn and walks 6m and 14m respectively to reach her friend Nisha&rsquo;s house. Aparna starts walking in south direction from point P and walks 5m to reach at point Q, then takes a right turn and walks 6m to reach at point R. From point R she takes a left turn and walks 7m to reach at point S. From point S she takes a right turn and walks 24m and reach at point T, then finally takes a left turn and walks 7m to reach her friend Nisha&rsquo;s house.</span></strong></p>\n<p class=\"MsoNormal\">&nbsp;</p>\n<p class=\"MsoNormal\">&nbsp;</p>\n<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 12pt;\">Q1. What is the distance between point C to point R?</span></strong></p>",
+          "paragraph": null,
+          "nameText": "Directions (1-5): Study the following information carefully and answer the questions given below:\n \nPayal starts walking from point A, walks 8m in east direction and reach at point B. From point B she takes a left turn and walks 10m to reach at point C, then takes two consecutive right turn and walks 6m and 14m respectively to reach her friend Nisha’s house. Aparna starts walking in south direction from point P and walks 5m to reach at point Q, then takes a right turn and walks 6m to reach at point R. From point R she takes a left turn and walks 7m to reach at point S. From point S she takes a right turn and walks 24m and reach at point T, then finally takes a left turn and walks 7m to reach her friend Nisha’s house.\n \n \nQ1. What is the distance between point C to point R?",
+          "type": "multiple_choice",
+          "createdBy": "609d141ffef055578d05892c",
+          "order": 1,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0.25,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "id": "d3478286-3e6b-4158-a4fe-76adc91781d0",
+              "name": "<p>49m</p>",
+              "nameText": "49m",
+              "order": 1,
+              "isNewOption": false,
+              "_id": "60e83a68ebeee2305d03db02"
+            },
+            {
+              "id": "84f6e2ca-5cc1-477f-8bb0-65530ab5fc4d",
+              "name": "<p>25m</p>",
+              "nameText": "25m",
+              "order": 2,
+              "isNewOption": false,
+              "_id": "60e83a68ebeee2264c03db03"
+            },
+            {
+              "id": "f49a2947-fc87-4b16-9df7-c2d6fb4d3763",
+              "name": "<p>16m</p>",
+              "nameText": "16m",
+              "order": 3,
+              "isNewOption": false,
+              "_id": "60e83a68ebeee25f6803db04"
+            },
+            {
+              "id": "a72afcd9-7bc5-4ce1-900f-61ac4d896077",
+              "name": "<p>30m</p>",
+              "nameText": "30m",
+              "order": 4,
+              "isNewOption": false,
+              "_id": "60e83a68ebeee22eb303db05"
+            },
+            {
+              "name": "<p class=\"MsoNormal\"><span lang=\"EN-IN\">&nbsp;None of these</span></p>",
+              "nameText": " None of these",
+              "order": 4,
+              "isNewOption": true,
+              "_id": "60e83a68ebeee200f703db06"
+            }
+          ],
+          "_id": "60e8377740775d151c23b087",
+          "isGlobal": false,
+          "name": "<p><strong><span style=\"font-size: 12pt;\">&nbsp;What is the shortest distance between point S to Nisha&rsquo;s house?</span></strong></p>",
+          "paragraph": null,
+          "nameText": " What is the shortest distance between point S to Nisha’s house?",
+          "type": "multiple_choice",
+          "createdBy": "609d141ffef055578d05892c",
+          "order": 2,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0.25,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "id": "2c38f4c1-9547-45f3-b9e0-0fe8e2b0e47f",
+              "name": "<p class=\"MsoNormal\"><span lang=\"EN-IN\">&nbsp;South-West</span></p>",
+              "nameText": " South-West",
+              "order": 1,
+              "isNewOption": false,
+              "_id": "60e83b3dc1ad68bd2ec7aded"
+            },
+            {
+              "id": "63a3e7b0-e3f2-4128-8a7d-0a150a5ada47",
+              "name": "<p>North</p>",
+              "nameText": "North",
+              "order": 2,
+              "isNewOption": false,
+              "_id": "60e83b3dc1ad68c234c7adee"
+            },
+            {
+              "id": "6cfee423-5b55-4477-99bd-3eef89053bde",
+              "name": "<p>East</p>",
+              "nameText": "East",
+              "order": 3,
+              "isNewOption": false,
+              "_id": "60e83b3dc1ad683127c7adef"
+            },
+            {
+              "id": "17dd4a28-0ade-4999-8ca6-701f6beee59e",
+              "name": "<p>North-east</p>",
+              "nameText": "North-east",
+              "order": 4,
+              "isNewOption": false,
+              "_id": "60e83b3dc1ad685350c7adf0"
+            },
+            {
+              "name": "<p class=\"MsoNormal\"><span lang=\"EN-IN\">&nbsp;None of these</span></p>",
+              "nameText": " None of these",
+              "order": 4,
+              "isNewOption": true,
+              "_id": "60e83b3dc1ad68ebf5c7adf1"
+            }
+          ],
+          "_id": "60e8377740775d198023b08c",
+          "isGlobal": false,
+          "name": "<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 12pt;\">Directions (1-5): Study the following information carefully and answer the questions given below:</span></strong></p>\n<p class=\"MsoNormal\">&nbsp;</p>\n<p><strong><span style=\"font-family: Calibri, sans-serif; font-size: 12pt;\">Payal starts walking from point A, walks 8m in east direction and reach at point B. From point B she takes a left turn and walks 10m to reach at point C, then takes two consecutive right turn and walks 6m and 14m respectively to reach her friend Nisha&rsquo;s house. Aparna starts walking in south direction from point P and walks 5m to reach at point Q, then takes a right turn and walks 6m to reach at point R. From point R she takes a left turn and walks 7m to reach at point S. From point S she takes a right turn and walks 24m and reach at point T, then finally takes a left turn and walks 7m to reach her friend Nisha&rsquo;s house</span></strong></p>\n<p class=\"MsoNormal\">&nbsp;</p>\n<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 12pt;\">Q3. What is the direction of point P with respect to point B?</span></strong></p>",
+          "paragraph": null,
+          "nameText": "Directions (1-5): Study the following information carefully and answer the questions given below:\n \nPayal starts walking from point A, walks 8m in east direction and reach at point B. From point B she takes a left turn and walks 10m to reach at point C, then takes two consecutive right turn and walks 6m and 14m respectively to reach her friend Nisha’s house. Aparna starts walking in south direction from point P and walks 5m to reach at point Q, then takes a right turn and walks 6m to reach at point R. From point R she takes a left turn and walks 7m to reach at point S. From point S she takes a right turn and walks 24m and reach at point T, then finally takes a left turn and walks 7m to reach her friend Nisha’s house\n \nQ3. What is the direction of point P with respect to point B?",
+          "type": "multiple_choice",
+          "createdBy": "609d141ffef055578d05892c",
+          "order": 3,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0.25,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "id": "428384b8-da7a-42cc-8dfa-627d8ff03e61",
+              "name": "<p><span lang=\"EN-IN\" style=\"font-size: 11.0pt; line-height: 107%; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">&nbsp;3&radic;5m, south-west</span></p>",
+              "nameText": " 3√5m, south-west",
+              "order": 1,
+              "isNewOption": false,
+              "_id": "60e83d2c4e23b0e46ae074c3"
+            },
+            {
+              "id": "dfedd501-f7c4-4ac9-83e1-2d9213dc7665",
+              "name": "<p class=\"MsoNormal\"><span lang=\"EN-IN\">&nbsp;45m, east</span></p>",
+              "nameText": " 45m, east",
+              "order": 2,
+              "isNewOption": false,
+              "_id": "60e83d2c4e23b059b1e074c4"
+            },
+            {
+              "id": "dab78307-dd43-4512-8f30-a12805a122fe",
+              "name": "<p class=\"MsoNormal\"><span lang=\"EN-IN\">&nbsp;3&radic;5m, north-east</span></p>",
+              "nameText": " 3√5m, north-east",
+              "order": 3,
+              "isNewOption": false,
+              "_id": "60e83d2c4e23b06921e074c5"
+            },
+            {
+              "id": "bdbad63d-af1e-48e1-a824-6d24d352de03",
+              "name": "<p class=\"MsoNormal\"><span lang=\"EN-IN\">&nbsp;35, west</span></p>",
+              "nameText": " 35, west",
+              "order": 4,
+              "isNewOption": false,
+              "_id": "60e83d2c4e23b0724ee074c6"
+            },
+            {
+              "name": "<p class=\"MsoNormal\"><span lang=\"EN-IN\">&nbsp;None of these</span></p>",
+              "nameText": " None of these",
+              "order": 4,
+              "isNewOption": true,
+              "_id": "60e83d2c4e23b0b35ce074c7"
+            }
+          ],
+          "_id": "60e8377740775d547223b091",
+          "isGlobal": false,
+          "name": "<p><strong><span style=\"font-size: 12pt;\">&nbsp;What is the direction and distance between point T with respect to point B?</span></strong></p>",
+          "paragraph": null,
+          "nameText": " What is the direction and distance between point T with respect to point B?",
+          "type": "multiple_choice",
+          "createdBy": "609d141ffef055578d05892c",
+          "order": 4,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0.25,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "id": "cda5c308-74ae-45de-a53e-074d9e5614cc",
+              "name": "<p>South</p>",
+              "nameText": "South",
+              "order": 1,
+              "isNewOption": false,
+              "_id": "60e83dc0b0db836dac89a681"
+            },
+            {
+              "id": "3b6646e8-239b-4400-b2db-d058630dff42",
+              "name": "<p>South-west</p>",
+              "nameText": "South-west",
+              "order": 2,
+              "isNewOption": false,
+              "_id": "60e83dc0b0db839d7089a682"
+            },
+            {
+              "id": "9abe95f8-cdfa-424d-b460-40953bf9ee28",
+              "name": "<p>North-east</p>",
+              "nameText": "North-east",
+              "order": 3,
+              "isNewOption": false,
+              "_id": "60e83dc0b0db837ef189a683"
+            },
+            {
+              "id": "53c9ff8f-0835-46db-a360-acb5316d612b",
+              "name": "<p>West</p>",
+              "nameText": "West",
+              "order": 4,
+              "isNewOption": false,
+              "_id": "60e83dc0b0db83b71c89a684"
+            },
+            {
+              "name": "<p>None of these</p>",
+              "nameText": "None of these",
+              "order": 4,
+              "isNewOption": true,
+              "_id": "60e83dc0b0db8306eb89a685"
+            }
+          ],
+          "_id": "60e8377740775d680723b096",
+          "isGlobal": false,
+          "name": "<p><strong><span style=\"font-size: 12pt;\">&nbsp;What is the direction of point T with respect to point P?</span></strong></p>",
+          "paragraph": null,
+          "nameText": " What is the direction of point T with respect to point P?",
+          "type": "multiple_choice",
+          "createdBy": "609d141ffef055578d05892c",
+          "order": 5,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0.25,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "id": "1769bb45-f6b3-470e-a2fb-f1389b47be74",
+              "name": "<p>14m</p>",
+              "nameText": "14m",
+              "order": 1,
+              "isNewOption": false,
+              "_id": "60e83e8c7490ef0966d01dd7"
+            },
+            {
+              "id": "a7287d2d-7d81-413f-b7a3-cbf457bc3ed4",
+              "name": "<p>11m</p>",
+              "nameText": "11m",
+              "order": 2,
+              "isNewOption": false,
+              "_id": "60e83e8c7490ef11a2d01dd8"
+            },
+            {
+              "id": "4e4e57f6-2173-484e-883b-3ea8961e5dd4",
+              "name": "<p>13m</p>",
+              "nameText": "13m",
+              "order": 3,
+              "isNewOption": false,
+              "_id": "60e83e8c7490ef6fabd01dd9"
+            },
+            {
+              "id": "3808ff84-48fe-4cf6-bd43-692a53285ed7",
+              "name": "<p>10m</p>",
+              "nameText": "10m",
+              "order": 4,
+              "isNewOption": false,
+              "_id": "60e83e8c7490ef38d0d01dda"
+            },
+            {
+              "name": "<p>5m</p>",
+              "nameText": "5m",
+              "order": 4,
+              "isNewOption": true,
+              "_id": "60e83e8c7490efe3b6d01ddb"
+            }
+          ],
+          "_id": "60e8377740775dde2023b09b",
+          "isGlobal": false,
+          "name": "<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 12pt;\">Directions (6-9): Study the information carefully and answer the questions given below.</span></strong></p>\n<p class=\"MsoNormal\">&nbsp;</p>\n<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 12pt;\">Point B is 10m north of A. Point C is 24m south of D which is 5m east of E. Point G is 5m west of F. Point C is 15m east of B. point F is 12m south of point E.</span></strong></p>\n<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 12pt;\">&nbsp;</span></strong></p>\n<p><strong><span style=\"font-size: 12pt;\">Q6. What is the shortest distance between G and B?</span></strong></p>",
+          "paragraph": null,
+          "nameText": "Directions (6-9): Study the information carefully and answer the questions given below.\n \nPoint B is 10m north of A. Point C is 24m south of D which is 5m east of E. Point G is 5m west of F. Point C is 15m east of B. point F is 12m south of point E.\n \nQ6. What is the shortest distance between G and B?",
+          "type": "multiple_choice",
+          "createdBy": "609d141ffef055578d05892c",
+          "order": 6,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0.25,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "id": "e76f911d-01aa-48e7-9c7f-9dbaef9bdb68",
+              "name": "<p class=\"MsoNormal\"><span lang=\"EN-IN\">&nbsp;South-west</span></p>",
+              "nameText": " South-west",
+              "order": 1,
+              "isNewOption": false,
+              "_id": "60e83f4b688f9effcfefe757"
+            },
+            {
+              "id": "d9260232-7211-4844-845e-f41c40aebd58",
+              "name": "<p class=\"MsoNormal\"><span lang=\"EN-IN\">&nbsp;North-east</span></p>",
+              "nameText": " North-east",
+              "order": 2,
+              "isNewOption": false,
+              "_id": "60e83f4b688f9e55e5efe758"
+            },
+            {
+              "id": "7b96434e-e518-4e51-9163-503c138cde5e",
+              "name": "<p>South</p>",
+              "nameText": "South",
+              "order": 3,
+              "isNewOption": false,
+              "_id": "60e83f4b688f9e6c62efe759"
+            },
+            {
+              "id": "57368229-eac9-4ec0-8941-f106c3c1d537",
+              "name": "<p>North</p>",
+              "nameText": "North",
+              "order": 4,
+              "isNewOption": false,
+              "_id": "60e83f4b688f9ec5f4efe75a"
+            },
+            {
+              "name": "<p class=\"MsoNormal\"><span lang=\"EN-IN\">North-west</span></p>",
+              "nameText": "North-west",
+              "order": 4,
+              "isNewOption": true,
+              "_id": "60e83f4b688f9e08abefe75b"
+            }
+          ],
+          "_id": "60e8377740775d639f23b0a0",
+          "isGlobal": false,
+          "name": "<p><strong><span style=\"font-family: Calibri, sans-serif; font-size: 12pt;\">What is the direction of E with respect of G?</span></strong></p>",
+          "paragraph": null,
+          "nameText": "What is the direction of E with respect of G?",
+          "type": "multiple_choice",
+          "createdBy": "609d141ffef055578d05892c",
+          "order": 7,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0.25,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "id": "7e8b16b7-2443-49e7-b537-c903c1704303",
+              "name": "<p><span lang=\"EN-IN\" style=\"font-size: 11.0pt; line-height: 107%; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">&nbsp;12m, North-East</span></p>",
+              "nameText": " 12m, North-East",
+              "order": 1,
+              "isNewOption": false,
+              "_id": "60e84014cf98811fb35f3129"
+            },
+            {
+              "id": "e5973f95-fd67-407c-ab57-a92cc34d59c4",
+              "name": "<p class=\"MsoNormal\"><span lang=\"EN-IN\">&nbsp;7m, North</span></p>",
+              "nameText": " 7m, North",
+              "order": 2,
+              "isNewOption": false,
+              "_id": "60e84014cf98815be05f312a"
+            },
+            {
+              "id": "ffdcaa3b-3646-4a9a-aac3-4a6beaca9922",
+              "name": "<p class=\"MsoNormal\"><span lang=\"EN-IN\">15m, South-west</span></p>",
+              "nameText": "15m, South-west",
+              "order": 3,
+              "isNewOption": false,
+              "_id": "60e84014cf98817db05f312b"
+            },
+            {
+              "id": "8319926f-4a6b-4b9b-8631-75339b8498c0",
+              "name": "<p class=\"MsoNormal\"><span lang=\"EN-IN\">&nbsp;17m, North-East</span></p>",
+              "nameText": " 17m, North-East",
+              "order": 4,
+              "isNewOption": false,
+              "_id": "60e84014cf9881eb6f5f312c"
+            },
+            {
+              "name": "<p class=\"MsoNormal\"><span lang=\"EN-IN\">10m, North-west</span></p>",
+              "nameText": "10m, North-west",
+              "order": 4,
+              "isNewOption": true,
+              "_id": "60e84014cf9881df015f312d"
+            }
+          ],
+          "_id": "60e8377740775d4fff23b0a5",
+          "isGlobal": false,
+          "name": "<p><strong><span style=\"font-size: 12pt;\">If point H is 8m north of C, what is the direction and distance of Point H with respect to B?</span></strong></p>",
+          "paragraph": null,
+          "nameText": "If point H is 8m north of C, what is the direction and distance of Point H with respect to B?",
+          "type": "multiple_choice",
+          "createdBy": "609d141ffef055578d05892c",
+          "order": 8,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0.25,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "id": "f585a555-072d-4b91-a0df-ef6b399f8d37",
+              "name": "<p><span lang=\"EN-IN\" style=\"font-size: 11.0pt; line-height: 107%; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">&nbsp;South- East</span></p>",
+              "nameText": " South- East",
+              "order": 1,
+              "isNewOption": false,
+              "_id": "60e840adcf988102dc5f324c"
+            },
+            {
+              "id": "7d6f4f03-784d-4d8b-b63f-2f48b7b61e8e",
+              "name": "<p class=\"MsoNormal\"><span lang=\"EN-IN\">&nbsp;North- West</span></p>",
+              "nameText": " North- West",
+              "order": 2,
+              "isNewOption": false,
+              "_id": "60e840adcf98815ee75f324d"
+            },
+            {
+              "id": "59c6046a-03e8-46b7-9f71-d1402bd6a1ab",
+              "name": "<p class=\"MsoNormal\"><span lang=\"EN-IN\">&nbsp;South-West</span></p>",
+              "nameText": " South-West",
+              "order": 3,
+              "isNewOption": false,
+              "_id": "60e840adcf98819fb05f324e"
+            },
+            {
+              "id": "53c832ce-9501-46a0-a3c8-64d0cd8052a7",
+              "name": "<p>North</p>",
+              "nameText": "North",
+              "order": 4,
+              "isNewOption": false,
+              "_id": "60e840adcf988181c55f324f"
+            },
+            {
+              "name": "<p>South</p>",
+              "nameText": "South",
+              "order": 4,
+              "isNewOption": true,
+              "_id": "60e840adcf988177ac5f3250"
+            }
+          ],
+          "_id": "60e8377740775dd5f423b0aa",
+          "isGlobal": false,
+          "name": "<p><strong><span style=\"font-size: 12pt;\">What is the direction of A with respect to F?</span></strong></p>",
+          "paragraph": null,
+          "nameText": "What is the direction of A with respect to F?",
+          "type": "multiple_choice",
+          "createdBy": "609d141ffef055578d05892c",
+          "order": 9,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0.25,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "id": "88d6e8a1-10f4-4dfc-b71e-1e7fac03c54d",
+              "name": "<p>North</p>",
+              "nameText": "North",
+              "order": 1,
+              "isNewOption": false,
+              "_id": "60e84156924a866b8e128933"
+            },
+            {
+              "id": "d79bfccd-5702-42ac-bcce-3a35ec9b0efc",
+              "name": "<p>South</p>",
+              "nameText": "South",
+              "order": 2,
+              "isNewOption": false,
+              "_id": "60e84156924a8644b5128934"
+            },
+            {
+              "id": "bce1c54d-90a9-45b0-93df-cd9ff7bfa37b",
+              "name": "<p class=\"MsoNormal\"><span lang=\"EN-IN\">&nbsp;North- East</span></p>",
+              "nameText": " North- East",
+              "order": 3,
+              "isNewOption": false,
+              "_id": "60e84156924a862bd3128935"
+            },
+            {
+              "id": "fe4b9820-c6df-433e-9dbb-6d72919f2caa",
+              "name": "<p class=\"MsoNormal\"><span lang=\"EN-IN\">&nbsp;South- West</span></p>",
+              "nameText": " South- West",
+              "order": 4,
+              "isNewOption": false,
+              "_id": "60e84156924a862b35128936"
+            },
+            {
+              "name": "<p><span lang=\"EN-IN\" style=\"font-size: 11.0pt; line-height: 107%; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">&nbsp;South- East</span></p>",
+              "nameText": " South- East",
+              "order": 4,
+              "isNewOption": true,
+              "_id": "60e84156924a860b88128937"
+            }
+          ],
+          "_id": "60e8377740775df33223b0af",
+          "isGlobal": false,
+          "name": "<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 12pt;\">&nbsp;</span></strong></p>\n<p><strong><span style=\"font-size: 12pt;\">&nbsp;If A@B means &lsquo;B is west of A&rsquo;, A#B means &lsquo;A is south of B&rsquo;, A%B means &lsquo;A is east of B&rsquo; and A&amp;B means &lsquo;A is north of B&rsquo;. Then what is the direction of P with respect of R in the given expression- P % Q # S @ R.</span></strong></p>",
+          "paragraph": null,
+          "nameText": " \n If A@B means ‘B is west of A’, A#B means ‘A is south of B’, A%B means ‘A is east of B’ and A&B means ‘A is north of B’. Then what is the direction of P with respect of R in the given expression- P % Q # S @ R.",
+          "type": "multiple_choice",
+          "createdBy": "609d141ffef055578d05892c",
+          "order": 10,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        }
+      ]
+    }
+  ],
+  "practiceTestUrls": [],
+  "updateAfterSync": {},
+  "isCdnUpdated": false,
+  "lastAttemptedAt": "2026-09-20T14:24:48.374Z",
+  "currentSection": "60e88609ebeee2948604412e",
+  "testTotalDuration": 720000,
+  "examStartDate": "2026-09-20T18:47:44.645Z"
+}

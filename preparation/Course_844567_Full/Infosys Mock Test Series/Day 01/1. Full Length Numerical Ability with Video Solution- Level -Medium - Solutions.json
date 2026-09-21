@@ -1,0 +1,3662 @@
+{
+  "662358e5f22609059a7d5b27": {
+    "correctOption": "",
+    "multiCorrectOptions": null,
+    "range": {
+      "start": "21600",
+      "end": "21600"
+    },
+    "negMarks": 0,
+    "posMarks": 2,
+    "skipMarks": 0,
+    "partialM": {
+      "type": "",
+      "marks": 0
+    },
+    "isPartialMarking": false,
+    "sol": {
+      "en": {
+        "value": "<p><iframe title=\"TCS NQT FREE MAHA MOCK Q3\" src=\"//www.youtube.com/embed/ReF1N-z2u-s\" width=\"780\" height=\"439\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+        "type": "cp",
+        "videoSol": ""
+      },
+      "hn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "te": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mr": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ml": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "gu": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ta": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "or": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "as": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ks": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kok": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mni": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ne": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "pa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sd": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ur": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sat": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mai": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "brx": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "doi": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "grt": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kha": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "lus": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bo": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "trp": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      }
+    },
+    "tags": null,
+    "globalConcept": null,
+    "stats": {
+      "totalStudents": 3243,
+      "bestTime": 0,
+      "averageTime": 94.845513413506,
+      "attempts": {
+        "correct": 186,
+        "incorrect": 1172,
+        "partial": 0,
+        "skipped": 0,
+        "skipOptionSelected": 1885
+      },
+      "sectionNo": 0,
+      "subSectionNo": 0
+    },
+    "votes": 0,
+    "SSNo": 1,
+    "SSSNo": 0,
+    "marksObtained": 0,
+    "studentResStatus": "",
+    "studentResponse": {
+      "time": 0,
+      "visits": null
+    }
+  },
+  "662358e5f226090a267d5b2b": {
+    "correctOption": "",
+    "multiCorrectOptions": null,
+    "range": {
+      "start": "6",
+      "end": "6"
+    },
+    "negMarks": 0,
+    "posMarks": 2,
+    "skipMarks": 0,
+    "partialM": {
+      "type": "",
+      "marks": 0
+    },
+    "isPartialMarking": false,
+    "sol": {
+      "en": {
+        "value": "<p><iframe title=\"TCS NQT FREE MAHA MOCK Q5\" src=\"//www.youtube.com/embed/Ba4Sj5hiG5o\" width=\"780\" height=\"439\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+        "type": "cp",
+        "videoSol": ""
+      },
+      "hn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "te": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mr": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ml": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "gu": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ta": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "or": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "as": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ks": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kok": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mni": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ne": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "pa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sd": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ur": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sat": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mai": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "brx": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "doi": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "grt": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kha": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "lus": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bo": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "trp": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      }
+    },
+    "tags": null,
+    "globalConcept": null,
+    "stats": {
+      "totalStudents": 3243,
+      "bestTime": 0,
+      "averageTime": 106.47116867098366,
+      "attempts": {
+        "correct": 425,
+        "incorrect": 631,
+        "partial": 0,
+        "skipped": 0,
+        "skipOptionSelected": 2187
+      },
+      "sectionNo": 0,
+      "subSectionNo": 0
+    },
+    "votes": 0,
+    "SSNo": 1,
+    "SSSNo": 0,
+    "marksObtained": 0,
+    "studentResStatus": "",
+    "studentResponse": {
+      "time": 0,
+      "visits": null
+    }
+  },
+  "662358e5f22609119b7d5b23": {
+    "correctOption": "",
+    "multiCorrectOptions": null,
+    "range": {
+      "start": "10",
+      "end": "10"
+    },
+    "negMarks": 0,
+    "posMarks": 2,
+    "skipMarks": 0,
+    "partialM": {
+      "type": "",
+      "marks": 0
+    },
+    "isPartialMarking": false,
+    "sol": {
+      "en": {
+        "value": "<p><iframe title=\"TCS NQT FREE MAHA MOCK Q1\" src=\"//www.youtube.com/embed/Lrg1kcliIbY\" width=\"780\" height=\"439\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+        "type": "cp",
+        "videoSol": ""
+      },
+      "hn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "te": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mr": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ml": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "gu": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ta": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "or": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "as": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ks": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kok": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mni": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ne": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "pa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sd": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ur": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sat": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mai": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "brx": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "doi": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "grt": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kha": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "lus": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bo": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "trp": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      }
+    },
+    "tags": null,
+    "globalConcept": null,
+    "stats": {
+      "totalStudents": 3243,
+      "bestTime": 0,
+      "averageTime": 152.16805427073706,
+      "attempts": {
+        "correct": 438,
+        "incorrect": 1010,
+        "partial": 0,
+        "skipped": 0,
+        "skipOptionSelected": 1795
+      },
+      "sectionNo": 0,
+      "subSectionNo": 0
+    },
+    "votes": 0,
+    "SSNo": 1,
+    "SSSNo": 0,
+    "marksObtained": 0,
+    "studentResStatus": "",
+    "studentResponse": {
+      "time": 0,
+      "visits": null
+    }
+  },
+  "662358e5f226093ad47d5b33": {
+    "correctOption": "",
+    "multiCorrectOptions": null,
+    "range": {
+      "start": "45000",
+      "end": "45000"
+    },
+    "negMarks": 0,
+    "posMarks": 2,
+    "skipMarks": 0,
+    "partialM": {
+      "type": "",
+      "marks": 0
+    },
+    "isPartialMarking": false,
+    "sol": {
+      "en": {
+        "value": "<p><iframe title=\"TCS NQT FREE MAHA MOCK Q9\" src=\"//www.youtube.com/embed/MLCC0vdAJNw\" width=\"780\" height=\"439\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+        "type": "cp",
+        "videoSol": ""
+      },
+      "hn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "te": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mr": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ml": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "gu": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ta": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "or": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "as": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ks": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kok": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mni": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ne": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "pa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sd": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ur": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sat": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mai": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "brx": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "doi": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "grt": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kha": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "lus": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bo": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "trp": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      }
+    },
+    "tags": null,
+    "globalConcept": null,
+    "stats": {
+      "totalStudents": 3243,
+      "bestTime": 0,
+      "averageTime": 61.059204440333,
+      "attempts": {
+        "correct": 289,
+        "incorrect": 677,
+        "partial": 0,
+        "skipped": 0,
+        "skipOptionSelected": 2277
+      },
+      "sectionNo": 0,
+      "subSectionNo": 0
+    },
+    "votes": 0,
+    "SSNo": 1,
+    "SSSNo": 0,
+    "marksObtained": 0,
+    "studentResStatus": "",
+    "studentResponse": {
+      "time": 0,
+      "visits": null
+    }
+  },
+  "662358e5f226093cd27d5b2f": {
+    "correctOption": "",
+    "multiCorrectOptions": null,
+    "range": {
+      "start": "240000",
+      "end": "240000"
+    },
+    "negMarks": 0,
+    "posMarks": 2,
+    "skipMarks": 0,
+    "partialM": {
+      "type": "",
+      "marks": 0
+    },
+    "isPartialMarking": false,
+    "sol": {
+      "en": {
+        "value": "<p><iframe title=\"TCS NQT FREE MAHA MOCK Q7\" src=\"//www.youtube.com/embed/XapZjxCNDLg\" width=\"780\" height=\"439\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+        "type": "cp",
+        "videoSol": ""
+      },
+      "hn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "te": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mr": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ml": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "gu": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ta": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "or": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "as": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ks": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kok": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mni": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ne": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "pa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sd": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ur": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sat": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mai": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "brx": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "doi": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "grt": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kha": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "lus": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bo": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "trp": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      }
+    },
+    "tags": null,
+    "globalConcept": null,
+    "stats": {
+      "totalStudents": 3243,
+      "bestTime": 0,
+      "averageTime": 101.36293555349988,
+      "attempts": {
+        "correct": 388,
+        "incorrect": 684,
+        "partial": 0,
+        "skipped": 0,
+        "skipOptionSelected": 2171
+      },
+      "sectionNo": 0,
+      "subSectionNo": 0
+    },
+    "votes": 0,
+    "SSNo": 1,
+    "SSSNo": 0,
+    "marksObtained": 0,
+    "studentResStatus": "",
+    "studentResponse": {
+      "time": 0,
+      "visits": null
+    }
+  },
+  "662358e5f226094ffd7d5b2d": {
+    "correctOption": "",
+    "multiCorrectOptions": null,
+    "range": {
+      "start": "14",
+      "end": "14"
+    },
+    "negMarks": 0,
+    "posMarks": 2,
+    "skipMarks": 0,
+    "partialM": {
+      "type": "",
+      "marks": 0
+    },
+    "isPartialMarking": false,
+    "sol": {
+      "en": {
+        "value": "<p><iframe title=\"TCS NQT FREE MAHA MOCK Q6\" src=\"//www.youtube.com/embed/vD8QfVM6C_g\" width=\"780\" height=\"439\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+        "type": "cp",
+        "videoSol": ""
+      },
+      "hn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "te": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mr": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ml": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "gu": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ta": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "or": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "as": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ks": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kok": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mni": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ne": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "pa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sd": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ur": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sat": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mai": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "brx": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "doi": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "grt": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kha": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "lus": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bo": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "trp": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      }
+    },
+    "tags": null,
+    "globalConcept": null,
+    "stats": {
+      "totalStudents": 3243,
+      "bestTime": 0,
+      "averageTime": 72.80018501387634,
+      "attempts": {
+        "correct": 647,
+        "incorrect": 863,
+        "partial": 0,
+        "skipped": 0,
+        "skipOptionSelected": 1733
+      },
+      "sectionNo": 0,
+      "subSectionNo": 0
+    },
+    "votes": 0,
+    "SSNo": 1,
+    "SSSNo": 0,
+    "marksObtained": 0,
+    "studentResStatus": "",
+    "studentResponse": {
+      "time": 0,
+      "visits": null
+    }
+  },
+  "662358e5f226095e187d5b31": {
+    "correctOption": "",
+    "multiCorrectOptions": null,
+    "range": {
+      "start": "81",
+      "end": "81"
+    },
+    "negMarks": 0,
+    "posMarks": 2,
+    "skipMarks": 0,
+    "partialM": {
+      "type": "",
+      "marks": 0
+    },
+    "isPartialMarking": false,
+    "sol": {
+      "en": {
+        "value": "<p><iframe title=\"TCS NQT FREE MAHA MOCK Q8\" src=\"//www.youtube.com/embed/uePg-C-XGog\" width=\"780\" height=\"439\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+        "type": "cp",
+        "videoSol": ""
+      },
+      "hn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "te": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mr": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ml": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "gu": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ta": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "or": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "as": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ks": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kok": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mni": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ne": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "pa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sd": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ur": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sat": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mai": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "brx": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "doi": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "grt": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kha": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "lus": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bo": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "trp": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      }
+    },
+    "tags": null,
+    "globalConcept": null,
+    "stats": {
+      "totalStudents": 3243,
+      "bestTime": 0,
+      "averageTime": 67.16281221091577,
+      "attempts": {
+        "correct": 588,
+        "incorrect": 730,
+        "partial": 0,
+        "skipped": 0,
+        "skipOptionSelected": 1925
+      },
+      "sectionNo": 0,
+      "subSectionNo": 0
+    },
+    "votes": 0,
+    "SSNo": 1,
+    "SSSNo": 0,
+    "marksObtained": 0,
+    "studentResStatus": "",
+    "studentResponse": {
+      "time": 0,
+      "visits": null
+    }
+  },
+  "662358e5f22609a6d37d5b25": {
+    "correctOption": "",
+    "multiCorrectOptions": null,
+    "range": {
+      "start": "40",
+      "end": "40"
+    },
+    "negMarks": 0,
+    "posMarks": 2,
+    "skipMarks": 0,
+    "partialM": {
+      "type": "",
+      "marks": 0
+    },
+    "isPartialMarking": false,
+    "sol": {
+      "en": {
+        "value": "<p><iframe title=\"TCS NQT FREE MAHA MOCK Q2\" src=\"//www.youtube.com/embed/cdFZxrezzCo\" width=\"780\" height=\"439\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+        "type": "cp",
+        "videoSol": ""
+      },
+      "hn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "te": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mr": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ml": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "gu": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ta": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "or": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "as": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ks": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kok": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mni": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ne": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "pa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sd": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ur": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sat": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mai": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "brx": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "doi": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "grt": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kha": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "lus": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bo": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "trp": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      }
+    },
+    "tags": null,
+    "globalConcept": null,
+    "stats": {
+      "totalStudents": 3243,
+      "bestTime": 0,
+      "averageTime": 112.43046561825471,
+      "attempts": {
+        "correct": 648,
+        "incorrect": 1032,
+        "partial": 0,
+        "skipped": 0,
+        "skipOptionSelected": 1563
+      },
+      "sectionNo": 0,
+      "subSectionNo": 0
+    },
+    "votes": 0,
+    "SSNo": 1,
+    "SSSNo": 0,
+    "marksObtained": 0,
+    "studentResStatus": "",
+    "studentResponse": {
+      "time": 0,
+      "visits": null
+    }
+  },
+  "662358e5f22609c1ae7d5b29": {
+    "correctOption": "",
+    "multiCorrectOptions": null,
+    "range": {
+      "start": "72",
+      "end": "72"
+    },
+    "negMarks": 0,
+    "posMarks": 2,
+    "skipMarks": 0,
+    "partialM": {
+      "type": "",
+      "marks": 0
+    },
+    "isPartialMarking": false,
+    "sol": {
+      "en": {
+        "value": "<p><iframe title=\"TCS NQT FREE MAHA MOCK Q4\" src=\"//www.youtube.com/embed/j91psFOaZTY\" width=\"780\" height=\"439\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+        "type": "cp",
+        "videoSol": ""
+      },
+      "hn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "te": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mr": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ml": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "gu": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ta": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "or": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "as": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ks": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kok": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mni": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ne": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "pa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sd": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ur": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sat": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mai": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "brx": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "doi": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "grt": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kha": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "lus": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bo": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "trp": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      }
+    },
+    "tags": null,
+    "globalConcept": null,
+    "stats": {
+      "totalStudents": 3243,
+      "bestTime": 0,
+      "averageTime": 45.43509096515577,
+      "attempts": {
+        "correct": 89,
+        "incorrect": 480,
+        "partial": 0,
+        "skipped": 0,
+        "skipOptionSelected": 2674
+      },
+      "sectionNo": 0,
+      "subSectionNo": 0
+    },
+    "votes": 0,
+    "SSNo": 1,
+    "SSSNo": 0,
+    "marksObtained": 0,
+    "studentResStatus": "",
+    "studentResponse": {
+      "time": 0,
+      "visits": null
+    }
+  },
+  "66236036666d620113c0a566": {
+    "correctOption": "1",
+    "multiCorrectOptions": null,
+    "range": {
+      "start": "",
+      "end": ""
+    },
+    "negMarks": 0,
+    "posMarks": 1,
+    "skipMarks": 0,
+    "partialM": {
+      "type": "",
+      "marks": 0
+    },
+    "isPartialMarking": false,
+    "sol": {
+      "en": {
+        "value": "<p><iframe title=\"TCS NQT FREE MAHA MOCK Q12\" src=\"//www.youtube.com/embed/djrfWjIxqeg\" width=\"780\" height=\"439\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+        "type": "cp",
+        "videoSol": ""
+      },
+      "hn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "te": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mr": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ml": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "gu": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ta": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "or": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "as": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ks": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kok": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mni": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ne": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "pa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sd": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ur": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sat": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mai": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "brx": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "doi": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "grt": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kha": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "lus": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bo": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "trp": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      }
+    },
+    "tags": null,
+    "globalConcept": null,
+    "stats": {
+      "totalStudents": 3243,
+      "bestTime": 0,
+      "averageTime": 37.10854147394381,
+      "attempts": {
+        "correct": 803,
+        "incorrect": 729,
+        "partial": 0,
+        "skipped": 1711,
+        "skipOptionSelected": 0
+      },
+      "sectionNo": 0,
+      "subSectionNo": 0
+    },
+    "votes": 0,
+    "SSNo": 1,
+    "SSSNo": 0,
+    "marksObtained": 0,
+    "studentResStatus": "",
+    "studentResponse": {
+      "time": 0,
+      "visits": null
+    }
+  },
+  "66236036666d620524c0a570": {
+    "correctOption": "1",
+    "multiCorrectOptions": null,
+    "range": {
+      "start": "",
+      "end": ""
+    },
+    "negMarks": 0,
+    "posMarks": 1,
+    "skipMarks": 0,
+    "partialM": {
+      "type": "",
+      "marks": 0
+    },
+    "isPartialMarking": false,
+    "sol": {
+      "en": {
+        "value": "<p><iframe title=\"TCS NQT FREE MAHA MOCK Q14\" src=\"//www.youtube.com/embed/uN3uu8Awy-0\" width=\"780\" height=\"439\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+        "type": "cp",
+        "videoSol": ""
+      },
+      "hn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "te": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mr": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ml": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "gu": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ta": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "or": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "as": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ks": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kok": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mni": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ne": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "pa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sd": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ur": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sat": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mai": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "brx": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "doi": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "grt": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kha": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "lus": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bo": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "trp": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      }
+    },
+    "tags": null,
+    "globalConcept": null,
+    "stats": {
+      "totalStudents": 3243,
+      "bestTime": 0,
+      "averageTime": 20.968239284612984,
+      "attempts": {
+        "correct": 255,
+        "incorrect": 856,
+        "partial": 0,
+        "skipped": 2132,
+        "skipOptionSelected": 0
+      },
+      "sectionNo": 0,
+      "subSectionNo": 0
+    },
+    "votes": 0,
+    "SSNo": 1,
+    "SSSNo": 0,
+    "marksObtained": 0,
+    "studentResStatus": "",
+    "studentResponse": {
+      "time": 0,
+      "visits": null
+    }
+  },
+  "66236036666d6212cbc0a55c": {
+    "correctOption": "3",
+    "multiCorrectOptions": null,
+    "range": {
+      "start": "",
+      "end": ""
+    },
+    "negMarks": 0,
+    "posMarks": 1,
+    "skipMarks": 0,
+    "partialM": {
+      "type": "",
+      "marks": 0
+    },
+    "isPartialMarking": false,
+    "sol": {
+      "en": {
+        "value": "<p><iframe title=\"TCS NQT FREE MAHA MOCK Q10\" src=\"//www.youtube.com/embed/IspIF698ufU\" width=\"780\" height=\"439\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+        "type": "cp",
+        "videoSol": ""
+      },
+      "hn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "te": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mr": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ml": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "gu": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ta": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "or": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "as": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ks": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kok": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mni": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ne": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "pa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sd": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ur": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sat": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mai": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "brx": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "doi": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "grt": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kha": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "lus": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bo": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "trp": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      }
+    },
+    "tags": null,
+    "globalConcept": null,
+    "stats": {
+      "totalStudents": 3243,
+      "bestTime": 0,
+      "averageTime": 67.49121184088806,
+      "attempts": {
+        "correct": 560,
+        "incorrect": 842,
+        "partial": 0,
+        "skipped": 1841,
+        "skipOptionSelected": 0
+      },
+      "sectionNo": 0,
+      "subSectionNo": 0
+    },
+    "votes": 0,
+    "SSNo": 1,
+    "SSSNo": 0,
+    "marksObtained": 0,
+    "studentResStatus": "",
+    "studentResponse": {
+      "time": 0,
+      "visits": null
+    }
+  },
+  "66236036666d624286c0a561": {
+    "correctOption": "2",
+    "multiCorrectOptions": null,
+    "range": {
+      "start": "",
+      "end": ""
+    },
+    "negMarks": 0,
+    "posMarks": 1,
+    "skipMarks": 0,
+    "partialM": {
+      "type": "",
+      "marks": 0
+    },
+    "isPartialMarking": false,
+    "sol": {
+      "en": {
+        "value": "<p><iframe title=\"TCS NQT FREE MAHA MOCK Q11\" src=\"//www.youtube.com/embed/SYLTvjnvJKY\" width=\"780\" height=\"439\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+        "type": "cp",
+        "videoSol": ""
+      },
+      "hn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "te": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mr": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ml": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "gu": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ta": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "or": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "as": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ks": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kok": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mni": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ne": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "pa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sd": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ur": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sat": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mai": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "brx": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "doi": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "grt": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kha": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "lus": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bo": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "trp": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      }
+    },
+    "tags": null,
+    "globalConcept": null,
+    "stats": {
+      "totalStudents": 3243,
+      "bestTime": 0,
+      "averageTime": 55.94727104532841,
+      "attempts": {
+        "correct": 817,
+        "incorrect": 622,
+        "partial": 0,
+        "skipped": 1804,
+        "skipOptionSelected": 0
+      },
+      "sectionNo": 0,
+      "subSectionNo": 0
+    },
+    "votes": 0,
+    "SSNo": 1,
+    "SSSNo": 0,
+    "marksObtained": 0,
+    "studentResStatus": "",
+    "studentResponse": {
+      "time": 0,
+      "visits": null
+    }
+  },
+  "66236036666d6250f6c0a589": {
+    "correctOption": "4",
+    "multiCorrectOptions": null,
+    "range": {
+      "start": "",
+      "end": ""
+    },
+    "negMarks": 0,
+    "posMarks": 1,
+    "skipMarks": 0,
+    "partialM": {
+      "type": "",
+      "marks": 0
+    },
+    "isPartialMarking": false,
+    "sol": {
+      "en": {
+        "value": "<p><iframe title=\"TCS NQT FREE MAHA MOCK Q18\" src=\"//www.youtube.com/embed/L3kD_FndH5o\" width=\"780\" height=\"439\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+        "type": "cp",
+        "videoSol": ""
+      },
+      "hn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "te": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mr": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ml": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "gu": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ta": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "or": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "as": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ks": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kok": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mni": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ne": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "pa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sd": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ur": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sat": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mai": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "brx": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "doi": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "grt": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kha": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "lus": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bo": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "trp": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      }
+    },
+    "tags": null,
+    "globalConcept": null,
+    "stats": {
+      "totalStudents": 3243,
+      "bestTime": 0,
+      "averageTime": 41.92136910268264,
+      "attempts": {
+        "correct": 882,
+        "incorrect": 796,
+        "partial": 0,
+        "skipped": 1565,
+        "skipOptionSelected": 0
+      },
+      "sectionNo": 0,
+      "subSectionNo": 0
+    },
+    "votes": 0,
+    "SSNo": 1,
+    "SSSNo": 0,
+    "marksObtained": 0,
+    "studentResStatus": "",
+    "studentResponse": {
+      "time": 0,
+      "visits": null
+    }
+  },
+  "66236036666d625995c0a575": {
+    "correctOption": "1",
+    "multiCorrectOptions": null,
+    "range": {
+      "start": "",
+      "end": ""
+    },
+    "negMarks": 0,
+    "posMarks": 1,
+    "skipMarks": 0,
+    "partialM": {
+      "type": "",
+      "marks": 0
+    },
+    "isPartialMarking": false,
+    "sol": {
+      "en": {
+        "value": "<p><iframe title=\"TCS NQT FREE MAHA MOCK Q15\" src=\"//www.youtube.com/embed/9SHym9bcr8U\" width=\"780\" height=\"439\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+        "type": "cp",
+        "videoSol": ""
+      },
+      "hn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "te": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mr": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ml": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "gu": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ta": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "or": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "as": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ks": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kok": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mni": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ne": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "pa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sd": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ur": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sat": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mai": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "brx": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "doi": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "grt": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kha": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "lus": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bo": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "trp": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      }
+    },
+    "tags": null,
+    "globalConcept": null,
+    "stats": {
+      "totalStudents": 3243,
+      "bestTime": 0,
+      "averageTime": 60.08387295713849,
+      "attempts": {
+        "correct": 430,
+        "incorrect": 960,
+        "partial": 0,
+        "skipped": 1853,
+        "skipOptionSelected": 0
+      },
+      "sectionNo": 0,
+      "subSectionNo": 0
+    },
+    "votes": 0,
+    "SSNo": 1,
+    "SSSNo": 0,
+    "marksObtained": 0,
+    "studentResStatus": "",
+    "studentResponse": {
+      "time": 0,
+      "visits": null
+    }
+  },
+  "66236036666d628190c0a57a": {
+    "correctOption": "3",
+    "multiCorrectOptions": null,
+    "range": {
+      "start": "",
+      "end": ""
+    },
+    "negMarks": 0,
+    "posMarks": 1,
+    "skipMarks": 0,
+    "partialM": {
+      "type": "",
+      "marks": 0
+    },
+    "isPartialMarking": false,
+    "sol": {
+      "en": {
+        "value": "<p><iframe title=\"TCS NQT FREE MAHA MOCK Q16\" src=\"//www.youtube.com/embed/hVlSBoLKmVs\" width=\"780\" height=\"439\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+        "type": "cp",
+        "videoSol": ""
+      },
+      "hn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "te": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mr": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ml": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "gu": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ta": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "or": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "as": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ks": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kok": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mni": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ne": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "pa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sd": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ur": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sat": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mai": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "brx": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "doi": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "grt": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kha": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "lus": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bo": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "trp": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      }
+    },
+    "tags": null,
+    "globalConcept": null,
+    "stats": {
+      "totalStudents": 3243,
+      "bestTime": 0,
+      "averageTime": 28.526056120875722,
+      "attempts": {
+        "correct": 565,
+        "incorrect": 909,
+        "partial": 0,
+        "skipped": 1769,
+        "skipOptionSelected": 0
+      },
+      "sectionNo": 0,
+      "subSectionNo": 0
+    },
+    "votes": 0,
+    "SSNo": 1,
+    "SSSNo": 0,
+    "marksObtained": 0,
+    "studentResStatus": "",
+    "studentResponse": {
+      "time": 0,
+      "visits": null
+    }
+  },
+  "66236036666d62bbc8c0a56b": {
+    "correctOption": "3",
+    "multiCorrectOptions": null,
+    "range": {
+      "start": "",
+      "end": ""
+    },
+    "negMarks": 0,
+    "posMarks": 1,
+    "skipMarks": 0,
+    "partialM": {
+      "type": "",
+      "marks": 0
+    },
+    "isPartialMarking": false,
+    "sol": {
+      "en": {
+        "value": "<p><iframe title=\"TCS NQT FREE MAHA MOCK Q13\" src=\"//www.youtube.com/embed/VvcgwtTcP_U\" width=\"780\" height=\"439\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+        "type": "cp",
+        "videoSol": ""
+      },
+      "hn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "te": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mr": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ml": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "gu": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ta": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "or": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "as": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ks": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kok": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mni": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ne": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "pa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sd": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ur": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sat": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mai": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "brx": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "doi": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "grt": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kha": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "lus": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bo": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "trp": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      }
+    },
+    "tags": null,
+    "globalConcept": null,
+    "stats": {
+      "totalStudents": 3243,
+      "bestTime": 0,
+      "averageTime": 35.447425223558376,
+      "attempts": {
+        "correct": 494,
+        "incorrect": 765,
+        "partial": 0,
+        "skipped": 1984,
+        "skipOptionSelected": 0
+      },
+      "sectionNo": 0,
+      "subSectionNo": 0
+    },
+    "votes": 0,
+    "SSNo": 1,
+    "SSSNo": 0,
+    "marksObtained": 0,
+    "studentResStatus": "",
+    "studentResponse": {
+      "time": 0,
+      "visits": null
+    }
+  },
+  "66236036666d62e990c0a584": {
+    "correctOption": "2",
+    "multiCorrectOptions": null,
+    "range": {
+      "start": "",
+      "end": ""
+    },
+    "negMarks": 0,
+    "posMarks": 1,
+    "skipMarks": 0,
+    "partialM": {
+      "type": "",
+      "marks": 0
+    },
+    "isPartialMarking": false,
+    "sol": {
+      "en": {
+        "value": "<p><iframe title=\"TCS NQT FREE MAHA MOCK Q17\" src=\"//www.youtube.com/embed/sisAFLdcRVg\" width=\"780\" height=\"439\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+        "type": "cp",
+        "videoSol": ""
+      },
+      "hn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "te": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mr": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ml": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "gu": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ta": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "or": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "as": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ks": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kok": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mni": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ne": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "pa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sd": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ur": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sat": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mai": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "brx": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "doi": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "grt": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kha": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "lus": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bo": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "trp": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      }
+    },
+    "tags": null,
+    "globalConcept": null,
+    "stats": {
+      "totalStudents": 3243,
+      "bestTime": 0,
+      "averageTime": 30.238976256552593,
+      "attempts": {
+        "correct": 717,
+        "incorrect": 795,
+        "partial": 0,
+        "skipped": 1731,
+        "skipOptionSelected": 0
+      },
+      "sectionNo": 0,
+      "subSectionNo": 0
+    },
+    "votes": 0,
+    "SSNo": 1,
+    "SSSNo": 0,
+    "marksObtained": 0,
+    "studentResStatus": "",
+    "studentResponse": {
+      "time": 0,
+      "visits": null
+    }
+  },
+  "66237658fdf938d6750b40e4": {
+    "correctOption": "1",
+    "multiCorrectOptions": null,
+    "range": {
+      "start": "",
+      "end": ""
+    },
+    "negMarks": 0,
+    "posMarks": 1,
+    "skipMarks": 0,
+    "partialM": {
+      "type": "",
+      "marks": 0
+    },
+    "isPartialMarking": false,
+    "sol": {
+      "en": {
+        "value": "<p><iframe title=\"TCS NQT FREE MAHA MOCK Q19\" src=\"//www.youtube.com/embed/OZWFA9Y3RM0\" width=\"780\" height=\"439\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+        "type": "cp",
+        "videoSol": ""
+      },
+      "hn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "te": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mr": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ml": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "gu": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ta": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "or": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "as": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ks": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kok": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mni": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ne": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "pa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sd": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ur": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sat": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mai": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "brx": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "doi": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "grt": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kha": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "lus": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bo": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "trp": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      }
+    },
+    "tags": null,
+    "globalConcept": null,
+    "stats": {
+      "totalStudents": 3243,
+      "bestTime": 0,
+      "averageTime": 27.971014492753643,
+      "attempts": {
+        "correct": 496,
+        "incorrect": 1021,
+        "partial": 0,
+        "skipped": 1726,
+        "skipOptionSelected": 0
+      },
+      "sectionNo": 0,
+      "subSectionNo": 0
+    },
+    "votes": 0,
+    "SSNo": 1,
+    "SSSNo": 0,
+    "marksObtained": 0,
+    "studentResStatus": "",
+    "studentResponse": {
+      "time": 0,
+      "visits": null
+    }
+  },
+  "662378c744093175badc3817": {
+    "correctOption": "4",
+    "multiCorrectOptions": null,
+    "range": {
+      "start": "",
+      "end": ""
+    },
+    "negMarks": 0,
+    "posMarks": 1,
+    "skipMarks": 0,
+    "partialM": {
+      "type": "",
+      "marks": 0
+    },
+    "isPartialMarking": false,
+    "sol": {
+      "en": {
+        "value": "<p><iframe title=\"TCS NQT FREE MAHA MOCK Q20\" src=\"//www.youtube.com/embed/xiyzH-teu_E\" width=\"780\" height=\"439\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+        "type": "cp",
+        "videoSol": ""
+      },
+      "hn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "te": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mr": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ml": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "gu": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ta": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "or": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "as": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ks": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kok": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mni": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ne": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "pa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sd": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ur": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sat": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mai": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "brx": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "doi": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "grt": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kha": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "lus": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bo": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "trp": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      }
+    },
+    "tags": null,
+    "globalConcept": null,
+    "stats": {
+      "totalStudents": 3243,
+      "bestTime": 0,
+      "averageTime": 63.062288004933585,
+      "attempts": {
+        "correct": 592,
+        "incorrect": 926,
+        "partial": 0,
+        "skipped": 1725,
+        "skipOptionSelected": 0
+      },
+      "sectionNo": 0,
+      "subSectionNo": 0
+    },
+    "votes": 0,
+    "SSNo": 1,
+    "SSSNo": 0,
+    "marksObtained": 0,
+    "studentResStatus": "",
+    "studentResponse": {
+      "time": 0,
+      "visits": null
+    }
+  }
+}

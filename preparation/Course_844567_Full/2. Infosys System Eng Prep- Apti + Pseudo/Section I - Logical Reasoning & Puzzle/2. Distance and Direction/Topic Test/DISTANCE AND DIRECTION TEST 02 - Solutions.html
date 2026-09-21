@@ -1,0 +1,391 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>DISTANCE AND DIRECTION TEST 02 - Questions & Solutions</title>
+<style>
+  body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; line-height: 1.6; max-width: 900px; margin: 30px auto; padding: 0 20px; color: #222; background: #f8fafc; }
+  .header { background: #fff; border: 1px solid #e2e8f0; border-radius: 10px; padding: 25px; margin-bottom: 25px; box-shadow: 0 2px 5px rgba(0,0,0,0.04); }
+  .header h1 { margin: 0 0 10px 0; color: #0284c7; }
+  .meta { display: flex; gap: 15px; font-weight: 600; color: #475569; flex-wrap: wrap; }
+  .meta span { background: #f1f5f9; padding: 6px 14px; border-radius: 6px; font-size: 0.9em; }
+  .q-card { background: #fff; border: 1px solid #e2e8f0; border-radius: 10px; padding: 24px; margin-bottom: 25px; box-shadow: 0 2px 4px rgba(0,0,0,0.03); }
+  .q-header { display: flex; justify-content: space-between; font-weight: bold; margin-bottom: 14px; font-size: 1.1em; color: #0f172a; border-bottom: 1px solid #f1f5f9; padding-bottom: 8px; }
+  .q-text { margin-bottom: 18px; font-size: 1.05em; color: #334155; }
+  .options { list-style-type: none; padding-left: 0; margin: 0 0 18px 0; }
+  .options li { padding: 12px 16px; margin-bottom: 8px; background: #fff; border: 1px solid #cbd5e1; border-radius: 6px; display: flex; align-items: baseline; }
+  .options li.correct { background: #ecfdf5; border-color: #10b981; font-weight: 600; color: #065f46; }
+  .opt-badge { font-weight: bold; margin-right: 12px; min-width: 28px; color: #0284c7; }
+  .options li.correct .opt-badge { color: #059669; }
+  .correct-tag { margin-left: auto; background: #10b981; color: white; padding: 2px 8px; border-radius: 4px; font-size: 0.8em; font-weight: 600; }
+  .solution-box { background: #f0fdf4; border-left: 4px solid #10b981; padding: 14px 18px; border-radius: 0 8px 8px 0; color: #1e293b; font-size: 0.98em; }
+  .solution-title { font-weight: bold; color: #047857; margin-bottom: 6px; display: flex; align-items: center; gap: 6px; }
+  @media print { body { margin: 0; padding: 0; max-width: 100%; background: #fff; } .q-card { break-inside: avoid; border: 1px solid #ccc; } }
+</style>
+
+<!-- MathJax for LaTeX / Math equations rendering -->
+<script>
+  window.MathJax = {
+    tex: {
+      inlineMath: [['$', '$'], ['\\(', '\\)']],
+      displayMath: [['$$', '$$'], ['\\[', '\\]']],
+      processEscapes: true
+    },
+    svg: { fontCache: 'global' },
+    options: { skipHtmlTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code'] }
+  };
+</script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
+<style>
+  /* Rich styling for diagrams, mathematical formulas, tables, and pseudo-code */
+  img { max-width: 100%; height: auto; display: inline-block; vertical-align: middle; border-radius: 4px; }
+  .q-text img { max-width: 95%; margin: 12px auto; display: block; border: 1px solid #e2e8f0; padding: 6px; background: #fff; border-radius: 8px; box-shadow: 0 1px 4px rgba(0,0,0,0.05); }
+  .options img { max-width: 85%; margin: 6px 0; display: inline-block; vertical-align: middle; }
+  .solution-box img { max-width: 95%; margin: 12px auto; display: block; border: 1px solid #cbd5e1; padding: 6px; background: #fff; border-radius: 8px; }
+  
+  table { border-collapse: collapse; width: 100%; margin: 16px 0; font-size: 0.95em; border-radius: 6px; overflow: hidden; }
+  th, td { border: 1px solid #cbd5e1; padding: 10px 14px; text-align: left; }
+  th { background-color: #f1f5f9; font-weight: 700; color: #1e293b; }
+  tr:nth-child(even) { background-color: #f8fafc; }
+  tr:hover { background-color: #f1f5f9; }
+  
+  pre, code { font-family: 'Consolas', 'Fira Code', 'Courier New', monospace; }
+  code { background: #f1f5f9; padding: 2px 6px; border-radius: 4px; font-size: 0.9em; color: #0284c7; }
+  pre { background: #0f172a; color: #f8fafc; padding: 16px 20px; border-radius: 8px; overflow-x: auto; line-height: 1.5; font-size: 0.95em; margin: 14px 0; }
+  pre code { background: transparent; color: inherit; padding: 0; }
+  
+  .MathJax { font-size: 1.1em !important; }
+</style>
+
+</head>
+<body>
+  <div class="header">
+    <h1>DISTANCE AND DIRECTION TEST 02 — Solutions & Explanations</h1>
+    <div class="meta">
+      <span>📝 15 Questions</span>
+      <span>⭐ 15 Marks</span>
+      <span>✅ 100% Official Answer Key & Solutions</span>
+    </div>
+  </div>
+
+  <div class="q-card">
+    <div class="q-header">
+      <span>Question 1</span>
+    </div>
+    <div class="q-text"><p><span lang="EN-IN" style="font-size: 11.0pt; line-height: 107%; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;"><strong><span style="font-size: 12pt;">Q1. A person starts walking towards point Y which in North direction of starting point. From point Y, he start walking in west direction then he takes right turn to reach at point W. From point W, he takes a right turn and stop at point J. Find in which direction person is facing now?</span></strong><br /><!--[endif]--></span></p></div>
+    <ul class="options">
+      <li><span class="opt-badge">(A)</span> <div><p>North</p></div></li>
+      <li><span class="opt-badge">(B)</span> <div><p>South</p></div></li>
+      <li class="correct"><span class="opt-badge">(C)</span> <div><p>East</p></div><span class="correct-tag">✓ Correct Answer</span></li>
+      <li><span class="opt-badge">(D)</span> <div><p>West</p></div></li>
+      <li><span class="opt-badge">(E)</span> <div><p>None of these</p></div></li>
+    </ul>
+    <div class="solution-box">
+      <div class="solution-title">💡 Official Solution & Explanation:</div>
+      <div><p>This is the solution</p></div>
+    </div>
+  </div>
+
+  <div class="q-card">
+    <div class="q-header">
+      <span>Question 2</span>
+    </div>
+    <div class="q-text"><p><span lang="EN-IN" style="font-size: 11.0pt; line-height: 107%; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;"><strong><span style="font-size: 12pt;">&nbsp;Point H is 5m west of J. Point J is 10m south of point T. Point T is 12m west of G. Point G is 6m north of Point D. Point D is 15m east of Point Y. What is the shortest distance between Point J and Point Y?</span></strong><br /><!--[endif]--></span></p></div>
+    <ul class="options">
+      <li><span class="opt-badge">(A)</span> <div><p>10 m</p></div></li>
+      <li><span class="opt-badge">(B)</span> <div><p>4 m</p></div></li>
+      <li><span class="opt-badge">(C)</span> <div><p>9 m&nbsp;</p></div></li>
+      <li><span class="opt-badge">(D)</span> <div><p>7 m</p></div></li>
+      <li class="correct"><span class="opt-badge">(E)</span> <div><p>None of these</p></div><span class="correct-tag">✓ Correct Answer</span></li>
+    </ul>
+    <div class="solution-box">
+      <div class="solution-title">💡 Official Solution & Explanation:</div>
+      <div><p><img style="font-size: 1.4rem;" src="images/img_824e218acd79.png" alt="" /></p></div>
+    </div>
+  </div>
+
+  <div class="q-card">
+    <div class="q-header">
+      <span>Question 3</span>
+    </div>
+    <div class="q-text"><p class="MsoNormal"><strong><span style="font-size: 12pt;"><span lang="EN-IN">Directions (3-7): Study the information carefully and answer the questions given below.<br /></span></span></strong></p>
+<p>&nbsp;</p>
+<p><strong><span style="font-size: 12pt;">Amit starts his journey from point S, walks 20m towards west to reach at point D, then takes a left turn and walks for 8m to reach point N. From point N he takes a left turn and walks for 18m to reach at point X. From point X, he takes a left turn and walks 12m to reach at point Y, then takes a right turn and walks 6m to reach point T. From point T, He walks 4m in south direction and reached point M.</span></strong></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><span lang="EN-IN" style="font-size: 11.0pt; line-height: 107%; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;"><strong><span style="font-size: 12pt;">Q3. What is the shortest distance between point S and M?</span></strong><br /><strong><span style="font-size: 12pt;"> <!-- [if !supportLineBreakNewLine]--></span></strong><br /><!--[endif]--></span></p></div>
+    <ul class="options">
+      <li class="correct"><span class="opt-badge">(A)</span> <div><p>4m</p></div><span class="correct-tag">✓ Correct Answer</span></li>
+      <li><span class="opt-badge">(B)</span> <div><p>6m</p></div></li>
+      <li><span class="opt-badge">(C)</span> <div><p>2m</p></div></li>
+      <li><span class="opt-badge">(D)</span> <div><p>5m</p></div></li>
+      <li><span class="opt-badge">(E)</span> <div><p>None of these</p></div></li>
+    </ul>
+    <div class="solution-box">
+      <div class="solution-title">💡 Official Solution & Explanation:</div>
+      <div><p><img style="font-size: 1.4rem;" src="images/img_ab6029cff712.png" alt="" /></p></div>
+    </div>
+  </div>
+
+  <div class="q-card">
+    <div class="q-header">
+      <span>Question 4</span>
+    </div>
+    <div class="q-text"><p><span lang="EN-IN" style="font-size: 11.0pt; line-height: 107%; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;"><strong><span style="font-size: 12pt;">&nbsp;If point H is 6m west of point M then in which direction point Y with respect to point H?</span></strong><br /><!--[endif]--></span></p></div>
+    <ul class="options">
+      <li><span class="opt-badge">(A)</span> <div><p>South</p></div></li>
+      <li><span class="opt-badge">(B)</span> <div><p>North-west</p></div></li>
+      <li><span class="opt-badge">(C)</span> <div><p>South-east</p></div></li>
+      <li><span class="opt-badge">(D)</span> <div><p>East</p></div></li>
+      <li class="correct"><span class="opt-badge">(E)</span> <div><p>North</p></div><span class="correct-tag">✓ Correct Answer</span></li>
+    </ul>
+    <div class="solution-box">
+      <div class="solution-title">💡 Official Solution & Explanation:</div>
+      <div><p><img src="images/img_0e9831822cbd.png" alt="" /></p></div>
+    </div>
+  </div>
+
+  <div class="q-card">
+    <div class="q-header">
+      <span>Question 5</span>
+    </div>
+    <div class="q-text"><p class="MsoNormal"><strong><span lang="EN-IN" style="font-size: 12pt;">Directions (3-7): Study the information carefully and answer the questions given below.<br /></span></strong></p>
+<p><strong><span style="font-size: 12pt;">Amit starts his journey from point S, walks 20m towards west to reach at point D, then takes a left turn and walks for 8m to reach point N. From point N he takes a left turn and walks for 18m to reach at point X. From point X, he takes a left turn and walks 12m to reach at point Y, then takes a right turn and walks 6m to reach point T. From point T, He walks 4m in south direction and reached point M.</span></strong></p>
+<p>&nbsp;</p>
+<p><span lang="EN-IN" style="font-size: 11.0pt; line-height: 107%; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;"><strong><span style="font-size: 12pt;">Q5. In which direction point T with respect of D?</span></strong><br /><strong><span style="font-size: 12pt;"> <!-- [if !supportLineBreakNewLine]--></span></strong><br /><!--[endif]--></span></p></div>
+    <ul class="options">
+      <li><span class="opt-badge">(A)</span> <div><p>North</p></div></li>
+      <li><span class="opt-badge">(B)</span> <div><p>South-west</p></div></li>
+      <li class="correct"><span class="opt-badge">(C)</span> <div><p>North-east</p></div><span class="correct-tag">✓ Correct Answer</span></li>
+      <li><span class="opt-badge">(D)</span> <div><p>East</p></div></li>
+      <li><span class="opt-badge">(E)</span> <div><p>South-east</p></div></li>
+    </ul>
+    <div class="solution-box">
+      <div class="solution-title">💡 Official Solution & Explanation:</div>
+      <div><p><img src="images/img_75c3f1d95e4a.png" alt="" /></p>
+<p>&nbsp;</p></div>
+    </div>
+  </div>
+
+  <div class="q-card">
+    <div class="q-header">
+      <span>Question 6</span>
+    </div>
+    <div class="q-text"><p class="MsoNormal"><strong><span lang="EN-IN" style="font-size: 12pt;">Directions (3-7): Study the information carefully and answer the questions given below.<br />Amit starts his journey from point S, walks 20m towards west to reach at point D, then takes a left turn and walks for 8m to reach point N. From point N he takes a left turn and walks for 18m to reach at point X. From point X, he takes a left turn and walks 12m to reach at point Y, then takes a right turn and walks 6m to reach point T. From point T, He walks 4m in south direction and reached point M.</span></strong></p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal"><span lang="EN-IN"><span lang="EN-IN" style="font-size: 11.0pt; line-height: 107%; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;"><strong><span style="font-size: 12pt;">Q6. What is the shortest distance between Point D and Point X?</span></strong><br /><strong><span style="font-size: 12pt;"> <!-- [if !supportLineBreakNewLine]--></span></strong><br /><!--[endif]--></span></span></p></div>
+    <ul class="options">
+      <li class="correct"><span class="opt-badge">(A)</span> <div><p><span lang="EN-IN" style="font-size: 11.0pt; line-height: 107%; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;">&radic;388m</span></p></div><span class="correct-tag">✓ Correct Answer</span></li>
+      <li><span class="opt-badge">(B)</span> <div><p>10m</p></div></li>
+      <li><span class="opt-badge">(C)</span> <div><p>15m</p></div></li>
+      <li><span class="opt-badge">(D)</span> <div><p>20m</p></div></li>
+      <li><span class="opt-badge">(E)</span> <div><p>None of these</p></div></li>
+    </ul>
+    <div class="solution-box">
+      <div class="solution-title">💡 Official Solution & Explanation:</div>
+      <div><p>This is the solution</p></div>
+    </div>
+  </div>
+
+  <div class="q-card">
+    <div class="q-header">
+      <span>Question 7</span>
+    </div>
+    <div class="q-text"><p>&nbsp;</p>
+<p class="MsoNormal"><strong><span lang="EN-IN" style="font-size: 12pt;">Directions (3-7): Study the information carefully and answer the questions given below.<br /></span></strong></p>
+<p><strong><span style="font-size: 12pt;">Amit starts his journey from point S, walks 20m towards west to reach at point D, then takes a left turn and walks for 8m to reach point N. From point N he takes a left turn and walks for 18m to reach at point X. From point X, he takes a left turn and walks 12m to reach at point Y, then takes a right turn and walks 6m to reach point T. From point T, He walks 4m in south direction and reached point M.</span></strong></p>
+<p>&nbsp;</p>
+<p><strong><span style="font-size: 12pt;"><span style="font-family: Calibri, sans-serif;">Q7. In which direction point N is with respect of Y?</span></span></strong></p></div>
+    <ul class="options">
+      <li><span class="opt-badge">(A)</span> <div><p>North-east</p></div></li>
+      <li class="correct"><span class="opt-badge">(B)</span> <div><p>South-west</p></div><span class="correct-tag">✓ Correct Answer</span></li>
+      <li><span class="opt-badge">(C)</span> <div><p>North-west</p></div></li>
+      <li><span class="opt-badge">(D)</span> <div><p>South</p></div></li>
+      <li><span class="opt-badge">(E)</span> <div><p>None of these</p></div></li>
+    </ul>
+    <div class="solution-box">
+      <div class="solution-title">💡 Official Solution & Explanation:</div>
+      <div><p><img src="images/img_7ef376c8ce01.png" alt="" /></p>
+<p>&nbsp;</p></div>
+    </div>
+  </div>
+
+  <div class="q-card">
+    <div class="q-header">
+      <span>Question 8</span>
+    </div>
+    <div class="q-text"><p class="MsoNormal"><strong><span style="font-size: 12pt;"><span lang="EN-IN">Directions (8-10): Study the information carefully and answer the questions given below.<br /></span></span></strong></p>
+<p class="MsoNormal">&nbsp;</p>
+<p><strong><span style="font-size: 12pt;">Point A is 12m west of point B. Point F is 8m east of point D. Point G is 10m north of point E. Point C is 8m south of point B. Point D is 3m north of point C. Point E is 6m west of point C.</span></strong></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><span lang="EN-IN" style="font-size: 11.0pt; line-height: 107%; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;"><strong><span style="font-size: 12pt;">Q8. What is the shortest distance between D and A?</span></strong><br /><strong><span style="font-size: 12pt;"> <!-- [if !supportLineBreakNewLine]--></span></strong><br /><!--[endif]--></span></p></div>
+    <ul class="options">
+      <li class="correct"><span class="opt-badge">(A)</span> <div><p>13m</p></div><span class="correct-tag">✓ Correct Answer</span></li>
+      <li><span class="opt-badge">(B)</span> <div><p>10m</p></div></li>
+      <li><span class="opt-badge">(C)</span> <div><p>12m</p></div></li>
+      <li><span class="opt-badge">(D)</span> <div><p>14m</p></div></li>
+      <li><span class="opt-badge">(E)</span> <div><p>None of these</p></div></li>
+    </ul>
+    <div class="solution-box">
+      <div class="solution-title">💡 Official Solution & Explanation:</div>
+      <div><p><img style="font-size: 1.4rem;" src="images/img_eb96300e5209.png" alt="" /></p></div>
+    </div>
+  </div>
+
+  <div class="q-card">
+    <div class="q-header">
+      <span>Question 9</span>
+    </div>
+    <div class="q-text"><p class="MsoNormal"><strong><span lang="EN-IN" style="font-size: 12pt;">Directions (8-10): Study the information carefully and answer the questions given below.<br /></span></strong></p>
+<p><strong><span style="font-size: 12pt;">Point A is 12m west of point B. Point F is 8m east of point D. Point G is 10m north of point E. Point C is 8m south of point B. Point D is 3m north of point C. Point E is 6m west of point C.</span></strong></p>
+<p>&nbsp;</p>
+<p><strong><span style="font-size: 12pt;"><span lang="EN-IN" style="line-height: 107%; font-family: Calibri, sans-serif;">Q9. Point D is in which direction with respect to G?</span></span></strong></p></div>
+    <ul class="options">
+      <li><span class="opt-badge">(A)</span> <div><p>north-east</p></div></li>
+      <li><span class="opt-badge">(B)</span> <div><p>South-west</p></div></li>
+      <li><span class="opt-badge">(C)</span> <div><p>East</p></div></li>
+      <li><span class="opt-badge">(D)</span> <div><p>North</p></div></li>
+      <li class="correct"><span class="opt-badge">(E)</span> <div><p>South-east</p></div><span class="correct-tag">✓ Correct Answer</span></li>
+    </ul>
+    <div class="solution-box">
+      <div class="solution-title">💡 Official Solution & Explanation:</div>
+      <div><p><img style="font-size: 1.4rem;" src="images/img_584896e75af1.png" alt="" /></p></div>
+    </div>
+  </div>
+
+  <div class="q-card">
+    <div class="q-header">
+      <span>Question 10</span>
+    </div>
+    <div class="q-text"><p class="MsoNormal"><strong><span lang="EN-IN" style="font-size: 12pt;">Directions (8-10): Study the information carefully and answer the questions given below.<br /></span></strong></p>
+<p class="MsoNormal">&nbsp;</p>
+<p><strong><span style="font-size: 12pt;">Point A is 12m west of point B. Point F is 8m east of point D. Point G is 10m north of point E. Point C is 8m south of point B. Point D is 3m north of point C. Point E is 6m west of point C.</span></strong></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><span lang="EN-IN" style="font-size: 11.0pt; line-height: 107%; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;"><strong><span style="font-size: 12pt;">Q10. If Point Y is 7m south of point G than what is the shortest distance between Point Y and Point F?</span></strong><br /><strong><span style="font-size: 12pt;"> <!-- [if !supportLineBreakNewLine]--></span></strong><br /><!--[endif]--></span></p></div>
+    <ul class="options">
+      <li><span class="opt-badge">(A)</span> <div><p>16m</p></div></li>
+      <li class="correct"><span class="opt-badge">(B)</span> <div><p>14m</p></div><span class="correct-tag">✓ Correct Answer</span></li>
+      <li><span class="opt-badge">(C)</span> <div><p>13m</p></div></li>
+      <li><span class="opt-badge">(D)</span> <div><p>10m</p></div></li>
+      <li><span class="opt-badge">(E)</span> <div><p>None of these</p></div></li>
+    </ul>
+    <div class="solution-box">
+      <div class="solution-title">💡 Official Solution & Explanation:</div>
+      <div><p><img style="font-size: 1.4rem;" src="images/img_a175240046f5.png" alt="" /></p></div>
+    </div>
+  </div>
+
+  <div class="q-card">
+    <div class="q-header">
+      <span>Question 11</span>
+    </div>
+    <div class="q-text"><p class="MsoNormal"><strong><span lang="EN-IN" style="font-size: 12pt;">Directions (11-13): Study the information carefully and answer the questions given below.<br /></span></strong></p>
+<p>&nbsp;</p>
+<p><strong><span style="font-size: 12pt;">Dheeraj starts his journey from point S, walks 10m towards North to reach at point D, then takes a right turn and walks 6m to reach point F. From point F, He start walking in west direction and walk 4m to reach at point N, From point N he takes a left turn and walks 9m to reach at point M, then takes a left turn again and walks 4m to reach point T.</span></strong></p>
+<p>&nbsp;</p>
+<p><span lang="EN-IN" style="font-size: 11.0pt; line-height: 107%; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;"><strong><span style="font-size: 12pt;">Q11. What is the shortest distance between point T and F?</span></strong><br /><strong><span style="font-size: 12pt;"> <!-- [if !supportLineBreakNewLine]--></span></strong><br /><!--[endif]--></span></p></div>
+    <ul class="options">
+      <li><span class="opt-badge">(A)</span> <div><p>6m</p></div></li>
+      <li><span class="opt-badge">(B)</span> <div><p>5m</p></div></li>
+      <li><span class="opt-badge">(C)</span> <div><p>8m</p></div></li>
+      <li class="correct"><span class="opt-badge">(D)</span> <div><p>9m</p></div><span class="correct-tag">✓ Correct Answer</span></li>
+      <li><span class="opt-badge">(E)</span> <div><p>None of these</p></div></li>
+    </ul>
+    <div class="solution-box">
+      <div class="solution-title">💡 Official Solution & Explanation:</div>
+      <div><p><img style="font-size: 1.4rem;" src="images/img_3ae17e38d8bb.png" alt="" /></p></div>
+    </div>
+  </div>
+
+  <div class="q-card">
+    <div class="q-header">
+      <span>Question 12</span>
+    </div>
+    <div class="q-text"><p class="MsoNormal"><strong><span lang="EN-IN" style="font-size: 12pt;">Directions (11-13): Study the information carefully and answer the questions given below.<br /></span></strong></p>
+<p>&nbsp;</p>
+<p><strong><span style="font-size: 12pt;">Dheeraj starts his journey from point S, walks 10m towards North to reach at point D, then takes a right turn and walks 6m to reach point F. From point F, He start walking in west direction and walk 4m to reach at point N, From point N he takes a left turn and walks 9m to reach at point M, then takes a left turn again and walks 4m to reach point T.</span></strong></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><span lang="EN-IN" style="font-size: 11.0pt; line-height: 107%; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;"><strong><span style="font-size: 12pt;">Q12. In which direction point N with respect to T?</span></strong><br /><strong><span style="font-size: 12pt;"> <!-- [if !supportLineBreakNewLine]--></span></strong><br /><!--[endif]--></span></p></div>
+    <ul class="options">
+      <li><span class="opt-badge">(A)</span> <div><p>North</p></div></li>
+      <li><span class="opt-badge">(B)</span> <div><p>North-east</p></div></li>
+      <li><span class="opt-badge">(C)</span> <div><p>South-east</p></div></li>
+      <li class="correct"><span class="opt-badge">(D)</span> <div><p>North-west</p></div><span class="correct-tag">✓ Correct Answer</span></li>
+      <li><span class="opt-badge">(E)</span> <div><p><span style="font-size: 1.4rem;">Can&rsquo;t be determined</span></p></div></li>
+    </ul>
+    <div class="solution-box">
+      <div class="solution-title">💡 Official Solution & Explanation:</div>
+      <div><p><img src="images/img_a0be75ca01a8.png" alt="" /></p></div>
+    </div>
+  </div>
+
+  <div class="q-card">
+    <div class="q-header">
+      <span>Question 13</span>
+    </div>
+    <div class="q-text"><p class="MsoNormal"><strong><span lang="EN-IN" style="font-size: 12pt;">Directions (11-13): Study the information carefully and answer the questions given below.<br /></span></strong></p>
+<p>&nbsp;</p>
+<p><strong><span style="font-size: 12pt;">Dheeraj starts his journey from point S, walks 10m towards North to reach at point D, then takes a right turn and walks 6m to reach point F. From point F, He start walking in west direction and walk 4m to reach at point N, From point N he takes a left turn and walks 9m to reach at point M, then takes a left turn again and walks 4m to reach point T.</span></strong></p>
+<p>&nbsp;</p>
+<p><strong><span style="font-size: 12pt;"><span lang="EN-IN" style="line-height: 107%; font-family: Calibri, sans-serif;">Q13. If point K is 2m north of point S and the shortest distance between point K and F is 10m then, what is the distance between point D and K?</span></span></strong></p></div>
+    <ul class="options">
+      <li><span class="opt-badge">(A)</span> <div><p>6m</p></div></li>
+      <li class="correct"><span class="opt-badge">(B)</span> <div><p>8m</p></div><span class="correct-tag">✓ Correct Answer</span></li>
+      <li><span class="opt-badge">(C)</span> <div><p>3m</p></div></li>
+      <li><span class="opt-badge">(D)</span> <div><p>10m</p></div></li>
+      <li><span class="opt-badge">(E)</span> <div><p><span style="font-size: 1.4rem;">None of these</span></p></div></li>
+    </ul>
+    <div class="solution-box">
+      <div class="solution-title">💡 Official Solution & Explanation:</div>
+      <div><p><img style="font-size: 1.4rem;" src="images/img_54e2430bdd11.png" alt="" /></p></div>
+    </div>
+  </div>
+
+  <div class="q-card">
+    <div class="q-header">
+      <span>Question 14</span>
+    </div>
+    <div class="q-text"><p class="MsoNormal"><strong><span lang="EN-IN" style="font-size: 12pt;">Directions (14-15): Study the information carefully and answer the questions given below.</span></strong></p>
+<p class="MsoNormal"><strong><span lang="EN-IN" style="font-size: 12pt;"><br />A person starts walking from point X to the east direction, after walking of 5km to reach point P from there he turns towards left and then walk 4km to reach point Q. Then turn to his right and walk 5km to reach point R then turn to his right and walk 4km to reach point S then move towards his left and walk 3km to reach point T then again turn right and walk 3km to reach point U finally turn to his right and walk 8km to reach point Y.</span></strong></p>
+<p>&nbsp;</p>
+<p><strong><span lang="EN-IN" style="font-size: 12pt; line-height: 107%; font-family: Calibri, sans-serif;">Q14. How far (Shortest Distance) and which direction is point X with respect to point Y?<br /><!-- [if !supportLineBreakNewLine]--><br /><!--[endif]--></span></strong></p>
+<p>&nbsp;</p></div>
+    <ul class="options">
+      <li><span class="opt-badge">(A)</span> <div><p><span lang="EN-IN" style="font-size: 11.0pt; line-height: 107%; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;">&nbsp;&radic;30 km North</span></p></div></li>
+      <li><span class="opt-badge">(B)</span> <div><p><span lang="EN-IN" style="font-size: 11.0pt; line-height: 107%; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;">34 km North-East</span></p></div></li>
+      <li><span class="opt-badge">(C)</span> <div><p><span lang="EN-IN" style="font-size: 11.0pt; line-height: 107%; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;">&nbsp;2&radic;34 km South-West</span></p></div></li>
+      <li class="correct"><span class="opt-badge">(D)</span> <div><p><span lang="EN-IN" style="font-size: 11.0pt; line-height: 107%; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;">&radic;34 km North-West</span></p></div><span class="correct-tag">✓ Correct Answer</span></li>
+      <li><span class="opt-badge">(E)</span> <div><p><span style="font-size: 1.4rem;">None of these.</span></p></div></li>
+    </ul>
+    <div class="solution-box">
+      <div class="solution-title">💡 Official Solution & Explanation:</div>
+      <div><p><img style="font-size: 1.4rem;" src="images/img_b95476f1c036.png" alt="" /></p></div>
+    </div>
+  </div>
+
+  <div class="q-card">
+    <div class="q-header">
+      <span>Question 15</span>
+    </div>
+    <div class="q-text"><p class="MsoNormal"><strong><span lang="EN-IN" style="font-size: 12pt;">Directions (14-15): Study the information carefully and answer the questions given below.<br /></span></strong></p>
+<p><strong><span style="font-size: 12pt;">A person starts walking from point X to the east direction, after walking of 5km to reach point P from there he turns towards left and then walk 4km to reach point Q. Then turn to his right and walk 5km to reach point R then turn to his right and walk 4km to reach point S then move towards his left and walk 3km to reach point T then again turn right and walk 3km to reach point U finally turn to his right and walk 8km to reach point Y.</span></strong></p>
+<p>&nbsp;</p>
+<p><strong><span style="font-size: 12pt;"><span lang="EN-IN" style="line-height: 107%; font-family: Calibri, sans-serif;">Q15. In which direction is point T with respect to point Y?</span></span></strong></p></div>
+    <ul class="options">
+      <li class="correct"><span class="opt-badge">(A)</span> <div><p><span lang="EN-IN" style="font-size: 11.0pt; line-height: 107%; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;">&nbsp;North east<br /><!--[endif]--></span></p></div><span class="correct-tag">✓ Correct Answer</span></li>
+      <li><span class="opt-badge">(B)</span> <div><p><span lang="EN-IN" style="font-size: 11.0pt; line-height: 107%; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;">South east<br /><!--[endif]--></span></p></div></li>
+      <li><span class="opt-badge">(C)</span> <div><p>North</p></div></li>
+      <li><span class="opt-badge">(D)</span> <div><p>West</p></div></li>
+      <li><span class="opt-badge">(E)</span> <div><p>South-west</p></div></li>
+    </ul>
+    <div class="solution-box">
+      <div class="solution-title">💡 Official Solution & Explanation:</div>
+      <div><p><img style="font-size: 1.4rem;" src="images/img_7ebf6641b480.png" alt="" /></p></div>
+    </div>
+  </div>
+</body>
+</html>

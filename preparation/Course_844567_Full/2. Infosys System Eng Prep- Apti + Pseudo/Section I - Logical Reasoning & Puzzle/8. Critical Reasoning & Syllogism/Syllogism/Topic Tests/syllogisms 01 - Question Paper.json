@@ -1,0 +1,957 @@
+{
+  "_id": "60f439c48ac508dab6e7741e",
+  "settings": {
+    "fonts": {},
+    "grades": {
+      "A": {
+        "max": 100,
+        "min": 70
+      },
+      "B": {
+        "max": 69,
+        "min": 50
+      },
+      "C": {
+        "max": 49,
+        "min": 35
+      },
+      "D": {
+        "max": 34,
+        "min": 20
+      },
+      "E": {
+        "max": 19,
+        "min": 10
+      },
+      "F": {
+        "max": 9,
+        "min": 0
+      }
+    },
+    "hasOptionalQuestions": false,
+    "settingsForRTG": {},
+    "generateBatchRank": true,
+    "defaultFont": null,
+    "generateInstitutionalRank": true,
+    "generatePercentile": true,
+    "showQuestionWiseTime": true,
+    "allowResultSharing": true,
+    "showQuestionTimer": true,
+    "calculatorType": null,
+    "enableLetterGrading": true,
+    "generateRandomTest": false,
+    "isSectionSwitchingEnabled": true,
+    "shuffleQuestions": false,
+    "showAnswers": true,
+    "isSolutionMultipleViewEnabled": true,
+    "shuffleOptions": false,
+    "revealCorrectAnswers": "all",
+    "revealAnswersTime": "now",
+    "parseMathJax": false
+  },
+  "isReadyToLink": true,
+  "isLinked": true,
+  "instructions": "",
+  "isSectionEnable": false,
+  "isReloadRequired": false,
+  "totalNumberOfQuestions": 15,
+  "totalMarks": 15,
+  "isAttempted": true,
+  "name": "syllogisms 01",
+  "duration": 900000,
+  "createdBy": "609d141ffef055578d05892c",
+  "parentFolder": "60dde8dec8679fd7b4fbb829",
+  "sections": [
+    {
+      "sectionDuration": 0,
+      "sectionMarks": 15,
+      "isActive": true,
+      "draftMode": false,
+      "sectionInstructions": "<p>Please attempt every question</p>",
+      "_id": "60f439f4cfa2153716d40e8f",
+      "hasOptionalQuestions": false,
+      "name": "Syllogisms 01 (TEST)",
+      "order": 1,
+      "numberOfQuestions": 15,
+      "questions": [
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0.25,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p><span lang=\"EN-IN\" style=\"font-size: 11.0pt; line-height: 107%; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">Only I follows</span></p>",
+              "nameText": "Only I follows",
+              "order": 1,
+              "isNewOption": false,
+              "_id": "60f45e34e2437080f45c3303"
+            },
+            {
+              "name": "<p><span lang=\"EN-IN\" style=\"font-size: 11.0pt; line-height: 107%; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">Only II follows</span></p>",
+              "nameText": "Only II follows",
+              "order": 2,
+              "isNewOption": false,
+              "_id": "60f45e34e243702a865c3304"
+            },
+            {
+              "name": "<p><span lang=\"EN-IN\" style=\"font-size: 11.0pt; line-height: 107%; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">Only III follows</span></p>",
+              "nameText": "Only III follows",
+              "order": 3,
+              "isNewOption": false,
+              "_id": "60f45e34e243704edc5c3305"
+            },
+            {
+              "name": "<p><span lang=\"EN-IN\" style=\"font-size: 11.0pt; line-height: 107%; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">All follow</span></p>",
+              "nameText": "All follow",
+              "order": 4,
+              "isNewOption": false,
+              "_id": "60f45e34e243708c0e5c3306"
+            },
+            {
+              "name": "<p><span lang=\"EN-IN\" style=\"font-size: 11.0pt; line-height: 107%; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">None of these</span></p>",
+              "nameText": "None of these",
+              "order": 4,
+              "isNewOption": true,
+              "_id": "60f45e34e243701b885c3307"
+            }
+          ],
+          "_id": "60f43a0c78a3ec470526307f",
+          "isGlobal": false,
+          "name": "<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 12pt;\">Directions (1-5): In each of the questions below are given some statements followed by some conclusions. You have to take the given statements to be true even if they seem to be at variance from commonly known facts. Read the entire conclusion and then decide which of the given conclusions logically follows from the given statements disregarding commonly known facts.</span></strong></p>\n<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 12pt;\">&nbsp;</span></strong></p>\n<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 12pt;\">Q1. Statements:</span></strong></p>\n<p class=\"MsoNormal\">&nbsp;</p>\n<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 12pt;\">No Garden are Flower.</span></strong></p>\n<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 12pt;\">All Garden are Plant</span></strong></p>\n<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 12pt;\">Some tree are plant</span></strong></p>\n<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 12pt;\">Conclusions:</span></strong></p>\n<p class=\"MsoNormal\">&nbsp;</p>\n<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 12pt;\">I. Some tree are not flower.</span></strong></p>\n<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 12pt;\">II. All tree can be Garden.</span></strong></p>\n<p><strong><span style=\"font-size: 12pt;\">III. All Plant being flower is a possibility.</span></strong></p>",
+          "paragraph": null,
+          "nameText": "Directions (1-5): In each of the questions below are given some statements followed by some conclusions. You have to take the given statements to be true even if they seem to be at variance from commonly known facts. Read the entire conclusion and then decide which of the given conclusions logically follows from the given statements disregarding commonly known facts.\n \nQ1. Statements:\n \nNo Garden are Flower.\nAll Garden are Plant\nSome tree are plant\nConclusions:\n \nI. Some tree are not flower.\nII. All tree can be Garden.\nIII. All Plant being flower is a possibility.",
+          "type": "multiple_choice",
+          "createdBy": "609d141ffef055578d05892c",
+          "order": 1,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0.25,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p><span lang=\"EN-IN\" style=\"font-size: 11.0pt; line-height: 107%; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">None follows</span></p>",
+              "nameText": "None follows",
+              "order": 1,
+              "isNewOption": false,
+              "_id": "60f45e34e24370bc205c32d6"
+            },
+            {
+              "name": "<p><span lang=\"EN-IN\" style=\"font-size: 11.0pt; line-height: 107%; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">only II follows</span></p>",
+              "nameText": "only II follows",
+              "order": 2,
+              "isNewOption": false,
+              "_id": "60f45e34e2437059005c32d7"
+            },
+            {
+              "name": "<p><span lang=\"EN-IN\" style=\"font-size: 11.0pt; line-height: 107%; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">only III and either I or II follow</span></p>",
+              "nameText": "only III and either I or II follow",
+              "order": 3,
+              "isNewOption": false,
+              "_id": "60f45e34e24370ccb55c32d8"
+            },
+            {
+              "name": "<p><span lang=\"EN-IN\" style=\"font-size: 11.0pt; line-height: 107%; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">only I follows</span></p>",
+              "nameText": "only I follows",
+              "order": 4,
+              "isNewOption": false,
+              "_id": "60f45e34e2437052405c32d9"
+            },
+            {
+              "name": "<p><span lang=\"EN-IN\" style=\"font-size: 11.0pt; line-height: 107%; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">only either I or II follow</span></p>",
+              "nameText": "only either I or II follow",
+              "order": 4,
+              "isNewOption": true,
+              "_id": "60f45e34e2437046d45c32da"
+            }
+          ],
+          "_id": "60f43a0c78a3ec5af6263084",
+          "isGlobal": false,
+          "name": "<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 12pt;\">Statements:</span></strong></p>\n<p class=\"MsoNormal\">&nbsp;</p>\n<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 12pt;\">All milk is water.</span></strong></p>\n<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 12pt;\">Some milk is Tea.</span></strong></p>\n<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 12pt;\">No Coffee is Tea.</span></strong></p>\n<p class=\"MsoNormal\">&nbsp;</p>\n<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 12pt;\">Conclusions:</span></strong></p>\n<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 12pt;\">I. Some milk is Coffee.</span></strong></p>\n<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 12pt;\">II. No milk is Coffee</span></strong></p>\n<p><strong><span style=\"font-size: 12pt;\">III. All milk being coffee is a possibility.</span></strong></p>",
+          "paragraph": null,
+          "nameText": "Statements:\n \nAll milk is water.\nSome milk is Tea.\nNo Coffee is Tea.\n \nConclusions:\nI. Some milk is Coffee.\nII. No milk is Coffee\nIII. All milk being coffee is a possibility.",
+          "type": "multiple_choice",
+          "createdBy": "609d141ffef055578d05892c",
+          "order": 2,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0.25,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p><span lang=\"EN-IN\" style=\"font-size: 11.0pt; line-height: 107%; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">Only I follows</span></p>",
+              "nameText": "Only I follows",
+              "order": 1,
+              "isNewOption": false,
+              "_id": "60f45e34e243705cbf5c3312"
+            },
+            {
+              "name": "<p><span lang=\"EN-IN\" style=\"font-size: 11.0pt; line-height: 107%; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">Only II follows</span></p>",
+              "nameText": "Only II follows",
+              "order": 2,
+              "isNewOption": false,
+              "_id": "60f45e34e24370a3565c3313"
+            },
+            {
+              "name": "<p><span lang=\"EN-IN\" style=\"font-size: 11.0pt; line-height: 107%; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">Only III follows</span></p>",
+              "nameText": "Only III follows",
+              "order": 3,
+              "isNewOption": false,
+              "_id": "60f45e34e24370d82c5c3314"
+            },
+            {
+              "name": "<p><span lang=\"EN-IN\" style=\"font-size: 11.0pt; line-height: 107%; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">None follows</span></p>",
+              "nameText": "None follows",
+              "order": 4,
+              "isNewOption": false,
+              "_id": "60f45e34e243704db35c3315"
+            },
+            {
+              "name": "<p><span lang=\"EN-IN\" style=\"font-size: 11.0pt; line-height: 107%; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">None of these</span></p>",
+              "nameText": "None of these",
+              "order": 4,
+              "isNewOption": true,
+              "_id": "60f45e34e2437036aa5c3316"
+            }
+          ],
+          "_id": "60f43a0c78a3ecf9fb263089",
+          "isGlobal": false,
+          "name": "<p class=\"MsoNormal\"><span style=\"font-size: 12pt;\"><strong><span lang=\"EN-IN\">.Statements:</span></strong></span></p>\n<p class=\"MsoNormal\">&nbsp;</p>\n<p class=\"MsoNormal\"><span style=\"font-size: 12pt;\"><strong><span lang=\"EN-IN\">Some School are College.</span></strong></span></p>\n<p class=\"MsoNormal\"><span style=\"font-size: 12pt;\"><strong><span lang=\"EN-IN\">Some College are Lecture.</span></strong></span></p>\n<p class=\"MsoNormal\"><span style=\"font-size: 12pt;\"><strong><span lang=\"EN-IN\">All Class is College.</span></strong></span></p>\n<p class=\"MsoNormal\">&nbsp;</p>\n<p class=\"MsoNormal\"><span style=\"font-size: 12pt;\"><strong><span lang=\"EN-IN\">Conclusions:</span></strong></span></p>\n<p class=\"MsoNormal\"><span style=\"font-size: 12pt;\"><strong><span lang=\"EN-IN\">I. Some Lecture is not Class.</span></strong></span></p>\n<p class=\"MsoNormal\"><span style=\"font-size: 12pt;\"><strong><span lang=\"EN-IN\">II. Some School is Class.</span></strong></span></p>\n<p><span style=\"font-size: 12pt;\"><strong>III. Some College is not School</strong></span></p>",
+          "paragraph": null,
+          "nameText": ".Statements:\n \nSome School are College.\nSome College are Lecture.\nAll Class is College.\n \nConclusions:\nI. Some Lecture is not Class.\nII. Some School is Class.\nIII. Some College is not School",
+          "type": "multiple_choice",
+          "createdBy": "609d141ffef055578d05892c",
+          "order": 3,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0.25,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p><span lang=\"EN-IN\" style=\"font-size: 11.0pt; line-height: 107%; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">Only I and II follow</span></p>",
+              "nameText": "Only I and II follow",
+              "order": 1,
+              "isNewOption": false,
+              "_id": "60f45e34e24370bd8a5c32e5"
+            },
+            {
+              "name": "<p><span lang=\"EN-IN\" style=\"font-size: 11.0pt; line-height: 107%; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">Only II follows</span></p>",
+              "nameText": "Only II follows",
+              "order": 2,
+              "isNewOption": false,
+              "_id": "60f45e34e2437037bd5c32e6"
+            },
+            {
+              "name": "<p><span lang=\"EN-IN\" style=\"font-size: 11.0pt; line-height: 107%; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">Only I follows</span></p>",
+              "nameText": "Only I follows",
+              "order": 3,
+              "isNewOption": false,
+              "_id": "60f45e34e2437036565c32e7"
+            },
+            {
+              "name": "<p><span lang=\"EN-IN\" style=\"font-size: 11.0pt; line-height: 107%; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">Only I and III follow</span></p>",
+              "nameText": "Only I and III follow",
+              "order": 4,
+              "isNewOption": false,
+              "_id": "60f45e34e2437066fa5c32e8"
+            },
+            {
+              "name": "<p><span lang=\"EN-IN\" style=\"font-size: 11.0pt; line-height: 107%; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">None of these</span></p>",
+              "nameText": "None of these",
+              "order": 4,
+              "isNewOption": true,
+              "_id": "60f45e34e2437068db5c32e9"
+            }
+          ],
+          "_id": "60f43a0c78a3ec37aa26308e",
+          "isGlobal": false,
+          "name": "<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 12pt;\">Statements:</span></strong></p>\n<p class=\"MsoNormal\">&nbsp;</p>\n<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 12pt;\">Some comedy is actor</span></strong></p>\n<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 12pt;\">All good is movie.</span></strong></p>\n<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 12pt;\">No actor is good.</span></strong></p>\n<p class=\"MsoNormal\">&nbsp;</p>\n<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 12pt;\">Conclusions:</span></strong></p>\n<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 12pt;\">I. Some comedy are not good.</span></strong></p>\n<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 12pt;\">II. Some movie is comedy</span></strong></p>\n<p><strong><span style=\"font-size: 12pt;\">III. All good is comedy is a possibility</span></strong></p>",
+          "paragraph": null,
+          "nameText": "Statements:\n \nSome comedy is actor\nAll good is movie.\nNo actor is good.\n \nConclusions:\nI. Some comedy are not good.\nII. Some movie is comedy\nIII. All good is comedy is a possibility",
+          "type": "multiple_choice",
+          "createdBy": "609d141ffef055578d05892c",
+          "order": 4,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0.25,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p><span lang=\"EN-IN\" style=\"font-size: 11.0pt; line-height: 107%; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">Only I follows</span></p>",
+              "nameText": "Only I follows",
+              "order": 1,
+              "isNewOption": false,
+              "_id": "60f45e34e24370ff1b5c32f4"
+            },
+            {
+              "name": "<p><span lang=\"EN-IN\" style=\"font-size: 11.0pt; line-height: 107%; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">Only II follows</span></p>",
+              "nameText": "Only II follows",
+              "order": 2,
+              "isNewOption": false,
+              "_id": "60f45e34e2437066df5c32f5"
+            },
+            {
+              "name": "<p><span lang=\"EN-IN\" style=\"font-size: 11.0pt; line-height: 107%; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">Only II and III follows</span></p>",
+              "nameText": "Only II and III follows",
+              "order": 3,
+              "isNewOption": false,
+              "_id": "60f45e34e2437028575c32f6"
+            },
+            {
+              "name": "<p><span lang=\"EN-IN\" style=\"font-size: 11.0pt; line-height: 107%; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">All follow</span></p>",
+              "nameText": "All follow",
+              "order": 4,
+              "isNewOption": false,
+              "_id": "60f45e34e243702c925c32f7"
+            },
+            {
+              "name": "<p><span lang=\"EN-IN\" style=\"font-size: 11.0pt; line-height: 107%; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">None of these</span></p>",
+              "nameText": "None of these",
+              "order": 4,
+              "isNewOption": true,
+              "_id": "60f45e34e243706ada5c32f8"
+            }
+          ],
+          "_id": "60f43a0c78a3ec49a7263093",
+          "isGlobal": false,
+          "name": "<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 12pt;\">&nbsp;Statements:</span></strong></p>\n<p class=\"MsoNormal\">&nbsp;</p>\n<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 12pt;\">Some book are paper</span></strong></p>\n<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 12pt;\">Some paper are pen</span></strong></p>\n<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 12pt;\">No Pen is book</span></strong></p>\n<p class=\"MsoNormal\">&nbsp;</p>\n<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 12pt;\">Conclusions:</span></strong></p>\n<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 12pt;\">I. All paper is book</span></strong></p>\n<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 12pt;\">II. All pen is paper is a possibility</span></strong></p>\n<p><strong><span style=\"font-size: 12pt;\">III. All book is paper is a possibility</span></strong></p>",
+          "paragraph": null,
+          "nameText": " Statements:\n \nSome book are paper\nSome paper are pen\nNo Pen is book\n \nConclusions:\nI. All paper is book\nII. All pen is paper is a possibility\nIII. All book is paper is a possibility",
+          "type": "multiple_choice",
+          "createdBy": "609d141ffef055578d05892c",
+          "order": 5,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0.25,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p><span lang=\"EN-IN\" style=\"font-size: 11.0pt; line-height: 107%; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">If only conclusion I follow.</span></p>",
+              "nameText": "If only conclusion I follow.",
+              "order": 1,
+              "isNewOption": false,
+              "_id": "60f45e34e24370bb375c3308"
+            },
+            {
+              "name": "<p class=\"MsoNormal\"><span lang=\"EN-IN\">If only conclusion II follows.</span></p>",
+              "nameText": "If only conclusion II follows.",
+              "order": 2,
+              "isNewOption": false,
+              "_id": "60f45e34e2437013005c3309"
+            },
+            {
+              "name": "<p><span lang=\"EN-IN\" style=\"font-size: 11.0pt; line-height: 107%; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">If either conclusion I or II follows</span></p>",
+              "nameText": "If either conclusion I or II follows",
+              "order": 3,
+              "isNewOption": false,
+              "_id": "60f45e34e2437075aa5c330a"
+            },
+            {
+              "name": "<p><span lang=\"EN-IN\" style=\"font-size: 11.0pt; line-height: 107%; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">If neither conclusion I nor II follows</span></p>",
+              "nameText": "If neither conclusion I nor II follows",
+              "order": 4,
+              "isNewOption": false,
+              "_id": "60f45e34e243703e065c330b"
+            },
+            {
+              "name": "<p><span lang=\"EN-IN\" style=\"font-size: 11.0pt; line-height: 107%; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">If both conclusions I and II follow.</span></p>",
+              "nameText": "If both conclusions I and II follow.",
+              "order": 4,
+              "isNewOption": true,
+              "_id": "60f45e34e243707da75c330c"
+            }
+          ],
+          "_id": "60f43a0c78a3ec7b79263098",
+          "isGlobal": false,
+          "name": "<p><strong><span style=\"font-family: Calibri, sans-serif; font-size: 12pt;\">Directions (6-10): In each question below are given some statements followed by some conclusions. You have to take the given statements to be true even if they seem to be at variance with commonly known facts. Read all the conclusions and then decide which of the given conclusions logically follows the given statements disregarding commonly known facts.</span></strong></p>\n<p class=\"MsoNormal\">&nbsp;</p>\n<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 12pt;\">Statements:</span></strong></p>\n<p class=\"MsoNormal\">&nbsp;</p>\n<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 12pt;\">Some night are cloud.</span></strong></p>\n<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 12pt;\">All night are sky.</span></strong></p>\n<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 12pt;\">All day are sky.</span></strong></p>\n<p class=\"MsoNormal\">&nbsp;</p>\n<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 12pt;\">Conclusions:</span></strong></p>\n<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 12pt;\">I. Some night are not day.</span></strong></p>\n<p class=\"MsoNormal\"><span lang=\"EN-IN\" style=\"font-size: 12pt;\"><strong>II. All day being cloud is a possibility</strong>.</span></p>\n<p class=\"MsoNormal\">&nbsp;</p>",
+          "paragraph": null,
+          "nameText": "Directions (6-10): In each question below are given some statements followed by some conclusions. You have to take the given statements to be true even if they seem to be at variance with commonly known facts. Read all the conclusions and then decide which of the given conclusions logically follows the given statements disregarding commonly known facts.\n \nStatements:\n \nSome night are cloud.\nAll night are sky.\nAll day are sky.\n \nConclusions:\nI. Some night are not day.\nII. All day being cloud is a possibility.\n ",
+          "type": "multiple_choice",
+          "createdBy": "609d141ffef055578d05892c",
+          "order": 6,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0.25,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p><span lang=\"EN-IN\" style=\"font-size: 11.0pt; line-height: 107%; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">If only conclusion I follow.</span></p>",
+              "nameText": "If only conclusion I follow.",
+              "order": 1,
+              "isNewOption": false,
+              "_id": "60f45e34e2437096af5c32ea"
+            },
+            {
+              "name": "<p><span lang=\"EN-IN\" style=\"font-size: 11.0pt; line-height: 107%; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">If only conclusion II follows</span></p>",
+              "nameText": "If only conclusion II follows",
+              "order": 2,
+              "isNewOption": false,
+              "_id": "60f45e34e2437005265c32eb"
+            },
+            {
+              "name": "<p><span lang=\"EN-IN\" style=\"font-size: 11.0pt; line-height: 107%; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">If either conclusion I or II follows</span></p>",
+              "nameText": "If either conclusion I or II follows",
+              "order": 3,
+              "isNewOption": false,
+              "_id": "60f45e34e243708e6c5c32ec"
+            },
+            {
+              "name": "<p><span lang=\"EN-IN\" style=\"font-size: 11.0pt; line-height: 107%; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">If neither conclusion I nor II follows.</span></p>",
+              "nameText": "If neither conclusion I nor II follows.",
+              "order": 4,
+              "isNewOption": false,
+              "_id": "60f45e34e2437076715c32ed"
+            },
+            {
+              "name": "<p><span lang=\"EN-IN\" style=\"font-size: 11.0pt; line-height: 107%; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">If both conclusions I and II follow</span></p>",
+              "nameText": "If both conclusions I and II follow",
+              "order": 4,
+              "isNewOption": true,
+              "_id": "60f45e34e2437070195c32ee"
+            }
+          ],
+          "_id": "60f43a0c78a3ec008326309d",
+          "isGlobal": false,
+          "name": "<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 12pt;\">Statements:</span></strong></p>\n<p class=\"MsoNormal\">&nbsp;</p>\n<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 12pt;\">All solution are liquid.</span></strong></p>\n<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 12pt;\">No liquid is a mixture.</span></strong></p>\n<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 12pt;\">All mixture are matter.</span></strong></p>\n<p class=\"MsoNormal\">&nbsp;</p>\n<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 12pt;\">Conclusions:</span></strong></p>\n<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 12pt;\">I. All solution being matter is a possibility.</span></strong></p>\n<p><strong><span style=\"font-size: 12pt;\">II. No solution is a mixture.</span></strong></p>",
+          "paragraph": null,
+          "nameText": "Statements:\n \nAll solution are liquid.\nNo liquid is a mixture.\nAll mixture are matter.\n \nConclusions:\nI. All solution being matter is a possibility.\nII. No solution is a mixture.",
+          "type": "multiple_choice",
+          "createdBy": "609d141ffef055578d05892c",
+          "order": 7,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0.25,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p><span lang=\"EN-IN\" style=\"font-size: 11.0pt; line-height: 107%; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">If only conclusion I follow</span></p>",
+              "nameText": "If only conclusion I follow",
+              "order": 1,
+              "isNewOption": false,
+              "_id": "60f45e34e24370f6a15c32f9"
+            },
+            {
+              "name": "<p><span lang=\"EN-IN\" style=\"font-size: 11.0pt; line-height: 107%; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">If only conclusion II follows</span></p>",
+              "nameText": "If only conclusion II follows",
+              "order": 2,
+              "isNewOption": false,
+              "_id": "60f45e34e2437050735c32fa"
+            },
+            {
+              "name": "<p><span lang=\"EN-IN\" style=\"font-size: 11.0pt; line-height: 107%; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">If either conclusion I or II follows</span></p>",
+              "nameText": "If either conclusion I or II follows",
+              "order": 3,
+              "isNewOption": false,
+              "_id": "60f45e34e2437046e45c32fb"
+            },
+            {
+              "name": "<p><span lang=\"EN-IN\" style=\"font-size: 11.0pt; line-height: 107%; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">If neither conclusion I nor II follows</span></p>",
+              "nameText": "If neither conclusion I nor II follows",
+              "order": 4,
+              "isNewOption": false,
+              "_id": "60f45e34e243702c9a5c32fc"
+            },
+            {
+              "name": "<p><span lang=\"EN-IN\" style=\"font-size: 11.0pt; line-height: 107%; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">If both conclusions I and II follow</span></p>",
+              "nameText": "If both conclusions I and II follow",
+              "order": 4,
+              "isNewOption": true,
+              "_id": "60f45e34e2437039545c32fd"
+            }
+          ],
+          "_id": "60f43a0c78a3ec4cfa2630a2",
+          "isGlobal": false,
+          "name": "<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 12pt;\">Statements:</span></strong></p>\n<p class=\"MsoNormal\">&nbsp;</p>\n<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 12pt;\">Some pink are white.</span></strong></p>\n<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 12pt;\">All yellow are pink.</span></strong></p>\n<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 12pt;\">No yellow is a blue.</span></strong></p>\n<p class=\"MsoNormal\">&nbsp;</p>\n<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 12pt;\">Conclusion:</span></strong></p>\n<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 12pt;\">I. Some white, if they are yellow, are also pink.</span></strong></p>\n<p><strong><span style=\"font-size: 12pt;\">II. All blue being pink is a possibility.</span></strong></p>",
+          "paragraph": null,
+          "nameText": "Statements:\n \nSome pink are white.\nAll yellow are pink.\nNo yellow is a blue.\n \nConclusion:\nI. Some white, if they are yellow, are also pink.\nII. All blue being pink is a possibility.",
+          "type": "multiple_choice",
+          "createdBy": "609d141ffef055578d05892c",
+          "order": 8,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0.25,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p><span lang=\"EN-IN\" style=\"font-size: 11.0pt; line-height: 107%; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">If only conclusion I follow</span></p>",
+              "nameText": "If only conclusion I follow",
+              "order": 1,
+              "isNewOption": false,
+              "_id": "60f45e34e24370778f5c3317"
+            },
+            {
+              "name": "<p><span lang=\"EN-IN\" style=\"font-size: 11.0pt; line-height: 107%; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">If only conclusion II follows</span></p>",
+              "nameText": "If only conclusion II follows",
+              "order": 2,
+              "isNewOption": false,
+              "_id": "60f45e34e2437029865c3318"
+            },
+            {
+              "name": "<p><span lang=\"EN-IN\" style=\"font-size: 11.0pt; line-height: 107%; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">If either conclusion I or II follows.</span></p>",
+              "nameText": "If either conclusion I or II follows.",
+              "order": 3,
+              "isNewOption": false,
+              "_id": "60f45e34e2437038995c3319"
+            },
+            {
+              "name": "<p><span lang=\"EN-IN\" style=\"font-size: 11.0pt; line-height: 107%; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">If neither conclusion I nor II follows.</span></p>",
+              "nameText": "If neither conclusion I nor II follows.",
+              "order": 4,
+              "isNewOption": false,
+              "_id": "60f45e34e2437068245c331a"
+            },
+            {
+              "name": "<p><span lang=\"EN-IN\" style=\"font-size: 11.0pt; line-height: 107%; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">If both conclusions I and II follow</span></p>",
+              "nameText": "If both conclusions I and II follow",
+              "order": 4,
+              "isNewOption": true,
+              "_id": "60f45e34e24370138c5c331b"
+            }
+          ],
+          "_id": "60f43a0c78a3ec27622630a7",
+          "isGlobal": false,
+          "name": "<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 12pt;\">Statements:</span></strong></p>\n<p class=\"MsoNormal\">&nbsp;</p>\n<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 12pt;\">Some horror are fear.</span></strong></p>\n<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 12pt;\">All horror are daring.</span></strong></p>\n<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 12pt;\">No fear is brave.</span></strong></p>\n<p class=\"MsoNormal\">&nbsp;</p>\n<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 12pt;\">Conclusions:</span></strong></p>\n<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 12pt;\">I. Some horror being brave is a possibility.</span></strong></p>\n<p><strong><span style=\"font-size: 12pt;\">II. No horror is brave.</span></strong></p>",
+          "paragraph": null,
+          "nameText": "Statements:\n \nSome horror are fear.\nAll horror are daring.\nNo fear is brave.\n \nConclusions:\nI. Some horror being brave is a possibility.\nII. No horror is brave.",
+          "type": "multiple_choice",
+          "createdBy": "609d141ffef055578d05892c",
+          "order": 9,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0.25,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p><span lang=\"EN-IN\" style=\"font-size: 11.0pt; line-height: 107%; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">If only conclusion I follow.</span></p>",
+              "nameText": "If only conclusion I follow.",
+              "order": 1,
+              "isNewOption": false,
+              "_id": "60f45e34e2437015bf5c32db"
+            },
+            {
+              "name": "<p><span lang=\"EN-IN\" style=\"font-size: 11.0pt; line-height: 107%; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">If only conclusion II follows.</span></p>",
+              "nameText": "If only conclusion II follows.",
+              "order": 2,
+              "isNewOption": false,
+              "_id": "60f45e34e24370c17f5c32dc"
+            },
+            {
+              "name": "<p><span lang=\"EN-IN\" style=\"font-size: 11.0pt; line-height: 107%; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">If either conclusion I or II follows</span></p>",
+              "nameText": "If either conclusion I or II follows",
+              "order": 3,
+              "isNewOption": false,
+              "_id": "60f45e34e2437075fe5c32dd"
+            },
+            {
+              "name": "<p><span lang=\"EN-IN\" style=\"font-size: 11.0pt; line-height: 107%; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">If neither conclusion I nor II follows</span></p>",
+              "nameText": "If neither conclusion I nor II follows",
+              "order": 4,
+              "isNewOption": false,
+              "_id": "60f45e34e243707c735c32de"
+            },
+            {
+              "name": "<p><span lang=\"EN-IN\" style=\"font-size: 11.0pt; line-height: 107%; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">If both conclusions I and II follow</span></p>",
+              "nameText": "If both conclusions I and II follow",
+              "order": 4,
+              "isNewOption": true,
+              "_id": "60f45e34e24370ff215c32df"
+            }
+          ],
+          "_id": "60f43a0c78a3ec11c42630ac",
+          "isGlobal": false,
+          "name": "<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 12pt;\">Statements:</span></strong></p>\n<p class=\"MsoNormal\">&nbsp;</p>\n<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 12pt;\">No mango is papaya.</span></strong></p>\n<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 12pt;\">All papaya are apple.</span></strong></p>\n<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 12pt;\">No apple is orange.</span></strong></p>\n<p class=\"MsoNormal\">&nbsp;</p>\n<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 12pt;\">Conclusions:</span></strong></p>\n<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 12pt;\">I. All orange being papaya is a possibility.</span></strong></p>\n<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 12pt;\">II. Some mango are not orange.</span></strong></p>",
+          "paragraph": null,
+          "nameText": "Statements:\n \nNo mango is papaya.\nAll papaya are apple.\nNo apple is orange.\n \nConclusions:\nI. All orange being papaya is a possibility.\nII. Some mango are not orange.",
+          "type": "multiple_choice",
+          "createdBy": "609d141ffef055578d05892c",
+          "order": 10,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0.25,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p><span lang=\"EN-IN\" style=\"font-size: 11.0pt; line-height: 107%; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">Only I follows</span></p>",
+              "nameText": "Only I follows",
+              "order": 1,
+              "isNewOption": false,
+              "_id": "60f45e34e24370d8135c330d"
+            },
+            {
+              "name": "<p><span lang=\"EN-IN\" style=\"font-size: 11.0pt; line-height: 107%; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">Only II follows</span></p>",
+              "nameText": "Only II follows",
+              "order": 2,
+              "isNewOption": false,
+              "_id": "60f45e34e243707b925c330e"
+            },
+            {
+              "name": "<p><span lang=\"EN-IN\" style=\"font-size: 11.0pt; line-height: 107%; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">Only I and III follow</span></p>",
+              "nameText": "Only I and III follow",
+              "order": 3,
+              "isNewOption": false,
+              "_id": "60f45e34e2437018335c330f"
+            },
+            {
+              "name": "<p class=\"MsoNormal\"><span lang=\"EN-IN\">Only III follows</span></p>",
+              "nameText": "Only III follows",
+              "order": 4,
+              "isNewOption": false,
+              "_id": "60f45e34e243708ef15c3310"
+            },
+            {
+              "name": "<p><span lang=\"EN-IN\" style=\"font-size: 11.0pt; line-height: 107%; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">None follows</span></p>",
+              "nameText": "None follows",
+              "order": 4,
+              "isNewOption": true,
+              "_id": "60f45e34e2437022455c3311"
+            }
+          ],
+          "_id": "60f43a0c78a3ec32b32630b1",
+          "isGlobal": false,
+          "name": "<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 12pt;\">Directions (11-15): In each of the questions below are given some statements followed by some Conclusions. You have to take the given statements to be true even if they seem to be at variance from commonly known facts. Read all the Conclusions and then decide which of the given Conclusions logically follows from the given statements disregarding commonly known facts.</span></strong></p>\n<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 12pt;\">&nbsp;</span></strong></p>\n<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 12pt;\">Q11. Statements:</span></strong></p>\n<p class=\"MsoNormal\">&nbsp;</p>\n<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 12pt;\">All Fashion are Tradition.</span></strong></p>\n<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 12pt;\">Some Tradition are Values.</span></strong></p>\n<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 12pt;\">Some Indian are Values.</span></strong></p>\n<p class=\"MsoNormal\">&nbsp;</p>\n<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 12pt;\">Conclusions:</span></strong></p>\n<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 12pt;\">I. All tradition is values is a possibility</span></strong></p>\n<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 12pt;\">II. Some values are fashion</span></strong></p>\n<p><strong><span style=\"font-size: 12pt;\">III. All Indian are tradition is a possibility.</span></strong></p>",
+          "paragraph": null,
+          "nameText": "Directions (11-15): In each of the questions below are given some statements followed by some Conclusions. You have to take the given statements to be true even if they seem to be at variance from commonly known facts. Read all the Conclusions and then decide which of the given Conclusions logically follows from the given statements disregarding commonly known facts.\n \nQ11. Statements:\n \nAll Fashion are Tradition.\nSome Tradition are Values.\nSome Indian are Values.\n \nConclusions:\nI. All tradition is values is a possibility\nII. Some values are fashion\nIII. All Indian are tradition is a possibility.",
+          "type": "multiple_choice",
+          "createdBy": "609d141ffef055578d05892c",
+          "order": 11,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0.25,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p><span lang=\"EN-IN\" style=\"font-size: 11.0pt; line-height: 107%; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">All follow</span></p>",
+              "nameText": "All follow",
+              "order": 1,
+              "isNewOption": false,
+              "_id": "60f45e34e2437012f85c32ef"
+            },
+            {
+              "name": "<p><span lang=\"EN-IN\" style=\"font-size: 11.0pt; line-height: 107%; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">Only II and III follow</span></p>",
+              "nameText": "Only II and III follow",
+              "order": 2,
+              "isNewOption": false,
+              "_id": "60f45e34e24370e63d5c32f0"
+            },
+            {
+              "name": "<p><span lang=\"EN-IN\" style=\"font-size: 11.0pt; line-height: 107%; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">Only I and III follow</span></p>",
+              "nameText": "Only I and III follow",
+              "order": 3,
+              "isNewOption": false,
+              "_id": "60f45e34e24370bdc35c32f1"
+            },
+            {
+              "name": "<p><span lang=\"EN-IN\" style=\"font-size: 11.0pt; line-height: 107%; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">Only I and II follow</span></p>",
+              "nameText": "Only I and II follow",
+              "order": 4,
+              "isNewOption": false,
+              "_id": "60f45e34e24370b14b5c32f2"
+            },
+            {
+              "name": "<p><span lang=\"EN-IN\" style=\"font-size: 11.0pt; line-height: 107%; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">None of these</span></p>",
+              "nameText": "None of these",
+              "order": 4,
+              "isNewOption": true,
+              "_id": "60f45e34e243708b0c5c32f3"
+            }
+          ],
+          "_id": "60f43a0c78a3ecad872630b6",
+          "isGlobal": false,
+          "name": "<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 12pt;\">. Statements:</span></strong></p>\n<p class=\"MsoNormal\">&nbsp;</p>\n<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 12pt;\">Some Asia are Europe.</span></strong></p>\n<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 12pt;\">All Europe are Africa.</span></strong></p>\n<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 12pt;\">No Europe is America.</span></strong></p>\n<p class=\"MsoNormal\">&nbsp;</p>\n<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 12pt;\">Conclusions:</span></strong></p>\n<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 12pt;\">I. Some America are Asia.</span></strong></p>\n<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 12pt;\">II. Some Africa are Asia.</span></strong></p>\n<p><strong><span style=\"font-size: 12pt;\">III. Some America is Africa is a possibility.</span></strong></p>",
+          "paragraph": null,
+          "nameText": ". Statements:\n \nSome Asia are Europe.\nAll Europe are Africa.\nNo Europe is America.\n \nConclusions:\nI. Some America are Asia.\nII. Some Africa are Asia.\nIII. Some America is Africa is a possibility.",
+          "type": "multiple_choice",
+          "createdBy": "609d141ffef055578d05892c",
+          "order": 12,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0.25,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p><span lang=\"EN-IN\" style=\"font-size: 11.0pt; line-height: 107%; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">Only I follows</span></p>",
+              "nameText": "Only I follows",
+              "order": 1,
+              "isNewOption": false,
+              "_id": "60f45e34e243701d3b5c32fe"
+            },
+            {
+              "name": "<p><span lang=\"EN-IN\" style=\"font-size: 11.0pt; line-height: 107%; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">Only II follows</span></p>",
+              "nameText": "Only II follows",
+              "order": 2,
+              "isNewOption": false,
+              "_id": "60f45e34e24370c3aa5c32ff"
+            },
+            {
+              "name": "<p><span lang=\"EN-IN\" style=\"font-size: 11.0pt; line-height: 107%; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">Only III follows</span></p>",
+              "nameText": "Only III follows",
+              "order": 3,
+              "isNewOption": false,
+              "_id": "60f45e34e2437059de5c3300"
+            },
+            {
+              "name": "<p><span lang=\"EN-IN\" style=\"font-size: 11.0pt; line-height: 107%; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">Only II and III follow</span></p>",
+              "nameText": "Only II and III follow",
+              "order": 4,
+              "isNewOption": false,
+              "_id": "60f45e34e2437079f45c3301"
+            },
+            {
+              "name": "<p><span lang=\"EN-IN\" style=\"font-size: 11.0pt; line-height: 107%; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">None of these</span></p>",
+              "nameText": "None of these",
+              "order": 4,
+              "isNewOption": true,
+              "_id": "60f45e34e2437013d95c3302"
+            }
+          ],
+          "_id": "60f43a0c78a3ec22432630bb",
+          "isGlobal": false,
+          "name": "<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 12pt;\">. Statements:</span></strong></p>\n<p class=\"MsoNormal\">&nbsp;</p>\n<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 12pt;\">All Manager are Clerk.</span></strong></p>\n<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 12pt;\">All Clerk are Assistant.</span></strong></p>\n<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 12pt;\">No Executive are Clerk.</span></strong></p>\n<p class=\"MsoNormal\">&nbsp;</p>\n<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 12pt;\">Conclusions</span></strong></p>\n<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 12pt;\">I. Some Clerk are Executive.</span></strong></p>\n<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 12pt;\">II. Some Assistant are Manager.</span></strong></p>\n<p><strong><span style=\"font-family: Calibri, sans-serif; font-size: 12pt;\">III. Some Assistant are Executive</span></strong></p>",
+          "paragraph": null,
+          "nameText": ". Statements:\n \nAll Manager are Clerk.\nAll Clerk are Assistant.\nNo Executive are Clerk.\n \nConclusions\nI. Some Clerk are Executive.\nII. Some Assistant are Manager.\nIII. Some Assistant are Executive",
+          "type": "multiple_choice",
+          "createdBy": "609d141ffef055578d05892c",
+          "order": 13,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0.25,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p><span lang=\"EN-IN\" style=\"font-size: 11.0pt; line-height: 107%; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">Only I follows</span></p>",
+              "nameText": "Only I follows",
+              "order": 1,
+              "isNewOption": false,
+              "_id": "60f45e34e2437078405c331c"
+            },
+            {
+              "name": "<p><span lang=\"EN-IN\" style=\"font-size: 11.0pt; line-height: 107%; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">Only II follows</span></p>",
+              "nameText": "Only II follows",
+              "order": 2,
+              "isNewOption": false,
+              "_id": "60f45e34e2437028695c331d"
+            },
+            {
+              "name": "<p><span lang=\"EN-IN\" style=\"font-size: 11.0pt; line-height: 107%; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">Only III follows</span></p>",
+              "nameText": "Only III follows",
+              "order": 3,
+              "isNewOption": false,
+              "_id": "60f45e34e243705f795c331e"
+            },
+            {
+              "name": "<p><span lang=\"EN-IN\" style=\"font-size: 11.0pt; line-height: 107%; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">Only I and II follow</span></p>",
+              "nameText": "Only I and II follow",
+              "order": 4,
+              "isNewOption": false,
+              "_id": "60f45e34e24370be375c331f"
+            },
+            {
+              "name": "<p><span lang=\"EN-IN\" style=\"font-size: 11.0pt; line-height: 107%; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">None of these</span></p>",
+              "nameText": "None of these",
+              "order": 4,
+              "isNewOption": true,
+              "_id": "60f45e34e2437007445c3320"
+            }
+          ],
+          "_id": "60f43a0c78a3ec088d2630c0",
+          "isGlobal": false,
+          "name": "<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 12pt;\">Statements:</span></strong></p>\n<p class=\"MsoNormal\">&nbsp;</p>\n<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 12pt;\">Some Sale are Discount.</span></strong></p>\n<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 12pt;\">All Discount are Price.</span></strong></p>\n<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 12pt;\">No Cost is Price.</span></strong></p>\n<p class=\"MsoNormal\">&nbsp;</p>\n<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 12pt;\">Conclusions:</span></strong></p>\n<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 12pt;\">I. All sale is Discount is a possibility.</span></strong></p>\n<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 12pt;\">II. Some discount are cost.</span></strong></p>\n<p><strong><span style=\"font-size: 12pt;\">III. All price are sale is a possibility.</span></strong></p>",
+          "paragraph": null,
+          "nameText": "Statements:\n \nSome Sale are Discount.\nAll Discount are Price.\nNo Cost is Price.\n \nConclusions:\nI. All sale is Discount is a possibility.\nII. Some discount are cost.\nIII. All price are sale is a possibility.",
+          "type": "multiple_choice",
+          "createdBy": "609d141ffef055578d05892c",
+          "order": 14,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0.25,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p><span lang=\"EN-IN\" style=\"font-size: 11.0pt; line-height: 107%; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">Only I and III follow</span></p>",
+              "nameText": "Only I and III follow",
+              "order": 1,
+              "isNewOption": false,
+              "_id": "60f45e34e243709e245c32e0"
+            },
+            {
+              "name": "<p><span lang=\"EN-IN\" style=\"font-size: 11.0pt; line-height: 107%; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">Only II follows</span></p>",
+              "nameText": "Only II follows",
+              "order": 2,
+              "isNewOption": false,
+              "_id": "60f45e34e2437010c65c32e1"
+            },
+            {
+              "name": "<p><span lang=\"EN-IN\" style=\"font-size: 11.0pt; line-height: 107%; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">Only I</span></p>",
+              "nameText": "Only I",
+              "order": 3,
+              "isNewOption": false,
+              "_id": "60f45e34e243703c5d5c32e2"
+            },
+            {
+              "name": "<p><span lang=\"EN-IN\" style=\"font-size: 11.0pt; line-height: 107%; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">Only III follows</span></p>",
+              "nameText": "Only III follows",
+              "order": 4,
+              "isNewOption": false,
+              "_id": "60f45e34e2437066935c32e3"
+            },
+            {
+              "name": "<p><span lang=\"EN-IN\" style=\"font-size: 11.0pt; line-height: 107%; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">None of these</span></p>",
+              "nameText": "None of these",
+              "order": 4,
+              "isNewOption": true,
+              "_id": "60f45e34e2437025ff5c32e4"
+            }
+          ],
+          "_id": "60f43a0c78a3ecc5542630c5",
+          "isGlobal": false,
+          "name": "<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 12pt;\">. Statements:</span></strong></p>\n<p class=\"MsoNormal\">&nbsp;</p>\n<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 12pt;\">Some black are grey.</span></strong></p>\n<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 12pt;\">All grey are red.</span></strong></p>\n<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 12pt;\">All olive are Red.</span></strong></p>\n<p class=\"MsoNormal\">&nbsp;</p>\n<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 12pt;\">Conclusions:</span></strong></p>\n<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 12pt;\">I. All red is olive is a possibility.</span></strong></p>\n<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 12pt;\">II. Some black are red.</span></strong></p>\n<p><strong><span style=\"font-size: 12pt;\">III. All red are grey.</span></strong></p>",
+          "paragraph": null,
+          "nameText": ". Statements:\n \nSome black are grey.\nAll grey are red.\nAll olive are Red.\n \nConclusions:\nI. All red is olive is a possibility.\nII. Some black are red.\nIII. All red are grey.",
+          "type": "multiple_choice",
+          "createdBy": "609d141ffef055578d05892c",
+          "order": 15,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        }
+      ]
+    }
+  ],
+  "practiceTestUrls": [],
+  "updateAfterSync": {},
+  "isCdnUpdated": false,
+  "lastAttemptedAt": "2026-09-19T18:07:26.856Z",
+  "currentSection": "60f439f4cfa2153716d40e8f",
+  "testTotalDuration": 900000,
+  "examStartDate": "2026-09-20T18:47:50.543Z"
+}
