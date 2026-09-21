@@ -168,3 +168,34 @@ YouTube is the single greatest free repository for cracking the Infosys Systems 
 | & Interview Prep  | writing 5 SQL queries or 1 OOPs class on IDE / paper.       |
 +-------------------+-------------------------------------------------------------+
 ```
+
+---
+
+## 5. Offline Local Vault Directory (Zero Internet Needed)
+
+You have immediate access to complete local PDF reference books, question sheets, and mock tests right inside your workspace:
+
+### 5.1 Local PDF Books & DPP Sheets (`Course_844567_Full/Purchased Documents/`)
+* [250 + Video Solution Quant Assorted Book.pdf](file:///c:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/Course_844567_Full/Purchased%20Documents/250%20+%20Video%20Solution%20Quant%20Assorted%20Book.pdf)
+* [Aptitude 250.pdf](file:///c:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/Course_844567_Full/Purchased%20Documents/Aptitude%20250.pdf)
+* [Best 250+ Sure Shot -01 (1).pdf](file:///c:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/Course_844567_Full/Purchased%20Documents/Best%20250+%20Sure%20Shot%20-01%20(1).pdf)
+* [01 Quadratic Equations - New.pdf](file:///c:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/Course_844567_Full/Purchased%20Documents/01%20Quadratic%20Equations%20-%20New.pdf)
+* [02 Quadratic Equation Live Class Sheet.pdf](file:///c:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/Course_844567_Full/Purchased%20Documents/02%20Quadratic%20Equation%20Live%20Class%20Sheet.pdf)
+* [Clocks Class Solution.pdf](file:///c:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/Course_844567_Full/Purchased%20Documents/Clocks%20Class%20Solution.pdf)
+* [Coding.pdf](file:///c:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/Course_844567_Full/Purchased%20Documents/Coding.pdf)
+* [LCM HCF.pdf](file:///c:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/Course_844567_Full/Purchased%20Documents/LCM%20HCF.pdf)
+* [mensuration3D.pdf](file:///c:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/Course_844567_Full/Purchased%20Documents/mensuration3D.pdf)
+* [Number System Day 01.pdf](file:///c:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/Course_844567_Full/Purchased%20Documents/Number%20System%20Day%2001.pdf)
+* [Number System 02.pdf](file:///c:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/Course_844567_Full/Purchased%20Documents/Number%20System%2002.pdf)
+* [PnC.pdf](file:///c:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/Course_844567_Full/Purchased%20Documents/PnC.pdf)
+* [Probability Type Bag Based.pdf](file:///c:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/Course_844567_Full/Purchased%20Documents/Probability%20Type%20Bag%20Based.pdf)
+
+### 5.2 Full-Length Mock Test Directory (`Course_844567_Full/Infosys Mock Test Series/`)
+* **Mock I (Based on Infosys PYQs):** Complete Sectional Tests (Quant, Analytical, Pseudo, Verbal, Puzzle) in HTML/MD/JSON format.
+* **Mock II (Based on Infosys PYQs):** Full 4-Section Mock with Question Papers, Solutions, and local [Video Solution MP4](file:///c:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/Course_844567_Full/Infosys%20Mock%20Test%20Series/2.%20Full%20Length%20Mock%20II-%20Based%20on%20Infosys%20PYQ/Full%20Length%20Mock%20II%20Video%20Solution.mp4).
+* **Mock III & IV (All India Mocks):** Full Aptitude and Technical Pseudocode MCQ sets with complete step-by-step solutions.
+* **Sectional Mocks 3, 4, 5:** Independent Full-Length Logical Reasoning and Verbal Ability examination simulations.
+
+### 5.3 Local Interactive Testing Platform (`preparation/`)
+* Run `npm run dev` inside [`preparation`](file:///c:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/preparation) to launch the React/Vite simulator with 1,200+ question figures, timed tests, and instant analytics.
+

@@ -193,6 +193,75 @@ Where $H$ = hour (1 to 12), $M$ = minutes (0 to 59).
 
 ---
 
+### Module 2.7: Dice & Painted Cube Formulas (The Absolute Metric)
+
+#### 1. Dice Solving Rules
+* **Standard Die vs Ordinary Die:**
+  * In a standard die, the sum of opposite faces is strictly **7** ($1 \leftrightarrow 6,\; 2 \leftrightarrow 5,\; 3 \leftrightarrow 4$).
+* **Rule 1 (Single Common Face):**
+  * When two views of a die show one common face (say number $X$):
+  * Write numbers in **Clockwise Order** starting from $X$ for both views:
+    * View 1: $X \to A \to B$
+    * View 2: $X \to C \to D$
+  * Then $A$ is opposite $C$, and $B$ is opposite $D$. The remaining invisible number is opposite $X$.
+* **Rule 2 (Two Common Faces):**
+  * If two positions of a die show two identical numbers $X$ and $Y$:
+  * The **third remaining numbers on both dice are strictly OPPOSITE each other**.
+
+#### 2. The Painted Cube Cutting Formulas
+A large cube of side $L$ painted on all outer surfaces is cut into $N$ smaller unit cubes of side $s$, where $n = \frac{L}{s}$:
+
+| Attribute | Spatial Location | Universal Formula | For $n=4$ (64 cubes) | For $n=5$ (125 cubes) |
+| :--- | :--- | :---: | :---: | :---: |
+| **Total Small Cubes** | Whole volume | $n^3$ | $64$ | $125$ |
+| **3 Faces Painted** | 8 Corners | **$8$ (Constant)** | $8$ | $8$ |
+| **2 Faces Painted** | 12 Edges | **$12(n - 2)$** | $12(2) = 24$ | $12(3) = 36$ |
+| **1 Face Painted** | 6 Faces | **$6(n - 2)^2$** | $6(4) = 24$ | $6(9) = 54$ |
+| **0 Faces Painted (Colorless)**| Inner Core | **$(n - 2)^3$** | $(2)^3 = 8$ | $(3)^3 = 27$ |
+
+---
+
+### Module 2.8: Spatial Reasoning & Optical Inversion (Mirror & Water Images)
+
+#### 1. The Optical Inversion Invariants
+* **Mirror Image (Vertical Mirror Line $M_1 M_2$):**
+  * **Lateral Inversion:** Left transforms to Right, Right transforms to Left.
+  * Top and Bottom remain **UNALTERED**.
+  * Letters invariant under vertical mirror reflection: `A, H, I, M, O, T, U, V, W, X, Y` (11 capital letters).
+* **Water Image (Horizontal Mirror Line at base):**
+  * **Vertical Inversion:** Top transforms to Bottom, Bottom transforms to Top.
+  * Left and Right remain **UNALTERED**.
+  * Letters invariant under water reflection: `B, C, D, E, H, I, K, O, X` (9 capital letters).
+
+---
+
+### Module 2.9: Coded Inequalities & Decision Logic
+
+#### 1. Operator Priority Hierarchy
+When traveling from variable $A$ to variable $B$:
+$$\text{Priority 1: } (> , <) \quad > \quad \text{Priority 2: } (\ge , \le) \quad > \quad \text{Priority 3: } (=)$$
+
+#### 2. Cardinal Traversal & Elimination Rules
+1. **The Unbroken Path Rule:** A conclusion $A > B$ is valid if and only if all signs from $A$ to $B$ open towards $A$ without any interruption, and at least ONE sign is strictly $>$.
+2. **The Contradictory Sign Blockage:** If opposite-facing signs encounter each other in the chain ($> \dots <$ or $\ge \dots \le$), the relationship is **BLOCKED**. No conclusion can be definitively drawn between those two endpoints.
+3. **Either-Or in Inequalities:** If $A$ and $B$ are blocked and no relationship exists, the pair ($A > B$ and $A \le B$) forms an **Either-Or** condition if all 3 possibilities ($>, <, =$) are covered.
+
+---
+
+### Module 2.10: Critical Reasoning (Assumptions, Conclusions, Course of Action)
+
+* **Statement & Assumptions (The Negation Test):**
+  * An assumption is something taken for granted by the author before making the statement.
+  * *The Gold Test:* Negate the assumption. If negating the assumption makes the author's original statement absurd or invalid, the assumption is **100% VALID and IMPLICIT**.
+* **Statement & Conclusions (Zero-Outside-Knowledge Rule):**
+  * A conclusion must follow $100\%$ purely from the text. Even if a statement contradicts real-world science or common sense, you must treat the statement as absolute truth.
+* **Statement & Course of Action:**
+  * Must directly solve or mitigate the problem.
+  * Must be practical and feasible.
+  * Must not create a newer, worse problem.
+
+---
+
 ## 3. Real Infosys Exam Logical Questions (Forensic Step-by-Step Solutions)
 
 ### Question 1: Circular Seating Arrangement (Mixed Facing)

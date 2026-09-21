@@ -213,6 +213,105 @@ Infosys DI sets are multi-variable and require converting complex graphic data i
 
 ---
 
+### Module 2.6: Quadratic Equations & Root Comparison (The Zero-Calculation Sign Matrix)
+Infosys aptitude frequently tests quadratic comparisons between $x$ and $y$ ($x > y, x < y, x \ge y, x \le y, \text{or } x = y / \text{CND}$).
+
+#### 1. The Standard Sign Conversion Matrix
+Given quadratic $a x^2 + b x + c = 0$:
+
+| Equation Signs ($b$, $c$) | Root Signs ($\alpha$, $\beta$) | Mental Mnemonic |
+| :---: | :---: | :--- |
+| $+ , +$ | **$- , -$** | Both roots negative |
+| $- , +$ | **$+ , +$** | Both roots positive |
+| $+ , -$ | **$- , +$** | Larger factor negative, smaller positive |
+| $- , -$ | **$+ , -$** | Larger factor positive, smaller negative |
+
+#### 2. The Golden "Cannot Be Determined (CND)" Shortcut:
+* If the constant term ($c$) in **BOTH** equations is **NEGATIVE** (e.g., $x^2 + 5x - 24 = 0$ and $y^2 - 3y - 18 = 0$):
+  * Equation 1 produces roots: $(-, +)$
+  * Equation 2 produces roots: $(+, -)$
+  * *Verdict:* The relationship between $x$ and $y$ is **ALWAYS CANNOT BE DETERMINED ($x = y$ or No Relation)**. You do not even need to factorize!
+
+#### 3. General Root Formula & Relations:
+$$x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a},\quad \text{Sum of Roots } (\alpha + \beta) = -\frac{b}{a},\quad \text{Product of Roots } (\alpha \beta) = \frac{c}{a}$$
+* **Nature of Roots (Discriminant $D = b^2 - 4ac$):**
+  * $D > 0$ and perfect square: Real, rational, unequal.
+  * $D > 0$ and not a perfect square: Real, irrational, conjugate pairs ($p \pm \sqrt{q}$).
+  * $D = 0$: Real, rational, equal ($\alpha = \beta = -b/2a$).
+  * $D < 0$: Imaginary / Complex conjugate pairs ($p \pm iq$).
+
+---
+
+### Module 2.7: Mensuration 2D & 3D (Complete Plane & Solid Geometry Vault)
+
+#### 1. 2D Plane Mensuration
+* **Equilateral Triangle:**
+  $$\text{Area} = \frac{\sqrt{3}}{4} a^2,\quad \text{Height } (h) = \frac{\sqrt{3}}{2} a,\quad \text{In-radius } (r) = \frac{a}{2\sqrt{3}},\quad \text{Circum-radius } (R) = \frac{a}{\sqrt{3}}$$
+* **Scalene Triangle (Heron's Formula):**
+  $$\text{Area} = \sqrt{s(s - a)(s - b)(s - c)},\quad \text{where } s = \frac{a + b + c}{2}$$
+* **Circle & Sector:**
+  $$\text{Area} = \pi r^2,\quad \text{Circumference} = 2\pi r$$
+  $$\text{Length of Arc } (l) = \frac{\theta}{360} \times 2\pi r,\quad \text{Area of Sector} = \frac{\theta}{360} \times \pi r^2 = \frac{1}{2} l r$$
+  $$\text{Circular Ring Area} = \pi (R^2 - r^2) = \pi (R + r)(R - r)$$
+* **Trapezoid & Rhombus:**
+  $$\text{Area of Trapezoid} = \frac{1}{2} \times (\text{Sum of Parallel Sides}) \times \text{Height} = \frac{1}{2} (a + b) h$$
+  $$\text{Area of Rhombus} = \frac{1}{2} d_1 d_2,\quad \text{Perimeter} = 4a = 2\sqrt{d_1^2 + d_2^2}$$
+
+#### 2. 3D Solid Mensuration
+* **Cuboid & Cube:**
+  * Cuboid: $\text{Volume} = l \times b \times h,\; \text{TSA} = 2(lb + bh + hl),\; \text{Longest Diagonal} = \sqrt{l^2 + b^2 + h^2}$
+  * Cube: $\text{Volume} = a^3,\; \text{TSA} = 6a^2,\; \text{Diagonal} = a\sqrt{3}$
+* **Right Circular Cylinder:**
+  $$\text{Volume} = \pi r^2 h,\quad \text{CSA} = 2\pi rh,\quad \text{TSA} = 2\pi r (h + r)$$
+* **Right Circular Cone:**
+  $$\text{Slant Height } (l) = \sqrt{r^2 + h^2},\quad \text{Volume} = \frac{1}{3} \pi r^2 h,\quad \text{CSA} = \pi r l,\quad \text{TSA} = \pi r (l + r)$$
+* **Sphere & Hemisphere:**
+  * Sphere: $\text{Volume} = \frac{4}{3} \pi r^3,\quad \text{Surface Area} = 4\pi r^2$
+  * Hemisphere: $\text{Volume} = \frac{2}{3} \pi r^3,\quad \text{CSA} = 2\pi r^2,\quad \text{TSA} = 3\pi r^2$
+* **Recasting & Melting Invariant Rule:**
+  * When a solid of volume $V_1$ is melted to form $n$ identical solids of volume $V_2$:
+    $$n = \frac{V_1}{V_2}$$
+  * Number of small spheres of radius $r$ formed from large sphere of radius $R$:
+    $$n = \left(\frac{R}{r}\right)^3$$
+
+---
+
+### Module 2.8: Logarithms, Surds & Indices Master Identities
+
+#### 1. Laws of Indices
+$$a^m \times a^n = a^{m+n},\quad \frac{a^m}{a^n} = a^{m-n},\quad (a^m)^n = a^{mn},\quad (ab)^n = a^n b^n,\quad a^{-n} = \frac{1}{a^n},\quad a^0 = 1$$
+
+#### 2. Logarithm Laws & Identities
+$$\log_a (xy) = \log_a x + \log_a y,\quad \log_a \left(\frac{x}{y}\right) = \log_a x - \log_a y,\quad \log_a (x^k) = k \log_a x$$
+$$\log_a a = 1,\quad \log_a 1 = 0,\quad a^{\log_a x} = x$$
+$$\text{Change of Base Formula: } \log_b a = \frac{\log_c a}{\log_c b} = \frac{1}{\log_a b}$$
+
+---
+
+### Module 2.9: Clocks & Calendar Quantitative Formulations
+
+#### 1. Clocks Exact Formulas
+* **Angle between Hands at Hour $H$ and Minute $M$:**
+  $$\theta = \left| 30H - \frac{11}{2}M \right|$$
+* **Exact Minute when Hands Coincide ($0^\circ$) between Hour $H$ and $H+1$:**
+  $$M = \frac{60}{11} \times H \text{ minutes}$$
+* **Exact Minute when Hands are in a Straight Line Opposite ($180^\circ$):**
+  $$M = \frac{60}{11} \times (H \pm 6) \text{ minutes}\quad (\text{use } +6 \text{ if } H < 6,\; -6 \text{ if } H \ge 6)$$
+* **Exact Minute when Hands are at Right Angle ($90^\circ$):**
+  $$M_1 = \frac{60}{11} \times (H + 3),\quad M_2 = \frac{60}{11} \times (H - 3)$$
+* **Faulty Clock Formula:**
+  If a clock gains/loses $x$ minutes in 24 hours:
+  $$\text{True Time Interval} = \text{Faulty Clock Interval} \times \frac{24}{24 \pm \frac{x}{60}}$$
+
+#### 2. Calendars Odd Days & Century Leap Rules
+* Ordinary Year = $365 \text{ days} = 52 \text{ weeks} + 1 \text{ odd day}$.
+* Leap Year = $366 \text{ days} = 52 \text{ weeks} + 2 \text{ odd days}$.
+* Century Leap Rule: A century year is a leap year **if and only if** divisible by 400 (1600, 2000, 2400 are leap; 1700, 1800, 1900, 2100 are NOT leap).
+* Odd days in 100 years = 5, in 200 years = 3, in 300 years = 1, in 400 years = 0.
+* Day Codes: $0 = \text{Sun}, 1 = \text{Mon}, 2 = \text{Tue}, 3 = \text{Wed}, 4 = \text{Thu}, 5 = \text{Fri}, 6 = \text{Sat}$.
+
+---
+
 ## 3. Real Infosys Exam Quantitative Questions (Forensic Step-by-Step Solutions)
 
 ### Question 1: Ratio Distribution & Algebraic Systems
