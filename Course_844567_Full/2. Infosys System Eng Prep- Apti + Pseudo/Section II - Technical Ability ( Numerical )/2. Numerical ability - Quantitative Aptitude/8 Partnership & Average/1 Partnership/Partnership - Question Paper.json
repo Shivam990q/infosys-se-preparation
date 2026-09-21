@@ -1,0 +1,852 @@
+{
+  "_id": "60fea572ebdad408d2b263a4",
+  "settings": {
+    "fonts": {},
+    "grades": {
+      "A": {
+        "max": 100,
+        "min": 70
+      },
+      "B": {
+        "max": 69,
+        "min": 50
+      },
+      "C": {
+        "max": 49,
+        "min": 35
+      },
+      "D": {
+        "max": 34,
+        "min": 20
+      },
+      "E": {
+        "max": 19,
+        "min": 10
+      },
+      "F": {
+        "max": 9,
+        "min": 0
+      }
+    },
+    "hasOptionalQuestions": false,
+    "settingsForRTG": {},
+    "generateBatchRank": true,
+    "defaultFont": null,
+    "generateInstitutionalRank": true,
+    "generatePercentile": true,
+    "showQuestionWiseTime": true,
+    "allowResultSharing": true,
+    "showQuestionTimer": true,
+    "calculatorType": null,
+    "enableLetterGrading": true,
+    "generateRandomTest": false,
+    "isSectionSwitchingEnabled": true,
+    "shuffleQuestions": false,
+    "showAnswers": true,
+    "isSolutionMultipleViewEnabled": true,
+    "shuffleOptions": false,
+    "revealCorrectAnswers": "all",
+    "revealAnswersTime": "now",
+    "parseMathJax": false
+  },
+  "isReadyToLink": true,
+  "isLinked": true,
+  "instructions": "",
+  "isSectionEnable": false,
+  "isReloadRequired": false,
+  "totalNumberOfQuestions": 15,
+  "totalMarks": 15,
+  "isAttempted": true,
+  "name": "Partnership",
+  "duration": 1200000,
+  "createdBy": "609d141ffef055578d05892c",
+  "parentFolder": "60fbb7b17140dd359de0028c",
+  "sections": [
+    {
+      "sectionDuration": 0,
+      "sectionMarks": 15,
+      "isActive": true,
+      "draftMode": false,
+      "sectionInstructions": " ",
+      "_id": "60fea59fb9d0ed44e4d8d47d",
+      "hasOptionalQuestions": false,
+      "name": "Quantitative Aptitude",
+      "order": 1,
+      "numberOfQuestions": 15,
+      "questions": [
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0.25,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<div class=\"optionans\"><span style=\"font-size: 14pt;\">Rs. 5,000&nbsp;</span></div>",
+              "nameText": "Rs. 5,000 ",
+              "order": 1,
+              "isNewOption": false,
+              "_id": "60feb610b7f73500feb3a369"
+            },
+            {
+              "name": "<div class=\"optionans\"><span style=\"font-size: 14pt;\">Rs. 10,000</span></div>",
+              "nameText": "Rs. 10,000",
+              "order": 2,
+              "isNewOption": false,
+              "_id": "60feb610b7f73563bfb3a36a"
+            },
+            {
+              "name": "<div class=\"optionans\"><span style=\"font-size: 14pt;\">Rs. 20,000</span></div>",
+              "nameText": "Rs. 20,000",
+              "order": 3,
+              "isNewOption": false,
+              "_id": "60feb610b7f73549feb3a36b"
+            },
+            {
+              "name": "<div class=\"optionans\"><span style=\"font-size: 14pt;\">Rs.30,000</span></div>",
+              "nameText": "Rs.30,000",
+              "order": 4,
+              "isNewOption": false,
+              "_id": "60feb610b7f7350911b3a36c"
+            }
+          ],
+          "_id": "60fea5fead273c396d9db65b",
+          "isGlobal": false,
+          "name": "<p><strong><span style=\"font-size: 14pt;\"><span style=\"color: #222222; font-family: Roboto, sans-serif; text-align: justify;\">P starts business with&nbsp;</span><span style=\"color: #222222; font-family: Roboto, sans-serif; text-align: justify;\">Rs.</span><span style=\"color: #222222; font-family: Roboto, sans-serif; text-align: justify;\">4500 and after 9 months, Q joins with P as his partner. After a year, the profit divided in the 3 : 5. What is Q's contribution in the capital?</span></span></strong></p>",
+          "paragraph": null,
+          "nameText": "P starts business with Rs.4500 and after 9 months, Q joins with P as his partner. After a year, the profit divided in the 3 : 5. What is Q's contribution in the capital?",
+          "type": "multiple_choice",
+          "createdBy": "609d141ffef055578d05892c",
+          "order": 1,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0.25,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">5</span></p>",
+              "nameText": "5",
+              "order": 1,
+              "isNewOption": false,
+              "_id": "60feb610b7f7357616b3a35d"
+            },
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">6</span></p>",
+              "nameText": "6",
+              "order": 2,
+              "isNewOption": false,
+              "_id": "60feb610b7f73519c8b3a35e"
+            },
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">8</span></p>",
+              "nameText": "8",
+              "order": 3,
+              "isNewOption": false,
+              "_id": "60feb610b7f735f983b3a35f"
+            },
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">10</span></p>",
+              "nameText": "10",
+              "order": 4,
+              "isNewOption": false,
+              "_id": "60feb610b7f7357a52b3a360"
+            }
+          ],
+          "_id": "60fea5fead273c51449db660",
+          "isGlobal": false,
+          "name": "<p><strong><span style=\"color: #222222; font-family: Roboto, sans-serif; text-align: justify; font-size: 14pt;\">P and Q started a retail store with initial investments in the ratio 5 : 6 and their annual profits were in the ratio 2 : 3. If P invested the money for 8 months. For how many months did Q invest his money?&nbsp;</span></strong></p>",
+          "paragraph": null,
+          "nameText": "P and Q started a retail store with initial investments in the ratio 5 : 6 and their annual profits were in the ratio 2 : 3. If P invested the money for 8 months. For how many months did Q invest his money? ",
+          "type": "multiple_choice",
+          "createdBy": "609d141ffef055578d05892c",
+          "order": 2,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0.25,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<div class=\"optionans\"><span style=\"font-size: 14pt;\">Rs 12,000</span></div>",
+              "nameText": "Rs 12,000",
+              "order": 1,
+              "isNewOption": false,
+              "_id": "60feb610b7f735d01eb3a375"
+            },
+            {
+              "name": "<div class=\"optionans\"><span style=\"font-size: 14pt;\">Rs 15,000</span></div>",
+              "nameText": "Rs 15,000",
+              "order": 2,
+              "isNewOption": false,
+              "_id": "60feb610b7f735442ab3a376"
+            },
+            {
+              "name": "<div class=\"optionans\"><span style=\"font-size: 14pt;\">Rs 32,000</span></div>",
+              "nameText": "Rs 32,000",
+              "order": 3,
+              "isNewOption": false,
+              "_id": "60feb610b7f7356763b3a377"
+            },
+            {
+              "name": "<div class=\"optionans\"><span style=\"font-size: 14pt;\">None of these</span></div>",
+              "nameText": "None of these",
+              "order": 4,
+              "isNewOption": false,
+              "_id": "60feb610b7f73552b4b3a378"
+            }
+          ],
+          "_id": "60fea5fead273c2f1d9db665",
+          "isGlobal": false,
+          "name": "<p><strong><span style=\"color: #222222; font-family: Roboto, sans-serif; text-align: justify; font-size: 14pt;\">P and Q enter into partnership. P invests some money at beginning, Q invests double the amount after 4 months and R invests thrice the amount after 8 months. If the annual profit be Rs.32000, R's share is?</span></strong></p>",
+          "paragraph": null,
+          "nameText": "P and Q enter into partnership. P invests some money at beginning, Q invests double the amount after 4 months and R invests thrice the amount after 8 months. If the annual profit be Rs.32000, R's share is?",
+          "type": "multiple_choice",
+          "createdBy": "609d141ffef055578d05892c",
+          "order": 3,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0.25,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">Rs 100</span></p>",
+              "nameText": "Rs 100",
+              "order": 1,
+              "isNewOption": false,
+              "_id": "60feb610b7f7355618b3a351"
+            },
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">Rs 200</span></p>",
+              "nameText": "Rs 200",
+              "order": 2,
+              "isNewOption": false,
+              "_id": "60feb610b7f7353a24b3a352"
+            },
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">Rs 300</span></p>",
+              "nameText": "Rs 300",
+              "order": 3,
+              "isNewOption": false,
+              "_id": "60feb610b7f7350231b3a353"
+            },
+            {
+              "name": "<div class=\"optionans\"><span style=\"font-size: 14pt;\">None of these</span></div>",
+              "nameText": "None of these",
+              "order": 4,
+              "isNewOption": false,
+              "_id": "60feb610b7f735a97eb3a354"
+            }
+          ],
+          "_id": "60fea5fead273c18039db66a",
+          "isGlobal": false,
+          "name": "<p><span style=\"font-size: 14pt;\"><strong><span style=\"color: #222222; font-family: Roboto, sans-serif; text-align: justify;\">P, Q, R hired Taxi for Rs. 680 and used it for 3, 5, 9 hours. respectively hire charges paid by Q are:</span></strong></span></p>",
+          "paragraph": null,
+          "nameText": "P, Q, R hired Taxi for Rs. 680 and used it for 3, 5, 9 hours. respectively hire charges paid by Q are:",
+          "type": "multiple_choice",
+          "createdBy": "609d141ffef055578d05892c",
+          "order": 4,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0.25,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p><span style=\"color: #444444; font-family: Roboto, sans-serif; font-size: 18.6667px;\">Rs 2300</span></p>",
+              "nameText": "Rs 2300",
+              "order": 1,
+              "isNewOption": false,
+              "_id": "60feb610b7f7353eecb3a381"
+            },
+            {
+              "name": "<p><span style=\"color: #444444; font-family: Roboto, sans-serif; font-size: 18.6667px;\">Rs 2700</span></p>",
+              "nameText": "Rs 2700",
+              "order": 2,
+              "isNewOption": false,
+              "_id": "60feb610b7f73530bcb3a382"
+            },
+            {
+              "name": "<p><span style=\"color: #444444; font-family: Roboto, sans-serif; font-size: 18.6667px;\">Rs 3600</span></p>",
+              "nameText": "Rs 3600",
+              "order": 3,
+              "isNewOption": false,
+              "_id": "60feb610b7f7350cd6b3a383"
+            },
+            {
+              "name": "<p><span style=\"color: #444444; font-family: Roboto, sans-serif; font-size: 18.6667px;\">Rs 4000</span></p>",
+              "nameText": "Rs 4000",
+              "order": 4,
+              "isNewOption": false,
+              "_id": "60feb610b7f73549dcb3a384"
+            }
+          ],
+          "_id": "60fea5fead273ca7059db66f",
+          "isGlobal": false,
+          "name": "<p><strong><span style=\"color: #222222; font-family: Roboto, sans-serif; text-align: justify; font-size: 14pt;\">P &amp; Q entered in to partenership P investing Rs 8000 and Rs 6000 respectively. After 3 months P withdrew Rs 2000 while Q invested Rs 2000 more. After 3 more months, R joins the busines with 11000.Find the difference between Q and R share if profit at the end of year is 35100.</span></strong></p>",
+          "paragraph": null,
+          "nameText": "P & Q entered in to partenership P investing Rs 8000 and Rs 6000 respectively. After 3 months P withdrew Rs 2000 while Q invested Rs 2000 more. After 3 more months, R joins the busines with 11000.Find the difference between Q and R share if profit at the end of year is 35100.",
+          "type": "multiple_choice",
+          "createdBy": "609d141ffef055578d05892c",
+          "order": 5,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0.25,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<div class=\"optionans\"><span style=\"font-size: 14pt;\">Rs 5500</span></div>",
+              "nameText": "Rs 5500",
+              "order": 1,
+              "isNewOption": false,
+              "_id": "60feb610b7f735399db3a36d"
+            },
+            {
+              "name": "<div class=\"optionans\"><span style=\"font-size: 14pt;\">Rs 8500</span></div>",
+              "nameText": "Rs 8500",
+              "order": 2,
+              "isNewOption": false,
+              "_id": "60feb610b7f7357b8eb3a36e"
+            },
+            {
+              "name": "<div class=\"optionans\"><span style=\"font-size: 14pt;\">Rs 10500</span></div>",
+              "nameText": "Rs 10500",
+              "order": 3,
+              "isNewOption": false,
+              "_id": "60feb610b7f735826bb3a36f"
+            },
+            {
+              "name": "<div class=\"optionans\"><span style=\"font-size: 14pt;\">Rs 12650</span></div>",
+              "nameText": "Rs 12650",
+              "order": 4,
+              "isNewOption": false,
+              "_id": "60feb610b7f7353845b3a370"
+            }
+          ],
+          "_id": "60fea5fead273c7b0b9db674",
+          "isGlobal": false,
+          "name": "<p><strong><span style=\"font-size: 14pt;\"><span style=\"color: #222222; font-family: Roboto, sans-serif; text-align: justify;\">Vibhor started a retail business by investing Rs 50,000. After six months Keisham joined him with a capital of&nbsp;</span><span style=\"color: #222222; font-family: Roboto, sans-serif; text-align: justify;\">Rs&nbsp;</span><span style=\"color: #222222; font-family: Roboto, sans-serif; text-align: justify;\">80,000. After 3 years. They earned a profit of&nbsp;</span><span style=\"color: #222222; font-family: Roboto, sans-serif; text-align: justify;\">Rs&nbsp;</span><span style=\"color: #222222; font-family: Roboto, sans-serif; text-align: justify;\">24,500. What was the Vibhor's share in the profit?</span></span></strong></p>",
+          "paragraph": null,
+          "nameText": "Vibhor started a retail business by investing Rs 50,000. After six months Keisham joined him with a capital of Rs 80,000. After 3 years. They earned a profit of Rs 24,500. What was the Vibhor's share in the profit?",
+          "type": "multiple_choice",
+          "createdBy": "609d141ffef055578d05892c",
+          "order": 6,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0.25,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<div class=\"optionans\"><span style=\"font-size: 14pt;\">Rs. 2100</span></div>",
+              "nameText": "Rs. 2100",
+              "order": 1,
+              "isNewOption": false,
+              "_id": "60feb610b7f73591e5b3a361"
+            },
+            {
+              "name": "<p><span style=\"font-size: 18.6667px;\">Rs. 3300</span></p>",
+              "nameText": "Rs. 3300",
+              "order": 2,
+              "isNewOption": false,
+              "_id": "60feb610b7f735e15ab3a362"
+            },
+            {
+              "name": "<p><span style=\"font-size: 18.6667px;\">Rs. 3500</span></p>",
+              "nameText": "Rs. 3500",
+              "order": 3,
+              "isNewOption": false,
+              "_id": "60feb610b7f7357516b3a363"
+            },
+            {
+              "name": "<p><span style=\"font-size: 18.6667px;\">Rs. 3800</span></p>",
+              "nameText": "Rs. 3800",
+              "order": 4,
+              "isNewOption": false,
+              "_id": "60feb610b7f7351c15b3a364"
+            }
+          ],
+          "_id": "60fea5fead273c09f39db679",
+          "isGlobal": false,
+          "name": "<p><strong><span style=\"color: #222222; font-family: Roboto, sans-serif; text-align: justify; font-size: 14pt;\">Alpana started a business investing Rs. 45,000. After 3 months Priyanka joined her with a capital of Rs. 60,000. After another 6 months Kalpana joined them with a capital of Rs. 90,000. At the end of the year, they made a profit of Rs. 16,500. Find the share of Kalpana.</span></strong></p>",
+          "paragraph": null,
+          "nameText": "Alpana started a business investing Rs. 45,000. After 3 months Priyanka joined her with a capital of Rs. 60,000. After another 6 months Kalpana joined them with a capital of Rs. 90,000. At the end of the year, they made a profit of Rs. 16,500. Find the share of Kalpana.",
+          "type": "multiple_choice",
+          "createdBy": "609d141ffef055578d05892c",
+          "order": 7,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0.25,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">Rs 12600</span></p>",
+              "nameText": "Rs 12600",
+              "order": 1,
+              "isNewOption": false,
+              "_id": "60feb610b7f73535efb3a355"
+            },
+            {
+              "name": "<p><span style=\"font-size: 18.6667px;\">Rs 15300</span></p>",
+              "nameText": "Rs 15300",
+              "order": 2,
+              "isNewOption": false,
+              "_id": "60feb610b7f735a47ab3a356"
+            },
+            {
+              "name": "<p><span style=\"font-size: 18.6667px;\">Rs 17900</span></p>",
+              "nameText": "Rs 17900",
+              "order": 3,
+              "isNewOption": false,
+              "_id": "60feb610b7f7357e95b3a357"
+            },
+            {
+              "name": "<div class=\"optionans\"><span style=\"font-size: 14pt;\">Rs 18900</span></div>",
+              "nameText": "Rs 18900",
+              "order": 4,
+              "isNewOption": false,
+              "_id": "60feb610b7f7354ec5b3a358"
+            }
+          ],
+          "_id": "60fea5fead273c23e29db67e",
+          "isGlobal": false,
+          "name": "<p><strong><span style=\"color: #222222; font-family: Roboto, sans-serif; text-align: justify; font-size: 14pt;\">P, Q and R started a online education website by investing Rs.1,20,000, Rs.1,35,000 and Rs.1,50,000 respectively. Find the share of Q's, out of an annual profit of Rs.56,700.</span></strong></p>",
+          "paragraph": null,
+          "nameText": "P, Q and R started a online education website by investing Rs.1,20,000, Rs.1,35,000 and Rs.1,50,000 respectively. Find the share of Q's, out of an annual profit of Rs.56,700.",
+          "type": "multiple_choice",
+          "createdBy": "609d141ffef055578d05892c",
+          "order": 8,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0.25,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">Rs 11900</span></p>",
+              "nameText": "Rs 11900",
+              "order": 1,
+              "isNewOption": false,
+              "_id": "60feb610b7f735996cb3a379"
+            },
+            {
+              "name": "<p><span style=\"font-size: 18.6667px;\">Rs 20500</span></p>",
+              "nameText": "Rs 20500",
+              "order": 2,
+              "isNewOption": false,
+              "_id": "60feb610b7f7354a43b3a37a"
+            },
+            {
+              "name": "<p><span style=\"font-size: 18.6667px;\">Rs 23500</span></p>",
+              "nameText": "Rs 23500",
+              "order": 3,
+              "isNewOption": false,
+              "_id": "60feb610b7f7352d26b3a37b"
+            },
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">None of these</span></p>",
+              "nameText": "None of these",
+              "order": 4,
+              "isNewOption": false,
+              "_id": "60feb610b7f735add4b3a37c"
+            }
+          ],
+          "_id": "60fea5fead273cbd9d9db683",
+          "isGlobal": false,
+          "name": "<p><strong><span style=\"font-size: 14pt;\"><span style=\"color: #222222; font-family: Roboto, sans-serif; text-align: justify;\">P, Q and R start a business each investing Rs. 20,000 , after 6 months P withdrew&nbsp;</span><span style=\"color: #222222; font-family: Roboto, sans-serif; text-align: justify;\">Rs.</span><span style=\"color: #222222; font-family: Roboto, sans-serif; text-align: justify;\">5000, Q withdrew&nbsp;</span><span style=\"color: #222222; font-family: Roboto, sans-serif; text-align: justify;\">Rs.</span><span style=\"color: #222222; font-family: Roboto, sans-serif; text-align: justify;\">4000 and R invests&nbsp;</span><span style=\"color: #222222; font-family: Roboto, sans-serif; text-align: justify;\">Rs.</span><span style=\"color: #222222; font-family: Roboto, sans-serif; text-align: justify;\">6000 more. At the end of the year, a total profit of&nbsp;</span><span style=\"color: #222222; font-family: Roboto, sans-serif; text-align: justify;\">Rs.</span><span style=\"color: #222222; font-family: Roboto, sans-serif; text-align: justify;\">39,780 was recorded. Find the share of P.</span></span></strong></p>",
+          "paragraph": null,
+          "nameText": "P, Q and R start a business each investing Rs. 20,000 , after 6 months P withdrew Rs.5000, Q withdrew Rs.4000 and R invests Rs.6000 more. At the end of the year, a total profit of Rs.39,780 was recorded. Find the share of P.",
+          "type": "multiple_choice",
+          "createdBy": "609d141ffef055578d05892c",
+          "order": 9,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0.25,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">Rs 18800</span></p>",
+              "nameText": "Rs 18800",
+              "order": 1,
+              "isNewOption": false,
+              "_id": "60feb610b7f7351880b3a385"
+            },
+            {
+              "name": "<p><span style=\"font-size: 18.6667px;\">Rs 19800</span></p>",
+              "nameText": "Rs 19800",
+              "order": 2,
+              "isNewOption": false,
+              "_id": "60feb610b7f7357373b3a386"
+            },
+            {
+              "name": "<p><span style=\"font-size: 18.6667px;\">Rs 19100</span></p>",
+              "nameText": "Rs 19100",
+              "order": 3,
+              "isNewOption": false,
+              "_id": "60feb610b7f735fd96b3a387"
+            },
+            {
+              "name": "<p><span style=\"font-size: 18.6667px;\">Rs 16800</span></p>",
+              "nameText": "Rs 16800",
+              "order": 4,
+              "isNewOption": false,
+              "_id": "60feb610b7f735f2b5b3a388"
+            }
+          ],
+          "_id": "60fea5fead273c0bb49db692",
+          "isGlobal": false,
+          "name": "<p><strong><span style=\"color: #222222; font-family: Roboto, sans-serif; text-align: justify; font-size: 14pt;\">Amit and Aarnav invest Rs. 30,000 and Rs. 20,000 respectively for a business at the start of a year. In each of the next six months after the first month Amit keeps on adding Rs. 1000 while Aarnav keeps on removing Rs. 1000. In the remaining months Amit keeps on removing Rs. 1000 while Aarnav keeps on adding Rs. 1000 every month. Akhil joined them with Rs. 55,000 three months after the start and continued till the end of the year. What will be the difference in the shares of Akhil and Amit after a year if the total profit at the end of the year is Rs. 219000?</span></strong></p>",
+          "paragraph": null,
+          "nameText": "Amit and Aarnav invest Rs. 30,000 and Rs. 20,000 respectively for a business at the start of a year. In each of the next six months after the first month Amit keeps on adding Rs. 1000 while Aarnav keeps on removing Rs. 1000. In the remaining months Amit keeps on removing Rs. 1000 while Aarnav keeps on adding Rs. 1000 every month. Akhil joined them with Rs. 55,000 three months after the start and continued till the end of the year. What will be the difference in the shares of Akhil and Amit after a year if the total profit at the end of the year is Rs. 219000?",
+          "type": "multiple_choice",
+          "createdBy": "609d141ffef055578d05892c",
+          "order": 10,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0.25,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p><span style=\"color: #444444; font-family: Roboto, sans-serif; font-size: 18.6667px;\">Rs 33000</span></p>",
+              "nameText": "Rs 33000",
+              "order": 1,
+              "isNewOption": false,
+              "_id": "60feb610b7f735ba26b3a371"
+            },
+            {
+              "name": "<p><span style=\"color: #444444; font-family: Roboto, sans-serif; font-size: 18.6667px;\">Rs 56000</span></p>",
+              "nameText": "Rs 56000",
+              "order": 2,
+              "isNewOption": false,
+              "_id": "60feb610b7f735c41cb3a372"
+            },
+            {
+              "name": "<p><span style=\"color: #444444; font-family: Roboto, sans-serif; font-size: 18.6667px;\">Rs 60000</span></p>",
+              "nameText": "Rs 60000",
+              "order": 3,
+              "isNewOption": false,
+              "_id": "60feb610b7f73526b4b3a373"
+            },
+            {
+              "name": "<p><span style=\"color: #444444; font-family: Roboto, sans-serif; font-size: 18.6667px;\">Rs 65000</span></p>",
+              "nameText": "Rs 65000",
+              "order": 4,
+              "isNewOption": false,
+              "_id": "60feb610b7f735e368b3a374"
+            }
+          ],
+          "_id": "60fea5fead273c05739db697",
+          "isGlobal": false,
+          "name": "<p><strong><span style=\"color: #222222; font-family: Roboto, sans-serif; text-align: justify; font-size: 14pt;\">Two friends A and B invest in a business in partnership. B borrows 20% of A&rsquo;s salary, combines it with 60% of his salary and invests with A, who puts all of his remaining salary. One year later the ratio of profit of A and B is 5 : 3 respectively and B returns Rs. 21000 to A which he borrowed from him. What is the difference between salary of A and B?</span></strong></p>",
+          "paragraph": null,
+          "nameText": "Two friends A and B invest in a business in partnership. B borrows 20% of A’s salary, combines it with 60% of his salary and invests with A, who puts all of his remaining salary. One year later the ratio of profit of A and B is 5 : 3 respectively and B returns Rs. 21000 to A which he borrowed from him. What is the difference between salary of A and B?",
+          "type": "multiple_choice",
+          "createdBy": "609d141ffef055578d05892c",
+          "order": 11,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0.25,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<div class=\"optionans\"><span style=\"font-size: 14pt;\">Rs. 330000</span></div>",
+              "nameText": "Rs. 330000",
+              "order": 1,
+              "isNewOption": false,
+              "_id": "60feb610b7f7357df5b3a365"
+            },
+            {
+              "name": "<div class=\"optionans\"><span style=\"font-size: 14pt;\">Rs. 660000</span></div>",
+              "nameText": "Rs. 660000",
+              "order": 2,
+              "isNewOption": false,
+              "_id": "60feb610b7f7356a66b3a366"
+            },
+            {
+              "name": "<div class=\"optionans\"><span style=\"font-size: 14pt;\">Rs. 1320000</span></div>",
+              "nameText": "Rs. 1320000",
+              "order": 3,
+              "isNewOption": false,
+              "_id": "60feb610b7f73560c3b3a367"
+            },
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">Rs 1640000</span></p>",
+              "nameText": "Rs 1640000",
+              "order": 4,
+              "isNewOption": false,
+              "_id": "60feb610b7f735686fb3a368"
+            }
+          ],
+          "_id": "60fea5fead273c006f9db69c",
+          "isGlobal": false,
+          "name": "<p><strong><span style=\"color: #222222; font-family: Roboto, sans-serif; text-align: justify; font-size: 14pt;\">Sudhir and Tushar invested Rs. x and Rs. 3x respectively in a business. The time periods of Sudhir and Tushar is in the ratio 2:3. If the profit share of Tushar is Rs. 270000, then find the total profit if they continue the business for 3 more years?</span></strong></p>",
+          "paragraph": null,
+          "nameText": "Sudhir and Tushar invested Rs. x and Rs. 3x respectively in a business. The time periods of Sudhir and Tushar is in the ratio 2:3. If the profit share of Tushar is Rs. 270000, then find the total profit if they continue the business for 3 more years?",
+          "type": "multiple_choice",
+          "createdBy": "609d141ffef055578d05892c",
+          "order": 12,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0.25,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">Rs 8800</span></p>",
+              "nameText": "Rs 8800",
+              "order": 1,
+              "isNewOption": false,
+              "_id": "60feb610b7f7354d91b3a359"
+            },
+            {
+              "name": "<p><span style=\"font-size: 18.6667px;\">Rs 9600</span></p>",
+              "nameText": "Rs 9600",
+              "order": 2,
+              "isNewOption": false,
+              "_id": "60feb610b7f7355be6b3a35a"
+            },
+            {
+              "name": "<p><span style=\"font-size: 18.6667px;\">Rs 8500</span></p>",
+              "nameText": "Rs 8500",
+              "order": 3,
+              "isNewOption": false,
+              "_id": "60feb610b7f7353c87b3a35b"
+            },
+            {
+              "name": "<p><span style=\"font-size: 18.6667px;\">None of these</span></p>",
+              "nameText": "None of these",
+              "order": 4,
+              "isNewOption": false,
+              "_id": "60feb610b7f735aa79b3a35c"
+            }
+          ],
+          "_id": "60fea5fead273c76229db6a1",
+          "isGlobal": false,
+          "name": "<p><strong><span style=\"color: #222222; font-family: Roboto, sans-serif; text-align: justify; font-size: 14pt;\">A, B and C has Rs 40000, Rs 60000 and Rs 42000 with them. B invests half of his money in partnership with A and the remaining amount in partnership with C. 6 months later B withdraws half the amount invested with A and puts that in the partnership with C. Two years later the profit received by A and C are Rs 6400 and Rs 6720, what is the total profit received by B?</span></strong></p>",
+          "paragraph": null,
+          "nameText": "A, B and C has Rs 40000, Rs 60000 and Rs 42000 with them. B invests half of his money in partnership with A and the remaining amount in partnership with C. 6 months later B withdraws half the amount invested with A and puts that in the partnership with C. Two years later the profit received by A and C are Rs 6400 and Rs 6720, what is the total profit received by B?",
+          "type": "multiple_choice",
+          "createdBy": "609d141ffef055578d05892c",
+          "order": 13,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0.25,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">Rs 5500</span></p>",
+              "nameText": "Rs 5500",
+              "order": 1,
+              "isNewOption": false,
+              "_id": "60feb610b7f735473eb3a37d"
+            },
+            {
+              "name": "<p><span style=\"font-size: 18.6667px;\">Rs 6500</span></p>",
+              "nameText": "Rs 6500",
+              "order": 2,
+              "isNewOption": false,
+              "_id": "60feb610b7f735857db3a37e"
+            },
+            {
+              "name": "<p><span style=\"font-size: 18.6667px;\">Rs 5500</span></p>",
+              "nameText": "Rs 5500",
+              "order": 3,
+              "isNewOption": false,
+              "_id": "60feb610b7f735794bb3a37f"
+            },
+            {
+              "name": "<p><span style=\"font-size: 18.6667px;\">Rs 6000</span></p>",
+              "nameText": "Rs 6000",
+              "order": 4,
+              "isNewOption": false,
+              "_id": "60feb610b7f73512b4b3a380"
+            }
+          ],
+          "_id": "60feb11db7f735abdbb39fbb",
+          "isGlobal": false,
+          "name": "<p><strong><span style=\"color: #222222; font-family: Roboto, sans-serif; text-align: justify; font-size: 14pt;\">R, Q and P start a business together with initial investment of Rs. 20000, Rs. 30000 and Rs. 25000 respectively. After 8 months, R and Q take out Rs. 10000 each from the investment. Total profit earned at the end of the year is Rs. 16400. Find out P&rsquo;s share of profit.</span></strong></p>",
+          "paragraph": null,
+          "nameText": "R, Q and P start a business together with initial investment of Rs. 20000, Rs. 30000 and Rs. 25000 respectively. After 8 months, R and Q take out Rs. 10000 each from the investment. Total profit earned at the end of the year is Rs. 16400. Find out P’s share of profit.",
+          "type": "multiple_choice",
+          "createdBy": "609d141ffef055578d05892c",
+          "order": 14,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0.25,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">40000</span></p>",
+              "nameText": "40000",
+              "order": 1,
+              "isNewOption": false,
+              "_id": "60feb610b7f73558f1b3a389"
+            },
+            {
+              "name": "<p><span style=\"font-size: 18.6667px;\">45000</span></p>",
+              "nameText": "45000",
+              "order": 2,
+              "isNewOption": false,
+              "_id": "60feb610b7f7357500b3a38a"
+            },
+            {
+              "name": "<p><span style=\"font-size: 18.6667px;\">47000</span></p>",
+              "nameText": "47000",
+              "order": 3,
+              "isNewOption": false,
+              "_id": "60feb610b7f735ea1cb3a38b"
+            },
+            {
+              "name": "<p><span style=\"font-size: 18.6667px;\">48000</span></p>",
+              "nameText": "48000",
+              "order": 4,
+              "isNewOption": false,
+              "_id": "60feb610b7f7352e44b3a38c"
+            }
+          ],
+          "_id": "60feb11db7f735e596b39fc0",
+          "isGlobal": false,
+          "name": "<p><strong><span style=\"color: #222222; font-family: Roboto, sans-serif; text-align: justify; font-size: 14pt;\">A and B start a business. A invests Rs &lsquo;X&rsquo; and B invests Rs 45000. 9 months later A withdraws half the amount. The profit received by A at the end of 1 year is 22.22% less than that of B. What is the value of &lsquo;X&rsquo;?&nbsp;</span></strong></p>",
+          "paragraph": null,
+          "nameText": "A and B start a business. A invests Rs ‘X’ and B invests Rs 45000. 9 months later A withdraws half the amount. The profit received by A at the end of 1 year is 22.22% less than that of B. What is the value of ‘X’? ",
+          "type": "multiple_choice",
+          "createdBy": "609d141ffef055578d05892c",
+          "order": 15,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        }
+      ]
+    }
+  ],
+  "practiceTestUrls": [],
+  "updateAfterSync": {},
+  "isCdnUpdated": false,
+  "lastAttemptedAt": "2026-09-15T17:42:55.281Z",
+  "currentSection": "60fea59fb9d0ed44e4d8d47d",
+  "testTotalDuration": 1200000,
+  "examStartDate": "2026-09-20T19:25:37.452Z"
+}

@@ -1,0 +1,1090 @@
+{
+  "test": {
+    "name": "DISTANCE AND DIRECTION TEST 02",
+    "testTotalDuration": 1080000,
+    "settings": {
+      "fonts": {},
+      "isSectionSwitchingEnabled": true
+    },
+    "practiceTestUrls": [],
+    "testFormat": "DEFAULT"
+  },
+  "filters": {
+    "incorrect": 0,
+    "correct": 0,
+    "partiallyMarked": 0,
+    "unattempted": 1,
+    "markForReview": 0,
+    "graceMarked": 0,
+    "revaluated": 0
+  },
+  "timeTaken": 0,
+  "courseId": "844567",
+  "showReportQuestion": true,
+  "sectionWiseStats": [
+    {
+      "marksScored": 0,
+      "sectionMarks": 15,
+      "accuracy": 0,
+      "_id": "6ab02a4e01abf94b3ab0fa09",
+      "totalQuestions": 15,
+      "attemptDuration": 0,
+      "correctAnswers": 0,
+      "inCorrectAnswers": 0,
+      "partiallyCorrectAnswers": 0,
+      "unAttempted": 15,
+      "name": "DISTANCE AND DIRECTION 01",
+      "order": 1,
+      "sectionDuration": 0,
+      "sectionId": "60e8263c688f9e329eefaaad"
+    }
+  ],
+  "sections": [
+    {
+      "sectionDuration": 0,
+      "sectionMarks": 15,
+      "isActive": true,
+      "draftMode": false,
+      "sectionInstructions": "<p>PLEASE ATTEMPT EVERY QUESTION</p>",
+      "_id": "60e8263c688f9e329eefaaad",
+      "hasOptionalQuestions": false,
+      "name": "DISTANCE AND DIRECTION 01",
+      "order": 1,
+      "createdAt": "2021-07-13T14:20:13.371Z",
+      "updatedAt": "2021-07-13T14:20:13.371Z",
+      "questions": [
+        {
+          "_id": "60e82696cf98814d885eee24",
+          "name": "<p><span lang=\"EN-IN\" style=\"font-size: 11.0pt; line-height: 107%; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\"><strong><span style=\"font-size: 12pt;\">Q1. A person starts walking towards point Y which in North direction of starting point. From point Y, he start walking in west direction then he takes right turn to reach at point W. From point W, he takes a right turn and stop at point J. Find in which direction person is facing now?</span></strong><br /><!--[endif]--></span></p>",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "Q1. A person starts walking towards point Y which in North direction of starting point. From point Y, he start walking in west direction then he takes right turn to reach at point W. From point W, he takes a right turn and stop at point J. Find in which direction person is facing now?",
+          "sectionId": "60e8263c688f9e329eefaaad",
+          "order": 1,
+          "questionSubmitOrder": 1,
+          "options": [
+            {
+              "name": "<p>North</p>",
+              "nameText": "North",
+              "isCorrect": false,
+              "_id": "60e82696cf98816a9a5eee20",
+              "isMarked": false
+            },
+            {
+              "name": "<p>South</p>",
+              "nameText": "South",
+              "isCorrect": false,
+              "_id": "60e82696cf988173045eee21",
+              "isMarked": false
+            },
+            {
+              "name": "<p>East</p>",
+              "nameText": "East",
+              "isCorrect": true,
+              "_id": "60e82696cf9881b0a75eee22",
+              "isMarked": false
+            },
+            {
+              "name": "<p>West</p>",
+              "nameText": "West",
+              "isCorrect": false,
+              "_id": "60e82696cf9881a86b5eee23",
+              "isMarked": false
+            },
+            {
+              "name": "<p>None of these</p>",
+              "nameText": "None of these",
+              "isCorrect": false,
+              "_id": "60e827c09c6fbd49da779d77",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p>This is the solution</p>",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6ab02a4de191ef6b64a9b6aa",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "60e82696cf988134865eee29",
+          "name": "<p><span lang=\"EN-IN\" style=\"font-size: 11.0pt; line-height: 107%; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\"><strong><span style=\"font-size: 12pt;\">&nbsp;Point H is 5m west of J. Point J is 10m south of point T. Point T is 12m west of G. Point G is 6m north of Point D. Point D is 15m east of Point Y. What is the shortest distance between Point J and Point Y?</span></strong><br /><!--[endif]--></span></p>",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": " Point H is 5m west of J. Point J is 10m south of point T. Point T is 12m west of G. Point G is 6m north of Point D. Point D is 15m east of Point Y. What is the shortest distance between Point J and Point Y?",
+          "sectionId": "60e8263c688f9e329eefaaad",
+          "order": 2,
+          "questionSubmitOrder": 2,
+          "options": [
+            {
+              "name": "<p>10 m</p>",
+              "nameText": "10 m",
+              "isCorrect": false,
+              "_id": "60e82696cf9881564f5eee25",
+              "isMarked": false
+            },
+            {
+              "name": "<p>4 m</p>",
+              "nameText": "4 m",
+              "isCorrect": false,
+              "_id": "60e82696cf98813a4d5eee26",
+              "isMarked": false
+            },
+            {
+              "name": "<p>9 m&nbsp;</p>",
+              "nameText": "9 m ",
+              "isCorrect": false,
+              "_id": "60e82696cf98813ee65eee27",
+              "isMarked": false
+            },
+            {
+              "name": "<p>7 m</p>",
+              "nameText": "7 m",
+              "isCorrect": false,
+              "_id": "60e82696cf98814cb95eee28",
+              "isMarked": false
+            },
+            {
+              "name": "<p>None of these</p>",
+              "nameText": "None of these",
+              "isCorrect": true,
+              "_id": "60e828819c6fbd83fa779f04",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p><img style=\"font-size: 1.4rem;\" src=\"images/img_824e218acd79.png\" alt=\"\" /></p>",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6ab02a4de191efd5e4a9b6ab",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "60e82696cf9881272d5eee2e",
+          "name": "<p class=\"MsoNormal\"><strong><span style=\"font-size: 12pt;\"><span lang=\"EN-IN\">Directions (3-7): Study the information carefully and answer the questions given below.<br /></span></span></strong></p>\n<p>&nbsp;</p>\n<p><strong><span style=\"font-size: 12pt;\">Amit starts his journey from point S, walks 20m towards west to reach at point D, then takes a left turn and walks for 8m to reach point N. From point N he takes a left turn and walks for 18m to reach at point X. From point X, he takes a left turn and walks 12m to reach at point Y, then takes a right turn and walks 6m to reach point T. From point T, He walks 4m in south direction and reached point M.</span></strong></p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p><span lang=\"EN-IN\" style=\"font-size: 11.0pt; line-height: 107%; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\"><strong><span style=\"font-size: 12pt;\">Q3. What is the shortest distance between point S and M?</span></strong><br /><strong><span style=\"font-size: 12pt;\"> <!-- [if !supportLineBreakNewLine]--></span></strong><br /><!--[endif]--></span></p>",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "Directions (3-7): Study the information carefully and answer the questions given below.\n \nAmit starts his journey from point S, walks 20m towards west to reach at point D, then takes a left turn and walks for 8m to reach point N. From point N he takes a left turn and walks for 18m to reach at point X. From point X, he takes a left turn and walks 12m to reach at point Y, then takes a right turn and walks 6m to reach point T. From point T, He walks 4m in south direction and reached point M.\n \n \nQ3. What is the shortest distance between point S and M? ",
+          "sectionId": "60e8263c688f9e329eefaaad",
+          "order": 3,
+          "questionSubmitOrder": 3,
+          "options": [
+            {
+              "name": "<p>4m</p>",
+              "nameText": "4m",
+              "isCorrect": true,
+              "_id": "60e82696cf988130415eee2a",
+              "isMarked": false
+            },
+            {
+              "name": "<p>6m</p>",
+              "nameText": "6m",
+              "isCorrect": false,
+              "_id": "60e82696cf9881005c5eee2b",
+              "isMarked": false
+            },
+            {
+              "name": "<p>2m</p>",
+              "nameText": "2m",
+              "isCorrect": false,
+              "_id": "60e82696cf988183f75eee2c",
+              "isMarked": false
+            },
+            {
+              "name": "<p>5m</p>",
+              "nameText": "5m",
+              "isCorrect": false,
+              "_id": "60e82696cf98817c9f5eee2d",
+              "isMarked": false
+            },
+            {
+              "name": "<p>None of these</p>",
+              "nameText": "None of these",
+              "isCorrect": false,
+              "_id": "60e829c34e23b01a58e0436a",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p><img style=\"font-size: 1.4rem;\" src=\"images/img_ab6029cff712.png\" alt=\"\" /></p>",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6ab02a4de191ef2c22a9b6ac",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "60e82696cf9881858e5eee33",
+          "name": "<p><span lang=\"EN-IN\" style=\"font-size: 11.0pt; line-height: 107%; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\"><strong><span style=\"font-size: 12pt;\">&nbsp;If point H is 6m west of point M then in which direction point Y with respect to point H?</span></strong><br /><!--[endif]--></span></p>",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": " If point H is 6m west of point M then in which direction point Y with respect to point H?",
+          "sectionId": "60e8263c688f9e329eefaaad",
+          "order": 4,
+          "questionSubmitOrder": 4,
+          "options": [
+            {
+              "name": "<p>South</p>",
+              "nameText": "South",
+              "isCorrect": false,
+              "_id": "60e82696cf9881bddd5eee2f",
+              "isMarked": false
+            },
+            {
+              "name": "<p>North-west</p>",
+              "nameText": "North-west",
+              "isCorrect": false,
+              "_id": "60e82696cf9881ffa95eee30",
+              "isMarked": false
+            },
+            {
+              "name": "<p>South-east</p>",
+              "nameText": "South-east",
+              "isCorrect": false,
+              "_id": "60e82696cf9881a3cd5eee31",
+              "isMarked": false
+            },
+            {
+              "name": "<p>East</p>",
+              "nameText": "East",
+              "isCorrect": false,
+              "_id": "60e82696cf988133e15eee32",
+              "isMarked": false
+            },
+            {
+              "name": "<p>North</p>",
+              "nameText": "North",
+              "isCorrect": true,
+              "_id": "60e82bed40775d5cb62398ba",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p><img src=\"images/img_0e9831822cbd.png\" alt=\"\" /></p>",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6ab02a4de191ef4c64a9b6ad",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "60e82696cf9881c3e15eee38",
+          "name": "<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 12pt;\">Directions (3-7): Study the information carefully and answer the questions given below.<br /></span></strong></p>\n<p><strong><span style=\"font-size: 12pt;\">Amit starts his journey from point S, walks 20m towards west to reach at point D, then takes a left turn and walks for 8m to reach point N. From point N he takes a left turn and walks for 18m to reach at point X. From point X, he takes a left turn and walks 12m to reach at point Y, then takes a right turn and walks 6m to reach point T. From point T, He walks 4m in south direction and reached point M.</span></strong></p>\n<p>&nbsp;</p>\n<p><span lang=\"EN-IN\" style=\"font-size: 11.0pt; line-height: 107%; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\"><strong><span style=\"font-size: 12pt;\">Q5. In which direction point T with respect of D?</span></strong><br /><strong><span style=\"font-size: 12pt;\"> <!-- [if !supportLineBreakNewLine]--></span></strong><br /><!--[endif]--></span></p>",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "Directions (3-7): Study the information carefully and answer the questions given below.\nAmit starts his journey from point S, walks 20m towards west to reach at point D, then takes a left turn and walks for 8m to reach point N. From point N he takes a left turn and walks for 18m to reach at point X. From point X, he takes a left turn and walks 12m to reach at point Y, then takes a right turn and walks 6m to reach point T. From point T, He walks 4m in south direction and reached point M.\n \nQ5. In which direction point T with respect of D? ",
+          "sectionId": "60e8263c688f9e329eefaaad",
+          "order": 5,
+          "questionSubmitOrder": 5,
+          "options": [
+            {
+              "name": "<p>North</p>",
+              "nameText": "North",
+              "isCorrect": false,
+              "_id": "60e82696cf988105155eee34",
+              "isMarked": false
+            },
+            {
+              "name": "<p>South-west</p>",
+              "nameText": "South-west",
+              "isCorrect": false,
+              "_id": "60e82696cf988124045eee35",
+              "isMarked": false
+            },
+            {
+              "name": "<p>North-east</p>",
+              "nameText": "North-east",
+              "isCorrect": true,
+              "_id": "60e82696cf9881d84b5eee36",
+              "isMarked": false
+            },
+            {
+              "name": "<p>East</p>",
+              "nameText": "East",
+              "isCorrect": false,
+              "_id": "60e82696cf988164655eee37",
+              "isMarked": false
+            },
+            {
+              "name": "<p>South-east</p>",
+              "nameText": "South-east",
+              "isCorrect": false,
+              "_id": "60e82d3d40775d358e239aac",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p><img src=\"images/img_75c3f1d95e4a.png\" alt=\"\" /></p>\n<p>&nbsp;</p>",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6ab02a4de191ef2570a9b6ae",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "60e82696cf988167be5eee3d",
+          "name": "<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 12pt;\">Directions (3-7): Study the information carefully and answer the questions given below.<br />Amit starts his journey from point S, walks 20m towards west to reach at point D, then takes a left turn and walks for 8m to reach point N. From point N he takes a left turn and walks for 18m to reach at point X. From point X, he takes a left turn and walks 12m to reach at point Y, then takes a right turn and walks 6m to reach point T. From point T, He walks 4m in south direction and reached point M.</span></strong></p>\n<p class=\"MsoNormal\">&nbsp;</p>\n<p class=\"MsoNormal\"><span lang=\"EN-IN\"><span lang=\"EN-IN\" style=\"font-size: 11.0pt; line-height: 107%; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\"><strong><span style=\"font-size: 12pt;\">Q6. What is the shortest distance between Point D and Point X?</span></strong><br /><strong><span style=\"font-size: 12pt;\"> <!-- [if !supportLineBreakNewLine]--></span></strong><br /><!--[endif]--></span></span></p>",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "Directions (3-7): Study the information carefully and answer the questions given below.Amit starts his journey from point S, walks 20m towards west to reach at point D, then takes a left turn and walks for 8m to reach point N. From point N he takes a left turn and walks for 18m to reach at point X. From point X, he takes a left turn and walks 12m to reach at point Y, then takes a right turn and walks 6m to reach point T. From point T, He walks 4m in south direction and reached point M.\n \nQ6. What is the shortest distance between Point D and Point X? ",
+          "sectionId": "60e8263c688f9e329eefaaad",
+          "order": 6,
+          "questionSubmitOrder": 6,
+          "options": [
+            {
+              "name": "<p><span lang=\"EN-IN\" style=\"font-size: 11.0pt; line-height: 107%; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">&radic;388m</span></p>",
+              "nameText": "√388m",
+              "isCorrect": true,
+              "_id": "60e82696cf988131ff5eee39",
+              "isMarked": false
+            },
+            {
+              "name": "<p>10m</p>",
+              "nameText": "10m",
+              "isCorrect": false,
+              "_id": "60e82696cf988192d55eee3a",
+              "isMarked": false
+            },
+            {
+              "name": "<p>15m</p>",
+              "nameText": "15m",
+              "isCorrect": false,
+              "_id": "60e82696cf98815a895eee3b",
+              "isMarked": false
+            },
+            {
+              "name": "<p>20m</p>",
+              "nameText": "20m",
+              "isCorrect": false,
+              "_id": "60e82696cf98811be75eee3c",
+              "isMarked": false
+            },
+            {
+              "name": "<p>None of these</p>",
+              "nameText": "None of these",
+              "isCorrect": false,
+              "_id": "60e82e9c9c6fbd5a3e77ae2d",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p>This is the solution</p>",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6ab02a4de191ef12f5a9b6af",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "60e82696cf988121d05eee42",
+          "name": "<p>&nbsp;</p>\n<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 12pt;\">Directions (3-7): Study the information carefully and answer the questions given below.<br /></span></strong></p>\n<p><strong><span style=\"font-size: 12pt;\">Amit starts his journey from point S, walks 20m towards west to reach at point D, then takes a left turn and walks for 8m to reach point N. From point N he takes a left turn and walks for 18m to reach at point X. From point X, he takes a left turn and walks 12m to reach at point Y, then takes a right turn and walks 6m to reach point T. From point T, He walks 4m in south direction and reached point M.</span></strong></p>\n<p>&nbsp;</p>\n<p><strong><span style=\"font-size: 12pt;\"><span style=\"font-family: Calibri, sans-serif;\">Q7. In which direction point N is with respect of Y?</span></span></strong></p>",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": " \nDirections (3-7): Study the information carefully and answer the questions given below.\nAmit starts his journey from point S, walks 20m towards west to reach at point D, then takes a left turn and walks for 8m to reach point N. From point N he takes a left turn and walks for 18m to reach at point X. From point X, he takes a left turn and walks 12m to reach at point Y, then takes a right turn and walks 6m to reach point T. From point T, He walks 4m in south direction and reached point M.\n \nQ7. In which direction point N is with respect of Y?",
+          "sectionId": "60e8263c688f9e329eefaaad",
+          "order": 7,
+          "questionSubmitOrder": 7,
+          "options": [
+            {
+              "name": "<p>North-east</p>",
+              "nameText": "North-east",
+              "isCorrect": false,
+              "_id": "60e82696cf988167245eee3e",
+              "isMarked": false
+            },
+            {
+              "name": "<p>South-west</p>",
+              "nameText": "South-west",
+              "isCorrect": true,
+              "_id": "60e82696cf98811b725eee3f",
+              "isMarked": false
+            },
+            {
+              "name": "<p>North-west</p>",
+              "nameText": "North-west",
+              "isCorrect": false,
+              "_id": "60e82696cf98811c455eee40",
+              "isMarked": false
+            },
+            {
+              "name": "<p>South</p>",
+              "nameText": "South",
+              "isCorrect": false,
+              "_id": "60e82696cf98812ded5eee41",
+              "isMarked": false
+            },
+            {
+              "name": "<p>None of these</p>",
+              "nameText": "None of these",
+              "isCorrect": false,
+              "_id": "60e82f778446f70f28cf5ff3",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p><img src=\"images/img_7ef376c8ce01.png\" alt=\"\" /></p>\n<p>&nbsp;</p>",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6ab02a4de191efbc9da9b6b0",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "60e82696cf9881b2805eee47",
+          "name": "<p class=\"MsoNormal\"><strong><span style=\"font-size: 12pt;\"><span lang=\"EN-IN\">Directions (8-10): Study the information carefully and answer the questions given below.<br /></span></span></strong></p>\n<p class=\"MsoNormal\">&nbsp;</p>\n<p><strong><span style=\"font-size: 12pt;\">Point A is 12m west of point B. Point F is 8m east of point D. Point G is 10m north of point E. Point C is 8m south of point B. Point D is 3m north of point C. Point E is 6m west of point C.</span></strong></p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p><span lang=\"EN-IN\" style=\"font-size: 11.0pt; line-height: 107%; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\"><strong><span style=\"font-size: 12pt;\">Q8. What is the shortest distance between D and A?</span></strong><br /><strong><span style=\"font-size: 12pt;\"> <!-- [if !supportLineBreakNewLine]--></span></strong><br /><!--[endif]--></span></p>",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "Directions (8-10): Study the information carefully and answer the questions given below.\n \nPoint A is 12m west of point B. Point F is 8m east of point D. Point G is 10m north of point E. Point C is 8m south of point B. Point D is 3m north of point C. Point E is 6m west of point C.\n \n \nQ8. What is the shortest distance between D and A? ",
+          "sectionId": "60e8263c688f9e329eefaaad",
+          "order": 8,
+          "questionSubmitOrder": 8,
+          "options": [
+            {
+              "name": "<p>13m</p>",
+              "nameText": "13m",
+              "isCorrect": true,
+              "_id": "60e82696cf9881634c5eee43",
+              "isMarked": false
+            },
+            {
+              "name": "<p>10m</p>",
+              "nameText": "10m",
+              "isCorrect": false,
+              "_id": "60e82696cf98817e375eee44",
+              "isMarked": false
+            },
+            {
+              "name": "<p>12m</p>",
+              "nameText": "12m",
+              "isCorrect": false,
+              "_id": "60e82696cf98811a615eee45",
+              "isMarked": false
+            },
+            {
+              "name": "<p>14m</p>",
+              "nameText": "14m",
+              "isCorrect": false,
+              "_id": "60e82696cf9881b53a5eee46",
+              "isMarked": false
+            },
+            {
+              "name": "<p>None of these</p>",
+              "nameText": "None of these",
+              "isCorrect": false,
+              "_id": "60e830f8c1ad681256c78c05",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p><img style=\"font-size: 1.4rem;\" src=\"images/img_eb96300e5209.png\" alt=\"\" /></p>",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6ab02a4de191ef6c27a9b6b1",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "60e82696cf98810f335eee4c",
+          "name": "<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 12pt;\">Directions (8-10): Study the information carefully and answer the questions given below.<br /></span></strong></p>\n<p><strong><span style=\"font-size: 12pt;\">Point A is 12m west of point B. Point F is 8m east of point D. Point G is 10m north of point E. Point C is 8m south of point B. Point D is 3m north of point C. Point E is 6m west of point C.</span></strong></p>\n<p>&nbsp;</p>\n<p><strong><span style=\"font-size: 12pt;\"><span lang=\"EN-IN\" style=\"line-height: 107%; font-family: Calibri, sans-serif;\">Q9. Point D is in which direction with respect to G?</span></span></strong></p>",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "Directions (8-10): Study the information carefully and answer the questions given below.\nPoint A is 12m west of point B. Point F is 8m east of point D. Point G is 10m north of point E. Point C is 8m south of point B. Point D is 3m north of point C. Point E is 6m west of point C.\n \nQ9. Point D is in which direction with respect to G?",
+          "sectionId": "60e8263c688f9e329eefaaad",
+          "order": 9,
+          "questionSubmitOrder": 9,
+          "options": [
+            {
+              "name": "<p>north-east</p>",
+              "nameText": "north-east",
+              "isCorrect": false,
+              "_id": "60e82696cf9881abaf5eee48",
+              "isMarked": false
+            },
+            {
+              "name": "<p>South-west</p>",
+              "nameText": "South-west",
+              "isCorrect": false,
+              "_id": "60e82696cf988198745eee49",
+              "isMarked": false
+            },
+            {
+              "name": "<p>East</p>",
+              "nameText": "East",
+              "isCorrect": false,
+              "_id": "60e82696cf98811b0d5eee4a",
+              "isMarked": false
+            },
+            {
+              "name": "<p>North</p>",
+              "nameText": "North",
+              "isCorrect": false,
+              "_id": "60e82696cf988158715eee4b",
+              "isMarked": false
+            },
+            {
+              "name": "<p>South-east</p>",
+              "nameText": "South-east",
+              "isCorrect": true,
+              "_id": "60e83220d02d1b00bae2efd3",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p><img style=\"font-size: 1.4rem;\" src=\"images/img_584896e75af1.png\" alt=\"\" /></p>",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6ab02a4de191ef43dda9b6b2",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "60e82696cf988110265eee51",
+          "name": "<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 12pt;\">Directions (8-10): Study the information carefully and answer the questions given below.<br /></span></strong></p>\n<p class=\"MsoNormal\">&nbsp;</p>\n<p><strong><span style=\"font-size: 12pt;\">Point A is 12m west of point B. Point F is 8m east of point D. Point G is 10m north of point E. Point C is 8m south of point B. Point D is 3m north of point C. Point E is 6m west of point C.</span></strong></p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p><span lang=\"EN-IN\" style=\"font-size: 11.0pt; line-height: 107%; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\"><strong><span style=\"font-size: 12pt;\">Q10. If Point Y is 7m south of point G than what is the shortest distance between Point Y and Point F?</span></strong><br /><strong><span style=\"font-size: 12pt;\"> <!-- [if !supportLineBreakNewLine]--></span></strong><br /><!--[endif]--></span></p>",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "Directions (8-10): Study the information carefully and answer the questions given below.\n \nPoint A is 12m west of point B. Point F is 8m east of point D. Point G is 10m north of point E. Point C is 8m south of point B. Point D is 3m north of point C. Point E is 6m west of point C.\n \n \nQ10. If Point Y is 7m south of point G than what is the shortest distance between Point Y and Point F? ",
+          "sectionId": "60e8263c688f9e329eefaaad",
+          "order": 10,
+          "questionSubmitOrder": 10,
+          "options": [
+            {
+              "name": "<p>16m</p>",
+              "nameText": "16m",
+              "isCorrect": false,
+              "_id": "60e82696cf988171595eee4d",
+              "isMarked": false
+            },
+            {
+              "name": "<p>14m</p>",
+              "nameText": "14m",
+              "isCorrect": true,
+              "_id": "60e82696cf9881eeb35eee4e",
+              "isMarked": false
+            },
+            {
+              "name": "<p>13m</p>",
+              "nameText": "13m",
+              "isCorrect": false,
+              "_id": "60e82696cf988106975eee4f",
+              "isMarked": false
+            },
+            {
+              "name": "<p>10m</p>",
+              "nameText": "10m",
+              "isCorrect": false,
+              "_id": "60e82696cf98813c155eee50",
+              "isMarked": false
+            },
+            {
+              "name": "<p>None of these</p>",
+              "nameText": "None of these",
+              "isCorrect": false,
+              "_id": "60e832f6cf98810b365f10d6",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p><img style=\"font-size: 1.4rem;\" src=\"images/img_a175240046f5.png\" alt=\"\" /></p>",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6ab02a4de191ef4057a9b6b3",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "60e82696cf988110d05eee56",
+          "name": "<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 12pt;\">Directions (11-13): Study the information carefully and answer the questions given below.<br /></span></strong></p>\n<p>&nbsp;</p>\n<p><strong><span style=\"font-size: 12pt;\">Dheeraj starts his journey from point S, walks 10m towards North to reach at point D, then takes a right turn and walks 6m to reach point F. From point F, He start walking in west direction and walk 4m to reach at point N, From point N he takes a left turn and walks 9m to reach at point M, then takes a left turn again and walks 4m to reach point T.</span></strong></p>\n<p>&nbsp;</p>\n<p><span lang=\"EN-IN\" style=\"font-size: 11.0pt; line-height: 107%; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\"><strong><span style=\"font-size: 12pt;\">Q11. What is the shortest distance between point T and F?</span></strong><br /><strong><span style=\"font-size: 12pt;\"> <!-- [if !supportLineBreakNewLine]--></span></strong><br /><!--[endif]--></span></p>",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "Directions (11-13): Study the information carefully and answer the questions given below.\n \nDheeraj starts his journey from point S, walks 10m towards North to reach at point D, then takes a right turn and walks 6m to reach point F. From point F, He start walking in west direction and walk 4m to reach at point N, From point N he takes a left turn and walks 9m to reach at point M, then takes a left turn again and walks 4m to reach point T.\n \nQ11. What is the shortest distance between point T and F? ",
+          "sectionId": "60e8263c688f9e329eefaaad",
+          "order": 11,
+          "questionSubmitOrder": 11,
+          "options": [
+            {
+              "name": "<p>6m</p>",
+              "nameText": "6m",
+              "isCorrect": false,
+              "_id": "60e82696cf98817df15eee52",
+              "isMarked": false
+            },
+            {
+              "name": "<p>5m</p>",
+              "nameText": "5m",
+              "isCorrect": false,
+              "_id": "60e82696cf98817f6d5eee53",
+              "isMarked": false
+            },
+            {
+              "name": "<p>8m</p>",
+              "nameText": "8m",
+              "isCorrect": false,
+              "_id": "60e82696cf9881381c5eee54",
+              "isMarked": false
+            },
+            {
+              "name": "<p>9m</p>",
+              "nameText": "9m",
+              "isCorrect": true,
+              "_id": "60e82696cf988124435eee55",
+              "isMarked": false
+            },
+            {
+              "name": "<p>None of these</p>",
+              "nameText": "None of these",
+              "isCorrect": false,
+              "_id": "60e833ba8446f7b5f0cf6b4e",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p><img style=\"font-size: 1.4rem;\" src=\"images/img_3ae17e38d8bb.png\" alt=\"\" /></p>",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6ab02a4de191efdbb1a9b6b4",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "60e82696cf9881098d5eee5b",
+          "name": "<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 12pt;\">Directions (11-13): Study the information carefully and answer the questions given below.<br /></span></strong></p>\n<p>&nbsp;</p>\n<p><strong><span style=\"font-size: 12pt;\">Dheeraj starts his journey from point S, walks 10m towards North to reach at point D, then takes a right turn and walks 6m to reach point F. From point F, He start walking in west direction and walk 4m to reach at point N, From point N he takes a left turn and walks 9m to reach at point M, then takes a left turn again and walks 4m to reach point T.</span></strong></p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p><span lang=\"EN-IN\" style=\"font-size: 11.0pt; line-height: 107%; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\"><strong><span style=\"font-size: 12pt;\">Q12. In which direction point N with respect to T?</span></strong><br /><strong><span style=\"font-size: 12pt;\"> <!-- [if !supportLineBreakNewLine]--></span></strong><br /><!--[endif]--></span></p>",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "Directions (11-13): Study the information carefully and answer the questions given below.\n \nDheeraj starts his journey from point S, walks 10m towards North to reach at point D, then takes a right turn and walks 6m to reach point F. From point F, He start walking in west direction and walk 4m to reach at point N, From point N he takes a left turn and walks 9m to reach at point M, then takes a left turn again and walks 4m to reach point T.\n \n \nQ12. In which direction point N with respect to T? ",
+          "sectionId": "60e8263c688f9e329eefaaad",
+          "order": 12,
+          "questionSubmitOrder": 12,
+          "options": [
+            {
+              "name": "<p>North</p>",
+              "nameText": "North",
+              "isCorrect": false,
+              "_id": "60e82696cf9881cd935eee57",
+              "isMarked": false
+            },
+            {
+              "name": "<p>North-east</p>",
+              "nameText": "North-east",
+              "isCorrect": false,
+              "_id": "60e82696cf9881f8cb5eee58",
+              "isMarked": false
+            },
+            {
+              "name": "<p>South-east</p>",
+              "nameText": "South-east",
+              "isCorrect": false,
+              "_id": "60e82696cf988107985eee59",
+              "isMarked": false
+            },
+            {
+              "name": "<p>North-west</p>",
+              "nameText": "North-west",
+              "isCorrect": true,
+              "_id": "60e82696cf9881857f5eee5a",
+              "isMarked": false
+            },
+            {
+              "name": "<p><span style=\"font-size: 1.4rem;\">Can&rsquo;t be determined</span></p>",
+              "nameText": "Can’t be determined",
+              "isCorrect": false,
+              "_id": "60e8346bb0db831fdc8991fd",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p><img src=\"images/img_a0be75ca01a8.png\" alt=\"\" /></p>",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6ab02a4de191ef8004a9b6b5",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "60e82696cf988113ac5eee60",
+          "name": "<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 12pt;\">Directions (11-13): Study the information carefully and answer the questions given below.<br /></span></strong></p>\n<p>&nbsp;</p>\n<p><strong><span style=\"font-size: 12pt;\">Dheeraj starts his journey from point S, walks 10m towards North to reach at point D, then takes a right turn and walks 6m to reach point F. From point F, He start walking in west direction and walk 4m to reach at point N, From point N he takes a left turn and walks 9m to reach at point M, then takes a left turn again and walks 4m to reach point T.</span></strong></p>\n<p>&nbsp;</p>\n<p><strong><span style=\"font-size: 12pt;\"><span lang=\"EN-IN\" style=\"line-height: 107%; font-family: Calibri, sans-serif;\">Q13. If point K is 2m north of point S and the shortest distance between point K and F is 10m then, what is the distance between point D and K?</span></span></strong></p>",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "Directions (11-13): Study the information carefully and answer the questions given below.\n \nDheeraj starts his journey from point S, walks 10m towards North to reach at point D, then takes a right turn and walks 6m to reach point F. From point F, He start walking in west direction and walk 4m to reach at point N, From point N he takes a left turn and walks 9m to reach at point M, then takes a left turn again and walks 4m to reach point T.\n \nQ13. If point K is 2m north of point S and the shortest distance between point K and F is 10m then, what is the distance between point D and K?",
+          "sectionId": "60e8263c688f9e329eefaaad",
+          "order": 13,
+          "questionSubmitOrder": 13,
+          "options": [
+            {
+              "name": "<p>6m</p>",
+              "nameText": "6m",
+              "isCorrect": false,
+              "_id": "60e82696cf988162625eee5c",
+              "isMarked": false
+            },
+            {
+              "name": "<p>8m</p>",
+              "nameText": "8m",
+              "isCorrect": true,
+              "_id": "60e82696cf9881b4d25eee5d",
+              "isMarked": false
+            },
+            {
+              "name": "<p>3m</p>",
+              "nameText": "3m",
+              "isCorrect": false,
+              "_id": "60e82696cf9881d6c15eee5e",
+              "isMarked": false
+            },
+            {
+              "name": "<p>10m</p>",
+              "nameText": "10m",
+              "isCorrect": false,
+              "_id": "60e82696cf988103df5eee5f",
+              "isMarked": false
+            },
+            {
+              "name": "<p><span style=\"font-size: 1.4rem;\">None of these</span></p>",
+              "nameText": "None of these",
+              "isCorrect": false,
+              "_id": "60e835219c6fbd954177b9c1",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p><img style=\"font-size: 1.4rem;\" src=\"images/img_54e2430bdd11.png\" alt=\"\" /></p>",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6ab02a4de191efdcd4a9b6b6",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "60e82696cf9881a8c15eee65",
+          "name": "<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 12pt;\">Directions (14-15): Study the information carefully and answer the questions given below.</span></strong></p>\n<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 12pt;\"><br />A person starts walking from point X to the east direction, after walking of 5km to reach point P from there he turns towards left and then walk 4km to reach point Q. Then turn to his right and walk 5km to reach point R then turn to his right and walk 4km to reach point S then move towards his left and walk 3km to reach point T then again turn right and walk 3km to reach point U finally turn to his right and walk 8km to reach point Y.</span></strong></p>\n<p>&nbsp;</p>\n<p><strong><span lang=\"EN-IN\" style=\"font-size: 12pt; line-height: 107%; font-family: Calibri, sans-serif;\">Q14. How far (Shortest Distance) and which direction is point X with respect to point Y?<br /><!-- [if !supportLineBreakNewLine]--><br /><!--[endif]--></span></strong></p>\n<p>&nbsp;</p>",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "Directions (14-15): Study the information carefully and answer the questions given below.\nA person starts walking from point X to the east direction, after walking of 5km to reach point P from there he turns towards left and then walk 4km to reach point Q. Then turn to his right and walk 5km to reach point R then turn to his right and walk 4km to reach point S then move towards his left and walk 3km to reach point T then again turn right and walk 3km to reach point U finally turn to his right and walk 8km to reach point Y.\n \nQ14. How far (Shortest Distance) and which direction is point X with respect to point Y?\n ",
+          "sectionId": "60e8263c688f9e329eefaaad",
+          "order": 14,
+          "questionSubmitOrder": 14,
+          "options": [
+            {
+              "name": "<p><span lang=\"EN-IN\" style=\"font-size: 11.0pt; line-height: 107%; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">&nbsp;&radic;30 km North</span></p>",
+              "nameText": " √30 km North",
+              "isCorrect": false,
+              "_id": "60e82696cf98814e8a5eee61",
+              "isMarked": false
+            },
+            {
+              "name": "<p><span lang=\"EN-IN\" style=\"font-size: 11.0pt; line-height: 107%; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">34 km North-East</span></p>",
+              "nameText": "34 km North-East",
+              "isCorrect": false,
+              "_id": "60e82696cf98819eef5eee62",
+              "isMarked": false
+            },
+            {
+              "name": "<p><span lang=\"EN-IN\" style=\"font-size: 11.0pt; line-height: 107%; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">&nbsp;2&radic;34 km South-West</span></p>",
+              "nameText": " 2√34 km South-West",
+              "isCorrect": false,
+              "_id": "60e82696cf9881041c5eee63",
+              "isMarked": false
+            },
+            {
+              "name": "<p><span lang=\"EN-IN\" style=\"font-size: 11.0pt; line-height: 107%; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">&radic;34 km North-West</span></p>",
+              "nameText": "√34 km North-West",
+              "isCorrect": true,
+              "_id": "60e82696cf988131e35eee64",
+              "isMarked": false
+            },
+            {
+              "name": "<p><span style=\"font-size: 1.4rem;\">None of these.</span></p>",
+              "nameText": "None of these.",
+              "isCorrect": false,
+              "_id": "60e83638688f9eeba9efcd56",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p><img style=\"font-size: 1.4rem;\" src=\"images/img_b95476f1c036.png\" alt=\"\" /></p>",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6ab02a4de191ef9a3da9b6b7",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "60e82696cf98819fc35eee6a",
+          "name": "<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 12pt;\">Directions (14-15): Study the information carefully and answer the questions given below.<br /></span></strong></p>\n<p><strong><span style=\"font-size: 12pt;\">A person starts walking from point X to the east direction, after walking of 5km to reach point P from there he turns towards left and then walk 4km to reach point Q. Then turn to his right and walk 5km to reach point R then turn to his right and walk 4km to reach point S then move towards his left and walk 3km to reach point T then again turn right and walk 3km to reach point U finally turn to his right and walk 8km to reach point Y.</span></strong></p>\n<p>&nbsp;</p>\n<p><strong><span style=\"font-size: 12pt;\"><span lang=\"EN-IN\" style=\"line-height: 107%; font-family: Calibri, sans-serif;\">Q15. In which direction is point T with respect to point Y?</span></span></strong></p>",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "Directions (14-15): Study the information carefully and answer the questions given below.\nA person starts walking from point X to the east direction, after walking of 5km to reach point P from there he turns towards left and then walk 4km to reach point Q. Then turn to his right and walk 5km to reach point R then turn to his right and walk 4km to reach point S then move towards his left and walk 3km to reach point T then again turn right and walk 3km to reach point U finally turn to his right and walk 8km to reach point Y.\n \nQ15. In which direction is point T with respect to point Y?",
+          "sectionId": "60e8263c688f9e329eefaaad",
+          "order": 15,
+          "questionSubmitOrder": 15,
+          "options": [
+            {
+              "name": "<p><span lang=\"EN-IN\" style=\"font-size: 11.0pt; line-height: 107%; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">&nbsp;North east<br /><!--[endif]--></span></p>",
+              "nameText": " North east",
+              "isCorrect": true,
+              "_id": "60e82696cf988107585eee66",
+              "isMarked": false
+            },
+            {
+              "name": "<p><span lang=\"EN-IN\" style=\"font-size: 11.0pt; line-height: 107%; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">South east<br /><!--[endif]--></span></p>",
+              "nameText": "South east",
+              "isCorrect": false,
+              "_id": "60e82696cf9881120b5eee67",
+              "isMarked": false
+            },
+            {
+              "name": "<p>North</p>",
+              "nameText": "North",
+              "isCorrect": false,
+              "_id": "60e82696cf988128f55eee68",
+              "isMarked": false
+            },
+            {
+              "name": "<p>West</p>",
+              "nameText": "West",
+              "isCorrect": false,
+              "_id": "60e82696cf98817bea5eee69",
+              "isMarked": false
+            },
+            {
+              "name": "<p>South-west</p>",
+              "nameText": "South-west",
+              "isCorrect": false,
+              "_id": "60e836d9ebeee27f7703d1b0",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p><img style=\"font-size: 1.4rem;\" src=\"images/img_7ebf6641b480.png\" alt=\"\" /></p>",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6ab02a4de191ef2264a9b6b8",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        }
+      ],
+      "numberOfQuestions": 15
+    }
+  ],
+  "userDetails": {
+    "name": "HackWithInfyPrep",
+    "userId": 192606116,
+    "orgId": 44032
+  },
+  "sts": 1789930063345,
+  "region": {
+    "timeFormat": "hh:mm a",
+    "dateTimeStamp": "yyyy/MM/dd"
+  }
+}

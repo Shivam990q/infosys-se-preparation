@@ -1,0 +1,957 @@
+{
+  "_id": "60f45f6bea19c89029edbfbe",
+  "settings": {
+    "fonts": {},
+    "grades": {
+      "A": {
+        "max": 100,
+        "min": 70
+      },
+      "B": {
+        "max": 69,
+        "min": 50
+      },
+      "C": {
+        "max": 49,
+        "min": 35
+      },
+      "D": {
+        "max": 34,
+        "min": 20
+      },
+      "E": {
+        "max": 19,
+        "min": 10
+      },
+      "F": {
+        "max": 9,
+        "min": 0
+      }
+    },
+    "hasOptionalQuestions": false,
+    "settingsForRTG": {},
+    "generateBatchRank": true,
+    "defaultFont": null,
+    "generateInstitutionalRank": true,
+    "generatePercentile": true,
+    "showQuestionWiseTime": true,
+    "allowResultSharing": true,
+    "showQuestionTimer": true,
+    "calculatorType": null,
+    "enableLetterGrading": true,
+    "generateRandomTest": false,
+    "isSectionSwitchingEnabled": true,
+    "shuffleQuestions": false,
+    "showAnswers": true,
+    "isSolutionMultipleViewEnabled": true,
+    "shuffleOptions": false,
+    "revealCorrectAnswers": "all",
+    "revealAnswersTime": "now",
+    "parseMathJax": false
+  },
+  "isReadyToLink": true,
+  "isLinked": true,
+  "instructions": "",
+  "isSectionEnable": false,
+  "isReloadRequired": true,
+  "totalNumberOfQuestions": 15,
+  "totalMarks": 15,
+  "isAttempted": true,
+  "name": "BLOOD RELATION TEST 01",
+  "duration": 900000,
+  "createdBy": "609d141ffef055578d05892c",
+  "parentFolder": "60dde8dec8679fd7b4fbb829",
+  "sections": [
+    {
+      "sectionDuration": 0,
+      "sectionMarks": 15,
+      "isActive": true,
+      "draftMode": false,
+      "sectionInstructions": "<p>PLEASE ATTEMPT EVERY QUESTION</p>",
+      "_id": "60f45f8f8598c6658e6f2984",
+      "hasOptionalQuestions": false,
+      "name": "BLOOD RELATION 01",
+      "order": 1,
+      "numberOfQuestions": 15,
+      "questions": [
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0.25,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p class=\"MsoNormal\"><span lang=\"EN-IN\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman','serif';\">Brother</span></p>",
+              "nameText": "Brother",
+              "order": 1,
+              "isNewOption": false,
+              "_id": "60f46adbe24370303f5c3f8c"
+            },
+            {
+              "name": "<p class=\"MsoNormal\"><span lang=\"EN-IN\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman','serif';\">Brother in law</span></p>",
+              "nameText": "Brother in law",
+              "order": 2,
+              "isNewOption": false,
+              "_id": "60f46adbe243706d415c3f8d"
+            },
+            {
+              "name": "<p><span lang=\"EN-IN\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman','serif'; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">Uncle</span></p>",
+              "nameText": "Uncle",
+              "order": 3,
+              "isNewOption": false,
+              "_id": "60f46adbe2437028605c3f8e"
+            },
+            {
+              "name": "<p><span lang=\"EN-IN\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman','serif'; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">Cannot be determined</span></p>",
+              "nameText": "Cannot be determined",
+              "order": 4,
+              "isNewOption": false,
+              "_id": "60f46adbe24370808f5c3f8f"
+            },
+            {
+              "name": "<p><span lang=\"EN-IN\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman','serif'; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">None of these</span></p>",
+              "nameText": "None of these",
+              "order": 4,
+              "isNewOption": true,
+              "_id": "60f46adbe2437021fa5c3f90"
+            }
+          ],
+          "_id": "60f460278ac508fd85e78c62",
+          "isGlobal": false,
+          "name": "<p class=\"MsoNormal\"><span style=\"font-size: 14pt;\"><strong><span lang=\"EN-IN\" style=\"line-height: 107%; font-family: 'Times New Roman', serif;\">Directions (1-3): Study the information carefully and answer the questions given below.</span></strong></span></p>\n<p class=\"MsoNormal\"><span style=\"font-size: 14pt;\"><strong><span lang=\"EN-IN\" style=\"line-height: 107%; font-family: 'Times New Roman', serif;\">P is father of M who is brother in law of K. N is daughter in law of Z who is grandmother of L. P has only two children one son and one daughter. X is sister in law of N. P is father in law of N. K is unmarried.</span></strong></span></p>\n<p class=\"MsoNormal\"><span style=\"font-size: 14pt;\"><strong><span lang=\"EN-IN\" style=\"line-height: 107%; font-family: 'Times New Roman', serif;\">&nbsp;</span></strong></span></p>\n<p><span style=\"font-size: 14pt;\"><strong><span style=\"font-family: 'Times New Roman', serif;\">Q1. If K is wife of J, then what could be the relation of J with respect to N?</span></strong></span></p>",
+          "paragraph": null,
+          "nameText": "Directions (1-3): Study the information carefully and answer the questions given below.\nP is father of M who is brother in law of K. N is daughter in law of Z who is grandmother of L. P has only two children one son and one daughter. X is sister in law of N. P is father in law of N. K is unmarried.\n \nQ1. If K is wife of J, then what could be the relation of J with respect to N?",
+          "type": "multiple_choice",
+          "createdBy": "609d141ffef055578d05892c",
+          "order": 1,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0.25,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p><span lang=\"EN-IN\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman','serif'; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">Nephew</span></p>",
+              "nameText": "Nephew",
+              "order": 1,
+              "isNewOption": false,
+              "_id": "60f46adbe2437026fc5c3fc8"
+            },
+            {
+              "name": "<p><span lang=\"EN-IN\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman','serif'; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">Niece</span></p>",
+              "nameText": "Niece",
+              "order": 2,
+              "isNewOption": false,
+              "_id": "60f46adbe2437066b55c3fc9"
+            },
+            {
+              "name": "<p><span lang=\"EN-IN\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman','serif'; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">Son</span></p>",
+              "nameText": "Son",
+              "order": 3,
+              "isNewOption": false,
+              "_id": "60f46adbe243708c895c3fca"
+            },
+            {
+              "name": "<p><span lang=\"EN-IN\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman','serif'; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">Daughter</span></p>",
+              "nameText": "Daughter",
+              "order": 4,
+              "isNewOption": false,
+              "_id": "60f46adbe24370cc575c3fcb"
+            },
+            {
+              "name": "<p><span lang=\"EN-IN\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman','serif'; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">Cannot be determined</span></p>",
+              "nameText": "Cannot be determined",
+              "order": 4,
+              "isNewOption": true,
+              "_id": "60f46adbe243704ca95c3fcc"
+            }
+          ],
+          "_id": "60f460278ac5086c6be78c67",
+          "isGlobal": false,
+          "name": "<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman','serif';\">Directions (1-3): Study the information carefully and answer the questions given below.</span></strong></p>\n<p><strong><span style=\"font-family: 'Times New Roman', serif; font-size: 14pt;\">P is father of M who is brother in law of K. N is daughter in law of Z who is grandmother of L. P has only two children one son and one daughter. X is sister in law of N. P is father in law of N. K is unmarried.</span></strong></p>\n<p class=\"MsoNormal\">&nbsp;</p>\n<p class=\"MsoNormal\"><span lang=\"EN-IN\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman','serif';\"><strong>2. What is relation of L with respect to X?</strong></span></p>",
+          "paragraph": null,
+          "nameText": "Directions (1-3): Study the information carefully and answer the questions given below.\nP is father of M who is brother in law of K. N is daughter in law of Z who is grandmother of L. P has only two children one son and one daughter. X is sister in law of N. P is father in law of N. K is unmarried.\n \n2. What is relation of L with respect to X?",
+          "type": "multiple_choice",
+          "createdBy": "609d141ffef055578d05892c",
+          "order": 2,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0.25,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p><span lang=\"EN-IN\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman','serif'; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">Father</span></p>",
+              "nameText": "Father",
+              "order": 1,
+              "isNewOption": false,
+              "_id": "60f46adbe243703bec5c3f9b"
+            },
+            {
+              "name": "<p><span lang=\"EN-IN\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman','serif'; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">Mother</span></p>",
+              "nameText": "Mother",
+              "order": 2,
+              "isNewOption": false,
+              "_id": "60f46adbe243700a8b5c3f9c"
+            },
+            {
+              "name": "<p><span lang=\"EN-IN\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman','serif'; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">Grand father</span></p>",
+              "nameText": "Grand father",
+              "order": 3,
+              "isNewOption": false,
+              "_id": "60f46adbe2437022865c3f9d"
+            },
+            {
+              "name": "<p><span lang=\"EN-IN\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman','serif'; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">Cannot be determined</span></p>",
+              "nameText": "Cannot be determined",
+              "order": 4,
+              "isNewOption": false,
+              "_id": "60f46adbe2437055605c3f9e"
+            },
+            {
+              "name": "<p><span lang=\"EN-IN\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman','serif'; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">None of these</span></p>",
+              "nameText": "None of these",
+              "order": 4,
+              "isNewOption": true,
+              "_id": "60f46adbe2437053025c3f9f"
+            }
+          ],
+          "_id": "60f460278ac508fc10e78c6c",
+          "isGlobal": false,
+          "name": "<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman','serif';\">Directions (1-3): Study the information carefully and answer the questions given below.</span></strong></p>\n<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman','serif';\">P is father of M who is brother in law of K. N is daughter in law of Z who is grandmother of L. P has only two children one son and one daughter. X is sister in law of N. P is father in law of N. K is unmarried.</span></strong></p>\n<p>&nbsp;</p>\n<p><strong><span style=\"font-family: 'Times New Roman', serif; font-size: 14pt;\">&nbsp;</span><span style=\"font-family: 'Times New Roman', serif; font-size: 14pt;\">Q3. How is P related to L?</span></strong></p>\n<p class=\"MsoNormal\">&nbsp;</p>",
+          "paragraph": null,
+          "nameText": "Directions (1-3): Study the information carefully and answer the questions given below.\nP is father of M who is brother in law of K. N is daughter in law of Z who is grandmother of L. P has only two children one son and one daughter. X is sister in law of N. P is father in law of N. K is unmarried.\n \n Q3. How is P related to L?\n ",
+          "type": "multiple_choice",
+          "createdBy": "609d141ffef055578d05892c",
+          "order": 3,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0.25,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p><span lang=\"EN-IN\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman','serif'; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">Sister-in-law</span></p>",
+              "nameText": "Sister-in-law",
+              "order": 1,
+              "isNewOption": false,
+              "_id": "60f46adbe24370cf745c3faa"
+            },
+            {
+              "name": "<p><span lang=\"EN-IN\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman','serif'; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">Granddaughter</span></p>",
+              "nameText": "Granddaughter",
+              "order": 2,
+              "isNewOption": false,
+              "_id": "60f46adbe24370b7c95c3fab"
+            },
+            {
+              "name": "<p><span lang=\"EN-IN\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman','serif'; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">Wife</span></p>",
+              "nameText": "Wife",
+              "order": 3,
+              "isNewOption": false,
+              "_id": "60f46adbe24370649c5c3fac"
+            },
+            {
+              "name": "<p><span lang=\"EN-IN\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman','serif'; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">Daughter</span></p>",
+              "nameText": "Daughter",
+              "order": 4,
+              "isNewOption": false,
+              "_id": "60f46adbe2437072e85c3fad"
+            },
+            {
+              "name": "<p><span lang=\"EN-IN\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman','serif'; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">Aunt</span></p>",
+              "nameText": "Aunt",
+              "order": 4,
+              "isNewOption": true,
+              "_id": "60f46adbe243701d8f5c3fae"
+            }
+          ],
+          "_id": "60f460278ac508ee28e78c71",
+          "isGlobal": false,
+          "name": "<p><strong><span style=\"font-family: 'Times New Roman', serif; font-size: 14pt;\">A man says to a lady, &ldquo;Your father is the father in law of my father&rsquo;s only child.&rdquo; How is the lady related to the man?</span></strong></p>",
+          "paragraph": null,
+          "nameText": "A man says to a lady, “Your father is the father in law of my father’s only child.” How is the lady related to the man?",
+          "type": "multiple_choice",
+          "createdBy": "609d141ffef055578d05892c",
+          "order": 4,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0.25,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p><span lang=\"EN-IN\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman','serif'; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">Son</span></p>",
+              "nameText": "Son",
+              "order": 1,
+              "isNewOption": false,
+              "_id": "60f46adbe243703f1b5c3fb9"
+            },
+            {
+              "name": "<p><span lang=\"EN-IN\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman','serif'; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">Husband</span></p>",
+              "nameText": "Husband",
+              "order": 2,
+              "isNewOption": false,
+              "_id": "60f46adbe2437062aa5c3fba"
+            },
+            {
+              "name": "<p><span lang=\"EN-IN\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman','serif'; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">Cousin</span></p>",
+              "nameText": "Cousin",
+              "order": 3,
+              "isNewOption": false,
+              "_id": "60f46adbe243704e9b5c3fbb"
+            },
+            {
+              "name": "<p><span lang=\"EN-IN\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman','serif'; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">Nephew</span></p>",
+              "nameText": "Nephew",
+              "order": 4,
+              "isNewOption": false,
+              "_id": "60f46adbe243703c1c5c3fbc"
+            },
+            {
+              "name": "<p><span lang=\"EN-IN\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman','serif'; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">Niece</span></p>",
+              "nameText": "Niece",
+              "order": 4,
+              "isNewOption": true,
+              "_id": "60f46adbe2437018fb5c3fbd"
+            }
+          ],
+          "_id": "60f460278ac5089571e78c76",
+          "isGlobal": false,
+          "name": "<p><strong><span style=\"font-family: 'Times New Roman', serif; font-size: 14pt;\">Showing a man on the stage, Rita said, &rdquo; He is the brother of the daughter of the wife of my husband. How is the man on stage related to Rita?</span></strong></p>",
+          "paragraph": null,
+          "nameText": "Showing a man on the stage, Rita said, ” He is the brother of the daughter of the wife of my husband. How is the man on stage related to Rita?",
+          "type": "multiple_choice",
+          "createdBy": "609d141ffef055578d05892c",
+          "order": 5,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0.25,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p><span lang=\"EN-IN\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman','serif'; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">Father</span></p>",
+              "nameText": "Father",
+              "order": 1,
+              "isNewOption": false,
+              "_id": "60f46adbe2437040815c3f91"
+            },
+            {
+              "name": "<p><span lang=\"EN-IN\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman','serif'; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">Mother</span></p>",
+              "nameText": "Mother",
+              "order": 2,
+              "isNewOption": false,
+              "_id": "60f46adbe24370c5ea5c3f92"
+            },
+            {
+              "name": "<p><span lang=\"EN-IN\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman','serif'; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">Son</span></p>",
+              "nameText": "Son",
+              "order": 3,
+              "isNewOption": false,
+              "_id": "60f46adbe243700c9f5c3f93"
+            },
+            {
+              "name": "<p><span lang=\"EN-IN\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman','serif'; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">Son in law</span></p>",
+              "nameText": "Son in law",
+              "order": 4,
+              "isNewOption": false,
+              "_id": "60f46adbe24370fab15c3f94"
+            },
+            {
+              "name": "<p><span lang=\"EN-IN\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman','serif'; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">Brother</span></p>",
+              "nameText": "Brother",
+              "order": 4,
+              "isNewOption": true,
+              "_id": "60f46adbe2437008c85c3f95"
+            }
+          ],
+          "_id": "60f460278ac5086cd7e78c7b",
+          "isGlobal": false,
+          "name": "<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman','serif';\">Directions (6-8): Study the following information carefully to answer the following question:</span></strong></p>\n<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman','serif';\">There are eight members in the family having three generations. There are only three married couple. A is mother of D. G is son in law of B. H is nephew of D. C has only one son. F is granddaughter of C. E is mother of F. D is unmarried. F is a married woman.</span></strong></p>\n<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman','serif';\">&nbsp;</span></strong></p>\n<p><strong><span style=\"font-family: 'Times New Roman', serif; font-size: 14pt;\">Q6. How C is related to D?</span></strong></p>",
+          "paragraph": null,
+          "nameText": "Directions (6-8): Study the following information carefully to answer the following question:\nThere are eight members in the family having three generations. There are only three married couple. A is mother of D. G is son in law of B. H is nephew of D. C has only one son. F is granddaughter of C. E is mother of F. D is unmarried. F is a married woman.\n \nQ6. How C is related to D?",
+          "type": "multiple_choice",
+          "createdBy": "609d141ffef055578d05892c",
+          "order": 6,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0.25,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p>A</p>",
+              "nameText": "A",
+              "order": 1,
+              "isNewOption": false,
+              "_id": "60f46adbe2437033885c3fa0"
+            },
+            {
+              "name": "<p>C</p>",
+              "nameText": "C",
+              "order": 2,
+              "isNewOption": false,
+              "_id": "60f46adbe243708f625c3fa1"
+            },
+            {
+              "name": "<p>H</p>",
+              "nameText": "H",
+              "order": 3,
+              "isNewOption": false,
+              "_id": "60f46adbe243701d215c3fa2"
+            },
+            {
+              "name": "<p>G</p>",
+              "nameText": "G",
+              "order": 4,
+              "isNewOption": false,
+              "_id": "60f46adbe24370e4855c3fa3"
+            },
+            {
+              "name": "<p><span lang=\"EN-IN\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman','serif'; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">None of these</span></p>",
+              "nameText": "None of these",
+              "order": 4,
+              "isNewOption": true,
+              "_id": "60f46adbe24370f70a5c3fa4"
+            }
+          ],
+          "_id": "60f460278ac50843b4e78c80",
+          "isGlobal": false,
+          "name": "<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman','serif';\">Directions (6-8): Study the following information carefully to answer the following question:</span></strong></p>\n<p><strong><span style=\"font-family: 'Times New Roman', serif; font-size: 14pt;\">There are eight members in the family having three generations. There are only three married couple. A is mother of D. G is son in law of B. H is nephew of D. C has only one son. F is granddaughter of C. E is mother of F. D is unmarried. F is a married woman</span></strong></p>\n<p>&nbsp;</p>\n<p class=\"MsoNormal\"><span lang=\"EN-IN\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman','serif';\"><strong>Q7. Who among the following is son in law of E?</strong></span></p>",
+          "paragraph": null,
+          "nameText": "Directions (6-8): Study the following information carefully to answer the following question:\nThere are eight members in the family having three generations. There are only three married couple. A is mother of D. G is son in law of B. H is nephew of D. C has only one son. F is granddaughter of C. E is mother of F. D is unmarried. F is a married woman\n \nQ7. Who among the following is son in law of E?",
+          "type": "multiple_choice",
+          "createdBy": "609d141ffef055578d05892c",
+          "order": 7,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0.25,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p>C</p>",
+              "nameText": "C",
+              "order": 1,
+              "isNewOption": false,
+              "_id": "60f46adbe24370b36c5c3faf"
+            },
+            {
+              "name": "<p>E</p>",
+              "nameText": "E",
+              "order": 2,
+              "isNewOption": false,
+              "_id": "60f46adbe2437037f75c3fb0"
+            },
+            {
+              "name": "<p>H</p>",
+              "nameText": "H",
+              "order": 3,
+              "isNewOption": false,
+              "_id": "60f46adbe243704b4c5c3fb1"
+            },
+            {
+              "name": "<p>F</p>",
+              "nameText": "F",
+              "order": 4,
+              "isNewOption": false,
+              "_id": "60f46adbe2437049385c3fb2"
+            },
+            {
+              "name": "<p>G</p>",
+              "nameText": "G",
+              "order": 4,
+              "isNewOption": true,
+              "_id": "60f46adbe2437030765c3fb3"
+            }
+          ],
+          "_id": "60f460278ac508e548e78c85",
+          "isGlobal": false,
+          "name": "<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman','serif';\">Directions (6-8): Study the following information carefully to answer the following question:</span></strong></p>\n<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman','serif';\">There are eight members in the family having three generations. There are only three married couple. A is mother of D. G is son in law of B. H is nephew of D. C has only one son. F is granddaughter of C. E is mother of F. D is unmarried. F is a married woman.</span></strong></p>\n<p><strong><span style=\"font-family: 'Times New Roman', serif; font-size: 14pt;\">&nbsp;</span></strong></p>\n<p class=\"MsoNormal\"><span lang=\"EN-IN\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman','serif';\"><strong>Q8. Who among the following is niece of D?</strong></span></p>",
+          "paragraph": null,
+          "nameText": "Directions (6-8): Study the following information carefully to answer the following question:\nThere are eight members in the family having three generations. There are only three married couple. A is mother of D. G is son in law of B. H is nephew of D. C has only one son. F is granddaughter of C. E is mother of F. D is unmarried. F is a married woman.\n \nQ8. Who among the following is niece of D?",
+          "type": "multiple_choice",
+          "createdBy": "609d141ffef055578d05892c",
+          "order": 8,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0.25,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p><span lang=\"EN-IN\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman','serif'; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">Aunt</span></p>",
+              "nameText": "Aunt",
+              "order": 1,
+              "isNewOption": false,
+              "_id": "60f46adbe2437052845c3fbe"
+            },
+            {
+              "name": "<p><span lang=\"EN-IN\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman','serif'; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">Mother</span></p>",
+              "nameText": "Mother",
+              "order": 2,
+              "isNewOption": false,
+              "_id": "60f46adbe243702aec5c3fbf"
+            },
+            {
+              "name": "<p><span lang=\"EN-IN\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman','serif'; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">Sister</span></p>",
+              "nameText": "Sister",
+              "order": 3,
+              "isNewOption": false,
+              "_id": "60f46adbe24370ea265c3fc0"
+            },
+            {
+              "name": "<p><span lang=\"EN-IN\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman','serif'; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">Sister in law</span></p>",
+              "nameText": "Sister in law",
+              "order": 4,
+              "isNewOption": false,
+              "_id": "60f46adbe24370a12a5c3fc1"
+            },
+            {
+              "name": "<p><span lang=\"EN-IN\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman','serif'; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">None of these</span></p>",
+              "nameText": "None of these",
+              "order": 4,
+              "isNewOption": true,
+              "_id": "60f46adbe24370dcb55c3fc2"
+            }
+          ],
+          "_id": "60f460278ac5081b64e78c8a",
+          "isGlobal": false,
+          "name": "<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman','serif';\">Directions (9-10): Each of these questions is based on the following information:</span></strong></p>\n<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman','serif';\">(i) P % Q means P is the father of B.</span></strong></p>\n<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman','serif';\">(ii) P @ Q means P is the sister of B.</span></strong></p>\n<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman','serif';\">(iii) P $ Q means P is the brother of B.</span></strong></p>\n<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman','serif';\">(iv) P * Q means P is the son of B.</span></strong></p>\n<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman','serif';\">&nbsp;</span></strong></p>\n<p><strong><span style=\"font-family: 'Times New Roman', serif; font-size: 14pt;\">Q9. In the expression S $ R % Q @ Y * M, how is M related to S?</span></strong></p>",
+          "paragraph": null,
+          "nameText": "Directions (9-10): Each of these questions is based on the following information:\n(i) P % Q means P is the father of B.\n(ii) P @ Q means P is the sister of B.\n(iii) P $ Q means P is the brother of B.\n(iv) P * Q means P is the son of B.\n \nQ9. In the expression S $ R % Q @ Y * M, how is M related to S?",
+          "type": "multiple_choice",
+          "createdBy": "609d141ffef055578d05892c",
+          "order": 9,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0.25,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p><span lang=\"EN-IN\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman','serif'; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">Aunt</span></p>",
+              "nameText": "Aunt",
+              "order": 1,
+              "isNewOption": false,
+              "_id": "60f46adbe2437029545c3fcd"
+            },
+            {
+              "name": "<p><span lang=\"EN-IN\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman','serif'; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">Uncle</span></p>",
+              "nameText": "Uncle",
+              "order": 2,
+              "isNewOption": false,
+              "_id": "60f46adbe24370d4c85c3fce"
+            },
+            {
+              "name": "<p><span lang=\"EN-IN\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman','serif'; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">Sister</span></p>",
+              "nameText": "Sister",
+              "order": 3,
+              "isNewOption": false,
+              "_id": "60f46adbe2437091635c3fcf"
+            },
+            {
+              "name": "<p><span lang=\"EN-IN\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman','serif'; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">Sister in law</span></p>",
+              "nameText": "Sister in law",
+              "order": 4,
+              "isNewOption": false,
+              "_id": "60f46adbe2437081495c3fd0"
+            },
+            {
+              "name": "<p><span lang=\"EN-IN\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman','serif'; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">None of these</span></p>",
+              "nameText": "None of these",
+              "order": 4,
+              "isNewOption": true,
+              "_id": "60f46adbe2437057825c3fd1"
+            }
+          ],
+          "_id": "60f460278ac5081ee4e78c8f",
+          "isGlobal": false,
+          "name": "<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman','serif';\">Directions (9-10): Each of these questions is based on the following information:</span></strong></p>\n<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman','serif';\">(i) P % Q means P is the father of B.</span></strong></p>\n<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman','serif';\">(ii) P @ Q means P is the sister of B.</span></strong></p>\n<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman','serif';\">(iii) P $ Q means P is the brother of B.</span></strong></p>\n<p><strong><span style=\"font-family: 'Times New Roman', serif; font-size: 14pt;\">(iv) P * Q means P is the son of B.</span></strong></p>\n<p class=\"MsoNormal\">&nbsp;</p>\n<p class=\"MsoNormal\"><span lang=\"EN-IN\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman','serif';\"><strong>Q10. In the expression N @ M * A $ S % Z, how is S related to N?</strong></span></p>",
+          "paragraph": null,
+          "nameText": "Directions (9-10): Each of these questions is based on the following information:\n(i) P % Q means P is the father of B.\n(ii) P @ Q means P is the sister of B.\n(iii) P $ Q means P is the brother of B.\n(iv) P * Q means P is the son of B.\n \nQ10. In the expression N @ M * A $ S % Z, how is S related to N?",
+          "type": "multiple_choice",
+          "createdBy": "609d141ffef055578d05892c",
+          "order": 10,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0.25,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p><span lang=\"EN-IN\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman','serif'; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">Brother</span></p>",
+              "nameText": "Brother",
+              "order": 1,
+              "isNewOption": false,
+              "_id": "60f46adbe243705e275c3f96"
+            },
+            {
+              "name": "<p><span lang=\"EN-IN\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman','serif'; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">Brother in law</span></p>",
+              "nameText": "Brother in law",
+              "order": 2,
+              "isNewOption": false,
+              "_id": "60f46adbe243704bdd5c3f97"
+            },
+            {
+              "name": "<p><span lang=\"EN-IN\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman','serif'; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">Uncle</span></p>",
+              "nameText": "Uncle",
+              "order": 3,
+              "isNewOption": false,
+              "_id": "60f46adbe24370b87d5c3f98"
+            },
+            {
+              "name": "<p><span lang=\"EN-IN\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman','serif'; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">Cannot be determined</span></p>",
+              "nameText": "Cannot be determined",
+              "order": 4,
+              "isNewOption": false,
+              "_id": "60f46adbe2437062ea5c3f99"
+            },
+            {
+              "name": "<p><span lang=\"EN-IN\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman','serif'; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">None of these.</span></p>",
+              "nameText": "None of these.",
+              "order": 4,
+              "isNewOption": true,
+              "_id": "60f46adbe2437079fe5c3f9a"
+            }
+          ],
+          "_id": "60f460278ac508141be78c94",
+          "isGlobal": false,
+          "name": "<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman','serif';\">Directions (11-12): Study the information carefully and answer the questions given below.</span></strong></p>\n<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman','serif';\">P is father of M who is brother in law of K. N is daughter in law of Z who is grandmother of L. P has only two children one son and one daughter. X is sister in law of N. P is father in law of N. K is unmarried.</span></strong></p>\n<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman','serif';\">&nbsp;</span></strong></p>\n<p><strong><span style=\"font-family: 'Times New Roman', serif; font-size: 14pt;\">Q11. If K is wife of J then what could be the relation of J with respect to N?</span></strong></p>",
+          "paragraph": null,
+          "nameText": "Directions (11-12): Study the information carefully and answer the questions given below.\nP is father of M who is brother in law of K. N is daughter in law of Z who is grandmother of L. P has only two children one son and one daughter. X is sister in law of N. P is father in law of N. K is unmarried.\n \nQ11. If K is wife of J then what could be the relation of J with respect to N?",
+          "type": "multiple_choice",
+          "createdBy": "609d141ffef055578d05892c",
+          "order": 11,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0.25,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p><span lang=\"EN-IN\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman','serif'; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">Nephew</span></p>",
+              "nameText": "Nephew",
+              "order": 1,
+              "isNewOption": false,
+              "_id": "60f46adbe243707f905c3fa5"
+            },
+            {
+              "name": "<p><span lang=\"EN-IN\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman','serif'; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">Niece</span></p>",
+              "nameText": "Niece",
+              "order": 2,
+              "isNewOption": false,
+              "_id": "60f46adbe243700bec5c3fa6"
+            },
+            {
+              "name": "<p><span lang=\"EN-IN\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman','serif'; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">Son</span></p>",
+              "nameText": "Son",
+              "order": 3,
+              "isNewOption": false,
+              "_id": "60f46adbe2437014dc5c3fa7"
+            },
+            {
+              "name": "<p><span lang=\"EN-IN\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman','serif'; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">Daughter</span></p>",
+              "nameText": "Daughter",
+              "order": 4,
+              "isNewOption": false,
+              "_id": "60f46adbe24370402a5c3fa8"
+            },
+            {
+              "name": "<p><span lang=\"EN-IN\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman','serif'; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">Cannot be determined</span></p>",
+              "nameText": "Cannot be determined",
+              "order": 4,
+              "isNewOption": true,
+              "_id": "60f46adbe2437021b45c3fa9"
+            }
+          ],
+          "_id": "60f460278ac508ed53e78c99",
+          "isGlobal": false,
+          "name": "<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman','serif';\">Directions (11-12): Study the information carefully and answer the questions given below.</span></strong></p>\n<p><strong><span style=\"font-family: 'Times New Roman', serif; font-size: 14pt;\">P is father of M who is brother in law of K. N is daughter in law of Z who is grandmother of L. P has only two children one son and one daughter. X is sister in law of N. P is father in law of N. K is unmarried.</span></strong></p>\n<p>&nbsp;</p>\n<p class=\"MsoNormal\"><span lang=\"EN-IN\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman','serif';\"><strong>Q12. What is relation of L with respect to X?</strong></span></p>",
+          "paragraph": null,
+          "nameText": "Directions (11-12): Study the information carefully and answer the questions given below.\nP is father of M who is brother in law of K. N is daughter in law of Z who is grandmother of L. P has only two children one son and one daughter. X is sister in law of N. P is father in law of N. K is unmarried.\n \nQ12. What is relation of L with respect to X?",
+          "type": "multiple_choice",
+          "createdBy": "609d141ffef055578d05892c",
+          "order": 12,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0.25,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p><span lang=\"EN-IN\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman','serif'; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">Brother</span></p>",
+              "nameText": "Brother",
+              "order": 1,
+              "isNewOption": false,
+              "_id": "60f46adbe243704bec5c3fb4"
+            },
+            {
+              "name": "<p><span lang=\"EN-IN\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman','serif'; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">Son &ndash;in-law</span></p>",
+              "nameText": "Son –in-law",
+              "order": 2,
+              "isNewOption": false,
+              "_id": "60f46adbe24370a2865c3fb5"
+            },
+            {
+              "name": "<p><span lang=\"EN-IN\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman','serif'; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">Father</span></p>",
+              "nameText": "Father",
+              "order": 3,
+              "isNewOption": false,
+              "_id": "60f46adbe243700c445c3fb6"
+            },
+            {
+              "name": "<p><span lang=\"EN-IN\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman','serif'; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">Son</span></p>",
+              "nameText": "Son",
+              "order": 4,
+              "isNewOption": false,
+              "_id": "60f46adbe243706a0b5c3fb7"
+            },
+            {
+              "name": "<p><span lang=\"EN-IN\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman','serif'; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">None of these</span></p>",
+              "nameText": "None of these",
+              "order": 4,
+              "isNewOption": true,
+              "_id": "60f46adbe243701da75c3fb8"
+            }
+          ],
+          "_id": "60f460278ac508ebb6e78c9e",
+          "isGlobal": false,
+          "name": "<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman','serif';\">Directions (13): Study the following information carefully to answer the given questions</span></strong></p>\n<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman','serif';\">P &times; Q means P is father of Q</span></strong></p>\n<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman','serif';\">P &divide; Q means P is daughter of Q</span></strong></p>\n<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman','serif';\">P + Q means P is sister of Q</span></strong></p>\n<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman','serif';\">P &ndash; Q means P is husband of Q</span></strong></p>\n<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman','serif';\">&nbsp;</span></strong></p>\n<p><strong><span style=\"font-family: 'Times New Roman', serif; font-size: 14pt;\">Q13. In M &divide; N &times; O &ndash; P, How O related to M?</span></strong></p>",
+          "paragraph": null,
+          "nameText": "Directions (13): Study the following information carefully to answer the given questions\nP × Q means P is father of Q\nP ÷ Q means P is daughter of Q\nP + Q means P is sister of Q\nP – Q means P is husband of Q\n \nQ13. In M ÷ N × O – P, How O related to M?",
+          "type": "multiple_choice",
+          "createdBy": "609d141ffef055578d05892c",
+          "order": 13,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0.25,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p><span lang=\"EN-IN\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman','serif'; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">Two</span></p>",
+              "nameText": "Two",
+              "order": 1,
+              "isNewOption": false,
+              "_id": "60f46adbe2437002e65c3fc3"
+            },
+            {
+              "name": "<p><span lang=\"EN-IN\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman','serif'; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">&nbsp;Three</span></p>",
+              "nameText": " Three",
+              "order": 2,
+              "isNewOption": false,
+              "_id": "60f46adbe24370e4ce5c3fc4"
+            },
+            {
+              "name": "<p><span lang=\"EN-IN\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman','serif'; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">Four</span></p>",
+              "nameText": "Four",
+              "order": 3,
+              "isNewOption": false,
+              "_id": "60f46adbe24370bca35c3fc5"
+            },
+            {
+              "name": "<p><span lang=\"EN-IN\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman','serif'; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">Can&rsquo;t be determined</span></p>",
+              "nameText": "Can’t be determined",
+              "order": 4,
+              "isNewOption": false,
+              "_id": "60f46adbe24370a6a35c3fc6"
+            },
+            {
+              "name": "<p><span lang=\"EN-IN\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman','serif'; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">None of these</span></p>",
+              "nameText": "None of these",
+              "order": 4,
+              "isNewOption": true,
+              "_id": "60f46adbe24370192b5c3fc7"
+            }
+          ],
+          "_id": "60f460278ac508b1f7e78ca3",
+          "isGlobal": false,
+          "name": "<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman','serif';\">Directions (14-15): Study the information carefully and answer the questions given below.</span></strong></p>\n<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman','serif';\">M, N, O, P, Q and R are six family members. Q is son of P, who is not the mother of Q. N is brother of P. R and P are a married couple. O is daughter of R, who is sister of M.</span></strong></p>\n<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman','serif';\">&nbsp;</span></strong></p>\n<p><strong><span style=\"font-family: 'Times New Roman', serif; font-size: 14pt;\">Q14. How many female members are there in the family?</span></strong></p>",
+          "paragraph": null,
+          "nameText": "Directions (14-15): Study the information carefully and answer the questions given below.\nM, N, O, P, Q and R are six family members. Q is son of P, who is not the mother of Q. N is brother of P. R and P are a married couple. O is daughter of R, who is sister of M.\n \nQ14. How many female members are there in the family?",
+          "type": "multiple_choice",
+          "createdBy": "609d141ffef055578d05892c",
+          "order": 14,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0.25,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p class=\"MsoNormal\"><span lang=\"EN-IN\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman','serif';\">Mother</span></p>",
+              "nameText": "Mother",
+              "order": 1,
+              "isNewOption": false,
+              "_id": "60f46adbe243702ab55c3fd2"
+            },
+            {
+              "name": "<p><span lang=\"EN-IN\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman','serif'; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">&nbsp;Father</span></p>",
+              "nameText": " Father",
+              "order": 2,
+              "isNewOption": false,
+              "_id": "60f46adbe2437088ce5c3fd3"
+            },
+            {
+              "name": "<p><span lang=\"EN-IN\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman','serif'; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">Sister</span></p>",
+              "nameText": "Sister",
+              "order": 3,
+              "isNewOption": false,
+              "_id": "60f46adbe243701bfb5c3fd4"
+            },
+            {
+              "name": "<p><span lang=\"EN-IN\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman','serif'; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">Brother</span></p>",
+              "nameText": "Brother",
+              "order": 4,
+              "isNewOption": false,
+              "_id": "60f46adbe24370243e5c3fd5"
+            },
+            {
+              "name": "<p><span lang=\"EN-IN\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman','serif'; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">None of these</span></p>",
+              "nameText": "None of these",
+              "order": 4,
+              "isNewOption": true,
+              "_id": "60f46adbe24370c9bf5c3fd6"
+            }
+          ],
+          "_id": "60f460278ac508f726e78ca8",
+          "isGlobal": false,
+          "name": "<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman','serif';\">Directions (14-15): Study the information carefully and answer the questions given below.</span></strong></p>\n<p><strong><span style=\"font-family: 'Times New Roman', serif; font-size: 14pt;\">M, N, O, P, Q and R are six family members. Q is son of P, who is not the mother of Q. N is brother of P. R and P are a married couple. O is daughter of R, who is sister of M.</span></strong></p>\n<p class=\"MsoNormal\">&nbsp;</p>\n<p class=\"MsoNormal\"><span lang=\"EN-IN\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman','serif';\"><strong>Q15. How is Q related to O?</strong></span></p>",
+          "paragraph": null,
+          "nameText": "Directions (14-15): Study the information carefully and answer the questions given below.\nM, N, O, P, Q and R are six family members. Q is son of P, who is not the mother of Q. N is brother of P. R and P are a married couple. O is daughter of R, who is sister of M.\n \nQ15. How is Q related to O?",
+          "type": "multiple_choice",
+          "createdBy": "609d141ffef055578d05892c",
+          "order": 15,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        }
+      ]
+    }
+  ],
+  "practiceTestUrls": [],
+  "updateAfterSync": {},
+  "isCdnUpdated": false,
+  "lastAttemptedAt": "2026-09-20T06:03:55.918Z",
+  "currentSection": "60f45f8f8598c6658e6f2984",
+  "testTotalDuration": 900000,
+  "examStartDate": "2026-09-20T18:52:40.233Z"
+}

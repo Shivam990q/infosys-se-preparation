@@ -1,0 +1,985 @@
+{
+  "test": {
+    "name": "Mirror Imge",
+    "testTotalDuration": 1200000,
+    "settings": {
+      "fonts": {},
+      "isSectionSwitchingEnabled": true
+    },
+    "practiceTestUrls": [],
+    "testFormat": "DEFAULT"
+  },
+  "filters": {
+    "incorrect": 0,
+    "correct": 0,
+    "partiallyMarked": 0,
+    "unattempted": 1,
+    "markForReview": 0,
+    "graceMarked": 0,
+    "revaluated": 0
+  },
+  "timeTaken": 0,
+  "courseId": "844567",
+  "showReportQuestion": true,
+  "sectionWiseStats": [
+    {
+      "marksScored": 0,
+      "sectionMarks": 15,
+      "accuracy": 0,
+      "_id": "6ab036dda710da3ebe171321",
+      "totalQuestions": 15,
+      "attemptDuration": 0,
+      "correctAnswers": 0,
+      "inCorrectAnswers": 0,
+      "partiallyCorrectAnswers": 0,
+      "unAttempted": 15,
+      "name": "Quantitative Aptitude",
+      "order": 1,
+      "sectionDuration": 0,
+      "sectionId": "6102aee681d475cb84739432"
+    }
+  ],
+  "sections": [
+    {
+      "draftMode": false,
+      "isActive": true,
+      "sectionDuration": 0,
+      "sectionMarks": 15,
+      "sectionInstructions": " ",
+      "hasOptionalQuestions": false,
+      "_id": "6102aee681d475cb84739432",
+      "name": "Quantitative Aptitude",
+      "order": 1,
+      "createdAt": "2021-09-16T12:49:11.328Z",
+      "updatedAt": "2021-09-16T12:49:11.328Z",
+      "questions": [
+        {
+          "_id": "6102aefdeedcff6b621aaa43",
+          "name": "<p><span style=\"font-size: 14pt;\"><strong><span style=\"color: #666666; font-family: Verdana, Tahoma, Arial, sans-serif;\">Looking into a mirror, the clock shows 9 : 30 as the time. The actual time is ________&nbsp;</span></strong></span></p>\n<p>&nbsp;</p>",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "Looking into a mirror, the clock shows 9 : 30 as the time. The actual time is ________ \n ",
+          "sectionId": "6102aee681d475cb84739432",
+          "order": 1,
+          "questionSubmitOrder": 1,
+          "options": [
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">2:30</span></p>",
+              "nameText": "2:30",
+              "isCorrect": true,
+              "_id": "6102bbcd8f0c3e7c13849428",
+              "isMarked": false
+            },
+            {
+              "name": "<p><span style=\"font-size: 18.6667px;\">3:30</span></p>",
+              "nameText": "3:30",
+              "isCorrect": false,
+              "_id": "6102bbcd8f0c3ee47b849429",
+              "isMarked": false
+            },
+            {
+              "name": "<p><span style=\"font-size: 18.6667px;\">4:30</span></p>",
+              "nameText": "4:30",
+              "isCorrect": false,
+              "_id": "6102bbcd8f0c3e1d9b84942a",
+              "isMarked": false
+            },
+            {
+              "name": "<p><span style=\"font-size: 18.6667px;\">5:30</span></p>",
+              "nameText": "5:30",
+              "isCorrect": false,
+              "_id": "6102bbcd8f0c3e847184942b",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p><span style=\"font-size: 14pt;\"><span class=\"lf-green\" style=\"font-family: Verdana, Tahoma, Arial, sans-serif; color: #5eac1a;\"><span style=\"font-weight: 600;\">Answer:</span></span><span style=\"color: #666666; font-family: Verdana, Tahoma, Arial, sans-serif;\">&nbsp;</span><span style=\"color: #666666; font-family: Verdana, Tahoma, Arial, sans-serif;\">Option</span><span class=\"jq-hdnakqb\" style=\"color: #666666; font-family: Verdana, Tahoma, Arial, sans-serif; font-weight: 600;\">&nbsp;A</span></span></p>\n<p>&nbsp;</p>\n<p style=\"margin-bottom: 15px; font-family: Verdana, Tahoma, Arial, sans-serif; line-height: 1.5; color: #666666;\"><span class=\"lf-green\" style=\"color: #5eac1a; font-size: 14pt;\"><span style=\"font-weight: 600;\">Explanation:</span></span></p>\n<p style=\"margin-bottom: 15px; font-family: Verdana, Tahoma, Arial, sans-serif; line-height: 1.5; color: #666666;\"><span style=\"font-size: 14pt;\"><img style=\"border: 0px; max-width: 100%; height: auto;\" src=\"images/img_755c75f8c204.png\" alt=\"mirror-image-of-letters-and-numbers---mirror-images-problems\" /></span></p>\n<p style=\"margin-bottom: 15px; font-family: Verdana, Tahoma, Arial, sans-serif; line-height: 1.5; color: #666666;\"><span style=\"font-size: 14pt;\">It is clear from Fig. (X) that if seen through a mirror, the time indicated by clock is 9 : 30. When the mirror is placed vertically at AB, its mirror&nbsp;<em>i.e.,&nbsp;</em>Fix. (Y) shows the actual time in the clock&nbsp;<em>i.e.,&nbsp;</em>2 : 30.</span></p>",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6ab036ddb1cb2937c0c23ae2",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "6102aefdeedcff784c1aaa48",
+          "name": "<p><strong><span style=\"color: #666666; font-family: Verdana, Tahoma, Arial, sans-serif; font-size: 14pt;\">When seen through a mirror, a clock shows 8 : 30. The correct time is ________</span></strong></p>",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "When seen through a mirror, a clock shows 8 : 30. The correct time is ________",
+          "sectionId": "6102aee681d475cb84739432",
+          "order": 2,
+          "questionSubmitOrder": 2,
+          "options": [
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">2:30</span></p>",
+              "nameText": "2:30",
+              "isCorrect": false,
+              "_id": "6102bbcd8f0c3ef1c184944c",
+              "isMarked": false
+            },
+            {
+              "name": "<p><span style=\"font-size: 18.6667px;\">3:30</span></p>",
+              "nameText": "3:30",
+              "isCorrect": true,
+              "_id": "6102bbcd8f0c3e27ad84944d",
+              "isMarked": false
+            },
+            {
+              "name": "<p><span style=\"font-size: 18.6667px;\">4:30</span></p>",
+              "nameText": "4:30",
+              "isCorrect": false,
+              "_id": "6102bbcd8f0c3e3e0e84944e",
+              "isMarked": false
+            },
+            {
+              "name": "<p><span style=\"font-size: 18.6667px;\">5:30</span></p>",
+              "nameText": "5:30",
+              "isCorrect": false,
+              "_id": "6102bbcd8f0c3efe0e84944f",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p style=\"margin-bottom: 15px; font-family: Verdana, Tahoma, Arial, sans-serif; line-height: 1.5; color: #666666;\"><span style=\"font-size: 14pt;\"><span class=\"lf-green\" style=\"color: #5eac1a;\"><span style=\"font-weight: 600;\">Answer:</span></span>&nbsp;Option<span class=\"jq-hdnakqb\" style=\"font-weight: 600;\">&nbsp;B</span></span></p>\n<p style=\"margin-bottom: 15px; font-family: Verdana, Tahoma, Arial, sans-serif; line-height: 1.5; color: #666666;\"><span class=\"lf-green\" style=\"color: #5eac1a; font-size: 14pt;\"><span style=\"font-weight: 600;\">Explanation:</span></span></p>\n<p style=\"margin-bottom: 15px; font-family: Verdana, Tahoma, Arial, sans-serif; line-height: 1.5; color: #666666;\"><span style=\"font-size: 14pt;\"><img style=\"border: 0px; max-width: 100%; height: auto;\" src=\"images/img_63f29de4a313.png\" alt=\"mirror-image-of-letters-and-numbers---mirror-images-problems\" /></span></p>\n<p style=\"margin-bottom: 15px; font-family: Verdana, Tahoma, Arial, sans-serif; line-height: 1.5; color: #666666;\"><span style=\"font-size: 14pt;\">It is clear from Fig. (X) that if seen through a mirror, the time indicated by clock is 8 : 30. When the mirror is placed vertically at AB, its mirror&nbsp;<em>i.e.,&nbsp;</em>Fix. (Y) shows the actual time in the clock&nbsp;<em>i.e.,</em>&nbsp;3 : 30.</span></p>",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6ab036ddb1cb296784c23ae3",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "6102aefdeedcff42b61aaa4d",
+          "name": "<p><strong><span style=\"color: #666666; font-family: Verdana, Tahoma, Arial, sans-serif; font-size: 14pt;\">By looking in a mirror, it appears that it is 6 : 30 in the clock. What is the real time?</span></strong></p>",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "By looking in a mirror, it appears that it is 6 : 30 in the clock. What is the real time?",
+          "sectionId": "6102aee681d475cb84739432",
+          "order": 3,
+          "questionSubmitOrder": 3,
+          "options": [
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">6:30</span></p>",
+              "nameText": "6:30",
+              "isCorrect": false,
+              "_id": "6102bbcd8f0c3e4f80849434",
+              "isMarked": false
+            },
+            {
+              "name": "<p><span style=\"font-size: 18.6667px;\">5:30</span></p>",
+              "nameText": "5:30",
+              "isCorrect": true,
+              "_id": "6102bbcd8f0c3eec39849435",
+              "isMarked": false
+            },
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">4:30</span></p>",
+              "nameText": "4:30",
+              "isCorrect": false,
+              "_id": "6102bbcd8f0c3e8d0e849436",
+              "isMarked": false
+            },
+            {
+              "name": "<p><span style=\"font-size: 18.6667px;\">3:30</span></p>",
+              "nameText": "3:30",
+              "isCorrect": false,
+              "_id": "6102bbcd8f0c3ef99e849437",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p style=\"margin-bottom: 15px; font-family: Verdana, Tahoma, Arial, sans-serif; line-height: 1.5; color: #666666;\"><span style=\"font-size: 14pt;\"><span class=\"lf-green\" style=\"color: #5eac1a;\"><span style=\"font-weight: 600;\">Answer:</span></span>&nbsp;Option<span class=\"jq-hdnakqb\" style=\"font-weight: 600;\">&nbsp;B</span></span></p>\n<p style=\"margin-bottom: 15px; font-family: Verdana, Tahoma, Arial, sans-serif; line-height: 1.5; color: #666666;\"><span class=\"lf-green\" style=\"color: #5eac1a; font-size: 14pt;\"><span style=\"font-weight: 600;\">Explanation:</span></span></p>\n<p style=\"margin-bottom: 15px; font-family: Verdana, Tahoma, Arial, sans-serif; line-height: 1.5; color: #666666;\"><span style=\"font-size: 14pt;\"><img style=\"border: 0px; max-width: 100%; height: auto;\" src=\"images/img_924347ee4ec0.png\" alt=\"mirror-image-of-letters-and-numbers---mirror-images-problems\" /></span></p>\n<p style=\"margin-bottom: 15px; font-family: Verdana, Tahoma, Arial, sans-serif; line-height: 1.5; color: #666666;\"><span style=\"font-size: 14pt;\">It is clear from Fig. (X) that if seen through a mirror, the time indicated by clock is 6 : 30. When the mirror is placed vertically at AB, its mirror&nbsp;<em>i.e.,&nbsp;</em>Fix. (Y) shows the actual time in the clock&nbsp;<em>i.e.,&nbsp;</em>5 : 30.</span></p>",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6ab036ddb1cb293d04c23ae4",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "6102aefdeedcffc02d1aaa52",
+          "name": "<p><strong><span style=\"color: #666666; font-family: Verdana, Tahoma, Arial, sans-serif; font-size: 14pt;\">When seen through a mirror, a watch shows 12 : 15. The correct time is</span></strong></p>",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "When seen through a mirror, a watch shows 12 : 15. The correct time is",
+          "sectionId": "6102aee681d475cb84739432",
+          "order": 4,
+          "questionSubmitOrder": 4,
+          "options": [
+            {
+              "name": "<p><span style=\"color: #666666; font-family: Verdana, Tahoma; font-size: 14pt;\">12 : 30</span></p>",
+              "nameText": "12 : 30",
+              "isCorrect": false,
+              "_id": "6102bbcd8f0c3e0536849440",
+              "isMarked": false
+            },
+            {
+              "name": "<p><span style=\"color: #666666; font-family: Verdana, Tahoma; font-size: 14pt;\">1 : 15</span></p>",
+              "nameText": "1 : 15",
+              "isCorrect": false,
+              "_id": "6102bbcd8f0c3e7320849441",
+              "isMarked": false
+            },
+            {
+              "name": "<p><span style=\"color: #666666; font-family: Verdana, Tahoma; font-size: 14pt;\">12 : 45</span></p>",
+              "nameText": "12 : 45",
+              "isCorrect": false,
+              "_id": "6102bbcd8f0c3e82c2849442",
+              "isMarked": false
+            },
+            {
+              "name": "<p><span style=\"color: #666666; font-family: Verdana, Tahoma; font-size: 14pt;\">11 : 45</span></p>",
+              "nameText": "11 : 45",
+              "isCorrect": true,
+              "_id": "6102bbcd8f0c3e4fa3849443",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p style=\"margin-bottom: 15px; font-family: Verdana, Tahoma, Arial, sans-serif; line-height: 1.5; color: #666666;\"><span style=\"font-size: 14pt;\"><span class=\"lf-green\" style=\"color: #5eac1a;\"><span style=\"font-weight: 600;\">Answer:</span></span>&nbsp;Option<span class=\"jq-hdnakqb\" style=\"font-weight: 600;\">&nbsp;D</span></span></p>\n<p style=\"margin-bottom: 15px; font-family: Verdana, Tahoma, Arial, sans-serif; line-height: 1.5; color: #666666;\"><span class=\"lf-green\" style=\"color: #5eac1a; font-size: 14pt;\"><span style=\"font-weight: 600;\">Explanation:</span></span></p>\n<p style=\"margin-bottom: 15px; font-family: Verdana, Tahoma, Arial, sans-serif; line-height: 1.5; color: #666666;\"><span style=\"font-size: 14pt;\"><img style=\"border: 0px; max-width: 100%; height: auto;\" src=\"images/img_24863e879747.png\" alt=\"mirror-image-of-letters-and-numbers---mirror-images-problems\" /></span></p>\n<p style=\"margin-bottom: 15px; font-family: Verdana, Tahoma, Arial, sans-serif; line-height: 1.5; color: #666666;\"><span style=\"font-size: 14pt;\">It is clear from Fig. (X) that if seen through a mirror, the time indicated by clock is 12 : 15. When the mirror is placed vertically at AB, its mirror&nbsp;<em>i.e.,&nbsp;</em>Fix. (Y) shows the actual time in the clock&nbsp;<em>i.e.,&nbsp;</em>11 : 45</span></p>",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6ab036ddb1cb297288c23ae5",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "6102aefdeedcffa19f1aaa57",
+          "name": "<p>&nbsp;</p>\n<table class=\"frenzy-tbl-container\" style=\"border-spacing: 0px; border-collapse: collapse; color: #666666; font-family: 'Open Sans', sans-serif; font-size: 13px;\" border=\"0\" width=\"100%\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr>\n<td class=\"frenzy-td-qtxt\" style=\"padding: 0px; font-family: Verdana, Arial, Tahoma; font-size: 14px;\" valign=\"top\">\n<p style=\"margin-bottom: 15px; font-family: Verdana, Tahoma, Arial, sans-serif; line-height: 1.5;\"><strong><span style=\"font-size: 14pt;\">Which of the answer figure is exactly the mirror image of the given figure, when mirror is placed on the line AB?</span></strong></p>\n<strong><span style=\"font-size: 14pt;\"><img style=\"border: 0px; vertical-align: middle; max-width: 100%; height: auto;\" src=\"images/img_dfb4b9d37200.png\" alt=\"based-on-vertical-mirror---mirror-images-problems\" /></span></strong></td>\n</tr>\n</tbody>\n</table>",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": " \n\n\n\n\nWhich of the answer figure is exactly the mirror image of the given figure, when mirror is placed on the line AB?\n\n\n\n",
+          "sectionId": "6102aee681d475cb84739432",
+          "order": 5,
+          "questionSubmitOrder": 5,
+          "options": [
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">1</span></p>",
+              "nameText": "1",
+              "isCorrect": true,
+              "_id": "6102bbcd8f0c3ed0da84941c",
+              "isMarked": false
+            },
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">2</span></p>",
+              "nameText": "2",
+              "isCorrect": false,
+              "_id": "6102bbcd8f0c3e1aa484941d",
+              "isMarked": false
+            },
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">3</span></p>",
+              "nameText": "3",
+              "isCorrect": false,
+              "_id": "6102bbcd8f0c3e7c5884941e",
+              "isMarked": false
+            },
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">4</span></p>",
+              "nameText": "4",
+              "isCorrect": false,
+              "_id": "6102bbcd8f0c3e4da184941f",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p style=\"margin-bottom: 15px; font-family: Verdana, Tahoma, Arial, sans-serif; line-height: 1.5; color: #666666;\"><span style=\"font-size: 14pt;\"><span class=\"lf-green\" style=\"color: #5eac1a;\"><span style=\"font-weight: 600;\">Answer:</span></span>&nbsp;Option<span class=\"jq-hdnakqb\" style=\"font-weight: 600;\">&nbsp;A</span></span></p>\n<p style=\"margin-bottom: 15px; font-family: Verdana, Tahoma, Arial, sans-serif; line-height: 1.5; color: #666666;\"><span class=\"lf-green\" style=\"color: #5eac1a; font-size: 14pt;\"><span style=\"font-weight: 600;\">Explanation:</span></span></p>\n<p style=\"margin-bottom: 15px; font-family: Verdana, Tahoma, Arial, sans-serif; line-height: 1.5; color: #666666;\"><span style=\"font-size: 14pt;\">Here, the mirror is placed vertically at AB on the RHS of the question figure. Hence, only the figure given in answer figure (1) would be obtained as the correct mirror image.</span></p>",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6ab036ddb1cb29e66dc23ae6",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "6102aefdeedcff55471aaa5c",
+          "name": "<p>&nbsp;</p>\n<table class=\"frenzy-tbl-container\" style=\"border-spacing: 0px; border-collapse: collapse; color: #666666; font-family: 'Open Sans', sans-serif; font-size: 13px;\" border=\"0\" width=\"100%\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr>\n<td class=\"frenzy-td-qtxt\" style=\"padding: 0px; font-family: Verdana, Arial, Tahoma; font-size: 14px;\" valign=\"top\">\n<p style=\"margin-bottom: 15px; font-family: Verdana, Tahoma, Arial, sans-serif; line-height: 1.5;\"><strong><span style=\"font-size: 14pt;\">Which of the answer figure is exactly the mirror image of the given figure, when mirror is placed on the line AB?</span></strong></p>\n<strong><span style=\"font-size: 14pt;\"><img style=\"border: 0px; vertical-align: middle; max-width: 100%; height: auto;\" src=\"images/img_856173649f91.png\" alt=\"based-on-vertical-mirror---mirror-images-problems\" /></span></strong></td>\n</tr>\n</tbody>\n</table>",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": " \n\n\n\n\nWhich of the answer figure is exactly the mirror image of the given figure, when mirror is placed on the line AB?\n\n\n\n",
+          "sectionId": "6102aee681d475cb84739432",
+          "order": 6,
+          "questionSubmitOrder": 6,
+          "options": [
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">1</span></p>",
+              "nameText": "1",
+              "isCorrect": false,
+              "_id": "6102bbcd8f0c3e70d184942c",
+              "isMarked": false
+            },
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">2</span></p>",
+              "nameText": "2",
+              "isCorrect": false,
+              "_id": "6102bbcd8f0c3e8cad84942d",
+              "isMarked": false
+            },
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">3</span></p>",
+              "nameText": "3",
+              "isCorrect": true,
+              "_id": "6102bbcd8f0c3e7c8584942e",
+              "isMarked": false
+            },
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">4</span></p>",
+              "nameText": "4",
+              "isCorrect": false,
+              "_id": "6102bbcd8f0c3edea284942f",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p style=\"margin-bottom: 15px; font-family: Verdana, Tahoma, Arial, sans-serif; line-height: 1.5; color: #666666;\"><span style=\"font-size: 14pt;\"><span class=\"lf-green\" style=\"color: #5eac1a;\"><span style=\"font-weight: 600;\">Answer:</span></span>&nbsp;Option<span class=\"jq-hdnakqb\" style=\"font-weight: 600;\">&nbsp;C</span></span></p>\n<p style=\"margin-bottom: 15px; font-family: Verdana, Tahoma, Arial, sans-serif; line-height: 1.5; color: #666666;\"><span class=\"lf-green\" style=\"color: #5eac1a; font-size: 14pt;\"><span style=\"font-weight: 600;\">Explanation:</span></span></p>\n<p style=\"margin-bottom: 15px; font-family: Verdana, Tahoma, Arial, sans-serif; line-height: 1.5; color: #666666;\"><span style=\"font-size: 14pt;\">Here, the mirror is placed vertically at AB on the RHS of the question figure. Hence, only the figure given in answer figure (3) would be obtained as the correct mirror image.</span></p>",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6ab036ddb1cb290ee1c23ae7",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "6102aefdeedcff23931aaa61",
+          "name": "<p style=\"margin-bottom: 15px; font-family: Verdana, Tahoma, Arial, sans-serif; line-height: 1.5; color: #666666;\"><strong><span style=\"font-size: 14pt;\">Which of the answer figure is exactly the mirror image of the given figure, when mirror is placed on the line AB?</span></strong></p>\n<p><strong><span style=\"font-size: 14pt;\"><img style=\"border: 0px; max-width: 100%; height: auto; color: #666666; font-family: Verdana, Arial, Tahoma;\" src=\"images/img_f6e25d7608c7.png\" alt=\"based-on-vertical-mirror---mirror-images-problems\" /></span></strong></p>",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "Which of the answer figure is exactly the mirror image of the given figure, when mirror is placed on the line AB?\n",
+          "sectionId": "6102aee681d475cb84739432",
+          "order": 7,
+          "questionSubmitOrder": 7,
+          "options": [
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">1</span></p>",
+              "nameText": "1",
+              "isCorrect": false,
+              "_id": "6102bbcd8f0c3edade849444",
+              "isMarked": false
+            },
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">2</span></p>",
+              "nameText": "2",
+              "isCorrect": true,
+              "_id": "6102bbcd8f0c3e16e4849445",
+              "isMarked": false
+            },
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">3</span></p>",
+              "nameText": "3",
+              "isCorrect": false,
+              "_id": "6102bbcd8f0c3ea391849446",
+              "isMarked": false
+            },
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">4</span></p>",
+              "nameText": "4",
+              "isCorrect": false,
+              "_id": "6102bbcd8f0c3e0ff4849447",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p style=\"margin-bottom: 15px; font-family: Verdana, Tahoma, Arial, sans-serif; line-height: 1.5; color: #666666;\"><span style=\"font-size: 14pt;\"><span class=\"lf-green\" style=\"color: #5eac1a;\"><span style=\"font-weight: 600;\">Answer:</span></span>&nbsp;Option<span class=\"jq-hdnakqb\" style=\"font-weight: 600;\">&nbsp;B</span></span></p>\n<p style=\"margin-bottom: 15px; font-family: Verdana, Tahoma, Arial, sans-serif; line-height: 1.5; color: #666666;\"><span class=\"lf-green\" style=\"color: #5eac1a; font-size: 14pt;\"><span style=\"font-weight: 600;\">Explanation:</span></span></p>\n<p style=\"margin-bottom: 15px; font-family: Verdana, Tahoma, Arial, sans-serif; line-height: 1.5; color: #666666;\"><span style=\"font-size: 14pt;\">Here, the mirror is placed vertically at AB on the RHS of the question figure. Hence, only the figure given in answer figure (2) would be obtained as the correct mirror image.</span></p>",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6ab036ddb1cb298227c23ae8",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "6102aefdeedcff363e1aaa66",
+          "name": "<p>&nbsp;</p>\n<table class=\"frenzy-tbl-container\" style=\"border-spacing: 0px; border-collapse: collapse; color: #666666; font-family: 'Open Sans', sans-serif; font-size: 13px;\" border=\"0\" width=\"100%\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr>\n<td class=\"frenzy-td-qtxt\" style=\"padding: 0px; font-family: Verdana, Arial, Tahoma; font-size: 14px;\" valign=\"top\">\n<p style=\"margin-bottom: 15px; font-family: Verdana, Tahoma, Arial, sans-serif; line-height: 1.5;\"><strong><span style=\"font-size: 14pt;\">Which of the answer figure is exactly the mirror image of the given figure, when mirror is placed on the line AB?</span></strong></p>\n<strong><span style=\"font-size: 14pt;\"><img style=\"border: 0px; vertical-align: middle; max-width: 100%; height: auto;\" src=\"images/img_010651093302.png\" alt=\"based-on-vertical-mirror---mirror-images-problems\" /></span></strong></td>\n</tr>\n</tbody>\n</table>",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": " \n\n\n\n\nWhich of the answer figure is exactly the mirror image of the given figure, when mirror is placed on the line AB?\n\n\n\n",
+          "sectionId": "6102aee681d475cb84739432",
+          "order": 8,
+          "questionSubmitOrder": 8,
+          "options": [
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">1</span></p>",
+              "nameText": "1",
+              "isCorrect": false,
+              "_id": "6102bbcd8f0c3ef7d6849420",
+              "isMarked": false
+            },
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">2</span></p>",
+              "nameText": "2",
+              "isCorrect": false,
+              "_id": "6102bbcd8f0c3e1cf0849421",
+              "isMarked": false
+            },
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">3</span></p>",
+              "nameText": "3",
+              "isCorrect": false,
+              "_id": "6102bbcd8f0c3e0013849422",
+              "isMarked": false
+            },
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">4</span></p>",
+              "nameText": "4",
+              "isCorrect": true,
+              "_id": "6102bbcd8f0c3ec0fa849423",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p style=\"margin-bottom: 15px; font-family: Verdana, Tahoma, Arial, sans-serif; line-height: 1.5; color: #666666;\"><span style=\"font-size: 14pt;\"><span class=\"lf-green\" style=\"color: #5eac1a;\"><span style=\"font-weight: 600;\">Answer:</span></span>&nbsp;Option<span class=\"jq-hdnakqb\" style=\"font-weight: 600;\">&nbsp;D</span></span></p>\n<p style=\"margin-bottom: 15px; font-family: Verdana, Tahoma, Arial, sans-serif; line-height: 1.5; color: #666666;\"><span class=\"lf-green\" style=\"color: #5eac1a; font-size: 14pt;\"><span style=\"font-weight: 600;\">Explanation:</span></span></p>\n<p style=\"margin-bottom: 15px; font-family: Verdana, Tahoma, Arial, sans-serif; line-height: 1.5; color: #666666;\"><span style=\"font-size: 14pt;\">Here, the mirror is placed vertically at AB on the RHS of the question figure. Hence, only the figure given in answer figure (4) would be obtained as the correct mirror image.</span></p>",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6ab036ddb1cb2937b2c23ae9",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "6102aefdeedcff19431aaa6b",
+          "name": "<p style=\"margin-bottom: 15px; font-family: Verdana, Tahoma, Arial, sans-serif; line-height: 1.5; color: #666666;\"><strong><span style=\"font-size: 14pt;\">Which of the answer figure is exactly the mirror image of the given figure, when mirror is placed on the line AB?</span></strong></p>\n<p><strong><span style=\"font-size: 14pt;\"><img style=\"border: 0px; max-width: 100%; height: auto; color: #666666; font-family: Verdana, Arial, Tahoma;\" src=\"images/img_81fa307facb5.png\" alt=\"based-on-vertical-mirror---mirror-images-problems\" /></span></strong></p>",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "Which of the answer figure is exactly the mirror image of the given figure, when mirror is placed on the line AB?\n",
+          "sectionId": "6102aee681d475cb84739432",
+          "order": 9,
+          "questionSubmitOrder": 9,
+          "options": [
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">1</span></p>",
+              "nameText": "1",
+              "isCorrect": false,
+              "_id": "6102bbcd8f0c3e754b849438",
+              "isMarked": false
+            },
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">2</span></p>",
+              "nameText": "2",
+              "isCorrect": false,
+              "_id": "6102bbcd8f0c3e7b0a849439",
+              "isMarked": false
+            },
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">3</span></p>",
+              "nameText": "3",
+              "isCorrect": true,
+              "_id": "6102bbcd8f0c3e75c484943a",
+              "isMarked": false
+            },
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">4</span></p>",
+              "nameText": "4",
+              "isCorrect": false,
+              "_id": "6102bbcd8f0c3ef35784943b",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p style=\"margin-bottom: 15px; font-family: Verdana, Tahoma, Arial, sans-serif; line-height: 1.5; color: #666666;\"><span style=\"font-size: 14pt;\"><span class=\"lf-green\" style=\"color: #5eac1a;\"><span style=\"font-weight: 600;\">Answer:</span></span>&nbsp;Option<span class=\"jq-hdnakqb\" style=\"font-weight: 600;\">&nbsp;C</span></span></p>\n<p style=\"margin-bottom: 15px; font-family: Verdana, Tahoma, Arial, sans-serif; line-height: 1.5; color: #666666;\"><span class=\"lf-green\" style=\"color: #5eac1a; font-size: 14pt;\"><span style=\"font-weight: 600;\">Explanation:</span></span></p>\n<p style=\"margin-bottom: 15px; font-family: Verdana, Tahoma, Arial, sans-serif; line-height: 1.5; color: #666666;\"><span style=\"font-size: 14pt;\">Here, the mirror is placed vertically at AB on the LHS of the question figure. Hence, only the figure given in answer figure (3) would be obtained as the correct mirror image.</span></p>",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6ab036ddb1cb29f965c23aea",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "6102aefdeedcffb8941aaa70",
+          "name": "<p><strong><span style=\"color: #050002; font-family: Verdana, Geneva, Tahoma, Arial, Helvetica, sans-serif; letter-spacing: 1px; text-align: justify; font-size: 14pt;\">Which of the answer figures is exactly the mirror image of the given question figure when the mirror is held at XY?</span></strong></p>\n<p>&nbsp;</p>\n<p><img class=\"img-responsive\" style=\"border: 0px; margin: 0px; padding: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; line-height: inherit; font-family: Verdana, Geneva, Tahoma, Arial, Helvetica, sans-serif; pointer-events: none; display: block; max-width: 100%; height: 300px; color: #050002; letter-spacing: 1px; text-align: justify;\" src=\"images/img_9b17efce4e5b.png\" alt=\"Solved mirror image questions, concept of Mirror images, general aptitude, Mirror image questin answers, Previous solved papers, clock based Mirror image, figure based Mirror image, alpha numeric Mirror image, alphabet Mirror image,number based Mirror image, mirror reflections, mirror inversion\" width=\"435\" /></p>",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "Which of the answer figures is exactly the mirror image of the given question figure when the mirror is held at XY?\n \n",
+          "sectionId": "6102aee681d475cb84739432",
+          "order": 10,
+          "questionSubmitOrder": 10,
+          "options": [
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">2</span></p>",
+              "nameText": "2",
+              "isCorrect": false,
+              "_id": "6102bbcd8f0c3e235a849450",
+              "isMarked": false
+            },
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">4</span></p>",
+              "nameText": "4",
+              "isCorrect": true,
+              "_id": "6102bbcd8f0c3e980b849451",
+              "isMarked": false
+            },
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">3</span></p>",
+              "nameText": "3",
+              "isCorrect": false,
+              "_id": "6102bbcd8f0c3ea3af849452",
+              "isMarked": false
+            },
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">1</span></p>",
+              "nameText": "1",
+              "isCorrect": false,
+              "_id": "6102bbcd8f0c3eaf2d849453",
+              "isMarked": false
+            }
+          ],
+          "solution": "<h5 class=\"text-center\" style=\"font-family: Verdana, Geneva, Tahoma, Arial, Helvetica, sans-serif; font-weight: inherit; line-height: inherit; color: #ffcc00; margin: 0px; padding: 9px 0px 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; letter-spacing: 1px; font-size: 14px !important;\"><span style=\"font-size: 14pt;\"><span style=\"margin: 0px; padding: 0px; font-style: inherit; font-variant: inherit; font-weight: bold; font-stretch: inherit; line-height: inherit; font-family: inherit; color: #00b050;\">Answer:</span>&nbsp;Option B</span></h5>\n<p>&nbsp;</p>\n<p style=\"padding-right: 10px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-weight: bold; font-stretch: inherit; line-height: inherit; font-family: Verdana, Geneva, Tahoma, Arial, Helvetica, sans-serif; text-align: justify; color: #050002; letter-spacing: 1px;\"><span style=\"margin: 0px; padding: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; line-height: inherit; font-family: inherit; color: #00b050; font-size: 14pt;\">Explanation</span></p>\n<p style=\"font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; line-height: inherit; font-family: Verdana, Geneva, Tahoma, Arial, Helvetica, sans-serif; text-align: justify; color: #050002; letter-spacing: 1px;\">&nbsp;</p>\n<p style=\"font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; line-height: inherit; font-family: Verdana, Geneva, Tahoma, Arial, Helvetica, sans-serif; color: #050002; letter-spacing: 1px;\">&nbsp;</p>\n<p style=\"font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; line-height: inherit; font-family: Verdana, Geneva, Tahoma, Arial, Helvetica, sans-serif; color: #050002; letter-spacing: 1px;\"><span style=\"font-size: 14pt;\"><img class=\"img-responsive\" style=\"border: 0px; margin: 0px; padding: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; line-height: inherit; font-family: inherit; pointer-events: none; display: block; max-width: 100%; height: 166px;\" src=\"images/img_cc56bd32ddd2.png\" alt=\"Solved mirror image questions, concept of Mirror images, general aptitude, Mirror image questin answers, Previous solved papers, clock based Mirror image, figure based Mirror image, alpha numeric Mirror image, alphabet Mirror image,number based Mirror image, mirror reflections, mirror inversion\" width=\"341\" /></span></p>\n<p style=\"font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; line-height: inherit; font-family: Verdana, Geneva, Tahoma, Arial, Helvetica, sans-serif; text-align: justify; color: #050002; letter-spacing: 1px;\">&nbsp;</p>\n<p style=\"font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; line-height: inherit; font-family: Verdana, Geneva, Tahoma, Arial, Helvetica, sans-serif; text-align: justify; color: #050002; letter-spacing: 1px;\"><span style=\"font-size: 14pt;\">In the mirror image,</span><br /><span style=\"font-size: 14pt;\">&bull; The right side of the object becomes the left side</span><br /><span style=\"font-size: 14pt;\">&bull; The left side of the object becomes the right side</span><br /><span style=\"font-size: 14pt;\">&bull; The top and bottom sides of the object remain unchanged</span></p>",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6ab036ddb1cb29d39cc23aeb",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "6102aefdeedcff06191aaa75",
+          "name": "<p style=\"margin-bottom: 15px; font-family: Verdana, Tahoma, Arial, sans-serif; line-height: 1.5; color: #666666;\"><strong><span style=\"font-size: 14pt;\">Choose the alternative which is closely resembles the mirror image of the given combination.</span></strong></p>\n<p><strong><span style=\"font-size: 14pt;\"><img style=\"border: 0px; max-width: 100%; height: 157px; color: #666666; font-family: Verdana, Arial, Tahoma;\" src=\"images/img_239aad1f2c3d.png\" alt=\"mirror-image-of-letters-and-numbers---mirror-images-problems\" width=\"509\" /></span></strong></p>",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "Choose the alternative which is closely resembles the mirror image of the given combination.\n",
+          "sectionId": "6102aee681d475cb84739432",
+          "order": 11,
+          "questionSubmitOrder": 11,
+          "options": [
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">1</span></p>",
+              "nameText": "1",
+              "isCorrect": false,
+              "_id": "6102bbcd8f0c3e6f35849430",
+              "isMarked": false
+            },
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">2</span></p>",
+              "nameText": "2",
+              "isCorrect": false,
+              "_id": "6102bbcd8f0c3e571b849431",
+              "isMarked": false
+            },
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">3</span></p>",
+              "nameText": "3",
+              "isCorrect": true,
+              "_id": "6102bbcd8f0c3eda0a849432",
+              "isMarked": false
+            },
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">4</span></p>",
+              "nameText": "4",
+              "isCorrect": false,
+              "_id": "6102bbcd8f0c3e8761849433",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p style=\"margin-bottom: 15px; font-family: Verdana, Tahoma, Arial, sans-serif; line-height: 1.5; color: #666666;\"><span style=\"font-size: 14pt;\"><span class=\"lf-green\" style=\"color: #5eac1a;\"><span style=\"font-weight: 600;\">Answer:</span></span>&nbsp;Option<span class=\"jq-hdnakqb\" style=\"font-weight: 600;\">&nbsp;C</span></span></p>\n<p style=\"margin-bottom: 15px; font-family: Verdana, Tahoma, Arial, sans-serif; line-height: 1.5; color: #666666;\"><span class=\"lf-green\" style=\"color: #5eac1a; font-size: 14pt;\"><span style=\"font-weight: 600;\">Explanation:</span></span></p>\n<p style=\"margin-bottom: 15px; font-family: Verdana, Tahoma, Arial, sans-serif; line-height: 1.5; color: #666666;\"><span style=\"font-size: 14pt;\">The correct mirror image will be (3).</span></p>",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6ab036ddb1cb2967bec23aec",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "6102aefdeedcff95251aaa7a",
+          "name": "<p style=\"margin-bottom: 15px; font-family: Verdana, Tahoma, Arial, sans-serif; line-height: 1.5; color: #666666;\"><strong><span style=\"font-size: 14pt;\">Choose the alternative which is closely resembles the mirror image of the given combination.</span></strong></p>\n<p><strong><span style=\"font-size: 14pt;\"><img style=\"border: 0px; max-width: 100%; height: 140px; color: #666666; font-family: Verdana, Arial, Tahoma;\" src=\"images/img_d4cd53c49924.png\" alt=\"mirror-image-of-letters-and-numbers---mirror-images-problems\" width=\"478\" /></span></strong></p>",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "Choose the alternative which is closely resembles the mirror image of the given combination.\n",
+          "sectionId": "6102aee681d475cb84739432",
+          "order": 12,
+          "questionSubmitOrder": 12,
+          "options": [
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">1</span></p>",
+              "nameText": "1",
+              "isCorrect": true,
+              "_id": "6102bbcd8f0c3eec8d849448",
+              "isMarked": false
+            },
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">2</span></p>",
+              "nameText": "2",
+              "isCorrect": false,
+              "_id": "6102bbcd8f0c3e7761849449",
+              "isMarked": false
+            },
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">3</span></p>",
+              "nameText": "3",
+              "isCorrect": false,
+              "_id": "6102bbcd8f0c3e580984944a",
+              "isMarked": false
+            },
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">4</span></p>",
+              "nameText": "4",
+              "isCorrect": false,
+              "_id": "6102bbcd8f0c3e39cd84944b",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p style=\"margin-bottom: 15px; font-family: Verdana, Tahoma, Arial, sans-serif; line-height: 1.5; color: #666666;\"><span style=\"font-size: 14pt;\"><span class=\"lf-green\" style=\"color: #5eac1a;\"><span style=\"font-weight: 600;\">Answer:</span></span>&nbsp;Option<span class=\"jq-hdnakqb\" style=\"font-weight: 600;\">&nbsp;A</span></span></p>\n<p style=\"margin-bottom: 15px; font-family: Verdana, Tahoma, Arial, sans-serif; line-height: 1.5; color: #666666;\"><span class=\"lf-green\" style=\"color: #5eac1a; font-size: 14pt;\"><span style=\"font-weight: 600;\">Explanation:</span></span></p>\n<p style=\"margin-bottom: 15px; font-family: Verdana, Tahoma, Arial, sans-serif; line-height: 1.5; color: #666666;\"><span style=\"font-size: 14pt;\">The correct mirror image will be (1).</span></p>",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6ab036ddb1cb290e2dc23aed",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "6102aefdeedcff7c201aaa7f",
+          "name": "<p style=\"margin-bottom: 15px; font-family: Verdana, Tahoma, Arial, sans-serif; line-height: 1.5; color: #666666;\"><strong><span style=\"font-size: 14pt;\">Choose the alternative which is closely resembles the mirror image of the given combination.</span></strong></p>\n<p><strong><span style=\"font-size: 14pt;\"><img style=\"border: 0px; max-width: 100%; height: 132px; color: #666666; font-family: Verdana, Arial, Tahoma;\" src=\"images/img_c52518d19369.png\" alt=\"mirror-image-of-letters-and-numbers---mirror-images-problems\" width=\"566\" /></span></strong></p>",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "Choose the alternative which is closely resembles the mirror image of the given combination.\n",
+          "sectionId": "6102aee681d475cb84739432",
+          "order": 13,
+          "questionSubmitOrder": 13,
+          "options": [
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">1</span></p>",
+              "nameText": "1",
+              "isCorrect": false,
+              "_id": "6102bbcd8f0c3e67f2849424",
+              "isMarked": false
+            },
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">2</span></p>",
+              "nameText": "2",
+              "isCorrect": false,
+              "_id": "6102bbcd8f0c3ef806849425",
+              "isMarked": false
+            },
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">3</span></p>",
+              "nameText": "3",
+              "isCorrect": false,
+              "_id": "6102bbcd8f0c3e2935849426",
+              "isMarked": false
+            },
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">4</span></p>",
+              "nameText": "4",
+              "isCorrect": true,
+              "_id": "6102bbcd8f0c3e8388849427",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p><span style=\"font-size: 14pt;\"><span class=\"lf-green\" style=\"font-family: Verdana, Tahoma, Arial, sans-serif; color: #5eac1a;\"><span style=\"font-weight: 600;\">Answer:</span></span><span style=\"color: #666666; font-family: Verdana, Tahoma, Arial, sans-serif;\">&nbsp;</span><span style=\"color: #666666; font-family: Verdana, Tahoma, Arial, sans-serif;\">Option</span><span class=\"jq-hdnakqb\" style=\"color: #666666; font-family: Verdana, Tahoma, Arial, sans-serif; font-weight: 600;\">&nbsp;D</span></span></p>\n<p style=\"margin-bottom: 15px; font-family: Verdana, Tahoma, Arial, sans-serif; line-height: 1.5; color: #666666;\"><span class=\"lf-green\" style=\"color: #5eac1a; font-size: 14pt;\"><span style=\"font-weight: 600;\">Explanation:</span></span></p>\n<p style=\"margin-bottom: 15px; font-family: Verdana, Tahoma, Arial, sans-serif; line-height: 1.5; color: #666666;\"><span style=\"font-size: 14pt;\">The correct mirror image will be (4).</span></p>",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6ab036ddb1cb29c7f0c23aee",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "6102aefdeedcff49211aaa84",
+          "name": "<p style=\"margin-bottom: 15px; font-family: Verdana, Tahoma, Arial, sans-serif; line-height: 1.5; color: #666666;\"><strong><span style=\"font-size: 14pt;\">Choose the alternative which is closely resembles the mirror image of the given combination.</span></strong></p>\n<p><strong><span style=\"font-size: 14pt;\"><img style=\"border: 0px; max-width: 100%; height: 117px; color: #666666; font-family: Verdana, Arial, Tahoma;\" src=\"images/img_d974307bd16a.png\" alt=\"mirror-image-of-letters-and-numbers---mirror-images-problems\" width=\"532\" /></span></strong></p>",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "Choose the alternative which is closely resembles the mirror image of the given combination.\n",
+          "sectionId": "6102aee681d475cb84739432",
+          "order": 14,
+          "questionSubmitOrder": 14,
+          "options": [
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">1</span></p>",
+              "nameText": "1",
+              "isCorrect": false,
+              "_id": "6102bbcd8f0c3e3c4f84943c",
+              "isMarked": false
+            },
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">2</span></p>",
+              "nameText": "2",
+              "isCorrect": false,
+              "_id": "6102bbcd8f0c3e3a7b84943d",
+              "isMarked": false
+            },
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">3</span></p>",
+              "nameText": "3",
+              "isCorrect": false,
+              "_id": "6102bbcd8f0c3e0f4184943e",
+              "isMarked": false
+            },
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">4</span></p>",
+              "nameText": "4",
+              "isCorrect": true,
+              "_id": "6102bbcd8f0c3ed8a284943f",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p style=\"margin-bottom: 15px; font-family: Verdana, Tahoma, Arial, sans-serif; line-height: 1.5; color: #666666;\"><span style=\"font-size: 14pt;\"><span class=\"lf-green\" style=\"color: #5eac1a;\"><span style=\"font-weight: 600;\">Answer:</span></span>&nbsp;Option<span class=\"jq-hdnakqb\" style=\"font-weight: 600;\">&nbsp;D</span></span></p>\n<p style=\"margin-bottom: 15px; font-family: Verdana, Tahoma, Arial, sans-serif; line-height: 1.5; color: #666666;\"><span class=\"lf-green\" style=\"color: #5eac1a; font-size: 14pt;\"><span style=\"font-weight: 600;\">Explanation:</span></span></p>\n<p style=\"margin-bottom: 15px; font-family: Verdana, Tahoma, Arial, sans-serif; line-height: 1.5; color: #666666;\"><span style=\"font-size: 14pt;\">The correct mirror image will be (4).</span></p>",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6ab036ddb1cb29146cc23aef",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "6102aefdeedcff615a1aaa89",
+          "name": "<p><strong><span style=\"font-size: 14pt;\"><span style=\"color: #666666; font-family: Verdana, Tahoma, Arial, sans-serif;\">Choose the alternative which is closely resembles the mirror image of the given combination.</span></span></strong></p>\n<p><strong><span style=\"font-size: 14pt;\"><img style=\"border: 0px; vertical-align: middle; max-width: 100%; height: 123px; color: #666666; font-family: Verdana, Arial, Tahoma;\" src=\"images/img_ce46b67dd1ed.png\" alt=\"mirror-image-of-letters-and-numbers---mirror-images-problems\" width=\"429\" /></span></strong></p>",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "Choose the alternative which is closely resembles the mirror image of the given combination.\n",
+          "sectionId": "6102aee681d475cb84739432",
+          "order": 15,
+          "questionSubmitOrder": 15,
+          "options": [
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">1</span></p>",
+              "nameText": "1",
+              "isCorrect": false,
+              "_id": "6102bbcd8f0c3ee7e5849454",
+              "isMarked": false
+            },
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">2</span></p>",
+              "nameText": "2",
+              "isCorrect": true,
+              "_id": "6102bbcd8f0c3ece82849455",
+              "isMarked": false
+            },
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">3</span></p>",
+              "nameText": "3",
+              "isCorrect": false,
+              "_id": "6102bbcd8f0c3e9836849456",
+              "isMarked": false
+            },
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">4</span></p>",
+              "nameText": "4",
+              "isCorrect": false,
+              "_id": "6102bbcd8f0c3e56a6849457",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p style=\"margin-bottom: 15px; font-family: Verdana, Tahoma, Arial, sans-serif; line-height: 1.5; color: #666666;\"><span style=\"font-size: 14pt;\"><span class=\"lf-green\" style=\"color: #5eac1a;\"><span style=\"font-weight: 600;\">Answer:</span></span>&nbsp;Option<span class=\"jq-hdnakqb\" style=\"font-weight: 600;\">&nbsp;B</span></span></p>\n<p style=\"margin-bottom: 15px; font-family: Verdana, Tahoma, Arial, sans-serif; line-height: 1.5; color: #666666;\"><span class=\"lf-green\" style=\"color: #5eac1a; font-size: 14pt;\"><span style=\"font-weight: 600;\">Explanation:</span></span></p>\n<p style=\"margin-bottom: 15px; font-family: Verdana, Tahoma, Arial, sans-serif; line-height: 1.5; color: #666666;\"><span style=\"font-size: 14pt;\">The correct mirror image will be (2).</span></p>",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6ab036ddb1cb290bd0c23af0",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        }
+      ],
+      "numberOfQuestions": 15
+    }
+  ],
+  "userDetails": {
+    "name": "HackWithInfyPrep",
+    "userId": 192606116,
+    "orgId": 44032
+  },
+  "sts": 1789933278231,
+  "region": {
+    "timeFormat": "hh:mm a",
+    "dateTimeStamp": "yyyy/MM/dd"
+  }
+}

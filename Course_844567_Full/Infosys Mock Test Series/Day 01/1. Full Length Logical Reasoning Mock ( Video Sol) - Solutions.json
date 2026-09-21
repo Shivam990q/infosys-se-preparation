@@ -1,0 +1,3662 @@
+{
+  "66235c76713397187516f586": {
+    "correctOption": "1",
+    "multiCorrectOptions": null,
+    "range": {
+      "start": "",
+      "end": ""
+    },
+    "negMarks": 0,
+    "posMarks": 1,
+    "skipMarks": 0,
+    "partialM": {
+      "type": "",
+      "marks": 0
+    },
+    "isPartialMarking": false,
+    "sol": {
+      "en": {
+        "value": "<p>Ans - A</p>\n<p></p>\n<p><iframe title=\"All India Logical Reasoning 2024 Q8\" src=\"//www.youtube.com/embed/frh-jmOvnAw\" width=\"780\" height=\"439\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+        "type": "cp",
+        "videoSol": ""
+      },
+      "hn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "te": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mr": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ml": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "gu": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ta": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "or": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "as": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ks": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kok": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mni": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ne": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "pa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sd": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ur": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sat": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mai": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "brx": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "doi": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "grt": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kha": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "lus": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bo": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "trp": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      }
+    },
+    "tags": null,
+    "globalConcept": null,
+    "stats": {
+      "totalStudents": 3494,
+      "bestTime": 0,
+      "averageTime": 89.20549513451647,
+      "attempts": {
+        "correct": 1955,
+        "incorrect": 1071,
+        "partial": 0,
+        "skipped": 468,
+        "skipOptionSelected": 0
+      },
+      "sectionNo": 0,
+      "subSectionNo": 0
+    },
+    "votes": 0,
+    "SSNo": 1,
+    "SSSNo": 0,
+    "marksObtained": 0,
+    "studentResStatus": "",
+    "studentResponse": {
+      "time": 0,
+      "visits": null
+    }
+  },
+  "66235c767133971ac216f563": {
+    "correctOption": "1",
+    "multiCorrectOptions": null,
+    "range": {
+      "start": "",
+      "end": ""
+    },
+    "negMarks": 0,
+    "posMarks": 1,
+    "skipMarks": 0,
+    "partialM": {
+      "type": "",
+      "marks": 0
+    },
+    "isPartialMarking": false,
+    "sol": {
+      "en": {
+        "value": "<p>Ans - A</p>\n<p></p>\n<p><iframe title=\"All India Logical Reasoning 2024 Q2\" src=\"//www.youtube.com/embed/bp5XF26v9_A\" width=\"780\" height=\"439\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+        "type": "cp",
+        "videoSol": ""
+      },
+      "hn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "te": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mr": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ml": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "gu": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ta": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "or": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "as": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ks": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kok": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mni": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ne": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "pa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sd": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ur": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sat": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mai": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "brx": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "doi": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "grt": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kha": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "lus": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bo": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "trp": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      }
+    },
+    "tags": null,
+    "globalConcept": null,
+    "stats": {
+      "totalStudents": 3494,
+      "bestTime": 0,
+      "averageTime": 82.5621064682312,
+      "attempts": {
+        "correct": 1588,
+        "incorrect": 1691,
+        "partial": 0,
+        "skipped": 215,
+        "skipOptionSelected": 0
+      },
+      "sectionNo": 0,
+      "subSectionNo": 0
+    },
+    "votes": 0,
+    "SSNo": 1,
+    "SSSNo": 0,
+    "marksObtained": 0,
+    "studentResStatus": "",
+    "studentResponse": {
+      "time": 0,
+      "visits": null
+    }
+  },
+  "66235c76713397229116f590": {
+    "correctOption": "2",
+    "multiCorrectOptions": null,
+    "range": {
+      "start": "",
+      "end": ""
+    },
+    "negMarks": 0,
+    "posMarks": 1,
+    "skipMarks": 0,
+    "partialM": {
+      "type": "",
+      "marks": 0
+    },
+    "isPartialMarking": false,
+    "sol": {
+      "en": {
+        "value": "<p>Ans - B</p>\n<p></p>\n<p><iframe title=\"All India Logical Reasoning 2024 Q10\" src=\"//www.youtube.com/embed/izolyj4er84\" width=\"780\" height=\"439\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+        "type": "cp",
+        "videoSol": ""
+      },
+      "hn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "te": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mr": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ml": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "gu": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ta": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "or": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "as": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ks": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kok": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mni": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ne": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "pa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sd": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ur": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sat": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mai": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "brx": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "doi": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "grt": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kha": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "lus": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bo": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "trp": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      }
+    },
+    "tags": null,
+    "globalConcept": null,
+    "stats": {
+      "totalStudents": 3494,
+      "bestTime": 0,
+      "averageTime": 58.94218660560961,
+      "attempts": {
+        "correct": 2283,
+        "incorrect": 804,
+        "partial": 0,
+        "skipped": 407,
+        "skipOptionSelected": 0
+      },
+      "sectionNo": 0,
+      "subSectionNo": 0
+    },
+    "votes": 0,
+    "SSNo": 1,
+    "SSSNo": 0,
+    "marksObtained": 0,
+    "studentResStatus": "",
+    "studentResponse": {
+      "time": 0,
+      "visits": null
+    }
+  },
+  "66235c7671339728fd16f572": {
+    "correctOption": "4",
+    "multiCorrectOptions": null,
+    "range": {
+      "start": "",
+      "end": ""
+    },
+    "negMarks": 0,
+    "posMarks": 1,
+    "skipMarks": 0,
+    "partialM": {
+      "type": "",
+      "marks": 0
+    },
+    "isPartialMarking": false,
+    "sol": {
+      "en": {
+        "value": "<p>Ans - D</p>\n<p></p>\n<p><iframe title=\"All India Logical Reasoning 2024 Q5 &amp; Q6\" src=\"//www.youtube.com/embed/i2AHEPjY31E\" width=\"780\" height=\"439\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+        "type": "cp",
+        "videoSol": ""
+      },
+      "hn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "te": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mr": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ml": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "gu": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ta": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "or": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "as": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ks": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kok": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mni": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ne": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "pa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sd": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ur": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sat": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mai": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "brx": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "doi": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "grt": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kha": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "lus": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bo": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "trp": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      }
+    },
+    "tags": null,
+    "globalConcept": null,
+    "stats": {
+      "totalStudents": 3494,
+      "bestTime": 0,
+      "averageTime": 123.14854035489408,
+      "attempts": {
+        "correct": 2744,
+        "incorrect": 443,
+        "partial": 0,
+        "skipped": 307,
+        "skipOptionSelected": 0
+      },
+      "sectionNo": 0,
+      "subSectionNo": 0
+    },
+    "votes": 0,
+    "SSNo": 1,
+    "SSSNo": 0,
+    "marksObtained": 0,
+    "studentResStatus": "",
+    "studentResponse": {
+      "time": 0,
+      "visits": null
+    }
+  },
+  "66235c767133972d8c16f57c": {
+    "correctOption": "4",
+    "multiCorrectOptions": null,
+    "range": {
+      "start": "",
+      "end": ""
+    },
+    "negMarks": 0,
+    "posMarks": 1,
+    "skipMarks": 0,
+    "partialM": {
+      "type": "",
+      "marks": 0
+    },
+    "isPartialMarking": false,
+    "sol": {
+      "en": {
+        "value": "<p>Ans - D</p>\n<p></p>\n<p><iframe title=\"All India Logical Reasoning 2024 Q7\" src=\"//www.youtube.com/embed/EBBoqFqS2W0\" width=\"780\" height=\"439\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+        "type": "cp",
+        "videoSol": ""
+      },
+      "hn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "te": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mr": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ml": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "gu": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ta": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "or": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "as": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ks": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kok": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mni": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ne": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "pa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sd": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ur": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sat": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mai": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "brx": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "doi": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "grt": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kha": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "lus": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bo": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "trp": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      }
+    },
+    "tags": null,
+    "globalConcept": null,
+    "stats": {
+      "totalStudents": 3494,
+      "bestTime": 0,
+      "averageTime": 84.90841442472818,
+      "attempts": {
+        "correct": 1054,
+        "incorrect": 1368,
+        "partial": 0,
+        "skipped": 1072,
+        "skipOptionSelected": 0
+      },
+      "sectionNo": 0,
+      "subSectionNo": 0
+    },
+    "votes": 0,
+    "SSNo": 1,
+    "SSSNo": 0,
+    "marksObtained": 0,
+    "studentResStatus": "",
+    "studentResponse": {
+      "time": 0,
+      "visits": null
+    }
+  },
+  "66235c7671339743da16f59a": {
+    "correctOption": "4",
+    "multiCorrectOptions": null,
+    "range": {
+      "start": "",
+      "end": ""
+    },
+    "negMarks": 0,
+    "posMarks": 1,
+    "skipMarks": 0,
+    "partialM": {
+      "type": "",
+      "marks": 0
+    },
+    "isPartialMarking": false,
+    "sol": {
+      "en": {
+        "value": "<p>Ans - D</p>\n<p></p>\n<p><iframe title=\"All India Logical Reasoning 2024 Q12\" src=\"//www.youtube.com/embed/F4qCPvGTx20\" width=\"780\" height=\"439\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+        "type": "cp",
+        "videoSol": ""
+      },
+      "hn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "te": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mr": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ml": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "gu": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ta": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "or": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "as": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ks": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kok": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mni": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ne": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "pa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sd": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ur": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sat": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mai": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "brx": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "doi": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "grt": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kha": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "lus": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bo": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "trp": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      }
+    },
+    "tags": null,
+    "globalConcept": null,
+    "stats": {
+      "totalStudents": 3494,
+      "bestTime": 0,
+      "averageTime": 35.04808242701775,
+      "attempts": {
+        "correct": 2509,
+        "incorrect": 685,
+        "partial": 0,
+        "skipped": 300,
+        "skipOptionSelected": 0
+      },
+      "sectionNo": 0,
+      "subSectionNo": 0
+    },
+    "votes": 0,
+    "SSNo": 1,
+    "SSSNo": 0,
+    "marksObtained": 0,
+    "studentResStatus": "",
+    "studentResponse": {
+      "time": 0,
+      "visits": null
+    }
+  },
+  "66235c7671339751a716f568": {
+    "correctOption": "5",
+    "multiCorrectOptions": null,
+    "range": {
+      "start": "",
+      "end": ""
+    },
+    "negMarks": 0,
+    "posMarks": 1,
+    "skipMarks": 0,
+    "partialM": {
+      "type": "",
+      "marks": 0
+    },
+    "isPartialMarking": false,
+    "sol": {
+      "en": {
+        "value": "<p>Ans - E</p>\n<p></p>\n<p><iframe title=\"All India Logical Reasoning 2024 Q3\" src=\"//www.youtube.com/embed/CzWcjP00KW0\" width=\"780\" height=\"439\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+        "type": "cp",
+        "videoSol": ""
+      },
+      "hn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "te": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mr": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ml": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "gu": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ta": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "or": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "as": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ks": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kok": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mni": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ne": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "pa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sd": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ur": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sat": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mai": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "brx": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "doi": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "grt": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kha": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "lus": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bo": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "trp": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      }
+    },
+    "tags": null,
+    "globalConcept": null,
+    "stats": {
+      "totalStudents": 3494,
+      "bestTime": 0,
+      "averageTime": 117.38408700629647,
+      "attempts": {
+        "correct": 888,
+        "incorrect": 2161,
+        "partial": 0,
+        "skipped": 445,
+        "skipOptionSelected": 0
+      },
+      "sectionNo": 0,
+      "subSectionNo": 0
+    },
+    "votes": 0,
+    "SSNo": 1,
+    "SSSNo": 0,
+    "marksObtained": 0,
+    "studentResStatus": "",
+    "studentResponse": {
+      "time": 0,
+      "visits": null
+    }
+  },
+  "66235c7671339755a316f577": {
+    "correctOption": "4",
+    "multiCorrectOptions": null,
+    "range": {
+      "start": "",
+      "end": ""
+    },
+    "negMarks": 0,
+    "posMarks": 1,
+    "skipMarks": 0,
+    "partialM": {
+      "type": "",
+      "marks": 0
+    },
+    "isPartialMarking": false,
+    "sol": {
+      "en": {
+        "value": "<p>Ans - D</p>\n<p></p>\n<p><iframe title=\"All India Logical Reasoning 2024 Q5 &amp; Q6\" src=\"//www.youtube.com/embed/i2AHEPjY31E\" width=\"780\" height=\"439\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+        "type": "cp",
+        "videoSol": ""
+      },
+      "hn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "te": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mr": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ml": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "gu": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ta": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "or": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "as": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ks": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kok": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mni": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ne": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "pa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sd": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ur": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sat": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mai": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "brx": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "doi": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "grt": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kha": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "lus": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bo": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "trp": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      }
+    },
+    "tags": null,
+    "globalConcept": null,
+    "stats": {
+      "totalStudents": 3494,
+      "bestTime": 0,
+      "averageTime": 47.48855180309101,
+      "attempts": {
+        "correct": 1486,
+        "incorrect": 1670,
+        "partial": 0,
+        "skipped": 338,
+        "skipOptionSelected": 0
+      },
+      "sectionNo": 0,
+      "subSectionNo": 0
+    },
+    "votes": 0,
+    "SSNo": 1,
+    "SSSNo": 0,
+    "marksObtained": 0,
+    "studentResStatus": "",
+    "studentResponse": {
+      "time": 0,
+      "visits": null
+    }
+  },
+  "66235c767133975ef416f58b": {
+    "correctOption": "2",
+    "multiCorrectOptions": null,
+    "range": {
+      "start": "",
+      "end": ""
+    },
+    "negMarks": 0,
+    "posMarks": 1,
+    "skipMarks": 0,
+    "partialM": {
+      "type": "",
+      "marks": 0
+    },
+    "isPartialMarking": false,
+    "sol": {
+      "en": {
+        "value": "<p>Ans -&nbsp; B</p>\n<p></p>\n<p><iframe title=\"All India Logical Reasoning 2024 Q9\" src=\"//www.youtube.com/embed/ZO5EjLBCobY\" width=\"780\" height=\"439\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+        "type": "cp",
+        "videoSol": ""
+      },
+      "hn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "te": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mr": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ml": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "gu": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ta": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "or": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "as": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ks": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kok": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mni": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ne": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "pa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sd": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ur": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sat": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mai": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "brx": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "doi": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "grt": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kha": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "lus": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bo": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "trp": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      }
+    },
+    "tags": null,
+    "globalConcept": null,
+    "stats": {
+      "totalStudents": 3494,
+      "bestTime": 0,
+      "averageTime": 73.23297080709777,
+      "attempts": {
+        "correct": 1673,
+        "incorrect": 1537,
+        "partial": 0,
+        "skipped": 284,
+        "skipOptionSelected": 0
+      },
+      "sectionNo": 0,
+      "subSectionNo": 0
+    },
+    "votes": 0,
+    "SSNo": 1,
+    "SSSNo": 0,
+    "marksObtained": 0,
+    "studentResStatus": "",
+    "studentResponse": {
+      "time": 0,
+      "visits": null
+    }
+  },
+  "66235c76713397bbbc16f55e": {
+    "correctOption": "4",
+    "multiCorrectOptions": null,
+    "range": {
+      "start": "",
+      "end": ""
+    },
+    "negMarks": 0,
+    "posMarks": 1,
+    "skipMarks": 0,
+    "partialM": {
+      "type": "",
+      "marks": 0
+    },
+    "isPartialMarking": false,
+    "sol": {
+      "en": {
+        "value": "<p>Ans - D</p>\n<p></p>\n<p><iframe title=\"All India Logical Reasoning 2024 Q1\" src=\"//www.youtube.com/embed/BQSBHRsI8c8\" width=\"780\" height=\"439\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+        "type": "cp",
+        "videoSol": ""
+      },
+      "hn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "te": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mr": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ml": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "gu": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ta": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "or": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "as": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ks": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kok": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mni": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ne": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "pa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sd": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ur": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sat": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mai": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "brx": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "doi": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "grt": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kha": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "lus": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bo": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "trp": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      }
+    },
+    "tags": null,
+    "globalConcept": null,
+    "stats": {
+      "totalStudents": 3494,
+      "bestTime": 0,
+      "averageTime": 94.07126502575845,
+      "attempts": {
+        "correct": 2153,
+        "incorrect": 1205,
+        "partial": 0,
+        "skipped": 136,
+        "skipOptionSelected": 0
+      },
+      "sectionNo": 0,
+      "subSectionNo": 0
+    },
+    "votes": 0,
+    "SSNo": 1,
+    "SSSNo": 0,
+    "marksObtained": 0,
+    "studentResStatus": "",
+    "studentResponse": {
+      "time": 0,
+      "visits": null
+    }
+  },
+  "66235c76713397c72616f59f": {
+    "correctOption": "3",
+    "multiCorrectOptions": null,
+    "range": {
+      "start": "",
+      "end": ""
+    },
+    "negMarks": 0,
+    "posMarks": 1,
+    "skipMarks": 0,
+    "partialM": {
+      "type": "",
+      "marks": 0
+    },
+    "isPartialMarking": false,
+    "sol": {
+      "en": {
+        "value": "<p>Ans - C</p>\n<p></p>\n<p><iframe title=\"All India Logical Reasoning 2024 Q13\" src=\"//www.youtube.com/embed/Hkf82wxE7yQ\" width=\"780\" height=\"439\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+        "type": "cp",
+        "videoSol": ""
+      },
+      "hn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "te": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mr": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ml": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "gu": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ta": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "or": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "as": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ks": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kok": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mni": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ne": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "pa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sd": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ur": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sat": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mai": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "brx": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "doi": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "grt": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kha": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "lus": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bo": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "trp": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      }
+    },
+    "tags": null,
+    "globalConcept": null,
+    "stats": {
+      "totalStudents": 3494,
+      "bestTime": 0,
+      "averageTime": 45.21493989696618,
+      "attempts": {
+        "correct": 1300,
+        "incorrect": 1395,
+        "partial": 0,
+        "skipped": 799,
+        "skipOptionSelected": 0
+      },
+      "sectionNo": 0,
+      "subSectionNo": 0
+    },
+    "votes": 0,
+    "SSNo": 1,
+    "SSSNo": 0,
+    "marksObtained": 0,
+    "studentResStatus": "",
+    "studentResponse": {
+      "time": 0,
+      "visits": null
+    }
+  },
+  "66235c76713397ea3716f56d": {
+    "correctOption": "4",
+    "multiCorrectOptions": null,
+    "range": {
+      "start": "",
+      "end": ""
+    },
+    "negMarks": 0,
+    "posMarks": 1,
+    "skipMarks": 0,
+    "partialM": {
+      "type": "",
+      "marks": 0
+    },
+    "isPartialMarking": false,
+    "sol": {
+      "en": {
+        "value": "<p>Ans - D</p>\n<p></p>\n<p><iframe title=\"All India Logical Reasoning 2024 Q4\" src=\"//www.youtube.com/embed/LiEb4uTB59w\" width=\"780\" height=\"439\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+        "type": "cp",
+        "videoSol": ""
+      },
+      "hn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "te": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mr": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ml": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "gu": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ta": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "or": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "as": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ks": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kok": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mni": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ne": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "pa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sd": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ur": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sat": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mai": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "brx": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "doi": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "grt": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kha": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "lus": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bo": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "trp": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      }
+    },
+    "tags": null,
+    "globalConcept": null,
+    "stats": {
+      "totalStudents": 3494,
+      "bestTime": 0,
+      "averageTime": 97.49971379507701,
+      "attempts": {
+        "correct": 2697,
+        "incorrect": 570,
+        "partial": 0,
+        "skipped": 227,
+        "skipOptionSelected": 0
+      },
+      "sectionNo": 0,
+      "subSectionNo": 0
+    },
+    "votes": 0,
+    "SSNo": 1,
+    "SSSNo": 0,
+    "marksObtained": 0,
+    "studentResStatus": "",
+    "studentResponse": {
+      "time": 0,
+      "visits": null
+    }
+  },
+  "66235c76713397fabd16f595": {
+    "correctOption": "3",
+    "multiCorrectOptions": null,
+    "range": {
+      "start": "",
+      "end": ""
+    },
+    "negMarks": 0,
+    "posMarks": 1,
+    "skipMarks": 0,
+    "partialM": {
+      "type": "",
+      "marks": 0
+    },
+    "isPartialMarking": false,
+    "sol": {
+      "en": {
+        "value": "<p>Ans - C</p>\n<p></p>\n<p><iframe title=\"All India Logical Reasoning 2024 Q11\" src=\"//www.youtube.com/embed/nyG7_YJ0iIY\" width=\"780\" height=\"439\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+        "type": "cp",
+        "videoSol": ""
+      },
+      "hn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "te": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mr": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ml": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "gu": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ta": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "or": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "as": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ks": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kok": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mni": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ne": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "pa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sd": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ur": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sat": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mai": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "brx": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "doi": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "grt": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kha": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "lus": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bo": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "trp": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      }
+    },
+    "tags": null,
+    "globalConcept": null,
+    "stats": {
+      "totalStudents": 3494,
+      "bestTime": 0,
+      "averageTime": 38.38122495706928,
+      "attempts": {
+        "correct": 989,
+        "incorrect": 2129,
+        "partial": 0,
+        "skipped": 376,
+        "skipOptionSelected": 0
+      },
+      "sectionNo": 0,
+      "subSectionNo": 0
+    },
+    "votes": 0,
+    "SSNo": 1,
+    "SSSNo": 0,
+    "marksObtained": 0,
+    "studentResStatus": "",
+    "studentResponse": {
+      "time": 0,
+      "visits": null
+    }
+  },
+  "66238648e58d2b5d5aca0da3": {
+    "correctOption": "",
+    "multiCorrectOptions": null,
+    "range": {
+      "start": "3",
+      "end": "3"
+    },
+    "negMarks": 0,
+    "posMarks": 2,
+    "skipMarks": 0,
+    "partialM": {
+      "type": "",
+      "marks": 0
+    },
+    "isPartialMarking": false,
+    "sol": {
+      "en": {
+        "value": "<p><iframe title=\"All India Logical Reasoning 2024 Q14\" src=\"//www.youtube.com/embed/khyQcSbkPsY\" width=\"780\" height=\"439\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+        "type": "cp",
+        "videoSol": ""
+      },
+      "hn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "te": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mr": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ml": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "gu": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ta": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "or": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "as": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ks": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kok": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mni": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ne": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "pa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sd": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ur": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sat": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mai": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "brx": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "doi": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "grt": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kha": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "lus": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bo": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "trp": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      }
+    },
+    "tags": null,
+    "globalConcept": null,
+    "stats": {
+      "totalStudents": 3494,
+      "bestTime": 0,
+      "averageTime": 80.79221522610217,
+      "attempts": {
+        "correct": 1619,
+        "incorrect": 1010,
+        "partial": 0,
+        "skipped": 0,
+        "skipOptionSelected": 865
+      },
+      "sectionNo": 0,
+      "subSectionNo": 0
+    },
+    "votes": 0,
+    "SSNo": 1,
+    "SSSNo": 0,
+    "marksObtained": 0,
+    "studentResStatus": "",
+    "studentResponse": {
+      "time": 0,
+      "visits": null
+    }
+  },
+  "66238cfdfd6b0f0cfd8d9f72": {
+    "correctOption": "2",
+    "multiCorrectOptions": null,
+    "range": {
+      "start": "",
+      "end": ""
+    },
+    "negMarks": 0,
+    "posMarks": 1,
+    "skipMarks": 0,
+    "partialM": {
+      "type": "",
+      "marks": 0
+    },
+    "isPartialMarking": false,
+    "sol": {
+      "en": {
+        "value": "<p>Ans - B</p>\n<p></p>\n<p><iframe title=\"All India Logical Reasoning 2024 Q15\" src=\"//www.youtube.com/embed/zvhpW4nC1mA\" width=\"780\" height=\"439\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+        "type": "cp",
+        "videoSol": ""
+      },
+      "hn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "te": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mr": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ml": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "gu": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ta": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "or": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "as": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ks": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kok": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mni": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ne": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "pa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sd": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ur": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sat": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mai": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "brx": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "doi": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "grt": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kha": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "lus": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bo": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "trp": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      }
+    },
+    "tags": null,
+    "globalConcept": null,
+    "stats": {
+      "totalStudents": 3494,
+      "bestTime": 0,
+      "averageTime": 56.47109330280478,
+      "attempts": {
+        "correct": 443,
+        "incorrect": 1703,
+        "partial": 0,
+        "skipped": 1348,
+        "skipOptionSelected": 0
+      },
+      "sectionNo": 0,
+      "subSectionNo": 0
+    },
+    "votes": 0,
+    "SSNo": 1,
+    "SSSNo": 0,
+    "marksObtained": 0,
+    "studentResStatus": "",
+    "studentResponse": {
+      "time": 0,
+      "visits": null
+    }
+  },
+  "66238e6e139e342a26dfff73": {
+    "correctOption": "2",
+    "multiCorrectOptions": null,
+    "range": {
+      "start": "",
+      "end": ""
+    },
+    "negMarks": 0,
+    "posMarks": 1,
+    "skipMarks": 0,
+    "partialM": {
+      "type": "",
+      "marks": 0
+    },
+    "isPartialMarking": false,
+    "sol": {
+      "en": {
+        "value": "<p>Ans -&nbsp;B</p>\n<p></p>\n<p><iframe title=\"All India Logical Reasoning 2024 Q16\" src=\"//www.youtube.com/embed/4stQPaj1iGU\" width=\"780\" height=\"439\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+        "type": "cp",
+        "videoSol": ""
+      },
+      "hn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "te": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mr": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ml": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "gu": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ta": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "or": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "as": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ks": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kok": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mni": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ne": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "pa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sd": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ur": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sat": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mai": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "brx": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "doi": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "grt": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kha": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "lus": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bo": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "trp": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      }
+    },
+    "tags": null,
+    "globalConcept": null,
+    "stats": {
+      "totalStudents": 3494,
+      "bestTime": 0,
+      "averageTime": 53.67945048654839,
+      "attempts": {
+        "correct": 1022,
+        "incorrect": 1188,
+        "partial": 0,
+        "skipped": 1284,
+        "skipOptionSelected": 0
+      },
+      "sectionNo": 0,
+      "subSectionNo": 0
+    },
+    "votes": 0,
+    "SSNo": 1,
+    "SSSNo": 0,
+    "marksObtained": 0,
+    "studentResStatus": "",
+    "studentResponse": {
+      "time": 0,
+      "visits": null
+    }
+  },
+  "6623910b8ac9c9268d42879e": {
+    "correctOption": "3",
+    "multiCorrectOptions": null,
+    "range": {
+      "start": "",
+      "end": ""
+    },
+    "negMarks": 0,
+    "posMarks": 1,
+    "skipMarks": 0,
+    "partialM": {
+      "type": "",
+      "marks": 0
+    },
+    "isPartialMarking": false,
+    "sol": {
+      "en": {
+        "value": "<p>Ans - C</p>\n<p></p>\n<p><iframe title=\"All India Logical Reasoning 2024 Q17\" src=\"//www.youtube.com/embed/qkLXyWsxduQ\" width=\"780\" height=\"439\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+        "type": "cp",
+        "videoSol": ""
+      },
+      "hn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "te": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mr": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ml": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "gu": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ta": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "or": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "as": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ks": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kok": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mni": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ne": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "pa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sd": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ur": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sat": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mai": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "brx": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "doi": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "grt": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kha": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "lus": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bo": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "trp": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      }
+    },
+    "tags": null,
+    "globalConcept": null,
+    "stats": {
+      "totalStudents": 3494,
+      "bestTime": 0,
+      "averageTime": 47.91127647395537,
+      "attempts": {
+        "correct": 1599,
+        "incorrect": 1121,
+        "partial": 0,
+        "skipped": 774,
+        "skipOptionSelected": 0
+      },
+      "sectionNo": 0,
+      "subSectionNo": 0
+    },
+    "votes": 0,
+    "SSNo": 1,
+    "SSSNo": 0,
+    "marksObtained": 0,
+    "studentResStatus": "",
+    "studentResponse": {
+      "time": 0,
+      "visits": null
+    }
+  },
+  "6623a88b8d6fcc5e8a7fea2a": {
+    "correctOption": "4",
+    "multiCorrectOptions": null,
+    "range": {
+      "start": "",
+      "end": ""
+    },
+    "negMarks": 0,
+    "posMarks": 1,
+    "skipMarks": 0,
+    "partialM": {
+      "type": "",
+      "marks": 0
+    },
+    "isPartialMarking": false,
+    "sol": {
+      "en": {
+        "value": "<p>Ans - D</p>\n<p></p>\n<p><iframe title=\"All India Logical Reasoning 2024 Q18\" src=\"//www.youtube.com/embed/RyCea3e0Tus\" width=\"780\" height=\"439\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+        "type": "cp",
+        "videoSol": ""
+      },
+      "hn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "te": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mr": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ml": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "gu": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ta": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "or": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "as": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ks": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kok": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mni": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ne": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "pa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sd": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ur": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sat": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mai": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "brx": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "doi": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "grt": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kha": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "lus": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bo": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "trp": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      }
+    },
+    "tags": null,
+    "globalConcept": null,
+    "stats": {
+      "totalStudents": 3494,
+      "bestTime": 0,
+      "averageTime": 64.1857469948483,
+      "attempts": {
+        "correct": 1062,
+        "incorrect": 1588,
+        "partial": 0,
+        "skipped": 844,
+        "skipOptionSelected": 0
+      },
+      "sectionNo": 0,
+      "subSectionNo": 0
+    },
+    "votes": 0,
+    "SSNo": 1,
+    "SSSNo": 0,
+    "marksObtained": 0,
+    "studentResStatus": "",
+    "studentResponse": {
+      "time": 0,
+      "visits": null
+    }
+  },
+  "6623ac68cefb1e25f9456da3": {
+    "correctOption": "2",
+    "multiCorrectOptions": null,
+    "range": {
+      "start": "",
+      "end": ""
+    },
+    "negMarks": 0,
+    "posMarks": 1,
+    "skipMarks": 0,
+    "partialM": {
+      "type": "",
+      "marks": 0
+    },
+    "isPartialMarking": false,
+    "sol": {
+      "en": {
+        "value": "<p>Ans - B</p>\n<p></p>\n<p><iframe title=\"All India Logical Reasoning 2024 Q19\" src=\"//www.youtube.com/embed/-7riUytu35g\" width=\"780\" height=\"439\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+        "type": "cp",
+        "videoSol": ""
+      },
+      "hn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "te": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mr": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ml": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "gu": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ta": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "or": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "as": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ks": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kok": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mni": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ne": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "pa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sd": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ur": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sat": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mai": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "brx": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "doi": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "grt": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kha": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "lus": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bo": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "trp": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      }
+    },
+    "tags": null,
+    "globalConcept": null,
+    "stats": {
+      "totalStudents": 3494,
+      "bestTime": 0,
+      "averageTime": 48.282770463652,
+      "attempts": {
+        "correct": 1204,
+        "incorrect": 1069,
+        "partial": 0,
+        "skipped": 1221,
+        "skipOptionSelected": 0
+      },
+      "sectionNo": 0,
+      "subSectionNo": 0
+    },
+    "votes": 0,
+    "SSNo": 1,
+    "SSSNo": 0,
+    "marksObtained": 0,
+    "studentResStatus": "",
+    "studentResponse": {
+      "time": 0,
+      "visits": null
+    }
+  },
+  "6623afc94409313ed1dc6e20": {
+    "correctOption": "1",
+    "multiCorrectOptions": null,
+    "range": {
+      "start": "",
+      "end": ""
+    },
+    "negMarks": 0,
+    "posMarks": 1,
+    "skipMarks": 0,
+    "partialM": {
+      "type": "",
+      "marks": 0
+    },
+    "isPartialMarking": false,
+    "sol": {
+      "en": {
+        "value": "<p>Ans - A</p>\n<p></p>\n<p><iframe title=\"All India Logical Reasoning 2024 Q20\" src=\"//www.youtube.com/embed/bkE7qYFZpvc\" width=\"780\" height=\"439\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+        "type": "cp",
+        "videoSol": ""
+      },
+      "hn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "te": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mr": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ml": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "gu": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kn": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ta": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "or": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "as": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ks": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kok": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mni": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ne": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "pa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sd": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "ur": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sat": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "mai": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "brx": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "doi": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "sa": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "grt": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "kha": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "lus": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "bo": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      },
+      "trp": {
+        "value": "",
+        "type": "",
+        "videoSol": ""
+      }
+    },
+    "tags": null,
+    "globalConcept": null,
+    "stats": {
+      "totalStudents": 3494,
+      "bestTime": 0,
+      "averageTime": 49.12020606754441,
+      "attempts": {
+        "correct": 1328,
+        "incorrect": 960,
+        "partial": 0,
+        "skipped": 1206,
+        "skipOptionSelected": 0
+      },
+      "sectionNo": 0,
+      "subSectionNo": 0
+    },
+    "votes": 0,
+    "SSNo": 1,
+    "SSSNo": 0,
+    "marksObtained": 0,
+    "studentResStatus": "",
+    "studentResponse": {
+      "time": 0,
+      "visits": null
+    }
+  }
+}

@@ -1,0 +1,1140 @@
+{
+  "_id": "66161af5c02a5024220dff74",
+  "settings": {
+    "fonts": {
+      "fonts": [
+        {
+          "face": "Google Sans",
+          "supported": true
+        },
+        {
+          "face": "arial",
+          "supported": true
+        },
+        {
+          "face": "sans-serif",
+          "supported": false
+        }
+      ],
+      "include": "https://cms-gcp.classplusapp.com/parser/v3/css/combined?face=Google%20Sans,arial,sans-serif"
+    },
+    "grades": {
+      "A": {
+        "max": 100,
+        "min": 70
+      },
+      "B": {
+        "max": 69,
+        "min": 50
+      },
+      "C": {
+        "max": 49,
+        "min": 35
+      },
+      "D": {
+        "max": 34,
+        "min": 20
+      },
+      "E": {
+        "max": 19,
+        "min": 10
+      },
+      "F": {
+        "max": 9,
+        "min": 0
+      }
+    },
+    "hasOptionalQuestions": false,
+    "settingsForRTG": {},
+    "generateBatchRank": true,
+    "defaultFont": null,
+    "generateInstitutionalRank": true,
+    "generatePercentile": true,
+    "showQuestionWiseTime": true,
+    "allowResultSharing": true,
+    "showQuestionTimer": true,
+    "calculatorType": null,
+    "enableLetterGrading": true,
+    "generateRandomTest": false,
+    "isSectionSwitchingEnabled": true,
+    "isSectionalSubmit": false,
+    "shuffleQuestions": false,
+    "showAnswers": true,
+    "isSolutionMultipleViewEnabled": true,
+    "shuffleOptions": false,
+    "revealCorrectAnswers": "all",
+    "revealAnswersTime": "now",
+    "parseMathJax": false
+  },
+  "isReadyToLink": true,
+  "isLinked": true,
+  "instructions": "",
+  "isSectionEnable": false,
+  "isReloadRequired": false,
+  "totalNumberOfQuestions": 20,
+  "totalMarks": 20,
+  "isAttempted": true,
+  "isTemplateSelected": true,
+  "isCdnUpdated": false,
+  "languageList": [],
+  "lastAttemptedAt": "2026-09-15T12:48:36.776Z",
+  "name": "2. Full length Verbal Ability",
+  "duration": 900000,
+  "createdBy": "609d141ffef055578d05892c",
+  "parentFolder": "60dc8db9b61a0f2a03adf11e",
+  "sections": [
+    {
+      "draftMode": false,
+      "isActive": true,
+      "sectionDuration": 0,
+      "sectionMarks": 20,
+      "sectionInstructions": " ",
+      "hasOptionalQuestions": false,
+      "_id": "66161b599efe634d90156e5d",
+      "name": "Verbal Solution 01",
+      "order": 1,
+      "numberOfQuestions": 20,
+      "questions": [
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p>1</p>",
+              "nameText": "1",
+              "order": 1,
+              "isNewOption": false,
+              "_id": "661624d46abf623472984b90"
+            },
+            {
+              "name": "<p>2</p>",
+              "nameText": "2",
+              "order": 2,
+              "isNewOption": false,
+              "_id": "661624d46abf62f4b9984b91"
+            },
+            {
+              "name": "<p>3</p>",
+              "nameText": "3",
+              "order": 3,
+              "isNewOption": false,
+              "_id": "661624d46abf622e96984b92"
+            },
+            {
+              "name": "<p>4</p>",
+              "nameText": "4",
+              "order": 4,
+              "isNewOption": false,
+              "_id": "661624d46abf629c6a984b93"
+            },
+            {
+              "name": "<p>5</p>",
+              "nameText": "5",
+              "order": 4,
+              "isNewOption": true,
+              "_id": "661624d46abf6253ec984b94"
+            }
+          ],
+          "_id": "66161b690a3207139763c37f",
+          "isGlobal": false,
+          "name": "<p><strong>Find the Error :</strong></p>\n<p></p>\n<p>Doctors can't treat (1) this complicated disease (2) unless full medical equipment (3) are not given to them (4). No error (5)</p>",
+          "paragraph": null,
+          "nameText": "Find the Error :\n\nDoctors can't treat (1) this complicated disease (2) unless full medical equipment (3) are not given to them (4). No error (5)",
+          "type": "multiple_choice",
+          "createdBy": "609d141ffef055578d05892c",
+          "order": 1,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p>1</p>",
+              "nameText": "1",
+              "order": 1,
+              "isNewOption": false,
+              "_id": "661624d46abf62cf1f984b7f"
+            },
+            {
+              "name": "<p>2</p>",
+              "nameText": "2",
+              "order": 2,
+              "isNewOption": false,
+              "_id": "661624d46abf62596d984b80"
+            },
+            {
+              "name": "<p>3</p>",
+              "nameText": "3",
+              "order": 3,
+              "isNewOption": false,
+              "_id": "661624d46abf6258ef984b81"
+            },
+            {
+              "name": "<p>4</p>",
+              "nameText": "4",
+              "order": 4,
+              "isNewOption": false,
+              "_id": "661624d46abf6293a4984b82"
+            },
+            {
+              "name": "<p>5</p>",
+              "nameText": "5",
+              "order": 4,
+              "isNewOption": true,
+              "_id": "661624d46abf62d50e984b83"
+            }
+          ],
+          "_id": "66161b690a32079d7463c384",
+          "isGlobal": false,
+          "name": "<p><strong>Find the Error</strong></p>\n<p></p>\n<p>Several famous politicians (1) involved in the scandal (2) are required to appear (3) to the investigation committee. (4) No Error (5).</p>",
+          "paragraph": null,
+          "nameText": "Find the Error\n\nSeveral famous politicians (1) involved in the scandal (2) are required to appear (3) to the investigation committee. (4) No Error (5).",
+          "type": "multiple_choice",
+          "createdBy": "609d141ffef055578d05892c",
+          "order": 2,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p>Do I, send it</p>",
+              "nameText": "Do I, send it",
+              "order": 1,
+              "isNewOption": false,
+              "_id": "661624d46abf620f5d984b6b"
+            },
+            {
+              "name": "<p>Will I, send it</p>",
+              "nameText": "Will I, send it",
+              "order": 2,
+              "isNewOption": false,
+              "_id": "661624d46abf621cde984b6c"
+            },
+            {
+              "name": "<p>Should I, send it</p>",
+              "nameText": "Should I, send it",
+              "order": 3,
+              "isNewOption": false,
+              "_id": "661624d46abf623a31984b6d"
+            },
+            {
+              "name": "<p>Would I, send it</p>",
+              "nameText": "Would I, send it",
+              "order": 4,
+              "isNewOption": false,
+              "_id": "661624d46abf62378b984b6e"
+            }
+          ],
+          "_id": "66161b690a3207c42f63c389",
+          "isGlobal": false,
+          "name": "<p><strong>Fill in the blank </strong></p>\n<p></p>\n<p>If the courier boy delivers your packet _______ keep it with me till you come or ________ to your home.</p>",
+          "paragraph": null,
+          "nameText": "Fill in the blank \n\nIf the courier boy delivers your packet _______ keep it with me till you come or ________ to your home.",
+          "type": "multiple_choice",
+          "createdBy": "609d141ffef055578d05892c",
+          "order": 3,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p>to speak loudly</p>",
+              "nameText": "to speak loudly",
+              "order": 1,
+              "isNewOption": false,
+              "_id": "661624d46abf62eecc984b6f"
+            },
+            {
+              "name": "<p>to eat like a wolf</p>",
+              "nameText": "to eat like a wolf",
+              "order": 2,
+              "isNewOption": false,
+              "_id": "661624d46abf6233e0984b70"
+            },
+            {
+              "name": "<p>to get afraid</p>",
+              "nameText": "to get afraid",
+              "order": 3,
+              "isNewOption": false,
+              "_id": "661624d46abf6249bd984b71"
+            },
+            {
+              "name": "<p>to give a false alarm</p>",
+              "nameText": "to give a false alarm",
+              "order": 4,
+              "isNewOption": false,
+              "_id": "661624d46abf62d4b8984b72"
+            }
+          ],
+          "_id": "66161b690a320730af63c38e",
+          "isGlobal": false,
+          "name": "<p>Select the sentence which have the same meaning :</p>\n<p></p>\n<p><strong>To cry wolf</strong></p>",
+          "paragraph": null,
+          "nameText": "Select the sentence which have the same meaning :\n\nTo cry wolf",
+          "type": "multiple_choice",
+          "createdBy": "609d141ffef055578d05892c",
+          "order": 4,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p>Beautiful</p>",
+              "nameText": "Beautiful",
+              "order": 1,
+              "isNewOption": false,
+              "_id": "661624d46abf625481984bad"
+            },
+            {
+              "name": "<p>Clever</p>",
+              "nameText": "Clever",
+              "order": 2,
+              "isNewOption": false,
+              "_id": "661624d46abf6242bf984bae"
+            },
+            {
+              "name": "<p>Gorgeous</p>",
+              "nameText": "Gorgeous",
+              "order": 3,
+              "isNewOption": false,
+              "_id": "661624d46abf627dc5984baf"
+            },
+            {
+              "name": "<p>Fat</p>",
+              "nameText": "Fat",
+              "order": 4,
+              "isNewOption": false,
+              "_id": "661624d46abf62f6ed984bb0"
+            }
+          ],
+          "_id": "66161b690a3207aefb63c393",
+          "isGlobal": false,
+          "name": "<p>Find the similar meaning :</p>\n<p></p>\n<p><strong>Canny</strong></p>",
+          "paragraph": null,
+          "nameText": "Find the similar meaning :\n\nCanny",
+          "type": "multiple_choice",
+          "createdBy": "609d141ffef055578d05892c",
+          "order": 5,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p>CBDA</p>",
+              "nameText": "CBDA",
+              "order": 1,
+              "isNewOption": false,
+              "_id": "661624d46abf626645984b95"
+            },
+            {
+              "name": "<p>CADB</p>",
+              "nameText": "CADB",
+              "order": 2,
+              "isNewOption": false,
+              "_id": "661624d46abf627955984b96"
+            },
+            {
+              "name": "<p>ADBC</p>",
+              "nameText": "ADBC",
+              "order": 3,
+              "isNewOption": false,
+              "_id": "661624d46abf62796a984b97"
+            },
+            {
+              "name": "<p>BADC</p>",
+              "nameText": "BADC",
+              "order": 4,
+              "isNewOption": false,
+              "_id": "661624d46abf6258e9984b98"
+            }
+          ],
+          "_id": "66161b690a3207a36163c398",
+          "isGlobal": false,
+          "name": "<p><strong>Rearrange :</strong></p>\n<p></p>\n<p>A month after colleges opened......<br /><br />A. 35% seats reserved under OBC</p>\n<p>B. in private colleges</p>\n<p>C. for the next academic year</p>\n<p>D. remained vacant&nbsp;</p>",
+          "paragraph": null,
+          "nameText": "Rearrange :\n\nA month after colleges opened......A. 35% seats reserved under OBC\nB. in private colleges\nC. for the next academic year\nD. remained vacant ",
+          "type": "multiple_choice",
+          "createdBy": "609d141ffef055578d05892c",
+          "order": 6,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p>pedestrian</p>",
+              "nameText": "pedestrian",
+              "order": 1,
+              "isNewOption": false,
+              "_id": "661624d46abf6262a0984b84"
+            },
+            {
+              "name": "<p>traveler</p>",
+              "nameText": "traveler",
+              "order": 2,
+              "isNewOption": false,
+              "_id": "661624d46abf62cd46984b85"
+            },
+            {
+              "name": "<p>walker</p>",
+              "nameText": "walker",
+              "order": 3,
+              "isNewOption": false,
+              "_id": "661624d46abf625bc9984b86"
+            },
+            {
+              "name": "<p>health conscious</p>",
+              "nameText": "health conscious",
+              "order": 4,
+              "isNewOption": false,
+              "_id": "661624d46abf621dc8984b87"
+            }
+          ],
+          "_id": "66161b690a32072f8163c39d",
+          "isGlobal": false,
+          "name": "<p><strong>One word substitution </strong></p>\n<p></p>\n<p>A person who travels on foot.</p>",
+          "paragraph": null,
+          "nameText": "One word substitution \n\nA person who travels on foot.",
+          "type": "multiple_choice",
+          "createdBy": "609d141ffef055578d05892c",
+          "order": 7,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p>monarchy</p>",
+              "nameText": "monarchy",
+              "order": 1,
+              "isNewOption": false,
+              "_id": "661624d46abf623954984ba1"
+            },
+            {
+              "name": "<p>democratic</p>",
+              "nameText": "democratic",
+              "order": 2,
+              "isNewOption": false,
+              "_id": "661624d46abf620547984ba2"
+            },
+            {
+              "name": "<p>autocracy</p>",
+              "nameText": "autocracy",
+              "order": 3,
+              "isNewOption": false,
+              "_id": "661624d46abf62b2d1984ba3"
+            },
+            {
+              "name": "<p>all of the above</p>",
+              "nameText": "all of the above",
+              "order": 4,
+              "isNewOption": false,
+              "_id": "661624d46abf626faa984ba4"
+            }
+          ],
+          "_id": "66161b690a3207af4d63c3a2",
+          "isGlobal": false,
+          "name": "<p><strong>Select the word which has a similar meaning :</strong></p>\n<p></p>\n<p>A country that is ruled by a king or queen</p>",
+          "paragraph": null,
+          "nameText": "Select the word which has a similar meaning :\n\nA country that is ruled by a king or queen",
+          "type": "multiple_choice",
+          "createdBy": "609d141ffef055578d05892c",
+          "order": 8,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p>is</p>",
+              "nameText": "is",
+              "order": 1,
+              "isNewOption": false,
+              "_id": "661624d46abf621292984b73"
+            },
+            {
+              "name": "<p>had</p>",
+              "nameText": "had",
+              "order": 2,
+              "isNewOption": false,
+              "_id": "661624d46abf621e25984b74"
+            },
+            {
+              "name": "<p>were</p>",
+              "nameText": "were",
+              "order": 3,
+              "isNewOption": false,
+              "_id": "661624d46abf62d3ad984b75"
+            },
+            {
+              "name": "<p>will</p>",
+              "nameText": "will",
+              "order": 4,
+              "isNewOption": false,
+              "_id": "661624d46abf624a94984b76"
+            }
+          ],
+          "_id": "66161b690a3207597963c3a7",
+          "isGlobal": false,
+          "name": "<p>Find the replacement</p>\n<p></p>\n<p>Jeans <strong>was</strong> not allowed in Maria's college.</p>",
+          "paragraph": null,
+          "nameText": "Find the replacement\n\nJeans was not allowed in Maria's college.",
+          "type": "multiple_choice",
+          "createdBy": "609d141ffef055578d05892c",
+          "order": 9,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p>invited Alice</p>",
+              "nameText": "invited Alice",
+              "order": 1,
+              "isNewOption": false,
+              "_id": "661624d46abf628e12984bb1"
+            },
+            {
+              "name": "<p>asked Alice</p>",
+              "nameText": "asked Alice",
+              "order": 2,
+              "isNewOption": false,
+              "_id": "661624d46abf62a961984bb2"
+            },
+            {
+              "name": "<p>ordered Alice</p>",
+              "nameText": "ordered Alice",
+              "order": 3,
+              "isNewOption": false,
+              "_id": "661624d46abf627ce2984bb3"
+            },
+            {
+              "name": "<p>said to Alice</p>",
+              "nameText": "said to Alice",
+              "order": 4,
+              "isNewOption": false,
+              "_id": "661624d46abf62bc77984bb4"
+            }
+          ],
+          "_id": "66161b690a3207004d63c3ac",
+          "isGlobal": false,
+          "name": "<p>Replace the bold sentence&nbsp;</p>\n<p></p>\n<p>The teacher <strong>told Alice</strong> to skim the chapter one more time.</p>",
+          "paragraph": null,
+          "nameText": "Replace the bold sentence \n\nThe teacher told Alice to skim the chapter one more time.",
+          "type": "multiple_choice",
+          "createdBy": "609d141ffef055578d05892c",
+          "order": 10,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p>Religious</p>",
+              "nameText": "Religious",
+              "order": 1,
+              "isNewOption": false,
+              "_id": "661624d46abf627d38984b99"
+            },
+            {
+              "name": "<p>Intellectual</p>",
+              "nameText": "Intellectual",
+              "order": 2,
+              "isNewOption": false,
+              "_id": "661624d46abf62b71d984b9a"
+            },
+            {
+              "name": "<p>Debutante</p>",
+              "nameText": "Debutante",
+              "order": 3,
+              "isNewOption": false,
+              "_id": "661624d46abf626466984b9b"
+            },
+            {
+              "name": "<p>learner</p>",
+              "nameText": "learner",
+              "order": 4,
+              "isNewOption": false,
+              "_id": "661624d46abf62f0aa984b9c"
+            }
+          ],
+          "_id": "66161b690a3207adcc63c3b1",
+          "isGlobal": false,
+          "name": "<p>What is the antonym of:</p>\n<p></p>\n<p><strong> Philistine</strong></p>",
+          "paragraph": null,
+          "nameText": "What is the antonym of:\n\n Philistine",
+          "type": "multiple_choice",
+          "createdBy": "609d141ffef055578d05892c",
+          "order": 11,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p>CABD</p>",
+              "nameText": "CABD",
+              "order": 1,
+              "isNewOption": false,
+              "_id": "661624d46abf62e184984b88"
+            },
+            {
+              "name": "<p>BACD</p>",
+              "nameText": "BACD",
+              "order": 2,
+              "isNewOption": false,
+              "_id": "661624d46abf6236f3984b89"
+            },
+            {
+              "name": "<p>ABCD</p>",
+              "nameText": "ABCD",
+              "order": 3,
+              "isNewOption": false,
+              "_id": "661624d46abf625e3b984b8a"
+            },
+            {
+              "name": "<p>ACDB</p>",
+              "nameText": "ACDB",
+              "order": 4,
+              "isNewOption": false,
+              "_id": "661624d46abf621712984b8b"
+            }
+          ],
+          "_id": "66161b690a3207ce4563c3b6",
+          "isGlobal": false,
+          "name": "<p><strong>Rearrange:</strong>&nbsp;</p>\n<p></p>\n<p>Panic gripped the people.</p>\n<p></p>\n<p>A. of the village</p>\n<p>B. beside the city</p>\n<p>C. on Friday</p>\n<p>D. after the terrorist attack&nbsp;</p>",
+          "paragraph": null,
+          "nameText": "Rearrange: \n\nPanic gripped the people.\n\nA. of the village\nB. beside the city\nC. on Friday\nD. after the terrorist attack ",
+          "type": "multiple_choice",
+          "createdBy": "609d141ffef055578d05892c",
+          "order": 12,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p>Real</p>",
+              "nameText": "Real",
+              "order": 1,
+              "isNewOption": false,
+              "_id": "661624d46abf62dedd984ba5"
+            },
+            {
+              "name": "<p>Religious</p>",
+              "nameText": "Religious",
+              "order": 2,
+              "isNewOption": false,
+              "_id": "661624d46abf6273da984ba6"
+            },
+            {
+              "name": "<p>Renounce</p>",
+              "nameText": "Renounce",
+              "order": 3,
+              "isNewOption": false,
+              "_id": "661624d46abf627e00984ba7"
+            },
+            {
+              "name": "<p>Punishment</p>",
+              "nameText": "Punishment",
+              "order": 4,
+              "isNewOption": false,
+              "_id": "661624d46abf626d38984ba8"
+            }
+          ],
+          "_id": "66161b690a3207a72963c3bb",
+          "isGlobal": false,
+          "name": "<p>What is the <strong>synonym of:</strong></p>\n<p></p>\n<p><strong> Relinquish</strong></p>",
+          "paragraph": null,
+          "nameText": "What is the synonym of:\n\n Relinquish",
+          "type": "multiple_choice",
+          "createdBy": "609d141ffef055578d05892c",
+          "order": 13,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p>Sacred</p>",
+              "nameText": "Sacred",
+              "order": 1,
+              "isNewOption": false,
+              "_id": "661624d46abf623e72984b77"
+            },
+            {
+              "name": "<p>Scary</p>",
+              "nameText": "Scary",
+              "order": 2,
+              "isNewOption": false,
+              "_id": "661624d46abf6246fa984b78"
+            },
+            {
+              "name": "<p>Secret</p>",
+              "nameText": "Secret",
+              "order": 3,
+              "isNewOption": false,
+              "_id": "661624d46abf625b47984b79"
+            },
+            {
+              "name": "<p>Story</p>",
+              "nameText": "Story",
+              "order": 4,
+              "isNewOption": false,
+              "_id": "661624d46abf62c1ab984b7a"
+            }
+          ],
+          "_id": "66161b690a3207281f63c3c0",
+          "isGlobal": false,
+          "name": "<p>What is the <strong>synonym of: </strong></p>\n<p></p>\n<p>Fable</p>",
+          "paragraph": null,
+          "nameText": "What is the synonym of: \n\nFable",
+          "type": "multiple_choice",
+          "createdBy": "609d141ffef055578d05892c",
+          "order": 14,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p>21543</p>",
+              "nameText": "21543",
+              "order": 1,
+              "isNewOption": false,
+              "_id": "661624d46abf6221a0984bb5"
+            },
+            {
+              "name": "<p>23154</p>",
+              "nameText": "23154",
+              "order": 2,
+              "isNewOption": false,
+              "_id": "661624d46abf62a2e0984bb6"
+            },
+            {
+              "name": "<p>15423</p>",
+              "nameText": "15423",
+              "order": 3,
+              "isNewOption": false,
+              "_id": "661624d46abf62e3bd984bb7"
+            },
+            {
+              "name": "<p>32154</p>",
+              "nameText": "32154",
+              "order": 4,
+              "isNewOption": false,
+              "_id": "661624d46abf6211f9984bb8"
+            }
+          ],
+          "_id": "66161b690a3207168863c3c5",
+          "isGlobal": false,
+          "name": "<p><strong>Sentence formation:</strong></p>\n<p></p>\n<p>1. about the</p>\n<p>2. what</p>\n<p>3. do you know</p>\n<p>4. for the common cold</p>\n<p>5. Home remedies</p>",
+          "paragraph": null,
+          "nameText": "Sentence formation:\n\n1. about the\n2. what\n3. do you know\n4. for the common cold\n5. Home remedies",
+          "type": "multiple_choice",
+          "createdBy": "609d141ffef055578d05892c",
+          "order": 15,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p>24531</p>",
+              "nameText": "24531",
+              "order": 1,
+              "isNewOption": false,
+              "_id": "661624d46abf623d16984b9d"
+            },
+            {
+              "name": "<p>25431</p>",
+              "nameText": "25431",
+              "order": 2,
+              "isNewOption": false,
+              "_id": "661624d46abf62fb91984b9e"
+            },
+            {
+              "name": "<p>35241</p>",
+              "nameText": "35241",
+              "order": 3,
+              "isNewOption": false,
+              "_id": "661624d46abf620d7d984b9f"
+            },
+            {
+              "name": "<p>23145</p>",
+              "nameText": "23145",
+              "order": 4,
+              "isNewOption": false,
+              "_id": "661624d46abf623dd1984ba0"
+            }
+          ],
+          "_id": "66161b690a32075a5b63c3ca",
+          "isGlobal": false,
+          "name": "<p><strong>Sentence formation:</strong></p>\n<p></p>\n<p>1. living in the villages</p>\n<p>2. the government</p>\n<p>3. to uplift the standard of</p>\n<p>4. introduced many</p>\n<p>5. schemes</p>",
+          "paragraph": null,
+          "nameText": "Sentence formation:\n\n1. living in the villages\n2. the government\n3. to uplift the standard of\n4. introduced many\n5. schemes",
+          "type": "multiple_choice",
+          "createdBy": "609d141ffef055578d05892c",
+          "order": 16,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p>extremely afraid</p>",
+              "nameText": "extremely afraid",
+              "order": 1,
+              "isNewOption": false,
+              "_id": "661624d46abf6230e7984b8c"
+            },
+            {
+              "name": "<p>perplexed</p>",
+              "nameText": "perplexed",
+              "order": 2,
+              "isNewOption": false,
+              "_id": "661624d46abf6244ec984b8d"
+            },
+            {
+              "name": "<p>unexpected gain</p>",
+              "nameText": "unexpected gain",
+              "order": 3,
+              "isNewOption": false,
+              "_id": "661624d46abf62352b984b8e"
+            },
+            {
+              "name": "<p>unexpected loss</p>",
+              "nameText": "unexpected loss",
+              "order": 4,
+              "isNewOption": false,
+              "_id": "661624d46abf627d0b984b8f"
+            }
+          ],
+          "_id": "66161b690a32070ee563c3cf",
+          "isGlobal": false,
+          "name": "<p><span style=\"color: #1f1f1f; font-family: 'Google Sans', arial, sans-serif;\">What is the meaning</span></p>\n<p></p>\n<p><strong>At one's wit's end</strong></p>",
+          "paragraph": null,
+          "nameText": "What is the meaning\n\nAt one's wit's end",
+          "type": "multiple_choice",
+          "createdBy": "609d141ffef055578d05892c",
+          "order": 17,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p>Her selection in the crew was a big surprise.</p>",
+              "nameText": "Her selection in the crew was a big surprise.",
+              "order": 1,
+              "isNewOption": false,
+              "_id": "661624d46abf62c7ef984ba9"
+            },
+            {
+              "name": "<p>Peter was surprised at her selection in the crew.</p>",
+              "nameText": "Peter was surprised at her selection in the crew.",
+              "order": 2,
+              "isNewOption": false,
+              "_id": "661624d46abf626305984baa"
+            },
+            {
+              "name": "<p>Her selection was a surprise.</p>",
+              "nameText": "Her selection was a surprise.",
+              "order": 3,
+              "isNewOption": false,
+              "_id": "661624d46abf62177f984bab"
+            },
+            {
+              "name": "<p>Peter was surprised at her selection of the crew.</p>",
+              "nameText": "Peter was surprised at her selection of the crew.",
+              "order": 4,
+              "isNewOption": false,
+              "_id": "661624d46abf62227c984bac"
+            }
+          ],
+          "_id": "66161b690a32074e7663c3d4",
+          "isGlobal": false,
+          "name": "<p><strong>Change the voice:</strong></p>\n<p></p>\n<p>Her selection in the crew surprised Peter.</p>",
+          "paragraph": null,
+          "nameText": "Change the voice:\n\nHer selection in the crew surprised Peter.",
+          "type": "multiple_choice",
+          "createdBy": "609d141ffef055578d05892c",
+          "order": 18,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p>DBAC</p>",
+              "nameText": "DBAC",
+              "order": 1,
+              "isNewOption": false,
+              "_id": "661624d46abf6250f9984b7b"
+            },
+            {
+              "name": "<p>DBAC</p>",
+              "nameText": "DBAC",
+              "order": 2,
+              "isNewOption": false,
+              "_id": "661624d46abf627b0b984b7c"
+            },
+            {
+              "name": "<p>ACDB</p>",
+              "nameText": "ACDB",
+              "order": 3,
+              "isNewOption": false,
+              "_id": "661624d46abf624c91984b7d"
+            },
+            {
+              "name": "<p>BACD</p>",
+              "nameText": "BACD",
+              "order": 4,
+              "isNewOption": false,
+              "_id": "661624d46abf62e11a984b7e"
+            }
+          ],
+          "_id": "66161b690a32071a8763c3d9",
+          "isGlobal": false,
+          "name": "<p><strong>Rearrange </strong></p>\n<p>The government should</p>\n<p></p>\n<p>A. to improve</p>\n<p>B. introduce policies</p>\n<p>C. the quality of education</p>\n<p>D. in government schools</p>",
+          "paragraph": null,
+          "nameText": "Rearrange \nThe government should\n\nA. to improve\nB. introduce policies\nC. the quality of education\nD. in government schools",
+          "type": "multiple_choice",
+          "createdBy": "609d141ffef055578d05892c",
+          "order": 19,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p>at</p>",
+              "nameText": "at",
+              "order": 1,
+              "isNewOption": false,
+              "_id": "661624d46abf623fa1984bb9"
+            },
+            {
+              "name": "<p>cloudless</p>",
+              "nameText": "cloudless",
+              "order": 2,
+              "isNewOption": false,
+              "_id": "661624d46abf626bb9984bba"
+            },
+            {
+              "name": "<p>sky</p>",
+              "nameText": "sky",
+              "order": 3,
+              "isNewOption": false,
+              "_id": "661624d46abf620150984bbb"
+            },
+            {
+              "name": "<p>today</p>",
+              "nameText": "today",
+              "order": 4,
+              "isNewOption": false,
+              "_id": "661624d46abf625c41984bbc"
+            }
+          ],
+          "_id": "66161b690a32077c7663c3de",
+          "isGlobal": false,
+          "name": "<p><strong>Find the adjective: </strong></p>\n<p></p>\n<p>On looking at the cloudless sky, Peter said, \"It won't rain today.\"</p>",
+          "paragraph": null,
+          "nameText": "Find the adjective: \n\nOn looking at the cloudless sky, Peter said, \"It won't rain today.\"",
+          "type": "multiple_choice",
+          "createdBy": "609d141ffef055578d05892c",
+          "order": 20,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        }
+      ]
+    }
+  ],
+  "practiceTestUrls": [],
+  "updateAfterSync": {},
+  "currentSection": "66161b599efe634d90156e5d",
+  "testTotalDuration": 900000,
+  "examStartDate": "2026-09-20T19:25:54.273Z"
+}

@@ -1,0 +1,985 @@
+{
+  "test": {
+    "name": "Water Image",
+    "testTotalDuration": 1200000,
+    "settings": {
+      "fonts": {},
+      "isSectionSwitchingEnabled": true
+    },
+    "practiceTestUrls": [],
+    "testFormat": "DEFAULT"
+  },
+  "filters": {
+    "incorrect": 0,
+    "correct": 0,
+    "partiallyMarked": 0,
+    "unattempted": 1,
+    "markForReview": 0,
+    "graceMarked": 0,
+    "revaluated": 0
+  },
+  "timeTaken": 0,
+  "courseId": "844567",
+  "showReportQuestion": true,
+  "sectionWiseStats": [
+    {
+      "marksScored": 0,
+      "sectionMarks": 15,
+      "accuracy": 0,
+      "_id": "6ab036c622e47abf04f75e39",
+      "totalQuestions": 15,
+      "attemptDuration": 0,
+      "correctAnswers": 0,
+      "inCorrectAnswers": 0,
+      "partiallyCorrectAnswers": 0,
+      "unAttempted": 15,
+      "name": "Quantitative Aptitude",
+      "order": 1,
+      "sectionDuration": 0,
+      "sectionId": "6101636d0dfb9b852d08d1ed"
+    }
+  ],
+  "sections": [
+    {
+      "draftMode": false,
+      "isActive": true,
+      "sectionDuration": 0,
+      "sectionMarks": 15,
+      "sectionInstructions": " ",
+      "hasOptionalQuestions": false,
+      "_id": "6101636d0dfb9b852d08d1ed",
+      "name": "Quantitative Aptitude",
+      "order": 1,
+      "createdAt": "2021-09-24T13:15:04.377Z",
+      "updatedAt": "2021-09-24T13:15:04.377Z",
+      "questions": [
+        {
+          "_id": "6101638faacfcb57c9fa2ffd",
+          "name": "<p style=\"font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; line-height: inherit; font-family: Verdana, Geneva, Tahoma, Arial, Helvetica, sans-serif; color: #050002; letter-spacing: 1px; text-align: justify;\"><span style=\"font-size: 14pt;\"><strong>Choose the correct water image of the question figure, from the given answer figures (assume that water is along XY)</strong></span></p>\n<p style=\"font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; line-height: inherit; font-family: Verdana, Geneva, Tahoma, Arial, Helvetica, sans-serif; color: #050002; letter-spacing: 1px; text-align: justify;\"><span style=\"font-size: 14pt;\"><img class=\"img-responsive\" style=\"border: 0px; margin: 0px; padding: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; line-height: inherit; font-family: inherit; pointer-events: none; display: block; max-width: 100%; height: auto;\" src=\"images/img_2e33629d45c3.png\" alt=\"Non verbal reasoning, water images practice questions with detailed solutions, water images question and answers with explanations, Non-verbal series, water images tips and tricks, practice tests for competitive exams, Free water images practice questions\" /></span></p>",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "Choose the correct water image of the question figure, from the given answer figures (assume that water is along XY)\n",
+          "sectionId": "6101636d0dfb9b852d08d1ed",
+          "order": 1,
+          "questionSubmitOrder": 1,
+          "options": [
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">1</span></p>",
+              "nameText": "1",
+              "isCorrect": true,
+              "_id": "610172e3935a3fa8c1948ae4",
+              "isMarked": false
+            },
+            {
+              "name": "<p><span style=\"font-size: 18.6667px;\">2</span></p>",
+              "nameText": "2",
+              "isCorrect": false,
+              "_id": "610172e3935a3f753d948ae5",
+              "isMarked": false
+            },
+            {
+              "name": "<p><span style=\"font-size: 18.6667px;\">4</span></p>",
+              "nameText": "4",
+              "isCorrect": false,
+              "_id": "610172e3935a3f3a70948ae6",
+              "isMarked": false
+            },
+            {
+              "name": "<p><span style=\"font-size: 18.6667px;\">4</span></p>",
+              "nameText": "4",
+              "isCorrect": false,
+              "_id": "610172e3935a3f168d948ae7",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p style=\"font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; line-height: inherit; font-family: Verdana, Geneva, Tahoma, Arial, Helvetica, sans-serif; text-align: justify; color: #050002; letter-spacing: 1px;\"><span style=\"font-size: 14pt;\"><span style=\"font-family: inherit; font-style: inherit; font-variant: inherit; text-align: left; margin: 0px; padding: 0px; font-weight: bold; font-stretch: inherit; line-height: inherit; color: #00b050;\">Answer:</span><span style=\"color: #ffcc00; font-family: inherit; font-style: inherit; font-variant-ligatures: inherit; font-variant-caps: inherit; font-weight: inherit; text-align: left;\">&nbsp;</span><span style=\"color: #ffcc00; font-family: inherit; font-style: inherit; font-variant-ligatures: inherit; font-variant-caps: inherit; font-weight: inherit; text-align: left;\">Option A</span></span></p>\n<div class=\"answer-d\" id=\"answer_details_1\">\n<p style=\"box-sizing: border-box; margin: 0px; padding: 0px 10px 0px 0px; font-style: inherit; font-variant: inherit; font-weight: bold; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; text-align: justify;\"><span style=\"box-sizing: border-box; margin: 0px; padding: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; line-height: inherit; font-family: inherit; color: #00b050; font-size: 14pt;\">Explanation</span></p>\n<p style=\"box-sizing: border-box; margin: 0px; padding: 0px; font: inherit; text-align: justify;\">&nbsp;</p>\n<p style=\"box-sizing: border-box; margin: 0px; padding: 0px; font: inherit; text-align: justify;\"><span style=\"font-size: 14pt;\"><img class=\"img-responsive\" style=\"box-sizing: border-box; border: 0px; vertical-align: middle; margin: 0px; padding: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; line-height: inherit; font-family: inherit; pointer-events: none; display: block; max-width: 100%; height: auto;\" src=\"images/img_3d137b3a4c76.png\" alt=\"Non verbal reasoning, water images practice questions with detailed solutions, water images question and answers with explanations, Non-verbal series, water images tips and tricks, practice tests for competitive exams, Free water images practice questions\" /></span></p>\n<p style=\"box-sizing: border-box; margin: 0px; padding: 0px; font: inherit; text-align: justify;\"><span style=\"font-size: 14pt;\">In the water image,</span></p>\n<ul style=\"box-sizing: border-box; padding: 0px; font: inherit; list-style: disc; text-align: justify; margin: 0px 0px 0px 19px !important;\">\n<li style=\"box-sizing: border-box; margin: 0px; padding: 0px; font: inherit; list-style: disc;\"><span style=\"font-size: 14pt;\">The top side of the object becomes the bottom</span></li>\n<li style=\"box-sizing: border-box; margin: 0px; padding: 0px; font: inherit; list-style: disc;\"><span style=\"font-size: 14pt;\">The bottom side of the object becomes the top</span></li>\n<li style=\"box-sizing: border-box; margin: 0px; padding: 0px; font: inherit; list-style: disc;\"><span style=\"font-size: 14pt;\">The left and right sides of the object remain unchanged</span></li>\n</ul>\n</div>",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6ab036bdb1cb294801c23acf",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "6101638faacfcba634fa3002",
+          "name": "<p>&nbsp;</p>\n<p style=\"font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; line-height: inherit; font-family: Verdana, Geneva, Tahoma, Arial, Helvetica, sans-serif; color: #050002; letter-spacing: 1px; text-align: justify;\"><strong><span style=\"font-size: 14pt;\">Choose the correct water image of the question figure, from the given answer figures (assume that water is along XY)</span></strong></p>\n<p style=\"font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; line-height: inherit; font-family: Verdana, Geneva, Tahoma, Arial, Helvetica, sans-serif; color: #050002; letter-spacing: 1px; text-align: justify;\"><strong><span style=\"font-size: 14pt;\"><img class=\"img-responsive\" style=\"border: 0px; margin: 0px; padding: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; line-height: inherit; font-family: inherit; pointer-events: none; display: block; max-width: 100%; height: auto;\" src=\"images/img_6fe2b14ea037.png\" alt=\"Non verbal reasoning, water images practice questions with detailed solutions, water images question and answers with explanations, Non-verbal series, water images tips and tricks, practice tests for competitive exams, Free water images practice questions\" /></span></strong></p>",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": " \nChoose the correct water image of the question figure, from the given answer figures (assume that water is along XY)\n",
+          "sectionId": "6101636d0dfb9b852d08d1ed",
+          "order": 2,
+          "questionSubmitOrder": 2,
+          "options": [
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">1</span></p>",
+              "nameText": "1",
+              "isCorrect": false,
+              "_id": "610172e3935a3f7fd3948afc",
+              "isMarked": false
+            },
+            {
+              "name": "<p><span style=\"font-size: 18.6667px;\">2</span></p>",
+              "nameText": "2",
+              "isCorrect": false,
+              "_id": "610172e3935a3fa8e8948afd",
+              "isMarked": false
+            },
+            {
+              "name": "<p><span style=\"font-size: 18.6667px;\">3</span></p>",
+              "nameText": "3",
+              "isCorrect": true,
+              "_id": "610172e3935a3f301a948afe",
+              "isMarked": false
+            },
+            {
+              "name": "<p><span style=\"font-size: 18.6667px;\">4</span></p>",
+              "nameText": "4",
+              "isCorrect": false,
+              "_id": "610172e3935a3f5d49948aff",
+              "isMarked": false
+            }
+          ],
+          "solution": "<h5 class=\"text-center\" style=\"font-family: Verdana, Geneva, Tahoma, Arial, Helvetica, sans-serif; font-weight: inherit; line-height: inherit; color: #ffcc00; margin: 0px; padding: 9px 0px 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; letter-spacing: 1px; font-size: 14px !important;\"><span style=\"font-size: 14pt;\"><span style=\"margin: 0px; padding: 0px; font-style: inherit; font-variant: inherit; font-weight: bold; font-stretch: inherit; line-height: inherit; font-family: inherit; color: #00b050;\">Answer:</span>&nbsp;Option C</span></h5>\n<p style=\"padding-right: 10px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-weight: bold; font-stretch: inherit; line-height: inherit; font-family: Verdana, Geneva, Tahoma, Arial, Helvetica, sans-serif; text-align: justify; color: #050002; letter-spacing: 1px;\"><span style=\"margin: 0px; padding: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; line-height: inherit; font-family: inherit; color: #00b050; font-size: 14pt;\">Explanation</span></p>\n<p style=\"font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; line-height: inherit; font-family: Verdana, Geneva, Tahoma, Arial, Helvetica, sans-serif; text-align: justify; color: #050002; letter-spacing: 1px;\">&nbsp;</p>\n<p style=\"font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; line-height: inherit; font-family: Verdana, Geneva, Tahoma, Arial, Helvetica, sans-serif; text-align: justify; color: #050002; letter-spacing: 1px;\"><span style=\"font-size: 14pt;\"><img class=\"img-responsive\" style=\"border: 0px; margin: 0px; padding: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; line-height: inherit; font-family: inherit; pointer-events: none; display: block; max-width: 100%; height: auto;\" src=\"images/img_eaf2c1ec6a00.png\" alt=\"Non verbal reasoning, water images practice questions with detailed solutions, water images question and answers with explanations, Non-verbal series, water images tips and tricks, practice tests for competitive exams, Free water images practice questions\" /></span></p>\n<p style=\"font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; line-height: inherit; font-family: Verdana, Geneva, Tahoma, Arial, Helvetica, sans-serif; text-align: justify; color: #050002; letter-spacing: 1px;\"><span style=\"font-size: 14pt;\">In the water image,</span></p>\n<ul style=\"padding: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; line-height: inherit; font-family: Verdana, Geneva, Tahoma, Arial, Helvetica, sans-serif; list-style-position: initial; list-style-image: initial; color: #050002; letter-spacing: 1px; text-align: justify; margin: 0px 0px 0px 19px !important;\">\n<li style=\"margin: 0px; padding: 0px; font: inherit; list-style: disc;\"><span style=\"font-size: 14pt;\">The top side of the object becomes the bottom</span></li>\n<li style=\"margin: 0px; padding: 0px; font: inherit; list-style: disc;\"><span style=\"font-size: 14pt;\">The bottom side of the object becomes the top</span></li>\n<li style=\"margin: 0px; padding: 0px; font: inherit; list-style: disc;\"><span style=\"font-size: 14pt;\">The left and right sides of the object remain unchanged</span></li>\n</ul>",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6ab036bdb1cb290472c23ad0",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "6101638faacfcb293cfa3007",
+          "name": "<p style=\"font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; line-height: inherit; font-family: Verdana, Geneva, Tahoma, Arial, Helvetica, sans-serif; color: #050002; letter-spacing: 1px; text-align: justify;\"><strong><span style=\"font-size: 14pt;\">Choose the correct water image of the question figure, from the given answer figures (assume that water is along XY)</span></strong></p>\n<p style=\"font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; line-height: inherit; font-family: Verdana, Geneva, Tahoma, Arial, Helvetica, sans-serif; color: #050002; letter-spacing: 1px; text-align: justify;\"><strong><span style=\"font-size: 14pt;\"><img class=\"img-responsive\" style=\"border: 0px; margin: 0px; padding: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; line-height: inherit; font-family: inherit; pointer-events: none; display: block; max-width: 100%; height: auto;\" src=\"images/img_df7ed30edb35.png\" alt=\"Non verbal reasoning, water images practice questions with detailed solutions, water images question and answers with explanations, Non-verbal series, water images tips and tricks, practice tests for competitive exams, Free water images practice questions\" /></span></strong></p>",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "Choose the correct water image of the question figure, from the given answer figures (assume that water is along XY)\n",
+          "sectionId": "6101636d0dfb9b852d08d1ed",
+          "order": 3,
+          "questionSubmitOrder": 3,
+          "options": [
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">1</span></p>",
+              "nameText": "1",
+              "isCorrect": true,
+              "_id": "610172e3935a3f4347948af0",
+              "isMarked": false
+            },
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">2</span></p>",
+              "nameText": "2",
+              "isCorrect": false,
+              "_id": "610172e3935a3f7ce0948af1",
+              "isMarked": false
+            },
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">3</span></p>",
+              "nameText": "3",
+              "isCorrect": false,
+              "_id": "610172e3935a3f0f0f948af2",
+              "isMarked": false
+            },
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">4</span></p>",
+              "nameText": "4",
+              "isCorrect": false,
+              "_id": "610172e3935a3f6ca9948af3",
+              "isMarked": false
+            }
+          ],
+          "solution": "<h5 class=\"text-center\" style=\"font-family: Verdana, Geneva, Tahoma, Arial, Helvetica, sans-serif; font-weight: inherit; line-height: inherit; color: #ffcc00; margin: 0px; padding: 9px 0px 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; letter-spacing: 1px; font-size: 14px !important;\"><span style=\"font-size: 14pt;\"><span style=\"margin: 0px; padding: 0px; font-style: inherit; font-variant: inherit; font-weight: bold; font-stretch: inherit; line-height: inherit; font-family: inherit; color: #00b050;\">Answer:</span>&nbsp;Option A</span></h5>\n<p style=\"padding-right: 10px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-weight: bold; font-stretch: inherit; line-height: inherit; font-family: Verdana, Geneva, Tahoma, Arial, Helvetica, sans-serif; text-align: justify; color: #050002; letter-spacing: 1px;\"><span style=\"margin: 0px; padding: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; line-height: inherit; font-family: inherit; color: #00b050; font-size: 14pt;\">Explanation</span></p>\n<p style=\"font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; line-height: inherit; font-family: Verdana, Geneva, Tahoma, Arial, Helvetica, sans-serif; text-align: justify; color: #050002; letter-spacing: 1px;\">&nbsp;</p>\n<p style=\"font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; line-height: inherit; font-family: Verdana, Geneva, Tahoma, Arial, Helvetica, sans-serif; text-align: justify; color: #050002; letter-spacing: 1px;\"><span style=\"font-size: 14pt;\"><img class=\"img-responsive\" style=\"border: 0px; margin: 0px; padding: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; line-height: inherit; font-family: inherit; pointer-events: none; display: block; max-width: 100%; height: auto;\" src=\"images/img_f66aaab7a0af.png\" alt=\"Non verbal reasoning, water images practice questions with detailed solutions, water images question and answers with explanations, Non-verbal series, water images tips and tricks, practice tests for competitive exams, Free water images practice questions\" /></span></p>\n<p style=\"font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; line-height: inherit; font-family: Verdana, Geneva, Tahoma, Arial, Helvetica, sans-serif; text-align: justify; color: #050002; letter-spacing: 1px;\"><span style=\"font-size: 14pt;\">In the water image,</span></p>\n<ul style=\"padding: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; line-height: inherit; font-family: Verdana, Geneva, Tahoma, Arial, Helvetica, sans-serif; list-style-position: initial; list-style-image: initial; color: #050002; letter-spacing: 1px; text-align: justify; margin: 0px 0px 0px 19px !important;\">\n<li style=\"margin: 0px; padding: 0px; font: inherit; list-style: disc;\"><span style=\"font-size: 14pt;\">The top side of the object becomes the bottom</span></li>\n<li style=\"margin: 0px; padding: 0px; font: inherit; list-style: disc;\"><span style=\"font-size: 14pt;\">The bottom side of the object becomes the top</span></li>\n<li style=\"margin: 0px; padding: 0px; font: inherit; list-style: disc;\"><span style=\"font-size: 14pt;\">The left and right sides of the object remain unchanged</span></li>\n</ul>",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6ab036bdb1cb295174c23ad1",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "6101638faacfcb1683fa300c",
+          "name": "<p style=\"box-sizing: border-box; margin: 0px; padding: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: 14px !important; line-height: inherit; font-family: inherit; text-align: justify;\"><span style=\"font-size: 14pt;\"><strong>Choose the correct water image of the question figure, from the given answer figures (assume that water is along XY)</strong></span></p>\n<p>&nbsp;</p>\n<p style=\"box-sizing: border-box; margin: 0px; padding: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: 14px !important; line-height: inherit; font-family: inherit; text-align: justify;\"><span style=\"font-size: 14pt;\"><strong><img class=\"img-responsive\" style=\"box-sizing: border-box; border: 0px; vertical-align: middle; margin: 0px; padding: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; line-height: inherit; font-family: inherit; pointer-events: none; display: block; max-width: 100%; height: auto;\" src=\"images/img_38f3de1326de.png\" alt=\"Non verbal reasoning, water images practice questions with detailed solutions, water images question and answers with explanations, Non-verbal series, water images tips and tricks, practice tests for competitive exams, Free water images practice questions\" /></strong></span></p>",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "Choose the correct water image of the question figure, from the given answer figures (assume that water is along XY)\n \n",
+          "sectionId": "6101636d0dfb9b852d08d1ed",
+          "order": 4,
+          "questionSubmitOrder": 4,
+          "options": [
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">1</span></p>",
+              "nameText": "1",
+              "isCorrect": false,
+              "_id": "610172e3935a3ffc9f948b08",
+              "isMarked": false
+            },
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">2</span></p>",
+              "nameText": "2",
+              "isCorrect": true,
+              "_id": "610172e3935a3f0b3c948b09",
+              "isMarked": false
+            },
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">&nbsp;3</span></p>",
+              "nameText": " 3",
+              "isCorrect": false,
+              "_id": "610172e3935a3fd613948b0a",
+              "isMarked": false
+            },
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">4</span></p>",
+              "nameText": "4",
+              "isCorrect": false,
+              "_id": "610172e3935a3f4ebf948b0b",
+              "isMarked": false
+            }
+          ],
+          "solution": "<div class=\"answer-d\" id=\"answer_details_4\">\n<h5 class=\"text-center\" style=\"box-sizing: border-box; font-family: inherit; font-weight: inherit; line-height: inherit; color: #ffcc00; margin: 0px; font-size: 14px !important; padding: 9px 0px 0px; font-style: inherit; font-variant: inherit; font-stretch: inherit; text-align: left !important;\"><span style=\"font-size: 14pt;\"><span style=\"box-sizing: border-box; margin: 0px; padding: 0px; font-style: inherit; font-variant: inherit; font-weight: bold; font-stretch: inherit; line-height: inherit; font-family: inherit; color: #00b050;\">Answer:</span>&nbsp;Option B</span></h5>\n<p style=\"box-sizing: border-box; margin: 0px; padding: 0px 10px 0px 0px; font-style: inherit; font-variant: inherit; font-weight: bold; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; text-align: justify;\"><span style=\"box-sizing: border-box; margin: 0px; padding: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; line-height: inherit; font-family: inherit; color: #00b050; font-size: 14pt;\">Explanation</span></p>\n<p style=\"box-sizing: border-box; margin: 0px; padding: 0px; font: inherit; text-align: justify;\">&nbsp;</p>\n<p style=\"box-sizing: border-box; margin: 0px; padding: 0px; font: inherit; text-align: justify;\"><span style=\"font-size: 14pt;\"><img class=\"img-responsive\" style=\"box-sizing: border-box; border: 0px; vertical-align: middle; margin: 0px; padding: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; line-height: inherit; font-family: inherit; pointer-events: none; display: block; max-width: 100%; height: auto;\" src=\"images/img_759837b01898.png\" alt=\"Non verbal reasoning, water images practice questions with detailed solutions, water images question and answers with explanations, Non-verbal series, water images tips and tricks, practice tests for competitive exams, Free water images practice questions\" /></span></p>\n<p style=\"box-sizing: border-box; margin: 0px; padding: 0px; font: inherit; text-align: justify;\"><span style=\"font-size: 14pt;\">In the water image,</span></p>\n<ul style=\"box-sizing: border-box; padding: 0px; font: inherit; list-style: disc; text-align: justify; margin: 0px 0px 0px 19px !important;\">\n<li style=\"box-sizing: border-box; margin: 0px; padding: 0px; font: inherit; list-style: disc;\"><span style=\"font-size: 14pt;\">The top side of the object becomes the bottom</span></li>\n<li style=\"box-sizing: border-box; margin: 0px; padding: 0px; font: inherit; list-style: disc;\"><span style=\"font-size: 14pt;\">The bottom side of the object becomes the top</span></li>\n<li style=\"box-sizing: border-box; margin: 0px; padding: 0px; font: inherit; list-style: disc;\"><span style=\"font-size: 14pt;\">The left and right sides of the object remain unchanged</span></li>\n</ul>\n</div>",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6ab036bdb1cb29498fc23ad2",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "6101638faacfcb7702fa3011",
+          "name": "<p style=\"font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; line-height: inherit; font-family: Verdana, Geneva, Tahoma, Arial, Helvetica, sans-serif; color: #050002; letter-spacing: 1px; text-align: justify;\"><strong><span style=\"font-size: 14pt;\">Choose the correct water image of the question figure, from the given answer figures (assume that water is along XY)</span></strong></p>\n<p style=\"font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; line-height: inherit; font-family: Verdana, Geneva, Tahoma, Arial, Helvetica, sans-serif; color: #050002; letter-spacing: 1px; text-align: justify;\"><strong><span style=\"font-size: 14pt;\"><img class=\"img-responsive\" style=\"border: 0px; margin: 0px; padding: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; line-height: inherit; font-family: inherit; pointer-events: none; display: block; max-width: 100%; height: auto;\" src=\"images/img_da8026a5c9a8.png\" alt=\"Non verbal reasoning, water images practice questions with detailed solutions, water images question and answers with explanations, Non-verbal series, water images tips and tricks, practice tests for competitive exams, Free water images practice questions\" /></span></strong></p>",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "Choose the correct water image of the question figure, from the given answer figures (assume that water is along XY)\n",
+          "sectionId": "6101636d0dfb9b852d08d1ed",
+          "order": 5,
+          "questionSubmitOrder": 5,
+          "options": [
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">1</span></p>",
+              "nameText": "1",
+              "isCorrect": false,
+              "_id": "610172e3935a3fa559948b14",
+              "isMarked": false
+            },
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">2</span></p>",
+              "nameText": "2",
+              "isCorrect": false,
+              "_id": "610172e3935a3f21c4948b15",
+              "isMarked": false
+            },
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">3</span></p>",
+              "nameText": "3",
+              "isCorrect": true,
+              "_id": "610172e3935a3f4cc0948b16",
+              "isMarked": false
+            },
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">4</span></p>",
+              "nameText": "4",
+              "isCorrect": false,
+              "_id": "610172e3935a3f77be948b17",
+              "isMarked": false
+            }
+          ],
+          "solution": "<h5 class=\"text-center\" style=\"font-family: Verdana, Geneva, Tahoma, Arial, Helvetica, sans-serif; font-weight: inherit; line-height: inherit; color: #ffcc00; margin: 0px; padding: 9px 0px 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; letter-spacing: 1px; font-size: 14px !important;\"><span style=\"font-size: 14pt;\"><span style=\"margin: 0px; padding: 0px; font-style: inherit; font-variant: inherit; font-weight: bold; font-stretch: inherit; line-height: inherit; font-family: inherit; color: #00b050;\">Answer:</span>&nbsp;Option C</span></h5>\n<p style=\"padding-right: 10px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-weight: bold; font-stretch: inherit; line-height: inherit; font-family: Verdana, Geneva, Tahoma, Arial, Helvetica, sans-serif; text-align: justify; color: #050002; letter-spacing: 1px;\"><span style=\"margin: 0px; padding: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; line-height: inherit; font-family: inherit; color: #00b050; font-size: 14pt;\">Explanation</span></p>\n<p style=\"font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; line-height: inherit; font-family: Verdana, Geneva, Tahoma, Arial, Helvetica, sans-serif; text-align: justify; color: #050002; letter-spacing: 1px;\">&nbsp;</p>\n<p style=\"font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; line-height: inherit; font-family: Verdana, Geneva, Tahoma, Arial, Helvetica, sans-serif; text-align: justify; color: #050002; letter-spacing: 1px;\"><span style=\"font-size: 14pt;\"><img class=\"img-responsive\" style=\"border: 0px; margin: 0px; padding: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; line-height: inherit; font-family: inherit; pointer-events: none; display: block; max-width: 100%; height: auto;\" src=\"images/img_3184225e771c.png\" alt=\"Non verbal reasoning, water images practice questions with detailed solutions, water images question and answers with explanations, Non-verbal series, water images tips and tricks, practice tests for competitive exams, Free water images practice questions\" /></span></p>\n<p style=\"font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; line-height: inherit; font-family: Verdana, Geneva, Tahoma, Arial, Helvetica, sans-serif; text-align: justify; color: #050002; letter-spacing: 1px;\"><span style=\"font-size: 14pt;\">In the water image,</span></p>\n<ul style=\"padding: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; line-height: inherit; font-family: Verdana, Geneva, Tahoma, Arial, Helvetica, sans-serif; list-style-position: initial; list-style-image: initial; color: #050002; letter-spacing: 1px; text-align: justify; margin: 0px 0px 0px 19px !important;\">\n<li style=\"margin: 0px; padding: 0px; font: inherit; list-style: disc;\"><span style=\"font-size: 14pt;\">The top side of the object becomes the bottom</span></li>\n<li style=\"margin: 0px; padding: 0px; font: inherit; list-style: disc;\"><span style=\"font-size: 14pt;\">The bottom side of the object becomes the top</span></li>\n<li style=\"margin: 0px; padding: 0px; font: inherit; list-style: disc;\"><span style=\"font-size: 14pt;\">The left and right sides of the object remain unchanged</span></li>\n</ul>",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6ab036bdb1cb29d11fc23ad3",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "6101638faacfcb2443fa3016",
+          "name": "<p style=\"font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; line-height: inherit; font-family: Verdana, Geneva, Tahoma, Arial, Helvetica, sans-serif; color: #050002; letter-spacing: 1px; text-align: justify;\"><strong><span style=\"font-size: 14pt;\">Choose the correct water image of the question figure, from the given answer figures (assume that water is along XY)</span></strong></p>\n<p style=\"font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; line-height: inherit; font-family: Verdana, Geneva, Tahoma, Arial, Helvetica, sans-serif; color: #050002; letter-spacing: 1px; text-align: justify;\"><strong><span style=\"font-size: 14pt;\"><img class=\"img-responsive\" style=\"border: 0px; margin: 0px; padding: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; line-height: inherit; font-family: inherit; pointer-events: none; display: block; max-width: 100%; height: auto;\" src=\"images/img_4d37bd4739fb.png\" alt=\"Non verbal reasoning, water images practice questions with detailed solutions, water images question and answers with explanations, Non-verbal series, water images tips and tricks, practice tests for competitive exams, Free water images practice questions\" /></span></strong></p>",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "Choose the correct water image of the question figure, from the given answer figures (assume that water is along XY)\n",
+          "sectionId": "6101636d0dfb9b852d08d1ed",
+          "order": 6,
+          "questionSubmitOrder": 6,
+          "options": [
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">1</span></p>",
+              "nameText": "1",
+              "isCorrect": false,
+              "_id": "610172e3935a3f79da948ae8",
+              "isMarked": false
+            },
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">2</span></p>",
+              "nameText": "2",
+              "isCorrect": true,
+              "_id": "610172e3935a3f160f948ae9",
+              "isMarked": false
+            },
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">3</span></p>",
+              "nameText": "3",
+              "isCorrect": false,
+              "_id": "610172e3935a3ffeed948aea",
+              "isMarked": false
+            },
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">4</span></p>",
+              "nameText": "4",
+              "isCorrect": false,
+              "_id": "610172e3935a3f4ab4948aeb",
+              "isMarked": false
+            }
+          ],
+          "solution": "<div class=\"answer-d\" id=\"answer_details_1\">\n<h5 class=\"text-center\" style=\"box-sizing: border-box; font-family: inherit; font-weight: inherit; line-height: inherit; color: #ffcc00; margin: 0px; font-size: 14px !important; padding: 9px 0px 0px; font-style: inherit; font-variant: inherit; font-stretch: inherit; text-align: left !important;\"><span style=\"font-size: 14pt;\"><span style=\"box-sizing: border-box; margin: 0px; padding: 0px; font-style: inherit; font-variant: inherit; font-weight: bold; font-stretch: inherit; line-height: inherit; font-family: inherit; color: #00b050;\">Answer:</span>&nbsp;Option B</span></h5>\n<p style=\"box-sizing: border-box; margin: 0px; padding: 0px 10px 0px 0px; font-style: inherit; font-variant: inherit; font-weight: bold; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; text-align: justify;\"><span style=\"box-sizing: border-box; margin: 0px; padding: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; line-height: inherit; font-family: inherit; color: #00b050; font-size: 14pt;\">Explanation</span></p>\n<p style=\"box-sizing: border-box; margin: 0px; padding: 0px; font: inherit; text-align: justify;\">&nbsp;</p>\n<p style=\"box-sizing: border-box; margin: 0px; padding: 0px; font: inherit; text-align: justify;\"><span style=\"font-size: 14pt;\"><img class=\"img-responsive\" style=\"box-sizing: border-box; border: 0px; vertical-align: middle; margin: 0px; padding: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; line-height: inherit; font-family: inherit; pointer-events: none; display: block; max-width: 100%; height: auto;\" src=\"images/img_8445732608e1.png\" alt=\"Non verbal reasoning, water images practice questions with detailed solutions, water images question and answers with explanations, Non-verbal series, water images tips and tricks, practice tests for competitive exams, Free water images practice questions\" /></span></p>\n<p style=\"box-sizing: border-box; margin: 0px; padding: 0px; font: inherit; text-align: justify;\"><span style=\"font-size: 14pt;\">In the water image,</span></p>\n<ul style=\"box-sizing: border-box; padding: 0px; font: inherit; list-style: disc; text-align: justify; margin: 0px 0px 0px 19px !important;\">\n<li style=\"box-sizing: border-box; margin: 0px; padding: 0px; font: inherit; list-style: disc;\"><span style=\"font-size: 14pt;\">The top side of the object becomes the bottom</span></li>\n<li style=\"box-sizing: border-box; margin: 0px; padding: 0px; font: inherit; list-style: disc;\"><span style=\"font-size: 14pt;\">The bottom side of the object becomes the top</span></li>\n<li style=\"box-sizing: border-box; margin: 0px; padding: 0px; font: inherit; list-style: disc;\"><span style=\"font-size: 14pt;\">The left and right sides of the object remain unchanged</span></li>\n</ul>\n</div>",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6ab036bdb1cb2919fac23ad4",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "6101638faacfcbcd54fa301b",
+          "name": "<p style=\"font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; line-height: inherit; font-family: Verdana, Geneva, Tahoma, Arial, Helvetica, sans-serif; color: #050002; letter-spacing: 1px; text-align: justify;\"><strong><span style=\"font-size: 14pt;\">Choose the correct water image of the question figure, from the given answer figures (assume that water is along XY)</span></strong></p>\n<p style=\"font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; line-height: inherit; font-family: Verdana, Geneva, Tahoma, Arial, Helvetica, sans-serif; color: #050002; letter-spacing: 1px; text-align: justify;\"><strong><span style=\"font-size: 14pt;\"><img class=\"img-responsive\" style=\"border: 0px; margin: 0px; padding: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; line-height: inherit; font-family: inherit; pointer-events: none; display: block; max-width: 100%; height: auto;\" src=\"images/img_9dec77389a6a.png\" alt=\"Non verbal reasoning, water images practice questions with detailed solutions, water images question and answers with explanations, Non-verbal series, water images tips and tricks, practice tests for competitive exams, Free water images practice questions\" /></span></strong></p>",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "Choose the correct water image of the question figure, from the given answer figures (assume that water is along XY)\n",
+          "sectionId": "6101636d0dfb9b852d08d1ed",
+          "order": 7,
+          "questionSubmitOrder": 7,
+          "options": [
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">1</span></p>",
+              "nameText": "1",
+              "isCorrect": false,
+              "_id": "610172e3935a3f5978948b0c",
+              "isMarked": false
+            },
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">2</span></p>",
+              "nameText": "2",
+              "isCorrect": true,
+              "_id": "610172e3935a3f05ad948b0d",
+              "isMarked": false
+            },
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">3</span></p>",
+              "nameText": "3",
+              "isCorrect": false,
+              "_id": "610172e3935a3f2f9f948b0e",
+              "isMarked": false
+            },
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">4</span></p>",
+              "nameText": "4",
+              "isCorrect": false,
+              "_id": "610172e3935a3f390f948b0f",
+              "isMarked": false
+            }
+          ],
+          "solution": "<h5 class=\"text-center\" style=\"font-family: Verdana, Geneva, Tahoma, Arial, Helvetica, sans-serif; font-weight: inherit; line-height: inherit; color: #ffcc00; margin: 0px; padding: 9px 0px 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; letter-spacing: 1px; font-size: 14px !important;\"><span style=\"font-size: 14pt;\"><span style=\"margin: 0px; padding: 0px; font-style: inherit; font-variant: inherit; font-weight: bold; font-stretch: inherit; line-height: inherit; font-family: inherit; color: #00b050;\">Answer:</span>&nbsp;Option B</span></h5>\n<p style=\"padding-right: 10px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-weight: bold; font-stretch: inherit; line-height: inherit; font-family: Verdana, Geneva, Tahoma, Arial, Helvetica, sans-serif; text-align: justify; color: #050002; letter-spacing: 1px;\"><span style=\"margin: 0px; padding: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; line-height: inherit; font-family: inherit; color: #00b050; font-size: 14pt;\">Explanation</span></p>\n<p style=\"font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; line-height: inherit; font-family: Verdana, Geneva, Tahoma, Arial, Helvetica, sans-serif; text-align: justify; color: #050002; letter-spacing: 1px;\">&nbsp;</p>\n<p style=\"font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; line-height: inherit; font-family: Verdana, Geneva, Tahoma, Arial, Helvetica, sans-serif; text-align: justify; color: #050002; letter-spacing: 1px;\"><span style=\"font-size: 14pt;\"><img class=\"img-responsive\" style=\"border: 0px; margin: 0px; padding: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; line-height: inherit; font-family: inherit; pointer-events: none; display: block; max-width: 100%; height: auto;\" src=\"images/img_ca89856481ee.png\" alt=\"Non verbal reasoning, water images practice questions with detailed solutions, water images question and answers with explanations, Non-verbal series, water images tips and tricks, practice tests for competitive exams, Free water images practice questions\" /></span></p>\n<p style=\"font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; line-height: inherit; font-family: Verdana, Geneva, Tahoma, Arial, Helvetica, sans-serif; text-align: justify; color: #050002; letter-spacing: 1px;\"><span style=\"font-size: 14pt;\">In the water image,</span></p>\n<ul style=\"padding: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; line-height: inherit; font-family: Verdana, Geneva, Tahoma, Arial, Helvetica, sans-serif; list-style-position: initial; list-style-image: initial; color: #050002; letter-spacing: 1px; text-align: justify; margin: 0px 0px 0px 19px !important;\">\n<li style=\"margin: 0px; padding: 0px; font: inherit; list-style: disc;\"><span style=\"font-size: 14pt;\">The top side of the object becomes the bottom</span></li>\n<li style=\"margin: 0px; padding: 0px; font: inherit; list-style: disc;\"><span style=\"font-size: 14pt;\">The bottom side of the object becomes the top</span></li>\n<li style=\"margin: 0px; padding: 0px; font: inherit; list-style: disc;\"><span style=\"font-size: 14pt;\">The left and right sides of the object remain unchanged</span></li>\n</ul>",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6ab036bdb1cb2989adc23ad5",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "6101638faacfcb9609fa3020",
+          "name": "<p><strong><span style=\"color: #050002; font-family: Verdana, Geneva, Tahoma, Arial, Helvetica, sans-serif; letter-spacing: 1px; text-align: justify; font-size: 14pt;\">Choose the correct water image of the question figure, from the given answer figures (assume that water is along XY)</span></strong></p>\n<p>&nbsp;</p>\n<p><img class=\"img-responsive\" style=\"border: 0px; margin: 0px; padding: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; line-height: inherit; font-family: Verdana, Geneva, Tahoma, Arial, Helvetica, sans-serif; pointer-events: none; display: block; max-width: 100%; height: 286px; color: #050002; letter-spacing: 1px; text-align: justify;\" src=\"images/img_732dd0549768.png\" alt=\"Non verbal reasoning, water images practice questions with detailed solutions, water images question and answers with explanations, Non-verbal series, water images tips and tricks, practice tests for competitive exams, Free water images practice questions\" width=\"404\" /></p>",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "Choose the correct water image of the question figure, from the given answer figures (assume that water is along XY)\n \n",
+          "sectionId": "6101636d0dfb9b852d08d1ed",
+          "order": 8,
+          "questionSubmitOrder": 8,
+          "options": [
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">1</span></p>",
+              "nameText": "1",
+              "isCorrect": true,
+              "_id": "610172e3935a3fab5e948af4",
+              "isMarked": false
+            },
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">&nbsp;2</span></p>",
+              "nameText": " 2",
+              "isCorrect": false,
+              "_id": "610172e3935a3fb506948af5",
+              "isMarked": false
+            },
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">3</span></p>",
+              "nameText": "3",
+              "isCorrect": false,
+              "_id": "610172e3935a3f7c01948af6",
+              "isMarked": false
+            },
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">4</span></p>",
+              "nameText": "4",
+              "isCorrect": false,
+              "_id": "610172e3935a3fd824948af7",
+              "isMarked": false
+            }
+          ],
+          "solution": "<h5 class=\"text-center\" style=\"font-family: Verdana, Geneva, Tahoma, Arial, Helvetica, sans-serif; font-weight: inherit; line-height: inherit; color: #ffcc00; margin: 0px; padding: 9px 0px 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; letter-spacing: 1px; font-size: 14px !important;\"><span style=\"font-size: 14pt;\"><span style=\"margin: 0px; padding: 0px; font-style: inherit; font-variant: inherit; font-weight: bold; font-stretch: inherit; line-height: inherit; font-family: inherit; color: #00b050;\">Answer:</span>&nbsp;Option A</span></h5>\n<p>&nbsp;</p>\n<p style=\"padding-right: 10px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-weight: bold; font-stretch: inherit; line-height: inherit; font-family: Verdana, Geneva, Tahoma, Arial, Helvetica, sans-serif; text-align: justify; color: #050002; letter-spacing: 1px;\"><span style=\"margin: 0px; padding: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; line-height: inherit; font-family: inherit; color: #00b050; font-size: 14pt;\">Explanation</span></p>\n<p style=\"font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; line-height: inherit; font-family: Verdana, Geneva, Tahoma, Arial, Helvetica, sans-serif; text-align: justify; color: #050002; letter-spacing: 1px;\">&nbsp;</p>\n<p style=\"font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; line-height: inherit; font-family: Verdana, Geneva, Tahoma, Arial, Helvetica, sans-serif; text-align: justify; color: #050002; letter-spacing: 1px;\">&nbsp;</p>\n<p style=\"font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; line-height: inherit; font-family: Verdana, Geneva, Tahoma, Arial, Helvetica, sans-serif; text-align: justify; color: #050002; letter-spacing: 1px;\"><span style=\"font-size: 14pt;\"><img class=\"img-responsive\" style=\"border: 0px; margin: 0px; padding: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; line-height: inherit; font-family: inherit; pointer-events: none; display: block; max-width: 100%; height: 279px;\" src=\"images/img_d88e5688c2e6.png\" alt=\"Non verbal reasoning, water images practice questions with detailed solutions, water images question and answers with explanations, Non-verbal series, water images tips and tricks, practice tests for competitive exams, Free water images practice questions\" width=\"146\" /></span></p>\n<p style=\"font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; line-height: inherit; font-family: Verdana, Geneva, Tahoma, Arial, Helvetica, sans-serif; text-align: justify; color: #050002; letter-spacing: 1px;\">&nbsp;</p>\n<p style=\"font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; line-height: inherit; font-family: Verdana, Geneva, Tahoma, Arial, Helvetica, sans-serif; text-align: justify; color: #050002; letter-spacing: 1px;\"><span style=\"font-size: 14pt;\">In the water image,</span></p>\n<ul style=\"padding: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; line-height: inherit; font-family: Verdana, Geneva, Tahoma, Arial, Helvetica, sans-serif; list-style-position: initial; list-style-image: initial; color: #050002; letter-spacing: 1px; text-align: justify; margin: 0px 0px 0px 19px !important;\">\n<li style=\"margin: 0px; padding: 0px; font: inherit; list-style: disc;\"><span style=\"font-size: 14pt;\">The top side of the object becomes the bottom</span></li>\n<li style=\"margin: 0px; padding: 0px; font: inherit; list-style: disc;\"><span style=\"font-size: 14pt;\">The bottom side of the object becomes the top</span></li>\n<li style=\"margin: 0px; padding: 0px; font: inherit; list-style: disc;\"><span style=\"font-size: 14pt;\">The left and right sides of the object remain unchanged</span></li>\n</ul>",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6ab036bdb1cb298933c23ad6",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "6101638faacfcb4661fa3025",
+          "name": "<p style=\"font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; line-height: inherit; font-family: Verdana, Geneva, Tahoma, Arial, Helvetica, sans-serif; color: #050002; letter-spacing: 1px; text-align: justify;\"><strong><span style=\"font-size: 14pt;\">Choose the correct water image of the fig. (x) from the given four figures.</span></strong></p>\n<p style=\"font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; line-height: inherit; font-family: Verdana, Geneva, Tahoma, Arial, Helvetica, sans-serif; color: #050002; letter-spacing: 1px;\"><img src=\"images/img_f36ab5b0a950.png\" alt=\"\" width=\"153\" height=\"128\" /></p>\n<p style=\"font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; line-height: inherit; font-family: Verdana, Geneva, Tahoma, Arial, Helvetica, sans-serif; color: #050002; letter-spacing: 1px;\"><strong><span style=\"font-size: 14pt;\"><img src=\"images/img_c013108cb8bd.png\" alt=\"\" width=\"638\" height=\"128\" /></span></strong></p>",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "Choose the correct water image of the fig. (x) from the given four figures.\n\n",
+          "sectionId": "6101636d0dfb9b852d08d1ed",
+          "order": 9,
+          "questionSubmitOrder": 9,
+          "options": [
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">a</span></p>",
+              "nameText": "a",
+              "isCorrect": false,
+              "_id": "610172e3935a3fefa8948b00",
+              "isMarked": false
+            },
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">b</span></p>",
+              "nameText": "b",
+              "isCorrect": false,
+              "_id": "610172e3935a3f5434948b01",
+              "isMarked": false
+            },
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">c</span></p>",
+              "nameText": "c",
+              "isCorrect": false,
+              "_id": "610172e3935a3f3259948b02",
+              "isMarked": false
+            },
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">d</span></p>",
+              "nameText": "d",
+              "isCorrect": true,
+              "_id": "610172e3935a3f68e2948b03",
+              "isMarked": false
+            }
+          ],
+          "solution": "<h5 class=\"text-center\" style=\"font-family: Verdana, Geneva, Tahoma, Arial, Helvetica, sans-serif; font-weight: inherit; line-height: inherit; color: #ffcc00; margin: 0px; padding: 9px 0px 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; letter-spacing: 1px; font-size: 14px !important;\"><span style=\"color: #00b050;\"><span style=\"font-size: 18.6667px;\">Answer - D</span></span></h5>",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6ab036bdb1cb29d665c23ad7",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "6101638faacfcb416dfa302a",
+          "name": "<p style=\"font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; line-height: inherit; font-family: Verdana, Geneva, Tahoma, Arial, Helvetica, sans-serif; color: #050002; letter-spacing: 1px; text-align: justify;\"><strong><span style=\"font-size: 14pt;\">Choose the correct water image of the question figure, from the given answer figures (assume that water is along XY)</span></strong></p>\n<p style=\"font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; line-height: inherit; font-family: Verdana, Geneva, Tahoma, Arial, Helvetica, sans-serif; color: #050002; letter-spacing: 1px; text-align: justify;\"><strong><span style=\"font-size: 14pt;\"><img class=\"img-responsive\" style=\"border: 0px; margin: 0px; padding: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; line-height: inherit; font-family: inherit; pointer-events: none; display: block; max-width: 100%; height: auto;\" src=\"images/img_ffecb61b6e6a.png\" alt=\"Non verbal reasoning, water images practice questions with detailed solutions, water images question and answers with explanations, Non-verbal series, water images tips and tricks, practice tests for competitive exams, Free water images practice questions\" /></span></strong></p>",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "Choose the correct water image of the question figure, from the given answer figures (assume that water is along XY)\n",
+          "sectionId": "6101636d0dfb9b852d08d1ed",
+          "order": 10,
+          "questionSubmitOrder": 10,
+          "options": [
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">1</span></p>",
+              "nameText": "1",
+              "isCorrect": false,
+              "_id": "610172e3935a3f8bb0948b18",
+              "isMarked": false
+            },
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">2</span></p>",
+              "nameText": "2",
+              "isCorrect": true,
+              "_id": "610172e3935a3f17f4948b19",
+              "isMarked": false
+            },
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">3</span></p>",
+              "nameText": "3",
+              "isCorrect": false,
+              "_id": "610172e3935a3f2d6d948b1a",
+              "isMarked": false
+            },
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">4</span></p>",
+              "nameText": "4",
+              "isCorrect": false,
+              "_id": "610172e3935a3f3b9b948b1b",
+              "isMarked": false
+            }
+          ],
+          "solution": "<h5 class=\"text-center\" style=\"font-family: Verdana, Geneva, Tahoma, Arial, Helvetica, sans-serif; font-weight: inherit; line-height: inherit; color: #ffcc00; margin: 0px; padding: 9px 0px 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; letter-spacing: 1px; font-size: 14px !important;\"><span style=\"font-size: 14pt;\"><span style=\"margin: 0px; padding: 0px; font-style: inherit; font-variant: inherit; font-weight: bold; font-stretch: inherit; line-height: inherit; font-family: inherit; color: #00b050;\">Answer:</span>&nbsp;Option B</span></h5>\n<p style=\"padding-right: 10px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-weight: bold; font-stretch: inherit; line-height: inherit; font-family: Verdana, Geneva, Tahoma, Arial, Helvetica, sans-serif; text-align: justify; color: #050002; letter-spacing: 1px;\"><span style=\"margin: 0px; padding: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; line-height: inherit; font-family: inherit; color: #00b050; font-size: 14pt;\">Explanation</span></p>\n<p style=\"font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; line-height: inherit; font-family: Verdana, Geneva, Tahoma, Arial, Helvetica, sans-serif; text-align: justify; color: #050002; letter-spacing: 1px;\">&nbsp;</p>\n<p style=\"font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; line-height: inherit; font-family: Verdana, Geneva, Tahoma, Arial, Helvetica, sans-serif; text-align: justify; color: #050002; letter-spacing: 1px;\"><span style=\"font-size: 14pt;\"><img class=\"img-responsive\" style=\"border: 0px; margin: 0px; padding: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; line-height: inherit; font-family: inherit; pointer-events: none; display: block; max-width: 100%; height: auto;\" src=\"images/img_fc00a3fd0b49.png\" alt=\"Non verbal reasoning, water images practice questions with detailed solutions, water images question and answers with explanations, Non-verbal series, water images tips and tricks, practice tests for competitive exams, Free water images practice questions\" /></span></p>\n<p style=\"font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; line-height: inherit; font-family: Verdana, Geneva, Tahoma, Arial, Helvetica, sans-serif; text-align: justify; color: #050002; letter-spacing: 1px;\"><span style=\"font-size: 14pt;\">In the water image,</span></p>\n<ul style=\"padding: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; line-height: inherit; font-family: Verdana, Geneva, Tahoma, Arial, Helvetica, sans-serif; list-style-position: initial; list-style-image: initial; color: #050002; letter-spacing: 1px; text-align: justify; margin: 0px 0px 0px 19px !important;\">\n<li style=\"margin: 0px; padding: 0px; font: inherit; list-style: disc;\"><span style=\"font-size: 14pt;\">The top side of the object becomes the bottom</span></li>\n<li style=\"margin: 0px; padding: 0px; font: inherit; list-style: disc;\"><span style=\"font-size: 14pt;\">The bottom side of the object becomes the top</span></li>\n<li style=\"margin: 0px; padding: 0px; font: inherit; list-style: disc;\"><span style=\"font-size: 14pt;\">The left and right sides of the object remain unchanged</span></li>\n</ul>",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6ab036bdb1cb294ebfc23ad8",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "6101638faacfcb2407fa302f",
+          "name": "<p style=\"font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; line-height: inherit; font-family: Verdana, Geneva, Tahoma, Arial, Helvetica, sans-serif; color: #050002; letter-spacing: 1px; text-align: justify;\"><strong><span style=\"font-size: 14pt;\">Choose the correct water image of the question figure, from the given answer figures (assume that water is along XY)</span></strong></p>\n<p style=\"font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; line-height: inherit; font-family: Verdana, Geneva, Tahoma, Arial, Helvetica, sans-serif; color: #050002; letter-spacing: 1px; text-align: justify;\"><strong><span style=\"font-size: 14pt;\"><img class=\"img-responsive\" style=\"border: 0px; margin: 0px; padding: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; line-height: inherit; font-family: inherit; pointer-events: none; display: block; max-width: 100%; height: auto;\" src=\"images/img_4052b2fc38d7.png\" alt=\"Non verbal reasoning, water images practice questions with detailed solutions, water images question and answers with explanations, Non-verbal series, water images tips and tricks, practice tests for competitive exams, Free water images practice questions\" /></span></strong></p>",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "Choose the correct water image of the question figure, from the given answer figures (assume that water is along XY)\n",
+          "sectionId": "6101636d0dfb9b852d08d1ed",
+          "order": 11,
+          "questionSubmitOrder": 11,
+          "options": [
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">1</span></p>",
+              "nameText": "1",
+              "isCorrect": false,
+              "_id": "610172e3935a3f46d3948aec",
+              "isMarked": false
+            },
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">2</span></p>",
+              "nameText": "2",
+              "isCorrect": true,
+              "_id": "610172e3935a3fb220948aed",
+              "isMarked": false
+            },
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">3</span></p>",
+              "nameText": "3",
+              "isCorrect": false,
+              "_id": "610172e3935a3f4473948aee",
+              "isMarked": false
+            },
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">4</span></p>",
+              "nameText": "4",
+              "isCorrect": false,
+              "_id": "610172e3935a3f5c13948aef",
+              "isMarked": false
+            }
+          ],
+          "solution": "<h5 class=\"text-center\" style=\"font-family: Verdana, Geneva, Tahoma, Arial, Helvetica, sans-serif; font-weight: inherit; line-height: inherit; color: #ffcc00; margin: 0px; padding: 9px 0px 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; letter-spacing: 1px; font-size: 14px !important;\"><span style=\"font-size: 14pt;\"><span style=\"margin: 0px; padding: 0px; font-style: inherit; font-variant: inherit; font-weight: bold; font-stretch: inherit; line-height: inherit; font-family: inherit; color: #00b050;\">Answer:</span>&nbsp;Option B</span></h5>\n<p style=\"padding-right: 10px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-weight: bold; font-stretch: inherit; line-height: inherit; font-family: Verdana, Geneva, Tahoma, Arial, Helvetica, sans-serif; text-align: justify; color: #050002; letter-spacing: 1px;\"><span style=\"margin: 0px; padding: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; line-height: inherit; font-family: inherit; color: #00b050; font-size: 14pt;\">Explanation</span></p>\n<p style=\"font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; line-height: inherit; font-family: Verdana, Geneva, Tahoma, Arial, Helvetica, sans-serif; text-align: justify; color: #050002; letter-spacing: 1px;\">&nbsp;</p>\n<p style=\"font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; line-height: inherit; font-family: Verdana, Geneva, Tahoma, Arial, Helvetica, sans-serif; text-align: justify; color: #050002; letter-spacing: 1px;\"><span style=\"font-size: 14pt;\"><img class=\"img-responsive\" style=\"border: 0px; margin: 0px; padding: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; line-height: inherit; font-family: inherit; pointer-events: none; display: block; max-width: 100%; height: auto;\" src=\"images/img_8e675f950b1a.png\" alt=\"Non verbal reasoning, water images practice questions with detailed solutions, water images question and answers with explanations, Non-verbal series, water images tips and tricks, practice tests for competitive exams, Free water images practice questions\" /></span></p>\n<p style=\"font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; line-height: inherit; font-family: Verdana, Geneva, Tahoma, Arial, Helvetica, sans-serif; text-align: justify; color: #050002; letter-spacing: 1px;\"><span style=\"font-size: 14pt;\">In the water image,</span></p>\n<ul style=\"padding: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; line-height: inherit; font-family: Verdana, Geneva, Tahoma, Arial, Helvetica, sans-serif; list-style-position: initial; list-style-image: initial; color: #050002; letter-spacing: 1px; text-align: justify; margin: 0px 0px 0px 19px !important;\">\n<li style=\"margin: 0px; padding: 0px; font: inherit; list-style: disc;\"><span style=\"font-size: 14pt;\">The top side of the object becomes the bottom</span></li>\n<li style=\"margin: 0px; padding: 0px; font: inherit; list-style: disc;\"><span style=\"font-size: 14pt;\">The bottom side of the object becomes the top</span></li>\n<li style=\"margin: 0px; padding: 0px; font: inherit; list-style: disc;\"><span style=\"font-size: 14pt;\">The left and right sides of the object remain unchanged</span></li>\n</ul>",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6ab036bdb1cb29dd13c23ad9",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "6101638faacfcb814efa3034",
+          "name": "<p style=\"font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; line-height: inherit; font-family: Verdana, Geneva, Tahoma, Arial, Helvetica, sans-serif; color: #050002; letter-spacing: 1px; text-align: justify;\"><strong><span style=\"font-size: 14pt;\">Choose the correct water image of the question figure, from the given answer figures (assume that water is along XY)</span></strong></p>\n<p style=\"font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; line-height: inherit; font-family: Verdana, Geneva, Tahoma, Arial, Helvetica, sans-serif; color: #050002; letter-spacing: 1px; text-align: justify;\"><strong><span style=\"font-size: 14pt;\"><img class=\"img-responsive\" style=\"border: 0px; margin: 0px; padding: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; line-height: inherit; font-family: inherit; pointer-events: none; display: block; max-width: 100%; height: auto;\" src=\"images/img_cc23d646e35d.png\" alt=\"Non verbal reasoning, water images practice questions with detailed solutions, water images question and answers with explanations, Non-verbal series, water images tips and tricks, practice tests for competitive exams, Free water images practice questions\" /></span></strong></p>",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "Choose the correct water image of the question figure, from the given answer figures (assume that water is along XY)\n",
+          "sectionId": "6101636d0dfb9b852d08d1ed",
+          "order": 12,
+          "questionSubmitOrder": 12,
+          "options": [
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">1</span></p>",
+              "nameText": "1",
+              "isCorrect": false,
+              "_id": "610172e3935a3f7218948b10",
+              "isMarked": false
+            },
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">2</span></p>",
+              "nameText": "2",
+              "isCorrect": true,
+              "_id": "610172e3935a3f0499948b11",
+              "isMarked": false
+            },
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">3</span></p>",
+              "nameText": "3",
+              "isCorrect": false,
+              "_id": "610172e3935a3f8e28948b12",
+              "isMarked": false
+            },
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">4</span></p>",
+              "nameText": "4",
+              "isCorrect": false,
+              "_id": "610172e3935a3f1065948b13",
+              "isMarked": false
+            }
+          ],
+          "solution": "<h5 class=\"text-center\" style=\"font-family: Verdana, Geneva, Tahoma, Arial, Helvetica, sans-serif; font-weight: inherit; line-height: inherit; color: #ffcc00; margin: 0px; padding: 9px 0px 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; letter-spacing: 1px; font-size: 14px !important;\"><span style=\"font-size: 14pt;\"><span style=\"margin: 0px; padding: 0px; font-style: inherit; font-variant: inherit; font-weight: bold; font-stretch: inherit; line-height: inherit; font-family: inherit; color: #00b050;\">Answer:</span>&nbsp;Option B</span></h5>\n<p style=\"padding-right: 10px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-weight: bold; font-stretch: inherit; line-height: inherit; font-family: Verdana, Geneva, Tahoma, Arial, Helvetica, sans-serif; text-align: justify; color: #050002; letter-spacing: 1px;\"><span style=\"margin: 0px; padding: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; line-height: inherit; font-family: inherit; color: #00b050; font-size: 14pt;\">Explanation</span></p>\n<p style=\"font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; line-height: inherit; font-family: Verdana, Geneva, Tahoma, Arial, Helvetica, sans-serif; text-align: justify; color: #050002; letter-spacing: 1px;\">&nbsp;</p>\n<p style=\"font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; line-height: inherit; font-family: Verdana, Geneva, Tahoma, Arial, Helvetica, sans-serif; text-align: justify; color: #050002; letter-spacing: 1px;\"><span style=\"font-size: 14pt;\"><img class=\"img-responsive\" style=\"border: 0px; margin: 0px; padding: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; line-height: inherit; font-family: inherit; pointer-events: none; display: block; max-width: 100%; height: auto;\" src=\"images/img_c954a430281a.png\" alt=\"Non verbal reasoning, water images practice questions with detailed solutions, water images question and answers with explanations, Non-verbal series, water images tips and tricks, practice tests for competitive exams, Free water images practice questions\" /></span></p>\n<p style=\"font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; line-height: inherit; font-family: Verdana, Geneva, Tahoma, Arial, Helvetica, sans-serif; text-align: justify; color: #050002; letter-spacing: 1px;\"><span style=\"font-size: 14pt;\">In the water image,</span></p>\n<ul style=\"padding: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; line-height: inherit; font-family: Verdana, Geneva, Tahoma, Arial, Helvetica, sans-serif; list-style-position: initial; list-style-image: initial; color: #050002; letter-spacing: 1px; text-align: justify; margin: 0px 0px 0px 19px !important;\">\n<li style=\"margin: 0px; padding: 0px; font: inherit; list-style: disc;\"><span style=\"font-size: 14pt;\">The top side of the object becomes the bottom</span></li>\n<li style=\"margin: 0px; padding: 0px; font: inherit; list-style: disc;\"><span style=\"font-size: 14pt;\">The bottom side of the object becomes the top</span></li>\n<li style=\"margin: 0px; padding: 0px; font: inherit; list-style: disc;\"><span style=\"font-size: 14pt;\">The left and right sides of the object remain unchanged</span></li>\n</ul>",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6ab036bdb1cb294109c23ada",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "6101638faacfcb8d5efa3039",
+          "name": "<p style=\"font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; line-height: inherit; font-family: Verdana, Geneva, Tahoma, Arial, Helvetica, sans-serif; color: #050002; letter-spacing: 1px; text-align: justify;\"><strong><span style=\"font-size: 14pt;\">Choose the correct water image of the question figure, from the given answer figures (assume that water is along XY)</span></strong></p>\n<p style=\"font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; line-height: inherit; font-family: Verdana, Geneva, Tahoma, Arial, Helvetica, sans-serif; color: #050002; letter-spacing: 1px; text-align: justify;\"><strong><span style=\"font-size: 14pt;\"><img class=\"img-responsive\" style=\"border: 0px; margin: 0px; padding: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; line-height: inherit; font-family: inherit; pointer-events: none; display: block; max-width: 100%; height: auto;\" src=\"images/img_a1d57c8029e1.png\" alt=\"Non verbal reasoning, water images practice questions with detailed solutions, water images question and answers with explanations, Non-verbal series, water images tips and tricks, practice tests for competitive exams, Free water images practice questions\" /></span></strong></p>",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "Choose the correct water image of the question figure, from the given answer figures (assume that water is along XY)\n",
+          "sectionId": "6101636d0dfb9b852d08d1ed",
+          "order": 13,
+          "questionSubmitOrder": 13,
+          "options": [
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">1</span></p>",
+              "nameText": "1",
+              "isCorrect": false,
+              "_id": "610172e3935a3f4950948af8",
+              "isMarked": false
+            },
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">2</span></p>",
+              "nameText": "2",
+              "isCorrect": false,
+              "_id": "610172e3935a3fcddb948af9",
+              "isMarked": false
+            },
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">3</span></p>",
+              "nameText": "3",
+              "isCorrect": false,
+              "_id": "610172e3935a3f09f2948afa",
+              "isMarked": false
+            },
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">4</span></p>",
+              "nameText": "4",
+              "isCorrect": true,
+              "_id": "610172e3935a3f0d4a948afb",
+              "isMarked": false
+            }
+          ],
+          "solution": "<h5 class=\"text-center\" style=\"font-family: Verdana, Geneva, Tahoma, Arial, Helvetica, sans-serif; font-weight: inherit; line-height: inherit; color: #ffcc00; margin: 0px; padding: 9px 0px 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; letter-spacing: 1px; font-size: 14px !important;\"><span style=\"font-size: 14pt;\"><span style=\"margin: 0px; padding: 0px; font-style: inherit; font-variant: inherit; font-weight: bold; font-stretch: inherit; line-height: inherit; font-family: inherit; color: #00b050;\">Answer:</span>&nbsp;Option D</span></h5>\n<p style=\"padding-right: 10px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-weight: bold; font-stretch: inherit; line-height: inherit; font-family: Verdana, Geneva, Tahoma, Arial, Helvetica, sans-serif; text-align: justify; color: #050002; letter-spacing: 1px;\"><span style=\"margin: 0px; padding: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; line-height: inherit; font-family: inherit; color: #00b050; font-size: 14pt;\">Explanation</span></p>\n<p style=\"font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; line-height: inherit; font-family: Verdana, Geneva, Tahoma, Arial, Helvetica, sans-serif; text-align: justify; color: #050002; letter-spacing: 1px;\">&nbsp;</p>\n<p style=\"font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; line-height: inherit; font-family: Verdana, Geneva, Tahoma, Arial, Helvetica, sans-serif; text-align: justify; color: #050002; letter-spacing: 1px;\"><span style=\"font-size: 14pt;\"><img class=\"img-responsive\" style=\"border: 0px; margin: 0px; padding: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; line-height: inherit; font-family: inherit; pointer-events: none; display: block; max-width: 100%; height: auto;\" src=\"images/img_6ce79fd73561.png\" alt=\"Non verbal reasoning, water images practice questions with detailed solutions, water images question and answers with explanations, Non-verbal series, water images tips and tricks, practice tests for competitive exams, Free water images practice questions\" /></span></p>\n<p style=\"font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; line-height: inherit; font-family: Verdana, Geneva, Tahoma, Arial, Helvetica, sans-serif; text-align: justify; color: #050002; letter-spacing: 1px;\"><span style=\"font-size: 14pt;\">In the water image,</span></p>\n<ul style=\"padding: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; line-height: inherit; font-family: Verdana, Geneva, Tahoma, Arial, Helvetica, sans-serif; list-style-position: initial; list-style-image: initial; color: #050002; letter-spacing: 1px; text-align: justify; margin: 0px 0px 0px 19px !important;\">\n<li style=\"margin: 0px; padding: 0px; font: inherit; list-style: disc;\"><span style=\"font-size: 14pt;\">The top side of the object becomes the bottom</span></li>\n<li style=\"margin: 0px; padding: 0px; font: inherit; list-style: disc;\"><span style=\"font-size: 14pt;\">The bottom side of the object becomes the top</span></li>\n<li style=\"margin: 0px; padding: 0px; font: inherit; list-style: disc;\"><span style=\"font-size: 14pt;\">The left and right sides of the object remain unchanged</span></li>\n</ul>",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6ab036bdb1cb29b90ac23adb",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "6101638faacfcb40c4fa303e",
+          "name": "<p style=\"font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; line-height: inherit; font-family: Verdana, Geneva, Tahoma, Arial, Helvetica, sans-serif; color: #050002; letter-spacing: 1px; text-align: justify;\"><strong><span style=\"font-size: 14pt;\">Choose the correct water image of the question figure, from the given answer figures (assume that water is along XY)</span></strong></p>\n<p style=\"font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; line-height: inherit; font-family: Verdana, Geneva, Tahoma, Arial, Helvetica, sans-serif; color: #050002; letter-spacing: 1px; text-align: justify;\"><strong><span style=\"font-size: 14pt;\"><img class=\"img-responsive\" style=\"border: 0px; margin: 0px; padding: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; line-height: inherit; font-family: inherit; pointer-events: none; display: block; max-width: 100%; height: auto;\" src=\"images/img_54ace88cd0ae.png\" alt=\"Non verbal reasoning, water images practice questions with detailed solutions, water images question and answers with explanations, Non-verbal series, water images tips and tricks, practice tests for competitive exams, Free water images practice questions\" /></span></strong></p>",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "Choose the correct water image of the question figure, from the given answer figures (assume that water is along XY)\n",
+          "sectionId": "6101636d0dfb9b852d08d1ed",
+          "order": 14,
+          "questionSubmitOrder": 14,
+          "options": [
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">1</span></p>",
+              "nameText": "1",
+              "isCorrect": true,
+              "_id": "610172e3935a3f52c8948b04",
+              "isMarked": false
+            },
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">2</span></p>",
+              "nameText": "2",
+              "isCorrect": false,
+              "_id": "610172e3935a3fd4ad948b05",
+              "isMarked": false
+            },
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">3</span></p>",
+              "nameText": "3",
+              "isCorrect": false,
+              "_id": "610172e3935a3f0a74948b06",
+              "isMarked": false
+            },
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">4</span></p>",
+              "nameText": "4",
+              "isCorrect": false,
+              "_id": "610172e3935a3f076a948b07",
+              "isMarked": false
+            }
+          ],
+          "solution": "<h5 class=\"text-center\" style=\"font-family: Verdana, Geneva, Tahoma, Arial, Helvetica, sans-serif; font-weight: inherit; line-height: inherit; color: #ffcc00; margin: 0px; padding: 9px 0px 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; letter-spacing: 1px; font-size: 14px !important;\"><span style=\"font-size: 14pt;\"><span style=\"margin: 0px; padding: 0px; font-style: inherit; font-variant: inherit; font-weight: bold; font-stretch: inherit; line-height: inherit; font-family: inherit; color: #00b050;\">Answer:</span>&nbsp;Option A</span></h5>\n<p style=\"padding-right: 10px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-weight: bold; font-stretch: inherit; line-height: inherit; font-family: Verdana, Geneva, Tahoma, Arial, Helvetica, sans-serif; text-align: justify; color: #050002; letter-spacing: 1px;\"><span style=\"margin: 0px; padding: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; line-height: inherit; font-family: inherit; color: #00b050; font-size: 14pt;\">Explanation</span></p>\n<p style=\"font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; line-height: inherit; font-family: Verdana, Geneva, Tahoma, Arial, Helvetica, sans-serif; text-align: justify; color: #050002; letter-spacing: 1px;\">&nbsp;</p>\n<p style=\"font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; line-height: inherit; font-family: Verdana, Geneva, Tahoma, Arial, Helvetica, sans-serif; text-align: justify; color: #050002; letter-spacing: 1px;\"><span style=\"font-size: 14pt;\"><img class=\"img-responsive\" style=\"border: 0px; margin: 0px; padding: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; line-height: inherit; font-family: inherit; pointer-events: none; display: block; max-width: 100%; height: auto;\" src=\"images/img_7ca5552dd44d.png\" alt=\"Non verbal reasoning, water images practice questions with detailed solutions, water images question and answers with explanations, Non-verbal series, water images tips and tricks, practice tests for competitive exams, Free water images practice questions\" /></span></p>\n<p style=\"font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; line-height: inherit; font-family: Verdana, Geneva, Tahoma, Arial, Helvetica, sans-serif; text-align: justify; color: #050002; letter-spacing: 1px;\"><span style=\"font-size: 14pt;\">In the water image,</span></p>\n<ul style=\"padding: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; line-height: inherit; font-family: Verdana, Geneva, Tahoma, Arial, Helvetica, sans-serif; list-style-position: initial; list-style-image: initial; color: #050002; letter-spacing: 1px; text-align: justify; margin: 0px 0px 0px 19px !important;\">\n<li style=\"margin: 0px; padding: 0px; font: inherit; list-style: disc;\"><span style=\"font-size: 14pt;\">The top side of the object becomes the bottom</span></li>\n<li style=\"margin: 0px; padding: 0px; font: inherit; list-style: disc;\"><span style=\"font-size: 14pt;\">The bottom side of the object becomes the top</span></li>\n<li style=\"margin: 0px; padding: 0px; font: inherit; list-style: disc;\"><span style=\"font-size: 14pt;\">The left and right sides of the object remain unchanged</span></li>\n</ul>",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6ab036bdb1cb29dc36c23adc",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "6101638faacfcbfac0fa3043",
+          "name": "<p style=\"font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; line-height: inherit; font-family: Verdana, Geneva, Tahoma, Arial, Helvetica, sans-serif; color: #050002; letter-spacing: 1px; text-align: justify;\"><strong><span style=\"font-size: 14pt;\">Choose the correct water image of the question figure, from the given answer figures (assume that water is along XY)</span></strong></p>\n<p style=\"font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; line-height: inherit; font-family: Verdana, Geneva, Tahoma, Arial, Helvetica, sans-serif; color: #050002; letter-spacing: 1px; text-align: justify;\"><strong><span style=\"font-size: 14pt;\"><img class=\"img-responsive\" style=\"border: 0px; margin: 0px; padding: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; line-height: inherit; font-family: inherit; pointer-events: none; display: block; max-width: 100%; height: auto;\" src=\"images/img_b1b42bcdf082.png\" alt=\"Non verbal reasoning, water images practice questions with detailed solutions, water images question and answers with explanations, Non-verbal series, water images tips and tricks, practice tests for competitive exams, Free water images practice questions\" /></span></strong></p>",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "Choose the correct water image of the question figure, from the given answer figures (assume that water is along XY)\n",
+          "sectionId": "6101636d0dfb9b852d08d1ed",
+          "order": 15,
+          "questionSubmitOrder": 15,
+          "options": [
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">1</span></p>",
+              "nameText": "1",
+              "isCorrect": false,
+              "_id": "610172e3935a3f27e6948b1c",
+              "isMarked": false
+            },
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">2</span></p>",
+              "nameText": "2",
+              "isCorrect": true,
+              "_id": "610172e3935a3f9370948b1d",
+              "isMarked": false
+            },
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">3</span></p>",
+              "nameText": "3",
+              "isCorrect": false,
+              "_id": "610172e3935a3fd0d2948b1e",
+              "isMarked": false
+            },
+            {
+              "name": "<p><span style=\"font-size: 14pt;\">4</span></p>",
+              "nameText": "4",
+              "isCorrect": false,
+              "_id": "610172e3935a3f1745948b1f",
+              "isMarked": false
+            }
+          ],
+          "solution": "<h5 class=\"text-center\" style=\"font-family: Verdana, Geneva, Tahoma, Arial, Helvetica, sans-serif; font-weight: inherit; line-height: inherit; color: #ffcc00; margin: 0px; padding: 9px 0px 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; letter-spacing: 1px; font-size: 14px !important;\"><span style=\"font-size: 14pt;\"><span style=\"margin: 0px; padding: 0px; font-style: inherit; font-variant: inherit; font-weight: bold; font-stretch: inherit; line-height: inherit; font-family: inherit; color: #00b050;\">Answer:</span>&nbsp;Option B</span></h5>\n<p style=\"padding-right: 10px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-weight: bold; font-stretch: inherit; line-height: inherit; font-family: Verdana, Geneva, Tahoma, Arial, Helvetica, sans-serif; text-align: justify; color: #050002; letter-spacing: 1px;\"><span style=\"margin: 0px; padding: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; line-height: inherit; font-family: inherit; color: #00b050; font-size: 14pt;\">Explanation</span></p>\n<p style=\"font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; line-height: inherit; font-family: Verdana, Geneva, Tahoma, Arial, Helvetica, sans-serif; text-align: justify; color: #050002; letter-spacing: 1px;\">&nbsp;</p>\n<p style=\"font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; line-height: inherit; font-family: Verdana, Geneva, Tahoma, Arial, Helvetica, sans-serif; text-align: justify; color: #050002; letter-spacing: 1px;\"><span style=\"font-size: 14pt;\"><img class=\"img-responsive\" style=\"border: 0px; margin: 0px; padding: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; line-height: inherit; font-family: inherit; pointer-events: none; display: block; max-width: 100%; height: auto;\" src=\"images/img_850f91a21c58.png\" alt=\"Non verbal reasoning, water images practice questions with detailed solutions, water images question and answers with explanations, Non-verbal series, water images tips and tricks, practice tests for competitive exams, Free water images practice questions\" /></span></p>\n<p style=\"font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; line-height: inherit; font-family: Verdana, Geneva, Tahoma, Arial, Helvetica, sans-serif; text-align: justify; color: #050002; letter-spacing: 1px;\"><span style=\"font-size: 14pt;\">In the water image,</span></p>\n<ul style=\"padding: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; line-height: inherit; font-family: Verdana, Geneva, Tahoma, Arial, Helvetica, sans-serif; list-style-position: initial; list-style-image: initial; color: #050002; letter-spacing: 1px; text-align: justify; margin: 0px 0px 0px 19px !important;\">\n<li style=\"margin: 0px; padding: 0px; font: inherit; list-style: disc;\"><span style=\"font-size: 14pt;\">The top side of the object becomes the bottom</span></li>\n<li style=\"margin: 0px; padding: 0px; font: inherit; list-style: disc;\"><span style=\"font-size: 14pt;\">The bottom side of the object becomes the top</span></li>\n<li style=\"margin: 0px; padding: 0px; font: inherit; list-style: disc;\"><span style=\"font-size: 14pt;\">The left and right sides of the object remain unchanged</span></li>\n</ul>",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6ab036bdb1cb297869c23add",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        }
+      ],
+      "numberOfQuestions": 15
+    }
+  ],
+  "userDetails": {
+    "name": "HackWithInfyPrep",
+    "userId": 192606116,
+    "orgId": 44032
+  },
+  "sts": 1789933254908,
+  "region": {
+    "timeFormat": "hh:mm a",
+    "dateTimeStamp": "yyyy/MM/dd"
+  }
+}

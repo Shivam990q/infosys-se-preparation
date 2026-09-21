@@ -9,4 +9,10 @@ Thumbs.db
 ehthumbs.db
 Desktop.ini
 $RECYCLE.BIN/
-.DS_Store
+# Media & Large Binaries (exceeds GitHub 100MB limit)
+*.mp4
+*.mkv
+*.avi
+*.mov
+*.zip
+*.tar.gz
