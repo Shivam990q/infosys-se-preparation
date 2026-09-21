@@ -13,6 +13,7 @@ import {
   Folder
 } from 'lucide-react';
 import CourseExplorer from './components/CourseExplorer';
+import MockTest from './components/MockTest';
 
 const SUBJECT_DESCRIPTIONS = {
   "Analytical & Critical Reasoning": "Evaluate complex arguments, recognize patterns, and apply logical structures to solve high-level problems.",
@@ -422,238 +423,6 @@ const TestConfigModal = ({ availableCount, filters, onStart, onClose }) => {
   );
 };
 
-
-const MockTest = ({ questions, timeLimit, onFinish }) => {
-  const [currentIndex, setCurrentIndex] = useState(0);
-  const [answers, setAnswers] = useState({});
-  const [showResult, setShowResult] = useState(false);
-  const [timeLeft, setTimeLeft] = useState(timeLimit);
-
-  useEffect(() => {
-    if (showResult || timeLimit === -1) return;
-    const timer = setInterval(() => {
-      setTimeLeft(prev => {
-        if (prev <= 1) {
-          setShowResult(true);
-          return 0;
-        }
-        return prev - 1;
-      });
-    }, 1000);
-    return () => clearInterval(timer);
-  }, [showResult, timeLimit]);
-
-  useEffect(() => {
-    if (showResult) {
-      confetti({
-        particleCount: 150,
-        spread: 70,
-        origin: { y: 0.6 },
-        colors: ['#6366f1', '#c084fc', '#4f46e5']
-      });
-    }
-  }, [showResult]);
-
-  const score = useMemo(() => {
-    return Object.keys(answers).reduce((acc, idx) => {
-      const q = questions[idx];
-      const ans = answers[idx];
-      if (q.options && q.options.length > 0) {
-        // Multiple choice check
-        const selectedOpt = q.options.find(o => o.id === ans || o.option_text === ans);
-        if (selectedOpt && selectedOpt.is_correct) return acc + 1;
-      } else {
-        // Text input check
-        if (ans && q.solution && ans.trim().toLowerCase() === q.solution.trim().toLowerCase()) return acc + 1;
-      }
-      return acc;
-    }, 0);
-  }, [answers, questions]);
-
-  const formatTime = (seconds) => {
-    const m = Math.floor(seconds / 60);
-    const s = seconds % 60;
-    return `${m}:${s.toString().padStart(2, '0')}`;
-  };
-
-  if (showResult) {
-    const timeSpent = timeLimit === -1 ? 0 : timeLimit - Math.max(0, timeLeft);
-    const accuracy = Math.round((score / questions.length) * 100);
-
-    return (
-      <motion.div 
-        initial={{ opacity: 0, scale: 0.95 }}
-        animate={{ opacity: 1, scale: 1 }}
-        className="glass-card p-16 text-center max-w-3xl mx-auto relative overflow-hidden"
-      >
-        <div className="absolute top-0 left-0 w-full h-2 bg-[var(--theme-btn-primary-bg)] shadow-lg shadow-[0_4px_14px_var(--theme-shadow-accent)]" />
-        
-        <div className="w-24 h-24 bg-[var(--theme-bg-accent-subtle)] rounded-[2rem] flex items-center justify-center mx-auto mb-10 shadow-2xl shadow-[0_4px_14px_var(--theme-shadow-accent)] animate-float">
-          <Award className="text-[var(--theme-text-accent)]" size={48} />
-        </div>
-        
-        <h2 className="text-5xl font-black mb-4 tracking-tight text-[var(--theme-text-heading)]">Audit <span className="gradient-text">Concluded</span></h2>
-        <p className="text-[var(--theme-text-muted)] text-lg mb-12 font-medium">Simulation report generated for current security intelligence.</p>
-        
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mb-12">
-          {[
-            { label: 'Score Matrix', val: `${score} / ${questions.length}`, color: 'text-[var(--theme-text-accent)]' },
-            { label: 'Accuracy Rating', val: `${accuracy}%`, color: 'text-[var(--theme-text-success)]' },
-            { label: 'Time Efficiency', val: `${Math.floor(timeSpent / 60)}m ${timeSpent % 60}s`, color: 'text-[var(--theme-text-warning)]' }
-          ].map((stat, i) => (
-            <div key={i} className="p-8 rounded-[2.5rem] bg-[var(--theme-bg-subtle)] border border-[var(--theme-border)] flex flex-col gap-2">
-              <span className="text-[10px] font-black uppercase tracking-[0.2em] text-[var(--theme-text-muted)]">{stat.label}</span>
-              <span className={`text-3xl font-black ${stat.color}`}>{stat.val}</span>
-            </div>
-          ))}
-        </div>
-        
-        <button onClick={onFinish} className="btn-premium w-full py-6 text-lg tracking-widest uppercase font-black">
-          Archive Session & Exit
-        </button>
-      </motion.div>
-    );
-  }
-
-  const currentQuestion = questions[currentIndex];
-
-  return (
-    <div className="max-w-5xl mx-auto space-y-8">
-      <div className="flex justify-between items-center glass-card p-6 px-10 sticky top-8 z-50">
-        <div className="flex items-center gap-10">
-          <div className="text-xs font-black tracking-[0.2em] text-[var(--theme-text-muted)] flex items-center gap-3">
-            PHASE <span className="text-2xl text-[var(--theme-text-heading)] font-mono">{currentIndex + 1}</span> <span className="opacity-20">/</span> <span className="text-lg opacity-40">{questions.length}</span>
-          </div>
-          <div className="h-10 w-px bg-[var(--theme-border)] hidden md:block" />
-          {timeLimit !== -1 ? (
-            <div className={`flex items-center gap-3 font-mono text-2xl font-black ${timeLeft < 60 ? 'text-[var(--theme-text-danger)] animate-pulse' : 'text-[var(--theme-text-warning)]'}`}>
-              <Clock size={24} /> {formatTime(timeLeft)}
-            </div>
-          ) : (
-            <div className="flex items-center gap-3 font-mono text-lg font-black text-[var(--theme-text-accent)]">
-              <InfinityIcon size={24} /> Unlimited Time
-            </div>
-          )}
-        </div>
-        <div className="flex gap-2.5">
-          {questions.map((_, i) => (
-            <div 
-              key={i} 
-              className={`w-2 h-2 rounded-full transition-all duration-500 ${i === currentIndex ? 'bg-[var(--theme-bg-accent-solid)] scale-150 shadow-lg shadow-[0_8px_20px_var(--theme-shadow-accent)]' : i < currentIndex ? 'bg-[var(--theme-bg-accent-subtle)]' : 'bg-[var(--theme-bg-subtle)]'}`} 
-            />
-          ))}
-        </div>
-      </div>
-
-      <motion.div 
-        key={currentIndex}
-        initial={{ opacity: 0, x: 40 }}
-        animate={{ opacity: 1, x: 0 }}
-        className="glass-card p-12 min-h-[600px] flex flex-col relative overflow-hidden"
-      >
-        <div className="absolute top-0 right-0 p-12 opacity-5 pointer-events-none">
-          <Brain size={160} className="text-[var(--theme-text-accent)]" />
-        </div>
-        
-        <div className="flex-1 relative z-10">
-          <div className="mb-8">
-            <Badge variant="indigo">{currentQuestion.subject?.name}</Badge>
-          </div>
-          <h3 className="text-3xl md:text-4xl font-black mb-16 leading-[1.2] text-[var(--theme-text-primary)] tracking-tight tex2jax_process" dangerouslySetInnerHTML={{ __html: currentQuestion.question_text }} />
-          
-          <div className="max-w-2xl">
-            {currentQuestion.options && currentQuestion.options.length > 0 ? (
-              <div className="grid grid-cols-1 gap-4">
-                {currentQuestion.options.map((opt, idx) => (
-                  <button
-                    key={idx}
-                    onClick={() => setAnswers({...answers, [currentIndex]: opt.id || opt.option_text})}
-                    className={`text-left w-full p-6 rounded-2xl border transition-all ${
-                      answers[currentIndex] === (opt.id || opt.option_text) 
-                        ? 'bg-[var(--theme-bg-accent-subtle)] border-[var(--theme-border-strong)] shadow-md shadow-[0_4px_14px_var(--theme-shadow-accent)]' 
-                        : 'bg-[var(--theme-bg-subtle)] border-[var(--theme-border)] hover:bg-[var(--theme-bg-subtle-hover)] hover:border-[var(--theme-border-hover)]'
-                    }`}
-                  >
-                    <div className="flex gap-4 items-center">
-                      <div className={`w-8 h-8 rounded-full flex items-center justify-center font-bold transition-colors ${
-                        answers[currentIndex] === (opt.id || opt.option_text) ? 'bg-[var(--theme-bg-accent-solid)] text-white' : 'bg-[var(--theme-bg-subtle-hover)] text-[var(--theme-text-muted)]'
-                      }`}>
-                        {String.fromCharCode(65 + idx)}
-                      </div>
-                      <div className="text-lg font-medium text-[var(--theme-text-secondary)] tex2jax_process" dangerouslySetInnerHTML={{ __html: opt.option_text }} />
-                    </div>
-                  </button>
-                ))}
-              </div>
-            ) : (
-              <>
-                <div className="flex items-center justify-between mb-4">
-                  <label className="text-[10px] font-black text-[var(--theme-text-muted)] uppercase tracking-[0.3em]">Identification Input</label>
-                  <span className="text-[9px] text-[var(--theme-text-accent)] font-bold uppercase tracking-widest flex items-center gap-1">
-                    <Sparkles size={10} /> Precision Mode Active
-                  </span>
-                </div>
-                <input 
-                  type="text"
-                  placeholder="Enter solution hash..."
-                  value={answers[currentIndex] || ''}
-                  onChange={(e) => setAnswers({...answers, [currentIndex]: e.target.value})}
-                  className="w-full p-8 rounded-[2.5rem] bg-[var(--theme-bg-input)] border border-[var(--theme-border)] focus:border-[var(--theme-bg-accent-solid)] focus:ring-[20px] focus:ring-[var(--theme-shadow-accent)] outline-none text-3xl font-black tracking-tight transition-all placeholder:text-[var(--theme-text-faint)] text-[var(--theme-text-primary)]"
-                  autoFocus
-                  onKeyDown={(ev) => {
-                    if (ev.key === 'Enter') {
-                      if (currentIndex < questions.length - 1) {
-                        setCurrentIndex(currentIndex + 1);
-                      } else {
-                        const unanswered = questions.length - Object.keys(answers).length;
-                        if (unanswered > 0) {
-                          if (!window.confirm(`You have ${unanswered} unanswered questions. Are you sure you want to submit?`)) {
-                            return;
-                          }
-                        }
-                        setShowResult(true);
-                      }
-                    }
-                  }}
-                />
-              </>
-            )}
-          </div>
-        </div>
-
-        <div className="mt-16 flex justify-between items-center relative z-10 pt-10 border-t border-[var(--theme-border)]">
-          <button 
-            disabled={currentIndex === 0}
-            onClick={() => setCurrentIndex(currentIndex - 1)}
-            className="btn-secondary group flex items-center gap-3"
-          >
-            <ChevronLeft size={20} className="group-hover:-translate-x-1 transition-transform" /> Back
-          </button>
-          <button 
-            onClick={() => {
-              if (currentIndex < questions.length - 1) {
-                setCurrentIndex(currentIndex + 1);
-              } else {
-                const unanswered = questions.length - Object.keys(answers).length;
-                if (unanswered > 0) {
-                  if (!window.confirm(`You have ${unanswered} unanswered questions. Are you sure you want to submit?`)) {
-                    return;
-                  }
-                }
-                setShowResult(true);
-              }
-            }}
-            className="btn-premium flex items-center gap-4 px-12 group"
-          >
-            {currentIndex === questions.length - 1 ? 'Analyze Final Report' : 'Proceed to Next Phase'} 
-            <ChevronRight size={20} className="group-hover:translate-x-1 transition-transform" />
-          </button>
-        </div>
-      </motion.div>
-    </div>
-  );
-};
-
 // --- Main App ---
 
 const App = () => {
@@ -903,6 +672,7 @@ const App = () => {
   // Test Mode
   const [testQuestions, setTestQuestions] = useState([]);
   const [testTimeLimit, setTestTimeLimit] = useState(60);
+  const [testTitle, setTestTitle] = useState('Mock Examination');
   const [isTestConfigOpen, setIsTestConfigOpen] = useState(false);
 
   const startTest = (count = 10, timeLimit = 60) => {
@@ -911,6 +681,7 @@ const App = () => {
     const shuffled = [...available].sort(() => 0.5 - Math.random());
     setTestQuestions(shuffled.slice(0, testCount));
     setTestTimeLimit(timeLimit);
+    setTestTitle('Practice Mock Test');
     setIsTestConfigOpen(false);
     setActiveTab('test');
   };
@@ -921,27 +692,102 @@ const App = () => {
         const res = await fetch(testItem.qpJson);
         if (res.ok) {
           const data = await res.json();
-          const questionsList = [];
-          if (data.sections && data.sections.length > 0) {
-            data.sections.forEach(sec => {
-              sec.questions?.forEach((q, idx) => {
-                questionsList.push({
-                  id: q._id || `course_q_${idx}`,
-                  question_text: q.en?.value || 'Question',
-                  options: (q.en?.options || []).map((opt, oIdx) => ({
-                    id: opt._id || opt.prompt || String(oIdx),
-                    option_text: opt.value,
-                    is_correct: false
-                  })),
-                  subject: { name: sec.title || 'Course Test' },
-                  difficulty: { name: 'Medium' }
+          const baseDir = testItem.qpJson.substring(0, testItem.qpJson.lastIndexOf('/'));
+          
+          const fixHtmlImages = (html) => {
+            if (!html || typeof html !== 'string') return html || '';
+            return html.replace(/src=["']images\//g, `src="${baseDir}/images/`);
+          };
+
+          // Fetch solution JSON if available for verified answer keys & explanations
+          let solMap = {};
+          try {
+            const solUrl = testItem.qpJson.replace('- Question Paper.json', '- Solutions.json');
+            const solRes = await fetch(solUrl);
+            if (solRes.ok) {
+              const solData = await solRes.json();
+              if (solData.sections) {
+                solData.sections.forEach(s => {
+                  (s.questions || []).forEach(sq => {
+                    if (sq._id) solMap[sq._id] = sq;
+                    if (sq.name) solMap[sq.name] = sq;
+                  });
                 });
+              }
+            }
+          } catch (e) {}
+
+          const questionsList = [];
+          const rawSections = data.sections || [{ title: data.name || data.title || 'Course Test', questions: data.questions || [] }];
+
+          rawSections.forEach(sec => {
+            (sec.questions || []).forEach((q, idx) => {
+              const sq = solMap[q._id] || solMap[q.name] || null;
+
+              // Question text
+              let rawText = q.name || q.en?.value || q.question || q.question_text || '';
+              if (q.paragraph || q.paragraphText) {
+                rawText = `<div class="p-3 mb-3 rounded-xl bg-[var(--theme-bg-subtle)] border border-[var(--theme-border)] text-xs font-medium text-[var(--theme-text-muted)] leading-relaxed">${q.paragraph || q.paragraphText}</div>` + rawText;
+              }
+              const cleanQuestionText = fixHtmlImages(rawText) || `Question ${idx + 1}`;
+
+              // Options
+              let optionsList = [];
+              if (Array.isArray(q.options) && q.options.length > 0) {
+                optionsList = q.options.map((opt, oIdx) => {
+                  const optId = opt._id || String(oIdx);
+                  let isCorrect = Boolean(opt.isCorrect);
+                  if (sq && Array.isArray(sq.options)) {
+                    const solOpt = sq.options.find(so => (so._id && so._id === opt._id) || so.order === opt.order);
+                    if (solOpt && solOpt.isCorrect) isCorrect = true;
+                  }
+                  return {
+                    id: optId,
+                    option_text: fixHtmlImages(opt.name || opt.nameText || opt.value || `Option ${String.fromCharCode(65 + oIdx)}`),
+                    is_correct: isCorrect
+                  };
+                });
+              } else if (q.en && Array.isArray(q.en.options) && q.en.options.length > 0) {
+                optionsList = q.en.options.map((opt, oIdx) => {
+                  const optId = opt._id || opt.prompt || String(oIdx);
+                  let isCorrect = Boolean(opt.isCorrect);
+                  if (sq && Array.isArray(sq.options)) {
+                    const solOpt = sq.options.find(so => (so._id && so._id === opt._id) || so.prompt === opt.prompt);
+                    if (solOpt && solOpt.isCorrect) isCorrect = true;
+                  }
+                  return {
+                    id: optId,
+                    option_text: fixHtmlImages(opt.value || opt.name || `Option ${String.fromCharCode(65 + oIdx)}`),
+                    is_correct: isCorrect
+                  };
+                });
+              }
+
+              // Solution explanation
+              const cleanSolution = fixHtmlImages(sq?.solution || q.solution || '');
+
+              questionsList.push({
+                id: q._id || `test_q_${idx}`,
+                question_text: cleanQuestionText,
+                options: optionsList,
+                solution: cleanSolution,
+                subject: { name: sec.title || sec.name || data.name || 'Course Test' },
+                difficulty: { name: 'Medium' }
               });
             });
-          }
+          });
+
           if (questionsList.length > 0) {
+            // Duration normalization (convert ms to seconds if needed)
+            let durSec = 1800;
+            const rawDur = data.duration || data.testTotalDuration;
+            if (rawDur) {
+              durSec = rawDur > 10000 ? Math.round(rawDur / 1000) : rawDur;
+            }
+
             setTestQuestions(questionsList);
-            setTestTimeLimit(data.duration || 1800);
+            setTestTimeLimit(durSec);
+            setTestTitle(testItem.name || data.name || data.title || 'Course Mock Test');
             setActiveTab('test');
             return;
           }
@@ -1090,7 +936,7 @@ const App = () => {
         <nav className="flex flex-col gap-1">
           {[
             { id: 'dashboard', icon: Layout, label: 'Dashboard' },
-            { id: 'course', icon: Folder, label: 'Course Library (844567)' },
+            { id: 'course', icon: Folder, label: 'Courses' },
             { id: 'questions', icon: Target, label: 'Questions' },
           ].map(item => (
             <button 
@@ -1541,6 +1387,7 @@ const App = () => {
               <MockTest 
                 questions={testQuestions} 
                 timeLimit={testTimeLimit}
+                testTitle={testTitle}
                 onFinish={() => {
                   setActiveTab('dashboard');
                   setTestsAttempted(prev => {

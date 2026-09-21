@@ -3,27 +3,78 @@ import { motion, AnimatePresence } from 'framer-motion';
 import { 
   Folder, Video, FileText, CheckCircle2, ChevronRight, 
   ArrowLeft, Search, Play, ExternalLink, Download,
-  Layers, Clock, File, Award, X, Sparkles, Filter
+  Layers, Clock, File, Award, X, Sparkles, Filter,
+  LayoutGrid, List as ListIcon, Plus, ChevronDown, 
+  BookOpen, Eye, Check, RefreshCw
 } from 'lucide-react';
 
+const AVAILABLE_COURSES = [
+  {
+    id: '844567',
+    name: 'NEW Infosys -SE , DSE & SP -Updated Pattern + PYQ + Infosys test Series with Video sol',
+    shortName: 'Infosys SE, DSE & SP (844567)',
+    targetRole: 'Infosys Systems Engineer & Specialist Programmer',
+    tag: 'Active Course',
+    status: 'loaded',
+    dataPath: '/data/course_explorer.json'
+  },
+  {
+    id: 'tcs_nqt',
+    name: 'TCS NQT National Qualifier Test Master Preparation Vault',
+    shortName: 'TCS NQT All-in-One Prep',
+    targetRole: 'TCS Ninja & Digital Roles',
+    tag: 'Coming Soon Slot',
+    status: 'slot',
+    dataPath: null
+  },
+  {
+    id: 'cognizant_genc',
+    name: 'Cognizant GenC Next & Elevate Comprehensive Practice Track',
+    shortName: 'Cognizant GenC Next',
+    targetRole: 'Cognizant GenC / Next',
+    tag: 'Coming Soon Slot',
+    status: 'slot',
+    dataPath: null
+  }
+];
+
 export default function CourseExplorer({ onLaunchTest }) {
+  const [activeCourseId, setActiveCourseId] = useState('844567');
   const [courseData, setCourseData] = useState(null);
   const [currentFolder, setCurrentFolder] = useState(null);
   const [breadcrumb, setBreadcrumb] = useState([]);
   const [searchQuery, setSearchQuery] = useState('');
-  const [activeFilter, setActiveFilter] = useState('all'); // all, videos, docs, tests
+  
+  // View mode: 'tiles' (grid cards) or 'list' (compact table rows)
+  const [viewMode, setViewMode] = useState(() => localStorage.getItem('prepDash_courseViewMode') || 'tiles');
+  
+  // Filter: 'all', 'folders', 'videos', 'docs', 'tests'
+  const [typeFilter, setTypeFilter] = useState('all');
+  
+  // Sort: 'default', 'name_asc', 'name_desc'
+  const [sortOrder, setSortOrder] = useState('default');
+  
   const [selectedVideo, setSelectedVideo] = useState(null);
   const [selectedPdf, setSelectedPdf] = useState(null);
+  const [isCourseDropdownOpen, setIsCourseDropdownOpen] = useState(false);
+  const [isAddCourseModalOpen, setIsAddCourseModalOpen] = useState(false);
   const [loading, setLoading] = useState(true);
 
+  // Persist view mode preference
+  const handleSetViewMode = (mode) => {
+    setViewMode(mode);
+    localStorage.setItem('prepDash_courseViewMode', mode);
+  };
+
   useEffect(() => {
+    setLoading(true);
     fetch('/data/course_explorer.json')
       .then(res => res.json())
       .then(data => {
         setCourseData(data);
         if (data && data.tree) {
           setCurrentFolder(data.tree);
-          setBreadcrumb([{ id: 'root', name: 'Content', node: data.tree }]);
+          setBreadcrumb([{ id: 'root', name: 'Root Content', node: data.tree }]);
         }
         setLoading(false);
       })
@@ -31,7 +82,7 @@ export default function CourseExplorer({ onLaunchTest }) {
         console.error('Failed to load course explorer data:', err);
         setLoading(false);
       });
-  }, []);
+  }, [activeCourseId]);
 
   const navigateToFolder = (subfolder) => {
     setCurrentFolder(subfolder);
@@ -52,7 +103,7 @@ export default function CourseExplorer({ onLaunchTest }) {
     }
   };
 
-  // Global search across all items
+  // Global search across all items in active course
   const allItems = useMemo(() => {
     if (!courseData || !courseData.tree) return [];
     const list = [];
@@ -70,70 +121,176 @@ export default function CourseExplorer({ onLaunchTest }) {
   const searchResults = useMemo(() => {
     if (!searchQuery.trim()) return null;
     const q = searchQuery.toLowerCase().trim();
-    return allItems.filter(item => 
+    let res = allItems.filter(item => 
       item.name.toLowerCase().includes(q) || 
       (item.description && item.description.toLowerCase().includes(q)) ||
       item.folderName.toLowerCase().includes(q)
     );
-  }, [searchQuery, allItems]);
+    if (typeFilter !== 'all') {
+      res = res.filter(item => {
+        if (typeFilter === 'videos') return item.itemType === 'video';
+        if (typeFilter === 'docs') return item.itemType === 'pdf';
+        if (typeFilter === 'tests') return item.itemType === 'test';
+        return true;
+      });
+    }
+    return res;
+  }, [searchQuery, allItems, typeFilter]);
+
+  // Current folder items with filters & sorting
+  const { filteredSubfolders, filteredVideos, filteredDocs, filteredTests } = useMemo(() => {
+    if (!currentFolder) {
+      return { filteredSubfolders: [], filteredVideos: [], filteredDocs: [], filteredTests: [] };
+    }
+
+    let subs = [...currentFolder.subfolders];
+    let vids = [...currentFolder.videos];
+    let docs = [...currentFolder.documents];
+    let tsts = [...currentFolder.tests];
+
+    if (sortOrder === 'name_asc') {
+      subs.sort((a, b) => a.name.localeCompare(b.name));
+      vids.sort((a, b) => a.name.localeCompare(b.name));
+      docs.sort((a, b) => a.name.localeCompare(b.name));
+      tsts.sort((a, b) => a.name.localeCompare(b.name));
+    } else if (sortOrder === 'name_desc') {
+      subs.sort((a, b) => b.name.localeCompare(a.name));
+      vids.sort((a, b) => b.name.localeCompare(a.name));
+      docs.sort((a, b) => b.name.localeCompare(a.name));
+      tsts.sort((a, b) => b.name.localeCompare(a.name));
+    }
+
+    if (typeFilter === 'folders') {
+      vids = []; docs = []; tsts = [];
+    } else if (typeFilter === 'videos') {
+      subs = []; docs = []; tsts = [];
+    } else if (typeFilter === 'docs') {
+      subs = []; vids = []; tsts = [];
+    } else if (typeFilter === 'tests') {
+      subs = []; vids = []; docs = [];
+    }
+
+    return { filteredSubfolders: subs, filteredVideos: vids, filteredDocs: docs, filteredTests: tsts };
+  }, [currentFolder, typeFilter, sortOrder]);
+
+  const activeCourse = AVAILABLE_COURSES.find(c => c.id === activeCourseId) || AVAILABLE_COURSES[0];
+  const isRoot = breadcrumb.length <= 1;
 
   if (loading) {
     return (
-      <div className="flex flex-col items-center justify-center p-20 text-[var(--theme-text-muted)]">
-        <div className="w-10 h-10 border-4 border-[var(--theme-bg-accent-solid)] border-t-transparent rounded-full animate-spin mb-4" />
-        <p className="font-bold tracking-wider text-xs uppercase">Loading CampusMonk Course Library...</p>
+      <div className="flex flex-col items-center justify-center p-24 text-[var(--theme-text-muted)] space-y-4">
+        <div className="w-12 h-12 border-4 border-[var(--theme-bg-accent-solid)] border-t-transparent rounded-full animate-spin" />
+        <p className="font-black tracking-widest text-xs uppercase text-[var(--theme-text-primary)]">Loading Courses Library...</p>
       </div>
     );
   }
-
-  if (!courseData) {
-    return (
-      <div className="p-8 text-center text-[var(--theme-text-danger)] font-bold">
-        Failed to load course library data.
-      </div>
-    );
-  }
-
-  const isRoot = breadcrumb.length <= 1;
-
-  // Filter items in current folder
-  const currentVideos = currentFolder ? currentFolder.videos : [];
-  const currentDocs = currentFolder ? currentFolder.documents : [];
-  const currentTests = currentFolder ? currentFolder.tests : [];
 
   return (
-    <div className="max-w-7xl mx-auto space-y-6 pb-20">
-      {/* Course Banner Header */}
-      <div className="p-6 md:p-8 rounded-2xl glass-card border border-[var(--theme-border)] relative overflow-hidden">
-        <div className="absolute top-0 right-0 w-96 h-96 bg-gradient-to-bl from-[var(--theme-bg-accent-subtle)] to-transparent rounded-full blur-3xl -z-10 pointer-events-none" />
+    <div className="max-w-7xl mx-auto space-y-6 pb-24">
+      {/* Top Course Hub Header */}
+      <div className="p-6 md:p-8 rounded-3xl glass-card border border-[var(--theme-border)] relative overflow-hidden shadow-2xl">
+        <div className="absolute top-0 right-0 w-[500px] h-[500px] bg-gradient-to-bl from-blue-600/10 via-indigo-600/10 to-transparent rounded-full blur-3xl -z-10 pointer-events-none" />
         
-        <div className="flex flex-col md:flex-row md:items-center justify-between gap-4">
-          <div className="space-y-2">
-            <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full text-[10px] font-extrabold uppercase tracking-wider bg-[var(--theme-bg-accent-subtle)] text-[var(--theme-text-accent)] border border-[var(--theme-border-accent)]">
-              <Sparkles size={12} /> CampusMonk Full Course Vault (ID: 844567)
+        <div className="flex flex-col lg:flex-row lg:items-center justify-between gap-6">
+          <div className="space-y-3">
+            {/* Multi-Course Switcher Badge & Dropdown */}
+            <div className="relative inline-block text-left">
+              <button
+                onClick={() => setIsCourseDropdownOpen(!isCourseDropdownOpen)}
+                className="inline-flex items-center gap-2.5 px-3.5 py-1.5 rounded-full text-xs font-black uppercase tracking-wider bg-[var(--theme-bg-accent-subtle)] text-[var(--theme-text-accent)] border border-[var(--theme-border-accent)] hover:bg-[var(--theme-bg-accent-subtle)]/80 transition-all shadow-sm"
+              >
+                <Sparkles size={13} />
+                <span>Active Course: {activeCourse.shortName}</span>
+                <ChevronDown size={14} className={`transition-transform duration-200 ${isCourseDropdownOpen ? 'rotate-180' : ''}`} />
+              </button>
+
+              {/* Course Selector Dropdown Menu */}
+              <AnimatePresence>
+                {isCourseDropdownOpen && (
+                  <motion.div 
+                    initial={{ opacity: 0, y: 10, scale: 0.95 }}
+                    animate={{ opacity: 1, y: 0, scale: 1 }}
+                    exit={{ opacity: 0, y: 10, scale: 0.95 }}
+                    className="absolute left-0 mt-2 w-80 md:w-96 rounded-2xl glass-card border border-[var(--theme-border-strong)] shadow-2xl p-2 z-50 backdrop-blur-3xl space-y-1.5"
+                  >
+                    <div className="px-3 py-2 text-[10px] font-black uppercase tracking-widest text-[var(--theme-text-muted)] border-b border-[var(--theme-border)]">
+                      Select Available Course
+                    </div>
+
+                    {AVAILABLE_COURSES.map(course => (
+                      <button
+                        key={course.id}
+                        onClick={() => {
+                          if (course.status === 'loaded') {
+                            setActiveCourseId(course.id);
+                          } else {
+                            alert(`"${course.name}" is scheduled in this slot. You can add more course directories anytime.`);
+                          }
+                          setIsCourseDropdownOpen(false);
+                        }}
+                        className={`w-full text-left p-3 rounded-xl transition-all flex items-start justify-between gap-3 ${
+                          activeCourseId === course.id 
+                            ? 'bg-[var(--theme-bg-accent-subtle)] border border-[var(--theme-border-accent)]' 
+                            : 'hover:bg-[var(--theme-bg-subtle)]'
+                        }`}
+                      >
+                        <div>
+                          <div className="font-bold text-xs text-[var(--theme-text-heading)] leading-snug">
+                            {course.shortName}
+                          </div>
+                          <div className="text-[10px] text-[var(--theme-text-muted)] mt-0.5">
+                            {course.targetRole}
+                          </div>
+                        </div>
+                        <span className={`text-[9px] font-black uppercase px-2 py-0.5 rounded-full shrink-0 ${
+                          course.status === 'loaded' ? 'bg-emerald-500/20 text-emerald-400' : 'bg-[var(--theme-bg-subtle)] text-[var(--theme-text-muted)]'
+                        }`}>
+                          {course.tag}
+                        </span>
+                      </button>
+                    ))}
+
+                    <div className="pt-2 border-t border-[var(--theme-border)]">
+                      <button
+                        onClick={() => {
+                          setIsCourseDropdownOpen(false);
+                          setIsAddCourseModalOpen(true);
+                        }}
+                        className="w-full py-2.5 px-3 rounded-xl text-xs font-black uppercase tracking-wider text-[var(--theme-text-accent)] hover:bg-[var(--theme-bg-accent-subtle)] flex items-center justify-center gap-2 transition-colors"
+                      >
+                        <Plus size={14} /> Add Another Course / Folder Vault
+                      </button>
+                    </div>
+                  </motion.div>
+                )}
+              </AnimatePresence>
             </div>
-            <h1 className="text-2xl md:text-3xl font-black tracking-tight text-[var(--theme-text-heading)]">
-              {courseData.courseTitle}
+
+            <h1 className="text-2xl md:text-3xl font-black tracking-tight text-[var(--theme-text-heading)] leading-tight">
+              {courseData?.courseTitle || activeCourse.name}
             </h1>
-            <p className="text-xs md:text-sm text-[var(--theme-text-muted)] font-medium">
-              Complete offline vault including 400+ lecture videos, 100+ PDF workbooks, and 50+ official mock exams.
+            <p className="text-xs md:text-sm text-[var(--theme-text-muted)] font-medium max-w-2xl">
+              Complete offline vault including 400+ lecture videos, 100+ PDF workbooks & DPPs, and 50+ official mock examinations.
             </p>
           </div>
 
-          <div className="flex items-center gap-2 bg-[var(--theme-bg-elevated)] p-2 rounded-xl border border-[var(--theme-border)] shrink-0">
-            <div className="text-center px-3 py-1 border-r border-[var(--theme-border)]">
-              <div className="text-base font-black text-[var(--theme-text-heading)]">{courseData.totalStats.videos}</div>
-              <div className="text-[9px] uppercase font-bold text-[var(--theme-text-muted)]">Videos</div>
+          {/* Quick Course Stats Badges */}
+          {courseData?.totalStats && (
+            <div className="flex items-center gap-2 bg-[var(--theme-bg-elevated)] p-2.5 rounded-2xl border border-[var(--theme-border)] shrink-0 shadow-sm">
+              <div className="text-center px-4 py-1.5 border-r border-[var(--theme-border)]">
+                <div className="text-lg font-black text-[var(--theme-text-heading)] font-mono">{courseData.totalStats.videos}</div>
+                <div className="text-[9px] uppercase font-bold text-amber-400">Videos</div>
+              </div>
+              <div className="text-center px-4 py-1.5 border-r border-[var(--theme-border)]">
+                <div className="text-lg font-black text-[var(--theme-text-heading)] font-mono">{courseData.totalStats.files}</div>
+                <div className="text-[9px] uppercase font-bold text-rose-400">PDFs</div>
+              </div>
+              <div className="text-center px-4 py-1.5">
+                <div className="text-lg font-black text-[var(--theme-text-heading)] font-mono">{courseData.totalStats.tests}</div>
+                <div className="text-[9px] uppercase font-bold text-indigo-400">Mocks</div>
+              </div>
             </div>
-            <div className="text-center px-3 py-1 border-r border-[var(--theme-border)]">
-              <div className="text-base font-black text-[var(--theme-text-heading)]">{courseData.totalStats.files}</div>
-              <div className="text-[9px] uppercase font-bold text-[var(--theme-text-muted)]">Files</div>
-            </div>
-            <div className="text-center px-3 py-1">
-              <div className="text-base font-black text-[var(--theme-text-heading)]">{courseData.totalStats.tests}</div>
-              <div className="text-[9px] uppercase font-bold text-[var(--theme-text-muted)]">Tests</div>
-            </div>
-          </div>
+          )}
         </div>
 
         {/* Global Search Bar */}
@@ -144,12 +301,12 @@ export default function CourseExplorer({ onLaunchTest }) {
             placeholder="Search across all 400+ videos, PDFs, and tests in this course..."
             value={searchQuery}
             onChange={(e) => setSearchQuery(e.target.value)}
-            className="w-full pl-11 pr-4 py-3.5 rounded-xl bg-[var(--theme-bg-input)] border border-[var(--theme-border)] focus:border-[var(--theme-bg-accent-solid)] focus:ring-4 focus:ring-[var(--theme-shadow-accent)] outline-none text-sm font-medium text-[var(--theme-text-primary)] placeholder:text-[var(--theme-text-muted)]"
+            className="w-full pl-11 pr-24 py-3.5 rounded-2xl bg-[var(--theme-bg-input)] border border-[var(--theme-border)] focus:border-[var(--theme-bg-accent-solid)] focus:ring-4 focus:ring-[var(--theme-shadow-accent)] outline-none text-sm font-medium text-[var(--theme-text-primary)] placeholder:text-[var(--theme-text-muted)] transition-all shadow-inner"
           />
           {searchQuery && (
             <button 
               onClick={() => setSearchQuery('')}
-              className="absolute right-4 top-1/2 -translate-y-1/2 text-xs font-bold text-[var(--theme-text-muted)] hover:text-[var(--theme-text-primary)]"
+              className="absolute right-4 top-1/2 -translate-y-1/2 text-xs font-bold text-[var(--theme-text-muted)] hover:text-white bg-[var(--theme-bg-subtle)] px-2.5 py-1 rounded-lg transition-colors"
             >
               Clear
             </button>
@@ -157,11 +314,82 @@ export default function CourseExplorer({ onLaunchTest }) {
         </div>
       </div>
 
-      {/* Search Results Mode */}
+      {/* Control Bar: View Mode Switcher (Tiles vs List) + Filters + Sorting */}
+      <div className="flex flex-wrap items-center justify-between gap-4 p-3 md:p-4 rounded-2xl glass-card border border-[var(--theme-border)]">
+        {/* Filter Pills */}
+        <div className="flex items-center gap-1.5 overflow-x-auto custom-scrollbar py-1">
+          {[
+            { id: 'all', label: 'All Items' },
+            { id: 'folders', label: `Folders (${currentFolder?.subfolders.length || 0})` },
+            { id: 'videos', label: `Videos (${currentFolder?.videos.length || 0})` },
+            { id: 'docs', label: `PDFs (${currentFolder?.documents.length || 0})` },
+            { id: 'tests', label: `Tests (${currentFolder?.tests.length || 0})` },
+          ].map(tab => (
+            <button
+              key={tab.id}
+              onClick={() => setTypeFilter(tab.id)}
+              className={`px-3 py-1.5 rounded-xl text-xs font-bold whitespace-nowrap transition-all ${
+                typeFilter === tab.id 
+                  ? 'bg-[var(--theme-btn-primary-bg)] text-white shadow-md shadow-indigo-500/20' 
+                  : 'bg-[var(--theme-bg-subtle)] text-[var(--theme-text-muted)] hover:text-[var(--theme-text-primary)] hover:bg-[var(--theme-bg-subtle-hover)]'
+              }`}
+            >
+              {tab.label}
+            </button>
+          ))}
+        </div>
+
+        {/* View Mode & Sort Buttons */}
+        <div className="flex items-center gap-3 ml-auto">
+          {/* Sort Selector */}
+          <div className="flex items-center gap-1.5 text-xs text-[var(--theme-text-muted)] font-bold">
+            <span className="hidden sm:inline">Sort:</span>
+            <select
+              value={sortOrder}
+              onChange={(e) => setSortOrder(e.target.value)}
+              className="bg-[var(--theme-bg-subtle)] text-[var(--theme-text-primary)] text-xs font-bold py-1.5 px-2.5 rounded-xl border border-[var(--theme-border)] outline-none cursor-pointer"
+            >
+              <option value="default">Default Order</option>
+              <option value="name_asc">Name (A → Z)</option>
+              <option value="name_desc">Name (Z → A)</option>
+            </select>
+          </div>
+
+          <div className="h-5 w-px bg-[var(--theme-border)]" />
+
+          {/* View Mode Toggle: Tiles vs List */}
+          <div className="flex items-center gap-1 bg-[var(--theme-bg-subtle)] p-1 rounded-xl border border-[var(--theme-border)]">
+            <button
+              onClick={() => handleSetViewMode('tiles')}
+              title="Tiles / Grid View"
+              className={`p-1.5 rounded-lg text-xs transition-all ${
+                viewMode === 'tiles' 
+                  ? 'bg-[var(--theme-btn-primary-bg)] text-white shadow-sm' 
+                  : 'text-[var(--theme-text-muted)] hover:text-white'
+              }`}
+            >
+              <LayoutGrid size={16} />
+            </button>
+            <button
+              onClick={() => handleSetViewMode('list')}
+              title="List View"
+              className={`p-1.5 rounded-lg text-xs transition-all ${
+                viewMode === 'list' 
+                  ? 'bg-[var(--theme-btn-primary-bg)] text-white shadow-sm' 
+                  : 'text-[var(--theme-text-muted)] hover:text-white'
+              }`}
+            >
+              <ListIcon size={16} />
+            </button>
+          </div>
+        </div>
+      </div>
+
+      {/* SEARCH RESULTS MODE */}
       {searchResults ? (
         <div className="space-y-4">
           <div className="flex items-center justify-between">
-            <h2 className="text-lg font-bold text-[var(--theme-text-heading)]">
+            <h2 className="text-base font-black text-[var(--theme-text-heading)]">
               Search Results ({searchResults.length} items found)
             </h2>
             <button 
@@ -173,66 +401,128 @@ export default function CourseExplorer({ onLaunchTest }) {
           </div>
 
           {searchResults.length === 0 ? (
-            <div className="p-12 text-center text-[var(--theme-text-muted)] font-medium">
+            <div className="p-16 text-center glass-card border border-dashed rounded-3xl text-[var(--theme-text-muted)] font-medium">
               No matching videos, PDFs, or tests found for "{searchQuery}".
             </div>
-          ) : (
-            <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+          ) : viewMode === 'tiles' ? (
+            /* Search Tiles View */
+            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
               {searchResults.map((item, idx) => (
-                <div key={idx} className="p-4 rounded-xl glass-card border border-[var(--theme-border)] hover:border-[var(--theme-border-accent)] transition-all flex items-start gap-3">
-                  <div className={`p-2.5 rounded-lg shrink-0 ${
-                    item.itemType === 'video' ? 'bg-amber-500/10 text-amber-400' :
-                    item.itemType === 'pdf' ? 'bg-rose-500/10 text-rose-400' : 'bg-indigo-500/10 text-indigo-400'
-                  }`}>
-                    {item.itemType === 'video' && <Video size={20} />}
-                    {item.itemType === 'pdf' && <FileText size={20} />}
-                    {item.itemType === 'test' && <Award size={20} />}
-                  </div>
-                  <div className="flex-1 min-w-0">
-                    <div className="flex items-center gap-2">
-                      <span className="text-[10px] uppercase font-bold tracking-wider text-[var(--theme-text-muted)]">
-                        {item.itemType}
-                      </span>
-                      {item.duration && (
-                        <span className="text-[10px] font-mono px-2 py-0.5 rounded bg-[var(--theme-bg-subtle)] text-[var(--theme-text-muted)]">
-                          {item.duration}
-                        </span>
-                      )}
+                <div key={idx} className="p-4 rounded-2xl glass-card border border-[var(--theme-border)] hover:border-[var(--theme-border-accent)] transition-all flex flex-col justify-between gap-3 group">
+                  <div className="flex items-start gap-3">
+                    <div className={`p-2.5 rounded-xl shrink-0 ${
+                      item.itemType === 'video' ? 'bg-amber-500/10 text-amber-400' :
+                      item.itemType === 'pdf' ? 'bg-rose-500/10 text-rose-400' : 'bg-indigo-500/10 text-indigo-400'
+                    }`}>
+                      {item.itemType === 'video' && <Video size={20} />}
+                      {item.itemType === 'pdf' && <FileText size={20} />}
+                      {item.itemType === 'test' && <Award size={20} />}
                     </div>
-                    <h3 className="font-bold text-sm text-[var(--theme-text-heading)] mt-0.5 truncate" title={item.name}>
-                      {item.name}
-                    </h3>
-                    <p className="text-[11px] text-[var(--theme-text-muted)] truncate mt-1">
-                      📁 {item.fullPath}
-                    </p>
-                    <div className="mt-3 flex items-center gap-2">
-                      {item.itemType === 'pdf' && item.url && (
+                    <div className="min-w-0 flex-1">
+                      <div className="flex items-center gap-2">
+                        <span className="text-[9px] uppercase font-black tracking-wider text-[var(--theme-text-muted)]">
+                          {item.itemType}
+                        </span>
+                        {item.duration && (
+                          <span className="text-[9px] font-mono px-1.5 py-0.5 rounded bg-[var(--theme-bg-subtle)] text-amber-400 font-bold">
+                            {item.duration}
+                          </span>
+                        )}
+                      </div>
+                      <h3 className="font-bold text-sm text-[var(--theme-text-heading)] mt-1 line-clamp-2" title={item.name}>
+                        {item.name}
+                      </h3>
+                      <p className="text-[10px] text-[var(--theme-text-muted)] truncate mt-1">
+                        📁 {item.fullPath}
+                      </p>
+                    </div>
+                  </div>
+
+                  <div className="pt-3 border-t border-[var(--theme-border)] flex items-center gap-2">
+                    {item.itemType === 'pdf' && item.url && (
+                      <>
+                        <button
+                          onClick={() => setSelectedPdf(item)}
+                          className="btn-secondary text-xs py-1 px-2.5 flex items-center gap-1"
+                        >
+                          <Eye size={12} /> Preview
+                        </button>
                         <a
                           href={item.url}
                           target="_blank"
                           rel="noopener noreferrer"
-                          className="btn-secondary text-xs py-1 px-3 flex items-center gap-1.5"
+                          className="btn-secondary text-xs py-1 px-2.5 flex items-center gap-1 ml-auto"
                         >
-                          <ExternalLink size={12} /> Open PDF
+                          <ExternalLink size={12} /> Open
                         </a>
-                      )}
-                      {item.itemType === 'video' && item.isLocal && (
-                        <button
-                          onClick={() => setSelectedVideo(item)}
-                          className="btn-primary text-xs py-1 px-3 flex items-center gap-1.5"
-                        >
-                          <Play size={12} /> Play Video
-                        </button>
-                      )}
-                      {item.itemType === 'test' && (
-                        <button
-                          onClick={() => onLaunchTest && onLaunchTest(item)}
-                          className="btn-premium text-xs py-1 px-3 flex items-center gap-1.5"
-                        >
-                          <CheckCircle2 size={12} /> Take Test
-                        </button>
-                      )}
+                      </>
+                    )}
+                    {item.itemType === 'video' && item.isLocal && (
+                      <button
+                        onClick={() => setSelectedVideo(item)}
+                        className="btn-primary text-xs py-1 px-3 flex items-center gap-1.5 ml-auto"
+                      >
+                        <Play size={12} /> Play Video
+                      </button>
+                    )}
+                    {item.itemType === 'test' && (
+                      <button
+                        onClick={() => onLaunchTest && onLaunchTest(item)}
+                        className="btn-premium text-xs py-1 px-3 flex items-center gap-1.5 ml-auto"
+                      >
+                        <CheckCircle2 size={12} /> Take Test
+                      </button>
+                    )}
+                  </div>
+                </div>
+              ))}
+            </div>
+          ) : (
+            /* Search List View */
+            <div className="glass-card rounded-2xl border border-[var(--theme-border)] overflow-hidden divide-y divide-[var(--theme-border)]">
+              {searchResults.map((item, idx) => (
+                <div key={idx} className="p-3.5 hover:bg-[var(--theme-bg-subtle)] transition-colors flex items-center justify-between gap-3">
+                  <div className="flex items-center gap-3 min-w-0">
+                    <div className={`p-2 rounded-lg shrink-0 ${
+                      item.itemType === 'video' ? 'bg-amber-500/10 text-amber-400' :
+                      item.itemType === 'pdf' ? 'bg-rose-500/10 text-rose-400' : 'bg-indigo-500/10 text-indigo-400'
+                    }`}>
+                      {item.itemType === 'video' && <Video size={16} />}
+                      {item.itemType === 'pdf' && <FileText size={16} />}
+                      {item.itemType === 'test' && <Award size={16} />}
                     </div>
+                    <div className="min-w-0">
+                      <div className="font-bold text-xs text-[var(--theme-text-heading)] truncate" title={item.name}>
+                        {item.name}
+                      </div>
+                      <div className="text-[10px] text-[var(--theme-text-muted)] truncate">
+                        {item.fullPath}
+                      </div>
+                    </div>
+                  </div>
+
+                  <div className="flex items-center gap-2 shrink-0">
+                    {item.duration && (
+                      <span className="text-[10px] font-mono text-amber-400 px-2 py-0.5 rounded bg-[var(--theme-bg-subtle)] font-bold">
+                        {item.duration}
+                      </span>
+                    )}
+                    {item.itemType === 'pdf' && item.url && (
+                      <button
+                        onClick={() => setSelectedPdf(item)}
+                        className="btn-secondary text-xs py-1 px-2.5 flex items-center gap-1"
+                      >
+                        <Eye size={12} /> Preview
+                      </button>
+                    )}
+                    {item.itemType === 'test' && (
+                      <button
+                        onClick={() => onLaunchTest && onLaunchTest(item)}
+                        className="btn-premium text-xs py-1 px-3 flex items-center gap-1"
+                      >
+                        Take Test
+                      </button>
+                    )}
                   </div>
                 </div>
               ))}
@@ -240,14 +530,14 @@ export default function CourseExplorer({ onLaunchTest }) {
           )}
         </div>
       ) : (
-        /* Folder Navigation Mode */
+        /* FOLDER NAVIGATION MODE */
         <div className="space-y-6">
-          {/* Breadcrumb Bar */}
-          <div className="flex items-center gap-2 text-sm font-bold flex-wrap p-3 rounded-xl bg-[var(--theme-bg-elevated)] border border-[var(--theme-border)]">
+          {/* Breadcrumb Navigation Bar */}
+          <div className="flex items-center gap-2 text-xs md:text-sm font-bold flex-wrap p-3.5 rounded-2xl bg-[var(--theme-bg-elevated)] border border-[var(--theme-border)] shadow-sm">
             {!isRoot && (
               <button
                 onClick={navigateUp}
-                className="p-1.5 rounded-lg hover:bg-[var(--theme-bg-subtle)] text-[var(--theme-text-muted)] hover:text-[var(--theme-text-primary)] transition-colors mr-1"
+                className="p-1.5 rounded-xl hover:bg-[var(--theme-bg-subtle)] text-[var(--theme-text-muted)] hover:text-white transition-colors mr-1"
                 title="Go Up"
               >
                 <ArrowLeft size={16} />
@@ -255,12 +545,12 @@ export default function CourseExplorer({ onLaunchTest }) {
             )}
             {breadcrumb.map((crumb, idx) => (
               <React.Fragment key={crumb.id || idx}>
-                {idx > 0 && <ChevronRight size={14} className="text-[var(--theme-text-muted)] shrink-0" />}
+                {idx > 0 && <ChevronRight size={14} className="text-[var(--theme-text-muted)] shrink-0 opacity-40" />}
                 <button
                   onClick={() => navigateToBreadcrumb(idx)}
                   className={`hover:underline transition-colors ${
                     idx === breadcrumb.length - 1 
-                      ? 'text-[var(--theme-text-accent)] font-extrabold' 
+                      ? 'text-[var(--theme-text-accent)] font-black' 
                       : 'text-[var(--theme-text-muted)] hover:text-[var(--theme-text-primary)]'
                   }`}
                 >
@@ -270,236 +560,441 @@ export default function CourseExplorer({ onLaunchTest }) {
             ))}
           </div>
 
-          {/* Subfolders Grid */}
-          {currentFolder && currentFolder.subfolders.length > 0 && (
+          {/* Subfolders Section */}
+          {filteredSubfolders.length > 0 && (
             <div className="space-y-3">
-              <h2 className="text-xs font-extrabold tracking-wider uppercase text-[var(--theme-text-muted)]">
-                Folders ({currentFolder.subfolders.length})
+              <h2 className="text-xs font-black tracking-wider uppercase text-[var(--theme-text-muted)] flex items-center gap-1.5">
+                <Folder size={14} /> Subfolders ({filteredSubfolders.length})
               </h2>
-              <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-3.5">
-                {currentFolder.subfolders.map((sub, i) => (
-                  <motion.div
-                    key={sub.id || i}
-                    whileHover={{ scale: 1.01 }}
-                    whileTap={{ scale: 0.99 }}
-                    onClick={() => navigateToFolder(sub)}
-                    className="p-4 rounded-xl glass-card border border-[var(--theme-border)] hover:border-[var(--theme-border-accent)] cursor-pointer transition-all flex items-center justify-between group shadow-sm hover:shadow-md"
-                  >
-                    <div className="flex items-center gap-3.5 min-w-0">
-                      <div className="w-11 h-11 rounded-xl bg-blue-500/10 text-blue-500 border border-blue-500/20 flex items-center justify-center shrink-0 group-hover:bg-blue-500 group-hover:text-white transition-all shadow-sm">
-                        <Folder size={22} className="fill-current/20" />
+
+              {viewMode === 'tiles' ? (
+                /* Folders Tiles Grid */
+                <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-3.5">
+                  {filteredSubfolders.map((sub, i) => (
+                    <motion.div
+                      key={sub.id || i}
+                      whileHover={{ scale: 1.01 }}
+                      whileTap={{ scale: 0.99 }}
+                      onClick={() => navigateToFolder(sub)}
+                      className="p-4 rounded-2xl glass-card border border-[var(--theme-border)] hover:border-[var(--theme-border-accent)] cursor-pointer transition-all flex items-center justify-between group shadow-sm hover:shadow-md"
+                    >
+                      <div className="flex items-center gap-3.5 min-w-0">
+                        <div className="w-12 h-12 rounded-2xl bg-blue-500/10 text-blue-400 border border-blue-500/20 flex items-center justify-center shrink-0 group-hover:bg-blue-600 group-hover:text-white transition-all shadow-sm">
+                          <Folder size={22} className="fill-current/20" />
+                        </div>
+                        <div className="min-w-0">
+                          <h3 className="font-black text-sm text-[var(--theme-text-heading)] group-hover:text-[var(--theme-text-accent)] transition-colors truncate">
+                            {sub.name}
+                          </h3>
+                          <p className="text-[11px] text-[var(--theme-text-muted)] font-medium mt-0.5">
+                            {[
+                              sub.stats.videos > 0 ? `${sub.stats.videos} video(s)` : null,
+                              sub.stats.files > 0 ? `${sub.stats.files} file(s)` : null,
+                              sub.stats.tests > 0 ? `${sub.stats.tests} test(s)` : null,
+                            ].filter(Boolean).join(' • ') || 'Folder'}
+                          </p>
+                        </div>
                       </div>
-                      <div className="min-w-0">
-                        <h3 className="font-bold text-sm text-[var(--theme-text-heading)] group-hover:text-[var(--theme-text-accent)] transition-colors truncate">
+                      <ChevronRight size={18} className="text-[var(--theme-text-muted)] group-hover:text-[var(--theme-text-accent)] group-hover:translate-x-1 transition-all shrink-0" />
+                    </motion.div>
+                  ))}
+                </div>
+              ) : (
+                /* Folders List Mode */
+                <div className="glass-card rounded-2xl border border-[var(--theme-border)] overflow-hidden divide-y divide-[var(--theme-border)]">
+                  {filteredSubfolders.map((sub, i) => (
+                    <div
+                      key={sub.id || i}
+                      onClick={() => navigateToFolder(sub)}
+                      className="p-3.5 hover:bg-[var(--theme-bg-subtle)] transition-colors cursor-pointer flex items-center justify-between gap-3 group"
+                    >
+                      <div className="flex items-center gap-3 min-w-0">
+                        <Folder size={18} className="text-blue-400 shrink-0 group-hover:scale-110 transition-transform" />
+                        <span className="font-bold text-xs text-[var(--theme-text-heading)] group-hover:text-[var(--theme-text-accent)] truncate">
                           {sub.name}
-                        </h3>
-                        <p className="text-[11px] text-[var(--theme-text-muted)] font-medium mt-0.5">
+                        </span>
+                      </div>
+                      <div className="flex items-center gap-3 shrink-0">
+                        <span className="text-[10px] text-[var(--theme-text-muted)] font-medium">
                           {[
-                            sub.stats.videos > 0 ? `${sub.stats.videos} video(s)` : null,
-                            sub.stats.files > 0 ? `${sub.stats.files} file(s)` : null,
-                            sub.stats.tests > 0 ? `${sub.stats.tests} test(s)` : null,
-                          ].filter(Boolean).join(', ') || 'Folder'}
-                        </p>
+                            sub.stats.videos > 0 ? `${sub.stats.videos} vids` : null,
+                            sub.stats.files > 0 ? `${sub.stats.files} files` : null,
+                            sub.stats.tests > 0 ? `${sub.stats.tests} tests` : null,
+                          ].filter(Boolean).join(', ')}
+                        </span>
+                        <ChevronRight size={14} className="text-[var(--theme-text-muted)] group-hover:translate-x-1 transition-transform" />
                       </div>
                     </div>
-                    <ChevronRight size={18} className="text-[var(--theme-text-muted)] group-hover:text-[var(--theme-text-accent)] group-hover:translate-x-1 transition-all shrink-0" />
-                  </motion.div>
-                ))}
-              </div>
+                  ))}
+                </div>
+              )}
             </div>
           )}
 
           {/* Videos Section */}
-          {currentVideos.length > 0 && (
+          {filteredVideos.length > 0 && (
             <div className="space-y-3 mt-6">
-              <h2 className="text-xs font-extrabold tracking-wider uppercase text-amber-400 flex items-center gap-1.5">
-                <Video size={14} /> Lecture Videos ({currentVideos.length})
+              <h2 className="text-xs font-black tracking-wider uppercase text-amber-400 flex items-center gap-1.5">
+                <Video size={14} /> Lecture Videos ({filteredVideos.length})
               </h2>
-              <div className="space-y-2.5">
-                {currentVideos.map((v, i) => (
-                  <div 
-                    key={v.id || i}
-                    className="p-4 rounded-xl glass-card border border-[var(--theme-border)] hover:border-amber-500/40 transition-all flex flex-col md:flex-row md:items-center justify-between gap-3"
-                  >
-                    <div className="flex items-start gap-3.5 min-w-0">
-                      <div className="w-10 h-10 rounded-xl bg-amber-500/10 text-amber-400 border border-amber-500/20 flex items-center justify-center shrink-0 mt-0.5">
-                        <Play size={18} className="fill-amber-400 ml-0.5" />
-                      </div>
-                      <div className="min-w-0">
-                        <div className="flex items-center gap-2">
-                          <h3 className="font-bold text-sm text-[var(--theme-text-heading)]">
+
+              {viewMode === 'tiles' ? (
+                /* Videos Tiles Grid */
+                <div className="grid grid-cols-1 md:grid-cols-2 gap-3.5">
+                  {filteredVideos.map((v, i) => (
+                    <div 
+                      key={v.id || i}
+                      className="p-4 rounded-2xl glass-card border border-[var(--theme-border)] hover:border-amber-500/40 transition-all flex flex-col justify-between gap-3 group"
+                    >
+                      <div className="flex items-start gap-3.5 min-w-0">
+                        <div className="w-10 h-10 rounded-xl bg-amber-500/10 text-amber-400 border border-amber-500/20 flex items-center justify-center shrink-0 mt-0.5">
+                          <Play size={18} className="fill-amber-400 ml-0.5" />
+                        </div>
+                        <div className="min-w-0 flex-1">
+                          <div className="flex items-center gap-2">
+                            <span className="text-[9px] font-mono font-bold px-2 py-0.5 rounded bg-amber-500/10 text-amber-400 border border-amber-500/20 shrink-0">
+                              {v.duration}
+                            </span>
+                            <span className="text-[9px] font-bold text-[var(--theme-text-muted)] uppercase tracking-wider">
+                              {v.isLocal ? 'Offline HD' : 'Classplus DRM'}
+                            </span>
+                          </div>
+                          <h3 className="font-bold text-xs md:text-sm text-[var(--theme-text-heading)] mt-1.5 leading-snug">
                             {v.name}
                           </h3>
-                          <span className="text-[10px] font-mono font-bold px-2 py-0.5 rounded bg-amber-500/10 text-amber-400 border border-amber-500/20 shrink-0">
-                            {v.duration}
-                          </span>
                         </div>
-                        {v.description && (
-                          <p className="text-xs text-[var(--theme-text-muted)] mt-1 line-clamp-2">
-                            {v.description}
-                          </p>
+                      </div>
+
+                      <div className="pt-3 border-t border-[var(--theme-border)] flex items-center justify-between">
+                        <span className="text-[10px] text-[var(--theme-text-muted)] font-medium">
+                          {v.isLocal ? 'Local Storage Video' : 'Akamai Cloud Stream'}
+                        </span>
+                        {v.isLocal && v.url ? (
+                          <button
+                            onClick={() => setSelectedVideo(v)}
+                            className="btn-primary text-xs py-1.5 px-3.5 flex items-center gap-1.5 shadow-sm"
+                          >
+                            <Play size={12} /> Play Video
+                          </button>
+                        ) : (
+                          <span className="text-[10px] font-bold text-[var(--theme-text-muted)] px-2.5 py-1 rounded bg-[var(--theme-bg-subtle)] border border-[var(--theme-border)]">
+                            DRM Lecture Track
+                          </span>
                         )}
                       </div>
                     </div>
-
-                    <div className="flex items-center gap-2 self-end md:self-center shrink-0">
-                      {v.isLocal && v.url ? (
-                        <button
-                          onClick={() => setSelectedVideo(v)}
-                          className="btn-primary text-xs py-1.5 px-3 flex items-center gap-1.5"
-                        >
-                          <Play size={14} /> Watch Full Video
-                        </button>
-                      ) : (
-                        <span className="text-[11px] font-bold text-[var(--theme-text-muted)] px-3 py-1 rounded bg-[var(--theme-bg-subtle)] border border-[var(--theme-border)]">
-                          DRM Lecture Track
+                  ))}
+                </div>
+              ) : (
+                /* Videos List Mode */
+                <div className="glass-card rounded-2xl border border-[var(--theme-border)] overflow-hidden divide-y divide-[var(--theme-border)]">
+                  {filteredVideos.map((v, i) => (
+                    <div key={v.id || i} className="p-3.5 hover:bg-[var(--theme-bg-subtle)] transition-colors flex items-center justify-between gap-3">
+                      <div className="flex items-center gap-3 min-w-0">
+                        <Video size={16} className="text-amber-400 shrink-0" />
+                        <span className="font-bold text-xs text-[var(--theme-text-heading)] truncate" title={v.name}>
+                          {v.name}
                         </span>
-                      )}
+                      </div>
+                      <div className="flex items-center gap-3 shrink-0">
+                        <span className="text-[10px] font-mono text-amber-400 font-bold bg-amber-500/10 px-2 py-0.5 rounded">
+                          {v.duration}
+                        </span>
+                        {v.isLocal && v.url ? (
+                          <button
+                            onClick={() => setSelectedVideo(v)}
+                            className="btn-primary text-xs py-1 px-3 flex items-center gap-1"
+                          >
+                            <Play size={12} /> Play
+                          </button>
+                        ) : (
+                          <span className="text-[9px] text-[var(--theme-text-muted)] uppercase font-bold">DRM</span>
+                        )}
+                      </div>
                     </div>
-                  </div>
-                ))}
-              </div>
+                  ))}
+                </div>
+              )}
             </div>
           )}
 
-          {/* Documents / PDFs Section */}
-          {currentDocs.length > 0 && (
+          {/* Reference Documents / PDFs Section */}
+          {filteredDocs.length > 0 && (
             <div className="space-y-3 mt-6">
-              <h2 className="text-xs font-extrabold tracking-wider uppercase text-rose-400 flex items-center gap-1.5">
-                <FileText size={14} /> Reference PDF Documents ({currentDocs.length})
+              <h2 className="text-xs font-black tracking-wider uppercase text-rose-400 flex items-center gap-1.5">
+                <FileText size={14} /> Reference PDF Documents & DPPs ({filteredDocs.length})
               </h2>
-              <div className="grid grid-cols-1 md:grid-cols-2 gap-3">
-                {currentDocs.map((doc, i) => (
-                  <div 
-                    key={i}
-                    className="p-3.5 rounded-xl glass-card border border-[var(--theme-border)] hover:border-rose-500/40 transition-all flex items-center justify-between gap-3"
-                  >
-                    <div className="flex items-center gap-3 min-w-0">
-                      <div className="w-9 h-9 rounded-lg bg-rose-500/10 text-rose-400 border border-rose-500/20 flex items-center justify-center shrink-0">
-                        <FileText size={18} />
+
+              {viewMode === 'tiles' ? (
+                /* PDFs Tiles Grid */
+                <div className="grid grid-cols-1 md:grid-cols-2 gap-3.5">
+                  {filteredDocs.map((doc, i) => (
+                    <div 
+                      key={i}
+                      className="p-4 rounded-2xl glass-card border border-[var(--theme-border)] hover:border-rose-500/40 transition-all flex flex-col justify-between gap-3 group"
+                    >
+                      <div className="flex items-start gap-3.5 min-w-0">
+                        <div className="w-10 h-10 rounded-xl bg-rose-500/10 text-rose-400 border border-rose-500/20 flex items-center justify-center shrink-0">
+                          <FileText size={20} />
+                        </div>
+                        <div className="min-w-0 flex-1">
+                          <h4 className="font-bold text-xs md:text-sm text-[var(--theme-text-heading)] leading-snug line-clamp-2" title={doc.name}>
+                            {doc.name}
+                          </h4>
+                          {doc.size > 0 && (
+                            <p className="text-[10px] text-[var(--theme-text-muted)] font-mono mt-1">
+                              {(doc.size / (1024 * 1024)).toFixed(2)} MB • Verified CampusMonk Handout
+                            </p>
+                          )}
+                        </div>
                       </div>
-                      <div className="min-w-0">
-                        <h4 className="font-bold text-xs text-[var(--theme-text-heading)] truncate" title={doc.name}>
-                          {doc.name}
-                        </h4>
-                        {doc.size > 0 && (
-                          <p className="text-[10px] text-[var(--theme-text-muted)] font-mono">
-                            {(doc.size / (1024 * 1024)).toFixed(2)} MB
-                          </p>
+
+                      <div className="pt-3 border-t border-[var(--theme-border)] flex items-center gap-2">
+                        {doc.url ? (
+                          <>
+                            <button
+                              onClick={() => setSelectedPdf(doc)}
+                              className="btn-secondary text-xs py-1.5 px-3 flex items-center gap-1.5"
+                            >
+                              <Eye size={12} /> Instant Preview
+                            </button>
+                            <a
+                              href={doc.url}
+                              target="_blank"
+                              rel="noopener noreferrer"
+                              className="btn-secondary text-xs py-1.5 px-3 flex items-center gap-1.5 ml-auto text-rose-400"
+                            >
+                              <ExternalLink size={12} /> Open in Tab
+                            </a>
+                          </>
+                        ) : (
+                          <span className="text-[10px] text-[var(--theme-text-muted)] font-bold">Catalog Reference Only</span>
                         )}
                       </div>
                     </div>
-
-                    {doc.url ? (
-                      <a
-                        href={doc.url}
-                        target="_blank"
-                        rel="noopener noreferrer"
-                        className="btn-secondary text-xs py-1 px-3 flex items-center gap-1 shrink-0"
-                      >
-                        <ExternalLink size={12} /> Open
-                      </a>
-                    ) : (
-                      <span className="text-[10px] text-[var(--theme-text-muted)] font-bold">Catalog Only</span>
-                    )}
-                  </div>
-                ))}
-              </div>
+                  ))}
+                </div>
+              ) : (
+                /* PDFs List Mode */
+                <div className="glass-card rounded-2xl border border-[var(--theme-border)] overflow-hidden divide-y divide-[var(--theme-border)]">
+                  {filteredDocs.map((doc, i) => (
+                    <div key={i} className="p-3.5 hover:bg-[var(--theme-bg-subtle)] transition-colors flex items-center justify-between gap-3">
+                      <div className="flex items-center gap-3 min-w-0">
+                        <FileText size={16} className="text-rose-400 shrink-0" />
+                        <span className="font-bold text-xs text-[var(--theme-text-heading)] truncate" title={doc.name}>
+                          {doc.name}
+                        </span>
+                      </div>
+                      <div className="flex items-center gap-2 shrink-0">
+                        {doc.size > 0 && (
+                          <span className="text-[10px] font-mono text-[var(--theme-text-muted)]">
+                            {(doc.size / (1024 * 1024)).toFixed(1)} MB
+                          </span>
+                        )}
+                        {doc.url && (
+                          <>
+                            <button
+                              onClick={() => setSelectedPdf(doc)}
+                              className="btn-secondary text-xs py-1 px-2.5 flex items-center gap-1"
+                            >
+                              <Eye size={12} /> Preview
+                            </button>
+                            <a
+                              href={doc.url}
+                              target="_blank"
+                              rel="noopener noreferrer"
+                              className="btn-secondary text-xs py-1 px-2.5 flex items-center gap-1"
+                            >
+                              <ExternalLink size={12} />
+                            </a>
+                          </>
+                        )}
+                      </div>
+                    </div>
+                  ))}
+                </div>
+              )}
             </div>
           )}
 
           {/* Tests Section */}
-          {currentTests.length > 0 && (
+          {filteredTests.length > 0 && (
             <div className="space-y-3 mt-6">
-              <h2 className="text-xs font-extrabold tracking-wider uppercase text-indigo-400 flex items-center gap-1.5">
-                <Award size={14} /> Sectional Mocks & Topic Tests ({currentTests.length})
+              <h2 className="text-xs font-black tracking-wider uppercase text-indigo-400 flex items-center gap-1.5">
+                <Award size={14} /> Sectional Mocks & Topic Tests ({filteredTests.length})
               </h2>
-              <div className="grid grid-cols-1 md:grid-cols-2 gap-3.5">
-                {currentTests.map((t, i) => (
-                  <div 
-                    key={i}
-                    className="p-4 rounded-xl glass-card border border-[var(--theme-border)] hover:border-indigo-500/40 transition-all flex flex-col justify-between gap-3"
-                  >
-                    <div className="flex items-start gap-3">
-                      <div className="w-10 h-10 rounded-xl bg-indigo-500/10 text-indigo-400 border border-indigo-500/20 flex items-center justify-center shrink-0">
-                        <Award size={20} />
-                      </div>
-                      <div className="min-w-0 flex-1">
-                        <h4 className="font-bold text-sm text-[var(--theme-text-heading)]">
-                          {t.name}
-                        </h4>
-                        <p className="text-xs text-[var(--theme-text-muted)] mt-1">
-                          {t.questionCount > 0 ? `${t.questionCount} Questions` : 'Official Mock Test'}
-                        </p>
-                      </div>
-                    </div>
 
-                    <div className="flex items-center gap-2 pt-2 border-t border-[var(--theme-border)]">
-                      {t.qpHtml && (
-                        <a
-                          href={t.qpHtml}
-                          target="_blank"
-                          rel="noopener noreferrer"
-                          className="btn-secondary text-xs py-1 px-3 flex items-center gap-1"
+              {viewMode === 'tiles' ? (
+                /* Tests Tiles Grid */
+                <div className="grid grid-cols-1 md:grid-cols-2 gap-3.5">
+                  {filteredTests.map((t, i) => (
+                    <div 
+                      key={i}
+                      className="p-4 md:p-5 rounded-2xl glass-card border border-[var(--theme-border)] hover:border-indigo-500/40 transition-all flex flex-col justify-between gap-4 shadow-sm"
+                    >
+                      <div className="flex items-start gap-3.5">
+                        <div className="w-11 h-11 rounded-2xl bg-indigo-500/10 text-indigo-400 border border-indigo-500/20 flex items-center justify-center shrink-0">
+                          <Award size={22} />
+                        </div>
+                        <div className="min-w-0 flex-1">
+                          <h4 className="font-black text-sm text-[var(--theme-text-heading)] leading-snug">
+                            {t.name}
+                          </h4>
+                          <p className="text-xs text-[var(--theme-text-muted)] mt-1 font-medium">
+                            {t.questionCount > 0 ? `${t.questionCount} Questions` : 'Official CBT Exam Paper'}
+                          </p>
+                        </div>
+                      </div>
+
+                      <div className="pt-3 border-t border-[var(--theme-border)] flex flex-wrap items-center gap-2">
+                        {t.qpHtml && (
+                          <a
+                            href={t.qpHtml}
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            className="btn-secondary text-xs py-1 px-2.5 flex items-center gap-1 text-[var(--theme-text-muted)]"
+                          >
+                            <ExternalLink size={12} /> Paper HTML
+                          </a>
+                        )}
+                        {t.solHtml && (
+                          <a
+                            href={t.solHtml}
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            className="btn-secondary text-xs py-1 px-2.5 flex items-center gap-1 text-emerald-400"
+                          >
+                            <CheckCircle2 size={12} /> Sol HTML
+                          </a>
+                        )}
+                        <button
+                          onClick={() => onLaunchTest && onLaunchTest(t)}
+                          className="btn-premium text-xs py-1.5 px-4 flex items-center gap-1.5 ml-auto shadow-sm active:scale-95"
                         >
-                          <ExternalLink size={12} /> Question Paper
-                        </a>
-                      )}
-                      {t.solHtml && (
-                        <a
-                          href={t.solHtml}
-                          target="_blank"
-                          rel="noopener noreferrer"
-                          className="btn-secondary text-xs py-1 px-3 flex items-center gap-1 text-emerald-400"
-                        >
-                          <CheckCircle2 size={12} /> Solutions
-                        </a>
-                      )}
-                      <button
-                        onClick={() => onLaunchTest && onLaunchTest(t)}
-                        className="btn-premium text-xs py-1 px-3 flex items-center gap-1 ml-auto"
-                      >
-                        Start Test
-                      </button>
+                          <Play size={12} /> Start Mock Test
+                        </button>
+                      </div>
                     </div>
-                  </div>
-                ))}
-              </div>
+                  ))}
+                </div>
+              ) : (
+                /* Tests List Mode */
+                <div className="glass-card rounded-2xl border border-[var(--theme-border)] overflow-hidden divide-y divide-[var(--theme-border)]">
+                  {filteredTests.map((t, i) => (
+                    <div key={i} className="p-3.5 hover:bg-[var(--theme-bg-subtle)] transition-colors flex items-center justify-between gap-3">
+                      <div className="flex items-center gap-3 min-w-0">
+                        <Award size={18} className="text-indigo-400 shrink-0" />
+                        <span className="font-bold text-xs text-[var(--theme-text-heading)] truncate" title={t.name}>
+                          {t.name}
+                        </span>
+                      </div>
+                      <div className="flex items-center gap-2 shrink-0">
+                        {t.qpHtml && (
+                          <a
+                            href={t.qpHtml}
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            className="btn-secondary text-xs py-1 px-2.5"
+                          >
+                            HTML
+                          </a>
+                        )}
+                        <button
+                          onClick={() => onLaunchTest && onLaunchTest(t)}
+                          className="btn-premium text-xs py-1 px-3 flex items-center gap-1"
+                        >
+                          Start Test
+                        </button>
+                      </div>
+                    </div>
+                  ))}
+                </div>
+              )}
             </div>
           )}
 
           {/* Empty Folder Notice */}
-          {currentFolder && currentFolder.subfolders.length === 0 && currentVideos.length === 0 && currentDocs.length === 0 && currentTests.length === 0 && (
-            <div className="p-12 text-center text-[var(--theme-text-muted)] font-medium">
-              This folder is currently empty.
+          {filteredSubfolders.length === 0 && filteredVideos.length === 0 && filteredDocs.length === 0 && filteredTests.length === 0 && (
+            <div className="p-16 text-center glass-card border border-dashed rounded-3xl text-[var(--theme-text-muted)] font-medium">
+              No items in this category or folder.
             </div>
           )}
         </div>
       )}
 
+      {/* PDF Inline Preview Modal */}
+      <AnimatePresence>
+        {selectedPdf && (
+          <div className="fixed inset-0 z-50 bg-black/85 backdrop-blur-md flex items-center justify-center p-2 md:p-6">
+            <motion.div 
+              initial={{ opacity: 0, scale: 0.96 }}
+              animate={{ opacity: 1, scale: 1 }}
+              exit={{ opacity: 0, scale: 0.96 }}
+              className="glass-card w-full max-w-5xl h-[90vh] rounded-3xl border border-[var(--theme-border-strong)] flex flex-col overflow-hidden shadow-2xl"
+            >
+              <div className="p-4 border-b border-[var(--theme-border)] flex items-center justify-between gap-4 bg-[var(--theme-bg-elevated)]">
+                <div className="flex items-center gap-3 min-w-0">
+                  <FileText className="text-rose-400 shrink-0" size={20} />
+                  <h3 className="font-bold text-sm text-[var(--theme-text-heading)] truncate">
+                    {selectedPdf.name}
+                  </h3>
+                </div>
+                <div className="flex items-center gap-2">
+                  <a
+                    href={selectedPdf.url}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="btn-secondary text-xs py-1.5 px-3 flex items-center gap-1"
+                  >
+                    <ExternalLink size={12} /> Open New Tab
+                  </a>
+                  <button 
+                    onClick={() => setSelectedPdf(null)}
+                    className="p-1.5 rounded-xl hover:bg-[var(--theme-bg-subtle)] text-[var(--theme-text-muted)] hover:text-white transition-colors"
+                  >
+                    <X size={20} />
+                  </button>
+                </div>
+              </div>
+
+              <div className="flex-1 bg-black/40 relative">
+                <iframe
+                  src={selectedPdf.url}
+                  title={selectedPdf.name}
+                  className="w-full h-full border-none"
+                />
+              </div>
+            </motion.div>
+          </div>
+        )}
+      </AnimatePresence>
+
       {/* Local Video Player Modal */}
       <AnimatePresence>
         {selectedVideo && (
-          <div className="fixed inset-0 z-50 bg-black/80 backdrop-blur-md flex items-center justify-center p-4">
+          <div className="fixed inset-0 z-50 bg-black/85 backdrop-blur-md flex items-center justify-center p-4">
             <motion.div 
               initial={{ opacity: 0, scale: 0.95 }}
               animate={{ opacity: 1, scale: 1 }}
               exit={{ opacity: 0, scale: 0.95 }}
-              className="glass-card max-w-4xl w-full p-6 border border-[var(--theme-border)] relative space-y-4"
+              className="glass-card max-w-4xl w-full p-6 rounded-3xl border border-[var(--theme-border)] relative space-y-4 shadow-2xl"
             >
               <div className="flex items-center justify-between">
-                <h3 className="font-black text-lg text-[var(--theme-text-heading)]">
-                  {selectedVideo.name}
-                </h3>
+                <div className="flex items-center gap-3">
+                  <Video className="text-amber-400" size={22} />
+                  <h3 className="font-black text-base text-[var(--theme-text-heading)]">
+                    {selectedVideo.name}
+                  </h3>
+                </div>
                 <button 
                   onClick={() => setSelectedVideo(null)}
-                  className="p-1.5 rounded-lg hover:bg-[var(--theme-bg-subtle)] text-[var(--theme-text-muted)]"
+                  className="p-1.5 rounded-xl hover:bg-[var(--theme-bg-subtle)] text-[var(--theme-text-muted)] hover:text-white"
                 >
                   <X size={20} />
                 </button>
               </div>
 
-              <div className="aspect-video bg-black rounded-xl overflow-hidden shadow-2xl">
+              <div className="aspect-video bg-black rounded-2xl overflow-hidden shadow-2xl border border-white/10">
                 <video
                   src={selectedVideo.url}
                   controls
@@ -508,15 +1003,67 @@ export default function CourseExplorer({ onLaunchTest }) {
                 />
               </div>
 
-              <div className="text-xs text-[var(--theme-text-muted)] flex justify-between">
-                <span>Local High-Definition Offline Walkthrough</span>
+              <div className="text-xs text-[var(--theme-text-muted)] flex justify-between items-center pt-2">
+                <span>Local HD Offline Walkthrough Session</span>
                 <button 
                   onClick={() => setSelectedVideo(null)}
-                  className="btn-secondary py-1 px-4 text-xs"
+                  className="btn-secondary py-1.5 px-4 text-xs font-bold"
                 >
                   Close Player
                 </button>
               </div>
+            </motion.div>
+          </div>
+        )}
+      </AnimatePresence>
+
+      {/* Add / Import Course Modal */}
+      <AnimatePresence>
+        {isAddCourseModalOpen && (
+          <div className="fixed inset-0 z-50 bg-black/80 backdrop-blur-md flex items-center justify-center p-4">
+            <motion.div 
+              initial={{ opacity: 0, scale: 0.95 }}
+              animate={{ opacity: 1, scale: 1 }}
+              exit={{ opacity: 0, scale: 0.95 }}
+              className="glass-card max-w-lg w-full p-6 md:p-8 rounded-3xl border border-[var(--theme-border-strong)] space-y-5 shadow-2xl"
+            >
+              <div className="flex items-center justify-between">
+                <h3 className="font-black text-lg text-[var(--theme-text-heading)] flex items-center gap-2">
+                  <Plus size={20} className="text-[var(--theme-text-accent)]" /> Add New Course Vault
+                </h3>
+                <button 
+                  onClick={() => setIsAddCourseModalOpen(false)}
+                  className="p-1.5 rounded-xl hover:bg-[var(--theme-bg-subtle)] text-[var(--theme-text-muted)]"
+                >
+                  <X size={18} />
+                </button>
+              </div>
+
+              <p className="text-xs text-[var(--theme-text-muted)] leading-relaxed font-medium">
+                To connect additional course vaults (such as TCS NQT, Cognizant, or Wipro packs), place the course folder inside <code className="text-indigo-400 font-mono">preparation/</code> and click the re-indexing tool.
+              </p>
+
+              <div className="space-y-3">
+                <div className="p-4 rounded-xl bg-[var(--theme-bg-subtle)] border border-[var(--theme-border)] space-y-1">
+                  <div className="text-xs font-bold text-[var(--theme-text-heading)]">Course Vault Directory</div>
+                  <div className="text-[11px] font-mono text-[var(--theme-text-muted)] truncate">
+                    preparation/Course_&lt;CourseId&gt;_Full/
+                  </div>
+                </div>
+                <div className="p-4 rounded-xl bg-[var(--theme-bg-subtle)] border border-[var(--theme-border)] space-y-1">
+                  <div className="text-xs font-bold text-[var(--theme-text-heading)]">Automated Scanner</div>
+                  <div className="text-[11px] text-[var(--theme-text-muted)]">
+                    Scans all videos, documents, DPPs, and JSON mock test papers automatically.
+                  </div>
+                </div>
+              </div>
+
+              <button
+                onClick={() => setIsAddCourseModalOpen(false)}
+                className="w-full btn-premium py-3 text-xs font-black uppercase tracking-wider"
+              >
+                Understood & Close
+              </button>
             </motion.div>
           </div>
         )}
