@@ -12,6 +12,7 @@ Sabhi files ke naam ultra-short, crisp aur sequential (`01_` se `36_`) rakhe gay
 
 | Step / Module | File Link | Core Content & Scope |
 | :---: | :--- | :--- |
+| **00** | **[00_se_master_handbook.md](file:///c:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/02_exam/00_se_master_handbook.md)** | **Systems Engineer (SE) Master Handbook:** The all-inclusive, 360° bible strictly engineered for the SE role covering all 5 exam sections, Versant, interviews, salary, bond, and Mysore FA survival. |
 | **01** | **[01_index.md](file:///c:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/01_index.md)** | **Master Index & Hub:** 36 modules ka master navigation directory, SE vs DSE vs SP comparison table, aur 6-phase lifecycle roadmap. |
 | **02** | **[02_timeline.md](file:///c:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/01_apply/02_timeline.md)** | **Drive Dates & College Phases:** 2023–2027 lifecycle, Phase 1 (Aug–Nov 2026) vs Phase 2 (Jan–Apr 2027), Day 0 to Day 50 schedule. |
 | **03** | **[03_resume.md](file:///c:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/01_apply/03_resume.md)** | **Registration & ATS Resume:** Portal form guidelines, 1-page single-column ATS format, high-match keywords, aur hardware pre-check setup. |
