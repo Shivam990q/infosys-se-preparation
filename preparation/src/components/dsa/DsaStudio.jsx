@@ -3,28 +3,64 @@ import { motion, AnimatePresence } from 'framer-motion';
 import { 
   Code2, ExternalLink, Compass, Layers, Calculator, Terminal, 
   ChevronRight, BookOpen, CheckCircle2, Award, Zap, HelpCircle,
-  ArrowRight, Sparkles, Sliders
+  ArrowRight, Sparkles, Sliders, ShoppingBag, Grid
 } from 'lucide-react';
 import { DSA_PROBLEMS } from '../../data/dsaProblems';
 import ElephantVisualizer from './ElephantVisualizer';
 import DpTableVisualizer from './DpTableVisualizer';
+import SoldierBananasVisualizer from './SoldierBananasVisualizer';
+import ArithmeticProgressionVisualizer from './ArithmeticProgressionVisualizer';
 import CodeWorkbench from './CodeWorkbench';
 
 export default function DsaStudio() {
-  const [selectedProblemId, setSelectedProblemId] = useState('cf-617a');
-  // Visual Mode: 'visualizer', 'dp', 'proof', 'code'
+  const [selectedProblemId, setSelectedProblemId] = useState('cf-546a');
+  // Visual Mode: 'visualizer', 'dp'/'ap', 'proof', 'code'
   const [activeMode, setActiveMode] = useState('visualizer');
   const [isProblemDropdownOpen, setIsProblemDropdownOpen] = useState(false);
 
   const problem = DSA_PROBLEMS.find(p => p.id === selectedProblemId) || DSA_PROBLEMS[0];
+
+  // Dynamic tabs configuration per problem
+  const getTabs = () => {
+    if (problem.id === 'cf-617a') {
+      return [
+        { id: 'visualizer', label: 'Coordinate Line Simulator', icon: Compass },
+        { id: 'dp', label: 'DP State Table Explorer', icon: Layers },
+        { id: 'proof', label: 'Math Proof & Intuition', icon: Calculator },
+        { id: 'code', label: 'Code & In-Browser Runner', icon: Terminal }
+      ];
+    }
+    if (problem.id === 'cf-546a') {
+      return [
+        { id: 'visualizer', label: 'Banana Market & Loan Simulator', icon: Compass },
+        { id: 'ap', label: 'AP Sum & Geometry Visualizer', icon: Grid },
+        { id: 'proof', label: 'Math Proof & Closed Form', icon: Calculator },
+        { id: 'code', label: 'Code & In-Browser Runner', icon: Terminal }
+      ];
+    }
+    return [
+      { id: 'visualizer', label: 'Problem Visualizer', icon: Compass },
+      { id: 'proof', label: 'Math & Logic', icon: Calculator },
+      { id: 'code', label: 'Code & In-Browser Runner', icon: Terminal }
+    ];
+  };
+
+  const tabs = getTabs();
+
+  // Problem switcher handler
+  const handleSelectProblem = (id) => {
+    setSelectedProblemId(id);
+    setIsProblemDropdownOpen(false);
+    setActiveMode('visualizer'); // Reset to visualizer on problem change
+  };
 
   return (
     <div className="max-w-7xl mx-auto space-y-6 pb-24">
       {/* Top Studio Header & Problem Metadata */}
       <div className="p-5 md:p-6 rounded-3xl glass-card border border-[var(--theme-border)] shadow-xl flex flex-col lg:flex-row lg:items-center justify-between gap-5 relative overflow-hidden">
         <div className="flex items-start gap-4">
-          <div className="w-14 h-14 rounded-2xl bg-gradient-to-br from-indigo-500 to-purple-600 text-white flex items-center justify-center shrink-0 shadow-xl shadow-indigo-500/20 text-2xl">
-            🐘
+          <div className="w-14 h-14 rounded-2xl bg-gradient-to-br from-amber-500 to-indigo-600 text-white flex items-center justify-center shrink-0 shadow-xl shadow-indigo-500/20 text-3xl">
+            {problem.icon || '💡'}
           </div>
           <div>
             <div className="flex items-center gap-2.5 flex-wrap">
@@ -86,19 +122,19 @@ export default function DsaStudio() {
                 {DSA_PROBLEMS.map(p => (
                   <button
                     key={p.id}
-                    onClick={() => {
-                      setSelectedProblemId(p.id);
-                      setIsProblemDropdownOpen(false);
-                    }}
+                    onClick={() => handleSelectProblem(p.id)}
                     className={`w-full text-left p-2.5 rounded-xl text-xs transition-all flex items-center justify-between ${
                       selectedProblemId === p.id 
                         ? 'bg-[var(--theme-bg-accent-subtle)] text-[var(--theme-text-accent)] font-bold border border-[var(--theme-border-accent)]' 
                         : 'hover:bg-[var(--theme-bg-subtle)] text-[var(--theme-text-primary)]'
                     }`}
                   >
-                    <div>
-                      <div className="font-bold">{p.title}</div>
-                      <div className="text-[10px] text-[var(--theme-text-muted)]">{p.category} • Rating {p.rating}</div>
+                    <div className="flex items-center gap-2.5">
+                      <span className="text-base">{p.icon || '📝'}</span>
+                      <div>
+                        <div className="font-bold">{p.title}</div>
+                        <div className="text-[10px] text-[var(--theme-text-muted)]">{p.category} • Rating {p.rating}</div>
+                      </div>
                     </div>
                     {selectedProblemId === p.id && <CheckCircle2 size={14} />}
                   </button>
@@ -112,12 +148,7 @@ export default function DsaStudio() {
       {/* Visual Mode Navigation Toolbar */}
       <div className="flex flex-wrap items-center justify-between gap-3 p-2.5 md:p-3 rounded-2xl glass-card border border-[var(--theme-border)] shadow-sm">
         <div className="flex items-center gap-1.5 overflow-x-auto custom-scrollbar">
-          {[
-            { id: 'visualizer', label: 'Coordinate Line Simulator', icon: Compass },
-            { id: 'dp', label: 'DP State Table Explorer', icon: Layers },
-            { id: 'proof', label: 'Math Proof & Intuition', icon: Calculator },
-            { id: 'code', label: 'Code & In-Browser Runner', icon: Terminal }
-          ].map(tab => (
+          {tabs.map(tab => (
             <button
               key={tab.id}
               onClick={() => setActiveMode(tab.id)}
@@ -133,19 +164,27 @@ export default function DsaStudio() {
           ))}
         </div>
 
-        {/* Quick Question Brief Pill */}
+        {/* Quick Problem Metric Pill */}
         <div className="text-xs font-mono text-[var(--theme-text-muted)] hidden md:block pr-2">
-          Jump Sizes Allowed: <span className="text-emerald-400 font-bold">&#123;1, 2, 3, 4, 5&#125;</span>
+          {problem.quickMetric && (
+            <span className="text-amber-400 font-bold bg-amber-500/10 px-2.5 py-1 rounded-lg border border-amber-500/20">
+              {problem.quickMetric}
+            </span>
+          )}
         </div>
       </div>
 
       {/* Active Tab View */}
       {activeMode === 'visualizer' && (
-        <ElephantVisualizer />
+        problem.id === 'cf-617a' ? <ElephantVisualizer /> : <SoldierBananasVisualizer />
       )}
 
       {activeMode === 'dp' && (
         <DpTableVisualizer />
+      )}
+
+      {activeMode === 'ap' && (
+        <ArithmeticProgressionVisualizer />
       )}
 
       {activeMode === 'code' && (
@@ -159,10 +198,10 @@ export default function DsaStudio() {
             <div>
               <h2 className="text-lg md:text-xl font-black text-[var(--theme-text-heading)] flex items-center gap-2">
                 <Calculator size={20} className="text-indigo-400" />
-                Mathematical Proof: Why Greedy is Optimal
+                {problem.mathProof?.title || 'Mathematical Proof & Intuition'}
               </h2>
               <p className="text-xs text-[var(--theme-text-muted)] font-medium mt-1">
-                Formal proof establishing the theoretical lower bound and proving the sufficiency of ⌈x / 5⌉ steps.
+                Rigorous algorithmic analysis, derivations, and complexity proofs.
               </p>
             </div>
 
@@ -185,26 +224,48 @@ export default function DsaStudio() {
               ))}
             </div>
 
-            {/* Ceiling Division Identities Card */}
-            <div className="p-5 rounded-2xl bg-gradient-to-r from-indigo-500/10 via-purple-500/10 to-emerald-500/10 border border-indigo-500/30 space-y-2">
-              <h4 className="text-xs font-black uppercase tracking-wider text-[var(--theme-text-heading)] flex items-center gap-2">
-                <Sparkles size={14} className="text-amber-400" /> Key Competitive Programming Formulas
-              </h4>
-              <div className="grid grid-cols-1 md:grid-cols-3 gap-3 pt-2 text-xs font-mono">
-                <div className="p-3 rounded-xl bg-[var(--theme-bg-card)] border border-[var(--theme-border)]">
-                  <div className="text-[10px] text-[var(--theme-text-muted)]">Integer Ceiling Division:</div>
-                  <div className="font-bold text-emerald-400 mt-1">(x + 4) / 5</div>
-                </div>
-                <div className="p-3 rounded-xl bg-[var(--theme-bg-card)] border border-[var(--theme-border)]">
-                  <div className="text-[10px] text-[var(--theme-text-muted)]">Floor + Remainder Check:</div>
-                  <div className="font-bold text-sky-400 mt-1">x / 5 + (x % 5 ? 1 : 0)</div>
-                </div>
-                <div className="p-3 rounded-xl bg-[var(--theme-bg-card)] border border-[var(--theme-border)]">
-                  <div className="text-[10px] text-[var(--theme-text-muted)]">Bitwise / Floating point:</div>
-                  <div className="font-bold text-purple-400 mt-1">ceil((double)x / 5.0)</div>
+            {/* Identities Card */}
+            {problem.id === 'cf-546a' ? (
+              <div className="p-5 rounded-2xl bg-gradient-to-r from-amber-500/10 via-emerald-500/10 to-indigo-500/10 border border-amber-500/30 space-y-2">
+                <h4 className="text-xs font-black uppercase tracking-wider text-[var(--theme-text-heading)] flex items-center gap-2">
+                  <Sparkles size={14} className="text-amber-400" /> Essential Arithmetic Progression Identities
+                </h4>
+                <div className="grid grid-cols-1 md:grid-cols-3 gap-3 pt-2 text-xs font-mono">
+                  <div className="p-3 rounded-xl bg-[var(--theme-bg-card)] border border-[var(--theme-border)]">
+                    <div className="text-[10px] text-[var(--theme-text-muted)]">Sum of 1 to w:</div>
+                    <div className="font-bold text-emerald-400 mt-1">w × (w + 1) / 2</div>
+                  </div>
+                  <div className="p-3 rounded-xl bg-[var(--theme-bg-card)] border border-[var(--theme-border)]">
+                    <div className="text-[10px] text-[var(--theme-text-muted)]">Scaled by cost k:</div>
+                    <div className="font-bold text-sky-400 mt-1">k × w × (w + 1) / 2</div>
+                  </div>
+                  <div className="p-3 rounded-xl bg-[var(--theme-bg-card)] border border-[var(--theme-border)]">
+                    <div className="text-[10px] text-[var(--theme-text-muted)]">Non-Negative Borrow:</div>
+                    <div className="font-bold text-purple-400 mt-1">max(0LL, Total - n)</div>
+                  </div>
                 </div>
               </div>
-            </div>
+            ) : (
+              <div className="p-5 rounded-2xl bg-gradient-to-r from-indigo-500/10 via-purple-500/10 to-emerald-500/10 border border-indigo-500/30 space-y-2">
+                <h4 className="text-xs font-black uppercase tracking-wider text-[var(--theme-text-heading)] flex items-center gap-2">
+                  <Sparkles size={14} className="text-amber-400" /> Key Competitive Programming Formulas
+                </h4>
+                <div className="grid grid-cols-1 md:grid-cols-3 gap-3 pt-2 text-xs font-mono">
+                  <div className="p-3 rounded-xl bg-[var(--theme-bg-card)] border border-[var(--theme-border)]">
+                    <div className="text-[10px] text-[var(--theme-text-muted)]">Integer Ceiling Division:</div>
+                    <div className="font-bold text-emerald-400 mt-1">(x + 4) / 5</div>
+                  </div>
+                  <div className="p-3 rounded-xl bg-[var(--theme-bg-card)] border border-[var(--theme-border)]">
+                    <div className="text-[10px] text-[var(--theme-text-muted)]">Floor + Remainder Check:</div>
+                    <div className="font-bold text-sky-400 mt-1">x / 5 + (x % 5 ? 1 : 0)</div>
+                  </div>
+                  <div className="p-3 rounded-xl bg-[var(--theme-bg-card)] border border-[var(--theme-border)]">
+                    <div className="text-[10px] text-[var(--theme-text-muted)]">Bitwise / Floating point:</div>
+                    <div className="font-bold text-purple-400 mt-1">ceil((double)x / 5.0)</div>
+                  </div>
+                </div>
+              </div>
+            )}
           </div>
         </div>
       )}
@@ -215,7 +276,9 @@ export default function DsaStudio() {
           <h3 className="text-sm font-black uppercase tracking-wider text-[var(--theme-text-heading)] flex items-center gap-2">
             <BookOpen size={16} className="text-indigo-400" /> Complete Problem Specification
           </h3>
-          <span className="text-[10px] font-mono text-[var(--theme-text-muted)]">Codeforces Problem ID: 617A</span>
+          <span className="text-[10px] font-mono text-[var(--theme-text-muted)]">
+            Codeforces Problem ID: {problem.problemCode}
+          </span>
         </div>
 
         <div className="text-xs md:text-sm text-[var(--theme-text-secondary)] leading-relaxed space-y-3">

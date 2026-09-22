@@ -1,13 +1,29 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import { Copy, Check, Play, Terminal, CheckCircle2, XCircle, Code2, Cpu, Zap, Clock } from 'lucide-react';
 
 export default function CodeWorkbench({ problem }) {
   const [selectedLang, setSelectedLang] = useState('cpp');
   const [copied, setCopied] = useState(false);
-  const [customInput, setCustomInput] = useState('12');
+  const [multiInputs, setMultiInputs] = useState({});
+  const [singleInput, setSingleInput] = useState('12');
   const [customResult, setCustomResult] = useState(null);
   const [testResults, setTestResults] = useState(null);
   const [isRunningTests, setIsRunningTests] = useState(false);
+
+  // Initialize input state from problem schema
+  useEffect(() => {
+    setCustomResult(null);
+    setTestResults(null);
+    if (problem?.inputSchema?.type === 'multi') {
+      const initial = {};
+      problem.inputSchema.fields.forEach(f => {
+        initial[f.key] = f.default;
+      });
+      setMultiInputs(initial);
+    } else {
+      setSingleInput(String(problem?.inputSchema?.default || 12));
+    }
+  }, [problem?.id]);
 
   const codeSnippets = problem?.solutions || {};
 
@@ -18,34 +34,44 @@ export default function CodeWorkbench({ problem }) {
     setTimeout(() => setCopied(false), 2000);
   };
 
-  // Run in-browser solution simulation
-  const solveSimulated = (xVal) => {
-    const x = parseInt(xVal, 10);
-    if (isNaN(x) || x <= 0) return { error: 'Please enter an integer x > 0' };
-    const startTime = performance.now();
-    const ans = Math.ceil(x / 5);
-    const durationMs = (performance.now() - startTime).toFixed(4);
-    return {
-      x,
-      ans,
-      fives: Math.floor(x / 5),
-      remainder: x % 5,
-      formula: `ceil(${x} / 5) = Math.floor((${x} + 4) / 5) = ${ans}`,
-      durationMs
-    };
-  };
-
+  // Run in-browser custom solution
   const handleRunCustom = () => {
-    const res = solveSimulated(customInput);
-    setCustomResult(res);
+    const startTime = performance.now();
+    try {
+      let ans;
+      let inputSummary = '';
+
+      if (problem?.inputSchema?.type === 'multi') {
+        ans = problem.runner(multiInputs);
+        inputSummary = Object.entries(multiInputs).map(([k, v]) => `${k} = ${v}`).join(', ');
+      } else {
+        const x = parseInt(singleInput, 10);
+        if (isNaN(x) || x <= 0) {
+          setCustomResult({ error: 'Please enter a valid positive integer.' });
+          return;
+        }
+        ans = problem.runner({ x });
+        inputSummary = `x = ${x}`;
+      }
+
+      const durationMs = (performance.now() - startTime).toFixed(4);
+      setCustomResult({
+        ans,
+        inputSummary,
+        durationMs
+      });
+    } catch (err) {
+      setCustomResult({ error: err.message });
+    }
   };
 
+  // Run all test cases in the test suite
   const handleRunAllTests = () => {
     setIsRunningTests(true);
     const cases = problem.testCases || [];
     setTimeout(() => {
       const results = cases.map(tc => {
-        const computed = Math.ceil(tc.x / 5);
+        const computed = problem.runner(tc);
         return {
           ...tc,
           computed,
@@ -54,7 +80,7 @@ export default function CodeWorkbench({ problem }) {
       });
       setTestResults(results);
       setIsRunningTests(false);
-    }, 300);
+    }, 250);
   };
 
   const langNames = {
@@ -119,7 +145,7 @@ export default function CodeWorkbench({ problem }) {
           </div>
 
           <div className="text-[11px] text-[var(--theme-text-muted)] font-medium">
-            Optimal mathematical solution running in under 0.001 ms.
+            {problem.complexity?.timeDetail || 'Optimal solution running in under 0.001 ms.'}
           </div>
         </div>
       </div>
@@ -132,29 +158,61 @@ export default function CodeWorkbench({ problem }) {
             <h3 className="text-sm font-black uppercase tracking-wider text-[var(--theme-text-heading)] flex items-center gap-2">
               <Terminal size={16} className="text-indigo-400" /> Live Custom Input Tester
             </h3>
-            <span className="text-[10px] font-mono text-[var(--theme-text-muted)]">1 ≤ x ≤ 1,000,000</span>
+            <span className="text-[10px] font-mono text-[var(--theme-text-muted)]">
+              {problem.inputSchema?.type === 'multi' ? 'k, w ≤ 1000 • n ≤ 10^9' : '1 ≤ x ≤ 1,000,000'}
+            </span>
           </div>
 
-          <div className="flex items-center gap-2">
-            <input
-              type="number"
-              min="1"
-              max="1000000"
-              value={customInput}
-              onChange={(e) => setCustomInput(e.target.value)}
-              placeholder="Enter coordinate x..."
-              className="flex-1 px-4 py-2.5 rounded-xl bg-[var(--theme-bg-subtle)] border border-[var(--theme-border)] focus:border-[var(--theme-border-accent)] outline-none text-sm font-mono font-black text-[var(--theme-text-heading)]"
-            />
-            <button
-              onClick={handleRunCustom}
-              className="btn-premium px-5 py-2.5 text-xs font-black uppercase tracking-wider flex items-center gap-2 shadow-lg"
-            >
-              <Play size={13} className="fill-current" /> Run Code
-            </button>
-          </div>
+          {/* Dynamic Input Form */}
+          {problem.inputSchema?.type === 'multi' ? (
+            <div className="space-y-3">
+              <div className="grid grid-cols-3 gap-2.5">
+                {problem.inputSchema.fields.map(f => (
+                  <div key={f.key} className="space-y-1">
+                    <label className="text-[10px] font-bold text-[var(--theme-text-muted)] uppercase block">
+                      {f.key} ({f.label.split('(')[0].trim()})
+                    </label>
+                    <input
+                      type="number"
+                      min={f.min}
+                      max={f.max}
+                      value={multiInputs[f.key] ?? f.default}
+                      onChange={(e) => setMultiInputs(prev => ({ ...prev, [f.key]: Number(e.target.value) }))}
+                      className="w-full px-3 py-2 rounded-xl bg-[var(--theme-bg-subtle)] border border-[var(--theme-border)] text-xs font-mono font-bold text-white focus:border-indigo-400 outline-none"
+                    />
+                  </div>
+                ))}
+              </div>
+              <button
+                onClick={handleRunCustom}
+                className="w-full btn-premium py-2.5 text-xs font-black uppercase tracking-wider flex items-center justify-center gap-2 shadow-lg"
+              >
+                <Play size={13} className="fill-current" /> Run Code with Custom Inputs
+              </button>
+            </div>
+          ) : (
+            <div className="flex items-center gap-2">
+              <input
+                type="number"
+                min="1"
+                max="1000000"
+                value={singleInput}
+                onChange={(e) => setSingleInput(e.target.value)}
+                placeholder="Enter coordinate x..."
+                className="flex-1 px-4 py-2.5 rounded-xl bg-[var(--theme-bg-subtle)] border border-[var(--theme-border)] focus:border-[var(--theme-border-accent)] outline-none text-sm font-mono font-black text-[var(--theme-text-heading)]"
+              />
+              <button
+                onClick={handleRunCustom}
+                className="btn-premium px-5 py-2.5 text-xs font-black uppercase tracking-wider flex items-center gap-2 shadow-lg"
+              >
+                <Play size={13} className="fill-current" /> Run Code
+              </button>
+            </div>
+          )}
 
+          {/* Execution Output */}
           {customResult && (
-            <div className="p-4 rounded-2xl bg-[var(--theme-bg-subtle)] border border-[var(--theme-border)] space-y-2.5">
+            <div className="p-4 rounded-2xl bg-[var(--theme-bg-subtle)] border border-[var(--theme-border)] space-y-2">
               {customResult.error ? (
                 <div className="text-rose-400 text-xs font-bold">{customResult.error}</div>
               ) : (
@@ -166,10 +224,8 @@ export default function CodeWorkbench({ problem }) {
                   <div className="text-3xl font-black font-mono text-emerald-400">
                     {customResult.ans}
                   </div>
-                  <div className="text-[11px] font-mono text-[var(--theme-text-muted)] border-t border-[var(--theme-border)] pt-2 flex flex-col gap-1">
-                    <div>Full 5s: <span className="text-[var(--theme-text-heading)] font-bold">{customResult.fives}</span></div>
-                    <div>Remainder: <span className="text-[var(--theme-text-heading)] font-bold">{customResult.remainder}</span></div>
-                    <div className="text-[var(--theme-text-accent)]">{customResult.formula}</div>
+                  <div className="text-[11px] font-mono text-[var(--theme-text-muted)] border-t border-[var(--theme-border)] pt-2">
+                    Evaluated for: <span className="text-[var(--theme-text-heading)] font-bold">{customResult.inputSummary}</span>
                   </div>
                 </>
               )}
@@ -193,36 +249,42 @@ export default function CodeWorkbench({ problem }) {
           </div>
 
           <div className="space-y-2 max-h-72 overflow-y-auto custom-scrollbar pr-1">
-            {(testResults || problem.testCases || []).map((tc, idx) => (
-              <div
-                key={idx}
-                className="p-3 rounded-xl bg-[var(--theme-bg-subtle)] border border-[var(--theme-border)] flex items-center justify-between text-xs font-mono"
-              >
-                <div className="flex items-center gap-3">
-                  <span className="text-[var(--theme-text-muted)] w-6">#{idx + 1}</span>
-                  <div>
-                    <span className="text-[var(--theme-text-muted)]">Input:</span> <span className="font-bold text-[var(--theme-text-heading)]">x = {tc.x}</span>
-                    <span className="text-[var(--theme-text-muted)] ml-2">Expected:</span> <span className="font-bold text-emerald-400">{tc.expected}</span>
+            {(testResults || problem.testCases || []).map((tc, idx) => {
+              const inputLabel = tc.x !== undefined 
+                ? `x = ${tc.x}` 
+                : `k = ${tc.k}, n = ${tc.n}, w = ${tc.w}`;
+
+              return (
+                <div
+                  key={idx}
+                  className="p-3 rounded-xl bg-[var(--theme-bg-subtle)] border border-[var(--theme-border)] flex items-center justify-between text-xs font-mono"
+                >
+                  <div className="flex items-center gap-3">
+                    <span className="text-[var(--theme-text-muted)] w-6">#{idx + 1}</span>
+                    <div>
+                      <span className="text-[var(--theme-text-muted)]">Input:</span> <span className="font-bold text-[var(--theme-text-heading)]">{inputLabel}</span>
+                      <span className="text-[var(--theme-text-muted)] ml-2">Expected:</span> <span className="font-bold text-emerald-400">{tc.expected}</span>
+                    </div>
+                  </div>
+
+                  <div className="flex items-center gap-2">
+                    {testResults && (
+                      <span className={`px-2 py-0.5 rounded-md font-bold text-[10px] flex items-center gap-1 ${
+                        tc.passed ? 'bg-emerald-500/15 text-emerald-400 border border-emerald-500/30' : 'bg-rose-500/15 text-rose-400 border border-rose-500/30'
+                      }`}>
+                        {tc.passed ? <CheckCircle2 size={12} /> : <XCircle size={12} />}
+                        {tc.passed ? 'PASSED' : 'FAILED'}
+                      </span>
+                    )}
+                    {!testResults && (
+                      <span className="text-[10px] text-[var(--theme-text-muted)] truncate max-w-[130px]" title={tc.note}>
+                        {tc.note}
+                      </span>
+                    )}
                   </div>
                 </div>
-
-                <div className="flex items-center gap-2">
-                  {testResults && (
-                    <span className={`px-2 py-0.5 rounded-md font-bold text-[10px] flex items-center gap-1 ${
-                      tc.passed ? 'bg-emerald-500/15 text-emerald-400 border border-emerald-500/30' : 'bg-rose-500/15 text-rose-400 border border-rose-500/30'
-                    }`}>
-                      {tc.passed ? <CheckCircle2 size={12} /> : <XCircle size={12} />}
-                      {tc.passed ? 'PASSED' : 'FAILED'}
-                    </span>
-                  )}
-                  {!testResults && (
-                    <span className="text-[10px] text-[var(--theme-text-muted)] truncate max-w-[120px]" title={tc.note}>
-                      {tc.note}
-                    </span>
-                  )}
-                </div>
-              </div>
-            ))}
+              );
+            })}
           </div>
         </div>
       </div>

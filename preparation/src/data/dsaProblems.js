@@ -129,12 +129,188 @@ solve();`
         }
       ]
     },
+    icon: '🐘',
+    quickMetric: 'Jump Sizes Allowed: {1, 2, 3, 4, 5}',
+    inputSchema: {
+      type: 'single',
+      label: 'Coordinate of friend\'s house (x)',
+      param: 'x',
+      min: 1,
+      max: 1000000,
+      default: 12
+    },
+    runner: (params) => {
+      const x = typeof params === 'object' ? params.x : params;
+      return Math.ceil(x / 5);
+    },
     dpFormulation: {
       title: 'Dynamic Programming Formulation',
       state: 'DP[i] = Minimum number of steps needed to reach coordinate i from 0.',
       baseCase: 'DP[0] = 0',
       transition: 'DP[i] = 1 + min(DP[i - s]) for s ∈ {1, 2, 3, 4, 5} where i - s ≥ 0',
       observation: 'For small x, DP computes the shortest path. Notice that DP[i] values form repeating cycles of 5: DP[1..5] = 1, DP[6..10] = 2, DP[11..15] = 3, matching ⌈i / 5⌉.'
+    }
+  },
+  {
+    id: 'cf-546a',
+    title: 'A. Soldier and Bananas',
+    icon: '🍌',
+    platform: 'Codeforces',
+    problemCode: '546A',
+    rating: 800,
+    difficulty: 'Easy',
+    category: 'Math & Implementation',
+    tags: ['Math', 'Brute Force', 'Implementation'],
+    url: 'https://codeforces.com/problemset/problem/546/A',
+    timeLimit: '1.0s',
+    memoryLimit: '256 MB',
+    summary: 'A soldier wants to buy w bananas where the i-th banana costs i·k dollars. Given he has n dollars, determine how much he must borrow from a friend.',
+    quickMetric: 'Total Cost = k · w(w + 1) / 2',
+    description: `A soldier wants to buy w bananas in the shop. He has to pay k dollars for the first banana, 2k dollars for the second one and so on (in other words, he has to pay i·k dollars for the i-th banana).
+
+He has n dollars. How many dollars does he have to borrow from his friend soldier to buy w bananas?`,
+    inputFormat: 'The first line contains three positive integers k, n, w (1 ≤ k, w ≤ 1000, 0 ≤ n ≤ 10^9), the cost of the first banana, initial number of dollars the soldier has and number of bananas he wants.',
+    outputFormat: 'Output one integer — the amount of dollars that the soldier must borrow from his friend. If he doesn\'t have to borrow money, output 0.',
+    examples: [
+      {
+        input: '3 17 4',
+        output: '13',
+        explanation: '1st banana: 3, 2nd: 6, 3rd: 9, 4th: 12. Total cost = 3 + 6 + 9 + 12 = 30 dollars. Soldier has 17 dollars, so he must borrow 30 - 17 = 13 dollars.'
+      }
+    ],
+    inputSchema: {
+      type: 'multi',
+      fields: [
+        { key: 'k', label: 'Cost of 1st banana (k)', min: 1, max: 1000, default: 3 },
+        { key: 'n', label: 'Soldier\'s initial dollars (n)', min: 0, max: 1000000000, default: 17 },
+        { key: 'w', label: 'Bananas wanted (w)', min: 1, max: 1000, default: 4 }
+      ]
+    },
+    runner: (params) => {
+      const k = Number(params.k ?? 3);
+      const n = Number(params.n ?? 17);
+      const w = Number(params.w ?? 4);
+      const total = k * (w * (w + 1)) / 2;
+      return Math.max(0, total - n);
+    },
+    testCases: [
+      { k: 3, n: 17, w: 4, expected: 13, note: 'Sample 1: Total=30, Owned=17 -> Borrow 13' },
+      { k: 3, n: 40, w: 4, expected: 0, note: 'Surplus: Owned=40, Total=30 -> Borrow 0 (No loan)' },
+      { k: 3, n: 30, w: 4, expected: 0, note: 'Exact match: Owned=30, Total=30 -> Borrow 0' },
+      { k: 5, n: 0, w: 5, expected: 75, note: 'Broke soldier: Owned=0, Total=75 -> Borrow 75' },
+      { k: 10, n: 4, w: 1, expected: 6, note: 'Single banana: w=1, Cost=10, Owned=4 -> Borrow 6' },
+      { k: 1, n: 10, w: 5, expected: 5, note: 'Unit cost k=1: Total=15, Owned=10 -> Borrow 5' },
+      { k: 4, n: 100, w: 10, expected: 120, note: 'Total=4*55=220, Owned=100 -> Borrow 120' },
+      { k: 1000, n: 0, w: 1000, expected: 500500000, note: 'Max boundary: Total=500,500,000, Owned=0' },
+      { k: 1000, n: 1000000000, w: 1000, expected: 0, note: 'Max wealth: n=10^9 > Total -> Borrow 0' }
+    ],
+    solutions: {
+      cpp: `#include <iostream>
+#include <algorithm>
+using namespace std;
+
+int main() {
+    // Fast I/O
+    ios_base::sync_with_stdio(false);
+    cin.tie(NULL);
+
+    long long k, n, w;
+    if (!(cin >> k >> n >> w)) return 0;
+
+    // Sum of first w natural numbers: w * (w + 1) / 2
+    // Total cost = k * (1 + 2 + ... + w)
+    long long totalCost = k * (w * (w + 1)) / 2;
+
+    // If totalCost <= n, soldier needs 0 dollars.
+    // Otherwise, soldier needs to borrow (totalCost - n).
+    long long borrow = max(0LL, totalCost - n);
+
+    cout << borrow << "\\n";
+    return 0;
+}`,
+      java: `import java.util.Scanner;
+
+public class SoldierAndBananas {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        long k = sc.nextLong();
+        long n = sc.nextLong();
+        long w = sc.nextLong();
+
+        // Arithmetic series sum: 1 + 2 + ... + w = w * (w + 1) / 2
+        long totalCost = k * (w * (w + 1)) / 2;
+
+        // Never borrow a negative amount
+        long borrow = Math.max(0L, totalCost - n);
+
+        System.out.println(borrow);
+        sc.close();
+    }
+}`,
+      python: `import sys
+
+def solve():
+    input_data = sys.stdin.read().split()
+    if not input_data:
+        return
+    k = int(input_data[0])
+    n = int(input_data[1])
+    w = int(input_data[2])
+
+    # Closed-form AP sum: k * (w * (w + 1) // 2)
+    total_cost = k * (w * (w + 1)) // 2
+
+    # Borrow is max(0, total_cost - n)
+    borrow = max(0, total_cost - n)
+    print(borrow)
+
+if __name__ == '__main__':
+    solve()`,
+      javascript: `const fs = require('fs');
+
+function solve() {
+    const input = fs.readFileSync(0, 'utf-8').trim().split(/\\s+/);
+    if (input.length < 3) return;
+    const k = BigInt(input[0]);
+    const n = BigInt(input[1]);
+    const w = BigInt(input[2]);
+
+    // Total cost = k * (w * (w + 1) / 2)
+    const totalCost = k * (w * (w + 1n)) / 2n;
+
+    // Non-negative borrow
+    const borrow = totalCost > n ? totalCost - n : 0n;
+    console.log(borrow.toString());
+}
+
+solve();`
+    },
+    complexity: {
+      time: 'O(1)',
+      timeDetail: 'Constant time algebraic computation using Gauss\'s summation formula.',
+      space: 'O(1)',
+      spaceDetail: 'Requires only 3 64-bit integer registers (k, n, w).'
+    },
+    mathProof: {
+      title: 'Arithmetic Progression Sum & Deficit Proof',
+      steps: [
+        {
+          heading: '1. Problem Cost Sequence',
+          content: 'The price of the i-th banana is i · k. The total price for w bananas is the sum of an arithmetic progression: Cost = 1k + 2k + 3k + ... + wk = k · (1 + 2 + 3 + ... + w).'
+        },
+        {
+          heading: '2. Gauss\'s Summation Formula',
+          content: 'The sum of the first w positive integers is given by S = w(w + 1) / 2. Multiplying by common factor k yields Total Cost = k · w(w + 1) / 2.'
+        },
+        {
+          heading: '3. Financial Deficit & Non-Negativity Rule',
+          content: 'The soldier already possesses n dollars. If Total Cost > n, the deficit to borrow is Total Cost - n. If Total Cost ≤ n, the soldier already has enough money, so he borrows 0. Thus, Borrow = max(0, Total Cost - n).'
+        },
+        {
+          heading: '4. Overflow Safety',
+          content: 'With k ≤ 1000 and w ≤ 1000, Total Cost ≤ 1000 · (1000 · 1001) / 2 = 500,500,000 (≈ 5 · 10^8). This comfortably fits in a 32-bit signed integer (< 2.14 · 10^9), but using 64-bit integers (long long / BigInt) avoids any signed subtraction underflow with n ≤ 10^9.'
+        }
+      ]
     }
   },
   {
