@@ -10,10 +10,11 @@ import {
   ShieldCheck, Activity,
   ChevronDown, SearchCode, GraduationCap, Layers,
   Menu, Infinity as InfinityIcon, Sun, Moon, Sparkles,
-  Folder
+  Folder, Code2
 } from 'lucide-react';
 import CourseExplorer from './components/CourseExplorer';
 import MockTest from './components/MockTest';
+import DsaStudio from './components/dsa/DsaStudio';
 
 const SUBJECT_DESCRIPTIONS = {
   "Analytical & Critical Reasoning": "Evaluate complex arguments, recognize patterns, and apply logical structures to solve high-level problems.",
@@ -434,6 +435,7 @@ const App = () => {
 
   const [searchTerm, setSearchTerm] = useState('');
   const [activeTab, setActiveTab] = useState('dashboard');
+  const [courseCatalogKey, setCourseCatalogKey] = useState(0);
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
   const [selectedSubject, setSelectedSubject] = useState('All');
   const [selectedDifficulty, setSelectedDifficulty] = useState('All');
@@ -936,6 +938,7 @@ const App = () => {
         <nav className="flex flex-col gap-1">
           {[
             { id: 'dashboard', icon: Layout, label: 'Dashboard' },
+            { id: 'dsa', icon: Code2, label: 'DSA Studio' },
             { id: 'course', icon: Folder, label: 'Courses' },
             { id: 'questions', icon: Target, label: 'Questions' },
           ].map(item => (
@@ -1143,6 +1146,36 @@ const App = () => {
                 </div>
                 <button className="btn-primary text-xs py-2 px-4 flex items-center gap-2 self-start md:self-center shrink-0">
                   Open Course Explorer <ChevronRight size={14} />
+                </button>
+              </motion.div>
+
+              {/* DSA Studio Feature Card */}
+              <motion.div
+                whileHover={{ scale: 1.005 }}
+                onClick={() => setActiveTab('dsa')}
+                className="p-5 md:p-6 rounded-2xl glass-card border border-[var(--theme-border)] hover:border-indigo-500/50 cursor-pointer transition-all flex flex-col md:flex-row md:items-center justify-between gap-4 bg-gradient-to-r from-emerald-950/20 via-indigo-950/20 to-purple-950/20 shadow-sm"
+              >
+                <div className="flex items-center gap-4">
+                  <div className="w-12 h-12 rounded-2xl bg-indigo-500/10 text-indigo-400 border border-indigo-500/20 flex items-center justify-center shrink-0 shadow-sm text-2xl">
+                    🐘
+                  </div>
+                  <div>
+                    <div className="flex items-center gap-2">
+                      <span className="text-[10px] font-black uppercase tracking-wider px-2 py-0.5 rounded bg-emerald-500/10 text-emerald-400 border border-emerald-500/20">
+                        Codeforces 617A
+                      </span>
+                      <span className="text-xs text-[var(--theme-text-muted)] font-bold">Interactive Algorithm Visualizer</span>
+                    </div>
+                    <h3 className="text-base font-black text-[var(--theme-text-heading)] mt-1">
+                      A. Elephant — Coordinate Line Jump Simulator & DP Explorer
+                    </h3>
+                    <p className="text-xs text-[var(--theme-text-muted)] font-medium mt-0.5">
+                      Visual jumping arcs • Mathematical O(1) Proof • Dynamic Programming State Space • C++/Java/Python/JS
+                    </p>
+                  </div>
+                </div>
+                <button className="btn-premium text-xs py-2 px-4 flex items-center gap-2 self-start md:self-center shrink-0">
+                  Launch Visualizer <ChevronRight size={14} />
                 </button>
               </motion.div>
 
@@ -1361,6 +1394,18 @@ const App = () => {
               </div>
 
 
+            </motion.div>
+          )}
+
+          {activeTab === 'dsa' && (
+            <motion.div 
+              key="dsa"
+              initial={{ opacity: 0, y: 20 }}
+              animate={{ opacity: 1, y: 0 }}
+              exit={{ opacity: 0, y: -20 }}
+              className="max-w-[1400px] mx-auto w-full"
+            >
+              <DsaStudio />
             </motion.div>
           )}
 

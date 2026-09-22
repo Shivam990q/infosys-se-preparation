@@ -29,6 +29,8 @@ dist-ssr
 *.sw?
 
 # Raw data
-src/data/
+src/data/*
+!src/data/dsaProblems.js
 *.json.gz
+*.metadata.json
 simplifying_skills_all_24k_questions_detailed.json
