@@ -81,7 +81,8 @@ Sabhi files ke naam ultra-short, crisp aur sequential (`01_` se `36_`) rakhe gay
 │   │   ├── 41_pseudocode_mastery.md (Pseudocode Engine & Variable-Trace)
 │   │   ├── 42_verbal_mastery.md (12 Golden Rules & RC Architecture)
 │   │   ├── 43_puzzles_cryptarithmetic.md (Alphametics & 4x4 Matrix Vault)
-│   │   └── 44_dse_sp_coding_vault.md (13 DSE/SP LeetCode Production PYQs)
+│   │   ├── 44_dse_sp_coding_vault.md (13 DSE/SP LeetCode Production PYQs)
+│   │   └── 45_vocab_mastery.md (223 Complete Vocabulary Vault & 4-Page Print PDF)
 │   ├── practice/
 │   │   ├── 19_pyqs.md      (10 Real Infosys PYQs Solved)
 │   │   ├── 20_verbal.md    (Verbal RC & Error Spotting Dump)

@@ -57,6 +57,7 @@ Sabhi files ke naam ultra-short, crisp aur sequential (`01_` se `36_`) rakhe gay
 | **42** | **[42_verbal_mastery.md](./02_exam/syllabus/42_verbal_mastery.md)** | **Verbal Ability & English Grammar Master Compendium:** The 12 Golden Rules of Error Detection (SVA, Dangling Modifiers, Parallelism, Conditionals), 3-minute RC skimming architecture, and Para Jumble pair detection. |
 | **43** | **[43_puzzles_cryptarithmetic.md](./02_exam/syllabus/43_puzzles_cryptarithmetic.md)** | **Puzzle Solving & Cryptarithmetic Master Vault:** 6 universal alphametic invariants, step-by-step $SEND+MORE=MONEY$ derivation, 4x4 matrix logic formulas, and the 6 classic Infosys lateral thinking riddles. |
 | **44** | **[44_dse_sp_coding_vault.md](./02_exam/syllabus/44_dse_sp_coding_vault.md)** | **Infosys DSE (₹6.25L) & SP (₹9.5L) Coding Master Vault:** 13 production LeetCode PYQs (DP, Binary Trees, BST, Graphs, Sliding Window, Two Pointers) with complete C++, Java, and Python implementations. |
+| **45** | **[45_vocab_mastery.md](./02_exam/syllabus/45_vocab_mastery.md)** | **Infosys SE Vocabulary Master Vault & 4-Page Print PDF:** 223 rigorously curated PYQ & CampusMonk words formatted into 1-liners with roots, mnemonics, syn/ant, and exam context. Includes ultra-dense 4-page printable PDF. |
 
 ---
 
@@ -81,7 +82,8 @@ Sabhi files ke naam ultra-short, crisp aur sequential (`01_` se `36_`) rakhe gay
 │   │   ├── 41_pseudocode_mastery.md (Pseudocode Engine & Variable-Trace)
 │   │   ├── 42_verbal_mastery.md (12 Golden Rules & RC Architecture)
 │   │   ├── 43_puzzles_cryptarithmetic.md (Alphametics & 4x4 Matrix Vault)
-│   │   └── 44_dse_sp_coding_vault.md (13 DSE/SP LeetCode Production PYQs)
+│   │   ├── 44_dse_sp_coding_vault.md (13 DSE/SP LeetCode Production PYQs)
+│   │   └── 45_vocab_mastery.md (223 Complete Vocabulary Vault & 4-Page Print PDF)
 │   ├── practice/
 │   │   ├── 19_pyqs.md      (10 Real Infosys PYQs Solved)
 │   │   ├── 20_verbal.md    (Verbal RC & Error Spotting Dump)

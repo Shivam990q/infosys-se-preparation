@@ -23,3 +23,6 @@ dist-ssr/
 *.metadata.json
 preparation/public/Course_844567_Full/
 .playwright-mcp/
+implementation_plan.md
+walkthrough.md
+browser/
