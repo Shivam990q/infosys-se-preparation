@@ -8,7 +8,6 @@
 ## 📝 Topic Tests & Mock Exams (100% Questions & Solutions)
 | Test Name | Questions | Question Paper | Complete Solutions | Formats |
 | :--- | :---: | :---: | :---: | :---: |
-| **[CampusMonk] Calender - LR** | **11 Qs** | [HTML]([CampusMonk] Calender - LR - Question Paper.html) • [MD]([CampusMonk] Calender - LR - Question Paper.md) | [HTML]([CampusMonk] Calender - LR - Solutions.html) • [MD]([CampusMonk] Calender - LR - Solutions.md) | JSON, HTML, MD |
 | **[CampusMonk] Mirror Imge** | **15 Qs** | [HTML]([CampusMonk] Mirror Imge - Question Paper.html) • [MD]([CampusMonk] Mirror Imge - Question Paper.md) | [HTML]([CampusMonk] Mirror Imge - Solutions.html) • [MD]([CampusMonk] Mirror Imge - Solutions.md) | JSON, HTML, MD |
 | **[CampusMonk] Number Puzzles** | **15 Qs** | [HTML]([CampusMonk] Number Puzzles - Question Paper.html) • [MD]([CampusMonk] Number Puzzles - Question Paper.md) | [HTML]([CampusMonk] Number Puzzles - Solutions.html) • [MD]([CampusMonk] Number Puzzles - Solutions.md) | JSON, HTML, MD |
 | **[CampusMonk] Paper Folding** | **15 Qs** | [HTML]([CampusMonk] Paper Folding - Question Paper.html) • [MD]([CampusMonk] Paper Folding - Question Paper.md) | [HTML]([CampusMonk] Paper Folding - Solutions.html) • [MD]([CampusMonk] Paper Folding - Solutions.md) | JSON, HTML, MD |

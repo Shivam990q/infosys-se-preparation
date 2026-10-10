@@ -13,7 +13,7 @@
 | [CampusMonk] 3 PYQ Coding Question Prep.pdf | `263.9 KB` | [Open Document]([CampusMonk] 3 PYQ Coding Question Prep.pdf) |
 | [CampusMonk] Alligation Live Class Sheet.pdf | `292.3 KB` | [Open Document]([CampusMonk] Alligation Live Class Sheet.pdf) |
 | [CampusMonk] Aptitude 250.pdf | `660.2 KB` | [Open Document]([CampusMonk] Aptitude 250.pdf) |
-| [CampusMonk] Best 250+ Sure Shot -01 (1).pdf | `5.7 MB` | [Open Document]([CampusMonk] Best 250+ Sure Shot -01 (1).pdf) |
+| [CampusMonk] Best 250+ Sure Shot -01 (1).pdf | `5.7 MB` | [Open Document](%5BCampusMonk%5D%20Best%20250%2B%20Sure%20Shot%20-01%20%281%29.pdf) |
 | [CampusMonk] Divisibility Rule  , Consecutive No One Shot PYQ .pdf | `899.2 KB` | [Open Document]([CampusMonk] Divisibility Rule  , Consecutive No One Shot PYQ .pdf) |
 | [CampusMonk] Infosys , TCS & OTHER_PYQ.pdf | `284.3 KB` | [Open Document]([CampusMonk] Infosys , TCS & OTHER_PYQ.pdf) |
 | [CampusMonk] LCM HCF One Shot PYQ.pdf | `576.5 KB` | [Open Document]([CampusMonk] LCM HCF One Shot PYQ.pdf) |

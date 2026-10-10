@@ -24,7 +24,7 @@
 
 ### 📁 00. Master Roadmaps, Syllabus & Strategy
 
-#### 📂 [00 Master Roadmap and Index](00_Master_Roadmap_and_Index/)
+#### 📂 [00 Master Roadmap and Index](../00_Master_Roadmap_and_Index/)
 > **4 PDFs** • **4 Guides**
 
 **Key PDFs & Handbooks:**
@@ -37,7 +37,7 @@
 
 ### 📁 01. Section I — Reasoning Ability (15 Qs / 25 Mins)
 
-#### 📂 [01 Alphabet and Coding Decoding](01_Reasoning_Ability/01_Alphabet_and_Coding_Decoding/)
+#### 📂 [01 Alphabet and Coding Decoding](../01_Reasoning_Ability/01_Alphabet_and_Coding_Decoding/)
 > **2 Tests** (40 Actual Questions) • **7 PDFs** • **12 Diagram Assets**
 
 **Tests in this module:**
@@ -53,7 +53,7 @@
 - 📄 [[CampusMonk] HW-3.pdf](01_Reasoning_Ability/01_Alphabet_and_Coding_Decoding/[CampusMonk] HW-3.pdf) (`122.7 KB`)
 - *... and 1 more documents in folder.*
 
-#### 📂 [02 Direction Sense](01_Reasoning_Ability/02_Direction_Sense/)
+#### 📂 [02 Direction Sense](../01_Reasoning_Ability/02_Direction_Sense/)
 > **3 Tests** (45 Actual Questions) • **1 PDFs** • **42 Diagram Assets**
 
 **Tests in this module:**
@@ -64,7 +64,7 @@
 **Key PDFs & Handbooks:**
 - 📄 [[CampusMonk] Distance and Direction.pdf](01_Reasoning_Ability/02_Direction_Sense/[CampusMonk] Distance and Direction.pdf) (`477.5 KB`)
 
-#### 📂 [03 Blood Relations](01_Reasoning_Ability/03_Blood_Relations/)
+#### 📂 [03 Blood Relations](../01_Reasoning_Ability/03_Blood_Relations/)
 > **2 Tests** (35 Actual Questions) • **2 PDFs** • **29 Diagram Assets**
 
 **Tests in this module:**
@@ -75,7 +75,7 @@
 - 📄 [[CampusMonk] Blood Relation.pdf](01_Reasoning_Ability/03_Blood_Relations/[CampusMonk] Blood Relation.pdf) (`583.2 KB`)
 - 📄 [[CampusMonk] Practice Sheet - assignment blood relaton CM.pdf](01_Reasoning_Ability/03_Blood_Relations/[CampusMonk] Practice Sheet - assignment blood relaton CM.pdf) (`618.2 KB`)
 
-#### 📂 [04 Number and Letter Series](01_Reasoning_Ability/04_Number_and_Letter_Series/)
+#### 📂 [04 Number and Letter Series](../01_Reasoning_Ability/04_Number_and_Letter_Series/)
 > **1 Tests** (20 Actual Questions) • **1 PDFs** • **20 Diagram Assets**
 
 **Tests in this module:**
@@ -84,7 +84,7 @@
 **Key PDFs & Handbooks:**
 - 📄 [[CampusMonk] Number Series -Live Sheet.pdf](01_Reasoning_Ability/04_Number_and_Letter_Series/[CampusMonk] Number Series -Live Sheet.pdf) (`159.0 KB`)
 
-#### 📂 [05 Syllogism and Critical Reasoning](01_Reasoning_Ability/05_Syllogism_and_Critical_Reasoning/)
+#### 📂 [05 Syllogism and Critical Reasoning](../01_Reasoning_Ability/05_Syllogism_and_Critical_Reasoning/)
 > **5 Tests** (85 Actual Questions) • **3 PDFs** • **47 Diagram Assets**
 
 **Tests in this module:**
@@ -99,14 +99,14 @@
 - 📄 [[CampusMonk] Syllogism Questions 2.pdf](01_Reasoning_Ability/05_Syllogism_and_Critical_Reasoning/[CampusMonk] Syllogism Questions 2.pdf) (`752.1 KB`)
 - 📄 [[CampusMonk] syllogism.pdf](01_Reasoning_Ability/05_Syllogism_and_Critical_Reasoning/[CampusMonk] syllogism.pdf) (`217.3 KB`)
 
-#### 📂 [06 Seating Arrangement and Order Ranking](01_Reasoning_Ability/06_Seating_Arrangement_and_Order_Ranking/)
+#### 📂 [06 Seating Arrangement and Order Ranking](../01_Reasoning_Ability/06_Seating_Arrangement_and_Order_Ranking/)
 > **2 Tests** (40 Actual Questions) • **24 Diagram Assets**
 
 **Tests in this module:**
 - 📝 **[OnlineStudy4U] Ranking Test** (20 Questions) — [[HTML]](01_Reasoning_Ability/06_Seating_Arrangement_and_Order_Ranking/[OnlineStudy4U] Ranking Test - Question Paper.html) [[Markdown]](01_Reasoning_Ability/06_Seating_Arrangement_and_Order_Ranking/[OnlineStudy4U] Ranking Test - Question Paper.md) [[Solutions]](01_Reasoning_Ability/06_Seating_Arrangement_and_Order_Ranking/[OnlineStudy4U] Ranking Test - Solutions.html)
 - 📝 **[OnlineStudy4U] Seating Arrangement** (20 Questions) — [[HTML]](01_Reasoning_Ability/06_Seating_Arrangement_and_Order_Ranking/[OnlineStudy4U] Seating Arrangement - Question Paper.html) [[Markdown]](01_Reasoning_Ability/06_Seating_Arrangement_and_Order_Ranking/[OnlineStudy4U] Seating Arrangement - Question Paper.md) [[Solutions]](01_Reasoning_Ability/06_Seating_Arrangement_and_Order_Ranking/[OnlineStudy4U] Seating Arrangement - Solutions.html)
 
-#### 📂 [07 Data Sufficiency LR](01_Reasoning_Ability/07_Data_Sufficiency_LR/)
+#### 📂 [07 Data Sufficiency LR](../01_Reasoning_Ability/07_Data_Sufficiency_LR/)
 > **1 Tests** (20 Actual Questions) • **1 PDFs** • **1 Guides**
 
 **Tests in this module:**
@@ -115,13 +115,13 @@
 **Key PDFs & Handbooks:**
 - 📄 [[CampusMonk] Data Sufficiency ppt.pdf](01_Reasoning_Ability/07_Data_Sufficiency_LR/[CampusMonk] Data Sufficiency ppt.pdf) (`349.1 KB`)
 
-#### 📂 [08 Inequalities](01_Reasoning_Ability/08_Inequalities/)
+#### 📂 [08 Inequalities](../01_Reasoning_Ability/08_Inequalities/)
 > **1 Tests** (20 Actual Questions) • **4 Diagram Assets**
 
 **Tests in this module:**
 - 📝 **[OnlineStudy4U] Inequalities** (20 Questions) — [[HTML]](01_Reasoning_Ability/08_Inequalities/[OnlineStudy4U] Inequalities - Question Paper.html) [[Markdown]](01_Reasoning_Ability/08_Inequalities/[OnlineStudy4U] Inequalities - Question Paper.md) [[Solutions]](01_Reasoning_Ability/08_Inequalities/[OnlineStudy4U] Inequalities - Solutions.html)
 
-#### 📂 [09 Visual and Spatial Reasoning](01_Reasoning_Ability/09_Visual_and_Spatial_Reasoning/)
+#### 📂 [09 Visual and Spatial Reasoning](../01_Reasoning_Ability/09_Visual_and_Spatial_Reasoning/)
 > **6 Tests** (91 Actual Questions) • **1 PDFs** • **178 Diagram Assets**
 
 **Tests in this module:**
@@ -135,13 +135,13 @@
 **Key PDFs & Handbooks:**
 - 📄 [[CampusMonk] Paper Folding and Cutting.pdf](01_Reasoning_Ability/09_Visual_and_Spatial_Reasoning/[CampusMonk] Paper Folding and Cutting.pdf) (`3.0 MB`)
 
-#### 📂 [10 Clock and Calendar](01_Reasoning_Ability/10_Clock_and_Calendar/)
+#### 📂 [10 Clock and Calendar](../01_Reasoning_Ability/10_Clock_and_Calendar/)
 > **1 PDFs**
 
 **Key PDFs & Handbooks:**
 - 📄 [[CampusMonk] Clocks Class Solution.pdf](01_Reasoning_Ability/10_Clock_and_Calendar/[CampusMonk] Clocks Class Solution.pdf) (`1.7 MB`)
 
-#### 📂 [11 Comprehensive Logical Reasoning Banks](01_Reasoning_Ability/11_Comprehensive_Logical_Reasoning_Banks/)
+#### 📂 [11 Comprehensive Logical Reasoning Banks](../01_Reasoning_Ability/11_Comprehensive_Logical_Reasoning_Banks/)
 > **2 PDFs**
 
 **Key PDFs & Handbooks:**
@@ -152,20 +152,20 @@
 
 ### 📁 02_Mathematical_Ability
 
-#### 📂 [01 Number System and Divisibility](02_Mathematical_Ability/01_Number_System_and_Divisibility/)
+#### 📂 [01 Number System and Divisibility](../02_Mathematical_Ability/01_Number_System_and_Divisibility/)
 > **2 PDFs**
 
 **Key PDFs & Handbooks:**
 - 📄 [[CampusMonk] Number System 02.pdf](02_Mathematical_Ability/01_Number_System_and_Divisibility/[CampusMonk] Number System 02.pdf) (`819.6 KB`)
 - 📄 [[CampusMonk] Number System Day 01.pdf](02_Mathematical_Ability/01_Number_System_and_Divisibility/[CampusMonk] Number System Day 01.pdf) (`870.3 KB`)
 
-#### 📂 [02 LCM and HCF](02_Mathematical_Ability/02_LCM_and_HCF/)
+#### 📂 [02 LCM and HCF](../02_Mathematical_Ability/02_LCM_and_HCF/)
 > **1 PDFs**
 
 **Key PDFs & Handbooks:**
 - 📄 [[CampusMonk] LCM HCF.pdf](02_Mathematical_Ability/02_LCM_and_HCF/[CampusMonk] LCM HCF.pdf) (`647.2 KB`)
 
-#### 📂 [03 Percentage Profit Loss Discount](02_Mathematical_Ability/03_Percentage_Profit_Loss_Discount/)
+#### 📂 [03 Percentage Profit Loss Discount](../02_Mathematical_Ability/03_Percentage_Profit_Loss_Discount/)
 > **1 Tests** (15 Actual Questions) • **9 PDFs**
 
 **Tests in this module:**
@@ -180,7 +180,7 @@
 - 📄 [[CampusMonk] Profit Loss 02.pdf](02_Mathematical_Ability/03_Percentage_Profit_Loss_Discount/[CampusMonk] Profit Loss 02.pdf) (`157.9 KB`)
 - *... and 3 more documents in folder.*
 
-#### 📂 [04 Simple and Compound Interest](02_Mathematical_Ability/04_Simple_and_Compound_Interest/)
+#### 📂 [04 Simple and Compound Interest](../02_Mathematical_Ability/04_Simple_and_Compound_Interest/)
 > **3 PDFs**
 
 **Key PDFs & Handbooks:**
@@ -188,7 +188,7 @@
 - 📄 [[CampusMonk] 2 - C.I Solution sheet.pdf](02_Mathematical_Ability/04_Simple_and_Compound_Interest/[CampusMonk] 2 - C.I Solution sheet.pdf) (`1.2 MB`)
 - 📄 [[CampusMonk] Simple Interest DAY01.pdf](02_Mathematical_Ability/04_Simple_and_Compound_Interest/[CampusMonk] Simple Interest DAY01.pdf) (`236.3 KB`)
 
-#### 📂 [05 Ratio and Proportion](02_Mathematical_Ability/05_Ratio_and_Proportion/)
+#### 📂 [05 Ratio and Proportion](../02_Mathematical_Ability/05_Ratio_and_Proportion/)
 > **2 Tests** (25 Actual Questions) • **6 PDFs** • **1 Diagram Assets**
 
 **Tests in this module:**
@@ -203,7 +203,7 @@
 - 📄 [[CampusMonk] Tawa Fry Method - Ratio Mixtures.pdf](02_Mathematical_Ability/05_Ratio_and_Proportion/[CampusMonk] Tawa Fry Method - Ratio Mixtures.pdf) (`108.3 KB`)
 - 📄 [[CampusMonk] mensuration3D.pdf](02_Mathematical_Ability/05_Ratio_and_Proportion/[CampusMonk] mensuration3D.pdf) (`572.1 KB`)
 
-#### 📂 [06 Time Speed Distance Trains Boats](02_Mathematical_Ability/06_Time_Speed_Distance_Trains_Boats/)
+#### 📂 [06 Time Speed Distance Trains Boats](../02_Mathematical_Ability/06_Time_Speed_Distance_Trains_Boats/)
 > **3 PDFs**
 
 **Key PDFs & Handbooks:**
@@ -211,7 +211,7 @@
 - 📄 [[CampusMonk] TSD 02.pdf](02_Mathematical_Ability/06_Time_Speed_Distance_Trains_Boats/[CampusMonk] TSD 02.pdf) (`730.6 KB`)
 - 📄 [[CampusMonk] TSD Imp Types 03.pdf](02_Mathematical_Ability/06_Time_Speed_Distance_Trains_Boats/[CampusMonk] TSD Imp Types 03.pdf) (`710.6 KB`)
 
-#### 📂 [07 Time and Work Pipes Cisterns](02_Mathematical_Ability/07_Time_and_Work_Pipes_Cisterns/)
+#### 📂 [07 Time and Work Pipes Cisterns](../02_Mathematical_Ability/07_Time_and_Work_Pipes_Cisterns/)
 > **5 PDFs**
 
 **Key PDFs & Handbooks:**
@@ -221,21 +221,21 @@
 - 📄 [[CampusMonk] TIme And Work.pdf](02_Mathematical_Ability/07_Time_and_Work_Pipes_Cisterns/[CampusMonk] TIme And Work.pdf) (`483.5 KB`)
 - 📄 [[OnlineStudy4U] Class 1 Time&Work.pdf](02_Mathematical_Ability/07_Time_and_Work_Pipes_Cisterns/[OnlineStudy4U] Class 1 Time&Work.pdf) (`675.0 KB`)
 
-#### 📂 [08 Permutation Combination Probability](02_Mathematical_Ability/08_Permutation_Combination_Probability/)
+#### 📂 [08 Permutation Combination Probability](../02_Mathematical_Ability/08_Permutation_Combination_Probability/)
 > **2 PDFs**
 
 **Key PDFs & Handbooks:**
 - 📄 [[CampusMonk] PnC.pdf](02_Mathematical_Ability/08_Permutation_Combination_Probability/[CampusMonk] PnC.pdf) (`292.3 KB`)
 - 📄 [[CampusMonk] Probability Type Bag Based.pdf](02_Mathematical_Ability/08_Permutation_Combination_Probability/[CampusMonk] Probability Type Bag Based.pdf) (`391.5 KB`)
 
-#### 📂 [10 Algebra and Equations](02_Mathematical_Ability/10_Algebra_and_Equations/)
+#### 📂 [10 Algebra and Equations](../02_Mathematical_Ability/10_Algebra_and_Equations/)
 > **2 PDFs**
 
 **Key PDFs & Handbooks:**
 - 📄 [[CampusMonk] 01 Quadratic Equations - New.pdf](02_Mathematical_Ability/10_Algebra_and_Equations/[CampusMonk] 01 Quadratic Equations - New.pdf) (`293.2 KB`)
 - 📄 [[CampusMonk] 02 Quadratic Equation Live Class Sheet.pdf](02_Mathematical_Ability/10_Algebra_and_Equations/[CampusMonk] 02 Quadratic Equation Live Class Sheet.pdf) (`420.2 KB`)
 
-#### 📂 [11 Data Interpretation](02_Mathematical_Ability/11_Data_Interpretation/)
+#### 📂 [11 Data Interpretation](../02_Mathematical_Ability/11_Data_Interpretation/)
 > **7 PDFs**
 
 **Key PDFs & Handbooks:**
@@ -247,7 +247,7 @@
 - 📄 [[CampusMonk] Missing DI.pdf](02_Mathematical_Ability/11_Data_Interpretation/[CampusMonk] Missing DI.pdf) (`326.7 KB`)
 - *... and 1 more documents in folder.*
 
-#### 📂 [12 Comprehensive Aptitude](02_Mathematical_Ability/12_Comprehensive_Aptitude/)
+#### 📂 [12 Comprehensive Aptitude](../02_Mathematical_Ability/12_Comprehensive_Aptitude/)
 > **29 PDFs**
 
 **Key PDFs & Handbooks:**
@@ -263,10 +263,10 @@
 
 ### 📁 03_Verbal_Ability
 
-#### 📂 [01 Reading Comprehension](03_Verbal_Ability/01_Reading_Comprehension/)
+#### 📂 [01 Reading Comprehension](../03_Verbal_Ability/01_Reading_Comprehension/)
 > 
 
-#### 📂 [02 Grammar and Error Spotting](03_Verbal_Ability/02_Grammar_and_Error_Spotting/)
+#### 📂 [02 Grammar and Error Spotting](../03_Verbal_Ability/02_Grammar_and_Error_Spotting/)
 > **8 PDFs**
 
 **Key PDFs & Handbooks:**
@@ -278,7 +278,7 @@
 - 📄 [[OnlineStudy4U] Infosys_Verbal_Ability_Rules_Detailed_Grammar_Vocab_Practice_Updated.pdf](03_Verbal_Ability/02_Grammar_and_Error_Spotting/[OnlineStudy4U] Infosys_Verbal_Ability_Rules_Detailed_Grammar_Vocab_Practice_Updated.pdf) (`71.9 KB`)
 - *... and 2 more documents in folder.*
 
-#### 📂 [06 Comprehensive Verbal Vault](03_Verbal_Ability/06_Comprehensive_Verbal_Vault/)
+#### 📂 [06 Comprehensive Verbal Vault](../03_Verbal_Ability/06_Comprehensive_Verbal_Vault/)
 > **1 Tests** (12 Actual Questions) • **11 PDFs**
 
 **Tests in this module:**
@@ -297,13 +297,13 @@
 
 ### 📁 04_Pseudocode_and_Technical
 
-#### 📂 [01 Core Pseudocode Concepts](04_Pseudocode_and_Technical/01_Core_Pseudocode_Concepts/)
+#### 📂 [01 Core Pseudocode Concepts](../04_Pseudocode_and_Technical/01_Core_Pseudocode_Concepts/)
 > **1 PDFs** • **1 Guides**
 
 **Key PDFs & Handbooks:**
 - 📄 [[OnlineStudy4U] Class 2 Pseudocode Questions.pdf](04_Pseudocode_and_Technical/01_Core_Pseudocode_Concepts/[OnlineStudy4U] Class 2 Pseudocode Questions.pdf) (`3.9 MB`)
 
-#### 📂 [04 PYQ Pseudocode Vault](04_Pseudocode_and_Technical/04_PYQ_Pseudocode_Vault/)
+#### 📂 [04 PYQ Pseudocode Vault](../04_Pseudocode_and_Technical/04_PYQ_Pseudocode_Vault/)
 > **5 Tests** (87 Actual Questions) • **26 PDFs** • **19 Diagram Assets**
 
 **Tests in this module:**
@@ -326,7 +326,7 @@
 
 ### 📁 05. Section V — Puzzle Solving (4 Qs / 10 Mins)
 
-#### 📂 [03 Infosys PYQ Puzzle Vault](05_Puzzle_Solving/03_Infosys_PYQ_Puzzle_Vault/)
+#### 📂 [03 Infosys PYQ Puzzle Vault](../05_Puzzle_Solving/03_Infosys_PYQ_Puzzle_Vault/)
 > **14 PDFs**
 
 **Key PDFs & Handbooks:**
@@ -342,10 +342,10 @@
 
 ### 📁 06_Full_Length_Mocks
 
-#### 📂 [01 CampusMonk](06_Full_Length_Mocks/01_CampusMonk/)
+#### 📂 [01 CampusMonk](../06_Full_Length_Mocks/01_CampusMonk/)
 > 
 
-#### 📂 [01 CampusMonk/Day 01 Mock](06_Full_Length_Mocks/01_CampusMonk/Day_01_Mock/)
+#### 📂 [01 CampusMonk/Day 01 Mock](../06_Full_Length_Mocks/01_CampusMonk/Day_01_Mock/)
 > **3 Tests** (65 Actual Questions) • **1 PDFs** • **45 Diagram Assets**
 
 **Tests in this module:**
@@ -356,7 +356,7 @@
 **Key PDFs & Handbooks:**
 - 📄 [[CampusMonk] DAY_01_Aptitude_Campus_Placement.pdf](06_Full_Length_Mocks/01_CampusMonk/Day_01_Mock/[CampusMonk] DAY_01_Aptitude_Campus_Placement.pdf) (`1.3 MB`)
 
-#### 📂 [01 CampusMonk/Day 02 Mock](06_Full_Length_Mocks/01_CampusMonk/Day_02_Mock/)
+#### 📂 [01 CampusMonk/Day 02 Mock](../06_Full_Length_Mocks/01_CampusMonk/Day_02_Mock/)
 > **3 Tests** (49 Actual Questions) • **26 Diagram Assets**
 
 **Tests in this module:**
@@ -364,7 +364,7 @@
 - 📝 **[CampusMonk] 2. Full length Quantitative Aptitude (with sol) Level -2** (14 Questions) — [[HTML]](06_Full_Length_Mocks/01_CampusMonk/Day_02_Mock/[CampusMonk] 2. Full length Quantitative Aptitude (with sol) Level -2 - Question Paper.html) [[Markdown]](06_Full_Length_Mocks/01_CampusMonk/Day_02_Mock/[CampusMonk] 2. Full length Quantitative Aptitude (with sol) Level -2 - Question Paper.md) [[Solutions]](06_Full_Length_Mocks/01_CampusMonk/Day_02_Mock/[CampusMonk] 2. Full length Quantitative Aptitude (with sol) Level -2 - Solutions.html)
 - 📝 **[CampusMonk] 2. Full length Verbal Ability** (20 Questions) — [[HTML]](06_Full_Length_Mocks/01_CampusMonk/Day_02_Mock/[CampusMonk] 2. Full length Verbal Ability - Question Paper.html) [[Markdown]](06_Full_Length_Mocks/01_CampusMonk/Day_02_Mock/[CampusMonk] 2. Full length Verbal Ability - Question Paper.md) [[Solutions]](06_Full_Length_Mocks/01_CampusMonk/Day_02_Mock/[CampusMonk] 2. Full length Verbal Ability - Solutions.html)
 
-#### 📂 [01 CampusMonk/Day 03 Mock](06_Full_Length_Mocks/01_CampusMonk/Day_03_Mock/)
+#### 📂 [01 CampusMonk/Day 03 Mock](../06_Full_Length_Mocks/01_CampusMonk/Day_03_Mock/)
 > **3 Tests** (62 Actual Questions) • **26 Diagram Assets**
 
 **Tests in this module:**
@@ -372,7 +372,7 @@
 - 📝 **[CampusMonk] 3. Full Length Verbala Ability Mock** (20 Questions) — [[HTML]](06_Full_Length_Mocks/01_CampusMonk/Day_03_Mock/[CampusMonk] 3. Full Length Verbala Ability Mock - Question Paper.html) [[Markdown]](06_Full_Length_Mocks/01_CampusMonk/Day_03_Mock/[CampusMonk] 3. Full Length Verbala Ability Mock - Question Paper.md) [[Solutions]](06_Full_Length_Mocks/01_CampusMonk/Day_03_Mock/[CampusMonk] 3. Full Length Verbala Ability Mock - Solutions.html)
 - 📝 **[CampusMonk] 3. Full length Quantitative Aptitude (with sol) Level -1-2** (13 Questions) — [[HTML]](06_Full_Length_Mocks/01_CampusMonk/Day_03_Mock/[CampusMonk] 3. Full length Quantitative Aptitude (with sol) Level -1-2 - Question Paper.html) [[Markdown]](06_Full_Length_Mocks/01_CampusMonk/Day_03_Mock/[CampusMonk] 3. Full length Quantitative Aptitude (with sol) Level -1-2 - Question Paper.md) [[Solutions]](06_Full_Length_Mocks/01_CampusMonk/Day_03_Mock/[CampusMonk] 3. Full length Quantitative Aptitude (with sol) Level -1-2 - Solutions.html)
 
-#### 📂 [01 CampusMonk/Day 04 Mock](06_Full_Length_Mocks/01_CampusMonk/Day_04_Mock/)
+#### 📂 [01 CampusMonk/Day 04 Mock](../06_Full_Length_Mocks/01_CampusMonk/Day_04_Mock/)
 > **3 Tests** (75 Actual Questions) • **26 Diagram Assets**
 
 **Tests in this module:**
@@ -380,14 +380,14 @@
 - 📝 **[CampusMonk] 4. Full Length Verbal Ability** (20 Questions) — [[HTML]](06_Full_Length_Mocks/01_CampusMonk/Day_04_Mock/[CampusMonk] 4. Full Length Verbal Ability - Question Paper.html) [[Markdown]](06_Full_Length_Mocks/01_CampusMonk/Day_04_Mock/[CampusMonk] 4. Full Length Verbal Ability - Question Paper.md) [[Solutions]](06_Full_Length_Mocks/01_CampusMonk/Day_04_Mock/[CampusMonk] 4. Full Length Verbal Ability - Solutions.html)
 - 📝 **[CampusMonk] Technical MCQ - Pseudo Codes Based on PYQ With Video Sol** (30 Questions) — [[HTML]](06_Full_Length_Mocks/01_CampusMonk/Day_04_Mock/[CampusMonk] Technical MCQ - Pseudo Codes Based on PYQ With Video Sol - Question Paper.html) [[Markdown]](06_Full_Length_Mocks/01_CampusMonk/Day_04_Mock/[CampusMonk] Technical MCQ - Pseudo Codes Based on PYQ With Video Sol - Question Paper.md) [[Solutions]](06_Full_Length_Mocks/01_CampusMonk/Day_04_Mock/[CampusMonk] Technical MCQ - Pseudo Codes Based on PYQ With Video Sol - Solutions.html)
 
-#### 📂 [01 CampusMonk/Day 05 Mock](06_Full_Length_Mocks/01_CampusMonk/Day_05_Mock/)
+#### 📂 [01 CampusMonk/Day 05 Mock](../06_Full_Length_Mocks/01_CampusMonk/Day_05_Mock/)
 > **2 Tests** (35 Actual Questions) • **1 Diagram Assets**
 
 **Tests in this module:**
 - 📝 **[CampusMonk] 5 Ful length Logical Reasoning Mock** (20 Questions) — [[HTML]](06_Full_Length_Mocks/01_CampusMonk/Day_05_Mock/[CampusMonk] 5 Ful length Logical Reasoning Mock - Question Paper.html) [[Markdown]](06_Full_Length_Mocks/01_CampusMonk/Day_05_Mock/[CampusMonk] 5 Ful length Logical Reasoning Mock - Question Paper.md) [[Solutions]](06_Full_Length_Mocks/01_CampusMonk/Day_05_Mock/[CampusMonk] 5 Ful length Logical Reasoning Mock - Solutions.html)
 - 📝 **[CampusMonk] 5 Ful length Verbal Ability** (15 Questions) — [[HTML]](06_Full_Length_Mocks/01_CampusMonk/Day_05_Mock/[CampusMonk] 5 Ful length Verbal Ability - Question Paper.html) [[Markdown]](06_Full_Length_Mocks/01_CampusMonk/Day_05_Mock/[CampusMonk] 5 Ful length Verbal Ability - Question Paper.md) [[Solutions]](06_Full_Length_Mocks/01_CampusMonk/Day_05_Mock/[CampusMonk] 5 Ful length Verbal Ability - Solutions.html)
 
-#### 📂 [01 CampusMonk/Day 06](06_Full_Length_Mocks/01_CampusMonk/Day_06/)
+#### 📂 [01 CampusMonk/Day 06](../06_Full_Length_Mocks/01_CampusMonk/Day_06/)
 > **4 Tests** (36 Actual Questions) • **5 Diagram Assets**
 
 **Tests in this module:**
@@ -396,7 +396,7 @@
 - 📝 **[CampusMonk] Quantitative Aptitude - Technical Abilty** (10 Questions) — [[HTML]](06_Full_Length_Mocks/01_CampusMonk/Day_06/[CampusMonk] Quantitative Aptitude - Technical Abilty - Question Paper.html) [[Markdown]](06_Full_Length_Mocks/01_CampusMonk/Day_06/[CampusMonk] Quantitative Aptitude - Technical Abilty - Question Paper.md) [[Solutions]](06_Full_Length_Mocks/01_CampusMonk/Day_06/[CampusMonk] Quantitative Aptitude - Technical Abilty - Solutions.html)
 - 📝 **[CampusMonk] Verbal Ability** (11 Questions) — [[HTML]](06_Full_Length_Mocks/01_CampusMonk/Day_06/[CampusMonk] Verbal Ability - Question Paper.html) [[Markdown]](06_Full_Length_Mocks/01_CampusMonk/Day_06/[CampusMonk] Verbal Ability - Question Paper.md) [[Solutions]](06_Full_Length_Mocks/01_CampusMonk/Day_06/[CampusMonk] Verbal Ability - Solutions.html)
 
-#### 📂 [01 CampusMonk/Day 07](06_Full_Length_Mocks/01_CampusMonk/Day_07/)
+#### 📂 [01 CampusMonk/Day 07](../06_Full_Length_Mocks/01_CampusMonk/Day_07/)
 > **4 Tests** (37 Actual Questions) • **1 PDFs** • **6 Diagram Assets**
 
 **Tests in this module:**
@@ -408,7 +408,7 @@
 **Key PDFs & Handbooks:**
 - 📄 [[CampusMonk] Infosys Mock Test Video Solution.pdf](06_Full_Length_Mocks/01_CampusMonk/Day_07/[CampusMonk] Infosys Mock Test Video Solution.pdf) (`167.3 KB`)
 
-#### 📂 [01 CampusMonk/Day 08](06_Full_Length_Mocks/01_CampusMonk/Day_08/)
+#### 📂 [01 CampusMonk/Day 08](../06_Full_Length_Mocks/01_CampusMonk/Day_08/)
 > **2 Tests** (43 Actual Questions) • **1 PDFs** • **2 Diagram Assets**
 
 **Tests in this module:**
@@ -418,98 +418,98 @@
 **Key PDFs & Handbooks:**
 - 📄 [[CampusMonk] Solution Link.pdf](06_Full_Length_Mocks/01_CampusMonk/Day_08/[CampusMonk] Solution Link.pdf) (`342.8 KB`)
 
-#### 📂 [01 CampusMonk/Day 09](06_Full_Length_Mocks/01_CampusMonk/Day_09/)
+#### 📂 [01 CampusMonk/Day 09](../06_Full_Length_Mocks/01_CampusMonk/Day_09/)
 > **2 Tests** (60 Actual Questions) • **5 Diagram Assets**
 
 **Tests in this module:**
 - 📝 **[CampusMonk] Aptitude 02 - All India Mock** (50 Questions) — [[HTML]](06_Full_Length_Mocks/01_CampusMonk/Day_09/[CampusMonk] Aptitude 02 - All India Mock - Question Paper.html) [[Markdown]](06_Full_Length_Mocks/01_CampusMonk/Day_09/[CampusMonk] Aptitude 02 - All India Mock - Question Paper.md) [[Solutions]](06_Full_Length_Mocks/01_CampusMonk/Day_09/[CampusMonk] Aptitude 02 - All India Mock - Solutions.html)
 - 📝 **[CampusMonk] Technical MCQ - Pseudo Codes Based on PYQ 02** (10 Questions) — [[HTML]](06_Full_Length_Mocks/01_CampusMonk/Day_09/[CampusMonk] Technical MCQ - Pseudo Codes Based on PYQ 02 - Question Paper.html) [[Markdown]](06_Full_Length_Mocks/01_CampusMonk/Day_09/[CampusMonk] Technical MCQ - Pseudo Codes Based on PYQ 02 - Question Paper.md) [[Solutions]](06_Full_Length_Mocks/01_CampusMonk/Day_09/[CampusMonk] Technical MCQ - Pseudo Codes Based on PYQ 02 - Solutions.html)
 
-#### 📂 [02 OnlineStudy4U](06_Full_Length_Mocks/02_OnlineStudy4U/)
+#### 📂 [02 OnlineStudy4U](../06_Full_Length_Mocks/02_OnlineStudy4U/)
 > 
 
-#### 📂 [02 OnlineStudy4U/INFOSYS TEST SERIES 01](06_Full_Length_Mocks/02_OnlineStudy4U/INFOSYS_TEST_SERIES_01/)
+#### 📂 [02 OnlineStudy4U/INFOSYS TEST SERIES 01](../06_Full_Length_Mocks/02_OnlineStudy4U/INFOSYS_TEST_SERIES_01/)
 > **1 Tests** (35 Actual Questions) • **9 Diagram Assets**
 
 **Tests in this module:**
 - 📝 **[OnlineStudy4U] INFOSYS TEST SERIES-1** (35 Questions) — [[HTML]](06_Full_Length_Mocks/02_OnlineStudy4U/INFOSYS_TEST_SERIES_01/[OnlineStudy4U] INFOSYS TEST SERIES-1 - Question Paper.html) [[Markdown]](06_Full_Length_Mocks/02_OnlineStudy4U/INFOSYS_TEST_SERIES_01/[OnlineStudy4U] INFOSYS TEST SERIES-1 - Question Paper.md) [[Solutions]](06_Full_Length_Mocks/02_OnlineStudy4U/INFOSYS_TEST_SERIES_01/[OnlineStudy4U] INFOSYS TEST SERIES-1 - Solutions.html)
 
-#### 📂 [02 OnlineStudy4U/INFOSYS TEST SERIES 02](06_Full_Length_Mocks/02_OnlineStudy4U/INFOSYS_TEST_SERIES_02/)
+#### 📂 [02 OnlineStudy4U/INFOSYS TEST SERIES 02](../06_Full_Length_Mocks/02_OnlineStudy4U/INFOSYS_TEST_SERIES_02/)
 > **1 Tests** (35 Actual Questions) • **10 Diagram Assets**
 
 **Tests in this module:**
 - 📝 **[OnlineStudy4U] INFOSYS TEST SERIES-2** (35 Questions) — [[HTML]](06_Full_Length_Mocks/02_OnlineStudy4U/INFOSYS_TEST_SERIES_02/[OnlineStudy4U] INFOSYS TEST SERIES-2 - Question Paper.html) [[Markdown]](06_Full_Length_Mocks/02_OnlineStudy4U/INFOSYS_TEST_SERIES_02/[OnlineStudy4U] INFOSYS TEST SERIES-2 - Question Paper.md) [[Solutions]](06_Full_Length_Mocks/02_OnlineStudy4U/INFOSYS_TEST_SERIES_02/[OnlineStudy4U] INFOSYS TEST SERIES-2 - Solutions.html)
 
-#### 📂 [02 OnlineStudy4U/Mock Test 01](06_Full_Length_Mocks/02_OnlineStudy4U/Mock_Test_01/)
+#### 📂 [02 OnlineStudy4U/Mock Test 01](../06_Full_Length_Mocks/02_OnlineStudy4U/Mock_Test_01/)
 > **1 Tests** (60 Actual Questions) • **1 Diagram Assets**
 
 **Tests in this module:**
 - 📝 **[OnlineStudy4U] Infosys Full Length Mock Test-1** (60 Questions) — [[HTML]](06_Full_Length_Mocks/02_OnlineStudy4U/Mock_Test_01/[OnlineStudy4U] Infosys Full Length Mock Test-1 - Question Paper.html) [[Markdown]](06_Full_Length_Mocks/02_OnlineStudy4U/Mock_Test_01/[OnlineStudy4U] Infosys Full Length Mock Test-1 - Question Paper.md) [[Solutions]](06_Full_Length_Mocks/02_OnlineStudy4U/Mock_Test_01/[OnlineStudy4U] Infosys Full Length Mock Test-1 - Solutions.html)
 
-#### 📂 [02 OnlineStudy4U/Mock Test 02](06_Full_Length_Mocks/02_OnlineStudy4U/Mock_Test_02/)
+#### 📂 [02 OnlineStudy4U/Mock Test 02](../06_Full_Length_Mocks/02_OnlineStudy4U/Mock_Test_02/)
 > **1 Tests** (60 Actual Questions) • **1 Diagram Assets**
 
 **Tests in this module:**
 - 📝 **[OnlineStudy4U] Infosys Full Length Mock Test- 2** (60 Questions) — [[HTML]](06_Full_Length_Mocks/02_OnlineStudy4U/Mock_Test_02/[OnlineStudy4U] Infosys Full Length Mock Test- 2 - Question Paper.html) [[Markdown]](06_Full_Length_Mocks/02_OnlineStudy4U/Mock_Test_02/[OnlineStudy4U] Infosys Full Length Mock Test- 2 - Question Paper.md) [[Solutions]](06_Full_Length_Mocks/02_OnlineStudy4U/Mock_Test_02/[OnlineStudy4U] Infosys Full Length Mock Test- 2 - Solutions.html)
 
-#### 📂 [02 OnlineStudy4U/Mock Test 03](06_Full_Length_Mocks/02_OnlineStudy4U/Mock_Test_03/)
+#### 📂 [02 OnlineStudy4U/Mock Test 03](../06_Full_Length_Mocks/02_OnlineStudy4U/Mock_Test_03/)
 > **1 Tests** (60 Actual Questions) • **1 Diagram Assets**
 
 **Tests in this module:**
 - 📝 **[OnlineStudy4U] Infosys Full Length Mock Test- 3** (60 Questions) — [[HTML]](06_Full_Length_Mocks/02_OnlineStudy4U/Mock_Test_03/[OnlineStudy4U] Infosys Full Length Mock Test- 3 - Question Paper.html) [[Markdown]](06_Full_Length_Mocks/02_OnlineStudy4U/Mock_Test_03/[OnlineStudy4U] Infosys Full Length Mock Test- 3 - Question Paper.md) [[Solutions]](06_Full_Length_Mocks/02_OnlineStudy4U/Mock_Test_03/[OnlineStudy4U] Infosys Full Length Mock Test- 3 - Solutions.html)
 
-#### 📂 [02 OnlineStudy4U/Mock Test 04](06_Full_Length_Mocks/02_OnlineStudy4U/Mock_Test_04/)
+#### 📂 [02 OnlineStudy4U/Mock Test 04](../06_Full_Length_Mocks/02_OnlineStudy4U/Mock_Test_04/)
 > **1 Tests** (60 Actual Questions) • **1 Diagram Assets**
 
 **Tests in this module:**
 - 📝 **[OnlineStudy4U] Infosys Full Length Mock Test- 4** (60 Questions) — [[HTML]](06_Full_Length_Mocks/02_OnlineStudy4U/Mock_Test_04/[OnlineStudy4U] Infosys Full Length Mock Test- 4 - Question Paper.html) [[Markdown]](06_Full_Length_Mocks/02_OnlineStudy4U/Mock_Test_04/[OnlineStudy4U] Infosys Full Length Mock Test- 4 - Question Paper.md) [[Solutions]](06_Full_Length_Mocks/02_OnlineStudy4U/Mock_Test_04/[OnlineStudy4U] Infosys Full Length Mock Test- 4 - Solutions.html)
 
-#### 📂 [02 OnlineStudy4U/Mock Test 05](06_Full_Length_Mocks/02_OnlineStudy4U/Mock_Test_05/)
+#### 📂 [02 OnlineStudy4U/Mock Test 05](../06_Full_Length_Mocks/02_OnlineStudy4U/Mock_Test_05/)
 > **1 Tests** (60 Actual Questions) • **1 Diagram Assets**
 
 **Tests in this module:**
 - 📝 **[OnlineStudy4U] Infosys Full Length Mock Test- 5** (60 Questions) — [[HTML]](06_Full_Length_Mocks/02_OnlineStudy4U/Mock_Test_05/[OnlineStudy4U] Infosys Full Length Mock Test- 5 - Question Paper.html) [[Markdown]](06_Full_Length_Mocks/02_OnlineStudy4U/Mock_Test_05/[OnlineStudy4U] Infosys Full Length Mock Test- 5 - Question Paper.md) [[Solutions]](06_Full_Length_Mocks/02_OnlineStudy4U/Mock_Test_05/[OnlineStudy4U] Infosys Full Length Mock Test- 5 - Solutions.html)
 
-#### 📂 [02 OnlineStudy4U/Mock Test 06](06_Full_Length_Mocks/02_OnlineStudy4U/Mock_Test_06/)
+#### 📂 [02 OnlineStudy4U/Mock Test 06](../06_Full_Length_Mocks/02_OnlineStudy4U/Mock_Test_06/)
 > **1 Tests** (60 Actual Questions) • **1 Diagram Assets**
 
 **Tests in this module:**
 - 📝 **[OnlineStudy4U] Infosys Full Length Mock Test- 6** (60 Questions) — [[HTML]](06_Full_Length_Mocks/02_OnlineStudy4U/Mock_Test_06/[OnlineStudy4U] Infosys Full Length Mock Test- 6 - Question Paper.html) [[Markdown]](06_Full_Length_Mocks/02_OnlineStudy4U/Mock_Test_06/[OnlineStudy4U] Infosys Full Length Mock Test- 6 - Question Paper.md) [[Solutions]](06_Full_Length_Mocks/02_OnlineStudy4U/Mock_Test_06/[OnlineStudy4U] Infosys Full Length Mock Test- 6 - Solutions.html)
 
-#### 📂 [02 OnlineStudy4U/Mock Test 07](06_Full_Length_Mocks/02_OnlineStudy4U/Mock_Test_07/)
+#### 📂 [02 OnlineStudy4U/Mock Test 07](../06_Full_Length_Mocks/02_OnlineStudy4U/Mock_Test_07/)
 > **1 Tests** (73 Actual Questions) • **1 Diagram Assets**
 
 **Tests in this module:**
 - 📝 **[OnlineStudy4U] Infosys Full Length Mock Test- 7** (73 Questions) — [[HTML]](06_Full_Length_Mocks/02_OnlineStudy4U/Mock_Test_07/[OnlineStudy4U] Infosys Full Length Mock Test- 7 - Question Paper.html) [[Markdown]](06_Full_Length_Mocks/02_OnlineStudy4U/Mock_Test_07/[OnlineStudy4U] Infosys Full Length Mock Test- 7 - Question Paper.md) [[Solutions]](06_Full_Length_Mocks/02_OnlineStudy4U/Mock_Test_07/[OnlineStudy4U] Infosys Full Length Mock Test- 7 - Solutions.html)
 
-#### 📂 [02 OnlineStudy4U/Mock Test 08](06_Full_Length_Mocks/02_OnlineStudy4U/Mock_Test_08/)
+#### 📂 [02 OnlineStudy4U/Mock Test 08](../06_Full_Length_Mocks/02_OnlineStudy4U/Mock_Test_08/)
 > **1 Tests** (60 Actual Questions) • **1 Diagram Assets**
 
 **Tests in this module:**
 - 📝 **[OnlineStudy4U] Infosys Full Length Mock Test- 8** (60 Questions) — [[HTML]](06_Full_Length_Mocks/02_OnlineStudy4U/Mock_Test_08/[OnlineStudy4U] Infosys Full Length Mock Test- 8 - Question Paper.html) [[Markdown]](06_Full_Length_Mocks/02_OnlineStudy4U/Mock_Test_08/[OnlineStudy4U] Infosys Full Length Mock Test- 8 - Question Paper.md) [[Solutions]](06_Full_Length_Mocks/02_OnlineStudy4U/Mock_Test_08/[OnlineStudy4U] Infosys Full Length Mock Test- 8 - Solutions.html)
 
-#### 📂 [02 OnlineStudy4U/Mock Test 09](06_Full_Length_Mocks/02_OnlineStudy4U/Mock_Test_09/)
+#### 📂 [02 OnlineStudy4U/Mock Test 09](../06_Full_Length_Mocks/02_OnlineStudy4U/Mock_Test_09/)
 > **1 Tests** (60 Actual Questions) • **1 Diagram Assets**
 
 **Tests in this module:**
 - 📝 **[OnlineStudy4U] Infosys Full Length Mock Test- 9** (60 Questions) — [[HTML]](06_Full_Length_Mocks/02_OnlineStudy4U/Mock_Test_09/[OnlineStudy4U] Infosys Full Length Mock Test- 9 - Question Paper.html) [[Markdown]](06_Full_Length_Mocks/02_OnlineStudy4U/Mock_Test_09/[OnlineStudy4U] Infosys Full Length Mock Test- 9 - Question Paper.md) [[Solutions]](06_Full_Length_Mocks/02_OnlineStudy4U/Mock_Test_09/[OnlineStudy4U] Infosys Full Length Mock Test- 9 - Solutions.html)
 
-#### 📂 [02 OnlineStudy4U/Mock Test 10](06_Full_Length_Mocks/02_OnlineStudy4U/Mock_Test_10/)
+#### 📂 [02 OnlineStudy4U/Mock Test 10](../06_Full_Length_Mocks/02_OnlineStudy4U/Mock_Test_10/)
 > **1 Tests** (63 Actual Questions) • **1 Diagram Assets**
 
 **Tests in this module:**
 - 📝 **[OnlineStudy4U] Infosys Full Length Mock Test- 10** (63 Questions) — [[HTML]](06_Full_Length_Mocks/02_OnlineStudy4U/Mock_Test_10/[OnlineStudy4U] Infosys Full Length Mock Test- 10 - Question Paper.html) [[Markdown]](06_Full_Length_Mocks/02_OnlineStudy4U/Mock_Test_10/[OnlineStudy4U] Infosys Full Length Mock Test- 10 - Question Paper.md) [[Solutions]](06_Full_Length_Mocks/02_OnlineStudy4U/Mock_Test_10/[OnlineStudy4U] Infosys Full Length Mock Test- 10 - Solutions.html)
 
-#### 📂 [03 Topmate Slots](06_Full_Length_Mocks/03_Topmate_Slots/)
+#### 📂 [03 Topmate Slots](../06_Full_Length_Mocks/03_Topmate_Slots/)
 > 
 
-#### 📂 [03 Topmate Slots/Slot 01](06_Full_Length_Mocks/03_Topmate_Slots/Slot_01/)
+#### 📂 [03 Topmate Slots/Slot 01](../06_Full_Length_Mocks/03_Topmate_Slots/Slot_01/)
 > **1 PDFs**
 
 **Key PDFs & Handbooks:**
 - 📄 [[Topmate] 2nd Oct 2026 Slot 1 Infosys SE Actual Exam.pdf](06_Full_Length_Mocks/03_Topmate_Slots/Slot_01/[Topmate] 2nd Oct 2026 Slot 1 Infosys SE Actual Exam.pdf) (`94.2 KB`)
 
-#### 📂 [03 Topmate Slots/Slot 02](06_Full_Length_Mocks/03_Topmate_Slots/Slot_02/)
+#### 📂 [03 Topmate Slots/Slot 02](../06_Full_Length_Mocks/03_Topmate_Slots/Slot_02/)
 > **1 PDFs**
 
 **Key PDFs & Handbooks:**
@@ -519,35 +519,35 @@
 
 ### 📁 07. Infosys PYQ Actual Exam Photo & Screenshot Vaults
 
-#### 📂 [Actual Exam Screenshots Recent](07_Infosys_PYQ_Photo_and_Screenshot_Vaults/Actual_Exam_Screenshots_Recent/)
+#### 📂 [Actual Exam Screenshots Recent](../07_Infosys_PYQ_Photo_and_Screenshot_Vaults/Actual_Exam_Screenshots_Recent/)
 > **16 PDFs**
 
 **Key PDFs & Handbooks:**
-- 📄 [Infosys all slots questions from 2 groups - Part 1.pdf](07_Infosys_PYQ_Photo_and_Screenshot_Vaults/Actual_Exam_Screenshots_Recent/Infosys all slots questions from 2 groups - Part 1.pdf) (`22.2 MB`)
-- 📄 [Infosys all slots questions from 2 groups - Part 2.pdf](07_Infosys_PYQ_Photo_and_Screenshot_Vaults/Actual_Exam_Screenshots_Recent/Infosys all slots questions from 2 groups - Part 2.pdf) (`20.6 MB`)
-- 📄 [Infosys all slots questions from 2 groups - Part 3.pdf](07_Infosys_PYQ_Photo_and_Screenshot_Vaults/Actual_Exam_Screenshots_Recent/Infosys all slots questions from 2 groups - Part 3.pdf) (`17.4 MB`)
-- 📄 [Infosys all slots questions from 2 groups - Part 4.pdf](07_Infosys_PYQ_Photo_and_Screenshot_Vaults/Actual_Exam_Screenshots_Recent/Infosys all slots questions from 2 groups - Part 4.pdf) (`19.6 MB`)
-- 📄 [OS4U_Images_Part_1.pdf](07_Infosys_PYQ_Photo_and_Screenshot_Vaults/Actual_Exam_Screenshots_Recent/OS4U_Images_Part_1.pdf) (`23.8 MB`)
-- 📄 [OS4U_Images_Part_2.pdf](07_Infosys_PYQ_Photo_and_Screenshot_Vaults/Actual_Exam_Screenshots_Recent/OS4U_Images_Part_2.pdf) (`23.9 MB`)
+- 📄 [Infosys all slots questions from 2 groups - Part 1.pdf](../07_Infosys_PYQ_Photo_and_Screenshot_Vaults/Actual_Exam_Screenshots_Recent/Infosys all slots questions from 2 groups - Part 1.pdf) (`22.2 MB`)
+- 📄 [Infosys all slots questions from 2 groups - Part 2.pdf](../07_Infosys_PYQ_Photo_and_Screenshot_Vaults/Actual_Exam_Screenshots_Recent/Infosys all slots questions from 2 groups - Part 2.pdf) (`20.6 MB`)
+- 📄 [Infosys all slots questions from 2 groups - Part 3.pdf](../07_Infosys_PYQ_Photo_and_Screenshot_Vaults/Actual_Exam_Screenshots_Recent/Infosys all slots questions from 2 groups - Part 3.pdf) (`17.4 MB`)
+- 📄 [Infosys all slots questions from 2 groups - Part 4.pdf](../07_Infosys_PYQ_Photo_and_Screenshot_Vaults/Actual_Exam_Screenshots_Recent/Infosys all slots questions from 2 groups - Part 4.pdf) (`19.6 MB`)
+- 📄 [OS4U_Images_Part_1.pdf](../07_Infosys_PYQ_Photo_and_Screenshot_Vaults/Actual_Exam_Screenshots_Recent/OS4U_Images_Part_1.pdf) (`23.8 MB`)
+- 📄 [OS4U_Images_Part_2.pdf](../07_Infosys_PYQ_Photo_and_Screenshot_Vaults/Actual_Exam_Screenshots_Recent/OS4U_Images_Part_2.pdf) (`23.9 MB`)
 - *... and 10 more documents in folder.*
 
-#### 📂 [Latest PYQ Clear Photos](07_Infosys_PYQ_Photo_and_Screenshot_Vaults/Latest_PYQ_Clear_Photos/)
+#### 📂 [Latest PYQ Clear Photos](../07_Infosys_PYQ_Photo_and_Screenshot_Vaults/Latest_PYQ_Clear_Photos/)
 > 
 
-#### 📂 [Part 0 Screenshots](07_Infosys_PYQ_Photo_and_Screenshot_Vaults/Part_0_Screenshots/)
+#### 📂 [Part 0 Screenshots](../07_Infosys_PYQ_Photo_and_Screenshot_Vaults/Part_0_Screenshots/)
 > 
 
-#### 📂 [Part 1 Screenshots](07_Infosys_PYQ_Photo_and_Screenshot_Vaults/Part_1_Screenshots/)
+#### 📂 [Part 1 Screenshots](../07_Infosys_PYQ_Photo_and_Screenshot_Vaults/Part_1_Screenshots/)
 > 
 
-#### 📂 [Part 2 Screenshots](07_Infosys_PYQ_Photo_and_Screenshot_Vaults/Part_2_Screenshots/)
+#### 📂 [Part 2 Screenshots](../07_Infosys_PYQ_Photo_and_Screenshot_Vaults/Part_2_Screenshots/)
 > 
 
 ---
 
 ### 📁 08_Master_Reference_Books
 
-#### 📂 [CampusMonk Master Ebooks](08_Master_Reference_Books/CampusMonk_Master_Ebooks/)
+#### 📂 [CampusMonk Master Ebooks](../08_Master_Reference_Books/CampusMonk_Master_Ebooks/)
 > **7 PDFs**
 
 **Key PDFs & Handbooks:**
@@ -559,7 +559,7 @@
 - 📄 [[CampusMonk] 6 Book Logical PYQ Imp.pdf](08_Master_Reference_Books/CampusMonk_Master_Ebooks/[CampusMonk] 6 Book Logical PYQ Imp.pdf) (`2.0 MB`)
 - *... and 1 more documents in folder.*
 
-#### 📂 [OnlineStudy4U Master PDFs](08_Master_Reference_Books/OnlineStudy4U_Master_PDFs/)
+#### 📂 [OnlineStudy4U Master PDFs](../08_Master_Reference_Books/OnlineStudy4U_Master_PDFs/)
 > **9 PDFs**
 
 **Key PDFs & Handbooks:**
@@ -571,7 +571,7 @@
 - 📄 [[OnlineStudy4U] Infosys Recruitment Process for Fresher.pdf](08_Master_Reference_Books/OnlineStudy4U_Master_PDFs/[OnlineStudy4U] Infosys Recruitment Process for Fresher.pdf) (`502.0 KB`)
 - *... and 3 more documents in folder.*
 
-#### 📂 [Topmate Master PDFs](08_Master_Reference_Books/Topmate_Master_PDFs/)
+#### 📂 [Topmate Master PDFs](../08_Master_Reference_Books/Topmate_Master_PDFs/)
 > **8 PDFs**
 
 **Key PDFs & Handbooks:**
@@ -587,7 +587,7 @@
 
 ### 📁 09_Coding_and_DSE_Prep
 
-#### 📂 [09 Coding and DSE Prep](09_Coding_and_DSE_Prep/)
+#### 📂 [09 Coding and DSE Prep](../09_Coding_and_DSE_Prep/)
 > **32 PDFs**
 
 **Key PDFs & Handbooks:**
@@ -603,7 +603,7 @@
 
 ### 📁 10_Essay_and_Interview_Prep
 
-#### 📂 [10 Essay and Interview Prep](10_Essay_and_Interview_Prep/)
+#### 📂 [10 Essay and Interview Prep](../10_Essay_and_Interview_Prep/)
 > **2 PDFs** • **1 Guides**
 
 **Key PDFs & Handbooks:**
