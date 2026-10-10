@@ -1,0 +1,888 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>SEATING ARRANGEMENT & ORDER RANKING</title>
+<style>
+  @page { size: A4; margin: 16mm 14mm 16mm 14mm; }
+  body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; line-height: 1.5; color: #1e293b; }
+  .cover { background: linear-gradient(135deg, #0f172a 0%, #1e3a8a 50%, #0369a1 100%); color: #ffffff; padding: 35px 25px; border-radius: 10px; margin-bottom: 25px; }
+  .cover h1 { font-size: 24px; margin: 0 0 8px; color: #38bdf8; }
+  .cover h2 { font-size: 16px; margin: 0 0 12px; color: #f1f5f9; }
+  .q-card { background: #fff; border: 1px solid #e2e8f0; border-radius: 8px; padding: 16px 18px; margin-bottom: 18px; page-break-inside: avoid; }
+  .q-header { display: flex; justify-content: space-between; border-bottom: 1px solid #f1f5f9; padding-bottom: 6px; margin-bottom: 10px; }
+  .q-num { font-weight: 800; font-size: 14px; color: #0284c7; }
+  .q-src { font-size: 11px; background: #f0f9ff; color: #0284c7; padding: 2px 8px; border-radius: 4px; }
+  .q-text { font-size: 13.5px; margin-bottom: 12px; white-space: pre-wrap; }
+  .opts { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; margin-bottom: 12px; }
+  .opt { background: #f8fafc; border: 1px solid #cbd5e1; border-radius: 5px; padding: 6px 10px; font-size: 12.5px; display: flex; }
+  .opt.correct { background: #f0fdf4; border-color: #22c55e; color: #15803d; font-weight: bold; }
+  .opt-letter { font-weight: bold; margin-right: 6px; color: #0284c7; }
+  .sol { background: #f8fafc; border-left: 4px solid #10b981; padding: 8px 12px; font-size: 12px; border-radius: 0 5px 5px 0; }
+  .sol-hdr { font-weight: bold; color: #059669; margin-bottom: 4px; }
+</style>
+</head>
+<body>
+  <div class="cover">
+    <h1>INFOSYS SE MASTER COMPENDIUM</h1>
+    <h2>TOPIC: SEATING ARRANGEMENT & ORDER RANKING</h2>
+    <div style="font-size:12px;color:#cbd5e1;">Total Questions: 34 | All Question Variations & Solved Solutions</div>
+  </div>
+
+  <div class="q-card">
+    <div class="q-header"><span class="q-num">QUESTION 1</span><span class="q-src">[OnlineStudy4U] Ranking Test</span></div>
+    <div class="q-text">In
+a line of people, Rohit is ranked 12th from the top, and Ankit is
+ranked 20th from the bottom. If there are 30 people in the line,
+how many people are between Rohit and Ankit?</div>
+    <div class="opts">
+      <div class="opt"><span class="opt-letter">(A)</span><span>5</span></div>
+      <div class="opt"><span class="opt-letter">(B)</span><span>7</span></div>
+      <div class="opt correct"><span class="opt-letter">(C)</span><span>0</span></div>
+      <div class="opt"><span class="opt-letter">(D)</span><span>9</span></div>
+    </div>
+
+    <div class="sol">
+      <div class="sol-hdr">✔ Correct Answer: (C)</div>
+      <div>Rohit position from bottom = (30-12)+1 = 19
+Ankit position from bottom = 20
+Number of people between Rohit and Ankit = 0</div>
+    </div>
+  </div>
+
+  <div class="q-card">
+    <div class="q-header"><span class="q-num">QUESTION 2</span><span class="q-src">[OnlineStudy4U] Ranking Test</span></div>
+    <div class="q-text">Arjun
+is older than Sumit but younger than Rahul. Vikas is younger than
+Rahul but older than Arjun. Ramesh is the oldest among them. Who
+is the third oldest?</div>
+    <div class="opts">
+      <div class="opt"><span class="opt-letter">(A)</span><span>Sumit</span></div>
+      <div class="opt"><span class="opt-letter">(B)</span><span>Arjun</span></div>
+      <div class="opt"><span class="opt-letter">(C)</span><span>Rahul</span></div>
+      <div class="opt correct"><span class="opt-letter">(D)</span><span>Vikas</span></div>
+    </div>
+
+    <div class="sol">
+      <div class="sol-hdr">✔ Correct Answer: (D)</div>
+      <div>From
+the given conditions:
+Arjun
+&gt; Sumit, but Arjun &lt; Rahul.
+→ Rahul
+&gt; Arjun &gt; Sumit.
+Vikas
+is younger than Rahul but older than Arjun.
+→ Rahul
+&gt; Vikas &gt; Arjun &gt; Sumit.
+Ramesh
+is the oldest.
+Final
+order: Ramesh &gt; Rahul &gt; Vikas &gt; Arjun &gt; Sumit.
+The
+third oldest is Vikas.</div>
+    </div>
+  </div>
+
+  <div class="q-card">
+    <div class="q-header"><span class="q-num">QUESTION 3</span><span class="q-src">[OnlineStudy4U] Ranking Test</span></div>
+    <div class="q-text">Six
+people—P, Q, R, S, T, and U—are standing in a line
+from left to right. P is taller than S but shorter than Q. R is
+taller than Q but shorter than U. T is the tallest. Who is the
+fourth tallest?</div>
+    <div class="opts">
+      <div class="opt"><span class="opt-letter">(A)</span><span>P</span></div>
+      <div class="opt correct"><span class="opt-letter">(B)</span><span>Q</span></div>
+      <div class="opt"><span class="opt-letter">(C)</span><span>R</span></div>
+      <div class="opt"><span class="opt-letter">(D)</span><span>S</span></div>
+    </div>
+
+    <div class="sol">
+      <div class="sol-hdr">✔ Correct Answer: (B)</div>
+      <div>From
+the given conditions:
+P
+&gt; S, but P &lt; Q → Q &gt; P &gt; S.
+R
+&gt; Q, but R &lt; U → U &gt; R &gt; Q.
+T
+is the tallest.
+Final
+order: T &gt; U &gt; R &gt; Q &gt; P &gt; S.
+The
+fourth tallest person is Q.</div>
+    </div>
+  </div>
+
+  <div class="q-card">
+    <div class="q-header"><span class="q-num">QUESTION 4</span><span class="q-src">[OnlineStudy4U] Ranking Test</span></div>
+    <div class="q-text">Shreya
+is taller than Meena but shorter than Ritu. Kajal is shorter than
+Ritu but taller than Meena. Payal is the shortest among all. Who
+is the third tallest?</div>
+    <div class="opts">
+      <div class="opt"><span class="opt-letter">(A)</span><span>Shreya</span></div>
+      <div class="opt"><span class="opt-letter">(B)</span><span>Ritu</span></div>
+      <div class="opt"><span class="opt-letter">(C)</span><span>Meena</span></div>
+      <div class="opt correct"><span class="opt-letter">(D)</span><span>Kajal</span></div>
+    </div>
+
+    <div class="sol">
+      <div class="sol-hdr">✔ Correct Answer: (D)</div>
+      <div>From
+the given conditions:
+Shreya
+&gt; Meena but Shreya &lt; Ritu.
+→ Ritu
+&gt; Shreya &gt; Meena.
+Kajal
+is shorter than Ritu but taller than Meena.
+→ Ritu
+&gt; Kajal &gt; Meena.
+Payal
+is the shortest.
+Arranging
+all: Ritu &gt; Shreya &gt; Kajal &gt; Meena &gt; Payal.
+The
+third tallest person is Kajal.</div>
+    </div>
+  </div>
+
+  <div class="q-card">
+    <div class="q-header"><span class="q-num">QUESTION 5</span><span class="q-src">[OnlineStudy4U] Ranking Test</span></div>
+    <div class="q-text">In
+a row of students, Raj is 15th from the left end and 12th from the
+right end. How many students are there in the row?</div>
+    <div class="opts">
+      <div class="opt correct"><span class="opt-letter">(A)</span><span>26</span></div>
+      <div class="opt"><span class="opt-letter">(B)</span><span>28</span></div>
+      <div class="opt"><span class="opt-letter">(C)</span><span>25</span></div>
+      <div class="opt"><span class="opt-letter">(D)</span><span>30</span></div>
+    </div>
+
+    <div class="sol">
+      <div class="sol-hdr">✔ Correct Answer: (A)</div>
+      <div>Total
+students in the row = (Position from Left) + (Position from Right)
+– 1 = 15 + 12 - 1 = 26</div>
+    </div>
+  </div>
+
+  <div class="q-card">
+    <div class="q-header"><span class="q-num">QUESTION 6</span><span class="q-src">[OnlineStudy4U] Ranking Test</span></div>
+    <div class="q-text">During
+assembly the students are standing in a line. Salman Khan is 21st
+in order from both the ends. How many boys are there in the class?</div>
+    <div class="opts">
+      <div class="opt"><span class="opt-letter">(A)</span><span>30</span></div>
+      <div class="opt"><span class="opt-letter">(B)</span><span>40</span></div>
+      <div class="opt"><span class="opt-letter">(C)</span><span>31</span></div>
+      <div class="opt correct"><span class="opt-letter">(D)</span><span>41</span></div>
+    </div>
+
+    <div class="sol">
+      <div class="sol-hdr">✔ Correct Answer: (D)</div>
+      <div>Therefore,
+total number of students = 20 + Salman Khan + 20 = 41</div>
+    </div>
+  </div>
+
+  <div class="q-card">
+    <div class="q-header"><span class="q-num">QUESTION 7</span><span class="q-src">[OnlineStudy4U] Ranking Test</span></div>
+    <div class="q-text">In
+a row of 45 students, Aditi is ranked 18th from the left. Priya is
+24th from the right. If there are 5 students between Aditi and
+Priya, how many students are there in the row?</div>
+    <div class="opts">
+      <div class="opt"><span class="opt-letter">(A)</span><span>45</span></div>
+      <div class="opt correct"><span class="opt-letter">(B)</span><span>47</span></div>
+      <div class="opt"><span class="opt-letter">(C)</span><span>50</span></div>
+      <div class="opt"><span class="opt-letter">(D)</span><span>53</span></div>
+    </div>
+
+    <div class="sol">
+      <div class="sol-hdr">✔ Correct Answer: (B)</div>
+      <div>Total
+students in the row = (Aditi’s rank from the left) +
+(Priya’s rank from the right) + (Students between them)
+=
+18 + 24 + 5
+=
+47</div>
+    </div>
+  </div>
+
+  <div class="q-card">
+    <div class="q-header"><span class="q-num">QUESTION 8</span><span class="q-src">[OnlineStudy4U] Ranking Test</span></div>
+    <div class="q-text">Rahul
+is heavier than Suresh but lighter than Mohan. Kunal is lighter
+than Rahul but heavier than Suresh. Deepak is heavier than all
+except Mohan. Who is the second lightest?</div>
+    <div class="opts">
+      <div class="opt"><span class="opt-letter">(A)</span><span>Rahul</span></div>
+      <div class="opt correct"><span class="opt-letter">(B)</span><span>Kunal</span></div>
+      <div class="opt"><span class="opt-letter">(C)</span><span>Suresh</span></div>
+      <div class="opt"><span class="opt-letter">(D)</span><span>Mohan</span></div>
+    </div>
+
+    <div class="sol">
+      <div class="sol-hdr">✔ Correct Answer: (B)</div>
+      <div>Rahul
+is heavier than Suresh but lighter than Mohan. → Mohan &gt;
+Rahul &gt; Suresh
+Kunal
+is lighter than Rahul but heavier than Suresh. → Mohan &gt;
+Rahul &gt; Kunal &gt; Suresh
+Deepak
+is heavier than all except Mohan. → Mohan &gt; Deepak &gt;
+Rahul &gt; Kunal &gt; Suresh
+Solution:
+The
+second lightest is Kunal.</div>
+    </div>
+  </div>
+
+  <div class="q-card">
+    <div class="q-header"><span class="q-num">QUESTION 9</span><span class="q-src">[OnlineStudy4U] Ranking Test</span></div>
+    <div class="q-text">In
+a north-facing row of 45 students, Neha is 13th from the left, and
+Priya is 15th from the right. There are 4 students between Priya
+and Rani, who is equidistant to Neha. What is Rani’s
+position from the right?</div>
+    <div class="opts">
+      <div class="opt"><span class="opt-letter">(A)</span><span>25</span></div>
+      <div class="opt correct"><span class="opt-letter">(B)</span><span>20</span></div>
+      <div class="opt"><span class="opt-letter">(C)</span><span>30</span></div>
+      <div class="opt"><span class="opt-letter">(D)</span><span>32</span></div>
+    </div>
+
+    <div class="sol">
+      <div class="sol-hdr">✔ Correct Answer: (B)</div>
+      <div>Priya’s position from the left = 45−15+1=31.
+Rani’s position from the left (5 places ahead of Priya) = 31−5=26.
+Check equidistance: ∣26−13∣=13 (same as Neha&#x27;s position).
+Rani’s position from the right = 45−26+1=20.</div>
+    </div>
+  </div>
+
+  <div class="q-card">
+    <div class="q-header"><span class="q-num">QUESTION 10</span><span class="q-src">[OnlineStudy4U] Ranking Test</span></div>
+    <div class="q-text">Five
+students—Amit, Bhavesh, Chetan, Dinesh, and Esha—took
+an exam. Amit scored higher than Chetan but lower than Bhavesh.
+Dinesh scored more than Amit but less than Esha. Esha scored the
+highest. Who got the second highest marks?</div>
+    <div class="opts">
+      <div class="opt correct"><span class="opt-letter">(A)</span><span>Dinesh</span></div>
+      <div class="opt"><span class="opt-letter">(B)</span><span>Chetan</span></div>
+      <div class="opt"><span class="opt-letter">(C)</span><span>Amit</span></div>
+      <div class="opt"><span class="opt-letter">(D)</span><span>Esha</span></div>
+    </div>
+
+    <div class="sol">
+      <div class="sol-hdr">✔ Correct Answer: (A)</div>
+      <div>From
+the given conditions:
+Amit
+&gt; Chetan, but Amit &lt; Bhavesh.
+→ Bhavesh
+&gt; Amit &gt; Chetan.
+Dinesh
+&gt; Amit but Dinesh &lt; Esha.
+→ Esha
+&gt; Dinesh &gt; Amit.
+Esha
+scored the highest.
+Final
+order: Esha &gt; Dinesh &gt; Bhavesh &gt; Amit &gt; Chetan.
+The
+second highest scorer is Dinesh.</div>
+    </div>
+  </div>
+
+  <div class="q-card">
+    <div class="q-header"><span class="q-num">QUESTION 11</span><span class="q-src">[OnlineStudy4U] Ranking Test</span></div>
+    <div class="q-text">In
+a class of 50 students, Priya ranks 14th from the top. What is her
+rank from the bottom?</div>
+    <div class="opts">
+      <div class="opt"><span class="opt-letter">(A)</span><span>35</span></div>
+      <div class="opt correct"><span class="opt-letter">(B)</span><span>37</span></div>
+      <div class="opt"><span class="opt-letter">(C)</span><span>40</span></div>
+      <div class="opt"><span class="opt-letter">(D)</span><span>45</span></div>
+    </div>
+
+    <div class="sol">
+      <div class="sol-hdr">✔ Correct Answer: (B)</div>
+      <div>Rank
+from the bottom = Total students - Rank from the top + 1
+=
+50 - 14 + 1
+=
+37</div>
+    </div>
+  </div>
+
+  <div class="q-card">
+    <div class="q-header"><span class="q-num">QUESTION 12</span><span class="q-src">[OnlineStudy4U] Ranking Test</span></div>
+    <div class="q-text">If
+the rank of Rohan is 7th from the top in a group of 50 candidates
+and 2 new candidates are added just before and after him, what
+will be his new rank from bottom?</div>
+    <div class="opts">
+      <div class="opt"><span class="opt-letter">(A)</span><span>44</span></div>
+      <div class="opt"><span class="opt-letter">(B)</span><span>45</span></div>
+      <div class="opt correct"><span class="opt-letter">(C)</span><span>46</span></div>
+      <div class="opt"><span class="opt-letter">(D)</span><span>48</span></div>
+    </div>
+
+    <div class="sol">
+      <div class="sol-hdr">✔ Correct Answer: (C)</div>
+      <div>Adding
+of candidates just before Rohan will not change his rank from
+bottom. Before addition, the rank of Rohan from bottom is = (50 -
+7) + 1 = 44
+Now
+adding 2 candidates just after Rohan will increase his rank by 2
+positions. Hence; the new rank of Rohan from bottom will be = 44 +
+2 = 46</div>
+    </div>
+  </div>
+
+  <div class="q-card">
+    <div class="q-header"><span class="q-num">QUESTION 13</span><span class="q-src">[OnlineStudy4U] Ranking Test</span></div>
+    <div class="q-text">Neha
+is heavier than Rina but lighter than Simran. Aisha is lighter
+than Neha but heavier than Rina. Jaya is heavier than all except
+Simran. Who is the third heaviest?</div>
+    <div class="opts">
+      <div class="opt"><span class="opt-letter">(A)</span><span>Rina</span></div>
+      <div class="opt"><span class="opt-letter">(B)</span><span>Simran</span></div>
+      <div class="opt correct"><span class="opt-letter">(C)</span><span>Neha</span></div>
+      <div class="opt"><span class="opt-letter">(D)</span><span>Jaya</span></div>
+    </div>
+
+    <div class="sol">
+      <div class="sol-hdr">✔ Correct Answer: (C)</div>
+      <div>From
+the given conditions:
+Neha
+&gt; Rina, but Neha &lt; Simran → Simran &gt; Neha &gt; Rina.
+Aisha
+is lighter than Neha but heavier than Rina → Simran &gt; Neha
+&gt; Aisha &gt; Rina.
+Jaya
+is heavier than all except Simran → Simran &gt; Jaya &gt;
+Neha &gt; Aisha &gt; Rina.
+The
+third heaviest person is Neha.</div>
+    </div>
+  </div>
+
+  <div class="q-card">
+    <div class="q-header"><span class="q-num">QUESTION 14</span><span class="q-src">[OnlineStudy4U] Ranking Test</span></div>
+    <div class="q-text">Six
+persons – Sumer, Anant, Parth, Rajat, Karan and Gaurav,
+played in a cricket match and scored different number of runs.
+Sumer scored more runs than only Parth and Gaurav. Anant scored
+less runs than Karan, who was not highest scorer. The Second
+highest person scored 78 runs. How many person(s) scored more runs
+than Parth?</div>
+    <div class="opts">
+      <div class="opt"><span class="opt-letter">(A)</span><span>1</span></div>
+      <div class="opt"><span class="opt-letter">(B)</span><span>2</span></div>
+      <div class="opt"><span class="opt-letter">(C)</span><span>3</span></div>
+      <div class="opt correct"><span class="opt-letter">(D)</span><span>More
+than 3</span></div>
+    </div>
+
+    <div class="sol">
+      <div class="sol-hdr">✔ Correct Answer: (D)</div>
+      <div>Following
+the final solution we can say that either 4 or 5 persons scored
+more runs than Parth.</div>
+    </div>
+  </div>
+
+  <div class="q-card">
+    <div class="q-header"><span class="q-num">QUESTION 15</span><span class="q-src">[OnlineStudy4U] Ranking Test</span></div>
+    <div class="q-text">In
+a line of 60 people, Sam is ranked 21st from the top. How many
+people are ahead of him and how many are behind him?</div>
+    <div class="opts">
+      <div class="opt correct"><span class="opt-letter">(A)</span><span>20,
+39</span></div>
+      <div class="opt"><span class="opt-letter">(B)</span><span>20,40</span></div>
+      <div class="opt"><span class="opt-letter">(C)</span><span>22,39</span></div>
+      <div class="opt"><span class="opt-letter">(D)</span><span>22,40</span></div>
+    </div>
+
+    <div class="sol">
+      <div class="sol-hdr">✔ Correct Answer: (A)</div>
+      <div>People
+ahead of Sam = Sam’s rank - 1 = 21 - 1 = 20
+People
+behind Sam = Total - Sam’s rank = 60 - 21 = 39</div>
+    </div>
+  </div>
+
+  <div class="q-card">
+    <div class="q-header"><span class="q-num">QUESTION 16</span><span class="q-src">[OnlineStudy4U] Ranking Test</span></div>
+    <div class="q-text">In
+a nursery, I saw a group of small rose trees arranged in a row.
+However, one rose tree caught my attention very much. I started
+counting its rank from the left hand side and found out to be 12.
+When I started counting from right hand side, it was again 12!!
+What is the total number of rose trees that were arranged in that
+row?</div>
+    <div class="opts">
+      <div class="opt"><span class="opt-letter">(A)</span><span>21</span></div>
+      <div class="opt"><span class="opt-letter">(B)</span><span>25</span></div>
+      <div class="opt"><span class="opt-letter">(C)</span><span>32</span></div>
+      <div class="opt correct"><span class="opt-letter">(D)</span><span>23</span></div>
+    </div>
+
+    <div class="sol">
+      <div class="sol-hdr">✔ Correct Answer: (D)</div>
+      <div>As
+the rank of the tree is same from either side, the total number of
+trees will be
+12
++ 12 – 1 = 23</div>
+    </div>
+  </div>
+
+  <div class="q-card">
+    <div class="q-header"><span class="q-num">QUESTION 17</span><span class="q-src">[OnlineStudy4U] Ranking Test</span></div>
+    <div class="q-text">In
+a north facing row of NCC Cadets, Trisha is 9th from the left end
+and Tina is 12th from the right end. There are 5 cadets between
+Trisha and Tanya who is equidstant to Tina. Find how many cadets
+are there in the row?</div>
+    <div class="opts">
+      <div class="opt"><span class="opt-letter">(A)</span><span>34</span></div>
+      <div class="opt"><span class="opt-letter">(B)</span><span>31</span></div>
+      <div class="opt correct"><span class="opt-letter">(C)</span><span>32</span></div>
+      <div class="opt"><span class="opt-letter">(D)</span><span>33</span></div>
+    </div>
+
+    <div class="sol">
+      <div class="sol-hdr">✔ Correct Answer: (C)</div>
+      <div>Adding
+all the persons in the above image, we get:
+8
++ 1(Trisha) + 5 + 1(Tanya) + 5 + 1(Tina) + 11 = 32
+Thus
+there are 32 cadets in the row.</div>
+    </div>
+  </div>
+
+  <div class="q-card">
+    <div class="q-header"><span class="q-num">QUESTION 18</span><span class="q-src">[OnlineStudy4U] Ranking Test</span></div>
+    <div class="q-text">In
+a north-facing row of students, Ajay is 18th from the left and
+Vijay is 22nd from the right. If there are 10 students between
+them, find the total number of students in the row.</div>
+    <div class="opts">
+      <div class="opt"><span class="opt-letter">(A)</span><span>40</span></div>
+      <div class="opt"><span class="opt-letter">(B)</span><span>45</span></div>
+      <div class="opt correct"><span class="opt-letter">(C)</span><span>50</span></div>
+      <div class="opt"><span class="opt-letter">(D)</span><span>55</span></div>
+    </div>
+
+    <div class="sol">
+      <div class="sol-hdr">✔ Correct Answer: (C)</div>
+      <div>Total
+students = Ajay’s position from left + Vijay’s
+position from right + students between them = 18 + 22 + 10 = 50</div>
+    </div>
+  </div>
+
+  <div class="q-card">
+    <div class="q-header"><span class="q-num">QUESTION 19</span><span class="q-src">[OnlineStudy4U] Ranking Test</span></div>
+    <div class="q-text">Aman
+is standing in a queue at the 10th position from the front. If he
+is 15th from the back, how many people are in the queue?</div>
+    <div class="opts">
+      <div class="opt"><span class="opt-letter">(A)</span><span>30</span></div>
+      <div class="opt"><span class="opt-letter">(B)</span><span>75</span></div>
+      <div class="opt"><span class="opt-letter">(C)</span><span>50</span></div>
+      <div class="opt correct"><span class="opt-letter">(D)</span><span>24</span></div>
+    </div>
+
+    <div class="sol">
+      <div class="sol-hdr">✔ Correct Answer: (D)</div>
+      <div>Total
+people in the queue = (Position from Front) + (Position from Back)
+- 1
+=
+10 + 15 - 1
+=
+24</div>
+    </div>
+  </div>
+
+  <div class="q-card">
+    <div class="q-header"><span class="q-num">QUESTION 20</span><span class="q-src">[OnlineStudy4U] Ranking Test</span></div>
+    <div class="q-text">In
+a class of 35 students, Ziya is placed 7th from the bottom where
+as Sofia is placed 9th from the top. Shahruk is placed in between
+the two. What is Ziya&#x27;s position from Shahruk?</div>
+    <div class="opts">
+      <div class="opt correct"><span class="opt-letter">(A)</span><span>10</span></div>
+      <div class="opt"><span class="opt-letter">(B)</span><span>15</span></div>
+      <div class="opt"><span class="opt-letter">(C)</span><span>19</span></div>
+      <div class="opt"><span class="opt-letter">(D)</span><span>21</span></div>
+    </div>
+
+    <div class="sol">
+      <div class="sol-hdr">✔ Correct Answer: (A)</div>
+      <div>As
+seen in the figure, Shahruk is between Sofia and Ziya. It&#x27;s given
+that Ziya is 7th from the bottom and Sofia is 9th from the top.
+Therefore,
+number of persons between Sofia and Ziya = 35-(9+7) = 19
+Sharuk&#x27;s
+position between Sofia and Ziya = 19-1/2 = 10.
+Hence,
+Shahruk is at the middle ie. at 10th position from both. Ziya,
+therefore, is at the 10th position from Shahruk</div>
+    </div>
+  </div>
+
+  <div class="q-card">
+    <div class="q-header"><span class="q-num">QUESTION 21</span><span class="q-src">[OnlineStudy4U] Seating Arrangement</span></div>
+    <div class="q-text">Eight
+persons viz. A, B, C, D, E, F, G, and H are sitting around a
+circular table such that all of them are facing towards the
+center. The consecutive alphabetically named persons are not
+sitting adjacent to each other. Two persons sit between A and C,
+who faces E. Only one person sits between A and F. The number of
+persons sitting between E and F is twice the number of persons
+sitting between C and H when counted from the right of both F and
+C. D sits exactly between B and G, who doesn’t sit adjacent
+to E.
+What
+is the position of F with respect to H?</div>
+    <div class="opts">
+      <div class="opt"><span class="opt-letter">(A)</span><span>Fourth
+to the right</span></div>
+      <div class="opt correct"><span class="opt-letter">(B)</span><span>Immediate
+left</span></div>
+      <div class="opt"><span class="opt-letter">(C)</span><span>Second
+to the left</span></div>
+      <div class="opt"><span class="opt-letter">(D)</span><span>Third
+to the right</span></div>
+    </div>
+
+    <div class="sol">
+      <div class="sol-hdr">✔ Correct Answer: (B)</div>
+      <div>Logical deduction.</div>
+    </div>
+  </div>
+
+  <div class="q-card">
+    <div class="q-header"><span class="q-num">QUESTION 22</span><span class="q-src">[OnlineStudy4U] Seating Arrangement</span></div>
+    <div class="q-text">Each
+of these questions are based on the information given below:
+A
+,B, C, D and E are five men sitting in a line facing to south -
+while M, N, O, P and Q are five ladies sitting in a second line
+parallel to the first line and are facing to North.
+B
+who is just next to the left of D, is opposite to Q.
+C
+and N are diagonally opposite to each other.
+E
+is opposite to O who is just next right of M.
+P
+who is just to the left of Q, is opposite to D.
+M
+is at one end of the line.
+Which
+of the following pair is diagonally opposite to each other?</div>
+    <div class="opts">
+      <div class="opt"><span class="opt-letter">(A)</span><span>EQ</span></div>
+      <div class="opt"><span class="opt-letter">(B)</span><span>BO</span></div>
+      <div class="opt"><span class="opt-letter">(C)</span><span>AN</span></div>
+      <div class="opt correct"><span class="opt-letter">(D)</span><span>AM</span></div>
+    </div>
+
+    <div class="sol">
+      <div class="sol-hdr">✔ Correct Answer: (D)</div>
+      <div>Logical deduction.</div>
+    </div>
+  </div>
+
+  <div class="q-card">
+    <div class="q-header"><span class="q-num">QUESTION 23</span><span class="q-src">[OnlineStudy4U] Seating Arrangement</span></div>
+    <div class="q-text">Six
+friends P, Q, R, S, T and U are sitting around the hexagonal table
+each at one corner and are facing the centre of the hexagonal. P
+is second to the left of U. Q is neighbour of R and S. T is second
+to the left of S. Which of the following are the neighbours of P ?</div>
+    <div class="opts">
+      <div class="opt"><span class="opt-letter">(A)</span><span>U,P</span></div>
+      <div class="opt"><span class="opt-letter">(B)</span><span>U,R</span></div>
+      <div class="opt correct"><span class="opt-letter">(C)</span><span>T,R</span></div>
+      <div class="opt"><span class="opt-letter">(D)</span><span>None</span></div>
+    </div>
+
+    <div class="sol">
+      <div class="sol-hdr">✔ Correct Answer: (C)</div>
+      <div>Logical deduction.</div>
+    </div>
+  </div>
+
+  <div class="q-card">
+    <div class="q-header"><span class="q-num">QUESTION 24</span><span class="q-src">[OnlineStudy4U] Seating Arrangement</span></div>
+    <div class="q-text">Eight
+persons – Amar, Ansh, Arun, Amit, Ashu, Anup, Arif and Anil,
+are sitting around a circular table facing the centre but not
+necessarily in the same order. Arif is to the immediate left of
+Ashu. Anup is to the immediate left of Arun. Amar is the neighbour
+of Ansh. Amit is between Anup and Ansh. Arif is not the neighbour
+of Ansh or Anil. What is the position of Arif with respect to
+Amit?</div>
+    <div class="opts">
+      <div class="opt correct"><span class="opt-letter">(A)</span><span>Third
+to the right</span></div>
+      <div class="opt"><span class="opt-letter">(B)</span><span>Second
+to the left</span></div>
+      <div class="opt"><span class="opt-letter">(C)</span><span>Fourth
+to the right</span></div>
+      <div class="opt"><span class="opt-letter">(D)</span><span>Fourth
+to the left</span></div>
+    </div>
+
+    <div class="sol">
+      <div class="sol-hdr">✔ Correct Answer: (A)</div>
+      <div>Following
+the final solution, we can say that Arif is third to the right of
+Amit.</div>
+    </div>
+  </div>
+
+  <div class="q-card">
+    <div class="q-header"><span class="q-num">QUESTION 25</span><span class="q-src">[OnlineStudy4U] Seating Arrangement</span></div>
+    <div class="q-text">Six
+persons namely P, R, S, T, W, and X are sitting around a
+rectangular table such that one sits at each of the shorter sides
+and two sit at each of the longer sides of the table facing
+towards the center of the table.
+W
+sits on the longer side and two persons sit between P and W. R
+sits opposite to X and is near P. T doesn&#x27;t sit near W. X doesn&#x27;t
+sit immediately left of T. Pick the odd one out.</div>
+    <div class="opts">
+      <div class="opt"><span class="opt-letter">(A)</span><span>T</span></div>
+      <div class="opt"><span class="opt-letter">(B)</span><span>P</span></div>
+      <div class="opt"><span class="opt-letter">(C)</span><span>W</span></div>
+      <div class="opt correct"><span class="opt-letter">(D)</span><span>None</span></div>
+    </div>
+
+    <div class="sol">
+      <div class="sol-hdr">✔ Correct Answer: (D)</div>
+      <div>Clearly,
+all of them are facing inside and sitting on the longer sides.
+None
+is odd.</div>
+    </div>
+  </div>
+
+  <div class="q-card">
+    <div class="q-header"><span class="q-num">QUESTION 26</span><span class="q-src">[OnlineStudy4U] Seating Arrangement</span></div>
+    <div class="q-text">A,
+P, R, X, S and Z are sitting in a row. S and Z are in the centre.
+A and P are at the ends. R is sitting to the left of A. Who is to
+the right of P ?</div>
+    <div class="opts">
+      <div class="opt correct"><span class="opt-letter">(A)</span><span>X</span></div>
+      <div class="opt"><span class="opt-letter">(B)</span><span>S</span></div>
+      <div class="opt"><span class="opt-letter">(C)</span><span>Z</span></div>
+      <div class="opt"><span class="opt-letter">(D)</span><span>A</span></div>
+    </div>
+
+    <div class="sol">
+      <div class="sol-hdr">✔ Correct Answer: (A)</div>
+      <div>Logical deduction.</div>
+    </div>
+  </div>
+
+  <div class="q-card">
+    <div class="q-header"><span class="q-num">QUESTION 27</span><span class="q-src">[OnlineStudy4U] Seating Arrangement</span></div>
+    <div class="q-text">Five
+girls are sitting on a bench to be photographed. Seema is to the
+left of Rani and to the right of Bindu. Mary is to the right of
+Rani. Reeta is between Rani and Mary. Who is sitting immediate
+right to Reeta ?</div>
+    <div class="opts">
+      <div class="opt"><span class="opt-letter">(A)</span><span>Bindu</span></div>
+      <div class="opt"><span class="opt-letter">(B)</span><span>Rani</span></div>
+      <div class="opt correct"><span class="opt-letter">(C)</span><span>Mary</span></div>
+      <div class="opt"><span class="opt-letter">(D)</span><span>Seema</span></div>
+    </div>
+
+    <div class="sol">
+      <div class="sol-hdr">✔ Correct Answer: (C)</div>
+      <div>Logical deduction.</div>
+    </div>
+  </div>
+
+  <div class="q-card">
+    <div class="q-header"><span class="q-num">QUESTION 28</span><span class="q-src">[OnlineStudy4U] Seating Arrangement</span></div>
+    <div class="q-text">A,
+B, C, D and E are sitting on a bench. A is sitting next to B, C is
+sitting next to D, D is not sitting with E who is on the left end
+of the bench. C is on the second position from the right. A is to
+the right of B and E. A and C are sitting together. In which
+position A is sitting ?</div>
+    <div class="opts">
+      <div class="opt correct"><span class="opt-letter">(A)</span><span>Between
+B and C</span></div>
+      <div class="opt"><span class="opt-letter">(B)</span><span>Between
+B and D</span></div>
+      <div class="opt"><span class="opt-letter">(C)</span><span>Between
+E and D</span></div>
+      <div class="opt"><span class="opt-letter">(D)</span><span>Between
+C and D</span></div>
+    </div>
+
+    <div class="sol">
+      <div class="sol-hdr">✔ Correct Answer: (A)</div>
+      <div>Logical deduction.</div>
+    </div>
+  </div>
+
+  <div class="q-card">
+    <div class="q-header"><span class="q-num">QUESTION 29</span><span class="q-src">[OnlineStudy4U] Seating Arrangement</span></div>
+    <div class="q-text">In
+a group discussion A, B, C, D, E and F are sitting around a
+rectangular table.
+A
+is sitting on a side alone. B, C are sitting on the same side. F
+is facing A. D is the immediate left of F. C is facing D. Who is
+immediate right of A?</div>
+    <div class="opts">
+      <div class="opt"><span class="opt-letter">(A)</span><span>B</span></div>
+      <div class="opt"><span class="opt-letter">(B)</span><span>F</span></div>
+      <div class="opt"><span class="opt-letter">(C)</span><span>D</span></div>
+      <div class="opt correct"><span class="opt-letter">(D)</span><span>E</span></div>
+    </div>
+
+    <div class="sol">
+      <div class="sol-hdr">✔ Correct Answer: (D)</div>
+      <div>Logical deduction.</div>
+    </div>
+  </div>
+
+  <div class="q-card">
+    <div class="q-header"><span class="q-num">QUESTION 30</span><span class="q-src">[OnlineStudy4U] Seating Arrangement</span></div>
+    <div class="q-text">Six
+people - S, T, U, V, W and Z are sitting around a circular table
+facing towards centre. Only one person is sitting between T and W.
+Z is an immediate neighbour of W. S is sitting third to left of Z.
+U is an immediate neighbour of W. V is not sitting immediate left
+of T. How many people are sitting between U and Z, when counted
+from the right of Z?</div>
+    <div class="opts">
+      <div class="opt"><span class="opt-letter">(A)</span><span>1</span></div>
+      <div class="opt"><span class="opt-letter">(B)</span><span>2</span></div>
+      <div class="opt correct"><span class="opt-letter">(C)</span><span>3</span></div>
+      <div class="opt"><span class="opt-letter">(D)</span><span>4</span></div>
+    </div>
+
+    <div class="sol">
+      <div class="sol-hdr">✔ Correct Answer: (C)</div>
+      <div>T,V
+and S are sitting between U and Z when counted from the right of
+Z.</div>
+    </div>
+  </div>
+
+  <div class="q-card">
+    <div class="q-header"><span class="q-num">QUESTION 31</span><span class="q-src">[OnlineStudy4U] INFOSYS TEST SERIES-1</span></div>
+    <div class="q-text">In
+a row of 40 students, A is 12th from the left and B is 18th from
+the right. How many students are between A and B?</div>
+    <div class="opts">
+      <div class="opt"><span class="opt-letter">(A)</span><span>8</span></div>
+      <div class="opt"><span class="opt-letter">(B)</span><span>9</span></div>
+      <div class="opt correct"><span class="opt-letter">(C)</span><span>10</span></div>
+      <div class="opt"><span class="opt-letter">(D)</span><span>11</span></div>
+    </div>
+
+    <div class="sol">
+      <div class="sol-hdr">✔ Correct Answer: (C)</div>
+      <div>A
+= 12th from left. B = 23rd from left (40–18+1).
+Between
+= 23–12–1 = 10.</div>
+    </div>
+  </div>
+
+  <div class="q-card">
+    <div class="q-header"><span class="q-num">QUESTION 32</span><span class="q-src">[OnlineStudy4U] INFOSYS TEST SERIES-2</span></div>
+    <div class="q-text">In
+a row of boys, A is 10th from the left and B is 20th from the
+right. If there are 35 boys in the row, what is A’s position
+from the right?</div>
+    <div class="opts">
+      <div class="opt"><span class="opt-letter">(A)</span><span>25</span></div>
+      <div class="opt correct"><span class="opt-letter">(B)</span><span>26</span></div>
+      <div class="opt"><span class="opt-letter">(C)</span><span>27</span></div>
+      <div class="opt"><span class="opt-letter">(D)</span><span>28</span></div>
+    </div>
+
+    <div class="sol">
+      <div class="sol-hdr">✔ Correct Answer: (B)</div>
+      <div>Total
+= 35. A’s position from right = 35 – 10 + 1 = 26.</div>
+    </div>
+  </div>
+
+  <div class="q-card">
+    <div class="q-header"><span class="q-num">QUESTION 33</span><span class="q-src">[OnlineStudy4U] Infosys Full Length Mock Test- 4</span></div>
+    <div class="q-text">Six people sit around a circular table
+facing the centre. K sits second to the left of L. M sits opposite
+K. N sits between M and O. P sits to the immediate right of L. Who
+sits opposite P?</div>
+    <div class="opts">
+      <div class="opt"><span class="opt-letter">(A)</span><span>K</span></div>
+      <div class="opt correct"><span class="opt-letter">(B)</span><span>N</span></div>
+      <div class="opt"><span class="opt-letter">(C)</span><span>M</span></div>
+      <div class="opt"><span class="opt-letter">(D)</span><span>O</span></div>
+    </div>
+
+    <div class="sol">
+      <div class="sol-hdr">✔ Correct Answer: (B)</div>
+      <div>Place L, then P immediate right of L. K is
+second left of L. M opposite K. Remaining arc fits N between M and
+O. Opposite P is N.</div>
+    </div>
+  </div>
+
+  <div class="q-card">
+    <div class="q-header"><span class="q-num">QUESTION 34</span><span class="q-src">[OnlineStudy4U] Infosys Full Length Mock Test- 9</span></div>
+    <div class="q-text">How
+many people are in the row? Statement 1: Meera is 11th from the
+left and 14th from the right. Statement 2: Two people left the
+row.</div>
+    <div class="opts">
+      <div class="opt correct"><span class="opt-letter">(A)</span><span>Statement 1 alone is sufficient, but Statement 2 alone is not</span></div>
+      <div class="opt"><span class="opt-letter">(B)</span><span>Statement
+2 alone is sufficient, but Statement 1 alone is not</span></div>
+      <div class="opt"><span class="opt-letter">(C)</span><span>Either
+alone is sufficient</span></div>
+      <div class="opt"><span class="opt-letter">(D)</span><span>Both
+together are needed</span></div>
+    </div>
+
+    <div class="sol">
+      <div class="sol-hdr">✔ Correct Answer: (A)</div>
+      <div>Total
+= 11 + 14 − 1 = 24 from S1. S2 does not give the size.</div>
+    </div>
+  </div>
+</body></html>

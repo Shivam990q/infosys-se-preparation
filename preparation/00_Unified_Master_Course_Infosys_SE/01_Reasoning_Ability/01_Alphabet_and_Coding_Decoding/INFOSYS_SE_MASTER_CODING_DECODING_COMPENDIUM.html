@@ -1,178 +1,47 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-<meta charset="UTF-8">
-<title>Infosys SE Master Question Compendium - Coding & Decoding</title>
+<meta charset="utf-8">
+<title>CODING & DECODING (Alphabet, Letter & Number Coding)</title>
 <style>
-  @page {
-    size: A4;
-    margin: 18mm 15mm 18mm 15mm;
-  }
-  body {
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-    line-height: 1.5;
-    color: #1e293b;
-    background: #ffffff;
-    margin: 0;
-    padding: 0;
-  }
-  .cover {
-    background: linear-gradient(135deg, #0f172a 0%, #1e3a8a 50%, #0369a1 100%);
-    color: #ffffff;
-    padding: 40px 30px;
-    border-radius: 12px;
-    margin-bottom: 30px;
-    box-shadow: 0 4px 15px rgba(0,0,0,0.1);
-  }
-  .cover h1 {
-    font-size: 28px;
-    font-weight: 800;
-    margin: 0 0 10px 0;
-    letter-spacing: -0.5px;
-    color: #38bdf8;
-  }
-  .cover h2 {
-    font-size: 18px;
-    font-weight: 600;
-    margin: 0 0 15px 0;
-    color: #f1f5f9;
-  }
-  .cover .meta-bar {
-    display: flex;
-    gap: 15px;
-    font-size: 13px;
-    font-weight: 600;
-    color: #94a3b8;
-    flex-wrap: wrap;
-    border-top: 1px solid rgba(255,255,255,0.15);
-    padding-top: 12px;
-  }
-  .cover .badge {
-    background: rgba(255,255,255,0.15);
-    padding: 4px 10px;
-    border-radius: 6px;
-    color: #ffffff;
-  }
-  .q-card {
-    background: #ffffff;
-    border: 1px solid #e2e8f0;
-    border-radius: 8px;
-    padding: 18px 20px;
-    margin-bottom: 20px;
-    page-break-inside: avoid;
-    box-shadow: 0 1px 3px rgba(0,0,0,0.02);
-  }
-  .q-header {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    border-bottom: 1.5px solid #f1f5f9;
-    padding-bottom: 8px;
-    margin-bottom: 12px;
-  }
-  .q-number {
-    font-weight: 800;
-    font-size: 15px;
-    color: #0369a1;
-  }
-  .q-source {
-    font-size: 11px;
-    font-weight: 700;
-    background: #f0f9ff;
-    color: #0284c7;
-    border: 1px solid #bae6fd;
-    padding: 2px 8px;
-    border-radius: 4px;
-  }
-  .q-text {
-    font-size: 14px;
-    color: #0f172a;
-    font-weight: 500;
-    margin-bottom: 14px;
-    white-space: pre-wrap;
-  }
-  .options-grid {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: 8px 12px;
-    margin-bottom: 14px;
-  }
-  @media print {
-    .options-grid {
-      grid-template-columns: 1fr 1fr;
-    }
-  }
-  .opt-item {
-    background: #f8fafc;
-    border: 1px solid #cbd5e1;
-    border-radius: 6px;
-    padding: 8px 12px;
-    font-size: 13px;
-    display: flex;
-    align-items: baseline;
-  }
-  .opt-item.is-correct {
-    background: #f0fdf4;
-    border-color: #22c55e;
-    font-weight: 600;
-    color: #15803d;
-  }
-  .opt-letter {
-    font-weight: 800;
-    color: #0284c7;
-    margin-right: 8px;
-    min-width: 20px;
-  }
-  .opt-item.is-correct .opt-letter {
-    color: #16a34a;
-  }
-  .solution-box {
-    background: #f8fafc;
-    border-left: 4px solid #10b981;
-    border-radius: 0 6px 6px 0;
-    padding: 10px 14px;
-    font-size: 12.5px;
-  }
-  .solution-header {
-    font-weight: 800;
-    color: #059669;
-    margin-bottom: 4px;
-    font-size: 12.5px;
-  }
-  .solution-text {
-    color: #334155;
-    white-space: pre-wrap;
-  }
+  @page { size: A4; margin: 16mm 14mm 16mm 14mm; }
+  body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; line-height: 1.5; color: #1e293b; }
+  .cover { background: linear-gradient(135deg, #0f172a 0%, #1e3a8a 50%, #0369a1 100%); color: #ffffff; padding: 35px 25px; border-radius: 10px; margin-bottom: 25px; }
+  .cover h1 { font-size: 24px; margin: 0 0 8px; color: #38bdf8; }
+  .cover h2 { font-size: 16px; margin: 0 0 12px; color: #f1f5f9; }
+  .q-card { background: #fff; border: 1px solid #e2e8f0; border-radius: 8px; padding: 16px 18px; margin-bottom: 18px; page-break-inside: avoid; }
+  .q-header { display: flex; justify-content: space-between; border-bottom: 1px solid #f1f5f9; padding-bottom: 6px; margin-bottom: 10px; }
+  .q-num { font-weight: 800; font-size: 14px; color: #0284c7; }
+  .q-src { font-size: 11px; background: #f0f9ff; color: #0284c7; padding: 2px 8px; border-radius: 4px; }
+  .q-text { font-size: 13.5px; margin-bottom: 12px; white-space: pre-wrap; }
+  .opts { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; margin-bottom: 12px; }
+  .opt { background: #f8fafc; border: 1px solid #cbd5e1; border-radius: 5px; padding: 6px 10px; font-size: 12.5px; display: flex; }
+  .opt.correct { background: #f0fdf4; border-color: #22c55e; color: #15803d; font-weight: bold; }
+  .opt-letter { font-weight: bold; margin-right: 6px; color: #0284c7; }
+  .sol { background: #f8fafc; border-left: 4px solid #10b981; padding: 8px 12px; font-size: 12px; border-radius: 0 5px 5px 0; }
+  .sol-hdr { font-weight: bold; color: #059669; margin-bottom: 4px; }
 </style>
 </head>
 <body>
   <div class="cover">
     <h1>INFOSYS SE MASTER COMPENDIUM</h1>
-    <h2>TOPIC: CODING & DECODING (All Question Varieties & Solved Banks)</h2>
-    <div class="meta-bar">
-      <span class="badge">Total Harvested Questions: 79</span>
-      <span class="badge">Sources: CampusMonk + OnlineStudy4U + Live Mocks</span>
-      <span class="badge">100% Solved with Step-by-Step Logic</span>
-      <span class="badge">Infosys SE Exam Standard 2026</span>
-    </div>
+    <h2>TOPIC: CODING & DECODING (Alphabet, Letter & Number Coding)</h2>
+    <div style="font-size:12px;color:#cbd5e1;">Total Questions: 51 | All Question Variations & Solved Solutions</div>
   </div>
 
   <div class="q-card">
-    <div class="q-header">
-      <span class="q-number">QUESTION 1</span>
-      <span class="q-source">[CampusMonk] Coding decoding</span>
-    </div>
+    <div class="q-header"><span class="q-num">QUESTION 1</span><span class="q-src">[CampusMonk] Coding decoding</span></div>
     <div class="q-text">If in a code language “ORGANISATION” is written as “CBDWLQJWYQCL” and “OPERATION” is written as “CXFBWYQCL”. How is “SEPARATION” coded?</div>
-    <div class="options-grid">
-      <div class="opt-item"><span class="opt-letter">(A)</span><span>EJXEBEYQCL</span></div>
-      <div class="opt-item"><span class="opt-letter">(B)</span><span>JFQYWBCXQL</span></div>
-      <div class="opt-item"><span class="opt-letter">(C)</span><span>QCLYWBFXJE</span></div>
-      <div class="opt-item is-correct"><span class="opt-letter">(D)</span><span>JFXWBWYQCL</span></div>
+    <div class="opts">
+      <div class="opt"><span class="opt-letter">(A)</span><span>EJXEBEYQCL</span></div>
+      <div class="opt"><span class="opt-letter">(B)</span><span>JFQYWBCXQL</span></div>
+      <div class="opt"><span class="opt-letter">(C)</span><span>QCLYWBFXJE</span></div>
+      <div class="opt correct"><span class="opt-letter">(D)</span><span>JFXWBWYQCL</span></div>
     </div>
 
-    <div class="solution-box">
-      <div class="solution-header">✔ Correct Answer: (D)</div>
-      <div class="solution-text">This is torrect Option: C
+    <div class="sol">
+      <div class="sol-hdr">✔ Correct Answer: (D)</div>
+      <div>This is torrect Option: C
 O
 R
 G
@@ -241,21 +110,18 @@ he solution</div>
   </div>
 
   <div class="q-card">
-    <div class="q-header">
-      <span class="q-number">QUESTION 2</span>
-      <span class="q-source">[CampusMonk] Coding decoding</span>
-    </div>
+    <div class="q-header"><span class="q-num">QUESTION 2</span><span class="q-src">[CampusMonk] Coding decoding</span></div>
     <div class="q-text">In a coding system PEN is written as NZO and BARK as CTSL. How can we write PRANK in that coding system?</div>
-    <div class="options-grid">
-      <div class="opt-item"><span class="opt-letter">(A)</span><span>NZTOL</span></div>
-      <div class="opt-item"><span class="opt-letter">(B)</span><span>CSTZN</span></div>
-      <div class="opt-item is-correct"><span class="opt-letter">(C)</span><span>NSTOL</span></div>
-      <div class="opt-item"><span class="opt-letter">(D)</span><span>NTSLO</span></div>
+    <div class="opts">
+      <div class="opt"><span class="opt-letter">(A)</span><span>NZTOL</span></div>
+      <div class="opt"><span class="opt-letter">(B)</span><span>CSTZN</span></div>
+      <div class="opt correct"><span class="opt-letter">(C)</span><span>NSTOL</span></div>
+      <div class="opt"><span class="opt-letter">(D)</span><span>NTSLO</span></div>
     </div>
 
-    <div class="solution-box">
-      <div class="solution-header">✔ Correct Answer: (C)</div>
-      <div class="solution-text">P
+    <div class="sol">
+      <div class="sol-hdr">✔ Correct Answer: (C)</div>
+      <div>P
 E
 N
 N
@@ -284,21 +150,18 @@ L</div>
   </div>
 
   <div class="q-card">
-    <div class="q-header">
-      <span class="q-number">QUESTION 3</span>
-      <span class="q-source">[CampusMonk] Coding decoding</span>
-    </div>
+    <div class="q-header"><span class="q-num">QUESTION 3</span><span class="q-src">[CampusMonk] Coding decoding</span></div>
     <div class="q-text">In a certain language, BUTTER is coded as CVUUFS, BREAD is coded as CSFBE, the how COFFEE is coded?</div>
-    <div class="options-grid">
-      <div class="opt-item is-correct"><span class="opt-letter">(A)</span><span>DPGGFF</span></div>
-      <div class="opt-item"><span class="opt-letter">(B)</span><span>GGDPFF</span></div>
-      <div class="opt-item"><span class="opt-letter">(C)</span><span>GDPGFF</span></div>
-      <div class="opt-item"><span class="opt-letter">(D)</span><span>FFDPGG</span></div>
+    <div class="opts">
+      <div class="opt correct"><span class="opt-letter">(A)</span><span>DPGGFF</span></div>
+      <div class="opt"><span class="opt-letter">(B)</span><span>GGDPFF</span></div>
+      <div class="opt"><span class="opt-letter">(C)</span><span>GDPGFF</span></div>
+      <div class="opt"><span class="opt-letter">(D)</span><span>FFDPGG</span></div>
     </div>
 
-    <div class="solution-box">
-      <div class="solution-header">✔ Correct Answer: (A)</div>
-      <div class="solution-text">Correct Option: A
+    <div class="sol">
+      <div class="sol-hdr">✔ Correct Answer: (A)</div>
+      <div>Correct Option: A
 B
 U
 T
@@ -377,21 +240,18 @@ E
   </div>
 
   <div class="q-card">
-    <div class="q-header">
-      <span class="q-number">QUESTION 4</span>
-      <span class="q-source">[CampusMonk] Coding decoding</span>
-    </div>
+    <div class="q-header"><span class="q-num">QUESTION 4</span><span class="q-src">[CampusMonk] Coding decoding</span></div>
     <div class="q-text">If in a code language PARENT is written as BDFGJK and CHILDREN is written as MOXQUFGJ, how is REPRINT written in that code?</div>
-    <div class="options-grid">
-      <div class="opt-item"><span class="opt-letter">(A)</span><span>FGBFXGD</span></div>
-      <div class="opt-item"><span class="opt-letter">(B)</span><span>BGBFXJK</span></div>
-      <div class="opt-item"><span class="opt-letter">(C)</span><span>FGBUXJK</span></div>
-      <div class="opt-item is-correct"><span class="opt-letter">(D)</span><span>FGBFXJK</span></div>
+    <div class="opts">
+      <div class="opt"><span class="opt-letter">(A)</span><span>FGBFXGD</span></div>
+      <div class="opt"><span class="opt-letter">(B)</span><span>BGBFXJK</span></div>
+      <div class="opt"><span class="opt-letter">(C)</span><span>FGBUXJK</span></div>
+      <div class="opt correct"><span class="opt-letter">(D)</span><span>FGBFXJK</span></div>
     </div>
 
-    <div class="solution-box">
-      <div class="solution-header">✔ Correct Answer: (D)</div>
-      <div class="solution-text">Correct Option: D
+    <div class="sol">
+      <div class="sol-hdr">✔ Correct Answer: (D)</div>
+      <div>Correct Option: D
 P
 A
 R
@@ -439,21 +299,18 @@ K</div>
   </div>
 
   <div class="q-card">
-    <div class="q-header">
-      <span class="q-number">QUESTION 5</span>
-      <span class="q-source">[CampusMonk] Coding decoding</span>
-    </div>
+    <div class="q-header"><span class="q-num">QUESTION 5</span><span class="q-src">[CampusMonk] Coding decoding</span></div>
     <div class="q-text">The word ‘UNITED’ is coded as ‘SLGRCB’. How should the word ‘DISOWN’ be coded?</div>
-    <div class="options-grid">
-      <div class="opt-item is-correct"><span class="opt-letter">(A)</span><span>BGQMUL</span></div>
-      <div class="opt-item"><span class="opt-letter">(B)</span><span>CGRLTK</span></div>
-      <div class="opt-item"><span class="opt-letter">(C)</span><span>CGRTLK</span></div>
-      <div class="opt-item"><span class="opt-letter">(D)</span><span>BGQLUM</span></div>
+    <div class="opts">
+      <div class="opt correct"><span class="opt-letter">(A)</span><span>BGQMUL</span></div>
+      <div class="opt"><span class="opt-letter">(B)</span><span>CGRLTK</span></div>
+      <div class="opt"><span class="opt-letter">(C)</span><span>CGRTLK</span></div>
+      <div class="opt"><span class="opt-letter">(D)</span><span>BGQLUM</span></div>
     </div>
 
-    <div class="solution-box">
-      <div class="solution-header">✔ Correct Answer: (A)</div>
-      <div class="solution-text">Correct Option: A
+    <div class="sol">
+      <div class="sol-hdr">✔ Correct Answer: (A)</div>
+      <div>Correct Option: A
 U
 N
 I
@@ -519,21 +376,18 @@ L</div>
   </div>
 
   <div class="q-card">
-    <div class="q-header">
-      <span class="q-number">QUESTION 6</span>
-      <span class="q-source">[CampusMonk] Coding decoding</span>
-    </div>
+    <div class="q-header"><span class="q-num">QUESTION 6</span><span class="q-src">[CampusMonk] Coding decoding</span></div>
     <div class="q-text">In a certain code SISTER is written as RHRSDQ. How is UNCLE written in that code?</div>
-    <div class="options-grid">
-      <div class="opt-item is-correct"><span class="opt-letter">(A)</span><span>TMBKD</span></div>
-      <div class="opt-item"><span class="opt-letter">(B)</span><span>TBMKD</span></div>
-      <div class="opt-item"><span class="opt-letter">(C)</span><span>TVBOD</span></div>
-      <div class="opt-item"><span class="opt-letter">(D)</span><span>TMKBD</span></div>
+    <div class="opts">
+      <div class="opt correct"><span class="opt-letter">(A)</span><span>TMBKD</span></div>
+      <div class="opt"><span class="opt-letter">(B)</span><span>TBMKD</span></div>
+      <div class="opt"><span class="opt-letter">(C)</span><span>TVBOD</span></div>
+      <div class="opt"><span class="opt-letter">(D)</span><span>TMKBD</span></div>
     </div>
 
-    <div class="solution-box">
-      <div class="solution-header">✔ Correct Answer: (A)</div>
-      <div class="solution-text">Correct Option: A
+    <div class="sol">
+      <div class="sol-hdr">✔ Correct Answer: (A)</div>
+      <div>Correct Option: A
 S
 I
 S
@@ -594,21 +448,18 @@ D</div>
   </div>
 
   <div class="q-card">
-    <div class="q-header">
-      <span class="q-number">QUESTION 7</span>
-      <span class="q-source">[CampusMonk] Coding decoding</span>
-    </div>
+    <div class="q-header"><span class="q-num">QUESTION 7</span><span class="q-src">[CampusMonk] Coding decoding</span></div>
     <div class="q-text">If in a certain code, RAMAYANA is written as PYKYWYLY, then how MAHABHARATA can be written in that code?</div>
-    <div class="options-grid">
-      <div class="opt-item"><span class="opt-letter">(A)</span><span>NBIBCIBSBUB</span></div>
-      <div class="opt-item"><span class="opt-letter">(B)</span><span>LZGZAGZQZSZ</span></div>
-      <div class="opt-item"><span class="opt-letter">(C)</span><span>MCJCDJCTCVC</span></div>
-      <div class="opt-item is-correct"><span class="opt-letter">(D)</span><span>KYFYZFYPYRY</span></div>
+    <div class="opts">
+      <div class="opt"><span class="opt-letter">(A)</span><span>NBIBCIBSBUB</span></div>
+      <div class="opt"><span class="opt-letter">(B)</span><span>LZGZAGZQZSZ</span></div>
+      <div class="opt"><span class="opt-letter">(C)</span><span>MCJCDJCTCVC</span></div>
+      <div class="opt correct"><span class="opt-letter">(D)</span><span>KYFYZFYPYRY</span></div>
     </div>
 
-    <div class="solution-box">
-      <div class="solution-header">✔ Correct Answer: (D)</div>
-      <div class="solution-text">Correct Option: D
+    <div class="sol">
+      <div class="sol-hdr">✔ Correct Answer: (D)</div>
+      <div>Correct Option: D
 R
 A
 M
@@ -709,21 +560,18 @@ Y</div>
   </div>
 
   <div class="q-card">
-    <div class="q-header">
-      <span class="q-number">QUESTION 8</span>
-      <span class="q-source">[CampusMonk] Coding decoding</span>
-    </div>
+    <div class="q-header"><span class="q-num">QUESTION 8</span><span class="q-src">[CampusMonk] Coding decoding</span></div>
     <div class="q-text">If in a certain language, PLAYER is coded as QNDCJX, then how SINGER will be coded in the same language?</div>
-    <div class="options-grid">
-      <div class="opt-item is-correct"><span class="opt-letter">(A)</span><span>TKQKJX</span></div>
-      <div class="opt-item"><span class="opt-letter">(B)</span><span>TKJKQX</span></div>
-      <div class="opt-item"><span class="opt-letter">(C)</span><span>TKQKXJ</span></div>
-      <div class="opt-item"><span class="opt-letter">(D)</span><span>TKQXJK</span></div>
+    <div class="opts">
+      <div class="opt correct"><span class="opt-letter">(A)</span><span>TKQKJX</span></div>
+      <div class="opt"><span class="opt-letter">(B)</span><span>TKJKQX</span></div>
+      <div class="opt"><span class="opt-letter">(C)</span><span>TKQKXJ</span></div>
+      <div class="opt"><span class="opt-letter">(D)</span><span>TKQXJK</span></div>
     </div>
 
-    <div class="solution-box">
-      <div class="solution-header">✔ Correct Answer: (A)</div>
-      <div class="solution-text">Correct Option: A
+    <div class="sol">
+      <div class="sol-hdr">✔ Correct Answer: (A)</div>
+      <div>Correct Option: A
 P
 L
 A
@@ -789,21 +637,18 @@ X</div>
   </div>
 
   <div class="q-card">
-    <div class="q-header">
-      <span class="q-number">QUESTION 9</span>
-      <span class="q-source">[CampusMonk] Coding decoding</span>
-    </div>
+    <div class="q-header"><span class="q-num">QUESTION 9</span><span class="q-src">[CampusMonk] Coding decoding</span></div>
     <div class="q-text">If PEAR is written a GFDN, how is REAP written in this code?</div>
-    <div class="options-grid">
-      <div class="opt-item"><span class="opt-letter">(A)</span><span>FDNG</span></div>
-      <div class="opt-item is-correct"><span class="opt-letter">(B)</span><span>NFDG</span></div>
-      <div class="opt-item"><span class="opt-letter">(C)</span><span>DNGF</span></div>
-      <div class="opt-item"><span class="opt-letter">(D)</span><span>NDFG</span></div>
+    <div class="opts">
+      <div class="opt"><span class="opt-letter">(A)</span><span>FDNG</span></div>
+      <div class="opt correct"><span class="opt-letter">(B)</span><span>NFDG</span></div>
+      <div class="opt"><span class="opt-letter">(C)</span><span>DNGF</span></div>
+      <div class="opt"><span class="opt-letter">(D)</span><span>NDFG</span></div>
     </div>
 
-    <div class="solution-box">
-      <div class="solution-header">✔ Correct Answer: (B)</div>
-      <div class="solution-text">Option: B
+    <div class="sol">
+      <div class="sol-hdr">✔ Correct Answer: (B)</div>
+      <div>Option: B
 P
 E
 A
@@ -827,21 +672,18 @@ G</div>
   </div>
 
   <div class="q-card">
-    <div class="q-header">
-      <span class="q-number">QUESTION 10</span>
-      <span class="q-source">[CampusMonk] Coding decoding</span>
-    </div>
+    <div class="q-header"><span class="q-num">QUESTION 10</span><span class="q-src">[CampusMonk] Coding decoding</span></div>
     <div class="q-text">If REEXAMINATION is written as EXAMINATIONER, How can REFORMER be written in that code?</div>
-    <div class="options-grid">
-      <div class="opt-item"><span class="opt-letter">(A)</span><span>REFORMRE</span></div>
-      <div class="opt-item"><span class="opt-letter">(B)</span><span>REFROMER</span></div>
-      <div class="opt-item"><span class="opt-letter">(C)</span><span>FORREMER</span></div>
-      <div class="opt-item is-correct"><span class="opt-letter">(D)</span><span>FORMERER</span></div>
+    <div class="opts">
+      <div class="opt"><span class="opt-letter">(A)</span><span>REFORMRE</span></div>
+      <div class="opt"><span class="opt-letter">(B)</span><span>REFROMER</span></div>
+      <div class="opt"><span class="opt-letter">(C)</span><span>FORREMER</span></div>
+      <div class="opt correct"><span class="opt-letter">(D)</span><span>FORMERER</span></div>
     </div>
 
-    <div class="solution-box">
-      <div class="solution-header">✔ Correct Answer: (D)</div>
-      <div class="solution-text">D
+    <div class="sol">
+      <div class="sol-hdr">✔ Correct Answer: (D)</div>
+      <div>D
 RE – EXAMINATION
 EXAMINATION – ER
 Similarly;
@@ -851,26 +693,23 @@ FORMER – ER</div>
   </div>
 
   <div class="q-card">
-    <div class="q-header">
-      <span class="q-number">QUESTION 11</span>
-      <span class="q-source">[CampusMonk] Coding decoding</span>
-    </div>
+    <div class="q-header"><span class="q-num">QUESTION 11</span><span class="q-src">[CampusMonk] Coding decoding</span></div>
     <div class="q-text">Directions : Read the following information carefully and answer the questions given beside.
 “action packed night concert” is coded as “jio nul meb fot”
 “star night out media” is coded as “ops hfa meb gul”
 “media action report drama” is coded as “nul vis hfa dum”
 “star strike media concert” is coded as “hfa gul fot sam”
 Find the code for the word “strike out”?</div>
-    <div class="options-grid">
-      <div class="opt-item"><span class="opt-letter">(A)</span><span>ops jio</span></div>
-      <div class="opt-item is-correct"><span class="opt-letter">(B)</span><span>ops sam</span></div>
-      <div class="opt-item"><span class="opt-letter">(C)</span><span>gul fot</span></div>
-      <div class="opt-item"><span class="opt-letter">(D)</span><span>gul sam</span></div>
+    <div class="opts">
+      <div class="opt"><span class="opt-letter">(A)</span><span>ops jio</span></div>
+      <div class="opt correct"><span class="opt-letter">(B)</span><span>ops sam</span></div>
+      <div class="opt"><span class="opt-letter">(C)</span><span>gul fot</span></div>
+      <div class="opt"><span class="opt-letter">(D)</span><span>gul sam</span></div>
     </div>
 
-    <div class="solution-box">
-      <div class="solution-header">✔ Correct Answer: (B)</div>
-      <div class="solution-text">Correct Option: B
+    <div class="sol">
+      <div class="sol-hdr">✔ Correct Answer: (B)</div>
+      <div>Correct Option: B
 Strike out is coded as sam ops.
 Hence option B is correct.
 Common Explanation:
@@ -900,168 +739,144 @@ drama report – vis dum (not necessarily in same order) ----- (13)</div>
   </div>
 
   <div class="q-card">
-    <div class="q-header">
-      <span class="q-number">QUESTION 12</span>
-      <span class="q-source">[CampusMonk] Coding decoding</span>
-    </div>
+    <div class="q-header"><span class="q-num">QUESTION 12</span><span class="q-src">[CampusMonk] Coding decoding</span></div>
     <div class="q-text">In a certain code, MONKEY is written as XDJMNL. How is TIGER written in that code ?</div>
-    <div class="options-grid">
-      <div class="opt-item is-correct"><span class="opt-letter">(A)</span><span>QDFHS</span></div>
-      <div class="opt-item"><span class="opt-letter">(B)</span><span>SDFHS</span></div>
-      <div class="opt-item"><span class="opt-letter">(C)</span><span>SHFDQ</span></div>
-      <div class="opt-item"><span class="opt-letter">(D)</span><span>UJHFS</span></div>
+    <div class="opts">
+      <div class="opt correct"><span class="opt-letter">(A)</span><span>QDFHS</span></div>
+      <div class="opt"><span class="opt-letter">(B)</span><span>SDFHS</span></div>
+      <div class="opt"><span class="opt-letter">(C)</span><span>SHFDQ</span></div>
+      <div class="opt"><span class="opt-letter">(D)</span><span>UJHFS</span></div>
     </div>
 
-    <div class="solution-box">
-      <div class="solution-header">✔ Correct Answer: (A)</div>
-      <div class="solution-text">Diagonal minus 1</div>
+    <div class="sol">
+      <div class="sol-hdr">✔ Correct Answer: (A)</div>
+      <div>Diagonal minus 1</div>
     </div>
   </div>
 
   <div class="q-card">
-    <div class="q-header">
-      <span class="q-number">QUESTION 13</span>
-      <span class="q-source">[CampusMonk] Coding decoding</span>
-    </div>
+    <div class="q-header"><span class="q-num">QUESTION 13</span><span class="q-src">[CampusMonk] Coding decoding</span></div>
     <div class="q-text">Study the following information to answer the given questions. In a certain code language,
 ‘abroad return happy start’ is written as ‘mt gu hb st’
 ‘return justice dispute peace’ is written as ‘tk hb da pu’
 ‘dispute abroad decide verdict’ is written as ‘nh pt tk gu’‘peace special happy dispute’ is written as ‘da st rx tk’
 Q1. In the given code language, what does the code ‘pt’ stand for?</div>
-    <div class="options-grid">
-      <div class="opt-item"><span class="opt-letter">(A)</span><span>Either ‘abroad’ or ‘happy’</span></div>
-      <div class="opt-item"><span class="opt-letter">(B)</span><span>start</span></div>
-      <div class="opt-item"><span class="opt-letter">(C)</span><span>dispute</span></div>
-      <div class="opt-item is-correct"><span class="opt-letter">(D)</span><span>Either ‘verdict’ or ‘decide’</span></div>
-      <div class="opt-item"><span class="opt-letter">(E)</span><span>special</span></div>
+    <div class="opts">
+      <div class="opt"><span class="opt-letter">(A)</span><span>Either ‘abroad’ or ‘happy’</span></div>
+      <div class="opt"><span class="opt-letter">(B)</span><span>start</span></div>
+      <div class="opt"><span class="opt-letter">(C)</span><span>dispute</span></div>
+      <div class="opt correct"><span class="opt-letter">(D)</span><span>Either ‘verdict’ or ‘decide’</span></div>
+      <div class="opt"><span class="opt-letter">(E)</span><span>special</span></div>
     </div>
 
-    <div class="solution-box">
-      <div class="solution-header">✔ Correct Answer: (D)</div>
-      <div class="solution-text">Direct deduction from code substitution rule.</div>
+    <div class="sol">
+      <div class="sol-hdr">✔ Correct Answer: (D)</div>
+      <div>Logical deduction.</div>
     </div>
   </div>
 
   <div class="q-card">
-    <div class="q-header">
-      <span class="q-number">QUESTION 14</span>
-      <span class="q-source">[CampusMonk] Coding decoding</span>
-    </div>
+    <div class="q-header"><span class="q-num">QUESTION 14</span><span class="q-src">[CampusMonk] Coding decoding</span></div>
     <div class="q-text">Directions (1-5): Study the following information to answer the given questions. In a certain code language,‘abroad return happy start’ is written as ‘mt gu hb st’‘return justice dispute peace’ is written as ‘tk hb da pu’‘dispute abroad decide verdict’ is written as ‘nh pt tk gu’‘peace special happy dispute’ is written as ‘da st rx tk’
 What is the code for ‘return’ in the given code language?</div>
-    <div class="options-grid">
-      <div class="opt-item"><span class="opt-letter">(A)</span><span>nh</span></div>
-      <div class="opt-item is-correct"><span class="opt-letter">(B)</span><span>hb</span></div>
-      <div class="opt-item"><span class="opt-letter">(C)</span><span>gu</span></div>
-      <div class="opt-item"><span class="opt-letter">(D)</span><span>pu</span></div>
-      <div class="opt-item"><span class="opt-letter">(E)</span><span>rx</span></div>
+    <div class="opts">
+      <div class="opt"><span class="opt-letter">(A)</span><span>nh</span></div>
+      <div class="opt correct"><span class="opt-letter">(B)</span><span>hb</span></div>
+      <div class="opt"><span class="opt-letter">(C)</span><span>gu</span></div>
+      <div class="opt"><span class="opt-letter">(D)</span><span>pu</span></div>
+      <div class="opt"><span class="opt-letter">(E)</span><span>rx</span></div>
     </div>
 
-    <div class="solution-box">
-      <div class="solution-header">✔ Correct Answer: (B)</div>
-      <div class="solution-text">option B</div>
+    <div class="sol">
+      <div class="sol-hdr">✔ Correct Answer: (B)</div>
+      <div>option B</div>
     </div>
   </div>
 
   <div class="q-card">
-    <div class="q-header">
-      <span class="q-number">QUESTION 15</span>
-      <span class="q-source">[CampusMonk] Coding decoding</span>
-    </div>
+    <div class="q-header"><span class="q-num">QUESTION 15</span><span class="q-src">[CampusMonk] Coding decoding</span></div>
     <div class="q-text">What may be the possible code for ‘peace justice’ in the given code language?</div>
-    <div class="options-grid">
-      <div class="opt-item"><span class="opt-letter">(A)</span><span>ve bd</span></div>
-      <div class="opt-item"><span class="opt-letter">(B)</span><span>da nh</span></div>
-      <div class="opt-item"><span class="opt-letter">(C)</span><span>nh ve</span></div>
-      <div class="opt-item is-correct"><span class="opt-letter">(D)</span><span>pu da</span></div>
-      <div class="opt-item"><span class="opt-letter">(E)</span><span>mt da</span></div>
+    <div class="opts">
+      <div class="opt"><span class="opt-letter">(A)</span><span>ve bd</span></div>
+      <div class="opt"><span class="opt-letter">(B)</span><span>da nh</span></div>
+      <div class="opt"><span class="opt-letter">(C)</span><span>nh ve</span></div>
+      <div class="opt correct"><span class="opt-letter">(D)</span><span>pu da</span></div>
+      <div class="opt"><span class="opt-letter">(E)</span><span>mt da</span></div>
     </div>
 
-    <div class="solution-box">
-      <div class="solution-header">✔ Correct Answer: (D)</div>
-      <div class="solution-text">option D</div>
+    <div class="sol">
+      <div class="sol-hdr">✔ Correct Answer: (D)</div>
+      <div>option D</div>
     </div>
   </div>
 
   <div class="q-card">
-    <div class="q-header">
-      <span class="q-number">QUESTION 16</span>
-      <span class="q-source">[CampusMonk] Coding decoding</span>
-    </div>
+    <div class="q-header"><span class="q-num">QUESTION 16</span><span class="q-src">[CampusMonk] Coding decoding</span></div>
     <div class="q-text">. If the word LEADER is coded as 20-13-9-12-13-26, how would you write LIGHT?</div>
-    <div class="options-grid">
-      <div class="opt-item"><span class="opt-letter">(A)</span><span>20-16-15-17-22</span></div>
-      <div class="opt-item"><span class="opt-letter">(B)</span><span>20-16-17-15-27</span></div>
-      <div class="opt-item"><span class="opt-letter">(C)</span><span>20-17-16-18-23</span></div>
-      <div class="opt-item is-correct"><span class="opt-letter">(D)</span><span>20-17-15-16-28</span></div>
+    <div class="opts">
+      <div class="opt"><span class="opt-letter">(A)</span><span>20-16-15-17-22</span></div>
+      <div class="opt"><span class="opt-letter">(B)</span><span>20-16-17-15-27</span></div>
+      <div class="opt"><span class="opt-letter">(C)</span><span>20-17-16-18-23</span></div>
+      <div class="opt correct"><span class="opt-letter">(D)</span><span>20-17-15-16-28</span></div>
     </div>
 
-    <div class="solution-box">
-      <div class="solution-header">✔ Correct Answer: (D)</div>
-      <div class="solution-text">Addition of 8 in every alphabat</div>
+    <div class="sol">
+      <div class="sol-hdr">✔ Correct Answer: (D)</div>
+      <div>Addition of 8 in every alphabat</div>
     </div>
   </div>
 
   <div class="q-card">
-    <div class="q-header">
-      <span class="q-number">QUESTION 17</span>
-      <span class="q-source">[CampusMonk] Coding decoding</span>
-    </div>
+    <div class="q-header"><span class="q-num">QUESTION 17</span><span class="q-src">[CampusMonk] Coding decoding</span></div>
     <div class="q-text">. .IF BAT coded as 9, TAKE coded as 16,then CAREER Coded as</div>
-    <div class="options-grid">
-      <div class="opt-item"><span class="opt-letter">(A)</span><span>56</span></div>
-      <div class="opt-item is-correct"><span class="opt-letter">(B)</span><span>36</span></div>
-      <div class="opt-item"><span class="opt-letter">(C)</span><span>49</span></div>
-      <div class="opt-item"><span class="opt-letter">(D)</span><span>78</span></div>
+    <div class="opts">
+      <div class="opt"><span class="opt-letter">(A)</span><span>56</span></div>
+      <div class="opt correct"><span class="opt-letter">(B)</span><span>36</span></div>
+      <div class="opt"><span class="opt-letter">(C)</span><span>49</span></div>
+      <div class="opt"><span class="opt-letter">(D)</span><span>78</span></div>
     </div>
 
-    <div class="solution-box">
-      <div class="solution-header">✔ Correct Answer: (B)</div>
-      <div class="solution-text">square of the number of alphabat like bat (3)=9</div>
+    <div class="sol">
+      <div class="sol-hdr">✔ Correct Answer: (B)</div>
+      <div>square of the number of alphabat like bat (3)=9</div>
     </div>
   </div>
 
   <div class="q-card">
-    <div class="q-header">
-      <span class="q-number">QUESTION 18</span>
-      <span class="q-source">[OnlineStudy4U] Coding Decoding</span>
-    </div>
+    <div class="q-header"><span class="q-num">QUESTION 18</span><span class="q-src">[OnlineStudy4U] Coding Decoding</span></div>
     <div class="q-text">In
 a certain code language, &#x27;OM&#x27; is coded as 56 and &#x27;GOT&#x27; is coded as
 126. How will &#x27;CARD&#x27; be coded in that language?</div>
-    <div class="options-grid">
-      <div class="opt-item"><span class="opt-letter">(A)</span><span>104</span></div>
-      <div class="opt-item is-correct"><span class="opt-letter">(B)</span><span>144</span></div>
-      <div class="opt-item"><span class="opt-letter">(C)</span><span>140</span></div>
-      <div class="opt-item"><span class="opt-letter">(D)</span><span>142</span></div>
+    <div class="opts">
+      <div class="opt"><span class="opt-letter">(A)</span><span>104</span></div>
+      <div class="opt correct"><span class="opt-letter">(B)</span><span>144</span></div>
+      <div class="opt"><span class="opt-letter">(C)</span><span>140</span></div>
+      <div class="opt"><span class="opt-letter">(D)</span><span>142</span></div>
     </div>
 
-    <div class="solution-box">
-      <div class="solution-header">✔ Correct Answer: (B)</div>
-      <div class="solution-text">OM = (15+13)*2 = 56
+    <div class="sol">
+      <div class="sol-hdr">✔ Correct Answer: (B)</div>
+      <div>OM = (15+13)*2 = 56
 GOT = (7+15+20)*3 = 126
 CARD = (3+1+18+14) * 4 = 144</div>
     </div>
   </div>
 
   <div class="q-card">
-    <div class="q-header">
-      <span class="q-number">QUESTION 19</span>
-      <span class="q-source">[OnlineStudy4U] Coding Decoding</span>
-    </div>
+    <div class="q-header"><span class="q-num">QUESTION 19</span><span class="q-src">[OnlineStudy4U] Coding Decoding</span></div>
     <div class="q-text">If
 &quot;JUNGLE&quot; is coded as &quot;KVOIMF&quot;, how is &quot;FOREST&quot;
 coded?</div>
-    <div class="options-grid">
-      <div class="opt-item"><span class="opt-letter">(A)</span><span>GPQTFV</span></div>
-      <div class="opt-item"><span class="opt-letter">(B)</span><span>GPQTFW</span></div>
-      <div class="opt-item"><span class="opt-letter">(C)</span><span>GPQTFX</span></div>
-      <div class="opt-item is-correct"><span class="opt-letter">(D)</span><span>GPQTFU</span></div>
+    <div class="opts">
+      <div class="opt"><span class="opt-letter">(A)</span><span>GPQTFV</span></div>
+      <div class="opt"><span class="opt-letter">(B)</span><span>GPQTFW</span></div>
+      <div class="opt"><span class="opt-letter">(C)</span><span>GPQTFX</span></div>
+      <div class="opt correct"><span class="opt-letter">(D)</span><span>GPQTFU</span></div>
     </div>
 
-    <div class="solution-box">
-      <div class="solution-header">✔ Correct Answer: (D)</div>
-      <div class="solution-text">Each
+    <div class="sol">
+      <div class="sol-hdr">✔ Correct Answer: (D)</div>
+      <div>Each
 letter is shifted forward by 1 position:
 J→K,
 U→V, N→O, G→H, L→M, E→F.
@@ -1073,65 +888,56 @@ FOREST
   </div>
 
   <div class="q-card">
-    <div class="q-header">
-      <span class="q-number">QUESTION 20</span>
-      <span class="q-source">[OnlineStudy4U] Coding Decoding</span>
-    </div>
+    <div class="q-header"><span class="q-num">QUESTION 20</span><span class="q-src">[OnlineStudy4U] Coding Decoding</span></div>
     <div class="q-text">If
 ‘MOUSE’ is coded as ‘KPSTC’, what is the
 code for ‘LIGHT’?</div>
-    <div class="options-grid">
-      <div class="opt-item"><span class="opt-letter">(A)</span><span>JJERI</span></div>
-      <div class="opt-item"><span class="opt-letter">(B)</span><span>JEJRI</span></div>
-      <div class="opt-item"><span class="opt-letter">(C)</span><span>JJREI</span></div>
-      <div class="opt-item is-correct"><span class="opt-letter">(D)</span><span>JJEIR</span></div>
+    <div class="opts">
+      <div class="opt"><span class="opt-letter">(A)</span><span>JJERI</span></div>
+      <div class="opt"><span class="opt-letter">(B)</span><span>JEJRI</span></div>
+      <div class="opt"><span class="opt-letter">(C)</span><span>JJREI</span></div>
+      <div class="opt correct"><span class="opt-letter">(D)</span><span>JJEIR</span></div>
     </div>
 
-    <div class="solution-box">
-      <div class="solution-header">✔ Correct Answer: (D)</div>
-      <div class="solution-text">Direct deduction from code substitution rule.</div>
+    <div class="sol">
+      <div class="sol-hdr">✔ Correct Answer: (D)</div>
+      <div>Logical deduction.</div>
     </div>
   </div>
 
   <div class="q-card">
-    <div class="q-header">
-      <span class="q-number">QUESTION 21</span>
-      <span class="q-source">[OnlineStudy4U] Coding Decoding</span>
-    </div>
+    <div class="q-header"><span class="q-num">QUESTION 21</span><span class="q-src">[OnlineStudy4U] Coding Decoding</span></div>
     <div class="q-text">If
 &quot;ENERGY&quot; is coded as &quot;257185145&quot;, how is
 &quot;HOCKEY&quot; coded?</div>
-    <div class="options-grid">
-      <div class="opt-item is-correct"><span class="opt-letter">(A)</span><span>255113158</span></div>
-      <div class="opt-item"><span class="opt-letter">(B)</span><span>815311525</span></div>
-      <div class="opt-item"><span class="opt-letter">(C)</span><span>255311158</span></div>
-      <div class="opt-item"><span class="opt-letter">(D)</span><span>253115815</span></div>
+    <div class="opts">
+      <div class="opt correct"><span class="opt-letter">(A)</span><span>255113158</span></div>
+      <div class="opt"><span class="opt-letter">(B)</span><span>815311525</span></div>
+      <div class="opt"><span class="opt-letter">(C)</span><span>255311158</span></div>
+      <div class="opt"><span class="opt-letter">(D)</span><span>253115815</span></div>
     </div>
 
-    <div class="solution-box">
-      <div class="solution-header">✔ Correct Answer: (A)</div>
-      <div class="solution-text">Direct deduction from code substitution rule.</div>
+    <div class="sol">
+      <div class="sol-hdr">✔ Correct Answer: (A)</div>
+      <div>Logical deduction.</div>
     </div>
   </div>
 
   <div class="q-card">
-    <div class="q-header">
-      <span class="q-number">QUESTION 22</span>
-      <span class="q-source">[OnlineStudy4U] Coding Decoding</span>
-    </div>
+    <div class="q-header"><span class="q-num">QUESTION 22</span><span class="q-src">[OnlineStudy4U] Coding Decoding</span></div>
     <div class="q-text">If
 ‘PENCIL’ is coded as ‘TIRGOK’, what is the
 code for ‘ERASER’?</div>
-    <div class="options-grid">
-      <div class="opt-item"><span class="opt-letter">(A)</span><span>IVWXIW</span></div>
-      <div class="opt-item"><span class="opt-letter">(B)</span><span>IVFXIW</span></div>
-      <div class="opt-item is-correct"><span class="opt-letter">(C)</span><span>IVEWIV</span></div>
-      <div class="opt-item"><span class="opt-letter">(D)</span><span>IVEXIV</span></div>
+    <div class="opts">
+      <div class="opt"><span class="opt-letter">(A)</span><span>IVWXIW</span></div>
+      <div class="opt"><span class="opt-letter">(B)</span><span>IVFXIW</span></div>
+      <div class="opt correct"><span class="opt-letter">(C)</span><span>IVEWIV</span></div>
+      <div class="opt"><span class="opt-letter">(D)</span><span>IVEXIV</span></div>
     </div>
 
-    <div class="solution-box">
-      <div class="solution-header">✔ Correct Answer: (C)</div>
-      <div class="solution-text">Each
+    <div class="sol">
+      <div class="sol-hdr">✔ Correct Answer: (C)</div>
+      <div>Each
 letter is shifted forward by 4 places.
 P
 → T, E → I, N → R, C → G, I → O, L →
@@ -1142,22 +948,19 @@ E → I, R → V, A → E, S → W, E → I, R →V</div>
   </div>
 
   <div class="q-card">
-    <div class="q-header">
-      <span class="q-number">QUESTION 23</span>
-      <span class="q-source">[OnlineStudy4U] Coding Decoding</span>
-    </div>
+    <div class="q-header"><span class="q-num">QUESTION 23</span><span class="q-src">[OnlineStudy4U] Coding Decoding</span></div>
     <div class="q-text">If
 A = 1, B = 4, C = 9, D = 16, then what is E?</div>
-    <div class="options-grid">
-      <div class="opt-item"><span class="opt-letter">(A)</span><span>27</span></div>
-      <div class="opt-item"><span class="opt-letter">(B)</span><span>23</span></div>
-      <div class="opt-item is-correct"><span class="opt-letter">(C)</span><span>25</span></div>
-      <div class="opt-item"><span class="opt-letter">(D)</span><span>21</span></div>
+    <div class="opts">
+      <div class="opt"><span class="opt-letter">(A)</span><span>27</span></div>
+      <div class="opt"><span class="opt-letter">(B)</span><span>23</span></div>
+      <div class="opt correct"><span class="opt-letter">(C)</span><span>25</span></div>
+      <div class="opt"><span class="opt-letter">(D)</span><span>21</span></div>
     </div>
 
-    <div class="solution-box">
-      <div class="solution-header">✔ Correct Answer: (C)</div>
-      <div class="solution-text">The
+    <div class="sol">
+      <div class="sol-hdr">✔ Correct Answer: (C)</div>
+      <div>The
 code follows the square of the position in the alphabet.
 A
 = 1², B = 2², C = 3², D = 4²
@@ -1167,194 +970,167 @@ E
   </div>
 
   <div class="q-card">
-    <div class="q-header">
-      <span class="q-number">QUESTION 24</span>
-      <span class="q-source">[OnlineStudy4U] Coding Decoding</span>
-    </div>
+    <div class="q-header"><span class="q-num">QUESTION 24</span><span class="q-src">[OnlineStudy4U] Coding Decoding</span></div>
     <div class="q-text">If
 ‘ARCHERY’ is coded as ‘DSBGZSF’, what is
 the code for ‘TERMITE’?</div>
-    <div class="options-grid">
-      <div class="opt-item"><span class="opt-letter">(A)</span><span>SFULFJU</span></div>
-      <div class="opt-item"><span class="opt-letter">(B)</span><span>SFULJUF</span></div>
-      <div class="opt-item is-correct"><span class="opt-letter">(C)</span><span>SFULFUJ</span></div>
-      <div class="opt-item"><span class="opt-letter">(D)</span><span>SFULUJF</span></div>
+    <div class="opts">
+      <div class="opt"><span class="opt-letter">(A)</span><span>SFULFJU</span></div>
+      <div class="opt"><span class="opt-letter">(B)</span><span>SFULJUF</span></div>
+      <div class="opt correct"><span class="opt-letter">(C)</span><span>SFULFUJ</span></div>
+      <div class="opt"><span class="opt-letter">(D)</span><span>SFULUJF</span></div>
     </div>
 
-    <div class="solution-box">
-      <div class="solution-header">✔ Correct Answer: (C)</div>
-      <div class="solution-text">Direct deduction from code substitution rule.</div>
+    <div class="sol">
+      <div class="sol-hdr">✔ Correct Answer: (C)</div>
+      <div>Logical deduction.</div>
     </div>
   </div>
 
   <div class="q-card">
-    <div class="q-header">
-      <span class="q-number">QUESTION 25</span>
-      <span class="q-source">[OnlineStudy4U] Coding Decoding</span>
-    </div>
+    <div class="q-header"><span class="q-num">QUESTION 25</span><span class="q-src">[OnlineStudy4U] Coding Decoding</span></div>
     <div class="q-text">In
 a certain code language, &#x27;LEMON&#x27; is written as &#x27;ELMNO&#x27;. How will
 &#x27;CLUSTER&#x27; be written in that language?</div>
-    <div class="options-grid">
-      <div class="opt-item"><span class="opt-letter">(A)</span><span>CLESRUT</span></div>
-      <div class="opt-item is-correct"><span class="opt-letter">(B)</span><span>CELRSTU</span></div>
-      <div class="opt-item"><span class="opt-letter">(C)</span><span>LUCETRS</span></div>
-      <div class="opt-item"><span class="opt-letter">(D)</span><span>LCUTESR</span></div>
+    <div class="opts">
+      <div class="opt"><span class="opt-letter">(A)</span><span>CLESRUT</span></div>
+      <div class="opt correct"><span class="opt-letter">(B)</span><span>CELRSTU</span></div>
+      <div class="opt"><span class="opt-letter">(C)</span><span>LUCETRS</span></div>
+      <div class="opt"><span class="opt-letter">(D)</span><span>LCUTESR</span></div>
     </div>
 
-    <div class="solution-box">
-      <div class="solution-header">✔ Correct Answer: (B)</div>
-      <div class="solution-text">Ascending order.</div>
+    <div class="sol">
+      <div class="sol-hdr">✔ Correct Answer: (B)</div>
+      <div>Ascending order.</div>
     </div>
   </div>
 
   <div class="q-card">
-    <div class="q-header">
-      <span class="q-number">QUESTION 26</span>
-      <span class="q-source">[OnlineStudy4U] Coding Decoding</span>
-    </div>
+    <div class="q-header"><span class="q-num">QUESTION 26</span><span class="q-src">[OnlineStudy4U] Coding Decoding</span></div>
     <div class="q-text">In
 a certain code language, &#x27;SUN&#x27; is coded as 26 and &#x27;GPL&#x27; is coded
 as 11. How will &#x27;SKT&#x27; be coded in that language?</div>
-    <div class="options-grid">
-      <div class="opt-item is-correct"><span class="opt-letter">(A)</span><span>10</span></div>
-      <div class="opt-item"><span class="opt-letter">(B)</span><span>15</span></div>
-      <div class="opt-item"><span class="opt-letter">(C)</span><span>20</span></div>
-      <div class="opt-item"><span class="opt-letter">(D)</span><span>25</span></div>
+    <div class="opts">
+      <div class="opt correct"><span class="opt-letter">(A)</span><span>10</span></div>
+      <div class="opt"><span class="opt-letter">(B)</span><span>15</span></div>
+      <div class="opt"><span class="opt-letter">(C)</span><span>20</span></div>
+      <div class="opt"><span class="opt-letter">(D)</span><span>25</span></div>
     </div>
 
-    <div class="solution-box">
-      <div class="solution-header">✔ Correct Answer: (A)</div>
-      <div class="solution-text">Direct deduction from code substitution rule.</div>
+    <div class="sol">
+      <div class="sol-hdr">✔ Correct Answer: (A)</div>
+      <div>Logical deduction.</div>
     </div>
   </div>
 
   <div class="q-card">
-    <div class="q-header">
-      <span class="q-number">QUESTION 27</span>
-      <span class="q-source">[OnlineStudy4U] Coding Decoding</span>
-    </div>
+    <div class="q-header"><span class="q-num">QUESTION 27</span><span class="q-src">[OnlineStudy4U] Coding Decoding</span></div>
     <div class="q-text">If
 &quot;JUNE&quot; is coded as &quot;5531&quot;, how is &quot;JULY&quot;
 coded?</div>
-    <div class="options-grid">
-      <div class="opt-item"><span class="opt-letter">(A)</span><span>6631</span></div>
-      <div class="opt-item"><span class="opt-letter">(B)</span><span>7731</span></div>
-      <div class="opt-item"><span class="opt-letter">(C)</span><span>7332</span></div>
-      <div class="opt-item is-correct"><span class="opt-letter">(D)</span><span>7331</span></div>
+    <div class="opts">
+      <div class="opt"><span class="opt-letter">(A)</span><span>6631</span></div>
+      <div class="opt"><span class="opt-letter">(B)</span><span>7731</span></div>
+      <div class="opt"><span class="opt-letter">(C)</span><span>7332</span></div>
+      <div class="opt correct"><span class="opt-letter">(D)</span><span>7331</span></div>
     </div>
 
-    <div class="solution-box">
-      <div class="solution-header">✔ Correct Answer: (D)</div>
-      <div class="solution-text">Direct deduction from code substitution rule.</div>
+    <div class="sol">
+      <div class="sol-hdr">✔ Correct Answer: (D)</div>
+      <div>Logical deduction.</div>
     </div>
   </div>
 
   <div class="q-card">
-    <div class="q-header">
-      <span class="q-number">QUESTION 28</span>
-      <span class="q-source">[OnlineStudy4U] Coding Decoding</span>
-    </div>
+    <div class="q-header"><span class="q-num">QUESTION 28</span><span class="q-src">[OnlineStudy4U] Coding Decoding</span></div>
     <div class="q-text">If
 &quot;CAT&quot; is coded as &quot;91400&quot;, how is &quot;DOG&quot;
 coded?</div>
-    <div class="options-grid">
-      <div class="opt-item"><span class="opt-letter">(A)</span><span>2251649</span></div>
-      <div class="opt-item"><span class="opt-letter">(B)</span><span>4922516</span></div>
-      <div class="opt-item is-correct"><span class="opt-letter">(C)</span><span>1622549</span></div>
-      <div class="opt-item"><span class="opt-letter">(D)</span><span>1649225</span></div>
+    <div class="opts">
+      <div class="opt"><span class="opt-letter">(A)</span><span>2251649</span></div>
+      <div class="opt"><span class="opt-letter">(B)</span><span>4922516</span></div>
+      <div class="opt correct"><span class="opt-letter">(C)</span><span>1622549</span></div>
+      <div class="opt"><span class="opt-letter">(D)</span><span>1649225</span></div>
     </div>
 
-    <div class="solution-box">
-      <div class="solution-header">✔ Correct Answer: (C)</div>
-      <div class="solution-text">Direct deduction from code substitution rule.</div>
+    <div class="sol">
+      <div class="sol-hdr">✔ Correct Answer: (C)</div>
+      <div>Logical deduction.</div>
     </div>
   </div>
 
   <div class="q-card">
-    <div class="q-header">
-      <span class="q-number">QUESTION 29</span>
-      <span class="q-source">[OnlineStudy4U] Coding Decoding</span>
-    </div>
+    <div class="q-header"><span class="q-num">QUESTION 29</span><span class="q-src">[OnlineStudy4U] Coding Decoding</span></div>
     <div class="q-text">If
 ‘BEAN’ is coded as ‘ABNE’, ‘SALE’
 is coded as ‘LSEA’, what is the code for ‘NEWS’?</div>
-    <div class="options-grid">
-      <div class="opt-item is-correct"><span class="opt-letter">(A)</span><span>WNSE</span></div>
-      <div class="opt-item"><span class="opt-letter">(B)</span><span>SWNE</span></div>
-      <div class="opt-item"><span class="opt-letter">(C)</span><span>WSNE</span></div>
-      <div class="opt-item"><span class="opt-letter">(D)</span><span>WNES</span></div>
+    <div class="opts">
+      <div class="opt correct"><span class="opt-letter">(A)</span><span>WNSE</span></div>
+      <div class="opt"><span class="opt-letter">(B)</span><span>SWNE</span></div>
+      <div class="opt"><span class="opt-letter">(C)</span><span>WSNE</span></div>
+      <div class="opt"><span class="opt-letter">(D)</span><span>WNES</span></div>
     </div>
 
-    <div class="solution-box">
-      <div class="solution-header">✔ Correct Answer: (A)</div>
-      <div class="solution-text">Direct deduction from code substitution rule.</div>
+    <div class="sol">
+      <div class="sol-hdr">✔ Correct Answer: (A)</div>
+      <div>Logical deduction.</div>
     </div>
   </div>
 
   <div class="q-card">
-    <div class="q-header">
-      <span class="q-number">QUESTION 30</span>
-      <span class="q-source">[OnlineStudy4U] Coding Decoding</span>
-    </div>
+    <div class="q-header"><span class="q-num">QUESTION 30</span><span class="q-src">[OnlineStudy4U] Coding Decoding</span></div>
     <div class="q-text">If
 &quot;APPLE&quot; is coded as &quot;ELPPA&quot;, how is &quot;ORANGE&quot;
 coded?</div>
-    <div class="options-grid">
-      <div class="opt-item"><span class="opt-letter">(A)</span><span>EGNORA</span></div>
-      <div class="opt-item is-correct"><span class="opt-letter">(B)</span><span>EGNARO</span></div>
-      <div class="opt-item"><span class="opt-letter">(C)</span><span>EGNARA</span></div>
-      <div class="opt-item"><span class="opt-letter">(D)</span><span>EGNROA</span></div>
+    <div class="opts">
+      <div class="opt"><span class="opt-letter">(A)</span><span>EGNORA</span></div>
+      <div class="opt correct"><span class="opt-letter">(B)</span><span>EGNARO</span></div>
+      <div class="opt"><span class="opt-letter">(C)</span><span>EGNARA</span></div>
+      <div class="opt"><span class="opt-letter">(D)</span><span>EGNROA</span></div>
     </div>
 
-    <div class="solution-box">
-      <div class="solution-header">✔ Correct Answer: (B)</div>
-      <div class="solution-text">The
+    <div class="sol">
+      <div class="sol-hdr">✔ Correct Answer: (B)</div>
+      <div>The
 word is written in reverse order. APPLE → ELPPA, so ORANGE →
 EGNARO</div>
     </div>
   </div>
 
   <div class="q-card">
-    <div class="q-header">
-      <span class="q-number">QUESTION 31</span>
-      <span class="q-source">[OnlineStudy4U] Coding Decoding</span>
-    </div>
+    <div class="q-header"><span class="q-num">QUESTION 31</span><span class="q-src">[OnlineStudy4U] Coding Decoding</span></div>
     <div class="q-text">In
 a certain language ‘GUST’ is coded ‘@7$2’
 and ‘SNIP’ is coded ‘$59#’. How will
 ‘SING’ be coded in the same code?</div>
-    <div class="options-grid">
-      <div class="opt-item"><span class="opt-letter">(A)</span><span>9$7#</span></div>
-      <div class="opt-item"><span class="opt-letter">(B)</span><span>59#$</span></div>
-      <div class="opt-item is-correct"><span class="opt-letter">(C)</span><span>$95@</span></div>
-      <div class="opt-item"><span class="opt-letter">(D)</span><span>7$@9</span></div>
+    <div class="opts">
+      <div class="opt"><span class="opt-letter">(A)</span><span>9$7#</span></div>
+      <div class="opt"><span class="opt-letter">(B)</span><span>59#$</span></div>
+      <div class="opt correct"><span class="opt-letter">(C)</span><span>$95@</span></div>
+      <div class="opt"><span class="opt-letter">(D)</span><span>7$@9</span></div>
     </div>
 
-    <div class="solution-box">
-      <div class="solution-header">✔ Correct Answer: (C)</div>
-      <div class="solution-text">Direct deduction from code substitution rule.</div>
+    <div class="sol">
+      <div class="sol-hdr">✔ Correct Answer: (C)</div>
+      <div>Logical deduction.</div>
     </div>
   </div>
 
   <div class="q-card">
-    <div class="q-header">
-      <span class="q-number">QUESTION 32</span>
-      <span class="q-source">[OnlineStudy4U] Coding Decoding</span>
-    </div>
+    <div class="q-header"><span class="q-num">QUESTION 32</span><span class="q-src">[OnlineStudy4U] Coding Decoding</span></div>
     <div class="q-text">If
 ‘NOSTALGIA’ is coded as ‘81’, what is the
 code for ‘FRICTION’?</div>
-    <div class="options-grid">
-      <div class="opt-item"><span class="opt-letter">(A)</span><span>54</span></div>
-      <div class="opt-item is-correct"><span class="opt-letter">(B)</span><span>64</span></div>
-      <div class="opt-item"><span class="opt-letter">(C)</span><span>68</span></div>
-      <div class="opt-item"><span class="opt-letter">(D)</span><span>72</span></div>
+    <div class="opts">
+      <div class="opt"><span class="opt-letter">(A)</span><span>54</span></div>
+      <div class="opt correct"><span class="opt-letter">(B)</span><span>64</span></div>
+      <div class="opt"><span class="opt-letter">(C)</span><span>68</span></div>
+      <div class="opt"><span class="opt-letter">(D)</span><span>72</span></div>
     </div>
 
-    <div class="solution-box">
-      <div class="solution-header">✔ Correct Answer: (B)</div>
-      <div class="solution-text">NOSTALGIA
+    <div class="sol">
+      <div class="sol-hdr">✔ Correct Answer: (B)</div>
+      <div>NOSTALGIA
 = 9 letters
 92=81
 FRICTION
@@ -1364,23 +1140,20 @@ FRICTION
   </div>
 
   <div class="q-card">
-    <div class="q-header">
-      <span class="q-number">QUESTION 33</span>
-      <span class="q-source">[OnlineStudy4U] Coding Decoding</span>
-    </div>
+    <div class="q-header"><span class="q-num">QUESTION 33</span><span class="q-src">[OnlineStudy4U] Coding Decoding</span></div>
     <div class="q-text">If
 &quot;GARDEN&quot; is coded as &quot;FZQCDM&quot;, how is &quot;FLOWER&quot;
 coded?</div>
-    <div class="options-grid">
-      <div class="opt-item is-correct"><span class="opt-letter">(A)</span><span>EKNVDQ</span></div>
-      <div class="opt-item"><span class="opt-letter">(B)</span><span>EKNVQD</span></div>
-      <div class="opt-item"><span class="opt-letter">(C)</span><span>EKNQVD</span></div>
-      <div class="opt-item"><span class="opt-letter">(D)</span><span>EKNDVQ</span></div>
+    <div class="opts">
+      <div class="opt correct"><span class="opt-letter">(A)</span><span>EKNVDQ</span></div>
+      <div class="opt"><span class="opt-letter">(B)</span><span>EKNVQD</span></div>
+      <div class="opt"><span class="opt-letter">(C)</span><span>EKNQVD</span></div>
+      <div class="opt"><span class="opt-letter">(D)</span><span>EKNDVQ</span></div>
     </div>
 
-    <div class="solution-box">
-      <div class="solution-header">✔ Correct Answer: (A)</div>
-      <div class="solution-text">Each
+    <div class="sol">
+      <div class="sol-hdr">✔ Correct Answer: (A)</div>
+      <div>Each
 letter is shifted backward by 1 position in the alphabet:
 G→F,
 A→Z, R→Q, D→C, E→D, N→M.
@@ -1390,47 +1163,41 @@ FLOWER → EKNVDQ</div>
   </div>
 
   <div class="q-card">
-    <div class="q-header">
-      <span class="q-number">QUESTION 34</span>
-      <span class="q-source">[OnlineStudy4U] Coding Decoding</span>
-    </div>
+    <div class="q-header"><span class="q-num">QUESTION 34</span><span class="q-src">[OnlineStudy4U] Coding Decoding</span></div>
     <div class="q-text">In
 a certain language ‘branches have leafs’ is coded
 ‘673’, ‘trees have branches’ is coded
 ‘746’ and ‘mangoes all trees’ is coded
 ‘491’. How will ‘tree’ be coded in the
 same code?</div>
-    <div class="options-grid">
-      <div class="opt-item"><span class="opt-letter">(A)</span><span>9</span></div>
-      <div class="opt-item"><span class="opt-letter">(B)</span><span>1</span></div>
-      <div class="opt-item is-correct"><span class="opt-letter">(C)</span><span>4</span></div>
-      <div class="opt-item"><span class="opt-letter">(D)</span><span>7</span></div>
+    <div class="opts">
+      <div class="opt"><span class="opt-letter">(A)</span><span>9</span></div>
+      <div class="opt"><span class="opt-letter">(B)</span><span>1</span></div>
+      <div class="opt correct"><span class="opt-letter">(C)</span><span>4</span></div>
+      <div class="opt"><span class="opt-letter">(D)</span><span>7</span></div>
     </div>
 
-    <div class="solution-box">
-      <div class="solution-header">✔ Correct Answer: (C)</div>
-      <div class="solution-text">Direct deduction from code substitution rule.</div>
+    <div class="sol">
+      <div class="sol-hdr">✔ Correct Answer: (C)</div>
+      <div>Logical deduction.</div>
     </div>
   </div>
 
   <div class="q-card">
-    <div class="q-header">
-      <span class="q-number">QUESTION 35</span>
-      <span class="q-source">[OnlineStudy4U] Coding Decoding</span>
-    </div>
+    <div class="q-header"><span class="q-num">QUESTION 35</span><span class="q-src">[OnlineStudy4U] Coding Decoding</span></div>
     <div class="q-text">If
 in a code language &quot;EXAMINATION&quot; is written as &quot;125&quot;
 then how will “HARDWORK” be written in that language?</div>
-    <div class="options-grid">
-      <div class="opt-item"><span class="opt-letter">(A)</span><span>68</span></div>
-      <div class="opt-item"><span class="opt-letter">(B)</span><span>86</span></div>
-      <div class="opt-item"><span class="opt-letter">(C)</span><span>89</span></div>
-      <div class="opt-item is-correct"><span class="opt-letter">(D)</span><span>98</span></div>
+    <div class="opts">
+      <div class="opt"><span class="opt-letter">(A)</span><span>68</span></div>
+      <div class="opt"><span class="opt-letter">(B)</span><span>86</span></div>
+      <div class="opt"><span class="opt-letter">(C)</span><span>89</span></div>
+      <div class="opt correct"><span class="opt-letter">(D)</span><span>98</span></div>
     </div>
 
-    <div class="solution-box">
-      <div class="solution-header">✔ Correct Answer: (D)</div>
-      <div class="solution-text">The
+    <div class="sol">
+      <div class="sol-hdr">✔ Correct Answer: (D)</div>
+      <div>The
 logic followed here is:
 Logic:
 Sum of the positional value of letter.
@@ -1443,585 +1210,57 @@ HARDWORK = 8+1+18+4+23+15+18+11 = 98.</div>
   </div>
 
   <div class="q-card">
-    <div class="q-header">
-      <span class="q-number">QUESTION 36</span>
-      <span class="q-source">[OnlineStudy4U] Coding Decoding</span>
-    </div>
+    <div class="q-header"><span class="q-num">QUESTION 36</span><span class="q-src">[OnlineStudy4U] Coding Decoding</span></div>
     <div class="q-text">If &quot;PENCIL&quot; is coded as &quot;RGPEKN&quot;, how is &quot;PAPER&quot; coded?</div>
-    <div class="options-grid">
-      <div class="opt-item is-correct"><span class="opt-letter">(A)</span><span>RCRGT</span></div>
-      <div class="opt-item"><span class="opt-letter">(B)</span><span>RCRGS</span></div>
-      <div class="opt-item"><span class="opt-letter">(C)</span><span>RCRGU</span></div>
-      <div class="opt-item"><span class="opt-letter">(D)</span><span>RCRGV</span></div>
+    <div class="opts">
+      <div class="opt correct"><span class="opt-letter">(A)</span><span>RCRGT</span></div>
+      <div class="opt"><span class="opt-letter">(B)</span><span>RCRGS</span></div>
+      <div class="opt"><span class="opt-letter">(C)</span><span>RCRGU</span></div>
+      <div class="opt"><span class="opt-letter">(D)</span><span>RCRGV</span></div>
     </div>
 
-    <div class="solution-box">
-      <div class="solution-header">✔ Correct Answer: (A)</div>
-      <div class="solution-text">Each
+    <div class="sol">
+      <div class="sol-hdr">✔ Correct Answer: (A)</div>
+      <div>Each
 letter is shifted forward by 2 positions in the alphabet. P→R,
 A→C, P→R, E→G, R→T.</div>
     </div>
   </div>
 
   <div class="q-card">
-    <div class="q-header">
-      <span class="q-number">QUESTION 37</span>
-      <span class="q-source">[OnlineStudy4U] Coding Decoding</span>
-    </div>
+    <div class="q-header"><span class="q-num">QUESTION 37</span><span class="q-src">[OnlineStudy4U] Coding Decoding</span></div>
     <div class="q-text">In
 a code language, if SEND is written as 168, then how will PURSE be
 written in the same language?</div>
-    <div class="options-grid">
-      <div class="opt-item"><span class="opt-letter">(A)</span><span>225</span></div>
-      <div class="opt-item is-correct"><span class="opt-letter">(B)</span><span>395</span></div>
-      <div class="opt-item"><span class="opt-letter">(C)</span><span>185</span></div>
-      <div class="opt-item"><span class="opt-letter">(D)</span><span>415</span></div>
+    <div class="opts">
+      <div class="opt"><span class="opt-letter">(A)</span><span>225</span></div>
+      <div class="opt correct"><span class="opt-letter">(B)</span><span>395</span></div>
+      <div class="opt"><span class="opt-letter">(C)</span><span>185</span></div>
+      <div class="opt"><span class="opt-letter">(D)</span><span>415</span></div>
     </div>
 
-    <div class="solution-box">
-      <div class="solution-header">✔ Correct Answer: (B)</div>
-      <div class="solution-text">SEND = (19+5+14+4)*4=168
+    <div class="sol">
+      <div class="sol-hdr">✔ Correct Answer: (B)</div>
+      <div>SEND = (19+5+14+4)*4=168
 PURSE = (16+21+18+19+5)*5=395</div>
     </div>
   </div>
 
   <div class="q-card">
-    <div class="q-header">
-      <span class="q-number">QUESTION 38</span>
-      <span class="q-source">CampusMonk Live Class (Day 01)</span>
-    </div>
-    <div class="q-text">What would be the wrong letter in the following series? (amcat/cocubes- Easy) D, G, J, M, P, T, V, Y, B</div>
-
-    <div class="solution-box">
-      <div class="solution-header">✔ Correct Answer: (Analyzed in Lecture)</div>
-      <div class="solution-text">Pattern analysis: Compare letter positions in English alphabet and look for shift (+N / -N) or reverse positional values.</div>
-    </div>
-  </div>
-
-  <div class="q-card">
-    <div class="q-header">
-      <span class="q-number">QUESTION 39</span>
-      <span class="q-source">CampusMonk Live Class (Day 01)</span>
-    </div>
-    <div class="q-text">If ‘JUNE’ is coded as ‘5531’, then how will you code ‘JULY’?</div>
-    <div class="options-grid">
-      <div class="opt-item"><span class="opt-letter">(A)</span><span>7613</span></div>
-      <div class="opt-item"><span class="opt-letter">(B)</span><span>7321</span></div>
-      <div class="opt-item"><span class="opt-letter">(C)</span><span>7331</span></div>
-      <div class="opt-item"><span class="opt-letter">(D)</span><span>1335</span></div>
-    </div>
-
-    <div class="solution-box">
-      <div class="solution-header">✔ Correct Answer: (Analyzed in Lecture)</div>
-      <div class="solution-text">Pattern analysis: Compare letter positions in English alphabet and look for shift (+N / -N) or reverse positional values.</div>
-    </div>
-  </div>
-
-  <div class="q-card">
-    <div class="q-header">
-      <span class="q-number">QUESTION 40</span>
-      <span class="q-source">CampusMonk Live Class (Day 01)</span>
-    </div>
-    <div class="q-text">If Z= 2197 and R= 729. How would J be written in that code? Infosys</div>
-    <div class="options-grid">
-      <div class="opt-item"><span class="opt-letter">(A)</span><span>216</span></div>
-      <div class="opt-item"><span class="opt-letter">(B)</span><span>124</span></div>
-      <div class="opt-item"><span class="opt-letter">(C)</span><span>512</span></div>
-      <div class="opt-item"><span class="opt-letter">(D)</span><span>125</span></div>
-    </div>
-
-    <div class="solution-box">
-      <div class="solution-header">✔ Correct Answer: (Analyzed in Lecture)</div>
-      <div class="solution-text">Pattern analysis: Compare letter positions in English alphabet and look for shift (+N / -N) or reverse positional values.</div>
-    </div>
-  </div>
-
-  <div class="q-card">
-    <div class="q-header">
-      <span class="q-number">QUESTION 41</span>
-      <span class="q-source">CampusMonk Live Class (Day 01)</span>
-    </div>
-    <div class="q-text">IF G=7 and KING=41, Then what will be the code of ‘QUEEN’ In that coding language? INFOSYS</div>
-    <div class="options-grid">
-      <div class="opt-item"><span class="opt-letter">(A)</span><span>62</span></div>
-      <div class="opt-item"><span class="opt-letter">(B)</span><span>60</span></div>
-      <div class="opt-item"><span class="opt-letter">(C)</span><span>64</span></div>
-      <div class="opt-item"><span class="opt-letter">(D)</span><span>68</span></div>
-    </div>
-
-    <div class="solution-box">
-      <div class="solution-header">✔ Correct Answer: (Analyzed in Lecture)</div>
-      <div class="solution-text">Pattern analysis: Compare letter positions in English alphabet and look for shift (+N / -N) or reverse positional values.</div>
-    </div>
-  </div>
-
-  <div class="q-card">
-    <div class="q-header">
-      <span class="q-number">QUESTION 42</span>
-      <span class="q-source">CampusMonk Live Class (Day 01)</span>
-    </div>
-    <div class="q-text">If OM = 56 and GOT = 126, Then what will be the code of ‘CARD’ In that coding language? AMCAT</div>
-    <div class="options-grid">
-      <div class="opt-item"><span class="opt-letter">(A)</span><span>108</span></div>
-      <div class="opt-item"><span class="opt-letter">(B)</span><span>164</span></div>
-      <div class="opt-item"><span class="opt-letter">(C)</span><span>120</span></div>
-      <div class="opt-item"><span class="opt-letter">(D)</span><span>104</span></div>
-    </div>
-
-    <div class="solution-box">
-      <div class="solution-header">✔ Correct Answer: (Analyzed in Lecture)</div>
-      <div class="solution-text">Pattern analysis: Compare letter positions in English alphabet and look for shift (+N / -N) or reverse positional values.</div>
-    </div>
-  </div>
-
-  <div class="q-card">
-    <div class="q-header">
-      <span class="q-number">QUESTION 43</span>
-      <span class="q-source">CampusMonk Live Class (Day 01)</span>
-    </div>
-    <div class="q-text">In a certain code language, &#x27;FAMILY* LONG&#x27; is coded as &#x27;24&#x27;, &#x27;COUPLE * THE&#x27; is coded as &#x27;18&quot;. What is the code for &#x27;OVER * HOSPITAL&#x27; in that code language? 1. 18 2. 6 3. 32 4. 20</div>
-
-    <div class="solution-box">
-      <div class="solution-header">✔ Correct Answer: (Analyzed in Lecture)</div>
-      <div class="solution-text">Pattern analysis: Compare letter positions in English alphabet and look for shift (+N / -N) or reverse positional values.</div>
-    </div>
-  </div>
-
-  <div class="q-card">
-    <div class="q-header">
-      <span class="q-number">QUESTION 44</span>
-      <span class="q-source">CampusMonk Live Class (Day 01)</span>
-    </div>
-    <div class="q-text">In a certain code language, &#x27;BED&#x27; is written as &#x27;122&#x27; and &#x27;CAB&#x27; is written as &#x27;37&#x27;. How will &#x27;ADD&#x27; be written in that code language? 1. 65 2. 50 3. 101 4. 82</div>
-
-    <div class="solution-box">
-      <div class="solution-header">✔ Correct Answer: (Analyzed in Lecture)</div>
-      <div class="solution-text">Pattern analysis: Compare letter positions in English alphabet and look for shift (+N / -N) or reverse positional values.</div>
-    </div>
-  </div>
-
-  <div class="q-card">
-    <div class="q-header">
-      <span class="q-number">QUESTION 45</span>
-      <span class="q-source">CampusMonk Live Class (Day 01)</span>
-    </div>
-    <div class="q-text">If the word LEADER is coded as 20-13-9-12-13-26, how would you write LIGHT? (a) 20-16-15-17-22 (b) 20-16-17-15-27 (c) 20-17-16-18-23 (d) 20-17-15-16-28</div>
-
-    <div class="solution-box">
-      <div class="solution-header">✔ Correct Answer: (Analyzed in Lecture)</div>
-      <div class="solution-text">Pattern analysis: Compare letter positions in English alphabet and look for shift (+N / -N) or reverse positional values.</div>
-    </div>
-  </div>
-
-  <div class="q-card">
-    <div class="q-header">
-      <span class="q-number">QUESTION 46</span>
-      <span class="q-source">CampusMonk Live Class (Day 01)</span>
-    </div>
-    <div class="q-text">In a certain code language, &#x27;SAGE&#x27; is coded as &#x27;-8&#x27;, &#x27;TABS&#x27; is coded as &#x27;0&#x27;. What is the code for &#x27;VERB&#x27; in that code language? 1. -7 2. 4 3. -4 4. 7</div>
-
-    <div class="solution-box">
-      <div class="solution-header">✔ Correct Answer: (Analyzed in Lecture)</div>
-      <div class="solution-text">Pattern analysis: Compare letter positions in English alphabet and look for shift (+N / -N) or reverse positional values.</div>
-    </div>
-  </div>
-
-  <div class="q-card">
-    <div class="q-header">
-      <span class="q-number">QUESTION 47</span>
-      <span class="q-source">CampusMonk Live Class (Day 01)</span>
-    </div>
-    <div class="q-text">In a certain code language, ‘NOSTALGIA’ is coded as ‘81’. How will ‘FRICTION’ be coded in that language? 1. 64 2. 105 3. 85 4. 36</div>
-
-    <div class="solution-box">
-      <div class="solution-header">✔ Correct Answer: (Analyzed in Lecture)</div>
-      <div class="solution-text">Pattern analysis: Compare letter positions in English alphabet and look for shift (+N / -N) or reverse positional values.</div>
-    </div>
-  </div>
-
-  <div class="q-card">
-    <div class="q-header">
-      <span class="q-number">QUESTION 48</span>
-      <span class="q-source">CampusMonk Live Class (Day 01)</span>
-    </div>
-    <div class="q-text">In a certain code language, &#x27;ROUTE&#x27; is coded as &#x27;7&#x27;, &#x27;SHARE&#x27; is coded as &#x27;6&#x27;. What is the code for &#x27;TABLE&#x27; in that code language? 1. 5 2. 4 3. 7 4. 2</div>
-
-    <div class="solution-box">
-      <div class="solution-header">✔ Correct Answer: (Analyzed in Lecture)</div>
-      <div class="solution-text">Pattern analysis: Compare letter positions in English alphabet and look for shift (+N / -N) or reverse positional values.</div>
-    </div>
-  </div>
-
-  <div class="q-card">
-    <div class="q-header">
-      <span class="q-number">QUESTION 49</span>
-      <span class="q-source">CampusMonk Live Class (Day 01)</span>
-    </div>
-    <div class="q-text">In a certain code language, &#x27;DEFECT&#x27; is written as &#x27;2747118&#x27;, &#x27;DEVICE&#x27; is written as &#x27;27201117&#x27;, how will &#x27;DOMAIN&#x27; be written in that language?</div>
-    <div class="options-grid">
-      <div class="opt-item"><span class="opt-letter">(A)</span><span>2171131112</span></div>
-      <div class="opt-item"><span class="opt-letter">(B)</span><span>217113119</span></div>
-      <div class="opt-item"><span class="opt-letter">(C)</span><span>417111912</span></div>
-      <div class="opt-item"><span class="opt-letter">(D)</span><span>217111912</span></div>
-    </div>
-
-    <div class="solution-box">
-      <div class="solution-header">✔ Correct Answer: (Analyzed in Lecture)</div>
-      <div class="solution-text">Pattern analysis: Compare letter positions in English alphabet and look for shift (+N / -N) or reverse positional values.</div>
-    </div>
-  </div>
-
-  <div class="q-card">
-    <div class="q-header">
-      <span class="q-number">QUESTION 50</span>
-      <span class="q-source">CampusMonk Live Class (Day 01)</span>
-    </div>
-    <div class="q-text">Four letter-clusters have been given, out of which three are alike in some manner and one is different. Select the letter- cluster that is different.</div>
-    <div class="options-grid">
-      <div class="opt-item"><span class="opt-letter">(A)</span><span>TYDI</span></div>
-      <div class="opt-item"><span class="opt-letter">(B)</span><span>ZEJP</span></div>
-      <div class="opt-item"><span class="opt-letter">(C)</span><span>HMRW</span></div>
-      <div class="opt-item"><span class="opt-letter">(D)</span><span>NSXC</span></div>
-    </div>
-
-    <div class="solution-box">
-      <div class="solution-header">✔ Correct Answer: (Analyzed in Lecture)</div>
-      <div class="solution-text">Pattern analysis: Compare letter positions in English alphabet and look for shift (+N / -N) or reverse positional values.</div>
-    </div>
-  </div>
-
-  <div class="q-card">
-    <div class="q-header">
-      <span class="q-number">QUESTION 51</span>
-      <span class="q-source">CampusMonk Live Class (Day 01)</span>
-    </div>
-    <div class="q-text">If ‘branches have leaves’ is coded as 673, ‘trees have branches’ is coded as 746 and ‘mangoes all trees’ is coded as 491 Then which digit will represent ‘trees’?</div>
-
-    <div class="solution-box">
-      <div class="solution-header">✔ Correct Answer: (Analyzed in Lecture)</div>
-      <div class="solution-text">Pattern analysis: Compare letter positions in English alphabet and look for shift (+N / -N) or reverse positional values.</div>
-    </div>
-  </div>
-
-  <div class="q-card">
-    <div class="q-header">
-      <span class="q-number">QUESTION 52</span>
-      <span class="q-source">CampusMonk Daily Practice Problem (DPP 01)</span>
-    </div>
-    <div class="q-text">Q1. MOUSE : KPSTC : : LIGHT : ? </div>
-    <div class="options-grid">
-      <div class="opt-item"><span class="opt-letter">(A)</span><span>NJHIU</span></div>
-      <div class="opt-item"><span class="opt-letter">(B)</span><span>KGHFU</span></div>
-      <div class="opt-item"><span class="opt-letter">(C)</span><span>JGEFR</span></div>
-      <div class="opt-item"><span class="opt-letter">(D)</span><span>JJEIR .Q.2 In a certain code BEAN is written as ABNE and SALE is written as LSEA. How is NEWS written in that Code? 1) WNES  2) WNSE 3) SNWE 4) SNEW 5) None of these Q.3.In a certain code JEALOUS is written as BFKKTVP. How is HEARTEN written in that code? 1) OFUQBFI 2) BFIQOFU 3) BFIQUFO 4) UFOQIBF 5) None of these Q.4 . In a certain code language the word ATMOSPHERE is written as BSLPROGFQF. How will the word NEIGHBOURS be written in that language? 1) MFJHGAPVQR    2) MFJFGAPVQR  3) ODJFIAPTSR    4) ODJEIAPTSR    5) None of these</span></div>
-    </div>
-
-    <div class="solution-box">
-      <div class="solution-header">✔ Correct Answer: (Refer Detailed Key)</div>
-      <div class="solution-text">Apply letter-to-number mapping (A=1, Z=26) or reverse mapping (A=26, Z=1) to verify positional substitution.</div>
-    </div>
-  </div>
-
-  <div class="q-card">
-    <div class="q-header">
-      <span class="q-number">QUESTION 53</span>
-      <span class="q-source">CampusMonk Daily Practice Problem (DPP 01)</span>
-    </div>
-    <div class="q-text">Q5..KML : NPO : : CED : ? </div>
-
-    <div class="solution-box">
-      <div class="solution-header">✔ Correct Answer: (Refer Detailed Key)</div>
-      <div class="solution-text">Apply letter-to-number mapping (A=1, Z=26) or reverse mapping (A=26, Z=1) to verify positional substitution.</div>
-    </div>
-  </div>
-
-  <div class="q-card">
-    <div class="q-header">
-      <span class="q-number">QUESTION 54</span>
-      <span class="q-source">CampusMonk Daily Practice Problem (DPP 01)</span>
-    </div>
-    <div class="q-text">Q9 .BLOCKED:YOLXPVW::?:OZFMMXS ANS ____________________ Q.10 .DBU:EEZ::CJH:? ANS ______________ Q.11  The word ‘UNITED’ is coded as ‘SLGRCB’.  How should the word ‘DISOWN’ be coded?</div>
-    <div class="options-grid">
-      <div class="opt-item"><span class="opt-letter">(1)</span><span>BGQMUL</span></div>
-      <div class="opt-item"><span class="opt-letter">(2)</span><span>CGRLTK</span></div>
-      <div class="opt-item"><span class="opt-letter">(3)</span><span>CGRTLK</span></div>
-      <div class="opt-item"><span class="opt-letter">(4)</span><span>BGQLUM Q.12  .SCD,TEF, UGH, ____, WKL A. CMN      B. UJI  C. VIJ     D. IJT</span></div>
-    </div>
-
-    <div class="solution-box">
-      <div class="solution-header">✔ Correct Answer: (Refer Detailed Key)</div>
-      <div class="solution-text">Apply letter-to-number mapping (A=1, Z=26) or reverse mapping (A=26, Z=1) to verify positional substitution.</div>
-    </div>
-  </div>
-
-  <div class="q-card">
-    <div class="q-header">
-      <span class="q-number">QUESTION 55</span>
-      <span class="q-source">CampusMonk Daily Practice Problem (DPP 01)</span>
-    </div>
-    <div class="q-text">Q13 .FAG : GAF:: HAI: ?  ANS_______ </div>
-
-    <div class="solution-box">
-      <div class="solution-header">✔ Correct Answer: (Refer Detailed Key)</div>
-      <div class="solution-text">Apply letter-to-number mapping (A=1, Z=26) or reverse mapping (A=26, Z=1) to verify positional substitution.</div>
-    </div>
-  </div>
-
-  <div class="q-card">
-    <div class="q-header">
-      <span class="q-number">QUESTION 56</span>
-      <span class="q-source">CampusMonk Daily Practice Problem (DPP 01)</span>
-    </div>
-    <div class="q-text">Q14.     ) FIG: EGHJFH:: BIN: ? </div>
-    <div class="options-grid">
-      <div class="opt-item"><span class="opt-letter">(A)</span><span>ITMFKD</span></div>
-      <div class="opt-item"><span class="opt-letter">(B)</span><span>ITNFKD</span></div>
-      <div class="opt-item"><span class="opt-letter">(C)</span><span>KVOHMF</span></div>
-      <div class="opt-item"><span class="opt-letter">(D)</span><span>TIMFKD Q.16    If SUMMER is coded as RUNNER, the code for WINTER will be.</span></div>
-      <div class="opt-item"><span class="opt-letter">(A)</span><span>SUITER</span></div>
-      <div class="opt-item"><span class="opt-letter">(B)</span><span>VIOUER</span></div>
-      <div class="opt-item"><span class="opt-letter">(C)</span><span>WALKER</span></div>
-      <div class="opt-item"><span class="opt-letter">(D)</span><span>SUFERH 17.    In a certain code, PRODUCTIONS is written as QQPCVEUHPMT. How is ORIENTATION written in that code?</span></div>
-      <div class="opt-item"><span class="opt-letter">(A)</span><span>PQJDOVBSJNO</span></div>
-      <div class="opt-item"><span class="opt-letter">(B)</span><span>PQJDOUBUJPO</span></div>
-      <div class="opt-item"><span class="opt-letter">(C)</span><span>PSJFOVBSJNO</span></div>
-      <div class="opt-item"><span class="opt-letter">(D)</span><span>NESHFMVBSJNO 18 .    If, in a code, BASICS is written as DDULEV. How is LEADER written in that code?</span></div>
-      <div class="opt-item"><span class="opt-letter">(A)</span><span>NHCGGU</span></div>
-      <div class="opt-item"><span class="opt-letter">(B)</span><span>BGYPYEK</span></div>
-      <div class="opt-item"><span class="opt-letter">(C)</span><span>NHCGUG</span></div>
-      <div class="opt-item"><span class="opt-letter">(D)</span><span>LKBGYPK 19 .    In a certain code, SPRING is written as UNUFRC. How wills the word MOBILE is written in that code language?</span></div>
-      <div class="opt-item"><span class="opt-letter">(A)</span><span>KQEFPA</span></div>
-      <div class="opt-item"><span class="opt-letter">(B)</span><span>OMDGNC</span></div>
-      <div class="opt-item"><span class="opt-letter">(C)</span><span>OMDGPA</span></div>
-      <div class="opt-item"><span class="opt-letter">(D)</span><span>OMEFPA 20 .   In a certain code, POETRY is written as QONDSQX and OVER is written as PNUDQ. How is MORE written in that code language?</span></div>
-      <div class="opt-item"><span class="opt-letter">(A)</span><span>LNNQD</span></div>
-      <div class="opt-item"><span class="opt-letter">(B)</span><span>NNNQD</span></div>
-      <div class="opt-item"><span class="opt-letter">(C)</span><span>NLNQD</span></div>
-      <div class="opt-item"><span class="opt-letter">(D)</span><span>NLPQD 21 .    In a certain code, CAT is written as SATC and DEAR is written as SEARD. HOW would SING be written in that code?</span></div>
-      <div class="opt-item"><span class="opt-letter">(A)</span><span>BGINS</span></div>
-      <div class="opt-item"><span class="opt-letter">(B)</span><span>SGNIS</span></div>
-      <div class="opt-item"><span class="opt-letter">(C)</span><span>SINGS</span></div>
-      <div class="opt-item"><span class="opt-letter">(D)</span><span>GNISS 22 .  In a certain code language, COMPUTRONE is written as PMOCTUENOR. How is ADVANTAGES written in that code?</span></div>
-      <div class="opt-item"><span class="opt-letter">(A)</span><span>SEGATNAVAD</span></div>
-      <div class="opt-item"><span class="opt-letter">(B)</span><span>AVDATNSEGA</span></div>
-      <div class="opt-item"><span class="opt-letter">(C)</span><span>AVDATASEGN</span></div>
-      <div class="opt-item"><span class="opt-letter">(D)</span><span>NAVDASEGAT 23.  If STRONG is written as ROTNSG, then how NAGPUR would be written in the same code?</span></div>
-      <div class="opt-item"><span class="opt-letter">(A)</span><span>GPAUNR</span></div>
-      <div class="opt-item"><span class="opt-letter">(B)</span><span>PGUARN</span></div>
-      <div class="opt-item"><span class="opt-letter">(C)</span><span>PGAURN</span></div>
-      <div class="opt-item"><span class="opt-letter">(D)</span><span>GPUANR 24 .  In a certain code language, ORIENTAL is written as MBUOFJSP. How is COWARDLY written in that code language?</span></div>
-      <div class="opt-item"><span class="opt-letter">(A)</span><span>XKCQBXPD</span></div>
-      <div class="opt-item"><span class="opt-letter">(B)</span><span>XLBQCXPD</span></div>
-      <div class="opt-item"><span class="opt-letter">(C)</span><span>ZMESDPXB</span></div>
-      <div class="opt-item"><span class="opt-letter">(D)</span><span>None of these</span></div>
-    </div>
-
-    <div class="solution-box">
-      <div class="solution-header">✔ Correct Answer: (Refer Detailed Key)</div>
-      <div class="solution-text">Apply letter-to-number mapping (A=1, Z=26) or reverse mapping (A=26, Z=1) to verify positional substitution.</div>
-    </div>
-  </div>
-
-  <div class="q-card">
-    <div class="q-header">
-      <span class="q-number">QUESTION 57</span>
-      <span class="q-source">CampusMonk Daily Practice Problem (DPP 01)</span>
-    </div>
-    <div class="q-text">Q25.. F : 343 : : L : ? </div>
-    <div class="options-grid">
-      <div class="opt-item"><span class="opt-letter">(A)</span><span>1723</span></div>
-      <div class="opt-item"><span class="opt-letter">(B)</span><span>2197</span></div>
-      <div class="opt-item"><span class="opt-letter">(C)</span><span>1728</span></div>
-      <div class="opt-item"><span class="opt-letter">(D)</span><span>1663</span></div>
-    </div>
-
-    <div class="solution-box">
-      <div class="solution-header">✔ Correct Answer: (Refer Detailed Key)</div>
-      <div class="solution-text">Apply letter-to-number mapping (A=1, Z=26) or reverse mapping (A=26, Z=1) to verify positional substitution.</div>
-    </div>
-  </div>
-
-  <div class="q-card">
-    <div class="q-header">
-      <span class="q-number">QUESTION 58</span>
-      <span class="q-source">CampusMonk Daily Practice Problem (DPP 01)</span>
-    </div>
-    <div class="q-text">Q26 . If the word LEADER is coded as 20-13-9-12-13-26, how would you write LIGHT?</div>
-    <div class="options-grid">
-      <div class="opt-item"><span class="opt-letter">(A)</span><span>20-16-15-17-22</span></div>
-      <div class="opt-item"><span class="opt-letter">(B)</span><span>20-16-17-15-27</span></div>
-      <div class="opt-item"><span class="opt-letter">(C)</span><span>20-17-16-18-23</span></div>
-      <div class="opt-item"><span class="opt-letter">(D)</span><span>20-17-15-16-28</span></div>
-    </div>
-
-    <div class="solution-box">
-      <div class="solution-header">✔ Correct Answer: (Refer Detailed Key)</div>
-      <div class="solution-text">Apply letter-to-number mapping (A=1, Z=26) or reverse mapping (A=26, Z=1) to verify positional substitution.</div>
-    </div>
-  </div>
-
-  <div class="q-card">
-    <div class="q-header">
-      <span class="q-number">QUESTION 59</span>
-      <span class="q-source">CampusMonk Daily Practice Problem (DPP 01)</span>
-    </div>
-    <div class="q-text">Q27 . If 264 * 2 = 6, 870 * 3 = 11, then what should 735 * 5 be? </div>
-    <div class="options-grid">
-      <div class="opt-item"><span class="opt-letter">(A)</span><span>05</span></div>
-      <div class="opt-item"><span class="opt-letter">(B)</span><span>12</span></div>
-      <div class="opt-item"><span class="opt-letter">(C)</span><span>16</span></div>
-      <div class="opt-item"><span class="opt-letter">(D)</span><span>03</span></div>
-    </div>
-
-    <div class="solution-box">
-      <div class="solution-header">✔ Correct Answer: (Refer Detailed Key)</div>
-      <div class="solution-text">Apply letter-to-number mapping (A=1, Z=26) or reverse mapping (A=26, Z=1) to verify positional substitution.</div>
-    </div>
-  </div>
-
-  <div class="q-card">
-    <div class="q-header">
-      <span class="q-number">QUESTION 60</span>
-      <span class="q-source">CampusMonk Daily Practice Problem (DPP 01)</span>
-    </div>
-    <div class="q-text">Q28  .In a certain code language ‘CAT’ is written as ‘3120’ and ‘DOG’ is written as ‘4157’. What will be the decoded form of ‘25144’?</div>
-
-    <div class="solution-box">
-      <div class="solution-header">✔ Correct Answer: (Refer Detailed Key)</div>
-      <div class="solution-text">Apply letter-to-number mapping (A=1, Z=26) or reverse mapping (A=26, Z=1) to verify positional substitution.</div>
-    </div>
-  </div>
-
-  <div class="q-card">
-    <div class="q-header">
-      <span class="q-number">QUESTION 61</span>
-      <span class="q-source">CampusMonk Daily Practice Problem (DPP 01)</span>
-    </div>
-    <div class="q-text">Q31 . In this question, from the given alternatives select the word which cannot be formed using the letters of the given word. CONSTITUTIONAL</div>
-    <div class="options-grid">
-      <div class="opt-item"><span class="opt-letter">(A)</span><span>CONSULT</span></div>
-      <div class="opt-item"><span class="opt-letter">(B)</span><span>TUITION</span></div>
-      <div class="opt-item"><span class="opt-letter">(C)</span><span>TALENT</span></div>
-      <div class="opt-item"><span class="opt-letter">(D)</span><span>LOCATION 32..If AT = 20 and BET = 200, then what is FAT =? 1) 500  2) 100  3) 300  4) 120  5) None of these 33 .In a certain code ROAM is written as 5913 and DONE is written as 4962: How is MEAN written in that code? 1) 5216          2) 3126         3) 3216  4) 9126  5) None of these 34. .IF BAT coded as 9, Take coded as 16,then CAREER Coded as a.35  b.36  c.64  d.25</span></div>
-    </div>
-
-    <div class="solution-box">
-      <div class="solution-header">✔ Correct Answer: (Refer Detailed Key)</div>
-      <div class="solution-text">Apply letter-to-number mapping (A=1, Z=26) or reverse mapping (A=26, Z=1) to verify positional substitution.</div>
-    </div>
-  </div>
-
-  <div class="q-card">
-    <div class="q-header">
-      <span class="q-number">QUESTION 62</span>
-      <span class="q-source">CampusMonk Daily Practice Problem (DPP 01)</span>
-    </div>
-    <div class="q-text">Q35 . Z, U, Q, ? L </div>
-    <div class="options-grid">
-      <div class="opt-item"><span class="opt-letter">(A)</span><span>I</span></div>
-      <div class="opt-item"><span class="opt-letter">(B)</span><span>K</span></div>
-      <div class="opt-item"><span class="opt-letter">(C)</span><span>M</span></div>
-      <div class="opt-item"><span class="opt-letter">(D)</span><span>N</span></div>
-    </div>
-
-    <div class="solution-box">
-      <div class="solution-header">✔ Correct Answer: (Refer Detailed Key)</div>
-      <div class="solution-text">Apply letter-to-number mapping (A=1, Z=26) or reverse mapping (A=26, Z=1) to verify positional substitution.</div>
-    </div>
-  </div>
-
-  <div class="q-card">
-    <div class="q-header">
-      <span class="q-number">QUESTION 63</span>
-      <span class="q-source">CampusMonk Daily Practice Problem (DPP 01)</span>
-    </div>
-    <div class="q-text">Q36 . Z, W, S, P, L, I, E, ? </div>
-    <div class="options-grid">
-      <div class="opt-item"><span class="opt-letter">(A)</span><span>B</span></div>
-      <div class="opt-item"><span class="opt-letter">(B)</span><span>D</span></div>
-      <div class="opt-item"><span class="opt-letter">(C)</span><span>F</span></div>
-      <div class="opt-item"><span class="opt-letter">(D)</span><span>K</span></div>
-    </div>
-
-    <div class="solution-box">
-      <div class="solution-header">✔ Correct Answer: (Refer Detailed Key)</div>
-      <div class="solution-text">Apply letter-to-number mapping (A=1, Z=26) or reverse mapping (A=26, Z=1) to verify positional substitution.</div>
-    </div>
-  </div>
-
-  <div class="q-card">
-    <div class="q-header">
-      <span class="q-number">QUESTION 64</span>
-      <span class="q-source">CampusMonk Daily Practice Problem (DPP 01)</span>
-    </div>
-    <div class="q-text">Q37   . Z, Y, X, U, T, S, P, O, N, K, ?, ? </div>
-    <div class="options-grid">
-      <div class="opt-item"><span class="opt-letter">(A)</span><span>H, G</span></div>
-      <div class="opt-item"><span class="opt-letter">(B)</span><span>H, I</span></div>
-      <div class="opt-item"><span class="opt-letter">(C)</span><span>I, H</span></div>
-      <div class="opt-item"><span class="opt-letter">(D)</span><span>J, I</span></div>
-      <div class="opt-item"><span class="opt-letter">(A)</span><span>123</span></div>
-      <div class="opt-item"><span class="opt-letter">(B)</span><span>23</span></div>
-      <div class="opt-item"><span class="opt-letter">(C)</span><span>456</span></div>
-      <div class="opt-item"><span class="opt-letter">(D)</span><span>345 39. If &#x27;÷&#x27; stands for subtraction, &#x27;-&#x27; stands for addition, &#x27;×&#x27; stands for division and &#x27;+&#x27; stands for multiplication, then which one of the following equation is correct?</span></div>
-      <div class="opt-item"><span class="opt-letter">(A)</span><span>35 ÷ 4 - 25 × 5 + 5 = 28</span></div>
-      <div class="opt-item"><span class="opt-letter">(B)</span><span>35 ÷ 4 - 25 × 5 + 5 = 61</span></div>
-      <div class="opt-item"><span class="opt-letter">(C)</span><span>35 ÷ 4 - 25 × 5 + 5 = 41</span></div>
-      <div class="opt-item"><span class="opt-letter">(D)</span><span>35 ÷ 4 - 25 × 5 + 5 = 56 40.  Arrange the following words as per order in the dictionary. 1. Logarithm    2. Logistics    3. Lost   4. Lotion    5. Locomotive</span></div>
-      <div class="opt-item"><span class="opt-letter">(A)</span><span>4,5,3,2,1</span></div>
-      <div class="opt-item"><span class="opt-letter">(B)</span><span>5,4,1,2,3</span></div>
-      <div class="opt-item"><span class="opt-letter">(C)</span><span>3,5,1,2,4</span></div>
-      <div class="opt-item"><span class="opt-letter">(D)</span><span>5,1,2,3,4</span></div>
-    </div>
-
-    <div class="solution-box">
-      <div class="solution-header">✔ Correct Answer: (Refer Detailed Key)</div>
-      <div class="solution-text">Apply letter-to-number mapping (A=1, Z=26) or reverse mapping (A=26, Z=1) to verify positional substitution.</div>
-    </div>
-  </div>
-
-  <div class="q-card">
-    <div class="q-header">
-      <span class="q-number">QUESTION 65</span>
-      <span class="q-source">CampusMonk Daily Practice Problem (DPP 01)</span>
-    </div>
-    <div class="q-text">Q41 .If A = 26, DOT = 42, then CONE = ? </div>
-    <div class="options-grid">
-      <div class="opt-item"><span class="opt-letter">(A)</span><span>71</span></div>
-      <div class="opt-item"><span class="opt-letter">(B)</span><span>70</span></div>
-      <div class="opt-item"><span class="opt-letter">(C)</span><span>65</span></div>
-      <div class="opt-item"><span class="opt-letter">(D)</span><span>60 NOTES ALPHA OPP TRICK A</span></div>
-      <div class="opt-item"><span class="opt-letter">(1)</span><span>Z</span></div>
-      <div class="opt-item"><span class="opt-letter">(2)</span><span>Y</span></div>
-      <div class="opt-item"><span class="opt-letter">(3)</span><span>X</span></div>
-      <div class="opt-item"><span class="opt-letter">(4)</span><span>W</span></div>
-      <div class="opt-item"><span class="opt-letter">(5)</span><span>V</span></div>
-    </div>
-
-    <div class="solution-box">
-      <div class="solution-header">✔ Correct Answer: (Refer Detailed Key)</div>
-      <div class="solution-text">Apply letter-to-number mapping (A=1, Z=26) or reverse mapping (A=26, Z=1) to verify positional substitution.</div>
-    </div>
-  </div>
-
-  <div class="q-card">
-    <div class="q-header">
-      <span class="q-number">QUESTION 66</span>
-      <span class="q-source">[OnlineStudy4U] INFOSYS TEST SERIES-2</span>
-    </div>
+    <div class="q-header"><span class="q-num">QUESTION 38</span><span class="q-src">[OnlineStudy4U] INFOSYS TEST SERIES-2</span></div>
     <div class="q-text">If
 &quot;MANGO&quot; is written as &quot;51&quot;, &quot;APPLE&quot;
 as &quot;50&quot;, then &quot;GRAPE&quot; is coded as?</div>
-    <div class="options-grid">
-      <div class="opt-item"><span class="opt-letter">(A)</span><span>54</span></div>
-      <div class="opt-item is-correct"><span class="opt-letter">(B)</span><span>53</span></div>
-      <div class="opt-item"><span class="opt-letter">(C)</span><span>52</span></div>
-      <div class="opt-item"><span class="opt-letter">(D)</span><span>55</span></div>
+    <div class="opts">
+      <div class="opt"><span class="opt-letter">(A)</span><span>54</span></div>
+      <div class="opt correct"><span class="opt-letter">(B)</span><span>53</span></div>
+      <div class="opt"><span class="opt-letter">(C)</span><span>52</span></div>
+      <div class="opt"><span class="opt-letter">(D)</span><span>55</span></div>
     </div>
 
-    <div class="solution-box">
-      <div class="solution-header">✔ Correct Answer: (B)</div>
-      <div class="solution-text">Rule:
+    <div class="sol">
+      <div class="sol-hdr">✔ Correct Answer: (B)</div>
+      <div>Rule:
 Add positions of letters. MANGO=13+1+14+7+15=50.
 APPLE=1+16+16+12+5=50. Correction rule → Actually MANGO=50,
 APPLE=50. So GRAPE=7+18+1+16+5=47.</div>
@@ -2029,45 +1268,39 @@ APPLE=50. So GRAPE=7+18+1+16+5=47.</div>
   </div>
 
   <div class="q-card">
-    <div class="q-header">
-      <span class="q-number">QUESTION 67</span>
-      <span class="q-source">[OnlineStudy4U] INFOSYS TEST SERIES-2</span>
-    </div>
+    <div class="q-header"><span class="q-num">QUESTION 39</span><span class="q-src">[OnlineStudy4U] INFOSYS TEST SERIES-2</span></div>
     <div class="q-text">If
 ‘BOOK’ is coded as ‘DSSR’, then how is
 ‘PEN’ coded?</div>
-    <div class="options-grid">
-      <div class="opt-item"><span class="opt-letter">(A)</span><span>RGP</span></div>
-      <div class="opt-item"><span class="opt-letter">(B)</span><span>RGPQ</span></div>
-      <div class="opt-item is-correct"><span class="opt-letter">(C)</span><span>RGQ</span></div>
-      <div class="opt-item"><span class="opt-letter">(D)</span><span>QGP</span></div>
+    <div class="opts">
+      <div class="opt"><span class="opt-letter">(A)</span><span>RGP</span></div>
+      <div class="opt"><span class="opt-letter">(B)</span><span>RGPQ</span></div>
+      <div class="opt correct"><span class="opt-letter">(C)</span><span>RGQ</span></div>
+      <div class="opt"><span class="opt-letter">(D)</span><span>QGP</span></div>
     </div>
 
-    <div class="solution-box">
-      <div class="solution-header">✔ Correct Answer: (C)</div>
-      <div class="solution-text">Code
+    <div class="sol">
+      <div class="sol-hdr">✔ Correct Answer: (C)</div>
+      <div>Code
 rule: Each letter shifted +2 in alphabet. B→D, O→S, O→S,
 K→R. So PEN → R(G)(Q).</div>
     </div>
   </div>
 
   <div class="q-card">
-    <div class="q-header">
-      <span class="q-number">QUESTION 68</span>
-      <span class="q-source">[OnlineStudy4U] Infosys Full Length Mock Test- 2</span>
-    </div>
+    <div class="q-header"><span class="q-num">QUESTION 40</span><span class="q-src">[OnlineStudy4U] Infosys Full Length Mock Test- 2</span></div>
     <div class="q-text">If PLANET is coded as QMBOFU, how is ORBIT
 coded?</div>
-    <div class="options-grid">
-      <div class="opt-item is-correct"><span class="opt-letter">(A)</span><span>PSCJU</span></div>
-      <div class="opt-item"><span class="opt-letter">(B)</span><span>NQAHS</span></div>
-      <div class="opt-item"><span class="opt-letter">(C)</span><span>PSCJT</span></div>
-      <div class="opt-item"><span class="opt-letter">(D)</span><span>PSBJU</span></div>
+    <div class="opts">
+      <div class="opt correct"><span class="opt-letter">(A)</span><span>PSCJU</span></div>
+      <div class="opt"><span class="opt-letter">(B)</span><span>NQAHS</span></div>
+      <div class="opt"><span class="opt-letter">(C)</span><span>PSCJT</span></div>
+      <div class="opt"><span class="opt-letter">(D)</span><span>PSBJU</span></div>
     </div>
 
-    <div class="solution-box">
-      <div class="solution-header">✔ Correct Answer: (A)</div>
-      <div class="solution-text">Each letter moves one step forward: P→Q,
+    <div class="sol">
+      <div class="sol-hdr">✔ Correct Answer: (A)</div>
+      <div>Each letter moves one step forward: P→Q,
 L→M, A→B, N→O, E→F, T→U. Apply the same
 to ORBIT: O→P, R→S, B→C, I→J, T→U. Code:
 PSCJU.</div>
@@ -2075,238 +1308,203 @@ PSCJU.</div>
   </div>
 
   <div class="q-card">
-    <div class="q-header">
-      <span class="q-number">QUESTION 69</span>
-      <span class="q-source">[OnlineStudy4U] Infosys Full Length Mock Test- 2</span>
-    </div>
+    <div class="q-header"><span class="q-num">QUESTION 41</span><span class="q-src">[OnlineStudy4U] Infosys Full Length Mock Test- 2</span></div>
     <div class="q-text">If REACH is coded as SFBDI, how is LOGIC
 coded?</div>
-    <div class="options-grid">
-      <div class="opt-item is-correct"><span class="opt-letter">(A)</span><span>MPHJD</span></div>
-      <div class="opt-item"><span class="opt-letter">(B)</span><span>KNFHB</span></div>
-      <div class="opt-item"><span class="opt-letter">(C)</span><span>MPGJD</span></div>
-      <div class="opt-item"><span class="opt-letter">(D)</span><span>NPHJD</span></div>
+    <div class="opts">
+      <div class="opt correct"><span class="opt-letter">(A)</span><span>MPHJD</span></div>
+      <div class="opt"><span class="opt-letter">(B)</span><span>KNFHB</span></div>
+      <div class="opt"><span class="opt-letter">(C)</span><span>MPGJD</span></div>
+      <div class="opt"><span class="opt-letter">(D)</span><span>NPHJD</span></div>
     </div>
 
-    <div class="solution-box">
-      <div class="solution-header">✔ Correct Answer: (A)</div>
-      <div class="solution-text">Each letter moves one step forward: R→S,
+    <div class="sol">
+      <div class="sol-hdr">✔ Correct Answer: (A)</div>
+      <div>Each letter moves one step forward: R→S,
 E→F, A→B, C→D, H→I. So LOGIC → M P H J D.</div>
     </div>
   </div>
 
   <div class="q-card">
-    <div class="q-header">
-      <span class="q-number">QUESTION 70</span>
-      <span class="q-source">[OnlineStudy4U] Infosys Full Length Mock Test- 3</span>
-    </div>
+    <div class="q-header"><span class="q-num">QUESTION 42</span><span class="q-src">[OnlineStudy4U] Infosys Full Length Mock Test- 3</span></div>
     <div class="q-text">If DIGITAL is coded as EJHJUBM, how is
 ANALOG coded?</div>
-    <div class="options-grid">
-      <div class="opt-item is-correct"><span class="opt-letter">(A)</span><span>BOBMPH</span></div>
-      <div class="opt-item"><span class="opt-letter">(B)</span><span>ZMZKNF</span></div>
-      <div class="opt-item"><span class="opt-letter">(C)</span><span>BOBNPH</span></div>
-      <div class="opt-item"><span class="opt-letter">(D)</span><span>BMBMPH</span></div>
+    <div class="opts">
+      <div class="opt correct"><span class="opt-letter">(A)</span><span>BOBMPH</span></div>
+      <div class="opt"><span class="opt-letter">(B)</span><span>ZMZKNF</span></div>
+      <div class="opt"><span class="opt-letter">(C)</span><span>BOBNPH</span></div>
+      <div class="opt"><span class="opt-letter">(D)</span><span>BMBMPH</span></div>
     </div>
 
-    <div class="solution-box">
-      <div class="solution-header">✔ Correct Answer: (A)</div>
-      <div class="solution-text">Each letter moves one step forward: A→B,
+    <div class="sol">
+      <div class="sol-hdr">✔ Correct Answer: (A)</div>
+      <div>Each letter moves one step forward: A→B,
 N→O, A→B, L→M, O→P, G→H. So ANALOG →
 BOBMPH.</div>
     </div>
   </div>
 
   <div class="q-card">
-    <div class="q-header">
-      <span class="q-number">QUESTION 71</span>
-      <span class="q-source">[OnlineStudy4U] Infosys Full Length Mock Test- 4</span>
-    </div>
+    <div class="q-header"><span class="q-num">QUESTION 43</span><span class="q-src">[OnlineStudy4U] Infosys Full Length Mock Test- 4</span></div>
     <div class="q-text">If BASKET is coded as TEKSAB, how is FLOWER
 coded?</div>
-    <div class="options-grid">
-      <div class="opt-item is-correct"><span class="opt-letter">(A)</span><span>REWOLF</span></div>
-      <div class="opt-item"><span class="opt-letter">(B)</span><span>REWOFL</span></div>
-      <div class="opt-item"><span class="opt-letter">(C)</span><span>RWEOLF</span></div>
-      <div class="opt-item"><span class="opt-letter">(D)</span><span>ELWORF</span></div>
+    <div class="opts">
+      <div class="opt correct"><span class="opt-letter">(A)</span><span>REWOLF</span></div>
+      <div class="opt"><span class="opt-letter">(B)</span><span>REWOFL</span></div>
+      <div class="opt"><span class="opt-letter">(C)</span><span>RWEOLF</span></div>
+      <div class="opt"><span class="opt-letter">(D)</span><span>ELWORF</span></div>
     </div>
 
-    <div class="solution-box">
-      <div class="solution-header">✔ Correct Answer: (A)</div>
-      <div class="solution-text">The code is the word written backwards.
+    <div class="sol">
+      <div class="sol-hdr">✔ Correct Answer: (A)</div>
+      <div>The code is the word written backwards.
 FLOWER → REWOLF.</div>
     </div>
   </div>
 
   <div class="q-card">
-    <div class="q-header">
-      <span class="q-number">QUESTION 72</span>
-      <span class="q-source">[OnlineStudy4U] Infosys Full Length Mock Test- 5</span>
-    </div>
+    <div class="q-header"><span class="q-num">QUESTION 44</span><span class="q-src">[OnlineStudy4U] Infosys Full Length Mock Test- 5</span></div>
     <div class="q-text">If A=1, B=2, … and GAME is coded as
 26, the same way TEAM is coded as</div>
-    <div class="options-grid">
-      <div class="opt-item"><span class="opt-letter">(A)</span><span>36</span></div>
-      <div class="opt-item"><span class="opt-letter">(B)</span><span>38</span></div>
-      <div class="opt-item is-correct"><span class="opt-letter">(C)</span><span>39</span></div>
-      <div class="opt-item"><span class="opt-letter">(D)</span><span>42</span></div>
+    <div class="opts">
+      <div class="opt"><span class="opt-letter">(A)</span><span>36</span></div>
+      <div class="opt"><span class="opt-letter">(B)</span><span>38</span></div>
+      <div class="opt correct"><span class="opt-letter">(C)</span><span>39</span></div>
+      <div class="opt"><span class="opt-letter">(D)</span><span>42</span></div>
     </div>
 
-    <div class="solution-box">
-      <div class="solution-header">✔ Correct Answer: (C)</div>
-      <div class="solution-text">GAME = 7+1+13+5 = 26. TEAM = 20+5+1+13 = 39.</div>
+    <div class="sol">
+      <div class="sol-hdr">✔ Correct Answer: (C)</div>
+      <div>GAME = 7+1+13+5 = 26. TEAM = 20+5+1+13 = 39.</div>
     </div>
   </div>
 
   <div class="q-card">
-    <div class="q-header">
-      <span class="q-number">QUESTION 73</span>
-      <span class="q-source">[OnlineStudy4U] Infosys Full Length Mock Test- 5</span>
-    </div>
+    <div class="q-header"><span class="q-num">QUESTION 45</span><span class="q-src">[OnlineStudy4U] Infosys Full Length Mock Test- 5</span></div>
     <div class="q-text">If FILTER is coded as GJMUFS, how is BUFFER
 coded?</div>
-    <div class="options-grid">
-      <div class="opt-item is-correct"><span class="opt-letter">(A)</span><span>CVGGFS</span></div>
-      <div class="opt-item"><span class="opt-letter">(B)</span><span>ATGEDQ</span></div>
-      <div class="opt-item"><span class="opt-letter">(C)</span><span>CVHGFS</span></div>
-      <div class="opt-item"><span class="opt-letter">(D)</span><span>BWGGFS</span></div>
+    <div class="opts">
+      <div class="opt correct"><span class="opt-letter">(A)</span><span>CVGGFS</span></div>
+      <div class="opt"><span class="opt-letter">(B)</span><span>ATGEDQ</span></div>
+      <div class="opt"><span class="opt-letter">(C)</span><span>CVHGFS</span></div>
+      <div class="opt"><span class="opt-letter">(D)</span><span>BWGGFS</span></div>
     </div>
 
-    <div class="solution-box">
-      <div class="solution-header">✔ Correct Answer: (A)</div>
-      <div class="solution-text">Every letter moves one step forward. BUFFER
+    <div class="sol">
+      <div class="sol-hdr">✔ Correct Answer: (A)</div>
+      <div>Every letter moves one step forward. BUFFER
 → C V G G F S.</div>
     </div>
   </div>
 
   <div class="q-card">
-    <div class="q-header">
-      <span class="q-number">QUESTION 74</span>
-      <span class="q-source">[OnlineStudy4U] Infosys Full Length Mock Test- 6</span>
-    </div>
+    <div class="q-header"><span class="q-num">QUESTION 46</span><span class="q-src">[OnlineStudy4U] Infosys Full Length Mock Test- 6</span></div>
     <div class="q-text">If
 COLD is coded as DPME, how is WARM coded?</div>
-    <div class="options-grid">
-      <div class="opt-item is-correct"><span class="opt-letter">(A)</span><span>XBSN</span></div>
-      <div class="opt-item"><span class="opt-letter">(B)</span><span>VZQL</span></div>
-      <div class="opt-item"><span class="opt-letter">(C)</span><span>XASN</span></div>
-      <div class="opt-item"><span class="opt-letter">(D)</span><span>VBSL</span></div>
+    <div class="opts">
+      <div class="opt correct"><span class="opt-letter">(A)</span><span>XBSN</span></div>
+      <div class="opt"><span class="opt-letter">(B)</span><span>VZQL</span></div>
+      <div class="opt"><span class="opt-letter">(C)</span><span>XASN</span></div>
+      <div class="opt"><span class="opt-letter">(D)</span><span>VBSL</span></div>
     </div>
 
-    <div class="solution-box">
-      <div class="solution-header">✔ Correct Answer: (A)</div>
-      <div class="solution-text">Each
+    <div class="sol">
+      <div class="sol-hdr">✔ Correct Answer: (A)</div>
+      <div>Each
 letter moves one step forward: W→X, A→B, R→S, M→N.
 WARM → XBSN.</div>
     </div>
   </div>
 
   <div class="q-card">
-    <div class="q-header">
-      <span class="q-number">QUESTION 75</span>
-      <span class="q-source">[OnlineStudy4U] Infosys Full Length Mock Test- 6</span>
-    </div>
+    <div class="q-header"><span class="q-num">QUESTION 47</span><span class="q-src">[OnlineStudy4U] Infosys Full Length Mock Test- 6</span></div>
     <div class="q-text">If
 OUTPUT is coded as PSVQVU, how is INPUT coded?</div>
-    <div class="options-grid">
-      <div class="opt-item"><span class="opt-letter">(A)</span><span>JMQVU</span></div>
-      <div class="opt-item"><span class="opt-letter">(B)</span><span>HMOV
+    <div class="opts">
+      <div class="opt"><span class="opt-letter">(A)</span><span>JMQVU</span></div>
+      <div class="opt"><span class="opt-letter">(B)</span><span>HMOV
 S</span></div>
-      <div class="opt-item is-correct"><span class="opt-letter">(C)</span><span>JOQVU</span></div>
-      <div class="opt-item"><span class="opt-letter">(D)</span><span>JMQVT</span></div>
+      <div class="opt correct"><span class="opt-letter">(C)</span><span>JOQVU</span></div>
+      <div class="opt"><span class="opt-letter">(D)</span><span>JMQVT</span></div>
     </div>
 
-    <div class="solution-box">
-      <div class="solution-header">✔ Correct Answer: (C)</div>
-      <div class="solution-text">Each
+    <div class="sol">
+      <div class="sol-hdr">✔ Correct Answer: (C)</div>
+      <div>Each
 letter moves one step forward: I→J, N→O, P→Q, U→V,
 T→U. INPUT → JOQVU.</div>
     </div>
   </div>
 
   <div class="q-card">
-    <div class="q-header">
-      <span class="q-number">QUESTION 76</span>
-      <span class="q-source">[OnlineStudy4U] Infosys Full Length Mock Test- 8</span>
-    </div>
+    <div class="q-header"><span class="q-num">QUESTION 48</span><span class="q-src">[OnlineStudy4U] Infosys Full Length Mock Test- 8</span></div>
     <div class="q-text">If
 TABLE is coded as UBCMF, how is CHAIR coded?</div>
-    <div class="options-grid">
-      <div class="opt-item is-correct"><span class="opt-letter">(A)</span><span>DIBJS</span></div>
-      <div class="opt-item"><span class="opt-letter">(B)</span><span>BGZHQ</span></div>
-      <div class="opt-item"><span class="opt-letter">(C)</span><span>DIBJR</span></div>
-      <div class="opt-item"><span class="opt-letter">(D)</span><span>CIBJS</span></div>
+    <div class="opts">
+      <div class="opt correct"><span class="opt-letter">(A)</span><span>DIBJS</span></div>
+      <div class="opt"><span class="opt-letter">(B)</span><span>BGZHQ</span></div>
+      <div class="opt"><span class="opt-letter">(C)</span><span>DIBJR</span></div>
+      <div class="opt"><span class="opt-letter">(D)</span><span>CIBJS</span></div>
     </div>
 
-    <div class="solution-box">
-      <div class="solution-header">✔ Correct Answer: (A)</div>
-      <div class="solution-text">Each
+    <div class="sol">
+      <div class="sol-hdr">✔ Correct Answer: (A)</div>
+      <div>Each
 letter moves one step forward. CHAIR → D I B J S.</div>
     </div>
   </div>
 
   <div class="q-card">
-    <div class="q-header">
-      <span class="q-number">QUESTION 77</span>
-      <span class="q-source">[OnlineStudy4U] Infosys Full Length Mock Test- 8</span>
-    </div>
+    <div class="q-header"><span class="q-num">QUESTION 49</span><span class="q-src">[OnlineStudy4U] Infosys Full Length Mock Test- 8</span></div>
     <div class="q-text">If
 BRIDGE is coded as CSJEHF, how is TUNNEL coded?</div>
-    <div class="options-grid">
-      <div class="opt-item is-correct"><span class="opt-letter">(A)</span><span>UVOOFM</span></div>
-      <div class="opt-item"><span class="opt-letter">(B)</span><span>STMMDK</span></div>
-      <div class="opt-item"><span class="opt-letter">(C)</span><span>UVOOEL</span></div>
-      <div class="opt-item"><span class="opt-letter">(D)</span><span>SVOOFM</span></div>
+    <div class="opts">
+      <div class="opt correct"><span class="opt-letter">(A)</span><span>UVOOFM</span></div>
+      <div class="opt"><span class="opt-letter">(B)</span><span>STMMDK</span></div>
+      <div class="opt"><span class="opt-letter">(C)</span><span>UVOOEL</span></div>
+      <div class="opt"><span class="opt-letter">(D)</span><span>SVOOFM</span></div>
     </div>
 
-    <div class="solution-box">
-      <div class="solution-header">✔ Correct Answer: (A)</div>
-      <div class="solution-text">Each
+    <div class="sol">
+      <div class="sol-hdr">✔ Correct Answer: (A)</div>
+      <div>Each
 letter moves one step forward. TUNNEL → U V O O F M.</div>
     </div>
   </div>
 
   <div class="q-card">
-    <div class="q-header">
-      <span class="q-number">QUESTION 78</span>
-      <span class="q-source">[OnlineStudy4U] Infosys Full Length Mock Test- 9</span>
-    </div>
+    <div class="q-header"><span class="q-num">QUESTION 50</span><span class="q-src">[OnlineStudy4U] Infosys Full Length Mock Test- 9</span></div>
     <div class="q-text">If
 MONTH is coded as NPOUI, how is YEAR coded?</div>
-    <div class="options-grid">
-      <div class="opt-item is-correct"><span class="opt-letter">(A)</span><span>ZFBS</span></div>
-      <div class="opt-item"><span class="opt-letter">(B)</span><span>XDZQ</span></div>
-      <div class="opt-item"><span class="opt-letter">(C)</span><span>ZFAR</span></div>
-      <div class="opt-item"><span class="opt-letter">(D)</span><span>ZFBT</span></div>
+    <div class="opts">
+      <div class="opt correct"><span class="opt-letter">(A)</span><span>ZFBS</span></div>
+      <div class="opt"><span class="opt-letter">(B)</span><span>XDZQ</span></div>
+      <div class="opt"><span class="opt-letter">(C)</span><span>ZFAR</span></div>
+      <div class="opt"><span class="opt-letter">(D)</span><span>ZFBT</span></div>
     </div>
 
-    <div class="solution-box">
-      <div class="solution-header">✔ Correct Answer: (A)</div>
-      <div class="solution-text">Each
+    <div class="sol">
+      <div class="sol-hdr">✔ Correct Answer: (A)</div>
+      <div>Each
 letter moves one step forward. YEAR → Z F B S.</div>
     </div>
   </div>
 
   <div class="q-card">
-    <div class="q-header">
-      <span class="q-number">QUESTION 79</span>
-      <span class="q-source">[OnlineStudy4U] Infosys Full Length Mock Test- 9</span>
-    </div>
+    <div class="q-header"><span class="q-num">QUESTION 51</span><span class="q-src">[OnlineStudy4U] Infosys Full Length Mock Test- 9</span></div>
     <div class="q-text">If
 SILVER is coded as TJMWFS, how is COPPER coded?</div>
-    <div class="options-grid">
-      <div class="opt-item is-correct"><span class="opt-letter">(A)</span><span>DPQQFS</span></div>
-      <div class="opt-item"><span class="opt-letter">(B)</span><span>BNOodQ</span></div>
-      <div class="opt-item"><span class="opt-letter">(C)</span><span>DPQQER</span></div>
-      <div class="opt-item"><span class="opt-letter">(D)</span><span>BNOOQD</span></div>
+    <div class="opts">
+      <div class="opt correct"><span class="opt-letter">(A)</span><span>DPQQFS</span></div>
+      <div class="opt"><span class="opt-letter">(B)</span><span>BNOodQ</span></div>
+      <div class="opt"><span class="opt-letter">(C)</span><span>DPQQER</span></div>
+      <div class="opt"><span class="opt-letter">(D)</span><span>BNOOQD</span></div>
     </div>
 
-    <div class="solution-box">
-      <div class="solution-header">✔ Correct Answer: (A)</div>
-      <div class="solution-text">Each
+    <div class="sol">
+      <div class="sol-hdr">✔ Correct Answer: (A)</div>
+      <div>Each
 letter +1. COPPER → D P Q Q F S.</div>
     </div>
   </div>
-
-</body>
-</html>
+</body></html>
