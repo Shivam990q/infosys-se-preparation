@@ -1,0 +1,1298 @@
+{
+  "test": {
+    "name": "3. Full Length Verbala Ability Mock",
+    "testTotalDuration": 900000,
+    "settings": {
+      "fonts": {
+        "fonts": [
+          {
+            "face": "var(--font-family)",
+            "supported": true
+          }
+        ],
+        "include": "https://cms-gcp.classplusapp.com/parser/v3/css/combined?face=var(--font-family)"
+      },
+      "isSectionSwitchingEnabled": true
+    },
+    "practiceTestUrls": [],
+    "testFormat": "DEFAULT"
+  },
+  "filters": {
+    "incorrect": 0,
+    "correct": 0,
+    "partiallyMarked": 0,
+    "unattempted": 1,
+    "markForReview": 0,
+    "graceMarked": 0,
+    "revaluated": 0
+  },
+  "timeTaken": 0,
+  "courseId": "844567",
+  "showReportQuestion": true,
+  "sectionWiseStats": [
+    {
+      "marksScored": 0,
+      "sectionMarks": 20,
+      "accuracy": 0,
+      "_id": "6ab033465f3cafd20857b241",
+      "totalQuestions": 20,
+      "attemptDuration": 0,
+      "correctAnswers": 0,
+      "inCorrectAnswers": 0,
+      "partiallyCorrectAnswers": 0,
+      "unAttempted": 20,
+      "name": "Verbal Solution 04",
+      "order": 1,
+      "sectionDuration": 0,
+      "sectionId": "661625376abf626dfa984e4a"
+    }
+  ],
+  "sections": [
+    {
+      "draftMode": false,
+      "isActive": true,
+      "sectionDuration": 0,
+      "sectionMarks": 20,
+      "sectionInstructions": " ",
+      "hasOptionalQuestions": false,
+      "_id": "661625376abf626dfa984e4a",
+      "name": "Verbal Solution 04",
+      "order": 1,
+      "createdAt": "2025-10-02T06:57:34.391Z",
+      "updatedAt": "2025-10-02T06:57:34.391Z",
+      "questions": [
+        {
+          "_id": "661625436abf6239f1984e56",
+          "name": "<p>Read each of the following sentences to find out if there is any grammatical error in it. The error, if any, will be in one part of the sentence. The number (1, 2, 3 or 4) of this part is your answer.&nbsp;</p>\n<p></p>\n<p>Children genreally (1) fight above (2) petty issues. (3) No error. (4)</p>",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "Read each of the following sentences to find out if there is any grammatical error in it. The error, if any, will be in one part of the sentence. The number (1, 2, 3 or 4) of this part is your answer. \n\nChildren genreally (1) fight above (2) petty issues. (3) No error. (4)",
+          "sectionId": "661625376abf626dfa984e4a",
+          "order": 1,
+          "questionSubmitOrder": 1,
+          "options": [
+            {
+              "name": "<p>1</p>",
+              "nameText": "1",
+              "isCorrect": false,
+              "_id": "66162b249f75e171c975c77f",
+              "isMarked": false
+            },
+            {
+              "name": "<p>2</p>",
+              "nameText": "2",
+              "isCorrect": true,
+              "_id": "66162b249f75e148d175c780",
+              "isMarked": false
+            },
+            {
+              "name": "<p>3</p>",
+              "nameText": "3",
+              "isCorrect": false,
+              "_id": "66162b249f75e1e04775c781",
+              "isMarked": false
+            },
+            {
+              "name": "<p>4</p>",
+              "nameText": "4",
+              "isCorrect": false,
+              "_id": "66162b249f75e1aaeb75c782",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p>Ans - b</p>\n<p></p>\n<p><iframe title=\"3\" src=\"//www.youtube.com/embed/jPfAyjQUiX0\" width=\"657\" height=\"370\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6ab033465f3cafbf9457b22c",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "661625436abf62f185984e5b",
+          "name": "<p>Fill in the blank :</p>\n<p></p>\n<p>She lived _____ the expectations.</p>",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "Fill in the blank :\n\nShe lived _____ the expectations.",
+          "sectionId": "661625376abf626dfa984e4a",
+          "order": 2,
+          "questionSubmitOrder": 2,
+          "options": [
+            {
+              "name": "<p>As per</p>",
+              "nameText": "As per",
+              "isCorrect": false,
+              "_id": "66162b249f75e1c94375c79f",
+              "isMarked": false
+            },
+            {
+              "name": "<p>Up to</p>",
+              "nameText": "Up to",
+              "isCorrect": true,
+              "_id": "66162b249f75e11e9575c7a0",
+              "isMarked": false
+            },
+            {
+              "name": "<p>On</p>",
+              "nameText": "On",
+              "isCorrect": false,
+              "_id": "66162b249f75e1fb3075c7a1",
+              "isMarked": false
+            },
+            {
+              "name": "<p>At</p>",
+              "nameText": "At",
+              "isCorrect": false,
+              "_id": "66162b249f75e12ecd75c7a2",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p>Ans - b</p>\n<p></p>\n<p><iframe title=\"4\" src=\"//www.youtube.com/embed/aWKXydG8A3E\" width=\"657\" height=\"370\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6ab033465f3caf025957b22d",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "661625436abf622632984e60",
+          "name": "<p>To end in smoke</p>",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "To end in smoke",
+          "sectionId": "661625376abf626dfa984e4a",
+          "order": 3,
+          "questionSubmitOrder": 3,
+          "options": [
+            {
+              "name": "<p>to burn oneself</p>",
+              "nameText": "to burn oneself",
+              "isCorrect": false,
+              "_id": "66162b249f75e18d7375c78f",
+              "isMarked": false
+            },
+            {
+              "name": "<p>to die of hunger</p>",
+              "nameText": "to die of hunger",
+              "isCorrect": false,
+              "_id": "66162b249f75e13c6775c790",
+              "isMarked": false
+            },
+            {
+              "name": "<p>to come to nothing</p>",
+              "nameText": "to come to nothing",
+              "isCorrect": true,
+              "_id": "66162b249f75e1201c75c791",
+              "isMarked": false
+            },
+            {
+              "name": "<p>to become angry</p>",
+              "nameText": "to become angry",
+              "isCorrect": false,
+              "_id": "66162b249f75e18f9675c792",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p>Ans - c</p>\n<p></p>\n<p><iframe title=\"7\" src=\"//www.youtube.com/embed/OREqaAEOHLE\" width=\"657\" height=\"370\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6ab033465f3caf29c557b22e",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "661625436abf626c3e984e65",
+          "name": "<p>Find the Similar meaning of the word :</p>\n<p></p>\n<p><strong>Vent</strong></p>",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "Find the Similar meaning of the word :\n\nVent",
+          "sectionId": "661625376abf626dfa984e4a",
+          "order": 4,
+          "questionSubmitOrder": 4,
+          "options": [
+            {
+              "name": "<p>Wet</p>",
+              "nameText": "Wet",
+              "isCorrect": false,
+              "_id": "66162b249f75e1482575c763",
+              "isMarked": false
+            },
+            {
+              "name": "<p>Dent</p>",
+              "nameText": "Dent",
+              "isCorrect": false,
+              "_id": "66162b249f75e104eb75c764",
+              "isMarked": false
+            },
+            {
+              "name": "<p>End</p>",
+              "nameText": "End",
+              "isCorrect": false,
+              "_id": "66162b249f75e197aa75c765",
+              "isMarked": false
+            },
+            {
+              "name": "<p>Opening</p>",
+              "nameText": "Opening",
+              "isCorrect": true,
+              "_id": "66162b249f75e18b0b75c766",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p>Ans - D</p>\n<p></p>\n<p><iframe title=\"8\" src=\"//www.youtube.com/embed/jb0yrzKy2R4\" width=\"657\" height=\"370\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6ab033465f3caf043857b22f",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "661625436abf621cd0984e6a",
+          "name": "<p>Arrange the sentence :</p>\n<p></p>\n<p>The water tanks may remain empty</p>\n<p>A. on Tuesday evening</p>\n<p>B. in the city</p>\n<p>C. will repair the damaged water pipes</p>\n<p>D. as the water supply department&nbsp;</p>",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "Arrange the sentence :\n\nThe water tanks may remain empty\nA. on Tuesday evening\nB. in the city\nC. will repair the damaged water pipes\nD. as the water supply department ",
+          "sectionId": "661625376abf626dfa984e4a",
+          "order": 5,
+          "questionSubmitOrder": 5,
+          "options": [
+            {
+              "name": "<p>BADC</p>",
+              "nameText": "BADC",
+              "isCorrect": false,
+              "_id": "66162b249f75e12ffd75c75f",
+              "isMarked": false
+            },
+            {
+              "name": "<p>BACD</p>",
+              "nameText": "BACD",
+              "isCorrect": false,
+              "_id": "66162b249f75e115b075c760",
+              "isMarked": false
+            },
+            {
+              "name": "<p>DBAC</p>",
+              "nameText": "DBAC",
+              "isCorrect": false,
+              "_id": "66162b249f75e17eb675c761",
+              "isMarked": false
+            },
+            {
+              "name": "<p>ADCB</p>",
+              "nameText": "ADCB",
+              "isCorrect": true,
+              "_id": "66162b249f75e14b3a75c762",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p>Ans - d</p>\n<p></p>\n<p><iframe title=\"11\" src=\"//www.youtube.com/embed/cmjdg0uLeS0\" width=\"657\" height=\"370\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6ab033465f3caf37ab57b230",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "661625436abf627b91984e6f",
+          "name": "<p>Choose one of the following options that means the opposite of the given word;</p>\n<p></p>\n<p>Pit</p>",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "Choose one of the following options that means the opposite of the given word;\n\nPit",
+          "sectionId": "661625376abf626dfa984e4a",
+          "order": 6,
+          "questionSubmitOrder": 6,
+          "options": [
+            {
+              "name": "<p>Down</p>",
+              "nameText": "Down",
+              "isCorrect": false,
+              "_id": "66162b249f75e16ec375c783",
+              "isMarked": false
+            },
+            {
+              "name": "<p>Up</p>",
+              "nameText": "Up",
+              "isCorrect": false,
+              "_id": "66162b249f75e11c5e75c784",
+              "isMarked": false
+            },
+            {
+              "name": "<p>Correct</p>",
+              "nameText": "Correct",
+              "isCorrect": false,
+              "_id": "66162b249f75e1fc7f75c785",
+              "isMarked": false
+            },
+            {
+              "name": "<p>Peak</p>",
+              "nameText": "Peak",
+              "isCorrect": true,
+              "_id": "66162b249f75e183c275c786",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p>Ans - d</p>\n<p></p>\n<p><iframe title=\"12\" src=\"//www.youtube.com/embed/5XtRChx2ik0\" width=\"657\" height=\"370\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6ab033465f3caf0c5f57b231",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "661625436abf623e28984e74",
+          "name": "<p>Find the correct replacement of the bold sencentence</p>\n<p></p>\n<p>He was very tired as <strong>he is working</strong> since 6 O' clock in the morning.</p>",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "Find the correct replacement of the bold sencentence\n\nHe was very tired as he is working since 6 O' clock in the morning.",
+          "sectionId": "661625376abf626dfa984e4a",
+          "order": 7,
+          "questionSubmitOrder": 7,
+          "options": [
+            {
+              "name": "<p>he was working</p>",
+              "nameText": "he was working",
+              "isCorrect": false,
+              "_id": "66162b249f75e1a17675c793",
+              "isMarked": false
+            },
+            {
+              "name": "<p>he had been working</p>",
+              "nameText": "he had been working",
+              "isCorrect": false,
+              "_id": "66162b249f75e108cf75c794",
+              "isMarked": false
+            },
+            {
+              "name": "<p>he has been working</p>",
+              "nameText": "he has been working",
+              "isCorrect": true,
+              "_id": "66162b249f75e10c4575c795",
+              "isMarked": false
+            },
+            {
+              "name": "<p>he will be working</p>",
+              "nameText": "he will be working",
+              "isCorrect": false,
+              "_id": "66162b249f75e1464f75c796",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p>Ans - c</p>\n<p></p>\n<p><iframe title=\"15\" src=\"//www.youtube.com/embed/n9_Lz2yq_1I\" width=\"657\" height=\"370\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6ab033465f3cafbfdb57b232",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "661625436abf623509984e79",
+          "name": "<p><span style=\"font-family: var(--font-family);\">Find the correct replacement of the bold sencentence</span></p>\n<p></p>\n<p>The girl <strong>to who I sold</strong> my car was very honest.</p>",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "Find the correct replacement of the bold sencentence\n\nThe girl to who I sold my car was very honest.",
+          "sectionId": "661625376abf626dfa984e4a",
+          "order": 8,
+          "questionSubmitOrder": 8,
+          "options": [
+            {
+              "name": "<p>to who I sell</p>",
+              "nameText": "to who I sell",
+              "isCorrect": false,
+              "_id": "66162b249f75e1155575c7a3",
+              "isMarked": false
+            },
+            {
+              "name": "<p>to whom I sold</p>",
+              "nameText": "to whom I sold",
+              "isCorrect": true,
+              "_id": "66162b249f75e170d375c7a4",
+              "isMarked": false
+            },
+            {
+              "name": "<p>to who I sold</p>",
+              "nameText": "to who I sold",
+              "isCorrect": false,
+              "_id": "66162b249f75e15c4e75c7a5",
+              "isMarked": false
+            },
+            {
+              "name": "<p>to whom I sell</p>",
+              "nameText": "to whom I sell",
+              "isCorrect": false,
+              "_id": "66162b249f75e1008d75c7a6",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p>Ans - a</p>\n<p></p>\n<p><iframe title=\"16\" src=\"//www.youtube.com/embed/Xe0iJIeCves\" width=\"657\" height=\"370\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6ab033465f3caf391857b233",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "661625436abf624344984e7e",
+          "name": "<p>What is the antonym of:</p>\n<p></p>\n<p>Meticulous</p>",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "What is the antonym of:\n\nMeticulous",
+          "sectionId": "661625376abf626dfa984e4a",
+          "order": 9,
+          "questionSubmitOrder": 9,
+          "options": [
+            {
+              "name": "<p>Energetic</p>",
+              "nameText": "Energetic",
+              "isCorrect": false,
+              "_id": "66162b249f75e1728475c767",
+              "isMarked": false
+            },
+            {
+              "name": "<p>Slovenly</p>",
+              "nameText": "Slovenly",
+              "isCorrect": true,
+              "_id": "66162b249f75e1e7be75c768",
+              "isMarked": false
+            },
+            {
+              "name": "<p>Ridiculous</p>",
+              "nameText": "Ridiculous",
+              "isCorrect": false,
+              "_id": "66162b249f75e1f03675c769",
+              "isMarked": false
+            },
+            {
+              "name": "<p>Decisive</p>",
+              "nameText": "Decisive",
+              "isCorrect": false,
+              "_id": "66162b249f75e1407875c76a",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p>Ans - b</p>\n<p></p>\n<p><iframe title=\"19\" src=\"//www.youtube.com/embed/WRD-zO_-tm0\" width=\"657\" height=\"370\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6ab033465f3cafa0be57b234",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "661625436abf62ed93984e83",
+          "name": "<p>What is the antonym of:</p>\n<p></p>\n<p>Haphazard</p>",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "What is the antonym of:\n\nHaphazard",
+          "sectionId": "661625376abf626dfa984e4a",
+          "order": 10,
+          "questionSubmitOrder": 10,
+          "options": [
+            {
+              "name": "<p>Confused</p>",
+              "nameText": "Confused",
+              "isCorrect": false,
+              "_id": "66162b249f75e17fe475c76f",
+              "isMarked": false
+            },
+            {
+              "name": "<p>Irregular</p>",
+              "nameText": "Irregular",
+              "isCorrect": false,
+              "_id": "66162b249f75e1e28a75c770",
+              "isMarked": false
+            },
+            {
+              "name": "<p>Planned</p>",
+              "nameText": "Planned",
+              "isCorrect": true,
+              "_id": "66162b249f75e16d1975c771",
+              "isMarked": false
+            },
+            {
+              "name": "<p>Unplanned</p>",
+              "nameText": "Unplanned",
+              "isCorrect": false,
+              "_id": "66162b249f75e19b3275c772",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p>Ans - c</p>\n<p></p>\n<p><iframe title=\"20\" src=\"//www.youtube.com/embed/mPgm73PqNv0\" width=\"657\" height=\"370\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6ab033465f3cafffdd57b235",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "661625436abf6264d4984e88",
+          "name": "<p>If Warm :Hot :: old: ?</p>",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "If Warm :Hot :: old: ?",
+          "sectionId": "661625376abf626dfa984e4a",
+          "order": 11,
+          "questionSubmitOrder": 11,
+          "options": [
+            {
+              "name": "<p>History</p>",
+              "nameText": "History",
+              "isCorrect": false,
+              "_id": "66162b249f75e1b35775c787",
+              "isMarked": false
+            },
+            {
+              "name": "<p>Antique</p>",
+              "nameText": "Antique",
+              "isCorrect": true,
+              "_id": "66162b249f75e156bc75c788",
+              "isMarked": false
+            },
+            {
+              "name": "<p>Fragile</p>",
+              "nameText": "Fragile",
+              "isCorrect": false,
+              "_id": "66162b249f75e15dd475c789",
+              "isMarked": false
+            },
+            {
+              "name": "<p>Gold</p>",
+              "nameText": "Gold",
+              "isCorrect": false,
+              "_id": "66162b249f75e1558675c78a",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p>Ans - b</p>\n<p></p>\n<p><iframe title=\"23\" src=\"//www.youtube.com/embed/BfuI4NdxkOQ\" width=\"657\" height=\"370\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6ab033465f3caf133957b236",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "661625436abf62b70e984e8d",
+          "name": "<h1 class=\"h1\" style=\"line-height: 1.3em; margin-top: 5px; font-weight: 400; font-family: erdana, helvetica, arial, sans-serif; font-size: 29px; color: #610b38; text-align: justify;\"><span style=\"font-size: 12pt;\">Find the correct Analogies</span></h1>\n<p>Poor: Wealthy</p>",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "Find the correct Analogies\nPoor: Wealthy",
+          "sectionId": "661625376abf626dfa984e4a",
+          "order": 12,
+          "questionSubmitOrder": 12,
+          "options": [
+            {
+              "name": "<p>Gauche: Graceful</p>",
+              "nameText": "Gauche: Graceful",
+              "isCorrect": true,
+              "_id": "66162b249f75e1cfed75c797",
+              "isMarked": false
+            },
+            {
+              "name": "<p>Sugar: Sweet</p>",
+              "nameText": "Sugar: Sweet",
+              "isCorrect": false,
+              "_id": "66162b249f75e1f7ad75c798",
+              "isMarked": false
+            },
+            {
+              "name": "<p>Angry: Arrogant</p>",
+              "nameText": "Angry: Arrogant",
+              "isCorrect": false,
+              "_id": "66162b249f75e10cd975c799",
+              "isMarked": false
+            },
+            {
+              "name": "<p>Ice: Cold</p>",
+              "nameText": "Ice: Cold",
+              "isCorrect": false,
+              "_id": "66162b249f75e130b875c79a",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p>Ans - a</p>\n<p></p>\n<p><iframe title=\"24\" src=\"//www.youtube.com/embed/nzBA8ezZXvw\" width=\"657\" height=\"370\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6ab033465f3caf018257b237",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "661625436abf6216a7984e92",
+          "name": "<p>Substitute one word for the following:</p>\n<p></p>\n<p>The practice of having several wives</p>",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "Substitute one word for the following:\n\nThe practice of having several wives",
+          "sectionId": "661625376abf626dfa984e4a",
+          "order": 13,
+          "questionSubmitOrder": 13,
+          "options": [
+            {
+              "name": "<p>bisexual</p>",
+              "nameText": "bisexual",
+              "isCorrect": false,
+              "_id": "66162b249f75e1664675c7a7",
+              "isMarked": false
+            },
+            {
+              "name": "<p>monogamy</p>",
+              "nameText": "monogamy",
+              "isCorrect": false,
+              "_id": "66162b249f75e1f1c275c7a8",
+              "isMarked": false
+            },
+            {
+              "name": "<p>bigamy</p>",
+              "nameText": "bigamy",
+              "isCorrect": false,
+              "_id": "66162b249f75e1213775c7a9",
+              "isMarked": false
+            },
+            {
+              "name": "<p>polygamy</p>",
+              "nameText": "polygamy",
+              "isCorrect": true,
+              "_id": "66162b249f75e116a375c7aa",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p>Ans - d</p>\n<p></p>\n<p><iframe title=\"27\" src=\"//www.youtube.com/embed/GB4u3YD2tCQ\" width=\"657\" height=\"370\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6ab033465f3cafdee357b238",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "661625436abf6201af984e97",
+          "name": "<p>Substitute one word for the following:</p>\n<p></p>\n<p>A man with a woman like characteristics, habits or manners.</p>",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "Substitute one word for the following:\n\nA man with a woman like characteristics, habits or manners.",
+          "sectionId": "661625376abf626dfa984e4a",
+          "order": 14,
+          "questionSubmitOrder": 14,
+          "options": [
+            {
+              "name": "<p>effeminate</p>",
+              "nameText": "effeminate",
+              "isCorrect": true,
+              "_id": "66162b249f75e1776575c76b",
+              "isMarked": false
+            },
+            {
+              "name": "<p>womanish</p>",
+              "nameText": "womanish",
+              "isCorrect": false,
+              "_id": "66162b249f75e1a0b575c76c",
+              "isMarked": false
+            },
+            {
+              "name": "<p>feminine</p>",
+              "nameText": "feminine",
+              "isCorrect": false,
+              "_id": "66162b249f75e1051475c76d",
+              "isMarked": false
+            },
+            {
+              "name": "<p>ladybird</p>",
+              "nameText": "ladybird",
+              "isCorrect": false,
+              "_id": "66162b249f75e11c1175c76e",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p>Ans - a</p>\n<p></p>\n<p><iframe title=\"28\" src=\"//www.youtube.com/embed/BawLZ-NmvNM\" width=\"657\" height=\"370\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6ab033465f3caf148857b239",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "661625436abf628103984e9c",
+          "name": "<p><strong><span style=\"font-family: var(--font-family);\">Substitute one word for the following:</span></strong></p>\n<p></p>\n<p>An apple of discord</p>",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "Substitute one word for the following:\n\nAn apple of discord",
+          "sectionId": "661625376abf626dfa984e4a",
+          "order": 15,
+          "questionSubmitOrder": 15,
+          "options": [
+            {
+              "name": "<p>cause of quarrel</p>",
+              "nameText": "cause of quarrel",
+              "isCorrect": true,
+              "_id": "66162b249f75e1c66e75c773",
+              "isMarked": false
+            },
+            {
+              "name": "<p>cause of happiness</p>",
+              "nameText": "cause of happiness",
+              "isCorrect": false,
+              "_id": "66162b249f75e1192e75c774",
+              "isMarked": false
+            },
+            {
+              "name": "<p>cause of depression</p>",
+              "nameText": "cause of depression",
+              "isCorrect": false,
+              "_id": "66162b249f75e1c80e75c775",
+              "isMarked": false
+            },
+            {
+              "name": "<p>opportunity to earn money</p>",
+              "nameText": "opportunity to earn money",
+              "isCorrect": false,
+              "_id": "66162b249f75e197dd75c776",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p>Ans - a</p>\n<p></p>\n<p><iframe title=\"31\" src=\"//www.youtube.com/embed/ZgHZwyXQ6oQ\" width=\"657\" height=\"370\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6ab033465f3caf002857b23a",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "661625436abf625da7984ea1",
+          "name": "<p><span style=\"font-family: var(--font-family);\">Substitute one word for the following:</span></p>\n<p></p>\n<p><strong>At sea</strong></p>",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "Substitute one word for the following:\n\nAt sea",
+          "sectionId": "661625376abf626dfa984e4a",
+          "order": 16,
+          "questionSubmitOrder": 16,
+          "options": [
+            {
+              "name": "<p>feeling confident</p>",
+              "nameText": "feeling confident",
+              "isCorrect": false,
+              "_id": "66162b249f75e1a8fd75c78b",
+              "isMarked": false
+            },
+            {
+              "name": "<p>to be confused</p>",
+              "nameText": "to be confused",
+              "isCorrect": true,
+              "_id": "66162b249f75e1587975c78c",
+              "isMarked": false
+            },
+            {
+              "name": "<p>extremely happy</p>",
+              "nameText": "extremely happy",
+              "isCorrect": false,
+              "_id": "66162b249f75e15bac75c78d",
+              "isMarked": false
+            },
+            {
+              "name": "<p>very afraid</p>",
+              "nameText": "very afraid",
+              "isCorrect": false,
+              "_id": "66162b249f75e13a9475c78e",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p>Ans - b</p>\n<p></p>\n<p><iframe title=\"32\" src=\"//www.youtube.com/embed/di0ZC5yWBTg\" width=\"657\" height=\"370\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6ab033465f3caf24e957b23b",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "661625436abf62cb4d984ea6",
+          "name": "<p>Change the voice of the given sentence :</p>\n<p></p>\n<p><strong>Has the company considered your profile?&nbsp;</strong></p>",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "Change the voice of the given sentence :\n\nHas the company considered your profile? ",
+          "sectionId": "661625376abf626dfa984e4a",
+          "order": 17,
+          "questionSubmitOrder": 17,
+          "options": [
+            {
+              "name": "<p>Your profile has been considered by the company?</p>",
+              "nameText": "Your profile has been considered by the company?",
+              "isCorrect": false,
+              "_id": "66162b249f75e16f3875c79b",
+              "isMarked": false
+            },
+            {
+              "name": "<p>Has your profile been considered by the company?</p>",
+              "nameText": "Has your profile been considered by the company?",
+              "isCorrect": true,
+              "_id": "66162b249f75e1f8c275c79c",
+              "isMarked": false
+            },
+            {
+              "name": "<p>Has your profile considered by the company?</p>",
+              "nameText": "Has your profile considered by the company?",
+              "isCorrect": false,
+              "_id": "66162b249f75e13b5e75c79d",
+              "isMarked": false
+            },
+            {
+              "name": "<p>Your profile has considered by the company?</p>",
+              "nameText": "Your profile has considered by the company?",
+              "isCorrect": false,
+              "_id": "66162b249f75e1979275c79e",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p>Ans - b</p>\n<p></p>\n<p><iframe title=\"35\" src=\"//www.youtube.com/embed/HvcXOUKjx0c\" width=\"657\" height=\"370\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6ab033465f3cafd77d57b23c",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "661625436abf62157a984eab",
+          "name": "<p>Arrange in the proper format :</p>\n<p></p>\n<p>An advertisement in the newspaper said that</p>\n<p></p>\n<p>A. fully furnished apartments</p>\n<p>B. air-conditioned</p>\n<p>C. are available for</p>\n<p>D. the gentlemen of taste&nbsp;</p>",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "Arrange in the proper format :\n\nAn advertisement in the newspaper said that\n\nA. fully furnished apartments\nB. air-conditioned\nC. are available for\nD. the gentlemen of taste ",
+          "sectionId": "661625376abf626dfa984e4a",
+          "order": 18,
+          "questionSubmitOrder": 18,
+          "options": [
+            {
+              "name": "<p>ABCD</p>",
+              "nameText": "ABCD",
+              "isCorrect": false,
+              "_id": "66162b249f75e1476975c7ab",
+              "isMarked": false
+            },
+            {
+              "name": "<p>DCBA</p>",
+              "nameText": "DCBA",
+              "isCorrect": false,
+              "_id": "66162b249f75e116c575c7ac",
+              "isMarked": false
+            },
+            {
+              "name": "<p>BCDA</p>",
+              "nameText": "BCDA",
+              "isCorrect": false,
+              "_id": "66162b249f75e1fdb575c7ad",
+              "isMarked": false
+            },
+            {
+              "name": "<p>BACD</p>",
+              "nameText": "BACD",
+              "isCorrect": true,
+              "_id": "66162b249f75e1d9ed75c7ae",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p>Ans - d</p>\n<p></p>\n<p><iframe title=\"36\" src=\"//www.youtube.com/embed/nEOs_YPHFks\" width=\"657\" height=\"370\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6ab033465f3caf44b057b23d",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "661625436abf628df8984eb0",
+          "name": "<p>Find the adjective: He ate forty bananas in the contest and was sick afterward.</p>",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "Find the adjective: He ate forty bananas in the contest and was sick afterward.",
+          "sectionId": "661625376abf626dfa984e4a",
+          "order": 19,
+          "questionSubmitOrder": 19,
+          "options": [
+            {
+              "name": "<p>ate</p>",
+              "nameText": "ate",
+              "isCorrect": false,
+              "_id": "66162b249f75e12ed775c77b",
+              "isMarked": false
+            },
+            {
+              "name": "<p>in</p>",
+              "nameText": "in",
+              "isCorrect": false,
+              "_id": "66162b249f75e113e975c77c",
+              "isMarked": false
+            },
+            {
+              "name": "<p>forty</p>",
+              "nameText": "forty",
+              "isCorrect": true,
+              "_id": "66162b249f75e1444775c77d",
+              "isMarked": false
+            },
+            {
+              "name": "<p>sick</p>",
+              "nameText": "sick",
+              "isCorrect": false,
+              "_id": "66162b249f75e1e21d75c77e",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p>Ans - c</p>\n<p></p>\n<p><iframe title=\"39\" src=\"//www.youtube.com/embed/DqF8NWWh7bo\" width=\"657\" height=\"370\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6ab033465f3caf327257b23e",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "661625436abf623050984eb5",
+          "name": "<p>Dusk: Evening::Dawn: ?</p>",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "Dusk: Evening::Dawn: ?",
+          "sectionId": "661625376abf626dfa984e4a",
+          "order": 20,
+          "questionSubmitOrder": 20,
+          "options": [
+            {
+              "name": "<p>Night</p>",
+              "nameText": "Night",
+              "isCorrect": false,
+              "_id": "66162b249f75e1095a75c777",
+              "isMarked": false
+            },
+            {
+              "name": "<p>Light</p>",
+              "nameText": "Light",
+              "isCorrect": false,
+              "_id": "66162b249f75e1998a75c778",
+              "isMarked": false
+            },
+            {
+              "name": "<p>Fog</p>",
+              "nameText": "Fog",
+              "isCorrect": false,
+              "_id": "66162b249f75e160e775c779",
+              "isMarked": false
+            },
+            {
+              "name": "<p>Morning</p>",
+              "nameText": "Morning",
+              "isCorrect": true,
+              "_id": "66162b249f75e1899d75c77a",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p>Ans - d</p>\n<p></p>\n<p><iframe title=\"40\" src=\"//www.youtube.com/embed/O-4z2DrctaQ\" width=\"657\" height=\"370\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6ab033465f3caf37dd57b23f",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        }
+      ],
+      "numberOfQuestions": 20
+    }
+  ],
+  "userDetails": {
+    "name": "HackWithInfyPrep",
+    "userId": 192606116,
+    "orgId": 44032
+  },
+  "sts": 1789932359586,
+  "region": {
+    "timeFormat": "hh:mm a",
+    "dateTimeStamp": "yyyy/MM/dd"
+  }
+}

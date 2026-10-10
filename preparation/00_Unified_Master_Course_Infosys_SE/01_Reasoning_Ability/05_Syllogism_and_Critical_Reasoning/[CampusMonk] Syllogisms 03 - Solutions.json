@@ -1,0 +1,1089 @@
+{
+  "test": {
+    "name": "Syllogisms 03",
+    "testTotalDuration": 900000,
+    "settings": {
+      "fonts": {},
+      "isSectionSwitchingEnabled": true
+    },
+    "testFormat": "DEFAULT"
+  },
+  "filters": {
+    "incorrect": 0,
+    "correct": 0,
+    "partiallyMarked": 0,
+    "unattempted": 1,
+    "markForReview": 0,
+    "graceMarked": 0,
+    "revaluated": 0
+  },
+  "timeTaken": 0,
+  "courseId": "844567",
+  "showReportQuestion": true,
+  "sectionWiseStats": [
+    {
+      "marksScored": 0,
+      "sectionMarks": 15,
+      "accuracy": 0,
+      "_id": "6ab02a5c21e9208149c89c89",
+      "totalQuestions": 15,
+      "attemptDuration": 0,
+      "correctAnswers": 0,
+      "inCorrectAnswers": 0,
+      "partiallyCorrectAnswers": 0,
+      "unAttempted": 15,
+      "name": "Logical Reasonong",
+      "order": 1,
+      "sectionDuration": 0,
+      "sectionId": "60a79ac108f54f121e7a9361"
+    }
+  ],
+  "sections": [
+    {
+      "draftMode": false,
+      "isActive": true,
+      "sectionDuration": 0,
+      "sectionMarks": 15,
+      "sectionInstructions": " ",
+      "hasOptionalQuestions": false,
+      "_id": "60a79ac108f54f121e7a9361",
+      "name": "Logical Reasonong",
+      "order": 1,
+      "createdAt": "2021-07-19T04:44:16.653Z",
+      "updatedAt": "2021-07-19T04:44:16.653Z",
+      "questions": [
+        {
+          "_id": "60a79ad135d6712c2eb69b40",
+          "name": "<p class=\"MsoNormal\" style=\"margin-bottom: 0cm; line-height: normal;\"><span style=\"font-size: 12.0pt; font-family: 'Times New Roman',serif; color: #262626;\">Give answer 1) If only Conclusion I follows Give answer 2) If only Conclusion II follows Give answer 3) If either Conclusion I or II follows Give answer 4) If neither Conclusion I nor II follows</span></p>\n<p class=\"MsoNormal\" style=\"margin-bottom: 0cm; line-height: normal;\"><span style=\"font-size: 12.0pt; font-family: 'Times New Roman',serif; color: #262626;\">&nbsp;</span></p>\n<p class=\"MsoNormal\" style=\"margin-bottom: 0cm; line-height: normal;\"><span style=\"font-size: 12.0pt; font-family: 'Times New Roman',serif; color: black;\">Give answer 5) If both Conclusions I and II follows </span></p>\n<p class=\"MsoNormal\" style=\"margin-bottom: 0cm; line-height: normal;\"><span style=\"font-size: 12.0pt; font-family: 'Times New Roman',serif; color: black;\">&nbsp;</span></p>\n<p class=\"MsoNormal\" style=\"margin-bottom: 0cm; line-height: normal;\"><span style=\"font-size: 12.0pt; font-family: 'Times New Roman',serif; color: black;\">1. Statements: Some papers are boards. No boards are cards. </span></p>\n<p>&nbsp;</p>\n<p class=\"MsoNormal\" style=\"line-height: normal;\"><span style=\"font-size: 12.0pt; font-family: 'Times New Roman',serif; color: black;\">Conclusions: I. All cards being papers is a possibility. II. All boards being papers is a possibility.</span></p>",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "Give answer 1) If only Conclusion I follows Give answer 2) If only Conclusion II follows Give answer 3) If either Conclusion I or II follows Give answer 4) If neither Conclusion I nor II follows\n \nGive answer 5) If both Conclusions I and II follows \n \n1. Statements: Some papers are boards. No boards are cards. \n \nConclusions: I. All cards being papers is a possibility. II. All boards being papers is a possibility.",
+          "sectionId": "60a79ac108f54f121e7a9361",
+          "order": 1,
+          "questionSubmitOrder": 1,
+          "options": [
+            {
+              "name": "<p><span style=\"color: #262626; font-family: 'Times New Roman', serif; font-size: 16px;\">If only Conclusion I follows</span></p>",
+              "nameText": "If only Conclusion I follows",
+              "isCorrect": false,
+              "_id": "60a79ad135d671067bb69b3c",
+              "isMarked": false
+            },
+            {
+              "name": "<p><span style=\"color: #262626; font-family: 'Times New Roman', serif; font-size: 16px;\">If only Conclusion II follows</span></p>",
+              "nameText": "If only Conclusion II follows",
+              "isCorrect": false,
+              "_id": "60a79ad135d6716e1bb69b3d",
+              "isMarked": false
+            },
+            {
+              "name": "<p><span style=\"color: #262626; font-family: 'Times New Roman', serif; font-size: 16px;\">&nbsp;If either Conclusion I or II follows&nbsp;</span></p>",
+              "nameText": " If either Conclusion I or II follows ",
+              "isCorrect": false,
+              "_id": "60a79ad135d671e39db69b3e",
+              "isMarked": false
+            },
+            {
+              "name": "<p><span style=\"color: #262626; font-family: 'Times New Roman', serif; font-size: 16px;\">If neither Conclusion I nor II follows</span></p>",
+              "nameText": "If neither Conclusion I nor II follows",
+              "isCorrect": false,
+              "_id": "60a79ad135d671a81fb69b3f",
+              "isMarked": false
+            },
+            {
+              "name": "<p><span style=\"color: #000000; font-family: 'Times New Roman', serif; font-size: 16px;\">If both Conclusions I and II follows</span></p>",
+              "nameText": "If both Conclusions I and II follows",
+              "isCorrect": true,
+              "_id": "60a7a1f91b10cd35deddc4e5",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p>This is the solution</p>",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6ab02a5c5df72fd4fe7471b0",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "60a79ad135d6716e35b69b45",
+          "name": "<p class=\"MsoNormal\" style=\"margin-bottom: 0cm; line-height: normal;\"><span style=\"font-size: 12.0pt; font-family: 'Times New Roman',serif; color: black;\">Statements: All circles are squares. Some squares are rectangles.</span></p>\n<p>&nbsp;</p>\n<p class=\"MsoNormal\" style=\"margin-bottom: 0cm; line-height: normal;\"><span style=\"font-size: 12.0pt; font-family: 'Times New Roman',serif; color: black;\">Conclusions: I. All rectangles being squares is a possibility. II. Can all circles be rectangles?</span></p>",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "Statements: All circles are squares. Some squares are rectangles.\n \nConclusions: I. All rectangles being squares is a possibility. II. Can all circles be rectangles?",
+          "sectionId": "60a79ac108f54f121e7a9361",
+          "order": 2,
+          "questionSubmitOrder": 2,
+          "options": [
+            {
+              "name": "<p>Only 1</p>",
+              "nameText": "Only 1",
+              "isCorrect": false,
+              "_id": "60a79ad135d6711a22b69b41",
+              "isMarked": false
+            },
+            {
+              "name": "<p>only 2</p>",
+              "nameText": "only 2",
+              "isCorrect": false,
+              "_id": "60a79ad135d6719430b69b42",
+              "isMarked": false
+            },
+            {
+              "name": "<p>either follow</p>",
+              "nameText": "either follow",
+              "isCorrect": false,
+              "_id": "60a79ad135d6711b08b69b43",
+              "isMarked": false
+            },
+            {
+              "name": "<p>neither follow</p>",
+              "nameText": "neither follow",
+              "isCorrect": false,
+              "_id": "60a79ad135d671b8e6b69b44",
+              "isMarked": false
+            },
+            {
+              "name": "<p>Both Follow</p>",
+              "nameText": "Both Follow",
+              "isCorrect": true,
+              "_id": "60a7a1f91b10cd1fe0ddc4ee",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p>This is the solution</p>",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6ab02a5c5df72f2d947471b1",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "60a79ad135d6713554b69b4a",
+          "name": "<p class=\"MsoNormal\" style=\"margin-bottom: 0cm; line-height: normal; mso-pagination: none; mso-layout-grid-align: none; text-autospace: none;\"><span style=\"font-size: 12.0pt; font-family: 'Times New Roman',serif; color: #262626;\">Some birds are goats.&nbsp; Some goats are horses. Some horses are lions.&nbsp; Some lions are tigers.</span></p>\n<p>&nbsp;</p>\n<p class=\"MsoNormal\" style=\"margin-bottom: 0cm; line-height: normal; mso-pagination: none; mso-layout-grid-align: none; text-autospace: none;\"><strong><span style=\"font-size: 12.0pt; font-family: 'Times New Roman',serif; color: #262626;\">Conclusions: </span></strong><span style=\"font-size: 12.0pt; font-family: 'Times New Roman',serif; color: #262626;\">I. Some tigers are goats. II. No tiger is goat. III. Some lions are birds. IV. No lion is bird.</span></p>",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "Some birds are goats.  Some goats are horses. Some horses are lions.  Some lions are tigers.\n \nConclusions: I. Some tigers are goats. II. No tiger is goat. III. Some lions are birds. IV. No lion is bird.",
+          "sectionId": "60a79ac108f54f121e7a9361",
+          "order": 3,
+          "questionSubmitOrder": 3,
+          "options": [
+            {
+              "name": "<p><span style=\"font-size: 12.0pt; line-height: 115%; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; color: #262626; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">1) Only either I or II follow&nbsp;</span></p>",
+              "nameText": "1) Only either I or II follow ",
+              "isCorrect": false,
+              "_id": "60a79ad135d67148d1b69b46",
+              "isMarked": false
+            },
+            {
+              "name": "<p><span style=\"font-size: 12.0pt; line-height: 115%; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; color: #262626; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">Only either III or IV follow</span></p>",
+              "nameText": "Only either III or IV follow",
+              "isCorrect": false,
+              "_id": "60a79ad135d67110deb69b47",
+              "isMarked": false
+            },
+            {
+              "name": "<p><span style=\"font-size: 12.0pt; line-height: 115%; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; color: #262626; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">Only either I or II, and either &nbsp;III or IV follow&nbsp;</span></p>",
+              "nameText": "Only either I or II, and either  III or IV follow ",
+              "isCorrect": true,
+              "_id": "60a79ad135d671086cb69b48",
+              "isMarked": false
+            },
+            {
+              "name": "<p><span style=\"font-size: 12.0pt; line-height: 115%; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; color: #262626; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">Only I and III follow&nbsp;</span></p>",
+              "nameText": "Only I and III follow ",
+              "isCorrect": false,
+              "_id": "60a79ad135d67199d2b69b49",
+              "isMarked": false
+            },
+            {
+              "name": "<p><span style=\"font-size: 12.0pt; line-height: 115%; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; color: #262626; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">None of these&nbsp;</span></p>",
+              "nameText": "None of these ",
+              "isCorrect": false,
+              "_id": "60a7a1f91b10cd2b6addc4f1",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p>This is the solution</p>",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6ab02a5c5df72f681d7471b2",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "60a79ad135d6715de6b69b4f",
+          "name": "<p class=\"MsoNormal\" style=\"text-indent: -18.0pt;\"><strong><span style=\"font-family: 'Times New Roman',serif; color: black;\">S</span></strong><span style=\"font-size: 12pt;\"><strong><span style=\"font-family: 'Times New Roman',serif; color: black;\">tatements</span><span style=\"font-family: 'Times New Roman',serif; color: black;\">&nbsp;: All machines are bad. Some bad are globe.</span></strong></span></p>\n<p class=\"MsoNormal\"><span style=\"font-size: 12pt;\"><strong><span style=\"font-family: 'Times New Roman',serif; color: black;\">All globe are round.</span></strong></span></p>\n<p class=\"MsoNormal\"><span style=\"font-size: 12pt;\"><strong><span style=\"font-family: 'Times New Roman',serif; color: black;\">Conclusions</span><span style=\"font-family: 'Times New Roman',serif; color: black;\">&nbsp;:I.&nbsp;Some machines are round.</span></strong></span></p>\n<p>&nbsp;</p>\n<p class=\"MsoNormal\"><span style=\"font-size: 12pt;\"><strong><span style=\"font-family: 'Times New Roman',serif; color: black;\">II.</span></strong></span><span style=\"font-family: 'Times New Roman',serif; color: black;\"><span style=\"font-size: 12pt;\"><strong> No machine is round.</strong></span></span></p>",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "Statements : All machines are bad. Some bad are globe.\nAll globe are round.\nConclusions :I. Some machines are round.\n \nII. No machine is round.",
+          "sectionId": "60a79ac108f54f121e7a9361",
+          "order": 4,
+          "questionSubmitOrder": 4,
+          "options": [
+            {
+              "name": "<p>Only 1</p>",
+              "nameText": "Only 1",
+              "isCorrect": false,
+              "_id": "60a79ad135d671feeeb69b4b",
+              "isMarked": false
+            },
+            {
+              "name": "<p>only 2</p>",
+              "nameText": "only 2",
+              "isCorrect": false,
+              "_id": "60a79ad135d671ac44b69b4c",
+              "isMarked": false
+            },
+            {
+              "name": "<p>either&nbsp;</p>",
+              "nameText": "either ",
+              "isCorrect": true,
+              "_id": "60a79ad135d671a4f4b69b4d",
+              "isMarked": false
+            },
+            {
+              "name": "<p>Neither Follow</p>",
+              "nameText": "Neither Follow",
+              "isCorrect": false,
+              "_id": "60a79ad135d67115e3b69b4e",
+              "isMarked": false
+            },
+            {
+              "name": "<p>Both Follow</p>",
+              "nameText": "Both Follow",
+              "isCorrect": false,
+              "_id": "60a7a1f91b10cdba8cddc4eb",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p>This is the solution</p>",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6ab02a5c5df72f6a7c7471b3",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "60a79ad135d671a3dcb69b54",
+          "name": "<p class=\"MsoNormal\"><span style=\"font-family: 'Times New Roman',serif; color: black;\">Statements:<br />All railways are trains.<span class=\"apple-converted-space\">&nbsp;</span><br />No train is a station.<span class=\"apple-converted-space\">&nbsp;</span><br />Some stations are platforms.<span class=\"apple-converted-space\">&nbsp;</span><br />Conclusions :<span class=\"apple-converted-space\">&nbsp;</span><br />I. All railways being platforms is a possibility.<span class=\"apple-converted-space\">&nbsp;</span><br />II. No railway is a station.</span></p>",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "Statements:All railways are trains. No train is a station. Some stations are platforms. Conclusions : I. All railways being platforms is a possibility. II. No railway is a station.",
+          "sectionId": "60a79ac108f54f121e7a9361",
+          "order": 5,
+          "questionSubmitOrder": 5,
+          "options": [
+            {
+              "name": "<p>Only 1</p>",
+              "nameText": "Only 1",
+              "isCorrect": false,
+              "_id": "60a79ad135d67139e2b69b50",
+              "isMarked": false
+            },
+            {
+              "name": "<p>Only 2</p>",
+              "nameText": "Only 2",
+              "isCorrect": false,
+              "_id": "60a79ad135d6715f4ab69b51",
+              "isMarked": false
+            },
+            {
+              "name": "<p>Either follow</p>",
+              "nameText": "Either follow",
+              "isCorrect": false,
+              "_id": "60a79ad135d6713472b69b52",
+              "isMarked": false
+            },
+            {
+              "name": "<p>Neither Follow</p>",
+              "nameText": "Neither Follow",
+              "isCorrect": false,
+              "_id": "60a79ad135d671454eb69b53",
+              "isMarked": false
+            },
+            {
+              "name": "<p>Both Follow</p>",
+              "nameText": "Both Follow",
+              "isCorrect": true,
+              "_id": "60a7a1f91b10cd8378ddc4e8",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p>This is the solution</p>",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6ab02a5c5df72f68c67471b4",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "60a79ad135d67138a8b69b59",
+          "name": "<p class=\"MsoNormal\"><span style=\"font-family: 'Times New Roman',serif; color: black;\">All erasers are sharpeners.<span class=\"apple-converted-space\">&nbsp;</span><br />All sharpeners are pencils.<span class=\"apple-converted-space\">&nbsp;</span><br />Some pencils are pens.<span class=\"apple-converted-space\">&nbsp;</span><br />Conclusions :<span class=\"apple-converted-space\">&nbsp;</span><br />I. some sharpeners are pens.<span class=\"apple-converted-space\">&nbsp;</span><br />II. No sharpener is a pen.</span></p>",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "All erasers are sharpeners. All sharpeners are pencils. Some pencils are pens. Conclusions : I. some sharpeners are pens. II. No sharpener is a pen.",
+          "sectionId": "60a79ac108f54f121e7a9361",
+          "order": 6,
+          "questionSubmitOrder": 6,
+          "options": [
+            {
+              "name": "<p>Only 1 follow</p>",
+              "nameText": "Only 1 follow",
+              "isCorrect": false,
+              "_id": "60a79ad135d6719e30b69b55",
+              "isMarked": false
+            },
+            {
+              "name": "<p>Only 2 follow</p>",
+              "nameText": "Only 2 follow",
+              "isCorrect": false,
+              "_id": "60a79ad135d671a87fb69b56",
+              "isMarked": false
+            },
+            {
+              "name": "<p>Either&nbsp;</p>",
+              "nameText": "Either ",
+              "isCorrect": true,
+              "_id": "60a79ad135d6716831b69b57",
+              "isMarked": false
+            },
+            {
+              "name": "<p>Neither&nbsp;</p>",
+              "nameText": "Neither ",
+              "isCorrect": false,
+              "_id": "60a79ad135d6719841b69b58",
+              "isMarked": false
+            },
+            {
+              "name": "<p>Both Follow</p>",
+              "nameText": "Both Follow",
+              "isCorrect": false,
+              "_id": "60a7a1f91b10cdc062ddc4e6",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p>This is the solution</p>",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6ab02a5c5df72fc6f37471b5",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "60a79ad135d6712ec9b69b5e",
+          "name": "<p class=\"MsoNormal\"><span style=\"font-size: 12pt;\"><strong><span style=\"font-family: 'Times New Roman',serif; color: black;\">Statements:<span class=\"apple-converted-space\">&nbsp;</span><br />No carom is a corner.<span class=\"apple-converted-space\">&nbsp;</span><br />Some corridors are caroms.<span class=\"apple-converted-space\">&nbsp;</span><br />All classes are corners.<br />Conclusions:<span class=\"apple-converted-space\">&nbsp;</span><br />I. All corridors being corners is a possibility.<span class=\"apple-converted-space\">&nbsp;</span><br />II. All caroms being classes is a possibility.</span></strong></span></p>",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "Statements: No carom is a corner. Some corridors are caroms. All classes are corners.Conclusions: I. All corridors being corners is a possibility. II. All caroms being classes is a possibility.",
+          "sectionId": "60a79ac108f54f121e7a9361",
+          "order": 7,
+          "questionSubmitOrder": 7,
+          "options": [
+            {
+              "name": "<p>Only 1 folllow</p>",
+              "nameText": "Only 1 folllow",
+              "isCorrect": false,
+              "_id": "60a79ad135d6717fedb69b5a",
+              "isMarked": false
+            },
+            {
+              "name": "<p>Only 2 folllow</p>",
+              "nameText": "Only 2 folllow",
+              "isCorrect": false,
+              "_id": "60a79ad135d67138f5b69b5b",
+              "isMarked": false
+            },
+            {
+              "name": "<p>Either follow</p>",
+              "nameText": "Either follow",
+              "isCorrect": false,
+              "_id": "60a79ad135d67144f7b69b5c",
+              "isMarked": false
+            },
+            {
+              "name": "<p>Neither follow</p>",
+              "nameText": "Neither follow",
+              "isCorrect": true,
+              "_id": "60a79ad135d671839bb69b5d",
+              "isMarked": false
+            },
+            {
+              "name": "<p>Both Follow</p>",
+              "nameText": "Both Follow",
+              "isCorrect": false,
+              "_id": "60a7a1f91b10cd2ad8ddc4f2",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p>This is the solution</p>",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6ab02a5c5df72f58f27471b6",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "60a79ad135d6717a18b69b63",
+          "name": "<p class=\"MsoNormal\"><span style=\"font-size: 12pt;\"><strong><span style=\"font-family: 'Times New Roman',serif; color: black;\">Statements:<br />No carom is a corner.<br />Some corridors are caroms.<br />All classes are corners.<br />Conclusions:<br /></span><span style=\"font-size: 12pt; line-height: 115%; font-family: 'Times New Roman', serif; color: black;\">Conclusions:<span class=\"apple-converted-space\">&nbsp;</span><br />I. Some corners are not corridors.<span class=\"apple-converted-space\">&nbsp;</span><br />II. No class is a carom.</span><span style=\"font-family: 'Times New Roman',serif; color: black;\"><br /></span></strong></span></p>",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "Statements:No carom is a corner.Some corridors are caroms.All classes are corners.Conclusions:Conclusions: I. Some corners are not corridors. II. No class is a carom.",
+          "sectionId": "60a79ac108f54f121e7a9361",
+          "order": 8,
+          "questionSubmitOrder": 8,
+          "options": [
+            {
+              "name": "<p>Only 1&nbsp;</p>",
+              "nameText": "Only 1 ",
+              "isCorrect": false,
+              "_id": "60a79ad135d671026bb69b5f",
+              "isMarked": false
+            },
+            {
+              "name": "<p>Only 2</p>",
+              "nameText": "Only 2",
+              "isCorrect": true,
+              "_id": "60a79ad135d671b5a3b69b60",
+              "isMarked": false
+            },
+            {
+              "name": "<p>either&nbsp;</p>",
+              "nameText": "either ",
+              "isCorrect": false,
+              "_id": "60a79ad135d671dabfb69b61",
+              "isMarked": false
+            },
+            {
+              "name": "<p>neither</p>",
+              "nameText": "neither",
+              "isCorrect": false,
+              "_id": "60a79ad135d671cac1b69b62",
+              "isMarked": false
+            },
+            {
+              "name": "<p>Both follow</p>",
+              "nameText": "Both follow",
+              "isCorrect": false,
+              "_id": "60a7a1f91b10cd9679ddc4ef",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p>This is the solution</p>",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6ab02a5c5df72f835b7471b7",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "60a79ad135d67117beb69b68",
+          "name": "<p class=\"MsoNormal\" style=\"margin-bottom: 0cm; line-height: normal; mso-pagination: none; mso-layout-grid-align: none; text-autospace: none;\"><span style=\"font-size: 14pt;\"><strong><span style=\"font-family: 'Times New Roman', serif; color: #262626;\">All machines are crowns. All crowns are tablets. Some tablets are bottles.</span></strong></span></p>\n<p class=\"MsoNormal\" style=\"margin-bottom: 0cm; line-height: normal; mso-pagination: none; mso-layout-grid-align: none; text-autospace: none;\"><span style=\"font-size: 14pt;\"><strong><span style=\"font-family: 'Times New Roman', serif;\">&nbsp;</span></strong></span></p>\n<p><span style=\"font-size: 14pt;\"><strong> <span style=\"line-height: 115%; font-family: 'Times New Roman', serif; color: #262626;\">Conclusions: </span><span style=\"line-height: 115%; font-family: 'Times New Roman', serif; color: #262626;\">I. Some bottles are crowns. II. Some tablets are machines. III. Some bottles are machines.</span></strong></span></p>",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "All machines are crowns. All crowns are tablets. Some tablets are bottles.\n \n Conclusions: I. Some bottles are crowns. II. Some tablets are machines. III. Some bottles are machines.",
+          "sectionId": "60a79ac108f54f121e7a9361",
+          "order": 9,
+          "questionSubmitOrder": 9,
+          "options": [
+            {
+              "name": "<p><span style=\"font-size: 12.0pt; line-height: 115%; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; color: #262626; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">Only I&nbsp; follows&nbsp;</span></p>",
+              "nameText": "Only I  follows ",
+              "isCorrect": false,
+              "_id": "60a79ad135d6711b27b69b64",
+              "isMarked": false
+            },
+            {
+              "name": "<p><span style=\"font-size: 12.0pt; line-height: 115%; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; color: #262626; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">Only II follows&nbsp;</span></p>",
+              "nameText": "Only II follows ",
+              "isCorrect": true,
+              "_id": "60a79ad135d67184b4b69b65",
+              "isMarked": false
+            },
+            {
+              "name": "<p><span style=\"font-size: 12.0pt; line-height: 115%; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; color: #262626; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">Only III follows&nbsp;</span></p>",
+              "nameText": "Only III follows ",
+              "isCorrect": false,
+              "_id": "60a79ad135d6719e4db69b66",
+              "isMarked": false
+            },
+            {
+              "name": "<p><span style=\"font-size: 12.0pt; line-height: 115%; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; color: #262626; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">Only II and III follows&nbsp;</span></p>",
+              "nameText": "Only II and III follows ",
+              "isCorrect": false,
+              "_id": "60a79ad135d671e7ecb69b67",
+              "isMarked": false
+            },
+            {
+              "name": "<p><span style=\"font-size: 12.0pt; line-height: 115%; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; color: #262626; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">None of these</span></p>",
+              "nameText": "None of these",
+              "isCorrect": false,
+              "_id": "60a7a1f91b10cdee8addc4ec",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p>This is the solution</p>",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6ab02a5c5df72f7c647471b8",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "60a79ad135d671ea68b69b6d",
+          "name": "<p class=\"MsoNoSpacing\"><span style=\"font-family: 'Times New Roman',serif;\"><span style=\"font-size: 14pt;\"><strong>.Statements:</strong></span><br /><span style=\"font-size: 14pt;\"><strong> All orchids are flowers.</strong></span><br /><span style=\"font-size: 14pt;\"><strong> Some orchids are beautiful.</strong></span><br /><span style=\"font-size: 14pt;\"><strong> Conclusions:</strong></span><br /><span style=\"font-size: 14pt;\"><strong> :I. Some flowers are beautiful.</strong></span><br /><span style=\"font-size: 14pt;\"><strong> II. All beautiful are flowers.</strong></span></span></p>",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": ".Statements: All orchids are flowers. Some orchids are beautiful. Conclusions: :I. Some flowers are beautiful. II. All beautiful are flowers.",
+          "sectionId": "60a79ac108f54f121e7a9361",
+          "order": 10,
+          "questionSubmitOrder": 10,
+          "options": [
+            {
+              "name": "<p>Only 1 follow</p>",
+              "nameText": "Only 1 follow",
+              "isCorrect": true,
+              "_id": "60a79ad135d67129dcb69b69",
+              "isMarked": false
+            },
+            {
+              "name": "<p>Only 2 follow</p>",
+              "nameText": "Only 2 follow",
+              "isCorrect": false,
+              "_id": "60a79ad135d6717340b69b6a",
+              "isMarked": false
+            },
+            {
+              "name": "<p>Either</p>",
+              "nameText": "Either",
+              "isCorrect": false,
+              "_id": "60a79ad135d6717126b69b6b",
+              "isMarked": false
+            },
+            {
+              "name": "<p>Neither</p>",
+              "nameText": "Neither",
+              "isCorrect": false,
+              "_id": "60a79ad135d671075bb69b6c",
+              "isMarked": false
+            },
+            {
+              "name": "<p>Both Follow</p>",
+              "nameText": "Both Follow",
+              "isCorrect": false,
+              "_id": "60a7a1f91b10cd177cddc4e9",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p>This is the solution</p>",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6ab02a5c5df72f49a17471b9",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "60a79ad135d6713757b69b72",
+          "name": "<p class=\"MsoNormal\" style=\"margin-bottom: 0cm; line-height: normal; mso-outline-level: 1;\"><span style=\"font-size: 14pt;\"><strong><span style=\"font-family: 'Times New Roman', serif; color: black;\">. Statements: All energies are forces. No force is torque. All torques are powers.</span></strong></span></p>\n<p>&nbsp;</p>\n<p class=\"MsoNormal\" style=\"margin-bottom: 0cm; line-height: normal; mso-outline-level: 1;\"><span style=\"font-size: 12.0pt; font-family: 'Times New Roman',serif; color: black;\"><span style=\"font-size: 14pt;\"><strong>Conclusions: I. All energies being power is a possibility. II. All powers being force is a possibility.</strong></span></span></p>",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": ". Statements: All energies are forces. No force is torque. All torques are powers.\n \nConclusions: I. All energies being power is a possibility. II. All powers being force is a possibility.",
+          "sectionId": "60a79ac108f54f121e7a9361",
+          "order": 11,
+          "questionSubmitOrder": 11,
+          "options": [
+            {
+              "name": "<p>Only 1st follow</p>",
+              "nameText": "Only 1st follow",
+              "isCorrect": true,
+              "_id": "60a79ad135d671dadfb69b6e",
+              "isMarked": false
+            },
+            {
+              "name": "<p>Only 2st follow</p>",
+              "nameText": "Only 2st follow",
+              "isCorrect": false,
+              "_id": "60a79ad135d6717eabb69b6f",
+              "isMarked": false
+            },
+            {
+              "name": "<p>Either&nbsp;</p>",
+              "nameText": "Either ",
+              "isCorrect": false,
+              "_id": "60a79ad135d671cc51b69b70",
+              "isMarked": false
+            },
+            {
+              "name": "<p>Neither&nbsp;</p>",
+              "nameText": "Neither ",
+              "isCorrect": false,
+              "_id": "60a79ad135d671e539b69b71",
+              "isMarked": false
+            },
+            {
+              "name": "<p>Both Follow</p>",
+              "nameText": "Both Follow",
+              "isCorrect": false,
+              "_id": "60a7a1f91b10cddfeaddc4e7",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p>This is the solution</p>",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6ab02a5c5df72fa6127471ba",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "60a79ad135d6713630b69b77",
+          "name": "<p class=\"MsoNormal\" style=\"margin-bottom: 0cm; line-height: normal;\"><span lang=\"EN-US\" style=\"font-size: 12.0pt; font-family: 'Times New Roman',serif; color: black; mso-ansi-language: EN-US; mso-fareast-language: EN-US;\">All papers are bottles. All bottles are cups.</span> <span lang=\"EN-US\" style=\"font-size: 12.0pt; font-family: 'Times New Roman',serif; color: black; mso-ansi-language: EN-US; mso-fareast-language: EN-US;\">Some cups are jugs. Some jugs are plates.</span></p>\n<p>&nbsp;</p>\n<p class=\"MsoNormal\" style=\"margin-bottom: 0cm; line-height: normal;\"><span lang=\"EN-US\" style=\"font-size: 12.0pt; font-family: 'Times New Roman',serif; color: black; mso-ansi-language: EN-US; mso-fareast-language: EN-US;\">Conclusions: I. Some plates are cups. II. Some plates are bottles.</span> <span lang=\"EN-US\" style=\"font-size: 12.0pt; font-family: 'Times New Roman',serif; color: black; mso-ansi-language: EN-US; mso-fareast-language: EN-US;\">III. Some cups are papers. IV. Some bottles are papers</span></p>",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "All papers are bottles. All bottles are cups. Some cups are jugs. Some jugs are plates.\n \nConclusions: I. Some plates are cups. II. Some plates are bottles. III. Some cups are papers. IV. Some bottles are papers",
+          "sectionId": "60a79ac108f54f121e7a9361",
+          "order": 12,
+          "questionSubmitOrder": 12,
+          "options": [
+            {
+              "name": "<p>Only 1st follow</p>",
+              "nameText": "Only 1st follow",
+              "isCorrect": true,
+              "_id": "60a79ad135d67164aeb69b73",
+              "isMarked": false
+            },
+            {
+              "name": "<p>Only 2st follow</p>",
+              "nameText": "Only 2st follow",
+              "isCorrect": false,
+              "_id": "60a79ad135d6713308b69b74",
+              "isMarked": false
+            },
+            {
+              "name": "<p>Either&nbsp;</p>",
+              "nameText": "Either ",
+              "isCorrect": false,
+              "_id": "60a79ad135d671a68ab69b75",
+              "isMarked": false
+            },
+            {
+              "name": "<p>Neither&nbsp;</p>",
+              "nameText": "Neither ",
+              "isCorrect": false,
+              "_id": "60a79ad135d671890ab69b76",
+              "isMarked": false
+            },
+            {
+              "name": "<p>Both Follow</p>",
+              "nameText": "Both Follow",
+              "isCorrect": false,
+              "_id": "60a7a1f91b10cd3ee3ddc4f3",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p>This is the solution</p>",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6ab02a5c5df72fee467471bb",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "60a79ad135d6711c01b69b7c",
+          "name": "<p><span style=\"font-size: 12pt;\"><strong><span style=\"line-height: 115%; font-family: 'Times New Roman', serif;\">All new are modern.<br />Some modern are old.<br />All old are gold.<br />Conclusions:<br />I.Some new are old is a possibility.<br />II.No modern is gold</span></strong></span></p>",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "All new are modern.Some modern are old.All old are gold.Conclusions:I.Some new are old is a possibility.II.No modern is gold",
+          "sectionId": "60a79ac108f54f121e7a9361",
+          "order": 13,
+          "questionSubmitOrder": 13,
+          "options": [
+            {
+              "name": "<p>Only 1st follow</p>",
+              "nameText": "Only 1st follow",
+              "isCorrect": true,
+              "_id": "60a79ad135d6715bffb69b78",
+              "isMarked": false
+            },
+            {
+              "name": "<p>Only 2st follow</p>",
+              "nameText": "Only 2st follow",
+              "isCorrect": false,
+              "_id": "60a79ad135d6710990b69b79",
+              "isMarked": false
+            },
+            {
+              "name": "<p>Either follow</p>",
+              "nameText": "Either follow",
+              "isCorrect": false,
+              "_id": "60a79ad135d671170eb69b7a",
+              "isMarked": false
+            },
+            {
+              "name": "<p>Neither Follow</p>",
+              "nameText": "Neither Follow",
+              "isCorrect": false,
+              "_id": "60a79ad135d67148bab69b7b",
+              "isMarked": false
+            },
+            {
+              "name": "<p>Both Follow</p>",
+              "nameText": "Both Follow",
+              "isCorrect": false,
+              "_id": "60a7a1f91b10cd852bddc4f0",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p>This is the solution</p>",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6ab02a5c5df72fdd7a7471bc",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "60a79ad135d6717fa7b69b81",
+          "name": "<p class=\"MsoNormal\" style=\"margin-bottom: 0cm; line-height: normal; mso-pagination: none; mso-layout-grid-align: none; text-autospace: none;\"><span style=\"font-size: 12.0pt; font-family: 'Times New Roman',serif; color: #262626;\">Some rivers are hills. No hill is taxi. All taxis are buses.</span></p>\n<p>&nbsp;</p>\n<p class=\"MsoNormal\" style=\"margin-bottom: 0cm; line-height: normal; mso-pagination: none; mso-layout-grid-align: none; text-autospace: none;\"><strong><span style=\"font-size: 12.0pt; font-family: 'Times New Roman',serif; color: #262626;\">Conclusions: </span></strong><span style=\"font-size: 12.0pt; font-family: 'Times New Roman',serif; color: #262626;\">I. Some buses are rivers. II. Some taxis are rivers. III. No bus is river.</span></p>",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "Some rivers are hills. No hill is taxi. All taxis are buses.\n \nConclusions: I. Some buses are rivers. II. Some taxis are rivers. III. No bus is river.",
+          "sectionId": "60a79ac108f54f121e7a9361",
+          "order": 14,
+          "questionSubmitOrder": 14,
+          "options": [
+            {
+              "name": "<p><span style=\"font-size: 12.0pt; line-height: 115%; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; color: #262626; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">None follows&nbsp;</span></p>",
+              "nameText": "None follows ",
+              "isCorrect": false,
+              "_id": "60a79ad135d6713889b69b7d",
+              "isMarked": false
+            },
+            {
+              "name": "<p><span style=\"font-size: 12.0pt; line-height: 115%; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; color: #262626; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">Only I follows&nbsp;</span></p>",
+              "nameText": "Only I follows ",
+              "isCorrect": false,
+              "_id": "60a79ad135d671e304b69b7e",
+              "isMarked": false
+            },
+            {
+              "name": "<p><span style=\"font-size: 12.0pt; line-height: 115%; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; color: #262626; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">Only III follows&nbsp;</span></p>",
+              "nameText": "Only III follows ",
+              "isCorrect": false,
+              "_id": "60a79ad135d67188fdb69b7f",
+              "isMarked": false
+            },
+            {
+              "name": "<p><span style=\"font-size: 12.0pt; line-height: 115%; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; color: #262626; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">Only II follows&nbsp;</span></p>",
+              "nameText": "Only II follows ",
+              "isCorrect": false,
+              "_id": "60a79ad135d67122ffb69b80",
+              "isMarked": false
+            },
+            {
+              "name": "<p><span style=\"font-size: 12.0pt; line-height: 115%; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; color: #262626; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">Only either I or III follows.</span></p>",
+              "nameText": "Only either I or III follows.",
+              "isCorrect": true,
+              "_id": "60a7a1f91b10cd74e7ddc4ed",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p>This is the solution</p>",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6ab02a5c5df72f09f87471bd",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "60a79ad135d67115d4b69b86",
+          "name": "<p class=\"MsoNormal\" style=\"margin-bottom: 0cm; line-height: normal; tab-stops: 168.1pt;\"><span style=\"font-size: 14pt;\"><strong><span lang=\"EN-US\" style=\"font-family: 'Times New Roman', serif; color: black;\">. Statements: All roads are cars. No car is tree. Some trees are jungles. All jungles are rivers. </span></strong></span></p>\n<p>&nbsp;</p>\n<p class=\"MsoNormal\" style=\"margin-bottom: 0cm; line-height: normal; tab-stops: 168.1pt;\"><span style=\"font-size: 14pt;\"><strong><span lang=\"EN-US\" style=\"font-family: 'Times New Roman', serif; color: black;\">Conclusions: I. Some rivers are roads. II. Some jungles are roads. III. Some cars are roads. IV. No jungle is road.</span></strong></span></p>",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": ". Statements: All roads are cars. No car is tree. Some trees are jungles. All jungles are rivers. \n \nConclusions: I. Some rivers are roads. II. Some jungles are roads. III. Some cars are roads. IV. No jungle is road.",
+          "sectionId": "60a79ac108f54f121e7a9361",
+          "order": 15,
+          "questionSubmitOrder": 15,
+          "options": [
+            {
+              "name": "<p><span lang=\"EN-US\" style=\"font-size: 12.0pt; line-height: 115%; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; color: black; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">None follows&nbsp;</span></p>",
+              "nameText": "None follows ",
+              "isCorrect": false,
+              "_id": "60a79ad135d6718a83b69b82",
+              "isMarked": false
+            },
+            {
+              "name": "<p><span lang=\"EN-US\" style=\"font-size: 12.0pt; line-height: 115%; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; color: black; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">Only either II or IV follows&nbsp;</span></p>",
+              "nameText": "Only either II or IV follows ",
+              "isCorrect": false,
+              "_id": "60a79ad135d6712189b69b83",
+              "isMarked": false
+            },
+            {
+              "name": "<p><span lang=\"EN-US\" style=\"font-size: 12.0pt; line-height: 115%; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; color: black; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">Only either II or IV and III follow&nbsp;</span></p>",
+              "nameText": "Only either II or IV and III follow ",
+              "isCorrect": true,
+              "_id": "60a79ad135d671a935b69b84",
+              "isMarked": false
+            },
+            {
+              "name": "<p><span lang=\"EN-US\" style=\"font-size: 12.0pt; line-height: 115%; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; color: black; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">Only III and IV follow</span></p>",
+              "nameText": "Only III and IV follow",
+              "isCorrect": false,
+              "_id": "60a79ad135d6714205b69b85",
+              "isMarked": false
+            },
+            {
+              "name": "<p class=\"MsoNormal\" style=\"margin-bottom: 0cm; line-height: normal; tab-stops: 168.1pt;\"><span lang=\"EN-US\" style=\"font-size: 12.0pt; font-family: 'Times New Roman',serif; color: black; mso-ansi-language: EN-US; mso-fareast-language: EN-US;\">Only either II or IV and I and III follow</span></p>",
+              "nameText": "Only either II or IV and I and III follow",
+              "isCorrect": false,
+              "_id": "60a7a1f91b10cd24b0ddc4ea",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p>This is the solution</p>",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6ab02a5c5df72f84617471be",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        }
+      ],
+      "numberOfQuestions": 15
+    }
+  ],
+  "userDetails": {
+    "name": "HackWithInfyPrep",
+    "userId": 192606116,
+    "orgId": 44032
+  },
+  "sts": 1789930077835,
+  "region": {
+    "timeFormat": "hh:mm a",
+    "dateTimeStamp": "yyyy/MM/dd"
+  }
+}

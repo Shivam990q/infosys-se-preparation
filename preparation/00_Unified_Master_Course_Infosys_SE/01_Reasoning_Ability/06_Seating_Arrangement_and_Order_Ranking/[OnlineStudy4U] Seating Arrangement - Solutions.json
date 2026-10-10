@@ -1,0 +1,1306 @@
+{
+  "test": {
+    "name": "Seating Arrangement",
+    "testTotalDuration": 1500000,
+    "settings": {
+      "fonts": {
+        "fonts": [
+          {
+            "face": "Calibri",
+            "supported": true
+          },
+          {
+            "face": "serif",
+            "supported": true
+          },
+          {
+            "face": "Cambria",
+            "supported": true
+          }
+        ],
+        "include": "https://cms-gcp.classplusapp.com/parser/v3/css/combined?face=Calibri,serif,Cambria"
+      },
+      "isSectionSwitchingEnabled": true
+    },
+    "practiceTestUrls": [],
+    "testFormat": "DEFAULT"
+  },
+  "filters": {
+    "incorrect": 0,
+    "correct": 0,
+    "partiallyMarked": 0,
+    "unattempted": 1,
+    "markForReview": 0,
+    "graceMarked": 0,
+    "revaluated": 0
+  },
+  "timeTaken": 0,
+  "courseId": "58216",
+  "showReportQuestion": true,
+  "sectionWiseStats": [
+    {
+      "marksScored": 0,
+      "sectionMarks": 80,
+      "accuracy": 0,
+      "_id": "6aca7a2807713658a0282592",
+      "totalQuestions": 20,
+      "attemptDuration": 0,
+      "correctAnswers": 0,
+      "inCorrectAnswers": 0,
+      "partiallyCorrectAnswers": 0,
+      "unAttempted": 20,
+      "name": "Seating Arrangement",
+      "order": 1,
+      "sectionDuration": 0,
+      "sectionId": "67bd8320df1aea548b9cf93c"
+    }
+  ],
+  "sections": [
+    {
+      "sectionDuration": 0,
+      "sectionMarks": 80,
+      "isActive": true,
+      "draftMode": false,
+      "sectionInstructions": " ",
+      "_id": "67bd8320df1aea548b9cf93c",
+      "hasOptionalQuestions": false,
+      "name": "Seating Arrangement",
+      "order": 1,
+      "createdAt": "2025-02-25T19:18:31.736Z",
+      "updatedAt": "2025-02-25T19:18:31.736Z",
+      "questions": [
+        {
+          "_id": "67bd8330aaf10951a4324c92",
+          "name": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Eight\n persons viz. A, B, C, D, E, F, G, and H are sitting around a\n circular table such that all of them are facing towards the\n center. The consecutive alphabetically named persons are not\n sitting adjacent to each other. Two persons sit between A and C,\n who faces E. Only one person sits between A and F. The number of\n persons sitting between E and F is twice the number of persons\n sitting between C and H when counted from the right of both F and\n C. D sits exactly between B and G, who doesn’t sit adjacent\n to E.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">What\n is the position of F with respect to H?</span></span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n Eight\n persons viz. A, B, C, D, E, F, G, and H are sitting around a\n circular table such that all of them are facing towards the\n center. The consecutive alphabetically named persons are not\n sitting adjacent to each other. Two persons sit between A and C,\n who faces E. Only one person sits between A and F. The number of\n persons sitting between E and F is twice the number of persons\n sitting between C and H when counted from the right of both F and\n C. D sits exactly between B and G, who doesn’t sit adjacent\n to E.\n What\n is the position of F with respect to H?\n ",
+          "sectionId": "67bd8320df1aea548b9cf93c",
+          "order": 1,
+          "questionSubmitOrder": 1,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Fourth\n to the right</span></span></span></span></p>\n ",
+              "nameText": "\n Fourth\n to the right\n ",
+              "isCorrect": false,
+              "_id": "67bd8391940e716f3f8c1f46",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Immediate\n left</span></span></span></span></p>\n ",
+              "nameText": "\n Immediate\n left\n ",
+              "isCorrect": true,
+              "_id": "67bd8391940e7152bc8c1f47",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Second\n to the left</span></span></span></span></p>\n ",
+              "nameText": "\n Second\n to the left\n ",
+              "isCorrect": false,
+              "_id": "67bd8391940e7151618c1f48",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Third\n to the right</span></span></span></span></p>\n ",
+              "nameText": "\n Third\n to the right\n ",
+              "isCorrect": false,
+              "_id": "67bd8391940e711aff8c1f49",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"images/img_31e2899d3527.png\" name=\"Picture 4\" align=\"bottom\" width=\"163\" height=\"140\" border=\"0\">\n</img></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a28ac816d32f2203235",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "67bd8330aaf1092292324c88",
+          "name": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Each\n of these questions are based on the information given below:</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">A\n ,B, C, D and E are five men sitting in a line facing to south -\n while M, N, O, P and Q are five ladies sitting in a second line\n parallel to the first line and are facing to North.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">B\n who is just next to the left of D, is opposite to Q.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">C\n and N are diagonally opposite to each other.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">E\n is opposite to O who is just next right of M.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">P\n who is just to the left of Q, is opposite to D.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">M\n is at one end of the line.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Which\n of the following pair is diagonally opposite to each other?</span></span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n Each\n of these questions are based on the information given below:\n \n A\n ,B, C, D and E are five men sitting in a line facing to south -\n while M, N, O, P and Q are five ladies sitting in a second line\n parallel to the first line and are facing to North.\n \n B\n who is just next to the left of D, is opposite to Q.\n \n C\n and N are diagonally opposite to each other.\n \n E\n is opposite to O who is just next right of M.\n \n P\n who is just to the left of Q, is opposite to D.\n \n M\n is at one end of the line.\n Which\n of the following pair is diagonally opposite to each other?\n ",
+          "sectionId": "67bd8320df1aea548b9cf93c",
+          "order": 2,
+          "questionSubmitOrder": 2,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">EQ</span></span></span></span></p>\n ",
+              "nameText": "\n EQ\n ",
+              "isCorrect": false,
+              "_id": "67bd8391940e7150168c1f76",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">BO</span></span></span></span></p>\n ",
+              "nameText": "\n BO\n ",
+              "isCorrect": false,
+              "_id": "67bd8391940e719f4b8c1f77",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">AN</span></span></span></span></p>\n ",
+              "nameText": "\n AN\n ",
+              "isCorrect": false,
+              "_id": "67bd8391940e7107198c1f78",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">AM</span></span></span></span></p>\n ",
+              "nameText": "\n AM\n ",
+              "isCorrect": true,
+              "_id": "67bd8391940e717c368c1f79",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"images/img_c72e8901af5c.jpg\" name=\"Picture 20\" align=\"bottom\" width=\"273\" height=\"143\" border=\"0\">\n</img></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a28ac816d3dd3203236",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "67bd8330aaf1091780324c6f",
+          "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Six\n friends P, Q, R, S, T and U are sitting around the hexagonal table\n each at one corner and are facing the centre of the hexagonal. P\n is second to the left of U. Q is neighbour of R and S. T is second\n to the left of S. Which of the following are the neighbours of P ?</span></span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n Six\n friends P, Q, R, S, T and U are sitting around the hexagonal table\n each at one corner and are facing the centre of the hexagonal. P\n is second to the left of U. Q is neighbour of R and S. T is second\n to the left of S. Which of the following are the neighbours of P ?\n ",
+          "sectionId": "67bd8320df1aea548b9cf93c",
+          "order": 3,
+          "questionSubmitOrder": 3,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">U,P</span></span></span></span></p>\n ",
+              "nameText": "\n U,P\n ",
+              "isCorrect": false,
+              "_id": "67bd8391940e7176c38c1f72",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">U,R</span></span></span></span></p>\n ",
+              "nameText": "\n U,R\n ",
+              "isCorrect": false,
+              "_id": "67bd8391940e71789c8c1f73",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">T,R</span></span></span></span></p>\n ",
+              "nameText": "\n T,R\n ",
+              "isCorrect": true,
+              "_id": "67bd8391940e7105f48c1f74",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">None</span></span></span></span></p>\n ",
+              "nameText": "\n None\n ",
+              "isCorrect": false,
+              "_id": "67bd8391940e71ac708c1f75",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"images/img_cc821d83fcc7.png\" name=\"Picture 18\" align=\"bottom\" width=\"148\" height=\"175\" border=\"0\">\n</img></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a28ac816d7c7a203237",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "67bd8330aaf1094980324c60",
+          "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Eight\n persons – Amar, Ansh, Arun, Amit, Ashu, Anup, Arif and Anil,\n are sitting around a circular table facing the centre but not\n necessarily in the same order. Arif is to the immediate left of\n Ashu. Anup is to the immediate left of Arun. Amar is the neighbour\n of Ansh. Amit is between Anup and Ansh. Arif is not the neighbour\n of Ansh or Anil. What is the position of Arif with respect to\n Amit?</span></span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n Eight\n persons – Amar, Ansh, Arun, Amit, Ashu, Anup, Arif and Anil,\n are sitting around a circular table facing the centre but not\n necessarily in the same order. Arif is to the immediate left of\n Ashu. Anup is to the immediate left of Arun. Amar is the neighbour\n of Ansh. Amit is between Anup and Ansh. Arif is not the neighbour\n of Ansh or Anil. What is the position of Arif with respect to\n Amit?\n ",
+          "sectionId": "67bd8320df1aea548b9cf93c",
+          "order": 4,
+          "questionSubmitOrder": 4,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Third\n to the right</span></span></span></span></p>\n ",
+              "nameText": "\n Third\n to the right\n ",
+              "isCorrect": true,
+              "_id": "67bd8391940e710e4f8c1f6e",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Second\n to the left</span></span></span></span></p>\n ",
+              "nameText": "\n Second\n to the left\n ",
+              "isCorrect": false,
+              "_id": "67bd8391940e71d04c8c1f6f",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Fourth\n to the right</span></span></span></span></p>\n ",
+              "nameText": "\n Fourth\n to the right\n ",
+              "isCorrect": false,
+              "_id": "67bd8391940e715ffa8c1f70",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Fourth\n to the left</span></span></span></span></p>\n ",
+              "nameText": "\n Fourth\n to the left\n ",
+              "isCorrect": false,
+              "_id": "67bd8391940e7104be8c1f71",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"images/img_3bd3748bb523.png\" name=\"Picture 12\" align=\"bottom\" width=\"167\" height=\"138\" border=\"0\">\n</img></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Following\n the final solution, we can say that Arif is third to the right of\n Amit.</span></span></span></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a28ac816d1cd5203238",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "67bd8330aaf1092d81324ca6",
+          "name": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Six\n persons namely P, R, S, T, W, and X are sitting around a\n rectangular table such that one sits at each of the shorter sides\n and two sit at each of the longer sides of the table facing\n towards the center of the table.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">W\n sits on the longer side and two persons sit between P and W. R\n sits opposite to X and is near P. T doesn't sit near W. X doesn't\n sit immediately left of T. Pick the odd one out.</span></span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n Six\n persons namely P, R, S, T, W, and X are sitting around a\n rectangular table such that one sits at each of the shorter sides\n and two sit at each of the longer sides of the table facing\n towards the center of the table.\n W\n sits on the longer side and two persons sit between P and W. R\n sits opposite to X and is near P. T doesn't sit near W. X doesn't\n sit immediately left of T. Pick the odd one out.\n ",
+          "sectionId": "67bd8320df1aea548b9cf93c",
+          "order": 5,
+          "questionSubmitOrder": 5,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">T</span></span></span></span></p>\n ",
+              "nameText": "\n T\n ",
+              "isCorrect": false,
+              "_id": "67bd8391940e710e798c1f3a",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">P</span></span></span></span></p>\n ",
+              "nameText": "\n P\n ",
+              "isCorrect": false,
+              "_id": "67bd8391940e715d598c1f3b",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">W</span></span></span></span></p>\n ",
+              "nameText": "\n W\n ",
+              "isCorrect": false,
+              "_id": "67bd8391940e7121a78c1f3c",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">None</span></span></span></span></p>\n ",
+              "nameText": "\n None\n ",
+              "isCorrect": true,
+              "_id": "67bd8391940e7172c08c1f3d",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"images/img_063b4d16fe07.jpg\" name=\"Picture 15\" align=\"bottom\" width=\"193\" height=\"120\" border=\"0\">\n</img></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Clearly,\n all of them are facing inside and sitting on the longer sides.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">None\n is odd.</span></span></span></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a28ac816d5a04203239",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "67bd8330aaf1095bd5324ca1",
+          "name": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Six\n persons namely P, R, S, T, W, and X are sitting around a\n rectangular table such that one sits at each of the shorter sides\n and two sit at each of the longer sides of the table facing\n towards the center of the table.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">W\n sits on the longer side and two persons sit between P and W. R\n sits opposite to X and is near P. T doesn't sit near W. X doesn't\n sit immediately left of T. How many persons sit between P and T\n when counted from the left of P?</span></span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n Six\n persons namely P, R, S, T, W, and X are sitting around a\n rectangular table such that one sits at each of the shorter sides\n and two sit at each of the longer sides of the table facing\n towards the center of the table.\n W\n sits on the longer side and two persons sit between P and W. R\n sits opposite to X and is near P. T doesn't sit near W. X doesn't\n sit immediately left of T. How many persons sit between P and T\n when counted from the left of P?\n ",
+          "sectionId": "67bd8320df1aea548b9cf93c",
+          "order": 6,
+          "questionSubmitOrder": 6,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">1</span></span></span></span></p>\n ",
+              "nameText": "\n 1\n ",
+              "isCorrect": false,
+              "_id": "67bd8391940e71b8cc8c1f7a",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">2</span></span></span></span></p>\n ",
+              "nameText": "\n 2\n ",
+              "isCorrect": false,
+              "_id": "67bd8391940e71d2b48c1f7b",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">3</span></span></span></span></p>\n ",
+              "nameText": "\n 3\n ",
+              "isCorrect": false,
+              "_id": "67bd8391940e712fe98c1f7c",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">4</span></span></span></span></p>\n ",
+              "nameText": "\n 4\n ",
+              "isCorrect": true,
+              "_id": "67bd8391940e71ea858c1f7d",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"images/img_d3d6d1a122f3.jpg\" name=\"Picture 14\" align=\"bottom\" width=\"193\" height=\"120\" border=\"0\">\n</img></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a28ac816d67cc20323a",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "67bd8330aaf109624e324c83",
+          "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">A,\n P, R, X, S and Z are sitting in a row. S and Z are in the centre.\n A and P are at the ends. R is sitting to the left of A. Who is to\n the right of P ?</span></span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n A,\n P, R, X, S and Z are sitting in a row. S and Z are in the centre.\n A and P are at the ends. R is sitting to the left of A. Who is to\n the right of P ?\n ",
+          "sectionId": "67bd8320df1aea548b9cf93c",
+          "order": 7,
+          "questionSubmitOrder": 7,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">X</span></span></span></span></p>\n ",
+              "nameText": "\n X\n ",
+              "isCorrect": true,
+              "_id": "67bd8391940e7138c08c1f66",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">S</span></span></span></span></p>\n ",
+              "nameText": "\n S\n ",
+              "isCorrect": false,
+              "_id": "67bd8391940e716c2a8c1f67",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Z</span></span></span></span></p>\n ",
+              "nameText": "\n Z\n ",
+              "isCorrect": false,
+              "_id": "67bd8391940e71f0218c1f68",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">A</span></span></span></span></p>\n ",
+              "nameText": "\n A\n ",
+              "isCorrect": false,
+              "_id": "67bd8391940e71c6ce8c1f69",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"images/img_ddae95ff9141.png\" name=\"Picture 22\" align=\"bottom\" width=\"307\" height=\"113\" border=\"0\">\n</img></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a28ac816d99d120323b",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "67bd8330aaf10985eb324c51",
+          "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Five\n girls are sitting on a bench to be photographed. Seema is to the\n left of Rani and to the right of Bindu. Mary is to the right of\n Rani. Reeta is between Rani and Mary. Who is sitting immediate\n right to Reeta ?</span></span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n Five\n girls are sitting on a bench to be photographed. Seema is to the\n left of Rani and to the right of Bindu. Mary is to the right of\n Rani. Reeta is between Rani and Mary. Who is sitting immediate\n right to Reeta ?\n ",
+          "sectionId": "67bd8320df1aea548b9cf93c",
+          "order": 8,
+          "questionSubmitOrder": 8,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Bindu\n </span></span></span></span>\n </p>\n ",
+              "nameText": "\n Bindu\n \n \n ",
+              "isCorrect": false,
+              "_id": "67bd8391940e7135118c1f2e",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Rani</span></span></span></span></p>\n ",
+              "nameText": "\n Rani\n ",
+              "isCorrect": false,
+              "_id": "67bd8391940e715f128c1f2f",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Mary</span></span></span></span></p>\n ",
+              "nameText": "\n Mary\n ",
+              "isCorrect": true,
+              "_id": "67bd8391940e712b528c1f30",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Seema</span></span></span></span></p>\n ",
+              "nameText": "\n Seema\n ",
+              "isCorrect": false,
+              "_id": "67bd8391940e71cd978c1f31",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"images/img_f0201711f861.jpg\" name=\"Picture 3\" align=\"bottom\" width=\"325\" height=\"75\" border=\"0\">\n</img></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a28ac816d7af820323c",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "67bd8330aaf1095b3b324c9c",
+          "name": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Eight\n persons viz. A, B, C, D, E, F, G, and H are sitting around a\n circular table such that all of them are facing towards the\n center. The consecutive alphabetically named persons are not\n sitting adjacent to each other. Two persons sit between A and C,\n who faces E. Only one person sits between A and F. The number of\n persons sitting between E and F is twice the number of persons\n sitting between C and H when counted from the right of both F and\n C. D sits exactly between B and G, who doesn’t sit adjacent\n to E.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Who\n among the following person sits second to the left of C?</span></span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n Eight\n persons viz. A, B, C, D, E, F, G, and H are sitting around a\n circular table such that all of them are facing towards the\n center. The consecutive alphabetically named persons are not\n sitting adjacent to each other. Two persons sit between A and C,\n who faces E. Only one person sits between A and F. The number of\n persons sitting between E and F is twice the number of persons\n sitting between C and H when counted from the right of both F and\n C. D sits exactly between B and G, who doesn’t sit adjacent\n to E.\n Who\n among the following person sits second to the left of C?\n ",
+          "sectionId": "67bd8320df1aea548b9cf93c",
+          "order": 9,
+          "questionSubmitOrder": 9,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">The\n one who sits to the immediate right of E</span></span></span></span></p>\n ",
+              "nameText": "\n The\n one who sits to the immediate right of E\n ",
+              "isCorrect": false,
+              "_id": "67bd8391940e71b8098c1f6a",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">G</span></span></span></span></p>\n ",
+              "nameText": "\n G\n ",
+              "isCorrect": false,
+              "_id": "67bd8391940e7108758c1f6b",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">The\n one who sits third to the right of A</span></span></span></span></p>\n ",
+              "nameText": "\n The\n one who sits third to the right of A\n ",
+              "isCorrect": true,
+              "_id": "67bd8391940e712fd28c1f6c",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">H</span></span></span></span></p>\n ",
+              "nameText": "\n H\n ",
+              "isCorrect": false,
+              "_id": "67bd8391940e717aa98c1f6d",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"images/img_75b4eb26828e.png\" name=\"Picture 8\" align=\"bottom\" width=\"163\" height=\"140\" border=\"0\">\n</img></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a28ac816d6ec720323d",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "67bd8330aaf1093eaa324c4c",
+          "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">A,\n B, C, D and E are sitting on a bench. A is sitting next to B, C is\n sitting next to D, D is not sitting with E who is on the left end\n of the bench. C is on the second position from the right. A is to\n the right of B and E. A and C are sitting together. In which\n position A is sitting ?</span></span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n A,\n B, C, D and E are sitting on a bench. A is sitting next to B, C is\n sitting next to D, D is not sitting with E who is on the left end\n of the bench. C is on the second position from the right. A is to\n the right of B and E. A and C are sitting together. In which\n position A is sitting ?\n ",
+          "sectionId": "67bd8320df1aea548b9cf93c",
+          "order": 10,
+          "questionSubmitOrder": 10,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Between\n B and C</span></span></span></span></p>\n ",
+              "nameText": "\n Between\n B and C\n ",
+              "isCorrect": true,
+              "_id": "67bd8391940e7140808c1f4e",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Between\n B and D</span></span></span></span></p>\n ",
+              "nameText": "\n Between\n B and D\n ",
+              "isCorrect": false,
+              "_id": "67bd8391940e7199518c1f4f",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Between\n E and D</span></span></span></span></p>\n ",
+              "nameText": "\n Between\n E and D\n ",
+              "isCorrect": false,
+              "_id": "67bd8391940e711eac8c1f50",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Between\n C and D</span></span></span></span></p>\n ",
+              "nameText": "\n Between\n C and D\n ",
+              "isCorrect": false,
+              "_id": "67bd8391940e718d568c1f51",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"images/img_ac3cca37717f.jpg\" name=\"Picture 2\" align=\"bottom\" width=\"263\" height=\"93\" border=\"0\">\n</img></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a28ac816dd4a820323e",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "67bd8330aaf1099a46324c8d",
+          "name": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Each\n of these questions are based on the information given below:</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">A\n ,B, C, D and E are five men sitting in a line facing to south -\n while M, N, O, P and Q are five ladies sitting in a second line\n parallel to the first line and are facing to North.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">B\n who is just next to the left of D, is opposite to Q.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">C\n and N are diagonally opposite to each other.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">E\n is opposite to O who is just next right of M.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">P\n who is just to the left of Q, is opposite to D.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">M\n is at one end of the line.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Who\n is sitting just opposite to N ?</span></span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n Each\n of these questions are based on the information given below:\n \n A\n ,B, C, D and E are five men sitting in a line facing to south -\n while M, N, O, P and Q are five ladies sitting in a second line\n parallel to the first line and are facing to North.\n \n B\n who is just next to the left of D, is opposite to Q.\n \n C\n and N are diagonally opposite to each other.\n \n E\n is opposite to O who is just next right of M.\n \n P\n who is just to the left of Q, is opposite to D.\n \n M\n is at one end of the line.\n Who\n is sitting just opposite to N ?\n ",
+          "sectionId": "67bd8320df1aea548b9cf93c",
+          "order": 11,
+          "questionSubmitOrder": 11,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">B</span></span></span></span></p>\n ",
+              "nameText": "\n B\n ",
+              "isCorrect": false,
+              "_id": "67bd8391940e7171ed8c1f36",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">A</span></span></span></span></p>\n ",
+              "nameText": "\n A\n ",
+              "isCorrect": true,
+              "_id": "67bd8391940e7131fb8c1f37",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">C</span></span></span></span></p>\n ",
+              "nameText": "\n C\n ",
+              "isCorrect": false,
+              "_id": "67bd8391940e7145018c1f38",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">D</span></span></span></span></p>\n ",
+              "nameText": "\n D\n ",
+              "isCorrect": false,
+              "_id": "67bd8391940e7131f48c1f39",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"images/img_e73946ee30b9.jpg\" name=\"Picture 19\" align=\"bottom\" width=\"273\" height=\"143\" border=\"0\">\n</img></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a28ac816dd8d920323f",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "67bd8330aaf109c921324c6a",
+          "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Six\n friends P, Q, R, S, T and U are sitting around the hexagonal table\n each at one corner and are facing the centre of the hexagonal. P\n is second to the left of U. Q is neighbour of R and S. T is second\n to the left of S. Which one is sitting opposite to P ?</span></span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n Six\n friends P, Q, R, S, T and U are sitting around the hexagonal table\n each at one corner and are facing the centre of the hexagonal. P\n is second to the left of U. Q is neighbour of R and S. T is second\n to the left of S. Which one is sitting opposite to P ?\n ",
+          "sectionId": "67bd8320df1aea548b9cf93c",
+          "order": 12,
+          "questionSubmitOrder": 12,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">R</span></span></span></span></p>\n ",
+              "nameText": "\n R\n ",
+              "isCorrect": false,
+              "_id": "67bd8391940e7144108c1f62",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">S</span></span></span></span></p>\n ",
+              "nameText": "\n S\n ",
+              "isCorrect": true,
+              "_id": "67bd8391940e7138208c1f63",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">T</span></span></span></span></p>\n ",
+              "nameText": "\n T\n ",
+              "isCorrect": false,
+              "_id": "67bd8391940e71aeac8c1f64",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Q</span></span></span></span></p>\n ",
+              "nameText": "\n Q\n ",
+              "isCorrect": false,
+              "_id": "67bd8391940e7135a78c1f65",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"images/img_3f7204d8221a.png\" name=\"Picture 17\" align=\"bottom\" width=\"148\" height=\"175\" border=\"0\">\n</img></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a28ac816d4be9203240",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "67bd8330aaf1095032324c79",
+          "name": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">In\n a group discussion A, B, C, D, E and F are sitting around a\n rectangular table.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">A\n is sitting on a side alone. B, C are sitting on the same side. F\n is facing A. D is the immediate left of F. C is facing D. Who is\n immediate right of A?</span></span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n In\n a group discussion A, B, C, D, E and F are sitting around a\n rectangular table.\n A\n is sitting on a side alone. B, C are sitting on the same side. F\n is facing A. D is the immediate left of F. C is facing D. Who is\n immediate right of A?\n ",
+          "sectionId": "67bd8320df1aea548b9cf93c",
+          "order": 13,
+          "questionSubmitOrder": 13,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">B</span></span></span></span></p>\n ",
+              "nameText": "\n B\n ",
+              "isCorrect": false,
+              "_id": "67bd8391940e713c698c1f42",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">F</span></span></span></span></p>\n ",
+              "nameText": "\n F\n ",
+              "isCorrect": false,
+              "_id": "67bd8391940e71c8d98c1f43",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">D</span></span></span></span></p>\n ",
+              "nameText": "\n D\n ",
+              "isCorrect": false,
+              "_id": "67bd8391940e7181448c1f44",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">E</span></span></span></span></p>\n ",
+              "nameText": "\n E\n ",
+              "isCorrect": true,
+              "_id": "67bd8391940e711a8c8c1f45",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"images/img_a6561ae307e6.jpg\" name=\"Picture 10\" align=\"bottom\" width=\"231\" height=\"149\" border=\"0\">\n</img></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a28ac816d5e39203241",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "67bd8330aaf109c659324c97",
+          "name": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Eight\n persons viz. A, B, C, D, E, F, G, and H are sitting around a\n circular table such that all of them are facing towards the\n center. The consecutive alphabetically named persons are not\n sitting adjacent to each other. Two persons sit between A and C,\n who faces E. Only one person sits between A and F. The number of\n persons sitting between E and F is twice the number of persons\n sitting between C and H when counted from the right of both F and\n C. D sits exactly between B and G, who doesn’t sit adjacent\n to E.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Find\n out the series that follow the same logic.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">DG\n FA BC ___</span></span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n Eight\n persons viz. A, B, C, D, E, F, G, and H are sitting around a\n circular table such that all of them are facing towards the\n center. The consecutive alphabetically named persons are not\n sitting adjacent to each other. Two persons sit between A and C,\n who faces E. Only one person sits between A and F. The number of\n persons sitting between E and F is twice the number of persons\n sitting between C and H when counted from the right of both F and\n C. D sits exactly between B and G, who doesn’t sit adjacent\n to E.\n \n Find\n out the series that follow the same logic.\n DG\n FA BC ___\n ",
+          "sectionId": "67bd8320df1aea548b9cf93c",
+          "order": 14,
+          "questionSubmitOrder": 14,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">HD</span></span></span></span></p>\n ",
+              "nameText": "\n HD\n ",
+              "isCorrect": true,
+              "_id": "67bd8391940e71662a8c1f5a",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">FE</span></span></span></span></p>\n ",
+              "nameText": "\n FE\n ",
+              "isCorrect": false,
+              "_id": "67bd8391940e71089c8c1f5b",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">HB</span></span></span></span></p>\n ",
+              "nameText": "\n HB\n ",
+              "isCorrect": false,
+              "_id": "67bd8391940e7183728c1f5c",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">AG</span></span></span></span></p>\n ",
+              "nameText": "\n AG\n ",
+              "isCorrect": false,
+              "_id": "67bd8391940e715f5c8c1f5d",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"images/img_47587c5bb84f.png\" name=\"Picture 7\" align=\"bottom\" width=\"163\" height=\"140\" border=\"0\">\n</img></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a28ac816d27f4203242",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "67bd8330aaf10922c4324c74",
+          "name": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">In\n a group discussion A, B, C, D, E and F are sitting around a\n rectangular table.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">A\n is sitting on a side alone. B, C are sitting on the same side. F\n is facing A. D is the immediate left of F. C is facing D. Who is\n between B and F?</span></span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n In\n a group discussion A, B, C, D, E and F are sitting around a\n rectangular table.\n A\n is sitting on a side alone. B, C are sitting on the same side. F\n is facing A. D is the immediate left of F. C is facing D. Who is\n between B and F?\n ",
+          "sectionId": "67bd8320df1aea548b9cf93c",
+          "order": 15,
+          "questionSubmitOrder": 15,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">C</span></span></span></span></p>\n ",
+              "nameText": "\n C\n ",
+              "isCorrect": true,
+              "_id": "67bd8391940e71106b8c1f32",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">D</span></span></span></span></p>\n ",
+              "nameText": "\n D\n ",
+              "isCorrect": false,
+              "_id": "67bd8391940e7124288c1f33",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">A</span></span></span></span></p>\n ",
+              "nameText": "\n A\n ",
+              "isCorrect": false,
+              "_id": "67bd8391940e7144a38c1f34",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">E</span></span></span></span></p>\n ",
+              "nameText": "\n E\n ",
+              "isCorrect": false,
+              "_id": "67bd8391940e71b8568c1f35",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"images/img_7b41770eacff.jpg\" name=\"Picture 9\" align=\"bottom\" width=\"231\" height=\"149\" border=\"0\">\n</img></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a28ac816d450e203243",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "67bd8330aaf1090963324c7e",
+          "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Six\n people - S, T, U, V, W and Z are sitting around a circular table\n facing towards centre. Only one person is sitting between T and W.\n Z is an immediate neighbour of W. S is sitting third to left of Z.\n U is an immediate neighbour of W. V is not sitting immediate left\n of T. How many people are sitting between U and Z, when counted\n from the right of Z?</span></span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n Six\n people - S, T, U, V, W and Z are sitting around a circular table\n facing towards centre. Only one person is sitting between T and W.\n Z is an immediate neighbour of W. S is sitting third to left of Z.\n U is an immediate neighbour of W. V is not sitting immediate left\n of T. How many people are sitting between U and Z, when counted\n from the right of Z?\n ",
+          "sectionId": "67bd8320df1aea548b9cf93c",
+          "order": 16,
+          "questionSubmitOrder": 16,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">1</span></span></span></span></p>\n ",
+              "nameText": "\n 1\n ",
+              "isCorrect": false,
+              "_id": "67bd8391940e717ee18c1f56",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">2</span></span></span></span></p>\n ",
+              "nameText": "\n 2\n ",
+              "isCorrect": false,
+              "_id": "67bd8391940e7103788c1f57",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">3</span></span></span></span></p>\n ",
+              "nameText": "\n 3\n ",
+              "isCorrect": true,
+              "_id": "67bd8391940e71a45c8c1f58",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">4</span></span></span></span></p>\n ",
+              "nameText": "\n 4\n ",
+              "isCorrect": false,
+              "_id": "67bd8391940e7164fa8c1f59",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"images/img_c8b581dc4168.jpg\" name=\"Picture 1\" align=\"bottom\" width=\"185\" height=\"196\" border=\"0\">\n</img></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">T,V\n and S are sitting between U and Z when counted from the right of\n Z.</span></span></span></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a28ac816d7735203244",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "67bd8330aaf1096f86324c56",
+          "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Five\n girls are sitting on a bench to be photographed. Seema is to the\n left of Rani and to the right of Bindu. Mary is to the right of\n Rani. Reeta is between Rani and Mary. Who is in the middle of the\n photograph ?</span></span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n Five\n girls are sitting on a bench to be photographed. Seema is to the\n left of Rani and to the right of Bindu. Mary is to the right of\n Rani. Reeta is between Rani and Mary. Who is in the middle of the\n photograph ?\n ",
+          "sectionId": "67bd8320df1aea548b9cf93c",
+          "order": 17,
+          "questionSubmitOrder": 17,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Bindu</span></span></span></span></p>\n ",
+              "nameText": "\n Bindu\n ",
+              "isCorrect": false,
+              "_id": "67bd8391940e71c84f8c1f3e",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Rani</span></span></span></span></p>\n ",
+              "nameText": "\n Rani\n ",
+              "isCorrect": true,
+              "_id": "67bd8391940e71f9cf8c1f3f",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Seema</span></span></span></span></p>\n ",
+              "nameText": "\n Seema\n ",
+              "isCorrect": false,
+              "_id": "67bd8391940e7150bc8c1f40",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Reeta</span></span></span></span></p>\n ",
+              "nameText": "\n Reeta\n ",
+              "isCorrect": false,
+              "_id": "67bd8391940e7178b28c1f41",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"images/img_e08dce26dd83.jpg\" name=\"Picture 21\" align=\"bottom\" width=\"325\" height=\"75\" border=\"0\">\n</img></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a28ac816d7c7e203245",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "67bd8330aaf1091224324c5b",
+          "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Eight\n persons – Amar, Ansh, Arun, Amit, Ashu, Anup, Arif and Anil,\n are sitting around a circular table facing the centre but not\n necessarily in the same order. Arif is to the immediate left of\n Ashu. Anup is to the immediate left of Arun. Amar is the neighbour\n of Ansh. Amit is between Anup and Ansh. Arif is not the neighbour\n of Ansh or Anil. How many persons were sitting between Amit and\n Anil, when counted from the left of Anil?</span></span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n Eight\n persons – Amar, Ansh, Arun, Amit, Ashu, Anup, Arif and Anil,\n are sitting around a circular table facing the centre but not\n necessarily in the same order. Arif is to the immediate left of\n Ashu. Anup is to the immediate left of Arun. Amar is the neighbour\n of Ansh. Amit is between Anup and Ansh. Arif is not the neighbour\n of Ansh or Anil. How many persons were sitting between Amit and\n Anil, when counted from the left of Anil?\n ",
+          "sectionId": "67bd8320df1aea548b9cf93c",
+          "order": 18,
+          "questionSubmitOrder": 18,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">1</span></span></span></span></p>\n ",
+              "nameText": "\n 1\n ",
+              "isCorrect": false,
+              "_id": "67bd8391940e717a828c1f5e",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">2</span></span></span></span></p>\n ",
+              "nameText": "\n 2\n ",
+              "isCorrect": false,
+              "_id": "67bd8391940e7133198c1f5f",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">3</span></span></span></span></p>\n ",
+              "nameText": "\n 3\n ",
+              "isCorrect": false,
+              "_id": "67bd8391940e7143218c1f60",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">4</span></span></span></span></p>\n ",
+              "nameText": "\n 4\n ",
+              "isCorrect": true,
+              "_id": "67bd8391940e7168968c1f61",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"images/img_1f2dfe982c74.png\" name=\"Picture 11\" align=\"bottom\" width=\"167\" height=\"138\" border=\"0\">\n</img></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Following\n the final solution, we can say that four persons were sitting\n between Amit and Anil, when counted from the left of Anil.</span></span></span></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a28ac816d59fa203246",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "67bd8330aaf109518e324c65",
+          "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Eight\n persons – Amar, Ansh, Arun, Amit, Ashu, Anup, Arif and Anil,\n are sitting around a circular table facing the centre but not\n necessarily in the same order. Arif is to the immediate left of\n Ashu. Anup is to the immediate left of Arun. Amar is the neighbour\n of Ansh. Amit is between Anup and Ansh. Arif is not the neighbour\n of Ansh or Anil. Which of the following person sits opposite to\n the one who sits third to the left of Anil?</span></span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n Eight\n persons – Amar, Ansh, Arun, Amit, Ashu, Anup, Arif and Anil,\n are sitting around a circular table facing the centre but not\n necessarily in the same order. Arif is to the immediate left of\n Ashu. Anup is to the immediate left of Arun. Amar is the neighbour\n of Ansh. Amit is between Anup and Ansh. Arif is not the neighbour\n of Ansh or Anil. Which of the following person sits opposite to\n the one who sits third to the left of Anil?\n ",
+          "sectionId": "67bd8320df1aea548b9cf93c",
+          "order": 19,
+          "questionSubmitOrder": 19,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Anup</span></span></span></span></p>\n ",
+              "nameText": "\n Anup\n ",
+              "isCorrect": false,
+              "_id": "67bd8391940e71f3a48c1f52",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Arif</span></span></span></span></p>\n ",
+              "nameText": "\n Arif\n ",
+              "isCorrect": false,
+              "_id": "67bd8391940e7174a08c1f53",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Amar</span></span></span></span></p>\n ",
+              "nameText": "\n Amar\n ",
+              "isCorrect": true,
+              "_id": "67bd8391940e7183ab8c1f54",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Arun</span></span></span></span></p>\n ",
+              "nameText": "\n Arun\n ",
+              "isCorrect": false,
+              "_id": "67bd8391940e710b308c1f55",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"images/img_e1c29cebbd5c.png\" name=\"Picture 13\" align=\"bottom\" width=\"167\" height=\"138\" border=\"0\">\n</img></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">In\n the following common it is clear that Amar sits opposite to the\n one who sits third to the left of Anil.</span></span></span></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a28ac816dd802203247",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "67bd8330aaf109154d324cab",
+          "name": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Six\n persons namely P, R, S, T, W, and X are sitting around a\n rectangular table such that one sits at each of the shorter sides\n and two sit at each of the longer sides of the table facing\n towards the center of the table.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">W\n sits on the longer side and two persons sit between P and W. R\n sits opposite to X and is near P. T doesn't sit near W. X doesn't\n sit immediately left of T. Who sits second to the right of P?</span></span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n Six\n persons namely P, R, S, T, W, and X are sitting around a\n rectangular table such that one sits at each of the shorter sides\n and two sit at each of the longer sides of the table facing\n towards the center of the table.\n W\n sits on the longer side and two persons sit between P and W. R\n sits opposite to X and is near P. T doesn't sit near W. X doesn't\n sit immediately left of T. Who sits second to the right of P?\n ",
+          "sectionId": "67bd8320df1aea548b9cf93c",
+          "order": 20,
+          "questionSubmitOrder": 20,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">T</span></span></span></span></p>\n ",
+              "nameText": "\n T\n ",
+              "isCorrect": false,
+              "_id": "67bd8391940e7144128c1f4a",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">R</span></span></span></span></p>\n ",
+              "nameText": "\n R\n ",
+              "isCorrect": false,
+              "_id": "67bd8391940e710a178c1f4b",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">X</span></span></span></span></p>\n ",
+              "nameText": "\n X\n ",
+              "isCorrect": true,
+              "_id": "67bd8391940e71e96a8c1f4c",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">S</span></span></span></span></p>\n ",
+              "nameText": "\n S\n ",
+              "isCorrect": false,
+              "_id": "67bd8391940e7118dd8c1f4d",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"images/img_3bd5d69e8108.jpg\" name=\"Picture 16\" align=\"bottom\" width=\"193\" height=\"120\" border=\"0\">\n</img></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a28ac816db239203248",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        }
+      ],
+      "numberOfQuestions": 20
+    }
+  ],
+  "userDetails": {
+    "name": "Shivam Gupta",
+    "userId": 193594164,
+    "orgId": 78392
+  },
+  "sts": 1791654441194,
+  "region": {
+    "timeFormat": "hh:mm a",
+    "dateTimeStamp": "yyyy/MM/dd"
+  }
+}

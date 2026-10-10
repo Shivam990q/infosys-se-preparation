@@ -1,0 +1,334 @@
+# 1. Full length verbal ability
+
+**Total Questions:** 25 | **Total Marks:** 25 | **Duration:** 25 Minutes
+
+---
+
+## Section: Verbal Ability
+
+### Question 1 [Marks: +1, -0]
+
+Find the Error in the following sentences. Q1. Behave yourself; [1] lest you [2] should not [3] invite the wrath of the old man [4].
+
+**Options:**
+
+- **(A)** 1
+- **(B)** 2
+- **(C)** 3
+- **(D)** 4
+
+---
+
+### Question 2 [Marks: +1, -0]
+
+Find the Error in the following sentences. Q2. [1] Hardly [2] had 1 [3] climbed the stairs [4] than I was called down again.
+
+**Options:**
+
+- **(A)** 1
+- **(B)** 2
+- **(C)** 3
+- **(D)** 4
+
+---
+
+### Question 3 [Marks: +1, -0]
+
+SENTENCE CORRECTION Though all competitive exams do not allow using a calculator , but where they are permitted, there are restrictions on the models allowed.
+
+**Options:**
+
+- **(A)** Though all competitive exams do not allow using calculators
+- **(B)** Not all competitive exams allow the use of a calculator
+- **(C)** Every competitive exam does not allow using of calculators
+- **(D)** No correction required
+
+---
+
+### Question 4 [Marks: +1, -0]
+
+SENTENCE CORRECTION Researchers have recently discovered a bacteria, Ideonella sakaiensis, in a recycling plant that eats one of the most common forms of plastic.
+
+**Options:**
+
+- **(A)** a bacteria, Ideonella sakaiensis, that eats one of the most common forms of plastic in a recycling plant.
+- **(B)** Ideonella sakaiensis, a bacteria that eats one of the most common forms of plastic, in a recycling plant.
+- **(C)** a bacterium that eats one of the most common forms of plastic, Ideonella sakaiensis, in a recycling plant.
+- **(D)** Ideonella sakaiensis, a bacterium that eats one of the most common forms of plastic, in a recycling plant.
+
+---
+
+### Question 5 [Marks: +1, -0]
+
+Antonym Q. Laconic
+
+**Options:**
+
+- **(A)** Profligate
+- **(B)** Bucolic
+- **(C)** Prolific
+- **(D)** Prolix
+
+---
+
+### Question 6 [Marks: +1, -0]
+
+Antonym Q. Copious
+
+**Options:**
+
+- **(A)** Inadequate
+- **(B)** Abundant
+- **(C)** Pious
+- **(D)** Nadir
+
+---
+
+### Question 7 [Marks: +1, -0]
+
+Synonym Q. Gusto
+
+**Options:**
+
+- **(A)** Fervently
+- **(B)** Lampooning
+- **(C)** Bellicose
+- **(D)** Ambush
+
+---
+
+### Question 8 [Marks: +1, -0]
+
+Read each sentence to find out whether there is any grammatical or idiomatic error in it. The error, if any, will be in one part of the sentence. The number of that part is the answer. If the sentence is error-free then choose “No error” as your answer choice. (Ignore errors of punctuation, if any.) He is almost quite competent (A)/ for the post of Manager; (B)/ so when given a chance, (c)/he can lead the company to its goal (D)
+
+**Options:**
+
+- **(A)** A
+- **(B)** B
+- **(C)** C
+- **(D)** D
+- **(E)** No Error
+
+---
+
+### Question 9 [Marks: +1, -0]
+
+Which of these words is closest in meaning to the word provided? Remote
+
+**Options:**
+
+- **(A)** Automatic
+- **(B)** Distant
+- **(C)** Savage
+- **(D)** Mean
+
+---
+
+### Question 10 [Marks: +1, -0]
+
+Read each sentence to find out whether there is any grammatical or idiomatic error in it. The error, if any, will be in one part of the sentence. The number of that part is the answer. If the sentence is error-free then choose “No error” as your answer choice. (Ignore errors of punctuation, if any.) The population density of (a)/ China is (b)/ greater (c)/ than America(d)
+
+**Options:**
+
+- **(A)** a
+- **(B)** b
+- **(C)** c
+- **(D)** d
+
+---
+
+### Question 11 [Marks: +1, -0]
+
+DIRECTION: Choose the option which represents the best way of writing the Sentence
+
+**Options:**
+
+- **(A)** This teacher, along with a few others, play the guitar during the leisure time.
+- **(B)** This teacher, along with a few others, plays the guitar during the leisure time.
+- **(C)** This teacher, along with a few others, are playing the guitar during the leisure time.
+- **(D)** This teacher, along with a few others, were playing the guitar during the leisure time
+
+---
+
+### Question 12 [Marks: +1, -0]
+
+DIRECTION: Choose the option which represents the best way of writing the Sentence
+
+**Options:**
+
+- **(A)** Two-thirds of the city seem to be in ruins due to covid-19
+- **(B)** Two-thirds of the city are in ruins due to covid-19
+- **(C)** Two-thirds of the city seeming ruins due to covid-19
+- **(D)** Two-thirds of the city seems to be in ruins due to covid-19
+
+---
+
+### Question 13 [Marks: +1, -0]
+
+The rotten smell was so _______________ that she became unconscious then and there and had to be hospitalized.
+
+**Options:**
+
+- **(A)** revolting
+- **(B)** gratifying
+- **(C)** captivating
+- **(D)** unappealing
+- **(E)** All of the above
+
+---
+
+### Question 14 [Marks: +1, -0]
+
+The government should A. to improve B. introduce policies C. the quality of education D. in government schools
+
+**Options:**
+
+- **(A)** DBAC
+- **(B)** DBAC
+- **(C)** ACDB
+- **(D)** BACD
+
+---
+
+### Question 15 [Marks: +1, -0]
+
+Directions: In the given statements, a blank has been given. This needs to be filled up using the correct combination of words from the three options mentioned, so that the resulting statement is grammatically and contextually correct. People of different communities should not harbor grudge against each other, rather, they should celebrate fellow-feeling and _______________ amongst each other. I. friendship II. fraternity III. brotherhood
+
+**Options:**
+
+- **(A)** Only I
+- **(B)** Only I and III
+- **(C)** Only II and III
+- **(D)** Only I and II
+- **(E)** I, II and III
+
+---
+
+### Question 16 [Marks: +1, -0]
+
+Directions: Rearrange the following six sentences A, B, C, D, E, and F in the proper sequence to form a meaningful paragraph and then answer the question given beside. 1. Children are growing up surrounded by mobile devices and interactive social networking sites. 2. The effects of social networking are two fold. 3. The impact of social networks on them is significant. 4. While on the negative side, the internet is laden with a number of risks associated with online communities. 5. Social media is a term used to describe the interaction between groups or individuals over the internet and in virtual communities. 6. On the positive side, social networks can act as invaluable tools for professionals Which of the following would be the FIRST sentence after rearrangement?
+
+**Options:**
+
+- **(A)** undefined
+
+---
+
+### Question 17 [Marks: +1, -0]
+
+Directions: Rearrange the following six sentences A, B, C, D, E, and F in the proper sequence to form a meaningful paragraph and then answer the question given beside. 1. Children are growing up surrounded by mobile devices and interactive social networking sites. 2. The effects of social networking are two fold. 3. The impact of social networks on them is significant. 4. While on the negative side, the internet is laden with a number of risks associated with online communities. 5. Social media is a term used to describe the interaction between groups or individuals over the internet and in virtual communities. 6. On the positive side, social networks can act as invaluable tools for professionals Which of the following would be the THIRD sentence after rearrangement?
+
+**Options:**
+
+- **(A)** undefined
+
+---
+
+### Question 18 [Marks: +1, -0]
+
+Directions: Rearrange the following six sentences A, B, C, D, E, and F in the proper sequence to form a meaningful paragraph and then answer the question given beside. 1. Children are growing up surrounded by mobile devices and interactive social networking sites. 2. The effects of social networking are two fold. 3. The impact of social networks on them is significant. 4. While on the negative side, the internet is laden with a number of risks associated with online communities. 5. Social media is a term used to describe the interaction between groups or individuals over the internet and in virtual communities. 6. On the positive side, social networks can act as invaluable tools for professionals Which of the following would be the LAST sentence after rearrangement?
+
+**Options:**
+
+- **(A)** undefined
+
+---
+
+### Question 19 [Marks: +1, -0]
+
+Directions: Read the following passage to answer the given questions based on it. Some words/phrases are printed in bold to help you locate them while answering some of the questions. (The passage has been extracted from 'The Hindu' dated June 11, 2014.) Ever since the morning after 26/11, India’s strategic community has discussed what the country ought to do when the next 26/11 happens. Prime Minister Narendra Modi may have to answer that question sooner than most people expect. The Lashkar-e-Taiba (LeT) staged its first operation against an Indian target since 26/11 just hours before Mr. Modi took office, attacking India’s mission in Herat. Lashkar chief Hafiz Muhammad Saeed blamed Mr. Modi for this week’s attacks on Karachi — and demanded vengeance. From past evidence, we know these threats aren’t idle . “The only language India understands is that of force,” a press release issued by the Lashkar’s parent organisation, Jamaat-ud-Dawa recorded Mr. Saeed as saying before 26/11, “and that is the language it must be talked to in.” From files he will have read since taking office, Mr. Modi will have learned why Dr. Singh did nothing. Indian combat jets could hit training camps across the Line of Control (LoC), Air Chief Marshal Fali Major said at a November 29 meeting called for by the Prime Minister, but precise coordinates and adequate imaging weren’t available. Later, General Deepak Kapoor, the chief of Army staff, told Dr. Singh he couldn’t promise special forces’ strikes would be successful either. No one could guarantee missile strikes wouldn’t escalate into war, or even a nuclear exchange — and no one could guarantee war would compel Pakistan’s military to change course. Mr. Modi’s advisers know five responses are on the table — but all of them involve great risks. The first is to keep doing nothing. The threat of a major India- Pakistan crisis after 26/11 led the United States to mount intense pressure on Pakistan. In the years since, the LeT hasn’t mounted a single major operation on Indian soil. Its affiliate, the Indian Mujahideen, has had restraint thrust upon it by Pakistan’s Inter-Services Intelligence (ISI) Directorate. Inaction, though, only succeeds if someone else does the hard work. In 2008, fearing its own war in Afghanistan would be undermined by an India-Pakistan war, the U.S. stepped in. Now, as it prepares to withdraw from Afghanistan, the country’s appetite for playing global policeman is diminishing. Doing nothing could thus invite even more punishment. Like Prime Minister Atal Bihari Vajpayee, Mr. Modi’s second choice might be coercion. In 2001, after terrorists attacked Parliament, India mobilised troops. Pakistan was forced to respond — but its smaller economy suffered disproportionately. The stratagem is time-tested. In 1953, Prime Minister Jawaharlal Nehru mobilised troops in Punjab to deter a Pakistani attack into Kashmir. Mr. Vajpayee’s strategy worked, forcing Pakistan to dramatically scale down the jihad in Jammu and Kashmir. It only worked, though, because the U.S. played mediator — much like after 26/11 — and it was hideously expensive, in money and lives. The third choice is to do what Dr. Singh couldn’t: limited strikes on jihadist training camps across the LoC, using air power or missiles. In the five years since 26/11, India’s ability to conduct such strikes has been significantly enhanced. However, the tactic hasn’t had great success. In August 1998, the United States fired missiles into Afghanistan, seeking to avenge bombings which killed 224 people. In all, 75 missiles, each priced at $1.5 million, killed six minor jihadists. Moreover, Pakistan could hit back, targeting Indian industrial infrastructure, which is much more expensive than tent-and-donkey cart training camps. Fourth, the Prime Minister could tell Indian troops to target the Pakistan Army along the LoC, using artillery and infantry — a task aided by the fact that its defences along stretches of the Neelam valley have been degraded by troops having to be moved to fight the Tehreek-e-Taliban elsewhere. The fighting that will follow though will make it more difficult to secure the LoC against jihadist infiltration — leading to heightened violence in Kashmir. Mr. Modi could, finally, authorise the use of covert means, like bomb-for-bomb strikes or targeted assassination of jihadist leaders. Mr. Modi’s intelligence services, though, don’t have this arrow in their quiver — and it will be a while, most experts say, before they can acquire it. Every sane person should hope Mr. Modi will never be required to exercise any of his military options — but thinking through war is just as important as talking peace. 1. What is the major reason according to the passage is for the Lashkar-e-Taiba not mounting a major operation on Indian soil after 26/11?
+
+**Options:**
+
+- **(A)** Due to India's enhanced security after 26/11
+- **(B)** Due to India's serious dialogue with Pakistan
+- **(C)** Due to the pressure Pakistan got from the United States of America
+- **(D)** Because the outfit lost its Chief in an accident
+- **(E)** None of these
+
+---
+
+### Question 20 [Marks: +1, -0]
+
+Directions: Read the following passage to answer the given questions based on it. Some words/phrases are printed in bold to help you locate them while answering some of the questions. (The passage has been extracted from 'The Hindu' dated June 11, 2014.) Ever since the morning after 26/11, India’s strategic community has discussed what the country ought to do when the next 26/11 happens. Prime Minister Narendra Modi may have to answer that question sooner than most people expect. The Lashkar-e-Taiba (LeT) staged its first operation against an Indian target since 26/11 just hours before Mr. Modi took office, attacking India’s mission in Herat. Lashkar chief Hafiz Muhammad Saeed blamed Mr. Modi for this week’s attacks on Karachi — and demanded vengeance. From past evidence, we know these threats aren’t idle . “The only language India understands is that of force,” a press release issued by the Lashkar’s parent organisation, Jamaat-ud-Dawa recorded Mr. Saeed as saying before 26/11, “and that is the language it must be talked to in.” From files he will have read since taking office, Mr. Modi will have learned why Dr. Singh did nothing. Indian combat jets could hit training camps across the Line of Control (LoC), Air Chief Marshal Fali Major said at a November 29 meeting called for by the Prime Minister, but precise coordinates and adequate imaging weren’t available. Later, General Deepak Kapoor, the chief of Army staff, told Dr. Singh he couldn’t promise special forces’ strikes would be successful either. No one could guarantee missile strikes wouldn’t escalate into war, or even a nuclear exchange — and no one could guarantee war would compel Pakistan’s military to change course. Mr. Modi’s advisers know five responses are on the table — but all of them involve great risks. The first is to keep doing nothing. The threat of a major India- Pakistan crisis after 26/11 led the United States to mount intense pressure on Pakistan. In the years since, the LeT hasn’t mounted a single major operation on Indian soil. Its affiliate, the Indian Mujahideen, has had restraint thrust upon it by Pakistan’s Inter-Services Intelligence (ISI) Directorate. Inaction, though, only succeeds if someone else does the hard work. In 2008, fearing its own war in Afghanistan would be undermined by an India-Pakistan war, the U.S. stepped in. Now, as it prepares to withdraw from Afghanistan, the country’s appetite for playing global policeman is diminishing. Doing nothing could thus invite even more punishment. Like Prime Minister Atal Bihari Vajpayee, Mr. Modi’s second choice might be coercion. In 2001, after terrorists attacked Parliament, India mobilised troops. Pakistan was forced to respond — but its smaller economy suffered disproportionately. The stratagem is time-tested. In 1953, Prime Minister Jawaharlal Nehru mobilised troops in Punjab to deter a Pakistani attack into Kashmir. Mr. Vajpayee’s strategy worked, forcing Pakistan to dramatically scale down the jihad in Jammu and Kashmir. It only worked, though, because the U.S. played mediator — much like after 26/11 — and it was hideously expensive, in money and lives. The third choice is to do what Dr. Singh couldn’t: limited strikes on jihadist training camps across the LoC, using air power or missiles. In the five years since 26/11, India’s ability to conduct such strikes has been significantly enhanced. However, the tactic hasn’t had great success. In August 1998, the United States fired missiles into Afghanistan, seeking to avenge bombings which killed 224 people. In all, 75 missiles, each priced at $1.5 million, killed six minor jihadists. Moreover, Pakistan could hit back, targeting Indian industrial infrastructure, which is much more expensive than tent-and-donkey cart training camps. Fourth, the Prime Minister could tell Indian troops to target the Pakistan Army along the LoC, using artillery and infantry — a task aided by the fact that its defences along stretches of the Neelam valley have been degraded by troops having to be moved to fight the Tehreek-e-Taliban elsewhere. The fighting that will follow though will make it more difficult to secure the LoC against jihadist infiltration — leading to heightened violence in Kashmir. Mr. Modi could, finally, authorise the use of covert means, like bomb-for-bomb strikes or targeted assassination of jihadist leaders. Mr. Modi’s intelligence services, though, don’t have this arrow in their quiver — and it will be a while, most experts say, before they can acquire it. Every sane person should hope Mr. Modi will never be required to exercise any of his military options — but thinking through war is just as important as talking peace. 1. Which of the following statements according to the passage is not true?
+
+**Options:**
+
+- **(A)** Coercion tactics to combat Pakistan's cloven hoof have never been successful in the past.
+- **(B)** Dr M. M. Singh did almost nothing in response to 26/11 attacks.
+- **(C)** Fighting the Pakistan Army along the LoC head-on may make it more difficult to secure the LoC against jihadist infiltration.
+- **(D)** A war with Pakistan could not guarantee peace after 26/11.
+
+---
+
+### Question 21 [Marks: +1, -0]
+
+Directions: Read the following passage to answer the given questions based on it. Some words/phrases are printed in bold to help you locate them while answering some of the questions. (The passage has been extracted from 'The Hindu' dated June 11, 2014.) Ever since the morning after 26/11, India’s strategic community has discussed what the country ought to do when the next 26/11 happens. Prime Minister Narendra Modi may have to answer that question sooner than most people expect. The Lashkar-e-Taiba (LeT) staged its first operation against an Indian target since 26/11 just hours before Mr. Modi took office, attacking India’s mission in Herat. Lashkar chief Hafiz Muhammad Saeed blamed Mr. Modi for this week’s attacks on Karachi — and demanded vengeance. From past evidence, we know these threats aren’t idle . “The only language India understands is that of force,” a press release issued by the Lashkar’s parent organisation, Jamaat-ud-Dawa recorded Mr. Saeed as saying before 26/11, “and that is the language it must be talked to in.” From files he will have read since taking office, Mr. Modi will have learned why Dr. Singh did nothing. Indian combat jets could hit training camps across the Line of Control (LoC), Air Chief Marshal Fali Major said at a November 29 meeting called for by the Prime Minister, but precise coordinates and adequate imaging weren’t available. Later, General Deepak Kapoor, the chief of Army staff, told Dr. Singh he couldn’t promise special forces’ strikes would be successful either. No one could guarantee missile strikes wouldn’t escalate into war, or even a nuclear exchange — and no one could guarantee war would compel Pakistan’s military to change course. Mr. Modi’s advisers know five responses are on the table — but all of them involve great risks. The first is to keep doing nothing. The threat of a major India- Pakistan crisis after 26/11 led the United States to mount intense pressure on Pakistan. In the years since, the LeT hasn’t mounted a single major operation on Indian soil. Its affiliate, the Indian Mujahideen, has had restraint thrust upon it by Pakistan’s Inter-Services Intelligence (ISI) Directorate. Inaction, though, only succeeds if someone else does the hard work. In 2008, fearing its own war in Afghanistan would be undermined by an India-Pakistan war, the U.S. stepped in. Now, as it prepares to withdraw from Afghanistan, the country’s appetite for playing global policeman is diminishing. Doing nothing could thus invite even more punishment. Like Prime Minister Atal Bihari Vajpayee, Mr. Modi’s second choice might be coercion. In 2001, after terrorists attacked Parliament, India mobilised troops. Pakistan was forced to respond — but its smaller economy suffered disproportionately. The stratagem is time-tested. In 1953, Prime Minister Jawaharlal Nehru mobilised troops in Punjab to deter a Pakistani attack into Kashmir. Mr. Vajpayee’s strategy worked, forcing Pakistan to dramatically scale down the jihad in Jammu and Kashmir. It only worked, though, because the U.S. played mediator — much like after 26/11 — and it was hideously expensive, in money and lives. The third choice is to do what Dr. Singh couldn’t: limited strikes on jihadist training camps across the LoC, using air power or missiles. In the five years since 26/11, India’s ability to conduct such strikes has been significantly enhanced. However, the tactic hasn’t had great success. In August 1998, the United States fired missiles into Afghanistan, seeking to avenge bombings which killed 224 people. In all, 75 missiles, each priced at $1.5 million, killed six minor jihadists. Moreover, Pakistan could hit back, targeting Indian industrial infrastructure, which is much more expensive than tent-and-donkey cart training camps. Fourth, the Prime Minister could tell Indian troops to target the Pakistan Army along the LoC, using artillery and infantry — a task aided by the fact that its defences along stretches of the Neelam valley have been degraded by troops having to be moved to fight the Tehreek-e-Taliban elsewhere. The fighting that will follow though will make it more difficult to secure the LoC against jihadist infiltration — leading to heightened violence in Kashmir. Mr. Modi could, finally, authorise the use of covert means, like bomb-for-bomb strikes or targeted assassination of jihadist leaders. Mr. Modi’s intelligence services, though, don’t have this arrow in their quiver — and it will be a while, most experts say, before they can acquire it. Every sane person should hope Mr. Modi will never be required to exercise any of his military options — but thinking through war is just as important as talking peace. What according to the passage could be a way to respond to Pakistan after 26/11 attacks? I. To persuade Pakistan forcefully to stop the terror acts on India. II. To launch limited strikes on jihadist training camps across the border. III. To target assassination of jihadist leaders.
+
+**Options:**
+
+- **(A)** Only 1
+- **(B)** Only 2
+- **(C)** Only 1 & 2
+- **(D)** Only 2 & 3
+- **(E)** All the above
+
+---
+
+### Question 22 [Marks: +1, -0]
+
+Directions: Read the following passage to answer the given questions based on it. Some words/phrases are printed in bold to help you locate them while answering some of the questions. (The passage has been extracted from 'The Hindu' dated June 11, 2014.) Ever since the morning after 26/11, India’s strategic community has discussed what the country ought to do when the next 26/11 happens. Prime Minister Narendra Modi may have to answer that question sooner than most people expect. The Lashkar-e-Taiba (LeT) staged its first operation against an Indian target since 26/11 just hours before Mr. Modi took office, attacking India’s mission in Herat. Lashkar chief Hafiz Muhammad Saeed blamed Mr. Modi for this week’s attacks on Karachi — and demanded vengeance. From past evidence, we know these threats aren’t idle . “The only language India understands is that of force,” a press release issued by the Lashkar’s parent organisation, Jamaat-ud-Dawa recorded Mr. Saeed as saying before 26/11, “and that is the language it must be talked to in.” From files he will have read since taking office, Mr. Modi will have learned why Dr. Singh did nothing. Indian combat jets could hit training camps across the Line of Control (LoC), Air Chief Marshal Fali Major said at a November 29 meeting called for by the Prime Minister, but precise coordinates and adequate imaging weren’t available. Later, General Deepak Kapoor, the chief of Army staff, told Dr. Singh he couldn’t promise special forces’ strikes would be successful either. No one could guarantee missile strikes wouldn’t escalate into war, or even a nuclear exchange — and no one could guarantee war would compel Pakistan’s military to change course. Mr. Modi’s advisers know five responses are on the table — but all of them involve great risks. The first is to keep doing nothing. The threat of a major India- Pakistan crisis after 26/11 led the United States to mount intense pressure on Pakistan. In the years since, the LeT hasn’t mounted a single major operation on Indian soil. Its affiliate, the Indian Mujahideen, has had restraint thrust upon it by Pakistan’s Inter-Services Intelligence (ISI) Directorate. Inaction, though, only succeeds if someone else does the hard work. In 2008, fearing its own war in Afghanistan would be undermined by an India-Pakistan war, the U.S. stepped in. Now, as it prepares to withdraw from Afghanistan, the country’s appetite for playing global policeman is diminishing. Doing nothing could thus invite even more punishment. Like Prime Minister Atal Bihari Vajpayee, Mr. Modi’s second choice might be coercion. In 2001, after terrorists attacked Parliament, India mobilised troops. Pakistan was forced to respond — but its smaller economy suffered disproportionately. The stratagem is time-tested. In 1953, Prime Minister Jawaharlal Nehru mobilised troops in Punjab to deter a Pakistani attack into Kashmir. Mr. Vajpayee’s strategy worked, forcing Pakistan to dramatically scale down the jihad in Jammu and Kashmir. It only worked, though, because the U.S. played mediator — much like after 26/11 — and it was hideously expensive, in money and lives. The third choice is to do what Dr. Singh couldn’t: limited strikes on jihadist training camps across the LoC, using air power or missiles. In the five years since 26/11, India’s ability to conduct such strikes has been significantly enhanced. However, the tactic hasn’t had great success. In August 1998, the United States fired missiles into Afghanistan, seeking to avenge bombings which killed 224 people. In all, 75 missiles, each priced at $1.5 million, killed six minor jihadists. Moreover, Pakistan could hit back, targeting Indian industrial infrastructure, which is much more expensive than tent-and-donkey cart training camps. Fourth, the Prime Minister could tell Indian troops to target the Pakistan Army along the LoC, using artillery and infantry — a task aided by the fact that its defences along stretches of the Neelam valley have been degraded by troops having to be moved to fight the Tehreek-e-Taliban elsewhere. The fighting that will follow though will make it more difficult to secure the LoC against jihadist infiltration — leading to heightened violence in Kashmir. Mr. Modi could, finally, authorise the use of covert means, like bomb-for-bomb strikes or targeted assassination of jihadist leaders. Mr. Modi’s intelligence services, though, don’t have this arrow in their quiver — and it will be a while, most experts say, before they can acquire it. Every sane person should hope Mr. Modi will never be required to exercise any of his military options — but thinking through war is just as important as talking peace. Choose the word most SIMILAR in meaning ( In the context of the passage only ) Idle
+
+**Options:**
+
+- **(A)** Free
+- **(B)** Unoccupied
+- **(C)** Forfeiture
+- **(D)** Hollow
+- **(E)** Abandoned
+
+---
+
+### Question 23 [Marks: +1, -0]
+
+Directions: Read the following passage to answer the given questions based on it. Some words/phrases are printed in bold to help you locate them while answering some of the questions. (The passage has been extracted from 'The Hindu' dated June 11, 2014.) Ever since the morning after 26/11, India’s strategic community has discussed what the country ought to do when the next 26/11 happens. Prime Minister Narendra Modi may have to answer that question sooner than most people expect. The Lashkar-e-Taiba (LeT) staged its first operation against an Indian target since 26/11 just hours before Mr. Modi took office, attacking India’s mission in Herat. Lashkar chief Hafiz Muhammad Saeed blamed Mr. Modi for this week’s attacks on Karachi — and demanded vengeance. From past evidence, we know these threats aren’t idle . “The only language India understands is that of force,” a press release issued by the Lashkar’s parent organisation, Jamaat-ud-Dawa recorded Mr. Saeed as saying before 26/11, “and that is the language it must be talked to in.” From files he will have read since taking office, Mr. Modi will have learned why Dr. Singh did nothing. Indian combat jets could hit training camps across the Line of Control (LoC), Air Chief Marshal Fali Major said at a November 29 meeting called for by the Prime Minister, but precise coordinates and adequate imaging weren’t available. Later, General Deepak Kapoor, the chief of Army staff, told Dr. Singh he couldn’t promise special forces’ strikes would be successful either. No one could guarantee missile strikes wouldn’t escalate into war, or even a nuclear exchange — and no one could guarantee war would compel Pakistan’s military to change course. Mr. Modi’s advisers know five responses are on the table — but all of them involve great risks. The first is to keep doing nothing. The threat of a major India- Pakistan crisis after 26/11 led the United States to mount intense pressure on Pakistan. In the years since, the LeT hasn’t mounted a single major operation on Indian soil. Its affiliate, the Indian Mujahideen, has had restraint thrust upon it by Pakistan’s Inter-Services Intelligence (ISI) Directorate. Inaction, though, only succeeds if someone else does the hard work. In 2008, fearing its own war in Afghanistan would be undermined by an India-Pakistan war, the U.S. stepped in. Now, as it prepares to withdraw from Afghanistan, the country’s appetite for playing global policeman is diminishing. Doing nothing could thus invite even more punishment. Like Prime Minister Atal Bihari Vajpayee, Mr. Modi’s second choice might be coercion. In 2001, after terrorists attacked Parliament, India mobilised troops. Pakistan was forced to respond — but its smaller economy suffered disproportionately. The stratagem is time-tested. In 1953, Prime Minister Jawaharlal Nehru mobilised troops in Punjab to deter a Pakistani attack into Kashmir. Mr. Vajpayee’s strategy worked, forcing Pakistan to dramatically scale down the jihad in Jammu and Kashmir. It only worked, though, because the U.S. played mediator — much like after 26/11 — and it was hideously expensive, in money and lives. The third choice is to do what Dr. Singh couldn’t: limited strikes on jihadist training camps across the LoC, using air power or missiles. In the five years since 26/11, India’s ability to conduct such strikes has been significantly enhanced. However, the tactic hasn’t had great success. In August 1998, the United States fired missiles into Afghanistan, seeking to avenge bombings which killed 224 people. In all, 75 missiles, each priced at $1.5 million, killed six minor jihadists. Moreover, Pakistan could hit back, targeting Indian industrial infrastructure, which is much more expensive than tent-and-donkey cart training camps. Fourth, the Prime Minister could tell Indian troops to target the Pakistan Army along the LoC, using artillery and infantry — a task aided by the fact that its defences along stretches of the Neelam valley have been degraded by troops having to be moved to fight the Tehreek-e-Taliban elsewhere. The fighting that will follow though will make it more difficult to secure the LoC against jihadist infiltration — leading to heightened violence in Kashmir. Mr. Modi could, finally, authorise the use of covert means, like bomb-for-bomb strikes or targeted assassination of jihadist leaders. Mr. Modi’s intelligence services, though, don’t have this arrow in their quiver — and it will be a while, most experts say, before they can acquire it. Every sane person should hope Mr. Modi will never be required to exercise any of his military options — but thinking through war is just as important as talking peace. Choose the word most OPPOSITE in meaning. Undermine
+
+**Options:**
+
+- **(A)** To demean
+- **(B)** To upgrade
+- **(C)** To make stronger
+- **(D)** To weaken
+- **(E)** To nullify
+
+---
+
+### Question 24 [Marks: +1, -0]
+
+Directions : In each of the following questions a grammatically correct and meaningful sentence is given with four words given in bold in each. Which of the following words should replace each other to form a meaningful and grammatically correct sentence? The meaning can be different from the one in question. Ahead of the (A) maiden budget of his second term in office, Prime Minister (B) brainstormed with top bureaucrats of Finance and other Ministries for (C) ideas to reverse a (D) sagging economy and create jobs.
+
+**Options:**
+
+- **(A)** A-D
+- **(B)** B-C
+- **(C)** A-B
+- **(D)** A-C
+- **(E)** No interchange possible
+
+---
+
+### Question 25 [Marks: +1, -0]
+
+While steps to (A) enhance investments in manufacturing would be high on (B) agenda , the Modi 2.0 government would also look at steps to (C) address agriculture distress and (D) improve farm income in the upcoming Budget.
+
+**Options:**
+
+- **(A)** A-B
+- **(B)** B-D
+- **(C)** A-D
+- **(D)** C-D
+- **(E)** No interchange possible
+- **(F)** Option 6
+
+---
+

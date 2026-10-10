@@ -1,0 +1,383 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Coding decoding - Question Paper</title>
+<style>
+  body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; line-height: 1.6; max-width: 900px; margin: 30px auto; padding: 0 20px; color: #222; background: #f8fafc; }
+  .header { background: #fff; border: 1px solid #e2e8f0; border-radius: 10px; padding: 25px; margin-bottom: 25px; box-shadow: 0 2px 5px rgba(0,0,0,0.04); }
+  .header h1 { margin: 0 0 10px 0; color: #0284c7; }
+  .meta { display: flex; gap: 15px; font-weight: 600; color: #475569; flex-wrap: wrap; }
+  .meta span { background: #f1f5f9; padding: 6px 14px; border-radius: 6px; font-size: 0.9em; }
+  .q-card { background: #fff; border: 1px solid #e2e8f0; border-radius: 10px; padding: 24px; margin-bottom: 25px; box-shadow: 0 2px 4px rgba(0,0,0,0.03); }
+  .q-header { display: flex; justify-content: space-between; font-weight: bold; margin-bottom: 14px; font-size: 1.1em; color: #0f172a; border-bottom: 1px solid #f1f5f9; padding-bottom: 8px; }
+  .q-text { margin-bottom: 18px; font-size: 1.05em; color: #334155; }
+  .options { list-style-type: none; padding-left: 0; margin: 0; }
+  .options li { padding: 10px 14px; margin-bottom: 8px; background: #fff; border: 1px solid #cbd5e1; border-radius: 6px; display: flex; align-items: baseline; }
+  .opt-badge { font-weight: bold; margin-right: 12px; min-width: 28px; color: #0284c7; }
+  @media print { body { margin: 0; padding: 0; max-width: 100%; background: #fff; } .q-card { break-inside: avoid; border: 1px solid #ccc; } }
+</style>
+
+<!-- MathJax for LaTeX / Math equations rendering -->
+<script>
+  window.MathJax = {
+    tex: {
+      inlineMath: [['$', '$'], ['\\(', '\\)']],
+      displayMath: [['$$', '$$'], ['\\[', '\\]']],
+      processEscapes: true
+    },
+    svg: { fontCache: 'global' },
+    options: { skipHtmlTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code'] }
+  };
+</script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
+<style>
+  /* Rich styling for diagrams, mathematical formulas, tables, and pseudo-code */
+  img { max-width: 100%; height: auto; display: inline-block; vertical-align: middle; border-radius: 4px; }
+  .q-text img { max-width: 95%; margin: 12px auto; display: block; border: 1px solid #e2e8f0; padding: 6px; background: #fff; border-radius: 8px; box-shadow: 0 1px 4px rgba(0,0,0,0.05); }
+  .options img { max-width: 85%; margin: 6px 0; display: inline-block; vertical-align: middle; }
+  .solution-box img { max-width: 95%; margin: 12px auto; display: block; border: 1px solid #cbd5e1; padding: 6px; background: #fff; border-radius: 8px; }
+  
+  table { border-collapse: collapse; width: 100%; margin: 16px 0; font-size: 0.95em; border-radius: 6px; overflow: hidden; }
+  th, td { border: 1px solid #cbd5e1; padding: 10px 14px; text-align: left; }
+  th { background-color: #f1f5f9; font-weight: 700; color: #1e293b; }
+  tr:nth-child(even) { background-color: #f8fafc; }
+  tr:hover { background-color: #f1f5f9; }
+  
+  pre, code { font-family: 'Consolas', 'Fira Code', 'Courier New', monospace; }
+  code { background: #f1f5f9; padding: 2px 6px; border-radius: 4px; font-size: 0.9em; color: #0284c7; }
+  pre { background: #0f172a; color: #f8fafc; padding: 16px 20px; border-radius: 8px; overflow-x: auto; line-height: 1.5; font-size: 0.95em; margin: 14px 0; }
+  pre code { background: transparent; color: inherit; padding: 0; }
+  
+  .MathJax { font-size: 1.1em !important; }
+</style>
+
+</head>
+<body>
+  <div class="header">
+    <h1>Coding decoding</h1>
+    <div class="meta">
+      <span>📝 20 Questions</span>
+      <span>⭐ 20 Marks</span>
+      <span>⏱️ 15 Minutes</span>
+    </div>
+  </div>
+
+  <div class="q-card">
+    <div class="q-header">
+      <span>Question 1</span>
+      <span style="font-size:0.85em;color:#64748b;">Marks: +1, -0.25</span>
+    </div>
+    <div class="q-text"><p><span style="font-weight: bold; color: #222222; font-family: Roboto, sans-serif; text-align: justify;">If in a code language &ldquo;ORGANISATION&rdquo; is written as &ldquo;CBDWLQJWYQCL&rdquo; and &ldquo;OPERATION&rdquo; is written as &ldquo;CXFBWYQCL&rdquo;. How is &ldquo;SEPARATION&rdquo; coded?</span></p></div>
+    <ul class="options">
+      <li><span class="opt-badge">(A)</span> <div><div class="optionans">EJXEBEYQCL</div></div></li>
+      <li><span class="opt-badge">(B)</span> <div><div class="optionans">JFQYWBCXQL</div></div></li>
+      <li><span class="opt-badge">(C)</span> <div><div class="optionans">QCLYWBFXJE&nbsp; &nbsp; &nbsp;</div></div></li>
+      <li><span class="opt-badge">(D)</span> <div><p>JFXWBWYQCL</p></div></li>
+    </ul>
+  </div>
+
+  <div class="q-card">
+    <div class="q-header">
+      <span>Question 2</span>
+      <span style="font-size:0.85em;color:#64748b;">Marks: +1, -0.25</span>
+    </div>
+    <div class="q-text"><p class="MsoNormal" style="text-align: justify; line-height: normal;"><strong><span style="font-size: 10.5pt; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman'; color: #222222; mso-fareast-language: EN-IN;">In a coding system PEN is written as NZO and BARK as CTSL. How can we write PRANK in that coding system?</span></strong></p></div>
+    <ul class="options">
+      <li><span class="opt-badge">(A)</span> <div><p class="MsoNormal" style="margin-bottom: 0cm; line-height: normal;"><span style="font-size: 12.0pt; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-language: EN-IN;">NZTOL</span></p></div></li>
+      <li><span class="opt-badge">(B)</span> <div><p class="MsoNormal" style="margin-bottom: 0cm; line-height: normal;"><span style="font-size: 12.0pt; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-language: EN-IN;">CSTZN</span></p></div></li>
+      <li><span class="opt-badge">(C)</span> <div><p class="MsoNormal" style="margin-bottom: 0cm; line-height: normal;"><span style="font-size: 12.0pt; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-language: EN-IN;">NSTOL</span></p></div></li>
+      <li><span class="opt-badge">(D)</span> <div><p class="MsoNormal" style="margin-bottom: 0cm; line-height: normal; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;"><span style="font-size: 10pt; font-family: Roboto;">NTSLO</span></p></div></li>
+    </ul>
+  </div>
+
+  <div class="q-card">
+    <div class="q-header">
+      <span>Question 3</span>
+      <span style="font-size:0.85em;color:#64748b;">Marks: +1, -0.25</span>
+    </div>
+    <div class="q-text"><p class="MsoNormal">In a certain language, BUTTER is coded as CVUUFS, BREAD is coded as CSFBE, the how COFFEE is coded?</p></div>
+    <ul class="options">
+      <li><span class="opt-badge">(A)</span> <div><p class="MsoNormal">DPGGFF</p></div></li>
+      <li><span class="opt-badge">(B)</span> <div><p><span style="font-size: 11.0pt; line-height: 107%; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;">&nbsp;GGDPFF</span></p></div></li>
+      <li><span class="opt-badge">(C)</span> <div><p><span style="font-size: 11.0pt; line-height: 107%; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;">GDPGFF</span></p></div></li>
+      <li><span class="opt-badge">(D)</span> <div><p><span style="font-size: 11.0pt; line-height: 107%; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;">&nbsp;FFDPGG</span></p></div></li>
+    </ul>
+  </div>
+
+  <div class="q-card">
+    <div class="q-header">
+      <span>Question 4</span>
+      <span style="font-size:0.85em;color:#64748b;">Marks: +1, -0.25</span>
+    </div>
+    <div class="q-text"><p class="MsoNormal">If in a code language PARENT is written as BDFGJK and CHILDREN is written as MOXQUFGJ, how is REPRINT written in that code?</p></div>
+    <ul class="options">
+      <li><span class="opt-badge">(A)</span> <div><p><span style="font-size: 11.0pt; line-height: 107%; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;">FGBFXGD</span></p></div></li>
+      <li><span class="opt-badge">(B)</span> <div><p><span style="font-size: 11.0pt; line-height: 107%; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;">BGBFXJK</span></p></div></li>
+      <li><span class="opt-badge">(C)</span> <div><p><span style="font-size: 11.0pt; line-height: 107%; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;">FGBUXJK</span></p></div></li>
+      <li><span class="opt-badge">(D)</span> <div><p><span style="font-size: 11.0pt; line-height: 107%; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;">FGBFXJK</span></p></div></li>
+    </ul>
+  </div>
+
+  <div class="q-card">
+    <div class="q-header">
+      <span>Question 5</span>
+      <span style="font-size:0.85em;color:#64748b;">Marks: +1, -0.25</span>
+    </div>
+    <div class="q-text"><p><span style="font-size: 11.0pt; line-height: 107%; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;">The word &lsquo;UNITED&rsquo; is coded as &lsquo;SLGRCB&rsquo;. How should the word &lsquo;DISOWN&rsquo; be coded?</span></p></div>
+    <ul class="options">
+      <li><span class="opt-badge">(A)</span> <div><p><span style="font-size: 11.0pt; line-height: 107%; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;">BGQMUL</span></p></div></li>
+      <li><span class="opt-badge">(B)</span> <div><p><span style="font-size: 11.0pt; line-height: 107%; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;">CGRLTK</span></p></div></li>
+      <li><span class="opt-badge">(C)</span> <div><p><span style="font-size: 11.0pt; line-height: 107%; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;">CGRTLK</span></p></div></li>
+      <li><span class="opt-badge">(D)</span> <div><p><span style="font-size: 11.0pt; line-height: 107%; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;">BGQLUM</span></p></div></li>
+    </ul>
+  </div>
+
+  <div class="q-card">
+    <div class="q-header">
+      <span>Question 6</span>
+      <span style="font-size:0.85em;color:#64748b;">Marks: +1, -0.25</span>
+    </div>
+    <div class="q-text"><p class="MsoNormal">In a certain code SISTER is written as RHRSDQ. How is UNCLE written in that code?</p></div>
+    <ul class="options">
+      <li><span class="opt-badge">(A)</span> <div><p><span style="font-size: 11.0pt; line-height: 107%; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;">TMBKD</span></p></div></li>
+      <li><span class="opt-badge">(B)</span> <div><p><span style="font-size: 11.0pt; line-height: 107%; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;">TBMKD</span></p></div></li>
+      <li><span class="opt-badge">(C)</span> <div><p><span style="font-size: 11.0pt; line-height: 107%; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;">TVBOD</span></p></div></li>
+      <li><span class="opt-badge">(D)</span> <div><p><span style="font-size: 11.0pt; line-height: 107%; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;">TMKBD</span></p></div></li>
+    </ul>
+  </div>
+
+  <div class="q-card">
+    <div class="q-header">
+      <span>Question 7</span>
+      <span style="font-size:0.85em;color:#64748b;">Marks: +1, -0.25</span>
+    </div>
+    <div class="q-text"><p class="MsoNormal">If in a certain code, RAMAYANA is written as PYKYWYLY, then how MAHABHARATA can be written in that code?</p></div>
+    <ul class="options">
+      <li><span class="opt-badge">(A)</span> <div><p><span style="font-size: 11.0pt; line-height: 107%; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;">NBIBCIBSBUB</span></p></div></li>
+      <li><span class="opt-badge">(B)</span> <div><p><span style="font-size: 11.0pt; line-height: 107%; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;">LZGZAGZQZSZ</span></p></div></li>
+      <li><span class="opt-badge">(C)</span> <div><p><span style="font-size: 11.0pt; line-height: 107%; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;">MCJCDJCTCVC&nbsp;</span></p></div></li>
+      <li><span class="opt-badge">(D)</span> <div><p><span style="font-size: 11.0pt; line-height: 107%; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;">KYFYZFYPYRY</span></p></div></li>
+    </ul>
+  </div>
+
+  <div class="q-card">
+    <div class="q-header">
+      <span>Question 8</span>
+      <span style="font-size:0.85em;color:#64748b;">Marks: +1, -0.25</span>
+    </div>
+    <div class="q-text"><p class="MsoNormal">If in a certain language, PLAYER is coded as QNDCJX, then how SINGER will be coded in the same language?</p></div>
+    <ul class="options">
+      <li><span class="opt-badge">(A)</span> <div><p><span style="font-size: 11.0pt; line-height: 107%; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;">TKQKJX</span></p></div></li>
+      <li><span class="opt-badge">(B)</span> <div><p><span style="font-size: 11.0pt; line-height: 107%; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;">TKJKQX</span></p></div></li>
+      <li><span class="opt-badge">(C)</span> <div><p><span style="font-size: 11.0pt; line-height: 107%; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;">TKQKXJ</span></p></div></li>
+      <li><span class="opt-badge">(D)</span> <div><p><span style="font-size: 11.0pt; line-height: 107%; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;">TKQXJK</span></p></div></li>
+    </ul>
+  </div>
+
+  <div class="q-card">
+    <div class="q-header">
+      <span>Question 9</span>
+      <span style="font-size:0.85em;color:#64748b;">Marks: +1, -0.25</span>
+    </div>
+    <div class="q-text"><p class="MsoNormal">If PEAR is written a GFDN, how is REAP written in this code?</p></div>
+    <ul class="options">
+      <li><span class="opt-badge">(A)</span> <div><p><span style="font-size: 11.0pt; line-height: 107%; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;">FDNG</span></p></div></li>
+      <li><span class="opt-badge">(B)</span> <div><p><span style="font-size: 11.0pt; line-height: 107%; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;">NFDG</span></p></div></li>
+      <li><span class="opt-badge">(C)</span> <div><p><span style="font-size: 11.0pt; line-height: 107%; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;">DNGF</span></p></div></li>
+      <li><span class="opt-badge">(D)</span> <div><p><span style="font-size: 11.0pt; line-height: 107%; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;">NDFG</span></p></div></li>
+    </ul>
+  </div>
+
+  <div class="q-card">
+    <div class="q-header">
+      <span>Question 10</span>
+      <span style="font-size:0.85em;color:#64748b;">Marks: +1, -0.25</span>
+    </div>
+    <div class="q-text"><p class="MsoNormal">If REEXAMINATION is written as EXAMINATIONER, How can REFORMER be written in that code?</p></div>
+    <ul class="options">
+      <li><span class="opt-badge">(A)</span> <div><p><span style="font-size: 11.0pt; line-height: 107%; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;">REFORMRE</span></p></div></li>
+      <li><span class="opt-badge">(B)</span> <div><p><span style="font-size: 11.0pt; line-height: 107%; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;">REFROMER</span></p></div></li>
+      <li><span class="opt-badge">(C)</span> <div><p><span style="font-size: 11.0pt; line-height: 107%; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;">FORREMER</span></p></div></li>
+      <li><span class="opt-badge">(D)</span> <div><p><span style="font-size: 11.0pt; line-height: 107%; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;">FORMERER</span></p></div></li>
+    </ul>
+  </div>
+
+  <div class="q-card">
+    <div class="q-header">
+      <span>Question 11</span>
+      <span style="font-size:0.85em;color:#64748b;">Marks: +1, -0.25</span>
+    </div>
+    <div class="q-text"><p class="MsoNormal" style="margin-bottom: 0cm; text-align: justify; line-height: normal; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;"><strong><span style="font-size: 10.0pt; font-family: Roboto; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: #444444; mso-fareast-language: EN-IN;">Directions : Read the following information carefully and answer the questions given beside.</span></strong><span style="font-size: 10.0pt; font-family: Roboto; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: #444444; mso-fareast-language: EN-IN;"><br />&nbsp;</span></p>
+<p class="MsoNormal" style="margin-bottom: 0cm; text-align: justify; line-height: normal; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;"><span style="font-size: 10.0pt; font-family: Roboto; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: #444444; mso-fareast-language: EN-IN;">&ldquo;action packed night concert&rdquo; is coded as &ldquo;jio nul meb fot&rdquo;</span></p>
+<p class="MsoNormal" style="margin-bottom: 0cm; text-align: justify; line-height: normal; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;"><span style="font-size: 10.0pt; font-family: Roboto; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: #444444; mso-fareast-language: EN-IN;">&nbsp;</span></p>
+<p class="MsoNormal" style="margin-bottom: 0cm; text-align: justify; line-height: normal; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;"><span style="font-size: 10.0pt; font-family: Roboto; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: #444444; mso-fareast-language: EN-IN;">&ldquo;star night out media&rdquo; is coded as &ldquo;ops hfa meb gul&rdquo;</span></p>
+<p class="MsoNormal" style="margin-bottom: 0cm; text-align: justify; line-height: normal; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;"><span style="font-size: 10.0pt; font-family: Roboto; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: #444444; mso-fareast-language: EN-IN;">&nbsp;</span></p>
+<p class="MsoNormal" style="margin-bottom: 0cm; text-align: justify; line-height: normal; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;"><span style="font-size: 10.0pt; font-family: Roboto; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: #444444; mso-fareast-language: EN-IN;">&ldquo;media action report drama&rdquo; is coded as &ldquo;nul vis hfa dum&rdquo;</span></p>
+<p class="MsoNormal" style="margin-bottom: 0cm; text-align: justify; line-height: normal; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;"><span style="font-size: 10.0pt; font-family: Roboto; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: #444444; mso-fareast-language: EN-IN;">&nbsp;</span></p>
+<p>&nbsp;</p>
+<p class="MsoNormal" style="margin-bottom: 0cm; text-align: justify; line-height: normal; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;"><span style="font-size: 10.0pt; font-family: Roboto; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: #444444; mso-fareast-language: EN-IN;">&ldquo;star strike media concert&rdquo; is coded as &ldquo;hfa gul fot sam&rdquo;</span></p>
+<p class="MsoNormal" style="margin-bottom: 0cm; text-align: justify; line-height: normal; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">&nbsp;</p>
+<p class="MsoNormal">Find the code for the word &ldquo;strike out&rdquo;?</p></div>
+    <ul class="options">
+      <li><span class="opt-badge">(A)</span> <div><p><span style="font-size: 11.0pt; line-height: 107%; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;">ops jio</span></p></div></li>
+      <li><span class="opt-badge">(B)</span> <div><p><span style="font-size: 11.0pt; line-height: 107%; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;">ops sam</span></p></div></li>
+      <li><span class="opt-badge">(C)</span> <div><p><span style="font-family: Calibri, sans-serif; font-size: 11pt;">gul fot</span></p></div></li>
+      <li><span class="opt-badge">(D)</span> <div><p><span style="font-size: 11.0pt; line-height: 107%; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;">gul sam</span></p></div></li>
+    </ul>
+  </div>
+
+  <div class="q-card">
+    <div class="q-header">
+      <span>Question 12</span>
+      <span style="font-size:0.85em;color:#64748b;">Marks: +1, -0.25</span>
+    </div>
+    <div class="q-text"><p class="MsoNormal" style="margin-bottom: 0cm; text-align: justify; line-height: normal; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;"><strong><span style="font-size: 10.0pt; font-family: Roboto; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: #444444; mso-fareast-language: EN-IN;">Directions : Read the following information carefully and answer the questions given beside.</span></strong><span style="font-size: 10.0pt; font-family: Roboto; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: #444444; mso-fareast-language: EN-IN;"><br />&nbsp;</span></p>
+<p class="MsoNormal" style="margin-bottom: 0cm; text-align: justify; line-height: normal; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;"><span style="font-size: 10.0pt; font-family: Roboto; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: #444444; mso-fareast-language: EN-IN;">&ldquo;action packed night concert&rdquo; is coded as &ldquo;jio nul meb fot&rdquo;</span></p>
+<p class="MsoNormal" style="margin-bottom: 0cm; text-align: justify; line-height: normal; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;"><span style="font-size: 10.0pt; font-family: Roboto; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: #444444; mso-fareast-language: EN-IN;">&nbsp;</span></p>
+<p class="MsoNormal" style="margin-bottom: 0cm; text-align: justify; line-height: normal; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;"><span style="font-size: 10.0pt; font-family: Roboto; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: #444444; mso-fareast-language: EN-IN;">&ldquo;star night out media&rdquo; is coded as &ldquo;ops hfa meb gul&rdquo;</span></p>
+<p class="MsoNormal" style="margin-bottom: 0cm; text-align: justify; line-height: normal; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;"><span style="font-size: 10.0pt; font-family: Roboto; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: #444444; mso-fareast-language: EN-IN;">&nbsp;</span></p>
+<p class="MsoNormal" style="margin-bottom: 0cm; text-align: justify; line-height: normal; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;"><span style="font-size: 10.0pt; font-family: Roboto; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: #444444; mso-fareast-language: EN-IN;">&ldquo;media action report drama&rdquo; is coded as &ldquo;nul vis hfa dum&rdquo;</span></p>
+<p class="MsoNormal" style="margin-bottom: 0cm; text-align: justify; line-height: normal; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;"><span style="font-size: 10.0pt; font-family: Roboto; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: #444444; mso-fareast-language: EN-IN;">&nbsp;</span></p>
+<p>&nbsp;</p>
+<p class="MsoNormal" style="margin-bottom: 0cm; text-align: justify; line-height: normal; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;"><span style="font-size: 10.0pt; font-family: Roboto; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: #444444; mso-fareast-language: EN-IN;">&ldquo;star strike media concert&rdquo; is coded as &ldquo;hfa gul fot sam&rdquo;</span></p>
+<p class="MsoNormal">Which of the following codes could be a possible code for "packed goods"?</p></div>
+    <ul class="options">
+      <li><span class="opt-badge">(A)</span> <div><p><span style="font-size: 11.0pt; line-height: 107%; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;">vis jio</span></p></div></li>
+      <li><span class="opt-badge">(B)</span> <div><p><span style="font-size: 11.0pt; line-height: 107%; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;">nul jio</span></p></div></li>
+      <li><span class="opt-badge">(C)</span> <div><p><span style="font-size: 11.0pt; line-height: 107%; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;">gul tue</span></p></div></li>
+      <li><span class="opt-badge">(D)</span> <div><p><span style="font-size: 11.0pt; line-height: 107%; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;">jio anw</span></p></div></li>
+    </ul>
+  </div>
+
+  <div class="q-card">
+    <div class="q-header">
+      <span>Question 13</span>
+      <span style="font-size:0.85em;color:#64748b;">Marks: +1, -0.25</span>
+    </div>
+    <div class="q-text"><p class="MsoNormal" style="margin-bottom: 0cm; text-align: justify; line-height: normal; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;"><strong><span style="font-size: 10.0pt; font-family: Roboto; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: #444444; mso-fareast-language: EN-IN;">Directions : Read the following information carefully and answer the questions given beside.</span></strong><span style="font-size: 10.0pt; font-family: Roboto; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: #444444; mso-fareast-language: EN-IN;"><br />&nbsp;</span></p>
+<p class="MsoNormal" style="margin-bottom: 0cm; text-align: justify; line-height: normal; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;"><span style="font-size: 10.0pt; font-family: Roboto; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: #444444; mso-fareast-language: EN-IN;">&ldquo;action packed night concert&rdquo; is coded as &ldquo;jio nul meb fot&rdquo;</span></p>
+<p class="MsoNormal" style="margin-bottom: 0cm; text-align: justify; line-height: normal; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;"><span style="font-size: 10.0pt; font-family: Roboto; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: #444444; mso-fareast-language: EN-IN;">&nbsp;</span></p>
+<p class="MsoNormal" style="margin-bottom: 0cm; text-align: justify; line-height: normal; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;"><span style="font-size: 10.0pt; font-family: Roboto; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: #444444; mso-fareast-language: EN-IN;">&ldquo;star night out media&rdquo; is coded as &ldquo;ops hfa meb gul&rdquo;</span></p>
+<p class="MsoNormal" style="margin-bottom: 0cm; text-align: justify; line-height: normal; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;"><span style="font-size: 10.0pt; font-family: Roboto; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: #444444; mso-fareast-language: EN-IN;">&nbsp;</span></p>
+<p class="MsoNormal" style="margin-bottom: 0cm; text-align: justify; line-height: normal; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;"><span style="font-size: 10.0pt; font-family: Roboto; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: #444444; mso-fareast-language: EN-IN;">&ldquo;media action report drama&rdquo; is coded as &ldquo;nul vis hfa dum&rdquo;</span></p>
+<p class="MsoNormal" style="margin-bottom: 0cm; text-align: justify; line-height: normal; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;"><span style="font-size: 10.0pt; font-family: Roboto; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: #444444; mso-fareast-language: EN-IN;">&nbsp;</span></p>
+<p>&nbsp;</p>
+<p class="MsoNormal" style="margin-bottom: 0cm; text-align: justify; line-height: normal; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;"><span style="font-size: 10.0pt; font-family: Roboto; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: #444444; mso-fareast-language: EN-IN;">&ldquo;star strike media concert&rdquo; is coded as &ldquo;hfa gul fot sam&rdquo;</span></p>
+<p class="MsoNormal" style="margin-bottom: 0cm; text-align: justify; line-height: normal; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">&nbsp;</p>
+<p class="MsoNormal">What is the code for "drama night"?</p></div>
+    <ul class="options">
+      <li><span class="opt-badge">(A)</span> <div><p><span style="font-size: 11.0pt; line-height: 107%; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;">meb vis</span></p></div></li>
+      <li><span class="opt-badge">(B)</span> <div><p><span style="font-size: 11.0pt; line-height: 107%; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;">dum nul</span></p></div></li>
+      <li><span class="opt-badge">(C)</span> <div><p><span style="font-size: 11.0pt; line-height: 107%; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;">meb dum</span></p></div></li>
+      <li><span class="opt-badge">(D)</span> <div><p><span style="font-size: 11.0pt; line-height: 107%; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;">gul vis</span></p></div></li>
+      <li><span class="opt-badge">(E)</span> <div><p><span style="font-size: 11.0pt; line-height: 107%; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;">Can't be determined</span></p></div></li>
+    </ul>
+  </div>
+
+  <div class="q-card">
+    <div class="q-header">
+      <span>Question 14</span>
+      <span style="font-size:0.85em;color:#64748b;">Marks: +1, -0.25</span>
+    </div>
+    <div class="q-text"><p style="margin: 0cm 3.75pt 3.75pt 0cm; line-height: 18pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;"><span style="font-size: 10.0pt; color: black; mso-themecolor: text1;">In a certain code, MONKEY is written as XDJMNL. How is TIGER written in that code ?</span></p></div>
+    <ul class="options">
+      <li><span class="opt-badge">(A)</span> <div><p><span style="font-size: 10.0pt; line-height: 107%; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;">QDFHS</span></p></div></li>
+      <li><span class="opt-badge">(B)</span> <div><p><span style="font-size: 10.0pt; line-height: 107%; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;">SDFHS</span></p></div></li>
+      <li><span class="opt-badge">(C)</span> <div><p><span style="font-size: 10.0pt; line-height: 107%; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;">SHFDQ</span></p></div></li>
+      <li><span class="opt-badge">(D)</span> <div><p><span style="font-size: 10.0pt; line-height: 107%; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;">UJHFS</span></p></div></li>
+    </ul>
+  </div>
+
+  <div class="q-card">
+    <div class="q-header">
+      <span>Question 15</span>
+      <span style="font-size:0.85em;color:#64748b;">Marks: +1, -0.25</span>
+    </div>
+    <div class="q-text"><p style="-webkit-font-smoothing: antialiased; margin-top: 32px; margin-bottom: 32px; font-size: 16px; line-height: 29px; text-align: justify; max-width: 100%; overflow-wrap: break-word; font-family: Poppins, sans-serif; background-color: #f9f9f9; color: #000000 !important;"><span style="font-weight: bolder; margin-top: 0px;">Study the following information to answer the given questions. In a certain code language,</span><br />&lsquo;abroad return happy start&rsquo; is written as &lsquo;mt gu hb st&rsquo;<br />&lsquo;return justice dispute peace&rsquo; is written as &lsquo;tk hb da pu&rsquo;<br />&lsquo;dispute abroad decide verdict&rsquo; is written as &lsquo;nh pt tk gu&rsquo;<br style="margin-bottom: 0px;" />&lsquo;peace special happy dispute&rsquo; is written as &lsquo;da st rx tk&rsquo;</p>
+<p style="-webkit-font-smoothing: antialiased; margin-top: 32px; margin-bottom: 32px; font-size: 16px; line-height: 29px; text-align: justify; max-width: 100%; overflow-wrap: break-word; font-family: Poppins, sans-serif; background-color: #f9f9f9; color: #000000 !important;"><span style="font-weight: bolder; margin-top: 0px;">Q1. In the given code language, what does the code &lsquo;pt&rsquo; stand for?</span></p></div>
+    <ul class="options">
+      <li><span class="opt-badge">(A)</span> <div><p><span style="color: #000000; font-family: Poppins, sans-serif; font-size: 16px; text-align: justify; background-color: #f9f9f9;">Either &lsquo;abroad&rsquo; or &lsquo;happy&rsquo;</span></p></div></li>
+      <li><span class="opt-badge">(B)</span> <div><p><span style="color: #000000; font-family: Poppins, sans-serif; font-size: 16px; text-align: justify; background-color: #f9f9f9;">start</span></p></div></li>
+      <li><span class="opt-badge">(C)</span> <div><p><span style="background-color: #f9f9f9; color: #000000; font-family: Poppins, sans-serif; font-size: 16px; text-align: justify;">&nbsp;</span><span style="background-color: #f9f9f9; color: #000000; font-family: Poppins, sans-serif; font-size: 16px; text-align: justify;">dispute</span></p></div></li>
+      <li><span class="opt-badge">(D)</span> <div><p><span style="color: #000000; font-family: Poppins, sans-serif; font-size: 16px; text-align: justify; background-color: #f9f9f9;">Either &lsquo;verdict&rsquo; or &lsquo;decide&rsquo;</span></p></div></li>
+      <li><span class="opt-badge">(E)</span> <div><p><span style="color: #000000; font-family: Poppins, sans-serif; font-size: 16px; text-align: justify; background-color: #f9f9f9;">special</span></p></div></li>
+    </ul>
+  </div>
+
+  <div class="q-card">
+    <div class="q-header">
+      <span>Question 16</span>
+      <span style="font-size:0.85em;color:#64748b;">Marks: +1, -0.25</span>
+    </div>
+    <div class="q-text"><span style="font-weight: bolder; margin-top: 0px; color: #000000; font-family: Poppins, sans-serif; font-size: 16px; text-align: justify; background-color: #f9f9f9;">Study the following information to answer the given questions. In a certain code language,</span><br style="color: #000000; font-family: Poppins, sans-serif; font-size: 16px; text-align: justify; background-color: #f9f9f9;" /><span style="color: #000000; font-family: Poppins, sans-serif; font-size: 16px; text-align: justify; background-color: #f9f9f9;">&lsquo;abroad return happy start&rsquo; is written as &lsquo;mt gu hb st&rsquo;</span><br style="color: #000000; font-family: Poppins, sans-serif; font-size: 16px; text-align: justify; background-color: #f9f9f9;" /><span style="color: #000000; font-family: Poppins, sans-serif; font-size: 16px; text-align: justify; background-color: #f9f9f9;">&lsquo;return justice dispute peace&rsquo; is written as &lsquo;tk hb da pu&rsquo;</span><br style="color: #000000; font-family: Poppins, sans-serif; font-size: 16px; text-align: justify; background-color: #f9f9f9;" /><span style="color: #000000; font-family: Poppins, sans-serif; font-size: 16px; text-align: justify; background-color: #f9f9f9;">&lsquo;dispute abroad decide verdict&rsquo; is written as &lsquo;nh pt tk gu&rsquo;</span><br style="margin-bottom: 0px; color: #000000; font-family: Poppins, sans-serif; font-size: 16px; text-align: justify; background-color: #f9f9f9;" />
+<p><span style="font-weight: bolder; margin-top: 0px; color: #000000; font-family: Poppins, sans-serif; font-size: 16px; text-align: justify; background-color: #f9f9f9;">&lsquo;peace special happy dispute&rsquo; is written as &lsquo;da st rx tk&rsquo;What is the code for &lsquo;peace&rsquo; in the given code language?</span></p></div>
+    <ul class="options">
+      <li><span class="opt-badge">(A)</span> <div><p><span style="color: #000000; font-family: Poppins, sans-serif; font-size: 16px; text-align: justify; background-color: #f9f9f9;">tk</span></p></div></li>
+      <li><span class="opt-badge">(B)</span> <div><p><span style="color: #000000; font-family: Poppins, sans-serif; font-size: 16px; text-align: justify; background-color: #f9f9f9;">rx</span></p></div></li>
+      <li><span class="opt-badge">(C)</span> <div><p><span style="color: #000000; font-family: Poppins, sans-serif; font-size: 16px; text-align: justify; background-color: #f9f9f9;">st</span></p></div></li>
+      <li><span class="opt-badge">(D)</span> <div><p><span style="color: #000000; font-family: Poppins, sans-serif; font-size: 16px; text-align: justify; background-color: #f9f9f9;">da</span></p></div></li>
+    </ul>
+  </div>
+
+  <div class="q-card">
+    <div class="q-header">
+      <span>Question 17</span>
+      <span style="font-size:0.85em;color:#64748b;">Marks: +1, -0.25</span>
+    </div>
+    <div class="q-text"><p><span style="font-weight: bolder; margin-top: 0px; color: #000000; font-family: Poppins, sans-serif; font-size: 16px; text-align: justify; background-color: #f9f9f9;">Directions (1-5): Study the following information to answer the given questions. In a certain code language,</span><br style="color: #000000; font-family: Poppins, sans-serif; font-size: 16px; text-align: justify; background-color: #f9f9f9;" /><span style="color: #000000; font-family: Poppins, sans-serif; font-size: 16px; text-align: justify; background-color: #f9f9f9;">&lsquo;abroad return happy start&rsquo; is written as &lsquo;mt gu hb st&rsquo;</span><br style="color: #000000; font-family: Poppins, sans-serif; font-size: 16px; text-align: justify; background-color: #f9f9f9;" /><span style="color: #000000; font-family: Poppins, sans-serif; font-size: 16px; text-align: justify; background-color: #f9f9f9;">&lsquo;return justice dispute peace&rsquo; is written as &lsquo;tk hb da pu&rsquo;</span><br style="color: #000000; font-family: Poppins, sans-serif; font-size: 16px; text-align: justify; background-color: #f9f9f9;" /><span style="color: #000000; font-family: Poppins, sans-serif; font-size: 16px; text-align: justify; background-color: #f9f9f9;">&lsquo;dispute abroad decide verdict&rsquo; is written as &lsquo;nh pt tk gu&rsquo;</span><br style="margin-bottom: 0px; color: #000000; font-family: Poppins, sans-serif; font-size: 16px; text-align: justify; background-color: #f9f9f9;" /><span style="color: #000000; font-family: Poppins, sans-serif; font-size: 16px; text-align: justify; background-color: #f9f9f9;">&lsquo;peace special happy dispute&rsquo; is written as &lsquo;da st rx tk&rsquo;</span></p>
+<p><span style="font-weight: bolder; margin-top: 0px; color: #000000; font-family: Poppins, sans-serif; font-size: 16px; text-align: justify; background-color: #f9f9f9;">What is the code for &lsquo;return&rsquo; in the given code language?</span></p></div>
+    <ul class="options">
+      <li><span class="opt-badge">(A)</span> <div><p><span style="color: #000000; font-family: Poppins, sans-serif; font-size: 16px; text-align: justify; background-color: #f9f9f9;">nh</span></p></div></li>
+      <li><span class="opt-badge">(B)</span> <div><p><span style="color: #000000; font-family: Poppins, sans-serif; font-size: 16px; text-align: justify; background-color: #f9f9f9;">hb</span></p></div></li>
+      <li><span class="opt-badge">(C)</span> <div><p><span style="color: #000000; font-family: Poppins, sans-serif; font-size: 16px; text-align: justify; background-color: #f9f9f9;">gu</span></p></div></li>
+      <li><span class="opt-badge">(D)</span> <div><p><span style="color: #000000; font-family: Poppins, sans-serif; font-size: 16px; text-align: justify; background-color: #f9f9f9;">pu</span></p></div></li>
+      <li><span class="opt-badge">(E)</span> <div><p><span style="color: #000000; font-family: Poppins, sans-serif; font-size: 16px; text-align: justify; background-color: #f9f9f9;">rx</span></p></div></li>
+    </ul>
+  </div>
+
+  <div class="q-card">
+    <div class="q-header">
+      <span>Question 18</span>
+      <span style="font-size:0.85em;color:#64748b;">Marks: +1, -0.25</span>
+    </div>
+    <div class="q-text"><p><span style="font-weight: bolder; margin-top: 0px; color: #000000; font-family: Poppins, sans-serif; font-size: 16px; text-align: justify; background-color: #f9f9f9;">What may be the possible code for &lsquo;peace justice&rsquo; in the given code language?</span></p></div>
+    <ul class="options">
+      <li><span class="opt-badge">(A)</span> <div><p><span style="color: #000000; font-family: Poppins, sans-serif; font-size: 16px; text-align: justify; background-color: #f9f9f9;">ve bd</span></p></div></li>
+      <li><span class="opt-badge">(B)</span> <div><p><span style="color: #000000; font-family: Poppins, sans-serif; font-size: 16px; text-align: justify; background-color: #f9f9f9;">da nh</span></p></div></li>
+      <li><span class="opt-badge">(C)</span> <div><p><span style="color: #000000; font-family: Poppins, sans-serif; font-size: 16px; text-align: justify; background-color: #f9f9f9;">nh ve</span></p></div></li>
+      <li><span class="opt-badge">(D)</span> <div><p><span style="color: #000000; font-family: Poppins, sans-serif; font-size: 16px; text-align: justify; background-color: #f9f9f9;">pu da</span></p></div></li>
+      <li><span class="opt-badge">(E)</span> <div><p><span style="background-color: #f9f9f9; color: #000000; font-family: Poppins, sans-serif; font-size: 16px; text-align: justify;">mt da</span></p></div></li>
+    </ul>
+  </div>
+
+  <div class="q-card">
+    <div class="q-header">
+      <span>Question 19</span>
+      <span style="font-size:0.85em;color:#64748b;">Marks: +1, -0.25</span>
+    </div>
+    <div class="q-text"><p><span style="font-size: 14pt;"><strong><span style="line-height: 107%; font-family: 'Times New Roman', serif; color: black;">. If the word LEADER is coded as 20-13-9-12-13-26, how would you write LIGHT?&nbsp;</span></strong></span></p></div>
+    <ul class="options">
+      <li><span class="opt-badge">(A)</span> <div><p><span style="font-size: 10.0pt; line-height: 107%; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;">20-16-15-17-22&nbsp;&nbsp;</span></p></div></li>
+      <li><span class="opt-badge">(B)</span> <div><p><span style="font-size: 10.0pt; line-height: 107%; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;">20-16-17-15-27&nbsp; &nbsp;</span></p></div></li>
+      <li><span class="opt-badge">(C)</span> <div><p><span style="font-size: 10.0pt; line-height: 107%; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;">20-17-16-18-23&nbsp; &nbsp;</span></p></div></li>
+      <li><span class="opt-badge">(D)</span> <div><p><span style="font-size: 10.0pt; line-height: 107%; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;">20-17-15-16-28</span></p></div></li>
+    </ul>
+  </div>
+
+  <div class="q-card">
+    <div class="q-header">
+      <span>Question 20</span>
+      <span style="font-size:0.85em;color:#64748b;">Marks: +1, -0.25</span>
+    </div>
+    <div class="q-text"><p><span style="font-size: 14pt;"><strong><span style="line-height: 107%; font-family: 'Times New Roman', serif; color: black;">. .IF BAT coded as 9, TAKE coded as 16,then CAREER Coded as</span></strong></span></p></div>
+    <ul class="options">
+      <li><span class="opt-badge">(A)</span> <div><p>56</p></div></li>
+      <li><span class="opt-badge">(B)</span> <div><p>36</p></div></li>
+      <li><span class="opt-badge">(C)</span> <div><p>49</p></div></li>
+      <li><span class="opt-badge">(D)</span> <div><p>78</p></div></li>
+    </ul>
+  </div>
+</body>
+</html>

@@ -1,0 +1,319 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Technical MCQ - Pseudo Codes Based on PYQ 02 - Questions & Detailed Solutions</title>
+<style>
+  body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; line-height: 1.6; max-width: 900px; margin: 30px auto; padding: 0 20px; color: #222; background: #f8fafc; }
+  .header { background: #fff; border: 1px solid #e2e8f0; border-radius: 10px; padding: 25px; margin-bottom: 25px; box-shadow: 0 2px 5px rgba(0,0,0,0.04); }
+  .header h1 { margin: 0 0 10px 0; color: #0284c7; }
+  .meta { display: flex; gap: 15px; font-weight: 600; color: #475569; flex-wrap: wrap; }
+  .meta span { background: #f1f5f9; padding: 6px 14px; border-radius: 6px; font-size: 0.9em; }
+  .q-card { background: #fff; border: 1px solid #e2e8f0; border-radius: 10px; padding: 24px; margin-bottom: 25px; box-shadow: 0 2px 4px rgba(0,0,0,0.03); }
+  .q-header { display: flex; justify-content: space-between; font-weight: bold; margin-bottom: 14px; font-size: 1.1em; color: #0f172a; border-bottom: 1px solid #f1f5f9; padding-bottom: 8px; }
+  .q-text { margin-bottom: 18px; font-size: 1.05em; color: #334155; }
+  .options { list-style-type: none; padding-left: 0; margin: 0 0 18px 0; }
+  .options li { padding: 12px 16px; margin-bottom: 8px; background: #fff; border: 1px solid #cbd5e1; border-radius: 6px; display: flex; align-items: baseline; }
+  .options li.correct { background: #ecfdf5; border-color: #10b981; font-weight: 600; color: #065f46; }
+  .opt-badge { font-weight: bold; margin-right: 12px; min-width: 28px; color: #0284c7; }
+  .options li.correct .opt-badge { color: #059669; }
+  .correct-tag { margin-left: auto; background: #10b981; color: white; padding: 2px 8px; border-radius: 4px; font-size: 0.8em; font-weight: 600; }
+  .solution-box { background: #f0fdf4; border-left: 4px solid #10b981; padding: 16px 20px; border-radius: 0 8px 8px 0; color: #1e293b; font-size: 0.98em; }
+  .solution-title { font-weight: bold; color: #047857; margin-bottom: 8px; display: flex; align-items: center; gap: 6px; }
+  .video-container { margin-top: 14px; position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; border-radius: 8px; }
+  .video-container iframe { position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0; border-radius: 8px; }
+  @media print { body { margin: 0; padding: 0; max-width: 100%; background: #fff; } .q-card { break-inside: avoid; border: 1px solid #ccc; } .video-container { display: none; } }
+</style>
+
+<!-- MathJax for LaTeX / Math equations rendering -->
+<script>
+  window.MathJax = {
+    tex: {
+      inlineMath: [['$', '$'], ['\\(', '\\)']],
+      displayMath: [['$$', '$$'], ['\\[', '\\]']],
+      processEscapes: true
+    },
+    svg: { fontCache: 'global' },
+    options: { skipHtmlTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code'] }
+  };
+</script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
+<style>
+  /* Rich styling for diagrams, mathematical formulas, tables, and pseudo-code */
+  img { max-width: 100%; height: auto; display: inline-block; vertical-align: middle; border-radius: 4px; }
+  .q-text img { max-width: 95%; margin: 12px auto; display: block; border: 1px solid #e2e8f0; padding: 6px; background: #fff; border-radius: 8px; box-shadow: 0 1px 4px rgba(0,0,0,0.05); }
+  .options img { max-width: 85%; margin: 6px 0; display: inline-block; vertical-align: middle; }
+  .solution-box img { max-width: 95%; margin: 12px auto; display: block; border: 1px solid #cbd5e1; padding: 6px; background: #fff; border-radius: 8px; }
+  
+  table { border-collapse: collapse; width: 100%; margin: 16px 0; font-size: 0.95em; border-radius: 6px; overflow: hidden; }
+  th, td { border: 1px solid #cbd5e1; padding: 10px 14px; text-align: left; }
+  th { background-color: #f1f5f9; font-weight: 700; color: #1e293b; }
+  tr:nth-child(even) { background-color: #f8fafc; }
+  tr:hover { background-color: #f1f5f9; }
+  
+  pre, code { font-family: 'Consolas', 'Fira Code', 'Courier New', monospace; }
+  code { background: #f1f5f9; padding: 2px 6px; border-radius: 4px; font-size: 0.9em; color: #0284c7; }
+  pre { background: #0f172a; color: #f8fafc; padding: 16px 20px; border-radius: 8px; overflow-x: auto; line-height: 1.5; font-size: 0.95em; margin: 14px 0; }
+  pre code { background: transparent; color: inherit; padding: 0; }
+  
+  .MathJax { font-size: 1.1em !important; }
+</style>
+
+</head>
+<body>
+  <div class="header">
+    <h1>Technical MCQ - Pseudo Codes Based on PYQ 02 — Solutions & Explanations</h1>
+    <div class="meta">
+      <span>📝 10 Questions</span>
+      <span>⭐ 13 Marks</span>
+      <span>✅ 100% Official Answer Key & Video Solutions</span>
+    </div>
+  </div>
+
+  <div class="q-card">
+    <div class="q-header">
+      <span>Question 1</span>
+    </div>
+    <div class="q-text"><p>What is the output of following pseudo code:</p>
+<p></p>
+<p>Fun() {&nbsp;</p>
+<p>&nbsp; &nbsp;Int a=10 , b=20 , c=30;&nbsp;</p>
+<p>&nbsp; &nbsp;If(c&gt;b&gt;a)&nbsp;</p>
+<p>&nbsp; &nbsp; &nbsp; Print(&ldquo;True&rdquo;);&nbsp;</p>
+<p>&nbsp; &nbsp;Else&nbsp;</p>
+<p>&nbsp; &nbsp; &nbsp; Print(&ldquo;False&rdquo;);&nbsp;</p>
+<p>&nbsp; &nbsp;return 0;&nbsp;</p>
+<p>}</p>
+<p></p></div>
+    <ul class="options">
+      <li><span class="opt-badge">(A)</span> <div><p>True</p></div></li>
+      <li class="correct"><span class="opt-badge">(B)</span> <div><p>False</p></div><span class="correct-tag">✓ Correct Answer</span></li>
+      <li><span class="opt-badge">(C)</span> <div><p>Error</p></div></li>
+      <li><span class="opt-badge">(D)</span> <div><p>-1</p></div></li>
+    </ul>
+    <div class="solution-box">
+      <div class="solution-title">💡 Official Solution & Video Explanation:</div>
+      <div> </div>
+    </div>
+  </div>
+
+  <div class="q-card">
+    <div class="q-header">
+      <span>Question 2</span>
+    </div>
+    <div class="q-text"><p>What is the output of following code:</p>
+<p></p>
+<p>Int main(){&nbsp;</p>
+<p>&nbsp; &nbsp;Int n=(1&lt;&lt;2+3&lt;&lt;4)&nbsp;</p>
+<p>&nbsp; &nbsp;Print(n);&nbsp;</p>
+<p>&nbsp; &nbsp;Return 0;&nbsp;</p>
+<p>}</p>
+<p></p></div>
+    <ul class="options">
+      <li><span class="opt-badge">(A)</span> <div><p>112</p></div></li>
+      <li class="correct"><span class="opt-badge">(B)</span> <div><p>512</p></div><span class="correct-tag">✓ Correct Answer</span></li>
+      <li><span class="opt-badge">(C)</span> <div><p>52</p></div></li>
+      <li><span class="opt-badge">(D)</span> <div><p>0</p></div></li>
+    </ul>
+    <div class="solution-box">
+      <div class="solution-title">💡 Official Solution & Video Explanation:</div>
+      <div> </div>
+    </div>
+  </div>
+
+  <div class="q-card">
+    <div class="q-header">
+      <span>Question 3</span>
+    </div>
+    <div class="q-text"><p class="overflow-visible!" data-start="569" data-end="699">&nbsp;What is the output of following:</p>
+<p class="overflow-visible!" data-start="569" data-end="699"></p>
+<p class="overflow-visible!" data-start="569" data-end="699">Integer x, y&nbsp;&nbsp;</p>
+<p class="overflow-visible!" data-start="569" data-end="699">Set x = 15, y = 12&nbsp;&nbsp;</p>
+<p class="overflow-visible!" data-start="569" data-end="699">y = x &ndash; 1&nbsp;&nbsp;</p>
+<p class="overflow-visible!" data-start="569" data-end="699">do{&nbsp; &nbsp;&nbsp;</p>
+<p class="overflow-visible!" data-start="569" data-end="699">&nbsp; &nbsp;Print x&nbsp; &nbsp;&nbsp;</p>
+<p class="overflow-visible!" data-start="569" data-end="699">&nbsp; &nbsp;x = y + (x &ndash; 2)&nbsp;&nbsp;</p>
+<p class="overflow-visible!" data-start="569" data-end="699">} while(x &lt; 40)&nbsp;&nbsp;</p>
+<p class="overflow-visible!" data-start="569" data-end="699">end do while</p>
+<p></p></div>
+    <ul class="options">
+      <li><span class="opt-badge">(A)</span> <div><p>14 26&nbsp;</p></div></li>
+      <li class="correct"><span class="opt-badge">(B)</span> <div><p>15 27 39</p></div><span class="correct-tag">✓ Correct Answer</span></li>
+      <li><span class="opt-badge">(C)</span> <div><p>27 39</p></div></li>
+      <li><span class="opt-badge">(D)</span> <div><p>15</p></div></li>
+    </ul>
+    <div class="solution-box">
+      <div class="solution-title">💡 Official Solution & Video Explanation:</div>
+      <div> </div>
+    </div>
+  </div>
+
+  <div class="q-card">
+    <div class="q-header">
+      <span>Question 4</span>
+    </div>
+    <div class="q-text"><p>What is the output if <code data-start="800" data-end="808">fun(5)</code> is called?</p>
+<p></p>
+<p>Function fun(n)&nbsp;&nbsp;</p>
+<p>&nbsp; &nbsp;If n == 0&nbsp;&nbsp;</p>
+<p>&nbsp; &nbsp; &nbsp; Return 0&nbsp; &nbsp;</p>
+<p>&nbsp; &nbsp;Else&nbsp; &nbsp;&nbsp;</p>
+<p>&nbsp; &nbsp; &nbsp; Print(n)&nbsp;&nbsp;</p>
+<p>&nbsp; &nbsp; &nbsp; Return fun(n + 1)&nbsp;&nbsp;</p>
+<p>&nbsp; &nbsp;End If&nbsp;</p>
+<p>End Function</p>
+<p></p></div>
+    <ul class="options">
+      <li><span class="opt-badge">(A)</span> <div><p>1 2 3 4 5</p></div></li>
+      <li><span class="opt-badge">(B)</span> <div><p>5 4 3 2 1</p></div></li>
+      <li class="correct"><span class="opt-badge">(C)</span> <div><p>Stack overflow</p></div><span class="correct-tag">✓ Correct Answer</span></li>
+      <li><span class="opt-badge">(D)</span> <div><p>-1</p></div></li>
+    </ul>
+    <div class="solution-box">
+      <div class="solution-title">💡 Official Solution & Video Explanation:</div>
+      <div> </div>
+    </div>
+  </div>
+
+  <div class="q-card">
+    <div class="q-header">
+      <span>Question 5</span>
+    </div>
+    <div class="q-text"><p>int main() {&nbsp; &nbsp; &nbsp;</p>
+<p>&nbsp; &nbsp;int x, y = 5, z = 5;&nbsp; &nbsp; &nbsp;</p>
+<p>&nbsp; &nbsp;x = y == z;&nbsp; &nbsp; &nbsp;</p>
+<p>&nbsp; &nbsp;Print(x);&nbsp; &nbsp; &nbsp;</p>
+<p>&nbsp; &nbsp;return 0;&nbsp;</p>
+<p>}</p>
+<p></p></div>
+    <ul class="options">
+      <li><span class="opt-badge">(A)</span> <div><p>0</p></div></li>
+      <li class="correct"><span class="opt-badge">(B)</span> <div><p>1</p></div><span class="correct-tag">✓ Correct Answer</span></li>
+      <li><span class="opt-badge">(C)</span> <div><p>5</p></div></li>
+      <li><span class="opt-badge">(D)</span> <div><p>Compilation Error</p></div></li>
+    </ul>
+    <div class="solution-box">
+      <div class="solution-title">💡 Official Solution & Video Explanation:</div>
+      <div> </div>
+    </div>
+  </div>
+
+  <div class="q-card">
+    <div class="q-header">
+      <span>Question 6</span>
+    </div>
+    <div class="q-text"><p>1. Integer a = 5, b = 9&nbsp;&nbsp;</p>
+<p>2. a = a ^ b&nbsp;&nbsp;</p>
+<p>3. b = a ^ b&nbsp;&nbsp;</p>
+<p>4. a = a ^ b&nbsp;&nbsp;</p>
+<p>5. if (a == 9 &amp;&amp; b == 5)&nbsp;&nbsp;</p>
+<p>6.&nbsp; &nbsp; &nbsp;Print "Swapped"&nbsp;&nbsp;</p>
+<p>7. else&nbsp;&nbsp;</p>
+<p>8.&nbsp; &nbsp; &nbsp;Print "Not swapped"&nbsp;&nbsp;</p>
+<p></p></div>
+    <ul class="options">
+      <li><span class="opt-badge">(A)</span> <div><p>Line 2</p></div></li>
+      <li><span class="opt-badge">(B)</span> <div><p>Line 3</p></div></li>
+      <li><span class="opt-badge">(C)</span> <div><p>Line 4</p></div></li>
+      <li class="correct"><span class="opt-badge">(D)</span> <div><p>No error</p></div><span class="correct-tag">✓ Correct Answer</span></li>
+    </ul>
+    <div class="solution-box">
+      <div class="solution-title">💡 Official Solution & Video Explanation:</div>
+      <div> </div>
+    </div>
+  </div>
+
+  <div class="q-card">
+    <div class="q-header">
+      <span>Question 7</span>
+    </div>
+    <div class="q-text"><p>int main() {&nbsp; &nbsp; &nbsp;</p>
+<p>&nbsp; &nbsp;int x = 9, y = 2, z = 6;&nbsp; &nbsp; &nbsp;</p>
+<p>&nbsp; &nbsp;int a = x &amp; y | z;&nbsp; &nbsp; &nbsp;</p>
+<p>&nbsp; &nbsp;printf("%d", a);&nbsp; &nbsp; &nbsp;</p>
+<p>&nbsp; &nbsp;return 0;&nbsp;</p>
+<p>}</p>
+<p></p></div>
+    <ul class="options">
+      <li><span class="opt-badge">(A)</span> <div><p>Error</p></div></li>
+      <li><span class="opt-badge">(B)</span> <div><p>2</p></div></li>
+      <li><span class="opt-badge">(C)</span> <div><p>3</p></div></li>
+      <li class="correct"><span class="opt-badge">(D)</span> <div><p>6</p></div><span class="correct-tag">✓ Correct Answer</span></li>
+    </ul>
+  </div>
+
+  <div class="q-card">
+    <div class="q-header">
+      <span>Question 8</span>
+    </div>
+    <div class="q-text"><p>Integer p, q, r&nbsp;</p>
+<p>Set p = 4, q = 2, r = 5&nbsp;</p>
+<p>p = (q + p) + p&nbsp;</p>
+<p>if ((q + p) &lt; (r - q) &amp;&amp; 3 &gt; p) then&nbsp; &nbsp; &nbsp;</p>
+<p>&nbsp; &nbsp;p = (q + r) + p&nbsp; &nbsp; &nbsp;</p>
+<p>&nbsp; &nbsp;if (((p + r) + (r + q)) &lt;= (p + r + q)) then&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
+<p>&nbsp; &nbsp; &nbsp; r = q + p&nbsp; &nbsp; &nbsp;</p>
+<p>&nbsp; &nbsp;else&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
+<p>&nbsp; &nbsp; &nbsp; r = (p + r) + p&nbsp; &nbsp; &nbsp;</p>
+<p>&nbsp; &nbsp;end if&nbsp; &nbsp; &nbsp;</p>
+<p>&nbsp; &nbsp;p = (9 &amp; 6) + q&nbsp;</p>
+<p>else&nbsp; &nbsp; &nbsp;</p>
+<p>&nbsp; &nbsp;q = r &amp; r&nbsp; &nbsp; &nbsp;</p>
+<p>&nbsp; &nbsp;if ((q - 5) &lt; (5 - q)) then&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
+<p>&nbsp; &nbsp; &nbsp; r = (6 + 6) &amp; q&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
+<p>&nbsp; &nbsp; &nbsp; q = (q + 7) + r&nbsp; &nbsp; &nbsp;</p>
+<p>&nbsp; &nbsp;end if&nbsp; &nbsp; &nbsp;</p>
+<p>&nbsp; &nbsp;p = (1 ^ 11) + q&nbsp;</p>
+<p>end if&nbsp;</p>
+<p>Print p + q + r</p>
+<p></p></div>
+    <ul class="options">
+      <li><span class="opt-badge">(A)</span> <div>undefined</div></li>
+    </ul>
+  </div>
+
+  <div class="q-card">
+    <div class="q-header">
+      <span>Question 9</span>
+    </div>
+    <div class="q-text"><p>Integer a, b, c&nbsp;</p>
+<p>Set a = 2, b = 4, c = 7&nbsp;</p>
+<p>b = 7 + a&nbsp;</p>
+<p>if (c &gt; b)&nbsp; &nbsp; &nbsp;</p>
+<p>&nbsp; &nbsp;b = b + b&nbsp;</p>
+<p>end if&nbsp;</p>
+<p>b = 6 + a&nbsp;</p>
+<p>if ((a + b) &lt; (b - a) || c &lt; a)&nbsp; &nbsp; &nbsp;</p>
+<p>&nbsp; &nbsp;b = (c + 4) + c&nbsp;</p>
+<p>else&nbsp; &nbsp; &nbsp;</p>
+<p>&nbsp; &nbsp;a = c + b&nbsp;</p>
+<p>end if&nbsp;</p>
+<p>c = (c + 9) ^ a&nbsp;</p>
+<p>Print a + b + c</p>
+<p></p></div>
+    <ul class="options">
+      <li><span class="opt-badge">(A)</span> <div>undefined</div></li>
+    </ul>
+  </div>
+
+  <div class="q-card">
+    <div class="q-header">
+      <span>Question 10</span>
+    </div>
+    <div class="q-text"><div>Integer a, b, c&nbsp;</div>
+<div>Set a = 1, b = 6, c = 7&nbsp;</div>
+<div>b = (a &amp; b) + b&nbsp;</div>
+<div>for (each c from 3 to 5) {&nbsp; &nbsp; &nbsp;</div>
+<div>&nbsp; &nbsp;b = (a + a) ^ a&nbsp; &nbsp; &nbsp;</div>
+<div>&nbsp; &nbsp;b = (12 + 5) + a&nbsp;</div>
+<div>}&nbsp;</div>
+<div>a = (a ^ 9) + a&nbsp;</div>
+<div>Print a + b</div>
+<p></p></div>
+    <ul class="options">
+      <li><span class="opt-badge">(A)</span> <div>undefined</div></li>
+    </ul>
+  </div>
+</body>
+</html>

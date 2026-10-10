@@ -1,0 +1,288 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Technical MCQ - Pseudo Codes Based on PYQ 01 - Question Paper</title>
+<style>
+  body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; line-height: 1.6; max-width: 900px; margin: 30px auto; padding: 0 20px; color: #222; background: #f8fafc; }
+  .header { background: #fff; border: 1px solid #e2e8f0; border-radius: 10px; padding: 25px; margin-bottom: 25px; box-shadow: 0 2px 5px rgba(0,0,0,0.04); }
+  .header h1 { margin: 0 0 10px 0; color: #0284c7; }
+  .meta { display: flex; gap: 15px; font-weight: 600; color: #475569; flex-wrap: wrap; }
+  .meta span { background: #f1f5f9; padding: 6px 14px; border-radius: 6px; font-size: 0.9em; }
+  .q-card { background: #fff; border: 1px solid #e2e8f0; border-radius: 10px; padding: 24px; margin-bottom: 25px; box-shadow: 0 2px 4px rgba(0,0,0,0.03); }
+  .q-header { display: flex; justify-content: space-between; font-weight: bold; margin-bottom: 14px; font-size: 1.1em; color: #0f172a; border-bottom: 1px solid #f1f5f9; padding-bottom: 8px; }
+  .q-text { margin-bottom: 18px; font-size: 1.05em; color: #334155; }
+  .options { list-style-type: none; padding-left: 0; margin: 0; }
+  .options li { padding: 10px 14px; margin-bottom: 8px; background: #fff; border: 1px solid #cbd5e1; border-radius: 6px; display: flex; align-items: baseline; }
+  .opt-badge { font-weight: bold; margin-right: 12px; min-width: 28px; color: #0284c7; }
+  @media print { body { margin: 0; padding: 0; max-width: 100%; background: #fff; } .q-card { break-inside: avoid; border: 1px solid #ccc; } }
+</style>
+
+<!-- MathJax for LaTeX / Math equations rendering -->
+<script>
+  window.MathJax = {
+    tex: {
+      inlineMath: [['$', '$'], ['\\(', '\\)']],
+      displayMath: [['$$', '$$'], ['\\[', '\\]']],
+      processEscapes: true
+    },
+    svg: { fontCache: 'global' },
+    options: { skipHtmlTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code'] }
+  };
+</script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
+<style>
+  /* Rich styling for diagrams, mathematical formulas, tables, and pseudo-code */
+  img { max-width: 100%; height: auto; display: inline-block; vertical-align: middle; border-radius: 4px; }
+  .q-text img { max-width: 95%; margin: 12px auto; display: block; border: 1px solid #e2e8f0; padding: 6px; background: #fff; border-radius: 8px; box-shadow: 0 1px 4px rgba(0,0,0,0.05); }
+  .options img { max-width: 85%; margin: 6px 0; display: inline-block; vertical-align: middle; }
+  .solution-box img { max-width: 95%; margin: 12px auto; display: block; border: 1px solid #cbd5e1; padding: 6px; background: #fff; border-radius: 8px; }
+  
+  table { border-collapse: collapse; width: 100%; margin: 16px 0; font-size: 0.95em; border-radius: 6px; overflow: hidden; }
+  th, td { border: 1px solid #cbd5e1; padding: 10px 14px; text-align: left; }
+  th { background-color: #f1f5f9; font-weight: 700; color: #1e293b; }
+  tr:nth-child(even) { background-color: #f8fafc; }
+  tr:hover { background-color: #f1f5f9; }
+  
+  pre, code { font-family: 'Consolas', 'Fira Code', 'Courier New', monospace; }
+  code { background: #f1f5f9; padding: 2px 6px; border-radius: 4px; font-size: 0.9em; color: #0284c7; }
+  pre { background: #0f172a; color: #f8fafc; padding: 16px 20px; border-radius: 8px; overflow-x: auto; line-height: 1.5; font-size: 0.95em; margin: 14px 0; }
+  pre code { background: transparent; color: inherit; padding: 0; }
+  
+  .MathJax { font-size: 1.1em !important; }
+</style>
+
+</head>
+<body>
+  <div class="header">
+    <h1>Technical MCQ - Pseudo Codes Based on PYQ 01</h1>
+    <div class="meta">
+      <span>📝 10 Questions</span>
+      <span>⭐ 13 Marks</span>
+      <span>⏱️ 10 Minutes</span>
+    </div>
+  </div>
+
+  <div class="q-card">
+    <div class="q-header">
+      <span>Question 1</span>
+      <span style="font-size:0.85em;color:#64748b;">Marks: +1, -0</span>
+    </div>
+    <div class="q-text"><p>Q1.) Integer p, q, r</p>
+<p>Set p = 0, q = 2, r = 9</p>
+<p>r = 7 + p</p>
+<p>q = q + r</p>
+<p>for (each r from 4 to 7)</p>
+<p>p = (p + p) &amp; q</p>
+<p>if ((p + q) &lt; (r - p) || 8 &lt; p)</p>
+<p>p = (p + 2) + q</p>
+<p>Jump out of the loop</p>
+<p>End if</p>
+<p>End for</p>
+<p>Print p + q</p></div>
+    <ul class="options">
+      <li><span class="opt-badge">(A)</span> <div><p>5</p></div></li>
+      <li><span class="opt-badge">(B)</span> <div><p>9</p></div></li>
+      <li><span class="opt-badge">(C)</span> <div><p>19</p></div></li>
+      <li><span class="opt-badge">(D)</span> <div><p>20</p></div></li>
+    </ul>
+  </div>
+
+  <div class="q-card">
+    <div class="q-header">
+      <span>Question 2</span>
+      <span style="font-size:0.85em;color:#64748b;">Marks: +1, -0</span>
+    </div>
+    <div class="q-text"><p>Q2.) #include&lt;iostream&gt;&nbsp;<iostream> </iostream></p>
+<p><iostream>using namespace std; </iostream></p>
+<p><iostream> int main() { </iostream></p>
+<p><iostream> int a = 3, b = 2, c = 5; </iostream></p>
+<p><iostream> int result = (a++ &lt;&lt; 2) + (--b &lt;&lt; 1) - (c-- &gt;&gt; 1) + (a &amp; b); </iostream></p>
+<p><iostream> cout &lt;&lt; result; </iostream></p>
+<p><iostream> return 0; </iostream></p>
+<p><iostream> }</iostream></p></div>
+    <ul class="options">
+      <li><span class="opt-badge">(A)</span> <div><p>12</p></div></li>
+      <li><span class="opt-badge">(B)</span> <div><p>14</p></div></li>
+      <li><span class="opt-badge">(C)</span> <div><p>10</p></div></li>
+      <li><span class="opt-badge">(D)</span> <div><p>16</p></div></li>
+    </ul>
+  </div>
+
+  <div class="q-card">
+    <div class="q-header">
+      <span>Question 3</span>
+      <span style="font-size:0.85em;color:#64748b;">Marks: +1, -0</span>
+    </div>
+    <div class="q-text"><p>Q3.) Integer value, n</p>
+<p>Set value = 1, n = 45</p>
+<p>while (value less than equal to n)</p>
+<p>value = value &lt;&lt; 1</p>
+<p>end loop</p>
+<p>Print value</p></div>
+    <ul class="options">
+      <li><span class="opt-badge">(A)</span> <div><p>16</p></div></li>
+      <li><span class="opt-badge">(B)</span> <div><p>32</p></div></li>
+      <li><span class="opt-badge">(C)</span> <div><p>64</p></div></li>
+      <li><span class="opt-badge">(D)</span> <div><p>36</p></div></li>
+    </ul>
+  </div>
+
+  <div class="q-card">
+    <div class="q-header">
+      <span>Question 4</span>
+      <span style="font-size:0.85em;color:#64748b;">Marks: +1, -0</span>
+    </div>
+    <div class="q-text"><p>Q4.) Predict the output of the following pseudocode.</p>
+<p></p>
+<p>Integer x, y, z</p>
+<p>Set x = -2, y = 3, z = 1</p>
+<p>if (x + (2 &amp; 2) &amp;&amp; y + (3 &amp; 3) &amp;&amp; z + (2 ^ 2))</p>
+<p>x = x -2</p>
+<p>y = x</p>
+<p>Else</p>
+<p>x = z</p>
+<p>y = y ^ 2</p>
+<p>End if</p>
+<p>Print x + y + z</p></div>
+    <ul class="options">
+      <li><span class="opt-badge">(A)</span> <div><p>2</p></div></li>
+      <li><span class="opt-badge">(B)</span> <div><p>11</p></div></li>
+      <li><span class="opt-badge">(C)</span> <div><p>0</p></div></li>
+      <li><span class="opt-badge">(D)</span> <div><p>3</p></div></li>
+    </ul>
+  </div>
+
+  <div class="q-card">
+    <div class="q-header">
+      <span>Question 5</span>
+      <span style="font-size:0.85em;color:#64748b;">Marks: +1, -0</span>
+    </div>
+    <div class="q-text"><p>Q5. What is the output</p>
+<p></p>
+<p>int main()</p>
+<p>{ int x = 10;</p>
+<p>int *y, **z;</p>
+<p>y = &amp;x;</p>
+<p>z = &amp;y;</p>
+<p>**z=7;</p>
+<p>print(x,*y,**z)</p>
+<p>return 0;</p>
+<p>}&nbsp;</p></div>
+    <ul class="options">
+      <li><span class="opt-badge">(A)</span> <div><p>10 10 10</p></div></li>
+      <li><span class="opt-badge">(B)</span> <div><p>10 7 7</p></div></li>
+      <li><span class="opt-badge">(C)</span> <div><p>7 7 7</p></div></li>
+      <li><span class="opt-badge">(D)</span> <div><p>&nbsp;10 10 7</p></div></li>
+    </ul>
+  </div>
+
+  <div class="q-card">
+    <div class="q-header">
+      <span>Question 6</span>
+      <span style="font-size:0.85em;color:#64748b;">Marks: +1, -0</span>
+    </div>
+    <div class="q-text"><p>Q6. What is the output for p=15 and q=4.</p>
+<p></p>
+<p>Integer solve (Integer p, Integer q)</p>
+<p>Integer value</p>
+<p>while(q)</p>
+<p>value = p MOD q</p>
+<p>p = q</p>
+<p>q = value</p>
+<p>End while</p>
+<p>return p</p>
+<p>End function solve()</p></div>
+    <ul class="options">
+      <li><span class="opt-badge">(A)</span> <div><p>3</p></div></li>
+      <li><span class="opt-badge">(B)</span> <div><p>1</p></div></li>
+      <li><span class="opt-badge">(C)</span> <div><p>2</p></div></li>
+      <li><span class="opt-badge">(D)</span> <div><p>0</p></div></li>
+    </ul>
+  </div>
+
+  <div class="q-card">
+    <div class="q-header">
+      <span>Question 7</span>
+      <span style="font-size:0.85em;color:#64748b;">Marks: +1, -0</span>
+    </div>
+    <div class="q-text"><p>Q7.what is the output for number=4</p>
+<p>int something(int number)</p>
+<p>{</p>
+<p>if(number &lt;= 0)</p>
+<p>return 1;</p>
+<p>else</p>
+<p>return number * something(number-1);&nbsp;</p>
+<p>}</p>
+<p>something(4);&nbsp;</p></div>
+    <ul class="options">
+      <li><span class="opt-badge">(A)</span> <div><p>12</p></div></li>
+      <li><span class="opt-badge">(B)</span> <div><p>24</p></div></li>
+      <li><span class="opt-badge">(C)</span> <div><p>1</p></div></li>
+      <li><span class="opt-badge">(D)</span> <div><p>20</p></div></li>
+    </ul>
+  </div>
+
+  <div class="q-card">
+    <div class="q-header">
+      <span>Question 8</span>
+      <span style="font-size:0.85em;color:#64748b;">Marks: +2, -0</span>
+    </div>
+    <div class="q-text"><p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;">Q8. What will be the output of the following pseudocode?</p>
+<p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;">int a , b ,c</p>
+<p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;">Set a=0,b=1,c=2</p>
+<p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;">If (b^c || a&amp;b || a&gt;&gt;1)</p>
+<p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;">c=9</p>
+<p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;">a =b+c</p>
+<p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;">else</p>
+<p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;">c =1</p>
+<p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;">a=a+c</p>
+<p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;">End if</p>
+<p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;">Print a+b+c</p></div>
+    <ul class="options">
+      <li><span class="opt-badge">(A)</span> <div>20</div></li>
+    </ul>
+  </div>
+
+  <div class="q-card">
+    <div class="q-header">
+      <span>Question 9</span>
+      <span style="font-size:0.85em;color:#64748b;">Marks: +2, -0</span>
+    </div>
+    <div class="q-text"><p>Q9. What is the output for x = 10, y = 5</p>
+<p></p>
+<p>Integer solve(Integer x, Integer y)</p>
+<p>if(y &gt; 0)</p>
+<p>&nbsp; &nbsp;if(x &gt; 0)</p>
+<p>&nbsp; &nbsp; &nbsp; return x + y + solve(2, y - 5) + solve(x - 10, 1)</p>
+<p>&nbsp; &nbsp;End if</p>
+<p>End if</p>
+<p>return x + y</p>
+<p>End function</p>
+<p></p></div>
+    <ul class="options">
+      <li><span class="opt-badge">(A)</span> <div>undefined</div></li>
+    </ul>
+  </div>
+
+  <div class="q-card">
+    <div class="q-header">
+      <span>Question 10</span>
+      <span style="font-size:0.85em;color:#64748b;">Marks: +2, -0</span>
+    </div>
+    <div class="q-text"><p>Q10. What is the output of following</p>
+<p></p>
+<p>Integer value, n</p>
+<p>Set value = 32, n = 1</p>
+<p>while(value &gt;= n)</p>
+<p>&nbsp; &nbsp; value = value &gt;&gt; 1</p>
+<p>end loop</p>
+<p>Print value</p>
+<p></p></div>
+    <ul class="options">
+      <li><span class="opt-badge">(A)</span> <div>undefined</div></li>
+    </ul>
+  </div>
+</body>
+</html>

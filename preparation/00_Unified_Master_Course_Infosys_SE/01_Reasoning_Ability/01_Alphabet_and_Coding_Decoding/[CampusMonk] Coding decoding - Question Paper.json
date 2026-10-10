@@ -1,0 +1,1135 @@
+{
+  "_id": "60a00ce5e686351684dfe5e0",
+  "settings": {
+    "fonts": {},
+    "grades": {
+      "A": {
+        "max": 100,
+        "min": 70
+      },
+      "B": {
+        "max": 69,
+        "min": 50
+      },
+      "C": {
+        "max": 49,
+        "min": 35
+      },
+      "D": {
+        "max": 34,
+        "min": 20
+      },
+      "E": {
+        "max": 19,
+        "min": 10
+      },
+      "F": {
+        "max": 9,
+        "min": 0
+      }
+    },
+    "hasOptionalQuestions": false,
+    "settingsForRTG": {},
+    "generateBatchRank": true,
+    "defaultFont": null,
+    "generateInstitutionalRank": true,
+    "generatePercentile": true,
+    "showQuestionWiseTime": true,
+    "allowResultSharing": true,
+    "showQuestionTimer": true,
+    "calculatorType": null,
+    "enableLetterGrading": true,
+    "generateRandomTest": false,
+    "isSectionSwitchingEnabled": true,
+    "isSectionalSubmit": null,
+    "shuffleQuestions": false,
+    "showAnswers": true,
+    "isSolutionMultipleViewEnabled": true,
+    "shuffleOptions": false,
+    "revealCorrectAnswers": "all",
+    "revealAnswersTime": "now",
+    "parseMathJax": false
+  },
+  "isReadyToLink": true,
+  "isLinked": true,
+  "instructions": "",
+  "isSectionEnable": false,
+  "isReloadRequired": false,
+  "totalNumberOfQuestions": 20,
+  "totalMarks": 20,
+  "isAttempted": true,
+  "name": "Coding decoding",
+  "duration": 900000,
+  "createdBy": "609d141ffef055578d05892c",
+  "parentFolder": "60dc8da46dd5421eea70833f",
+  "sections": [
+    {
+      "draftMode": false,
+      "isActive": true,
+      "sectionDuration": 0,
+      "sectionMarks": 20,
+      "sectionInstructions": "<p>Attemp all questions</p>",
+      "hasOptionalQuestions": false,
+      "_id": "60a00d12a4b01567464207d8",
+      "name": "Logical Reasoning",
+      "order": 1,
+      "numberOfQuestions": 20,
+      "questions": [
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0.25,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<div class=\"optionans\">EJXEBEYQCL</div>",
+              "nameText": "EJXEBEYQCL",
+              "order": 1,
+              "isNewOption": false,
+              "_id": "60a00ffdd1a7f4f26576e563"
+            },
+            {
+              "name": "<div class=\"optionans\">JFQYWBCXQL</div>",
+              "nameText": "JFQYWBCXQL",
+              "order": 2,
+              "isNewOption": false,
+              "_id": "60a00ffdd1a7f4822e76e564"
+            },
+            {
+              "name": "<div class=\"optionans\">QCLYWBFXJE&nbsp; &nbsp; &nbsp;</div>",
+              "nameText": "QCLYWBFXJE     ",
+              "order": 3,
+              "isNewOption": false,
+              "_id": "60a00ffdd1a7f423fd76e566"
+            },
+            {
+              "name": "<p>JFXWBWYQCL</p>",
+              "nameText": "JFXWBWYQCL",
+              "order": 3,
+              "isNewOption": true,
+              "_id": "60a0128ab0cfd5049042a7bd"
+            }
+          ],
+          "_id": "60a00ffdd1a7f4a81b76e567",
+          "isGlobal": false,
+          "name": "<p><span style=\"font-weight: bold; color: #222222; font-family: Roboto, sans-serif; text-align: justify;\">If in a code language &ldquo;ORGANISATION&rdquo; is written as &ldquo;CBDWLQJWYQCL&rdquo; and &ldquo;OPERATION&rdquo; is written as &ldquo;CXFBWYQCL&rdquo;. How is &ldquo;SEPARATION&rdquo; coded?</span></p>",
+          "paragraph": null,
+          "nameText": "If in a code language “ORGANISATION” is written as “CBDWLQJWYQCL” and “OPERATION” is written as “CXFBWYQCL”. How is “SEPARATION” coded?",
+          "type": "multiple_choice",
+          "createdBy": "609d141ffef055578d05892c",
+          "order": 1,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0.25,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p class=\"MsoNormal\" style=\"margin-bottom: 0cm; line-height: normal;\"><span style=\"font-size: 12.0pt; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-language: EN-IN;\">NZTOL</span></p>",
+              "nameText": "NZTOL",
+              "order": 1,
+              "isNewOption": false,
+              "_id": "60a00ffdd1a7f47e5276e568"
+            },
+            {
+              "name": "<p class=\"MsoNormal\" style=\"margin-bottom: 0cm; line-height: normal;\"><span style=\"font-size: 12.0pt; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-language: EN-IN;\">CSTZN</span></p>",
+              "nameText": "CSTZN",
+              "order": 2,
+              "isNewOption": false,
+              "_id": "60a00ffdd1a7f4e67876e569"
+            },
+            {
+              "name": "<p class=\"MsoNormal\" style=\"margin-bottom: 0cm; line-height: normal;\"><span style=\"font-size: 12.0pt; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-language: EN-IN;\">NSTOL</span></p>",
+              "nameText": "NSTOL",
+              "order": 3,
+              "isNewOption": false,
+              "_id": "60a00ffdd1a7f4b9f776e56a"
+            },
+            {
+              "name": "<p class=\"MsoNormal\" style=\"margin-bottom: 0cm; line-height: normal; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\"><span style=\"font-size: 10pt; font-family: Roboto;\">NTSLO</span></p>",
+              "nameText": "NTSLO",
+              "order": 4,
+              "isNewOption": false,
+              "_id": "60a00ffdd1a7f4bcac76e56b"
+            }
+          ],
+          "_id": "60a00ffdd1a7f4c6ca76e56c",
+          "isGlobal": false,
+          "name": "<p class=\"MsoNormal\" style=\"text-align: justify; line-height: normal;\"><strong><span style=\"font-size: 10.5pt; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman'; color: #222222; mso-fareast-language: EN-IN;\">In a coding system PEN is written as NZO and BARK as CTSL. How can we write PRANK in that coding system?</span></strong></p>",
+          "paragraph": null,
+          "nameText": "In a coding system PEN is written as NZO and BARK as CTSL. How can we write PRANK in that coding system?",
+          "type": "multiple_choice",
+          "createdBy": "609d141ffef055578d05892c",
+          "order": 2,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0.25,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p class=\"MsoNormal\">DPGGFF</p>",
+              "nameText": "DPGGFF",
+              "order": 1,
+              "isNewOption": false,
+              "_id": "60a00ffdd1a7f4232776e56d"
+            },
+            {
+              "name": "<p><span style=\"font-size: 11.0pt; line-height: 107%; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">&nbsp;GGDPFF</span></p>",
+              "nameText": " GGDPFF",
+              "order": 2,
+              "isNewOption": false,
+              "_id": "60a00ffdd1a7f402b576e56e"
+            },
+            {
+              "name": "<p><span style=\"font-size: 11.0pt; line-height: 107%; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">GDPGFF</span></p>",
+              "nameText": "GDPGFF",
+              "order": 3,
+              "isNewOption": false,
+              "_id": "60a00ffdd1a7f4e03676e56f"
+            },
+            {
+              "name": "<p><span style=\"font-size: 11.0pt; line-height: 107%; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">&nbsp;FFDPGG</span></p>",
+              "nameText": " FFDPGG",
+              "order": 4,
+              "isNewOption": false,
+              "_id": "60a00ffdd1a7f4bdee76e570"
+            }
+          ],
+          "_id": "60a00ffdd1a7f4845a76e571",
+          "isGlobal": false,
+          "name": "<p class=\"MsoNormal\">In a certain language, BUTTER is coded as CVUUFS, BREAD is coded as CSFBE, the how COFFEE is coded?</p>",
+          "paragraph": null,
+          "nameText": "In a certain language, BUTTER is coded as CVUUFS, BREAD is coded as CSFBE, the how COFFEE is coded?",
+          "type": "multiple_choice",
+          "createdBy": "609d141ffef055578d05892c",
+          "order": 3,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0.25,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p><span style=\"font-size: 11.0pt; line-height: 107%; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">FGBFXGD</span></p>",
+              "nameText": "FGBFXGD",
+              "order": 1,
+              "isNewOption": false,
+              "_id": "60a00ffdd1a7f4f51e76e572"
+            },
+            {
+              "name": "<p><span style=\"font-size: 11.0pt; line-height: 107%; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">BGBFXJK</span></p>",
+              "nameText": "BGBFXJK",
+              "order": 2,
+              "isNewOption": false,
+              "_id": "60a00ffdd1a7f4236976e573"
+            },
+            {
+              "name": "<p><span style=\"font-size: 11.0pt; line-height: 107%; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">FGBUXJK</span></p>",
+              "nameText": "FGBUXJK",
+              "order": 3,
+              "isNewOption": false,
+              "_id": "60a00ffdd1a7f4686976e574"
+            },
+            {
+              "name": "<p><span style=\"font-size: 11.0pt; line-height: 107%; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">FGBFXJK</span></p>",
+              "nameText": "FGBFXJK",
+              "order": 4,
+              "isNewOption": false,
+              "_id": "60a00ffdd1a7f4dac376e575"
+            }
+          ],
+          "_id": "60a00ffdd1a7f4744076e576",
+          "isGlobal": false,
+          "name": "<p class=\"MsoNormal\">If in a code language PARENT is written as BDFGJK and CHILDREN is written as MOXQUFGJ, how is REPRINT written in that code?</p>",
+          "paragraph": null,
+          "nameText": "If in a code language PARENT is written as BDFGJK and CHILDREN is written as MOXQUFGJ, how is REPRINT written in that code?",
+          "type": "multiple_choice",
+          "createdBy": "609d141ffef055578d05892c",
+          "order": 4,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0.25,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p><span style=\"font-size: 11.0pt; line-height: 107%; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">BGQMUL</span></p>",
+              "nameText": "BGQMUL",
+              "order": 1,
+              "isNewOption": false,
+              "_id": "60a00ffdd1a7f433f276e577"
+            },
+            {
+              "name": "<p><span style=\"font-size: 11.0pt; line-height: 107%; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">CGRLTK</span></p>",
+              "nameText": "CGRLTK",
+              "order": 2,
+              "isNewOption": false,
+              "_id": "60a00ffdd1a7f464e176e578"
+            },
+            {
+              "name": "<p><span style=\"font-size: 11.0pt; line-height: 107%; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">CGRTLK</span></p>",
+              "nameText": "CGRTLK",
+              "order": 3,
+              "isNewOption": false,
+              "_id": "60a00ffdd1a7f47b7a76e579"
+            },
+            {
+              "name": "<p><span style=\"font-size: 11.0pt; line-height: 107%; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">BGQLUM</span></p>",
+              "nameText": "BGQLUM",
+              "order": 4,
+              "isNewOption": false,
+              "_id": "60a00ffdd1a7f45cd176e57a"
+            }
+          ],
+          "_id": "60a00ffdd1a7f4776e76e57b",
+          "isGlobal": false,
+          "name": "<p><span style=\"font-size: 11.0pt; line-height: 107%; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">The word &lsquo;UNITED&rsquo; is coded as &lsquo;SLGRCB&rsquo;. How should the word &lsquo;DISOWN&rsquo; be coded?</span></p>",
+          "paragraph": null,
+          "nameText": "The word ‘UNITED’ is coded as ‘SLGRCB’. How should the word ‘DISOWN’ be coded?",
+          "type": "multiple_choice",
+          "createdBy": "609d141ffef055578d05892c",
+          "order": 5,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0.25,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p><span style=\"font-size: 11.0pt; line-height: 107%; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">TMBKD</span></p>",
+              "nameText": "TMBKD",
+              "order": 1,
+              "isNewOption": false,
+              "_id": "60a00ffdd1a7f40bf776e57c"
+            },
+            {
+              "name": "<p><span style=\"font-size: 11.0pt; line-height: 107%; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">TBMKD</span></p>",
+              "nameText": "TBMKD",
+              "order": 2,
+              "isNewOption": false,
+              "_id": "60a00ffdd1a7f4b52676e57d"
+            },
+            {
+              "name": "<p><span style=\"font-size: 11.0pt; line-height: 107%; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">TVBOD</span></p>",
+              "nameText": "TVBOD",
+              "order": 3,
+              "isNewOption": false,
+              "_id": "60a00ffdd1a7f4005776e57e"
+            },
+            {
+              "name": "<p><span style=\"font-size: 11.0pt; line-height: 107%; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">TMKBD</span></p>",
+              "nameText": "TMKBD",
+              "order": 4,
+              "isNewOption": false,
+              "_id": "60a00ffdd1a7f477f876e57f"
+            }
+          ],
+          "_id": "60a00ffdd1a7f46a2076e580",
+          "isGlobal": false,
+          "name": "<p class=\"MsoNormal\">In a certain code SISTER is written as RHRSDQ. How is UNCLE written in that code?</p>",
+          "paragraph": null,
+          "nameText": "In a certain code SISTER is written as RHRSDQ. How is UNCLE written in that code?",
+          "type": "multiple_choice",
+          "createdBy": "609d141ffef055578d05892c",
+          "order": 6,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0.25,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p><span style=\"font-size: 11.0pt; line-height: 107%; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">NBIBCIBSBUB</span></p>",
+              "nameText": "NBIBCIBSBUB",
+              "order": 1,
+              "isNewOption": false,
+              "_id": "60a00ffdd1a7f49f2a76e581"
+            },
+            {
+              "name": "<p><span style=\"font-size: 11.0pt; line-height: 107%; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">LZGZAGZQZSZ</span></p>",
+              "nameText": "LZGZAGZQZSZ",
+              "order": 2,
+              "isNewOption": false,
+              "_id": "60a00ffdd1a7f481d576e582"
+            },
+            {
+              "name": "<p><span style=\"font-size: 11.0pt; line-height: 107%; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">MCJCDJCTCVC&nbsp;</span></p>",
+              "nameText": "MCJCDJCTCVC ",
+              "order": 3,
+              "isNewOption": false,
+              "_id": "60a00ffdd1a7f47dd276e583"
+            },
+            {
+              "name": "<p><span style=\"font-size: 11.0pt; line-height: 107%; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">KYFYZFYPYRY</span></p>",
+              "nameText": "KYFYZFYPYRY",
+              "order": 4,
+              "isNewOption": false,
+              "_id": "60a00ffdd1a7f4104976e584"
+            }
+          ],
+          "_id": "60a00ffdd1a7f4cf8976e585",
+          "isGlobal": false,
+          "name": "<p class=\"MsoNormal\">If in a certain code, RAMAYANA is written as PYKYWYLY, then how MAHABHARATA can be written in that code?</p>",
+          "paragraph": null,
+          "nameText": "If in a certain code, RAMAYANA is written as PYKYWYLY, then how MAHABHARATA can be written in that code?",
+          "type": "multiple_choice",
+          "createdBy": "609d141ffef055578d05892c",
+          "order": 7,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0.25,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p><span style=\"font-size: 11.0pt; line-height: 107%; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">TKQKJX</span></p>",
+              "nameText": "TKQKJX",
+              "order": 1,
+              "isNewOption": false,
+              "_id": "60a00ffdd1a7f495ef76e586"
+            },
+            {
+              "name": "<p><span style=\"font-size: 11.0pt; line-height: 107%; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">TKJKQX</span></p>",
+              "nameText": "TKJKQX",
+              "order": 2,
+              "isNewOption": false,
+              "_id": "60a00ffdd1a7f4efbc76e587"
+            },
+            {
+              "name": "<p><span style=\"font-size: 11.0pt; line-height: 107%; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">TKQKXJ</span></p>",
+              "nameText": "TKQKXJ",
+              "order": 3,
+              "isNewOption": false,
+              "_id": "60a00ffdd1a7f46df376e588"
+            },
+            {
+              "name": "<p><span style=\"font-size: 11.0pt; line-height: 107%; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">TKQXJK</span></p>",
+              "nameText": "TKQXJK",
+              "order": 4,
+              "isNewOption": false,
+              "_id": "60a00ffdd1a7f46ad776e589"
+            }
+          ],
+          "_id": "60a00ffdd1a7f4aef776e58a",
+          "isGlobal": false,
+          "name": "<p class=\"MsoNormal\">If in a certain language, PLAYER is coded as QNDCJX, then how SINGER will be coded in the same language?</p>",
+          "paragraph": null,
+          "nameText": "If in a certain language, PLAYER is coded as QNDCJX, then how SINGER will be coded in the same language?",
+          "type": "multiple_choice",
+          "createdBy": "609d141ffef055578d05892c",
+          "order": 8,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0.25,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p><span style=\"font-size: 11.0pt; line-height: 107%; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">FDNG</span></p>",
+              "nameText": "FDNG",
+              "order": 1,
+              "isNewOption": false,
+              "_id": "60a00ffdd1a7f41cd976e58b"
+            },
+            {
+              "name": "<p><span style=\"font-size: 11.0pt; line-height: 107%; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">NFDG</span></p>",
+              "nameText": "NFDG",
+              "order": 2,
+              "isNewOption": false,
+              "_id": "60a00ffdd1a7f4ab0676e58c"
+            },
+            {
+              "name": "<p><span style=\"font-size: 11.0pt; line-height: 107%; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">DNGF</span></p>",
+              "nameText": "DNGF",
+              "order": 3,
+              "isNewOption": false,
+              "_id": "60a00ffdd1a7f43db076e58d"
+            },
+            {
+              "name": "<p><span style=\"font-size: 11.0pt; line-height: 107%; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">NDFG</span></p>",
+              "nameText": "NDFG",
+              "order": 4,
+              "isNewOption": false,
+              "_id": "60a00ffdd1a7f4134676e58e"
+            }
+          ],
+          "_id": "60a00ffdd1a7f4b7cc76e58f",
+          "isGlobal": false,
+          "name": "<p class=\"MsoNormal\">If PEAR is written a GFDN, how is REAP written in this code?</p>",
+          "paragraph": null,
+          "nameText": "If PEAR is written a GFDN, how is REAP written in this code?",
+          "type": "multiple_choice",
+          "createdBy": "609d141ffef055578d05892c",
+          "order": 9,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0.25,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p><span style=\"font-size: 11.0pt; line-height: 107%; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">REFORMRE</span></p>",
+              "nameText": "REFORMRE",
+              "order": 1,
+              "isNewOption": false,
+              "_id": "60a00ffdd1a7f408c976e590"
+            },
+            {
+              "name": "<p><span style=\"font-size: 11.0pt; line-height: 107%; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">REFROMER</span></p>",
+              "nameText": "REFROMER",
+              "order": 2,
+              "isNewOption": false,
+              "_id": "60a00ffdd1a7f46a3e76e591"
+            },
+            {
+              "name": "<p><span style=\"font-size: 11.0pt; line-height: 107%; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">FORREMER</span></p>",
+              "nameText": "FORREMER",
+              "order": 3,
+              "isNewOption": false,
+              "_id": "60a00ffdd1a7f43dd176e592"
+            },
+            {
+              "name": "<p><span style=\"font-size: 11.0pt; line-height: 107%; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">FORMERER</span></p>",
+              "nameText": "FORMERER",
+              "order": 4,
+              "isNewOption": false,
+              "_id": "60a00ffdd1a7f41d6d76e593"
+            }
+          ],
+          "_id": "60a00ffdd1a7f48d9176e594",
+          "isGlobal": false,
+          "name": "<p class=\"MsoNormal\">If REEXAMINATION is written as EXAMINATIONER, How can REFORMER be written in that code?</p>",
+          "paragraph": null,
+          "nameText": "If REEXAMINATION is written as EXAMINATIONER, How can REFORMER be written in that code?",
+          "type": "multiple_choice",
+          "createdBy": "609d141ffef055578d05892c",
+          "order": 10,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0.25,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p><span style=\"font-size: 11.0pt; line-height: 107%; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">ops jio</span></p>",
+              "nameText": "ops jio",
+              "order": 1,
+              "isNewOption": false,
+              "_id": "60a00ffdd1a7f4da8276e595"
+            },
+            {
+              "name": "<p><span style=\"font-size: 11.0pt; line-height: 107%; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">ops sam</span></p>",
+              "nameText": "ops sam",
+              "order": 2,
+              "isNewOption": false,
+              "_id": "60a00ffdd1a7f499fe76e596"
+            },
+            {
+              "name": "<p><span style=\"font-family: Calibri, sans-serif; font-size: 11pt;\">gul fot</span></p>",
+              "nameText": "gul fot",
+              "order": 3,
+              "isNewOption": false,
+              "_id": "60a00ffdd1a7f4c82976e597"
+            },
+            {
+              "name": "<p><span style=\"font-size: 11.0pt; line-height: 107%; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">gul sam</span></p>",
+              "nameText": "gul sam",
+              "order": 4,
+              "isNewOption": false,
+              "_id": "60a00ffdd1a7f4986776e598"
+            }
+          ],
+          "_id": "60a00ffdd1a7f47be076e599",
+          "isGlobal": false,
+          "name": "<p class=\"MsoNormal\" style=\"margin-bottom: 0cm; text-align: justify; line-height: normal; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\"><strong><span style=\"font-size: 10.0pt; font-family: Roboto; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: #444444; mso-fareast-language: EN-IN;\">Directions : Read the following information carefully and answer the questions given beside.</span></strong><span style=\"font-size: 10.0pt; font-family: Roboto; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: #444444; mso-fareast-language: EN-IN;\"><br />&nbsp;</span></p>\n<p class=\"MsoNormal\" style=\"margin-bottom: 0cm; text-align: justify; line-height: normal; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\"><span style=\"font-size: 10.0pt; font-family: Roboto; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: #444444; mso-fareast-language: EN-IN;\">&ldquo;action packed night concert&rdquo; is coded as &ldquo;jio nul meb fot&rdquo;</span></p>\n<p class=\"MsoNormal\" style=\"margin-bottom: 0cm; text-align: justify; line-height: normal; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\"><span style=\"font-size: 10.0pt; font-family: Roboto; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: #444444; mso-fareast-language: EN-IN;\">&nbsp;</span></p>\n<p class=\"MsoNormal\" style=\"margin-bottom: 0cm; text-align: justify; line-height: normal; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\"><span style=\"font-size: 10.0pt; font-family: Roboto; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: #444444; mso-fareast-language: EN-IN;\">&ldquo;star night out media&rdquo; is coded as &ldquo;ops hfa meb gul&rdquo;</span></p>\n<p class=\"MsoNormal\" style=\"margin-bottom: 0cm; text-align: justify; line-height: normal; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\"><span style=\"font-size: 10.0pt; font-family: Roboto; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: #444444; mso-fareast-language: EN-IN;\">&nbsp;</span></p>\n<p class=\"MsoNormal\" style=\"margin-bottom: 0cm; text-align: justify; line-height: normal; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\"><span style=\"font-size: 10.0pt; font-family: Roboto; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: #444444; mso-fareast-language: EN-IN;\">&ldquo;media action report drama&rdquo; is coded as &ldquo;nul vis hfa dum&rdquo;</span></p>\n<p class=\"MsoNormal\" style=\"margin-bottom: 0cm; text-align: justify; line-height: normal; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\"><span style=\"font-size: 10.0pt; font-family: Roboto; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: #444444; mso-fareast-language: EN-IN;\">&nbsp;</span></p>\n<p>&nbsp;</p>\n<p class=\"MsoNormal\" style=\"margin-bottom: 0cm; text-align: justify; line-height: normal; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\"><span style=\"font-size: 10.0pt; font-family: Roboto; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: #444444; mso-fareast-language: EN-IN;\">&ldquo;star strike media concert&rdquo; is coded as &ldquo;hfa gul fot sam&rdquo;</span></p>\n<p class=\"MsoNormal\" style=\"margin-bottom: 0cm; text-align: justify; line-height: normal; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">&nbsp;</p>\n<p class=\"MsoNormal\">Find the code for the word &ldquo;strike out&rdquo;?</p>",
+          "paragraph": null,
+          "nameText": "Directions : Read the following information carefully and answer the questions given beside. \n“action packed night concert” is coded as “jio nul meb fot”\n \n“star night out media” is coded as “ops hfa meb gul”\n \n“media action report drama” is coded as “nul vis hfa dum”\n \n \n“star strike media concert” is coded as “hfa gul fot sam”\n \nFind the code for the word “strike out”?",
+          "type": "multiple_choice",
+          "createdBy": "609d141ffef055578d05892c",
+          "order": 11,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0.25,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p><span style=\"font-size: 11.0pt; line-height: 107%; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">vis jio</span></p>",
+              "nameText": "vis jio",
+              "order": 1,
+              "isNewOption": false,
+              "_id": "60a00ffdd1a7f4743c76e59a"
+            },
+            {
+              "name": "<p><span style=\"font-size: 11.0pt; line-height: 107%; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">nul jio</span></p>",
+              "nameText": "nul jio",
+              "order": 2,
+              "isNewOption": false,
+              "_id": "60a00ffdd1a7f4700676e59b"
+            },
+            {
+              "name": "<p><span style=\"font-size: 11.0pt; line-height: 107%; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">gul tue</span></p>",
+              "nameText": "gul tue",
+              "order": 3,
+              "isNewOption": false,
+              "_id": "60a00ffdd1a7f4d10676e59c"
+            },
+            {
+              "name": "<p><span style=\"font-size: 11.0pt; line-height: 107%; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">jio anw</span></p>",
+              "nameText": "jio anw",
+              "order": 4,
+              "isNewOption": false,
+              "_id": "60a00ffdd1a7f4106676e59d"
+            }
+          ],
+          "_id": "60a00ffdd1a7f4321d76e59e",
+          "isGlobal": false,
+          "name": "<p class=\"MsoNormal\" style=\"margin-bottom: 0cm; text-align: justify; line-height: normal; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\"><strong><span style=\"font-size: 10.0pt; font-family: Roboto; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: #444444; mso-fareast-language: EN-IN;\">Directions : Read the following information carefully and answer the questions given beside.</span></strong><span style=\"font-size: 10.0pt; font-family: Roboto; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: #444444; mso-fareast-language: EN-IN;\"><br />&nbsp;</span></p>\n<p class=\"MsoNormal\" style=\"margin-bottom: 0cm; text-align: justify; line-height: normal; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\"><span style=\"font-size: 10.0pt; font-family: Roboto; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: #444444; mso-fareast-language: EN-IN;\">&ldquo;action packed night concert&rdquo; is coded as &ldquo;jio nul meb fot&rdquo;</span></p>\n<p class=\"MsoNormal\" style=\"margin-bottom: 0cm; text-align: justify; line-height: normal; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\"><span style=\"font-size: 10.0pt; font-family: Roboto; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: #444444; mso-fareast-language: EN-IN;\">&nbsp;</span></p>\n<p class=\"MsoNormal\" style=\"margin-bottom: 0cm; text-align: justify; line-height: normal; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\"><span style=\"font-size: 10.0pt; font-family: Roboto; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: #444444; mso-fareast-language: EN-IN;\">&ldquo;star night out media&rdquo; is coded as &ldquo;ops hfa meb gul&rdquo;</span></p>\n<p class=\"MsoNormal\" style=\"margin-bottom: 0cm; text-align: justify; line-height: normal; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\"><span style=\"font-size: 10.0pt; font-family: Roboto; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: #444444; mso-fareast-language: EN-IN;\">&nbsp;</span></p>\n<p class=\"MsoNormal\" style=\"margin-bottom: 0cm; text-align: justify; line-height: normal; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\"><span style=\"font-size: 10.0pt; font-family: Roboto; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: #444444; mso-fareast-language: EN-IN;\">&ldquo;media action report drama&rdquo; is coded as &ldquo;nul vis hfa dum&rdquo;</span></p>\n<p class=\"MsoNormal\" style=\"margin-bottom: 0cm; text-align: justify; line-height: normal; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\"><span style=\"font-size: 10.0pt; font-family: Roboto; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: #444444; mso-fareast-language: EN-IN;\">&nbsp;</span></p>\n<p>&nbsp;</p>\n<p class=\"MsoNormal\" style=\"margin-bottom: 0cm; text-align: justify; line-height: normal; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\"><span style=\"font-size: 10.0pt; font-family: Roboto; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: #444444; mso-fareast-language: EN-IN;\">&ldquo;star strike media concert&rdquo; is coded as &ldquo;hfa gul fot sam&rdquo;</span></p>\n<p class=\"MsoNormal\">Which of the following codes could be a possible code for \"packed goods\"?</p>",
+          "paragraph": null,
+          "nameText": "Directions : Read the following information carefully and answer the questions given beside. \n“action packed night concert” is coded as “jio nul meb fot”\n \n“star night out media” is coded as “ops hfa meb gul”\n \n“media action report drama” is coded as “nul vis hfa dum”\n \n \n“star strike media concert” is coded as “hfa gul fot sam”\nWhich of the following codes could be a possible code for \"packed goods\"?",
+          "type": "multiple_choice",
+          "createdBy": "609d141ffef055578d05892c",
+          "order": 12,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0.25,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p><span style=\"font-size: 11.0pt; line-height: 107%; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">meb vis</span></p>",
+              "nameText": "meb vis",
+              "order": 1,
+              "isNewOption": false,
+              "_id": "60a00ffdd1a7f4b89576e59f"
+            },
+            {
+              "name": "<p><span style=\"font-size: 11.0pt; line-height: 107%; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">dum nul</span></p>",
+              "nameText": "dum nul",
+              "order": 2,
+              "isNewOption": false,
+              "_id": "60a00ffdd1a7f4020e76e5a0"
+            },
+            {
+              "name": "<p><span style=\"font-size: 11.0pt; line-height: 107%; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">meb dum</span></p>",
+              "nameText": "meb dum",
+              "order": 3,
+              "isNewOption": false,
+              "_id": "60a00ffdd1a7f4c03a76e5a1"
+            },
+            {
+              "name": "<p><span style=\"font-size: 11.0pt; line-height: 107%; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">gul vis</span></p>",
+              "nameText": "gul vis",
+              "order": 4,
+              "isNewOption": false,
+              "_id": "60a00ffdd1a7f445d876e5a2"
+            },
+            {
+              "name": "<p><span style=\"font-size: 11.0pt; line-height: 107%; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">Can't be determined</span></p>",
+              "nameText": "Can't be determined",
+              "order": 4,
+              "isNewOption": true,
+              "_id": "60a0c7b5e68635dc88e05018"
+            }
+          ],
+          "_id": "60a00ffdd1a7f4cff476e5a3",
+          "isGlobal": false,
+          "name": "<p class=\"MsoNormal\" style=\"margin-bottom: 0cm; text-align: justify; line-height: normal; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\"><strong><span style=\"font-size: 10.0pt; font-family: Roboto; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: #444444; mso-fareast-language: EN-IN;\">Directions : Read the following information carefully and answer the questions given beside.</span></strong><span style=\"font-size: 10.0pt; font-family: Roboto; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: #444444; mso-fareast-language: EN-IN;\"><br />&nbsp;</span></p>\n<p class=\"MsoNormal\" style=\"margin-bottom: 0cm; text-align: justify; line-height: normal; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\"><span style=\"font-size: 10.0pt; font-family: Roboto; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: #444444; mso-fareast-language: EN-IN;\">&ldquo;action packed night concert&rdquo; is coded as &ldquo;jio nul meb fot&rdquo;</span></p>\n<p class=\"MsoNormal\" style=\"margin-bottom: 0cm; text-align: justify; line-height: normal; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\"><span style=\"font-size: 10.0pt; font-family: Roboto; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: #444444; mso-fareast-language: EN-IN;\">&nbsp;</span></p>\n<p class=\"MsoNormal\" style=\"margin-bottom: 0cm; text-align: justify; line-height: normal; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\"><span style=\"font-size: 10.0pt; font-family: Roboto; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: #444444; mso-fareast-language: EN-IN;\">&ldquo;star night out media&rdquo; is coded as &ldquo;ops hfa meb gul&rdquo;</span></p>\n<p class=\"MsoNormal\" style=\"margin-bottom: 0cm; text-align: justify; line-height: normal; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\"><span style=\"font-size: 10.0pt; font-family: Roboto; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: #444444; mso-fareast-language: EN-IN;\">&nbsp;</span></p>\n<p class=\"MsoNormal\" style=\"margin-bottom: 0cm; text-align: justify; line-height: normal; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\"><span style=\"font-size: 10.0pt; font-family: Roboto; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: #444444; mso-fareast-language: EN-IN;\">&ldquo;media action report drama&rdquo; is coded as &ldquo;nul vis hfa dum&rdquo;</span></p>\n<p class=\"MsoNormal\" style=\"margin-bottom: 0cm; text-align: justify; line-height: normal; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\"><span style=\"font-size: 10.0pt; font-family: Roboto; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: #444444; mso-fareast-language: EN-IN;\">&nbsp;</span></p>\n<p>&nbsp;</p>\n<p class=\"MsoNormal\" style=\"margin-bottom: 0cm; text-align: justify; line-height: normal; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\"><span style=\"font-size: 10.0pt; font-family: Roboto; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: #444444; mso-fareast-language: EN-IN;\">&ldquo;star strike media concert&rdquo; is coded as &ldquo;hfa gul fot sam&rdquo;</span></p>\n<p class=\"MsoNormal\" style=\"margin-bottom: 0cm; text-align: justify; line-height: normal; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">&nbsp;</p>\n<p class=\"MsoNormal\">What is the code for \"drama night\"?</p>",
+          "paragraph": null,
+          "nameText": "Directions : Read the following information carefully and answer the questions given beside. \n“action packed night concert” is coded as “jio nul meb fot”\n \n“star night out media” is coded as “ops hfa meb gul”\n \n“media action report drama” is coded as “nul vis hfa dum”\n \n \n“star strike media concert” is coded as “hfa gul fot sam”\n \nWhat is the code for \"drama night\"?",
+          "type": "multiple_choice",
+          "createdBy": "609d141ffef055578d05892c",
+          "order": 13,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0.25,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p><span style=\"font-size: 10.0pt; line-height: 107%; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">QDFHS</span></p>",
+              "nameText": "QDFHS",
+              "order": 1,
+              "isNewOption": false,
+              "_id": "60a00ffdd1a7f4dd6776e5a4"
+            },
+            {
+              "name": "<p><span style=\"font-size: 10.0pt; line-height: 107%; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">SDFHS</span></p>",
+              "nameText": "SDFHS",
+              "order": 2,
+              "isNewOption": false,
+              "_id": "60a00ffdd1a7f4341076e5a5"
+            },
+            {
+              "name": "<p><span style=\"font-size: 10.0pt; line-height: 107%; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">SHFDQ</span></p>",
+              "nameText": "SHFDQ",
+              "order": 3,
+              "isNewOption": false,
+              "_id": "60a00ffdd1a7f4e91076e5a6"
+            },
+            {
+              "name": "<p><span style=\"font-size: 10.0pt; line-height: 107%; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">UJHFS</span></p>",
+              "nameText": "UJHFS",
+              "order": 4,
+              "isNewOption": false,
+              "_id": "60a00ffdd1a7f46bb876e5a7"
+            }
+          ],
+          "_id": "60a00ffdd1a7f4b66e76e5a8",
+          "isGlobal": false,
+          "name": "<p style=\"margin: 0cm 3.75pt 3.75pt 0cm; line-height: 18pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\"><span style=\"font-size: 10.0pt; color: black; mso-themecolor: text1;\">In a certain code, MONKEY is written as XDJMNL. How is TIGER written in that code ?</span></p>",
+          "paragraph": null,
+          "nameText": "In a certain code, MONKEY is written as XDJMNL. How is TIGER written in that code ?",
+          "type": "multiple_choice",
+          "createdBy": "609d141ffef055578d05892c",
+          "order": 14,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0.25,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p><span style=\"color: #000000; font-family: Poppins, sans-serif; font-size: 16px; text-align: justify; background-color: #f9f9f9;\">Either &lsquo;abroad&rsquo; or &lsquo;happy&rsquo;</span></p>",
+              "nameText": "Either ‘abroad’ or ‘happy’",
+              "order": 1,
+              "isNewOption": false,
+              "_id": "60a00ffdd1a7f4e7c376e5a9"
+            },
+            {
+              "name": "<p><span style=\"color: #000000; font-family: Poppins, sans-serif; font-size: 16px; text-align: justify; background-color: #f9f9f9;\">start</span></p>",
+              "nameText": "start",
+              "order": 2,
+              "isNewOption": false,
+              "_id": "60a00ffdd1a7f41dea76e5aa"
+            },
+            {
+              "name": "<p><span style=\"background-color: #f9f9f9; color: #000000; font-family: Poppins, sans-serif; font-size: 16px; text-align: justify;\">&nbsp;</span><span style=\"background-color: #f9f9f9; color: #000000; font-family: Poppins, sans-serif; font-size: 16px; text-align: justify;\">dispute</span></p>",
+              "nameText": " dispute",
+              "order": 3,
+              "isNewOption": false,
+              "_id": "60a00ffdd1a7f4bf8676e5ab"
+            },
+            {
+              "name": "<p><span style=\"color: #000000; font-family: Poppins, sans-serif; font-size: 16px; text-align: justify; background-color: #f9f9f9;\">Either &lsquo;verdict&rsquo; or &lsquo;decide&rsquo;</span></p>",
+              "nameText": "Either ‘verdict’ or ‘decide’",
+              "order": 4,
+              "isNewOption": false,
+              "_id": "60a00ffdd1a7f4731076e5ac"
+            },
+            {
+              "name": "<p><span style=\"color: #000000; font-family: Poppins, sans-serif; font-size: 16px; text-align: justify; background-color: #f9f9f9;\">special</span></p>",
+              "nameText": "special",
+              "order": 4,
+              "isNewOption": true,
+              "_id": "60a0c7b5e686357d2ce0501b"
+            }
+          ],
+          "_id": "60a00ffdd1a7f4975b76e5ad",
+          "isGlobal": false,
+          "name": "<p style=\"-webkit-font-smoothing: antialiased; margin-top: 32px; margin-bottom: 32px; font-size: 16px; line-height: 29px; text-align: justify; max-width: 100%; overflow-wrap: break-word; font-family: Poppins, sans-serif; background-color: #f9f9f9; color: #000000 !important;\"><span style=\"font-weight: bolder; margin-top: 0px;\">Study the following information to answer the given questions. In a certain code language,</span><br />&lsquo;abroad return happy start&rsquo; is written as &lsquo;mt gu hb st&rsquo;<br />&lsquo;return justice dispute peace&rsquo; is written as &lsquo;tk hb da pu&rsquo;<br />&lsquo;dispute abroad decide verdict&rsquo; is written as &lsquo;nh pt tk gu&rsquo;<br style=\"margin-bottom: 0px;\" />&lsquo;peace special happy dispute&rsquo; is written as &lsquo;da st rx tk&rsquo;</p>\n<p style=\"-webkit-font-smoothing: antialiased; margin-top: 32px; margin-bottom: 32px; font-size: 16px; line-height: 29px; text-align: justify; max-width: 100%; overflow-wrap: break-word; font-family: Poppins, sans-serif; background-color: #f9f9f9; color: #000000 !important;\"><span style=\"font-weight: bolder; margin-top: 0px;\">Q1. In the given code language, what does the code &lsquo;pt&rsquo; stand for?</span></p>",
+          "paragraph": null,
+          "nameText": "Study the following information to answer the given questions. In a certain code language,‘abroad return happy start’ is written as ‘mt gu hb st’‘return justice dispute peace’ is written as ‘tk hb da pu’‘dispute abroad decide verdict’ is written as ‘nh pt tk gu’‘peace special happy dispute’ is written as ‘da st rx tk’\nQ1. In the given code language, what does the code ‘pt’ stand for?",
+          "type": "multiple_choice",
+          "createdBy": "609d141ffef055578d05892c",
+          "order": 15,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0.25,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p><span style=\"color: #000000; font-family: Poppins, sans-serif; font-size: 16px; text-align: justify; background-color: #f9f9f9;\">tk</span></p>",
+              "nameText": "tk",
+              "order": 1,
+              "isNewOption": false,
+              "_id": "60a00ffdd1a7f4fa8676e5ae"
+            },
+            {
+              "name": "<p><span style=\"color: #000000; font-family: Poppins, sans-serif; font-size: 16px; text-align: justify; background-color: #f9f9f9;\">rx</span></p>",
+              "nameText": "rx",
+              "order": 2,
+              "isNewOption": false,
+              "_id": "60a00ffdd1a7f474ee76e5af"
+            },
+            {
+              "name": "<p><span style=\"color: #000000; font-family: Poppins, sans-serif; font-size: 16px; text-align: justify; background-color: #f9f9f9;\">st</span></p>",
+              "nameText": "st",
+              "order": 3,
+              "isNewOption": false,
+              "_id": "60a00ffdd1a7f43ad376e5b0"
+            },
+            {
+              "name": "<p><span style=\"color: #000000; font-family: Poppins, sans-serif; font-size: 16px; text-align: justify; background-color: #f9f9f9;\">da</span></p>",
+              "nameText": "da",
+              "order": 4,
+              "isNewOption": false,
+              "_id": "60a00ffdd1a7f4c3ed76e5b1"
+            }
+          ],
+          "_id": "60a00ffdd1a7f44ebe76e5b2",
+          "isGlobal": false,
+          "name": "<span style=\"font-weight: bolder; margin-top: 0px; color: #000000; font-family: Poppins, sans-serif; font-size: 16px; text-align: justify; background-color: #f9f9f9;\">Study the following information to answer the given questions. In a certain code language,</span><br style=\"color: #000000; font-family: Poppins, sans-serif; font-size: 16px; text-align: justify; background-color: #f9f9f9;\" /><span style=\"color: #000000; font-family: Poppins, sans-serif; font-size: 16px; text-align: justify; background-color: #f9f9f9;\">&lsquo;abroad return happy start&rsquo; is written as &lsquo;mt gu hb st&rsquo;</span><br style=\"color: #000000; font-family: Poppins, sans-serif; font-size: 16px; text-align: justify; background-color: #f9f9f9;\" /><span style=\"color: #000000; font-family: Poppins, sans-serif; font-size: 16px; text-align: justify; background-color: #f9f9f9;\">&lsquo;return justice dispute peace&rsquo; is written as &lsquo;tk hb da pu&rsquo;</span><br style=\"color: #000000; font-family: Poppins, sans-serif; font-size: 16px; text-align: justify; background-color: #f9f9f9;\" /><span style=\"color: #000000; font-family: Poppins, sans-serif; font-size: 16px; text-align: justify; background-color: #f9f9f9;\">&lsquo;dispute abroad decide verdict&rsquo; is written as &lsquo;nh pt tk gu&rsquo;</span><br style=\"margin-bottom: 0px; color: #000000; font-family: Poppins, sans-serif; font-size: 16px; text-align: justify; background-color: #f9f9f9;\" />\n<p><span style=\"font-weight: bolder; margin-top: 0px; color: #000000; font-family: Poppins, sans-serif; font-size: 16px; text-align: justify; background-color: #f9f9f9;\">&lsquo;peace special happy dispute&rsquo; is written as &lsquo;da st rx tk&rsquo;What is the code for &lsquo;peace&rsquo; in the given code language?</span></p>",
+          "paragraph": null,
+          "nameText": "Study the following information to answer the given questions. In a certain code language,‘abroad return happy start’ is written as ‘mt gu hb st’‘return justice dispute peace’ is written as ‘tk hb da pu’‘dispute abroad decide verdict’ is written as ‘nh pt tk gu’\n‘peace special happy dispute’ is written as ‘da st rx tk’What is the code for ‘peace’ in the given code language?",
+          "type": "multiple_choice",
+          "createdBy": "609d141ffef055578d05892c",
+          "order": 16,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0.25,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p><span style=\"color: #000000; font-family: Poppins, sans-serif; font-size: 16px; text-align: justify; background-color: #f9f9f9;\">nh</span></p>",
+              "nameText": "nh",
+              "order": 1,
+              "isNewOption": false,
+              "_id": "60a00ffdd1a7f4609e76e5b3"
+            },
+            {
+              "name": "<p><span style=\"color: #000000; font-family: Poppins, sans-serif; font-size: 16px; text-align: justify; background-color: #f9f9f9;\">hb</span></p>",
+              "nameText": "hb",
+              "order": 2,
+              "isNewOption": false,
+              "_id": "60a00ffdd1a7f4290a76e5b4"
+            },
+            {
+              "name": "<p><span style=\"color: #000000; font-family: Poppins, sans-serif; font-size: 16px; text-align: justify; background-color: #f9f9f9;\">gu</span></p>",
+              "nameText": "gu",
+              "order": 3,
+              "isNewOption": false,
+              "_id": "60a00ffdd1a7f4fd5e76e5b5"
+            },
+            {
+              "name": "<p><span style=\"color: #000000; font-family: Poppins, sans-serif; font-size: 16px; text-align: justify; background-color: #f9f9f9;\">pu</span></p>",
+              "nameText": "pu",
+              "order": 4,
+              "isNewOption": false,
+              "_id": "60a00ffdd1a7f4324376e5b6"
+            },
+            {
+              "name": "<p><span style=\"color: #000000; font-family: Poppins, sans-serif; font-size: 16px; text-align: justify; background-color: #f9f9f9;\">rx</span></p>",
+              "nameText": "rx",
+              "order": 4,
+              "isNewOption": true,
+              "_id": "60a0c7b5e68635cb28e0501a"
+            }
+          ],
+          "_id": "60a00ffdd1a7f410d776e5b7",
+          "isGlobal": false,
+          "name": "<p><span style=\"font-weight: bolder; margin-top: 0px; color: #000000; font-family: Poppins, sans-serif; font-size: 16px; text-align: justify; background-color: #f9f9f9;\">Directions (1-5): Study the following information to answer the given questions. In a certain code language,</span><br style=\"color: #000000; font-family: Poppins, sans-serif; font-size: 16px; text-align: justify; background-color: #f9f9f9;\" /><span style=\"color: #000000; font-family: Poppins, sans-serif; font-size: 16px; text-align: justify; background-color: #f9f9f9;\">&lsquo;abroad return happy start&rsquo; is written as &lsquo;mt gu hb st&rsquo;</span><br style=\"color: #000000; font-family: Poppins, sans-serif; font-size: 16px; text-align: justify; background-color: #f9f9f9;\" /><span style=\"color: #000000; font-family: Poppins, sans-serif; font-size: 16px; text-align: justify; background-color: #f9f9f9;\">&lsquo;return justice dispute peace&rsquo; is written as &lsquo;tk hb da pu&rsquo;</span><br style=\"color: #000000; font-family: Poppins, sans-serif; font-size: 16px; text-align: justify; background-color: #f9f9f9;\" /><span style=\"color: #000000; font-family: Poppins, sans-serif; font-size: 16px; text-align: justify; background-color: #f9f9f9;\">&lsquo;dispute abroad decide verdict&rsquo; is written as &lsquo;nh pt tk gu&rsquo;</span><br style=\"margin-bottom: 0px; color: #000000; font-family: Poppins, sans-serif; font-size: 16px; text-align: justify; background-color: #f9f9f9;\" /><span style=\"color: #000000; font-family: Poppins, sans-serif; font-size: 16px; text-align: justify; background-color: #f9f9f9;\">&lsquo;peace special happy dispute&rsquo; is written as &lsquo;da st rx tk&rsquo;</span></p>\n<p><span style=\"font-weight: bolder; margin-top: 0px; color: #000000; font-family: Poppins, sans-serif; font-size: 16px; text-align: justify; background-color: #f9f9f9;\">What is the code for &lsquo;return&rsquo; in the given code language?</span></p>",
+          "paragraph": null,
+          "nameText": "Directions (1-5): Study the following information to answer the given questions. In a certain code language,‘abroad return happy start’ is written as ‘mt gu hb st’‘return justice dispute peace’ is written as ‘tk hb da pu’‘dispute abroad decide verdict’ is written as ‘nh pt tk gu’‘peace special happy dispute’ is written as ‘da st rx tk’\nWhat is the code for ‘return’ in the given code language?",
+          "type": "multiple_choice",
+          "createdBy": "609d141ffef055578d05892c",
+          "order": 17,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0.25,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p><span style=\"color: #000000; font-family: Poppins, sans-serif; font-size: 16px; text-align: justify; background-color: #f9f9f9;\">ve bd</span></p>",
+              "nameText": "ve bd",
+              "order": 1,
+              "isNewOption": false,
+              "_id": "60a00ffdd1a7f45a0376e5b8"
+            },
+            {
+              "name": "<p><span style=\"color: #000000; font-family: Poppins, sans-serif; font-size: 16px; text-align: justify; background-color: #f9f9f9;\">da nh</span></p>",
+              "nameText": "da nh",
+              "order": 2,
+              "isNewOption": false,
+              "_id": "60a00ffdd1a7f4620176e5b9"
+            },
+            {
+              "name": "<p><span style=\"color: #000000; font-family: Poppins, sans-serif; font-size: 16px; text-align: justify; background-color: #f9f9f9;\">nh ve</span></p>",
+              "nameText": "nh ve",
+              "order": 3,
+              "isNewOption": false,
+              "_id": "60a00ffdd1a7f45bc876e5ba"
+            },
+            {
+              "name": "<p><span style=\"color: #000000; font-family: Poppins, sans-serif; font-size: 16px; text-align: justify; background-color: #f9f9f9;\">pu da</span></p>",
+              "nameText": "pu da",
+              "order": 4,
+              "isNewOption": false,
+              "_id": "60a00ffdd1a7f4618176e5bb"
+            },
+            {
+              "name": "<p><span style=\"background-color: #f9f9f9; color: #000000; font-family: Poppins, sans-serif; font-size: 16px; text-align: justify;\">mt da</span></p>",
+              "nameText": "mt da",
+              "order": 4,
+              "isNewOption": true,
+              "_id": "60a0c7b5e686359d8ee05019"
+            }
+          ],
+          "_id": "60a00ffdd1a7f4473076e5bc",
+          "isGlobal": false,
+          "name": "<p><span style=\"font-weight: bolder; margin-top: 0px; color: #000000; font-family: Poppins, sans-serif; font-size: 16px; text-align: justify; background-color: #f9f9f9;\">What may be the possible code for &lsquo;peace justice&rsquo; in the given code language?</span></p>",
+          "paragraph": null,
+          "nameText": "What may be the possible code for ‘peace justice’ in the given code language?",
+          "type": "multiple_choice",
+          "createdBy": "609d141ffef055578d05892c",
+          "order": 18,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0.25,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p><span style=\"font-size: 10.0pt; line-height: 107%; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">20-16-15-17-22&nbsp;&nbsp;</span></p>",
+              "nameText": "20-16-15-17-22  ",
+              "order": 1,
+              "isNewOption": false,
+              "_id": "60a00ffdd1a7f41ce176e5bd"
+            },
+            {
+              "name": "<p><span style=\"font-size: 10.0pt; line-height: 107%; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">20-16-17-15-27&nbsp; &nbsp;</span></p>",
+              "nameText": "20-16-17-15-27   ",
+              "order": 2,
+              "isNewOption": false,
+              "_id": "60a00ffdd1a7f4a87076e5be"
+            },
+            {
+              "name": "<p><span style=\"font-size: 10.0pt; line-height: 107%; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">20-17-16-18-23&nbsp; &nbsp;</span></p>",
+              "nameText": "20-17-16-18-23   ",
+              "order": 3,
+              "isNewOption": false,
+              "_id": "60a00ffdd1a7f41f9876e5bf"
+            },
+            {
+              "name": "<p><span style=\"font-size: 10.0pt; line-height: 107%; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman'; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-IN; mso-bidi-language: AR-SA;\">20-17-15-16-28</span></p>",
+              "nameText": "20-17-15-16-28",
+              "order": 4,
+              "isNewOption": false,
+              "_id": "60a00ffdd1a7f4f2d176e5c0"
+            }
+          ],
+          "_id": "60a00ffdd1a7f4e2e376e5c1",
+          "isGlobal": false,
+          "name": "<p><span style=\"font-size: 14pt;\"><strong><span style=\"line-height: 107%; font-family: 'Times New Roman', serif; color: black;\">. If the word LEADER is coded as 20-13-9-12-13-26, how would you write LIGHT?&nbsp;</span></strong></span></p>",
+          "paragraph": null,
+          "nameText": ". If the word LEADER is coded as 20-13-9-12-13-26, how would you write LIGHT? ",
+          "type": "multiple_choice",
+          "createdBy": "609d141ffef055578d05892c",
+          "order": 19,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0.25,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p>56</p>",
+              "nameText": "56",
+              "order": 1,
+              "isNewOption": false,
+              "_id": "60a00ffdd1a7f42ced76e5c2"
+            },
+            {
+              "name": "<p>36</p>",
+              "nameText": "36",
+              "order": 2,
+              "isNewOption": false,
+              "_id": "60a00ffdd1a7f40cde76e5c3"
+            },
+            {
+              "name": "<p>49</p>",
+              "nameText": "49",
+              "order": 3,
+              "isNewOption": false,
+              "_id": "60a00ffdd1a7f44a7776e5c4"
+            },
+            {
+              "name": "<p>78</p>",
+              "nameText": "78",
+              "order": 4,
+              "isNewOption": false,
+              "_id": "60a00ffdd1a7f4187076e5c5"
+            }
+          ],
+          "_id": "60a00ffdd1a7f410f076e5c6",
+          "isGlobal": false,
+          "name": "<p><span style=\"font-size: 14pt;\"><strong><span style=\"line-height: 107%; font-family: 'Times New Roman', serif; color: black;\">. .IF BAT coded as 9, TAKE coded as 16,then CAREER Coded as</span></strong></span></p>",
+          "paragraph": null,
+          "nameText": ". .IF BAT coded as 9, TAKE coded as 16,then CAREER Coded as",
+          "type": "multiple_choice",
+          "createdBy": "609d141ffef055578d05892c",
+          "order": 20,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        }
+      ]
+    }
+  ],
+  "updateAfterSync": {},
+  "isCdnUpdated": false,
+  "lastAttemptedAt": "2026-09-20T14:15:27.996Z",
+  "currentSection": "60a00d12a4b01567464207d8",
+  "testTotalDuration": 900000,
+  "examStartDate": "2026-09-20T18:47:47.471Z"
+}
