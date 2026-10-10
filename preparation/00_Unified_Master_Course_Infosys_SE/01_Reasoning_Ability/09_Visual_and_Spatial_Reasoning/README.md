@@ -18,7 +18,7 @@
 ## 📄 Theory, DPPs & Practice Sheets (PDF)
 | Document Name | File Size | Direct Link |
 | :--- | :---: | :---: |
-| [CampusMonk] Paper Folding and Cutting.pdf | `3.3 MB` | [Open Document]([CampusMonk] Paper Folding and Cutting.pdf) |
+| [CampusMonk] Paper Folding and Cutting.pdf | `3.0 MB` | [Open Document]([CampusMonk] Paper Folding and Cutting.pdf) |
 
 ## 🖼️ Visual Formula & Diagram Assets
 - Contains `178` high-resolution diagrams in [`images/`](images/) supporting questions & solutions.

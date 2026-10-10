@@ -8,5 +8,5 @@
 ## 📄 Theory, DPPs & Practice Sheets (PDF)
 | Document Name | File Size | Direct Link |
 | :--- | :---: | :---: |
-| [CampusMonk] New Updated LR 01 .pdf | `963.4 KB` | [Open Document]([CampusMonk] New Updated LR 01 .pdf) |
-| [Topmate] Infosys Logical Reasoning.pdf | `30.8 MB` | [Open Document]([Topmate] Infosys Logical Reasoning.pdf) |
+| [CampusMonk] New Updated LR 01 .pdf | `982.9 KB` | [Open Document]([CampusMonk] New Updated LR 01 .pdf) |
+| [Topmate] Infosys Logical Reasoning.pdf | `30.3 MB` | [Open Document]([Topmate] Infosys Logical Reasoning.pdf) |

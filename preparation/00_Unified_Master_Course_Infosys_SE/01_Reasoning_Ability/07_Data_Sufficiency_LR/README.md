@@ -13,7 +13,7 @@
 ## 📄 Theory, DPPs & Practice Sheets (PDF)
 | Document Name | File Size | Direct Link |
 | :--- | :---: | :---: |
-| [CampusMonk] Data Sufficiency ppt.pdf | `336.8 KB` | [Open Document]([CampusMonk] Data Sufficiency ppt.pdf) |
+| [CampusMonk] Data Sufficiency ppt.pdf | `349.1 KB` | [Open Document]([CampusMonk] Data Sufficiency ppt.pdf) |
 
 ## 📖 Deep Revision Handbooks & Strategy Guides
 - [[MasterGuide] infosys_se_data_sufficiency_mastery.md]([MasterGuide] infosys_se_data_sufficiency_mastery.md) (`6.3 KB`)

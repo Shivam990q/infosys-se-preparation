@@ -17,9 +17,9 @@
 ## 📄 Theory, DPPs & Practice Sheets (PDF)
 | Document Name | File Size | Direct Link |
 | :--- | :---: | :---: |
-| [CampusMonk] Critical Reasoning Practice Sheet.pdf | `101.4 KB` | [Open Document]([CampusMonk] Critical Reasoning Practice Sheet.pdf) |
-| [CampusMonk] Syllogism Questions 2.pdf | `747.0 KB` | [Open Document]([CampusMonk] Syllogism Questions 2.pdf) |
-| [CampusMonk] syllogism.pdf | `184.8 KB` | [Open Document]([CampusMonk] syllogism.pdf) |
+| [CampusMonk] Critical Reasoning Practice Sheet.pdf | `111.9 KB` | [Open Document]([CampusMonk] Critical Reasoning Practice Sheet.pdf) |
+| [CampusMonk] Syllogism Questions 2.pdf | `752.1 KB` | [Open Document]([CampusMonk] Syllogism Questions 2.pdf) |
+| [CampusMonk] syllogism.pdf | `217.3 KB` | [Open Document]([CampusMonk] syllogism.pdf) |
 
 ## 🖼️ Visual Formula & Diagram Assets
 - Contains `47` high-resolution diagrams in [`images/`](images/) supporting questions & solutions.

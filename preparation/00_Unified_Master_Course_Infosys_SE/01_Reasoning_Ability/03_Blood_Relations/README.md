@@ -14,8 +14,8 @@
 ## 📄 Theory, DPPs & Practice Sheets (PDF)
 | Document Name | File Size | Direct Link |
 | :--- | :---: | :---: |
-| [CampusMonk] Blood Relation.pdf | `505.9 KB` | [Open Document]([CampusMonk] Blood Relation.pdf) |
-| [CampusMonk] Practice Sheet - assignment blood relaton CM.pdf | `594.2 KB` | [Open Document]([CampusMonk] Practice Sheet - assignment blood relaton CM.pdf) |
+| [CampusMonk] Blood Relation.pdf | `583.2 KB` | [Open Document]([CampusMonk] Blood Relation.pdf) |
+| [CampusMonk] Practice Sheet - assignment blood relaton CM.pdf | `618.2 KB` | [Open Document]([CampusMonk] Practice Sheet - assignment blood relaton CM.pdf) |
 
 ## 🖼️ Visual Formula & Diagram Assets
 - Contains `29` high-resolution diagrams in [`images/`](images/) supporting questions & solutions.

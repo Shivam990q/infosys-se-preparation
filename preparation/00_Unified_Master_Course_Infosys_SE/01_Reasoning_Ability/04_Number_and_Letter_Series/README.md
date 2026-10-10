@@ -13,7 +13,7 @@
 ## 📄 Theory, DPPs & Practice Sheets (PDF)
 | Document Name | File Size | Direct Link |
 | :--- | :---: | :---: |
-| [CampusMonk] Number Series -Live Sheet.pdf | `174.4 KB` | [Open Document]([CampusMonk] Number Series -Live Sheet.pdf) |
+| [CampusMonk] Number Series -Live Sheet.pdf | `159.0 KB` | [Open Document]([CampusMonk] Number Series -Live Sheet.pdf) |
 
 ## 🖼️ Visual Formula & Diagram Assets
 - Contains `20` high-resolution diagrams in [`images/`](images/) supporting questions & solutions.

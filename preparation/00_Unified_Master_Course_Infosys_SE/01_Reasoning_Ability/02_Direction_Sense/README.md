@@ -15,7 +15,7 @@
 ## 📄 Theory, DPPs & Practice Sheets (PDF)
 | Document Name | File Size | Direct Link |
 | :--- | :---: | :---: |
-| [CampusMonk] Distance and Direction.pdf | `453.5 KB` | [Open Document]([CampusMonk] Distance and Direction.pdf) |
+| [CampusMonk] Distance and Direction.pdf | `477.5 KB` | [Open Document]([CampusMonk] Distance and Direction.pdf) |
 
 ## 🖼️ Visual Formula & Diagram Assets
 - Contains `42` high-resolution diagrams in [`images/`](images/) supporting questions & solutions.
