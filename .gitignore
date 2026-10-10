@@ -18,6 +18,7 @@ $RECYCLE.BIN/
 # Build outputs and dependencies
 node_modules/
 dist/
+**/dist/
 dist-ssr/
 *.local
 *.metadata.json
