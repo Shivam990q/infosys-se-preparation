@@ -1,0 +1,1306 @@
+{
+  "test": {
+    "name": "Mirror Image",
+    "testTotalDuration": 1500000,
+    "settings": {
+      "fonts": {
+        "fonts": [
+          {
+            "face": "Calibri",
+            "supported": true
+          },
+          {
+            "face": "serif",
+            "supported": true
+          },
+          {
+            "face": "Cambria",
+            "supported": true
+          }
+        ],
+        "include": "https://cms-gcp.classplusapp.com/parser/v3/css/combined?face=Calibri,serif,Cambria"
+      },
+      "isSectionSwitchingEnabled": true
+    },
+    "practiceTestUrls": [],
+    "testFormat": "DEFAULT"
+  },
+  "filters": {
+    "incorrect": 0,
+    "correct": 0,
+    "partiallyMarked": 0,
+    "unattempted": 1,
+    "markForReview": 0,
+    "graceMarked": 0,
+    "revaluated": 0
+  },
+  "timeTaken": 0,
+  "courseId": "58216",
+  "showReportQuestion": true,
+  "sectionWiseStats": [
+    {
+      "marksScored": 0,
+      "sectionMarks": 80,
+      "accuracy": 0,
+      "_id": "6aca7a34ce48779abe700397",
+      "totalQuestions": 20,
+      "attemptDuration": 0,
+      "correctAnswers": 0,
+      "inCorrectAnswers": 0,
+      "partiallyCorrectAnswers": 0,
+      "unAttempted": 20,
+      "name": "Mirror Image",
+      "order": 1,
+      "sectionDuration": 0,
+      "sectionId": "67c2c0efa7d38f1c1d9093f7"
+    }
+  ],
+  "sections": [
+    {
+      "sectionDuration": 0,
+      "sectionMarks": 80,
+      "isActive": true,
+      "draftMode": false,
+      "sectionInstructions": " ",
+      "_id": "67c2c0efa7d38f1c1d9093f7",
+      "hasOptionalQuestions": false,
+      "name": "Mirror Image",
+      "order": 1,
+      "createdAt": "2025-03-01T13:05:52.066Z",
+      "updatedAt": "2025-03-01T13:05:52.066Z",
+      "questions": [
+        {
+          "_id": "67c2c102a8ca99cfab253cee",
+          "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"images/img_95f90974151c.png\" name=\"Picture 22\" align=\"bottom\" width=\"423\" height=\"113\" border=\"0\">\n</img></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n \n\n ",
+          "sectionId": "67c2c0efa7d38f1c1d9093f7",
+          "order": 1,
+          "questionSubmitOrder": 1,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">1</span></span></span></span></p>\n ",
+              "nameText": "\n 1\n ",
+              "isCorrect": false,
+              "_id": "67c2c178c5cb216883b7d174",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">2</span></span></span></span></p>\n ",
+              "nameText": "\n 2\n ",
+              "isCorrect": false,
+              "_id": "67c2c178c5cb21c8ebb7d175",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">3</span></span></span></span></p>\n ",
+              "nameText": "\n 3\n ",
+              "isCorrect": false,
+              "_id": "67c2c178c5cb2175d1b7d176",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">4</span></span></span></span></p>\n ",
+              "nameText": "\n 4\n ",
+              "isCorrect": true,
+              "_id": "67c2c178c5cb21445db7d177",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p align=\"justify\" style=\"text-decoration: none\">\n <br>\n\n </p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a338e52ee04509d9d6e",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "67c2c102a8ca997834253c94",
+          "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"images/img_66e90e59ac84.png\" name=\"Picture 1\" align=\"bottom\" width=\"342\" height=\"82\" border=\"0\">\n</img></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n \n\n ",
+          "sectionId": "67c2c0efa7d38f1c1d9093f7",
+          "order": 2,
+          "questionSubmitOrder": 2,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">1</span></span></span></span></p>\n ",
+              "nameText": "\n 1\n ",
+              "isCorrect": false,
+              "_id": "67c2c178c5cb2113aab7d138",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">2</span></span></span></span></p>\n ",
+              "nameText": "\n 2\n ",
+              "isCorrect": true,
+              "_id": "67c2c178c5cb216507b7d139",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">3</span></span></span></span></p>\n ",
+              "nameText": "\n 3\n ",
+              "isCorrect": false,
+              "_id": "67c2c178c5cb210a87b7d13a",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">4</span></span></span></span></p>\n ",
+              "nameText": "\n 4\n ",
+              "isCorrect": false,
+              "_id": "67c2c178c5cb212f12b7d13b",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p align=\"justify\" style=\"text-decoration: none\">\n <br>\n\n </p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a338e52ee7a679d9d6f",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "67c2c102a8ca991801253ca3",
+          "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"images/img_9dd60e8bd166.png\" name=\"Picture 4\" align=\"bottom\" width=\"262\" height=\"168\" border=\"0\">\n</img></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n \n\n ",
+          "sectionId": "67c2c0efa7d38f1c1d9093f7",
+          "order": 3,
+          "questionSubmitOrder": 3,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">1</span></span></span></span></p>\n ",
+              "nameText": "\n 1\n ",
+              "isCorrect": true,
+              "_id": "67c2c178c5cb2199eeb7d168",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">2</span></span></span></span></p>\n ",
+              "nameText": "\n 2\n ",
+              "isCorrect": false,
+              "_id": "67c2c178c5cb2132b6b7d169",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">3</span></span></span></span></p>\n ",
+              "nameText": "\n 3\n ",
+              "isCorrect": false,
+              "_id": "67c2c178c5cb216627b7d16a",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">4</span></span></span></span></p>\n ",
+              "nameText": "\n 4\n ",
+              "isCorrect": false,
+              "_id": "67c2c178c5cb211611b7d16b",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p align=\"justify\" style=\"text-decoration: none\">\n <br>\n\n </p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a338e52ee50b09d9d70",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "67c2c102a8ca99d45e253cb7",
+          "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"images/img_7ac662ddd162.png\" name=\"Picture 14\" align=\"bottom\" width=\"225\" height=\"161\" border=\"0\">\n</img></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n \n\n ",
+          "sectionId": "67c2c0efa7d38f1c1d9093f7",
+          "order": 4,
+          "questionSubmitOrder": 4,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">1</span></span></span></span></p>\n ",
+              "nameText": "\n 1\n ",
+              "isCorrect": false,
+              "_id": "67c2c178c5cb212c27b7d15c",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">2</span></span></span></span></p>\n ",
+              "nameText": "\n 2\n ",
+              "isCorrect": true,
+              "_id": "67c2c178c5cb216dc5b7d15d",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">3</span></span></span></span></p>\n ",
+              "nameText": "\n 3\n ",
+              "isCorrect": false,
+              "_id": "67c2c178c5cb212487b7d15e",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">4</span></span></span></span></p>\n ",
+              "nameText": "\n 4\n ",
+              "isCorrect": false,
+              "_id": "67c2c178c5cb211f03b7d15f",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p align=\"justify\" style=\"text-decoration: none\">\n <br>\n\n </p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a338e52eedf2b9d9d71",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "67c2c102a8ca997309253cad",
+          "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"images/img_faa6eb91fe8c.png\" name=\"Picture 7\" align=\"bottom\" width=\"255\" height=\"116\" border=\"0\">\n</img></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n \n\n ",
+          "sectionId": "67c2c0efa7d38f1c1d9093f7",
+          "order": 5,
+          "questionSubmitOrder": 5,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">A</span></span></span></span></p>\n ",
+              "nameText": "\n A\n ",
+              "isCorrect": false,
+              "_id": "67c2c178c5cb2116d1b7d13c",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">B</span></span></span></span></p>\n ",
+              "nameText": "\n B\n ",
+              "isCorrect": false,
+              "_id": "67c2c178c5cb215249b7d13d",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">C</span></span></span></span></p>\n ",
+              "nameText": "\n C\n ",
+              "isCorrect": true,
+              "_id": "67c2c178c5cb212307b7d13e",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">D</span></span></span></span></p>\n ",
+              "nameText": "\n D\n ",
+              "isCorrect": false,
+              "_id": "67c2c178c5cb216cb1b7d13f",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p align=\"justify\" style=\"text-decoration: none\">\n <br>\n\n </p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a338e52ee2d969d9d72",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "67c2c102a8ca99190f253cf3",
+          "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"images/img_bef1d2ad42c5.png\" name=\"Picture 18\" align=\"bottom\" width=\"284\" height=\"81\" border=\"0\">\n</img></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n \n\n ",
+          "sectionId": "67c2c0efa7d38f1c1d9093f7",
+          "order": 6,
+          "questionSubmitOrder": 6,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">1</span></span></span></span></p>\n ",
+              "nameText": "\n 1\n ",
+              "isCorrect": false,
+              "_id": "67c2c178c5cb2166ebb7d154",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">2</span></span></span></span></p>\n ",
+              "nameText": "\n 2\n ",
+              "isCorrect": true,
+              "_id": "67c2c178c5cb21716bb7d155",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">3</span></span></span></span></p>\n ",
+              "nameText": "\n 3\n ",
+              "isCorrect": false,
+              "_id": "67c2c178c5cb2119a3b7d156",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">4</span></span></span></span></p>\n ",
+              "nameText": "\n 4\n ",
+              "isCorrect": false,
+              "_id": "67c2c178c5cb216c6eb7d157",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p align=\"justify\" style=\"text-decoration: none\">\n <br>\n\n </p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a338e52ee91ab9d9d73",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "67c2c102a8ca993f17253c9e",
+          "name": "<p align=\"justify\" style=\"text-decoration: none;\"><span style=\"color: #000000;\"><img src=\"images/img_ee6a72ce9361.gif\" width=\"401\" height=\"115\" align=\"bottom\" /></span></p>",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "",
+          "sectionId": "67c2c0efa7d38f1c1d9093f7",
+          "order": 7,
+          "questionSubmitOrder": 7,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">a</span></span></span></span></p>\n ",
+              "nameText": "\n a\n ",
+              "isCorrect": false,
+              "_id": "67c2c178c5cb211f67b7d148",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">b</span></span></span></span></p>\n ",
+              "nameText": "\n b\n ",
+              "isCorrect": true,
+              "_id": "67c2c178c5cb215e8cb7d149",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">c</span></span></span></span></p>\n ",
+              "nameText": "\n c\n ",
+              "isCorrect": false,
+              "_id": "67c2c178c5cb217ffcb7d14a",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">d</span></span></span></span></p>\n ",
+              "nameText": "\n d\n ",
+              "isCorrect": false,
+              "_id": "67c2c178c5cb215c62b7d14b",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p align=\"justify\" style=\"text-decoration: none\">\n <br>\n\n </p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a338e52ee07fc9d9d74",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "67c2c102a8ca991dac253c99",
+          "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"images/img_97f3eb262f6c.png\" name=\"Picture 2\" align=\"bottom\" width=\"257\" height=\"153\" border=\"0\">\n</img></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n \n\n ",
+          "sectionId": "67c2c0efa7d38f1c1d9093f7",
+          "order": 8,
+          "questionSubmitOrder": 8,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">1</span></span></span></span></p>\n ",
+              "nameText": "\n 1\n ",
+              "isCorrect": false,
+              "_id": "67c2c178c5cb216c4fb7d158",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">2</span></span></span></span></p>\n ",
+              "nameText": "\n 2\n ",
+              "isCorrect": false,
+              "_id": "67c2c178c5cb21a286b7d159",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">3</span></span></span></span></p>\n ",
+              "nameText": "\n 3\n ",
+              "isCorrect": false,
+              "_id": "67c2c178c5cb2185c3b7d15a",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">4</span></span></span></span></p>\n ",
+              "nameText": "\n 4\n ",
+              "isCorrect": true,
+              "_id": "67c2c178c5cb21b1a1b7d15b",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p align=\"justify\" style=\"text-decoration: none\">\n <br>\n\n </p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a338e52ee86d59d9d75",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "67c2c102a8ca99a9a6253cb2",
+          "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"images/img_2eee58476ac1.png\" name=\"Picture 9\" align=\"bottom\" width=\"173\" height=\"141\" border=\"0\">\n</img></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n \n\n ",
+          "sectionId": "67c2c0efa7d38f1c1d9093f7",
+          "order": 9,
+          "questionSubmitOrder": 9,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"images/img_95918c1c36b2.png\" name=\"Picture 11\" align=\"bottom\" width=\"105\" height=\"93\" border=\"0\">\n</img></span></p>\n ",
+              "nameText": "\n \n\n ",
+              "isCorrect": false,
+              "_id": "67c2c178c5cb21011ab7d12c",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"images/img_d5c9e474ddfe.png\" name=\"Picture 10\" align=\"bottom\" width=\"105\" height=\"93\" border=\"0\">\n</img></span></p>\n ",
+              "nameText": "\n \n\n ",
+              "isCorrect": true,
+              "_id": "67c2c178c5cb21203cb7d12d",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"images/img_a61e6dc9ea6b.png\" name=\"Picture 12\" align=\"bottom\" width=\"109\" height=\"95\" border=\"0\">\n</img></span></p>\n ",
+              "nameText": "\n \n\n ",
+              "isCorrect": false,
+              "_id": "67c2c178c5cb2174feb7d12e",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"images/img_fbd773612bbb.png\" name=\"Picture 13\" align=\"bottom\" width=\"109\" height=\"92\" border=\"0\">\n</img></span></p>\n ",
+              "nameText": "\n \n\n ",
+              "isCorrect": false,
+              "_id": "67c2c178c5cb21e72db7d12f",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p align=\"justify\" style=\"text-decoration: none\">\n <br>\n\n </p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a338e52ee52989d9d76",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "67c2c102a8ca9982b2253ccb",
+          "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"images/img_36a86fa3944e.png\" name=\"Picture 20\" align=\"bottom\" width=\"210\" height=\"165\" border=\"0\">\n</img></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n \n\n ",
+          "sectionId": "67c2c0efa7d38f1c1d9093f7",
+          "order": 10,
+          "questionSubmitOrder": 10,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">A</span></span></span></span></p>\n ",
+              "nameText": "\n A\n ",
+              "isCorrect": true,
+              "_id": "67c2c178c5cb21818bb7d130",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">B</span></span></span></span></p>\n ",
+              "nameText": "\n B\n ",
+              "isCorrect": false,
+              "_id": "67c2c178c5cb21403db7d131",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">C</span></span></span></span></p>\n ",
+              "nameText": "\n C\n ",
+              "isCorrect": false,
+              "_id": "67c2c178c5cb2184b5b7d132",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">D</span></span></span></span></p>\n ",
+              "nameText": "\n D\n ",
+              "isCorrect": false,
+              "_id": "67c2c178c5cb2154a7b7d133",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p align=\"justify\" style=\"text-decoration: none\">\n <br>\n\n </p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a338e52ee27d99d9d77",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "67c2c102a8ca990899253cbc",
+          "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"images/img_477bc1bf97f3.png\" name=\"Picture 15\" align=\"bottom\" width=\"344\" height=\"113\" border=\"0\">\n</img></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n \n\n ",
+          "sectionId": "67c2c0efa7d38f1c1d9093f7",
+          "order": 11,
+          "questionSubmitOrder": 11,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">1</span></span></span></span></p>\n ",
+              "nameText": "\n 1\n ",
+              "isCorrect": false,
+              "_id": "67c2c178c5cb21ed87b7d16c",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">2</span></span></span></span></p>\n ",
+              "nameText": "\n 2\n ",
+              "isCorrect": false,
+              "_id": "67c2c178c5cb218bbcb7d16d",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">3</span></span></span></span></p>\n ",
+              "nameText": "\n 3\n ",
+              "isCorrect": false,
+              "_id": "67c2c178c5cb21bf0fb7d16e",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">4</span></span></span></span></p>\n ",
+              "nameText": "\n 4\n ",
+              "isCorrect": true,
+              "_id": "67c2c178c5cb217cc2b7d16f",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p align=\"justify\" style=\"text-decoration: none\">\n <br>\n\n </p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a338e52ee4b8f9d9d78",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "67c2c102a8ca994ca8253cd5",
+          "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"images/img_3739be51d739.png\" name=\"Picture 24\" align=\"bottom\" width=\"117\" height=\"123\" border=\"0\">\n</img></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n \n\n ",
+          "sectionId": "67c2c0efa7d38f1c1d9093f7",
+          "order": 12,
+          "questionSubmitOrder": 12,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"images/img_67138b7edcaf.png\" name=\"Picture 26\" align=\"bottom\" width=\"97\" height=\"98\" border=\"0\">\n</img></span></p>\n ",
+              "nameText": "\n \n\n ",
+              "isCorrect": false,
+              "_id": "67c2c178c5cb2110a2b7d170",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"images/img_f866e8fde8c8.png\" name=\"Picture 25\" align=\"bottom\" width=\"105\" height=\"93\" border=\"0\">\n</img></span></p>\n ",
+              "nameText": "\n \n\n ",
+              "isCorrect": true,
+              "_id": "67c2c178c5cb2106d1b7d171",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"images/img_607a274bb018.png\" name=\"Picture 27\" align=\"bottom\" width=\"102\" height=\"98\" border=\"0\">\n</img></span></p>\n ",
+              "nameText": "\n \n\n ",
+              "isCorrect": false,
+              "_id": "67c2c178c5cb217f10b7d172",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"images/img_bf9e94667c60.png\" name=\"Picture 28\" align=\"bottom\" width=\"103\" height=\"101\" border=\"0\">\n</img></span></p>\n ",
+              "nameText": "\n \n\n ",
+              "isCorrect": false,
+              "_id": "67c2c178c5cb2170f0b7d173",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p align=\"justify\" style=\"text-decoration: none\">\n <br>\n\n </p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a338e52ee20d59d9d79",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "67c2c102a8ca99c2ae253cd0",
+          "name": "<p align=\"justify\" style=\"text-decoration: none;\"><span style=\"color: #000000;\"><img src=\"images/img_d905b7e519ed.gif\" width=\"349\" height=\"109\" align=\"bottom\" /></span></p>",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "",
+          "sectionId": "67c2c0efa7d38f1c1d9093f7",
+          "order": 13,
+          "questionSubmitOrder": 13,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">b</span></span></span></span></p>\n ",
+              "nameText": "\n b\n ",
+              "isCorrect": false,
+              "_id": "67c2c178c5cb216eaab7d160",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">c</span></span></span></span></p>\n ",
+              "nameText": "\n c\n ",
+              "isCorrect": false,
+              "_id": "67c2c178c5cb212057b7d161",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">d</span></span></span></span></p>\n ",
+              "nameText": "\n d\n ",
+              "isCorrect": true,
+              "_id": "67c2c178c5cb21bf45b7d162",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">a</span></span></span></span></p>\n ",
+              "nameText": "\n a\n ",
+              "isCorrect": false,
+              "_id": "67c2c178c5cb2198b4b7d163",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p align=\"justify\" style=\"text-decoration: none\">\n <br>\n\n </p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a338e52eefe779d9d7a",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "67c2c102a8ca99738e253cda",
+          "name": "<p align=\"justify\" style=\"text-decoration: none;\"><span style=\"color: #000000;\"><img src=\"images/img_3a33fc6dd7d6.gif\" width=\"358\" height=\"108\" align=\"bottom\" /></span></p>",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": " ",
+          "sectionId": "67c2c0efa7d38f1c1d9093f7",
+          "order": 14,
+          "questionSubmitOrder": 14,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">a</span></span></span></span></p>\n ",
+              "nameText": "\n a\n ",
+              "isCorrect": false,
+              "_id": "67c2c178c5cb2138dcb7d150",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">b</span></span></span></span></p>\n ",
+              "nameText": "\n b\n ",
+              "isCorrect": true,
+              "_id": "67c2c178c5cb218183b7d151",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">c</span></span></span></span></p>\n ",
+              "nameText": "\n c\n ",
+              "isCorrect": false,
+              "_id": "67c2c178c5cb218225b7d152",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">d</span></span></span></span></p>\n ",
+              "nameText": "\n d\n ",
+              "isCorrect": false,
+              "_id": "67c2c178c5cb2156cbb7d153",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p align=\"justify\" style=\"text-decoration: none\">\n <br>\n\n </p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a338e52ee33b69d9d7b",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "67c2c102a8ca995b7c253cc6",
+          "name": "<p align=\"justify\" style=\"text-decoration: none;\"><span style=\"color: #000000;\"><img src=\"images/img_78c9de1bb664.gif\" width=\"373\" height=\"112\" align=\"bottom\" /></span></p>",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "",
+          "sectionId": "67c2c0efa7d38f1c1d9093f7",
+          "order": 15,
+          "questionSubmitOrder": 15,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">a</span></span></span></span></p>\n ",
+              "nameText": "\n a\n ",
+              "isCorrect": false,
+              "_id": "67c2c178c5cb212aa8b7d140",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">b</span></span></span></span></p>\n ",
+              "nameText": "\n b\n ",
+              "isCorrect": false,
+              "_id": "67c2c178c5cb21caafb7d141",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">c</span></span></span></span></p>\n ",
+              "nameText": "\n c\n ",
+              "isCorrect": false,
+              "_id": "67c2c178c5cb21405eb7d142",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">d</span></span></span></span></p>\n ",
+              "nameText": "\n d\n ",
+              "isCorrect": true,
+              "_id": "67c2c178c5cb215cb3b7d143",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p align=\"justify\" style=\"text-decoration: none\">\n <br>\n\n </p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a338e52eea3519d9d7c",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "67c2c102a8ca99024e253ce4",
+          "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"images/img_daf876dbf787.png\" name=\"Picture 30\" align=\"bottom\" width=\"424\" height=\"115\" border=\"0\">\n</img></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n \n\n ",
+          "sectionId": "67c2c0efa7d38f1c1d9093f7",
+          "order": 16,
+          "questionSubmitOrder": 16,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">1</span></span></span></span></p>\n ",
+              "nameText": "\n 1\n ",
+              "isCorrect": true,
+              "_id": "67c2c178c5cb21e042b7d134",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">2</span></span></span></span></p>\n ",
+              "nameText": "\n 2\n ",
+              "isCorrect": false,
+              "_id": "67c2c178c5cb218001b7d135",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">3</span></span></span></span></p>\n ",
+              "nameText": "\n 3\n ",
+              "isCorrect": false,
+              "_id": "67c2c178c5cb21eb9ab7d136",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">4</span></span></span></span></p>\n ",
+              "nameText": "\n 4\n ",
+              "isCorrect": false,
+              "_id": "67c2c178c5cb2174f5b7d137",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p align=\"justify\" style=\"text-decoration: none\">\n <br>\n\n </p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a338e52ee9d499d9d7d",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "67c2c102a8ca990113253cdf",
+          "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"images/img_da3b7ef5c765.png\" name=\"Picture 29\" align=\"bottom\" width=\"405\" height=\"111\" border=\"0\">\n</img></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n \n\n ",
+          "sectionId": "67c2c0efa7d38f1c1d9093f7",
+          "order": 17,
+          "questionSubmitOrder": 17,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">1</span></span></span></span></p>\n ",
+              "nameText": "\n 1\n ",
+              "isCorrect": false,
+              "_id": "67c2c178c5cb214209b7d144",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">2</span></span></span></span></p>\n ",
+              "nameText": "\n 2\n ",
+              "isCorrect": true,
+              "_id": "67c2c178c5cb21619eb7d145",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">3</span></span></span></span></p>\n ",
+              "nameText": "\n 3\n ",
+              "isCorrect": false,
+              "_id": "67c2c178c5cb21dd69b7d146",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">4</span></span></span></span></p>\n ",
+              "nameText": "\n 4\n ",
+              "isCorrect": false,
+              "_id": "67c2c178c5cb21f15fb7d147",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p align=\"justify\" style=\"text-decoration: none\">\n <br>\n\n </p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a338e52ee24749d9d7e",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "67c2c102a8ca9958ad253ca8",
+          "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"images/img_263c9b963669.png\" name=\"Picture 6\" align=\"bottom\" width=\"345\" height=\"80\" border=\"0\">\n</img></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n \n\n ",
+          "sectionId": "67c2c0efa7d38f1c1d9093f7",
+          "order": 18,
+          "questionSubmitOrder": 18,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">1</span></span></span></span></p>\n ",
+              "nameText": "\n 1\n ",
+              "isCorrect": false,
+              "_id": "67c2c178c5cb21aa90b7d128",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">2</span></span></span></span></p>\n ",
+              "nameText": "\n 2\n ",
+              "isCorrect": false,
+              "_id": "67c2c178c5cb21deadb7d129",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">3</span></span></span></span></p>\n ",
+              "nameText": "\n 3\n ",
+              "isCorrect": false,
+              "_id": "67c2c178c5cb216026b7d12a",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">4</span></span></span></span></p>\n ",
+              "nameText": "\n 4\n ",
+              "isCorrect": true,
+              "_id": "67c2c178c5cb219be1b7d12b",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p align=\"justify\" style=\"text-decoration: none\">\n <br>\n\n </p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a338e52ee6fea9d9d7f",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "67c2c102a8ca996e87253cc1",
+          "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"images/img_aedd5dcac0c3.png\" name=\"Picture 16\" align=\"bottom\" width=\"340\" height=\"90\" border=\"0\">\n</img></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n \n\n ",
+          "sectionId": "67c2c0efa7d38f1c1d9093f7",
+          "order": 19,
+          "questionSubmitOrder": 19,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">1</span></span></span></span></p>\n ",
+              "nameText": "\n 1\n ",
+              "isCorrect": true,
+              "_id": "67c2c178c5cb213f96b7d14c",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">2</span></span></span></span></p>\n ",
+              "nameText": "\n 2\n ",
+              "isCorrect": false,
+              "_id": "67c2c178c5cb2125bdb7d14d",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">3</span></span></span></span></p>\n ",
+              "nameText": "\n 3\n ",
+              "isCorrect": false,
+              "_id": "67c2c178c5cb217953b7d14e",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">4</span></span></span></span></p>\n ",
+              "nameText": "\n 4\n ",
+              "isCorrect": false,
+              "_id": "67c2c178c5cb215a2cb7d14f",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p align=\"justify\" style=\"text-decoration: none\">\n <br>\n\n </p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a338e52ee3e329d9d80",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "67c2c102a8ca99076c253ce9",
+          "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"images/img_012d3b43d9fe.png\" name=\"Picture 31\" align=\"bottom\" width=\"411\" height=\"109\" border=\"0\">\n</img></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n \n\n ",
+          "sectionId": "67c2c0efa7d38f1c1d9093f7",
+          "order": 20,
+          "questionSubmitOrder": 20,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">1</span></span></span></span></p>\n ",
+              "nameText": "\n 1\n ",
+              "isCorrect": false,
+              "_id": "67c2c178c5cb21e884b7d164",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">2</span></span></span></span></p>\n ",
+              "nameText": "\n 2\n ",
+              "isCorrect": false,
+              "_id": "67c2c178c5cb210f5cb7d165",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">3</span></span></span></span></p>\n ",
+              "nameText": "\n 3\n ",
+              "isCorrect": false,
+              "_id": "67c2c178c5cb218791b7d166",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">4</span></span></span></span></p>\n ",
+              "nameText": "\n 4\n ",
+              "isCorrect": true,
+              "_id": "67c2c178c5cb21ae6bb7d167",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p align=\"justify\" style=\"text-decoration: none\">\n <br>\n\n </p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a338e52eec7f39d9d81",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        }
+      ],
+      "numberOfQuestions": 20
+    }
+  ],
+  "userDetails": {
+    "name": "Shivam Gupta",
+    "userId": 193594164,
+    "orgId": 78392
+  },
+  "sts": 1791654452431,
+  "region": {
+    "timeFormat": "hh:mm a",
+    "dateTimeStamp": "yyyy/MM/dd"
+  }
+}

@@ -1,0 +1,1306 @@
+{
+  "test": {
+    "name": "Coding Decoding",
+    "testTotalDuration": 1500000,
+    "settings": {
+      "fonts": {
+        "fonts": [
+          {
+            "face": "Calibri",
+            "supported": true
+          },
+          {
+            "face": "serif",
+            "supported": true
+          },
+          {
+            "face": "Cambria",
+            "supported": true
+          }
+        ],
+        "include": "https://cms-gcp.classplusapp.com/parser/v3/css/combined?face=Calibri,serif,Cambria"
+      },
+      "isSectionSwitchingEnabled": true
+    },
+    "practiceTestUrls": [],
+    "testFormat": "DEFAULT"
+  },
+  "filters": {
+    "incorrect": 0,
+    "correct": 0,
+    "partiallyMarked": 0,
+    "unattempted": 1,
+    "markForReview": 0,
+    "graceMarked": 0,
+    "revaluated": 0
+  },
+  "timeTaken": 0,
+  "courseId": "58216",
+  "showReportQuestion": true,
+  "sectionWiseStats": [
+    {
+      "marksScored": 0,
+      "sectionMarks": 80,
+      "accuracy": 0,
+      "_id": "6aca7a06640b52bdbdfb9a85",
+      "totalQuestions": 20,
+      "attemptDuration": 0,
+      "correctAnswers": 0,
+      "inCorrectAnswers": 0,
+      "partiallyCorrectAnswers": 0,
+      "unAttempted": 20,
+      "name": "Coging Decoding",
+      "order": 1,
+      "sectionDuration": 0,
+      "sectionId": "67ac6abd768a2f3b0fab21f3"
+    }
+  ],
+  "sections": [
+    {
+      "sectionDuration": 0,
+      "sectionMarks": 80,
+      "isActive": true,
+      "draftMode": false,
+      "sectionInstructions": " ",
+      "_id": "67ac6abd768a2f3b0fab21f3",
+      "hasOptionalQuestions": false,
+      "name": "Coging Decoding",
+      "order": 1,
+      "createdAt": "2025-02-12T14:49:37.339Z",
+      "updatedAt": "2025-02-12T14:49:37.339Z",
+      "questions": [
+        {
+          "_id": "67ac6ada2dfe37272afe36fd",
+          "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">In\n a certain code language, 'OM' is coded as 56 and 'GOT' is coded as\n 126. How will 'CARD' be coded in that language?</span></span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n In\n a certain code language, 'OM' is coded as 56 and 'GOT' is coded as\n 126. How will 'CARD' be coded in that language?\n ",
+          "sectionId": "67ac6abd768a2f3b0fab21f3",
+          "order": 1,
+          "questionSubmitOrder": 1,
+          "options": [
+            {
+              "name": "<p style=\"text-decoration: none;\"><span style=\"color: #000000;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-family: Cambria,serif;\"><span style=\"font-size: 19px;\">104</span></span></span></span></p>",
+              "nameText": "104",
+              "isCorrect": false,
+              "_id": "67ac6b283092c97c18d3ad54",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none;\"><span style=\"color: #000000;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-family: Cambria,serif;\"><span style=\"font-size: 19px;\">144</span></span></span></span></p>",
+              "nameText": "144",
+              "isCorrect": true,
+              "_id": "67ac6b283092c976a6d3ad55",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none;\"><span style=\"color: #000000;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-family: Cambria,serif;\"><span style=\"font-size: 19px;\">140</span></span></span></span></p>",
+              "nameText": "140",
+              "isCorrect": false,
+              "_id": "67ac6b283092c91235d3ad56",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none;\"><span style=\"color: #000000;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-family: Cambria,serif;\"><span style=\"font-size: 19px;\">142</span></span></span></span></p>",
+              "nameText": "142",
+              "isCorrect": false,
+              "_id": "67ac6b283092c91d47d3ad57",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p style=\"text-decoration: none;\"><span style=\"color: #000000;\">OM = (15+13)*2 = 56</span></p>\n<p style=\"text-decoration: none;\"><span style=\"color: #000000;\">GOT = (7+15+20)*3 = 126</span></p>\n<p style=\"text-decoration: none;\"><span style=\"color: #000000;\">CARD = (3+1+18+14) * 4 = 144</span></p>",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a06b426bbaed9ee744e",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "67ac6ada2dfe376cbcfe36ee",
+          "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n \"JUNGLE\" is coded as \"KVOIMF\", how is \"FOREST\"\n coded?</span></span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n If\n \"JUNGLE\" is coded as \"KVOIMF\", how is \"FOREST\"\n coded?\n ",
+          "sectionId": "67ac6abd768a2f3b0fab21f3",
+          "order": 2,
+          "questionSubmitOrder": 2,
+          "options": [
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">GPQTFV</span></span></span></span></p>\n ",
+              "nameText": "\n GPQTFV\n ",
+              "isCorrect": false,
+              "_id": "67ac6b283092c949ded3ad34",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">GPQTFW</span></span></span></span></p>\n ",
+              "nameText": "\n GPQTFW\n ",
+              "isCorrect": false,
+              "_id": "67ac6b283092c95b32d3ad35",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">GPQTFX</span></span></span></span></p>\n ",
+              "nameText": "\n GPQTFX\n ",
+              "isCorrect": false,
+              "_id": "67ac6b283092c92463d3ad36",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">GPQTFU</span></span></span></span></p>\n ",
+              "nameText": "\n GPQTFU\n ",
+              "isCorrect": true,
+              "_id": "67ac6b283092c90829d3ad37",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Each\n letter is shifted forward by 1 position: </span></span></span></span>\n </p>\n <p style=\"margin-bottom: 0px; text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">J→K,\n U→V, N→O, G→H, L→M, E→F. </span></span></span></span>\n </p>\n <p style=\"margin-bottom: 0px; text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Similarly,\n </span></span></span></span>\n </p>\n <p style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">FOREST\n → F→G, O→P, R→S, E→F, S→T, T→U\n → GPQTFU.</span></span></span></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a06b426bbf440ee744f",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "67ac6ada2dfe37e9dbfe36c6",
+          "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n ‘MOUSE’ is coded as ‘KPSTC’, what is the\n code for ‘LIGHT’?</span></span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n If\n ‘MOUSE’ is coded as ‘KPSTC’, what is the\n code for ‘LIGHT’?\n ",
+          "sectionId": "67ac6abd768a2f3b0fab21f3",
+          "order": 3,
+          "questionSubmitOrder": 3,
+          "options": [
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">JJERI</span></span></span></span></p>\n ",
+              "nameText": "\n JJERI\n ",
+              "isCorrect": false,
+              "_id": "67ac6b283092c931d9d3ad3c",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">JEJRI</span></span></span></span></p>\n ",
+              "nameText": "\n JEJRI\n ",
+              "isCorrect": false,
+              "_id": "67ac6b283092c9b003d3ad3d",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">JJREI</span></span></span></span></p>\n ",
+              "nameText": "\n JJREI\n ",
+              "isCorrect": false,
+              "_id": "67ac6b283092c98a84d3ad3e",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">JJEIR</span></span></span></span></p>\n ",
+              "nameText": "\n JJEIR\n ",
+              "isCorrect": true,
+              "_id": "67ac6b283092c958b2d3ad3f",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"images/img_5ace0a854401.jpg\" name=\"Picture 6\" align=\"bottom\" width=\"556\" height=\"153\" border=\"0\">\n</img></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a06b426bbf47bee7450",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "67ac6ada2dfe3724b9fe36b7",
+          "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n \"ENERGY\" is coded as \"257185145\", how is\n \"HOCKEY\" coded?</span></span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n If\n \"ENERGY\" is coded as \"257185145\", how is\n \"HOCKEY\" coded?\n ",
+          "sectionId": "67ac6abd768a2f3b0fab21f3",
+          "order": 4,
+          "questionSubmitOrder": 4,
+          "options": [
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">255113158</span></span></span></span></p>\n ",
+              "nameText": "\n 255113158\n ",
+              "isCorrect": true,
+              "_id": "67ac6b283092c9eeb6d3ad58",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">815311525</span></span></span></span></p>\n ",
+              "nameText": "\n 815311525\n ",
+              "isCorrect": false,
+              "_id": "67ac6b283092c94e4fd3ad59",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">255311158</span></span></span></span></p>\n ",
+              "nameText": "\n 255311158\n ",
+              "isCorrect": false,
+              "_id": "67ac6b283092c97efbd3ad5a",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">253115815</span></span></span></span></p>\n ",
+              "nameText": "\n 253115815\n ",
+              "isCorrect": false,
+              "_id": "67ac6b283092c9f69cd3ad5b",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"images/img_09ff4a4050ed.jpg\" name=\"Picture 4\" align=\"bottom\" width=\"556\" height=\"117\" border=\"0\">\n</img></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a06b426bbc9b7ee7451",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "67ac6ada2dfe37291dfe36bc",
+          "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n ‘PENCIL’ is coded as ‘TIRGOK’, what is the\n code for ‘ERASER’?</span></span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n If\n ‘PENCIL’ is coded as ‘TIRGOK’, what is the\n code for ‘ERASER’?\n ",
+          "sectionId": "67ac6abd768a2f3b0fab21f3",
+          "order": 5,
+          "questionSubmitOrder": 5,
+          "options": [
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">IVWXIW</span></span></span></span></p>\n ",
+              "nameText": "\n IVWXIW\n ",
+              "isCorrect": false,
+              "_id": "67ac6b283092c948e4d3ad2c",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">IVFXIW</span></span></span></span></p>\n ",
+              "nameText": "\n IVFXIW\n ",
+              "isCorrect": false,
+              "_id": "67ac6b283092c98dc1d3ad2d",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">IVEWIV</span></span></span></span></p>\n ",
+              "nameText": "\n IVEWIV\n ",
+              "isCorrect": true,
+              "_id": "67ac6b283092c977eed3ad2e",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">IVEXIV</span></span></span></span></p>\n ",
+              "nameText": "\n IVEXIV\n ",
+              "isCorrect": false,
+              "_id": "67ac6b283092c9729fd3ad2f",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Each\n letter is shifted forward by 4 places.</span></span></span></span></p>\n <p style=\"margin-bottom: 0px; text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">P\n → T, E → I, N → R, C → G, I → O, L →\n K</span></span></span></span></p>\n <p style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Similarly,\n E → I, R → V, A → E, S → W, E → I, R →V</span></span></span></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a06b426bb7e11ee7452",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "67ac6ada2dfe37078efe3702",
+          "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n A = 1, B = 4, C = 9, D = 16, then what is E?</span></span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n If\n A = 1, B = 4, C = 9, D = 16, then what is E?\n ",
+          "sectionId": "67ac6abd768a2f3b0fab21f3",
+          "order": 6,
+          "questionSubmitOrder": 6,
+          "options": [
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">27</span></span></span></span></p>\n ",
+              "nameText": "\n 27\n ",
+              "isCorrect": false,
+              "_id": "67ac6b283092c9db8ed3ad70",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">23</span></span></span></span></p>\n ",
+              "nameText": "\n 23\n ",
+              "isCorrect": false,
+              "_id": "67ac6b283092c9c777d3ad71",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">25</span></span></span></span></p>\n ",
+              "nameText": "\n 25\n ",
+              "isCorrect": true,
+              "_id": "67ac6b283092c92470d3ad72",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">21</span></span></span></span></p>\n ",
+              "nameText": "\n 21\n ",
+              "isCorrect": false,
+              "_id": "67ac6b283092c95580d3ad73",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">The\n code follows the square of the position in the alphabet.</span></span></span></span></p>\n <p style=\"margin-bottom: 0px; text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">A\n = 1², B = 2², C = 3², D = 4²</span></span></span></span></p>\n <p style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">E\n = 5² = 25</span></span></span></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a06b426bb17e4ee7453",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "67ac6ada2dfe37627bfe36d0",
+          "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n ‘ARCHERY’ is coded as ‘DSBGZSF’, what is\n the code for ‘TERMITE’?</span></span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n If\n ‘ARCHERY’ is coded as ‘DSBGZSF’, what is\n the code for ‘TERMITE’?\n ",
+          "sectionId": "67ac6abd768a2f3b0fab21f3",
+          "order": 7,
+          "questionSubmitOrder": 7,
+          "options": [
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">SFULFJU</span></span></span></span></p>\n ",
+              "nameText": "\n SFULFJU\n ",
+              "isCorrect": false,
+              "_id": "67ac6b283092c95210d3ad68",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">SFULJUF</span></span></span></span></p>\n ",
+              "nameText": "\n SFULJUF\n ",
+              "isCorrect": false,
+              "_id": "67ac6b283092c95971d3ad69",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">SFULFUJ</span></span></span></span></p>\n ",
+              "nameText": "\n SFULFUJ\n ",
+              "isCorrect": true,
+              "_id": "67ac6b283092c92f18d3ad6a",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">SFULUJF</span></span></span></span></p>\n ",
+              "nameText": "\n SFULUJF\n ",
+              "isCorrect": false,
+              "_id": "67ac6b283092c9661ad3ad6b",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"images/img_283297720862.jpg\" name=\"Picture 8\" align=\"bottom\" width=\"556\" height=\"105\" border=\"0\">\n</img></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a06b426bb7e2dee7454",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "67ac6ada2dfe3730c0fe36e4",
+          "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">In\n a certain code language, 'LEMON' is written as 'ELMNO'. How will\n 'CLUSTER' be written in that language?</span></span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n In\n a certain code language, 'LEMON' is written as 'ELMNO'. How will\n 'CLUSTER' be written in that language?\n ",
+          "sectionId": "67ac6abd768a2f3b0fab21f3",
+          "order": 8,
+          "questionSubmitOrder": 8,
+          "options": [
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">CLESRUT</span></span></span></span></p>\n ",
+              "nameText": "\n CLESRUT\n ",
+              "isCorrect": false,
+              "_id": "67ac6b283092c9ef54d3ad50",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">CELRSTU</span></span></span></span></p>\n ",
+              "nameText": "\n CELRSTU\n ",
+              "isCorrect": true,
+              "_id": "67ac6b283092c93daed3ad51",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">LUCETRS</span></span></span></span></p>\n ",
+              "nameText": "\n LUCETRS\n ",
+              "isCorrect": false,
+              "_id": "67ac6b283092c95c66d3ad52",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">LCUTESR</span></span></span></span></p>\n ",
+              "nameText": "\n LCUTESR\n ",
+              "isCorrect": false,
+              "_id": "67ac6b283092c9d192d3ad53",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p style=\"text-decoration: none;\"><span style=\"color: #000000;\"><img src=\"images/img_29bae090921b.jpg\" width=\"556\" height=\"130\" name=\"Picture 11\" align=\"bottom\" border=\"0\" /></span></p>\n<p style=\"text-decoration: none;\"><span style=\"color: #000000;\">Ascending order.</span></p>",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a06b426bb897eee7455",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "67ac6ada2dfe377873fe36df",
+          "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">In\n a certain code language, 'SUN' is coded as 26 and 'GPL' is coded\n as 11. How will 'SKT' be coded in that language?</span></span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n In\n a certain code language, 'SUN' is coded as 26 and 'GPL' is coded\n as 11. How will 'SKT' be coded in that language?\n ",
+          "sectionId": "67ac6abd768a2f3b0fab21f3",
+          "order": 9,
+          "questionSubmitOrder": 9,
+          "options": [
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">10</span></span></span></span></p>\n ",
+              "nameText": "\n 10\n ",
+              "isCorrect": true,
+              "_id": "67ac6b283092c9a3a6d3ad40",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">15</span></span></span></span></p>\n ",
+              "nameText": "\n 15\n ",
+              "isCorrect": false,
+              "_id": "67ac6b283092c98bced3ad41",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">20</span></span></span></span></p>\n ",
+              "nameText": "\n 20\n ",
+              "isCorrect": false,
+              "_id": "67ac6b283092c9b33ed3ad42",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">25</span></span></span></span></p>\n ",
+              "nameText": "\n 25\n ",
+              "isCorrect": false,
+              "_id": "67ac6b283092c92694d3ad43",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"images/img_2972f50b78d0.jpg\" name=\"Picture 13\" align=\"bottom\" width=\"425\" height=\"158\" border=\"0\">\n</img></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a06b426bb4f12ee7456",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "67ac6ada2dfe376623fe36b2",
+          "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n \"JUNE\" is coded as \"5531\", how is \"JULY\"\n coded?</span></span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n If\n \"JUNE\" is coded as \"5531\", how is \"JULY\"\n coded?\n ",
+          "sectionId": "67ac6abd768a2f3b0fab21f3",
+          "order": 10,
+          "questionSubmitOrder": 10,
+          "options": [
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">6631</span></span></span></span></p>\n ",
+              "nameText": "\n 6631\n ",
+              "isCorrect": false,
+              "_id": "67ac6b283092c9caa7d3ad38",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">7731</span></span></span></span></p>\n ",
+              "nameText": "\n 7731\n ",
+              "isCorrect": false,
+              "_id": "67ac6b283092c912d1d3ad39",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">7332</span></span></span></span></p>\n ",
+              "nameText": "\n 7332\n ",
+              "isCorrect": false,
+              "_id": "67ac6b283092c93765d3ad3a",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">7331</span></span></span></span></p>\n ",
+              "nameText": "\n 7331\n ",
+              "isCorrect": true,
+              "_id": "67ac6b283092c9afc9d3ad3b",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"images/img_17d4d9c4e034.jpg\" name=\"Picture 3\" align=\"bottom\" width=\"556\" height=\"156\" border=\"0\">\n</img></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a06b426bb1d13ee7457",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "67ac6ada2dfe37425afe36e9",
+          "name": "<p lang=\"en-US\" class=\"western\">\n <span style=\"color: #000000\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\"><span lang=\"en-IN\"><span style=\"text-decoration: none\">If\n \"CAT\" is coded as \"91400\", how is \"DOG\"\n coded?</span></span></span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n If\n \"CAT\" is coded as \"91400\", how is \"DOG\"\n coded?\n ",
+          "sectionId": "67ac6abd768a2f3b0fab21f3",
+          "order": 11,
+          "questionSubmitOrder": 11,
+          "options": [
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">2251649</span></span></span></span></p>\n ",
+              "nameText": "\n 2251649\n ",
+              "isCorrect": false,
+              "_id": "67ac6b283092c9607fd3ad6c",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">4922516</span></span></span></span></p>\n ",
+              "nameText": "\n 4922516\n ",
+              "isCorrect": false,
+              "_id": "67ac6b283092c970b5d3ad6d",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">1622549</span></span></span></span></p>\n ",
+              "nameText": "\n 1622549\n ",
+              "isCorrect": true,
+              "_id": "67ac6b283092c98988d3ad6e",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">1649225</span></span></span></span></p>\n ",
+              "nameText": "\n 1649225\n ",
+              "isCorrect": false,
+              "_id": "67ac6b283092c94c2ed3ad6f",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"images/img_138e8a151d73.jpg\" name=\"Picture 15\" align=\"bottom\" width=\"556\" height=\"130\" border=\"0\">\n</img></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a06b426bb47aeee7458",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "67ac6ada2dfe379e27fe36cb",
+          "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n ‘BEAN’ is coded as ‘ABNE’, ‘SALE’\n is coded as ‘LSEA’, what is the code for ‘NEWS’?</span></span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n If\n ‘BEAN’ is coded as ‘ABNE’, ‘SALE’\n is coded as ‘LSEA’, what is the code for ‘NEWS’?\n ",
+          "sectionId": "67ac6abd768a2f3b0fab21f3",
+          "order": 12,
+          "questionSubmitOrder": 12,
+          "options": [
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">WNSE</span></span></span></span></p>\n ",
+              "nameText": "\n WNSE\n ",
+              "isCorrect": true,
+              "_id": "67ac6b283092c99906d3ad4c",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">SWNE</span></span></span></span></p>\n ",
+              "nameText": "\n SWNE\n ",
+              "isCorrect": false,
+              "_id": "67ac6b283092c9dc50d3ad4d",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">WSNE</span></span></span></span></p>\n ",
+              "nameText": "\n WSNE\n ",
+              "isCorrect": false,
+              "_id": "67ac6b283092c9555ad3ad4e",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">WNES</span></span></span></span></p>\n ",
+              "nameText": "\n WNES\n ",
+              "isCorrect": false,
+              "_id": "67ac6b283092c91a8dd3ad4f",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"images/img_2756b8fb9f76.jpg\" name=\"Picture 7\" align=\"bottom\" width=\"265\" height=\"161\" border=\"0\">\n</img></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a06b426bb2c04ee7459",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "67ac6ada2dfe37c117fe36a3",
+          "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n \"APPLE\" is coded as \"ELPPA\", how is \"ORANGE\"\n coded?</span></span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n If\n \"APPLE\" is coded as \"ELPPA\", how is \"ORANGE\"\n coded?\n ",
+          "sectionId": "67ac6abd768a2f3b0fab21f3",
+          "order": 13,
+          "questionSubmitOrder": 13,
+          "options": [
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">EGNORA</span></span></span></span></p>\n ",
+              "nameText": "\n EGNORA\n ",
+              "isCorrect": false,
+              "_id": "67ac6b283092c912b1d3ad28",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">EGNARO</span></span></span></span></p>\n ",
+              "nameText": "\n EGNARO\n ",
+              "isCorrect": true,
+              "_id": "67ac6b283092c92e9cd3ad29",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none;\"><span style=\"color: #000000;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-family: Cambria,serif;\"><span style=\"font-size: 19px;\">EGNARA</span></span></span></span></p>",
+              "nameText": "EGNARA",
+              "isCorrect": false,
+              "_id": "67ac6b283092c9aff8d3ad2a",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">EGNROA</span></span></span></span></p>\n ",
+              "nameText": "\n EGNROA\n ",
+              "isCorrect": false,
+              "_id": "67ac6b283092c958cdd3ad2b",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">The\n word is written in reverse order. APPLE → ELPPA, so ORANGE →\n EGNARO</span></span></span></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a06b426bbc680ee745a",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "67ac6ada2dfe37573afe36ad",
+          "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">In\n a certain language ‘GUST’ is coded ‘@7$2’\n and ‘SNIP’ is coded ‘$59#’. How will\n ‘SING’ be coded in the same code?</span></span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n In\n a certain language ‘GUST’ is coded ‘@7$2’\n and ‘SNIP’ is coded ‘$59#’. How will\n ‘SING’ be coded in the same code?\n ",
+          "sectionId": "67ac6abd768a2f3b0fab21f3",
+          "order": 14,
+          "questionSubmitOrder": 14,
+          "options": [
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">9$7#</span></span></span></span></p>\n ",
+              "nameText": "\n 9$7#\n ",
+              "isCorrect": false,
+              "_id": "67ac6b283092c96d30d3ad24",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">59#$</span></span></span></span></p>\n ",
+              "nameText": "\n 59#$\n ",
+              "isCorrect": false,
+              "_id": "67ac6b283092c91aafd3ad25",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">$95@</span></span></span></span></p>\n ",
+              "nameText": "\n $95@\n ",
+              "isCorrect": true,
+              "_id": "67ac6b283092c9c56cd3ad26",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">7$@9</span></span></span></span></p>\n ",
+              "nameText": "\n 7$@9\n ",
+              "isCorrect": false,
+              "_id": "67ac6b283092c945fbd3ad27",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"images/img_b277964c8250.png\" name=\"Picture 1\" align=\"bottom\" width=\"213\" height=\"97\" border=\"0\">\n</img></span></p>\n <p style=\"text-decoration: none\"><span style=\"color: #000000\"><img src=\"images/img_0b9f9249f16e.png\" name=\"Picture 2\" align=\"bottom\" width=\"79\" height=\"82\" border=\"0\">\n</img></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a06b426bb6725ee745b",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "67ac6ada2dfe377e8ffe36c1",
+          "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n ‘NOSTALGIA’ is coded as ‘81’, what is the\n code for ‘FRICTION’?</span></span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n If\n ‘NOSTALGIA’ is coded as ‘81’, what is the\n code for ‘FRICTION’?\n ",
+          "sectionId": "67ac6abd768a2f3b0fab21f3",
+          "order": 15,
+          "questionSubmitOrder": 15,
+          "options": [
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">54</span></span></span></span></p>\n ",
+              "nameText": "\n 54\n ",
+              "isCorrect": false,
+              "_id": "67ac6b283092c9e614d3ad5c",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">64</span></span></span></span></p>\n ",
+              "nameText": "\n 64\n ",
+              "isCorrect": true,
+              "_id": "67ac6b283092c9e29ad3ad5d",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">68</span></span></span></span></p>\n ",
+              "nameText": "\n 68\n ",
+              "isCorrect": false,
+              "_id": "67ac6b283092c907e3d3ad5e",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">72</span></span></span></span></p>\n ",
+              "nameText": "\n 72\n ",
+              "isCorrect": false,
+              "_id": "67ac6b283092c951cad3ad5f",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">NOSTALGIA\n = 9 letters</span></span></span></span></p>\n <p style=\"margin-bottom: 0px; text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">9</span></span><sup><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">2</span></span></sup><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">=81</span></span></span></span></p>\n <p style=\"margin-bottom: 0px; text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">FRICTION\n = 8 letters</span></span></span></span></p>\n <p style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">8</span></span><sup><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">2</span></span></sup><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">=64</span></span></span></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a06b426bb72c5ee745c",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "67ac6ada2dfe37b18afe36f8",
+          "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n \"GARDEN\" is coded as \"FZQCDM\", how is \"FLOWER\"\n coded?</span></span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n If\n \"GARDEN\" is coded as \"FZQCDM\", how is \"FLOWER\"\n coded?\n ",
+          "sectionId": "67ac6abd768a2f3b0fab21f3",
+          "order": 16,
+          "questionSubmitOrder": 16,
+          "options": [
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">EKNVDQ</span></span></span></span></p>\n ",
+              "nameText": "\n EKNVDQ\n ",
+              "isCorrect": true,
+              "_id": "67ac6b283092c99acbd3ad44",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">EKNVQD</span></span></span></span></p>\n ",
+              "nameText": "\n EKNVQD\n ",
+              "isCorrect": false,
+              "_id": "67ac6b283092c94013d3ad45",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">EKNQVD</span></span></span></span></p>\n ",
+              "nameText": "\n EKNQVD\n ",
+              "isCorrect": false,
+              "_id": "67ac6b283092c9d530d3ad46",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">EKNDVQ</span></span></span></span></p>\n ",
+              "nameText": "\n EKNDVQ\n ",
+              "isCorrect": false,
+              "_id": "67ac6b283092c91d26d3ad47",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Each\n letter is shifted backward by 1 position in the alphabet: </span></span></span></span>\n </p>\n <p style=\"margin-bottom: 0px; text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">G→F,\n A→Z, R→Q, D→C, E→D, N→M. </span></span></span></span>\n </p>\n <p style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Similarly,\n FLOWER → EKNVDQ</span></span></span></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a06b426bb5f33ee745d",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "67ac6ada2dfe371116fe36d5",
+          "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">In\n a certain language ‘branches have leafs’ is coded\n ‘673’, ‘trees have branches’ is coded\n ‘746’ and ‘mangoes all trees’ is coded\n ‘491’. How will ‘tree’ be coded in the\n same code?</span></span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n In\n a certain language ‘branches have leafs’ is coded\n ‘673’, ‘trees have branches’ is coded\n ‘746’ and ‘mangoes all trees’ is coded\n ‘491’. How will ‘tree’ be coded in the\n same code?\n ",
+          "sectionId": "67ac6abd768a2f3b0fab21f3",
+          "order": 17,
+          "questionSubmitOrder": 17,
+          "options": [
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">9</span></span></span></span></p>\n ",
+              "nameText": "\n 9\n ",
+              "isCorrect": false,
+              "_id": "67ac6b283092c90760d3ad30",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">1</span></span></span></span></p>\n ",
+              "nameText": "\n 1\n ",
+              "isCorrect": false,
+              "_id": "67ac6b283092c93c6fd3ad31",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">4</span></span></span></span></p>\n ",
+              "nameText": "\n 4\n ",
+              "isCorrect": true,
+              "_id": "67ac6b283092c9368bd3ad32",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">7</span></span></span></span></p>\n ",
+              "nameText": "\n 7\n ",
+              "isCorrect": false,
+              "_id": "67ac6b283092c96070d3ad33",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"images/img_922627e8936f.jpg\" name=\"Picture 10\" align=\"bottom\" width=\"431\" height=\"181\" border=\"0\">\n</img></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a06b426bb658bee745e",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "67ac6ada2dfe37b31efe36da",
+          "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n in a code language \"EXAMINATION\" is written as \"125\"\n then how will “HARDWORK” be written in that language?</span></span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n If\n in a code language \"EXAMINATION\" is written as \"125\"\n then how will “HARDWORK” be written in that language?\n ",
+          "sectionId": "67ac6abd768a2f3b0fab21f3",
+          "order": 18,
+          "questionSubmitOrder": 18,
+          "options": [
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">68</span></span></span></span></p>\n ",
+              "nameText": "\n 68\n ",
+              "isCorrect": false,
+              "_id": "67ac6b283092c92ca5d3ad60",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">86</span></span></span></span></p>\n ",
+              "nameText": "\n 86\n ",
+              "isCorrect": false,
+              "_id": "67ac6b283092c94ab8d3ad61",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">89</span></span></span></span></p>\n ",
+              "nameText": "\n 89\n ",
+              "isCorrect": false,
+              "_id": "67ac6b283092c9353ed3ad62",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">98</span></span></span></span></p>\n ",
+              "nameText": "\n 98\n ",
+              "isCorrect": true,
+              "_id": "67ac6b283092c904d4d3ad63",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">The\n logic followed here is:</span></span></span></span></p>\n <p style=\"margin-bottom: 0px; text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Logic:\n Sum of the positional value of letter.</span></span></span></span></p>\n <p style=\"margin-bottom: 0px; text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">For,</span></span></span></span></p>\n <p style=\"margin-bottom: 0px; text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">\"EXAMINATION\"\n is written as \"125\" 5+24+1+13+9+14+1+20+9+15+14 = 125 </span></span></span></span>\n </p>\n <p style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Similarly,\n HARDWORK = 8+1+18+4+23+15+18+11 = 98.</span></span></span></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a06b426bb2054ee745f",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "67ac6ada2dfe37a4aafe36a8",
+          "name": "<p align=\"justify\" style=\"text-decoration: none;\"><span style=\"color: #000000;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-family: Cambria,serif;\"><span style=\"font-size: 19px;\">If \"PENCIL\" is coded as \"RGPEKN\", how is \"PAPER\" coded?</span></span></span></span></p>",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "If \"PENCIL\" is coded as \"RGPEKN\", how is \"PAPER\" coded?",
+          "sectionId": "67ac6abd768a2f3b0fab21f3",
+          "order": 19,
+          "questionSubmitOrder": 19,
+          "options": [
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">RCRGT</span></span></span></span></p>\n ",
+              "nameText": "\n RCRGT\n ",
+              "isCorrect": true,
+              "_id": "67ac6b283092c950b7d3ad48",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">RCRGS</span></span></span></span></p>\n ",
+              "nameText": "\n RCRGS\n ",
+              "isCorrect": false,
+              "_id": "67ac6b283092c998ccd3ad49",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">RCRGU</span></span></span></span></p>\n ",
+              "nameText": "\n RCRGU\n ",
+              "isCorrect": false,
+              "_id": "67ac6b283092c9cb51d3ad4a",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">RCRGV</span></span></span></span></p>\n ",
+              "nameText": "\n RCRGV\n ",
+              "isCorrect": false,
+              "_id": "67ac6b283092c99b4fd3ad4b",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Each\n letter is shifted forward by 2 positions in the alphabet. P→R,\n      A→C, P→R, E→G, R→T.</span></span></span></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a06b426bb842eee7460",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "67ac6ada2dfe372319fe36f3",
+          "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">In\n a code language, if SEND is written as 168, then how will PURSE be\n written in the same language?</span></span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n In\n a code language, if SEND is written as 168, then how will PURSE be\n written in the same language?\n ",
+          "sectionId": "67ac6abd768a2f3b0fab21f3",
+          "order": 20,
+          "questionSubmitOrder": 20,
+          "options": [
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">225</span></span></span></span></p>\n ",
+              "nameText": "\n 225\n ",
+              "isCorrect": false,
+              "_id": "67ac6b283092c90b40d3ad64",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">395</span></span></span></span></p>\n ",
+              "nameText": "\n 395\n ",
+              "isCorrect": true,
+              "_id": "67ac6b283092c96cedd3ad65",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">185</span></span></span></span></p>\n ",
+              "nameText": "\n 185\n ",
+              "isCorrect": false,
+              "_id": "67ac6b283092c98284d3ad66",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">415</span></span></span></span></p>\n ",
+              "nameText": "\n 415\n ",
+              "isCorrect": false,
+              "_id": "67ac6b283092c9dd11d3ad67",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p style=\"text-decoration: none;\"><span style=\"color: #000000;\">SEND = (19+5+14+4)*4=168</span></p>\n<p style=\"text-decoration: none;\"><span style=\"color: #000000;\">PURSE = (16+21+18+19+5)*5=395</span></p>",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a06b426bb6633ee7461",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        }
+      ],
+      "numberOfQuestions": 20
+    }
+  ],
+  "userDetails": {
+    "name": "Shivam Gupta",
+    "userId": 193594164,
+    "orgId": 78392
+  },
+  "sts": 1791654407081,
+  "region": {
+    "timeFormat": "hh:mm a",
+    "dateTimeStamp": "yyyy/MM/dd"
+  }
+}

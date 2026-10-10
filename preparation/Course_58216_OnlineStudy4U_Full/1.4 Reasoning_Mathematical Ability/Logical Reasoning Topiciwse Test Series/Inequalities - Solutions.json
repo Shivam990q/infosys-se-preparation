@@ -1,0 +1,1446 @@
+{
+  "test": {
+    "name": "Inequalities",
+    "testTotalDuration": 1500000,
+    "settings": {
+      "fonts": {
+        "fonts": [
+          {
+            "face": "Calibri",
+            "supported": true
+          },
+          {
+            "face": "serif",
+            "supported": true
+          },
+          {
+            "face": "Cambria",
+            "supported": true
+          }
+        ],
+        "include": "https://cms-gcp.classplusapp.com/parser/v3/css/combined?face=Calibri,serif,Cambria"
+      },
+      "isSectionSwitchingEnabled": true
+    },
+    "practiceTestUrls": [],
+    "testFormat": "DEFAULT"
+  },
+  "filters": {
+    "incorrect": 0,
+    "correct": 0,
+    "partiallyMarked": 0,
+    "unattempted": 1,
+    "markForReview": 0,
+    "graceMarked": 0,
+    "revaluated": 0
+  },
+  "timeTaken": 0,
+  "courseId": "58216",
+  "showReportQuestion": true,
+  "sectionWiseStats": [
+    {
+      "marksScored": 0,
+      "sectionMarks": 80,
+      "accuracy": 0,
+      "_id": "6aca7a31292da7f9b2446cb1",
+      "totalQuestions": 20,
+      "attemptDuration": 0,
+      "correctAnswers": 0,
+      "inCorrectAnswers": 0,
+      "partiallyCorrectAnswers": 0,
+      "unAttempted": 20,
+      "name": "Inequalities",
+      "order": 1,
+      "sectionDuration": 0,
+      "sectionId": "67c16ba640b3090e5f7172ac"
+    }
+  ],
+  "sections": [
+    {
+      "sectionDuration": 0,
+      "sectionMarks": 80,
+      "isActive": true,
+      "draftMode": false,
+      "sectionInstructions": " ",
+      "_id": "67c16ba640b3090e5f7172ac",
+      "hasOptionalQuestions": false,
+      "name": "Inequalities",
+      "order": 1,
+      "createdAt": "2025-02-28T15:10:34.094Z",
+      "updatedAt": "2025-02-28T15:10:34.094Z",
+      "questions": [
+        {
+          "_id": "67c16bb587f5454a378dec83",
+          "name": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statements:</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">D\n &gt; C, A &gt; B &gt; C, D &gt; E &gt; F,</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Conclusions:</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I.\n E &gt; C</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II.\n F &gt; B</span></span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n Statements:\n \n D\n &gt; C, A &gt; B &gt; C, D &gt; E &gt; F,\n \n Conclusions:\n \n I.\n E &gt; C\n II.\n F &gt; B\n ",
+          "sectionId": "67c16ba640b3090e5f7172ac",
+          "order": 1,
+          "questionSubmitOrder": 1,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n conclusion I is valid.</span></span></span></span></p>\n ",
+              "nameText": "\n Only\n conclusion I is valid.\n ",
+              "isCorrect": false,
+              "_id": "67c16bde87f545b8f58ded1e",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n conclusion II is valid.</span></span></span></span></p>\n ",
+              "nameText": "\n Only\n conclusion II is valid.\n ",
+              "isCorrect": false,
+              "_id": "67c16bde87f545164a8ded1f",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Either\n conclusion I or II is valid.</span></span></span></span></p>\n ",
+              "nameText": "\n Either\n conclusion I or II is valid.\n ",
+              "isCorrect": false,
+              "_id": "67c16bde87f54587208ded20",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Neither\n conclusion I nor II is valid.</span></span></span></span></p>\n ",
+              "nameText": "\n Neither\n conclusion I nor II is valid.\n ",
+              "isCorrect": true,
+              "_id": "67c16bde87f5456eca8ded21",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Both\n the conclusion I and II are valid.</span></span></span></span></p>\n ",
+              "nameText": "\n Both\n the conclusion I and II are valid.\n ",
+              "isCorrect": false,
+              "_id": "67c16bde87f545a1088ded22",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">A\n &gt; B &gt; C &lt; D &gt; E &gt; F</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I.\n Not follow</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II.\n Not follow</span></span></span></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a310377d71b67bca098",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "67c16bb587f545092f8dec4d",
+          "name": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statements:\n L≤W≤M = J, W = K</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Conclusions:</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I.\n M&gt;K</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II.\n L = K</span></span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n Statements:\n L≤W≤M = J, W = K\n \n Conclusions:\n \n I.\n M&gt;K\n II.\n L = K\n ",
+          "sectionId": "67c16ba640b3090e5f7172ac",
+          "order": 2,
+          "questionSubmitOrder": 2,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n conclusion I is valid.</span></span></span></span></p>\n ",
+              "nameText": "\n Only\n conclusion I is valid.\n ",
+              "isCorrect": false,
+              "_id": "67c16bde87f5457eb58decf1",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n conclusion II is valid.</span></span></span></span></p>\n ",
+              "nameText": "\n Only\n conclusion II is valid.\n ",
+              "isCorrect": false,
+              "_id": "67c16bde87f545e9338decf2",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Either\n conclusion I or II is valid.</span></span></span></span></p>\n ",
+              "nameText": "\n Either\n conclusion I or II is valid.\n ",
+              "isCorrect": false,
+              "_id": "67c16bde87f54567968decf3",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Neither\n conclusion I nor II is valid.</span></span></span></span></p>\n ",
+              "nameText": "\n Neither\n conclusion I nor II is valid.\n ",
+              "isCorrect": true,
+              "_id": "67c16bde87f5454bef8decf4",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Both\n the conclusion I and II are valid.</span></span></span></span></p>\n ",
+              "nameText": "\n Both\n the conclusion I and II are valid.\n ",
+              "isCorrect": false,
+              "_id": "67c16bde87f545f96c8decf5",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Conclusion\n I: M&gt;K (False) → Given W=K and W≤M, we get K≤M, but\n M could be equal to K, not necessarily greater.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Conclusion\n II: L=K (False) → Given L≤W and W=K, we get L≤K, but L\n could be less than K, not necessarily equal.</span></span></span></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a310377d7e8dbbca099",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "67c16bb587f54506448dec5f",
+          "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">What\n should be placed in place of question mark in equation B ≤ A ?N\n ?K ?S to make A &gt; K definitely true.</span></span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n What\n should be placed in place of question mark in equation B ≤ A ?N\n ?K ?S to make A &gt; K definitely true.\n ",
+          "sectionId": "67c16ba640b3090e5f7172ac",
+          "order": 3,
+          "questionSubmitOrder": 3,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">=,\n &gt;, ≥</span></span></span></span></p>\n ",
+              "nameText": "\n =,\n &gt;, ≥\n ",
+              "isCorrect": true,
+              "_id": "67c16bde87f5452df18ded05",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">=,\n ≥,&gt;</span></span></span></span></p>\n ",
+              "nameText": "\n =,\n ≥,&gt;\n ",
+              "isCorrect": false,
+              "_id": "67c16bde87f54577828ded06",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">&lt;,\n &lt;,&lt;</span></span></span></span></p>\n ",
+              "nameText": "\n &lt;,\n &lt;,&lt;\n ",
+              "isCorrect": false,
+              "_id": "67c16bde87f5450c838ded07",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">&lt;,\n &lt;,=</span></span></span></span></p>\n ",
+              "nameText": "\n &lt;,\n &lt;,=\n ",
+              "isCorrect": false,
+              "_id": "67c16bde87f54510038ded08",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">None</span></span></span></span></p>\n ",
+              "nameText": "\n None\n ",
+              "isCorrect": false,
+              "_id": "67c16bde87f5450e718ded09",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">B≤A=N&gt;K≥S</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Since\n A=N and N&gt;K, we get A&gt;K, which is definitely true.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Thus,\n option (a) is correct.</span></span></span></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a310377d74157bca09a",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "67c16bb587f5457bb98dec77",
+          "name": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statement:\n 3 ≥ 9 &lt; 7 ≤ 10 = 2 ≤ 6</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Conclusions:\n </span></span></span></span>\n </p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I.\n 6 &gt; 9 </span></span></span></span>\n </p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II.\n 9 ≤ 2</span></span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n Statement:\n 3 ≥ 9 &lt; 7 ≤ 10 = 2 ≤ 6\n \n Conclusions:\n \n \n \n I.\n 6 &gt; 9 \n \n II.\n 9 ≤ 2\n ",
+          "sectionId": "67c16ba640b3090e5f7172ac",
+          "order": 4,
+          "questionSubmitOrder": 4,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n conclusion I is valid.</span></span></span></span></p>\n ",
+              "nameText": "\n Only\n conclusion I is valid.\n ",
+              "isCorrect": true,
+              "_id": "67c16bde87f54552778decce",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n conclusion II is valid.</span></span></span></span></p>\n ",
+              "nameText": "\n Only\n conclusion II is valid.\n ",
+              "isCorrect": false,
+              "_id": "67c16bde87f54541b98deccf",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Either\n conclusion I or II is valid.</span></span></span></span></p>\n ",
+              "nameText": "\n Either\n conclusion I or II is valid.\n ",
+              "isCorrect": false,
+              "_id": "67c16bde87f54578618decd0",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Neither\n conclusion I nor II is valid.</span></span></span></span></p>\n ",
+              "nameText": "\n Neither\n conclusion I nor II is valid.\n ",
+              "isCorrect": false,
+              "_id": "67c16bde87f5451c0f8decd1",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Both\n the conclusion I and II are valid.</span></span></span></span></p>\n ",
+              "nameText": "\n Both\n the conclusion I and II are valid.\n ",
+              "isCorrect": false,
+              "_id": "67c16bde87f5451e908decd2",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Checking\n conclusion I: 6 &gt; 9</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">From\n the given statement, we get:</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">While\n moving from 6 towards 9, the common sign of inequalities is '&gt;'\n and the given conclusions is also '6 &gt; 9'. Clearly, C1 follows.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Checking\n conclusion II: 9 ≤ 2</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">In\n the statement 9 &lt; 7 ≤ 10 = 2, the common sign of\n inequalities between 9 and 2 is '&lt;' whereas the given\n conclusion is '9 ≤ 2'. Therefore, C2 doesn't follow.</span></span></span></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a310377d7a226bca09b",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "67c16bb587f54566478decb3",
+          "name": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">A\n @ B means 'A is not less than B'</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">A\n $ B means 'A is not more than B'</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">A\n # B means 'A is neither less nor more than B'</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">A\n * B means 'A is neither more than nor equal to B'</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">A\n % B means 'A is neither less than nor equal to B'</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statements\n : R#M$X*T%W@B</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Conclusions\n : </span></span></span></span>\n </p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I.M*W\n </span></span></span></span>\n </p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II.\n T@M</span></span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n A\n @ B means 'A is not less than B'\n \n A\n $ B means 'A is not more than B'\n \n A\n # B means 'A is neither less nor more than B'\n \n A\n * B means 'A is neither more than nor equal to B'\n \n A\n % B means 'A is neither less than nor equal to B'\n \n Statements\n : R#M$X*T%W@B\n \n Conclusions\n : \n \n \n I.M*W\n \n \n II.\n T@M\n ",
+          "sectionId": "67c16ba640b3090e5f7172ac",
+          "order": 5,
+          "questionSubmitOrder": 5,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n conclusion I is valid.</span></span></span></span></p>\n ",
+              "nameText": "\n Only\n conclusion I is valid.\n ",
+              "isCorrect": false,
+              "_id": "67c16bde87f545120e8decd8",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n conclusion II is valid.</span></span></span></span></p>\n ",
+              "nameText": "\n Only\n conclusion II is valid.\n ",
+              "isCorrect": false,
+              "_id": "67c16bde87f545cbd08decd9",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Either\n conclusion I or II is valid.</span></span></span></span></p>\n ",
+              "nameText": "\n Either\n conclusion I or II is valid.\n ",
+              "isCorrect": false,
+              "_id": "67c16bde87f545484d8decda",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Neither\n conclusion I nor II is valid.</span></span></span></span></p>\n ",
+              "nameText": "\n Neither\n conclusion I nor II is valid.\n ",
+              "isCorrect": true,
+              "_id": "67c16bde87f545e8898decdb",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Both\n the conclusion I and II are valid.</span></span></span></span></p>\n ",
+              "nameText": "\n Both\n the conclusion I and II are valid.\n ",
+              "isCorrect": false,
+              "_id": "67c16bde87f5454a988decdc",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">For\n conclusion I:</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">We\n can clearly see the opposite sign persisting between M and W ,\n thus no relationship between them can be established.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Hence\n conclusion I does not follow.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">For\n conclusion II:</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">The\n common sign between M and T is '&lt;', thus M &lt; T or T &gt; M\n is the actual relationship.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Hence\n conclusion II does not follow</span></span></span></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a310377d7c9bcbca09c",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "67c16bb587f545367d8dec59",
+          "name": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statements:</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">M&gt;N,\n N≥O, O&gt;P</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Conclusions:</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I.\n M&gt;O</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II.\n N&gt;P</span></span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n Statements:\n \n M&gt;N,\n N≥O, O&gt;P\n \n Conclusions:\n \n I.\n M&gt;O\n II.\n N&gt;P\n ",
+          "sectionId": "67c16ba640b3090e5f7172ac",
+          "order": 6,
+          "questionSubmitOrder": 6,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n conclusion I is valid.</span></span></span></span></p>\n ",
+              "nameText": "\n Only\n conclusion I is valid.\n ",
+              "isCorrect": false,
+              "_id": "67c16bde87f5454a698decdd",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n conclusion II is valid.</span></span></span></span></p>\n ",
+              "nameText": "\n Only\n conclusion II is valid.\n ",
+              "isCorrect": false,
+              "_id": "67c16bde87f54531df8decde",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Either\n conclusion I or II is valid.</span></span></span></span></p>\n ",
+              "nameText": "\n Either\n conclusion I or II is valid.\n ",
+              "isCorrect": false,
+              "_id": "67c16bde87f545573d8decdf",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Neither\n conclusion I or II is valid.</span></span></span></span></p>\n ",
+              "nameText": "\n Neither\n conclusion I or II is valid.\n ",
+              "isCorrect": false,
+              "_id": "67c16bde87f5453d018dece0",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Both\n the conclusion I and II are valid.</span></span></span></span></p>\n ",
+              "nameText": "\n Both\n the conclusion I and II are valid.\n ",
+              "isCorrect": true,
+              "_id": "67c16bde87f54545798dece1",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Since\n M&gt;N and N≥O, we can conclude M&gt;O, so Conclusion I is\n true.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Also,\n since N≥O and O&gt;P, we get N&gt;P, so Conclusion II is true.</span></span></span></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a310377d74cf4bca09d",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "67c16bb587f545305a8dec8f",
+          "name": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statements:</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Y\n ≥ W = N; N ≥ M</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Conclusions:</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I.\n Y &gt; M</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II.\n Y = M</span></span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n Statements:\n \n Y\n ≥ W = N; N ≥ M\n \n Conclusions:\n \n I.\n Y &gt; M\n II.\n Y = M\n ",
+          "sectionId": "67c16ba640b3090e5f7172ac",
+          "order": 7,
+          "questionSubmitOrder": 7,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n conclusion I is valid.</span></span></span></span></p>\n ",
+              "nameText": "\n Only\n conclusion I is valid.\n ",
+              "isCorrect": false,
+              "_id": "67c16bde87f5450a528dece7",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n conclusion II is valid.</span></span></span></span></p>\n ",
+              "nameText": "\n Only\n conclusion II is valid.\n ",
+              "isCorrect": false,
+              "_id": "67c16bde87f545e6e58dece8",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Either\n conclusion I nor II is valid.</span></span></span></span></p>\n ",
+              "nameText": "\n Either\n conclusion I nor II is valid.\n ",
+              "isCorrect": true,
+              "_id": "67c16bde87f545459c8dece9",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Neither\n conclusion I or II is valid.</span></span></span></span></p>\n ",
+              "nameText": "\n Neither\n conclusion I or II is valid.\n ",
+              "isCorrect": false,
+              "_id": "67c16bde87f54528078decea",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Both\n the conclusion I and II are valid.</span></span></span></span></p>\n ",
+              "nameText": "\n Both\n the conclusion I and II are valid.\n ",
+              "isCorrect": false,
+              "_id": "67c16bde87f54511e88deceb",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Y\n ≥ W = N; N ≥ M</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I.\n Y &gt; M</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II.\n Y = M</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">So\n either conclusion I or II is follow</span></span></span></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a310377d74430bca09e",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "67c16bb587f545f5638deca1",
+          "name": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Some\n friends were discussing about their savings.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">M\n says that his savings are not more than that of W.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">W\n says that his savings are neither less than nor equal to S.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">S\n says that his savings are not less than O, who is not the least\n saver.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">T\n says that his savings are less than M but not less than P.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">P\n says that his savings are less than M.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Who\n among the following is the highest saver?</span></span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n Some\n friends were discussing about their savings.\n \n M\n says that his savings are not more than that of W.\n \n W\n says that his savings are neither less than nor equal to S.\n \n S\n says that his savings are not less than O, who is not the least\n saver.\n \n T\n says that his savings are less than M but not less than P.\n \n P\n says that his savings are less than M.\n Who\n among the following is the highest saver?\n ",
+          "sectionId": "67c16ba640b3090e5f7172ac",
+          "order": 8,
+          "questionSubmitOrder": 8,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">W</span></span></span></span></p>\n ",
+              "nameText": "\n W\n ",
+              "isCorrect": true,
+              "_id": "67c16bde87f54541ab8ded23",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">S</span></span></span></span></p>\n ",
+              "nameText": "\n S\n ",
+              "isCorrect": false,
+              "_id": "67c16bde87f545fa508ded24",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">O</span></span></span></span></p>\n ",
+              "nameText": "\n O\n ",
+              "isCorrect": false,
+              "_id": "67c16bde87f54537d28ded25",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">P</span></span></span></span></p>\n ",
+              "nameText": "\n P\n ",
+              "isCorrect": false,
+              "_id": "67c16bde87f5453eda8ded26",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">None</span></span></span></span></p>\n ",
+              "nameText": "\n None\n ",
+              "isCorrect": false,
+              "_id": "67c16bde87f545354a8ded27",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">The\n following equation can be drawn from the given hints.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">P\n ≤ T &lt; M ≤ W &gt; S ≥ O</span></span></span></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a310377d7801bbca09f",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "67c16bb587f545306c8dec95",
+          "name": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Some\n friends were discussing about their savings.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">M\n says that his savings are not more than that of W.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">W\n says that his savings are neither less than nor equal to S.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">S\n says that his savings are not less than O, who is not the least\n saver.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">T\n says that his savings are less than M but not less than P.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">P\n says that his savings are less than M.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">P's\n savings are less than how many people?</span></span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n Some\n friends were discussing about their savings.\n \n M\n says that his savings are not more than that of W.\n \n W\n says that his savings are neither less than nor equal to S.\n \n S\n says that his savings are not less than O, who is not the least\n saver.\n \n T\n says that his savings are less than M but not less than P.\n \n P\n says that his savings are less than M.\n P's\n savings are less than how many people?\n ",
+          "sectionId": "67c16ba640b3090e5f7172ac",
+          "order": 9,
+          "questionSubmitOrder": 9,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">1</span></span></span></span></p>\n ",
+              "nameText": "\n 1\n ",
+              "isCorrect": false,
+              "_id": "67c16bde87f545cf9a8decd3",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">2</span></span></span></span></p>\n ",
+              "nameText": "\n 2\n ",
+              "isCorrect": false,
+              "_id": "67c16bde87f545a0288decd4",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">3</span></span></span></span></p>\n ",
+              "nameText": "\n 3\n ",
+              "isCorrect": false,
+              "_id": "67c16bde87f5457aca8decd5",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">4</span></span></span></span></p>\n ",
+              "nameText": "\n 4\n ",
+              "isCorrect": false,
+              "_id": "67c16bde87f54597f78decd6",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">More\n than 4</span></span></span></span></p>\n ",
+              "nameText": "\n More\n than 4\n ",
+              "isCorrect": true,
+              "_id": "67c16bde87f54527ac8decd7",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">The\n following equation can be drawn from the given hints.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">P\n ≤ T &lt; M ≤ W &gt; S ≥ O</span></span></span></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a310377d75907bca0a0",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "67c16bb587f545be428dec65",
+          "name": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statement:\n M ≥ P &lt; H, V &gt; T = M</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Conclusions:\n </span></span></span></span>\n </p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I.\n V &gt; P </span></span></span></span>\n </p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II.\n T ≥ H</span></span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n Statement:\n M ≥ P &lt; H, V &gt; T = M\n \n Conclusions:\n \n \n \n I.\n V &gt; P \n \n II.\n T ≥ H\n ",
+          "sectionId": "67c16ba640b3090e5f7172ac",
+          "order": 10,
+          "questionSubmitOrder": 10,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n conclusion I is valid.</span></span></span></span></p>\n ",
+              "nameText": "\n Only\n conclusion I is valid.\n ",
+              "isCorrect": true,
+              "_id": "67c16bde87f54506358ded19",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n conclusion II is valid.</span></span></span></span></p>\n ",
+              "nameText": "\n Only\n conclusion II is valid.\n ",
+              "isCorrect": false,
+              "_id": "67c16bde87f545b85b8ded1a",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Either\n conclusion I or II is valid.</span></span></span></span></p>\n ",
+              "nameText": "\n Either\n conclusion I or II is valid.\n ",
+              "isCorrect": false,
+              "_id": "67c16bde87f5452b9b8ded1b",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Neither\n conclusion I nor II is valid.</span></span></span></span></p>\n ",
+              "nameText": "\n Neither\n conclusion I nor II is valid.\n ",
+              "isCorrect": false,
+              "_id": "67c16bde87f545324d8ded1c",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Both\n the conclusion I and II are valid.</span></span></span></span></p>\n ",
+              "nameText": "\n Both\n the conclusion I and II are valid.\n ",
+              "isCorrect": false,
+              "_id": "67c16bde87f5456e448ded1d",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">M\n ≥ P &lt; H ...... (i)</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">V\n &gt; T = M ...... (ii)</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Combining\n all statements, we get</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">V\n &gt; T = M ≥ P &lt; H</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Thus,\n V &gt; P is true.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Again,\n T ≥ H is not true.</span></span></span></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a310377d758f1bca0a1",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "67c16bb587f54538f68deca7",
+          "name": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statements:\n F ≤ L &gt; T, N = O ≥ P, F &gt; Q &gt; S</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Conclusions:\n </span></span></span></span>\n </p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I.\n L &gt; T</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II.\n F &gt; S</span></span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n Statements:\n F ≤ L &gt; T, N = O ≥ P, F &gt; Q &gt; S\n \n Conclusions:\n \n \n \n I.\n L &gt; T\n II.\n F &gt; S\n ",
+          "sectionId": "67c16ba640b3090e5f7172ac",
+          "order": 11,
+          "questionSubmitOrder": 11,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n conclusion I is valid.</span></span></span></span></p>\n ",
+              "nameText": "\n Only\n conclusion I is valid.\n ",
+              "isCorrect": false,
+              "_id": "67c16bde87f54599bd8ded00",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n conclusion II is valid.</span></span></span></span></p>\n ",
+              "nameText": "\n Only\n conclusion II is valid.\n ",
+              "isCorrect": false,
+              "_id": "67c16bde87f54565f38ded01",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Either\n conclusion I or II is valid.</span></span></span></span></p>\n ",
+              "nameText": "\n Either\n conclusion I or II is valid.\n ",
+              "isCorrect": false,
+              "_id": "67c16bde87f54591e38ded02",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Neither\n conclusion I nor II is valid.</span></span></span></span></p>\n ",
+              "nameText": "\n Neither\n conclusion I nor II is valid.\n ",
+              "isCorrect": false,
+              "_id": "67c16bde87f5458ef08ded03",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Both\n the conclusion I and II are valid.</span></span></span></span></p>\n ",
+              "nameText": "\n Both\n the conclusion I and II are valid.\n ",
+              "isCorrect": true,
+              "_id": "67c16bde87f545600c8ded04",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Conclusion\n I: L&gt;T (True) → Given L&gt;T, this is directly true. </span></span></span></span>\n </p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Conclusion\n II: F&gt;S (True) → Given F&gt;Q&gt;S, we get F&gt;S.</span></span></span></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a310377d760eebca0a2",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "67c16bb587f545e5978dec47",
+          "name": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statements:</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">A&gt;B,\n B≥C, C&gt;D, D&lt;E</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Conclusions:</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I.\n A&gt;D</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II.\n C&gt;E</span></span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n Statements:\n \n A&gt;B,\n B≥C, C&gt;D, D&lt;E\n \n Conclusions:\n \n I.\n A&gt;D\n II.\n C&gt;E\n ",
+          "sectionId": "67c16ba640b3090e5f7172ac",
+          "order": 12,
+          "questionSubmitOrder": 12,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n conclusion I is valid.</span></span></span></span></p>\n ",
+              "nameText": "\n Only\n conclusion I is valid.\n ",
+              "isCorrect": true,
+              "_id": "67c16bde87f54531fe8decc4",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n conclusion II is valid.</span></span></span></span></p>\n ",
+              "nameText": "\n Only\n conclusion II is valid.\n ",
+              "isCorrect": false,
+              "_id": "67c16bde87f545f73a8decc5",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Either\n conclusion I or II is valid.</span></span></span></span></p>\n ",
+              "nameText": "\n Either\n conclusion I or II is valid.\n ",
+              "isCorrect": false,
+              "_id": "67c16bde87f545a2138decc6",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Neither\n conclusion I nor II is valid.</span></span></span></span></p>\n ",
+              "nameText": "\n Neither\n conclusion I nor II is valid.\n ",
+              "isCorrect": false,
+              "_id": "67c16bde87f54527a28decc7",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Both\n the conclusion I and II are valid.</span></span></span></span></p>\n ",
+              "nameText": "\n Both\n the conclusion I and II are valid.\n ",
+              "isCorrect": false,
+              "_id": "67c16bde87f54567188decc8",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">From\n A&gt;B and B≥C, we get A&gt;C. </span></span></span></span>\n </p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">From\n C&gt;D, we get A&gt;D, so Conclusion I is true.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">However,\n we cannot compare C and E directly, so Conclusion II is false.</span></span></span></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a310377d7f84bbca0a3",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "67c16bb587f54514c38dec9b",
+          "name": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Some\n friends were discussing about their savings.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">M\n says that his savings are not more than that of W.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">W\n says that his savings are neither less than nor equal to S.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">S\n says that his savings are not less than O, who is not the least\n saver.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">T\n says that his savings are less than M but not less than P.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">P\n says that his savings are less than M.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Which\n of the following statements is correct?</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I.\n O's savings are not more than W.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II.\n M's savings are not more than W.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">III.\n P's savings are not more than W.</span></span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n Some\n friends were discussing about their savings.\n \n M\n says that his savings are not more than that of W.\n \n W\n says that his savings are neither less than nor equal to S.\n \n S\n says that his savings are not less than O, who is not the least\n saver.\n \n T\n says that his savings are less than M but not less than P.\n \n P\n says that his savings are less than M.\n \n Which\n of the following statements is correct?\n \n I.\n O's savings are not more than W.\n \n II.\n M's savings are not more than W.\n III.\n P's savings are not more than W.\n ",
+          "sectionId": "67c16ba640b3090e5f7172ac",
+          "order": 13,
+          "questionSubmitOrder": 13,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n conclusion I is valid.</span></span></span></span></p>\n ",
+              "nameText": "\n Only\n conclusion I is valid.\n ",
+              "isCorrect": false,
+              "_id": "67c16bde87f545269e8ded0f",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n conclusion II is valid.</span></span></span></span></p>\n ",
+              "nameText": "\n Only\n conclusion II is valid.\n ",
+              "isCorrect": true,
+              "_id": "67c16bde87f5456f168ded10",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n conclusion III is valid.</span></span></span></span></p>\n ",
+              "nameText": "\n Only\n conclusion III is valid.\n ",
+              "isCorrect": false,
+              "_id": "67c16bde87f545eff98ded11",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Neither\n conclusion I nor II is valid.</span></span></span></span></p>\n ",
+              "nameText": "\n Neither\n conclusion I nor II is valid.\n ",
+              "isCorrect": false,
+              "_id": "67c16bde87f5450c0e8ded12",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">All\n conclusions are valid.</span></span></span></span></p>\n ",
+              "nameText": "\n All\n conclusions are valid.\n ",
+              "isCorrect": false,
+              "_id": "67c16bde87f5451a948ded13",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">The\n following equation can be drawn from the given hints.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">P\n ≤ T &lt; M ≤ W &gt; S ≥ O</span></span></span></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a310377d78b76bca0a4",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "67c16bb587f5452a408dec89",
+          "name": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\">‘<span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">A\n © B’ means ‘A is either smaller than or equal to\n B.’</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\">‘<span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">A\n % B’ means ‘A is neither smaller than nor equal to B.’</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\">‘<span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">A\n @ B’ means ‘A is either greater than or equal to B.’</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\">‘<span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">A\n $ B’ means ‘A is neither greater than nor equal to B.’</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\">‘<span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">A\n # B’ means ‘A is neither greater than nor smaller than\n B.’</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statements:\n L @ R, R % T, T # M</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Conclusions:\n I. M $ R II. T $ L</span></span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n ‘A\n © B’ means ‘A is either smaller than or equal to\n B.’\n \n ‘A\n % B’ means ‘A is neither smaller than nor equal to B.’\n \n ‘A\n @ B’ means ‘A is either greater than or equal to B.’\n \n ‘A\n $ B’ means ‘A is neither greater than nor equal to B.’\n \n ‘A\n # B’ means ‘A is neither greater than nor smaller than\n B.’\n \n Statements:\n L @ R, R % T, T # M\n Conclusions:\n I. M $ R II. T $ L\n ",
+          "sectionId": "67c16ba640b3090e5f7172ac",
+          "order": 14,
+          "questionSubmitOrder": 14,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n conclusion I is valid.</span></span></span></span></p>\n ",
+              "nameText": "\n Only\n conclusion I is valid.\n ",
+              "isCorrect": false,
+              "_id": "67c16bde87f54575a78decfb",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n conclusion II is valid.</span></span></span></span></p>\n ",
+              "nameText": "\n Only\n conclusion II is valid.\n ",
+              "isCorrect": false,
+              "_id": "67c16bde87f5455cd58decfc",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Either\n conclusion I or II is valid.</span></span></span></span></p>\n ",
+              "nameText": "\n Either\n conclusion I or II is valid.\n ",
+              "isCorrect": false,
+              "_id": "67c16bde87f54519d48decfd",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Neither\n conclusion I nor II is valid.</span></span></span></span></p>\n ",
+              "nameText": "\n Neither\n conclusion I nor II is valid.\n ",
+              "isCorrect": false,
+              "_id": "67c16bde87f54567d78decfe",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Both\n the conclusion I and II are valid.</span></span></span></span></p>\n ",
+              "nameText": "\n Both\n the conclusion I and II are valid.\n ",
+              "isCorrect": true,
+              "_id": "67c16bde87f545b83d8decff",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Conclusion\n I :</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"images/img_b700b05a9b66.png\" name=\"Picture 1\" align=\"bottom\" width=\"151\" height=\"90\" border=\"0\">\n</img></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Conclusion\n II :</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"images/img_6d785d48d614.png\" name=\"Picture 2\" align=\"bottom\" width=\"147\" height=\"84\" border=\"0\">\n</img></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Hence,\n both Conclusions I and II are true.</span></span></span></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a310377d7820ebca0a5",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "67c16bb587f54570958decad",
+          "name": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none;\"><span style=\"color: #000000;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-family: Cambria,serif;\"><span style=\"font-size: 19px;\">Statements: M = X &lt; Z &ge; W = N &le; Q &lt; T &le; V = U</span></span></span></span></p>\n<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none;\"><span style=\"color: #000000;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-family: Cambria,serif;\"><span style=\"font-size: 19px;\">Conclusions: </span></span></span></span></p>\n<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none;\"><span style=\"color: #000000;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-family: Cambria,serif;\"><span style=\"font-size: 19px;\">I. V &ge; W </span></span></span></span></p>\n<p align=\"justify\" style=\"text-decoration: none;\"><span style=\"color: #000000;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-family: Cambria,serif;\"><span style=\"font-size: 19px;\">II. T ≯ U</span></span></span></span></p>",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "Statements: M = X < Z ≥ W = N ≤ Q < T ≤ V = U\nConclusions: \nI. V ≥ W \nII. T ≯ U",
+          "sectionId": "67c16ba640b3090e5f7172ac",
+          "order": 15,
+          "questionSubmitOrder": 15,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n conclusion I is valid.</span></span></span></span></p>\n ",
+              "nameText": "\n Only\n conclusion I is valid.\n ",
+              "isCorrect": false,
+              "_id": "67c16bde87f545a3298decec",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n conclusion II is valid.</span></span></span></span></p>\n ",
+              "nameText": "\n Only\n conclusion II is valid.\n ",
+              "isCorrect": true,
+              "_id": "67c16bde87f545817a8deced",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Either\n conclusion I or II is valid.</span></span></span></span></p>\n ",
+              "nameText": "\n Either\n conclusion I or II is valid.\n ",
+              "isCorrect": false,
+              "_id": "67c16bde87f5457e8a8decee",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Neither\n conclusion I nor II is valid.</span></span></span></span></p>\n ",
+              "nameText": "\n Neither\n conclusion I nor II is valid.\n ",
+              "isCorrect": false,
+              "_id": "67c16bde87f54559858decef",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Both\n the conclusion I and II are valid.</span></span></span></span></p>\n ",
+              "nameText": "\n Both\n the conclusion I and II are valid.\n ",
+              "isCorrect": false,
+              "_id": "67c16bde87f5453da28decf0",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p align=\"justify\"><span style=\"color: #000000; font-family: Cambria, serif;\"><span style=\"font-size: 19px;\">Conclusion I: V &ge; W &rarr; True because W&le;Q&lt;T&le;V, so V&ge;W.</span></span></p>\n<p align=\"justify\"><span style=\"color: #000000; font-family: Cambria, serif;\"><span style=\"font-size: 19px;\">Conclusion II: T ≯ U &rarr; True because T&le;V and V=U, so&nbsp; T&le;U, meaning T is not greater than U.</span></span></p>",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a310377d7f097bca0a6",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "67c16bb587f5451c3e8dec53",
+          "name": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statement:</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">P\n &gt;S, P &lt; Q, R ≤ Q, R &lt; T</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Conclusions:</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I.\n Q &gt; S</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II.\n Q =  T</span></span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n Statement:\n \n P\n &gt;S, P &lt; Q, R ≤ Q, R &lt; T\n \n Conclusions:\n \n I.\n Q &gt; S\n II.\n Q =  T\n ",
+          "sectionId": "67c16ba640b3090e5f7172ac",
+          "order": 16,
+          "questionSubmitOrder": 16,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n conclusion I is valid.</span></span></span></span></p>\n ",
+              "nameText": "\n Only\n conclusion I is valid.\n ",
+              "isCorrect": true,
+              "_id": "67c16bde87f5454dc38decc9",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n conclusion II is valid.</span></span></span></span></p>\n ",
+              "nameText": "\n Only\n conclusion II is valid.\n ",
+              "isCorrect": false,
+              "_id": "67c16bde87f545cd6d8decca",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Either\n conclusion I or II is valid.</span></span></span></span></p>\n ",
+              "nameText": "\n Either\n conclusion I or II is valid.\n ",
+              "isCorrect": false,
+              "_id": "67c16bde87f54522c68deccb",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Neither\n conclusion I nor II is valid.</span></span></span></span></p>\n ",
+              "nameText": "\n Neither\n conclusion I nor II is valid.\n ",
+              "isCorrect": false,
+              "_id": "67c16bde87f54560c18deccc",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Both\n the conclusion I and II are valid.</span></span></span></span></p>\n ",
+              "nameText": "\n Both\n the conclusion I and II are valid.\n ",
+              "isCorrect": false,
+              "_id": "67c16bde87f54564288deccd",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Conclusion\n I: Q&gt;S Given P&gt;S and P&lt;Q, we can infer: Q&gt;P&gt;S So,\n Q&gt;S is true </span></span></span></span>\n </p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Conclusion\n II: Q=T Given R≤Q and R&lt;T, we can infer: Q≥R&lt;T</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">This\n does not guarantee Q=T, so Conclusion II is false</span></span></span></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a310377d75a23bca0a7",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "67c16bb587f54553888dec71",
+          "name": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\">‘<span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">A\n © B’ means ‘A is either smaller than or equal to\n B.’</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\">‘<span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">A\n % B’ means ‘A is neither smaller than nor equal to B.’</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\">‘<span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">A\n @ B’ means ‘A is either greater than or equal to B.’</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\">‘<span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">A\n $ B’ means ‘A is neither greater than nor equal to B.’</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\">‘<span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">A\n # B’ means ‘A is neither greater than nor smaller than\n B.’</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statements:\n W $ K, K © G, G @ R</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Conclusions:\n </span></span></span></span>\n </p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I.\n R $ K </span></span></span></span>\n </p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II.\n G % W</span></span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n ‘A\n © B’ means ‘A is either smaller than or equal to\n B.’\n \n ‘A\n % B’ means ‘A is neither smaller than nor equal to B.’\n \n ‘A\n @ B’ means ‘A is either greater than or equal to B.’\n \n ‘A\n $ B’ means ‘A is neither greater than nor equal to B.’\n \n ‘A\n # B’ means ‘A is neither greater than nor smaller than\n B.’\n \n Statements:\n W $ K, K © G, G @ R\n \n Conclusions:\n \n \n \n I.\n R $ K \n \n II.\n G % W\n ",
+          "sectionId": "67c16ba640b3090e5f7172ac",
+          "order": 17,
+          "questionSubmitOrder": 17,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n conclusion I is valid.</span></span></span></span></p>\n ",
+              "nameText": "\n Only\n conclusion I is valid.\n ",
+              "isCorrect": false,
+              "_id": "67c16bde87f545209a8dece2",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n conclusion II is valid.</span></span></span></span></p>\n ",
+              "nameText": "\n Only\n conclusion II is valid.\n ",
+              "isCorrect": true,
+              "_id": "67c16bde87f5451ab58dece3",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Either\n conclusion I or II is valid.</span></span></span></span></p>\n ",
+              "nameText": "\n Either\n conclusion I or II is valid.\n ",
+              "isCorrect": false,
+              "_id": "67c16bde87f54554a68dece4",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Neither\n conclusion I nor II is valid.</span></span></span></span></p>\n ",
+              "nameText": "\n Neither\n conclusion I nor II is valid.\n ",
+              "isCorrect": false,
+              "_id": "67c16bde87f545ac1d8dece5",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Both\n the conclusion I and II are valid.</span></span></span></span></p>\n ",
+              "nameText": "\n Both\n the conclusion I and II are valid.\n ",
+              "isCorrect": false,
+              "_id": "67c16bde87f5452a0e8dece6",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Conclusion\n I:</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"images/img_1d1d94b6778c.png\" name=\"Picture 3\" align=\"bottom\" width=\"178\" height=\"78\" border=\"0\">\n</img></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Conclusion\n II:</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"images/img_ec2c6cc55e8e.png\" name=\"Picture 4\" align=\"bottom\" width=\"171\" height=\"95\" border=\"0\">\n</img></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Hence,\n only Conclusion II is true.</span></span></span></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a310377d7b31ebca0a8",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "67c16bb587f5451b528dec7d",
+          "name": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statement:\n P ≤ Q &lt; S = T ≥ U ≥ W &lt; Z</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Conclusion:\n </span></span></span></span>\n </p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I.\n S &gt; W, </span></span></span></span>\n </p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II.\n W = T</span></span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n Statement:\n P ≤ Q &lt; S = T ≥ U ≥ W &lt; Z\n \n Conclusion:\n \n \n \n I.\n S &gt; W, \n \n II.\n W = T\n ",
+          "sectionId": "67c16ba640b3090e5f7172ac",
+          "order": 18,
+          "questionSubmitOrder": 18,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n conclusion I is valid.</span></span></span></span></p>\n ",
+              "nameText": "\n Only\n conclusion I is valid.\n ",
+              "isCorrect": false,
+              "_id": "67c16bde87f5457d288ded0a",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n conclusion II is valid.</span></span></span></span></p>\n ",
+              "nameText": "\n Only\n conclusion II is valid.\n ",
+              "isCorrect": false,
+              "_id": "67c16bde87f54517da8ded0b",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Either\n conclusion I or II is valid.</span></span></span></span></p>\n ",
+              "nameText": "\n Either\n conclusion I or II is valid.\n ",
+              "isCorrect": true,
+              "_id": "67c16bde87f54513a58ded0c",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Neither\n conclusion I nor II is valid.</span></span></span></span></p>\n ",
+              "nameText": "\n Neither\n conclusion I nor II is valid.\n ",
+              "isCorrect": false,
+              "_id": "67c16bde87f54535cb8ded0d",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Both\n the conclusion I and II are valid.</span></span></span></span></p>\n ",
+              "nameText": "\n Both\n the conclusion I and II are valid.\n ",
+              "isCorrect": false,
+              "_id": "67c16bde87f5456e4f8ded0e",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">For\n conclusion I and II: S &gt; W and W = T</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">From\n the given statement, we get:</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">S\n = T ≥ U ≥ W</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Here,\n the common sign between S and W is ‘≥’ and the\n given conclusions are S &gt; W and W = S.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Moreover,\n we are aware that 'S = T' which means we can replace T with S in\n conclusion 2.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Hence,\n either conclusion I or conclusion II follows.</span></span></span></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a310377d75ae6bca0a9",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "67c16bb587f545be4b8dec6b",
+          "name": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">L\n ≤ O &gt; V = E ≥ S</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Which\n of the following ones is correct?</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">1)\n L ≤ V 2) O = E 3) O &gt; S 4) S ≥ L</span></span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n L\n ≤ O &gt; V = E ≥ S\n \n Which\n of the following ones is correct?\n 1)\n L ≤ V 2) O = E 3) O &gt; S 4) S ≥ L\n ",
+          "sectionId": "67c16ba640b3090e5f7172ac",
+          "order": 19,
+          "questionSubmitOrder": 19,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n 1</span></span></span></span></p>\n ",
+              "nameText": "\n Only\n 1\n ",
+              "isCorrect": false,
+              "_id": "67c16bde87f545b3628decf6",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n 2</span></span></span></span></p>\n ",
+              "nameText": "\n Only\n 2\n ",
+              "isCorrect": false,
+              "_id": "67c16bde87f545c6a68decf7",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n 3</span></span></span></span></p>\n ",
+              "nameText": "\n Only\n 3\n ",
+              "isCorrect": true,
+              "_id": "67c16bde87f5457dc68decf8",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n 3 and 4</span></span></span></span></p>\n ",
+              "nameText": "\n Only\n 3 and 4\n ",
+              "isCorrect": false,
+              "_id": "67c16bde87f5452a248decf9",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">None</span></span></span></span></p>\n ",
+              "nameText": "\n None\n ",
+              "isCorrect": false,
+              "_id": "67c16bde87f54533f18decfa",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">L\n ≤ O &gt; V = E ≥ S</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">We\n can compare O and S. which shows that the option 3rd is correct\n because the common symbol between O and S is ‘&gt;’.</span></span></span></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a310377d70a27bca0aa",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "67c16bb587f545285f8decb9",
+          "name": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">A\n @ B means 'A is not less than B'</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">A\n $ B means 'A is not more than B'</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">A\n # B means 'A is neither less nor more than B'</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">A\n * B means 'A is neither more than nor equal to B'</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">A\n % B means 'A is neither less than nor equal to B'</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statements\n : V@I#E*D ; N$E%B#F</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Conclusions\n : </span></span></span></span>\n </p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I.\n V%F </span></span></span></span>\n </p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II.\n V@N</span></span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n A\n @ B means 'A is not less than B'\n \n A\n $ B means 'A is not more than B'\n \n A\n # B means 'A is neither less nor more than B'\n \n A\n * B means 'A is neither more than nor equal to B'\n \n A\n % B means 'A is neither less than nor equal to B'\n \n Statements\n : V@I#E*D ; N$E%B#F\n \n Conclusions\n : \n \n \n I.\n V%F \n \n II.\n V@N\n ",
+          "sectionId": "67c16ba640b3090e5f7172ac",
+          "order": 20,
+          "questionSubmitOrder": 20,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n conclusion I is valid.</span></span></span></span></p>\n ",
+              "nameText": "\n Only\n conclusion I is valid.\n ",
+              "isCorrect": false,
+              "_id": "67c16bde87f545dcf38ded14",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n conclusion II is valid.</span></span></span></span></p>\n ",
+              "nameText": "\n Only\n conclusion II is valid.\n ",
+              "isCorrect": false,
+              "_id": "67c16bde87f5451a2c8ded15",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Either\n conclusion I or II is valid.</span></span></span></span></p>\n ",
+              "nameText": "\n Either\n conclusion I or II is valid.\n ",
+              "isCorrect": false,
+              "_id": "67c16bde87f54546ce8ded16",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Neither\n conclusion I nor II is valid.</span></span></span></span></p>\n ",
+              "nameText": "\n Neither\n conclusion I nor II is valid.\n ",
+              "isCorrect": false,
+              "_id": "67c16bde87f54561b18ded17",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Both\n the conclusion I and II are valid.</span></span></span></span></p>\n ",
+              "nameText": "\n Both\n the conclusion I and II are valid.\n ",
+              "isCorrect": true,
+              "_id": "67c16bde87f545e05a8ded18",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Conclusions:\n I. V &gt; F II. V ≥ N</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">For\n conclusion I:</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">From\n both the statements we get:</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">V\n ≥ I = E &gt; B = F</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">The\n common sign between V and F is '&gt;', thus V &gt; F is true.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Hence\n conclusion I follows.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">For\n conclusion II:</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">From\n both the statements we get:</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">V\n ≥ I = E ≥ N</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">The\n common sign between V and N is '≥', thus V ≥ N is the actual\n relationship.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Hence\n conclusion II follows.</span></span></span></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a310377d710d2bca0ab",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        }
+      ],
+      "numberOfQuestions": 20
+    }
+  ],
+  "userDetails": {
+    "name": "Shivam Gupta",
+    "userId": 193594164,
+    "orgId": 78392
+  },
+  "sts": 1791654450058,
+  "region": {
+    "timeFormat": "hh:mm a",
+    "dateTimeStamp": "yyyy/MM/dd"
+  }
+}
