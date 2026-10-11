@@ -63,3 +63,15 @@
 | :-: | :--- | :---: | :--- |
 | 1 | **2nd Oct 2026 Slot 1 Infosys SE Actual Exam** | PDF Exam Paper | [2nd Oct 2026 Slot 1 Infosys SE Actual Exam.pdf](04_Topmate_Actual_Exam_Slot_Papers/2nd Oct 2026 Slot 1 Infosys SE Actual Exam.pdf) |
 | 2 | **2nd Oct 2026 Slot 2 Infosys SE Actual Exam** | PDF Exam Paper | [2nd Oct 2026 Slot 2 Infosys SE Actual Exam.pdf](04_Topmate_Actual_Exam_Slot_Papers/2nd Oct 2026 Slot 2 Infosys SE Actual Exam.pdf) |
+---
+
+## 5. 🏫 College ITM Official Infosys SE Mock Test Papers
+
+| # | Mock Paper Name | Pages | Direct PDF Link |
+| :-: | :--- | :---: | :--- |
+| 1 | **Infosys SE Mock Paper 1** | 7 | [Infosys_SE_Mock_Paper.pdf](05_College_ITM_Mock_Papers/Infosys_SE_Mock_Paper.pdf) |
+| 2 | **Infosys SE Mock Paper 2** | 10 | [Infosys_SE_Mock_Paper_2.pdf](05_College_ITM_Mock_Papers/Infosys_SE_Mock_Paper_2.pdf) |
+| 3 | **Infosys SE Mock Paper 3** | 11 | [Infosys_SE_Mock_Paper_3.pdf](05_College_ITM_Mock_Papers/Infosys_SE_Mock_Paper_3.pdf) |
+| 4 | **Infosys SE Mock Paper 4** | 11 | [Infosys_SE_Mock_Paper_4.pdf](05_College_ITM_Mock_Papers/Infosys_SE_Mock_Paper_4.pdf) |
+| 5 | **Infosys SE Mock Paper 5** | 11 | [Infosys_SE_Mock_Paper_5.pdf](05_College_ITM_Mock_Papers/Infosys_SE_Mock_Paper_5.pdf) |
+| 6 | **Infosys SE Mock Paper 6** | 11 | [Infosys_SE_Mock_Paper_6.pdf](05_College_ITM_Mock_Papers/Infosys_SE_Mock_Paper_6.pdf) |
