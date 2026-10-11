@@ -1,0 +1,994 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>OnlineStudy4U Book 4 — Pseudocode & Technical MCQ Master E-Book</title>
+<style>
+  @page {
+    size: A4 portrait;
+    margin: 16mm 14mm 16mm 14mm;
+    @bottom-center {
+      content: "Page " counter(page);
+      font-size: 8.5pt;
+      font-family: 'Segoe UI', system-ui, sans-serif;
+      color: #64748b;
+    }
+  }
+  * {
+    box-sizing: border-box;
+    -webkit-print-color-adjust: exact !important;
+    print-color-adjust: exact !important;
+  }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    color: #1e293b;
+    background: #ffffff;
+    line-height: 1.48;
+    margin: 0;
+    padding: 0;
+    font-size: 10pt;
+  }
+  
+  /* COVER PAGE */
+  .cover-page {
+    page-break-after: always;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    min-height: 90vh;
+    border: 3px double #1e293b;
+    padding: 40px 30px;
+    background: linear-gradient(180deg, #ffffff 0%, #f1f5f9 100%);
+    border-radius: 8px;
+  }
+  .cover-logo {
+    font-size: 13pt;
+    font-weight: 800;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #1e293b;
+    margin-bottom: 20px;
+    background: #ffffff;
+    padding: 6px 16px;
+    border-radius: 20px;
+    border: 1px solid #1e293b;
+  }
+  .cover-badge {
+    display: inline-block;
+    background: #1e293b;
+    color: #ffffff;
+    font-size: 11pt;
+    font-weight: 700;
+    padding: 6px 18px;
+    border-radius: 30px;
+    margin-bottom: 25px;
+    letter-spacing: 1px;
+  }
+  .cover-title {
+    font-size: 26pt;
+    font-weight: 900;
+    color: #0f172a;
+    line-height: 1.25;
+    margin: 0 0 16px 0;
+  }
+  .cover-subtitle {
+    font-size: 12.5pt;
+    color: #475569;
+    max-width: 580px;
+    margin: 0 auto 35px auto;
+    line-height: 1.5;
+  }
+  .cover-meta {
+    font-size: 10pt;
+    color: #334155;
+    background: rgba(255, 255, 255, 0.85);
+    padding: 16px 28px;
+    border-radius: 8px;
+    border: 1px solid #cbd5e1;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 12px;
+    text-align: left;
+    max-width: 440px;
+  }
+  .cover-meta div strong {
+    color: #0f172a;
+  }
+  
+  /* DOCUMENT HEADER */
+  .doc-header {
+    border-bottom: 2px solid #1e293b;
+    padding-bottom: 8px;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .doc-header h2 {
+    margin: 0;
+    font-size: 12pt;
+    color: #1e293b;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+  }
+  .doc-header span {
+    font-size: 8.5pt;
+    color: #64748b;
+    font-weight: 600;
+  }
+
+  /* QUESTION CARD */
+  .q-card {
+    page-break-inside: avoid;
+    background: #ffffff;
+    border: 1px solid #e2e8f0;
+    border-left: 4px solid #1e293b;
+    border-radius: 6px;
+    padding: 14px 16px;
+    margin-bottom: 18px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.02);
+  }
+  .q-top {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 8px;
+  }
+  .q-num {
+    font-size: 9.5pt;
+    font-weight: 800;
+    color: #1e293b;
+  }
+  .q-topic {
+    font-size: 7.5pt;
+    font-weight: 700;
+    background: #f1f5f9;
+    color: #1e293b;
+    padding: 2px 8px;
+    border-radius: 12px;
+    text-transform: uppercase;
+  }
+  .q-prompt {
+    font-size: 9.8pt;
+    font-weight: 600;
+    color: #1e293b;
+    margin-bottom: 10px;
+    line-height: 1.45;
+  }
+  
+  /* OPTIONS */
+  .options-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 6px 12px;
+    margin-bottom: 10px;
+  }
+  .opt-item {
+    font-size: 9pt;
+    color: #334155;
+    display: flex;
+    align-items: flex-start;
+  }
+  .opt-pill {
+    display: inline-block;
+    width: 18px;
+    height: 18px;
+    line-height: 18px;
+    text-align: center;
+    background: #f1f5f9;
+    border: 1px solid #cbd5e1;
+    color: #475569;
+    font-size: 7.5pt;
+    font-weight: 700;
+    border-radius: 50%;
+    margin-right: 6px;
+    flex-shrink: 0;
+  }
+  
+  /* ANSWER & SOLUTION BOX */
+  .ans-bar {
+    display: flex;
+    align-items: center;
+    background: #ecfdf5;
+    border: 1px solid #a7f3d0;
+    border-radius: 4px;
+    padding: 5px 10px;
+    margin-top: 8px;
+    margin-bottom: 6px;
+  }
+  .ans-badge {
+    font-size: 8pt;
+    font-weight: 800;
+    color: #065f46;
+    background: #d1fae5;
+    padding: 2px 6px;
+    border-radius: 4px;
+    margin-right: 8px;
+  }
+  .ans-text {
+    font-size: 9pt;
+    font-weight: 700;
+    color: #065f46;
+  }
+  
+  .solution-box {
+    background: #f8fafc;
+    border-left: 3px solid #94a3b8;
+    padding: 8px 12px;
+    border-radius: 0 4px 4px 0;
+    margin-top: 6px;
+    font-size: 8.5pt;
+    color: #475569;
+    line-height: 1.45;
+  }
+  .solution-title {
+    font-weight: 700;
+    color: #334155;
+    margin-bottom: 3px;
+    display: block;
+    font-size: 8pt;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+  }
+</style>
+</head>
+<body>
+
+  <!-- COVER PAGE -->
+  <div class="cover-page">
+    <div class="cover-logo">OnlineStudy4U • Master Course Series</div>
+    <div class="cover-badge">TECHNICAL PSEUDOCODE</div>
+    <h1 class="cover-title">Pseudocode & Technical MCQ Master E-Book</h1>
+    <div class="cover-subtitle">Execution Tracing, Loops, Bitwise Operators, Algorithms & Output Predictions</div>
+    <div class="cover-meta">
+      <div><strong>Target Role:</strong> Infosys SE (2026 Batch)</div>
+      <div><strong>Total Questions:</strong> 41 Solved MCQs</div>
+      <div><strong>Format:</strong> CampusMonk Master E-Book Standard</div>
+      <div><strong>Status:</strong> 100% Verified & Answer-Keyed</div>
+    </div>
+  </div>
+
+  <!-- CONTENT PAGES -->
+  <div class="doc-header">
+    <h2>TECHNICAL PSEUDOCODE • COMPREHENSIVE QUESTION COMPENDIUM</h2>
+    <span>INFOSYS SE PREPARATION • ONLINESTUDY4U MASTER SERIES</span>
+  </div>
+
+        <div class="q-card">
+          <div class="q-top">
+            <span class="q-num">Q001</span>
+            <span class="q-topic">Pseudo Code</span>
+          </div>
+          <div class="q-prompt">How many times does the loop body run, and<br>what is printed?<br>Integer<br>i, count<br>Set<br>i = 1, count = 0<br>while<br>i &lt; 20 do<br>i<br>= i * 2<br>count<br>= count + 1<br>end<br>while<br>Print<br>count</div>
+          <div class="options-grid"><div class="opt-item"><span class="opt-pill">A</span> 3</div><div class="opt-item"><span class="opt-pill">B</span> 4</div><div class="opt-item"><span class="opt-pill">C</span> 5</div><div class="opt-item"><span class="opt-pill">D</span> 6</div></div>
+          <div class="ans-bar">
+            <span class="ans-badge">CORRECT ANSWER</span>
+            <span class="ans-text">Option (C)</span>
+          </div>
+          
+            <div class="solution-box">
+              <span class="solution-title">💡 Step-by-Step Logic & Explanation:</span>
+              Trace i and count: start i=1. Pass 1: i=2,<br>count=1. Pass 2: i=4, count=2. Pass 3: i=8, count=3. Pass 4: i=16,<br>count=4. Pass 5: i=32, count=5. Now i=32 is not less than 20, so<br>the loop stops. Printed value is 5.
+            </div>
+        </div>
+        
+        <div class="q-card">
+          <div class="q-top">
+            <span class="q-num">Q002</span>
+            <span class="q-topic">Pseudo Code</span>
+          </div>
+          <div class="q-prompt">What is the output of the following Pseudo<br>Code? Integer division is used.<br>Integer<br>a, b<br>Set<br>a = 17, b = 5<br>Print<br>(a / b) + (a % b)</div>
+          <div class="options-grid"><div class="opt-item"><span class="opt-pill">A</span> 3</div><div class="opt-item"><span class="opt-pill">B</span> 4</div><div class="opt-item"><span class="opt-pill">C</span> 5</div><div class="opt-item"><span class="opt-pill">D</span> 7</div></div>
+          <div class="ans-bar">
+            <span class="ans-badge">CORRECT ANSWER</span>
+            <span class="ans-text">Option (C)</span>
+          </div>
+          
+            <div class="solution-box">
+              <span class="solution-title">💡 Step-by-Step Logic & Explanation:</span>
+              Integer division: 17 / 5 = 3. Remainder: 17<br>% 5 = 2. Printed value = 3 + 2 = 5.
+            </div>
+        </div>
+        
+        <div class="q-card">
+          <div class="q-top">
+            <span class="q-num">Q003</span>
+            <span class="q-topic">Pseudo Code</span>
+          </div>
+          <div class="q-prompt">What is the output of the following Pseudo<br>Code?<br>Integer<br>x, i<br>Set<br>x = 0<br>for<br>i = 1 to 6 do<br>if<br>i % 2 == 0 then<br>continue<br>end<br>if<br>x<br>= x + i<br>end<br>for<br>Print<br>x</div>
+          <div class="options-grid"><div class="opt-item"><span class="opt-pill">A</span> 9</div><div class="opt-item"><span class="opt-pill">B</span> 12</div><div class="opt-item"><span class="opt-pill">C</span> 16</div><div class="opt-item"><span class="opt-pill">D</span> 21</div></div>
+          <div class="ans-bar">
+            <span class="ans-badge">CORRECT ANSWER</span>
+            <span class="ans-text">Option (A)</span>
+          </div>
+          
+            <div class="solution-box">
+              <span class="solution-title">💡 Step-by-Step Logic & Explanation:</span>
+              continue skips even values of i. The loop<br>runs i = 1 to 6, so only the odd values 1, 3 and 5 are added. x =<br>1 + 3 + 5 = 9.
+            </div>
+        </div>
+        
+        <div class="q-card">
+          <div class="q-top">
+            <span class="q-num">Q004</span>
+            <span class="q-topic">Pseudo Code</span>
+          </div>
+          <div class="q-prompt">What value is printed by the following<br>Pseudo Code?<br>Function<br>Mystery(n)<br>if<br>n &lt;= 1 then<br>return<br>1<br>end<br>if<br>return<br>n * Mystery(n - 1)<br>End<br>Function<br>Print<br>Mystery(5)</div>
+          <div class="options-grid"><div class="opt-item"><span class="opt-pill">A</span> 15</div><div class="opt-item"><span class="opt-pill">B</span> 24</div><div class="opt-item"><span class="opt-pill">C</span> 120</div><div class="opt-item"><span class="opt-pill">D</span> 125</div></div>
+          <div class="ans-bar">
+            <span class="ans-badge">CORRECT ANSWER</span>
+            <span class="ans-text">Option (C)</span>
+          </div>
+          
+            <div class="solution-box">
+              <span class="solution-title">💡 Step-by-Step Logic & Explanation:</span>
+              Mystery(n) computes n!. Mystery(5) = 5 ×<br>4 × 3 × 2 × 1 = 120.
+            </div>
+        </div>
+        
+        <div class="q-card">
+          <div class="q-top">
+            <span class="q-num">Q005</span>
+            <span class="q-topic">Pseudo Code</span>
+          </div>
+          <div class="q-prompt">What is printed after the following Pseudo<br>Code runs?<br>Integer<br>a, b<br>Set<br>a = 12, b = 8<br>a<br>= a + b<br>b<br>= a - b<br>a<br>= a - b<br>Print<br>a, b</div>
+          <div class="options-grid"><div class="opt-item"><span class="opt-pill">A</span> 12 8</div><div class="opt-item"><span class="opt-pill">B</span> 8 12</div><div class="opt-item"><span class="opt-pill">C</span> 20 8</div><div class="opt-item"><span class="opt-pill">D</span> 20 12</div></div>
+          <div class="ans-bar">
+            <span class="ans-badge">CORRECT ANSWER</span>
+            <span class="ans-text">Option (B)</span>
+          </div>
+          
+            <div class="solution-box">
+              <span class="solution-title">💡 Step-by-Step Logic & Explanation:</span>
+              This swaps the two values without a third<br>variable. a = 12+8 = 20, b = 20-8 = 12, a = 20-12 = 8. Output: 8<br>12.
+            </div>
+        </div>
+        
+        <div class="q-card">
+          <div class="q-top">
+            <span class="q-num">Q006</span>
+            <span class="q-topic">Pseudo Code</span>
+          </div>
+          <div class="q-prompt">What is printed by the following Pseudo<br>Code?<br>Integer<br>i, j, count<br>Set<br>count = 0<br>for<br>i = 1 to 4 do<br>for<br>j = 1 to i do<br>count<br>= count + 1<br>end<br>for<br>end<br>for<br>Print<br>count</div>
+          <div class="options-grid"><div class="opt-item"><span class="opt-pill">A</span> 4</div><div class="opt-item"><span class="opt-pill">B</span> 8</div><div class="opt-item"><span class="opt-pill">C</span> 10</div><div class="opt-item"><span class="opt-pill">D</span> 16</div></div>
+          <div class="ans-bar">
+            <span class="ans-badge">CORRECT ANSWER</span>
+            <span class="ans-text">Option (C)</span>
+          </div>
+          
+            <div class="solution-box">
+              <span class="solution-title">💡 Step-by-Step Logic & Explanation:</span>
+              The inner loop runs i times for each i from<br>1 to 4. Total iterations = 1+2+3+4 = 10. So count prints 10.
+            </div>
+        </div>
+        
+        <div class="q-card">
+          <div class="q-top">
+            <span class="q-num">Q007</span>
+            <span class="q-topic">Pseudo Code</span>
+          </div>
+          <div class="q-prompt">What is the output of the following Pseudo<br>Code?<br>Integer<br>a, b<br>Set<br>a = 9, b = 5<br>Print<br>a ^ b</div>
+          <div class="options-grid"><div class="opt-item"><span class="opt-pill">A</span> 4</div><div class="opt-item"><span class="opt-pill">B</span> 12</div><div class="opt-item"><span class="opt-pill">C</span> 13</div><div class="opt-item"><span class="opt-pill">D</span> 14</div></div>
+          <div class="ans-bar">
+            <span class="ans-badge">CORRECT ANSWER</span>
+            <span class="ans-text">Option (B)</span>
+          </div>
+          
+            <div class="solution-box">
+              <span class="solution-title">💡 Step-by-Step Logic & Explanation:</span>
+              9 in binary is 1001 and 5 is 0101. XOR sets<br>a bit where the bits differ: 1100, which is 12.
+            </div>
+        </div>
+        
+        <div class="q-card">
+          <div class="q-top">
+            <span class="q-num">Q008</span>
+            <span class="q-topic">Pseudo Code</span>
+          </div>
+          <div class="q-prompt">What value is printed by the following<br>Pseudo Code?<br>Function<br>F(n)<br>if<br>n == 0 then return 0<br>if<br>n == 1 then return 1<br>return<br>F(n - 1) + F(n - 2)<br>End<br>Function<br>Print<br>F(6)</div>
+          <div class="options-grid"><div class="opt-item"><span class="opt-pill">A</span> 5</div><div class="opt-item"><span class="opt-pill">B</span> 8</div><div class="opt-item"><span class="opt-pill">C</span> 13</div><div class="opt-item"><span class="opt-pill">D</span> 21</div></div>
+          <div class="ans-bar">
+            <span class="ans-badge">CORRECT ANSWER</span>
+            <span class="ans-text">Option (B)</span>
+          </div>
+          
+            <div class="solution-box">
+              <span class="solution-title">💡 Step-by-Step Logic & Explanation:</span>
+              F is the Fibonacci sequence: F(0)=0, F(1)=1,<br>F(2)=1, F(3)=2, F(4)=3, F(5)=5, F(6)=8. So the printed value is 8.
+            </div>
+        </div>
+        
+        <div class="q-card">
+          <div class="q-top">
+            <span class="q-num">Q009</span>
+            <span class="q-topic">Pseudo Code</span>
+          </div>
+          <div class="q-prompt">A queue follows FIFO. What is printed by the<br>following Pseudo Code?<br>Queue<br>Q<br>enqueue(Q,<br>2)<br>enqueue(Q,<br>4)<br>enqueue(Q,<br>6)<br>dequeue(Q)<br>enqueue(Q,<br>8)<br>Print<br>front(Q)</div>
+          <div class="options-grid"><div class="opt-item"><span class="opt-pill">A</span> 2</div><div class="opt-item"><span class="opt-pill">B</span> 4</div><div class="opt-item"><span class="opt-pill">C</span> 6</div><div class="opt-item"><span class="opt-pill">D</span> 8</div></div>
+          <div class="ans-bar">
+            <span class="ans-badge">CORRECT ANSWER</span>
+            <span class="ans-text">Option (B)</span>
+          </div>
+          
+            <div class="solution-box">
+              <span class="solution-title">💡 Step-by-Step Logic & Explanation:</span>
+              After three enqueues the queue is [2, 4, 6]<br>with 2 at the front. dequeue removes 2. enqueue 8 makes [4, 6, 8].<br>front returns 4.
+            </div>
+        </div>
+        
+        <div class="q-card">
+          <div class="q-top">
+            <span class="q-num">Q010</span>
+            <span class="q-topic">Pseudo Code</span>
+          </div>
+          <div class="q-prompt">A stack follows LIFO. What is printed by the<br>following Pseudo Code?<br>Stack<br>S<br>push(S,<br>5)<br>push(S,<br>8)<br>push(S,<br>3)<br>pop(S)<br>push(S,<br>7)<br>Print<br>peek(S)</div>
+          <div class="options-grid"><div class="opt-item"><span class="opt-pill">A</span> 3</div><div class="opt-item"><span class="opt-pill">B</span> 5</div><div class="opt-item"><span class="opt-pill">C</span> 7</div><div class="opt-item"><span class="opt-pill">D</span> 8</div></div>
+          <div class="ans-bar">
+            <span class="ans-badge">CORRECT ANSWER</span>
+            <span class="ans-text">Option (C)</span>
+          </div>
+          
+            <div class="solution-box">
+              <span class="solution-title">💡 Step-by-Step Logic & Explanation:</span>
+              Stack after the three pushes: [5, 8, 3] with<br>3 on top. pop removes 3. push 7 makes the stack [5, 8, 7]. peek<br>returns the top element, which is 7.
+            </div>
+        </div>
+        
+        <div class="q-card">
+          <div class="q-top">
+            <span class="q-num">Q011</span>
+            <span class="q-topic">Pseudo Code</span>
+          </div>
+          <div class="q-prompt">What is printed?<br>Integer<br>n, d<br>Set<br>n = 48, d = 0<br>while<br>n &gt; 1 do<br>n<br>= n / 2<br>d<br>= d + 1<br>end<br>while<br>Print<br>d</div>
+          <div class="options-grid"><div class="opt-item"><span class="opt-pill">A</span> 3</div><div class="opt-item"><span class="opt-pill">B</span> 4</div><div class="opt-item"><span class="opt-pill">C</span> 5</div><div class="opt-item"><span class="opt-pill">D</span> 6</div></div>
+          <div class="ans-bar">
+            <span class="ans-badge">CORRECT ANSWER</span>
+            <span class="ans-text">Option (C)</span>
+          </div>
+          
+            <div class="solution-box">
+              <span class="solution-title">💡 Step-by-Step Logic & Explanation:</span>
+              48→24→12→6→3→1.<br>That is five divisions. d = 5. (Integer division: 3/2=1.)
+            </div>
+        </div>
+        
+        <div class="q-card">
+          <div class="q-top">
+            <span class="q-num">Q012</span>
+            <span class="q-topic">Pseudo Code</span>
+          </div>
+          <div class="q-prompt">What is printed?<br>Integer<br>A[5] = {2, 4, 6, 8, 10}<br>Integer<br>i, s<br>Set<br>s = 0<br>for<br>i = 0 to 4 do<br>if<br>A[i] % 4 == 0 then s = s + A[i]<br>end<br>for<br>Print<br>s</div>
+          <div class="options-grid"><div class="opt-item"><span class="opt-pill">A</span> 12</div><div class="opt-item"><span class="opt-pill">B</span> 18</div><div class="opt-item"><span class="opt-pill">C</span> 24</div><div class="opt-item"><span class="opt-pill">D</span> 30</div></div>
+          <div class="ans-bar">
+            <span class="ans-badge">CORRECT ANSWER</span>
+            <span class="ans-text">Option (A)</span>
+          </div>
+          
+            <div class="solution-box">
+              <span class="solution-title">💡 Step-by-Step Logic & Explanation:</span>
+              Values divisible by 4 are 4 and 8. s = 4 + 8<br>= 12.
+            </div>
+        </div>
+        
+        <div class="q-card">
+          <div class="q-top">
+            <span class="q-num">Q013</span>
+            <span class="q-topic">Pseudo Code</span>
+          </div>
+          <div class="q-prompt">What is printed?<br>Integer<br>x<br>Set<br>x = 10<br>Print<br>x &amp; 3</div>
+          <div class="options-grid"><div class="opt-item"><span class="opt-pill">A</span> 1</div><div class="opt-item"><span class="opt-pill">B</span> 2</div><div class="opt-item"><span class="opt-pill">C</span> 3</div><div class="opt-item"><span class="opt-pill">D</span> 8</div></div>
+          <div class="ans-bar">
+            <span class="ans-badge">CORRECT ANSWER</span>
+            <span class="ans-text">Option (B)</span>
+          </div>
+          
+            <div class="solution-box">
+              <span class="solution-title">💡 Step-by-Step Logic & Explanation:</span>
+              10 is 1010 and 3 is 0011. AND is 0010, which<br>is 2.
+            </div>
+        </div>
+        
+        <div class="q-card">
+          <div class="q-top">
+            <span class="q-num">Q014</span>
+            <span class="q-topic">Pseudo Code</span>
+          </div>
+          <div class="q-prompt">What is printed?<br>Stack<br>S<br>push(S,<br>1)<br>push(S,<br>4)<br>push(S,<br>9)<br>pop(S)<br>pop(S)<br>Print<br>peek(S)</div>
+          <div class="options-grid"><div class="opt-item"><span class="opt-pill">A</span> 1</div><div class="opt-item"><span class="opt-pill">B</span> 4</div><div class="opt-item"><span class="opt-pill">C</span> 9</div><div class="opt-item"><span class="opt-pill">D</span> Empty</div></div>
+          <div class="ans-bar">
+            <span class="ans-badge">CORRECT ANSWER</span>
+            <span class="ans-text">Option (A)</span>
+          </div>
+          
+            <div class="solution-box">
+              <span class="solution-title">💡 Step-by-Step Logic & Explanation:</span>
+              After three pushes the top is 9. Two pops<br>remove 9 then 4. peek returns 1.
+            </div>
+        </div>
+        
+        <div class="q-card">
+          <div class="q-top">
+            <span class="q-num">Q015</span>
+            <span class="q-topic">Pseudo Code</span>
+          </div>
+          <div class="q-prompt">What does G(4) return?<br>Function<br>G(n)<br>if<br>n &lt;= 1 then return 1<br>return<br>n * G(n - 1)<br>End<br>Function<br>Print<br>G(4)</div>
+          <div class="options-grid"><div class="opt-item"><span class="opt-pill">A</span> 10</div><div class="opt-item"><span class="opt-pill">B</span> 16</div><div class="opt-item"><span class="opt-pill">C</span> 24</div><div class="opt-item"><span class="opt-pill">D</span> 64</div></div>
+          <div class="ans-bar">
+            <span class="ans-badge">CORRECT ANSWER</span>
+            <span class="ans-text">Option (C)</span>
+          </div>
+          
+            <div class="solution-box">
+              <span class="solution-title">💡 Step-by-Step Logic & Explanation:</span>
+              G is factorial. G(4)=4×3×2×1=24.
+            </div>
+        </div>
+        
+        <div class="q-card">
+          <div class="q-top">
+            <span class="q-num">Q016</span>
+            <span class="q-topic">Pseudo Code</span>
+          </div>
+          <div class="q-prompt">[Bitwise]<br>What is printed?<br>Integer<br>a<br>Set<br>a = 6<br>Print<br>a | 3</div>
+          <div class="options-grid"><div class="opt-item"><span class="opt-pill">A</span> 7</div><div class="opt-item"><span class="opt-pill">B</span> 5</div><div class="opt-item"><span class="opt-pill">C</span> 2</div><div class="opt-item"><span class="opt-pill">D</span> 18</div></div>
+          <div class="ans-bar">
+            <span class="ans-badge">CORRECT ANSWER</span>
+            <span class="ans-text">Option (A)</span>
+          </div>
+          
+            <div class="solution-box">
+              <span class="solution-title">💡 Step-by-Step Logic & Explanation:</span>
+              6<br>is 0110, 3 is 0011, OR is 0111 = 7.
+            </div>
+        </div>
+        
+        <div class="q-card">
+          <div class="q-top">
+            <span class="q-num">Q017</span>
+            <span class="q-topic">Pseudo Code</span>
+          </div>
+          <div class="q-prompt">[Queue]<br>What is printed?<br>Queue<br>Q<br>enqueue(Q,<br>11)<br>enqueue(Q,<br>22)<br>enqueue(Q,<br>33)<br>dequeue(Q)<br>dequeue(Q)<br>Print<br>front(Q)</div>
+          <div class="options-grid"><div class="opt-item"><span class="opt-pill">A</span> 11</div><div class="opt-item"><span class="opt-pill">B</span> 22</div><div class="opt-item"><span class="opt-pill">C</span> 33</div><div class="opt-item"><span class="opt-pill">D</span> Empty</div></div>
+          <div class="ans-bar">
+            <span class="ans-badge">CORRECT ANSWER</span>
+            <span class="ans-text">Option (C)</span>
+          </div>
+          
+            <div class="solution-box">
+              <span class="solution-title">💡 Step-by-Step Logic & Explanation:</span>
+              Queue<br>starts [11,22,33]. Two dequeues remove 11 then 22. Front is 33.
+            </div>
+        </div>
+        
+        <div class="q-card">
+          <div class="q-top">
+            <span class="q-num">Q018</span>
+            <span class="q-topic">Pseudo Code</span>
+          </div>
+          <div class="q-prompt">[Loops]<br>What is printed?<br>Integer<br>i, s<br>Set<br>s = 0<br>for<br>i = 1 to 10 do<br>if<br>i % 2 == 1 then s = s + i<br>end<br>for<br>Print<br>s</div>
+          <div class="options-grid"><div class="opt-item"><span class="opt-pill">A</span> 25</div><div class="opt-item"><span class="opt-pill">B</span> 30</div><div class="opt-item"><span class="opt-pill">C</span> 45</div><div class="opt-item"><span class="opt-pill">D</span> 55</div></div>
+          <div class="ans-bar">
+            <span class="ans-badge">CORRECT ANSWER</span>
+            <span class="ans-text">Option (A)</span>
+          </div>
+          
+            <div class="solution-box">
+              <span class="solution-title">💡 Step-by-Step Logic & Explanation:</span>
+              The<br>loop adds the odd values 1+3+5+7+9 = 25.
+            </div>
+        </div>
+        
+        <div class="q-card">
+          <div class="q-top">
+            <span class="q-num">Q019</span>
+            <span class="q-topic">Pseudo Code</span>
+          </div>
+          <div class="q-prompt">[Recursion]<br>What does S(5) return?<br>Function<br>S(n)<br>if<br>n == 0 then return 0<br>return<br>n + S(n - 1)<br>End<br>Function<br>Print<br>S(5)</div>
+          <div class="options-grid"><div class="opt-item"><span class="opt-pill">A</span> 10</div><div class="opt-item"><span class="opt-pill">B</span> 15</div><div class="opt-item"><span class="opt-pill">C</span> 16</div><div class="opt-item"><span class="opt-pill">D</span> 25</div></div>
+          <div class="ans-bar">
+            <span class="ans-badge">CORRECT ANSWER</span>
+            <span class="ans-text">Option (B)</span>
+          </div>
+          
+            <div class="solution-box">
+              <span class="solution-title">💡 Step-by-Step Logic & Explanation:</span>
+              S(n)<br>is the sum 5+4+3+2+1+0 = 15.
+            </div>
+        </div>
+        
+        <div class="q-card">
+          <div class="q-top">
+            <span class="q-num">Q020</span>
+            <span class="q-topic">Pseudo Code</span>
+          </div>
+          <div class="q-prompt">[Arrays]<br>What is printed?<br>Integer<br>A[4] = {3, 5, 7, 9}<br>Integer<br>i, p<br>Set<br>p = 1<br>for<br>i = 0 to 3 do<br>p<br>= p * A[i]<br>end<br>for<br>Print<br>p</div>
+          <div class="options-grid"><div class="opt-item"><span class="opt-pill">A</span> 24</div><div class="opt-item"><span class="opt-pill">B</span> 315</div><div class="opt-item"><span class="opt-pill">C</span> 945</div><div class="opt-item"><span class="opt-pill">D</span> 105</div></div>
+          <div class="ans-bar">
+            <span class="ans-badge">CORRECT ANSWER</span>
+            <span class="ans-text">Option (C)</span>
+          </div>
+          
+            <div class="solution-box">
+              <span class="solution-title">💡 Step-by-Step Logic & Explanation:</span>
+              Product<br>3×5×7×9 = 945.
+            </div>
+        </div>
+        
+        <div class="q-card">
+          <div class="q-top">
+            <span class="q-num">Q021</span>
+            <span class="q-topic">Pseudo Code</span>
+          </div>
+          <div class="q-prompt">[Loops]<br>What is printed?<br>Integer<br>i, p<br>Set<br>p = 1<br>for<br>i = 1 to 4 do<br>p<br>= p * i<br>end<br>for<br>Print<br>p</div>
+          <div class="options-grid"><div class="opt-item"><span class="opt-pill">A</span> 10</div><div class="opt-item"><span class="opt-pill">B</span> 16</div><div class="opt-item"><span class="opt-pill">C</span> 24</div><div class="opt-item"><span class="opt-pill">D</span> 120</div></div>
+          <div class="ans-bar">
+            <span class="ans-badge">CORRECT ANSWER</span>
+            <span class="ans-text">Option (C)</span>
+          </div>
+          
+            <div class="solution-box">
+              <span class="solution-title">💡 Step-by-Step Logic & Explanation:</span>
+              p<br>multiplies 1×2×3×4 = 24.
+            </div>
+        </div>
+        
+        <div class="q-card">
+          <div class="q-top">
+            <span class="q-num">Q022</span>
+            <span class="q-topic">Pseudo Code</span>
+          </div>
+          <div class="q-prompt">[Data<br>Structures] Queue Q receives 5, then 15, then 25. One dequeue<br>runs. What is front(Q)?<br>Queue<br>Q<br>enqueue(Q,<br>5)<br>enqueue(Q,<br>15)<br>enqueue(Q,<br>25)<br>dequeue(Q)<br>Print<br>front(Q)</div>
+          <div class="options-grid"><div class="opt-item"><span class="opt-pill">A</span> 5</div><div class="opt-item"><span class="opt-pill">B</span> 15</div><div class="opt-item"><span class="opt-pill">C</span> 25</div><div class="opt-item"><span class="opt-pill">D</span> Empty</div></div>
+          <div class="ans-bar">
+            <span class="ans-badge">CORRECT ANSWER</span>
+            <span class="ans-text">Option (B)</span>
+          </div>
+          
+            <div class="solution-box">
+              <span class="solution-title">💡 Step-by-Step Logic & Explanation:</span>
+              FIFO:<br>5 leaves. Front is 15.
+            </div>
+        </div>
+        
+        <div class="q-card">
+          <div class="q-top">
+            <span class="q-num">Q023</span>
+            <span class="q-topic">Pseudo Code</span>
+          </div>
+          <div class="q-prompt">[Data<br>Structures] After the operations, what does peek return?<br>Stack<br>S<br>push(S,<br>10)<br>push(S,<br>20)<br>push(S,<br>30)<br>pop(S)<br>push(S,<br>40)<br>Print<br>peek(S)</div>
+          <div class="options-grid"><div class="opt-item"><span class="opt-pill">A</span> 10</div><div class="opt-item"><span class="opt-pill">B</span> 20</div><div class="opt-item"><span class="opt-pill">C</span> 40</div><div class="opt-item"><span class="opt-pill">D</span> 30</div></div>
+          <div class="ans-bar">
+            <span class="ans-badge">CORRECT ANSWER</span>
+            <span class="ans-text">Option (C)</span>
+          </div>
+          
+            <div class="solution-box">
+              <span class="solution-title">💡 Step-by-Step Logic & Explanation:</span>
+              Stack<br>after pops/pushes: [10, 20, 40]. peek = 40.
+            </div>
+        </div>
+        
+        <div class="q-card">
+          <div class="q-top">
+            <span class="q-num">Q024</span>
+            <span class="q-topic">Pseudo Code</span>
+          </div>
+          <div class="q-prompt">[Bitwise]<br>What is printed?<br>Integer<br>a, b<br>Set<br>a = 13, b = 6<br>Print<br>a &amp; b</div>
+          <div class="options-grid"><div class="opt-item"><span class="opt-pill">A</span> 4</div><div class="opt-item"><span class="opt-pill">B</span> 5</div><div class="opt-item"><span class="opt-pill">C</span> 7</div><div class="opt-item"><span class="opt-pill">D</span> 11</div></div>
+          <div class="ans-bar">
+            <span class="ans-badge">CORRECT ANSWER</span>
+            <span class="ans-text">Option (A)</span>
+          </div>
+          
+            <div class="solution-box">
+              <span class="solution-title">💡 Step-by-Step Logic & Explanation:</span>
+              13<br>is 1101, 6 is 0110, AND is 0100 = 4.
+            </div>
+        </div>
+        
+        <div class="q-card">
+          <div class="q-top">
+            <span class="q-num">Q025</span>
+            <span class="q-topic">Pseudo Code</span>
+          </div>
+          <div class="q-prompt">[Recursion]<br>What does P(4) return?<br>Function<br>P(n)<br>if<br>n == 1 then return 2<br>return<br>P(n - 1) * 2<br>End<br>Function<br>Print<br>P(4)</div>
+          <div class="options-grid"><div class="opt-item"><span class="opt-pill">A</span> 8</div><div class="opt-item"><span class="opt-pill">B</span> 12</div><div class="opt-item"><span class="opt-pill">C</span> 16</div><div class="opt-item"><span class="opt-pill">D</span> 24</div></div>
+          <div class="ans-bar">
+            <span class="ans-badge">CORRECT ANSWER</span>
+            <span class="ans-text">Option (C)</span>
+          </div>
+          
+            <div class="solution-box">
+              <span class="solution-title">💡 Step-by-Step Logic & Explanation:</span>
+              P(1)=2,<br>P(2)=4, P(3)=8, P(4)=16.
+            </div>
+        </div>
+        
+        <div class="q-card">
+          <div class="q-top">
+            <span class="q-num">Q026</span>
+            <span class="q-topic">Pseudo Code</span>
+          </div>
+          <div class="q-prompt">What<br>does R(6) return?<br>Function<br>R(n)<br>if<br>n &lt; 3 then return n<br>return<br>R(n - 1) + 2<br>End<br>Function<br>Print<br>R(6)</div>
+          <div class="options-grid"><div class="opt-item"><span class="opt-pill">A</span> 6</div><div class="opt-item"><span class="opt-pill">B</span> 8</div><div class="opt-item"><span class="opt-pill">C</span> 10</div><div class="opt-item"><span class="opt-pill">D</span> 12</div></div>
+          <div class="ans-bar">
+            <span class="ans-badge">CORRECT ANSWER</span>
+            <span class="ans-text">Option (C)</span>
+          </div>
+          
+            <div class="solution-box">
+              <span class="solution-title">💡 Step-by-Step Logic & Explanation:</span>
+              R(2)=2.<br>Each later call adds 2. R(6)=2 + 2×4 = 10.
+            </div>
+        </div>
+        
+        <div class="q-card">
+          <div class="q-top">
+            <span class="q-num">Q027</span>
+            <span class="q-topic">Pseudo Code</span>
+          </div>
+          <div class="q-prompt">What<br>is printed?<br>Stack<br>S<br>push(S,<br>3)<br>push(S,<br>6)<br>push(S,<br>9)<br>pop(S)<br>push(S,<br>12)<br>Print<br>peek(S)</div>
+          <div class="options-grid"><div class="opt-item"><span class="opt-pill">A</span> 3</div><div class="opt-item"><span class="opt-pill">B</span> 6</div><div class="opt-item"><span class="opt-pill">C</span> 12</div><div class="opt-item"><span class="opt-pill">D</span> 9</div></div>
+          <div class="ans-bar">
+            <span class="ans-badge">CORRECT ANSWER</span>
+            <span class="ans-text">Option (C)</span>
+          </div>
+          
+            <div class="solution-box">
+              <span class="solution-title">💡 Step-by-Step Logic & Explanation:</span>
+              After<br>pop, 9 is gone. 12 is pushed. peek returns 12.
+            </div>
+        </div>
+        
+        <div class="q-card">
+          <div class="q-top">
+            <span class="q-num">Q028</span>
+            <span class="q-topic">Pseudo Code</span>
+          </div>
+          <div class="q-prompt">What<br>is printed?<br>Integer<br>i, c<br>Set<br>c = 0<br>for<br>i = 1 to 8 do<br>if<br>i % 2 == 0 then c = c + i<br>end<br>for<br>Print<br>c</div>
+          <div class="options-grid"><div class="opt-item"><span class="opt-pill">A</span> 16</div><div class="opt-item"><span class="opt-pill">B</span> 18</div><div class="opt-item"><span class="opt-pill">C</span> 20</div><div class="opt-item"><span class="opt-pill">D</span> 36</div></div>
+          <div class="ans-bar">
+            <span class="ans-badge">CORRECT ANSWER</span>
+            <span class="ans-text">Option (C)</span>
+          </div>
+          
+            <div class="solution-box">
+              <span class="solution-title">💡 Step-by-Step Logic & Explanation:</span>
+              Even<br>values 2+4+6+8 = 20.
+            </div>
+        </div>
+        
+        <div class="q-card">
+          <div class="q-top">
+            <span class="q-num">Q029</span>
+            <span class="q-topic">Pseudo Code</span>
+          </div>
+          <div class="q-prompt">What<br>is printed?<br>Integer<br>x<br>Set<br>x = 11<br>Print<br>x | 4</div>
+          <div class="options-grid"><div class="opt-item"><span class="opt-pill">A</span> 15</div><div class="opt-item"><span class="opt-pill">B</span> 7</div><div class="opt-item"><span class="opt-pill">C</span> 8</div><div class="opt-item"><span class="opt-pill">D</span> 44</div></div>
+          <div class="ans-bar">
+            <span class="ans-badge">CORRECT ANSWER</span>
+            <span class="ans-text">Option (A)</span>
+          </div>
+          
+            <div class="solution-box">
+              <span class="solution-title">💡 Step-by-Step Logic & Explanation:</span>
+              11<br>is 1011, 4 is 0100, OR is 1111 = 15.
+            </div>
+        </div>
+        
+        <div class="q-card">
+          <div class="q-top">
+            <span class="q-num">Q030</span>
+            <span class="q-topic">Pseudo Code</span>
+          </div>
+          <div class="q-prompt">What<br>is printed?<br>Queue<br>Q<br>enqueue(Q,<br>7)<br>enqueue(Q,<br>14)<br>enqueue(Q,<br>21)<br>dequeue(Q)<br>enqueue(Q,<br>28)<br>Print<br>front(Q)</div>
+          <div class="options-grid"><div class="opt-item"><span class="opt-pill">A</span> 7</div><div class="opt-item"><span class="opt-pill">B</span> 14</div><div class="opt-item"><span class="opt-pill">C</span> 21</div><div class="opt-item"><span class="opt-pill">D</span> 28</div></div>
+          <div class="ans-bar">
+            <span class="ans-badge">CORRECT ANSWER</span>
+            <span class="ans-text">Option (B)</span>
+          </div>
+          
+            <div class="solution-box">
+              <span class="solution-title">💡 Step-by-Step Logic & Explanation:</span>
+              7<br>is removed first. The new front is 14.
+            </div>
+        </div>
+        
+        <div class="q-card">
+          <div class="q-top">
+            <span class="q-num">Q031</span>
+            <span class="q-topic">Pseudo Code</span>
+          </div>
+          <div class="q-prompt">What<br>does U(4) return?<br>Function<br>U(n)<br>if<br>n == 0 then return 1<br>return<br>n + U(n - 1)<br>End<br>Function<br>Print<br>U(4)</div>
+          <div class="options-grid"><div class="opt-item"><span class="opt-pill">A</span> 8</div><div class="opt-item"><span class="opt-pill">B</span> 9</div><div class="opt-item"><span class="opt-pill">C</span> 11</div><div class="opt-item"><span class="opt-pill">D</span> 24</div></div>
+          <div class="ans-bar">
+            <span class="ans-badge">CORRECT ANSWER</span>
+            <span class="ans-text">Option (C)</span>
+          </div>
+          
+            <div class="solution-box">
+              <span class="solution-title">💡 Step-by-Step Logic & Explanation:</span>
+              U(0)=1,<br>then +1+2+3+4 = 11.
+            </div>
+        </div>
+        
+        <div class="q-card">
+          <div class="q-top">
+            <span class="q-num">Q032</span>
+            <span class="q-topic">Pseudo Code</span>
+          </div>
+          <div class="q-prompt">What<br>is printed?<br>Integer<br>z<br>Set<br>z = 14<br>Print<br>z &amp; 7</div>
+          <div class="options-grid"><div class="opt-item"><span class="opt-pill">A</span> 6</div><div class="opt-item"><span class="opt-pill">B</span> 7</div><div class="opt-item"><span class="opt-pill">C</span> 8</div><div class="opt-item"><span class="opt-pill">D</span> 21</div></div>
+          <div class="ans-bar">
+            <span class="ans-badge">CORRECT ANSWER</span>
+            <span class="ans-text">Option (A)</span>
+          </div>
+          
+            <div class="solution-box">
+              <span class="solution-title">💡 Step-by-Step Logic & Explanation:</span>
+              14<br>is 1110, 7 is 0111, AND is 0110 = 6.
+            </div>
+        </div>
+        
+        <div class="q-card">
+          <div class="q-top">
+            <span class="q-num">Q033</span>
+            <span class="q-topic">Pseudo Code</span>
+          </div>
+          <div class="q-prompt">What<br>is printed?<br>Integer<br>i, n<br>Set<br>n = 0<br>for<br>i = 1 to 6 do<br>if<br>i % 3 == 0 then n = n + i<br>end<br>for<br>Print<br>n</div>
+          <div class="options-grid"><div class="opt-item"><span class="opt-pill">A</span> 6</div><div class="opt-item"><span class="opt-pill">B</span> 9</div><div class="opt-item"><span class="opt-pill">C</span> 12</div><div class="opt-item"><span class="opt-pill">D</span> 21</div></div>
+          <div class="ans-bar">
+            <span class="ans-badge">CORRECT ANSWER</span>
+            <span class="ans-text">Option (B)</span>
+          </div>
+          
+            <div class="solution-box">
+              <span class="solution-title">💡 Step-by-Step Logic & Explanation:</span>
+              Multiples<br>of 3 from 1 to 6 are 3 and 6. Sum = 9.
+            </div>
+        </div>
+        
+        <div class="q-card">
+          <div class="q-top">
+            <span class="q-num">Q034</span>
+            <span class="q-topic">Pseudo Code</span>
+          </div>
+          <div class="q-prompt">What<br>is printed?<br>Queue<br>Q<br>enqueue(Q,<br>4)<br>enqueue(Q,<br>8)<br>enqueue(Q,<br>12)<br>dequeue(Q)<br>Print<br>front(Q)</div>
+          <div class="options-grid"><div class="opt-item"><span class="opt-pill">A</span> 4</div><div class="opt-item"><span class="opt-pill">B</span> 8</div><div class="opt-item"><span class="opt-pill">C</span> 12</div><div class="opt-item"><span class="opt-pill">D</span> Empty</div></div>
+          <div class="ans-bar">
+            <span class="ans-badge">CORRECT ANSWER</span>
+            <span class="ans-text">Option (B)</span>
+          </div>
+          
+            <div class="solution-box">
+              <span class="solution-title">💡 Step-by-Step Logic & Explanation:</span>
+              4<br>leaves first. Front is 8.
+            </div>
+        </div>
+        
+        <div class="q-card">
+          <div class="q-top">
+            <span class="q-num">Q035</span>
+            <span class="q-topic">Pseudo Code</span>
+          </div>
+          <div class="q-prompt">What<br>is printed?<br>Stack<br>S<br>push(S,<br>2)<br>push(S,<br>5)<br>push(S,<br>8)<br>pop(S)<br>push(S,<br>11)<br>Print<br>peek(S)</div>
+          <div class="options-grid"><div class="opt-item"><span class="opt-pill">A</span> 2</div><div class="opt-item"><span class="opt-pill">B</span> 5</div><div class="opt-item"><span class="opt-pill">C</span> 11</div><div class="opt-item"><span class="opt-pill">D</span> 8</div></div>
+          <div class="ans-bar">
+            <span class="ans-badge">CORRECT ANSWER</span>
+            <span class="ans-text">Option (C)</span>
+          </div>
+          
+            <div class="solution-box">
+              <span class="solution-title">💡 Step-by-Step Logic & Explanation:</span>
+              Pop<br>removes 8. Push 11. peek returns 11.
+            </div>
+        </div>
+        
+        <div class="q-card">
+          <div class="q-top">
+            <span class="q-num">Q036</span>
+            <span class="q-topic">Pseudo Code</span>
+          </div>
+          <div class="q-prompt">What<br>is printed?<br>Stack<br>S<br>push(S,<br>6)<br>push(S,<br>9)<br>push(S,<br>15)<br>pop(S)<br>push(S,<br>21)<br>Print<br>peek(S)</div>
+          <div class="options-grid"><div class="opt-item"><span class="opt-pill">A</span> 6</div><div class="opt-item"><span class="opt-pill">B</span> 9</div><div class="opt-item"><span class="opt-pill">C</span> 21</div><div class="opt-item"><span class="opt-pill">D</span> 15</div></div>
+          <div class="ans-bar">
+            <span class="ans-badge">CORRECT ANSWER</span>
+            <span class="ans-text">Option (C)</span>
+          </div>
+          
+            <div class="solution-box">
+              <span class="solution-title">💡 Step-by-Step Logic & Explanation:</span>
+              Pop<br>removes 15. Push 21. peek returns 21.
+            </div>
+        </div>
+        
+        <div class="q-card">
+          <div class="q-top">
+            <span class="q-num">Q037</span>
+            <span class="q-topic">Pseudo Code</span>
+          </div>
+          <div class="q-prompt">What<br>is printed?<br>Integer<br>k<br>Set<br>k = 21<br>Print<br>k &gt;&gt; 2</div>
+          <div class="options-grid"><div class="opt-item"><span class="opt-pill">A</span> 5</div><div class="opt-item"><span class="opt-pill">B</span> 6</div><div class="opt-item"><span class="opt-pill">C</span> 10</div><div class="opt-item"><span class="opt-pill">D</span> 84</div></div>
+          <div class="ans-bar">
+            <span class="ans-badge">CORRECT ANSWER</span>
+            <span class="ans-text">Option (A)</span>
+          </div>
+          
+            <div class="solution-box">
+              <span class="solution-title">💡 Step-by-Step Logic & Explanation:</span>
+              21<br>is 10101. Right shift 2 gives 101 = 5.
+            </div>
+        </div>
+        
+        <div class="q-card">
+          <div class="q-top">
+            <span class="q-num">Q038</span>
+            <span class="q-topic">Pseudo Code</span>
+          </div>
+          <div class="q-prompt">What<br>is printed?<br>Integer<br>i, t<br>Set<br>t = 1<br>for<br>i = 1 to 5 do<br>t<br>= t * 2<br>end<br>for<br>Print<br>t</div>
+          <div class="options-grid"><div class="opt-item"><span class="opt-pill">A</span> 10</div><div class="opt-item"><span class="opt-pill">B</span> 16</div><div class="opt-item"><span class="opt-pill">C</span> 32</div><div class="opt-item"><span class="opt-pill">D</span> 64</div></div>
+          <div class="ans-bar">
+            <span class="ans-badge">CORRECT ANSWER</span>
+            <span class="ans-text">Option (C)</span>
+          </div>
+          
+            <div class="solution-box">
+              <span class="solution-title">💡 Step-by-Step Logic & Explanation:</span>
+              Start<br>1, multiply by 2 five times: 32.
+            </div>
+        </div>
+        
+        <div class="q-card">
+          <div class="q-top">
+            <span class="q-num">Q039</span>
+            <span class="q-topic">Pseudo Code</span>
+          </div>
+          <div class="q-prompt">What<br>is printed?<br>Queue<br>Q<br>enqueue(Q,<br>3)<br>enqueue(Q,<br>9)<br>enqueue(Q,<br>15)<br>dequeue(Q)<br>Print<br>front(Q)</div>
+          <div class="options-grid"><div class="opt-item"><span class="opt-pill">A</span> 3</div><div class="opt-item"><span class="opt-pill">B</span> 9</div><div class="opt-item"><span class="opt-pill">C</span> 15</div><div class="opt-item"><span class="opt-pill">D</span> Empty</div></div>
+          <div class="ans-bar">
+            <span class="ans-badge">CORRECT ANSWER</span>
+            <span class="ans-text">Option (B)</span>
+          </div>
+          
+            <div class="solution-box">
+              <span class="solution-title">💡 Step-by-Step Logic & Explanation:</span>
+              3<br>leaves. Front is 9.
+            </div>
+        </div>
+        
+        <div class="q-card">
+          <div class="q-top">
+            <span class="q-num">Q040</span>
+            <span class="q-topic">Pseudo Code</span>
+          </div>
+          <div class="q-prompt">What<br>does W(5) return?<br>Function<br>W(n)<br>if<br>n &lt;= 1 then return 2<br>return<br>W(n - 1) + 3<br>End<br>Function<br>Print<br>W(5)</div>
+          <div class="options-grid"><div class="opt-item"><span class="opt-pill">A</span> 11</div><div class="opt-item"><span class="opt-pill">B</span> 14</div><div class="opt-item"><span class="opt-pill">C</span> 15</div><div class="opt-item"><span class="opt-pill">D</span> 17</div></div>
+          <div class="ans-bar">
+            <span class="ans-badge">CORRECT ANSWER</span>
+            <span class="ans-text">Option (B)</span>
+          </div>
+          
+            <div class="solution-box">
+              <span class="solution-title">💡 Step-by-Step Logic & Explanation:</span>
+              W(1)=2.<br>Add 3 four times: 2+12=14.
+            </div>
+        </div>
+        
+        <div class="q-card">
+          <div class="q-top">
+            <span class="q-num">Q041</span>
+            <span class="q-topic">Pseudo Code</span>
+          </div>
+          <div class="q-prompt">What will be the<br>output of the following pseudo code<br>Integer<br>i, j, k, d<br>Set<br>j = 6, i = 8, k = 2, d = 1<br>if<br>((j ^ i) mod k equals 0) then<br>d = d + 1<br>else<br>d = d - 1<br>end<br>if<br>Print<br>d</div>
+          <div class="options-grid"><div class="opt-item"><span class="opt-pill">A</span> 1</div><div class="opt-item"><span class="opt-pill">B</span> 3</div><div class="opt-item"><span class="opt-pill">C</span> 0</div><div class="opt-item"><span class="opt-pill">D</span> 2</div></div>
+          <div class="ans-bar">
+            <span class="ans-badge">CORRECT ANSWER</span>
+            <span class="ans-text">Option (D)</span>
+          </div>
+          
+        </div>
+        
+</body>
+</html>

@@ -32,7 +32,7 @@
 
 ---
 
-### 📁 `01_Reasoning_Ability\01_Coding_Decoding` (7 PDFs)
+### 📁 `01_Reasoning_Ability/01_Coding_Decoding` (7 PDFs)
 
 | # | Document Name | Pages | Size (KB) | Direct Link |
 | :-: | :--- | :-: | :-: | :--- |
@@ -46,7 +46,7 @@
 
 ---
 
-### 📁 `01_Reasoning_Ability\02_Direction_Sense` (1 PDFs)
+### 📁 `01_Reasoning_Ability/02_Direction_Sense` (1 PDFs)
 
 | # | Document Name | Pages | Size (KB) | Direct Link |
 | :-: | :--- | :-: | :-: | :--- |
@@ -54,7 +54,7 @@
 
 ---
 
-### 📁 `01_Reasoning_Ability\03_Blood_Relations` (2 PDFs)
+### 📁 `01_Reasoning_Ability/03_Blood_Relations` (2 PDFs)
 
 | # | Document Name | Pages | Size (KB) | Direct Link |
 | :-: | :--- | :-: | :-: | :--- |
@@ -63,7 +63,7 @@
 
 ---
 
-### 📁 `01_Reasoning_Ability\04_Series` (1 PDFs)
+### 📁 `01_Reasoning_Ability/04_Series` (1 PDFs)
 
 | # | Document Name | Pages | Size (KB) | Direct Link |
 | :-: | :--- | :-: | :-: | :--- |
@@ -71,7 +71,7 @@
 
 ---
 
-### 📁 `01_Reasoning_Ability\05_Syllogism` (3 PDFs)
+### 📁 `01_Reasoning_Ability/05_Syllogism` (3 PDFs)
 
 | # | Document Name | Pages | Size (KB) | Direct Link |
 | :-: | :--- | :-: | :-: | :--- |
@@ -81,7 +81,7 @@
 
 ---
 
-### 📁 `01_Reasoning_Ability\07_Data_Sufficiency` (1 PDFs)
+### 📁 `01_Reasoning_Ability/07_Data_Sufficiency` (1 PDFs)
 
 | # | Document Name | Pages | Size (KB) | Direct Link |
 | :-: | :--- | :-: | :-: | :--- |
@@ -89,7 +89,7 @@
 
 ---
 
-### 📁 `01_Reasoning_Ability\09_Visual_Reasoning` (1 PDFs)
+### 📁 `01_Reasoning_Ability/09_Visual_Reasoning` (1 PDFs)
 
 | # | Document Name | Pages | Size (KB) | Direct Link |
 | :-: | :--- | :-: | :-: | :--- |
@@ -97,7 +97,7 @@
 
 ---
 
-### 📁 `01_Reasoning_Ability\10_Clock_and_Calendar` (1 PDFs)
+### 📁 `01_Reasoning_Ability/10_Clock_and_Calendar` (1 PDFs)
 
 | # | Document Name | Pages | Size (KB) | Direct Link |
 | :-: | :--- | :-: | :-: | :--- |
@@ -105,7 +105,7 @@
 
 ---
 
-### 📁 `01_Reasoning_Ability\11_Comprehensive_Logical` (2 PDFs)
+### 📁 `01_Reasoning_Ability/11_Comprehensive_Logical` (2 PDFs)
 
 | # | Document Name | Pages | Size (KB) | Direct Link |
 | :-: | :--- | :-: | :-: | :--- |
@@ -114,7 +114,7 @@
 
 ---
 
-### 📁 `02_Mathematical_Ability\01_Number_System` (2 PDFs)
+### 📁 `02_Mathematical_Ability/01_Number_System` (2 PDFs)
 
 | # | Document Name | Pages | Size (KB) | Direct Link |
 | :-: | :--- | :-: | :-: | :--- |
@@ -123,7 +123,7 @@
 
 ---
 
-### 📁 `02_Mathematical_Ability\02_LCM_and_HCF` (1 PDFs)
+### 📁 `02_Mathematical_Ability/02_LCM_and_HCF` (1 PDFs)
 
 | # | Document Name | Pages | Size (KB) | Direct Link |
 | :-: | :--- | :-: | :-: | :--- |
@@ -131,7 +131,7 @@
 
 ---
 
-### 📁 `02_Mathematical_Ability\03_Percentage_Profit_Loss` (9 PDFs)
+### 📁 `02_Mathematical_Ability/03_Percentage_Profit_Loss` (9 PDFs)
 
 | # | Document Name | Pages | Size (KB) | Direct Link |
 | :-: | :--- | :-: | :-: | :--- |
@@ -147,7 +147,7 @@
 
 ---
 
-### 📁 `02_Mathematical_Ability\04_Simple_Compound_Interest` (3 PDFs)
+### 📁 `02_Mathematical_Ability/04_Simple_Compound_Interest` (3 PDFs)
 
 | # | Document Name | Pages | Size (KB) | Direct Link |
 | :-: | :--- | :-: | :-: | :--- |
@@ -157,7 +157,7 @@
 
 ---
 
-### 📁 `02_Mathematical_Ability\05_Ratio_and_Proportion` (6 PDFs)
+### 📁 `02_Mathematical_Ability/05_Ratio_and_Proportion` (6 PDFs)
 
 | # | Document Name | Pages | Size (KB) | Direct Link |
 | :-: | :--- | :-: | :-: | :--- |
@@ -170,7 +170,7 @@
 
 ---
 
-### 📁 `02_Mathematical_Ability\06_Time_Speed_Distance` (3 PDFs)
+### 📁 `02_Mathematical_Ability/06_Time_Speed_Distance` (3 PDFs)
 
 | # | Document Name | Pages | Size (KB) | Direct Link |
 | :-: | :--- | :-: | :-: | :--- |
@@ -180,7 +180,7 @@
 
 ---
 
-### 📁 `02_Mathematical_Ability\07_Time_and_Work` (5 PDFs)
+### 📁 `02_Mathematical_Ability/07_Time_and_Work` (5 PDFs)
 
 | # | Document Name | Pages | Size (KB) | Direct Link |
 | :-: | :--- | :-: | :-: | :--- |
@@ -192,7 +192,7 @@
 
 ---
 
-### 📁 `02_Mathematical_Ability\08_Permutation_Probability` (2 PDFs)
+### 📁 `02_Mathematical_Ability/08_Permutation_Probability` (2 PDFs)
 
 | # | Document Name | Pages | Size (KB) | Direct Link |
 | :-: | :--- | :-: | :-: | :--- |
@@ -201,7 +201,7 @@
 
 ---
 
-### 📁 `02_Mathematical_Ability\10_Algebra_and_Equations` (2 PDFs)
+### 📁 `02_Mathematical_Ability/10_Algebra_and_Equations` (2 PDFs)
 
 | # | Document Name | Pages | Size (KB) | Direct Link |
 | :-: | :--- | :-: | :-: | :--- |
@@ -210,7 +210,7 @@
 
 ---
 
-### 📁 `02_Mathematical_Ability\11_Data_Interpretation` (7 PDFs)
+### 📁 `02_Mathematical_Ability/11_Data_Interpretation` (7 PDFs)
 
 | # | Document Name | Pages | Size (KB) | Direct Link |
 | :-: | :--- | :-: | :-: | :--- |
@@ -224,7 +224,7 @@
 
 ---
 
-### 📁 `02_Mathematical_Ability\12_Comprehensive_Aptitude` (29 PDFs)
+### 📁 `02_Mathematical_Ability/12_Comprehensive_Aptitude` (29 PDFs)
 
 | # | Document Name | Pages | Size (KB) | Direct Link |
 | :-: | :--- | :-: | :-: | :--- |
@@ -260,7 +260,7 @@
 
 ---
 
-### 📁 `03_Verbal_Ability\01_Grammar_and_Error_Spotting` (8 PDFs)
+### 📁 `03_Verbal_Ability/01_Grammar_and_Error_Spotting` (8 PDFs)
 
 | # | Document Name | Pages | Size (KB) | Direct Link |
 | :-: | :--- | :-: | :-: | :--- |
@@ -275,7 +275,7 @@
 
 ---
 
-### 📁 `03_Verbal_Ability\02_Comprehensive_Verbal_Vault` (11 PDFs)
+### 📁 `03_Verbal_Ability/02_Comprehensive_Verbal_Vault` (11 PDFs)
 
 | # | Document Name | Pages | Size (KB) | Direct Link |
 | :-: | :--- | :-: | :-: | :--- |
@@ -293,7 +293,7 @@
 
 ---
 
-### 📁 `04_Pseudocode_and_Technical\01_Core_Pseudocode` (1 PDFs)
+### 📁 `04_Pseudocode_and_Technical/01_Core_Pseudocode` (1 PDFs)
 
 | # | Document Name | Pages | Size (KB) | Direct Link |
 | :-: | :--- | :-: | :-: | :--- |
@@ -301,7 +301,7 @@
 
 ---
 
-### 📁 `04_Pseudocode_and_Technical\02_PYQ_Pseudocode_Vault` (26 PDFs)
+### 📁 `04_Pseudocode_and_Technical/02_PYQ_Pseudocode_Vault` (26 PDFs)
 
 | # | Document Name | Pages | Size (KB) | Direct Link |
 | :-: | :--- | :-: | :-: | :--- |
@@ -334,7 +334,7 @@
 
 ---
 
-### 📁 `05_Puzzle_Solving\01_Infosys_PYQ_Puzzles` (14 PDFs)
+### 📁 `05_Puzzle_Solving/01_Infosys_PYQ_Puzzles` (14 PDFs)
 
 | # | Document Name | Pages | Size (KB) | Direct Link |
 | :-: | :--- | :-: | :-: | :--- |
@@ -355,7 +355,7 @@
 
 ---
 
-### 📁 `06_Full_Length_Mocks\CampusMonk_Mocks` (3 PDFs)
+### 📁 `06_Full_Length_Mocks/CampusMonk_Mocks` (3 PDFs)
 
 | # | Document Name | Pages | Size (KB) | Direct Link |
 | :-: | :--- | :-: | :-: | :--- |
@@ -365,7 +365,7 @@
 
 ---
 
-### 📁 `06_Full_Length_Mocks\Topmate_Slot_Papers` (2 PDFs)
+### 📁 `06_Full_Length_Mocks/Topmate_Slot_Papers` (2 PDFs)
 
 | # | Document Name | Pages | Size (KB) | Direct Link |
 | :-: | :--- | :-: | :-: | :--- |
@@ -374,7 +374,7 @@
 
 ---
 
-### 📁 `07_PYQ_Photo_Vaults\Recent_Screenshots` (16 PDFs)
+### 📁 `07_PYQ_Photo_Vaults/Recent_Screenshots` (16 PDFs)
 
 | # | Document Name | Pages | Size (KB) | Direct Link |
 | :-: | :--- | :-: | :-: | :--- |
@@ -397,7 +397,7 @@
 
 ---
 
-### 📁 `08_Master_Reference_Books\CampusMonk_Ebooks` (6 PDFs)
+### 📁 `08_Master_Reference_Books/CampusMonk_Ebooks` (6 PDFs)
 
 | # | Document Name | Pages | Size (KB) | Direct Link |
 | :-: | :--- | :-: | :-: | :--- |
@@ -407,6 +407,18 @@
 | 4 | `CM_5.Book_-_Data_Interpretation.pdf` | 62 | 2450.0 KB | [CM_5.Book_-_Data_Interpretation.pdf](./08_Master_Reference_Books/CampusMonk_Ebooks/CM_5.Book_-_Data_Interpretation.pdf) |
 | 5 | `CM_6_Book_Logical_PYQ_Imp.pdf` | 22 | 2024.0 KB | [CM_6_Book_Logical_PYQ_Imp.pdf](./08_Master_Reference_Books/CampusMonk_Ebooks/CM_6_Book_Logical_PYQ_Imp.pdf) |
 | 6 | `CM_7._SOLUTION_LOGIC.pdf` | 7 | 3232.5 KB | [CM_7._SOLUTION_LOGIC.pdf](./08_Master_Reference_Books/CampusMonk_Ebooks/CM_7._SOLUTION_LOGIC.pdf) |
+
+---
+
+### 📁 `08_Master_Reference_Books/OnlineStudy4U_Master_Ebooks` (5 PDFs)
+
+| # | Document Name | Pages | Size (KB) | Direct Link |
+| :-: | :--- | :-: | :-: | :--- |
+| 1 | `OS4U_Book_1_Logical_Reasoning.pdf` | 167 | 9758.0 KB | [OS4U_Book_1_Logical_Reasoning.pdf](./08_Master_Reference_Books/OnlineStudy4U_Master_Ebooks/OS4U_Book_1_Logical_Reasoning.pdf) |
+| 2 | `OS4U_Book_2_Numerical_Ability.pdf` | 33 | 2191.4 KB | [OS4U_Book_2_Numerical_Ability.pdf](./08_Master_Reference_Books/OnlineStudy4U_Master_Ebooks/OS4U_Book_2_Numerical_Ability.pdf) |
+| 3 | `OS4U_Book_3_Verbal_Ability.pdf` | 91 | 5932.7 KB | [OS4U_Book_3_Verbal_Ability.pdf](./08_Master_Reference_Books/OnlineStudy4U_Master_Ebooks/OS4U_Book_3_Verbal_Ability.pdf) |
+| 4 | `OS4U_Book_4_Pseudocode_Technical.pdf` | 26 | 1392.7 KB | [OS4U_Book_4_Pseudocode_Technical.pdf](./08_Master_Reference_Books/OnlineStudy4U_Master_Ebooks/OS4U_Book_4_Pseudocode_Technical.pdf) |
+| 5 | `OS4U_Book_5_Puzzle_Solving.pdf` | 122 | 4751.8 KB | [OS4U_Book_5_Puzzle_Solving.pdf](./08_Master_Reference_Books/OnlineStudy4U_Master_Ebooks/OS4U_Book_5_Puzzle_Solving.pdf) |
 
 ---
 
