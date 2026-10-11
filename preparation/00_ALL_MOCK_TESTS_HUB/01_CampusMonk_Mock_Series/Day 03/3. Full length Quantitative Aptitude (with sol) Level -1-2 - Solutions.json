@@ -1,0 +1,945 @@
+{
+  "test": {
+    "name": "3. Full length Quantitative Aptitude (with sol) Level -1-2",
+    "testTotalDuration": 1080000,
+    "settings": {
+      "fonts": {
+        "fonts": [
+          {
+            "face": "var(--font-family)",
+            "supported": true
+          },
+          {
+            "face": "var(--font-family)",
+            "supported": true
+          }
+        ],
+        "include": "https://cms-gcp.classplusapp.com/parser/v3/css/combined?face=var(--font-family),var(--font-family)"
+      },
+      "isSectionSwitchingEnabled": true
+    },
+    "practiceTestUrls": [],
+    "testFormat": "DEFAULT"
+  },
+  "filters": {
+    "incorrect": 0,
+    "correct": 0,
+    "partiallyMarked": 0,
+    "unattempted": 1,
+    "markForReview": 0,
+    "graceMarked": 0,
+    "revaluated": 0
+  },
+  "timeTaken": 0,
+  "courseId": "844567",
+  "showReportQuestion": true,
+  "sectionWiseStats": [
+    {
+      "marksScored": 0,
+      "sectionMarks": 13,
+      "accuracy": 0,
+      "_id": "6ab033480d040c5ab9859095",
+      "totalQuestions": 13,
+      "attemptDuration": 0,
+      "correctAnswers": 0,
+      "inCorrectAnswers": 0,
+      "partiallyCorrectAnswers": 0,
+      "unAttempted": 13,
+      "name": "Quantitative Aptitude - with D.I",
+      "order": 1,
+      "sectionDuration": 0,
+      "sectionId": "662210fa7026ffaa935c28b5"
+    }
+  ],
+  "sections": [
+    {
+      "draftMode": false,
+      "isActive": true,
+      "sectionDuration": 0,
+      "sectionMarks": 13,
+      "sectionInstructions": " ",
+      "hasOptionalQuestions": false,
+      "_id": "662210fa7026ffaa935c28b5",
+      "name": "Quantitative Aptitude - with D.I",
+      "order": 1,
+      "createdAt": "2025-10-02T07:45:41.101Z",
+      "updatedAt": "2025-10-02T07:45:41.101Z",
+      "questions": [
+        {
+          "_id": "662210fa7026ff99d55c28b8",
+          "name": "<p>Study the pie chart carefully and answer the questions. The pie chart shows the percentage breakup students in different classes from VI to X in the year 2017</p>\n<p><img src=\"images/img_3d9202d8f0ea.png\" alt=\"\" width=\"226\" height=\"198\" /></p>\n<p>1. The total number of students study in class VI and class IX together is approximately what percentage more than that of the total number of students study in class X?</p>",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "Study the pie chart carefully and answer the questions. The pie chart shows the percentage breakup students in different classes from VI to X in the year 2017\n\n1. The total number of students study in class VI and class IX together is approximately what percentage more than that of the total number of students study in class X?",
+          "sectionId": "662210fa7026ffaa935c28b5",
+          "order": 1,
+          "questionSubmitOrder": 1,
+          "options": [
+            {
+              "name": "<p>125%</p>",
+              "nameText": "125%",
+              "isCorrect": false,
+              "_id": "66207f5efc5a0b43f7eaebe1",
+              "isMarked": false
+            },
+            {
+              "name": "<p>280<span style=\"font-family: var(--font-family);\">%</span></p>",
+              "nameText": "280%",
+              "isCorrect": false,
+              "_id": "66207f5efc5a0b56a6eaebe2",
+              "isMarked": false
+            },
+            {
+              "name": "<p>217<span style=\"font-family: var(--font-family);\">%</span></p>",
+              "nameText": "217%",
+              "isCorrect": true,
+              "_id": "66207f5efc5a0b14feeaebe3",
+              "isMarked": false
+            },
+            {
+              "name": "<p>189<span style=\"font-family: var(--font-family);\">%</span></p>",
+              "nameText": "189%",
+              "isCorrect": false,
+              "_id": "66207f5efc5a0b0312eaebe4",
+              "isMarked": false
+            },
+            {
+              "name": "<p>77<span style=\"font-family: var(--font-family);\">%</span></p>",
+              "nameText": "77%",
+              "isCorrect": false,
+              "_id": "66207f5efc5a0b792eeaebe5",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p>Ans - C</p>\n<p></p>\n<p><iframe title=\"TCS NQT PREPARATION MOCK Q1\" src=\"//www.youtube.com/embed/6Xwszl9zNxw\" width=\"659\" height=\"371\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6ab0334714ee4f0f92e1c49f",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "662210fa7026ff0cac5c28be",
+          "name": "<p>Study the pie chart carefully and answer the questions. The pie chart shows the percentage breakup students in different classes from VI to X in the year 2017</p>\n<p><img src=\"images/img_3d9202d8f0ea.png\" alt=\"\" width=\"226\" height=\"198\" /></p>\n<p>2. If in class VI, the ratio of boys to girls is 6:5 and the total number of girls in class VI is 50 less than that of the total number of girls in class VII. Find the ratio of the total number of boys in class VI to class VII.</p>",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "Study the pie chart carefully and answer the questions. The pie chart shows the percentage breakup students in different classes from VI to X in the year 2017\n\n2. If in class VI, the ratio of boys to girls is 6:5 and the total number of girls in class VI is 50 less than that of the total number of girls in class VII. Find the ratio of the total number of boys in class VI to class VII.",
+          "sectionId": "662210fa7026ffaa935c28b5",
+          "order": 2,
+          "questionSubmitOrder": 2,
+          "options": [
+            {
+              "name": "<p>5:7</p>",
+              "nameText": "5:7",
+              "isCorrect": false,
+              "_id": "66207f5efc5a0b41adeaebb1",
+              "isMarked": false
+            },
+            {
+              "name": "<p>7:11</p>",
+              "nameText": "7:11",
+              "isCorrect": false,
+              "_id": "66207f5efc5a0b8ffceaebb2",
+              "isMarked": false
+            },
+            {
+              "name": "<p>9:13</p>",
+              "nameText": "9:13",
+              "isCorrect": false,
+              "_id": "66207f5efc5a0b6189eaebb3",
+              "isMarked": false
+            },
+            {
+              "name": "<p>6:13</p>",
+              "nameText": "6:13",
+              "isCorrect": true,
+              "_id": "66207f5efc5a0b7915eaebb4",
+              "isMarked": false
+            },
+            {
+              "name": "<p>Option 54:5</p>",
+              "nameText": "Option 54:5",
+              "isCorrect": false,
+              "_id": "66207f5efc5a0b0c4beaebb5",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p>Ans - D</p>\n<p></p>\n<p><iframe title=\"TCS NQT PREPARATION MOCK Q2\" src=\"//www.youtube.com/embed/jja5e3NZxx8\" width=\"659\" height=\"371\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6ab0334714ee4fe5b8e1c4a0",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "662210fa7026ffceb35c28bf",
+          "name": "<p>Study the pie chart carefully and answer the questions. The pie chart shows the percentage breakup students in different classes from VI to X in the year 2017</p>\n<p><img src=\"images/img_3d9202d8f0ea.png\" alt=\"\" width=\"226\" height=\"198\" /></p>\n<p>3. If the total number of boys in class VIII is \"x\" and the total number of boys in class IX is \"x+40\". The total number of girls in class VIII and class IX together is 306. Then find the value of \"x\".</p>",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "Study the pie chart carefully and answer the questions. The pie chart shows the percentage breakup students in different classes from VI to X in the year 2017\n\n3. If the total number of boys in class VIII is \"x\" and the total number of boys in class IX is \"x+40\". The total number of girls in class VIII and class IX together is 306. Then find the value of \"x\".",
+          "sectionId": "662210fa7026ffaa935c28b5",
+          "order": 3,
+          "questionSubmitOrder": 3,
+          "options": [
+            {
+              "name": "<p>190</p>",
+              "nameText": "190",
+              "isCorrect": true,
+              "_id": "66207f5efc5a0b4e04eaebd8",
+              "isMarked": false
+            },
+            {
+              "name": "<p>210</p>",
+              "nameText": "210",
+              "isCorrect": false,
+              "_id": "66207f5efc5a0bb164eaebd9",
+              "isMarked": false
+            },
+            {
+              "name": "<p>174</p>",
+              "nameText": "174",
+              "isCorrect": false,
+              "_id": "66207f5efc5a0b66e9eaebda",
+              "isMarked": false
+            },
+            {
+              "name": "<p>184</p>",
+              "nameText": "184",
+              "isCorrect": false,
+              "_id": "66207f5efc5a0b15aeeaebdb",
+              "isMarked": false
+            },
+            {
+              "name": "<p>196</p>",
+              "nameText": "196",
+              "isCorrect": false,
+              "_id": "66207f5efc5a0b2543eaebdc",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p>Ans - A</p>\n<p></p>\n<p><iframe title=\"TCS NQT PREPARATION MOCK Q3\" src=\"//www.youtube.com/embed/7AMHMwBexLI\" width=\"659\" height=\"371\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6ab0334714ee4f0241e1c4a1",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "662210fa7026ffac8f5c28bc",
+          "name": "<p>Study the pie chart carefully and answer the questions. The pie chart shows the percentage breakup students in different classes from VI to X in the year 2017</p>\n<p><img src=\"images/img_3d9202d8f0ea.png\" alt=\"\" width=\"226\" height=\"198\" /></p>\n<p>4. What is the difference between the total number of students in class VII and class VIII together to that of the total number of students in class IX and class X together?&nbsp;</p>",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "Study the pie chart carefully and answer the questions. The pie chart shows the percentage breakup students in different classes from VI to X in the year 2017\n\n4. What is the difference between the total number of students in class VII and class VIII together to that of the total number of students in class IX and class X together? ",
+          "sectionId": "662210fa7026ffaa935c28b5",
+          "order": 4,
+          "questionSubmitOrder": 4,
+          "options": [
+            {
+              "name": "<p>480</p>",
+              "nameText": "480",
+              "isCorrect": false,
+              "_id": "66207f5efc5a0b00e8eaebce",
+              "isMarked": false
+            },
+            {
+              "name": "<p>520</p>",
+              "nameText": "520",
+              "isCorrect": false,
+              "_id": "66207f5efc5a0ba92ceaebcf",
+              "isMarked": false
+            },
+            {
+              "name": "<p>440</p>",
+              "nameText": "440",
+              "isCorrect": true,
+              "_id": "66207f5efc5a0b3907eaebd0",
+              "isMarked": false
+            },
+            {
+              "name": "<p>400</p>",
+              "nameText": "400",
+              "isCorrect": false,
+              "_id": "66207f5efc5a0b74cbeaebd1",
+              "isMarked": false
+            },
+            {
+              "name": "<p>560</p>",
+              "nameText": "560",
+              "isCorrect": false,
+              "_id": "66207f5efc5a0b300feaebd2",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p>Ans - C</p>\n<p></p>\n<p><iframe title=\"TCS NQT PREPARATION MOCK Q4\" src=\"//www.youtube.com/embed/Jh2Ns5ouvxU\" width=\"659\" height=\"371\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6ab0334714ee4f16f0e1c4a2",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "662210fa7026ff13565c28c2",
+          "name": "<p>Four circles having equal radii are drawn with centres at the four corners of a square. Each circle touches the other two adjacent circle. If remaining area of the square is 168 cm square, what is the size of the radius of the circle? (in centimeters) (take &pi; = 22/7)</p>",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "Four circles having equal radii are drawn with centres at the four corners of a square. Each circle touches the other two adjacent circle. If remaining area of the square is 168 cm square, what is the size of the radius of the circle? (in centimeters) (take π = 22/7)",
+          "sectionId": "662210fa7026ffaa935c28b5",
+          "order": 5,
+          "questionSubmitOrder": 5,
+          "options": [
+            {
+              "name": "<p>1.4</p>",
+              "nameText": "1.4",
+              "isCorrect": false,
+              "_id": "66207f5efc5a0bf08deaebbf",
+              "isMarked": false
+            },
+            {
+              "name": "<p>14</p>",
+              "nameText": "14",
+              "isCorrect": true,
+              "_id": "66207f5efc5a0ba0ddeaebc0",
+              "isMarked": false
+            },
+            {
+              "name": "<p>35</p>",
+              "nameText": "35",
+              "isCorrect": false,
+              "_id": "66207f5efc5a0b1554eaebc1",
+              "isMarked": false
+            },
+            {
+              "name": "<p>21</p>",
+              "nameText": "21",
+              "isCorrect": false,
+              "_id": "66207f5efc5a0b2822eaebc2",
+              "isMarked": false
+            },
+            {
+              "name": "<p>3.5</p>",
+              "nameText": "3.5",
+              "isCorrect": false,
+              "_id": "66207f5efc5a0b2ec5eaebc3",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p>Ans - B</p>\n<p></p>\n<p><iframe title=\"TCS NQT PREPARATION MOCK Q5\" src=\"//www.youtube.com/embed/kb3UYFzh9Ds\" width=\"659\" height=\"371\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6ab0334714ee4f8931e1c4a3",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "662210fa7026ff5bdf5c28c4",
+          "name": "<p>A man wants to invest Rs. 16850 in bank account of his 2 sons, whose ages are 12 years &amp; 16 years in such a way so that they will get equal amount at an age of 120 years at the rate of 33(1/3)% compounded annually. Find the share of younger son?</p>",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "A man wants to invest Rs. 16850 in bank account of his 2 sons, whose ages are 12 years & 16 years in such a way so that they will get equal amount at an age of 120 years at the rate of 33(1/3)% compounded annually. Find the share of younger son?",
+          "sectionId": "662210fa7026ffaa935c28b5",
+          "order": 6,
+          "questionSubmitOrder": 6,
+          "options": [
+            {
+              "name": "<p>4050</p>",
+              "nameText": "4050",
+              "isCorrect": true,
+              "_id": "66207f5efc5a0b69b0eaebe6",
+              "isMarked": false
+            },
+            {
+              "name": "<p>4080</p>",
+              "nameText": "4080",
+              "isCorrect": false,
+              "_id": "66207f5efc5a0bf18feaebe7",
+              "isMarked": false
+            },
+            {
+              "name": "<p>4090</p>",
+              "nameText": "4090",
+              "isCorrect": false,
+              "_id": "66207f5efc5a0b5b18eaebe8",
+              "isMarked": false
+            },
+            {
+              "name": "<p>4085</p>",
+              "nameText": "4085",
+              "isCorrect": false,
+              "_id": "66207f5efc5a0b2795eaebe9",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p>Ans - A</p>\n<p></p>\n<p><iframe title=\"TCS NQT PREPARATION MOCK Q6\" src=\"//www.youtube.com/embed/Fee-v5t7yuU\" width=\"659\" height=\"371\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6ab0334714ee4f03d5e1c4a4",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "662210fa7026ff2bee5c28ba",
+          "name": "<p>A bag contains 5 red and 7 white balls. Four balls are drawn out one by one and not replaced. What is the probability that they are alternatively of different colours?</p>",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "A bag contains 5 red and 7 white balls. Four balls are drawn out one by one and not replaced. What is the probability that they are alternatively of different colours?",
+          "sectionId": "662210fa7026ffaa935c28b5",
+          "order": 7,
+          "questionSubmitOrder": 7,
+          "options": [
+            {
+              "name": "<p>7/99</p>",
+              "nameText": "7/99",
+              "isCorrect": false,
+              "_id": "66207f5efc5a0b6f1deaebc4",
+              "isMarked": false
+            },
+            {
+              "name": "<p>11/99</p>",
+              "nameText": "11/99",
+              "isCorrect": false,
+              "_id": "66207f5efc5a0bd508eaebc5",
+              "isMarked": false
+            },
+            {
+              "name": "<p>14/99</p>",
+              "nameText": "14/99",
+              "isCorrect": true,
+              "_id": "66207f5efc5a0b73f1eaebc6",
+              "isMarked": false
+            },
+            {
+              "name": "<p>19/99</p>",
+              "nameText": "19/99",
+              "isCorrect": false,
+              "_id": "66207f5efc5a0b55b6eaebc7",
+              "isMarked": false
+            },
+            {
+              "name": "<p>None of these</p>",
+              "nameText": "None of these",
+              "isCorrect": false,
+              "_id": "66207f5efc5a0bb4bceaebc8",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p>Ans - C</p>\n<p></p>\n<p><iframe title=\"TCS NQT PREPARATION MOCK Q7\" src=\"//www.youtube.com/embed/JA6KdhkmmUo\" width=\"659\" height=\"371\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6ab0334714ee4f5cc1e1c4a5",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "662210fa7026ff02615c28c3",
+          "name": "<p>The ratio of the age of Ram and Rahim 10 years ago was 1 : 3. The ratio of their age five years hence will be</p>\n<p>2 : 3. Then the ratio of their present age is</p>",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "The ratio of the age of Ram and Rahim 10 years ago was 1 : 3. The ratio of their age five years hence will be\n2 : 3. Then the ratio of their present age is",
+          "sectionId": "662210fa7026ffaa935c28b5",
+          "order": 8,
+          "questionSubmitOrder": 8,
+          "options": [
+            {
+              "name": "<p>1 : 2</p>",
+              "nameText": "1 : 2",
+              "isCorrect": false,
+              "_id": "66207f5efc5a0bb935eaebb6",
+              "isMarked": false
+            },
+            {
+              "name": "<p>3 : 5</p>",
+              "nameText": "3 : 5",
+              "isCorrect": true,
+              "_id": "66207f5efc5a0b765feaebb7",
+              "isMarked": false
+            },
+            {
+              "name": "<p>3 : 4</p>",
+              "nameText": "3 : 4",
+              "isCorrect": false,
+              "_id": "66207f5efc5a0b9ef9eaebb8",
+              "isMarked": false
+            },
+            {
+              "name": "<p>2 : 5</p>",
+              "nameText": "2 : 5",
+              "isCorrect": false,
+              "_id": "66207f5efc5a0b204beaebb9",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p>Ans - B</p>\n<p></p>\n<p><iframe title=\"TCS NQT PREPARATION MOCK Q8\" src=\"//www.youtube.com/embed/1LjiPiJ92Xo\" width=\"659\" height=\"371\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6ab0334714ee4fe8fee1c4a6",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "662210fa7026ff202c5c28bd",
+          "name": "<p>\"A\" can complete a piece of work in 8 days,while \"B\" is 20% more efficient than him. A works for 2 days,then B works for 1 day, and the cycle continues like this.in how many days would the work be completed?</p>",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\"A\" can complete a piece of work in 8 days,while \"B\" is 20% more efficient than him. A works for 2 days,then B works for 1 day, and the cycle continues like this.in how many days would the work be completed?",
+          "sectionId": "662210fa7026ffaa935c28b5",
+          "order": 9,
+          "questionSubmitOrder": 9,
+          "options": [
+            {
+              "name": "<p>7(3/5)</p>",
+              "nameText": "7(3/5)",
+              "isCorrect": true,
+              "_id": "66207f5efc5a0b271deaebdd",
+              "isMarked": false
+            },
+            {
+              "name": "<p>7 days</p>",
+              "nameText": "7 days",
+              "isCorrect": false,
+              "_id": "66207f5efc5a0b3ac1eaebde",
+              "isMarked": false
+            },
+            {
+              "name": "<p>7(7/9)</p>",
+              "nameText": "7(7/9)",
+              "isCorrect": false,
+              "_id": "66207f5efc5a0b4897eaebdf",
+              "isMarked": false
+            },
+            {
+              "name": "<p>not</p>",
+              "nameText": "not",
+              "isCorrect": false,
+              "_id": "66207f5efc5a0ba8cbeaebe0",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p>Ans - A</p>\n<p></p>\n<p><iframe title=\"TCS NQT PREPARATION MOCK Q9\" src=\"//www.youtube.com/embed/lK8TA9-0tt8\" width=\"659\" height=\"371\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6ab0334714ee4f0fa0e1c4a7",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "662210fa7026ff06865c28bb",
+          "name": "<p>The simple interest (p.a.) accrued on an amount of Rs 17,000 at the end of four years is Rs 6,800. What would be the compound interest (compounded annually) accrued on the same amount at the same rate in two years?</p>",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "The simple interest (p.a.) accrued on an amount of Rs 17,000 at the end of four years is Rs 6,800. What would be the compound interest (compounded annually) accrued on the same amount at the same rate in two years?",
+          "sectionId": "662210fa7026ffaa935c28b5",
+          "order": 10,
+          "questionSubmitOrder": 10,
+          "options": [
+            {
+              "name": "<p>Cannot be determined</p>",
+              "nameText": "Cannot be determined",
+              "isCorrect": false,
+              "_id": "66207f5efc5a0b8ab3eaebd3",
+              "isMarked": false
+            },
+            {
+              "name": "<p>Other than those given as option</p>",
+              "nameText": "Other than those given as option",
+              "isCorrect": false,
+              "_id": "66207f5efc5a0b8bf3eaebd4",
+              "isMarked": false
+            },
+            {
+              "name": "<p>3570</p>",
+              "nameText": "3570",
+              "isCorrect": true,
+              "_id": "66207f5efc5a0b376eeaebd5",
+              "isMarked": false
+            },
+            {
+              "name": "<p>3260</p>",
+              "nameText": "3260",
+              "isCorrect": false,
+              "_id": "66207f5efc5a0b5e0feaebd6",
+              "isMarked": false
+            },
+            {
+              "name": "<p>3980</p>",
+              "nameText": "3980",
+              "isCorrect": false,
+              "_id": "66207f5efc5a0b5c77eaebd7",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p>Ans - C</p>\n<p></p>\n<p><iframe title=\"TCS NQT PREPARATION MOCK Q10\" src=\"//www.youtube.com/embed/jgn8JLfdQus\" width=\"659\" height=\"371\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6ab0334714ee4f2808e1c4a8",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "662210fa7026ff19125c28c0",
+          "name": "<p>Find the missing number in the given seriese.</p>\n<p>2, 7, 10, 22, 18, 37, 26,?</p>",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "Find the missing number in the given seriese.\n2, 7, 10, 22, 18, 37, 26,?",
+          "sectionId": "662210fa7026ffaa935c28b5",
+          "order": 11,
+          "questionSubmitOrder": 11,
+          "options": [
+            {
+              "name": "<p>42</p>",
+              "nameText": "42",
+              "isCorrect": false,
+              "_id": "66207f5efc5a0b874beaebea",
+              "isMarked": false
+            },
+            {
+              "name": "<p>52</p>",
+              "nameText": "52",
+              "isCorrect": true,
+              "_id": "66207f5efc5a0bead3eaebeb",
+              "isMarked": false
+            },
+            {
+              "name": "<p>46</p>",
+              "nameText": "46",
+              "isCorrect": false,
+              "_id": "66207f5efc5a0b717aeaebec",
+              "isMarked": false
+            },
+            {
+              "name": "<p>62</p>",
+              "nameText": "62",
+              "isCorrect": false,
+              "_id": "66207f5efc5a0ba140eaebed",
+              "isMarked": false
+            },
+            {
+              "name": "<p>None of these</p>",
+              "nameText": "None of these",
+              "isCorrect": false,
+              "_id": "66207f5efc5a0beafaeaebee",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p>Ans - B</p>\n<p></p>\n<p><iframe title=\"TCS NQT PREPARATION MOCK Q11\" src=\"//www.youtube.com/embed/qiNnnyCo9KQ\" width=\"659\" height=\"371\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6ab0334714ee4f4642e1c4a9",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "662210fa7026ff30335c28b9",
+          "name": "<p><span style=\"font-family: var(--font-family);\">Find the missing number in the given seriese.</span></p>\n<p></p>\n<p>12,&nbsp; &nbsp; &nbsp;12,&nbsp; &nbsp; &nbsp;18,&nbsp; &nbsp; &nbsp;45,&nbsp; &nbsp; &nbsp;180,&nbsp; &nbsp; &nbsp;1170,&nbsp; &nbsp; &nbsp;?</p>",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "Find the missing number in the given seriese.\n\n12,     12,     18,     45,     180,     1170,     ?",
+          "sectionId": "662210fa7026ffaa935c28b5",
+          "order": 12,
+          "questionSubmitOrder": 12,
+          "options": [
+            {
+              "name": "<p>12285</p>",
+              "nameText": "12285",
+              "isCorrect": true,
+              "_id": "66207f5efc5a0b3a6aeaebc9",
+              "isMarked": false
+            },
+            {
+              "name": "<p>10530</p>",
+              "nameText": "10530",
+              "isCorrect": false,
+              "_id": "66207f5efc5a0bda97eaebca",
+              "isMarked": false
+            },
+            {
+              "name": "<p>11700</p>",
+              "nameText": "11700",
+              "isCorrect": false,
+              "_id": "66207f5efc5a0b771deaebcb",
+              "isMarked": false
+            },
+            {
+              "name": "<p>12870</p>",
+              "nameText": "12870",
+              "isCorrect": false,
+              "_id": "66207f5efc5a0ba892eaebcc",
+              "isMarked": false
+            },
+            {
+              "name": "<p>9945</p>",
+              "nameText": "9945",
+              "isCorrect": false,
+              "_id": "66207f5efc5a0b2958eaebcd",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p>Ans - A</p>\n<p></p>\n<p><iframe title=\"TCS NQT PREPARATION MOCK Q12\" src=\"//www.youtube.com/embed/fCG8tbOsgBk\" width=\"659\" height=\"371\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6ab0334714ee4f8042e1c4aa",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "662210fa7026ff9f5c5c28c1",
+          "name": "<p>Find the wrong term in the series</p>\n<p></p>\n<p>2,&nbsp; &nbsp;3,&nbsp; &nbsp;10,&nbsp; &nbsp;38,&nbsp; &nbsp;172</p>",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "Find the wrong term in the series\n\n2,   3,   10,   38,   172",
+          "sectionId": "662210fa7026ffaa935c28b5",
+          "order": 13,
+          "questionSubmitOrder": 13,
+          "options": [
+            {
+              "name": "<p>2</p>",
+              "nameText": "2",
+              "isCorrect": false,
+              "_id": "66207f5efc5a0b15dfeaebba",
+              "isMarked": false
+            },
+            {
+              "name": "<p>3</p>",
+              "nameText": "3",
+              "isCorrect": false,
+              "_id": "66207f5efc5a0b6b1aeaebbb",
+              "isMarked": false
+            },
+            {
+              "name": "<p>10</p>",
+              "nameText": "10",
+              "isCorrect": false,
+              "_id": "66207f5efc5a0b7be5eaebbc",
+              "isMarked": false
+            },
+            {
+              "name": "<p>38</p>",
+              "nameText": "38",
+              "isCorrect": true,
+              "_id": "66207f5efc5a0b7e86eaebbd",
+              "isMarked": false
+            },
+            {
+              "name": "<p>172</p>",
+              "nameText": "172",
+              "isCorrect": false,
+              "_id": "66207f5efc5a0b5382eaebbe",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p>Ans - D</p>\n<p></p>\n<p><iframe title=\"TCS NQT PREPARATION MOCK Q13\" src=\"//www.youtube.com/embed/vMI6tV0uKoM\" width=\"659\" height=\"371\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6ab0334714ee4f0218e1c4ab",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        }
+      ],
+      "numberOfQuestions": 13
+    }
+  ],
+  "userDetails": {
+    "name": "HackWithInfyPrep",
+    "userId": 192606116,
+    "orgId": 44032
+  },
+  "sts": 1789932361323,
+  "region": {
+    "timeFormat": "hh:mm a",
+    "dateTimeStamp": "yyyy/MM/dd"
+  }
+}

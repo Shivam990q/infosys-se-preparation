@@ -1,0 +1,1046 @@
+{
+  "_id": "67b6d72acd8494fe358bba3c",
+  "settings": {
+    "fonts": {
+      "fonts": [
+        {
+          "face": "Calibri",
+          "supported": true
+        },
+        {
+          "face": "serif",
+          "supported": true
+        },
+        {
+          "face": "Cambria",
+          "supported": true
+        }
+      ],
+      "include": "https://cms-gcp.classplusapp.com/parser/v3/css/combined?face=Calibri,serif,Cambria"
+    },
+    "grades": {
+      "A": {
+        "max": 100,
+        "min": 70
+      },
+      "B": {
+        "max": 69,
+        "min": 50
+      },
+      "C": {
+        "max": 49,
+        "min": 35
+      },
+      "D": {
+        "max": 34,
+        "min": 20
+      },
+      "E": {
+        "max": 19,
+        "min": 10
+      },
+      "F": {
+        "max": 9,
+        "min": 0
+      }
+    },
+    "hasOptionalQuestions": false,
+    "settingsForRTG": {},
+    "generateBatchRank": true,
+    "defaultFont": null,
+    "generateInstitutionalRank": true,
+    "generatePercentile": true,
+    "showQuestionWiseTime": true,
+    "allowResultSharing": true,
+    "showQuestionTimer": true,
+    "calculatorType": "sci",
+    "enableLetterGrading": true,
+    "generateRandomTest": false,
+    "isSectionSwitchingEnabled": true,
+    "isSectionalSubmit": false,
+    "shuffleQuestions": true,
+    "showAnswers": true,
+    "isSolutionMultipleViewEnabled": true,
+    "shuffleOptions": false,
+    "revealCorrectAnswers": "all",
+    "revealAnswersTime": "now",
+    "parseMathJax": false
+  },
+  "isReadyToLink": true,
+  "isLinked": true,
+  "instructions": "",
+  "isSectionEnable": false,
+  "isReloadRequired": false,
+  "totalNumberOfQuestions": 20,
+  "totalMarks": 80,
+  "isAttempted": true,
+  "isTemplateSelected": true,
+  "isCdnUpdated": false,
+  "languageList": [],
+  "lastAttemptedAt": "2026-10-08T05:31:52.223Z",
+  "name": "Number Series",
+  "duration": 1500000,
+  "createdBy": "5fddea8f5322c45a088d6898",
+  "parentFolder": "67cef100a58729ff3ede456f",
+  "sections": [
+    {
+      "sectionDuration": 0,
+      "sectionMarks": 80,
+      "isActive": true,
+      "draftMode": false,
+      "sectionInstructions": " ",
+      "_id": "67b6d730146bf6ed5ea91abc",
+      "hasOptionalQuestions": false,
+      "name": "Number Series",
+      "order": 1,
+      "numberOfQuestions": 20,
+      "questions": [
+        {
+          "marks": {
+            "positive": 4,
+            "negative": 1,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">16</span></span></span></span></p>\n ",
+              "nameText": "\n 16\n ",
+              "order": 1,
+              "_id": "67b6d74fcd84941e7d8bbabe"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">30</span></span></span></span></p>\n ",
+              "nameText": "\n 30\n ",
+              "order": 2,
+              "_id": "67b6d74fcd84942d418bbabf"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">45</span></span></span></span></p>\n ",
+              "nameText": "\n 45\n ",
+              "order": 3,
+              "_id": "67b6d74fcd84941a6c8bbac0"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">24</span></span></span></span></p>\n ",
+              "nameText": "\n 24\n ",
+              "order": 4,
+              "_id": "67b6d74fcd849405778bbac1"
+            }
+          ],
+          "_id": "67b6d740146bf6e8e5a91b53",
+          "isGlobal": false,
+          "name": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Find\n the missing element in the given series:</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">48\n ? 36 90 315 1417.5</span></span></span></span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n Find\n the missing element in the given series:\n 48\n ? 36 90 315 1417.5\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 6,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 4,
+            "negative": 1,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">882</span></span></span></span></p>\n ",
+              "nameText": "\n 882\n ",
+              "order": 1,
+              "_id": "67b6d74fcd84945d628bbb02"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">828</span></span></span></span></p>\n ",
+              "nameText": "\n 828\n ",
+              "order": 2,
+              "_id": "67b6d74fcd849413678bbb03"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">456</span></span></span></span></p>\n ",
+              "nameText": "\n 456\n ",
+              "order": 3,
+              "_id": "67b6d74fcd849477e18bbb04"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">768</span></span></span></span></p>\n ",
+              "nameText": "\n 768\n ",
+              "order": 4,
+              "_id": "67b6d74fcd849433f78bbb05"
+            }
+          ],
+          "_id": "67b6d740146bf66fc5a91b99",
+          "isGlobal": false,
+          "name": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Find\n the wrong term in the given series:</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">10\n 12 18 42 162 ?</span></span></span></span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n Find\n the wrong term in the given series:\n 10\n 12 18 42 162 ?\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 20,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 4,
+            "negative": 1,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">625</span></span></span></span></p>\n ",
+              "nameText": "\n 625\n ",
+              "order": 1,
+              "_id": "67b6d74fcd8494489f8bbab6"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">675</span></span></span></span></p>\n ",
+              "nameText": "\n 675\n ",
+              "order": 2,
+              "_id": "67b6d74fcd849437968bbab7"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">575</span></span></span></span></p>\n ",
+              "nameText": "\n 575\n ",
+              "order": 3,
+              "_id": "67b6d74fcd849480438bbab8"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">525</span></span></span></span></p>\n ",
+              "nameText": "\n 525\n ",
+              "order": 4,
+              "_id": "67b6d74fcd8494784f8bbab9"
+            }
+          ],
+          "_id": "67b6d740146bf66e1aa91b4e",
+          "isGlobal": false,
+          "name": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Find\n the missing element in the given series:</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">529\n ? 729 841 961 1089</span></span></span></span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n Find\n the missing element in the given series:\n 529\n ? 729 841 961 1089\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 5,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 4,
+            "negative": 1,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">192</span></span></span></span></p>\n ",
+              "nameText": "\n 192\n ",
+              "order": 1,
+              "_id": "67b6d74fcd849403a28bbae6"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">192</span></span></span></span></p>\n ",
+              "nameText": "\n 192\n ",
+              "order": 2,
+              "_id": "67b6d74fcd8494cbeb8bbae7"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">190</span></span></span></span></p>\n ",
+              "nameText": "\n 190\n ",
+              "order": 3,
+              "_id": "67b6d74fcd8494db278bbae8"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">193</span></span></span></span></p>\n ",
+              "nameText": "\n 193\n ",
+              "order": 4,
+              "_id": "67b6d74fcd8494242a8bbae9"
+            }
+          ],
+          "_id": "67b6d740146bf69c73a91b8a",
+          "isGlobal": false,
+          "name": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Find\n the wrong term in the given series:</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">143\n 151 158 172 182 ?</span></span></span></span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n Find\n the wrong term in the given series:\n 143\n 151 158 172 182 ?\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 17,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 4,
+            "negative": 1,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">651</span></span></span></span></p>\n ",
+              "nameText": "\n 651\n ",
+              "order": 1,
+              "_id": "67b6d74fcd8494b92d8bbada"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">128</span></span></span></span></p>\n ",
+              "nameText": "\n 128\n ",
+              "order": 2,
+              "_id": "67b6d74fcd84940e688bbadb"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">31</span></span></span></span></p>\n ",
+              "nameText": "\n 31\n ",
+              "order": 3,
+              "_id": "67b6d74fcd8494e9558bbadc"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">9</span></span></span></span></p>\n ",
+              "nameText": "\n 9\n ",
+              "order": 4,
+              "_id": "67b6d74fcd84942b908bbadd"
+            }
+          ],
+          "_id": "67b6d740146bf62d44a91b3f",
+          "isGlobal": false,
+          "name": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Find\n the wrong term in the given series:</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">1,\n 3, 9, 31, 128, 651, 3913</span></span></span></span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n Find\n the wrong term in the given series:\n 1,\n 3, 9, 31, 128, 651, 3913\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 2,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 4,
+            "negative": 1,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">48</span></span></span></span></p>\n ",
+              "nameText": "\n 48\n ",
+              "order": 1,
+              "_id": "67b6d74fcd8494d1648bbafe"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">144</span></span></span></span></p>\n ",
+              "nameText": "\n 144\n ",
+              "order": 2,
+              "_id": "67b6d74fcd8494c7a08bbaff"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">13200</span></span></span></span></p>\n ",
+              "nameText": "\n 13200\n ",
+              "order": 3,
+              "_id": "67b6d74fcd849419cb8bbb00"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">915</span></span></span></span></p>\n ",
+              "nameText": "\n 915\n ",
+              "order": 4,
+              "_id": "67b6d74fcd849435f78bbb01"
+            }
+          ],
+          "_id": "67b6d740146bf6f1e6a91b80",
+          "isGlobal": false,
+          "name": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Find\n the wrong term in the given series:</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">12\n 24 48 144 915 13200</span></span></span></span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n Find\n the wrong term in the given series:\n 12\n 24 48 144 915 13200\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 15,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 4,
+            "negative": 1,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">462</span></span></span></span></p>\n ",
+              "nameText": "\n 462\n ",
+              "order": 1,
+              "_id": "67b6d74fcd84946a6f8bbaca"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">511</span></span></span></span></p>\n ",
+              "nameText": "\n 511\n ",
+              "order": 2,
+              "_id": "67b6d74fcd849468bd8bbacb"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">489</span></span></span></span></p>\n ",
+              "nameText": "\n 489\n ",
+              "order": 3,
+              "_id": "67b6d74fcd84944b658bbacc"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">538</span></span></span></span></p>\n ",
+              "nameText": "\n 538\n ",
+              "order": 4,
+              "_id": "67b6d74fcd8494332e8bbacd"
+            }
+          ],
+          "_id": "67b6d740146bf671c4a91b49",
+          "isGlobal": false,
+          "name": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Find\n the missing element in the given series:</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">379\n 390 412 445 ? 544</span></span></span></span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n Find\n the missing element in the given series:\n 379\n 390 412 445 ? 544\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 4,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 4,
+            "negative": 1,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">116</span></span></span></span></p>\n ",
+              "nameText": "\n 116\n ",
+              "order": 1,
+              "_id": "67b6d74fcd84940a818bbaf6"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">220</span></span></span></span></p>\n ",
+              "nameText": "\n 220\n ",
+              "order": 2,
+              "_id": "67b6d74fcd849459c98bbaf7"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">312</span></span></span></span></p>\n ",
+              "nameText": "\n 312\n ",
+              "order": 3,
+              "_id": "67b6d74fcd84944c0c8bbaf8"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">224</span></span></span></span></p>\n ",
+              "nameText": "\n 224\n ",
+              "order": 4,
+              "_id": "67b6d74fcd849451298bbaf9"
+            }
+          ],
+          "_id": "67b6d740146bf630b9a91b8f",
+          "isGlobal": false,
+          "name": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Find\n the wrong term in the given series:</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">10\n 16 34 70 130 ?</span></span></span></span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n Find\n the wrong term in the given series:\n 10\n 16 34 70 130 ?\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 18,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 4,
+            "negative": 1,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">157</span></span></span></span></p>\n ",
+              "nameText": "\n 157\n ",
+              "order": 1,
+              "_id": "67b6d74fcd84943f4c8bbae2"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">213</span></span></span></span></p>\n ",
+              "nameText": "\n 213\n ",
+              "order": 2,
+              "_id": "67b6d74fcd849406e48bbae3"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">275</span></span></span></span></p>\n ",
+              "nameText": "\n 275\n ",
+              "order": 3,
+              "_id": "67b6d74fcd849451328bbae4"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">195</span></span></span></span></p>\n ",
+              "nameText": "\n 195\n ",
+              "order": 4,
+              "_id": "67b6d74fcd849446df8bbae5"
+            }
+          ],
+          "_id": "67b6d740146bf6f4fda91b71",
+          "isGlobal": false,
+          "name": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Find\n the missing element in the given series:</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">35,\n 37, 47, 77, 145, ?</span></span></span></span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n Find\n the missing element in the given series:\n 35,\n 37, 47, 77, 145, ?\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 12,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 4,
+            "negative": 1,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">11</span></span></span></span></p>\n ",
+              "nameText": "\n 11\n ",
+              "order": 1,
+              "_id": "67b6d74fcd849479948bbad2"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">19.5</span></span></span></span></p>\n ",
+              "nameText": "\n 19.5\n ",
+              "order": 2,
+              "_id": "67b6d74fcd84943ce68bbad3"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">17.5</span></span></span></span></p>\n ",
+              "nameText": "\n 17.5\n ",
+              "order": 3,
+              "_id": "67b6d74fcd84948c128bbad4"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">8</span></span></span></span></p>\n ",
+              "nameText": "\n 8\n ",
+              "order": 4,
+              "_id": "67b6d74fcd8494e6a18bbad5"
+            }
+          ],
+          "_id": "67b6d740146bf66c3ca91b7b",
+          "isGlobal": false,
+          "name": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Find\n the missing element in the given series:</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">240\n 122 64 36 23 ?</span></span></span></span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n Find\n the missing element in the given series:\n 240\n 122 64 36 23 ?\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 14,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 4,
+            "negative": 1,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">6</span></span></span></span></p>\n ",
+              "nameText": "\n 6\n ",
+              "order": 1,
+              "_id": "67b6d74fcd8494188c8bbace"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">5</span></span></span></span></p>\n ",
+              "nameText": "\n 5\n ",
+              "order": 2,
+              "_id": "67b6d74fcd8494fe778bbacf"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">7</span></span></span></span></p>\n ",
+              "nameText": "\n 7\n ",
+              "order": 3,
+              "_id": "67b6d74fcd8494fe888bbad0"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">5.5</span></span></span></span></p>\n ",
+              "nameText": "\n 5.5\n ",
+              "order": 4,
+              "_id": "67b6d74fcd84949ceb8bbad1"
+            }
+          ],
+          "_id": "67b6d740146bf6859ca91b62",
+          "isGlobal": false,
+          "name": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Find\n the missing element in the given series:</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">4\n ? 8 27 104 525</span></span></span></span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n Find\n the missing element in the given series:\n 4\n ? 8 27 104 525\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 9,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 4,
+            "negative": 1,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">210</span></span></span></span></p>\n ",
+              "nameText": "\n 210\n ",
+              "order": 1,
+              "_id": "67b6d74fcd84948a7f8bbaee"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">272</span></span></span></span></p>\n ",
+              "nameText": "\n 272\n ",
+              "order": 2,
+              "_id": "67b6d74fcd849447b78bbaef"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">255</span></span></span></span></p>\n ",
+              "nameText": "\n 255\n ",
+              "order": 3,
+              "_id": "67b6d74fcd84945b438bbaf0"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">312</span></span></span></span></p>\n ",
+              "nameText": "\n 312\n ",
+              "order": 4,
+              "_id": "67b6d74fcd8494e2538bbaf1"
+            }
+          ],
+          "_id": "67b6d740146bf6638ca91b5d",
+          "isGlobal": false,
+          "name": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Find\n the missing element in the given series:</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">0\n 6 24 60 120 ?</span></span></span></span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n Find\n the missing element in the given series:\n 0\n 6 24 60 120 ?\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 8,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 4,
+            "negative": 1,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">107</span></span></span></span></p>\n ",
+              "nameText": "\n 107\n ",
+              "order": 1,
+              "_id": "67b6d74fcd849461168bbaba"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">16</span></span></span></span></p>\n ",
+              "nameText": "\n 16\n ",
+              "order": 2,
+              "_id": "67b6d74fcd84946e048bbabb"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">25</span></span></span></span></p>\n ",
+              "nameText": "\n 25\n ",
+              "order": 3,
+              "_id": "67b6d74fcd849450018bbabc"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">68</span></span></span></span></p>\n ",
+              "nameText": "\n 68\n ",
+              "order": 4,
+              "_id": "67b6d74fcd84943cd38bbabd"
+            }
+          ],
+          "_id": "67b6d740146bf65844a91b3a",
+          "isGlobal": false,
+          "name": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Find\n the wrong term in the given series:</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">7,\n 9, 16, 25, 41, 68, 107, 173</span></span></span></span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n Find\n the wrong term in the given series:\n 7,\n 9, 16, 25, 41, 68, 107, 173\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 1,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 4,
+            "negative": 1,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">128</span></span></span></span></p>\n ",
+              "nameText": "\n 128\n ",
+              "order": 1,
+              "_id": "67b6d74fcd849466028bbafa"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">20.5</span></span></span></span></p>\n ",
+              "nameText": "\n 20.5\n ",
+              "order": 2,
+              "_id": "67b6d74fcd8494cf1b8bbafb"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">2590</span></span></span></span></p>\n ",
+              "nameText": "\n 2590\n ",
+              "order": 3,
+              "_id": "67b6d74fcd849469708bbafc"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">19</span></span></span></span></p>\n ",
+              "nameText": "\n 19\n ",
+              "order": 4,
+              "_id": "67b6d74fcd84945e868bbafd"
+            }
+          ],
+          "_id": "67b6d740146bf6958ba91b67",
+          "isGlobal": false,
+          "name": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Find\n the wrong term in the given series:</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">19\n 20.5 42.5 129 517.5 2590 15535.5</span></span></span></span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n Find\n the wrong term in the given series:\n 19\n 20.5 42.5 129 517.5 2590 15535.5\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 10,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 4,
+            "negative": 1,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">110</span></span></span></span></p>\n ",
+              "nameText": "\n 110\n ",
+              "order": 1,
+              "_id": "67b6d74fcd84943a218bbad6"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">115</span></span></span></span></p>\n ",
+              "nameText": "\n 115\n ",
+              "order": 2,
+              "_id": "67b6d74fcd8494601b8bbad7"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">120</span></span></span></span></p>\n ",
+              "nameText": "\n 120\n ",
+              "order": 3,
+              "_id": "67b6d74fcd8494015b8bbad8"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">125</span></span></span></span></p>\n ",
+              "nameText": "\n 125\n ",
+              "order": 4,
+              "_id": "67b6d74fcd849412ea8bbad9"
+            }
+          ],
+          "_id": "67b6d740146bf624daa91b94",
+          "isGlobal": false,
+          "name": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Find\n the wrong term in the given series:</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">243\n 81 54 54 72 ?</span></span></span></span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n Find\n the wrong term in the given series:\n 243\n 81 54 54 72 ?\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 19,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 4,
+            "negative": 1,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">272</span></span></span></span></p>\n ",
+              "nameText": "\n 272\n ",
+              "order": 1,
+              "_id": "67b6d74fcd84943f408bbaf2"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">284</span></span></span></span></p>\n ",
+              "nameText": "\n 284\n ",
+              "order": 2,
+              "_id": "67b6d74fcd849423e78bbaf3"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">296</span></span></span></span></p>\n ",
+              "nameText": "\n 296\n ",
+              "order": 3,
+              "_id": "67b6d74fcd8494c3818bbaf4"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">302</span></span></span></span></p>\n ",
+              "nameText": "\n 302\n ",
+              "order": 4,
+              "_id": "67b6d74fcd849421af8bbaf5"
+            }
+          ],
+          "_id": "67b6d740146bf6469da91b76",
+          "isGlobal": false,
+          "name": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Find\n the missing element in the given series:</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">132\n 156 182 210 240 ?</span></span></span></span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n Find\n the missing element in the given series:\n 132\n 156 182 210 240 ?\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 13,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 4,
+            "negative": 1,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">164</span></span></span></span></p>\n ",
+              "nameText": "\n 164\n ",
+              "order": 1,
+              "_id": "67b6d74fcd8494dac78bbade"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">174</span></span></span></span></p>\n ",
+              "nameText": "\n 174\n ",
+              "order": 2,
+              "_id": "67b6d74fcd84943ade8bbadf"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">194</span></span></span></span></p>\n ",
+              "nameText": "\n 194\n ",
+              "order": 3,
+              "_id": "67b6d74fcd849436298bbae0"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">184</span></span></span></span></p>\n ",
+              "nameText": "\n 184\n ",
+              "order": 4,
+              "_id": "67b6d74fcd84941f3a8bbae1"
+            }
+          ],
+          "_id": "67b6d740146bf67f54a91b58",
+          "isGlobal": false,
+          "name": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Find\n the missing element in the given series:</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">19\n 40 67 101 143 ?</span></span></span></span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n Find\n the missing element in the given series:\n 19\n 40 67 101 143 ?\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 7,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 4,
+            "negative": 1,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">28650.24</span></span></span></span></p>\n ",
+              "nameText": "\n 28650.24\n ",
+              "order": 1,
+              "_id": "67b6d74fcd849477448bbac6"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">38652.24</span></span></span></span></p>\n ",
+              "nameText": "\n 38652.24\n ",
+              "order": 2,
+              "_id": "67b6d74fcd84943c338bbac7"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">32452.24</span></span></span></span></p>\n ",
+              "nameText": "\n 32452.24\n ",
+              "order": 3,
+              "_id": "67b6d74fcd8494e5418bbac8"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">40552.24</span></span></span></span></p>\n ",
+              "nameText": "\n 40552.24\n ",
+              "order": 4,
+              "_id": "67b6d74fcd84944ea88bbac9"
+            }
+          ],
+          "_id": "67b6d740146bf6f3fca91b85",
+          "isGlobal": false,
+          "name": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Find\n the wrong term in the given series:</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">200\n 220 484 1597.2 7027.68 ?</span></span></span></span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n Find\n the wrong term in the given series:\n 200\n 220 484 1597.2 7027.68 ?\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 16,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 4,
+            "negative": 1,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">30</span></span></span></span></p>\n ",
+              "nameText": "\n 30\n ",
+              "order": 1,
+              "_id": "67b6d74fcd8494729a8bbac2"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">60</span></span></span></span></p>\n ",
+              "nameText": "\n 60\n ",
+              "order": 2,
+              "_id": "67b6d74fcd849484818bbac3"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">90</span></span></span></span></p>\n ",
+              "nameText": "\n 90\n ",
+              "order": 3,
+              "_id": "67b6d74fcd849430648bbac4"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">100</span></span></span></span></p>\n ",
+              "nameText": "\n 100\n ",
+              "order": 4,
+              "_id": "67b6d74fcd8494f7168bbac5"
+            }
+          ],
+          "_id": "67b6d740146bf69ae8a91b6c",
+          "isGlobal": false,
+          "name": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Find\n the missing element in the given series:</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">90,\n 30, 30, 30, 60, ?</span></span></span></span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n Find\n the missing element in the given series:\n 90,\n 30, 30, 30, 60, ?\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 11,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 4,
+            "negative": 1,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">27</span></span></span></span></p>\n ",
+              "nameText": "\n 27\n ",
+              "order": 1,
+              "_id": "67b6d74fcd84942f7c8bbaea"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">25</span></span></span></span></p>\n ",
+              "nameText": "\n 25\n ",
+              "order": 2,
+              "_id": "67b6d74fcd84945c3d8bbaeb"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">23</span></span></span></span></p>\n ",
+              "nameText": "\n 23\n ",
+              "order": 3,
+              "_id": "67b6d74fcd84945e9b8bbaec"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">29</span></span></span></span></p>\n ",
+              "nameText": "\n 29\n ",
+              "order": 4,
+              "_id": "67b6d74fcd8494d75e8bbaed"
+            }
+          ],
+          "_id": "67b6d740146bf65f79a91b44",
+          "isGlobal": false,
+          "name": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Find\n the missing element in the given series:</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">7,\n 13, ?, 49, 97</span></span></span></span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n Find\n the missing element in the given series:\n 7,\n 13, ?, 49, 97\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 3,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        }
+      ]
+    }
+  ],
+  "practiceTestUrls": [],
+  "updateAfterSync": {},
+  "currentSection": "67b6d730146bf6ed5ea91abc",
+  "testTotalDuration": 1500000,
+  "examStartDate": "2026-10-10T17:47:04.131Z"
+}

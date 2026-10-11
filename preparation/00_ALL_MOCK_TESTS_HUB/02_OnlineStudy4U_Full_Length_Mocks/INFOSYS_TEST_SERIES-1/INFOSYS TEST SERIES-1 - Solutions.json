@@ -1,0 +1,2313 @@
+{
+  "test": {
+    "name": "INFOSYS TEST SERIES-1",
+    "testTotalDuration": 4200000,
+    "settings": {
+      "fonts": {
+        "fonts": [
+          {
+            "face": "Calibri",
+            "supported": true
+          },
+          {
+            "face": "serif",
+            "supported": true
+          }
+        ],
+        "include": "https://cms-gcp.classplusapp.com/parser/v3/css/combined?face=Calibri,serif"
+      },
+      "isSectionSwitchingEnabled": true
+    },
+    "practiceTestUrls": [],
+    "testFormat": "DEFAULT"
+  },
+  "filters": {
+    "incorrect": 0,
+    "correct": 0,
+    "partiallyMarked": 0,
+    "unattempted": 1,
+    "markForReview": 0,
+    "graceMarked": 0,
+    "revaluated": 0
+  },
+  "timeTaken": 0,
+  "courseId": "58216",
+  "showReportQuestion": true,
+  "sectionWiseStats": [
+    {
+      "marksScored": 0,
+      "sectionMarks": 20,
+      "accuracy": 0,
+      "_id": "6aca7a3d640b52548cfb9b2a",
+      "totalQuestions": 5,
+      "attemptDuration": 0,
+      "correctAnswers": 0,
+      "inCorrectAnswers": 0,
+      "partiallyCorrectAnswers": 0,
+      "unAttempted": 5,
+      "name": "Puzzles",
+      "order": 1,
+      "sectionDuration": 0,
+      "sectionId": "68de1c13db3a6455a0603c29"
+    },
+    {
+      "marksScored": 0,
+      "sectionMarks": 20,
+      "accuracy": 0,
+      "_id": "6aca7a3d640b526566fb9b29",
+      "totalQuestions": 5,
+      "attemptDuration": 0,
+      "correctAnswers": 0,
+      "inCorrectAnswers": 0,
+      "partiallyCorrectAnswers": 0,
+      "unAttempted": 5,
+      "name": "Pseudo Code",
+      "order": 2,
+      "sectionDuration": 0,
+      "sectionId": "68de2ec2b4ac006bc639e05c"
+    },
+    {
+      "marksScored": 0,
+      "sectionMarks": 40,
+      "accuracy": 0,
+      "_id": "6aca7a3d640b52467cfb9b28",
+      "totalQuestions": 10,
+      "attemptDuration": 0,
+      "correctAnswers": 0,
+      "inCorrectAnswers": 0,
+      "partiallyCorrectAnswers": 0,
+      "unAttempted": 10,
+      "name": "Apttitude_Techncal Ability",
+      "order": 3,
+      "sectionDuration": 0,
+      "sectionId": "68de32c0b4ac00647e39e1fb"
+    },
+    {
+      "marksScored": 0,
+      "sectionMarks": 60,
+      "accuracy": 0,
+      "_id": "6aca7a3d640b5222c0fb9b2b",
+      "totalQuestions": 15,
+      "attemptDuration": 0,
+      "correctAnswers": 0,
+      "inCorrectAnswers": 0,
+      "partiallyCorrectAnswers": 0,
+      "unAttempted": 15,
+      "name": "Reasoning",
+      "order": 4,
+      "sectionDuration": 0,
+      "sectionId": "68de32f7510f307ab62d190a"
+    }
+  ],
+  "sections": [
+    {
+      "sectionDuration": 0,
+      "sectionMarks": 20,
+      "isActive": true,
+      "draftMode": false,
+      "sectionInstructions": "<p>Technical Ability 10 Questions is asked in infosys for 10Marks. It&nbsp; has Aptitude Questions</p>",
+      "_id": "68de1c13db3a6455a0603c29",
+      "hasOptionalQuestions": false,
+      "name": "Puzzles",
+      "order": 1,
+      "createdAt": "2025-10-02T12:39:49.540Z",
+      "updatedAt": "2025-10-02T12:39:49.540Z",
+      "questions": [
+        {
+          "_id": "68de264958e478256ed8a576",
+          "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"images/img_4609797f1e8e.png\" name=\"Picture 3\" align=\"bottom\" width=\"487\" height=\"199\" border=\"0\">\n</img></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n \n\n ",
+          "sectionId": "68de1c13db3a6455a0603c29",
+          "order": 1,
+          "questionSubmitOrder": 1,
+          "options": [
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">76</span></span></span></p>\n ",
+              "nameText": "\n 76\n ",
+              "isCorrect": false,
+              "_id": "68de2861b4ac00924839dea1",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">45</span></span></span></p>\n ",
+              "nameText": "\n 45\n ",
+              "isCorrect": false,
+              "_id": "68de2861b4ac00050239dea2",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">67</span></span></span></p>\n ",
+              "nameText": "\n 67\n ",
+              "isCorrect": false,
+              "_id": "68de2861b4ac00bef839dea3",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">68</span></span></span></p>\n ",
+              "nameText": "\n 68\n ",
+              "isCorrect": true,
+              "_id": "68de2861b4ac0073e539dea4",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p style=\"margin-bottom: 0px\">\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Logic:\n 5 x 3 + 6 x 4 = 39</span></span></span></p>\n <p style=\"text-decoration: none\"><br>\n\n </p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a3c52d042b969cf525d",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "68de264958e478b816d8a580",
+          "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"images/img_61bca61c2a3c.png\" name=\"Picture 5\" align=\"bottom\" width=\"344\" height=\"261\" border=\"0\">\n</img></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n \n\n ",
+          "sectionId": "68de1c13db3a6455a0603c29",
+          "order": 2,
+          "questionSubmitOrder": 2,
+          "options": [
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span lang=\"en-US\">11</span></span></span></p>\n ",
+              "nameText": "\n 11\n ",
+              "isCorrect": true,
+              "_id": "68de2861b4ac008be139de95",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span lang=\"en-US\">33</span></span></span></p>\n ",
+              "nameText": "\n 33\n ",
+              "isCorrect": false,
+              "_id": "68de2861b4ac00e98339de96",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span lang=\"en-US\">22</span></span></span></p>\n ",
+              "nameText": "\n 22\n ",
+              "isCorrect": false,
+              "_id": "68de2861b4ac004c4f39de97",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span lang=\"en-US\">32</span></span></span></p>\n ",
+              "nameText": "\n 32\n ",
+              "isCorrect": false,
+              "_id": "68de2861b4ac0034ca39de98",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p style=\"text-decoration: none;\"><span style=\"color: #000000;\"><span style=\"font-family: Calibri,serif;\"><span lang=\"en-US\">Logic: 3 x 5 +&nbsp; 4 x 3 = 27</span></span></span></p>",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a3c52d0424d86cf525e",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "68de264958e4785055d8a571",
+          "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"images/img_82ce24274575.png\" name=\"Picture 2\" align=\"bottom\" width=\"391\" height=\"332\" border=\"0\">\n</img></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n \n\n ",
+          "sectionId": "68de1c13db3a6455a0603c29",
+          "order": 3,
+          "questionSubmitOrder": 3,
+          "options": [
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span lang=\"en-US\">4</span></span></span></p>\n ",
+              "nameText": "\n 4\n ",
+              "isCorrect": false,
+              "_id": "68de2861b4ac001a5e39de91",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span lang=\"en-US\">2</span></span></span></p>\n ",
+              "nameText": "\n 2\n ",
+              "isCorrect": true,
+              "_id": "68de2861b4ac00f08939de92",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span lang=\"en-US\">6</span></span></span></p>\n ",
+              "nameText": "\n 6\n ",
+              "isCorrect": false,
+              "_id": "68de2861b4ac0074d639de93",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span lang=\"en-US\">8</span></span></span></p>\n ",
+              "nameText": "\n 8\n ",
+              "isCorrect": false,
+              "_id": "68de2861b4ac009d3a39de94",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p style=\"margin-bottom: 0px\">\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Logic:\n  9 x 4 – ( 9 + 2) = 25</span></span></span></p>\n <p style=\"text-decoration: none\"><br>\n\n </p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a3c52d04219f1cf525f",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "68de264958e4784683d8a56c",
+          "name": "<p>\n <span style=\"display: inline-block; border: none; padding: 0px\"><img src=\"images/img_23a5a82f8f1d.png\" name=\"Picture 1\" align=\"bottom\" width=\"416\" height=\"343\" border=\"0\">\n</img></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n \n\n ",
+          "sectionId": "68de1c13db3a6455a0603c29",
+          "order": 4,
+          "questionSubmitOrder": 4,
+          "options": [
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span lang=\"en-US\">4</span></span></span></p>\n ",
+              "nameText": "\n 4\n ",
+              "isCorrect": false,
+              "_id": "68de2861b4ac00265c39de9d",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span lang=\"en-US\">3</span></span></span></p>\n ",
+              "nameText": "\n 3\n ",
+              "isCorrect": false,
+              "_id": "68de2861b4ac00627639de9e",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span lang=\"en-US\">2</span></span></span></p>\n ",
+              "nameText": "\n 2\n ",
+              "isCorrect": false,
+              "_id": "68de2861b4ac005b2239de9f",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span lang=\"en-US\">1</span></span></span></p>\n ",
+              "nameText": "\n 1\n ",
+              "isCorrect": true,
+              "_id": "68de2861b4ac00faa839dea0",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p style=\"margin-bottom: 0px\">\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Logic:\n 4 x 5 – (4 + 5) =11</span></span></span></p>\n <p style=\"margin-bottom: 0px\"><span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">3\n x 2 – ( 3+2) = 1</span></span></span></p>\n <p><br>\n\n </p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a3c52d042f8cacf5260",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "68de264958e478ea90d8a57b",
+          "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"images/img_2a9ed37c01a2.png\" name=\"Picture 4\" align=\"bottom\" width=\"195\" height=\"135\" border=\"0\">\n</img></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n \n\n ",
+          "sectionId": "68de1c13db3a6455a0603c29",
+          "order": 5,
+          "questionSubmitOrder": 5,
+          "options": [
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span lang=\"en-US\">J</span></span></span></p>\n ",
+              "nameText": "\n J\n ",
+              "isCorrect": true,
+              "_id": "68de2861b4ac00b2c839de99",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span lang=\"en-US\">T</span></span></span></p>\n ",
+              "nameText": "\n T\n ",
+              "isCorrect": false,
+              "_id": "68de2861b4ac00476239de9a",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span lang=\"en-US\">I</span></span></span></p>\n ",
+              "nameText": "\n I\n ",
+              "isCorrect": false,
+              "_id": "68de2861b4ac00802239de9b",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span lang=\"en-US\">O</span></span></span></p>\n ",
+              "nameText": "\n O\n ",
+              "isCorrect": false,
+              "_id": "68de2861b4ac00629d39de9c",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span lang=\"en-US\">Logic:\n </span></span></span>\n </p>\n <p style=\"margin-bottom: 0px; text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span lang=\"en-US\">Write\n the alphabetical position first.</span></span></span></p>\n <p style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span lang=\"en-US\">Then\n 3 x 8 /2 = 12 , where 3 is C , H is 8 and L=12</span></span></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a3c52d04257f6cf5261",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        }
+      ],
+      "numberOfQuestions": 5
+    },
+    {
+      "sectionDuration": 0,
+      "sectionMarks": 20,
+      "isActive": true,
+      "draftMode": false,
+      "sectionInstructions": " ",
+      "_id": "68de2ec2b4ac006bc639e05c",
+      "hasOptionalQuestions": false,
+      "name": "Pseudo Code",
+      "order": 2,
+      "createdAt": "2025-10-02T12:39:49.541Z",
+      "updatedAt": "2025-10-02T12:39:49.541Z",
+      "questions": [
+        {
+          "_id": "68de2ecb2fe2a1c7bb67518d",
+          "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"images/img_d99c629fbbae.png\" name=\"Picture 5\" align=\"bottom\" width=\"487\" height=\"343\" border=\"0\">\n</img></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n \n\n ",
+          "sectionId": "68de2ec2b4ac006bc639e05c",
+          "order": 1,
+          "questionSubmitOrder": 1,
+          "options": [
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span lang=\"en-US\">2</span></span></span></p>\n ",
+              "nameText": "\n 2\n ",
+              "isCorrect": false,
+              "_id": "68de2ed5ce2b482ca598e891",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span lang=\"en-US\">13</span></span></span></p>\n ",
+              "nameText": "\n 13\n ",
+              "isCorrect": true,
+              "_id": "68de2ed5ce2b489d9b98e892",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span lang=\"en-US\">25</span></span></span></p>\n ",
+              "nameText": "\n 25\n ",
+              "isCorrect": false,
+              "_id": "68de2ed5ce2b487e6098e893",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span lang=\"en-US\">5</span></span></span></p>\n ",
+              "nameText": "\n 5\n ",
+              "isCorrect": false,
+              "_id": "68de2ed5ce2b48177f98e894",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p style=\"text-decoration: none\">\n <br>\n\n </p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a3c52d042278dcf5262",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "68de2ecb2fe2a1ce04675179",
+          "name": "<p>\n <span style=\"display: inline-block; border: none; padding: 0px\"><img src=\"images/img_281279de3054.png\" name=\"Picture 1\" align=\"bottom\" width=\"487\" height=\"152\" border=\"0\">\n</img></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n \n\n ",
+          "sectionId": "68de2ec2b4ac006bc639e05c",
+          "order": 2,
+          "questionSubmitOrder": 2,
+          "options": [
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span lang=\"en-US\">None</span></span></span></p>\n ",
+              "nameText": "\n None\n ",
+              "isCorrect": false,
+              "_id": "68de2ed5ce2b4866b098e895",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span lang=\"en-US\">40</span></span></span></p>\n ",
+              "nameText": "\n 40\n ",
+              "isCorrect": true,
+              "_id": "68de2ed5ce2b482ac198e896",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span lang=\"en-US\">50</span></span></span></p>\n ",
+              "nameText": "\n 50\n ",
+              "isCorrect": false,
+              "_id": "68de2ed5ce2b48867e98e897",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span lang=\"en-US\">60</span></span></span></p>\n ",
+              "nameText": "\n 60\n ",
+              "isCorrect": false,
+              "_id": "68de2ed5ce2b480acd98e898",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p>\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">j=50\n and j-10 , 50-10 = 40</span></span></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a3c52d0427a37cf5263",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "68de2ecb2fe2a12bfb675188",
+          "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"images/img_1f32baf0f1d5.png\" name=\"Picture 4\" align=\"bottom\" width=\"487\" height=\"284\" border=\"0\">\n</img></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n \n\n ",
+          "sectionId": "68de2ec2b4ac006bc639e05c",
+          "order": 3,
+          "questionSubmitOrder": 3,
+          "options": [
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span lang=\"en-US\">6\n times</span></span></span></p>\n ",
+              "nameText": "\n 6\n times\n ",
+              "isCorrect": true,
+              "_id": "68de2ed5ce2b48042698e89d",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span lang=\"en-US\">8\n times</span></span></span></p>\n ",
+              "nameText": "\n 8\n times\n ",
+              "isCorrect": false,
+              "_id": "68de2ed5ce2b48d9cb98e89e",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span lang=\"en-US\">5\n times</span></span></span></p>\n ",
+              "nameText": "\n 5\n times\n ",
+              "isCorrect": false,
+              "_id": "68de2ed5ce2b48606d98e89f",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span lang=\"en-US\">4\n times</span></span></span></p>\n ",
+              "nameText": "\n 4\n times\n ",
+              "isCorrect": false,
+              "_id": "68de2ed5ce2b483e7c98e8a0",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p style=\"text-decoration: none\">\n <br>\n\n </p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a3c52d04254f9cf5264",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "68de2ecb2fe2a1ce7a67517e",
+          "name": "<p style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\">What will be the\n output of the following pseudo code</span></span></p>\n <p style=\"margin-bottom: 0px; text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\">Integer\n i, j, k, d</span></span></p>\n <p style=\"margin-bottom: 0px; text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\">Set\n j = 6, i = 8, k = 2, d = 1</span></span></p>\n <p style=\"margin-bottom: 0px; text-decoration: none\"><br>\n\n </p>\n <p style=\"margin-bottom: 0px; text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\">if\n ((j ^ i) mod k equals 0) then</span></span></p>\n <p style=\"margin-bottom: 0px; text-decoration: none\"><span style=\"color: #000000\">\n    <span style=\"font-family: Calibri,serif\">d = d + 1</span></span></p>\n <p style=\"margin-bottom: 0px; text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\">else</span></span></p>\n <p style=\"margin-bottom: 0px; text-decoration: none\"><span style=\"color: #000000\">\n    <span style=\"font-family: Calibri,serif\">d = d - 1</span></span></p>\n <p style=\"margin-bottom: 0px; text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\">end\n if</span></span></p>\n <p style=\"margin-bottom: 0px; text-decoration: none\"><br>\n\n </p>\n <p style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\">Print\n d</span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n What will be the\n output of the following pseudo code\n Integer\n i, j, k, d\n Set\n j = 6, i = 8, k = 2, d = 1\n \n\n \n if\n ((j ^ i) mod k equals 0) then\n \n    d = d + 1\n else\n \n    d = d - 1\n end\n if\n \n\n \n Print\n d\n ",
+          "sectionId": "68de2ec2b4ac006bc639e05c",
+          "order": 4,
+          "questionSubmitOrder": 4,
+          "options": [
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span lang=\"en-US\">1</span></span></span></p>\n ",
+              "nameText": "\n 1\n ",
+              "isCorrect": false,
+              "_id": "68de2ed5ce2b48635b98e88d",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span lang=\"en-US\">3</span></span></span></p>\n ",
+              "nameText": "\n 3\n ",
+              "isCorrect": false,
+              "_id": "68de2ed5ce2b4883b298e88e",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span lang=\"en-US\">0</span></span></span></p>\n ",
+              "nameText": "\n 0\n ",
+              "isCorrect": false,
+              "_id": "68de2ed5ce2b4871c598e88f",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span lang=\"en-US\">2</span></span></span></p>\n ",
+              "nameText": "\n 2\n ",
+              "isCorrect": true,
+              "_id": "68de2ed5ce2b482dca98e890",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p>\n <br>\n\n </p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a3c52d0421848cf5265",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "68de2ecb2fe2a19b4d675183",
+          "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"images/img_341a2afe9573.png\" name=\"Picture 3\" align=\"bottom\" width=\"487\" height=\"279\" border=\"0\">\n</img></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n \n\n ",
+          "sectionId": "68de2ec2b4ac006bc639e05c",
+          "order": 5,
+          "questionSubmitOrder": 5,
+          "options": [
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">20</span></span></span></p>\n ",
+              "nameText": "\n 20\n ",
+              "isCorrect": false,
+              "_id": "68de2ed5ce2b4806b498e899",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">40</span></span></span></p>\n ",
+              "nameText": "\n 40\n ",
+              "isCorrect": true,
+              "_id": "68de2ed5ce2b4827bc98e89a",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">60</span></span></span></p>\n ",
+              "nameText": "\n 60\n ",
+              "isCorrect": false,
+              "_id": "68de2ed5ce2b48eb9f98e89b",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">80</span></span></span></p>\n ",
+              "nameText": "\n 80\n ",
+              "isCorrect": false,
+              "_id": "68de2ed5ce2b48c70498e89c",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p>\n <br>\n\n </p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a3c52d042078ecf5266",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        }
+      ],
+      "numberOfQuestions": 5
+    },
+    {
+      "sectionDuration": 0,
+      "sectionMarks": 40,
+      "isActive": true,
+      "draftMode": false,
+      "sectionInstructions": " ",
+      "_id": "68de32c0b4ac00647e39e1fb",
+      "hasOptionalQuestions": false,
+      "name": "Apttitude_Techncal Ability",
+      "order": 3,
+      "createdAt": "2025-10-02T12:39:49.545Z",
+      "updatedAt": "2025-10-02T12:39:49.545Z",
+      "questions": [
+        {
+          "_id": "68de32ec7a4e3e3ba2214743",
+          "name": "<p>\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">If\n a number is divided by 5, remainder = 2. If the same number is\n divided by 7, remainder = 3. What is the smallest such number?</span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n If\n a number is divided by 5, remainder = 2. If the same number is\n divided by 7, remainder = 3. What is the smallest such number?\n ",
+          "sectionId": "68de32c0b4ac00647e39e1fb",
+          "order": 1,
+          "questionSubmitOrder": 1,
+          "options": [
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span lang=\"en-US\">17</span></span></span></p>\n ",
+              "nameText": "\n 17\n ",
+              "isCorrect": false,
+              "_id": "68de355ae54313d69de69a60",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span lang=\"en-US\">23</span></span></span></p>\n ",
+              "nameText": "\n 23\n ",
+              "isCorrect": false,
+              "_id": "68de355ae5431367fae69a61",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span lang=\"en-US\">38</span></span></span></p>\n ",
+              "nameText": "\n 38\n ",
+              "isCorrect": false,
+              "_id": "68de355ae54313b5d7e69a62",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span lang=\"en-US\">52</span></span></span></p>\n ",
+              "nameText": "\n 52\n ",
+              "isCorrect": true,
+              "_id": "68de355ae54313e958e69a63",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p style=\"margin-bottom: 0px\">\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Number\n = 5k + 2. Check divisibility by 7.</span></span></span></p>\n <p style=\"margin-bottom: 0px\"><span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">k=6\n → 5(6)+2=32 remainder 4.</span></span></span></p>\n <p style=\"margin-bottom: 0px\"><span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">k=7\n → 37 remainder 2.</span></span></span></p>\n <p style=\"margin-bottom: 0px\"><span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">k=8\n → 42 remainder 0.</span></span></span></p>\n <p style=\"margin-bottom: 0px\"><span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">k=9\n → 47 remainder 5.</span></span></span></p>\n <p style=\"margin-bottom: 0px\"><span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">k=10\n → 52 remainder 3 .</span></span></span></p>\n <p><span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">So\n number = 52 .</span></span></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a3c52d0426c85cf5267",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "68de32ec7a4e3e1284214761",
+          "name": "<p>\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">The\n probability of getting a sum of 9 when two dice are thrown is:</span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n The\n probability of getting a sum of 9 when two dice are thrown is:\n ",
+          "sectionId": "68de32c0b4ac00647e39e1fb",
+          "order": 2,
+          "questionSubmitOrder": 2,
+          "options": [
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\">1/12</span></span></p>\n ",
+              "nameText": "\n 1/12\n ",
+              "isCorrect": true,
+              "_id": "68de355ae54313097be69a8c",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\">1/9</span></span></p>\n ",
+              "nameText": "\n 1/9\n ",
+              "isCorrect": false,
+              "_id": "68de355ae54313aa7be69a8d",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\">5/39</span></span></p>\n ",
+              "nameText": "\n 5/39\n ",
+              "isCorrect": false,
+              "_id": "68de355ae54313922ee69a8e",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\">7/36</span></span></p>\n ",
+              "nameText": "\n 7/36\n ",
+              "isCorrect": false,
+              "_id": "68de355ae54313597ae69a8f",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p style=\"margin-bottom: 0px\">\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Combinations:\n (3,6), (4,5), (5,4), (6,3).</span></span></span></p>\n <p style=\"margin-bottom: 0px\"><span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Total\n = 4 outcomes.</span></span></span></p>\n <p><span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Probability\n = 4/36 = 1/9 (Correction → 1/9, not 1/12).</span></span></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a3c52d042b222cf5268",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "68de32ec7a4e3e967521474d",
+          "name": "<p>\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">The\n sum of present ages of A and B is 60. 5 years ago, A was 5 times\n B. What are their ages?</span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n The\n sum of present ages of A and B is 60. 5 years ago, A was 5 times\n B. What are their ages?\n ",
+          "sectionId": "68de32c0b4ac00647e39e1fb",
+          "order": 3,
+          "questionSubmitOrder": 3,
+          "options": [
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">A=55,\n B=5</span></span></span></p>\n ",
+              "nameText": "\n A=55,\n B=5\n ",
+              "isCorrect": false,
+              "_id": "68de355ae54313633de69a58",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">A=50,\n B=10</span></span></span></p>\n ",
+              "nameText": "\n A=50,\n B=10\n ",
+              "isCorrect": true,
+              "_id": "68de355ae5431382e5e69a59",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">A=45,\n B=15</span></span></span></p>\n ",
+              "nameText": "\n A=45,\n B=15\n ",
+              "isCorrect": false,
+              "_id": "68de355ae5431338d6e69a5a",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">A=40,\n B=20</span></span></span></p>\n ",
+              "nameText": "\n A=40,\n B=20\n ",
+              "isCorrect": false,
+              "_id": "68de355ae54313bc38e69a5b",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p style=\"margin-bottom: 0px\">\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">A+B=60.</span></span></span></p>\n <p style=\"margin-bottom: 0px\"><span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">(A–5)\n = 5(B–5).</span></span></span></p>\n <p><span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Solving\n → A=50, B=10.</span></span></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a3c52d04242f8cf5269",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "68de32ec7a4e3e026721475c",
+          "name": "<p>\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">If\n x² – 5x + 6 = 0, then find the value of (1/x₁ +\n 1/x₂).</span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n If\n x² – 5x + 6 = 0, then find the value of (1/x₁ +\n 1/x₂).\n ",
+          "sectionId": "68de32c0b4ac00647e39e1fb",
+          "order": 4,
+          "questionSubmitOrder": 4,
+          "options": [
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\">1/2</span></span></p>\n ",
+              "nameText": "\n 1/2\n ",
+              "isCorrect": false,
+              "_id": "68de355ae54313402ae69a64",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\">5/6</span></span></p>\n ",
+              "nameText": "\n 5/6\n ",
+              "isCorrect": true,
+              "_id": "68de355ae5431334b4e69a65",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\">2/3</span></span></p>\n ",
+              "nameText": "\n 2/3\n ",
+              "isCorrect": false,
+              "_id": "68de355ae5431385c2e69a66",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\">3/2</span></span></p>\n ",
+              "nameText": "\n 3/2\n ",
+              "isCorrect": false,
+              "_id": "68de355ae543132c1ee69a67",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p style=\"margin-bottom: 0px\">\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Roots\n = 2, 3.</span></span></span></p>\n <p><span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">(1/2\n + 1/3) = (3+2)/6 = 5/6.</span></span></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a3c52d042d1d9cf526a",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "68de32ec7a4e3e8090214734",
+          "name": "<p>\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">A\n can complete a work in 20 days. B is 25% more efficient than A. In\n how many days will B finish the same work?</span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n A\n can complete a work in 20 days. B is 25% more efficient than A. In\n how many days will B finish the same work?\n ",
+          "sectionId": "68de32c0b4ac00647e39e1fb",
+          "order": 5,
+          "questionSubmitOrder": 5,
+          "options": [
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">15</span></span></span></p>\n ",
+              "nameText": "\n 15\n ",
+              "isCorrect": false,
+              "_id": "68de355ae5431368f0e69a54",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span lang=\"en-US\">16</span></span></span></p>\n ",
+              "nameText": "\n 16\n ",
+              "isCorrect": true,
+              "_id": "68de355ae54313f222e69a55",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span lang=\"en-US\">18</span></span></span></p>\n ",
+              "nameText": "\n 18\n ",
+              "isCorrect": false,
+              "_id": "68de355ae543134c51e69a56",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span lang=\"en-US\">20</span></span></span></p>\n ",
+              "nameText": "\n 20\n ",
+              "isCorrect": false,
+              "_id": "68de355ae543130dfbe69a57",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p style=\"margin-bottom: 0px\">\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">A’s\n 1-day work = 1/20.</span></span></span></p>\n <p style=\"margin-bottom: 0px\"><span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Efficiency\n of B = 125% of A = 5/4 × (1/20) = 1/16.</span></span></span></p>\n <p><span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">So\n B will finish in 16 days.</span></span></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a3c52d042619fcf526b",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "68de32ec7a4e3e8705214757",
+          "name": "<p>\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">A\n shopkeeper allows 20% discount on the marked price and still makes\n 25% profit. If the marked price is ₹1000, what is the cost\n price?</span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n A\n shopkeeper allows 20% discount on the marked price and still makes\n 25% profit. If the marked price is ₹1000, what is the cost\n price?\n ",
+          "sectionId": "68de32c0b4ac00647e39e1fb",
+          "order": 6,
+          "questionSubmitOrder": 6,
+          "options": [
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\">₹<span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">600</span></span></span></p>\n ",
+              "nameText": "\n ₹600\n ",
+              "isCorrect": true,
+              "_id": "68de355ae54313447ce69aa0",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\">₹<span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">625</span></span></span></p>\n ",
+              "nameText": "\n ₹625\n ",
+              "isCorrect": false,
+              "_id": "68de355ae543132060e69aa1",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\">₹<span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">650</span></span></span></p>\n ",
+              "nameText": "\n ₹650\n ",
+              "isCorrect": false,
+              "_id": "68de355ae543137c80e69aa2",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\">₹<span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">700</span></span></span></p>\n ",
+              "nameText": "\n ₹700\n ",
+              "isCorrect": false,
+              "_id": "68de355ae54313f588e69aa3",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p style=\"margin-bottom: 0px\">\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">SP\n = 1000 – 20% of 1000 = 800.</span></span></span></p>\n <p style=\"margin-bottom: 0px\"><span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Profit\n = 25%.</span></span></span></p>\n <p><span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">CP\n = 800 / 1.25 = 640 (correction, not 600).</span></span></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a3c52d0428c55cf526c",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "68de32ec7a4e3e0f49214752",
+          "name": "<p>\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">The\n ratio of investments of A and B is 4:5. A gets ₹400 less\n than B from the profit. Find the total profit.</span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n The\n ratio of investments of A and B is 4:5. A gets ₹400 less\n than B from the profit. Find the total profit.\n ",
+          "sectionId": "68de32c0b4ac00647e39e1fb",
+          "order": 7,
+          "questionSubmitOrder": 7,
+          "options": [
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\">₹<span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">3600</span></span></span></p>\n ",
+              "nameText": "\n ₹3600\n ",
+              "isCorrect": true,
+              "_id": "68de355ae543131a9fe69a78",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\">₹<span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">4000</span></span></span></p>\n ",
+              "nameText": "\n ₹4000\n ",
+              "isCorrect": false,
+              "_id": "68de355ae54313574be69a79",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\">₹<span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">4200</span></span></span></p>\n ",
+              "nameText": "\n ₹4200\n ",
+              "isCorrect": false,
+              "_id": "68de355ae543134d19e69a7a",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\">₹<span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">4800</span></span></span></p>\n ",
+              "nameText": "\n ₹4800\n ",
+              "isCorrect": false,
+              "_id": "68de355ae5431341f7e69a7b",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p style=\"margin-bottom: 0px\">\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Difference\n = 1 part.</span></span></span></p>\n <p style=\"margin-bottom: 0px\"><span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">1\n part = 400.</span></span></span></p>\n <p><span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Total\n = 9 parts = 9×400=3600.</span></span></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a3c52d04247bccf526d",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "68de32ec7a4e3ec62c21473e",
+          "name": "<p>\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">A\n sum of ₹10,000 is invested at 20% per annum compounded\n annually. What will be the compound interest after 2 years?</span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n A\n sum of ₹10,000 is invested at 20% per annum compounded\n annually. What will be the compound interest after 2 years?\n ",
+          "sectionId": "68de32c0b4ac00647e39e1fb",
+          "order": 8,
+          "questionSubmitOrder": 8,
+          "options": [
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\">₹<span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">4000</span></span></span></p>\n ",
+              "nameText": "\n ₹4000\n ",
+              "isCorrect": false,
+              "_id": "68de355ae543132847e69a9c",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\">₹<span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">4200</span></span></span></p>\n ",
+              "nameText": "\n ₹4200\n ",
+              "isCorrect": false,
+              "_id": "68de355ae543139beee69a9d",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\">₹<span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">4400</span></span></span></p>\n ",
+              "nameText": "\n ₹4400\n ",
+              "isCorrect": true,
+              "_id": "68de355ae54313e08ee69a9e",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\">₹<span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">4800</span></span></span></p>\n ",
+              "nameText": "\n ₹4800\n ",
+              "isCorrect": false,
+              "_id": "68de355ae543138f85e69a9f",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p style=\"margin-bottom: 0px\">\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">CI\n = P[(1 + r/100)^t – 1] = 10000[(1.2)^2 – 1] =\n 10000(1.44 – 1) = 4400.</span></span></span></p>\n <p><span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">(Answer\n : ₹4400).</span></span></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a3c52d042653dcf526e",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "68de32ec7a4e3e532f214739",
+          "name": "<p>\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">The\n average of 5 consecutive odd numbers is 35. What is the largest of\n these numbers?</span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n The\n average of 5 consecutive odd numbers is 35. What is the largest of\n these numbers?\n ",
+          "sectionId": "68de32c0b4ac00647e39e1fb",
+          "order": 9,
+          "questionSubmitOrder": 9,
+          "options": [
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span lang=\"en-US\">37</span></span></span></p>\n ",
+              "nameText": "\n 37\n ",
+              "isCorrect": false,
+              "_id": "68de355ae543136559e69a74",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span lang=\"en-US\">39</span></span></span></p>\n ",
+              "nameText": "\n 39\n ",
+              "isCorrect": true,
+              "_id": "68de355ae54313dc3be69a75",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span lang=\"en-US\">41</span></span></span></p>\n ",
+              "nameText": "\n 41\n ",
+              "isCorrect": false,
+              "_id": "68de355ae543136b87e69a76",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span lang=\"en-US\">43</span></span></span></p>\n ",
+              "nameText": "\n 43\n ",
+              "isCorrect": false,
+              "_id": "68de355ae543135782e69a77",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p style=\"margin-bottom: 0px\">\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Middle\n term = 35 (average of consecutive odd nos).</span></span></span></p>\n <p><span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Series\n = 31, 33, 35, 37, 39 → largest = 39.</span></span></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a3c52d0427760cf526f",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "68de32ec7a4e3e3770214748",
+          "name": "<p>\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Two\n pipes can fill a tank in 15 min and 20 min respectively. If both\n pipes are opened together, how long will it take to fill the tank?</span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n Two\n pipes can fill a tank in 15 min and 20 min respectively. If both\n pipes are opened together, how long will it take to fill the tank?\n ",
+          "sectionId": "68de32c0b4ac00647e39e1fb",
+          "order": 10,
+          "questionSubmitOrder": 10,
+          "options": [
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">7\n min</span></span></span></p>\n ",
+              "nameText": "\n 7\n min\n ",
+              "isCorrect": false,
+              "_id": "68de355ae5431339f4e69a88",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">8\n min</span></span></span></p>\n ",
+              "nameText": "\n 8\n min\n ",
+              "isCorrect": false,
+              "_id": "68de355ae543132513e69a89",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">8\n min 34 sec</span></span></span></p>\n ",
+              "nameText": "\n 8\n min 34 sec\n ",
+              "isCorrect": true,
+              "_id": "68de355ae54313a39ce69a8a",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">9\n min</span></span></span></p>\n ",
+              "nameText": "\n 9\n min\n ",
+              "isCorrect": false,
+              "_id": "68de355ae5431313b2e69a8b",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p style=\"margin-bottom: 0px\">\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">1/15\n + 1/20 = (4+3)/60 = 7/60.</span></span></span></p>\n <p><span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Time\n = 60/7 = 8.57 min ≈ 8 min 34 sec.</span></span></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a3c52d0422cc4cf5270",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        }
+      ],
+      "numberOfQuestions": 10
+    },
+    {
+      "sectionDuration": 0,
+      "sectionMarks": 60,
+      "isActive": true,
+      "draftMode": false,
+      "sectionInstructions": " ",
+      "_id": "68de32f7510f307ab62d190a",
+      "hasOptionalQuestions": false,
+      "name": "Reasoning",
+      "order": 4,
+      "createdAt": "2025-10-02T12:39:49.546Z",
+      "updatedAt": "2025-10-02T12:39:49.546Z",
+      "questions": [
+        {
+          "_id": "68de34f4e543130ae7e69a2b",
+          "name": "<p style=\"margin-bottom: 0px\">\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Arrange\n according to logical order:</span></span></span></p>\n <p><span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">(1)\n Exam, (2) Study, (3) Result, (4) Admission.</span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n Arrange\n according to logical order:\n (1)\n Exam, (2) Study, (3) Result, (4) Admission.\n ",
+          "sectionId": "68de32f7510f307ab62d190a",
+          "order": 1,
+          "questionSubmitOrder": 1,
+          "options": [
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span lang=\"en-US\">2-1-3-4</span></span></span></p>\n ",
+              "nameText": "\n 2-1-3-4\n ",
+              "isCorrect": true,
+              "_id": "68de355ae543135bc0e69a70",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">1-2-3-4</span></span></span></p>\n ",
+              "nameText": "\n 1-2-3-4\n ",
+              "isCorrect": false,
+              "_id": "68de355ae543136453e69a71",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">2-3-1-4</span></span></span></p>\n ",
+              "nameText": "\n 2-3-1-4\n ",
+              "isCorrect": false,
+              "_id": "68de355ae543136749e69a72",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">4-2-1-3</span></span></span></p>\n ",
+              "nameText": "\n 4-2-1-3\n ",
+              "isCorrect": false,
+              "_id": "68de355ae543132bfce69a73",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p>\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">First\n Study → Exam → Result → Admission.</span></span></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a3c52d04209e1cf5271",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "68de34f4e543135cd4e699fe",
+          "name": "<p>\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Complete\n the series: 7, 26, 63, 124, ?</span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n Complete\n the series: 7, 26, 63, 124, ?\n ",
+          "sectionId": "68de32f7510f307ab62d190a",
+          "order": 2,
+          "questionSubmitOrder": 2,
+          "options": [
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">215</span></span></span></p>\n ",
+              "nameText": "\n 215\n ",
+              "isCorrect": true,
+              "_id": "68de355ae543132e3de69a90",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">216</span></span></span></p>\n ",
+              "nameText": "\n 216\n ",
+              "isCorrect": false,
+              "_id": "68de355ae54313d5fbe69a91",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">225</span></span></span></p>\n ",
+              "nameText": "\n 225\n ",
+              "isCorrect": false,
+              "_id": "68de355ae543132eb8e69a92",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">200</span></span></span></p>\n ",
+              "nameText": "\n 200\n ",
+              "isCorrect": false,
+              "_id": "68de355ae54313628ee69a93",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p>\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Pattern:\n n³ – 1. (2³–1=7, 3³–1=26,\n 4³–1=63, 5³–1=124, 6³–1=215).</span></span></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a3c52d04212bacf5272",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "68de34f4e543130971e69a21",
+          "name": "<p style=\"margin-bottom: 0px\">\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Statements:</span></span></span></p>\n <ol>\n <li><p lang=\"en-US\" class=\"western\" style=\"margin-bottom: 0px; border: none; padding: 0px\">\n <span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Some\n pens are pencils.</span></span></p>\n </li><li><p lang=\"en-US\" class=\"western\" style=\"border: none; padding: 0px\">\n <span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">All\n pencils are erasers.<br>\nConclusions:<br>\nI. Some pens are\n erasers.<br>\nII. All erasers are pencils.</span></span></p>\n </li></ol>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n Statements:\n \n \n Some\n pens are pencils.\n \n All\n pencils are erasers.\nConclusions:\nI. Some pens are\n erasers.\nII. All erasers are pencils.\n \n ",
+          "sectionId": "68de32f7510f307ab62d190a",
+          "order": 3,
+          "questionSubmitOrder": 3,
+          "options": [
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Only\n I follows</span></span></span></p>\n ",
+              "nameText": "\n Only\n I follows\n ",
+              "isCorrect": true,
+              "_id": "68de355ae54313860de69a84",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Only\n II follows</span></span></span></p>\n ",
+              "nameText": "\n Only\n II follows\n ",
+              "isCorrect": false,
+              "_id": "68de355ae5431372fbe69a85",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Both\n follow</span></span></span></p>\n ",
+              "nameText": "\n Both\n follow\n ",
+              "isCorrect": false,
+              "_id": "68de355ae543133501e69a86",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Neither\n follow</span></span></span></p>\n ",
+              "nameText": "\n Neither\n follow\n ",
+              "isCorrect": false,
+              "_id": "68de355ae543133184e69a87",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p>\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Pens\n </span></span><span style=\"font-family: 'Cambria Math',serif\"><span style=\"font-size: 15px\">⊂</span></span><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">\n Pencils </span></span><span style=\"font-family: 'Cambria Math',serif\"><span style=\"font-size: 15px\">⊂</span></span><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">\n Erasers → Some pens </span></span><span style=\"font-family: 'Cambria Math',serif\"><span style=\"font-size: 15px\">⊂</span></span><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">\n Erasers.</span></span></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a3c52d0429b4ecf5273",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "68de34f4e543139b54e699ea",
+          "name": "<p>\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Six\n friends A, B, C, D, E, F are sitting in a circle facing the\n center. A is between D and F. C is to the left of D. E is between\n B and C. Who is sitting between A and C?</span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n Six\n friends A, B, C, D, E, F are sitting in a circle facing the\n center. A is between D and F. C is to the left of D. E is between\n B and C. Who is sitting between A and C?\n ",
+          "sectionId": "68de32f7510f307ab62d190a",
+          "order": 4,
+          "questionSubmitOrder": 4,
+          "options": [
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span lang=\"en-US\">D</span></span></span></p>\n ",
+              "nameText": "\n D\n ",
+              "isCorrect": true,
+              "_id": "68de355ae543130993e69a5c",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\">E</span></span></p>\n ",
+              "nameText": "\n E\n ",
+              "isCorrect": false,
+              "_id": "68de355ae54313059ae69a5d",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\">F</span></span></p>\n ",
+              "nameText": "\n F\n ",
+              "isCorrect": false,
+              "_id": "68de355ae543132a69e69a5e",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\">B</span></span></p>\n ",
+              "nameText": "\n B\n ",
+              "isCorrect": false,
+              "_id": "68de355ae543131c08e69a5f",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p>\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Arranging:\n A between D &amp; F, C left of D, E between B &amp; C → D is\n between A and C.</span></span></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a3c52d042058bcf5274",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "68de34f4e543133314e69a1c",
+          "name": "<p>\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Find\n the missing number:</span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n Find\n the missing number:\n ",
+          "sectionId": "68de32f7510f307ab62d190a",
+          "order": 5,
+          "questionSubmitOrder": 5,
+          "options": [
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span lang=\"en-US\">24</span></span></span></p>\n ",
+              "nameText": "\n 24\n ",
+              "isCorrect": false,
+              "_id": "68de355ae54313770fe69ab4",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span lang=\"en-US\">36</span></span></span></p>\n ",
+              "nameText": "\n 36\n ",
+              "isCorrect": false,
+              "_id": "68de355ae543132853e69ab5",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span lang=\"en-US\">48</span></span></span></p>\n ",
+              "nameText": "\n 48\n ",
+              "isCorrect": false,
+              "_id": "68de355ae54313d314e69ab6",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span lang=\"en-US\">36</span></span></span></p>\n ",
+              "nameText": "\n 36\n ",
+              "isCorrect": true,
+              "_id": "68de355ae543137f3be69ab7",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p style=\"margin-bottom: 0px\">\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">8\n → 8²=64.</span></span></span></p>\n <p><span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">6\n → 6²=36.</span></span></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a3c52d04225f9cf5275",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "68de34f4e543132856e69a03",
+          "name": "<p>\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Two\n trains of lengths 120m and 180m are running in opposite directions\n with speeds 60 km/h and 90 km/h. In how much time will they cross\n each other?</span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n Two\n trains of lengths 120m and 180m are running in opposite directions\n with speeds 60 km/h and 90 km/h. In how much time will they cross\n each other?\n ",
+          "sectionId": "68de32f7510f307ab62d190a",
+          "order": 6,
+          "questionSubmitOrder": 6,
+          "options": [
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\">6 sec</span></span></p>\n ",
+              "nameText": "\n 6 sec\n ",
+              "isCorrect": false,
+              "_id": "68de355ae54313e0e8e69ab0",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\">8 sec</span></span></p>\n ",
+              "nameText": "\n 8 sec\n ",
+              "isCorrect": false,
+              "_id": "68de355ae543134d6ae69ab1",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\">10 sec</span></span></p>\n ",
+              "nameText": "\n 10 sec\n ",
+              "isCorrect": true,
+              "_id": "68de355ae54313070ce69ab2",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">12\n sec</span></span></span></p>\n ",
+              "nameText": "\n 12\n sec\n ",
+              "isCorrect": false,
+              "_id": "68de355ae543132469e69ab3",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p style=\"margin-bottom: 0px\">\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Relative\n speed = (60+90)×(5/18)=41.67 m/s.</span></span></span></p>\n <p style=\"margin-bottom: 0px\"><span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Total\n length = 300m.</span></span></span></p>\n <p><span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Time\n = 300/41.67 ≈ 10 sec.</span></span></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a3c52d04276bfcf5276",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "68de34f4e54313751ce699ef",
+          "name": "<p>\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Pointing\n to a boy, Seema said, “He is the son of my grandfather’s\n only son.” How is the boy related to Seema?</span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n Pointing\n to a boy, Seema said, “He is the son of my grandfather’s\n only son.” How is the boy related to Seema?\n ",
+          "sectionId": "68de32f7510f307ab62d190a",
+          "order": 7,
+          "questionSubmitOrder": 7,
+          "options": [
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Brother</span></span></span></p>\n ",
+              "nameText": "\n Brother\n ",
+              "isCorrect": true,
+              "_id": "68de355ae54313809ce69a7c",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Cousin</span></span></span></p>\n ",
+              "nameText": "\n Cousin\n ",
+              "isCorrect": false,
+              "_id": "68de355ae543133861e69a7d",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Uncle</span></span></span></p>\n ",
+              "nameText": "\n Uncle\n ",
+              "isCorrect": false,
+              "_id": "68de355ae543133c65e69a7e",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Nephew</span></span></span></p>\n ",
+              "nameText": "\n Nephew\n ",
+              "isCorrect": false,
+              "_id": "68de355ae5431385c3e69a7f",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p>\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Grandfather’s\n only son = Seema’s father. Boy = son of Seema’s father\n → brother.</span></span></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a3c52d0426741cf5277",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "68de34f4e543136e2ae69a17",
+          "name": "<p>\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">In\n a row of 40 students, A is 12th from the left and B is 18th from\n the right. How many students are between A and B?</span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n In\n a row of 40 students, A is 12th from the left and B is 18th from\n the right. How many students are between A and B?\n ",
+          "sectionId": "68de32f7510f307ab62d190a",
+          "order": 8,
+          "questionSubmitOrder": 8,
+          "options": [
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\">8</span></span></p>\n ",
+              "nameText": "\n 8\n ",
+              "isCorrect": false,
+              "_id": "68de355ae5431309f7e69a94",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\">9</span></span></p>\n ",
+              "nameText": "\n 9\n ",
+              "isCorrect": false,
+              "_id": "68de355ae5431370ade69a95",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\">10</span></span></p>\n ",
+              "nameText": "\n 10\n ",
+              "isCorrect": true,
+              "_id": "68de355ae543139e5ce69a96",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\">11</span></span></p>\n ",
+              "nameText": "\n 11\n ",
+              "isCorrect": false,
+              "_id": "68de355ae54313ccbee69a97",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p style=\"margin-bottom: 0px\">\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">A\n = 12th from left. B = 23rd from left (40–18+1).</span></span></span></p>\n <p><span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Between\n = 23–12–1 = 10. </span></span></span>\n </p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a3c52d0424f2bcf5278",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "68de34f4e5431337e1e69a08",
+          "name": "<p>\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Five\n friends scored different marks. P scored more than Q but less than\n R. S scored less than Q but more than T. Who scored the lowest?</span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n Five\n friends scored different marks. P scored more than Q but less than\n R. S scored less than Q but more than T. Who scored the lowest?\n ",
+          "sectionId": "68de32f7510f307ab62d190a",
+          "order": 9,
+          "questionSubmitOrder": 9,
+          "options": [
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\">P</span></span></p>\n ",
+              "nameText": "\n P\n ",
+              "isCorrect": false,
+              "_id": "68de355ae54313e2d2e69a80",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\">Q</span></span></p>\n ",
+              "nameText": "\n Q\n ",
+              "isCorrect": false,
+              "_id": "68de355ae543132deae69a81",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\">S</span></span></p>\n ",
+              "nameText": "\n S\n ",
+              "isCorrect": false,
+              "_id": "68de355ae54313d26fe69a82",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\">T</span></span></p>\n ",
+              "nameText": "\n T\n ",
+              "isCorrect": true,
+              "_id": "68de355ae543130fe1e69a83",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p>\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Order:\n R &gt; P &gt; Q &gt; S &gt; T → lowest is T.</span></span></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a3c52d042f8b1cf5279",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "68de34f4e543130abee69a12",
+          "name": "<p>\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">If\n ‘A × B’ means A is the father of B, ‘A +\n B’ means A is the sister of B, and ‘A – B’\n means A is the mother of B, then P – Q × R means?</span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n If\n ‘A × B’ means A is the father of B, ‘A +\n B’ means A is the sister of B, and ‘A – B’\n means A is the mother of B, then P – Q × R means?\n ",
+          "sectionId": "68de32f7510f307ab62d190a",
+          "order": 10,
+          "questionSubmitOrder": 10,
+          "options": [
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">P\n is mother of R</span></span></span></p>\n ",
+              "nameText": "\n P\n is mother of R\n ",
+              "isCorrect": true,
+              "_id": "68de355ae54313bbd5e69a6c",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">P\n is sister of R</span></span></span></p>\n ",
+              "nameText": "\n P\n is sister of R\n ",
+              "isCorrect": false,
+              "_id": "68de355ae543137431e69a6d",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">P\n is father of R</span></span></span></p>\n ",
+              "nameText": "\n P\n is father of R\n ",
+              "isCorrect": false,
+              "_id": "68de355ae54313286de69a6e",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">P\n is grandmother of R</span></span></span></p>\n ",
+              "nameText": "\n P\n is grandmother of R\n ",
+              "isCorrect": false,
+              "_id": "68de355ae54313550be69a6f",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p>\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Q\n × R → Q father of R. P – Q → P mother of Q →\n So P mother of R.</span></span></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a3c52d0423a39cf527a",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "68de34f4e543137479e69a0d",
+          "name": "<p>\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Find\n the missing term: AB, DE, HI, MN, ?</span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n Find\n the missing term: AB, DE, HI, MN, ?\n ",
+          "sectionId": "68de32f7510f307ab62d190a",
+          "order": 11,
+          "questionSubmitOrder": 11,
+          "options": [
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\">RS</span></span></p>\n ",
+              "nameText": "\n RS\n ",
+              "isCorrect": false,
+              "_id": "68de355ae54313cbeee69aa8",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\">ST</span></span></p>\n ",
+              "nameText": "\n ST\n ",
+              "isCorrect": true,
+              "_id": "68de355ae543133ad0e69aa9",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\">TU</span></span></p>\n ",
+              "nameText": "\n TU\n ",
+              "isCorrect": false,
+              "_id": "68de355ae54313f0f3e69aaa",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">VW</span></span></span></p>\n ",
+              "nameText": "\n VW\n ",
+              "isCorrect": false,
+              "_id": "68de355ae543132124e69aab",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p>\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Skipping\n letters: (AB → DE → HI → MN → ST).</span></span></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a3c52d042728dcf527b",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "68de34f4e5431303ebe69a26",
+          "name": "<p style=\"margin-bottom: 0px\">\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">What\n comes next?</span></span></span></p>\n <p><span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">2,\n 12, 36, 80, 150, ?</span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n What\n comes next?\n 2,\n 12, 36, 80, 150, ?\n ",
+          "sectionId": "68de32f7510f307ab62d190a",
+          "order": 12,
+          "questionSubmitOrder": 12,
+          "options": [
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span lang=\"en-US\">252</span></span></span></p>\n ",
+              "nameText": "\n 252\n ",
+              "isCorrect": true,
+              "_id": "68de355ae54313fac8e69aac",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span lang=\"en-US\">240</span></span></span></p>\n ",
+              "nameText": "\n 240\n ",
+              "isCorrect": false,
+              "_id": "68de355ae5431369dbe69aad",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span lang=\"en-US\">260</span></span></span></p>\n ",
+              "nameText": "\n 260\n ",
+              "isCorrect": false,
+              "_id": "68de355ae54313660de69aae",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span lang=\"en-US\">300</span></span></span></p>\n ",
+              "nameText": "\n 300\n ",
+              "isCorrect": false,
+              "_id": "68de355ae543139bfae69aaf",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p style=\"margin-bottom: 0px\">\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Pattern:\n n³+ n².</span></span></span></p>\n <p><span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">(1³+1²=2,\n 2³+2²=12, 3³+3²=36, 4³+4²=80,\n 5³+5²=150, 6³+6²=252).</span></span></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a3c52d0425e84cf527c",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "68de34f4e543136908e699f9",
+          "name": "<p>\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">In\n a certain code, FLOWER is written as EKNVDQ. How will GARDEN be\n written?</span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n In\n a certain code, FLOWER is written as EKNVDQ. How will GARDEN be\n written?\n ",
+          "sectionId": "68de32f7510f307ab62d190a",
+          "order": 13,
+          "questionSubmitOrder": 13,
+          "options": [
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">FZQCDM</span></span></span></p>\n ",
+              "nameText": "\n FZQCDM\n ",
+              "isCorrect": true,
+              "_id": "68de355ae54313197be69a68",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">HBSFEP</span></span></span></p>\n ",
+              "nameText": "\n HBSFEP\n ",
+              "isCorrect": false,
+              "_id": "68de355ae543130a10e69a69",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">FYQBCM</span></span></span></p>\n ",
+              "nameText": "\n FYQBCM\n ",
+              "isCorrect": false,
+              "_id": "68de355ae543137c10e69a6a",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">EZQCDM</span></span></span></p>\n ",
+              "nameText": "\n EZQCDM\n ",
+              "isCorrect": false,
+              "_id": "68de355ae543132965e69a6b",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p>\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Each\n letter shifted –1: F→E, L→K, O→N… So\n GARDEN → FZQCDM.</span></span></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a3c52d0423922cf527d",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "68de34f4e54313d2c9e699f4",
+          "name": "<p>\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">A,\n B, C, D, E are standing in a line. C is between A and E. B is to\n the immediate left of E. D is to the right of A but not at the\n end. Who is in the middle?</span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n A,\n B, C, D, E are standing in a line. C is between A and E. B is to\n the immediate left of E. D is to the right of A but not at the\n end. Who is in the middle?\n ",
+          "sectionId": "68de32f7510f307ab62d190a",
+          "order": 14,
+          "questionSubmitOrder": 14,
+          "options": [
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\">A</span></span></p>\n ",
+              "nameText": "\n A\n ",
+              "isCorrect": false,
+              "_id": "68de355ae54313acc6e69aa4",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\">B</span></span></p>\n ",
+              "nameText": "\n B\n ",
+              "isCorrect": false,
+              "_id": "68de355ae54313418de69aa5",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\">C</span></span></p>\n ",
+              "nameText": "\n C\n ",
+              "isCorrect": true,
+              "_id": "68de355ae5431301d5e69aa6",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\">D</span></span></p>\n ",
+              "nameText": "\n D\n ",
+              "isCorrect": false,
+              "_id": "68de355ae5431342c9e69aa7",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p>\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Order:\n A D C B E → middle = C.</span></span></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a3c52d04297eecf527e",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "68de34f4e543131c4ee69a30",
+          "name": "<p>\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">If\n in a certain code 3 = 18, 4 = 32, 5 = 50, then 6 = ?</span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n If\n in a certain code 3 = 18, 4 = 32, 5 = 50, then 6 = ?\n ",
+          "sectionId": "68de32f7510f307ab62d190a",
+          "order": 15,
+          "questionSubmitOrder": 15,
+          "options": [
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\">60</span></span></p>\n ",
+              "nameText": "\n 60\n ",
+              "isCorrect": false,
+              "_id": "68de355ae54313a7bde69a98",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\">70</span></span></p>\n ",
+              "nameText": "\n 70\n ",
+              "isCorrect": false,
+              "_id": "68de355ae54313ac7de69a99",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">72</span></span></span></p>\n ",
+              "nameText": "\n 72\n ",
+              "isCorrect": true,
+              "_id": "68de355ae543137d57e69a9a",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">80</span></span></span></p>\n ",
+              "nameText": "\n 80\n ",
+              "isCorrect": false,
+              "_id": "68de355ae5431330b7e69a9b",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p>\n <span style=\"display: inline-block; border: none; padding: 0px\">70</span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a3c52d0422827cf527f",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        }
+      ],
+      "numberOfQuestions": 15
+    }
+  ],
+  "userDetails": {
+    "name": "Shivam Gupta",
+    "userId": 193594164,
+    "orgId": 78392
+  },
+  "sts": 1791654461573,
+  "region": {
+    "timeFormat": "hh:mm a",
+    "dateTimeStamp": "yyyy/MM/dd"
+  }
+}

@@ -1,0 +1,308 @@
+# 3. Full Length Verbala Ability Mock
+
+**Total Questions:** 20 | **Total Marks:** 20 | **Duration:** 15 Minutes
+
+---
+
+## Section: Verbal Solution 04
+
+### Question 1 [Marks: +1, -0]
+
+Read each of the following sentences to find out if there is any grammatical error in it. The error, if any, will be in one part of the sentence. The number (1, 2, 3 or 4) of this part is your answer. 
+
+Children genreally (1) fight above (2) petty issues. (3) No error. (4)
+
+**Options:**
+
+- **(A)** 1
+- **(B)** 2
+- **(C)** 3
+- **(D)** 4
+
+---
+
+### Question 2 [Marks: +1, -0]
+
+Fill in the blank :
+
+She lived _____ the expectations.
+
+**Options:**
+
+- **(A)** As per
+- **(B)** Up to
+- **(C)** On
+- **(D)** At
+
+---
+
+### Question 3 [Marks: +1, -0]
+
+To end in smoke
+
+**Options:**
+
+- **(A)** to burn oneself
+- **(B)** to die of hunger
+- **(C)** to come to nothing
+- **(D)** to become angry
+
+---
+
+### Question 4 [Marks: +1, -0]
+
+Find the Similar meaning of the word :
+
+Vent
+
+**Options:**
+
+- **(A)** Wet
+- **(B)** Dent
+- **(C)** End
+- **(D)** Opening
+
+---
+
+### Question 5 [Marks: +1, -0]
+
+Arrange the sentence :
+
+The water tanks may remain empty
+A. on Tuesday evening
+B. in the city
+C. will repair the damaged water pipes
+D. as the water supply department 
+
+**Options:**
+
+- **(A)** BADC
+- **(B)** BACD
+- **(C)** DBAC
+- **(D)** ADCB
+
+---
+
+### Question 6 [Marks: +1, -0]
+
+Choose one of the following options that means the opposite of the given word;
+
+Pit
+
+**Options:**
+
+- **(A)** Down
+- **(B)** Up
+- **(C)** Correct
+- **(D)** Peak
+
+---
+
+### Question 7 [Marks: +1, -0]
+
+Find the correct replacement of the bold sencentence
+
+He was very tired as he is working since 6 O' clock in the morning.
+
+**Options:**
+
+- **(A)** he was working
+- **(B)** he had been working
+- **(C)** he has been working
+- **(D)** he will be working
+
+---
+
+### Question 8 [Marks: +1, -0]
+
+Find the correct replacement of the bold sencentence
+
+The girl to who I sold my car was very honest.
+
+**Options:**
+
+- **(A)** to who I sell
+- **(B)** to whom I sold
+- **(C)** to who I sold
+- **(D)** to whom I sell
+
+---
+
+### Question 9 [Marks: +1, -0]
+
+What is the antonym of:
+
+Meticulous
+
+**Options:**
+
+- **(A)** Energetic
+- **(B)** Slovenly
+- **(C)** Ridiculous
+- **(D)** Decisive
+
+---
+
+### Question 10 [Marks: +1, -0]
+
+What is the antonym of:
+
+Haphazard
+
+**Options:**
+
+- **(A)** Confused
+- **(B)** Irregular
+- **(C)** Planned
+- **(D)** Unplanned
+
+---
+
+### Question 11 [Marks: +1, -0]
+
+If Warm :Hot :: old: ?
+
+**Options:**
+
+- **(A)** History
+- **(B)** Antique
+- **(C)** Fragile
+- **(D)** Gold
+
+---
+
+### Question 12 [Marks: +1, -0]
+
+Find the correct Analogies
+Poor: Wealthy
+
+**Options:**
+
+- **(A)** Gauche: Graceful
+- **(B)** Sugar: Sweet
+- **(C)** Angry: Arrogant
+- **(D)** Ice: Cold
+
+---
+
+### Question 13 [Marks: +1, -0]
+
+Substitute one word for the following:
+
+The practice of having several wives
+
+**Options:**
+
+- **(A)** bisexual
+- **(B)** monogamy
+- **(C)** bigamy
+- **(D)** polygamy
+
+---
+
+### Question 14 [Marks: +1, -0]
+
+Substitute one word for the following:
+
+A man with a woman like characteristics, habits or manners.
+
+**Options:**
+
+- **(A)** effeminate
+- **(B)** womanish
+- **(C)** feminine
+- **(D)** ladybird
+
+---
+
+### Question 15 [Marks: +1, -0]
+
+Substitute one word for the following:
+
+An apple of discord
+
+**Options:**
+
+- **(A)** cause of quarrel
+- **(B)** cause of happiness
+- **(C)** cause of depression
+- **(D)** opportunity to earn money
+
+---
+
+### Question 16 [Marks: +1, -0]
+
+Substitute one word for the following:
+
+At sea
+
+**Options:**
+
+- **(A)** feeling confident
+- **(B)** to be confused
+- **(C)** extremely happy
+- **(D)** very afraid
+
+---
+
+### Question 17 [Marks: +1, -0]
+
+Change the voice of the given sentence :
+
+Has the company considered your profile? 
+
+**Options:**
+
+- **(A)** Your profile has been considered by the company?
+- **(B)** Has your profile been considered by the company?
+- **(C)** Has your profile considered by the company?
+- **(D)** Your profile has considered by the company?
+
+---
+
+### Question 18 [Marks: +1, -0]
+
+Arrange in the proper format :
+
+An advertisement in the newspaper said that
+
+A. fully furnished apartments
+B. air-conditioned
+C. are available for
+D. the gentlemen of taste 
+
+**Options:**
+
+- **(A)** ABCD
+- **(B)** DCBA
+- **(C)** BCDA
+- **(D)** BACD
+
+---
+
+### Question 19 [Marks: +1, -0]
+
+Find the adjective: He ate forty bananas in the contest and was sick afterward.
+
+**Options:**
+
+- **(A)** ate
+- **(B)** in
+- **(C)** forty
+- **(D)** sick
+
+---
+
+### Question 20 [Marks: +1, -0]
+
+Dusk: Evening::Dawn: ?
+
+**Options:**
+
+- **(A)** Night
+- **(B)** Light
+- **(C)** Fog
+- **(D)** Morning
+
+---
+

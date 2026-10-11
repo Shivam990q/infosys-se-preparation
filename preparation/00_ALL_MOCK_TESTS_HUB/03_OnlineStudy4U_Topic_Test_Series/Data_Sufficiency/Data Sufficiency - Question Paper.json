@@ -1,0 +1,1166 @@
+{
+  "_id": "67beb9781d43c1792d358557",
+  "settings": {
+    "fonts": {
+      "fonts": [
+        {
+          "face": "Calibri",
+          "supported": true
+        },
+        {
+          "face": "serif",
+          "supported": true
+        },
+        {
+          "face": "Cambria",
+          "supported": true
+        }
+      ],
+      "include": "https://cms-gcp.classplusapp.com/parser/v3/css/combined?face=Calibri,serif,Cambria"
+    },
+    "grades": {
+      "A": {
+        "max": 100,
+        "min": 70
+      },
+      "B": {
+        "max": 69,
+        "min": 50
+      },
+      "C": {
+        "max": 49,
+        "min": 35
+      },
+      "D": {
+        "max": 34,
+        "min": 20
+      },
+      "E": {
+        "max": 19,
+        "min": 10
+      },
+      "F": {
+        "max": 9,
+        "min": 0
+      }
+    },
+    "hasOptionalQuestions": false,
+    "settingsForRTG": {},
+    "generateBatchRank": true,
+    "defaultFont": null,
+    "generateInstitutionalRank": true,
+    "generatePercentile": true,
+    "showQuestionWiseTime": true,
+    "allowResultSharing": true,
+    "showQuestionTimer": true,
+    "calculatorType": "sci",
+    "enableLetterGrading": true,
+    "generateRandomTest": false,
+    "isSectionSwitchingEnabled": true,
+    "isSectionalSubmit": false,
+    "shuffleQuestions": true,
+    "showAnswers": true,
+    "isSolutionMultipleViewEnabled": true,
+    "shuffleOptions": false,
+    "revealCorrectAnswers": "all",
+    "revealAnswersTime": "now",
+    "parseMathJax": false
+  },
+  "isReadyToLink": true,
+  "isLinked": true,
+  "instructions": "",
+  "isSectionEnable": false,
+  "isReloadRequired": false,
+  "totalNumberOfQuestions": 20,
+  "totalMarks": 80,
+  "isAttempted": true,
+  "isTemplateSelected": true,
+  "isCdnUpdated": false,
+  "languageList": [],
+  "lastAttemptedAt": "2026-10-10T12:40:02.523Z",
+  "name": "Data Sufficiency",
+  "duration": 1500000,
+  "createdBy": "5fddea8f5322c45a088d6898",
+  "parentFolder": "67cef100a58729ff3ede456f",
+  "sections": [
+    {
+      "sectionDuration": 0,
+      "sectionMarks": 80,
+      "isActive": true,
+      "draftMode": false,
+      "sectionInstructions": " ",
+      "_id": "67beb97d36101b91eeee6230",
+      "hasOptionalQuestions": false,
+      "name": "Data Sufficiency",
+      "order": 1,
+      "numberOfQuestions": 20,
+      "questions": [
+        {
+          "marks": {
+            "positive": 4,
+            "negative": 1,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n I and II together are sufficient</span></span></span></span></p>\n ",
+              "nameText": "\n Only\n I and II together are sufficient\n ",
+              "order": 1,
+              "_id": "67beb9eafdac206ebe5f0071"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n II and III together are sufficient</span></span></span></span></p>\n ",
+              "nameText": "\n Only\n II and III together are sufficient\n ",
+              "order": 2,
+              "_id": "67beb9eafdac20322f5f0072"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n I and III together are sufficient</span></span></span></span></p>\n ",
+              "nameText": "\n Only\n I and III together are sufficient\n ",
+              "order": 3,
+              "_id": "67beb9eafdac20f1755f0073"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">All\n I, II, and III together are sufficient</span></span></span></span></p>\n ",
+              "nameText": "\n All\n I, II, and III together are sufficient\n ",
+              "order": 4,
+              "_id": "67beb9eafdac20f8a75f0074"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Even\n all statements together are not sufficient</span></span></span></span></p>\n ",
+              "nameText": "\n Even\n all statements together are not sufficient\n ",
+              "order": 5,
+              "_id": "67beb9eafdac2049b25f0075"
+            }
+          ],
+          "_id": "67beb992037cc279fffb5f57",
+          "isGlobal": false,
+          "name": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">How\n many students are in the class?</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statements:</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I.\n Ramesh is ranked 12th from the top.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II.\n Suresh is ranked 8th from the bottom.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">III.\n There are 5 students between Ramesh and Suresh.</span></span></span></span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n How\n many students are in the class?\n \n Statements:\n \n I.\n Ramesh is ranked 12th from the top.\n \n II.\n Suresh is ranked 8th from the bottom.\n III.\n There are 5 students between Ramesh and Suresh.\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 11,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 4,
+            "negative": 1,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I\n alone is sufficient while II alone is not sufficient</span></span></span></span></p>\n ",
+              "nameText": "\n I\n alone is sufficient while II alone is not sufficient\n ",
+              "order": 1,
+              "_id": "67beb9eafdac206a7c5f009e"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II\n alone is sufficient while I alone is not sufficient</span></span></span></span></p>\n ",
+              "nameText": "\n II\n alone is sufficient while I alone is not sufficient\n ",
+              "order": 2,
+              "_id": "67beb9eafdac204b215f009f"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Either\n I or II is sufficient</span></span></span></span></p>\n ",
+              "nameText": "\n Either\n I or II is sufficient\n ",
+              "order": 3,
+              "_id": "67beb9eafdac20cf4a5f00a0"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Neither\n I nor II is sufficient</span></span></span></span></p>\n ",
+              "nameText": "\n Neither\n I nor II is sufficient\n ",
+              "order": 4,
+              "_id": "67beb9eafdac200f5c5f00a1"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Both\n I and II are sufficient</span></span></span></span></p>\n ",
+              "nameText": "\n Both\n I and II are sufficient\n ",
+              "order": 5,
+              "_id": "67beb9eafdac2001ad5f00a2"
+            }
+          ],
+          "_id": "67beb992037cc285cffb5f21",
+          "isGlobal": false,
+          "name": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Question:\n Who among P, Q, T, V and M is exactly in the middle when they are\n arranged in ascending order of their heights ?</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statements:</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I.\n V is taller than Q but shorter than M.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II.\n T is taller than Q and M but shorter than P.</span></span></span></span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n Question:\n Who among P, Q, T, V and M is exactly in the middle when they are\n arranged in ascending order of their heights ?\n \n Statements:\n \n I.\n V is taller than Q but shorter than M.\n II.\n T is taller than Q and M but shorter than P.\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 2,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 4,
+            "negative": 1,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n I and II together are sufficient</span></span></span></span></p>\n ",
+              "nameText": "\n Only\n I and II together are sufficient\n ",
+              "order": 1,
+              "_id": "67beb9eafdac2061ce5f0076"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n II and III together are sufficient</span></span></span></span></p>\n ",
+              "nameText": "\n Only\n II and III together are sufficient\n ",
+              "order": 2,
+              "_id": "67beb9eafdac20f2b85f0077"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n I and III together are sufficient</span></span></span></span></p>\n ",
+              "nameText": "\n Only\n I and III together are sufficient\n ",
+              "order": 3,
+              "_id": "67beb9eafdac207ea15f0078"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">All\n I, II, and III together are sufficient</span></span></span></span></p>\n ",
+              "nameText": "\n All\n I, II, and III together are sufficient\n ",
+              "order": 4,
+              "_id": "67beb9eafdac201e525f0079"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Even\n all statements together are not sufficient</span></span></span></span></p>\n ",
+              "nameText": "\n Even\n all statements together are not sufficient\n ",
+              "order": 5,
+              "_id": "67beb9eafdac207b715f007a"
+            }
+          ],
+          "_id": "67beb992037cc2620cfb5f75",
+          "isGlobal": false,
+          "name": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Question:\n How is 'DATE' written in the code language ?</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statements:</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I.\n DEAR is written as $#@? in that code.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II.\n TREAT is written as %?#@% in that code.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">III.\n TEAR is written as %#@? in that code.</span></span></span></span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n Question:\n How is 'DATE' written in the code language ?\n \n Statements:\n \n I.\n DEAR is written as $#@? in that code.\n \n II.\n TREAT is written as %?#@% in that code.\n III.\n TEAR is written as %#@? in that code.\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 16,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 4,
+            "negative": 1,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I\n alone is sufficient while II alone is not sufficient</span></span></span></span></p>\n ",
+              "nameText": "\n I\n alone is sufficient while II alone is not sufficient\n ",
+              "order": 1,
+              "_id": "67beb9eafdac2004445f0094"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II\n alone is sufficient while I alone is not sufficient</span></span></span></span></p>\n ",
+              "nameText": "\n II\n alone is sufficient while I alone is not sufficient\n ",
+              "order": 2,
+              "_id": "67beb9eafdac20a8f55f0095"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Either\n I or II is sufficient</span></span></span></span></p>\n ",
+              "nameText": "\n Either\n I or II is sufficient\n ",
+              "order": 3,
+              "_id": "67beb9eafdac20edeb5f0096"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Neither\n I nor II is sufficient</span></span></span></span></p>\n ",
+              "nameText": "\n Neither\n I nor II is sufficient\n ",
+              "order": 4,
+              "_id": "67beb9eafdac2010c15f0097"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Both\n I and II are sufficient</span></span></span></span></p>\n ",
+              "nameText": "\n Both\n I and II are sufficient\n ",
+              "order": 5,
+              "_id": "67beb9eafdac2083fa5f0098"
+            }
+          ],
+          "_id": "67beb992037cc2985dfb5f63",
+          "isGlobal": false,
+          "name": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">What\n is the total salary of A and B?</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statements:</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I.\n A’s salary is ₹10,000 more than B’s salary, and\n B’s salary is ₹40,000.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II.\n The difference between A’s and B’s salary is ₹10,000.</span></span></span></span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n What\n is the total salary of A and B?\n \n Statements:\n \n I.\n A’s salary is ₹10,000 more than B’s salary, and\n B’s salary is ₹40,000.\n II.\n The difference between A’s and B’s salary is ₹10,000.\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 13,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 4,
+            "negative": 1,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I\n alone is sufficient while II alone is not sufficient</span></span></span></span></p>\n ",
+              "nameText": "\n I\n alone is sufficient while II alone is not sufficient\n ",
+              "order": 1,
+              "_id": "67beb9eafdac20ffbc5f008f"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II\n alone is sufficient while I alone is not sufficient</span></span></span></span></p>\n ",
+              "nameText": "\n II\n alone is sufficient while I alone is not sufficient\n ",
+              "order": 2,
+              "_id": "67beb9eafdac2043235f0090"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Either\n I or II is sufficient</span></span></span></span></p>\n ",
+              "nameText": "\n Either\n I or II is sufficient\n ",
+              "order": 3,
+              "_id": "67beb9eafdac20a3f15f0091"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Neither\n I nor II is sufficient</span></span></span></span></p>\n ",
+              "nameText": "\n Neither\n I nor II is sufficient\n ",
+              "order": 4,
+              "_id": "67beb9eafdac2030485f0092"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Both\n I and II are sufficient</span></span></span></span></p>\n ",
+              "nameText": "\n Both\n I and II are sufficient\n ",
+              "order": 5,
+              "_id": "67beb9eafdac2079d45f0093"
+            }
+          ],
+          "_id": "67beb992037cc24c9afb5f45",
+          "isGlobal": false,
+          "name": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">How\n many pencils does the shopkeeper sells on Sunday ?</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I.\n On Sunday he sold 12 more pencils than he sold the previous day</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II.\n He sold 28 pencils each on Thursday and Saturday</span></span></span></span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n How\n many pencils does the shopkeeper sells on Sunday ?\n \n I.\n On Sunday he sold 12 more pencils than he sold the previous day\n II.\n He sold 28 pencils each on Thursday and Saturday\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 8,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 4,
+            "negative": 1,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I\n alone is sufficient while II alone is not sufficient</span></span></span></span></p>\n ",
+              "nameText": "\n I\n alone is sufficient while II alone is not sufficient\n ",
+              "order": 1,
+              "_id": "67beb9eafdac20164b5f007b"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II\n alone is sufficient while I alone is not sufficient</span></span></span></span></p>\n ",
+              "nameText": "\n II\n alone is sufficient while I alone is not sufficient\n ",
+              "order": 2,
+              "_id": "67beb9eafdac2069ed5f007c"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Either\n I or II is sufficient</span></span></span></span></p>\n ",
+              "nameText": "\n Either\n I or II is sufficient\n ",
+              "order": 3,
+              "_id": "67beb9eafdac2057e75f007d"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Neither\n I nor II is sufficient</span></span></span></span></p>\n ",
+              "nameText": "\n Neither\n I nor II is sufficient\n ",
+              "order": 4,
+              "_id": "67beb9eafdac202ca35f007e"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Both\n I and II are sufficient</span></span></span></span></p>\n ",
+              "nameText": "\n Both\n I and II are sufficient\n ",
+              "order": 5,
+              "_id": "67beb9eafdac2004e45f007f"
+            }
+          ],
+          "_id": "67beb992037cc265cafb5f33",
+          "isGlobal": false,
+          "name": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">What\n is the position of A from the left end of row?</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I.\n In a row having 15 people, A is sitting second to the right of B\n who is sitting at twelfth position from the right end of row.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II.\n In a row of 20 people, C will take the eighth position from the\n right end of row if C and A interchange their respective\n positions.</span></span></span></span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n What\n is the position of A from the left end of row?\n \n I.\n In a row having 15 people, A is sitting second to the right of B\n who is sitting at twelfth position from the right end of row.\n II.\n In a row of 20 people, C will take the eighth position from the\n right end of row if C and A interchange their respective\n positions.\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 5,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 4,
+            "negative": 1,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n I and II together are sufficient</span></span></span></span></p>\n ",
+              "nameText": "\n Only\n I and II together are sufficient\n ",
+              "order": 1,
+              "_id": "67beb9eafdac208fee5f00c1"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n II and III together are sufficient</span></span></span></span></p>\n ",
+              "nameText": "\n Only\n II and III together are sufficient\n ",
+              "order": 2,
+              "_id": "67beb9eafdac2055455f00c2"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n I and III together are sufficient</span></span></span></span></p>\n ",
+              "nameText": "\n Only\n I and III together are sufficient\n ",
+              "order": 3,
+              "_id": "67beb9eafdac20a3b85f00c3"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">All\n I, II, and III together are sufficient</span></span></span></span></p>\n ",
+              "nameText": "\n All\n I, II, and III together are sufficient\n ",
+              "order": 4,
+              "_id": "67beb9eafdac2039e05f00c4"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Even\n all statements together are not sufficient</span></span></span></span></p>\n ",
+              "nameText": "\n Even\n all statements together are not sufficient\n ",
+              "order": 5,
+              "_id": "67beb9eafdac20a0e45f00c5"
+            }
+          ],
+          "_id": "67beb992037cc29922fb5f87",
+          "isGlobal": false,
+          "name": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">What\n is the total salary of A and B together?</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statements:</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I.\n A’s salary is 20% more than B’s salary.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II.\n B’s salary is ₹40,000.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">III.\n A’s salary is ₹48,000.</span></span></span></span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n What\n is the total salary of A and B together?\n \n Statements:\n \n I.\n A’s salary is 20% more than B’s salary.\n \n II.\n B’s salary is ₹40,000.\n III.\n A’s salary is ₹48,000.\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 19,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 4,
+            "negative": 1,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I\n alone is sufficient while II alone is not sufficient</span></span></span></span></p>\n ",
+              "nameText": "\n I\n alone is sufficient while II alone is not sufficient\n ",
+              "order": 1,
+              "_id": "67beb9eafdac20b0da5f0067"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II\n alone is sufficient while I alone is not sufficient</span></span></span></span></p>\n ",
+              "nameText": "\n II\n alone is sufficient while I alone is not sufficient\n ",
+              "order": 2,
+              "_id": "67beb9eafdac2017455f0068"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Either\n I or II is sufficient</span></span></span></span></p>\n ",
+              "nameText": "\n Either\n I or II is sufficient\n ",
+              "order": 3,
+              "_id": "67beb9eafdac2065165f0069"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Neither\n I nor II is sufficient</span></span></span></span></p>\n ",
+              "nameText": "\n Neither\n I nor II is sufficient\n ",
+              "order": 4,
+              "_id": "67beb9eafdac20e5845f006a"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Both\n I and II are sufficient</span></span></span></span></p>\n ",
+              "nameText": "\n Both\n I and II are sufficient\n ",
+              "order": 5,
+              "_id": "67beb9eafdac20d3e85f006b"
+            }
+          ],
+          "_id": "67beb992037cc2e48ffb5f1b",
+          "isGlobal": false,
+          "name": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">What\n is the total monthly salary of Ramesh?</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statements:</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I.\n Ramesh's basic salary is ₹40,000, and his total salary\n includes HRA and allowances.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II.\n HRA is 30% of the basic salary, and allowances are ₹12,000.</span></span></span></span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n What\n is the total monthly salary of Ramesh?\n \n Statements:\n \n I.\n Ramesh's basic salary is ₹40,000, and his total salary\n includes HRA and allowances.\n II.\n HRA is 30% of the basic salary, and allowances are ₹12,000.\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 1,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 4,
+            "negative": 1,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n I and II together are sufficient</span></span></span></span></p>\n ",
+              "nameText": "\n Only\n I and II together are sufficient\n ",
+              "order": 1,
+              "_id": "67beb9eafdac2091275f0080"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n II and III together are sufficient</span></span></span></span></p>\n ",
+              "nameText": "\n Only\n II and III together are sufficient\n ",
+              "order": 2,
+              "_id": "67beb9eafdac2084ac5f0081"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n I and III together are sufficient</span></span></span></span></p>\n ",
+              "nameText": "\n Only\n I and III together are sufficient\n ",
+              "order": 3,
+              "_id": "67beb9eafdac208ce75f0082"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">All\n I, II, and III together are sufficient</span></span></span></span></p>\n ",
+              "nameText": "\n All\n I, II, and III together are sufficient\n ",
+              "order": 4,
+              "_id": "67beb9eafdac200e6e5f0083"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Even\n all statements together are not sufficient</span></span></span></span></p>\n ",
+              "nameText": "\n Even\n all statements together are not sufficient\n ",
+              "order": 5,
+              "_id": "67beb9eafdac206bdd5f0084"
+            }
+          ],
+          "_id": "67beb992037cc25f5cfb5f3f",
+          "isGlobal": false,
+          "name": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">In\n which year was Sanjay born?</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statements:</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I.\n Sanjay is six years older than Gopal.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II.\n Gopal's brother was born in 1982.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">III.\n Sanjay's brother is two years younger than Gopal's brother who was\n eight years younger than Gopal.</span></span></span></span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n In\n which year was Sanjay born?\n \n Statements:\n \n I.\n Sanjay is six years older than Gopal.\n \n II.\n Gopal's brother was born in 1982.\n III.\n Sanjay's brother is two years younger than Gopal's brother who was\n eight years younger than Gopal.\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 7,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 4,
+            "negative": 1,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I\n alone is sufficient while II alone is not sufficient</span></span></span></span></p>\n ",
+              "nameText": "\n I\n alone is sufficient while II alone is not sufficient\n ",
+              "order": 1,
+              "_id": "67beb9eafdac20e7005f0062"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II\n alone is sufficient while I alone is not sufficient</span></span></span></span></p>\n ",
+              "nameText": "\n II\n alone is sufficient while I alone is not sufficient\n ",
+              "order": 2,
+              "_id": "67beb9eafdac2040785f0063"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Either\n I or II is sufficient</span></span></span></span></p>\n ",
+              "nameText": "\n Either\n I or II is sufficient\n ",
+              "order": 3,
+              "_id": "67beb9eafdac2079525f0064"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Neither\n I nor II is sufficient</span></span></span></span></p>\n ",
+              "nameText": "\n Neither\n I nor II is sufficient\n ",
+              "order": 4,
+              "_id": "67beb9eafdac20ac125f0065"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Both\n I and II are sufficient</span></span></span></span></p>\n ",
+              "nameText": "\n Both\n I and II are sufficient\n ",
+              "order": 5,
+              "_id": "67beb9eafdac200bca5f0066"
+            }
+          ],
+          "_id": "67beb992037cc23abbfb5f2d",
+          "isGlobal": false,
+          "name": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">What\n is the present age of Sunita?</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statements:</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I.\n Five years ago, Sunita's age was half of what it will be in 10\n years.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II.\n The difference between Sunita's present age and twice her age five\n years ago is 10 years.</span></span></span></span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n What\n is the present age of Sunita?\n \n Statements:\n \n I.\n Five years ago, Sunita's age was half of what it will be in 10\n years.\n II.\n The difference between Sunita's present age and twice her age five\n years ago is 10 years.\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 4,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 4,
+            "negative": 1,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I\n alone is sufficient while II alone is not sufficient</span></span></span></span></p>\n ",
+              "nameText": "\n I\n alone is sufficient while II alone is not sufficient\n ",
+              "order": 1,
+              "_id": "67beb9eafdac202b335f0099"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II\n alone is sufficient while I alone is not sufficient</span></span></span></span></p>\n ",
+              "nameText": "\n II\n alone is sufficient while I alone is not sufficient\n ",
+              "order": 2,
+              "_id": "67beb9eafdac20beea5f009a"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Either\n I or II is sufficient</span></span></span></span></p>\n ",
+              "nameText": "\n Either\n I or II is sufficient\n ",
+              "order": 3,
+              "_id": "67beb9eafdac20ae635f009b"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Neither\n I nor II is sufficient</span></span></span></span></p>\n ",
+              "nameText": "\n Neither\n I nor II is sufficient\n ",
+              "order": 4,
+              "_id": "67beb9eafdac2002565f009c"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Both\n I and II are sufficient</span></span></span></span></p>\n ",
+              "nameText": "\n Both\n I and II are sufficient\n ",
+              "order": 5,
+              "_id": "67beb9eafdac200ac55f009d"
+            }
+          ],
+          "_id": "67beb992037cc25a0ffb5f81",
+          "isGlobal": false,
+          "name": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Question:\n How many children does M have ?</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statements:</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I.\n H is the only daughter of X who is wife of M.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II.\n K and J are brothers of M.</span></span></span></span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n Question:\n How many children does M have ?\n \n Statements:\n \n I.\n H is the only daughter of X who is wife of M.\n II.\n K and J are brothers of M.\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 18,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 4,
+            "negative": 1,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I\n alone is sufficient while II alone is not sufficient</span></span></span></span></p>\n ",
+              "nameText": "\n I\n alone is sufficient while II alone is not sufficient\n ",
+              "order": 1,
+              "_id": "67beb9eafdac2071c35f00bc"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II\n alone is sufficient while I alone is not sufficient</span></span></span></span></p>\n ",
+              "nameText": "\n II\n alone is sufficient while I alone is not sufficient\n ",
+              "order": 2,
+              "_id": "67beb9eafdac2034375f00bd"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Either\n I or II is sufficient</span></span></span></span></p>\n ",
+              "nameText": "\n Either\n I or II is sufficient\n ",
+              "order": 3,
+              "_id": "67beb9eafdac2018835f00be"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Neither\n I nor II is sufficient</span></span></span></span></p>\n ",
+              "nameText": "\n Neither\n I nor II is sufficient\n ",
+              "order": 4,
+              "_id": "67beb9eafdac20e5a85f00bf"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Both\n I and II are sufficient</span></span></span></span></p>\n ",
+              "nameText": "\n Both\n I and II are sufficient\n ",
+              "order": 5,
+              "_id": "67beb9eafdac20b3a35f00c0"
+            }
+          ],
+          "_id": "67beb992037cc23282fb5f69",
+          "isGlobal": false,
+          "name": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">3.\n Is number X an even number?</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statements:</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I.\n X is divisible by 4.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II.\n X is a multiple of 6.</span></span></span></span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n 3.\n Is number X an even number?\n \n Statements:\n \n I.\n X is divisible by 4.\n II.\n X is a multiple of 6.\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 14,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 4,
+            "negative": 1,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I\n alone is sufficient while II alone is not sufficient</span></span></span></span></p>\n ",
+              "nameText": "\n I\n alone is sufficient while II alone is not sufficient\n ",
+              "order": 1,
+              "_id": "67beb9eafdac20c5065f00ad"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II\n alone is sufficient while I alone is not sufficient</span></span></span></span></p>\n ",
+              "nameText": "\n II\n alone is sufficient while I alone is not sufficient\n ",
+              "order": 2,
+              "_id": "67beb9eafdac201f125f00ae"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Either\n I or II is sufficient</span></span></span></span></p>\n ",
+              "nameText": "\n Either\n I or II is sufficient\n ",
+              "order": 3,
+              "_id": "67beb9eafdac20e3095f00af"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Neither\n I nor II is sufficient</span></span></span></span></p>\n ",
+              "nameText": "\n Neither\n I nor II is sufficient\n ",
+              "order": 4,
+              "_id": "67beb9eafdac20438a5f00b0"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Both\n I and II are sufficient</span></span></span></span></p>\n ",
+              "nameText": "\n Both\n I and II are sufficient\n ",
+              "order": 5,
+              "_id": "67beb9eafdac20cb575f00b1"
+            }
+          ],
+          "_id": "67beb992037cc265e6fb5f8d",
+          "isGlobal": false,
+          "name": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Can\n a water tank of 2500 litres capacity be filled by two inlet pipes\n A and B together in less than 8 hours?</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I.\n If pipe A is opened alone then it takes 12 hours to fill the tank.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II.\n Pipe B can fill 1 litres of water per minute.</span></span></span></span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n Can\n a water tank of 2500 litres capacity be filled by two inlet pipes\n A and B together in less than 8 hours?\n \n I.\n If pipe A is opened alone then it takes 12 hours to fill the tank.\n II.\n Pipe B can fill 1 litres of water per minute.\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 20,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 4,
+            "negative": 1,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I\n alone is sufficient while II alone is not sufficient</span></span></span></span></p>\n ",
+              "nameText": "\n I\n alone is sufficient while II alone is not sufficient\n ",
+              "order": 1,
+              "_id": "67beb9eafdac2098725f00a3"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II\n alone is sufficient while I alone is not sufficient</span></span></span></span></p>\n ",
+              "nameText": "\n II\n alone is sufficient while I alone is not sufficient\n ",
+              "order": 2,
+              "_id": "67beb9eafdac2061675f00a4"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Either\n I or II is sufficient</span></span></span></span></p>\n ",
+              "nameText": "\n Either\n I or II is sufficient\n ",
+              "order": 3,
+              "_id": "67beb9eafdac2031545f00a5"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Neither\n I nor II is sufficient</span></span></span></span></p>\n ",
+              "nameText": "\n Neither\n I nor II is sufficient\n ",
+              "order": 4,
+              "_id": "67beb9eafdac202b375f00a6"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Both\n I and II are sufficient</span></span></span></span></p>\n ",
+              "nameText": "\n Both\n I and II are sufficient\n ",
+              "order": 5,
+              "_id": "67beb9eafdac2022105f00a7"
+            }
+          ],
+          "_id": "67beb992037cc20e29fb5f51",
+          "isGlobal": false,
+          "name": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">What\n is the speed of a train?</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statements:</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I.\n The train crosses a pole in 8 seconds.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II.\n The train is 200 meters long.</span></span></span></span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n What\n is the speed of a train?\n \n Statements:\n \n I.\n The train crosses a pole in 8 seconds.\n II.\n The train is 200 meters long.\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 10,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 4,
+            "negative": 1,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n I and II together are sufficient</span></span></span></span></p>\n ",
+              "nameText": "\n Only\n I and II together are sufficient\n ",
+              "order": 1,
+              "_id": "67beb9eafdac20c1e95f00a8"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n II and III together are sufficient</span></span></span></span></p>\n ",
+              "nameText": "\n Only\n II and III together are sufficient\n ",
+              "order": 2,
+              "_id": "67beb9eafdac2071795f00a9"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n I and III together are sufficient</span></span></span></span></p>\n ",
+              "nameText": "\n Only\n I and III together are sufficient\n ",
+              "order": 3,
+              "_id": "67beb9eafdac20c61a5f00aa"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">All\n I, II, and III together are sufficient</span></span></span></span></p>\n ",
+              "nameText": "\n All\n I, II, and III together are sufficient\n ",
+              "order": 4,
+              "_id": "67beb9eafdac2020df5f00ab"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Even\n all statements together are not sufficient</span></span></span></span></p>\n ",
+              "nameText": "\n Even\n all statements together are not sufficient\n ",
+              "order": 5,
+              "_id": "67beb9eafdac208def5f00ac"
+            }
+          ],
+          "_id": "67beb992037cc2daf4fb5f6f",
+          "isGlobal": false,
+          "name": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">What\n is the code for \"WORLD\" in a certain coding language?</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statements:</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I.\n \"HELLO\" is coded as \"IFMMP\".</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II.\n \"NIGHT\" is coded as \"OJHIU\".</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">III.\n The coding follows a pattern where each letter is replaced by the\n next letter in the English alphabet.</span></span></span></span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n What\n is the code for \"WORLD\" in a certain coding language?\n \n Statements:\n \n I.\n \"HELLO\" is coded as \"IFMMP\".\n \n II.\n \"NIGHT\" is coded as \"OJHIU\".\n III.\n The coding follows a pattern where each letter is replaced by the\n next letter in the English alphabet.\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 15,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 4,
+            "negative": 1,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I\n alone is sufficient while II alone is not sufficient</span></span></span></span></p>\n ",
+              "nameText": "\n I\n alone is sufficient while II alone is not sufficient\n ",
+              "order": 1,
+              "_id": "67beb9eafdac2063805f00b2"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II\n alone is sufficient while I alone is not sufficient</span></span></span></span></p>\n ",
+              "nameText": "\n II\n alone is sufficient while I alone is not sufficient\n ",
+              "order": 2,
+              "_id": "67beb9eafdac20e6875f00b3"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Either\n I or II is sufficient</span></span></span></span></p>\n ",
+              "nameText": "\n Either\n I or II is sufficient\n ",
+              "order": 3,
+              "_id": "67beb9eafdac2089b65f00b4"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Neither\n I nor II is sufficient</span></span></span></span></p>\n ",
+              "nameText": "\n Neither\n I nor II is sufficient\n ",
+              "order": 4,
+              "_id": "67beb9eafdac2065fe5f00b5"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Both\n I and II are sufficient</span></span></span></span></p>\n ",
+              "nameText": "\n Both\n I and II are sufficient\n ",
+              "order": 5,
+              "_id": "67beb9eafdac2014f75f00b6"
+            }
+          ],
+          "_id": "67beb992037cc2805bfb5f27",
+          "isGlobal": false,
+          "name": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">What\n is the sum of the angles of a triangle? </span></span></span></span>\n </p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I.\n One of the angles of the triangle is 60 degrees. </span></span></span></span>\n </p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II.\n The triangle is an equilateral triangle.</span></span></span></span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n What\n is the sum of the angles of a triangle? \n \n \n I.\n One of the angles of the triangle is 60 degrees. \n \n II.\n The triangle is an equilateral triangle.\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 3,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 4,
+            "negative": 1,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I\n alone is sufficient while II alone is not sufficient</span></span></span></span></p>\n ",
+              "nameText": "\n I\n alone is sufficient while II alone is not sufficient\n ",
+              "order": 1,
+              "_id": "67beb9eafdac20960b5f00b7"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II\n alone is sufficient while I alone is not sufficient</span></span></span></span></p>\n ",
+              "nameText": "\n II\n alone is sufficient while I alone is not sufficient\n ",
+              "order": 2,
+              "_id": "67beb9eafdac2017d15f00b8"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Either\n I or II is sufficient</span></span></span></span></p>\n ",
+              "nameText": "\n Either\n I or II is sufficient\n ",
+              "order": 3,
+              "_id": "67beb9eafdac20228c5f00b9"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Neither\n I nor II is sufficient</span></span></span></span></p>\n ",
+              "nameText": "\n Neither\n I nor II is sufficient\n ",
+              "order": 4,
+              "_id": "67beb9eafdac20435d5f00ba"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Both\n I and II are sufficient</span></span></span></span></p>\n ",
+              "nameText": "\n Both\n I and II are sufficient\n ",
+              "order": 5,
+              "_id": "67beb9eafdac20a6d05f00bb"
+            }
+          ],
+          "_id": "67beb992037cc203c9fb5f4b",
+          "isGlobal": false,
+          "name": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">What\n is the value of X?</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statements:</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I.\n 𝑋 is an even number.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II.\n 𝑋 is a multiple of 4 and lies between 10 and 20.</span></span></span></span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n What\n is the value of X?\n \n Statements:\n \n I.\n 𝑋 is an even number.\n II.\n 𝑋 is a multiple of 4 and lies between 10 and 20.\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 9,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 4,
+            "negative": 1,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I\n alone is sufficient while II alone is not sufficient</span></span></span></span></p>\n ",
+              "nameText": "\n I\n alone is sufficient while II alone is not sufficient\n ",
+              "order": 1,
+              "_id": "67beb9eafdac2076f85f006c"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II\n alone is sufficient while I alone is not sufficient</span></span></span></span></p>\n ",
+              "nameText": "\n II\n alone is sufficient while I alone is not sufficient\n ",
+              "order": 2,
+              "_id": "67beb9eafdac206f955f006d"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Either\n I or II is sufficient</span></span></span></span></p>\n ",
+              "nameText": "\n Either\n I or II is sufficient\n ",
+              "order": 3,
+              "_id": "67beb9eafdac20447a5f006e"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Neither\n I nor II is sufficient</span></span></span></span></p>\n ",
+              "nameText": "\n Neither\n I nor II is sufficient\n ",
+              "order": 4,
+              "_id": "67beb9eafdac2046fc5f006f"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Both\n I and II are sufficient</span></span></span></span></p>\n ",
+              "nameText": "\n Both\n I and II are sufficient\n ",
+              "order": 5,
+              "_id": "67beb9eafdac20dd165f0070"
+            }
+          ],
+          "_id": "67beb992037cc261e4fb5f39",
+          "isGlobal": false,
+          "name": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">On\n which day of the week did Raman leave for Dubai ?</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I.\n Raman didn’t leave for Dubai during the weekend.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II.\n Raman’s brother left for Dubai on Friday 2 days after Raman\n left for Dubai</span></span></span></span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n On\n which day of the week did Raman leave for Dubai ?\n \n I.\n Raman didn’t leave for Dubai during the weekend.\n II.\n Raman’s brother left for Dubai on Friday 2 days after Raman\n left for Dubai\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 6,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 4,
+            "negative": 1,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n I and II together are sufficient</span></span></span></span></p>\n ",
+              "nameText": "\n Only\n I and II together are sufficient\n ",
+              "order": 1,
+              "_id": "67beb9eafdac204d955f008a"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n II and III together are sufficient</span></span></span></span></p>\n ",
+              "nameText": "\n Only\n II and III together are sufficient\n ",
+              "order": 2,
+              "_id": "67beb9eafdac2036a65f008b"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n I and III together are sufficient</span></span></span></span></p>\n ",
+              "nameText": "\n Only\n I and III together are sufficient\n ",
+              "order": 3,
+              "_id": "67beb9eafdac205b315f008c"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">All\n I, II, and III together are sufficient</span></span></span></span></p>\n ",
+              "nameText": "\n All\n I, II, and III together are sufficient\n ",
+              "order": 4,
+              "_id": "67beb9eafdac2073f65f008d"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Even\n all statements together are not sufficient</span></span></span></span></p>\n ",
+              "nameText": "\n Even\n all statements together are not sufficient\n ",
+              "order": 5,
+              "_id": "67beb9eafdac20794e5f008e"
+            }
+          ],
+          "_id": "67beb992037cc271d2fb5f7b",
+          "isGlobal": false,
+          "name": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Five\n persons - A, B, C, D and E are sitting in a row. Who is sitting in\n the middle?</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statements:</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I.\n B is between E and C.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II.\n B is to the right of E.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">III.\n D is between A and E.</span></span></span></span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n Five\n persons - A, B, C, D and E are sitting in a row. Who is sitting in\n the middle?\n \n Statements:\n \n I.\n B is between E and C.\n \n II.\n B is to the right of E.\n III.\n D is between A and E.\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 17,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 4,
+            "negative": 1,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I\n alone is sufficient while II alone is not sufficient</span></span></span></span></p>\n ",
+              "nameText": "\n I\n alone is sufficient while II alone is not sufficient\n ",
+              "order": 1,
+              "_id": "67beb9eafdac20cab85f0085"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II\n alone is sufficient while I alone is not sufficient</span></span></span></span></p>\n ",
+              "nameText": "\n II\n alone is sufficient while I alone is not sufficient\n ",
+              "order": 2,
+              "_id": "67beb9eafdac20bf655f0086"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Either\n I or II is sufficient</span></span></span></span></p>\n ",
+              "nameText": "\n Either\n I or II is sufficient\n ",
+              "order": 3,
+              "_id": "67beb9eafdac201c425f0087"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Neither\n I nor II is sufficient</span></span></span></span></p>\n ",
+              "nameText": "\n Neither\n I nor II is sufficient\n ",
+              "order": 4,
+              "_id": "67beb9eafdac2019c65f0088"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Both\n I and II are sufficient</span></span></span></span></p>\n ",
+              "nameText": "\n Both\n I and II are sufficient\n ",
+              "order": 5,
+              "_id": "67beb9eafdac208ac55f0089"
+            }
+          ],
+          "_id": "67beb992037cc27a15fb5f5d",
+          "isGlobal": false,
+          "name": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">What\n is the speed of a train?</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statements:</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I.\n The train crosses a 240-meter platform in 12 seconds.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II.\n The length of the train is 120 meters.</span></span></span></span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n What\n is the speed of a train?\n \n Statements:\n \n I.\n The train crosses a 240-meter platform in 12 seconds.\n II.\n The length of the train is 120 meters.\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 12,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        }
+      ]
+    }
+  ],
+  "practiceTestUrls": [],
+  "updateAfterSync": {},
+  "currentSection": "67beb97d36101b91eeee6230",
+  "testTotalDuration": 1500000,
+  "examStartDate": "2026-10-10T17:47:26.870Z"
+}

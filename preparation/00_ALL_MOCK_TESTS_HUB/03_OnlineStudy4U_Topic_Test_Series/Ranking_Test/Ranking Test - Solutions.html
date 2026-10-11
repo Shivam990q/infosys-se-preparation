@@ -1,0 +1,804 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Ranking Test - Solutions & Answers</title>
+<style>
+  body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; line-height: 1.6; max-width: 900px; margin: 30px auto; padding: 0 20px; color: #222; background: #f8fafc; }
+  .header { background: #fff; border: 1px solid #e2e8f0; border-radius: 10px; padding: 25px; margin-bottom: 25px; box-shadow: 0 2px 5px rgba(0,0,0,0.04); }
+  .header h1 { margin: 0 0 10px 0; color: #16a34a; }
+  .meta { display: flex; gap: 15px; font-weight: 600; color: #475569; flex-wrap: wrap; }
+  .meta span { background: #f1f5f9; padding: 6px 14px; border-radius: 6px; font-size: 0.9em; }
+  .section-title { font-size: 1.3em; font-weight: bold; margin: 30px 0 15px; color: #1e293b; border-bottom: 2px solid #16a34a; padding-bottom: 6px; }
+  .q-card { background: #fff; border: 1px solid #e2e8f0; border-radius: 10px; padding: 24px; margin-bottom: 25px; box-shadow: 0 2px 4px rgba(0,0,0,0.03); }
+  .q-header { display: flex; justify-content: space-between; font-weight: bold; margin-bottom: 14px; font-size: 1.1em; color: #0f172a; border-bottom: 1px solid #f1f5f9; padding-bottom: 8px; }
+  .q-text { margin-bottom: 18px; font-size: 1.05em; color: #334155; }
+  .options { list-style-type: none; padding-left: 0; margin: 0; }
+  .options li { padding: 10px 14px; margin-bottom: 8px; background: #fff; border: 1px solid #cbd5e1; border-radius: 6px; display: flex; align-items: baseline; }
+  .options li.correct { background: #f0fdf4; border: 2px solid #22c55e; font-weight: 600; color: #15803d; }
+  .opt-badge { font-weight: bold; margin-right: 12px; min-width: 28px; }
+  .correct-badge { margin-left: auto; background: #22c55e; color: #fff; padding: 3px 10px; border-radius: 4px; font-size: 0.8em; font-weight: bold; }
+  .solution-box { margin-top: 18px; padding: 16px; background: #f8fafc; border-left: 4px solid #16a34a; border-radius: 0 8px 8px 0; }
+  .solution-title { font-weight: bold; color: #16a34a; margin-bottom: 8px; font-size: 1.05em; }
+  img { max-width: 100%; height: auto; display: inline-block; vertical-align: middle; border-radius: 4px; }
+  .solution-box img { max-width: 95%; margin: 12px auto; display: block; border: 1px solid #cbd5e1; padding: 6px; background: #fff; border-radius: 8px; }
+  @media print { body { margin: 0; padding: 0; max-width: 100%; background: #fff; } .q-card { break-inside: avoid; border: 1px solid #ccc; } }
+</style>
+<script>
+  window.MathJax = {
+    tex: { inlineMath: [['$', '$'], ['\\(', '\\)']], displayMath: [['$$', '$$'], ['\\[', '\\]']], processEscapes: true },
+    svg: { fontCache: 'global' }
+  };
+</script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
+</head>
+<body>
+  <div class="header">
+    <h1>Ranking Test - Answer Key & Detailed Solutions</h1>
+    <div class="meta">
+      <span>Total Questions: 20</span>
+      <span>Total Marks: 80</span>
+    </div>
+  </div>
+  <div class="section-title">Section: Ranking Test</div>
+  <div class="q-card">
+    <div class="q-header"><span>Question 1</span></div>
+    <div class="q-text"><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">In
+ a line of people, Rohit is ranked 12th from the top, and Ankit is
+ ranked 20th from the bottom. If there are 30 people in the line,
+ how many people are between Rohit and Ankit?</span></span></span></span></p>
+ </div>
+    <ul class="options">
+      <li><span class="opt-badge">(A)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">5</span></span></span></span></p>
+ </div></li>
+      <li><span class="opt-badge">(B)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">7</span></span></span></span></p>
+ </div></li>
+      <li class="correct"><span class="opt-badge">(C)</span><div><p align="justify" style="text-decoration: none;"><span style="color: #000000;"><span style="font-family: Calibri,serif;"><span style="font-family: Cambria,serif;"><span style="font-size: 19px;">0</span></span></span></span></p></div><span class="correct-badge">CORRECT</span></li>
+      <li><span class="opt-badge">(D)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">9</span></span></span></span></p>
+ </div></li>
+    </ul>
+    <div class="solution-box">
+      <div class="solution-title">Correct Answer: C</div>
+      <div class="solution-content"><strong>Explanation:</strong><br><p align="justify" style="margin-bottom: 0px; text-decoration: none;"><span style="color: #000000;"><span style="font-family: Calibri,serif;"><span style="font-family: Cambria,serif;"><span style="font-size: 19px;">Rohit position from bottom = (30-12)+1 = 19</span></span></span></span></p>
+<p align="justify" style="margin-bottom: 0px; text-decoration: none;"><span style="color: #000000;"><span style="font-family: Calibri,serif;"><span style="font-family: Cambria,serif;"><span style="font-size: 19px;">Ankit position from bottom = 20</span></span></span></span></p>
+<p align="justify" style="margin-bottom: 0px; text-decoration: none;"><span style="color: #000000;"><span style="font-family: Calibri,serif;"><span style="font-family: Cambria,serif;"><span style="font-size: 19px;">Number of people between Rohit and Ankit = 0</span></span></span></span></p></div>
+    </div>
+  </div>
+  <div class="q-card">
+    <div class="q-header"><span>Question 2</span></div>
+    <div class="q-text"><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">Arjun
+ is older than Sumit but younger than Rahul. Vikas is younger than
+ Rahul but older than Arjun. Ramesh is the oldest among them. Who
+ is the third oldest?</span></span></span></span></p>
+ </div>
+    <ul class="options">
+      <li><span class="opt-badge">(A)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">Sumit</span></span></span></span></p>
+ </div></li>
+      <li><span class="opt-badge">(B)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">Arjun</span></span></span></span></p>
+ </div></li>
+      <li><span class="opt-badge">(C)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">Rahul</span></span></span></span></p>
+ </div></li>
+      <li class="correct"><span class="opt-badge">(D)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">Vikas</span></span></span></span></p>
+ </div><span class="correct-badge">CORRECT</span></li>
+    </ul>
+    <div class="solution-box">
+      <div class="solution-title">Correct Answer: D</div>
+      <div class="solution-content"><strong>Explanation:</strong><br><p align="justify" style="margin-bottom: 0px; text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">From
+ the given conditions:</span></span></span></span></p>
+ <p align="justify" style="margin-bottom: 0px; text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">Arjun
+ &gt; Sumit, but Arjun &lt; Rahul.</span></span></span></span></p>
+ <p align="justify" style="margin-bottom: 0px; text-decoration: none">
+ <span style="color: #000000">→ <span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">Rahul
+ &gt; Arjun &gt; Sumit.</span></span></span></span></p>
+ <p align="justify" style="margin-bottom: 0px; text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">Vikas
+ is younger than Rahul but older than Arjun.</span></span></span></span></p>
+ <p align="justify" style="margin-bottom: 0px; text-decoration: none">
+ <span style="color: #000000">→ <span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">Rahul
+ &gt; Vikas &gt; Arjun &gt; Sumit.</span></span></span></span></p>
+ <p align="justify" style="margin-bottom: 0px; text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">Ramesh
+ is the oldest.</span></span></span></span></p>
+ <p align="justify" style="margin-bottom: 0px; text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">Final
+ order: Ramesh &gt; Rahul &gt; Vikas &gt; Arjun &gt; Sumit.</span></span></span></span></p>
+ <p align="justify" style="text-decoration: none"><span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">The
+ third oldest is Vikas.</span></span></span></span></p>
+ </div>
+    </div>
+  </div>
+  <div class="q-card">
+    <div class="q-header"><span>Question 3</span></div>
+    <div class="q-text"><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">Six
+ people—P, Q, R, S, T, and U—are standing in a line
+ from left to right. P is taller than S but shorter than Q. R is
+ taller than Q but shorter than U. T is the tallest. Who is the
+ fourth tallest?</span></span></span></span></p>
+ </div>
+    <ul class="options">
+      <li><span class="opt-badge">(A)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">P</span></span></span></span></p>
+ </div></li>
+      <li class="correct"><span class="opt-badge">(B)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">Q</span></span></span></span></p>
+ </div><span class="correct-badge">CORRECT</span></li>
+      <li><span class="opt-badge">(C)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">R</span></span></span></span></p>
+ </div></li>
+      <li><span class="opt-badge">(D)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">S</span></span></span></span></p>
+ </div></li>
+    </ul>
+    <div class="solution-box">
+      <div class="solution-title">Correct Answer: B</div>
+      <div class="solution-content"><strong>Explanation:</strong><br><p align="justify" style="margin-bottom: 0px; text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">From
+ the given conditions:</span></span></span></span></p>
+ <p align="justify" style="margin-bottom: 0px; text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">P
+ &gt; S, but P &lt; Q → Q &gt; P &gt; S.</span></span></span></span></p>
+ <p align="justify" style="margin-bottom: 0px; text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">R
+ &gt; Q, but R &lt; U → U &gt; R &gt; Q.</span></span></span></span></p>
+ <p align="justify" style="margin-bottom: 0px; text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">T
+ is the tallest.</span></span></span></span></p>
+ <p align="justify" style="margin-bottom: 0px; text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">Final
+ order: T &gt; U &gt; R &gt; Q &gt; P &gt; S.</span></span></span></span></p>
+ <p align="justify" style="text-decoration: none"><span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">The
+ fourth tallest person is Q.</span></span></span></span></p>
+ </div>
+    </div>
+  </div>
+  <div class="q-card">
+    <div class="q-header"><span>Question 4</span></div>
+    <div class="q-text"><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">Shreya
+ is taller than Meena but shorter than Ritu. Kajal is shorter than
+ Ritu but taller than Meena. Payal is the shortest among all. Who
+ is the third tallest?</span></span></span></span></p>
+ </div>
+    <ul class="options">
+      <li><span class="opt-badge">(A)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">Shreya</span></span></span></span></p>
+ </div></li>
+      <li><span class="opt-badge">(B)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">Ritu</span></span></span></span></p>
+ </div></li>
+      <li><span class="opt-badge">(C)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">Meena</span></span></span></span></p>
+ </div></li>
+      <li class="correct"><span class="opt-badge">(D)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">Kajal</span></span></span></span></p>
+ </div><span class="correct-badge">CORRECT</span></li>
+    </ul>
+    <div class="solution-box">
+      <div class="solution-title">Correct Answer: D</div>
+      <div class="solution-content"><strong>Explanation:</strong><br><p align="justify" style="margin-bottom: 0px; text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">From
+ the given conditions:</span></span></span></span></p>
+ <p align="justify" style="margin-bottom: 0px; text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">Shreya
+ &gt; Meena but Shreya &lt; Ritu.</span></span></span></span></p>
+ <p align="justify" style="margin-bottom: 0px; text-decoration: none">
+ <span style="color: #000000">→ <span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">Ritu
+ &gt; Shreya &gt; Meena.</span></span></span></span></p>
+ <p align="justify" style="margin-bottom: 0px; text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">Kajal
+ is shorter than Ritu but taller than Meena.</span></span></span></span></p>
+ <p align="justify" style="margin-bottom: 0px; text-decoration: none">
+ <span style="color: #000000">→ <span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">Ritu
+ &gt; Kajal &gt; Meena.</span></span></span></span></p>
+ <p align="justify" style="margin-bottom: 0px; text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">Payal
+ is the shortest.</span></span></span></span></p>
+ <p align="justify" style="margin-bottom: 0px; text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">Arranging
+ all: Ritu &gt; Shreya &gt; Kajal &gt; Meena &gt; Payal.</span></span></span></span></p>
+ <p align="justify" style="text-decoration: none"><span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">The
+ third tallest person is Kajal.</span></span></span></span></p>
+ </div>
+    </div>
+  </div>
+  <div class="q-card">
+    <div class="q-header"><span>Question 5</span></div>
+    <div class="q-text"><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">In
+ a row of students, Raj is 15th from the left end and 12th from the
+ right end. How many students are there in the row?</span></span></span></span></p>
+ </div>
+    <ul class="options">
+      <li class="correct"><span class="opt-badge">(A)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">26</span></span></span></span></p>
+ </div><span class="correct-badge">CORRECT</span></li>
+      <li><span class="opt-badge">(B)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">28</span></span></span></span></p>
+ </div></li>
+      <li><span class="opt-badge">(C)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">25</span></span></span></span></p>
+ </div></li>
+      <li><span class="opt-badge">(D)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">30</span></span></span></span></p>
+ </div></li>
+    </ul>
+    <div class="solution-box">
+      <div class="solution-title">Correct Answer: A</div>
+      <div class="solution-content"><strong>Explanation:</strong><br><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">Total
+ students in the row = (Position from Left) + (Position from Right)
+ – 1 = 15 + 12 - 1 = 26</span></span></span></span></p>
+ </div>
+    </div>
+  </div>
+  <div class="q-card">
+    <div class="q-header"><span>Question 6</span></div>
+    <div class="q-text"><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">During
+ assembly the students are standing in a line. Salman Khan is 21st
+ in order from both the ends. How many boys are there in the class?</span></span></span></span></p>
+ </div>
+    <ul class="options">
+      <li><span class="opt-badge">(A)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">30</span></span></span></span></p>
+ </div></li>
+      <li><span class="opt-badge">(B)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">40</span></span></span></span></p>
+ </div></li>
+      <li><span class="opt-badge">(C)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">31</span></span></span></span></p>
+ </div></li>
+      <li class="correct"><span class="opt-badge">(D)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">41</span></span></span></span></p>
+ </div><span class="correct-badge">CORRECT</span></li>
+    </ul>
+    <div class="solution-box">
+      <div class="solution-title">Correct Answer: D</div>
+      <div class="solution-content"><strong>Explanation:</strong><br><p align="justify" style="margin-bottom: 0px; text-decoration: none">
+ <span style="color: #000000"><img src="images/img_1b724a1ed51a.png" name="Picture 1" align="bottom" width="164" height="227" border="0">
+</img></span></p>
+ <p align="justify" style="text-decoration: none"><span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">Therefore,
+ total number of students = 20 + Salman Khan + 20 = 41</span></span></span></span></p>
+ </div>
+    </div>
+  </div>
+  <div class="q-card">
+    <div class="q-header"><span>Question 7</span></div>
+    <div class="q-text"><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">In
+ a row of 45 students, Aditi is ranked 18th from the left. Priya is
+ 24th from the right. If there are 5 students between Aditi and
+ Priya, how many students are there in the row?</span></span></span></span></p>
+ </div>
+    <ul class="options">
+      <li><span class="opt-badge">(A)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">45</span></span></span></span></p>
+ </div></li>
+      <li class="correct"><span class="opt-badge">(B)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">47</span></span></span></span></p>
+ </div><span class="correct-badge">CORRECT</span></li>
+      <li><span class="opt-badge">(C)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">50</span></span></span></span></p>
+ </div></li>
+      <li><span class="opt-badge">(D)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">53</span></span></span></span></p>
+ </div></li>
+    </ul>
+    <div class="solution-box">
+      <div class="solution-title">Correct Answer: B</div>
+      <div class="solution-content"><strong>Explanation:</strong><br><p align="justify" style="margin-bottom: 0px; text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">Total
+ students in the row = (Aditi’s rank from the left) +
+ (Priya’s rank from the right) + (Students between them)</span></span></span></span></p>
+ <p align="justify" style="margin-bottom: 0px; text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">=
+ 18 + 24 + 5</span></span></span></span></p>
+ <p align="justify" style="text-decoration: none"><span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">=
+ 47</span></span></span></span></p>
+ </div>
+    </div>
+  </div>
+  <div class="q-card">
+    <div class="q-header"><span>Question 8</span></div>
+    <div class="q-text"><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">Rahul
+ is heavier than Suresh but lighter than Mohan. Kunal is lighter
+ than Rahul but heavier than Suresh. Deepak is heavier than all
+ except Mohan. Who is the second lightest?</span></span></span></span></p>
+ </div>
+    <ul class="options">
+      <li><span class="opt-badge">(A)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">Rahul</span></span></span></span></p>
+ </div></li>
+      <li class="correct"><span class="opt-badge">(B)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">Kunal</span></span></span></span></p>
+ </div><span class="correct-badge">CORRECT</span></li>
+      <li><span class="opt-badge">(C)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">Suresh</span></span></span></span></p>
+ </div></li>
+      <li><span class="opt-badge">(D)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">Mohan</span></span></span></span></p>
+ </div></li>
+    </ul>
+    <div class="solution-box">
+      <div class="solution-title">Correct Answer: B</div>
+      <div class="solution-content"><strong>Explanation:</strong><br><p align="justify" style="margin-bottom: 0px; text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">Rahul
+ is heavier than Suresh but lighter than Mohan. → Mohan &gt;
+ Rahul &gt; Suresh</span></span></span></span></p>
+ <p align="justify" style="margin-bottom: 0px; text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">Kunal
+ is lighter than Rahul but heavier than Suresh. → Mohan &gt;
+ Rahul &gt; Kunal &gt; Suresh</span></span></span></span></p>
+ <p align="justify" style="margin-bottom: 0px; text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">Deepak
+ is heavier than all except Mohan. → Mohan &gt; Deepak &gt;
+ Rahul &gt; Kunal &gt; Suresh</span></span></span></span></p>
+ <p align="justify" style="margin-bottom: 0px; text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">Solution:</span></span></span></span></p>
+ <p align="justify" style="text-decoration: none"><span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">The
+ second lightest is Kunal.</span></span></span></span></p>
+ </div>
+    </div>
+  </div>
+  <div class="q-card">
+    <div class="q-header"><span>Question 9</span></div>
+    <div class="q-text"><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">In
+ a north-facing row of 45 students, Neha is 13th from the left, and
+ Priya is 15th from the right. There are 4 students between Priya
+ and Rani, who is equidistant to Neha. What is Rani’s
+ position from the right?</span></span></span></span></p>
+ </div>
+    <ul class="options">
+      <li><span class="opt-badge">(A)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">25</span></span></span></span></p>
+ </div></li>
+      <li class="correct"><span class="opt-badge">(B)</span><div><p align="justify" style="text-decoration: none;"><span style="color: #000000;"><span style="font-family: Calibri,serif;"><span style="font-family: Cambria,serif;"><span style="font-size: 19px;">20</span></span></span></span></p></div><span class="correct-badge">CORRECT</span></li>
+      <li><span class="opt-badge">(C)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">30</span></span></span></span></p>
+ </div></li>
+      <li><span class="opt-badge">(D)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">32</span></span></span></span></p>
+ </div></li>
+    </ul>
+    <div class="solution-box">
+      <div class="solution-title">Correct Answer: B</div>
+      <div class="solution-content"><strong>Explanation:</strong><br><p align="justify"><span style="color: #000000; font-family: Cambria, serif;"><span style="font-size: 19px;">Priya&rsquo;s position from the left = 45&minus;15+1=31.</span></span></p>
+<p align="justify"><span style="color: #000000; font-family: Cambria, serif;"><span style="font-size: 19px;">Rani&rsquo;s position from the left (5 places ahead of Priya) = 31&minus;5=26.</span></span></p>
+<p align="justify"><span style="color: #000000; font-family: Cambria, serif;"><span style="font-size: 19px;">Check equidistance: ∣26&minus;13∣=13 (same as Neha's position).&nbsp;</span></span></p>
+<p align="justify"><span style="color: #000000; font-family: Cambria, serif;"><span style="font-size: 19px;">Rani&rsquo;s position from the right = 45&minus;26+1=20.</span></span></p></div>
+    </div>
+  </div>
+  <div class="q-card">
+    <div class="q-header"><span>Question 10</span></div>
+    <div class="q-text"><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">Five
+ students—Amit, Bhavesh, Chetan, Dinesh, and Esha—took
+ an exam. Amit scored higher than Chetan but lower than Bhavesh.
+ Dinesh scored more than Amit but less than Esha. Esha scored the
+ highest. Who got the second highest marks?</span></span></span></span></p>
+ </div>
+    <ul class="options">
+      <li class="correct"><span class="opt-badge">(A)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">Dinesh</span></span></span></span></p>
+ </div><span class="correct-badge">CORRECT</span></li>
+      <li><span class="opt-badge">(B)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">Chetan</span></span></span></span></p>
+ </div></li>
+      <li><span class="opt-badge">(C)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">Amit</span></span></span></span></p>
+ </div></li>
+      <li><span class="opt-badge">(D)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">Esha</span></span></span></span></p>
+ </div></li>
+    </ul>
+    <div class="solution-box">
+      <div class="solution-title">Correct Answer: A</div>
+      <div class="solution-content"><strong>Explanation:</strong><br><p align="justify" style="margin-bottom: 0px; text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">From
+ the given conditions:</span></span></span></span></p>
+ <p align="justify" style="margin-bottom: 0px; text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">Amit
+ &gt; Chetan, but Amit &lt; Bhavesh.</span></span></span></span></p>
+ <p align="justify" style="margin-bottom: 0px; text-decoration: none">
+ <span style="color: #000000">→ <span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">Bhavesh
+ &gt; Amit &gt; Chetan.</span></span></span></span></p>
+ <p align="justify" style="margin-bottom: 0px; text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">Dinesh
+ &gt; Amit but Dinesh &lt; Esha.</span></span></span></span></p>
+ <p align="justify" style="margin-bottom: 0px; text-decoration: none">
+ <span style="color: #000000">→ <span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">Esha
+ &gt; Dinesh &gt; Amit.</span></span></span></span></p>
+ <p align="justify" style="margin-bottom: 0px; text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">Esha
+ scored the highest.</span></span></span></span></p>
+ <p align="justify" style="margin-bottom: 0px; text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">Final
+ order: Esha &gt; Dinesh &gt; Bhavesh &gt; Amit &gt; Chetan.</span></span></span></span></p>
+ <p align="justify" style="text-decoration: none"><span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">The
+ second highest scorer is Dinesh.</span></span></span></span></p>
+ </div>
+    </div>
+  </div>
+  <div class="q-card">
+    <div class="q-header"><span>Question 11</span></div>
+    <div class="q-text"><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">In
+ a class of 50 students, Priya ranks 14th from the top. What is her
+ rank from the bottom?</span></span></span></span></p>
+ </div>
+    <ul class="options">
+      <li><span class="opt-badge">(A)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">35</span></span></span></span></p>
+ </div></li>
+      <li class="correct"><span class="opt-badge">(B)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">37</span></span></span></span></p>
+ </div><span class="correct-badge">CORRECT</span></li>
+      <li><span class="opt-badge">(C)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">40</span></span></span></span></p>
+ </div></li>
+      <li><span class="opt-badge">(D)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">45</span></span></span></span></p>
+ </div></li>
+    </ul>
+    <div class="solution-box">
+      <div class="solution-title">Correct Answer: B</div>
+      <div class="solution-content"><strong>Explanation:</strong><br><p align="justify" style="margin-bottom: 0px; text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">Rank
+ from the bottom = Total students - Rank from the top + 1</span></span></span></span></p>
+ <p align="justify" style="margin-bottom: 0px; text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">=
+ 50 - 14 + 1</span></span></span></span></p>
+ <p align="justify" style="text-decoration: none"><span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">=
+ 37</span></span></span></span></p>
+ </div>
+    </div>
+  </div>
+  <div class="q-card">
+    <div class="q-header"><span>Question 12</span></div>
+    <div class="q-text"><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">If
+ the rank of Rohan is 7th from the top in a group of 50 candidates
+ and 2 new candidates are added just before and after him, what
+ will be his new rank from bottom?</span></span></span></span></p>
+ </div>
+    <ul class="options">
+      <li><span class="opt-badge">(A)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">44</span></span></span></span></p>
+ </div></li>
+      <li><span class="opt-badge">(B)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">45</span></span></span></span></p>
+ </div></li>
+      <li class="correct"><span class="opt-badge">(C)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">46</span></span></span></span></p>
+ </div><span class="correct-badge">CORRECT</span></li>
+      <li><span class="opt-badge">(D)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">48</span></span></span></span></p>
+ </div></li>
+    </ul>
+    <div class="solution-box">
+      <div class="solution-title">Correct Answer: C</div>
+      <div class="solution-content"><strong>Explanation:</strong><br><p align="justify" style="margin-bottom: 0px; text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">Adding
+ of candidates just before Rohan will not change his rank from
+ bottom. Before addition, the rank of Rohan from bottom is = (50 -
+ 7) + 1 = 44</span></span></span></span></p>
+ <p align="justify" style="text-decoration: none"><span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">Now
+ adding 2 candidates just after Rohan will increase his rank by 2
+ positions. Hence; the new rank of Rohan from bottom will be = 44 +
+ 2 = 46</span></span></span></span></p>
+ </div>
+    </div>
+  </div>
+  <div class="q-card">
+    <div class="q-header"><span>Question 13</span></div>
+    <div class="q-text"><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">Neha
+ is heavier than Rina but lighter than Simran. Aisha is lighter
+ than Neha but heavier than Rina. Jaya is heavier than all except
+ Simran. Who is the third heaviest?</span></span></span></span></p>
+ </div>
+    <ul class="options">
+      <li><span class="opt-badge">(A)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">Rina</span></span></span></span></p>
+ </div></li>
+      <li><span class="opt-badge">(B)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">Simran</span></span></span></span></p>
+ </div></li>
+      <li class="correct"><span class="opt-badge">(C)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">Neha</span></span></span></span></p>
+ </div><span class="correct-badge">CORRECT</span></li>
+      <li><span class="opt-badge">(D)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">Jaya</span></span></span></span></p>
+ </div></li>
+    </ul>
+    <div class="solution-box">
+      <div class="solution-title">Correct Answer: C</div>
+      <div class="solution-content"><strong>Explanation:</strong><br><p align="justify" style="margin-bottom: 0px; text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">From
+ the given conditions:</span></span></span></span></p>
+ <p align="justify" style="margin-bottom: 0px; text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">Neha
+ &gt; Rina, but Neha &lt; Simran → Simran &gt; Neha &gt; Rina.</span></span></span></span></p>
+ <p align="justify" style="margin-bottom: 0px; text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">Aisha
+ is lighter than Neha but heavier than Rina → Simran &gt; Neha
+ &gt; Aisha &gt; Rina.</span></span></span></span></p>
+ <p align="justify" style="margin-bottom: 0px; text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">Jaya
+ is heavier than all except Simran → Simran &gt; Jaya &gt;
+ Neha &gt; Aisha &gt; Rina.</span></span></span></span></p>
+ <p align="justify" style="text-decoration: none"><span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">The
+ third heaviest person is Neha.</span></span></span></span></p>
+ </div>
+    </div>
+  </div>
+  <div class="q-card">
+    <div class="q-header"><span>Question 14</span></div>
+    <div class="q-text"><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">Six
+ persons – Sumer, Anant, Parth, Rajat, Karan and Gaurav,
+ played in a cricket match and scored different number of runs.
+ Sumer scored more runs than only Parth and Gaurav. Anant scored
+ less runs than Karan, who was not highest scorer. The Second
+ highest person scored 78 runs. How many person(s) scored more runs
+ than Parth?</span></span></span></span></p>
+ </div>
+    <ul class="options">
+      <li><span class="opt-badge">(A)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">1</span></span></span></span></p>
+ </div></li>
+      <li><span class="opt-badge">(B)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">2</span></span></span></span></p>
+ </div></li>
+      <li><span class="opt-badge">(C)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">3</span></span></span></span></p>
+ </div></li>
+      <li class="correct"><span class="opt-badge">(D)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">More
+ than 3</span></span></span></span></p>
+ </div><span class="correct-badge">CORRECT</span></li>
+    </ul>
+    <div class="solution-box">
+      <div class="solution-title">Correct Answer: D</div>
+      <div class="solution-content"><strong>Explanation:</strong><br><p align="justify" style="margin-bottom: 0px; text-decoration: none">
+ <span style="color: #000000"><img src="images/img_77f39ef55721.png" name="Picture 6" align="bottom" width="188" height="165" border="0">
+</img></span></p>
+ <p align="justify" style="text-decoration: none"><span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">Following
+ the final solution we can say that either 4 or 5 persons scored
+ more runs than Parth.</span></span></span></span></p>
+ </div>
+    </div>
+  </div>
+  <div class="q-card">
+    <div class="q-header"><span>Question 15</span></div>
+    <div class="q-text"><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">In
+ a line of 60 people, Sam is ranked 21st from the top. How many
+ people are ahead of him and how many are behind him?</span></span></span></span></p>
+ </div>
+    <ul class="options">
+      <li class="correct"><span class="opt-badge">(A)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">20,
+ 39</span></span></span></span></p>
+ </div><span class="correct-badge">CORRECT</span></li>
+      <li><span class="opt-badge">(B)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">20,40</span></span></span></span></p>
+ </div></li>
+      <li><span class="opt-badge">(C)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">22,39</span></span></span></span></p>
+ </div></li>
+      <li><span class="opt-badge">(D)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">22,40</span></span></span></span></p>
+ </div></li>
+    </ul>
+    <div class="solution-box">
+      <div class="solution-title">Correct Answer: A</div>
+      <div class="solution-content"><strong>Explanation:</strong><br><p align="justify" style="margin-bottom: 0px; text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">People
+ ahead of Sam = Sam’s rank - 1 = 21 - 1 = 20</span></span></span></span></p>
+ <p align="justify" style="text-decoration: none"><span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">People
+ behind Sam = Total - Sam’s rank = 60 - 21 = 39</span></span></span></span></p>
+ </div>
+    </div>
+  </div>
+  <div class="q-card">
+    <div class="q-header"><span>Question 16</span></div>
+    <div class="q-text"><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">In
+ a nursery, I saw a group of small rose trees arranged in a row.
+ However, one rose tree caught my attention very much. I started
+ counting its rank from the left hand side and found out to be 12.
+ When I started counting from right hand side, it was again 12!!
+ What is the total number of rose trees that were arranged in that
+ row?</span></span></span></span></p>
+ </div>
+    <ul class="options">
+      <li><span class="opt-badge">(A)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">21</span></span></span></span></p>
+ </div></li>
+      <li><span class="opt-badge">(B)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">25</span></span></span></span></p>
+ </div></li>
+      <li><span class="opt-badge">(C)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">32</span></span></span></span></p>
+ </div></li>
+      <li class="correct"><span class="opt-badge">(D)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">23</span></span></span></span></p>
+ </div><span class="correct-badge">CORRECT</span></li>
+    </ul>
+    <div class="solution-box">
+      <div class="solution-title">Correct Answer: D</div>
+      <div class="solution-content"><strong>Explanation:</strong><br><p align="justify" style="margin-bottom: 0px; text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">As
+ the rank of the tree is same from either side, the total number of
+ trees will be</span></span></span></span></p>
+ <p align="justify" style="text-decoration: none"><span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">12
+ + 12 – 1 = 23</span></span></span></span></p>
+ </div>
+    </div>
+  </div>
+  <div class="q-card">
+    <div class="q-header"><span>Question 17</span></div>
+    <div class="q-text"><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">In
+ a north facing row of NCC Cadets, Trisha is 9th from the left end
+ and Tina is 12th from the right end. There are 5 cadets between
+ Trisha and Tanya who is equidstant to Tina. Find how many cadets
+ are there in the row?</span></span></span></span></p>
+ </div>
+    <ul class="options">
+      <li><span class="opt-badge">(A)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">34</span></span></span></span></p>
+ </div></li>
+      <li><span class="opt-badge">(B)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">31</span></span></span></span></p>
+ </div></li>
+      <li class="correct"><span class="opt-badge">(C)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">32</span></span></span></span></p>
+ </div><span class="correct-badge">CORRECT</span></li>
+      <li><span class="opt-badge">(D)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">33</span></span></span></span></p>
+ </div></li>
+    </ul>
+    <div class="solution-box">
+      <div class="solution-title">Correct Answer: C</div>
+      <div class="solution-content"><strong>Explanation:</strong><br><p align="justify" style="margin-bottom: 0px; text-decoration: none">
+ <span style="color: #000000"><img src="images/img_3482b1a61c42.png" name="Picture 3" align="bottom" width="473" height="131" border="0">
+</img></span></p>
+ <p align="justify" style="margin-bottom: 0px; text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">Adding
+ all the persons in the above image, we get:</span></span></span></span></p>
+ <p align="justify" style="margin-bottom: 0px; text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">8
+ + 1(Trisha) + 5 + 1(Tanya) + 5 + 1(Tina) + 11 = 32</span></span></span></span></p>
+ <p align="justify" style="text-decoration: none"><span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">Thus
+ there are 32 cadets in the row.</span></span></span></span></p>
+ </div>
+    </div>
+  </div>
+  <div class="q-card">
+    <div class="q-header"><span>Question 18</span></div>
+    <div class="q-text"><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">In
+ a north-facing row of students, Ajay is 18th from the left and
+ Vijay is 22nd from the right. If there are 10 students between
+ them, find the total number of students in the row.</span></span></span></span></p>
+ </div>
+    <ul class="options">
+      <li><span class="opt-badge">(A)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">40</span></span></span></span></p>
+ </div></li>
+      <li><span class="opt-badge">(B)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">45</span></span></span></span></p>
+ </div></li>
+      <li class="correct"><span class="opt-badge">(C)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">50</span></span></span></span></p>
+ </div><span class="correct-badge">CORRECT</span></li>
+      <li><span class="opt-badge">(D)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">55</span></span></span></span></p>
+ </div></li>
+    </ul>
+    <div class="solution-box">
+      <div class="solution-title">Correct Answer: C</div>
+      <div class="solution-content"><strong>Explanation:</strong><br><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">Total
+ students = Ajay’s position from left + Vijay’s
+ position from right + students between them = 18 + 22 + 10 = 50</span></span></span></span></p>
+ </div>
+    </div>
+  </div>
+  <div class="q-card">
+    <div class="q-header"><span>Question 19</span></div>
+    <div class="q-text"><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">Aman
+ is standing in a queue at the 10th position from the front. If he
+ is 15th from the back, how many people are in the queue?</span></span></span></span></p>
+ </div>
+    <ul class="options">
+      <li><span class="opt-badge">(A)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">30</span></span></span></span></p>
+ </div></li>
+      <li><span class="opt-badge">(B)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">75</span></span></span></span></p>
+ </div></li>
+      <li><span class="opt-badge">(C)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">50</span></span></span></span></p>
+ </div></li>
+      <li class="correct"><span class="opt-badge">(D)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">24</span></span></span></span></p>
+ </div><span class="correct-badge">CORRECT</span></li>
+    </ul>
+    <div class="solution-box">
+      <div class="solution-title">Correct Answer: D</div>
+      <div class="solution-content"><strong>Explanation:</strong><br><p align="justify" style="margin-bottom: 0px; text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">Total
+ people in the queue = (Position from Front) + (Position from Back)
+ - 1</span></span></span></span></p>
+ <p align="justify" style="margin-bottom: 0px; text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">=
+ 10 + 15 - 1</span></span></span></span></p>
+ <p align="justify" style="text-decoration: none"><span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">=
+ 24</span></span></span></span></p>
+ </div>
+    </div>
+  </div>
+  <div class="q-card">
+    <div class="q-header"><span>Question 20</span></div>
+    <div class="q-text"><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">In
+ a class of 35 students, Ziya is placed 7th from the bottom where
+ as Sofia is placed 9th from the top. Shahruk is placed in between
+ the two. What is Ziya's position from Shahruk?</span></span></span></span></p>
+ </div>
+    <ul class="options">
+      <li class="correct"><span class="opt-badge">(A)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">10</span></span></span></span></p>
+ </div><span class="correct-badge">CORRECT</span></li>
+      <li><span class="opt-badge">(B)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">15</span></span></span></span></p>
+ </div></li>
+      <li><span class="opt-badge">(C)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">19</span></span></span></span></p>
+ </div></li>
+      <li><span class="opt-badge">(D)</span><div><p align="justify" style="text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">21</span></span></span></span></p>
+ </div></li>
+    </ul>
+    <div class="solution-box">
+      <div class="solution-title">Correct Answer: A</div>
+      <div class="solution-content"><strong>Explanation:</strong><br><p align="justify" style="margin-bottom: 0px; text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">As
+ seen in the figure, Shahruk is between Sofia and Ziya. It's given
+ that Ziya is 7th from the bottom and Sofia is 9th from the top.</span></span></span></span></p>
+ <p align="justify" style="margin-bottom: 0px; text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">Therefore,
+ number of persons between Sofia and Ziya = 35-(9+7) = 19</span></span></span></span></p>
+ <p align="justify" style="margin-bottom: 0px; text-decoration: none">
+ <span style="color: #000000"><img src="images/img_446d663e7608.png" name="Picture 2" align="bottom" width="147" height="238" border="0">
+</img></span></p>
+ <p align="justify" style="margin-bottom: 0px; text-decoration: none">
+ <span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">Sharuk's
+ position between Sofia and Ziya = 19-1/2 = 10.</span></span></span></span></p>
+ <p align="justify" style="text-decoration: none"><span style="color: #000000"><span style="font-family: Calibri,serif"><span style="font-family: Cambria,serif"><span style="font-size: 19px">Hence,
+ Shahruk is at the middle ie. at 10th position from both. Ziya,
+ therefore, is at the 10th position from Shahruk</span></span></span></span></p>
+ </div>
+    </div>
+  </div>
+</body>
+</html>

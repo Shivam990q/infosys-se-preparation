@@ -1,0 +1,266 @@
+# 3. Full length Quantitative Aptitude (with sol) Level -1-2 — Solutions & Explanations
+
+**Total Questions:** 13 | **Total Marks:** 13
+
+---
+
+## Section: Quantitative Aptitude - with D.I
+
+### Question 1
+
+Study the pie chart carefully and answer the questions. The pie chart shows the percentage breakup students in different classes from VI to X in the year 2017
+
+1. The total number of students study in class VI and class IX together is approximately what percentage more than that of the total number of students study in class X?
+
+**Options:**
+
+- (A) 125%
+- (B) 280%
+- ✅ **(C) 217%** *(Correct Answer)*
+- (D) 189%
+- (E) 77%
+
+**Correct Answer:** (C)
+
+> 💡 **Explanation:**
+> Ans - C
+
+---
+
+### Question 2
+
+Study the pie chart carefully and answer the questions. The pie chart shows the percentage breakup students in different classes from VI to X in the year 2017
+
+2. If in class VI, the ratio of boys to girls is 6:5 and the total number of girls in class VI is 50 less than that of the total number of girls in class VII. Find the ratio of the total number of boys in class VI to class VII.
+
+**Options:**
+
+- (A) 5:7
+- (B) 7:11
+- (C) 9:13
+- ✅ **(D) 6:13** *(Correct Answer)*
+- (E) Option 54:5
+
+**Correct Answer:** (D)
+
+> 💡 **Explanation:**
+> Ans - D
+
+---
+
+### Question 3
+
+Study the pie chart carefully and answer the questions. The pie chart shows the percentage breakup students in different classes from VI to X in the year 2017
+
+3. If the total number of boys in class VIII is "x" and the total number of boys in class IX is "x+40". The total number of girls in class VIII and class IX together is 306. Then find the value of "x".
+
+**Options:**
+
+- ✅ **(A) 190** *(Correct Answer)*
+- (B) 210
+- (C) 174
+- (D) 184
+- (E) 196
+
+**Correct Answer:** (A)
+
+> 💡 **Explanation:**
+> Ans - A
+
+---
+
+### Question 4
+
+Study the pie chart carefully and answer the questions. The pie chart shows the percentage breakup students in different classes from VI to X in the year 2017
+
+4. What is the difference between the total number of students in class VII and class VIII together to that of the total number of students in class IX and class X together? 
+
+**Options:**
+
+- (A) 480
+- (B) 520
+- ✅ **(C) 440** *(Correct Answer)*
+- (D) 400
+- (E) 560
+
+**Correct Answer:** (C)
+
+> 💡 **Explanation:**
+> Ans - C
+
+---
+
+### Question 5
+
+Four circles having equal radii are drawn with centres at the four corners of a square. Each circle touches the other two adjacent circle. If remaining area of the square is 168 cm square, what is the size of the radius of the circle? (in centimeters) (take π = 22/7)
+
+**Options:**
+
+- (A) 1.4
+- ✅ **(B) 14** *(Correct Answer)*
+- (C) 35
+- (D) 21
+- (E) 3.5
+
+**Correct Answer:** (B)
+
+> 💡 **Explanation:**
+> Ans - B
+
+---
+
+### Question 6
+
+A man wants to invest Rs. 16850 in bank account of his 2 sons, whose ages are 12 years & 16 years in such a way so that they will get equal amount at an age of 120 years at the rate of 33(1/3)% compounded annually. Find the share of younger son?
+
+**Options:**
+
+- ✅ **(A) 4050** *(Correct Answer)*
+- (B) 4080
+- (C) 4090
+- (D) 4085
+
+**Correct Answer:** (A)
+
+> 💡 **Explanation:**
+> Ans - A
+
+---
+
+### Question 7
+
+A bag contains 5 red and 7 white balls. Four balls are drawn out one by one and not replaced. What is the probability that they are alternatively of different colours?
+
+**Options:**
+
+- (A) 7/99
+- (B) 11/99
+- ✅ **(C) 14/99** *(Correct Answer)*
+- (D) 19/99
+- (E) None of these
+
+**Correct Answer:** (C)
+
+> 💡 **Explanation:**
+> Ans - C
+
+---
+
+### Question 8
+
+The ratio of the age of Ram and Rahim 10 years ago was 1 : 3. The ratio of their age five years hence will be
+2 : 3. Then the ratio of their present age is
+
+**Options:**
+
+- (A) 1 : 2
+- ✅ **(B) 3 : 5** *(Correct Answer)*
+- (C) 3 : 4
+- (D) 2 : 5
+
+**Correct Answer:** (B)
+
+> 💡 **Explanation:**
+> Ans - B
+
+---
+
+### Question 9
+
+"A" can complete a piece of work in 8 days,while "B" is 20% more efficient than him. A works for 2 days,then B works for 1 day, and the cycle continues like this.in how many days would the work be completed?
+
+**Options:**
+
+- ✅ **(A) 7(3/5)** *(Correct Answer)*
+- (B) 7 days
+- (C) 7(7/9)
+- (D) not
+
+**Correct Answer:** (A)
+
+> 💡 **Explanation:**
+> Ans - A
+
+---
+
+### Question 10
+
+The simple interest (p.a.) accrued on an amount of Rs 17,000 at the end of four years is Rs 6,800. What would be the compound interest (compounded annually) accrued on the same amount at the same rate in two years?
+
+**Options:**
+
+- (A) Cannot be determined
+- (B) Other than those given as option
+- ✅ **(C) 3570** *(Correct Answer)*
+- (D) 3260
+- (E) 3980
+
+**Correct Answer:** (C)
+
+> 💡 **Explanation:**
+> Ans - C
+
+---
+
+### Question 11
+
+Find the missing number in the given seriese.
+2, 7, 10, 22, 18, 37, 26,?
+
+**Options:**
+
+- (A) 42
+- ✅ **(B) 52** *(Correct Answer)*
+- (C) 46
+- (D) 62
+- (E) None of these
+
+**Correct Answer:** (B)
+
+> 💡 **Explanation:**
+> Ans - B
+
+---
+
+### Question 12
+
+Find the missing number in the given seriese.
+
+12,     12,     18,     45,     180,     1170,     ?
+
+**Options:**
+
+- ✅ **(A) 12285** *(Correct Answer)*
+- (B) 10530
+- (C) 11700
+- (D) 12870
+- (E) 9945
+
+**Correct Answer:** (A)
+
+> 💡 **Explanation:**
+> Ans - A
+
+---
+
+### Question 13
+
+Find the wrong term in the series
+
+2,   3,   10,   38,   172
+
+**Options:**
+
+- (A) 2
+- (B) 3
+- (C) 10
+- ✅ **(D) 38** *(Correct Answer)*
+- (E) 172
+
+**Correct Answer:** (D)
+
+> 💡 **Explanation:**
+> Ans - D
+
+---
+

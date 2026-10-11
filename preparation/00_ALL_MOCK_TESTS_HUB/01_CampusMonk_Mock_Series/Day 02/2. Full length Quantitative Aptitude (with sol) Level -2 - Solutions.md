@@ -1,0 +1,265 @@
+# 2. Full length Quantitative Aptitude (with sol) Level -2 — Solutions & Explanations
+
+**Total Questions:** 14 | **Total Marks:** 14
+
+---
+
+## Section: 1.1 Quantitative Mock
+
+### Question 1
+
+In the IT department of backrub, the administrator password is changed every month. The team of administrators, spread across the globe, receive an 8 digit number via email. This number is to be prefixed with a single digit number and suffixed with a single digit number to get the actual password. The password is divisible by 11 and 8. If the team received 65351364 this month, then which of the following pairs give prefix and suffix respectively.
+
+**Options:**
+
+- (A) 8, 9
+- ✅ **(B) 7, 8** *(Correct Answer)*
+- (C) 3, 4
+- (D) 2, 7
+
+**Correct Answer:** (B)
+
+> 💡 **Explanation:**
+> Ans - B
+
+---
+
+### Question 2
+
+In the IT department of backrub, the administrator password is changed every month. The team of administrator, spread across the globe, receive an 8 digits number via email. This number is to be prefixed with a single digit number and suffixed with a single digit number to get the actual password. The password is divisible by 11 and 8. If the team received 54218345 this month. Then which of the following pairs give valid prefix and suffix respectively?
+
+**Options:**
+
+- (A) 3, 7
+- ✅ **(B) 1, 6** *(Correct Answer)*
+- (C) 2, 4
+- (D) 4, 2
+
+**Correct Answer:** (B)
+
+> 💡 **Explanation:**
+> Ans - B
+
+---
+
+### Question 3
+
+Two ants of length 1 cm and 1.2 cm crawl in opposite directions with average speeds of 2 and 3 mm per second respectively. How many seconds will they take to cross each other?
+
+**Options:**
+
+- (A) 0.44 sec
+- (B) 44 sec
+- (C) 6.4 sec
+- ✅ **(D) Not** *(Correct Answer)*
+
+**Correct Answer:** (D)
+
+> 💡 **Explanation:**
+> Ans - D
+
+---
+
+### Question 4
+
+Rs. 3000 is distributed among A, B and C such that A gets 2/3 rd of what B and C together get and C gets 1/2 of what A and B together get. Find B's share.
+
+**Options:**
+
+- ✅ **(A) 800** *(Correct Answer)*
+- (B) 1000
+- (C) 1200
+- (D) 1500
+- (E) 1800
+
+**Correct Answer:** (A)
+
+> 💡 **Explanation:**
+> Ans - A
+
+---
+
+### Question 5
+
+A sum of money invested at compound interest amounts of 800 in 3 years and 882 in 5 years.What is the rate of Interest?
+
+**Options:**
+
+- (A) 2.5%
+- (B) 4%
+- ✅ **(C) 5%** *(Correct Answer)*
+- (D) 6.66%
+- (E) Option 5None of these
+
+**Correct Answer:** (C)
+
+> 💡 **Explanation:**
+> Ans - C
+
+---
+
+### Question 6
+
+Two trains are on the same line, 100 miles apart, heading towards each other, each traveling at 20 miles/h. A bee starts flying between the trains when the distance between two trains is 100 km. The bee first flies from first train to second train. Once it reaches the second train, it immediately flies back to the first train ... and so on until trains collide. Calculate the total distance travelled by the bee, if Speed of bee is 40 miles/h
+
+**Options:**
+
+- ✅ **(A) 100** *(Correct Answer)*
+- (B) 150
+- (C) 170
+- (D) 200
+
+**Correct Answer:** (A)
+
+> 💡 **Explanation:**
+> Ans - A
+
+---
+
+### Question 7
+
+The mark price of an article is Rs. 300.After allowing a discount 15% on the marked price, the shopkeeper makes a gain of Rs.15.What is the gain percentage?
+
+**Options:**
+
+- (A) 16(1/4)
+- (B) 7(1/4)
+- (C) 16(2/3)
+- ✅ **(D) NOT** *(Correct Answer)*
+
+**Correct Answer:** (D)
+
+> 💡 **Explanation:**
+> Ans - D
+
+---
+
+### Question 8
+
+Quantity 1: Speed of boat in still water, if a man can travel 54 km downstream in 9 hours and 40 km upstream in 10 hours. Quantity II: Speed of boat in still water, if a man can travel 45 km downstream in 9 hours and the speed of stream is 1 kmph.
+
+**Options:**
+
+- (A) 
+- (B) 
+- ✅ **(C) ** *(Correct Answer)*
+- (D) 
+- (E) 
+
+**Correct Answer:** (C)
+
+> 💡 **Explanation:**
+> Ans - C
+
+---
+
+### Question 9
+
+In an envelope there are 5 green, 3 yellow and 4 pink tablets. 3 tablets are picked at random.Quantity I: The probability that 2 tablets are yellow in colour and 1 tablet is pink in colour.Quantity II: The probability that all the tablets are green in colour.
+
+**Options:**
+
+- ✅ **(A) ** *(Correct Answer)*
+- (B) 
+- (C) 
+- (D) 
+- (E) 
+
+**Correct Answer:** (A)
+
+> 💡 **Explanation:**
+> Ans - A
+
+---
+
+### Question 10
+
+Sum of CP's of two cows is Rs. 39, 000. Both the cows are sold at a profit of 20% and 40% respectively with their SP's being the same. What is the difference of CP's of both the cows?
+
+**Options:**
+
+- ✅ **(A) Rs. 3,000** *(Correct Answer)*
+- (B) Rs. 2,000
+- (C) Rs. 1,500
+- (D) Rs. 2,500
+- (E) None of these
+
+**Correct Answer:** (A)
+
+> 💡 **Explanation:**
+> Ans - A
+
+---
+
+### Question 11
+
+If the sum of five consecutive is S, then the largest of, those integers in term of S is:
+
+**Options:**
+
+- (A) (S-10)/4
+- (B) (S+4)/4
+- (C) (S+5)/4
+- ✅ **(D) (S+10)/5** *(Correct Answer)*
+
+**Correct Answer:** (D)
+
+> 💡 **Explanation:**
+> Ans - D
+
+---
+
+### Question 12
+
+A person can complete a job in 120 days. He works alone on Day 1. On Day 2, he is joined by another person who also can complete the job in exactly 120 days. On Day 3, they are joined by another person of equal efficiency. Like this, everyday a new person with the same efficiency joins the work. How many days are required to complete the job?
+
+**Options:**
+
+- (A) 20
+- ✅ **(B) 15** *(Correct Answer)*
+- (C) 25
+- (D) NOT
+
+**Correct Answer:** (B)
+
+> 💡 **Explanation:**
+> Ans - B
+
+---
+
+### Question 13
+
+A container contains 40 liters of milk. From this container 4 liters of milk was taken out and replaced by water. This process was repeated further two times. How much milk Is now contained by the container?
+
+**Options:**
+
+- (A) 26.34 liters
+- ✅ **(B) 29.16 liters** *(Correct Answer)*
+- (C) 28.34 liters
+- (D) 29.18 liters
+
+**Correct Answer:** (B)
+
+> 💡 **Explanation:**
+> Ans - B
+
+---
+
+### Question 14
+
+The Ghaziabad-Hapur-Meerut EMU and the Meerut-Hapur- Ghaziabad EMU start at the same time from Ghaziabad and Meerut and proceed towards each other at 16 km/hr and 21 km/hr, respectively. When they meet, it is found that one train has travelled 60 km more than the other. The distance between two stations is:
+
+**Options:**
+
+- (A) 445 km
+- ✅ **(B) 444 km** *(Correct Answer)*
+- (C) 440 km
+- (D) 450 km
+
+**Correct Answer:** (B)
+
+> 💡 **Explanation:**
+> Ans - B
+
+---
+
