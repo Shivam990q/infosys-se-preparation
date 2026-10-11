@@ -3,7 +3,7 @@
 > **Target Role:** Infosys System Engineer (SE)  
 > **Section Weightage:** 10 Questions • 35 Minutes (~3.5 mins per question) • Calculation-Intensive  
 > **Format:** 2-Column High-Density Print-Ready Modular PDFs • Step-by-Step Mathematical Derivations • Zero Watermarks  
-> **Total Solved Questions:** **261+ Questions** (211 Modular Verified MCQs + 50 Topmate PYQ Pages)
+> **Total Solved Questions:** **251+ Questions** (201 Modular Verified MCQs + 50 Topmate PYQ Pages)
 
 ---
 
@@ -19,8 +19,8 @@ This vault brings together all Quantitative Aptitude problems across all paid co
 
 | File Name | Topic Coverage | Question Count | Key Concepts & Formulas Tested |
 | :--- | :--- | :---: | :--- |
-| **`00_COMPLETE_MATHEMATICAL_CRITICAL_THINKING_ALL_IN_ONE_VAULT.pdf`** | **Master Compendium (All Topics)** | **211 Solved Qs** | Complete unified textbook of all 6 topics with full step-by-step logic. |
-| **`01_Number_Theory_LCM_HCF_and_Divisibility.pdf`** | Number Theory, LCM, HCF & Divisibility | **51 Solved Qs** | Remainder theorem, unit digit cyclicity, prime factorization, highest power dividing $n!$. |
+| **`00_COMPLETE_MATHEMATICAL_CRITICAL_THINKING_ALL_IN_ONE_VAULT.pdf`** | **Master Compendium (All Topics)** | **201 Solved Qs** | Complete unified textbook of all 6 topics with full step-by-step logic. |
+| **`01_Number_Theory_LCM_HCF_and_Divisibility.pdf`** | Number Theory, LCM, HCF & Divisibility | **41 Solved Qs** | Remainder theorem, unit digit cyclicity, prime factorization, highest power dividing $n!$. |
 | **`02_Percentages_Profit_Loss_and_Interest.pdf`** | Percentages, Profit, Loss & Interest | **50 Solved Qs** | Successive percentage changes, mark-up vs discount, CI vs SI formula ($P(R/100)^2$), true discount. |
 | **`03_Ratios_Proportions_Averages_and_Ages.pdf`** | Ratios, Proportions, Averages & Ages | **22 Solved Qs** | Compounded ratios, alligation & mixtures, weighted average shifts, age progression equations. |
 | **`04_Time_Speed_Distance_and_Work.pdf`** | Time, Speed, Distance & Work | **45 Solved Qs** | Relative velocity, train platform crossings, upstream/downstream, work-rate $M_1 D_1 H_1 / W_1$, pipes & cisterns. |

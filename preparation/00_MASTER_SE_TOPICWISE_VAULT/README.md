@@ -2,7 +2,7 @@
 
 > **The Definitive, Exhaustive, Bit-for-Bit Consolidated Question Vault**  
 > **1000% Completed • Zero Watermarks • Zero QR Codes • Zero Promotional Links • 100% Step-by-Step Logic**  
-> Total Sections: **5 Out of 5 Sections Fully Built** • Total Curated PDFs: **40 Print-Ready Modular Books** • **1,791+ Questions & Pages**
+> Total Sections: **5 Out of 5 Sections Fully Built** • Total Curated PDFs: **40 Print-Ready Modular Books** • **1,781+ Questions & Pages**
 
 ---
 
@@ -21,7 +21,7 @@ preparation/00_MASTER_SE_TOPICWISE_VAULT/
 │   ├── 07_Actual_Infosys_Exam_Slot_PYQ_Puzzles.pdf
 │   ├── 08_Topmate_107_Infosys_Puzzles_Watermark_Free.pdf
 │   └── README.md
-├── 02_Mathematical_Critical_Thinking/         [261+ Solved Qs & Pages • 8 PDFs + README]
+├── 02_Mathematical_Critical_Thinking/         [251+ Solved Qs & Pages • 8 PDFs + README]
 │   ├── 00_COMPLETE_MATHEMATICAL_CRITICAL_THINKING_ALL_IN_ONE_VAULT.pdf
 │   ├── 01_Number_Theory_LCM_HCF_and_Divisibility.pdf
 │   ├── 02_Percentages_Profit_Loss_and_Interest.pdf
@@ -70,11 +70,11 @@ preparation/00_MASTER_SE_TOPICWISE_VAULT/
 | Section ID & Name | Infosys SE Pattern | Curated Modular PDFs | Total Solved Questions / Pages | Status |
 | :--- | :---: | :---: | :---: | :---: |
 | **01. Puzzle Solving** | 4 Qs • 10 Mins | 9 Modular PDFs | **382 Solved Qs & Pages** | ✅ **100% COMPLETE** |
-| **02. Mathematical Critical Thinking** | 10 Qs • 35 Mins | 8 Modular PDFs | **261+ Solved Qs & Pages** | ✅ **100% COMPLETE** |
+| **02. Mathematical Critical Thinking** | 10 Qs • 35 Mins | 8 Modular PDFs | **251+ Solved Qs & Pages** | ✅ **100% COMPLETE** |
 | **03. Reasoning Ability** | 15 Qs • 25 Mins | 8 Modular PDFs | **358+ Solved Qs & Pages** | ✅ **100% COMPLETE** |
 | **04. Pseudocode & Technical** | 5 Qs • 10 Mins | 7 Modular PDFs | **327+ Solved Qs & Pages** | ✅ **100% COMPLETE** |
 | **05. Verbal Ability** | 20 Qs • 20 Mins | 8 Modular PDFs | **463+ Solved Qs & Pages** | ✅ **100% COMPLETE** |
-| **TOTAL VAULT REPOSITORY** | **54 Qs • 100 Mins** | **40 Modular PDFs** | **1,791+ Solved Qs & Pages** | 👑 **1000% MASTER VAULT** |
+| **TOTAL VAULT REPOSITORY** | **54 Qs • 100 Mins** | **40 Modular PDFs** | **1,781+ Solved Qs & Pages** | 👑 **1000% MASTER VAULT** |
 
 ---
 
