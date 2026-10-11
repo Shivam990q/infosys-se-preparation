@@ -9,7 +9,7 @@
 
 ```text
 preparation/00_MASTER_SE_TOPICWISE_VAULT/
-├── 01_Puzzle_Solving/                         [COMPLETED • 353 Total Questions • 10 PDFs]
+├── 01_Puzzle_Solving/                         [COMPLETED • 382 Total Questions • 10 PDFs]
 │   ├── 01_Visual_Figure_and_Pattern_Puzzles.pdf
 │   ├── 02_Order_Ranking_and_Comparison_Puzzles.pdf
 │   ├── 03_Tabular_and_Attribute_Matching_Caselets.pdf
@@ -33,11 +33,11 @@ preparation/00_MASTER_SE_TOPICWISE_VAULT/
 
 | PDF File | Category / Type | Questions | Pages | Diagrams / Visual Features |
 |---|:---|:---:|:---:|:---|
-| [`01_Visual_Figure_and_Pattern_Puzzles.pdf`](01_Puzzle_Solving/01_Visual_Figure_and_Pattern_Puzzles.pdf) | Visual Diagram & Pattern Puzzles | **17** | **4** | Octagonal rings, Domino blocks, Honeycombs, Triangles, Stars |
+| [`01_Visual_Figure_and_Pattern_Puzzles.pdf`](01_Puzzle_Solving/01_Visual_Figure_and_Pattern_Puzzles.pdf) | Visual Diagram & Pattern Puzzles | **42** | **7** | Octagonal rings, Domino blocks, Honeycombs, Triangles, Stars |
 | [`02_Order_Ranking_and_Comparison_Puzzles.pdf`](01_Puzzle_Solving/02_Order_Ranking_and_Comparison_Puzzles.pdf) | Order, Ranking & Queue Comparisons | **24** | **4** | Height & weight logic, line queue formulas (`T = L + R - 1`) |
 | [`03_Tabular_and_Attribute_Matching_Caselets.pdf`](01_Puzzle_Solving/03_Tabular_and_Attribute_Matching_Caselets.pdf) | Tabular Caselets & Elimination | **10** | **2** | Multi-variable cross elimination (Cars, Cities, Professions) |
 | [`04_Seating_Arrangement_Puzzles.pdf`](01_Puzzle_Solving/04_Seating_Arrangement_Puzzles.pdf) | Seating Arrangement (Circle/Row/Hexagon) | **15** | **3** | Circular arrangement vector diagram with center-facing rules |
-| [`05_Matrix_and_Numerical_Grid_Puzzles.pdf`](01_Puzzle_Solving/05_Matrix_and_Numerical_Grid_Puzzles.pdf) | Matrix Missing Numbers & Grids | **148** | **13** | 100 Matrix MCQs + 2-Mark & 3-Mark Real Exam Grids from Screenshots |
+| [`05_Matrix_and_Numerical_Grid_Puzzles.pdf`](01_Puzzle_Solving/05_Matrix_and_Numerical_Grid_Puzzles.pdf) | Matrix Missing Numbers & Grids | **152** | **13** | 100 Matrix MCQs + 2-Mark & 3-Mark Real Exam Grids from Screenshots |
 | [`06_Matchstick_Cube_and_Spatial_Puzzles.pdf`](01_Puzzle_Solving/06_Matchstick_Cube_and_Spatial_Puzzles.pdf) | Matchsticks, Cube Paint & Wheels | **30** | **3** | ITM College Mock Papers 1–6 Q51-Q54 + Computer Proofs |
 | [`07_Actual_Infosys_Exam_Slot_PYQ_Puzzles.pdf`](01_Puzzle_Solving/07_Actual_Infosys_Exam_Slot_PYQ_Puzzles.pdf) | Actual Infosys 2026 Slot Papers | **2** | **1** | Real October 2026 Slot 1 & Slot 2 Candidate Exam Puzzles |
 | [`08_Topmate_107_Infosys_Puzzles_Watermark_Free.pdf`](01_Puzzle_Solving/08_Topmate_107_Infosys_Puzzles_Watermark_Free.pdf) | Topmate 107 Exam PYQ Puzzles (Purged) | **107** | **98** | Full authentic question bank, 100% watermark-free |
