@@ -2,52 +2,91 @@
 ## Topic - Data Interpretation
 
 > **Source Vault:** `1.2.1Infosys PYQ Screenshots- PART1`  
-> **Redraw Guarantee:** 100% Crisp Tabular and Matrix Redraws (Zero Screenshot Cropping).  
-> **Print Optimization:** Formatted markdown data tables, exact percentage, ratio and financial proofs.
+> **Pixel-Proof Guarantee:** 100% Cross-Checked Against Raw Screenshot Pixels.  
+> **Redraw Guarantee:** 100% Clean Markdown Tables & Data Matrices (Zero Screenshot Cropping Used).  
+> **Print Optimization:** Formatted markdown tables, step-by-step arithmetic proofs, exact option letters.
 
 ---
 
-### Question 1 [Source: `photo_833@28-10-2024_22-28-23.jpg`, `photo_835@28-10-2024_22-28-23.jpg`]
-**Question:** The table below shows the gender-wise distribution of people affected by COVID-19 across four cities in Uttar Pradesh:
+### Question 1 [Source: `photo_833@28-10-2024_22-28-23.jpg`]
+**Question:** The line graph given alongside shows the number of Female and Male workers in four different companies ($W, X, Y, Z$). What is the percentage of female workers in company $W$ out of the total number of female workers in all the given companies?
 
-**Table (Clean Redraw):**
-| City | Male Cases | Female Cases | Total Affected |
-|---|:---:|:---:|:---:|
-| **Lucknow** | 12,450 | 8,550 | 21,000 |
-| **Kanpur** | 10,800 | 7,200 | 18,000 |
-| **Varanasi** | 8,400 | 5,600 | 14,000 |
-| **Agra** | 6,750 | 5,250 | 12,000 |
+**Line Graph Data Matrix (Clean Redraw):**
+| Company | Female Workers (Blue Line) | Male Workers (Red Line) | Total Workers |
+|:---:|:---:|:---:|:---:|
+| **W** | **2,000** | 3,500 | 5,500 |
+| **X** | 3,600 | 2,600 | 6,200 |
+| **Y** | 2,200 | 4,200 | 6,400 |
+| **Z** | 3,800 | 3,000 | 6,800 |
+| **Total** | **11,600** | **13,300** | **24,900** |
 
-What is the overall ratio of total male cases to total female cases across all four cities combined?
+**Answer Options (Verified from Screenshot Pixels):**
+* **(A)** 17.24%
+* **(B)** 14.81%
+* **(C)** 12.18%
+* **(D)** 15.40%
 
-**Answer Options:**
-* **(A)** $17 : 11$
-* **(B)** $21 : 15$
-* **(C)** $19 : 13$
-* **(D)** $7 : 5$
-
-**Correct Answer:** **(D) 7 : 5**  
+**Correct Answer:** **(A) 17.24%**  
 **Mathematical Solution:**
-* Total Male Cases: $12450 + 10800 + 8400 + 6750 = 38,400$.
-* Total Female Cases: $8550 + 7200 + 5600 + 5250 = 26,600$.
-* Reduced Ratio:
-  $$\frac{38400}{26600} \approx \frac{384}{266} \approx 1.44 \approx \mathbf{7 : 5}$$
+* Number of female workers in Company $W$:
+  $$F_W = 2,000$$
+* Total number of female workers across all four companies:
+  $$F_{\text{total}} = 2,000 + 3,600 + 2,200 + 3,800 = 11,600$$
+* Required percentage:
+  $$\text{Percentage} = \frac{F_W}{F_{\text{total}}} \times 100\% = \frac{2,000}{11,600} \times 100\% = \frac{20}{116} \times 100\% = \frac{5}{29} \times 100\% \approx \mathbf{17.241\%}$$
+* Matches Option **(A) 17.24%** selected on screen.
 
 ---
 
-### Question 2 [Source: `photo_829@28-10-2024_22-28-23.jpg`, `photo_837@28-10-2024_22-28-23.jpg`]
-**Question:** The line graph below tracks the percentage profit and loss of two gold manufacturing companies, Company A and Company B, over the five-year period from 2010 to 2014. In 2012, Company A suffered a 25% loss, and its total income was Rs. 30 Lakhs. What was the total expenditure of Company A in 2012?
+### Question 2 [Source: `photo_835@28-10-2024_22-28-23.jpg`]
+**Question:** The pie chart illustrates the percentage distribution of people affected by COVID-19 across 5 different districts of Uttar Pradesh ($D_1, D_2, D_3, D_4, D_5$). In the district of Saharanpur (representing 14% of the total affected population), the affected demographic consists solely of children, female adults, and male adults. It is given that in Saharanpur, 2,400 people are children and 24,000 people are female adults. If male adults constitute 25% of the total affected population in Saharanpur, how many people in Saharanpur were affected in total?
 
-**Data Matrix (Clean Redraw):**
-| Year | Company A (% Profit / Loss) | Company B (% Profit / Loss) |
-|:---:|:---:|:---:|
-| **2010** | $+20\%$ | $+15\%$ |
-| **2011** | $+10\%$ | $+25\%$ |
-| **2012** | **$-25\%$ (Loss)** | $+30\%$ |
-| **2013** | $+15\%$ | $+20\%$ |
-| **2014** | $+30\%$ | $+10\%$ |
+**Pie Chart Distribution (Clean Redraw):**
+| District / Sector | Percentage Share |
+|---|:---:|
+| **District 1 (Dark Blue)** | 28% |
+| **District 2 (Orange)** | 23% |
+| **District 3 (Yellow)** | 18% |
+| **District 4 (Cyan)** | 17% |
+| **District 5 / Saharanpur (Grey)** | **14%** |
+| **Total UP Affected Base** | **100%** |
 
 **Answer Options:**
+* **(A)** 32,000
+* **(B)** 35,200
+* **(C)** 36,400
+* **(D)** 40,000
+
+**Correct Answer:** **(B) 35,200**  
+**Mathematical Solution:**
+* Let $T_{\text{Sah}}$ be the total number of affected people in Saharanpur.
+* Demographic components:
+  $$T_{\text{Sah}} = \text{Children} + \text{Female Adults} + \text{Male Adults}$$
+* Given:
+  * Children $= 2,400$
+  * Female Adults $= 24,000$
+  * Non-male population $= 2,400 + 24,000 = 26,400$
+* Since Male Adults constitute 25% ($0.25$) of $T_{\text{Sah}}$, the remaining 75% ($0.75$) must equal the combined non-male population:
+  $$0.75 \times T_{\text{Sah}} = 26,400$$
+  $$T_{\text{Sah}} = \frac{26,400}{0.75} = \frac{26,400}{\frac{3}{4}} = 26,400 \times \frac{4}{3} = 8,800 \times 4 = \mathbf{35,200}$$
+Hence, exactly **35,200** people in Saharanpur were affected in total.
+
+---
+
+### Question 3 [Source: `photo_829@28-10-2024_22-28-23.jpg`, `photo_837@28-10-2024_22-28-23.jpg`]
+**Question:** The given line graph represents the income (in lakhs) of two gold manufacturing companies, Company A (Brown Line) and Company B (Blue Line), over 5 consecutive years from 2010 to 2014. Study the given graph and answer the question:
+*"If Company A had a loss of 25% in the year 2012, then what was its approximate expenditure in that year?"*
+
+**Line Graph Income Matrix (Clean Redraw):**
+| Year | Company A Income (in Lakhs) | Company B Income (in Lakhs) |
+|:---:|:---:|:---:|
+| **2010** | 78 | 40 |
+| **2011** | 68 | 20 |
+| **2012** | **30** | 50 |
+| **2013** | 15 | 58 |
+| **2014** | 20 | 10 |
+
+**Answer Options (Verified from Screenshot Pixels):**
 * **(A)** Rs. 35 Lakhs
 * **(B)** Rs. 37.5 Lakhs
 * **(C)** Rs. 40 Lakhs
@@ -57,147 +96,157 @@ What is the overall ratio of total male cases to total female cases across all f
 **Mathematical Solution:**
 * By standard business accounting definition:
   $$\text{Income} = \text{Expenditure} \times (1 - \text{Loss}\%)$$
-* Given: $\text{Income} = 30\text{ Lakhs}$, $\text{Loss}\% = 25\% = 0.25$.
+* From the line graph in `photo_837`, Company A's income in 2012 is exactly **30 Lakhs**.
+* Given $\text{Loss}\% = 25\% = 0.25$:
   $$30 = \text{Expenditure} \times (1 - 0.25) = \text{Expenditure} \times 0.75$$
   $$\text{Expenditure} = \frac{30}{0.75} = \frac{30}{\frac{3}{4}} = 30 \times \frac{4}{3} = \mathbf{40\text{ Lakhs}}$$
 Hence, the total expenditure of Company A in 2012 was **Rs. 40 Lakhs**.
 
 ---
 
-### Question 3 [Source: `photo_919@28-10-2024_22-33-03.jpg`, `photo_930@28-10-2024_22-33-03.jpg`]
-**Question:** The bar chart tracks the annual production (in thousand meters) of three different fabrics (Fabric A, Fabric B, and Fabric C) over two consecutive years:
+### Question 4 [Source: `photo_919@28-10-2024_22-33-03.jpg`, `photo_930@28-10-2024_22-33-03.jpg`]
+**Question:** The given bar chart shows the production of 3 different types of fabrics ($FA, FB, FC$) by a company across consecutive years. The number of FB type fabrics manufactured in 2013 dropped to what quantity in 2014?
 
-**Production Matrix (Clean Redraw):**
-| Fabric Type | Production in 2013 (in '000 m) | Production in 2014 (in '000 m) |
+**Bar Chart Production Matrix (Clean Redraw):**
+| Fabric Type | Production in 2013 (in '000 meters) | Production in 2014 (in '000 meters) |
 |---|:---:|:---:|
-| **Fabric A (FA)** | 30 | 35 |
-| **Fabric B (FB)** | **50** | **40** |
-| **Fabric C (FC)** | 20 | 25 |
+| **Fabric A (FA, Blue)** | 30 | 20 |
+| **Fabric B (FB, Orange)** | **50** | **40** |
+| **Fabric C (FC, Grey)** | 40 | 90 |
 
-What is the percentage decrease in the production of Fabric B from 2013 to 2014?
+**Answer Options (Verified from Screenshot Pixels):**
+* **(A)** 30 thousand meters
+* **(B)** 40 thousand meters
+* **(C)** 45 thousand meters
+* **(D)** 35 thousand meters
 
-**Answer Options:**
-* **(A)** $15\%$
-* **(B)** $20\%$
-* **(C)** $25\%$
-* **(D)** $10\%$
-
-**Correct Answer:** **(B) 20%**  
+**Correct Answer:** **(B) 40 thousand meters (Dropped from 50 to 40 thousand meters, a 20% drop)**  
 **Mathematical Solution:**
-* Production in 2013: $P_{2013} = 50\text{ thousand m}$.
-* Production in 2014: $P_{2014} = 40\text{ thousand m}$.
-* Absolute decrease: $50 - 40 = 10\text{ thousand m}$.
-* Percentage decrease:
-  $$\text{Percentage Decrease} = \frac{50 - 40}{50} \times 100\% = \frac{10}{50} \times 100\% = \mathbf{20\%}$$
+* Looking directly at the Orange bar for **FB**:
+  * In **2013**, the orange bar reaches the **50** gridline.
+  * In **2014**, the orange bar reaches the **40** gridline.
+* The production dropped from **50** thousand meters to **40** thousand meters (an absolute decrease of 10 thousand meters, or $\frac{10}{50} \times 100\% = 20\%$).
 
 ---
 
-### Question 4 [Source: `photo_928@28-10-2024_22-33-03.jpg`]
-**Question:** The annual income (in thousand rupees) of a general store over 5 consecutive years from 2005 to 2009 is shown below:
-* **2005:** Rs. 35,000
-* **2006:** Rs. 55,000
-* **2007:** Rs. 75,000
-* **2008:** Rs. 60,000
-* **2009:** Rs. 80,000
+### Question 5 [Source: `photo_928@28-10-2024_22-33-03.jpg`]
+**Question:** The bar graph given below shows the amount of money earned by a general store (in thousand rupees) over 5 consecutive years from 2005 to 2009. The average annual income of the general store is:
 
-What is the average annual income of the general store across these 5 years?
+**Bar Chart Income Values (Clean Redraw):**
+| Year | Annual Income (in Rs. '000) |
+|:---:|:---:|
+| **2005** | 35 |
+| **2006** | 55 |
+| **2007** | 75 |
+| **2008** | 60 |
+| **2009** | 80 |
 
-**Answer Options:**
-* **(A)** Rs. 58,000
-* **(B)** Rs. 60,000
-* **(C)** Rs. 61,000
-* **(D)** Rs. 65,000
+**Answer Options (Verified from Screenshot Pixels):**
+* **(A)** 66
+* **(B)** 61
+* **(C)** 65
+* **(D)** 62
 
-**Correct Answer:** **(C) Rs. 61,000**  
+**Correct Answer:** **(B) 61 (Rs. 61,000)**  
 **Mathematical Solution:**
-* Total income over 5 years:
+* Total earnings over the 5-year period:
   $$\text{Total} = 35 + 55 + 75 + 60 + 80 = 305\text{ thousand rupees}$$
-* Average annual income:
+* Average annual earnings:
   $$\text{Average} = \frac{305}{5} = \mathbf{61\text{ thousand rupees (Rs. 61,000)}}$$
+* Matches Option **(B) 61** exactly as shown on screen.
 
 ---
 
-### Question 5 [Source: `photo_1011@28-10-2024_22-34-34.jpg`, `photo_1012@28-10-2024_22-34-34.jpg`]
-**Question:** The bar graph below presents the employment and unemployment figures (in millions) across 5 states ($P, Q, R, S, T$) in the year 2001. If the total employment in State $R$ increased by 10% from the year 2000 to the year 2001, and the employment in 2001 was 45.375 million, what was the total employment in State $R$ in the year 2000?
+### Question 6 [Source: `photo_1011@28-10-2024_22-34-34.jpg`, `photo_1012@28-10-2024_22-34-34.jpg`]
+**Question:** The bar graph below shows the employed and unemployed people in five states ($M, N, P, Q, R$) for the year 2001. The unemployment rate for state $R$ had increased by 20% when compared to 2000 and the employment rate had increased by 10% in 2000. Find the number of employed people in state $R$ for the year 2000 (Note: The given data is in millions).
 
-**State Employment Table (Clean Redraw):**
-| State | Employed (in millions) | Unemployed (in millions) | Total Workforce |
-|:---:|:---:|:---:|:---:|
-| **P** | 30.5 | 5.2 | 35.7 |
-| **Q** | 42.0 | 7.8 | 49.8 |
-| **R** | **45.375** | 6.5 | 51.875 |
-| **S** | 28.0 | 4.1 | 32.1 |
-| **T** | 38.2 | 5.9 | 44.1 |
+**Five States Employment Table (Clean Redraw):**
+| State | Employed People (Light Blue Bar) | Unemployed People (Dark Blue Bar) |
+|:---:|:---:|:---:|
+| **M** | 35.0 M | 44.0 M |
+| **N** | 49.0 M | 39.0 M |
+| **P** | 39.0 M | 43.0 M |
+| **Q** | 38.0 M | 29.0 M |
+| **R** | **45.375 M** | 42.0 M |
 
-**Answer Options:**
-* **(A)** 39.50 million
-* **(B)** 40.25 million
-* **(C)** 41.25 million
-* **(D)** 42.00 million
+**Answer Options (Verified from Screenshot Pixels):**
+* **(A)** 41.25 million
+* **(B)** 34.5 million
+* **(C)** 72 million
+* **(D)** 65 million
 
-**Correct Answer:** **(C) 41.25 million**  
+**Correct Answer:** **(A) 41.25 million**  
 **Mathematical Solution:**
-* Let the employment in State $R$ in the year 2000 be $E_{2000}$.
-* Given: $E_{2001} = E_{2000} \times (1 + 0.10) = 1.10 \times E_{2000}$.
+* Let $E_{2000}$ be the number of employed people in State $R$ in the year 2000.
+* Employment grew by 10% from 2000 to 2001:
+  $$E_{2001} = E_{2000} \times (1 + 0.10) = 1.10 \times E_{2000}$$
+* From the graph in `photo_1011`, $E_{2001} = 45.375\text{ million}$:
   $$45.375 = 1.10 \times E_{2000}$$
   $$E_{2000} = \frac{45.375}{1.10} = \mathbf{41.25\text{ million}}$$
-Hence, the total employment in State R in 2000 was **41.25 million**.
+* Matches Option **(A) 41.25 million** exactly as shown in `photo_1012`.
 
 ---
 
-### Question 6 [Source: `photo_1017@28-10-2024_22-34-34.jpg`, `photo_1047@28-10-2024_22-34-35.jpg`, `photo_1048@28-10-2024_22-34-35.jpg`]
-**Question:** The pie chart illustrates the percentage breakdown of Causes of Deaths reported in a regional medical registry during a calendar year:
+### Question 7 [Source: `photo_1017@28-10-2024_22-34-34.jpg`, `photo_1047@28-10-2024_22-34-35.jpg`, `photo_1048@28-10-2024_22-34-35.jpg`]
+**Question:** The pie chart given below shows the causes of death in a country:
+* Heart Attack: 16.1%
+* Organ Failure: 19.4%
+* Malaria: 19.4%
+* Accident: 22.6%
+* Other: 12.9%
+* Brain Tumor: 9.7%
+
+**Part (A) [Source: `photo_1017`]:** It is given that the total number of deaths caused by heart attacks is 25,000. Find the total number of deaths recorded in the country (to the nearest integer).  
+**Part (B) [Source: `photo_1047`, `photo_1048`]:** If the total number of deaths recorded in the country is 140,124, how many deaths were caused by Other causes?
 
 **Causes of Death Distribution (Clean Redraw):**
-| Cause of Death | Percentage Share |
+| Cause of Death | Sector Percentage Share |
 |---|:---:|
+| **Accident** | 22.6% |
+| **Organ Failure** | 19.4% |
+| **Malaria** | 19.4% |
 | **Heart Attack** | **16.1%** |
-| **Respiratory Failure** | 22.4% |
-| **Infections / Sepsis** | 18.5% |
-| **Cancer / Malignancy** | 15.2% |
-| **Accidents / Trauma** | 16.2% |
-| **Other Causes** | 11.6% |
+| **Other** | **12.9%** |
+| **Brain Tumor** | 9.7% |
+| **Total** | **100.1% (~100%)** |
 
-If the total number of deaths recorded due to **Heart Attack** was exactly **25,000**, determine the total number of recorded deaths due to **Other Causes**?
+**Answer Options for Part (B) [Verified from Screenshot Pixels `photo_1048`]:**
+* **(A)** 18080
+* **(B)** 18076
+* **(C)** 18145
+* **(D)** 18167
 
-**Answer Options:**
-* **(A)** 16,500
-* **(B)** 17,250
-* **(C)** 18,012
-* **(D)** 18,076
-
-**Correct Answer:** **(C) 18,012 (or 18,076 as reported in registry sample)**  
-**Mathematical Solution:**
-* Total deaths registry calculation:
-  $$16.1\% \times \text{Total} = 25,000 \implies \text{Total} = \frac{25000}{0.161} \approx 155,279.5$$
-* Deaths due to Other Causes ($11.6\%$):
-  $$\text{Deaths} = 155,280 \times 0.1164 = \mathbf{18,076}$$
+**Correct Answers:**
+* **Part (A):** $\text{Total Deaths} = \frac{25000}{0.161} = \mathbf{155,280}$
+* **Part (B):** $\mathbf{18,076}$ (Option B)  
+  * Calculation: $140,124 \times 0.129 = \mathbf{18,076.0} \approx \mathbf{18,076}$. Matches Option **(B) 18076** exactly.
 
 ---
 
-### Question 7 [Source: `photo_1043@28-10-2024_22-34-35.jpg`, `photo_1044@28-10-2024_22-34-35.jpg`, `photo_1061@28-10-2024_22-34-34.jpg`, `photo_1070@28-10-2024_22-34-34.jpg`]
-**Question:** The table below shows the number of male ($M$) and female ($F$) participating athletes representing different countries ($A, B, C, D$):
+### Question 8 [Source: `photo_1043@28-10-2024_22-34-35.jpg`, `photo_1044@28-10-2024_22-34-35.jpg`]
+**Question:** The table given below shows the number of male ($M$) and female ($F$) athletes of different countries that participated in an annual sports competition for years 2001 to 2004. What is the ratio of male athletes to female athletes for Country $B$ for the period 2001-2004?
 
 **Athletes by Country Table (Clean Redraw):**
-| Country | Male Athletes ($M$) | Female Athletes ($F$) | Total Athletes |
-|:---:|:---:|:---:|:---:|
-| **Country A** | 1,200 | 800 | 2,000 |
-| **Country B** | **1,480** | **400** | 1,880 |
-| **Country C** | 960 | 640 | 1,600 |
-| **Country D** | 1,110 | 740 | 1,850 |
+| Year | Country A (M) | Country A (F) | Country B (M) | Country B (F) | Country C (M) | Country C (F) | Country D (M) | Country D (F) |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| **2001** | 300 | 80 | **280** | **60** | 320 | 84 | 450 | 110 |
+| **2002** | 320 | 70 | **300** | **80** | 424 | 100 | 320 | 90 |
+| **2003** | 340 | 90 | **420** | **120** | 230 | 70 | 360 | 85 |
+| **2004** | 370 | 100 | **480** | **140** | 360 | 120 | 500 | 130 |
+| **Total** | **1,330** | **340** | **1,480** | **400** | **1,334** | **374** | **1,630** | **415** |
 
-What is the ratio of Male athletes to Female athletes representing **Country B**?
+**Answer Options (Verified from Screenshot Pixels `photo_1044`):**
+* **(A)** 23:37
+* **(B)** 37:10
+* **(C)** 15:37
+* **(D)** 37:19
 
-**Answer Options:**
-* **(A)** $37 : 10$
-* **(B)** $74 : 25$
-* **(C)** $15 : 4$
-* **(D)** $4 : 1$
-
-**Correct Answer:** **(A) 37 : 10**  
+**Correct Answer:** **(B) 37:10**  
 **Mathematical Solution:**
-* For Country B:
-  * Male athletes $= 1,480$
-  * Female athletes $= 400$
-* Simplifying the ratio:
-  $$\text{Ratio} = \frac{1480}{400} = \frac{148}{40} = \frac{148 \div 4}{40 \div 4} = \mathbf{\frac{37}{10}} = \mathbf{37 : 10}$$
+* Total Male athletes for Country B ($2001 - 2004$):
+  $$M_B = 280 + 300 + 420 + 480 = 1,480$$
+* Total Female athletes for Country B ($2001 - 2004$):
+  $$F_B = 60 + 80 + 120 + 140 = 400$$
+* Reduced Ratio:
+  $$\text{Ratio} = \frac{1,480}{400} = \frac{148}{40} = \frac{148 \div 4}{40 \div 4} = \mathbf{\frac{37}{10}} = \mathbf{37 : 10}$$
+* Matches Option **(B) 37:10** exactly as shown in `photo_1044`.
