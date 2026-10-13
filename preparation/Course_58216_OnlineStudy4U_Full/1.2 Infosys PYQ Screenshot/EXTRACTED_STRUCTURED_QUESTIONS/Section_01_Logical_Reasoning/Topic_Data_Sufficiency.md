@@ -251,3 +251,144 @@ From Statement I: Total Sales $= 4000 \times \$100 = \$400,000$. Since product X
    $x + y < 0$ (negative).  
    Multiply the two inequalities: $(x - y)(x + y) < 0 \implies x^2 - y^2 < 0 \implies x^2 < y^2 \implies |x| < |y|$.  
    Proved definitively! Both statements together are sufficient.
+---
+
+### Question 13 [Source: `photo_992@28-10-2024_22-34-34.jpg`]
+**Question:** Four boys Pat, Ron, Roy, and Sam are standing in a queue. Who is the tallest among them?
+* **Statement (1):** Pat is taller than Ron and Roy.
+* **Statement (2):** Sam is taller than Pat.
+
+**Answer Options:**
+* **(A)** Statement (1) alone is sufficient
+* **(B)** Statement (2) alone is sufficient
+* **(C)** Both Statement (1) and Statement (2) together are sufficient
+* **(D)** Statements (1) and (2) together are not sufficient
+
+**Correct Answer:** **(C) Both Statement (1) and Statement (2) together are sufficient**  
+**Proof:**
+* From (1): $\text{Pat} > \text{Ron}$ and $\text{Pat} > \text{Roy}$. But Sam's height relative to Pat is unknown. Insufficient alone.
+* From (2): $\text{Sam} > \text{Pat}$. Heights of Ron and Roy are unknown. Insufficient alone.
+* Combining (1) and (2): $\text{Sam} > \text{Pat} > \{\text{Ron}, \text{Roy}\}$.
+* Therefore, Sam is strictly the tallest boy. Both statements together are sufficient.
+
+---
+
+### Question 14 [Source: `photo_993@28-10-2024_22-34-34.jpg`]
+**Question:** At what time did Abby arrive at the central bus station?
+* **Statement (1):** The scheduled bus departed at 8:15 AM sharp.
+* **Statement (2):** Abby arrived at the central bus station exactly 10 minutes before the departure of the scheduled bus.
+
+**Answer Options:**
+* **(A)** Statement (1) alone is sufficient
+* **(B)** Statement (2) alone is sufficient
+* **(C)** Both Statement (1) and Statement (2) together are sufficient
+* **(D)** Statements (1) and (2) together are not sufficient
+
+**Correct Answer:** **(C) Both Statement (1) and Statement (2) together are sufficient**  
+**Proof:**
+* From (1): Gives departure time ($T_{\text{dep}} = 8:15\text{ AM}$), but Abby's arrival offset is unknown.
+* From (2): Gives arrival offset ($T_{\text{arr}} = T_{\text{dep}} - 10\text{ minutes}$), but departure time is unknown.
+* Combining (1) and (2): $T_{\text{arr}} = 8:15\text{ AM} - 10\text{ minutes} = 8:05\text{ AM}$.
+* Both statements together are necessary and sufficient.
+
+---
+
+### Question 15 [Source: `photo_995@28-10-2024_22-34-34.jpg`]
+**Question:** In a substitution cipher language, what is the code for the word "purple"?
+* **Statement (1):** "blue strawberry sweet" is coded as "ki mo tu" and "purple sweet grape" is coded as "mo ze la".
+* **Statement (2):** "purple flower bloom" is coded as "ze ro pi".
+
+**Answer Options:**
+* **(A)** Statement (1) alone is sufficient
+* **(B)** Statement (2) alone is sufficient
+* **(C)** Both Statement (1) and Statement (2) together are sufficient
+* **(D)** Statements (1) and (2) together are not sufficient
+
+**Correct Answer:** **(C) Both Statement (1) and Statement (2) together are sufficient**  
+**Proof:**
+* From (1): Common word between the two phrases is "sweet", common code is "mo".
+  Thus, $\text{sweet} = \text{mo}$.
+  This leaves $\{\text{purple}, \text{grape}\} = \{\text{ze}, \text{la}\}$. The specific code for "purple" cannot be isolated between "ze" and "la". Insufficient alone.
+* From (2): "purple flower bloom" = "ze ro pi". "purple" could be any of the three. Insufficient alone.
+* Combining (1) and (2): The intersection of $\{\text{ze}, \text{la}\}$ and $\{\text{ze}, \text{ro}, \text{pi}\}$ is strictly **"ze"**.
+  Therefore, $\text{purple} = \mathbf{ze}$.
+* Both statements together are sufficient.
+
+---
+
+### Question 16 [Source: `photo_996@28-10-2024_22-34-34.jpg`]
+**Question:** What was John's exact age in completed years on 1st January 2020?
+* **Statement (1):** John was born in the month of September in the year 1995.
+* **Statement (2):** John's elder brother was 27 years old on 1st January 2020.
+
+**Answer Options:**
+* **(A)** Statement (1) alone is sufficient
+* **(B)** Statement (2) alone is sufficient
+* **(C)** Both Statement (1) and Statement (2) together are sufficient
+* **(D)** Statements (1) and (2) together are not sufficient
+
+**Correct Answer:** **(A) Statement (1) alone is sufficient**  
+**Proof:**
+* From (1): John was born in September 1995. On 1st January 2020, completed years $= 2019 - 1995 = 24\text{ years}$ (since his 24th birthday occurred in Sept 2019, and his 25th will occur in Sept 2020). His age in completed years is definitively **24 years**. Sufficient alone.
+* Statement (2) gives no information about the age difference between John and his brother. Insufficient alone.
+* Therefore, Statement (1) alone is sufficient.
+
+---
+
+### Question 17 [Source: `photo_1009@28-10-2024_22-34-34.jpg`]
+**Question:** Among five candidates (P, Q, R, S, T) who attended an interview sequentially, who was the third person to be interviewed?
+* **Statement (1):** Tania came immediately after Monica, but before Pam.
+* **Statement (2):** Exactly two people were interviewed before Monica, and Pam was the last person.
+
+**Answer Options:**
+* **(A)** Statement (1) alone is sufficient
+* **(B)** Statement (2) alone is sufficient
+* **(C)** Both Statement (1) and Statement (2) together are sufficient
+* **(D)** Statements (1) and (2) together are not sufficient
+
+**Correct Answer:** **(B) Statement (2) alone is sufficient**  
+**Proof:**
+* From (2): If exactly two people were interviewed before Monica, Monica is at position 3 (the third person).
+* Thus, Statement (2) alone directly answers the question without needing Statement (1).
+* Therefore, Statement (2) alone is sufficient.
+
+---
+
+### Question 18 [Source: `photo_1023@28-10-2024_22-34-34.jpg`]
+**Question:** Four players $A, B, C,$ and $D$ are playing a card game seated around a rectangular table. Who is the partner of player $A$? (Partners sit opposite to each other).
+* **Statement (1):** Player $B$ is sitting to the immediate right of player $A$ and is facing West.
+* **Statement (2):** Player $C$ is sitting opposite to player $B$ and is facing East.
+
+**Answer Options:**
+* **(A)** Statement (1) alone is sufficient
+* **(B)** Statement (2) alone is sufficient
+* **(C)** Both Statement (1) and Statement (2) together are sufficient
+* **(D)** Statements (1) and (2) together are not sufficient
+
+**Correct Answer:** **(C) Both Statement (1) and Statement (2) together are sufficient**  
+**Proof:**
+* In a 4-player card game, pairs of partners sit opposite each other: Partner($B$) = $C$, which implies Partner($A$) must be the remaining fourth player, **$D$**.
+* Statement (1) tells us $B$ is to $A$'s right, but does not identify $B$'s partner.
+* Statement (2) establishes that $C$ is opposite $B$, meaning $B$ and $C$ are partners.
+* Since $B$ and $C$ form one partner pair, $A$ and $D$ must form the other partner pair.
+* Therefore, combining (1) and (2) definitively proves that player **$D$** is the partner of player $A$. Both statements together are sufficient.
+
+---
+
+### Question 19 [Source: `photo_1052@28-10-2024_22-34-34.jpg`, `photo_1054@28-10-2024_22-34-34.jpg`]
+**Question:** Among three friends $P, Q,$ and $R$, who is the oldest?
+* **Statement (1):** The average age of $P$ and $Q$ is greater than the average age of $Q$ and $R$.
+* **Statement (2):** $Q$ is younger than $P$, and $R$ is younger than $Q$.
+
+**Answer Options:**
+* **(A)** Statement (1) alone is sufficient
+* **(B)** Statement (2) alone is sufficient
+* **(C)** Both Statement (1) and Statement (2) together are sufficient
+* **(D)** Neither Statement (1) nor (2) is sufficient
+
+**Correct Answer:** **(B) Statement (2) alone is sufficient**  
+**Proof:**
+* From (1): $\frac{P+Q}{2} > \frac{Q+R}{2} \implies P > R$. But the relation between $P$ and $Q$ or $Q$ and $R$ is not established. Insufficient alone.
+* From (2): $Q < P$ and $R < Q \implies P > Q > R$.
+* This strictly establishes that **$P$ is the oldest friend**.
+* Therefore, Statement (2) alone is sufficient.

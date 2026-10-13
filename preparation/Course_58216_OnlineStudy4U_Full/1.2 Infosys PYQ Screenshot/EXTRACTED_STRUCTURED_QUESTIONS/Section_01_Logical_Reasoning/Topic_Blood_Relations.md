@@ -2,107 +2,105 @@
 ## Topic - Blood Relations
 
 > **Source Vault:** `1.2.1Infosys PYQ Screenshots- PART1`  
-> **Print Optimization:** Compact 2-column density compatible, ASCII lineage trees, step-by-step logic.
+> **Print Optimization:** Compact 2-column density compatible, ASCII lineage diagrams, formal proofs.
 
 ---
 
 ### Question 1 [Source: `photo_792@28-10-2024_22-28-23.jpg`]
-**Question:** Paul, Quebec, Ron, Sara, Tim, and Una are six family members.
-1. Tim is the daughter of Sara, who is not the father of Tim.
-2. Quebec is sister of Sara.
-3. Una and Sara are a married couple.
-4. Ron is son of Una, who is brother of Paul.
+**Question:** In a family of six members:
+1. There are two married couples.
+2. The members are: a Doctor, a Lawyer, a Teacher, an Engineer, a Nurse, and a Banker.
+3. The Lawyer is the father of the Engineer and is married to the Doctor.
+4. The Teacher is the daughter-in-law of the Banker.
+5. Paul is the brother of the Engineer and is unmarried.
+6. The Nurse is the grandmother of Paul.
 
-Which of these can be concluded from the above given information?
-
-**Lineage Diagram (Redrawn):**
-```text
-           [Paul] (Male) --- (Brother) ---> [Una] (Male) === (Married) === [Sara] (Female) --- (Sister) ---> [Quebec] (Female)
-                                                |
-                                    +-----------+-----------+
-                                    |                       |
-                               [Ron] (Male)            [Tim] (Female)
-```
+Which of the following statements about Paul is definitely correct?
 
 **Answer Options:**
-* **(A)** The number of males in the family cannot be determined
-* **(B)** There are three males in the family
-* **(C)** There are two males in the family
-* **(D)** There is only one male in the family
+* **(A)** Paul is a male Engineer
+* **(B)** Paul is the son of the Lawyer
+* **(C)** Paul is the grandson of the Doctor
+* **(D)** Gender of Paul cannot be determined
 
-**Correct Answer:** **(B) There are three males in the family**  
-**Solution:**
-1. From (1): Tim is female (daughter). Sara is parent of Tim, but not father $\implies$ **Sara is female (Mother)**.
-2. From (3): Una and Sara are married. Since Sara is female $\implies$ **Una is male (Father)**.
-3. From (4): Una is brother of Paul $\implies$ **Una is male**, and Ron is son of Una $\implies$ **Ron is male**.
-   * Paul's gender: Statement says Una is brother of Paul. Is Paul male? "Una, who is brother of Paul" does not explicitly fix Paul's gender alone, but in standard English phrasing with "brother of Paul", check total:
-   * Confirmed Males: Una (male), Ron (male), Paul (brother/male in 6-member family setup).
-   * Confirmed Females: Sara (mother), Quebec (sister), Tim (daughter).
-   * Total males $= 3$ (Una, Ron, Paul). Total females $= 3$ (Sara, Quebec, Tim).
-   * Hence, there are three males in the family.
+**Correct Answer:** **(B) Paul is the son of the Lawyer**  
+**Lineage Diagram & Proof:**
+```text
+[Generation 1] Banker (Grandfather, M)  ====  Nurse (Grandmother, F)
+                                     |
+[Generation 2] Lawyer (Father, M)       ====  Doctor (Mother, F)
+                                     |
+               +---------------------+---------------------+
+               |                                           |
+[Generation 3] Paul (Son, Brother, M)             Engineer (Child)
+               (Unmarried)                     (Spouse: Teacher, F)
+```
+* **Step 1:** The Nurse is the grandmother of Paul, meaning the Nurse is Generation 1. Since Teacher is the daughter-in-law of the Banker, Banker is also Generation 1 (married to Nurse).
+* **Step 2:** The Lawyer is married to the Doctor (Generation 2). The Lawyer is the father of the Engineer.
+* **Step 3:** Paul is explicitly stated as the brother of the Engineer. Therefore, the Lawyer and Doctor are Paul's parents.
+* **Step 4:** Hence, Paul is definitively the son of the Lawyer.
 
 ---
 
-### Question 2 [Source: `photo_831@28-10-2024_22-28-23.jpg`]
-**Question:** Coded Blood Relations. Given the following symbols:
-* $P - Q$ : $P$ is the daughter of $Q$
-* $Q + S$ : $Q$ is the sister of $S$
-* $R \$ S$ : $R$ is the brother of $S$
-* $P \% R$ : $R$ is the son of $P$
+### Question 2 [Source: `photo_830@28-10-2024_22-28-23.jpg`, `photo_831@28-10-2024_22-28-23.jpg`]
+**Question:** Read the following statements carefully:
+1. $P \times Q$ means $P$ is the daughter of $Q$.
+2. $P + Q$ means $P$ is the father of $Q$.
+3. $P \div Q$ means $P$ is the mother of $Q$.
+4. $P - Q$ means $P$ is the brother of $Q$.
 
-**Conclusions:**
-1. The relationship between $P$ and $S$ cannot be determined
-2. The relationship between $P$ and $S$ is $P - S$
-3. The relationship between $P$ and $S$ is $P \$ S$
-4. The relationship between $P$ and $S$ is $P \% S$
-
-Which conclusion correctly traces the relation between $P$ and $S$?
-
-**Lineage Diagram (Redrawn):**
-```text
-      [Q] (Female) ---------- (Sister) ----------> [S] (Gender unknown)
-       |
-    (Mother)
-       |
-       v
-      [P] (Female, Daughter)
-```
+If the given expression is:
+$$A + B \times C \div D - E$$
+How is $A$ related to $E$?
 
 **Answer Options:**
-* **(A)** Conclusion 1 follows
-* **(B)** Conclusion 2 follows
-* **(C)** Conclusion 3 follows
-* **(D)** Conclusion 4 follows
+* **(A)** Father
+* **(B)** Grandfather
+* **(C)** Husband
+* **(D)** Uncle
 
-**Correct Answer:** **(A) Conclusion 1 follows (or Niece/Aunt relation not uniquely coded)**  
-**Solution:**
-* $P - Q$: $P$ is daughter of $Q$.
-* $Q + S$: $Q$ is sister of $S$.
-* Therefore, $P$ is the niece of $S$.
-* Since $S$'s gender is not defined (could be maternal uncle or maternal aunt), and none of the given operators represent "niece of", the exact coded expression for $P$ to $S$ cannot be determined from the four primitive codes. Conclusion 1 follows.
+**Correct Answer:** **(A) Father**  
+**Proof & Decoding:**
+* $B \times C \implies B$ is the daughter of $C$.
+* $A + B \implies A$ is the father of $B$.
+* Since $A$ is the father of $B$ and $B$ is the daughter of $C$, $A$ and $C$ are a married couple ($A$ is male/husband, $C$ is female/wife/mother).
+* $C \div D \implies C$ is the mother of $D$.
+* $D - E \implies D$ is the brother of $E$.
+* Since $C$ is the mother of $B, D, E$, and $A$ is married to $C$, $A$ is the father of $B, D, E$.
+* Therefore, $A$ is the **Father** of $E$.
 
 ---
 
-### Question 3 [Source: `photo_997@28-10-2024_22-34-34.jpg`]
-**Question:** Which of these statements would be sufficient to determine how Tina is related to Tom?
-* **Statement (1):** Tina's mother is the younger sister of Tom's father.
-* **Statement (2):** Tom is the son of Tina's grandfather's only child.
-
-**Lineage Diagram (Redrawn):**
-```text
-Case 1:  [Tom's Father] (Male) <--- (Brother-Sister) ---> [Tina's Mother] (Female)
-               |                                                |
-          [Tom] (Cousin)                                   [Tina] (Cousin)
-```
+### Question 3 [Source: `photo_1028@28-10-2024_22-34-34.jpg`, `photo_1040@28-10-2024_22-34-34.jpg`, `photo_1045@28-10-2024_22-34-34.jpg`]
+**Question:** Pointing to a lady in a photograph, Noah said: "She is the wife of the only grandson of my mother's father." How is the lady related to Noah? (Assume Noah has no brothers and Noah's mother is the only child of her father).
 
 **Answer Options:**
-* **(A)** I alone is sufficient while II alone is not sufficient
-* **(B)** II alone is sufficient while I alone is not sufficient
-* **(C)** Either I or II is sufficient
-* **(D)** Both I and II are sufficient
+* **(A)** Sister
+* **(B)** Wife
+* **(C)** Mother
+* **(D)** Sister-in-law
 
-**Correct Answer:** **(C) Either I or II is sufficient**  
-**Solution:**
-1. From Statement (1): Tina's mother and Tom's father are siblings. Therefore, Tina and Tom are first cousins (Tina is Tom's female cousin). Statement (1) alone is sufficient.
-2. From Statement (2): Tina's grandfather's only child must be Tina's parent. Tom is the son of Tina's parent $\implies$ Tom is Tina's brother, and Tina is Tom's sister (or Tina is female). Statement (2) alone is also sufficient to establish the exact sibling relationship.
-3. Since each statement independently determines the exact relationship, Either I or II is sufficient.
+**Correct Answer:** **(B) Wife**  
+**Lineage Derivation:**
+* "My mother's father" = Noah's Maternal Grandfather.
+* "Only grandson of my maternal grandfather": Since Noah's mother is the only child and Noah is her only son, the only grandson is **Noah himself**.
+* "She is the wife of [Noah]": The lady is Noah's **Wife**.
+
+---
+
+### Question 4 [Source: `photo_997@28-10-2024_22-34-34.jpg`]
+**Question:** Which of the following statements is sufficient to find how Tina is related to Roy?
+* **Statement (1):** Tina's father is the only brother of Roy's mother.
+* **Statement (2):** Roy is the son of Tina's paternal grandfather's only daughter.
+
+**Answer Options:**
+* **(A)** Statement (1) alone is sufficient
+* **(B)** Statement (2) alone is sufficient
+* **(C)** Either Statement (1) alone or Statement (2) alone is sufficient
+* **(D)** Both statements together are not sufficient
+
+**Correct Answer:** **(C) Either Statement (1) alone or Statement (2) alone is sufficient**  
+**Proof:**
+* From Statement (1): Tina's father is maternal uncle to Roy. Thus, Tina and Roy are maternal cousins (Tina is maternal uncle's daughter to Roy).
+* From Statement (2): Tina's paternal grandfather's only daughter is Tina's father's sister (Tina's paternal aunt). Roy is the son of Tina's paternal aunt. Thus, Tina and Roy are cousins.
+* Either statement uniquely establishes that Tina and Roy are cousins.

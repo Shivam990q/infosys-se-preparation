@@ -80,3 +80,104 @@
 **Correct Answer:** **(A) \frac{x + y}{xy}**  
 **Mathematical Solution:**
 $$\text{Sum of reciprocals} = \frac{1}{x} + \frac{1}{y} = \frac{y + x}{xy} = \frac{x + y}{xy}$$
+---
+
+### Question 5 [Source: `photo_1008@28-10-2024_22-34-34.jpg`, `photo_1082@28-10-2024_22-34-35.jpg`]
+**Question:** To travel from City X to City Y, a commuter is advised to take a train for 100 km at an average speed of 40 km/h, and then take a connecting bus for 50 km at an average speed of 50 km/h. Determine the total travel time required for the entire journey.
+
+**Answer Options:**
+* **(A)** 3.0 hours
+* **(B)** 3.5 hours
+* **(C)** 4.0 hours
+* **(D)** 4.5 hours
+
+**Correct Answer:** **(B) 3.5 hours**  
+**Mathematical Solution:**
+* **Train Travel Time ($T_1$):**
+  $$T_1 = \frac{\text{Distance}_1}{\text{Speed}_1} = \frac{100\text{ km}}{40\text{ km/h}} = 2.5\text{ hours}$$
+* **Bus Travel Time ($T_2$):**
+  $$T_2 = \frac{\text{Distance}_2}{\text{Speed}_2} = \frac{50\text{ km}}{50\text{ km/h}} = 1.0\text{ hour}$$
+* **Total Journey Time ($T_{\text{total}}$):**
+  $$T_{\text{total}} = T_1 + T_2 = 2.5 + 1.0 = \mathbf{3.5\text{ hours}}$$
+
+---
+
+### Question 6 [Source: `photo_1056@28-10-2024_22-34-34.jpg`, `photo_1063@28-10-2024_22-34-34.jpg`]
+**Question:** Bob is playing with two toy trains, Train A and Train B, on a 1000-meter straight conveyor belt track. Train A moves from left to right at a constant speed of 15 m/s, while Train B moves from right to left directly towards Train A at a constant speed of 10 m/s. Starting from opposite ends at the same instant, how long will it take for the two toy trains to collide?
+
+**Answer Options:**
+* **(A)** 30 seconds
+* **(B)** 40 seconds
+* **(C)** 50 seconds
+* **(D)** 60 seconds
+
+**Correct Answer:** **(B) 40 seconds**  
+**Mathematical Solution:**
+* Total initial separation: $D = 1000\text{ m}$.
+* Since both trains travel towards each other in opposite directions, their relative speed of approach is additive:
+  $$V_{\text{rel}} = V_A + V_B = 15\text{ m/s} + 10\text{ m/s} = 25\text{ m/s}$$
+* Time until collision ($T$):
+  $$T = \frac{D}{V_{\text{rel}}} = \frac{1000\text{ m}}{25\text{ m/s}} = \mathbf{40\text{ seconds}}$$
+
+---
+
+### Question 7 [Source: `photo_1030@28-10-2024_22-34-34.jpg`, `photo_1072@28-10-2024_22-34-34.jpg`]
+**Question:** Sam, Anna, and Noah work in a supermarket. Noah requires $T$ minutes to complete a stock audit alone. If Noah is given an additional assistant, his task completion time becomes $(T + 20)$ minutes under altered shift conditions, whereas working during peak rush hours extends his completion time to $(T + 60)$ minutes. The ratio of these two task durations is known to be $3 : 4$:
+$$\frac{T + 20}{T + 60} = \frac{3}{4}$$
+Determine the baseline duration $T$ in minutes.
+
+**Answer Options:**
+* **(A)** 80 minutes
+* **(B)** 90 minutes
+* **(C)** 100 minutes
+* **(D)** 120 minutes
+
+**Correct Answer:** **(C) 100 minutes**  
+**Mathematical Solution:**
+* Cross-multiplying the given rational ratio:
+  $$4(T + 20) = 3(T + 60)$$
+  $$4T + 80 = 3T + 180$$
+  $$4T - 3T = 180 - 80$$
+  $$T = \mathbf{100\text{ minutes}}$$
+Hence, the baseline duration is **100 minutes**.
+
+---
+
+### Question 8 [Source: `photo_925@28-10-2024_22-33-03.jpg`]
+**Question:** Andrew and Sam take 6 days and 8 days, respectively, to complete a software testing module individually. If they work together on the module, how many days will they take to finish it completely?
+
+**Answer Options:**
+* **(A)** $3\frac{3}{7}$ days
+* **(B)** $3\frac{1}{2}$ days
+* **(C)** $4$ days
+* **(D)** $4\frac{2}{7}$ days
+
+**Correct Answer:** **(A) $3\frac{3}{7}$ days**  
+**Mathematical Solution:**
+* Andrew's 1-day work rate: $R_A = \frac{1}{6}$.
+* Sam's 1-day work rate: $R_S = \frac{1}{8}$.
+* Combined 1-day work rate:
+  $$R_{\text{comb}} = \frac{1}{6} + \frac{1}{8} = \frac{4 + 3}{24} = \frac{7}{24}$$
+* Total time to complete:
+  $$T = \frac{1}{R_{\text{comb}}} = \frac{24}{7} = \mathbf{3\frac{3}{7}\text{ days}}$$
+
+---
+
+### Question 9 [Source: `photo_1053@28-10-2024_22-34-34.jpg`]
+**Question:** The present age of Joy is twice the present age of his younger sister Mia. Five years ago, the ratio of Joy's age to Mia's age was $3 : 1$. What is the present age of Joy?
+
+**Answer Options:**
+* **(A)** 15 years
+* **(B)** 20 years
+* **(C)** 25 years
+* **(D)** 30 years
+
+**Correct Answer:** **(B) 20 years**  
+**Mathematical Solution:**
+* Let Mia's present age be $M$. Then Joy's present age is $J = 2M$.
+* Five years ago: $(J - 5) / (M - 5) = 3 / 1$.
+* Substitute $J = 2M$:
+  $$\frac{2M - 5}{M - 5} = 3$$
+  $$2M - 5 = 3(M - 5) = 3M - 15$$
+  $$3M - 2M = 15 - 5 \implies M = 10\text{ years}$$
+* Joy's present age: $J = 2 \times 10 = \mathbf{20\text{ years}}$.

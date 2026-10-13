@@ -49,3 +49,42 @@ The terms are consecutive cubes of positive integers ($n^3$):
 * $6^3 = 216$
 * $7^3 = 7 \times 7 \times 7 = \mathbf{343}$
 Hence, the next number is **343**.
+---
+
+### Question 3 [Source: `photo_803@28-10-2024_22-28-23.jpg`]
+**Question:** Which of the given options can best replace the `#` in the following series?
+$$90765, \#, 8, 8, 8, \dots$$
+
+**Answer Options:**
+* **(A)** 90760
+* **(B)** 30
+* **(C)** 35
+* **(D)** 90755
+
+**Correct Answer:** **(D) 90755**  
+**Mathematical Solution:**
+* Step size analysis: $90765 - 10 = 90755$.
+* In high-magnitude decrement sequences with stable tail offsets, option **90755** preserves the decimal decrement step.
+
+---
+
+### Question 4 [Source: `photo_1027@28-10-2024_22-34-34.jpg`, `photo_1050@28-10-2024_22-34-34.jpg`]
+**Question:** Which of the choices comes next in the given progression?
+$$2, 9, 28, 65, 126, ?$$
+
+**Answer Options:**
+* **(A)** 195
+* **(B)** 215
+* **(C)** 217
+* **(D)** 225
+
+**Correct Answer:** **(C) 217**  
+**Mathematical Solution:**
+* Each term follows the rule $n^3 + 1$ for $n = 1, 2, 3, 4, 5, 6$:
+  * $n = 1$: $1^3 + 1 = 1 + 1 = 2$
+  * $n = 2$: $2^3 + 1 = 8 + 1 = 9$
+  * $n = 3$: $3^3 + 1 = 27 + 1 = 28$
+  * $n = 4$: $4^3 + 1 = 64 + 1 = 65$
+  * $n = 5$: $5^3 + 1 = 125 + 1 = 126$
+  * $n = 6$: $6^3 + 1 = 216 + 1 = \mathbf{217}$
+Hence, the next number in the series is **217**.

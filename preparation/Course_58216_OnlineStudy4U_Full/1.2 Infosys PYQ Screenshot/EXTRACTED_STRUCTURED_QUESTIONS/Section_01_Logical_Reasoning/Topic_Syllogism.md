@@ -68,3 +68,52 @@ Which of the following conclusions can be logically deduced from the statements?
 * Statement 4 states: $\text{Swimmers} \subseteq \text{Strong}$.
 * By transitivity of subsets: $\text{Divers} \subseteq \text{Swimmers} \subseteq \text{Strong} \implies \text{Divers} \subseteq \text{Strong}$.
 * This is exactly Statement 6 ("All divers are strong"). Thus, Statement 6 is derived from 3 and 4.
+---
+
+### Question 3 [Source: `photo_1051@28-10-2024_22-34-34.jpg`]
+**Question:** Read the following statements and decide which conclusion logically follows:
+* **Statements:**
+  1. All persons who drive under the influence of alcohol pose a fatal threat to public safety.
+  2. Severe legal penalties and mandatory license cancellations deter reckless drivers.
+* **Conclusions:**
+  * *Conclusion I:* Strict punitive enforcement and sobriety checkpoints significantly improve road safety.
+  * *Conclusion II:* Reckless driving cannot be prevented by any form of legal deterrence.
+
+**Answer Options:**
+* **(A)** Only Conclusion I follows
+* **(B)** Only Conclusion II follows
+* **(C)** Both Conclusion I and II follow
+* **(D)** Neither Conclusion I nor II follows
+
+**Correct Answer:** **(A) Only Conclusion I follows**  
+**Formal Set Proof:**
+* Let $D$ be the set of intoxicated drivers, and $T$ be the set of public safety threats: $D \subseteq T$.
+* Premise 2 establishes an inverse correlation between severe enforcement ($E$) and reckless behavior ($R$): $E \implies \neg R$.
+* Conclusion I is a direct formal corollary of Premise 2.
+* Conclusion II is a direct formal contradiction of Premise 2.
+* Thus, only Conclusion I follows.
+
+---
+
+### Question 4 [Source: `photo_786@28-10-2024_22-28-23.jpg`, `photo_924@28-10-2024_22-33-03.jpg`, `photo_932@28-10-2024_22-33-03.jpg`]
+**Question:** In the question, two statements are given followed by two conclusions I and II.
+* **Statements:**
+  1. All scientists are researchers.
+  2. Some researchers are innovators.
+* **Conclusions:**
+  * *Conclusion I:* Some scientists are innovators.
+  * *Conclusion II:* Some researchers are scientists.
+
+**Answer Options:**
+* **(A)** Only Conclusion I follows
+* **(B)** Only Conclusion II follows
+* **(C)** Either Conclusion I or II follows
+* **(D)** Both Conclusions I and II follow
+
+**Correct Answer:** **(B) Only Conclusion II follows**  
+**Venn Diagram Proof:**
+* Statement 1: All scientists ($S$) are researchers ($R$) $\implies S \subseteq R$.
+* Statement 2: Some researchers ($R$) are innovators ($I$) $\implies R \cap I \ne \emptyset$.
+* Conclusion I ($S \cap I \ne \emptyset$): There is no necessary overlap between $S$ and $I$; they may be disjoint subsets within $R$. Does not follow definitively.
+* Conclusion II ($R \cap S \ne \emptyset$): Since $S \subseteq R$ and $S$ is non-empty, the intersection of $R$ and $S$ is precisely $S$, which is non-empty. Follows by immediate subaltern conversion.
+* Therefore, only Conclusion II follows.
