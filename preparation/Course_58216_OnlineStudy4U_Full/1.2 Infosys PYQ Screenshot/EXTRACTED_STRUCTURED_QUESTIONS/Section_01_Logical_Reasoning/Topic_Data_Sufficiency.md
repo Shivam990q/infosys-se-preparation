@@ -392,3 +392,226 @@ From Statement I: Total Sales $= 4000 \times \$100 = \$400,000$. Since product X
 * From (2): $Q < P$ and $R < Q \implies P > Q > R$.
 * This strictly establishes that **$P$ is the oldest friend**.
 * Therefore, Statement (2) alone is sufficient.
+
+---
+
+### Question 20 [Source: `photo_1861@28-10-2024_22-49-55.jpg`, `photo_1862@28-10-2024_22-49-55.jpg`]
+**Question:** Who is the youngest among Rajesh, Anant, Pratik, and Tanmay?  
+* **Statement I:** Rajesh is older than Anant, who is younger than Pratik.
+* **Statement II:** Pratik is younger than Tanmay.
+
+**Answer Options:**
+* **(A)** Statement I alone is sufficient while Statement II alone is not sufficient
+* **(B)** Statement II alone is sufficient while Statement I alone is not sufficient
+* **(C)** Both statements I and II together are sufficient
+* **(D)** Neither statement I nor statement II is sufficient
+
+**Correct Answer:** **(C) Both statements I and II together are sufficient**  
+**Transitive Ordering Proof:**
+* **From Statement I:**
+  * Rajesh $>$ Anant
+  * Pratik $>$ Anant
+  * Anant is younger than both Rajesh and Pratik, but Tanmay's relative age is unstated. Statement I alone is insufficient.
+* **From Statement II:**
+  * Tanmay $>$ Pratik
+  * No information regarding Rajesh or Anant. Statement II alone is insufficient.
+* **Combining Statements I and II:**
+  * We have: $\text{Tanmay} > \text{Pratik} > \text{Anant}$ and $\text{Rajesh} > \text{Anant}$.
+  * In this strict partial order, Anant is strictly younger than Tanmay, Pratik, and Rajesh.
+  * Therefore, Anant is uniquely determined as the **youngest** among all four individuals.
+* Both statements I and II together are sufficient.
+
+---
+
+### Question 21 [Source: `photo_1871@28-10-2024_22-49-56.jpg`, `photo_1891@28-10-2024_22-49-56.jpg`]
+**Question:** What is the range of the rainfall distribution in the given month?  
+* **Statement I:** The maximum rainfall in the given month is recorded as 53 mm.
+* **Statement II:** The average rainfall in the given month is recorded as 50 mm.
+
+**Answer Options:**
+* **(A)** Statement I alone is sufficient
+* **(B)** Statement II alone is sufficient
+* **(C)** Both statements I and II together are sufficient
+* **(D)** Neither statement I nor statement II is sufficient, and even together they are not sufficient
+
+**Correct Answer:** **(D) Neither statement I nor statement II is sufficient**  
+**Mathematical Range Proof:**
+* **Definition of Statistical Range:**
+  $$\text{Range} = x_{\max} - x_{\min}$$
+* **Evaluation of Statement I:**
+  * Gives $x_{\max} = 53\text{ mm}$, but the minimum rainfall $x_{\min}$ is completely unknown. Insufficient.
+* **Evaluation of Statement II:**
+  * Gives the arithmetic mean $\bar{x} = 50\text{ mm}$. The mean provides no bound on $x_{\min}$ or $x_{\max}$. Insufficient.
+* **Evaluation of Combining Statements I and II:**
+  * Knowing that $x_{\max} = 53$ and $\bar{x} = 50$ allows infinitely many values for $x_{\min}$ (e.g., $x_{\min}$ could be 0 mm, 40 mm, or 47 mm depending on distribution across the 30 days).
+  * Hence, the exact range cannot be uniquely determined.
+
+---
+
+### Question 22 [Source: `photo_1872@28-10-2024_22-49-56.jpg`]
+**Question:** In which year was Raghav born?  
+* **Statement I:** Raghav's mother was 24 years old in the year 2000.
+* **Statement II:** Raghav's father was born in 1980 and is 25 years older than Raghav.
+
+**Answer Options:**
+* **(A)** Statement I alone is sufficient
+* **(B)** Both statements I and II together are sufficient
+* **(C)** Statement II alone is sufficient while Statement I alone is not sufficient
+* **(D)** Neither statement I nor statement II is sufficient
+
+**Correct Answer:** **(C) Statement II alone is sufficient while Statement I alone is not sufficient**  
+**Algebraic Proof:**
+* **Statement I:** Mother was 24 in 2000 $\implies$ Mother was born in $2000 - 24 = 1976$. However, no relationship between mother's birth year and Raghav's birth year is provided. Insufficient.
+* **Statement II:**
+  * Father was born in 1980.
+  * Father is 25 years older than Raghav $\implies \text{Year of Birth of Raghav} = 1980 + 25 = \mathbf{2005}$.
+  * Raghav's birth year is uniquely determined as 2005.
+* Therefore, Statement II alone is sufficient.
+
+---
+
+### Question 23 [Source: `photo_1880@28-10-2024_22-49-56.jpg`]
+**Question:** Egypt is towards which direction of Paris?  
+* **Statement I:** Paris is towards North of Canada.
+* **Statement II:** Canada is towards East of Egypt.
+
+**Answer Options:**
+* **(A)** Statement I alone is sufficient
+* **(B)** Both statements I and II together are sufficient
+* **(C)** Statement II alone is sufficient
+* **(D)** Neither statement is sufficient
+
+**Correct Answer:** **(B) Both statements I and II together are sufficient**  
+**Relative Vector Direction Proof:**
+* Let Egypt be at origin $(0, 0)$.
+* **Statement II:** Canada is East of Egypt $\implies \text{Canada} = (x_c, 0)$ where $x_c > 0$.
+* **Statement I:** Paris is North of Canada $\implies \text{Paris} = (x_c, y_p)$ where $y_p > 0$.
+* **Direction of Egypt from Paris:**
+  * Displacement vector from Paris to Egypt:
+    $$\vec{r}_{\text{Egypt} - \text{Paris}} = (0 - x_c)\hat{i} + (0 - y_p)\hat{j} = -x_c\hat{i} - y_p\hat{j}$$
+  * Since $-x_c < 0$ (West) and $-y_p < 0$ (South), Egypt lies definitively in the **South-West** direction of Paris.
+* Both statements together are necessary and sufficient.
+
+---
+
+### Question 24 [Source: `photo_1896@28-10-2024_22-49-56.jpg`]
+**Question:** What is the two-digit number if the unit's digit is greater than the ten's digit?  
+* **Statement I:** The difference between the digits is 4.
+* **Statement II:** The difference between the number and the number formed by interchanging the digits is 36.
+* **Statement III:** The average of the digit at unit's place and the digit at ten's place is 4.
+
+**Answer Options:**
+* **(A)** Only Statement I and II
+* **(B)** Statement III together with either Statement I or Statement II
+* **(C)** Statements I, II, and III together
+* **(D)** None of the statements are sufficient
+
+**Correct Answer:** **(B) Statement III together with either Statement I or Statement II**  
+**Mathematical Algebraic Derivation:**
+* Let the two-digit number be $N = 10t + u$, with $u > t$.
+* **Statement I:** $u - t = 4$.
+* **Statement II:**
+  $$(10u + t) - (10t + u) = 9(u - t) = 36 \implies u - t = 4$$
+  *(Note: Statement II is linearly dependent / redundant with Statement I).*
+* **Statement III:**
+  $$\frac{u + t}{2} = 4 \implies u + t = 8$$
+* **System Resolution:**
+  * Adding $(u - t = 4)$ and $(u + t = 8)$:
+    $$2u = 12 \implies u = 6$$
+    $$t = 8 - 6 = 2$$
+  * The number is uniquely determined as **26**.
+* Thus, Statement III combined with either Statement I or Statement II is sufficient.
+
+---
+
+### Question 25 [Source: `photo_1903@28-10-2024_22-49-56.jpg`]
+**Question:** What is the time by Sameer's watch?  
+* **Statement I:** After one hour, Sameer's watch will show the minute hand at 12 and the hour hand at 9.
+* **Statement II:** The smaller hand of Sameer's watch is between 8 and 9, and the longer hand is at 5.
+
+**Answer Options:**
+* **(A)** Either Statement I alone or Statement II alone is sufficient
+* **(B)** Statement I alone is sufficient
+* **(C)** Statement II alone is sufficient
+* **(D)** Both statements together are not sufficient
+
+**Correct Answer:** **(A) Either Statement I alone or Statement II alone is sufficient**  
+**Clock Geometry Proof:**
+* **Statement I:**
+  * After 1 hour, hour hand at 9 and minute hand at 12 corresponds to exactly 9:00.
+  * Therefore, present time $= 9:00 - 1\text{ hour} = \mathbf{8:00}$. This uniquely determines the time.
+* **Statement II:**
+  * Smaller hand (hour hand) between 8 and 9, and longer hand (minute hand) pointing at numeral 5 ($5 \times 5 = 25\text{ minutes}$).
+  * This corresponds to exactly $\mathbf{8:25}$. This also uniquely determines the time.
+* Since each statement independently establishes an unambiguous time on the watch, either statement alone is sufficient.
+
+---
+
+### Question 26 [Source: `photo_1907@28-10-2024_22-49-56.jpg`]
+**Question:** Which factory among A, B, C, D, and E has the least sales?  
+* **Statement I:** Sales of A was less than B but higher than C.
+* **Statement II:** Sales of D was higher than E but less than C.
+
+**Answer Options:**
+* **(A)** Statement I alone is sufficient
+* **(B)** Statement II alone is sufficient
+* **(C)** Both statements I and II together are sufficient
+* **(D)** Neither statement is sufficient
+
+**Correct Answer:** **(C) Both statements I and II together are sufficient**  
+**Chain Inequality Proof:**
+* **From Statement I:** $B > A > C$. (Factories D and E are missing; least could be C, D, or E).
+* **From Statement II:** $C > D > E$. (Factories A and B are missing).
+* **Combining Statements I and II:**
+  $$B > A > C > D > E$$
+* The chain completely ranks all 5 factories. Factory **E** has the strictly lowest sales.
+* Both statements together are sufficient.
+
+---
+
+### Question 27 [Source: `photo_1913@28-10-2024_22-49-56.jpg`]
+**Question:** How many students are there in the class?  
+* **Statement I:** Seema's rank is 15th from the top and 17th from the bottom in the class.
+* **Statement II:** There are 8 students between Seema and Rohan.
+
+**Answer Options:**
+* **(A)** Statement I alone is sufficient while Statement II alone is not sufficient
+* **(B)** Statement II alone is sufficient
+* **(C)** Both statements I and II together are sufficient
+* **(D)** Neither statement is sufficient
+
+**Correct Answer:** **(A) Statement I alone is sufficient while Statement II alone is not sufficient**  
+**Ranking Formula Proof:**
+* **Statement I:**
+  $$\text{Total Students} = \text{Rank}_{\text{top}} + \text{Rank}_{\text{bottom}} - 1$$
+  $$\text{Total Students} = 15 + 17 - 1 = \mathbf{31}$$
+  * Statement I alone directly determines the total count.
+* **Statement II:** Gives relative gap between Seema and Rohan without total bounds or Rohan's absolute position. Insufficient.
+* Statement I alone is sufficient.
+
+---
+
+### Question 28 [Source: `photo_1920@28-10-2024_22-49-56.jpg`]
+**Question:** What is the speed of the boat in still water?  
+* **Statement I:** The boat covers a distance of 50 km downstream in 5 hours.
+* **Statement II:** The boat covers a distance of 25 km upstream in 5 hours.
+
+**Answer Options:**
+* **(A)** Statement I alone is sufficient
+* **(B)** Statement II alone is sufficient
+* **(C)** Both statements I and II together are sufficient
+* **(D)** Neither statement is sufficient
+
+**Correct Answer:** **(C) Both statements I and II together are sufficient**  
+**Hydrodynamic Rate Derivation:**
+* Let boat speed in still water be $u\text{ km/h}$ and stream speed be $v\text{ km/h}$.
+* **From Statement I:**
+  $$u + v = \frac{50}{5} = 10\text{ km/h}$$
+  *(One equation in two unknowns; insufficient).*
+* **From Statement II:**
+  $$u - v = \frac{25}{5} = 5\text{ km/h}$$
+  *(One equation in two unknowns; insufficient).*
+* **Combining Statements I and II:**
+  $$u = \frac{(u + v) + (u - v)}{2} = \frac{10 + 5}{2} = \mathbf{7.5\text{ km/h}}$$
+  $$v = \frac{(u + v) - (u - v)}{2} = \frac{10 - 5}{2} = 2.5\text{ km/h}$$
+* Both statements together are sufficient.

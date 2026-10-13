@@ -202,3 +202,68 @@ Which book is placed at the top-most position?
 * Position 2 is occupied by $C$ (consistent with Book $C$ below Book $D$).
 * The stack from Top to Bottom is: **D (1), C (2), B (3), A (4), E (5)**.
 * Therefore, Book **D** is at the top-most position.
+
+---
+
+### Question 7 [Source: `photo_1924@28-10-2024_22-49-56.jpg`]
+**Question:** Some people are sitting in a row facing North. Ranjan is at the 21st place from the left end and Dravid is at the 35th position from the right end. If they interchange their positions, Ranjan becomes 14th from the left end. How many people are there in the row?
+
+**Answer Options:**
+* **(A)** 48
+* **(B)** 55
+* **(C)** 56
+* **(D)** 49
+
+**Correct Answer:** **(A) 48**  
+**Linear Position Formula Proof:**
+```text
+  [Left End]                                                [Right End]
+  |---- (13 people) ----> [Dravid's Original Spot] <---- (34 people) ----|
+                          = 14th from Left
+                          = 35th from Right
+```
+* **Step 1:** When Ranjan and Dravid swap seats, Ranjan occupies Dravid's original chair.
+* **Step 2:** Dravid's original chair was explicitly the 35th position from the right end.
+* **Step 3:** The problem states that in this exact chair, Ranjan is now 14th from the left end.
+* **Step 4 (Total Row Count):**
+  $$\text{Total} = \text{Rank}_{\text{left}} + \text{Rank}_{\text{right}} - 1$$
+  $$\text{Total} = 14 + 35 - 1 = \mathbf{48}$$
+* Matches Option **(A) 48** with 100% precision.
+
+---
+
+### Question 8 [Source: `photo_1899@28-10-2024_22-49-56.jpg`, `photo_1919@28-10-2024_22-49-56.jpg`]
+**Question:** Five brothers Parag, Qazi, Raman, Sameer, and Tanveer travelled from School to five different destinations: Multiplex, Park, Hospital, Mall, and Museum, using five different modes of transport: Car, Bus, Train, Scooter, and Cycle.
+1. The person who travelled to Hospital did not travel by cycle.
+2. Raman went to Museum by Train.
+3. Qazi went to Park by Scooter.
+4. Tanveer travelled by Bus.
+5. Sameer travelled by Cycle.
+6. Parag went to either Multiplex or Hospital via Car.
+
+Where did **Sameer** travel to?
+
+**Answer Options:**
+* **(A)** Mall
+* **(B)** Multiplex
+* **(C)** Hospital
+* **(D)** Park
+
+**Correct Answer:** **(A) Mall**  
+**Deduction Grid & Elimination Matrix:**
+| Person | Transport Mode | Assigned Destination | Deduction Rule & Rationale |
+|:---|:---:|:---:|:---|
+| **Raman** | **Train** | **Museum** | Directly given (Condition 2) |
+| **Qazi** | **Scooter** | **Park** | Directly given (Condition 3) |
+| **Parag** | **Car** | Multiplex / Hospital | Given: visits Multiplex or Hospital via Car |
+| **Tanveer** | **Bus** | Hospital / Multiplex | Takes remaining medical/entertainment hub |
+| **Sameer** | **Cycle** | **Mall** | **Cannot visit Hospital** (Condition 1); Mall is only slot left |
+
+* **Step 1:** The 5 destinations are Museum, Park, Multiplex, Hospital, and Mall.
+* **Step 2:** Museum is taken by Raman, and Park is taken by Qazi.
+* **Step 3:** The remaining 3 destinations are Multiplex, Hospital, and Mall.
+* **Step 4:** Condition 6 establishes that Parag visits either Multiplex or Hospital.
+* **Step 5:** Condition 1 states that the person visiting Hospital did NOT travel by cycle. Since Sameer travels by Cycle, Sameer cannot go to Hospital.
+* **Step 6:** Furthermore, Parag and Tanveer account for Multiplex and Hospital.
+* **Step 7:** The only remaining destination for Sameer is definitively the **Mall**.
+* Matches Option **(A) Mall** with 100% precision.

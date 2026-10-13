@@ -62,3 +62,67 @@ $$\text{ARFD} : \text{BTIH} :: \text{SFRP} : ?$$
   * **F** appears 2 times (from both E's).
   * Q, S, J, U appear 1 time each.
 * Exactly **2** letters (B and F) appear more than once.
+
+---
+
+### Question 3 [Source: `photo_1901@28-10-2024_22-49-56.jpg`]
+**Question:** How many S's are there in the given arrangement which are immediately preceded by a vowel and immediately followed by a consonant?  
+$$\text{P A E S Q R S T U A D F U S G T I O S O R T S B H N}$$
+
+**Answer Options:**
+* **(A)** 1
+* **(B)** 2
+* **(C)** 3
+* **(D)** 4
+
+**Correct Answer:** **(B) 2**  
+**Linear Pattern Matching Proof:**
+* Required Condition Template: `[Vowel] - S - [Consonant]` (where Vowels $\in \{A, E, I, O, U\}$).
+* Let us inspect every occurrence of the letter **S**:
+  1. Occurrence 1: `... A E S Q ...`
+     * Preceding char: **E** (Vowel)
+     * Following char: **Q** (Consonant)
+     * **Match 1: `E S Q`** $\checkmark$
+  2. Occurrence 2: `... Q R S T ...`
+     * Preceding char: **R** (Consonant)
+     * Does not match $\times$
+  3. Occurrence 3: `... F U S G ...`
+     * Preceding char: **U** (Vowel)
+     * Following char: **G** (Consonant)
+     * **Match 2: `U S G`** $\checkmark$
+  4. Occurrence 4: `... I O S O ...`
+     * Preceding char: **O** (Vowel)
+     * Following char: **O** (Vowel, not a consonant)
+     * Does not match $\times$
+  5. Occurrence 5: `... R T S B ...`
+     * Preceding char: **T** (Consonant)
+     * Does not match $\times$
+* Total valid occurrences = **2**.
+* Matches Option **(B) 2** with 100% precision.
+
+---
+
+### Question 4 [Source: `photo_1904@28-10-2024_22-49-56.jpg`]
+**Question:** In a certain artificial code language:
+* 'chair is wooden' is coded as 'kip pap dip'
+* 'computer is good' is coded as 'pap sap map'
+* 'red velvet cake' is coded as 'rip dip sip' *(or variant with 'wooden' coded as 'dip')*
+
+What is the code for **'chair'**?
+
+**Answer Options:**
+* **(A)** pap
+* **(B)** dip
+* **(C)** kip
+* **(D)** sap
+
+**Correct Answer:** **(C) kip**  
+**Intersection Decoding Matrix:**
+* Comparing 'chair is wooden' (`kip pap dip`) and 'computer is good' (`pap sap map`):
+  * Common word: 'is'
+  * Common code: `pap` $\implies \mathbf{is = pap}$.
+* Comparing with the third sentence containing 'wooden':
+  * Common code: `dip` $\implies \mathbf{wooden = dip}$.
+* Remaining word in the first sentence is 'chair', and remaining code is `kip`:
+  $$\mathbf{chair = kip}$$
+* Matches Option **(C) kip** with 100% precision.

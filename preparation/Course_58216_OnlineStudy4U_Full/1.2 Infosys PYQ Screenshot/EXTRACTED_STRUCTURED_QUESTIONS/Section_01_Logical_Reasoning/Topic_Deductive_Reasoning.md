@@ -124,3 +124,127 @@ Which of the following statements is logically equivalent (the contrapositive) t
 * Action I is a proportionate, lawful administrative corrective measure targeted specifically at violating units.
 * Action II is an extreme, irrational, disproportionate overreaction that causes widespread economic disruption across non-violating industries state-wide.
 * Therefore, only Course of Action I logically follows.
+
+---
+
+### Question 7 [Source: `photo_1867@28-10-2024_22-49-56.jpg`]
+**Question:** In the question below, a statement is given followed by two conclusions numbered I and II:  
+**Statement:** Simran failed in the Mathematics examination because she spends most of her time drawing sketches.  
+* **Conclusion I:** Simran will become a famous artist in the future.
+* **Conclusion II:** Simran should stop drawing sketches completely to pass Mathematics.
+
+**Answer Options:**
+* **(A)** Only Conclusion I follows
+* **(B)** Only Conclusion II follows
+* **(C)** Either Conclusion I or II follows
+* **(D)** Neither Conclusion I nor II follows
+
+**Correct Answer:** **(D) Neither Conclusion I nor II follows**  
+**Critical Reasoning Analysis:**
+* **Conclusion I:** Extrapolating a hobby of drawing sketches to becoming a "famous artist" in the future is an unwarranted speculative claim that cannot be logically deduced from the premise.
+* **Conclusion II:** Advocating that she should "completely stop" sketching is an extreme and disproportionate course of action; allocating balanced study time for Mathematics is sufficient without totally abandoning an artistic pursuit.
+* Therefore, neither conclusion logically follows.
+
+---
+
+### Question 8 [Source: `photo_1869@28-10-2024_22-49-56.jpg`, `photo_1870@28-10-2024_22-49-56.jpg`]
+**Question:** In the following question, a statement of inequalities is given followed by two conclusions:  
+**Statement:** $A \ge B = C > D \le E < F$  
+* **Conclusion I:** $A > D$
+* **Conclusion II:** $B \le E$
+
+**Answer Options:**
+* **(A)** Only Conclusion I follows
+* **(B)** Only Conclusion II follows
+* **(C)** Both Conclusion I and II follow
+* **(D)** Neither Conclusion I nor II follows
+
+**Correct Answer:** **(A) Only Conclusion I follows**  
+**Transitive Inequality Proof:**
+* **Evaluating Conclusion I ($A > D$):**
+  * From the statement: $A \ge B$, $B = C$, and $C > D$.
+  * Thus: $A \ge C > D \implies A > D$.
+  * Conclusion I is strictly and definitely true.
+* **Evaluating Conclusion II ($B \le E$):**
+  * Between $B$ and $E$, we have: $B = C > D \le E$.
+  * Notice the opposing relational operators: $>$ and $\le$.
+  * When inequality symbols face in opposite directions across intermediate terms, no definite comparative relationship between $B$ and $E$ can be inferred.
+  * Conclusion II does not follow.
+* Matches Option **(A)**.
+
+---
+
+### Question 9 [Source: `photo_1876@28-10-2024_22-49-56.jpg`, `photo_1885@28-10-2024_22-49-56.jpg`]
+**Question:** In the question, a statement is given, followed by two conclusions:  
+**Statement:** "Double your money in a month" — An advertisement.  
+* **Conclusion I:** The advertisement is assuring an unrealistic return to attract customers.
+* **Conclusion II:** People generally want their money to grow quickly.
+
+**Answer Options:**
+* **(A)** Only Conclusion I follows
+* **(B)** Only Conclusion II follows
+* **(C)** Both Conclusion I and II follow
+* **(D)** Neither follows
+
+**Correct Answer:** **(B) Only Conclusion II follows** *(Standard Exam Key)* / **(C)**  
+**Implicit Assumption & Deductive Analysis:**
+* Advertisers craft slogans directly targeting consumer desires. Slogans promising "double money" are formulated on the premise that people want rapid capital growth. Hence, Conclusion II directly explains why such an appeal is made and follows logically.
+* While Conclusion I is practically true in financial reality, formal deductive rules treat advertisements as persuasive commercial appeals where consumer aspiration (Conclusion II) is the primary valid deduction.
+
+---
+
+### Question 10 [Source: `photo_1882@28-10-2024_22-49-56.jpg`, `photo_1914@28-10-2024_22-49-56.jpg`]
+**Question:** In the question below, a statement is followed by two courses of action:  
+**Statement:** There will be a water supply cut by at least 50% in Bharadwaj Society on the upcoming weekend due to scheduled maintenance work in the main municipal pipelines.  
+* **Course of Action I:** Residents of Bharadwaj Society should store sufficient water prior to the weekend to manage daily essential needs.
+* **Course of Action II:** Residents should immediately vacate the society and purchase new flats in other localities.
+
+**Answer Options:**
+* **(A)** Only Course of Action I follows
+* **(B)** Only Course of Action II follows
+* **(C)** Either I or II follows
+* **(D)** Neither follows
+
+**Correct Answer:** **(A) Only Course of Action I follows**  
+**Policy Evaluation:**
+* **Action I:** Practical, proportionate, and directly mitigates the temporary disruption announced by the municipal body.
+* **Action II:** Absurd and extreme overreaction to a routine 2-day scheduled maintenance cut.
+* Matches Option **(A)**.
+
+---
+
+### Question 11 [Source: `photo_1886@28-10-2024_22-49-56.jpg`]
+**Question:** Eligibility criteria for admission to B.Tech at BITS Pilani:
+1. Must have scored at least 85% in Class 10th.
+2. Must have scored at least 90% in Class 12th.
+3. Must have scored at least 90% in JEE Main.
+4. Must not be more than 24 years of age as of 01-08-2021.
+* **Exception Clause (A):** If a candidate fulfills all other criteria except (3), but has scored above 95% in BITSAT, the case is to be **referred to the Principal**.
+* **Exception Clause (B):** If a candidate fulfills all other criteria except (2), but has state-level sports honors, the case is to be **referred to the Dean**.
+
+**Candidate Profile:**  
+Subham was born on 12-04-1998. He scored:
+* Class 10th: 91%
+* Class 12th: 97%
+* JEE Main: 86%
+* BITSAT: 96%
+
+What decision should be taken regarding Subham?
+
+**Answer Options:**
+* **(A)** He should be admitted directly
+* **(B)** He should not be admitted
+* **(C)** Case should be referred to the Principal
+* **(D)** Data is inadequate
+
+**Correct Answer:** **(C) Case should be referred to the Principal**  
+**Criterion Verification Matrix:**
+* Criterion 1 (10th $\ge 85\%$): $91\% \ge 85\%$ $\implies$ **Satisfied**.
+* Criterion 2 (12th $\ge 90\%$): $97\% \ge 90\%$ $\implies$ **Satisfied**.
+* Criterion 3 (JEE Main $\ge 90\%$): $86\% < 90\%$ $\implies$ **Not Satisfied** (Deficiency triggered).
+* Criterion 4 (Age $\le 24$ as of 01-08-2021): Born 12-04-1998 $\implies$ Age $\approx 23$ years $\le 24$ $\implies$ **Satisfied**.
+* **Exception Evaluation:**
+  * Subham satisfies (1), (2), and (4), but fails (3).
+  * His BITSAT score is $96\% > 95\%$.
+  * According to Exception Clause (A), his case must be **referred to the Principal**.
+* Matches Option **(C)**.

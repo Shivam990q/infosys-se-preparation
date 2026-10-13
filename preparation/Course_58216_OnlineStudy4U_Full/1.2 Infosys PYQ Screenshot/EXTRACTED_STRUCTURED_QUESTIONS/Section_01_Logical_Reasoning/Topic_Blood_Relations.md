@@ -104,3 +104,41 @@ How is $A$ related to $E$?
 * From Statement (1): Tina's father is maternal uncle to Roy. Thus, Tina and Roy are maternal cousins (Tina is maternal uncle's daughter to Roy).
 * From Statement (2): Tina's paternal grandfather's only daughter is Tina's father's sister (Tina's paternal aunt). Roy is the son of Tina's paternal aunt. Thus, Tina and Roy are cousins.
 * Either statement uniquely establishes that Tina and Roy are cousins.
+
+---
+
+### Question 5 [Source: `photo_1931@28-10-2024_22-49-56.jpg`]
+**Question:** Read the following information carefully to answer the given question:  
+In a coded family relationship system:
+* $X\ \#\ Y$ means '$X$ is the father of $Y$'
+* $X\ \$\ Y$ means '$X$ is the mother of $Y$'
+* $X\ \%\ Y$ means '$X$ is the son of $Y$'
+* $X\ @\ Y$ means '$X$ is the daughter of $Y$'
+
+Which of the following expressions indicates that **$N$ is the son-in-law of $M$**?
+
+**Answer Options:**
+* **(A)** $N\ @\ P\ @\ O\ \$\ M$
+* **(B)** $M\ \#\ P\ \$\ O\ \%\ N$
+* **(C)** $O\ \$\ M\ \#\ N\ @\ P$
+* **(D)** $N\ \$\ P\ \$\ O\ @\ M$
+
+**Correct Answer:** **(B) $M\ \#\ P\ \$\ O\ \%\ N$**  
+**Lineage Diagram & Formal Symbolic Proof:**
+```text
+[Generation 1] M (Father, M)
+               |
+[Generation 2] P (Mother, F)  ======  N (Father / Husband, M)
+                             |
+[Generation 3]               O (Son, M)
+```
+* **Step 1 (Decoding Relationships):**
+  * $M\ \#\ P \implies M$ is the father of $P$ ($P$ is $M$'s child).
+  * $P\ \$\ O \implies P$ is the mother of $O$ ($O$ is $P$'s child).
+  * $O\ \%\ N \implies O$ is the son of $N$ ($N$ is a parent of $O$).
+* **Step 2 (Parentage Synthesis):**
+  * Since $P$ is the female parent (mother) of $O$, and $N$ is also a parent of $O$, $N$ must be the male parent (father) of $O$.
+  * Therefore, $N$ is married to $P$ ($P$ is $N$'s wife).
+* **Step 3 (Son-in-law Verification):**
+  * Since $M$ is the father of $P$, and $N$ is the husband of $P$, $N$ is definitively the **son-in-law** of $M$.
+  * Matches Option **(B)** with 100% precision.

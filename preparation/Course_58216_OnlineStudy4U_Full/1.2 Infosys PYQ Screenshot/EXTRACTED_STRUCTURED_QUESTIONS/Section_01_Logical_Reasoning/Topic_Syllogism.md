@@ -117,3 +117,114 @@ Which of the following conclusions can be logically deduced from the statements?
 * Conclusion I ($S \cap I \ne \emptyset$): There is no necessary overlap between $S$ and $I$; they may be disjoint subsets within $R$. Does not follow definitively.
 * Conclusion II ($R \cap S \ne \emptyset$): Since $S \subseteq R$ and $S$ is non-empty, the intersection of $R$ and $S$ is precisely $S$, which is non-empty. Follows by immediate subaltern conversion.
 * Therefore, only Conclusion II follows.
+
+---
+
+### Question 5 [Source: `photo_1866@28-10-2024_22-49-56.jpg`]
+**Question:** If the given statement is true:  
+**Statement:** Some bikes are scooters.  
+Then which of the following conclusions are valid / possible? *(Select the valid possibilities/deductions)*
+1. No scooter is a bike
+2. All scooters are bikes
+3. Some scooters are not bikes
+4. Some scooters are bikes
+
+**Answer Analysis & Deductive Proof:**
+* **Venn Representation:**
+  The intersection set $\text{Bikes} \cap \text{Scooters} \neq \emptyset$.
+* **Definite Conclusion:**
+  * Statement 4 ("Some scooters are bikes") is the valid immediate converse of "Some bikes are scooters".
+* **Possible Scenarios:**
+  * Statement 2 ("All scooters are bikes") is possible (Scooters $\subseteq$ Bikes).
+  * Statement 3 ("Some scooters are not bikes") is possible.
+  * Statement 1 ("No scooter is a bike") is strictly FALSE and contradictory.
+* **Valid Deductions/Possibilities:** **2, 3, and 4**.
+
+---
+
+### Question 6 [Source: `photo_1873@28-10-2024_22-49-56.jpg`]
+**Question:** In this question, four statements have been given followed by conclusions:  
+**Statements:**
+1. No pavement is a footpath.
+2. Some footpaths are wells.
+3. All wells are gardens.
+4. All gardens are beautiful.  
+**Conclusions:**
+* **I.** Some gardens are footpaths.
+* **II.** Some beautiful are wells.
+* **III.** No pavement is a well.
+
+**Correct Answer:** **Conclusions I and II definitely follow**  
+**Venn Diagram Proof:**
+```text
+  [ Pavements ]   (Disjoint)   [ Footpaths ] <--(Intersection)--> [ Wells ]
+                                                                       |
+                                                                (Subset of)
+                                                                       v
+                                                                 [ Gardens ]
+                                                                       |
+                                                                (Subset of)
+                                                                       v
+                                                                [ Beautiful ]
+```
+* **Conclusion I:** Footpaths intersect Wells, and Wells $\subseteq$ Gardens. Hence, the intersection Footpaths $\cap$ Gardens is non-empty. **Conclusion I follows**.
+* **Conclusion II:** Wells $\subseteq$ Gardens $\subseteq$ Beautiful. Since Wells is a non-empty subset of Beautiful, Some beautiful are wells. **Conclusion II follows**.
+* **Conclusion III:** Pavement is disjoint from Footpath, but Pavement could potentially intersect the non-footpath region of Wells. Hence, "No pavement is a well" is not definitely true.
+
+---
+
+### Question 7 [Source: `photo_1884@28-10-2024_22-49-56.jpg`]
+**Question:** In this question, four statements are given followed by conclusions:  
+**Statements:**
+1. All jackets are hoodies.
+2. No hoodie is a pullover.
+3. Some pullovers are coats.
+4. All coats are jerseys.  
+**Conclusions:**
+* **I.** No jacket is a pullover.
+* **II.** Some jerseys are pullovers.
+
+**Correct Answer:** **Both Conclusions I and II follow**  
+**Venn Subset Proof:**
+* **Conclusion I:**
+  * Jackets $\subseteq$ Hoodies.
+  * Hoodies $\cap$ Pullovers $= \emptyset$.
+  * Since Jackets is completely inside Hoodies, Jackets can have no intersection with Pullovers.
+  * Therefore, "No jacket is a pullover" definitely follows.
+* **Conclusion II:**
+  * Some pullovers are coats $\implies \text{Pullovers} \cap \text{Coats} \neq \emptyset$.
+  * Coats $\subseteq$ Jerseys.
+  * Therefore, Pullovers intersects Jerseys $\implies$ "Some jerseys are pullovers" definitely follows.
+
+---
+
+### Question 8 [Source: `photo_1893@28-10-2024_22-49-56.jpg`]
+**Question:** Statements:  
+1. Some spiders are lizards.
+2. Some lizards are mice.
+3. No mouse is a cat.
+4. All cats are dogs.  
+**Conclusions:**
+* **I.** Some dogs are cats.
+* **II.** No cat is a lizard.
+
+**Correct Answer:** **Only Conclusion I follows**  
+**Set Theoretic Proof:**
+* **Conclusion I:** Cats $\subseteq$ Dogs. Since Cats is non-empty, the intersection Dogs $\cap$ Cats is non-empty. Therefore, "Some dogs are cats" definitely follows.
+* **Conclusion II:** Cats is disjoint from Mice, but Cats can overlap with the non-mouse region of Lizards. Therefore, "No cat is a lizard" is not definitely guaranteed.
+
+---
+
+### Question 9 [Source: `photo_1926@28-10-2024_22-49-56.jpg`]
+**Question:** Statements:  
+1. All pillows are cushions.
+2. Some cushions are quilts.
+3. All quilts are bedsheets.  
+**Conclusions:**
+* **I.** Some bedsheets are cushions.
+* **II.** Some pillows are quilts.
+
+**Correct Answer:** **Only Conclusion I follows**  
+**Set Theoretic Proof:**
+* **Conclusion I:** Cushions intersects Quilts, and Quilts $\subseteq$ Bedsheets. Therefore, Cushions intersects Bedsheets $\implies$ "Some bedsheets are cushions" definitely follows.
+* **Conclusion II:** Pillows $\subseteq$ Cushions, and Cushions intersects Quilts. However, the intersection of Cushions and Quilts need not overlap with Pillows. Therefore, "Some pillows are quilts" does not definitely follow.
