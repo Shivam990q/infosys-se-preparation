@@ -1,0 +1,1659 @@
+# 🏛️ ONLINESTUDY4U (COURSE 58216) - COMPLETE HIERARCHICAL DIRECTORY TREE
+
+> **Course Name:** INFOSYS CRACKER COURSE Based on Latest New Pattern + LIVE CLASS
+> **Platform:** OnlineStudy4U (Org 78392 / Classplus)
+> **Total Catalog Assets:** 1,642 | **Folders:** 54 | **Documents & Screenshots:** 1,186 | **Mock Tests:** 23 | **Videos:** 379
+
+---
+
+- 🎥 **[VIDEO]** **Infosys 04/10/2025 Asked Question** | Duration: `00:20:43` | ID: `135462427` | [Local Thumbnail](Video_Thumbnails/video_135462427.png)
+- 🎥 **[VIDEO]** **Important Topics for Exam + 16 October Questions** | Duration: `00:10:57` | ID: `136868999` | [Local Thumbnail](Video_Thumbnails/video_136868999.png)
+- 🎥 **[VIDEO]** **Infosys 11/10/2025 Asked Questions** | Duration: `00:24:27` | ID: `135913461` | [Local Thumbnail](Video_Thumbnails/video_135913461.png)
+- 🎥 **[VIDEO]** **INFOSYS TOP 50 QUESTIONS PYQ** | Duration: `01:36:43` | ID: `134512499` | [Local Thumbnail](Video_Thumbnails/video_134512499.png)
+- 📄 **[DOCUMENT/PDF]** [INFOSYS TOP 50 QUESTIONS PYQ.pdf](https://cdn-wl-assets.classplus.co/production/78392/81364442-ea24-4c8b-87c0-99dba3aaf2c5.pdf) `[ID: 68672493]`
+- 📄 **[DOCUMENT/PDF]** [ESSAYLINK.pdf](https://cdn-wl-assets.classplus.co/production/78392/9a911033-0ff9-49a9-a5da-a071ecb8c4cc.pdf) `[ID: 96242552]`
+- 🎥 **[VIDEO]** **Infosys 20_02_2022 PSEUDO Code Question_ 3 PM Slot 1 Complete Analysis_ Most Important Questions** | Duration: `00:20:10` | ID: `17747405` | [Local Thumbnail](Video_Thumbnails/video_17747405.png)
+- 🎥 **[VIDEO]** **Infosys 20.02.2022 Aptitude & Reasoning** | Duration: `00:20:54` | ID: `18478352` | [Local Thumbnail](Video_Thumbnails/video_18478352.png)
+* 📁 **Infosys October 2026 Based Questions** `[Folder ID: 58444257]`
+  - 🎥 **[VIDEO]** **Infosys 2027 Exam Analysis** | Duration: `00:13:02` | ID: `179369074` | [Local Thumbnail](Video_Thumbnails/video_179369074.png)
+  * 📁 **Pseudo Code Bases on October Exam** `[Folder ID: 58444484]`
+    - 🎥 **[VIDEO]** **InfyDOwhilePseudo** | Duration: `00:20:47` | ID: `179371371` | [Local Thumbnail](Video_Thumbnails/video_179371371.png)
+    - 📄 **[DOCUMENT/PDF]** [InfyDOwhilepseudo.pdf](https://cdn-wl-assets.classplus.co/production/78392/0d71d7a6-3bf9-49f6-915c-df707093adc9.pdf) `[ID: 96665697]`
+    - 🎥 **[VIDEO]** **InfyXORPseudo** | Duration: `00:20:23` | ID: `179565041` | [Local Thumbnail](Video_Thumbnails/video_179565041.png)
+    - 📄 **[DOCUMENT/PDF]** [InfyXORPseudo.pdf](https://cdn-wl-assets.classplus.co/production/78392/7b61ca7a-6341-430e-a078-37b11db6a1db.pdf) `[ID: 96665699]`
+    - 🎥 **[VIDEO]** **InfyMODPseudo** | Duration: `00:19:50` | ID: `179565042` | [Local Thumbnail](Video_Thumbnails/video_179565042.png)
+    - 📄 **[DOCUMENT/PDF]** [InfyModPseudo.pdf](https://cdn-wl-assets.classplus.co/production/78392/dbba3886-c58a-4426-acce-5afb035c7d62.pdf) `[ID: 96665700]`
+    - 🎥 **[VIDEO]** **InfyStringPseudo** | Duration: `00:21:23` | ID: `179565043` | [Local Thumbnail](Video_Thumbnails/video_179565043.png)
+    - 📄 **[DOCUMENT/PDF]** [InfyStringsPseudo.pdf](https://cdn-wl-assets.classplus.co/production/78392/bf8330d0-f9a4-4ff4-b5a1-80cb9947deae.pdf) `[ID: 96665698]`
+    - 🎥 **[VIDEO]** **InfyPrePostPseudo** | Duration: `00:25:43` | ID: `179565045` | [Local Thumbnail](Video_Thumbnails/video_179565045.png)
+    - 📄 **[DOCUMENT/PDF]** [InfyPrePostPseudo.pdf](https://cdn-wl-assets.classplus.co/production/78392/0bfb835a-99de-49f6-9b2a-0bc9cf0f339e.pdf) `[ID: 96665696]`
+* 📁 **Infosys PYQ Screenshots- 26/09/2025** `[Folder ID: 57850239]`
+  - 📄 **[DOCUMENT/PDF]** [Infosys all slots questions from 2 groups - Part 1.pdf](https://cdn-wl-assets.classplus.co/production/78392/a129db6f-2e85-4117-bf72-45e7564f0825.pdf) `[ID: 95436382]`
+  - 📄 **[DOCUMENT/PDF]** [Infosys all slots questions from 2 groups - Part 2.pdf](https://cdn-wl-assets.classplus.co/production/78392/8ea06ed5-a074-4a53-80d1-54ebbc06c63b.pdf) `[ID: 95436383]`
+  - 📄 **[DOCUMENT/PDF]** [Infosys all slots questions from 2 groups - Part 3.pdf](https://cdn-wl-assets.classplus.co/production/78392/41eb88ac-e7ce-4eb9-9096-24ae6c772c24.pdf) `[ID: 95436384]`
+  - 📄 **[DOCUMENT/PDF]** [Infosys all slots questions from 2 groups - Part 4.pdf](https://cdn-wl-assets.classplus.co/production/78392/da643d4a-88c2-465d-8d68-597aca11821a.pdf) `[ID: 95436385]`
+  - 📄 **[DOCUMENT/PDF]** [Infosys images - Part 1.pdf](https://cdn-wl-assets.classplus.co/production/78392/6d0f032a-2b4b-4917-b427-248e5d1e1844.pdf) `[ID: 95436386]`
+  - 📄 **[DOCUMENT/PDF]** [Infosys images- Part 2.pdf](https://cdn-wl-assets.classplus.co/production/78392/0a9e7c83-e33c-490f-abaa-912145b56731.pdf) `[ID: 95436387]`
+* 📁 **Infosys Actual Questions 11 OCT 2025 Questions** `[Folder ID: 42443004]`
+  - 📄 **[DOCUMENT/JPEG]** [4c75602e-9c3c-43f6-8bca-19528e2760a8.jpg](https://cdn-wl-assets.classplus.co/production/78392/c0126bd6-d27a-4867-990e-a67224d6cf3f.jpeg) `[ID: 69346192]`
+  - 📄 **[DOCUMENT/JPEG]** [5d343714-54b0-4c45-90d7-df4bf0958fc0.jpg](https://cdn-wl-assets.classplus.co/production/78392/978a2e3e-962b-4610-b0a0-f6c88f73cb73.jpeg) `[ID: 69346193]`
+  - 📄 **[DOCUMENT/JPEG]** [9bf8dd40-6f20-4933-8185-9f24a4f624bb.jpg](https://cdn-wl-assets.classplus.co/production/78392/6ee4aaa7-5d10-4998-bcaa-1340a8c5bab0.jpeg) `[ID: 69346194]`
+  - 📄 **[DOCUMENT/JPEG]** [24a46df8-04a8-45d7-a7e7-ed3704fc13fd.jpg](https://cdn-wl-assets.classplus.co/production/78392/d83330d7-5273-4aae-af8c-51b9e02237ac.jpeg) `[ID: 69346195]`
+  - 📄 **[DOCUMENT/JPEG]** [35e2b57f-0152-453c-b0b3-a4aa14bb22c4.jpg](https://cdn-wl-assets.classplus.co/production/78392/a272dbe1-3128-49e5-acef-52beb087ad0c.jpeg) `[ID: 69346196]`
+  - 📄 **[DOCUMENT/JPEG]** [70f04555-bbb2-4abd-b6fe-b67e69239b15.jpg](https://cdn-wl-assets.classplus.co/production/78392/e89d43f8-d84d-4454-9602-70fafb3a7d54.jpeg) `[ID: 69346197]`
+  - 📄 **[DOCUMENT/JPEG]** [78c90181-a957-4388-a3f0-f676928345ea.jpg](https://cdn-wl-assets.classplus.co/production/78392/5f2f503b-bf25-4b5c-8ed7-5a862c1e1d3f.jpeg) `[ID: 69346198]`
+  - 📄 **[DOCUMENT/JPEG]** [133ef797-4e5c-4394-b70b-f3f0ba560d31.jpg](https://cdn-wl-assets.classplus.co/production/78392/0d13e892-d0f0-42d8-9149-0fdbcc964f9a.jpeg) `[ID: 69346199]`
+  - 📄 **[DOCUMENT/JPEG]** [712eca95-7a32-49c8-902d-096b7e41821c.jpg](https://cdn-wl-assets.classplus.co/production/78392/f146d0cf-e06d-4bbd-b73f-154f4eed34c3.jpeg) `[ID: 69346200]`
+  - 📄 **[DOCUMENT/JPEG]** [aae75e69-0132-4325-95df-81246cf7b963.jpg](https://cdn-wl-assets.classplus.co/production/78392/8995d555-9d93-4801-9f5e-3f9c3ac734f1.jpeg) `[ID: 69346201]`
+  - 📄 **[DOCUMENT/JPEG]** [d6a882ef-e926-4548-88b1-a2545164847a.jpg](https://cdn-wl-assets.classplus.co/production/78392/a1594c1b-298d-42fd-90bb-9f4236ace377.jpeg) `[ID: 69346202]`
+  - 📄 **[DOCUMENT/JPEG]** [dd297745-f2c5-4a02-b6f8-2fafbaf8a68b.jpg](https://cdn-wl-assets.classplus.co/production/78392/abdc4d98-7596-4b47-bad8-a27529e0df5b.jpeg) `[ID: 69346203]`
+  - 📄 **[DOCUMENT/JPEG]** [ddda2099-2522-4287-b86e-9052866f20f5.jpg](https://cdn-wl-assets.classplus.co/production/78392/0c2de443-5975-406f-96cb-eed96a136ffe.jpeg) `[ID: 69346204]`
+  - 📄 **[DOCUMENT/JPEG]** [ef7d52d0-561f-43a1-a15d-c939fa0fd55a.jpg](https://cdn-wl-assets.classplus.co/production/78392/d9242764-9e58-414b-ab55-fde0f11913b1.jpeg) `[ID: 69346205]`
+  - 📄 **[DOCUMENT/JPEG]** [fc8cc0a1-a807-4f9d-aa3f-6826abf6f2d9.jpg](https://cdn-wl-assets.classplus.co/production/78392/d08de57c-a699-42bd-ace5-660882ae5166.jpeg) `[ID: 69346206]`
+* 📁 **1.1 Introduction to Course+How to Start+Syllabus** `[Folder ID: 32674224]`
+  - 🎥 **[VIDEO]** **How to Access Course on Laptop & Mobile.** | Duration: `00:07:59` | ID: `106674460` | [Local Thumbnail](Video_Thumbnails/video_106674460.png)
+  - 📄 **[DOCUMENT/PDF]** [Infosys Recruitment Process for Fresher.pdf](https://cdn-wl-assets.classplus.co/production/78392/fbff0a3f-d2e1-4f67-b8bf-3f34dfd482e2.pdf) `[ID: 50925042]`
+* 📁 **1.2 Infosys PYQ Screenshot** `[Folder ID: 41822992]`
+  - 📄 **[DOCUMENT/PDF]** [1.2.3 Infosys Puzzles Questions .pdf](https://cdn-wl-assets.classplus.co/production/78392/ec83de9a-b8fc-4525-857b-b99ed490195c.pdf) `[ID: 68211235]`
+  * 📁 **Latest Infosys PYQ Clear PHOTO** `[Folder ID: 41962686]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_125009_448.jpg](https://cdn-wl-assets.classplus.co/production/78392/8bf974ac-35c6-48dd-a020-8e07382cbb1a.jpeg) `[ID: 68435940]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_125047_956.jpg](https://cdn-wl-assets.classplus.co/production/78392/71d6c1b7-60d3-4215-9417-33282549a88a.jpeg) `[ID: 68435953]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_125109_398.jpg](https://cdn-wl-assets.classplus.co/production/78392/a8f48abe-a650-44ef-aff5-8f94773b6694.jpeg) `[ID: 68435962]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_125133_034.jpg](https://cdn-wl-assets.classplus.co/production/78392/1cd7c555-d091-4683-b5c2-0aa86542447a.jpeg) `[ID: 68435963]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_125139_162.jpg](https://cdn-wl-assets.classplus.co/production/78392/355a308a-c03e-4915-af30-0d124450eb4a.jpeg) `[ID: 68435964]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_125143_018.jpg](https://cdn-wl-assets.classplus.co/production/78392/669333d4-e564-4705-99c6-87537fc7dd5f.jpeg) `[ID: 68435965]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_125146_377.jpg](https://cdn-wl-assets.classplus.co/production/78392/2530ddba-1b64-4640-b806-d72ca9bac1a8.jpeg) `[ID: 68435966]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_125148_800.jpg](https://cdn-wl-assets.classplus.co/production/78392/c592b513-cfb4-4ffe-9f96-532fa7c132d3.jpeg) `[ID: 68435967]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_125153_835.jpg](https://cdn-wl-assets.classplus.co/production/78392/a39c0258-7fe1-4ab2-beeb-3e6d2b704ecc.jpeg) `[ID: 68435968]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_125157_368.jpg](https://cdn-wl-assets.classplus.co/production/78392/b7827adb-1048-4726-a036-cd8e6279c3a4.jpeg) `[ID: 68435969]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_125200_586.jpg](https://cdn-wl-assets.classplus.co/production/78392/5c8981d1-28ee-4708-a013-dfbfd986d381.jpeg) `[ID: 68435970]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_125203_299.jpg](https://cdn-wl-assets.classplus.co/production/78392/be1090ea-a60b-4972-b8b9-9cb83e688d50.jpeg) `[ID: 68435971]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_125206_151.jpg](https://cdn-wl-assets.classplus.co/production/78392/5db168ea-e893-4084-97b9-a8c1220ecce8.jpeg) `[ID: 68435972]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_125207_959.jpg](https://cdn-wl-assets.classplus.co/production/78392/793d7129-f16f-4688-a669-b0fcd910698a.jpeg) `[ID: 68435973]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_125210_956.jpg](https://cdn-wl-assets.classplus.co/production/78392/8cfa6591-12ea-408b-a7dd-8d4ba233e1ca.jpeg) `[ID: 68435974]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_125223_954.jpg](https://cdn-wl-assets.classplus.co/production/78392/9b1402f2-7b2e-4cca-944c-0d42e213a349.jpeg) `[ID: 68435975]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_125232_522.jpg](https://cdn-wl-assets.classplus.co/production/78392/27743572-a22b-40cd-9d39-772c170b01cb.jpeg) `[ID: 68435976]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_125302_921.jpg](https://cdn-wl-assets.classplus.co/production/78392/e2029e3b-18dd-4328-8a32-e173ada8a501.jpeg) `[ID: 68435977]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_125306_058.jpg](https://cdn-wl-assets.classplus.co/production/78392/ca4f447b-f784-4790-bcf2-558085b5c221.jpeg) `[ID: 68435979]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_125308_047.jpg](https://cdn-wl-assets.classplus.co/production/78392/7ce796ff-c0f9-4774-a6d2-3cb270dfe6cd.jpeg) `[ID: 68435980]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_151544_601.jpg](https://cdn-wl-assets.classplus.co/production/78392/39c89552-79d6-4338-9452-53f95058cf6f.jpeg) `[ID: 68435981]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_151559_214.jpg](https://cdn-wl-assets.classplus.co/production/78392/d592f070-e0c5-435f-a165-2f160c661d69.jpeg) `[ID: 68435982]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_151610_391.jpg](https://cdn-wl-assets.classplus.co/production/78392/65d050d9-4767-48ae-82bc-ca0a4e4af797.jpeg) `[ID: 68435983]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_151622_197.jpg](https://cdn-wl-assets.classplus.co/production/78392/c2a109f1-74ec-4ffb-9ee0-07829c13a337.jpeg) `[ID: 68435984]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_151625_525.jpg](https://cdn-wl-assets.classplus.co/production/78392/c7a5c474-86ec-42ad-9883-595001fe9939.jpeg) `[ID: 68435985]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_151630_003.jpg](https://cdn-wl-assets.classplus.co/production/78392/33797f8a-2a1b-4740-807b-9d121f63c6af.jpeg) `[ID: 68435986]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_151636_371.jpg](https://cdn-wl-assets.classplus.co/production/78392/87e58a61-b97f-4a5b-bdb3-36b9ec178be3.jpeg) `[ID: 68435987]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_151639_653.jpg](https://cdn-wl-assets.classplus.co/production/78392/d27b7d6d-6e32-4198-8dae-6f70fec92572.jpeg) `[ID: 68435988]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_151642_250.jpg](https://cdn-wl-assets.classplus.co/production/78392/01f94998-a71a-4f22-b6da-d9838600250b.jpeg) `[ID: 68435989]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_151644_272.jpg](https://cdn-wl-assets.classplus.co/production/78392/26d90de0-b5fb-4bc0-9c48-c399060278db.jpeg) `[ID: 68435990]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_151646_734.jpg](https://cdn-wl-assets.classplus.co/production/78392/37f316b9-48b4-45d0-96b5-13b7f9ebd12b.jpeg) `[ID: 68435991]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_151648_926.jpg](https://cdn-wl-assets.classplus.co/production/78392/8236f0fa-d898-4a36-b8c8-a012c56b32d3.jpeg) `[ID: 68435992]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_151720_734.jpg](https://cdn-wl-assets.classplus.co/production/78392/c49ffb0c-d9da-4777-8722-e4e67157abbe.jpeg) `[ID: 68435993]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_151724_234.jpg](https://cdn-wl-assets.classplus.co/production/78392/462c599d-94f1-4255-9a99-2e88d1b42157.jpeg) `[ID: 68435994]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_151726_297.jpg](https://cdn-wl-assets.classplus.co/production/78392/ee2efd61-c396-438c-bdb1-a22714cc4435.jpeg) `[ID: 68435995]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_151729_852.jpg](https://cdn-wl-assets.classplus.co/production/78392/01fe6c7f-9907-4504-906b-b46ffbf3b9b3.jpeg) `[ID: 68435996]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_151731_297.jpg](https://cdn-wl-assets.classplus.co/production/78392/13fa713e-3425-439a-b1ea-f638160379a5.jpeg) `[ID: 68435997]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_151733_634.jpg](https://cdn-wl-assets.classplus.co/production/78392/e8c82571-d047-4862-8a85-cc30ac866379.jpeg) `[ID: 68435998]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_151736_683.jpg](https://cdn-wl-assets.classplus.co/production/78392/2fd30795-03b8-4629-951a-539d5510908e.jpeg) `[ID: 68435999]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_151739_238.jpg](https://cdn-wl-assets.classplus.co/production/78392/8b91593c-20d7-4a2a-8ca1-730a93104c84.jpeg) `[ID: 68436000]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_151744_309.jpg](https://cdn-wl-assets.classplus.co/production/78392/ae84bdea-6743-460e-b1e9-cf627e29c513.jpeg) `[ID: 68436002]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_151751_862.jpg](https://cdn-wl-assets.classplus.co/production/78392/6e07ce50-66e1-4547-9d57-08cff98eec3d.jpeg) `[ID: 68436003]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_151758_739.jpg](https://cdn-wl-assets.classplus.co/production/78392/4831cc53-cb8d-4277-8b72-745fb6478856.jpeg) `[ID: 68436004]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_151802_320.jpg](https://cdn-wl-assets.classplus.co/production/78392/c5a00884-ea5c-4122-8e10-5f1979e8d439.jpeg) `[ID: 68436005]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_151807_261.jpg](https://cdn-wl-assets.classplus.co/production/78392/50686fc3-1701-4c57-b3f9-d3ab47bc5a5e.jpeg) `[ID: 68436006]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_151810_558.jpg](https://cdn-wl-assets.classplus.co/production/78392/51e44cf1-a933-4daa-8fea-9f2adc67ee36.jpeg) `[ID: 68436007]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_151813_708.jpg](https://cdn-wl-assets.classplus.co/production/78392/45c78632-dbef-4129-a98f-94a7b4ca64ce.jpeg) `[ID: 68436008]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_151817_898.jpg](https://cdn-wl-assets.classplus.co/production/78392/c0ff1a54-b586-4807-9db5-26e5d7d7a9ba.jpeg) `[ID: 68436009]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_151820_220.jpg](https://cdn-wl-assets.classplus.co/production/78392/e2b02d1a-dd5b-4ecb-80ea-f772c5a3170a.jpeg) `[ID: 68436010]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_151822_554.jpg](https://cdn-wl-assets.classplus.co/production/78392/c788ca48-a707-4595-b653-7321919ce169.jpeg) `[ID: 68436011]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_151825_372.jpg](https://cdn-wl-assets.classplus.co/production/78392/53a8ee5a-de07-4145-b30f-dfa873da2ff6.jpeg) `[ID: 68436012]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_151827_106.jpg](https://cdn-wl-assets.classplus.co/production/78392/8d7009b0-4690-4c49-978f-51c9653cc7c2.jpeg) `[ID: 68436013]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_151828_713.jpg](https://cdn-wl-assets.classplus.co/production/78392/c22abcf3-d706-454e-928d-182029383213.jpeg) `[ID: 68436014]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_151830_686.jpg](https://cdn-wl-assets.classplus.co/production/78392/f458d0b4-9158-4993-8773-9eb2b470ef50.jpeg) `[ID: 68436015]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_151832_711.jpg](https://cdn-wl-assets.classplus.co/production/78392/e651ff4c-6154-4d53-bb06-903b7faf1851.jpeg) `[ID: 68436016]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_151835_224.jpg](https://cdn-wl-assets.classplus.co/production/78392/f3d90b5e-e62f-45d9-b158-9796faf5b665.jpeg) `[ID: 68436017]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_151838_666.jpg](https://cdn-wl-assets.classplus.co/production/78392/da61040d-0d24-4acc-9f8f-2699c7732396.jpeg) `[ID: 68436018]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_151844_116.jpg](https://cdn-wl-assets.classplus.co/production/78392/21ab9502-185c-4290-9812-2266464ad78f.jpeg) `[ID: 68436019]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_151848_901.jpg](https://cdn-wl-assets.classplus.co/production/78392/51fff4e6-36e5-4194-99fb-bc2e693feb07.jpeg) `[ID: 68436020]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_151853_103.jpg](https://cdn-wl-assets.classplus.co/production/78392/2e124ebe-2473-4390-b49f-08f416e10018.jpeg) `[ID: 68436021]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_151854_439.jpg](https://cdn-wl-assets.classplus.co/production/78392/296fb8a8-4280-443d-b0cb-0afe8a799172.jpeg) `[ID: 68436022]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_151856_761.jpg](https://cdn-wl-assets.classplus.co/production/78392/89b74048-d970-4243-a49f-7398d4ccee8b.jpeg) `[ID: 68436023]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_151859_173.jpg](https://cdn-wl-assets.classplus.co/production/78392/3dd107e2-1354-4ac4-a354-d45638eea7e7.jpeg) `[ID: 68436024]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_151900_829.jpg](https://cdn-wl-assets.classplus.co/production/78392/5ed2a75f-7246-4ada-9123-f0af2233c6f4.jpeg) `[ID: 68436025]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_151904_332.jpg](https://cdn-wl-assets.classplus.co/production/78392/89c8602e-fcc0-4260-b5f1-e05d61408a51.jpeg) `[ID: 68436026]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_151906_354.jpg](https://cdn-wl-assets.classplus.co/production/78392/a0f6ae39-109c-47ad-a079-6d92ed55ccb2.jpeg) `[ID: 68436027]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_151908_373.jpg](https://cdn-wl-assets.classplus.co/production/78392/02790ff8-f3de-4abe-a4e1-4a756f0c2bc4.jpeg) `[ID: 68436028]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_151910_260.jpg](https://cdn-wl-assets.classplus.co/production/78392/111f67a0-39be-4f4d-bdf2-53e6fa8e8b40.jpeg) `[ID: 68436029]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_151911_931.jpg](https://cdn-wl-assets.classplus.co/production/78392/20554cca-5425-4202-8b37-904a7f69104d.jpeg) `[ID: 68436030]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_151914_035.jpg](https://cdn-wl-assets.classplus.co/production/78392/653ce3b7-9be0-4d8b-8211-0cb519c970ae.jpeg) `[ID: 68436031]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_151916_096.jpg](https://cdn-wl-assets.classplus.co/production/78392/fc037fa3-b344-4452-b2d4-c8c2a69f3a4e.jpeg) `[ID: 68436032]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_151918_166.jpg](https://cdn-wl-assets.classplus.co/production/78392/c3755621-93e6-44fe-b71d-44e073578105.jpeg) `[ID: 68436033]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_151922_334.jpg](https://cdn-wl-assets.classplus.co/production/78392/0e81e26f-1a0b-4a61-9699-753f28bf509a.jpeg) `[ID: 68436034]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_151927_699.jpg](https://cdn-wl-assets.classplus.co/production/78392/38ce72da-604d-4247-8792-f51afe5f1182.jpeg) `[ID: 68436036]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_151929_160.jpg](https://cdn-wl-assets.classplus.co/production/78392/44f9eebc-d86f-40f4-9e41-5efac557e532.jpeg) `[ID: 68436037]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_151934_010.jpg](https://cdn-wl-assets.classplus.co/production/78392/d456c040-2246-44e2-8154-bf9aef39be5c.jpeg) `[ID: 68436038]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_151939_690.jpg](https://cdn-wl-assets.classplus.co/production/78392/74eaed94-3d17-4c59-aafb-db28ad462504.jpeg) `[ID: 68436039]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_151942_660.jpg](https://cdn-wl-assets.classplus.co/production/78392/375a4fdb-0979-4388-bcdf-0a10e399989f.jpeg) `[ID: 68436040]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_151945_469.jpg](https://cdn-wl-assets.classplus.co/production/78392/ff9c4b47-32c8-443c-b655-d5aefd37d538.jpeg) `[ID: 68436041]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_151949_008.jpg](https://cdn-wl-assets.classplus.co/production/78392/13ef030a-a773-4641-b757-2a67dad40247.jpeg) `[ID: 68436042]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_151952_106.jpg](https://cdn-wl-assets.classplus.co/production/78392/1ffb6c76-00b2-479d-ae42-8c6fdbd75236.jpeg) `[ID: 68436043]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_151956_585.jpg](https://cdn-wl-assets.classplus.co/production/78392/f582df7b-ae4d-4c43-9c42-7913516f4891.jpeg) `[ID: 68436044]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_152015_260.jpg](https://cdn-wl-assets.classplus.co/production/78392/b24fdd68-ff3b-4b30-8bb3-c562c5fd2689.jpeg) `[ID: 68436045]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_152017_070.jpg](https://cdn-wl-assets.classplus.co/production/78392/e92c6d1d-ee93-43e7-ac1d-fca0ddc79d65.jpeg) `[ID: 68436046]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_152019_945.jpg](https://cdn-wl-assets.classplus.co/production/78392/0f56a530-ffed-4f56-a814-774619514a60.jpeg) `[ID: 68436047]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_152023_219.jpg](https://cdn-wl-assets.classplus.co/production/78392/283e4a50-81b2-4025-b63f-04d54d7cb28b.jpeg) `[ID: 68436048]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_152026_057.jpg](https://cdn-wl-assets.classplus.co/production/78392/be355435-a5da-42e7-9a0b-a62b4e364ed8.jpeg) `[ID: 68436049]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_152034_902.jpg](https://cdn-wl-assets.classplus.co/production/78392/c3d3bc51-b50c-4ab2-b481-ebc8dbdf6d80.jpeg) `[ID: 68436050]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_152037_289.jpg](https://cdn-wl-assets.classplus.co/production/78392/884e464a-8510-48ad-8faa-309573a37ba6.jpeg) `[ID: 68436051]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_152039_882.jpg](https://cdn-wl-assets.classplus.co/production/78392/c6a4ea34-5ca8-4bf1-88ad-75cedefd3a75.jpeg) `[ID: 68436052]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_152041_754.jpg](https://cdn-wl-assets.classplus.co/production/78392/27b25b38-b8fe-4187-94d3-b35184765f36.jpeg) `[ID: 68436053]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_152043_522.jpg](https://cdn-wl-assets.classplus.co/production/78392/177a4511-b464-4672-a98f-aac81173c57d.jpeg) `[ID: 68436054]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_152045_204.jpg](https://cdn-wl-assets.classplus.co/production/78392/d8a518fd-7f98-43c5-80dd-1b29a1f211ce.jpeg) `[ID: 68436055]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_152047_277.jpg](https://cdn-wl-assets.classplus.co/production/78392/bffcd4b3-3af9-4b59-9b6d-4469333c2338.jpeg) `[ID: 68436056]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_152048_582.jpg](https://cdn-wl-assets.classplus.co/production/78392/4cf9e4cf-c5c0-468a-a961-b062fd25bf68.jpeg) `[ID: 68436057]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_152050_720.jpg](https://cdn-wl-assets.classplus.co/production/78392/23d777de-4727-4d4a-a363-b541b07de41a.jpeg) `[ID: 68436085]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_152053_757.jpg](https://cdn-wl-assets.classplus.co/production/78392/9938edc8-9b03-42fb-a93d-3f044e9f042a.jpeg) `[ID: 68436086]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_152057_871.jpg](https://cdn-wl-assets.classplus.co/production/78392/8df01201-c7fd-421a-8096-e4519b3ea0c4.jpeg) `[ID: 68436087]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_152103_133.jpg](https://cdn-wl-assets.classplus.co/production/78392/68d2b05c-ca54-4a9e-a7eb-3115e7bf6855.jpeg) `[ID: 68436088]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_152105_020.jpg](https://cdn-wl-assets.classplus.co/production/78392/276e095d-ab8d-4b04-88fb-9abe33665181.jpeg) `[ID: 68436089]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_152108_291.jpg](https://cdn-wl-assets.classplus.co/production/78392/486865e4-b033-4a6a-9da2-a8cb96ee446f.jpeg) `[ID: 68436090]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_152110_202.jpg](https://cdn-wl-assets.classplus.co/production/78392/dd1235c7-be80-4992-8449-52078953ee32.jpeg) `[ID: 68436091]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_152111_036.jpg](https://cdn-wl-assets.classplus.co/production/78392/ba04416f-1980-4ce7-8b52-61cefa00099d.jpeg) `[ID: 68436092]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_152113_327.jpg](https://cdn-wl-assets.classplus.co/production/78392/21ffa3ed-06f7-464a-b270-0653aaee917c.jpeg) `[ID: 68436093]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_152117_067.jpg](https://cdn-wl-assets.classplus.co/production/78392/9e93406f-6e52-4a87-ae78-4c2000465761.jpeg) `[ID: 68436094]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_152119_291.jpg](https://cdn-wl-assets.classplus.co/production/78392/55abfe1a-51e3-46d4-aa30-3855b8ac8509.jpeg) `[ID: 68436095]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_152121_571.jpg](https://cdn-wl-assets.classplus.co/production/78392/aecb1d9d-6bb9-40d1-94fe-091a737ed573.jpeg) `[ID: 68436097]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_152124_224.jpg](https://cdn-wl-assets.classplus.co/production/78392/3a354d3f-5818-46cd-8ff7-1582eabc5271.jpeg) `[ID: 68436098]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_152126_445.jpg](https://cdn-wl-assets.classplus.co/production/78392/77ccb835-bd1a-4628-8d35-e05944c5fe7a.jpeg) `[ID: 68436099]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_152128_660.jpg](https://cdn-wl-assets.classplus.co/production/78392/e20c432b-8369-4b3e-b91b-504e35e4c327.jpeg) `[ID: 68436100]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_152131_114.jpg](https://cdn-wl-assets.classplus.co/production/78392/65f98634-5d9e-4ebc-a824-daa50f3ea2c3.jpeg) `[ID: 68436101]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_152132_924.jpg](https://cdn-wl-assets.classplus.co/production/78392/bd43024f-3ac3-43bc-bc13-48ae93c82194.jpeg) `[ID: 68436102]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_152134_201.jpg](https://cdn-wl-assets.classplus.co/production/78392/d1ae7562-a491-40be-9cc7-253869b02f8f.jpeg) `[ID: 68436103]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_152135_884.jpg](https://cdn-wl-assets.classplus.co/production/78392/8fc11e79-e26b-4e06-86b4-e251390aefd3.jpeg) `[ID: 68436104]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_152137_521.jpg](https://cdn-wl-assets.classplus.co/production/78392/04aac198-fb51-46c6-9c4e-531f5f3ce2cd.jpeg) `[ID: 68436106]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_152139_753.jpg](https://cdn-wl-assets.classplus.co/production/78392/75e99c37-f483-4734-9d05-019a0682d1ee.jpeg) `[ID: 68436107]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_152140_868.jpg](https://cdn-wl-assets.classplus.co/production/78392/b8aa3448-859a-4988-9055-9b889290a293.jpeg) `[ID: 68436108]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_152143_618.jpg](https://cdn-wl-assets.classplus.co/production/78392/38fd92af-17ce-4e5b-b725-9ca946deb7c6.jpeg) `[ID: 68436109]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_152144_837.jpg](https://cdn-wl-assets.classplus.co/production/78392/459ba10e-3106-464f-b687-6bebcdd000ed.jpeg) `[ID: 68436110]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_152147_527.jpg](https://cdn-wl-assets.classplus.co/production/78392/1e321602-1a89-4baa-9351-21c2549de425.jpeg) `[ID: 68436111]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_152149_707.jpg](https://cdn-wl-assets.classplus.co/production/78392/19a8da59-0aba-4cf3-a767-75dbda7227c9.jpeg) `[ID: 68436112]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_152151_679.jpg](https://cdn-wl-assets.classplus.co/production/78392/01f33eec-9670-4d40-853c-748221ba30ae.jpeg) `[ID: 68436113]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_152153_817.jpg](https://cdn-wl-assets.classplus.co/production/78392/f2b2e4b9-dffb-464b-ba92-5092acc1090a.jpeg) `[ID: 68436114]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_152155_916.jpg](https://cdn-wl-assets.classplus.co/production/78392/510c6f97-1582-483b-a6e3-2d57172f5806.jpeg) `[ID: 68436115]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_152157_452.jpg](https://cdn-wl-assets.classplus.co/production/78392/07a65847-8189-4f1c-96cc-9d2743db281a.jpeg) `[ID: 68436116]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_152202_204.jpg](https://cdn-wl-assets.classplus.co/production/78392/406a1f43-611b-47e5-a75d-d1203a6eeea8.jpeg) `[ID: 68436117]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_152205_076.jpg](https://cdn-wl-assets.classplus.co/production/78392/f8d34724-6c4d-416b-910b-9cec0235ac0c.jpeg) `[ID: 68436118]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_152209_539.jpg](https://cdn-wl-assets.classplus.co/production/78392/d2d98d20-1020-4424-917e-4a553820a5fd.jpeg) `[ID: 68436119]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_152213_899.jpg](https://cdn-wl-assets.classplus.co/production/78392/f1395856-3c53-4a35-bf14-73c57b036360.jpeg) `[ID: 68436120]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_152216_183.jpg](https://cdn-wl-assets.classplus.co/production/78392/8e164578-f812-4702-bbe5-78a652740771.jpeg) `[ID: 68436121]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_152218_537.jpg](https://cdn-wl-assets.classplus.co/production/78392/76899778-e658-48a4-9c12-1c7a5a8b8b2b.jpeg) `[ID: 68436122]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_152222_353.jpg](https://cdn-wl-assets.classplus.co/production/78392/e6fb2ad6-4ed5-486c-acf2-fabaf65174a4.jpeg) `[ID: 68436123]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_152227_372.jpg](https://cdn-wl-assets.classplus.co/production/78392/0c61b176-f1a0-4d56-8193-9ac98ead480c.jpeg) `[ID: 68436124]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_152228_535.jpg](https://cdn-wl-assets.classplus.co/production/78392/2e229e96-e574-4564-938f-2cd46d971118.jpeg) `[ID: 68436125]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_153623_406.jpg](https://cdn-wl-assets.classplus.co/production/78392/f0dc4b7d-f300-4ae8-8e86-08e2e667d419.jpeg) `[ID: 68436126]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_153625_098.jpg](https://cdn-wl-assets.classplus.co/production/78392/6e07d627-7692-4fb5-83bc-f0f942c59875.jpeg) `[ID: 68436128]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_153638_378.jpg](https://cdn-wl-assets.classplus.co/production/78392/d55a9bdf-73f9-411d-97e3-7a3b34a45c5b.jpeg) `[ID: 68436129]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_153643_633.jpg](https://cdn-wl-assets.classplus.co/production/78392/cdf6004a-5e19-4fb0-a45e-a9914148fbf3.jpeg) `[ID: 68436130]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_153647_363.jpg](https://cdn-wl-assets.classplus.co/production/78392/6becd70a-8ba8-4f96-a10d-75210368c460.jpeg) `[ID: 68436131]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_153649_712.jpg](https://cdn-wl-assets.classplus.co/production/78392/c747f403-fadc-491b-bb9c-916b3e8872bc.jpeg) `[ID: 68436132]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_153653_626.jpg](https://cdn-wl-assets.classplus.co/production/78392/cf484f6b-2a60-4791-ba82-3f321c049864.jpeg) `[ID: 68436133]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_153657_275.jpg](https://cdn-wl-assets.classplus.co/production/78392/3e53b931-87cc-408b-ad6a-25a25e56d5e9.jpeg) `[ID: 68436134]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_153700_061.jpg](https://cdn-wl-assets.classplus.co/production/78392/3fa9974c-fba4-422a-ada7-551687c9a111.jpeg) `[ID: 68436135]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_153702_664.jpg](https://cdn-wl-assets.classplus.co/production/78392/da445e7c-67dd-4806-9aff-e989bc07d431.jpeg) `[ID: 68436136]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_153708_730.jpg](https://cdn-wl-assets.classplus.co/production/78392/5e1b4d91-03f9-47ea-9a06-6a0f643a475e.jpeg) `[ID: 68436137]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_153714_139.jpg](https://cdn-wl-assets.classplus.co/production/78392/4de98fd2-e699-488c-b407-634bd7cb4d1a.jpeg) `[ID: 68436138]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_153717_570.jpg](https://cdn-wl-assets.classplus.co/production/78392/efbd1f50-48db-48b4-8100-b48399bd929a.jpeg) `[ID: 68436139]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_153731_719.jpg](https://cdn-wl-assets.classplus.co/production/78392/6959ec2a-b88d-4222-bc9f-1a3494da6d28.jpeg) `[ID: 68436140]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_153740_743.jpg](https://cdn-wl-assets.classplus.co/production/78392/887c45c4-1cc7-4320-8709-58f3a5030a72.jpeg) `[ID: 68436141]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_153743_882.jpg](https://cdn-wl-assets.classplus.co/production/78392/1c67b73d-a8c3-45a6-b758-a0302091dd32.jpeg) `[ID: 68436142]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_153746_824.jpg](https://cdn-wl-assets.classplus.co/production/78392/e7fa6ff8-d3b2-4f88-b2ee-e9754cb1b0f7.jpeg) `[ID: 68436143]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_153750_151.jpg](https://cdn-wl-assets.classplus.co/production/78392/6ee6db07-fecc-449b-90a3-52f85468c2fc.jpeg) `[ID: 68436144]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_153751_595.jpg](https://cdn-wl-assets.classplus.co/production/78392/85e33219-70bf-4df8-b3f1-abf50f15fd1b.jpeg) `[ID: 68436145]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_153754_764.jpg](https://cdn-wl-assets.classplus.co/production/78392/f6d8a194-0c9a-4685-86c9-31b27929a1c4.jpeg) `[ID: 68436146]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_153757_037.jpg](https://cdn-wl-assets.classplus.co/production/78392/80f04155-c59e-439d-b997-4834372b8157.jpeg) `[ID: 68436147]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_153800_552.jpg](https://cdn-wl-assets.classplus.co/production/78392/26ad6ca0-78ad-44ff-b8de-1931e8b34281.jpeg) `[ID: 68436148]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_153802_114.jpg](https://cdn-wl-assets.classplus.co/production/78392/23188bcc-9434-4c30-a6be-660c0fe0959e.jpeg) `[ID: 68436150]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_153804_876.jpg](https://cdn-wl-assets.classplus.co/production/78392/b1995917-9f8c-45d7-ae3f-e41d0c6484d4.jpeg) `[ID: 68436151]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_153806_892.jpg](https://cdn-wl-assets.classplus.co/production/78392/872a90b1-611d-4a88-8927-55d1353d156f.jpeg) `[ID: 68436152]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_153809_749.jpg](https://cdn-wl-assets.classplus.co/production/78392/4f9f8791-0b24-44e6-a81a-af61b03c05dd.jpeg) `[ID: 68436153]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_153817_718.jpg](https://cdn-wl-assets.classplus.co/production/78392/8458a1f3-eefd-4b53-b142-81c7320f7aad.jpeg) `[ID: 68436154]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_153820_088.jpg](https://cdn-wl-assets.classplus.co/production/78392/38241de8-4cc5-4bd8-88a4-b642ded2976c.jpeg) `[ID: 68436155]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_153824_336.jpg](https://cdn-wl-assets.classplus.co/production/78392/a7fd8958-be71-4944-b1fd-fcbb46dc4cff.jpeg) `[ID: 68436156]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_153828_003.jpg](https://cdn-wl-assets.classplus.co/production/78392/2ed97916-4457-4781-931a-394c4587b642.jpeg) `[ID: 68436157]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_153832_522.jpg](https://cdn-wl-assets.classplus.co/production/78392/a9036661-1c40-4823-9eb3-e6b5b320cc1d.jpeg) `[ID: 68436158]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_153834_811.jpg](https://cdn-wl-assets.classplus.co/production/78392/ffd8b22c-0d16-41bd-a4f0-f12cb71e6d57.jpeg) `[ID: 68436159]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_153836_938.jpg](https://cdn-wl-assets.classplus.co/production/78392/aeb6ae53-bd89-4c82-9939-19e42003ca4d.jpeg) `[ID: 68436160]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_153841_072.jpg](https://cdn-wl-assets.classplus.co/production/78392/e57ab939-634b-4994-8c79-0f13ab228f15.jpeg) `[ID: 68436161]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_153847_312.jpg](https://cdn-wl-assets.classplus.co/production/78392/a4d23c64-9835-4589-9dca-073d3edcb59f.jpeg) `[ID: 68436162]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_153850_315.jpg](https://cdn-wl-assets.classplus.co/production/78392/0ebb7fe7-59b4-4822-90e4-bb9b01c4712a.jpeg) `[ID: 68436163]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_153900_624.jpg](https://cdn-wl-assets.classplus.co/production/78392/38b4eccd-f4d5-4789-8a5b-f9abed9b427a.jpeg) `[ID: 68436164]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_153903_251.jpg](https://cdn-wl-assets.classplus.co/production/78392/23ce55ad-407c-42f0-b19d-763615453ca1.jpeg) `[ID: 68436165]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_153905_064.jpg](https://cdn-wl-assets.classplus.co/production/78392/bfc2a0d0-911a-460e-8030-fa1a8adf48a2.jpeg) `[ID: 68436166]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_153907_673.jpg](https://cdn-wl-assets.classplus.co/production/78392/94954997-c335-4716-b130-4e6a829ec4a4.jpeg) `[ID: 68436167]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_153909_970.jpg](https://cdn-wl-assets.classplus.co/production/78392/052857c8-1619-4748-b9e1-7b16287f7105.jpeg) `[ID: 68436168]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_153913_766.jpg](https://cdn-wl-assets.classplus.co/production/78392/fcd2d459-7f94-4bf9-b97c-a5896f63b8af.jpeg) `[ID: 68436169]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_153920_556.jpg](https://cdn-wl-assets.classplus.co/production/78392/b72a816f-df32-415c-b992-e628ed372110.jpeg) `[ID: 68436170]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_153922_880.jpg](https://cdn-wl-assets.classplus.co/production/78392/3f23832f-ad0f-445f-8a18-3963e931a5d6.jpeg) `[ID: 68436171]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_153926_673.jpg](https://cdn-wl-assets.classplus.co/production/78392/879c4e4a-bce7-4ec9-8418-072672abcfd9.jpeg) `[ID: 68436172]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_153929_155.jpg](https://cdn-wl-assets.classplus.co/production/78392/17095c59-9fce-4e5f-841e-87be58e9a603.jpeg) `[ID: 68436173]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_153934_077.jpg](https://cdn-wl-assets.classplus.co/production/78392/60cd84ff-14b6-4d11-af9d-2e6c1bebe3f4.jpeg) `[ID: 68436174]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_153940_848.jpg](https://cdn-wl-assets.classplus.co/production/78392/b8c77788-03e8-41a2-bb37-1450833477f5.jpeg) `[ID: 68436175]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_153942_790.jpg](https://cdn-wl-assets.classplus.co/production/78392/19f4b761-5265-402b-aae4-41bbc88eea71.jpeg) `[ID: 68436176]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_153950_148.jpg](https://cdn-wl-assets.classplus.co/production/78392/467c6d06-1164-4ccf-a0e3-4b91ad615945.jpeg) `[ID: 68436177]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_153953_756.jpg](https://cdn-wl-assets.classplus.co/production/78392/99402a96-ddc2-48b6-8ab8-a0a8f738ab01.jpeg) `[ID: 68436178]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_153957_237.jpg](https://cdn-wl-assets.classplus.co/production/78392/8a7527cd-8e20-46dd-a26f-abda1d96be2b.jpeg) `[ID: 68436179]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_154010_297.jpg](https://cdn-wl-assets.classplus.co/production/78392/a7370284-3c03-4351-a517-571f0160f118.jpeg) `[ID: 68436180]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_154012_328.jpg](https://cdn-wl-assets.classplus.co/production/78392/2c19197e-8e1f-480a-b11f-f5443ccb0c24.jpeg) `[ID: 68436181]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_154507_309.jpg](https://cdn-wl-assets.classplus.co/production/78392/58d6505f-af18-4d8f-9c5d-808ea0a401d2.jpeg) `[ID: 68436182]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_154510_109.jpg](https://cdn-wl-assets.classplus.co/production/78392/c467f1ef-0b80-4125-a9ce-242f8daecd3d.jpeg) `[ID: 68436183]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_154611_371.jpg](https://cdn-wl-assets.classplus.co/production/78392/617db723-3a26-4667-9635-ac08eea6789a.jpeg) `[ID: 68436184]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_154615_635.jpg](https://cdn-wl-assets.classplus.co/production/78392/b2bb8c66-3234-48ab-a94d-b8eb11465a5c.jpeg) `[ID: 68436482]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_155045_378.jpg](https://cdn-wl-assets.classplus.co/production/78392/91bb921c-07df-4b5f-a9ca-d1803347d8be.jpeg) `[ID: 68436483]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_155055_697.jpg](https://cdn-wl-assets.classplus.co/production/78392/d7e86675-0af1-4631-ba4f-99e4439d0908.jpeg) `[ID: 68436484]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_155101_579.jpg](https://cdn-wl-assets.classplus.co/production/78392/f0f56059-e1bf-4056-baf7-17b970cb381a.jpeg) `[ID: 68436485]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_155104_082.jpg](https://cdn-wl-assets.classplus.co/production/78392/b92e63d3-39a2-4f57-b890-0c2689be9245.jpeg) `[ID: 68436486]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_155107_643.jpg](https://cdn-wl-assets.classplus.co/production/78392/3d711551-26eb-454d-a0b9-b8af9ee9a1fc.jpeg) `[ID: 68436487]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_155109_623.jpg](https://cdn-wl-assets.classplus.co/production/78392/6bc8c2a8-5a85-4275-b9d3-84f6a61be3e8.jpeg) `[ID: 68436488]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_155111_750.jpg](https://cdn-wl-assets.classplus.co/production/78392/55fca43d-d04d-4b75-bc0b-f96133fb411e.jpeg) `[ID: 68436489]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_155125_674.jpg](https://cdn-wl-assets.classplus.co/production/78392/b9a1ad4d-1a1a-471e-897e-54648b436a83.jpeg) `[ID: 68436490]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_155130_767.jpg](https://cdn-wl-assets.classplus.co/production/78392/cdb73436-1107-4f1c-86dd-c5d2c5310c38.jpeg) `[ID: 68436491]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_155147_380.jpg](https://cdn-wl-assets.classplus.co/production/78392/6103d77a-143a-4392-9d93-928830ca3769.jpeg) `[ID: 68436493]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_155157_511.jpg](https://cdn-wl-assets.classplus.co/production/78392/adb5b310-cd11-4cd8-ad28-b509a5ce0f18.jpeg) `[ID: 68436494]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_155201_429.jpg](https://cdn-wl-assets.classplus.co/production/78392/737fc7dc-daea-4a63-9e9e-4735ac69488e.jpeg) `[ID: 68436495]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_155216_434.jpg](https://cdn-wl-assets.classplus.co/production/78392/cdd82658-302a-4434-ae72-b17c4932a1cc.jpeg) `[ID: 68436496]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_155219_299.jpg](https://cdn-wl-assets.classplus.co/production/78392/6e5a532c-f34c-4c0d-aace-3a7224f96588.jpeg) `[ID: 68436497]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_155221_327.jpg](https://cdn-wl-assets.classplus.co/production/78392/0a75847e-756a-4ea0-8804-65ecfcad7ad0.jpeg) `[ID: 68436498]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_155225_709.jpg](https://cdn-wl-assets.classplus.co/production/78392/837a2e7c-1b21-49d6-b0a8-0f3da0d106c2.jpeg) `[ID: 68436499]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_155232_294.jpg](https://cdn-wl-assets.classplus.co/production/78392/eed537b1-0a16-469b-bc0f-8adbd66f5252.jpeg) `[ID: 68436500]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_155235_020.jpg](https://cdn-wl-assets.classplus.co/production/78392/122bb8ea-08f6-4360-acee-d55e13affb72.jpeg) `[ID: 68436501]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_155246_546.jpg](https://cdn-wl-assets.classplus.co/production/78392/36684ec2-d632-49ea-b28c-f640fb426c30.jpeg) `[ID: 68436502]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_155259_499.jpg](https://cdn-wl-assets.classplus.co/production/78392/e60957f8-987e-4004-b51b-135a34fedca1.jpeg) `[ID: 68436503]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_155302_792.jpg](https://cdn-wl-assets.classplus.co/production/78392/a0ab7a94-d7a6-4c8d-9743-46aef78229a4.jpeg) `[ID: 68436504]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_155309_881.jpg](https://cdn-wl-assets.classplus.co/production/78392/305e4352-9fab-42a1-ba88-d163f9b14e0e.jpeg) `[ID: 68436505]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_155312_085.jpg](https://cdn-wl-assets.classplus.co/production/78392/07df6b2f-3843-4ec5-a7c9-262e6bc794ab.jpeg) `[ID: 68436506]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_155316_842.jpg](https://cdn-wl-assets.classplus.co/production/78392/f0c9c245-587e-41db-965b-68abb69d883e.jpeg) `[ID: 68436507]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_155318_201.jpg](https://cdn-wl-assets.classplus.co/production/78392/9ffb8702-21cf-4176-a198-3acd761c6be6.jpeg) `[ID: 68436508]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_155320_156.jpg](https://cdn-wl-assets.classplus.co/production/78392/b564c17f-8bc0-4937-9537-3781e2713aae.jpeg) `[ID: 68436509]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_155322_519.jpg](https://cdn-wl-assets.classplus.co/production/78392/204af67c-e47c-4e1b-9dee-db2ebdb081c4.jpeg) `[ID: 68436510]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_155323_925.jpg](https://cdn-wl-assets.classplus.co/production/78392/38d3bcc8-a4ed-4f0f-ac29-d36015851cc7.jpeg) `[ID: 68436511]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_155329_442.jpg](https://cdn-wl-assets.classplus.co/production/78392/0712f645-336e-4db8-9779-83789ee18fa0.jpeg) `[ID: 68436512]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_155333_969.jpg](https://cdn-wl-assets.classplus.co/production/78392/32e1b10a-4ed0-493f-841c-879cc12c31be.jpeg) `[ID: 68436513]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_155336_020.jpg](https://cdn-wl-assets.classplus.co/production/78392/61bfb041-f8d4-47b4-8842-2b036a690b66.jpeg) `[ID: 68436514]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_155437_288.jpg](https://cdn-wl-assets.classplus.co/production/78392/c712e362-0864-4451-8c54-5878b7888487.jpeg) `[ID: 68436515]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_155440_562.jpg](https://cdn-wl-assets.classplus.co/production/78392/2e214e06-0a40-46a2-bac7-5f3e3da8da6c.jpeg) `[ID: 68436516]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_155442_637.jpg](https://cdn-wl-assets.classplus.co/production/78392/29d5a33a-c7b0-46ce-a204-e84357347452.jpeg) `[ID: 68436517]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_155452_821.jpg](https://cdn-wl-assets.classplus.co/production/78392/015eecd5-6fba-48d8-add5-0a87c4879502.jpeg) `[ID: 68436518]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_155458_163.jpg](https://cdn-wl-assets.classplus.co/production/78392/882093fd-7357-4b2c-aea8-79e28e8f9971.jpeg) `[ID: 68436519]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_155504_109.jpg](https://cdn-wl-assets.classplus.co/production/78392/83814400-2e54-4916-8b8c-48e274ff6fac.jpeg) `[ID: 68436520]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_155507_209.jpg](https://cdn-wl-assets.classplus.co/production/78392/5f8512f3-3ea2-4c6c-ba4e-462127cdb626.jpeg) `[ID: 68436521]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_155508_721.jpg](https://cdn-wl-assets.classplus.co/production/78392/d341b1af-8703-4521-9182-a58ed2191c04.jpeg) `[ID: 68436522]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_155511_931.jpg](https://cdn-wl-assets.classplus.co/production/78392/074bc388-27bc-4956-8602-0e50bcff1e35.jpeg) `[ID: 68436523]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_155516_506.jpg](https://cdn-wl-assets.classplus.co/production/78392/d5552fe9-e4d3-417d-821c-d1b60b6363f7.jpeg) `[ID: 68436524]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_155518_808.jpg](https://cdn-wl-assets.classplus.co/production/78392/b91906a5-43cf-4257-be44-9d640c2dcc83.jpeg) `[ID: 68436525]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_155521_133.jpg](https://cdn-wl-assets.classplus.co/production/78392/f239ad79-8aa5-47fa-a68a-e35271454ecc.jpeg) `[ID: 68436526]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_155526_106.jpg](https://cdn-wl-assets.classplus.co/production/78392/b494d5bd-2aef-4b9f-b863-8ee26bbe9cb8.jpeg) `[ID: 68436527]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_155528_561.jpg](https://cdn-wl-assets.classplus.co/production/78392/c978876a-3ef4-426b-bf6f-c0fee9984b2d.jpeg) `[ID: 68436528]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_155531_688.jpg](https://cdn-wl-assets.classplus.co/production/78392/a93f0a2d-7e34-4886-81e6-f215ddc6cf90.jpeg) `[ID: 68436529]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_155538_606.jpg](https://cdn-wl-assets.classplus.co/production/78392/acb039ee-c7c6-4a11-9df3-3b7ab9fd7ea2.jpeg) `[ID: 68436530]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_155542_060.jpg](https://cdn-wl-assets.classplus.co/production/78392/9ee4bb04-8338-437c-8c15-1289b8eed008.jpeg) `[ID: 68436531]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_155544_713.jpg](https://cdn-wl-assets.classplus.co/production/78392/5861d991-b849-4ba4-9a95-7b6dc1de09a2.jpeg) `[ID: 68436532]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_155548_309.jpg](https://cdn-wl-assets.classplus.co/production/78392/a448ef42-c223-4547-ae8f-08118a7c33ae.jpeg) `[ID: 68436533]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_155550_835.jpg](https://cdn-wl-assets.classplus.co/production/78392/947d17b7-1d0d-42a7-bd05-d1097204f42b.jpeg) `[ID: 68436534]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_155553_421.jpg](https://cdn-wl-assets.classplus.co/production/78392/6d83457a-9376-4d57-93d4-f6aecd499363.jpeg) `[ID: 68436535]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_155558_546.jpg](https://cdn-wl-assets.classplus.co/production/78392/1a9e5c3c-4b12-4970-b6c8-5dba4b86b0ba.jpeg) `[ID: 68436536]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_155601_256.jpg](https://cdn-wl-assets.classplus.co/production/78392/db89e751-2eac-4810-ab7e-4f33c59970ca.jpeg) `[ID: 68436537]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_155607_417.jpg](https://cdn-wl-assets.classplus.co/production/78392/f8a12d3b-acbf-4e25-b440-b3678287e018.jpeg) `[ID: 68436538]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_155610_888.jpg](https://cdn-wl-assets.classplus.co/production/78392/b8b2b0a7-fda4-4413-9367-355b8c9260d2.jpeg) `[ID: 68436539]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_155613_764.jpg](https://cdn-wl-assets.classplus.co/production/78392/d03b6819-4dfb-4f29-92ea-25f556587cc3.jpeg) `[ID: 68436540]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_155616_410.jpg](https://cdn-wl-assets.classplus.co/production/78392/16df06a8-a1f7-4f9f-b0aa-1c73601827a5.jpeg) `[ID: 68436541]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_155618_177.jpg](https://cdn-wl-assets.classplus.co/production/78392/a37dc475-b27b-4b72-b815-2c869d28dfd2.jpeg) `[ID: 68436543]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_155620_944.jpg](https://cdn-wl-assets.classplus.co/production/78392/ed5883ea-2ad3-49d0-bc24-b036740f9b22.jpeg) `[ID: 68436544]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_155623_143.jpg](https://cdn-wl-assets.classplus.co/production/78392/6c2b1707-5191-4d37-85db-70d680c7f76d.jpeg) `[ID: 68436545]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_155628_526.jpg](https://cdn-wl-assets.classplus.co/production/78392/64caeb18-d037-4c38-8294-367a7c9bc204.jpeg) `[ID: 68436546]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_155630_197.jpg](https://cdn-wl-assets.classplus.co/production/78392/e40f8396-a99e-4fdf-9a7e-140c29abaeae.jpeg) `[ID: 68436547]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_155631_977.jpg](https://cdn-wl-assets.classplus.co/production/78392/4d0b5679-04ae-4b8f-94b0-e9c6e9a1fe3d.jpeg) `[ID: 68436548]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_155633_338.jpg](https://cdn-wl-assets.classplus.co/production/78392/396dbaae-b270-48d0-abdd-40598242528b.jpeg) `[ID: 68436549]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_155635_557.jpg](https://cdn-wl-assets.classplus.co/production/78392/e897a3a1-1e2e-40a5-a9e7-5e2730613892.jpeg) `[ID: 68436550]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_155637_218.jpg](https://cdn-wl-assets.classplus.co/production/78392/046015ad-3e6b-4389-a26c-7c7659ae3b1d.jpeg) `[ID: 68436551]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_155639_119.jpg](https://cdn-wl-assets.classplus.co/production/78392/9c3e230d-2477-40ff-8931-4d1e6c8bc451.jpeg) `[ID: 68436552]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_155640_971.jpg](https://cdn-wl-assets.classplus.co/production/78392/56c5b4ad-c38c-4a55-98fd-2fdc14c18a5e.jpeg) `[ID: 68436553]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_155642_963.jpg](https://cdn-wl-assets.classplus.co/production/78392/796dcf83-77d0-4c62-b536-73137c148045.jpeg) `[ID: 68436554]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_155644_484.jpg](https://cdn-wl-assets.classplus.co/production/78392/162af84f-a4e5-45d2-a8cf-db55b5459609.jpeg) `[ID: 68436555]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_155646_243.jpg](https://cdn-wl-assets.classplus.co/production/78392/4b5299f3-41f3-4d55-a22d-c131c31b1de7.jpeg) `[ID: 68436556]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_155649_320.jpg](https://cdn-wl-assets.classplus.co/production/78392/3e610561-ef3f-4501-9881-a8885e0edf8d.jpeg) `[ID: 68436557]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_155650_986.jpg](https://cdn-wl-assets.classplus.co/production/78392/f39970ff-4b4e-48af-8d32-c72dfc13e75a.jpeg) `[ID: 68436558]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_155653_852.jpg](https://cdn-wl-assets.classplus.co/production/78392/3430b26f-6e66-44b5-bc39-7b3e0f4b0993.jpeg) `[ID: 68436559]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_155656_754.jpg](https://cdn-wl-assets.classplus.co/production/78392/12b94d52-2052-4005-a872-c3a3eb704761.jpeg) `[ID: 68436560]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_155658_758.jpg](https://cdn-wl-assets.classplus.co/production/78392/dc41e7d3-7b73-437a-9ada-5c2c8cdff045.jpeg) `[ID: 68436561]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_155701_580.jpg](https://cdn-wl-assets.classplus.co/production/78392/115599c1-10aa-4f64-bfc3-270b03a54930.jpeg) `[ID: 68436562]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_155704_529.jpg](https://cdn-wl-assets.classplus.co/production/78392/ea207d81-a149-45b2-b8ce-dd1c8bb5f23f.jpeg) `[ID: 68436564]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_155706_637.jpg](https://cdn-wl-assets.classplus.co/production/78392/c2050224-fc27-4657-af49-c413a70af122.jpeg) `[ID: 68436566]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_155709_982.jpg](https://cdn-wl-assets.classplus.co/production/78392/6ac88924-6c93-4f10-b581-0f127c0d65d6.jpeg) `[ID: 68436567]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_155711_810.jpg](https://cdn-wl-assets.classplus.co/production/78392/8b7f0a27-eb45-4b88-b7cb-416f26200334.jpeg) `[ID: 68436568]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_155713_976.jpg](https://cdn-wl-assets.classplus.co/production/78392/9656283f-dbd5-47d1-95b4-386bd6221dee.jpeg) `[ID: 68436569]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_155716_000.jpg](https://cdn-wl-assets.classplus.co/production/78392/c09c4c92-a5cf-4ce3-8de8-56b080eee5c9.jpeg) `[ID: 68436570]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_155718_255.jpg](https://cdn-wl-assets.classplus.co/production/78392/fb505b87-df88-4ea7-b9be-407a1c1b59f7.jpeg) `[ID: 68436571]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_155721_272.jpg](https://cdn-wl-assets.classplus.co/production/78392/5f289ab1-cf72-4ef0-95d5-6b0209b56812.jpeg) `[ID: 68436572]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_155724_480.jpg](https://cdn-wl-assets.classplus.co/production/78392/90bbdee6-6d01-4995-b24f-04947e8380aa.jpeg) `[ID: 68436573]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_155727_055.jpg](https://cdn-wl-assets.classplus.co/production/78392/f34f9365-3734-425d-a4d6-d27a37712a5d.jpeg) `[ID: 68436574]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_155728_296.jpg](https://cdn-wl-assets.classplus.co/production/78392/97c39c3d-ca3f-4ce9-b37f-0e88d5ba78c3.jpeg) `[ID: 68436575]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_155730_622.jpg](https://cdn-wl-assets.classplus.co/production/78392/c5c19861-563c-4923-9e52-4c73ebdcb3ba.jpeg) `[ID: 68436576]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_155732_067.jpg](https://cdn-wl-assets.classplus.co/production/78392/553fc8c1-dc6b-4d86-8df4-28d98e0ada60.jpeg) `[ID: 68436577]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_155736_280.jpg](https://cdn-wl-assets.classplus.co/production/78392/9db261dd-3df0-4856-83cc-aa07eddd7b5b.jpeg) `[ID: 68436578]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_155739_638.jpg](https://cdn-wl-assets.classplus.co/production/78392/1a6c985e-0d44-45b1-95bb-0bc81bda5a07.jpeg) `[ID: 68436579]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_155741_339.jpg](https://cdn-wl-assets.classplus.co/production/78392/9efb6b19-ee38-49af-b1ca-264c020dbbd0.jpeg) `[ID: 68436580]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_155743_388.jpg](https://cdn-wl-assets.classplus.co/production/78392/ebf0aa51-d32b-477c-a3c2-7ea90e6f8e50.jpeg) `[ID: 68436581]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_155752_738.jpg](https://cdn-wl-assets.classplus.co/production/78392/a0a68b53-467e-47f7-9296-ea09126acacc.jpeg) `[ID: 68436582]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_155752_738.jpg](https://cdn-wl-assets.classplus.co/production/78392/e82c18c7-ff99-48d0-ab7f-d8d11e38d733.jpeg) `[ID: 68442542]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_155754_758.jpg](https://cdn-wl-assets.classplus.co/production/78392/aedd4873-a781-4ff6-8cde-f46e44d7a412.jpeg) `[ID: 68442543]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_155756_427.jpg](https://cdn-wl-assets.classplus.co/production/78392/e8dde455-5645-48ed-83b1-0bf7b583b652.jpeg) `[ID: 68442544]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_155758_106.jpg](https://cdn-wl-assets.classplus.co/production/78392/6833872c-ea41-4ecc-93eb-12a5c894c7f8.jpeg) `[ID: 68442545]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_155759_866.jpg](https://cdn-wl-assets.classplus.co/production/78392/a3a8c005-6111-40ed-bd95-33615ed63ce9.jpeg) `[ID: 68442546]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_155803_046.jpg](https://cdn-wl-assets.classplus.co/production/78392/68012377-3cf9-4ef0-bbc2-cfe0b79a0e79.jpeg) `[ID: 68442547]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_155804_424.jpg](https://cdn-wl-assets.classplus.co/production/78392/47fae790-8bdc-4b7d-a83a-f16ba0d87afc.jpeg) `[ID: 68442548]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_155806_889.jpg](https://cdn-wl-assets.classplus.co/production/78392/ca2bd015-1e7a-4cea-b001-e389f1134cc4.jpeg) `[ID: 68442549]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_155812_108.jpg](https://cdn-wl-assets.classplus.co/production/78392/9543be00-5592-4e21-b8a2-f94823fd5df9.jpeg) `[ID: 68442550]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_155821_572.jpg](https://cdn-wl-assets.classplus.co/production/78392/a539bd04-8cdc-466b-9b42-7b716127a9e2.jpeg) `[ID: 68442551]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_155823_990.jpg](https://cdn-wl-assets.classplus.co/production/78392/ce47d8e6-feb2-4310-98dc-e14aa79686af.jpeg) `[ID: 68442552]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_155824_817.jpg](https://cdn-wl-assets.classplus.co/production/78392/6c45b19b-88fb-4fd8-900c-de9efe5370f5.jpeg) `[ID: 68442553]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_155827_771.jpg](https://cdn-wl-assets.classplus.co/production/78392/43bb6722-19c9-404a-a83f-1cf0040bff91.jpeg) `[ID: 68442554]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_155829_922.jpg](https://cdn-wl-assets.classplus.co/production/78392/b3742f54-30ff-429b-b74f-aac1dfd40e89.jpeg) `[ID: 68442555]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_155831_419.jpg](https://cdn-wl-assets.classplus.co/production/78392/1fa45af9-3403-430f-a2de-af2eddb02581.jpeg) `[ID: 68442556]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_155833_797.jpg](https://cdn-wl-assets.classplus.co/production/78392/929200fe-d16e-4590-9a84-70fed8d4ac3b.jpeg) `[ID: 68442557]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_155836_013.jpg](https://cdn-wl-assets.classplus.co/production/78392/6cfb9085-8aab-4467-9509-89c0bc26daa7.jpeg) `[ID: 68442558]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_155837_972.jpg](https://cdn-wl-assets.classplus.co/production/78392/30f6b3f1-f6d4-4ba1-b310-624ecef47214.jpeg) `[ID: 68442559]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_155839_458.jpg](https://cdn-wl-assets.classplus.co/production/78392/e3151362-aae4-4c7e-9009-efbc5c885a64.jpeg) `[ID: 68442560]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_155842_040.jpg](https://cdn-wl-assets.classplus.co/production/78392/8f1aa685-705c-4cd1-8e9a-da25eb663caa.jpeg) `[ID: 68442561]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_155843_587.jpg](https://cdn-wl-assets.classplus.co/production/78392/4555ba33-ae6a-4474-86ea-e1f3581e5d62.jpeg) `[ID: 68442563]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_155844_945.jpg](https://cdn-wl-assets.classplus.co/production/78392/cb3c5bbe-13dc-44d3-bed3-ff7868fb9d04.jpeg) `[ID: 68442564]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_155847_260.jpg](https://cdn-wl-assets.classplus.co/production/78392/a61f2c4b-2ec2-4d2a-89ec-346a858c8360.jpeg) `[ID: 68442565]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_155848_344.jpg](https://cdn-wl-assets.classplus.co/production/78392/966c15b8-c740-45b2-95a2-b4424240f541.jpeg) `[ID: 68442566]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_155851_960.jpg](https://cdn-wl-assets.classplus.co/production/78392/0d033862-a433-475d-b3e4-f99c6d932b99.jpeg) `[ID: 68442567]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_155854_828.jpg](https://cdn-wl-assets.classplus.co/production/78392/0ff80dd8-cecd-4e8b-bdde-6c28bacfc1e3.jpeg) `[ID: 68442568]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_155858_285.jpg](https://cdn-wl-assets.classplus.co/production/78392/1c3cc63a-7cdf-4069-99db-ffd355a5e75e.jpeg) `[ID: 68442569]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_155901_339.jpg](https://cdn-wl-assets.classplus.co/production/78392/e8cfcdfa-091d-4a11-a4a0-dfe1fcad8a98.jpeg) `[ID: 68442570]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_155902_069.jpg](https://cdn-wl-assets.classplus.co/production/78392/24adc9a8-4dde-4f9e-ad51-016f364aae79.jpeg) `[ID: 68442571]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_155904_004.jpg](https://cdn-wl-assets.classplus.co/production/78392/0ecbebbd-f5f0-4a0f-bbab-4f14b137ea19.jpeg) `[ID: 68442572]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_155910_116.jpg](https://cdn-wl-assets.classplus.co/production/78392/1c58dc82-744b-4003-aa54-4b3bd0c997d8.jpeg) `[ID: 68442573]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_155913_357.jpg](https://cdn-wl-assets.classplus.co/production/78392/85b4aedd-ff59-4c85-a7b1-69f676332986.jpeg) `[ID: 68442574]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_155914_846.jpg](https://cdn-wl-assets.classplus.co/production/78392/5347df33-bebd-4326-b242-67f2f67e01b4.jpeg) `[ID: 68442575]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_155917_347.jpg](https://cdn-wl-assets.classplus.co/production/78392/db425bcc-5df4-4e12-b2b9-ab874e7c618f.jpeg) `[ID: 68442576]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_155918_507.jpg](https://cdn-wl-assets.classplus.co/production/78392/3ac96de9-ba77-409a-a5ef-661bc6c87f3b.jpeg) `[ID: 68442577]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_155922_806.jpg](https://cdn-wl-assets.classplus.co/production/78392/601b80df-3c6c-41bc-b2d5-6574390e3ae8.jpeg) `[ID: 68442578]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_155924_888.jpg](https://cdn-wl-assets.classplus.co/production/78392/6748aa84-cb16-4d2a-ac93-da81f6f78dcc.jpeg) `[ID: 68442579]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_155927_123.jpg](https://cdn-wl-assets.classplus.co/production/78392/a7b2ac95-d42c-45ad-a19e-b3f693c3be33.jpeg) `[ID: 68442580]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_155928_452.jpg](https://cdn-wl-assets.classplus.co/production/78392/f76818fa-5270-4f70-be86-022227a77657.jpeg) `[ID: 68442581]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_155929_962.jpg](https://cdn-wl-assets.classplus.co/production/78392/48994012-4046-4237-be70-e4e5d447b84c.jpeg) `[ID: 68442582]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_155931_614.jpg](https://cdn-wl-assets.classplus.co/production/78392/d16fa848-2f84-4277-a2ac-882c8d93f335.jpeg) `[ID: 68442583]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_155933_593.jpg](https://cdn-wl-assets.classplus.co/production/78392/fe7cef35-0573-49e4-b9ec-cae23b2e20a5.jpeg) `[ID: 68442584]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_155935_104.jpg](https://cdn-wl-assets.classplus.co/production/78392/5eea3fae-d775-4b6f-9851-2506e23489f9.jpeg) `[ID: 68442585]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_155936_934.jpg](https://cdn-wl-assets.classplus.co/production/78392/411484a2-8722-473a-b66b-b327d4959df8.jpeg) `[ID: 68442586]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_155943_050.jpg](https://cdn-wl-assets.classplus.co/production/78392/6208ee6d-4f3c-411b-b2ac-ef3b39f2437a.jpeg) `[ID: 68442587]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_155944_995.jpg](https://cdn-wl-assets.classplus.co/production/78392/6580c6fb-4cdd-47ee-93ac-6a2bff05de25.jpeg) `[ID: 68442588]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_155947_148.jpg](https://cdn-wl-assets.classplus.co/production/78392/6b410204-f303-47dc-b4bd-670cf2935408.jpeg) `[ID: 68442589]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_155948_842.jpg](https://cdn-wl-assets.classplus.co/production/78392/1d883cff-2123-45df-b464-ed0d10d6759a.jpeg) `[ID: 68442591]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_155950_397.jpg](https://cdn-wl-assets.classplus.co/production/78392/82f99ec7-2caf-475b-9b64-76d4cd723601.jpeg) `[ID: 68442592]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_155952_963.jpg](https://cdn-wl-assets.classplus.co/production/78392/e232f58a-bd63-48e3-97a9-f5146e6fa32e.jpeg) `[ID: 68442593]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_155954_574.jpg](https://cdn-wl-assets.classplus.co/production/78392/43a2f363-f3c3-45ca-b47d-2d0c274d43bf.jpeg) `[ID: 68442594]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_155955_995.jpg](https://cdn-wl-assets.classplus.co/production/78392/a80370d3-37a2-493d-bec0-96b56bd9a8af.jpeg) `[ID: 68442595]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_155958_196.jpg](https://cdn-wl-assets.classplus.co/production/78392/e43ee9ef-c6d5-4768-a81c-90024a1017e2.jpeg) `[ID: 68442596]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_160000_329.jpg](https://cdn-wl-assets.classplus.co/production/78392/485588af-cee6-4c4b-a788-f5e6c6ca3d58.jpeg) `[ID: 68442597]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_160001_439.jpg](https://cdn-wl-assets.classplus.co/production/78392/e74efce1-0bf2-4be1-8a77-1292f46f309c.jpeg) `[ID: 68442598]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_160003_423.jpg](https://cdn-wl-assets.classplus.co/production/78392/45abdfbb-846f-4466-8146-f6dde704b7e7.jpeg) `[ID: 68442599]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_160005_196.jpg](https://cdn-wl-assets.classplus.co/production/78392/8fadc42a-7c64-4f6a-957e-ca2ec19feecf.jpeg) `[ID: 68442600]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_160006_266.jpg](https://cdn-wl-assets.classplus.co/production/78392/4a7cbaec-5a17-4d92-904e-6b840e19aaf2.jpeg) `[ID: 68442601]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_160008_461.jpg](https://cdn-wl-assets.classplus.co/production/78392/95ad9183-e7a2-4190-a2c0-a6500c76cbae.jpeg) `[ID: 68442602]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_160025_239.jpg](https://cdn-wl-assets.classplus.co/production/78392/9f4005ff-fb46-4de8-b162-c87b43cac041.jpeg) `[ID: 68442603]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_160026_648.jpg](https://cdn-wl-assets.classplus.co/production/78392/ab2460c0-711e-4fe0-8625-ee21314dfcbc.jpeg) `[ID: 68442605]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_160027_721.jpg](https://cdn-wl-assets.classplus.co/production/78392/f9094b0e-3589-4d13-9f88-cdabd2fa772f.jpeg) `[ID: 68442606]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_160029_958.jpg](https://cdn-wl-assets.classplus.co/production/78392/3d7e78d8-8879-40e5-9991-b401657a94da.jpeg) `[ID: 68442607]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_160031_783.jpg](https://cdn-wl-assets.classplus.co/production/78392/c7012591-8c29-42da-a623-7aab3a49fc81.jpeg) `[ID: 68442608]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_160034_047.jpg](https://cdn-wl-assets.classplus.co/production/78392/1422ece9-002e-4310-b8a7-4bdbd6ac2d19.jpeg) `[ID: 68442609]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_160038_054.jpg](https://cdn-wl-assets.classplus.co/production/78392/8fdf7d72-af7c-4cfc-b478-adf62873c9b7.jpeg) `[ID: 68442610]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_160039_416.jpg](https://cdn-wl-assets.classplus.co/production/78392/6e804626-bc69-482e-ad0f-f11e036abd89.jpeg) `[ID: 68442611]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_160041_196.jpg](https://cdn-wl-assets.classplus.co/production/78392/d66711f2-fea1-42a3-9106-039946d69cc1.jpeg) `[ID: 68442612]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_160043_420.jpg](https://cdn-wl-assets.classplus.co/production/78392/c2b10317-2a22-4d9f-8e57-179f5d51431c.jpeg) `[ID: 68442613]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_160044_362.jpg](https://cdn-wl-assets.classplus.co/production/78392/238369c4-6dc3-43bd-acae-aad7b2807cbb.jpeg) `[ID: 68442614]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_160046_028.jpg](https://cdn-wl-assets.classplus.co/production/78392/2808b36d-c021-44d9-be93-b5c52bc80a11.jpeg) `[ID: 68442615]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_160047_678.jpg](https://cdn-wl-assets.classplus.co/production/78392/e119d254-d8c6-4015-9825-767eeaafc559.jpeg) `[ID: 68442616]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_160048_895.jpg](https://cdn-wl-assets.classplus.co/production/78392/e60524c0-e735-43d6-8b44-3a640cbf3705.jpeg) `[ID: 68442617]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_160050_958.jpg](https://cdn-wl-assets.classplus.co/production/78392/7394f001-f7ab-4f3c-b123-f074abf4d5fa.jpeg) `[ID: 68442618]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_160052_664.jpg](https://cdn-wl-assets.classplus.co/production/78392/0586d2a6-3992-473e-8e9c-7c6f23e05f74.jpeg) `[ID: 68442619]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_160054_238.jpg](https://cdn-wl-assets.classplus.co/production/78392/fc1bcab4-5499-4ef0-8a46-2781ef6f2b87.jpeg) `[ID: 68442620]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_160104_177.jpg](https://cdn-wl-assets.classplus.co/production/78392/15cbec6d-14a2-46e4-bf75-f100e8616da2.jpeg) `[ID: 68442621]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_160106_877.jpg](https://cdn-wl-assets.classplus.co/production/78392/66cd35e4-6a9c-466a-8e27-ef0e42e96a45.jpeg) `[ID: 68442623]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_160111_262.jpg](https://cdn-wl-assets.classplus.co/production/78392/bb7dc6f6-80b1-4102-81db-5bc20d07dd34.jpeg) `[ID: 68442624]`
+    - 📄 **[DOCUMENT/JPEG]** [IMG_20210613_160117_022.jpg](https://cdn-wl-assets.classplus.co/production/78392/6cb7abdd-015e-4ca8-ae2b-cbb0e59bfda2.jpeg) `[ID: 68442625]`
+  * 📁 **1.2.1Infosys PYQ Screenshots- PART1** `[Folder ID: 41822997]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_786@28-10-2024_22-28-23_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/e1ff44fc-9d33-4eab-9bbc-7ed9abec724f.jpeg) `[ID: 68211237]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_788@28-10-2024_22-28-23_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/3368ccf9-8eb9-4960-a409-a065b9cbe307.jpeg) `[ID: 68211236]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_789@28-10-2024_22-28-23_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/a67a14dd-136d-458f-abca-7b58464f412e.jpeg) `[ID: 68211238]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_790@28-10-2024_22-28-23_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/85192922-fe5e-4e88-9525-24b7d78003af.jpeg) `[ID: 68211239]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_791@28-10-2024_22-28-23_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/06d860bf-cd1a-487b-9ddb-9f3fe46bc19a.jpeg) `[ID: 68211240]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_792@28-10-2024_22-28-23_thumb (1).jpg](https://cdn-wl-assets.classplus.co/production/78392/9e28cd90-17ec-45c5-84f7-215930f73412.jpeg) `[ID: 68211241]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_792@28-10-2024_22-28-23_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/8f9d3163-fc63-4d7f-864d-cdd0c39adab9.jpeg) `[ID: 68211242]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_793@28-10-2024_22-28-23_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/0aa6b9c5-07e1-4efc-9323-c872e60d6648.jpeg) `[ID: 68211244]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_794@28-10-2024_22-28-23_thumb (1).jpg](https://cdn-wl-assets.classplus.co/production/78392/1a4c04e1-c06d-4a46-8662-cd9eb11623f3.jpeg) `[ID: 68211243]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_794@28-10-2024_22-28-23_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/68b42caf-02a2-48a3-a765-dae42e6d9c58.jpeg) `[ID: 68211245]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_796@28-10-2024_22-28-23_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/3266e2f8-af6f-444a-ae19-25f4bdd058b1.jpeg) `[ID: 68211246]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_798@28-10-2024_22-28-23_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/b27ee412-b9fe-4864-b884-414f7c525fbc.jpeg) `[ID: 68211247]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_799@28-10-2024_22-28-23_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/6273aef6-ed81-4553-9a63-009ba8f3d2e3.jpeg) `[ID: 68211248]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_800@28-10-2024_22-28-23_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/1e924f45-f96d-4e59-87a4-0d44aafbb21f.jpeg) `[ID: 68211249]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_801@28-10-2024_22-28-23_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/cd2f6522-c8bf-49ca-99f2-a7fdfb61f797.jpeg) `[ID: 68211250]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_802@28-10-2024_22-28-23_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/8641631c-a0ab-4871-8bce-ae602620d21a.jpeg) `[ID: 68211251]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_803@28-10-2024_22-28-23_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/943c167f-2fb6-4af8-93b0-a137e4502b7f.jpeg) `[ID: 68211252]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_804@28-10-2024_22-28-23_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/85a8a7d5-bd53-4438-aecd-0b2da6786549.jpeg) `[ID: 68211253]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_805@28-10-2024_22-28-23_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/c96f6074-0137-42c2-9d16-b8f18e11f643.jpeg) `[ID: 68211255]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_806@28-10-2024_22-28-23_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/e12284b1-3bce-4c9f-adcf-63d482141aee.jpeg) `[ID: 68211254]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_807@28-10-2024_22-28-23_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/63821f92-8513-4f65-83d4-a4aa1a297beb.jpeg) `[ID: 68211256]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_808@28-10-2024_22-28-23_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/762d5f9e-2cec-4c58-812c-7fe339934bfb.jpeg) `[ID: 68211257]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_809@28-10-2024_22-28-23_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/4b6dcdd1-2f94-4499-a42f-c3b0db69f5eb.jpeg) `[ID: 68211258]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_810@28-10-2024_22-28-23_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/8be59733-0a66-4a61-96c6-e6bc1f70ef93.jpeg) `[ID: 68211259]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_811@28-10-2024_22-28-23_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/5d975ae1-4990-4d28-b20e-f6ca81ef1c18.jpeg) `[ID: 68211260]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_812@28-10-2024_22-28-23_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/e2f44607-e08a-4c5e-84cf-0164ecd2e89a.jpeg) `[ID: 68211261]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_813@28-10-2024_22-28-23_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/2aa4b510-5268-4853-bab7-835681d63b60.jpeg) `[ID: 68211262]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_814@28-10-2024_22-28-23_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/d7ee0e57-4c04-4ac0-937d-382bbb3a8784.jpeg) `[ID: 68211263]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_815@28-10-2024_22-28-23_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/67e86f5f-e134-4c2a-86a2-e96ede2b4fb6.jpeg) `[ID: 68211264]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_816@28-10-2024_22-28-23_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/7ef8aae7-b0c1-4633-94c4-c2ac4cfaf3ea.jpeg) `[ID: 68211265]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_817@28-10-2024_22-28-23_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/15aa5ac4-cf40-49df-99ab-0bb4e8f3a805.jpeg) `[ID: 68211267]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_818@28-10-2024_22-28-23.jpg](https://cdn-wl-assets.classplus.co/production/78392/e336729a-9cff-4f98-9588-bc7a30d4cd39.jpeg) `[ID: 68211266]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_818@28-10-2024_22-28-23_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/e5d3d985-7369-47a8-8698-c6400289e545.jpeg) `[ID: 68211268]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_819@28-10-2024_22-28-23.jpg](https://cdn-wl-assets.classplus.co/production/78392/f3a0e08e-ce5f-43f1-bb26-3e2f00e5a8f7.jpeg) `[ID: 68211270]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_819@28-10-2024_22-28-23_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/def6ed50-af2e-404b-acb7-d20d473fc5cc.jpeg) `[ID: 68211269]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_820@28-10-2024_22-28-23.jpg](https://cdn-wl-assets.classplus.co/production/78392/88740226-751e-45fc-9b84-dd633f06de74.jpeg) `[ID: 68211271]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_820@28-10-2024_22-28-23_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/a16a0226-c197-45d7-ba9c-535caf82b38d.jpeg) `[ID: 68211273]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_821@28-10-2024_22-28-23.jpg](https://cdn-wl-assets.classplus.co/production/78392/3d4a78bf-c1e7-422d-828b-4df82da4157a.jpeg) `[ID: 68211272]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_821@28-10-2024_22-28-23_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/4e3dd571-ed9a-4395-91e6-aebb9fc650ad.jpeg) `[ID: 68211274]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_822@28-10-2024_22-28-23.jpg](https://cdn-wl-assets.classplus.co/production/78392/7f50dd2c-48b3-485f-9098-2411b10c6bfb.jpeg) `[ID: 68211275]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_822@28-10-2024_22-28-23_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/7b7eecbd-d4c0-4269-b8e5-ff51f410d6a1.jpeg) `[ID: 68211276]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_823@28-10-2024_22-28-23.jpg](https://cdn-wl-assets.classplus.co/production/78392/37857825-5f29-4f79-8957-6e7057a84dba.jpeg) `[ID: 68211277]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_823@28-10-2024_22-28-23_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/a06568a9-8b54-4604-82bf-586306ac3619.jpeg) `[ID: 68211278]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_824@28-10-2024_22-28-23.jpg](https://cdn-wl-assets.classplus.co/production/78392/254501c8-7c42-464a-a0d9-6394734fd0e4.jpeg) `[ID: 68211280]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_824@28-10-2024_22-28-23_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/c41cca2b-2e44-4f4a-ba43-22f4c36d7317.jpeg) `[ID: 68211279]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_825@28-10-2024_22-28-23.jpg](https://cdn-wl-assets.classplus.co/production/78392/9266d694-3cef-416e-aa7f-911658310abd.jpeg) `[ID: 68211281]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_825@28-10-2024_22-28-23_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/20a68607-5e00-410b-abbc-d566f37c9084.jpeg) `[ID: 68211282]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_826@28-10-2024_22-28-23.jpg](https://cdn-wl-assets.classplus.co/production/78392/9bc76a3d-5235-46c4-bf99-0305c3998aff.jpeg) `[ID: 68211283]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_826@28-10-2024_22-28-23_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/da96adb5-307a-43c4-a9f2-f76bbb0788a8.jpeg) `[ID: 68211284]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_827@28-10-2024_22-28-23.jpg](https://cdn-wl-assets.classplus.co/production/78392/544f39fe-cbb8-400c-8d6c-132e69108837.jpeg) `[ID: 68211285]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_827@28-10-2024_22-28-23_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/4de1455c-9941-4505-bb37-5cbb6383400f.jpeg) `[ID: 68211287]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_828@28-10-2024_22-28-23.jpg](https://cdn-wl-assets.classplus.co/production/78392/f24b6662-0215-4f0d-b5d0-001c5b72dc19.jpeg) `[ID: 68211286]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_828@28-10-2024_22-28-23_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/cee62554-b29a-4c54-aba5-ba54076d4313.jpeg) `[ID: 68211289]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_829@28-10-2024_22-28-23.jpg](https://cdn-wl-assets.classplus.co/production/78392/e0c4ba10-8687-43c3-843b-dfebc9efcfdb.jpeg) `[ID: 68211288]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_829@28-10-2024_22-28-23_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/95e0abbb-09a8-47c7-958f-533e5b3124b6.jpeg) `[ID: 68211290]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_830@28-10-2024_22-28-23.jpg](https://cdn-wl-assets.classplus.co/production/78392/4ab63c2d-67ac-4c30-8e48-12a2d352b953.jpeg) `[ID: 68211292]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_830@28-10-2024_22-28-23_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/8c9f27bc-256c-47f8-98db-ebba3701f7be.jpeg) `[ID: 68211291]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_831@28-10-2024_22-28-23.jpg](https://cdn-wl-assets.classplus.co/production/78392/d8779532-889b-4064-adb9-f903bec11c46.jpeg) `[ID: 68211293]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_831@28-10-2024_22-28-23_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/bbede5ce-ca6e-4cec-b630-5015229f2ba7.jpeg) `[ID: 68211294]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_832@28-10-2024_22-28-23.jpg](https://cdn-wl-assets.classplus.co/production/78392/952fa4b6-e775-4b5a-8ec4-ca7f852d5ec3.jpeg) `[ID: 68211295]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_832@28-10-2024_22-28-23_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/647e47de-81f8-44c0-9866-a4edcd15b8c6.jpeg) `[ID: 68211296]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_833@28-10-2024_22-28-23.jpg](https://cdn-wl-assets.classplus.co/production/78392/90ed5708-5bd4-4c2a-ae65-ef60379fbef2.jpeg) `[ID: 68211297]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_833@28-10-2024_22-28-23_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/2ddafd58-6f06-453b-8bcb-2818f22b7b2a.jpeg) `[ID: 68211298]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_834@28-10-2024_22-28-23.jpg](https://cdn-wl-assets.classplus.co/production/78392/4b09abb3-6dc5-4db5-86dd-e20789fb4aea.jpeg) `[ID: 68211299]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_834@28-10-2024_22-28-23_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/b69bcadf-017d-42a6-83be-4bfc6bc75355.jpeg) `[ID: 68211300]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_835@28-10-2024_22-28-23.jpg](https://cdn-wl-assets.classplus.co/production/78392/c008c0c8-3c38-4e28-b891-481f4fe7cf97.jpeg) `[ID: 68211301]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_835@28-10-2024_22-28-23_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/cca3f6cc-d2f2-4a3c-9a47-e1adecdf0613.jpeg) `[ID: 68211303]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_836@28-10-2024_22-28-23.jpg](https://cdn-wl-assets.classplus.co/production/78392/770931a6-8a0f-4566-add1-449f39315a5e.jpeg) `[ID: 68211302]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_836@28-10-2024_22-28-23_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/cdb5c898-292b-4169-b1c8-80cd89dd87d6.jpeg) `[ID: 68211304]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_837@28-10-2024_22-28-23.jpg](https://cdn-wl-assets.classplus.co/production/78392/af8c4e69-14eb-49fc-9461-654b5e9bd35c.jpeg) `[ID: 68211305]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_873@28-10-2024_22-28-23_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/112b3d2f-4630-45d6-b073-648cedc499c3.jpeg) `[ID: 68211307]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_950@28-10-2024_22-33-03.jpg](https://cdn-wl-assets.classplus.co/production/78392/55db3dfa-a540-45d9-895a-6e6b142bdbff.jpeg) `[ID: 68211453]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_874@28-10-2024_22-28-23.jpg](https://cdn-wl-assets.classplus.co/production/78392/9798404f-5d1b-4804-9dd6-7fdc8769abd8.jpeg) `[ID: 68211306]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_950@28-10-2024_22-33-03_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/d08181bd-44c7-44c4-98aa-3a920ca05be1.jpeg) `[ID: 68211451]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_874@28-10-2024_22-28-23_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/6a602e76-3068-4cd1-864c-448542c93946.jpeg) `[ID: 68211308]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_951@28-10-2024_22-33-03.jpg](https://cdn-wl-assets.classplus.co/production/78392/3a8a3dd8-7dd7-4253-b063-39628e89e149.jpeg) `[ID: 68211454]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_875@28-10-2024_22-28-23.jpg](https://cdn-wl-assets.classplus.co/production/78392/7e76cefd-8a35-4846-8ed3-67134fea230b.jpeg) `[ID: 68211309]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_951@28-10-2024_22-33-03_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/6ee4fdc4-1a9f-4e68-a8ee-9e51111242e5.jpeg) `[ID: 68211455]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_875@28-10-2024_22-28-23_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/41c09d42-15e2-4684-8f1d-706c75255758.jpeg) `[ID: 68211311]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_952@28-10-2024_22-33-03.jpg](https://cdn-wl-assets.classplus.co/production/78392/e7456c94-624d-49ae-beb1-e22180cddb0e.jpeg) `[ID: 68211456]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_876@28-10-2024_22-28-23.jpg](https://cdn-wl-assets.classplus.co/production/78392/fa9018e0-9405-4602-b57b-aa1a6cffd76e.jpeg) `[ID: 68211310]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_952@28-10-2024_22-33-03_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/12df727b-67b5-4c2c-8130-1d5d14ef84dd.jpeg) `[ID: 68211457]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_876@28-10-2024_22-28-23_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/2b8479bf-9cb4-430d-9193-b89ac0a817fb.jpeg) `[ID: 68211312]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_954@28-10-2024_22-33-03.jpg](https://cdn-wl-assets.classplus.co/production/78392/4aaeff15-ce02-4ba3-9b41-81e293b8e1d0.jpeg) `[ID: 68211458]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_877@28-10-2024_22-28-23.jpg](https://cdn-wl-assets.classplus.co/production/78392/f2855196-7393-4dcd-985b-86d58e23fb15.jpeg) `[ID: 68211314]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_954@28-10-2024_22-33-03_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/07c1df6c-e7bd-46b5-b010-091b9c6c38d8.jpeg) `[ID: 68211459]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_877@28-10-2024_22-28-23_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/93394396-7c7e-4257-80cf-944744ca6787.jpeg) `[ID: 68211313]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_956@28-10-2024_22-33-03.jpg](https://cdn-wl-assets.classplus.co/production/78392/1a7d6450-911d-45f3-9398-e3f188d0646d.jpeg) `[ID: 68211460]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_878@28-10-2024_22-28-23.jpg](https://cdn-wl-assets.classplus.co/production/78392/6ccb5743-f676-474f-b47e-2c5ed4fcc5db.jpeg) `[ID: 68211315]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_956@28-10-2024_22-33-03_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/ef0120c3-b447-4132-b88d-56a8dc245fd2.jpeg) `[ID: 68211461]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_878@28-10-2024_22-28-23_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/c53e5119-8b14-4bbe-9c4f-3e2490ce8549.jpeg) `[ID: 68211317]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_957@28-10-2024_22-33-03.jpg](https://cdn-wl-assets.classplus.co/production/78392/ea8ef4ac-4d08-4dcb-a7f3-0bef8af76784.jpeg) `[ID: 68211462]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_879@28-10-2024_22-28-23.jpg](https://cdn-wl-assets.classplus.co/production/78392/14be2164-3633-4e8f-b656-55c5ebd3cdee.jpeg) `[ID: 68211316]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_957@28-10-2024_22-33-03_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/a50bd8d5-21e8-4916-aa37-d270710bd494.jpeg) `[ID: 68211463]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_879@28-10-2024_22-28-23_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/db33aa1c-0cd6-40cc-9f84-fc1eeb20d26e.jpeg) `[ID: 68211318]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_958@28-10-2024_22-33-03.jpg](https://cdn-wl-assets.classplus.co/production/78392/34104643-7c12-4dd1-8dd7-6e3a4c10e3a8.jpeg) `[ID: 68211464]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_880@28-10-2024_22-28-23.jpg](https://cdn-wl-assets.classplus.co/production/78392/f6aee4bd-f63f-4859-aedc-8f027c7455f0.jpeg) `[ID: 68211319]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_958@28-10-2024_22-33-03_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/0f7a142c-0752-4771-acf7-a592826614d2.jpeg) `[ID: 68211465]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_880@28-10-2024_22-28-23_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/33abb34a-35b1-4474-b1cd-55bf0de37733.jpeg) `[ID: 68211320]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_959@28-10-2024_22-33-03.jpg](https://cdn-wl-assets.classplus.co/production/78392/a668d847-7fc9-4762-88c0-9d304369a57c.jpeg) `[ID: 68211466]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_881@28-10-2024_22-28-23.jpg](https://cdn-wl-assets.classplus.co/production/78392/556c5547-4c34-4c59-9bc9-1a296c98b662.jpeg) `[ID: 68211321]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_959@28-10-2024_22-33-03_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/4833dee9-7eb6-4aa1-8e31-06489ecb343f.jpeg) `[ID: 68211467]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_881@28-10-2024_22-28-23_thumb (1).jpg](https://cdn-wl-assets.classplus.co/production/78392/040ed704-e06f-4412-8a8d-0834e7b55857.jpeg) `[ID: 68211322]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_960@28-10-2024_22-33-03.jpg](https://cdn-wl-assets.classplus.co/production/78392/1fff11f9-193a-43f1-9a98-74590d50fd39.jpeg) `[ID: 68211468]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_881@28-10-2024_22-28-23_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/90d1dcb9-f272-47e4-a186-30414e695b67.jpeg) `[ID: 68211323]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_960@28-10-2024_22-33-03_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/c793147e-ee0b-4c1d-8d81-ca8a0426b142.jpeg) `[ID: 68211469]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_882@28-10-2024_22-28-23.jpg](https://cdn-wl-assets.classplus.co/production/78392/b9497ec7-1861-4609-95fb-92c9df98c859.jpeg) `[ID: 68211325]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_961@28-10-2024_22-33-03.jpg](https://cdn-wl-assets.classplus.co/production/78392/efa2019d-e99d-4844-ad14-8f5ca960081c.jpeg) `[ID: 68211471]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_882@28-10-2024_22-28-23_thumb (1).jpg](https://cdn-wl-assets.classplus.co/production/78392/31b27e10-d614-41b8-be9f-c06a5a60b9f9.jpeg) `[ID: 68211324]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_961@28-10-2024_22-33-03_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/1fc504af-998c-435e-ae33-9d88546e103e.jpeg) `[ID: 68211470]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_882@28-10-2024_22-28-23_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/322ae830-f6fe-446c-9c32-cf7c07c7de0f.jpeg) `[ID: 68211326]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_962@28-10-2024_22-33-03.jpg](https://cdn-wl-assets.classplus.co/production/78392/84b24207-c4b6-4955-b138-bcb06c4b0734.jpeg) `[ID: 68211472]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_883@28-10-2024_22-28-23.jpg](https://cdn-wl-assets.classplus.co/production/78392/5e5ece44-12c3-4c2a-acb4-a6d3141aca23.jpeg) `[ID: 68211327]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_962@28-10-2024_22-33-03_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/aa27b373-26bf-46ad-ab4d-95e132aef4a4.jpeg) `[ID: 68211473]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_883@28-10-2024_22-28-23_thumb (1).jpg](https://cdn-wl-assets.classplus.co/production/78392/689b32ca-c855-4e41-95f5-eaa08dc872c2.jpeg) `[ID: 68211329]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_963@28-10-2024_22-33-03.jpg](https://cdn-wl-assets.classplus.co/production/78392/a0eb5acd-8f84-4575-806a-d2f89a514ad8.jpeg) `[ID: 68211474]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_883@28-10-2024_22-28-23_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/bb8a73cb-e97b-4098-ba13-92d2a14a7c5e.jpeg) `[ID: 68211328]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_963@28-10-2024_22-33-03_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/55e42d28-d959-4ad8-a943-ab34d7a6bd18.jpeg) `[ID: 68211475]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_887@28-10-2024_22-33-03.jpg](https://cdn-wl-assets.classplus.co/production/78392/210d1f42-fac6-4103-bb63-cec0c8df2817.jpeg) `[ID: 68211330]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_964@28-10-2024_22-33-03.jpg](https://cdn-wl-assets.classplus.co/production/78392/dad28031-e601-4612-9192-179384271961.jpeg) `[ID: 68211476]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_887@28-10-2024_22-33-03_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/5497f317-62ea-44c6-93dd-d330e2cd2d09.jpeg) `[ID: 68211331]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_964@28-10-2024_22-33-03_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/be11cfbc-06f0-4a0f-81d4-d2ecc73b9cba.jpeg) `[ID: 68211478]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_888@28-10-2024_22-33-03.jpg](https://cdn-wl-assets.classplus.co/production/78392/99d32a6e-23c5-42e7-b5a1-1d7eea7e7ee6.jpeg) `[ID: 68211333]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_965@28-10-2024_22-33-04.jpg](https://cdn-wl-assets.classplus.co/production/78392/ebdd570a-65a6-4669-be1b-59d3748e190f.jpeg) `[ID: 68211477]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_888@28-10-2024_22-33-03_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/2348016d-d4ef-40a3-aec2-0fde10d4ed21.jpeg) `[ID: 68211334]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_965@28-10-2024_22-33-04_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/8ae066b6-78a0-48d8-839f-e5a6775c6b8f.jpeg) `[ID: 68211479]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_889@28-10-2024_22-33-03.jpg](https://cdn-wl-assets.classplus.co/production/78392/c002704f-5a60-4816-87c0-1fdc582a40fd.jpeg) `[ID: 68211332]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_966@28-10-2024_22-33-04.jpg](https://cdn-wl-assets.classplus.co/production/78392/7dd764f4-852b-4c71-96e7-69ca645e0173.jpeg) `[ID: 68211480]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_889@28-10-2024_22-33-03_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/61a1b701-0e3e-4c7f-9202-30b94b187727.jpeg) `[ID: 68211335]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_966@28-10-2024_22-33-04_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/9619cc93-2d3f-419d-89ca-8adc1d76c7ad.jpeg) `[ID: 68211481]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_890@28-10-2024_22-33-03.jpg](https://cdn-wl-assets.classplus.co/production/78392/33bdd6df-960f-4126-8776-149321eb87ff.jpeg) `[ID: 68211336]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_967@28-10-2024_22-33-04.jpg](https://cdn-wl-assets.classplus.co/production/78392/b0d50b4a-c47b-4569-9b2e-9baabd8244f6.jpeg) `[ID: 68211482]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_890@28-10-2024_22-33-03_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/8850bde2-e79c-4ff3-9c9c-b2fa7caefc3e.jpeg) `[ID: 68211337]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_967@28-10-2024_22-33-04_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/f066bb7c-54d2-4022-8ce2-d3c651fd335f.jpeg) `[ID: 68211483]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_891@28-10-2024_22-33-03.jpg](https://cdn-wl-assets.classplus.co/production/78392/1ebac905-a469-438d-9c01-4e5e2434c6f4.jpeg) `[ID: 68211338]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_968@28-10-2024_22-33-04.jpg](https://cdn-wl-assets.classplus.co/production/78392/204d07a8-6e17-45da-8ca7-479318d7d084.jpeg) `[ID: 68211484]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_891@28-10-2024_22-33-03_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/7e3e3090-686c-45c7-bbd6-72e833e9a2ca.jpeg) `[ID: 68211340]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_968@28-10-2024_22-33-04_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/8309516a-bb0b-4f68-bfd8-c15526f8203e.jpeg) `[ID: 68211485]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_892@28-10-2024_22-33-03.jpg](https://cdn-wl-assets.classplus.co/production/78392/9cdddd24-700d-4be3-be70-657ac03fb5dc.jpeg) `[ID: 68211339]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_969@28-10-2024_22-33-04.jpg](https://cdn-wl-assets.classplus.co/production/78392/c4a88f0d-0f31-41be-b488-b12dfe61bd9d.jpeg) `[ID: 68211486]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_892@28-10-2024_22-33-03_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/07eb3c66-82df-47d3-ad67-d0f569aef063.jpeg) `[ID: 68211341]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_969@28-10-2024_22-33-04_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/d378747a-49ac-4836-8a98-fe4a517fe563.jpeg) `[ID: 68211487]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_893@28-10-2024_22-33-03.jpg](https://cdn-wl-assets.classplus.co/production/78392/8f29af95-9e17-4fc5-af60-fb399eb6a9c8.jpeg) `[ID: 68211342]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_970@28-10-2024_22-33-04.jpg](https://cdn-wl-assets.classplus.co/production/78392/50c45ab2-0030-4315-9a02-1de940eecdf3.jpeg) `[ID: 68211488]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_893@28-10-2024_22-33-03_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/203c17e4-7145-41a5-92f6-7446503a92ee.jpeg) `[ID: 68211345]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_970@28-10-2024_22-33-04_thumb (1).jpg](https://cdn-wl-assets.classplus.co/production/78392/4ab58366-c4d0-4a0e-806a-40688dfd9b4f.jpeg) `[ID: 68211489]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_894@28-10-2024_22-33-03.jpg](https://cdn-wl-assets.classplus.co/production/78392/fac878eb-bd9d-4c11-a657-4480f453c292.jpeg) `[ID: 68211343]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_970@28-10-2024_22-33-04_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/6b39703f-2be9-4d00-8f17-6504f0a2965d.jpeg) `[ID: 68211490]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_894@28-10-2024_22-33-03_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/922142a0-fe42-49fc-9b3f-0c8fddcee09e.jpeg) `[ID: 68211344]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_971@28-10-2024_22-33-04.jpg](https://cdn-wl-assets.classplus.co/production/78392/427028ba-c2f1-4143-be73-b0d0cbd23844.jpeg) `[ID: 68211491]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_895@28-10-2024_22-33-03.jpg](https://cdn-wl-assets.classplus.co/production/78392/f64d3db7-75c0-4eed-91ef-8649527f34b9.jpeg) `[ID: 68211347]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_971@28-10-2024_22-33-04_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/faba7f70-623b-4278-b373-1fea305eb454.jpeg) `[ID: 68211492]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_895@28-10-2024_22-33-03_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/eeb2bbe3-e0ec-4802-869d-48232d6b3649.jpeg) `[ID: 68211346]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_972@28-10-2024_22-33-04.jpg](https://cdn-wl-assets.classplus.co/production/78392/8dde7a01-94bc-4a79-a20e-7e58955b1e0d.jpeg) `[ID: 68211493]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_896@28-10-2024_22-33-03.jpg](https://cdn-wl-assets.classplus.co/production/78392/9d7b591f-c918-4049-abfb-1707aaecae55.jpeg) `[ID: 68211348]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_972@28-10-2024_22-33-04_thumb (1).jpg](https://cdn-wl-assets.classplus.co/production/78392/8fb2e4ce-e4ba-4449-a392-dde7a15471c2.jpeg) `[ID: 68211494]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_896@28-10-2024_22-33-03_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/12830fb8-7bc9-463f-a75a-5485ffd976bd.jpeg) `[ID: 68211350]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_972@28-10-2024_22-33-04_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/f1ea850a-43ca-4c13-bccc-de93a8e9ebb8.jpeg) `[ID: 68211495]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_897@28-10-2024_22-33-03.jpg](https://cdn-wl-assets.classplus.co/production/78392/485dc9f0-9b0f-4ab5-8ba7-0b67546ba029.jpeg) `[ID: 68211349]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_974@28-10-2024_22-33-04.jpg](https://cdn-wl-assets.classplus.co/production/78392/315a9ed4-d39a-4580-8bee-b83d1b66dad7.jpeg) `[ID: 68211498]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_897@28-10-2024_22-33-03_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/0cf643ae-72ac-4bb9-a4df-dab4fbdaee7e.jpeg) `[ID: 68211351]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_974@28-10-2024_22-33-04_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/3dcbe289-edfe-45e4-8b17-7ae5f388ab2c.jpeg) `[ID: 68211496]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_898@28-10-2024_22-33-03.jpg](https://cdn-wl-assets.classplus.co/production/78392/5aa00f3c-493b-40a5-b886-e5ead27a8a1b.jpeg) `[ID: 68211352]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_976@28-10-2024_22-33-04.jpg](https://cdn-wl-assets.classplus.co/production/78392/ca40efb2-7bab-4acf-ac02-bf71a1682d09.jpeg) `[ID: 68211497]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_898@28-10-2024_22-33-03_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/9edd1d4f-ec16-40c7-a8fe-732ebd0bc283.jpeg) `[ID: 68211353]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_976@28-10-2024_22-33-04_thumb (1).jpg](https://cdn-wl-assets.classplus.co/production/78392/5793dbf6-0dfe-483e-aabf-1571e37fde5e.jpeg) `[ID: 68211499]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_899@28-10-2024_22-33-03.jpg](https://cdn-wl-assets.classplus.co/production/78392/95e6df60-62f1-4764-b714-b82d9f7c0a1b.jpeg) `[ID: 68211354]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_976@28-10-2024_22-33-04_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/841b5200-2561-4e56-b121-e5ea84e62a87.jpeg) `[ID: 68211500]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_899@28-10-2024_22-33-03_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/188f83d3-9d0e-433d-9e5e-61be8e852290.jpeg) `[ID: 68211355]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_977@28-10-2024_22-33-04.jpg](https://cdn-wl-assets.classplus.co/production/78392/167975ae-87e4-4227-aa31-ddc1ebe8e6cf.jpeg) `[ID: 68211501]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_900@28-10-2024_22-33-03.jpg](https://cdn-wl-assets.classplus.co/production/78392/dfa0685a-a947-40fc-b31f-1dbf15b47ccc.jpeg) `[ID: 68211356]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_977@28-10-2024_22-33-04_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/d3076862-3885-4611-b99b-01054ce5cfe1.jpeg) `[ID: 68211502]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_900@28-10-2024_22-33-03_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/c4ba200e-bc60-4049-8878-8f514d12bbf0.jpeg) `[ID: 68211358]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_978@28-10-2024_22-33-04.jpg](https://cdn-wl-assets.classplus.co/production/78392/7c02b95c-376f-46c8-9c40-aadd9b2cec67.jpeg) `[ID: 68211503]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_901@28-10-2024_22-33-03.jpg](https://cdn-wl-assets.classplus.co/production/78392/dafd4161-00f5-4b29-a7cb-284fe27677a3.jpeg) `[ID: 68211357]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_978@28-10-2024_22-33-04_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/110493fc-1349-48eb-842a-a60cedffed1a.jpeg) `[ID: 68211504]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_901@28-10-2024_22-33-03_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/d362ad86-4ca8-4cf1-a539-183537178e83.jpeg) `[ID: 68211359]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_979@28-10-2024_22-33-04.jpg](https://cdn-wl-assets.classplus.co/production/78392/ff9d511e-d64a-44cf-b9a9-9395ce156a61.jpeg) `[ID: 68211505]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_902@28-10-2024_22-33-03.jpg](https://cdn-wl-assets.classplus.co/production/78392/ae55b034-7530-4947-8718-2e1da511a6c9.jpeg) `[ID: 68211360]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_979@28-10-2024_22-33-04_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/015af496-d602-4cd7-937b-fca4a49f087a.jpeg) `[ID: 68211506]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_902@28-10-2024_22-33-03_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/b65e9be2-dce9-4141-95ef-3a310551e48a.jpeg) `[ID: 68211361]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_980@28-10-2024_22-33-04.jpg](https://cdn-wl-assets.classplus.co/production/78392/470b1f09-252c-4a8d-90c7-d60ce1df6cb3.jpeg) `[ID: 68211508]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_903@28-10-2024_22-33-03.jpg](https://cdn-wl-assets.classplus.co/production/78392/3eb101f8-24de-44ab-9db0-bdb62f7995e0.jpeg) `[ID: 68211362]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_980@28-10-2024_22-33-04_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/abac028a-d210-4f8e-8ebc-92cd0abfc55e.jpeg) `[ID: 68211507]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_903@28-10-2024_22-33-03_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/d2228adc-b327-41a7-b4d4-284f54259750.jpeg) `[ID: 68211363]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_981@28-10-2024_22-33-04.jpg](https://cdn-wl-assets.classplus.co/production/78392/85c63d9c-63fc-45b5-af73-45c86e782a1e.jpeg) `[ID: 68211510]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_904@28-10-2024_22-33-03.jpg](https://cdn-wl-assets.classplus.co/production/78392/f050e80f-031b-4505-9f9c-c68d36b98844.jpeg) `[ID: 68211365]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_981@28-10-2024_22-33-04_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/f82343c0-e5d7-4858-9d4d-bb2c356bd84d.jpeg) `[ID: 68211509]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_904@28-10-2024_22-33-03_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/c016f639-1116-4d2d-bbd1-f436c70d5719.jpeg) `[ID: 68211364]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_982@28-10-2024_22-33-04.jpg](https://cdn-wl-assets.classplus.co/production/78392/5d7b2400-e973-4155-8cb3-d6975b909cd2.jpeg) `[ID: 68211511]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_905@28-10-2024_22-33-03.jpg](https://cdn-wl-assets.classplus.co/production/78392/ee2524ef-9cc8-4dda-b8fe-ca19de02e1ef.jpeg) `[ID: 68211367]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_982@28-10-2024_22-33-04_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/b9e802d8-59c7-4904-b8f3-240d9d92f286.jpeg) `[ID: 68211512]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_905@28-10-2024_22-33-03_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/fb5c9607-e546-4c92-baa6-bbd40dc2e58e.jpeg) `[ID: 68211366]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_983@28-10-2024_22-33-04.jpg](https://cdn-wl-assets.classplus.co/production/78392/08c169ec-10e9-4e1c-a903-366758b3748d.jpeg) `[ID: 68211513]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_906@28-10-2024_22-33-03.jpg](https://cdn-wl-assets.classplus.co/production/78392/6b5b2e86-57d0-43d6-b5ef-396fd23eef0b.jpeg) `[ID: 68211368]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_983@28-10-2024_22-33-04_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/d6c79a73-c9e9-46a2-bef7-19d8394fcf39.jpeg) `[ID: 68211514]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_906@28-10-2024_22-33-03_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/1bf05ffc-1343-4ca1-8c03-da89b9792b72.jpeg) `[ID: 68211369]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_984@28-10-2024_22-34-34.jpg](https://cdn-wl-assets.classplus.co/production/78392/f783e9c3-6c80-4ad4-85e0-15494b40058c.jpeg) `[ID: 68211515]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_907@28-10-2024_22-33-03.jpg](https://cdn-wl-assets.classplus.co/production/78392/d871e50c-01f1-46e9-8a07-a3b7ae6a1894.jpeg) `[ID: 68211370]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_984@28-10-2024_22-34-34_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/5f079aa2-0d65-4f20-955d-ec445412c288.jpeg) `[ID: 68211516]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_907@28-10-2024_22-33-03_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/48d7fd5d-d72c-46d4-ac27-a5ebd88a0520.jpeg) `[ID: 68211371]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_985@28-10-2024_22-34-34.jpg](https://cdn-wl-assets.classplus.co/production/78392/daaa2fb0-2929-4034-b90f-83b32c26b5f4.jpeg) `[ID: 68211518]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_908@28-10-2024_22-33-03.jpg](https://cdn-wl-assets.classplus.co/production/78392/8ef535de-4669-47ea-9604-bcf90d79091f.jpeg) `[ID: 68211372]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_985@28-10-2024_22-34-34_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/9fc82931-c28a-4ecb-943b-96e74b9513d5.jpeg) `[ID: 68211517]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_908@28-10-2024_22-33-03_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/f4082713-0d63-4e6c-8cc3-7a4214fdcf20.jpeg) `[ID: 68211373]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_986@28-10-2024_22-34-34.jpg](https://cdn-wl-assets.classplus.co/production/78392/8b5bf6fe-7a7a-4870-a092-6889f1bb4ff6.jpeg) `[ID: 68211519]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_909@28-10-2024_22-33-03.jpg](https://cdn-wl-assets.classplus.co/production/78392/ef656ca9-b10f-468f-8b35-0086fa59c1f9.jpeg) `[ID: 68211374]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_986@28-10-2024_22-34-34_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/a49eaad0-469b-4b2a-a8c2-6de31da05ffc.jpeg) `[ID: 68211520]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_909@28-10-2024_22-33-03_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/749bc8f1-cc8f-4495-b1b9-438923a7280e.jpeg) `[ID: 68211375]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_988@28-10-2024_22-34-34.jpg](https://cdn-wl-assets.classplus.co/production/78392/c2051e2d-deb5-4530-9e44-b0852d0cfddf.jpeg) `[ID: 68211521]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_910@28-10-2024_22-33-03.jpg](https://cdn-wl-assets.classplus.co/production/78392/a886105d-341a-47f4-abe0-bef39eb38f81.jpeg) `[ID: 68211377]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_988@28-10-2024_22-34-34_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/75056ca1-bc2c-4af6-b85d-45edd1231011.jpeg) `[ID: 68211522]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_910@28-10-2024_22-33-03_thumb (1).jpg](https://cdn-wl-assets.classplus.co/production/78392/cadb1e5f-c91f-412b-92f5-5a5bf7acbfe5.jpeg) `[ID: 68211376]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_989@28-10-2024_22-34-34.jpg](https://cdn-wl-assets.classplus.co/production/78392/da22f6e4-9a9c-4103-89d7-57d4ebdb0618.jpeg) `[ID: 68211523]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_910@28-10-2024_22-33-03_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/2ef51d57-387f-451e-8836-981f6f143d6d.jpeg) `[ID: 68211378]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_989@28-10-2024_22-34-34_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/a594c5b2-6a9e-4baa-b2f8-a26cc31607ee.jpeg) `[ID: 68211524]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_912@28-10-2024_22-33-03.jpg](https://cdn-wl-assets.classplus.co/production/78392/d7f1bf7d-bd37-4b07-9ade-f77ecfd0e310.jpeg) `[ID: 68211379]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_990@28-10-2024_22-34-34.jpg](https://cdn-wl-assets.classplus.co/production/78392/b02efef7-cded-4e1f-9da1-8e2bdb52f6b2.jpeg) `[ID: 68211525]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_912@28-10-2024_22-33-03_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/6855acc3-a52e-47e9-af75-2def4de956d5.jpeg) `[ID: 68211380]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_990@28-10-2024_22-34-34_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/dc17a580-b2da-4dae-8e25-54bd94a7462e.jpeg) `[ID: 68211526]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_915@28-10-2024_22-33-03.jpg](https://cdn-wl-assets.classplus.co/production/78392/a5eec7c0-229d-4e9c-924a-0034cbd1aff7.jpeg) `[ID: 68211381]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_991@28-10-2024_22-34-34.jpg](https://cdn-wl-assets.classplus.co/production/78392/511da564-bdfe-4db3-998c-233158cd0311.jpeg) `[ID: 68211527]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_915@28-10-2024_22-33-03_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/256abd2d-9c92-44b7-819d-e5a3c4908af2.jpeg) `[ID: 68211382]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_991@28-10-2024_22-34-34_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/434da644-e470-47e9-b922-4a969ee3147e.jpeg) `[ID: 68211529]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_916@28-10-2024_22-33-03.jpg](https://cdn-wl-assets.classplus.co/production/78392/586330c5-4262-46c4-a32d-1dfd749e389c.jpeg) `[ID: 68211383]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_992@28-10-2024_22-34-34.jpg](https://cdn-wl-assets.classplus.co/production/78392/150d09be-379e-47ea-ae45-a341fe7b21a1.jpeg) `[ID: 68211528]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_916@28-10-2024_22-33-03_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/2c558aea-87ea-496a-b60e-b6d867bf2ac2.jpeg) `[ID: 68211384]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_992@28-10-2024_22-34-34_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/24dcd5d1-a3a4-447b-955b-f11845354098.jpeg) `[ID: 68211530]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_917@28-10-2024_22-33-03.jpg](https://cdn-wl-assets.classplus.co/production/78392/15c18f9b-a4b8-46a2-a059-10cd7a633da3.jpeg) `[ID: 68211385]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_993@28-10-2024_22-34-34.jpg](https://cdn-wl-assets.classplus.co/production/78392/0928bfcf-06f6-4eba-a20c-198bfe732d76.jpeg) `[ID: 68211531]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_917@28-10-2024_22-33-03_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/91e84538-974c-45ce-b516-b1013a1a6232.jpeg) `[ID: 68211386]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_993@28-10-2024_22-34-34_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/fe57e630-5c01-48a9-8808-0ad30fc82997.jpeg) `[ID: 68211532]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_918@28-10-2024_22-33-03.jpg](https://cdn-wl-assets.classplus.co/production/78392/82e7fdc2-7be9-4b0d-9d37-f84cd0dd0daf.jpeg) `[ID: 68211387]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_994@28-10-2024_22-34-34.jpg](https://cdn-wl-assets.classplus.co/production/78392/2686b268-4714-4cc7-80c4-ea6829be199b.jpeg) `[ID: 68211533]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_918@28-10-2024_22-33-03_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/704f72b9-a2d3-46eb-ab8d-df6eed128cd3.jpeg) `[ID: 68211388]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_994@28-10-2024_22-34-34_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/082e43aa-1dc0-42d5-81a0-81cd5f5d7737.jpeg) `[ID: 68211534]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_919@28-10-2024_22-33-03.jpg](https://cdn-wl-assets.classplus.co/production/78392/ad94c946-7e59-4933-8cb0-9bfcc2625685.jpeg) `[ID: 68211390]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_995@28-10-2024_22-34-34.jpg](https://cdn-wl-assets.classplus.co/production/78392/d86e6da0-b014-4227-bb30-73b250aed543.jpeg) `[ID: 68211535]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_919@28-10-2024_22-33-03_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/835677cd-1a5d-4a02-8152-32693ca0572b.jpeg) `[ID: 68211389]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_995@28-10-2024_22-34-34_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/51437fbc-0840-46e8-a17d-bc5b347176e5.jpeg) `[ID: 68211536]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_920@28-10-2024_22-33-03.jpg](https://cdn-wl-assets.classplus.co/production/78392/2146b68a-d187-4680-a940-4efebccf8bfa.jpeg) `[ID: 68211391]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_996@28-10-2024_22-34-34.jpg](https://cdn-wl-assets.classplus.co/production/78392/efa211ed-f350-46dc-8192-e146f74ddf4a.jpeg) `[ID: 68211537]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_920@28-10-2024_22-33-03_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/9f47934b-8442-4ca8-baa0-8bcdd0f85713.jpeg) `[ID: 68211392]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_996@28-10-2024_22-34-34_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/554d0276-ade1-451d-a7ea-c98c78f6b6e9.jpeg) `[ID: 68211539]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_921@28-10-2024_22-33-03.jpg](https://cdn-wl-assets.classplus.co/production/78392/2871a974-2720-4741-a6db-369bfdec46e0.jpeg) `[ID: 68211393]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_997@28-10-2024_22-34-34.jpg](https://cdn-wl-assets.classplus.co/production/78392/5376ec02-7dab-4229-a86e-82d680b6c0c6.jpeg) `[ID: 68211538]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_921@28-10-2024_22-33-03_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/8a4fa55a-8b74-4e03-b455-8ea8817d383c.jpeg) `[ID: 68211394]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_997@28-10-2024_22-34-34_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/4776ac3a-29ce-4b03-83f2-918255421594.jpeg) `[ID: 68211540]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_922@28-10-2024_22-33-03.jpg](https://cdn-wl-assets.classplus.co/production/78392/26ed8848-c5c2-49ad-bb8c-74032b82ab95.jpeg) `[ID: 68211395]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_998@28-10-2024_22-34-34.jpg](https://cdn-wl-assets.classplus.co/production/78392/a2e4a41b-0bd1-48cb-86ea-6884c0b5ebd2.jpeg) `[ID: 68211542]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_922@28-10-2024_22-33-03_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/dda27a68-f0b7-4e41-9392-84dfe6096a73.jpeg) `[ID: 68211396]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_998@28-10-2024_22-34-34_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/70a36a66-e5d4-49bf-acaf-f2ef45d6a88d.jpeg) `[ID: 68211543]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_923@28-10-2024_22-33-03.jpg](https://cdn-wl-assets.classplus.co/production/78392/3b85e8a9-3dbf-4063-8a38-1bc8b1cdc1e6.jpeg) `[ID: 68211397]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_999@28-10-2024_22-34-34.jpg](https://cdn-wl-assets.classplus.co/production/78392/c388c25a-50e7-4d04-9a7d-6230b759f4db.jpeg) `[ID: 68211544]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_923@28-10-2024_22-33-03_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/4ee6ca62-2caa-4bf4-b8e8-dc55fb926e1f.jpeg) `[ID: 68211398]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_999@28-10-2024_22-34-34_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/fcd01a6c-f9ce-432b-9f59-f712259bd2ec.jpeg) `[ID: 68211541]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_924@28-10-2024_22-33-03.jpg](https://cdn-wl-assets.classplus.co/production/78392/52c62b35-3751-498f-a98c-6429222da09e.jpeg) `[ID: 68211400]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1000@28-10-2024_22-34-34.jpg](https://cdn-wl-assets.classplus.co/production/78392/c5a44e7c-625a-4674-82b0-d5ffaf4c21f7.jpeg) `[ID: 68211545]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_924@28-10-2024_22-33-03_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/9dd0b3ed-bbf8-4228-960a-8f39fc89b924.jpeg) `[ID: 68211399]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1000@28-10-2024_22-34-34_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/33ed2eb5-500f-43b7-8a91-54618e228936.jpeg) `[ID: 68211546]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_925@28-10-2024_22-33-03.jpg](https://cdn-wl-assets.classplus.co/production/78392/361544e9-b946-4d8a-bec8-bedeff3088c8.jpeg) `[ID: 68211401]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1001@28-10-2024_22-34-34.jpg](https://cdn-wl-assets.classplus.co/production/78392/4b9746c8-4bd8-4b99-ae0c-6db53785cd31.jpeg) `[ID: 68211548]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_925@28-10-2024_22-33-03_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/c20778d9-b404-40a0-a2f4-83a0ecb11473.jpeg) `[ID: 68211403]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1001@28-10-2024_22-34-34_thumb (1).jpg](https://cdn-wl-assets.classplus.co/production/78392/a2fe1943-712b-4294-a175-c5e0132cd101.jpeg) `[ID: 68211547]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_926@28-10-2024_22-33-03.jpg](https://cdn-wl-assets.classplus.co/production/78392/2830862d-cb6a-4a52-988d-8607f828ce88.jpeg) `[ID: 68211402]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1001@28-10-2024_22-34-34_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/6d7af65e-bcfb-4759-a82c-a5a9b23a6763.jpeg) `[ID: 68211549]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_926@28-10-2024_22-33-03_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/324481a5-c054-4a4c-8654-9210298dd7ff.jpeg) `[ID: 68211404]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1002@28-10-2024_22-34-34.jpg](https://cdn-wl-assets.classplus.co/production/78392/988e8056-65b0-4b2e-b66b-aa5b25a85676.jpeg) `[ID: 68211550]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_927@28-10-2024_22-33-03.jpg](https://cdn-wl-assets.classplus.co/production/78392/0ac0d9e0-15c7-4e10-83d9-874fdf827ca1.jpeg) `[ID: 68211405]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1002@28-10-2024_22-34-34_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/b14b298f-dce2-4650-b7e3-0f2297999b03.jpeg) `[ID: 68211551]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_927@28-10-2024_22-33-03_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/2aaf7661-052f-4cd2-aa95-e17dd3104c62.jpeg) `[ID: 68211406]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1003@28-10-2024_22-34-34.jpg](https://cdn-wl-assets.classplus.co/production/78392/f182fead-741c-4391-871b-c26416d2ea4f.jpeg) `[ID: 68211552]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_928@28-10-2024_22-33-03.jpg](https://cdn-wl-assets.classplus.co/production/78392/95963661-76be-42e2-80a0-ed423224f115.jpeg) `[ID: 68211407]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1003@28-10-2024_22-34-34_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/dfc81afe-d5b7-4eed-a19b-c5e447616332.jpeg) `[ID: 68211553]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_928@28-10-2024_22-33-03_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/8dff132c-af26-4866-9b02-062786abfe31.jpeg) `[ID: 68211408]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1004@28-10-2024_22-34-34.jpg](https://cdn-wl-assets.classplus.co/production/78392/79b4fb11-999d-434a-a896-2a05d3d6c517.jpeg) `[ID: 68211554]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_929@28-10-2024_22-33-03.jpg](https://cdn-wl-assets.classplus.co/production/78392/12e127bd-621b-437b-922b-c8c8b66fc303.jpeg) `[ID: 68211409]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1006@28-10-2024_22-34-34.jpg](https://cdn-wl-assets.classplus.co/production/78392/79bcffbd-ff59-43af-a850-1c0a1c64af39.jpeg) `[ID: 68211555]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_929@28-10-2024_22-33-03_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/39c96fb4-fd77-402e-b009-e06f551faa36.jpeg) `[ID: 68211410]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1006@28-10-2024_22-34-34_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/029e9bb7-afcd-461d-a696-181dc1c6e5d2.jpeg) `[ID: 68211556]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_930@28-10-2024_22-33-03.jpg](https://cdn-wl-assets.classplus.co/production/78392/902c1f21-5072-49b2-b154-b545edef96af.jpeg) `[ID: 68211411]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1007@28-10-2024_22-34-34.jpg](https://cdn-wl-assets.classplus.co/production/78392/78bb4d65-928c-44a2-bced-097e7f443fed.jpeg) `[ID: 68211557]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_930@28-10-2024_22-33-03_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/4383ed51-c661-40de-862a-0aa0de95ef08.jpeg) `[ID: 68211412]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1007@28-10-2024_22-34-34_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/4c06eaa0-e77b-4e14-b703-b84f4e2eacd3.jpeg) `[ID: 68211558]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_931@28-10-2024_22-33-03.jpg](https://cdn-wl-assets.classplus.co/production/78392/c87f2599-ac9d-41b4-a982-29767b17d198.jpeg) `[ID: 68211414]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1008@28-10-2024_22-34-34.jpg](https://cdn-wl-assets.classplus.co/production/78392/50a9c5fb-6379-429f-8fca-c0ea56b49b0b.jpeg) `[ID: 68211559]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_931@28-10-2024_22-33-03_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/f98c0ff5-bf80-4a3f-ac97-e8e80bcb8262.jpeg) `[ID: 68211413]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1008@28-10-2024_22-34-34_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/9b288ec6-0db3-4a32-b638-41062a2e9f29.jpeg) `[ID: 68211560]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_932@28-10-2024_22-33-03.jpg](https://cdn-wl-assets.classplus.co/production/78392/8044f485-f9f2-4bee-9a62-532dd61b91db.jpeg) `[ID: 68211416]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1009@28-10-2024_22-34-34.jpg](https://cdn-wl-assets.classplus.co/production/78392/0ac9d72f-c804-4421-b2c4-5c48e094eda6.jpeg) `[ID: 68211561]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_932@28-10-2024_22-33-03_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/1b4213b2-4591-440d-a548-bd5e0840ff2b.jpeg) `[ID: 68211415]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1009@28-10-2024_22-34-34_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/d1b51b70-f135-4af4-a257-075f29c72407.jpeg) `[ID: 68211564]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_933@28-10-2024_22-33-03.jpg](https://cdn-wl-assets.classplus.co/production/78392/f285dcff-0648-451b-9c19-cadb69c3edd4.jpeg) `[ID: 68211418]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1010@28-10-2024_22-34-34.jpg](https://cdn-wl-assets.classplus.co/production/78392/946373dc-8f96-4ac4-961f-b8186c5366a1.jpeg) `[ID: 68211562]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_933@28-10-2024_22-33-03_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/0b5ba23b-425a-48f2-871f-6663342e867e.jpeg) `[ID: 68211417]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1010@28-10-2024_22-34-34_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/eb9d80a8-d9bb-43f3-bd17-894e584d66fa.jpeg) `[ID: 68211563]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_934@28-10-2024_22-33-03.jpg](https://cdn-wl-assets.classplus.co/production/78392/232422dc-21d5-4446-963d-ecf67ec7f4cf.jpeg) `[ID: 68211419]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1011@28-10-2024_22-34-34.jpg](https://cdn-wl-assets.classplus.co/production/78392/920482b4-8a4f-4f06-9ed6-a030940117ea.jpeg) `[ID: 68211565]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_934@28-10-2024_22-33-03_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/253b9c7c-604e-4186-94d3-9f6f8402f44d.jpeg) `[ID: 68211420]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1011@28-10-2024_22-34-34_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/12e7ddbb-4ae1-46a3-8811-fdfa59853301.jpeg) `[ID: 68211566]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_935@28-10-2024_22-33-03.jpg](https://cdn-wl-assets.classplus.co/production/78392/7188b7cb-5360-4bc4-b77d-742f6a0ef385.jpeg) `[ID: 68211421]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1012@28-10-2024_22-34-34.jpg](https://cdn-wl-assets.classplus.co/production/78392/61be493f-4aa6-4666-bb80-7b39bf095fc3.jpeg) `[ID: 68211567]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_935@28-10-2024_22-33-03_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/11660cd5-64fe-43cd-a3d5-52076441ff70.jpeg) `[ID: 68211422]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1012@28-10-2024_22-34-34_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/6fc589ad-68d1-44f5-8955-c2b396ddb756.jpeg) `[ID: 68211568]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_936@28-10-2024_22-33-03.jpg](https://cdn-wl-assets.classplus.co/production/78392/c39b4362-bece-4770-840f-078b643f4292.jpeg) `[ID: 68211423]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1013@28-10-2024_22-34-34.jpg](https://cdn-wl-assets.classplus.co/production/78392/4eed410d-a4b9-4f66-a733-5dc7e101af82.jpeg) `[ID: 68211569]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_936@28-10-2024_22-33-03_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/3b86a959-3a0d-4f31-8d42-ee2d12a226ff.jpeg) `[ID: 68211425]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1013@28-10-2024_22-34-34_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/11bb9dd0-377f-4f8f-b566-64af53d516a4.jpeg) `[ID: 68211570]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_937@28-10-2024_22-33-03.jpg](https://cdn-wl-assets.classplus.co/production/78392/ec952e4a-d434-4722-898f-5673b2000c8a.jpeg) `[ID: 68211424]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1014@28-10-2024_22-34-34.jpg](https://cdn-wl-assets.classplus.co/production/78392/ad7f6015-3bd3-4d8b-b79c-28de8bedfbbb.jpeg) `[ID: 68211572]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_937@28-10-2024_22-33-03_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/fdd67dee-df18-4617-9160-d19be96058b8.jpeg) `[ID: 68211426]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1014@28-10-2024_22-34-34_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/85dee4d5-5b1c-41ea-8ebf-802ff0716e31.jpeg) `[ID: 68211571]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_938@28-10-2024_22-33-03.jpg](https://cdn-wl-assets.classplus.co/production/78392/24076d85-9923-4aa7-b45f-62fa85371783.jpeg) `[ID: 68211427]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1015@28-10-2024_22-34-34.jpg](https://cdn-wl-assets.classplus.co/production/78392/8b7f160a-8382-497e-8ba7-87b4a02fd1d8.jpeg) `[ID: 68211573]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_938@28-10-2024_22-33-03_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/c71f8b34-b457-4d3a-953c-2b7053723bae.jpeg) `[ID: 68211428]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1015@28-10-2024_22-34-34_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/009c2c17-721a-42c0-9083-6b0f78595fde.jpeg) `[ID: 68211574]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_939@28-10-2024_22-33-03.jpg](https://cdn-wl-assets.classplus.co/production/78392/914f52ef-2f6e-4237-aaa3-a90a85129452.jpeg) `[ID: 68211431]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1016@28-10-2024_22-34-34.jpg](https://cdn-wl-assets.classplus.co/production/78392/b721bbbc-47ba-46b3-ad7a-a8ae13a377c3.jpeg) `[ID: 68211575]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_939@28-10-2024_22-33-03_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/9b1c7bfa-7453-476b-b787-2b20fd4966f6.jpeg) `[ID: 68211432]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1016@28-10-2024_22-34-34_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/d641cc99-1b01-427e-b6df-bca408e44082.jpeg) `[ID: 68211576]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_940@28-10-2024_22-33-03.jpg](https://cdn-wl-assets.classplus.co/production/78392/697acf77-fd93-4e11-b386-e0add970fc00.jpeg) `[ID: 68211435]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1017@28-10-2024_22-34-34.jpg](https://cdn-wl-assets.classplus.co/production/78392/13ec2af5-8931-4d5c-a96f-86de6110aba4.jpeg) `[ID: 68211578]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_940@28-10-2024_22-33-03_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/06a2c348-f288-4948-b43a-86afb5f45b1a.jpeg) `[ID: 68211437]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1017@28-10-2024_22-34-34_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/7d599968-5ebb-4148-bcc1-1076d676998f.jpeg) `[ID: 68211577]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_941@28-10-2024_22-33-03.jpg](https://cdn-wl-assets.classplus.co/production/78392/7ec4ff15-df70-43b5-9cd9-360cb19c7a3b.jpeg) `[ID: 68211439]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1018@28-10-2024_22-34-34.jpg](https://cdn-wl-assets.classplus.co/production/78392/74521f89-1852-4a7d-9be6-ea70e66a0890.jpeg) `[ID: 68211580]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_941@28-10-2024_22-33-03_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/77be4f42-2606-4bc7-810c-abfb3b9d052d.jpeg) `[ID: 68211440]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1018@28-10-2024_22-34-34_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/b3efed54-6eac-4566-85f5-c2b157d5ddd5.jpeg) `[ID: 68211579]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_942@28-10-2024_22-33-03.jpg](https://cdn-wl-assets.classplus.co/production/78392/59e6aed4-5641-4f53-ad9c-c5ee90853c57.jpeg) `[ID: 68211441]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1019@28-10-2024_22-34-34.jpg](https://cdn-wl-assets.classplus.co/production/78392/d75ad753-a6b3-4405-981e-26efc8a993e4.jpeg) `[ID: 68211581]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_942@28-10-2024_22-33-03_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/88f9a884-b901-4ef5-859a-894f825d3f1d.jpeg) `[ID: 68211442]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1019@28-10-2024_22-34-34_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/bd9e4804-b321-4f6d-9f4e-86a7311eeccb.jpeg) `[ID: 68211582]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_943@28-10-2024_22-33-03.jpg](https://cdn-wl-assets.classplus.co/production/78392/9284ed94-27b8-4384-a77a-e48c7d7e11bb.jpeg) `[ID: 68211443]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1021@28-10-2024_22-34-34.jpg](https://cdn-wl-assets.classplus.co/production/78392/9d0aa4b1-5253-477f-8f86-bb0cde7eddb8.jpeg) `[ID: 68211583]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_943@28-10-2024_22-33-03_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/2aa680c0-e4db-4bf0-9e9b-36aeb8846c97.jpeg) `[ID: 68211445]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1021@28-10-2024_22-34-34_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/104d07d5-2e8d-4bc4-ac17-dbe8b3846975.jpeg) `[ID: 68211584]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_944@28-10-2024_22-33-03.jpg](https://cdn-wl-assets.classplus.co/production/78392/51ad576b-004b-4bec-b603-44f81c306d6e.jpeg) `[ID: 68211444]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1022@28-10-2024_22-34-34.jpg](https://cdn-wl-assets.classplus.co/production/78392/d6fcb044-c64f-47a8-8dfe-ae405c651afc.jpeg) `[ID: 68211585]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_944@28-10-2024_22-33-03_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/5673efdd-c193-4f45-8549-2b5cb84701a2.jpeg) `[ID: 68211446]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1022@28-10-2024_22-34-34_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/da5394a4-4577-4d7c-890b-0339af177605.jpeg) `[ID: 68211586]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_945@28-10-2024_22-33-03.jpg](https://cdn-wl-assets.classplus.co/production/78392/59f4c49a-e45f-40c5-9275-6a9507572762.jpeg) `[ID: 68211447]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1023@28-10-2024_22-34-34.jpg](https://cdn-wl-assets.classplus.co/production/78392/3bc92b5e-2e7e-482f-a78d-6022aa120fb0.jpeg) `[ID: 68211588]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_945@28-10-2024_22-33-03_thumb (1).jpg](https://cdn-wl-assets.classplus.co/production/78392/420ffc1d-7bf0-4538-ad99-3b29c24e036c.jpeg) `[ID: 68211448]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1023@28-10-2024_22-34-34_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/28fe76b9-2514-49c3-88b7-804ff82e702c.jpeg) `[ID: 68211587]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_945@28-10-2024_22-33-03_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/96169ea2-d773-43df-a26a-bf1cdabe1af3.jpeg) `[ID: 68211450]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1024@28-10-2024_22-34-34.jpg](https://cdn-wl-assets.classplus.co/production/78392/6c38e8ef-2758-4df2-ab65-726b52d1d4d3.jpeg) `[ID: 68211589]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_946@28-10-2024_22-33-03.jpg](https://cdn-wl-assets.classplus.co/production/78392/6b3aace2-53b6-4a18-8e5f-484b9ec9c9d9.jpeg) `[ID: 68211449]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1024@28-10-2024_22-34-34_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/7750d56e-11a5-4da4-ad48-5495da4ea33c.jpeg) `[ID: 68211590]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_946@28-10-2024_22-33-03_thumb (1).jpg](https://cdn-wl-assets.classplus.co/production/78392/3fe9927c-4f8d-4545-b0f3-970dc3db56d5.jpeg) `[ID: 68211452]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1025@28-10-2024_22-34-34.jpg](https://cdn-wl-assets.classplus.co/production/78392/caba6560-fe89-4c02-aeda-41c90d3ebcb1.jpeg) `[ID: 68211591]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1025@28-10-2024_22-34-34_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/a745162f-f50c-4d6c-a8d0-d263ec628bfd.jpeg) `[ID: 68211593]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1026@28-10-2024_22-34-34.jpg](https://cdn-wl-assets.classplus.co/production/78392/8ffb45d7-9d9f-4ba4-a42a-5c73d96d825d.jpeg) `[ID: 68211592]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1026@28-10-2024_22-34-34_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/94e4effb-e0ae-4b97-8554-1f7fe9ce8e8c.jpeg) `[ID: 68211596]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1027@28-10-2024_22-34-34.jpg](https://cdn-wl-assets.classplus.co/production/78392/06469ef7-62a9-4c34-902d-8516292e3229.jpeg) `[ID: 68211594]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1027@28-10-2024_22-34-34_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/d397927b-edf1-4429-8a2a-3c594b9523e0.jpeg) `[ID: 68211595]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1028@28-10-2024_22-34-34.jpg](https://cdn-wl-assets.classplus.co/production/78392/4f520766-631e-4758-8fe7-0fb41eff973b.jpeg) `[ID: 68211597]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1028@28-10-2024_22-34-34_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/f00a153c-f50d-493f-88f0-832aadc014d7.jpeg) `[ID: 68211598]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1029@28-10-2024_22-34-34.jpg](https://cdn-wl-assets.classplus.co/production/78392/7bbb0f09-e3e6-47a0-9a96-84a9426a0ff1.jpeg) `[ID: 68211599]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1029@28-10-2024_22-34-34_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/6c967195-99d2-4715-93f5-95ff4ddb6c9c.jpeg) `[ID: 68211600]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1030@28-10-2024_22-34-34.jpg](https://cdn-wl-assets.classplus.co/production/78392/d0eab9fb-dbfc-4c72-8abd-8daf115ceec4.jpeg) `[ID: 68211601]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1030@28-10-2024_22-34-34_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/c8c084a8-1d12-4f2d-b0ab-804e187b02df.jpeg) `[ID: 68211602]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1033@28-10-2024_22-34-34.jpg](https://cdn-wl-assets.classplus.co/production/78392/251e30e7-2b36-4518-97cd-22da3f564d0e.jpeg) `[ID: 68211603]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1033@28-10-2024_22-34-34_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/0e94f151-939b-491d-82d7-a1f1efad2fa1.jpeg) `[ID: 68211604]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1034@28-10-2024_22-34-34.jpg](https://cdn-wl-assets.classplus.co/production/78392/6dda248c-6024-4c5a-9cb2-128df73ed84d.jpeg) `[ID: 68211605]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1034@28-10-2024_22-34-34_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/373a7d25-93cb-4348-b668-9c2f925cd7f5.jpeg) `[ID: 68211607]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1035@28-10-2024_22-34-34.jpg](https://cdn-wl-assets.classplus.co/production/78392/a970102f-1183-45f3-a07b-26ec906432ab.jpeg) `[ID: 68211606]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1035@28-10-2024_22-34-34_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/39195468-d663-4d01-945a-7575bdec93fd.jpeg) `[ID: 68211609]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1036@28-10-2024_22-34-34.jpg](https://cdn-wl-assets.classplus.co/production/78392/0ad0fc22-a0d8-4d59-a8b3-c7cdd2427291.jpeg) `[ID: 68211608]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1036@28-10-2024_22-34-34_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/934fcfdd-b096-48ea-8741-c51e7ed88284.jpeg) `[ID: 68211610]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1037@28-10-2024_22-34-34.jpg](https://cdn-wl-assets.classplus.co/production/78392/a5f06c0d-43a0-4518-801f-548502edc903.jpeg) `[ID: 68211611]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1037@28-10-2024_22-34-34_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/317eafe6-84ab-4be9-bff4-b19908d4d631.jpeg) `[ID: 68211612]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1038@28-10-2024_22-34-34.jpg](https://cdn-wl-assets.classplus.co/production/78392/d539a0c3-1c76-4b82-a98f-e2ea78e73532.jpeg) `[ID: 68211613]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1038@28-10-2024_22-34-34_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/fb3c179a-f890-4eaf-96a9-9c9a675c92cb.jpeg) `[ID: 68211614]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1039@28-10-2024_22-34-35.jpg](https://cdn-wl-assets.classplus.co/production/78392/697b36c6-d77e-4a27-a517-bd230165ba16.jpeg) `[ID: 68211615]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1039@28-10-2024_22-34-35_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/2f9a5ffb-f8f6-4c64-8a69-4508ca74d24d.jpeg) `[ID: 68211616]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1040@28-10-2024_22-34-35.jpg](https://cdn-wl-assets.classplus.co/production/78392/8d1374a7-c295-406f-bcb0-de2e6e2c6f32.jpeg) `[ID: 68211617]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1040@28-10-2024_22-34-35_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/c4f8ffe9-db3d-4b8b-a846-f5fce1d44f69.jpeg) `[ID: 68211618]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1041@28-10-2024_22-34-35.jpg](https://cdn-wl-assets.classplus.co/production/78392/c63177df-3785-4d62-87b2-2b08fabc8aa0.jpeg) `[ID: 68211619]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1041@28-10-2024_22-34-35_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/795bc905-dd88-42b5-af71-8597395d0206.jpeg) `[ID: 68211620]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1042@28-10-2024_22-34-35.jpg](https://cdn-wl-assets.classplus.co/production/78392/c9f1a6a3-97b5-4964-9e59-373a95bfed66.jpeg) `[ID: 68211622]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1042@28-10-2024_22-34-35_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/020ae381-a999-4446-8f73-9c8b1805b773.jpeg) `[ID: 68211623]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1043@28-10-2024_22-34-35.jpg](https://cdn-wl-assets.classplus.co/production/78392/0a55dc61-9732-4cf2-88e9-4848d71025a2.jpeg) `[ID: 68211621]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1043@28-10-2024_22-34-35_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/aebd2ecc-9388-41b0-a8cd-f5e52b45b8f7.jpeg) `[ID: 68211624]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1044@28-10-2024_22-34-35.jpg](https://cdn-wl-assets.classplus.co/production/78392/099f778d-e7c3-450b-9e53-c966d9f56028.jpeg) `[ID: 68211627]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1044@28-10-2024_22-34-35_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/67f079f2-a3f6-4994-8fa6-60f0ae67f617.jpeg) `[ID: 68211625]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1045@28-10-2024_22-34-35.jpg](https://cdn-wl-assets.classplus.co/production/78392/00225a03-9dcd-4a76-80bd-b119191ae668.jpeg) `[ID: 68211626]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1045@28-10-2024_22-34-35_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/e67cb76c-e7b1-47fe-9c30-009c0169652d.jpeg) `[ID: 68211628]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1046@28-10-2024_22-34-35.jpg](https://cdn-wl-assets.classplus.co/production/78392/24afbb9c-cd67-4294-9888-86f2d28eb845.jpeg) `[ID: 68211629]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1046@28-10-2024_22-34-35_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/a940c013-a7c4-472e-8acb-b4d4e15cdafc.jpeg) `[ID: 68211630]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1047@28-10-2024_22-34-35.jpg](https://cdn-wl-assets.classplus.co/production/78392/b734f3b8-bc3e-471a-b90f-469a727b0dcc.jpeg) `[ID: 68211631]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1047@28-10-2024_22-34-35_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/461eae90-4530-4c0f-bb4c-a0e61d83096a.jpeg) `[ID: 68211632]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1048@28-10-2024_22-34-35.jpg](https://cdn-wl-assets.classplus.co/production/78392/90955f19-447d-413a-b5fe-ccfcc85fe51b.jpeg) `[ID: 68211633]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1048@28-10-2024_22-34-35_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/2e59cfd5-09ca-4108-a508-72d4c73047bc.jpeg) `[ID: 68211634]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1049@28-10-2024_22-34-35.jpg](https://cdn-wl-assets.classplus.co/production/78392/c1d16a4d-1cd1-4620-bf45-e21075831513.jpeg) `[ID: 68211635]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1049@28-10-2024_22-34-35_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/07a7a367-84e9-4390-9311-2302787f1b6a.jpeg) `[ID: 68211637]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1050@28-10-2024_22-34-35.jpg](https://cdn-wl-assets.classplus.co/production/78392/2dbbd140-ea6f-40dc-9520-d8d836f5d5f4.jpeg) `[ID: 68211636]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1050@28-10-2024_22-34-35_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/738ab9e5-ecb2-470f-ae7a-d301a28ec459.jpeg) `[ID: 68211638]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1051@28-10-2024_22-34-35.jpg](https://cdn-wl-assets.classplus.co/production/78392/8a24f03d-cc1b-486c-81b5-bed68266ae39.jpeg) `[ID: 68211639]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1051@28-10-2024_22-34-35_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/75ec804b-a778-49f1-aea7-d8bf9f5b7070.jpeg) `[ID: 68211640]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1052@28-10-2024_22-34-35.jpg](https://cdn-wl-assets.classplus.co/production/78392/897f89fa-5506-49aa-83aa-ac79a71b5753.jpeg) `[ID: 68211642]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1052@28-10-2024_22-34-35_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/6fcbf9e2-3cca-4424-98dd-afce5e467393.jpeg) `[ID: 68211641]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1053@28-10-2024_22-34-35.jpg](https://cdn-wl-assets.classplus.co/production/78392/83c5586b-ff7e-48a3-8419-bc788f773f1c.jpeg) `[ID: 68211643]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1053@28-10-2024_22-34-35_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/0e13a6be-ac80-4b4e-94a9-9c3e719b16f7.jpeg) `[ID: 68211644]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1054@28-10-2024_22-34-35.jpg](https://cdn-wl-assets.classplus.co/production/78392/9a686595-29cf-4192-b0f9-1578189ed076.jpeg) `[ID: 68211645]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1054@28-10-2024_22-34-35_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/e5be7396-4e8a-4b53-8e94-113c89ec41de.jpeg) `[ID: 68211646]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1055@28-10-2024_22-34-35.jpg](https://cdn-wl-assets.classplus.co/production/78392/178f5b4a-d6ea-4aa2-85b9-c71ba04a5f64.jpeg) `[ID: 68211647]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1055@28-10-2024_22-34-35_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/341e50ab-d02b-4227-bc43-1b210b14f73f.jpeg) `[ID: 68211648]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1056@28-10-2024_22-34-35.jpg](https://cdn-wl-assets.classplus.co/production/78392/b5bf2fa2-1087-4b1a-9419-c84e4e9129b2.jpeg) `[ID: 68211649]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1056@28-10-2024_22-34-35_thumb (1).jpg](https://cdn-wl-assets.classplus.co/production/78392/61404564-da2f-4934-b3a2-66fefde78a1a.jpeg) `[ID: 68211651]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1056@28-10-2024_22-34-35_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/73f57c3d-24f4-49d3-b628-62ec07ddd241.jpeg) `[ID: 68211650]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1057@28-10-2024_22-34-35.jpg](https://cdn-wl-assets.classplus.co/production/78392/f32d3901-668b-4b61-ba83-e51f1158e4b7.jpeg) `[ID: 68211652]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1057@28-10-2024_22-34-35_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/dc229105-6bac-4a46-ad35-8a9d86385300.jpeg) `[ID: 68211653]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1059@28-10-2024_22-34-35.jpg](https://cdn-wl-assets.classplus.co/production/78392/a2b2bf93-41ad-436e-b391-ec78c33177a3.jpeg) `[ID: 68211654]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1059@28-10-2024_22-34-35_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/44661225-14ab-48fd-bcc3-815c1dda1057.jpeg) `[ID: 68211655]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1060@28-10-2024_22-34-35.jpg](https://cdn-wl-assets.classplus.co/production/78392/3d4939f2-cf02-490b-bccf-62a8f2ed405a.jpeg) `[ID: 68211656]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1060@28-10-2024_22-34-35_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/5f006b14-3cc8-44c7-8648-21cb2d59371d.jpeg) `[ID: 68211657]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1061@28-10-2024_22-34-35.jpg](https://cdn-wl-assets.classplus.co/production/78392/36ede49a-f0f1-445f-aa68-499333c2b053.jpeg) `[ID: 68211659]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1061@28-10-2024_22-34-35_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/8be5ac2f-c957-48ea-a771-30e503b55b93.jpeg) `[ID: 68211658]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1062@28-10-2024_22-34-35.jpg](https://cdn-wl-assets.classplus.co/production/78392/b221018c-2a6d-446b-879b-f3194801258a.jpeg) `[ID: 68211660]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1062@28-10-2024_22-34-35_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/58f22dea-407b-413e-8f2b-2975ac518e12.jpeg) `[ID: 68211661]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1063@28-10-2024_22-34-35.jpg](https://cdn-wl-assets.classplus.co/production/78392/d2c1b1c7-0f81-48aa-9fee-f100d995a000.jpeg) `[ID: 68211662]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1063@28-10-2024_22-34-35_thumb (1).jpg](https://cdn-wl-assets.classplus.co/production/78392/faef7ab9-1ab8-4ee6-81c1-10c46b84ed2c.jpeg) `[ID: 68211663]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1063@28-10-2024_22-34-35_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/e28eed9c-d2b3-40cd-a9cb-bd69b0d3bb6a.jpeg) `[ID: 68211664]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1064@28-10-2024_22-34-35.jpg](https://cdn-wl-assets.classplus.co/production/78392/7bf74f1e-f443-461a-87f5-799cee03f628.jpeg) `[ID: 68211665]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1064@28-10-2024_22-34-35_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/3e264fdb-53b8-452d-be15-35125becdda0.jpeg) `[ID: 68211666]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1065@28-10-2024_22-34-35.jpg](https://cdn-wl-assets.classplus.co/production/78392/e0031fc3-7f0f-4f30-b2d7-bee5a190a3af.jpeg) `[ID: 68211667]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1065@28-10-2024_22-34-35_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/34db5de4-7104-44bb-9a6d-cd92e837c813.jpeg) `[ID: 68211669]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1067@28-10-2024_22-34-35.jpg](https://cdn-wl-assets.classplus.co/production/78392/74256750-4de9-45ce-badc-4ecfa59b365b.jpeg) `[ID: 68211668]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1067@28-10-2024_22-34-35_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/ac4bac38-25b5-43ed-9737-3680f4432f37.jpeg) `[ID: 68211670]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1068@28-10-2024_22-34-35.jpg](https://cdn-wl-assets.classplus.co/production/78392/4d394750-d045-4923-8777-aa16fa55bc10.jpeg) `[ID: 68211671]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1068@28-10-2024_22-34-35_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/43a5878a-d58e-43b5-b328-6338b047c413.jpeg) `[ID: 68211672]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1069@28-10-2024_22-34-35.jpg](https://cdn-wl-assets.classplus.co/production/78392/6e581b2e-824e-453f-98e8-34eb6f614fde.jpeg) `[ID: 68211673]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1069@28-10-2024_22-34-35_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/90da9b98-a685-462e-a12b-59469d77cb6f.jpeg) `[ID: 68211675]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1070@28-10-2024_22-34-35.jpg](https://cdn-wl-assets.classplus.co/production/78392/3e5e40c8-3a88-432c-93df-d5596d8cd28c.jpeg) `[ID: 68211674]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1070@28-10-2024_22-34-35_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/0766b659-a35e-420b-9cd7-cd103bf1b552.jpeg) `[ID: 68211676]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1071@28-10-2024_22-34-35.jpg](https://cdn-wl-assets.classplus.co/production/78392/c54356f8-9797-4526-8dbb-9995dc0383ff.jpeg) `[ID: 68211677]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1071@28-10-2024_22-34-35_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/7b3acb5a-858e-49a6-86e3-966076673186.jpeg) `[ID: 68211678]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1072@28-10-2024_22-34-35.jpg](https://cdn-wl-assets.classplus.co/production/78392/94e85b83-0f1c-4165-8e6d-b2b0908120c6.jpeg) `[ID: 68211680]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1072@28-10-2024_22-34-35_thumb (1).jpg](https://cdn-wl-assets.classplus.co/production/78392/588064ee-2cd0-436e-92da-7265283feaee.jpeg) `[ID: 68211679]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1072@28-10-2024_22-34-35_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/4a2ecea8-1740-4403-885d-1eaa97137139.jpeg) `[ID: 68211681]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1073@28-10-2024_22-34-35.jpg](https://cdn-wl-assets.classplus.co/production/78392/7cd2fc3d-3962-430e-adf2-6a1bb06b8722.jpeg) `[ID: 68211682]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1073@28-10-2024_22-34-35_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/c6833af9-c2b0-4b7e-92f0-c8be96921b4f.jpeg) `[ID: 68211683]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1074@28-10-2024_22-34-35.jpg](https://cdn-wl-assets.classplus.co/production/78392/5ae72e79-1c0e-4c71-a05e-35be0db4fc5f.jpeg) `[ID: 68211684]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1074@28-10-2024_22-34-35_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/2217ee7f-4cf6-4591-9a32-5c6c14b9af11.jpeg) `[ID: 68211685]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1075@28-10-2024_22-34-35.jpg](https://cdn-wl-assets.classplus.co/production/78392/1aa4b8cd-f248-4729-8cca-3d89cf865e23.jpeg) `[ID: 68211686]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1075@28-10-2024_22-34-35_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/efdde269-b641-41d2-a2e6-a8e8230744c1.jpeg) `[ID: 68211687]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1076@28-10-2024_22-34-35.jpg](https://cdn-wl-assets.classplus.co/production/78392/15b12c00-0fb7-4bd6-bfbb-2b7cd7c2766c.jpeg) `[ID: 68211688]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1076@28-10-2024_22-34-35_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/cbf74f2e-dea9-4472-83fe-c0078e8843f8.jpeg) `[ID: 68211689]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1077@28-10-2024_22-34-35.jpg](https://cdn-wl-assets.classplus.co/production/78392/2b2d4706-f949-4447-b6d1-6d346f7c9d13.jpeg) `[ID: 68211690]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1077@28-10-2024_22-34-35_thumb (1).jpg](https://cdn-wl-assets.classplus.co/production/78392/39818e83-a8b1-4306-9722-1fe33a5bde72.jpeg) `[ID: 68211692]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1077@28-10-2024_22-34-35_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/899eb46d-1a9a-437e-8a73-02d4af97db5e.jpeg) `[ID: 68211691]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1078@28-10-2024_22-34-35.jpg](https://cdn-wl-assets.classplus.co/production/78392/359490ee-cae2-46e6-9725-58a00a2d46f6.jpeg) `[ID: 68211693]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1078@28-10-2024_22-34-35_thumb (1).jpg](https://cdn-wl-assets.classplus.co/production/78392/4fe7339f-a6b7-4627-9275-f0083eed7519.jpeg) `[ID: 68211695]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1078@28-10-2024_22-34-35_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/4b72ba06-0e0c-42a1-835b-88fd3099008e.jpeg) `[ID: 68211694]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1079@28-10-2024_22-34-35.jpg](https://cdn-wl-assets.classplus.co/production/78392/1147e245-b829-4ab4-9926-6acb79debbcb.jpeg) `[ID: 68211696]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1079@28-10-2024_22-34-35_thumb (1).jpg](https://cdn-wl-assets.classplus.co/production/78392/e128deb9-654e-4ff4-9e16-48e96a27de2d.jpeg) `[ID: 68211698]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1079@28-10-2024_22-34-35_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/3a2a89e8-fe81-45a9-880d-be0f54e12ac8.jpeg) `[ID: 68211697]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1080@28-10-2024_22-34-35.jpg](https://cdn-wl-assets.classplus.co/production/78392/9ca0b239-9a4e-4be9-b50e-05cd82227cba.jpeg) `[ID: 68211699]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1080@28-10-2024_22-34-35_thumb (1).jpg](https://cdn-wl-assets.classplus.co/production/78392/648d73f1-18a7-43f7-9e61-803c8831a3a0.jpeg) `[ID: 68211700]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1080@28-10-2024_22-34-35_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/87810134-20e6-469c-b00c-b41b5d49dd37.jpeg) `[ID: 68211701]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1081@28-10-2024_22-34-35.jpg](https://cdn-wl-assets.classplus.co/production/78392/80cb6f04-608b-49ab-aa39-d969f1c65d64.jpeg) `[ID: 68211702]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1081@28-10-2024_22-34-35_thumb (1).jpg](https://cdn-wl-assets.classplus.co/production/78392/07a3d58a-30ec-4bb3-9423-aca6af88fb61.jpeg) `[ID: 68211703]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1081@28-10-2024_22-34-35_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/a05d25f1-5e3e-4ff6-a301-ee95039bf74e.jpeg) `[ID: 68211705]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1082@28-10-2024_22-34-35.jpg](https://cdn-wl-assets.classplus.co/production/78392/1d9ae4b9-10e5-4577-a2ff-f8fac5c25352.jpeg) `[ID: 68211704]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1082@28-10-2024_22-34-35_thumb (1).jpg](https://cdn-wl-assets.classplus.co/production/78392/264afa0b-3197-43e8-8d46-72755dcc3dff.jpeg) `[ID: 68211706]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1082@28-10-2024_22-34-35_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/41ebf82e-36be-4d49-996b-d0b718d95ba2.jpeg) `[ID: 68211707]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1083@28-10-2024_22-34-35(1).jpg](https://cdn-wl-assets.classplus.co/production/78392/b60f1554-2b05-4389-b1ce-e5b75b519e3d.jpeg) `[ID: 68211708]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1083@28-10-2024_22-34-35.jpg](https://cdn-wl-assets.classplus.co/production/78392/58997750-2270-49c2-9db5-f54e8ba8a779.jpeg) `[ID: 68211709]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1083@28-10-2024_22-34-35_thumb (1)(1).jpg](https://cdn-wl-assets.classplus.co/production/78392/ee2de96f-aaa5-4707-8134-d05c4869746d.jpeg) `[ID: 68211710]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1083@28-10-2024_22-34-35_thumb (1).jpg](https://cdn-wl-assets.classplus.co/production/78392/bc8cf58d-94c8-441c-8ffc-7052fab48b3a.jpeg) `[ID: 68211711]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1083@28-10-2024_22-34-35_thumb(1).jpg](https://cdn-wl-assets.classplus.co/production/78392/cbe91fe2-381c-4d72-a3c5-096a03edd469.jpeg) `[ID: 68211712]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1083@28-10-2024_22-34-35_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/c19ff414-e89c-48d8-85b7-54b17db62e02.jpeg) `[ID: 68211713]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1084@28-10-2024_22-36-28(1).jpg](https://cdn-wl-assets.classplus.co/production/78392/0f88186d-9b85-43f0-b694-dff9bc95fc50.jpeg) `[ID: 68211714]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1084@28-10-2024_22-36-28.jpg](https://cdn-wl-assets.classplus.co/production/78392/4b9f1a33-bbf3-4d12-aad2-6a900838334b.jpeg) `[ID: 68211715]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1084@28-10-2024_22-36-28_thumb(1).jpg](https://cdn-wl-assets.classplus.co/production/78392/9d9b08cb-50a4-4c93-9148-f70d9879beae.jpeg) `[ID: 68211716]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1084@28-10-2024_22-36-28_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/99d6325b-b0ac-40f3-ad3b-bf14c6272460.jpeg) `[ID: 68211717]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1092@28-10-2024_22-36-28(1).jpg](https://cdn-wl-assets.classplus.co/production/78392/66da584d-4ceb-4278-8927-c9448212b430.jpeg) `[ID: 68211719]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1092@28-10-2024_22-36-28.jpg](https://cdn-wl-assets.classplus.co/production/78392/5d98bd7e-8849-45af-9787-4d084a891fda.jpeg) `[ID: 68211718]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1092@28-10-2024_22-36-28_thumb(1).jpg](https://cdn-wl-assets.classplus.co/production/78392/3a9fe46b-fd15-49fc-96bf-89610feadd63.jpeg) `[ID: 68211720]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1092@28-10-2024_22-36-28_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/0b8e5da4-2c98-41e3-b5cd-90cc42f85a55.jpeg) `[ID: 68211721]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1093@28-10-2024_22-36-28(1).jpg](https://cdn-wl-assets.classplus.co/production/78392/136bfce4-da1b-4993-ac05-d223325dace2.jpeg) `[ID: 68211722]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1093@28-10-2024_22-36-28.jpg](https://cdn-wl-assets.classplus.co/production/78392/2555d40d-89c4-4bee-93a4-b5a7efec1273.jpeg) `[ID: 68211723]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1093@28-10-2024_22-36-28_thumb(1).jpg](https://cdn-wl-assets.classplus.co/production/78392/c83a6e2d-c1ae-4472-abb0-42d54be44d62.jpeg) `[ID: 68211725]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1093@28-10-2024_22-36-28_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/5982eba5-1b19-4a75-8247-42da9d9de6e3.jpeg) `[ID: 68211724]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1094@28-10-2024_22-36-28(1).jpg](https://cdn-wl-assets.classplus.co/production/78392/03d67034-384f-40c2-8d51-3d8619e8dec4.jpeg) `[ID: 68211726]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1094@28-10-2024_22-36-28.jpg](https://cdn-wl-assets.classplus.co/production/78392/d6aef627-e085-4fb1-9dea-8e73a7152b8a.jpeg) `[ID: 68211727]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1094@28-10-2024_22-36-28_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/071e3dc1-8fc5-43ff-a68b-2b2e35c32399.jpeg) `[ID: 68211728]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1095@28-10-2024_22-36-28.jpg](https://cdn-wl-assets.classplus.co/production/78392/1c1e3d35-7401-4c04-86a8-83fb0fd14f82.jpeg) `[ID: 68211730]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1095@28-10-2024_22-36-28_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/8bc1beca-61c1-42e8-b484-d4b23e9824d9.jpeg) `[ID: 68211729]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1096@28-10-2024_22-36-28.jpg](https://cdn-wl-assets.classplus.co/production/78392/cec73f76-567a-4ba1-b6dd-18bf1e2c4646.jpeg) `[ID: 68211731]`
+  * 📁 **1.2.2 Infosys PYQ Screenshots- PART2** `[Folder ID: 41823002]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1860@28-10-2024_22-49-55_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/f93f24ee-bffe-4bee-8888-9739a764a9dd.jpeg) `[ID: 68211735]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1861@28-10-2024_22-49-55.jpg](https://cdn-wl-assets.classplus.co/production/78392/149e6a01-ac95-41b2-baf0-5cbad1b87759.jpeg) `[ID: 68211736]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1861@28-10-2024_22-49-55_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/ec22fec8-b48b-43b0-b6c9-2ccfc512d3f5.jpeg) `[ID: 68211741]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1862@28-10-2024_22-49-55.jpg](https://cdn-wl-assets.classplus.co/production/78392/d3c95420-a74b-47c7-8cb5-a5749bb3bef4.jpeg) `[ID: 68211740]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1862@28-10-2024_22-49-55_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/be705358-e3ea-4935-a11d-2b908d02d906.jpeg) `[ID: 68211738]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1863@28-10-2024_22-49-56.jpg](https://cdn-wl-assets.classplus.co/production/78392/7b8aad89-de17-4201-95f2-902f1e559a63.jpeg) `[ID: 68211739]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1863@28-10-2024_22-49-56_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/7c8e261e-ffcf-4b96-b611-7f231f72b1cd.jpeg) `[ID: 68211737]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1864@28-10-2024_22-49-56.jpg](https://cdn-wl-assets.classplus.co/production/78392/4fc57a7d-c24f-4344-9256-edd0ecb399a4.jpeg) `[ID: 68211743]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1864@28-10-2024_22-49-56_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/daacfcb1-21e6-43d6-8152-6b02b6cacf97.jpeg) `[ID: 68211745]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1865@28-10-2024_22-49-56.jpg](https://cdn-wl-assets.classplus.co/production/78392/560ce793-445a-4110-b12f-b1ef3e113ca2.jpeg) `[ID: 68211744]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1865@28-10-2024_22-49-56_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/f6791dd7-1d5e-4c17-ae96-f4e06dcda291.jpeg) `[ID: 68211746]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1866@28-10-2024_22-49-56.jpg](https://cdn-wl-assets.classplus.co/production/78392/a5f5ac2d-0c00-4411-a164-59282e04e853.jpeg) `[ID: 68211742]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1866@28-10-2024_22-49-56_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/0defbbf3-5bc8-4384-86da-b00505946528.jpeg) `[ID: 68211747]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1867@28-10-2024_22-49-56.jpg](https://cdn-wl-assets.classplus.co/production/78392/e1d47ff6-2ec6-45b6-9e12-b9e11bc0bbdc.jpeg) `[ID: 68211748]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1867@28-10-2024_22-49-56_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/859a72f2-fa1b-43c2-880e-1f3f14a2b2b8.jpeg) `[ID: 68211752]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1868@28-10-2024_22-49-56.jpg](https://cdn-wl-assets.classplus.co/production/78392/328aeda1-3256-41f2-935e-b855c6a0575e.jpeg) `[ID: 68211750]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1868@28-10-2024_22-49-56_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/b90885bf-3704-4203-8f84-0b8bbdb4d6cb.jpeg) `[ID: 68211749]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1869@28-10-2024_22-49-56.jpg](https://cdn-wl-assets.classplus.co/production/78392/43559b5a-328e-4068-a083-619a2df8071e.jpeg) `[ID: 68211751]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1869@28-10-2024_22-49-56_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/2b2d7ce4-9cb0-459d-875f-18478306cb69.jpeg) `[ID: 68211757]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1870@28-10-2024_22-49-56.jpg](https://cdn-wl-assets.classplus.co/production/78392/093964e5-e074-48f1-b74f-d1821f84d5f6.jpeg) `[ID: 68211755]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1870@28-10-2024_22-49-56_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/859bf481-ff58-4fbc-bec2-70d554f708df.jpeg) `[ID: 68211756]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1871@28-10-2024_22-49-56.jpg](https://cdn-wl-assets.classplus.co/production/78392/5a909770-9a31-475c-92bc-8819c95aff41.jpeg) `[ID: 68211758]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1871@28-10-2024_22-49-56_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/821d6391-b60b-45cc-836e-be051a864b1a.jpeg) `[ID: 68211759]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1872@28-10-2024_22-49-56.jpg](https://cdn-wl-assets.classplus.co/production/78392/5897bd1f-b71f-4fc0-b065-1e9b34bd2f44.jpeg) `[ID: 68211753]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1872@28-10-2024_22-49-56_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/eabd892f-8b0d-4ffa-bba2-232d2b59457b.jpeg) `[ID: 68211754]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1873@28-10-2024_22-49-56.jpg](https://cdn-wl-assets.classplus.co/production/78392/14662750-b51b-4b64-b9be-c62c89ebbf6c.jpeg) `[ID: 68211763]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1873@28-10-2024_22-49-56_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/dd790e66-db80-4e1f-a614-bb7fad8dbddc.jpeg) `[ID: 68211760]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1874@28-10-2024_22-49-56.jpg](https://cdn-wl-assets.classplus.co/production/78392/ad52a194-c1dc-4aaa-bfc5-2a74164293e0.jpeg) `[ID: 68211762]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1874@28-10-2024_22-49-56_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/9f7b6870-a621-4bc5-a117-d7b9e1918d96.jpeg) `[ID: 68211764]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1875@28-10-2024_22-49-56.jpg](https://cdn-wl-assets.classplus.co/production/78392/45dad7ce-a833-45da-940a-1475f6cd262f.jpeg) `[ID: 68211766]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1875@28-10-2024_22-49-56_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/f86882cd-00f0-4b23-8b4e-83d83bc1874b.jpeg) `[ID: 68211761]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1876@28-10-2024_22-49-56.jpg](https://cdn-wl-assets.classplus.co/production/78392/552cf38b-080c-4333-a266-5bcffaef0d8f.jpeg) `[ID: 68211768]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1876@28-10-2024_22-49-56_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/29593011-f46c-4e2a-b658-8ea2a12eb658.jpeg) `[ID: 68211767]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1877@28-10-2024_22-49-56.jpg](https://cdn-wl-assets.classplus.co/production/78392/b9de0728-263c-4e3d-ba8e-5926bd633583.jpeg) `[ID: 68211765]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1877@28-10-2024_22-49-56_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/3a858ce0-f569-4902-a4e3-e1f51bf2fe92.jpeg) `[ID: 68211771]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1878@28-10-2024_22-49-56.jpg](https://cdn-wl-assets.classplus.co/production/78392/f435520c-0204-4646-86fa-db168be16d87.jpeg) `[ID: 68211769]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1878@28-10-2024_22-49-56_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/77f66a96-4b62-4ccb-a4f9-12105e969dfc.jpeg) `[ID: 68211777]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1879@28-10-2024_22-49-56.jpg](https://cdn-wl-assets.classplus.co/production/78392/d5ed9d30-68d6-4286-a7a5-3e672ff0bbc5.jpeg) `[ID: 68211774]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1879@28-10-2024_22-49-56_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/c79d5fa6-1ecf-4963-ab89-ce4fe2ad8e93.jpeg) `[ID: 68211772]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1880@28-10-2024_22-49-56.jpg](https://cdn-wl-assets.classplus.co/production/78392/51c4dbcd-967c-4195-91d6-e49eed5f1930.jpeg) `[ID: 68211775]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1880@28-10-2024_22-49-56_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/2654b380-7dcc-4bf9-9735-579682b6588a.jpeg) `[ID: 68211770]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1881@28-10-2024_22-49-56.jpg](https://cdn-wl-assets.classplus.co/production/78392/56566cf4-0eeb-4b23-b19d-300816b7d093.jpeg) `[ID: 68211773]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1881@28-10-2024_22-49-56_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/cb85d144-f125-425e-bb62-1a1576844644.jpeg) `[ID: 68211776]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1882@28-10-2024_22-49-56.jpg](https://cdn-wl-assets.classplus.co/production/78392/fcf0317a-8b87-42f0-a57d-899d9fda6e2b.jpeg) `[ID: 68211783]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1882@28-10-2024_22-49-56_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/3cfe0854-d646-4329-949d-34cdb313e96c.jpeg) `[ID: 68211779]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1883@28-10-2024_22-49-56.jpg](https://cdn-wl-assets.classplus.co/production/78392/ecc87466-ac2c-43b4-8a6d-fe554f12b2b0.jpeg) `[ID: 68211785]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1883@28-10-2024_22-49-56_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/e88867a2-c5a7-404d-a739-a11dd849609e.jpeg) `[ID: 68211778]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1884@28-10-2024_22-49-56.jpg](https://cdn-wl-assets.classplus.co/production/78392/9c0203e3-9b12-4b43-b906-4df0322530c5.jpeg) `[ID: 68211782]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1884@28-10-2024_22-49-56_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/ca742f20-a9bc-4237-9e79-823af211efd8.jpeg) `[ID: 68211781]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1885@28-10-2024_22-49-56.jpg](https://cdn-wl-assets.classplus.co/production/78392/ae852f4f-12c9-4a6c-a2e8-1c1bce5680e0.jpeg) `[ID: 68211780]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1885@28-10-2024_22-49-56_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/fcbe8771-fdef-480b-8993-cc999fba25f9.jpeg) `[ID: 68211786]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1886@28-10-2024_22-49-56.jpg](https://cdn-wl-assets.classplus.co/production/78392/92038636-12ff-4b15-86f7-280ec8a46a09.jpeg) `[ID: 68211789]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1886@28-10-2024_22-49-56_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/6c45d4f9-d739-44ba-9a2f-6be370d7f3fa.jpeg) `[ID: 68211790]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1887@28-10-2024_22-49-56.jpg](https://cdn-wl-assets.classplus.co/production/78392/d60d925a-8b3a-423a-b020-de17371ff5ce.jpeg) `[ID: 68211784]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1887@28-10-2024_22-49-56_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/e8c42131-1849-4d4a-89f4-0f5af2e11d6b.jpeg) `[ID: 68211787]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1888@28-10-2024_22-49-56.jpg](https://cdn-wl-assets.classplus.co/production/78392/8941f22c-a276-408d-aa87-029e9274c6a3.jpeg) `[ID: 68211788]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1888@28-10-2024_22-49-56_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/a92ed747-5560-4fd1-a60a-5b0ba8e44b16.jpeg) `[ID: 68211791]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1889@28-10-2024_22-49-56.jpg](https://cdn-wl-assets.classplus.co/production/78392/6aa51768-cc9c-4534-aac2-b3e2350bf5dc.jpeg) `[ID: 68211793]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1889@28-10-2024_22-49-56_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/7264d271-f61a-4149-9b6b-ab2f4ecb917e.jpeg) `[ID: 68211792]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1890@28-10-2024_22-49-56.jpg](https://cdn-wl-assets.classplus.co/production/78392/fc33d9a2-3907-49ed-a1ce-c34d927a29f2.jpeg) `[ID: 68211795]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1890@28-10-2024_22-49-56_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/94ae8ed1-ee9c-429c-a874-d2cfb785ee0d.jpeg) `[ID: 68211797]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1891@28-10-2024_22-49-56.jpg](https://cdn-wl-assets.classplus.co/production/78392/aa1c2113-bba4-4598-a483-79a4d547e13a.jpeg) `[ID: 68211796]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1891@28-10-2024_22-49-56_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/646355bd-e1d2-4282-b0ee-1bb2f5996cc0.jpeg) `[ID: 68211794]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1892@28-10-2024_22-49-56.jpg](https://cdn-wl-assets.classplus.co/production/78392/ef6046cd-dd7d-4320-a67f-da314d6579cf.jpeg) `[ID: 68211798]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1892@28-10-2024_22-49-56_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/b08d74ac-0d52-45de-b151-41a36730ff88.jpeg) `[ID: 68211815]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1893@28-10-2024_22-49-56.jpg](https://cdn-wl-assets.classplus.co/production/78392/e9951dc3-f6fc-4f69-8eef-5aea9e261a56.jpeg) `[ID: 68211800]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1893@28-10-2024_22-49-56_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/3c84eeba-1c21-48e6-ad7d-2ec083413082.jpeg) `[ID: 68211802]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1894@28-10-2024_22-49-56.jpg](https://cdn-wl-assets.classplus.co/production/78392/b407f383-8aa3-4cbc-95db-7cc4a4fbd838.jpeg) `[ID: 68211799]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1894@28-10-2024_22-49-56_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/9b9e112c-157b-48e4-b0c3-fdcf7adfeb21.jpeg) `[ID: 68211801]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1895@28-10-2024_22-49-56.jpg](https://cdn-wl-assets.classplus.co/production/78392/1ba29503-6955-4f8a-8983-c55ac819c442.jpeg) `[ID: 68211806]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1895@28-10-2024_22-49-56_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/2a1d9f68-f221-4b94-acd4-9385dd69d8c8.jpeg) `[ID: 68211807]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1896@28-10-2024_22-49-56.jpg](https://cdn-wl-assets.classplus.co/production/78392/f560b8c5-24f8-4dd6-99d2-0cbb0e62026f.jpeg) `[ID: 68211804]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1896@28-10-2024_22-49-56_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/09655fa2-6e1b-4906-a189-e1a1a4b3d6b0.jpeg) `[ID: 68211808]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1897@28-10-2024_22-49-56.jpg](https://cdn-wl-assets.classplus.co/production/78392/77101142-adf4-4e65-82a8-193372c941fb.jpeg) `[ID: 68211803]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1897@28-10-2024_22-49-56_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/63719e63-3e73-4b02-adec-aa6ccc9ad3c2.jpeg) `[ID: 68211809]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1898@28-10-2024_22-49-56.jpg](https://cdn-wl-assets.classplus.co/production/78392/c331ec46-cf43-4f6c-ae62-ce729d557380.jpeg) `[ID: 68211812]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1898@28-10-2024_22-49-56_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/72fbcefb-2d5a-44c9-a935-47ffbc68ba6d.jpeg) `[ID: 68211805]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1899@28-10-2024_22-49-56.jpg](https://cdn-wl-assets.classplus.co/production/78392/eeaf6956-9c2b-4933-9964-3102ac41db27.jpeg) `[ID: 68211811]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1899@28-10-2024_22-49-56_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/9ce7a7a8-6833-4597-aa04-54f4feeef893.jpeg) `[ID: 68211814]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1900@28-10-2024_22-49-56.jpg](https://cdn-wl-assets.classplus.co/production/78392/e4599812-629a-4c91-8cfc-6a145ca42f79.jpeg) `[ID: 68211813]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1900@28-10-2024_22-49-56_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/64fde993-7da6-4425-9a5a-ce8451e2be40.jpeg) `[ID: 68211810]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1901@28-10-2024_22-49-56.jpg](https://cdn-wl-assets.classplus.co/production/78392/92e85c7c-2a27-4764-9d4b-d83bfadb4646.jpeg) `[ID: 68211818]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1901@28-10-2024_22-49-56_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/ece66910-89db-4e32-8129-24ca9ba9a5d2.jpeg) `[ID: 68211817]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1902@28-10-2024_22-49-56.jpg](https://cdn-wl-assets.classplus.co/production/78392/3481b452-4232-4a9f-a8fd-475128983215.jpeg) `[ID: 68211816]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1902@28-10-2024_22-49-56_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/86b9dcf9-6529-4b56-8365-38df6bdfe091.jpeg) `[ID: 68211820]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1903@28-10-2024_22-49-56.jpg](https://cdn-wl-assets.classplus.co/production/78392/d8e31b94-ae41-486a-958a-6a8850a9de7d.jpeg) `[ID: 68211819]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1903@28-10-2024_22-49-56_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/3d03027f-2ba1-44d0-8651-c75afcd112c1.jpeg) `[ID: 68211825]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1904@28-10-2024_22-49-56.jpg](https://cdn-wl-assets.classplus.co/production/78392/eb35c292-d8df-4f2f-b7f8-ddff0fa7d26b.jpeg) `[ID: 68211821]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1904@28-10-2024_22-49-56_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/73db3ba0-65f4-4c9d-b394-29d4d31396d3.jpeg) `[ID: 68211824]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1905@28-10-2024_22-49-56.jpg](https://cdn-wl-assets.classplus.co/production/78392/a1584f78-2398-4288-9468-f9a5213f9c58.jpeg) `[ID: 68211822]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1905@28-10-2024_22-49-56_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/a8bd8c50-dfc3-4e08-9c09-0e1897dc2156.jpeg) `[ID: 68211823]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1906@28-10-2024_22-49-56.jpg](https://cdn-wl-assets.classplus.co/production/78392/f998bd3e-dec3-422e-887b-4d5221521ef1.jpeg) `[ID: 68211829]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1906@28-10-2024_22-49-56_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/cb33b714-334f-4a21-8545-28896c7487f1.jpeg) `[ID: 68211828]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1907@28-10-2024_22-49-56.jpg](https://cdn-wl-assets.classplus.co/production/78392/daa8cb5c-4e1d-4484-86fc-449bf7945319.jpeg) `[ID: 68211827]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1907@28-10-2024_22-49-56_thumb (1).jpg](https://cdn-wl-assets.classplus.co/production/78392/293b9ab8-9d6d-4bde-a95f-d82f69fdfb2b.jpeg) `[ID: 68211826]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1907@28-10-2024_22-49-56_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/60d2b8d6-6fbe-4c55-a219-da5436d28b99.jpeg) `[ID: 68211832]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1908@28-10-2024_22-49-56.jpg](https://cdn-wl-assets.classplus.co/production/78392/5b2a2901-5e92-48a4-ace8-3587dead7768.jpeg) `[ID: 68211830]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1908@28-10-2024_22-49-56_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/84410455-4492-4e4c-8585-ff1d4eee03d3.jpeg) `[ID: 68211831]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1909@28-10-2024_22-49-56.jpg](https://cdn-wl-assets.classplus.co/production/78392/774c0694-8c48-4404-b005-05e57e7b6230.jpeg) `[ID: 68211836]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1909@28-10-2024_22-49-56_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/08353dcd-e8e7-4225-b5b6-c1ef2c835c52.jpeg) `[ID: 68211835]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1911@28-10-2024_22-49-56.jpg](https://cdn-wl-assets.classplus.co/production/78392/0224479b-d4f0-4f58-99d5-a06bfc432b9f.jpeg) `[ID: 68211833]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1911@28-10-2024_22-49-56_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/574c5779-fc51-4bd2-87e2-ca5582f7d711.jpeg) `[ID: 68211834]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1912@28-10-2024_22-49-56.jpg](https://cdn-wl-assets.classplus.co/production/78392/5db8002a-f7d6-401d-9074-e87d0acb3a63.jpeg) `[ID: 68211843]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1912@28-10-2024_22-49-56_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/028b0391-c8a9-44a8-9744-c407c1726e9a.jpeg) `[ID: 68211842]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1913@28-10-2024_22-49-56.jpg](https://cdn-wl-assets.classplus.co/production/78392/ca4afceb-9da6-4716-bacd-4f347ff068b7.jpeg) `[ID: 68211840]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1913@28-10-2024_22-49-56_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/5989c5f3-72b6-47a7-a5cc-813441ede03e.jpeg) `[ID: 68211838]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1914@28-10-2024_22-49-56.jpg](https://cdn-wl-assets.classplus.co/production/78392/2b55d01c-78b9-4c2f-adf6-16007d07c52d.jpeg) `[ID: 68211841]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1914@28-10-2024_22-49-56_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/b5321e14-07b8-4aab-81c7-a342222ceff6.jpeg) `[ID: 68211837]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1915@28-10-2024_22-49-56.jpg](https://cdn-wl-assets.classplus.co/production/78392/d4aec81f-7819-4d55-88d8-ece7a47aa9d3.jpeg) `[ID: 68211839]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1915@28-10-2024_22-49-56_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/f7ec96c3-2eac-481c-ac74-813aa0d30568.jpeg) `[ID: 68211844]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1916@28-10-2024_22-49-56.jpg](https://cdn-wl-assets.classplus.co/production/78392/a63e77f0-fe02-4a09-ad45-d74b60c53c36.jpeg) `[ID: 68211845]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1916@28-10-2024_22-49-56_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/b5514d98-d270-45d1-a8ad-b32472c328f0.jpeg) `[ID: 68211847]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1917@28-10-2024_22-49-56.jpg](https://cdn-wl-assets.classplus.co/production/78392/17931d4e-ea84-4582-8eda-27b027aa07df.jpeg) `[ID: 68211846]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1917@28-10-2024_22-49-56_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/855f7db7-090f-4fe0-8931-93541a39113d.jpeg) `[ID: 68211851]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1918@28-10-2024_22-49-56.jpg](https://cdn-wl-assets.classplus.co/production/78392/f4c40ef9-decf-40fb-8487-215e946ed498.jpeg) `[ID: 68211849]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1918@28-10-2024_22-49-56_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/975b9aad-353b-4a5c-9962-6ac48276b080.jpeg) `[ID: 68211848]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1919@28-10-2024_22-49-56.jpg](https://cdn-wl-assets.classplus.co/production/78392/88c6263d-1f59-49f5-a635-5aaee86d09e7.jpeg) `[ID: 68211852]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1919@28-10-2024_22-49-56_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/7e8977c8-f23a-43b0-9cb4-3f119f9dbf2e.jpeg) `[ID: 68211853]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1920@28-10-2024_22-49-56.jpg](https://cdn-wl-assets.classplus.co/production/78392/fa595acf-798d-4b8d-885c-4c40f1348b8e.jpeg) `[ID: 68211850]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1920@28-10-2024_22-49-56_thumb (1).jpg](https://cdn-wl-assets.classplus.co/production/78392/d30d2e40-2319-42a4-b1b6-adb46ccdfbcf.jpeg) `[ID: 68211858]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1920@28-10-2024_22-49-56_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/73c21759-796d-4dfd-8ab7-92b91e897918.jpeg) `[ID: 68211857]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1921@28-10-2024_22-49-56.jpg](https://cdn-wl-assets.classplus.co/production/78392/0470a085-3434-4d4f-865d-6ae931190022.jpeg) `[ID: 68211854]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1921@28-10-2024_22-49-56_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/aec21752-4f23-48ad-8731-06a3b7d31c26.jpeg) `[ID: 68211856]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1922@28-10-2024_22-49-56.jpg](https://cdn-wl-assets.classplus.co/production/78392/43a51cc9-ef81-4562-89ee-7dc29264ea66.jpeg) `[ID: 68211855]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1922@28-10-2024_22-49-56_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/8b33626b-84c4-4ea8-881c-1ec10f937569.jpeg) `[ID: 68211862]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1924@28-10-2024_22-49-56.jpg](https://cdn-wl-assets.classplus.co/production/78392/57148687-57e2-4c6e-8855-594443728e97.jpeg) `[ID: 68211861]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1924@28-10-2024_22-49-56_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/fcb412f2-0692-46d2-ba96-305ed45953a1.jpeg) `[ID: 68211864]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1925@28-10-2024_22-49-56.jpg](https://cdn-wl-assets.classplus.co/production/78392/b0c554e5-6768-46e6-83d7-c8be07a5268f.jpeg) `[ID: 68211860]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1925@28-10-2024_22-49-56_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/7e83b336-722a-4564-90c4-38297966fa34.jpeg) `[ID: 68211865]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1926@28-10-2024_22-49-56.jpg](https://cdn-wl-assets.classplus.co/production/78392/0188f73a-ce6d-4e16-be0b-e11b182d645b.jpeg) `[ID: 68211859]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1926@28-10-2024_22-49-56_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/efe28158-bdad-409e-9f8e-143a79d7600d.jpeg) `[ID: 68211867]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1927@28-10-2024_22-49-56.jpg](https://cdn-wl-assets.classplus.co/production/78392/b751e16b-64e6-44ff-b7b7-db08e3b386f9.jpeg) `[ID: 68211868]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1927@28-10-2024_22-49-56_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/85e97fd1-d478-4b41-b627-0a9814a16503.jpeg) `[ID: 68211866]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1928@28-10-2024_22-49-56.jpg](https://cdn-wl-assets.classplus.co/production/78392/a8ba0bd3-3f8d-43ca-a52a-6c16ad09e242.jpeg) `[ID: 68211863]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1928@28-10-2024_22-49-56_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/a58e6a73-c2f5-41d6-a5d3-b7c7ea2d9acd.jpeg) `[ID: 68211874]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1929@28-10-2024_22-49-56.jpg](https://cdn-wl-assets.classplus.co/production/78392/8d1f979a-961e-4c47-b501-31baef925d89.jpeg) `[ID: 68211869]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1929@28-10-2024_22-49-56_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/33cbc5a9-daf5-4c18-a490-7c126fb050af.jpeg) `[ID: 68211873]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1930@28-10-2024_22-49-56.jpg](https://cdn-wl-assets.classplus.co/production/78392/8f1921a2-28b2-4dca-aeeb-c2a16781a50d.jpeg) `[ID: 68211871]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1930@28-10-2024_22-49-56_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/579ba697-dc38-4b4d-9032-442c1a3edd44.jpeg) `[ID: 68211872]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1931@28-10-2024_22-49-56.jpg](https://cdn-wl-assets.classplus.co/production/78392/2090ba78-7e76-41ef-94c9-b09137cade6a.jpeg) `[ID: 68211875]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_1931@28-10-2024_22-49-56_thumb.jpg](https://cdn-wl-assets.classplus.co/production/78392/9b79003c-df0a-444d-b674-6aa2bf5fd7c3.jpeg) `[ID: 68211870]`
+  * 📁 **1.2.4 Infosys PYQ Screenshots - PART0** `[Folder ID: 41823007]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_2021-08-22_10-07-30.jpg](https://cdn-wl-assets.classplus.co/production/78392/e64b336e-d147-4d12-8cba-00699952a067.jpeg) `[ID: 68211902]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_2021-08-22_10-08-56.jpg](https://cdn-wl-assets.classplus.co/production/78392/4ad04fb2-5818-44a2-aff6-c04bac258e73.jpeg) `[ID: 68211903]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_2021-08-22_10-09-09.jpg](https://cdn-wl-assets.classplus.co/production/78392/88eb444b-8f87-4c2d-8377-48285169b025.jpeg) `[ID: 68211904]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_2021-08-22_10-09-21 (2).jpg](https://cdn-wl-assets.classplus.co/production/78392/8b1df1ae-52b4-4cf7-b513-4ed2c841d19c.jpeg) `[ID: 68211905]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_2021-08-22_10-09-21.jpg](https://cdn-wl-assets.classplus.co/production/78392/f7890250-1840-402e-9812-449b57ef31c8.jpeg) `[ID: 68211906]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_2021-08-22_10-11-02.jpg](https://cdn-wl-assets.classplus.co/production/78392/c65dda7d-04dd-4d5b-bac7-90d0f3e9e04c.jpeg) `[ID: 68211907]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_2021-08-22_10-12-18.jpg](https://cdn-wl-assets.classplus.co/production/78392/734d9dce-ffdf-4fa8-8786-f8ebbb3fbba0.jpeg) `[ID: 68211908]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_2021-08-22_10-14-02.jpg](https://cdn-wl-assets.classplus.co/production/78392/0958241e-c895-4047-82ec-c318b029de97.jpeg) `[ID: 68211909]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_2021-08-22_10-14-38.jpg](https://cdn-wl-assets.classplus.co/production/78392/2c97472b-4e53-4c56-8414-4a49063e861a.jpeg) `[ID: 68211910]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_2021-08-22_10-15-06.jpg](https://cdn-wl-assets.classplus.co/production/78392/30b33bc3-2981-4ca4-87fb-d114e4814004.jpeg) `[ID: 68211911]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_2021-08-22_10-18-24.jpg](https://cdn-wl-assets.classplus.co/production/78392/4116d49b-a2c6-4fb0-b154-69ef93f28d8b.jpeg) `[ID: 68211912]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_2021-08-22_10-18-45.jpg](https://cdn-wl-assets.classplus.co/production/78392/041e69a1-6f73-4c4a-bab4-f4b79fb6fb3c.jpeg) `[ID: 68211913]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_2021-08-22_10-19-59.jpg](https://cdn-wl-assets.classplus.co/production/78392/7e2296eb-06d4-4cbe-ad5d-953ea357b6e4.jpeg) `[ID: 68211914]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_2021-08-22_10-22-48.jpg](https://cdn-wl-assets.classplus.co/production/78392/62029aa2-aadb-476a-b70b-196ec2510067.jpeg) `[ID: 68211915]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_2021-08-22_10-24-58.jpg](https://cdn-wl-assets.classplus.co/production/78392/f480f932-0d22-43d6-b148-101e3662c57f.jpeg) `[ID: 68211916]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_2021-08-22_10-25-08.jpg](https://cdn-wl-assets.classplus.co/production/78392/4437ba12-0f43-4c0d-8ed2-c15035c2ada0.jpeg) `[ID: 68211917]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_2021-08-22_10-25-39.jpg](https://cdn-wl-assets.classplus.co/production/78392/508109b0-b857-465e-9d39-3b5eddd9a3a5.jpeg) `[ID: 68211918]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_2021-08-22_10-26-21 (2).jpg](https://cdn-wl-assets.classplus.co/production/78392/14cf6813-72a1-4a34-935c-832e35a0c1ea.jpeg) `[ID: 68211919]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_2021-08-22_10-26-21.jpg](https://cdn-wl-assets.classplus.co/production/78392/664a68cd-f4de-47e2-9ed9-9567d2d483b7.jpeg) `[ID: 68211920]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_2021-08-22_10-26-23.jpg](https://cdn-wl-assets.classplus.co/production/78392/891c9532-a5e5-4c25-8136-62441f8ba33d.jpeg) `[ID: 68211921]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_2021-08-22_10-26-32.jpg](https://cdn-wl-assets.classplus.co/production/78392/4627a257-7b73-4806-8aca-9fae6cf68aeb.jpeg) `[ID: 68211922]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_2021-08-22_10-26-33.jpg](https://cdn-wl-assets.classplus.co/production/78392/d1a8dc72-6dc2-46e9-b767-e4b0561cbd9c.jpeg) `[ID: 68211923]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_2021-08-22_10-26-36.jpg](https://cdn-wl-assets.classplus.co/production/78392/fad196c5-6ec3-40ae-8321-50d3472b5d29.jpeg) `[ID: 68211924]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_2021-08-22_10-26-40 (2).jpg](https://cdn-wl-assets.classplus.co/production/78392/bcb146ae-1ec5-4fb3-90aa-f6a455561efb.jpeg) `[ID: 68211925]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_2021-08-22_10-26-40.jpg](https://cdn-wl-assets.classplus.co/production/78392/f19b5ea5-29b4-4683-9d7f-522a93a63f98.jpeg) `[ID: 68211926]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_2021-08-22_10-27-02.jpg](https://cdn-wl-assets.classplus.co/production/78392/3f5670cc-a16b-4d89-ac90-85737685c7ef.jpeg) `[ID: 68211927]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_2021-08-22_10-29-15.jpg](https://cdn-wl-assets.classplus.co/production/78392/b7757063-d2ad-4afa-bf69-ca59fa1ccdc2.jpeg) `[ID: 68211928]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_2021-08-22_10-30-54.jpg](https://cdn-wl-assets.classplus.co/production/78392/221f8715-51c9-4524-8f3d-eae62544ff59.jpeg) `[ID: 68211929]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_2021-08-22_10-30-55.jpg](https://cdn-wl-assets.classplus.co/production/78392/8831268a-8cc3-4adb-aa2a-48bf6514cc28.jpeg) `[ID: 68211930]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_2021-08-22_10-30-58.jpg](https://cdn-wl-assets.classplus.co/production/78392/7ec03ade-f6d7-4066-a762-8e98dfa93afb.jpeg) `[ID: 68211931]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_2021-08-22_10-31-48.jpg](https://cdn-wl-assets.classplus.co/production/78392/d44244ad-81e6-4abb-ba54-b3e9ef2b5402.jpeg) `[ID: 68211932]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_2021-08-22_11-31-30.jpg](https://cdn-wl-assets.classplus.co/production/78392/ad1a8af2-6f29-4141-8dfd-70dd2d6c9c5c.jpeg) `[ID: 68211933]`
+    - 📄 **[DOCUMENT/JPEG]** [WhatsApp Image 2021-11-21 at 6.04.53 PM (1).jpeg](https://cdn-wl-assets.classplus.co/production/78392/7b05f5b7-9284-410b-bb15-6ca9a48621cb.jpeg) `[ID: 68211934]`
+    - 📄 **[DOCUMENT/JPEG]** [WhatsApp Image 2021-11-21 at 6.04.53 PM.jpeg](https://cdn-wl-assets.classplus.co/production/78392/1da6b783-1fdb-42c8-a2c6-851d421aeb27.jpeg) `[ID: 68211935]`
+    - 📄 **[DOCUMENT/JPEG]** [WhatsApp Image 2021-11-21 at 6.04.54 PM (1).jpeg](https://cdn-wl-assets.classplus.co/production/78392/14dc7f1e-df10-4bb6-af0b-2b3d2f0e2542.jpeg) `[ID: 68211936]`
+    - 📄 **[DOCUMENT/JPEG]** [WhatsApp Image 2021-11-21 at 6.04.54 PM (2).jpeg](https://cdn-wl-assets.classplus.co/production/78392/7ecb91c3-f9d2-4c2e-8ef3-a98a2a98208a.jpeg) `[ID: 68211937]`
+    - 📄 **[DOCUMENT/JPEG]** [WhatsApp Image 2021-11-21 at 6.04.54 PM.jpeg](https://cdn-wl-assets.classplus.co/production/78392/b254ba9b-59dc-4794-85a3-e2146c39cb2f.jpeg) `[ID: 68211938]`
+    - 📄 **[DOCUMENT/JPEG]** [WhatsApp Image 2021-11-21 at 6.04.55 PM.jpeg](https://cdn-wl-assets.classplus.co/production/78392/d3ccad67-1511-4cc5-856b-92551595354a.jpeg) `[ID: 68211939]`
+    - 📄 **[DOCUMENT/JPEG]** [WhatsApp Image 2021-11-21 at 6.04.56 PM (1).jpeg](https://cdn-wl-assets.classplus.co/production/78392/e151e013-dbb1-4a97-b96b-82c57b70849b.jpeg) `[ID: 68211940]`
+    - 📄 **[DOCUMENT/JPEG]** [WhatsApp Image 2021-11-21 at 6.04.56 PM.jpeg](https://cdn-wl-assets.classplus.co/production/78392/8214ccf4-21ea-45e5-9ee7-32661dd2cf1a.jpeg) `[ID: 68211941]`
+    - 📄 **[DOCUMENT/JPEG]** [WhatsApp Image 2021-11-21 at 6.04.57 PM (1).jpeg](https://cdn-wl-assets.classplus.co/production/78392/080a408c-0806-4aed-845b-b8c216418901.jpeg) `[ID: 68211942]`
+    - 📄 **[DOCUMENT/JPEG]** [WhatsApp Image 2021-11-21 at 6.04.57 PM.jpeg](https://cdn-wl-assets.classplus.co/production/78392/d879812d-a245-40c2-9047-9b5137d2cd34.jpeg) `[ID: 68211943]`
+    - 📄 **[DOCUMENT/JPEG]** [WhatsApp Image 2021-11-21 at 6.04.58 PM (1).jpeg](https://cdn-wl-assets.classplus.co/production/78392/4b0c37cb-db8c-419d-9cdb-a634b4f86140.jpeg) `[ID: 68211944]`
+    - 📄 **[DOCUMENT/JPEG]** [WhatsApp Image 2021-11-21 at 6.04.58 PM.jpeg](https://cdn-wl-assets.classplus.co/production/78392/5556c0d4-a188-42e3-9522-ba2c1dcbc9e3.jpeg) `[ID: 68211945]`
+    - 📄 **[DOCUMENT/JPEG]** [WhatsApp Image 2021-11-21 at 6.04.59 PM (1).jpeg](https://cdn-wl-assets.classplus.co/production/78392/bac5bf39-1383-4b28-870f-e91621baa46b.jpeg) `[ID: 68211946]`
+    - 📄 **[DOCUMENT/JPEG]** [WhatsApp Image 2021-11-21 at 6.04.59 PM.jpeg](https://cdn-wl-assets.classplus.co/production/78392/8b37e3fc-18e0-4c56-bad7-c531427a011b.jpeg) `[ID: 68211947]`
+    - 📄 **[DOCUMENT/JPEG]** [WhatsApp Image 2021-11-21 at 6.05.00 PM.jpeg](https://cdn-wl-assets.classplus.co/production/78392/ec92ada6-67b0-42ce-a8b7-f3ca3512998a.jpeg) `[ID: 68211948]`
+    - 📄 **[DOCUMENT/JPEG]** [WhatsApp Image 2021-11-21 at 6.05.01 PM.jpeg](https://cdn-wl-assets.classplus.co/production/78392/a760eb94-cf86-439e-af64-aa8ddaa106b9.jpeg) `[ID: 68211949]`
+  * 📁 **1.2.5 Infosys Puzzles Screenshots - PART4** `[Folder ID: 41823338]`
+    - 📄 **[DOCUMENT/JPEG]** [WhatsApp Image 2021-11-21 at 6.04.53 PM (1).jpeg](https://cdn-wl-assets.classplus.co/production/78392/faeb5618-f16b-4433-a2e2-005e4c2e3df5.jpeg) `[ID: 68212242]`
+    - 📄 **[DOCUMENT/JPEG]** [WhatsApp Image 2021-11-21 at 6.04.53 PM.jpeg](https://cdn-wl-assets.classplus.co/production/78392/ea562057-85e3-4d6b-85f2-d0267caf058b.jpeg) `[ID: 68212243]`
+    - 📄 **[DOCUMENT/JPEG]** [WhatsApp Image 2021-11-21 at 6.04.54 PM (1).jpeg](https://cdn-wl-assets.classplus.co/production/78392/1cdc4b7a-02ac-40a8-a248-5d6bf31e84bc.jpeg) `[ID: 68212244]`
+    - 📄 **[DOCUMENT/JPEG]** [WhatsApp Image 2021-11-21 at 6.04.54 PM (2).jpeg](https://cdn-wl-assets.classplus.co/production/78392/39473bdd-8895-4c2f-8e3f-358d05327fae.jpeg) `[ID: 68212245]`
+    - 📄 **[DOCUMENT/JPEG]** [WhatsApp Image 2021-11-21 at 6.04.54 PM.jpeg](https://cdn-wl-assets.classplus.co/production/78392/bff29bdb-c22e-4905-876a-590612a90fa8.jpeg) `[ID: 68212246]`
+    - 📄 **[DOCUMENT/JPEG]** [WhatsApp Image 2021-11-21 at 6.04.55 PM.jpeg](https://cdn-wl-assets.classplus.co/production/78392/8b326e8b-383f-4047-92b3-ea1545304953.jpeg) `[ID: 68212247]`
+    - 📄 **[DOCUMENT/JPEG]** [WhatsApp Image 2021-11-21 at 6.04.56 PM (1).jpeg](https://cdn-wl-assets.classplus.co/production/78392/9a906ada-ca29-41dd-96fe-a4bd45750ea1.jpeg) `[ID: 68212248]`
+    - 📄 **[DOCUMENT/JPEG]** [WhatsApp Image 2021-11-21 at 6.04.56 PM.jpeg](https://cdn-wl-assets.classplus.co/production/78392/dd1736a0-122c-4534-981c-1788746a1cdd.jpeg) `[ID: 68212249]`
+    - 📄 **[DOCUMENT/JPEG]** [WhatsApp Image 2021-11-21 at 6.04.57 PM (1).jpeg](https://cdn-wl-assets.classplus.co/production/78392/0463c049-c717-4883-b725-53bd448d7016.jpeg) `[ID: 68212250]`
+    - 📄 **[DOCUMENT/JPEG]** [WhatsApp Image 2021-11-21 at 6.04.57 PM.jpeg](https://cdn-wl-assets.classplus.co/production/78392/edfc97bb-61e1-42de-81b9-a2afdde71504.jpeg) `[ID: 68212251]`
+    - 📄 **[DOCUMENT/JPEG]** [WhatsApp Image 2021-11-21 at 6.04.58 PM (1).jpeg](https://cdn-wl-assets.classplus.co/production/78392/f2756cbb-9ea0-474f-aa0b-69302e296e1e.jpeg) `[ID: 68212252]`
+    - 📄 **[DOCUMENT/JPEG]** [WhatsApp Image 2021-11-21 at 6.04.58 PM.jpeg](https://cdn-wl-assets.classplus.co/production/78392/2a912726-f8d2-4e8f-bdaf-0173a74155a1.jpeg) `[ID: 68212253]`
+    - 📄 **[DOCUMENT/JPEG]** [WhatsApp Image 2021-11-21 at 6.04.59 PM (1).jpeg](https://cdn-wl-assets.classplus.co/production/78392/e925ccd9-7e47-4a94-b9ef-ff4407adacc0.jpeg) `[ID: 68212254]`
+    - 📄 **[DOCUMENT/JPEG]** [WhatsApp Image 2021-11-21 at 6.04.59 PM.jpeg](https://cdn-wl-assets.classplus.co/production/78392/69a83c50-4a1a-4af7-8c32-b7bfbcf56773.jpeg) `[ID: 68212256]`
+    - 📄 **[DOCUMENT/JPEG]** [WhatsApp Image 2021-11-21 at 6.05.00 PM.jpeg](https://cdn-wl-assets.classplus.co/production/78392/45381e95-8ed4-4e4a-b2f4-c2201bb865e7.jpeg) `[ID: 68212257]`
+    - 📄 **[DOCUMENT/JPEG]** [WhatsApp Image 2021-11-21 at 6.05.01 PM.jpeg](https://cdn-wl-assets.classplus.co/production/78392/245f6d02-fbd2-4898-97e8-74c1a0df98ef.jpeg) `[ID: 68212258]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_2022-01-23_11-38-19.jpg](https://cdn-wl-assets.classplus.co/production/78392/24102446-cc28-4ef7-8b9e-9501f227a0f4.jpeg) `[ID: 68212261]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_2022-01-23_11-38-23 (2).jpg](https://cdn-wl-assets.classplus.co/production/78392/8b43905d-31a6-466b-ac84-0878dcefbb3c.jpeg) `[ID: 68212262]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_2022-01-23_11-38-23.jpg](https://cdn-wl-assets.classplus.co/production/78392/48f8cb09-be59-4691-b9ae-645d5db0ee24.jpeg) `[ID: 68212263]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_2022-01-23_11-39-11 (2).jpg](https://cdn-wl-assets.classplus.co/production/78392/27b5446b-df8f-4d70-86f2-4296c1eee2c1.jpeg) `[ID: 68212264]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_2022-01-23_11-39-11.jpg](https://cdn-wl-assets.classplus.co/production/78392/c33e66f5-6259-49af-9274-3c3b42edab4c.jpeg) `[ID: 68212265]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_2022-01-23_11-39-20.jpg](https://cdn-wl-assets.classplus.co/production/78392/4ec5219d-4e3c-407e-a204-6f4a4c4f9fb3.jpeg) `[ID: 68212266]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_2022-01-23_11-39-53.jpg](https://cdn-wl-assets.classplus.co/production/78392/f52fbf56-1700-4b69-ac83-234892264448.jpeg) `[ID: 68212267]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_2022-01-23_11-39-54 (2).jpg](https://cdn-wl-assets.classplus.co/production/78392/61540ca6-2aa1-4537-94f0-78ac7bc755ee.jpeg) `[ID: 68212268]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_2022-01-23_11-39-54.jpg](https://cdn-wl-assets.classplus.co/production/78392/4044a0bd-2b51-4a45-95ff-fda7333de0fc.jpeg) `[ID: 68212269]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_2022-01-23_11-40-02 (2).jpg](https://cdn-wl-assets.classplus.co/production/78392/ebe2cf06-45b8-452e-864a-18d4219dcee1.jpeg) `[ID: 68212270]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_2022-01-23_11-40-02.jpg](https://cdn-wl-assets.classplus.co/production/78392/881d4f79-4db1-4f57-90ba-96597ebeb7d0.jpeg) `[ID: 68212271]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_2022-01-23_11-40-07 (2).jpg](https://cdn-wl-assets.classplus.co/production/78392/58a53675-f9f7-4091-b394-0adf1a9672f6.jpeg) `[ID: 68212272]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_2022-01-23_11-40-07.jpg](https://cdn-wl-assets.classplus.co/production/78392/4acdceb7-f755-4ef7-9541-8a9385ce548c.jpeg) `[ID: 68212273]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_2022-01-23_11-40-14.jpg](https://cdn-wl-assets.classplus.co/production/78392/ca8a2229-ba3d-4628-9409-d09e4482417c.jpeg) `[ID: 68212274]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_2022-01-23_11-40-19.jpg](https://cdn-wl-assets.classplus.co/production/78392/af33d0ba-c65b-4290-8a44-61eb2e2efd7f.jpeg) `[ID: 68212275]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_2022-01-23_11-40-28.jpg](https://cdn-wl-assets.classplus.co/production/78392/eb434b7f-688e-4e1b-980a-7fd94b9ad030.jpeg) `[ID: 68212277]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_2022-01-23_11-40-31 (2).jpg](https://cdn-wl-assets.classplus.co/production/78392/db85505d-8243-452a-8db7-c7a5c36c69ca.jpeg) `[ID: 68212278]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_2022-01-23_11-40-31.jpg](https://cdn-wl-assets.classplus.co/production/78392/acd34103-439a-4e6e-b6e3-c29e3cb8f5d1.jpeg) `[ID: 68212279]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_2022-01-23_11-40-37.jpg](https://cdn-wl-assets.classplus.co/production/78392/2fa87254-fb8f-4715-99fe-a11147db8a22.jpeg) `[ID: 68212280]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_2022-01-23_11-40-50.jpg](https://cdn-wl-assets.classplus.co/production/78392/0cfce117-2ff3-431f-b975-e946b8df18f4.jpeg) `[ID: 68212281]`
+    - 📄 **[DOCUMENT/JPEG]** [photo_2022-01-23_11-40-52.jpg](https://cdn-wl-assets.classplus.co/production/78392/b7843191-574b-4b7c-975a-cb1385006ccd.jpeg) `[ID: 68212282]`
+    - 📄 **[DOCUMENT/JPEG]** [Puzzle1.jpg](https://cdn-wl-assets.classplus.co/production/78392/f9eb48d3-6f67-4ba4-9983-dc55cba5f1eb.jpeg) `[ID: 68212283]`
+* 📁 **1.3 Aptitude/Numerical Ability** `[Folder ID: 31993546]`
+  * 📁 **Aptitude Next Level Problem** `[Folder ID: 31993551]`
+    - 🎥 **[VIDEO]** **Aptitude Next level Problem-1** | Duration: `00:22:48` | ID: `104651820` | [Local Thumbnail](Video_Thumbnails/video_104651820.png)
+    - 🎥 **[VIDEO]** **Aptitide Next level Problem-2** | Duration: `00:23:23` | ID: `104651827` | [Local Thumbnail](Video_Thumbnails/video_104651827.png)
+    - 🎥 **[VIDEO]** **Aptitide Next level Problem-3** | Duration: `00:28:54` | ID: `104651821` | [Local Thumbnail](Video_Thumbnails/video_104651821.png)
+    - 🎥 **[VIDEO]** **Aptitide Next level Problem-4** | Duration: `00:24:14` | ID: `104651822` | [Local Thumbnail](Video_Thumbnails/video_104651822.png)
+    - 🎥 **[VIDEO]** **Aptitide Next level Problem-5** | Duration: `00:24:19` | ID: `104651818` | [Local Thumbnail](Video_Thumbnails/video_104651818.png)
+    - 🎥 **[VIDEO]** **Aptitide Next level Problem-6** | Duration: `00:20:46` | ID: `104651817` | [Local Thumbnail](Video_Thumbnails/video_104651817.png)
+    - 🎥 **[VIDEO]** **Aptitide Next level Problem-7** | Duration: `00:28:56` | ID: `104651824` | [Local Thumbnail](Video_Thumbnails/video_104651824.png)
+    - 🎥 **[VIDEO]** **Aptitide Next level Problem-8** | Duration: `00:46:18` | ID: `104651831` | [Local Thumbnail](Video_Thumbnails/video_104651831.png)
+    - 🎥 **[VIDEO]** **Aptitide Next level Problem-9** | Duration: `00:28:04` | ID: `104651819` | [Local Thumbnail](Video_Thumbnails/video_104651819.png)
+    - 🎥 **[VIDEO]** **Aptitide Next level Problem-10** | Duration: `00:28:48` | ID: `104651816` | [Local Thumbnail](Video_Thumbnails/video_104651816.png)
+    - 🎥 **[VIDEO]** **TCS DIGITAL Aptitude PYQ Part-1** | Duration: `00:26:17` | ID: `104651828` | [Local Thumbnail](Video_Thumbnails/video_104651828.png)
+    - 🎥 **[VIDEO]** **TCS DIGITAL Aptitude PYQ Part-2** | Duration: `00:33:08` | ID: `104651825` | [Local Thumbnail](Video_Thumbnails/video_104651825.png)
+    - 🎥 **[VIDEO]** **TCS DIGITAL Aptitude PYQ Part-3** | Duration: `00:27:25` | ID: `104651826` | [Local Thumbnail](Video_Thumbnails/video_104651826.png)
+    - 🎥 **[VIDEO]** **TCS DIGITAL Aptitude PYQ Part-4** | Duration: `00:33:45` | ID: `104651830` | [Local Thumbnail](Video_Thumbnails/video_104651830.png)
+    - 🎥 **[VIDEO]** **TCS DIGITAL Aptitude PYQ Part-5** | Duration: `00:31:55` | ID: `104651823` | [Local Thumbnail](Video_Thumbnails/video_104651823.png)
+    - 🎥 **[VIDEO]** **TCS DIGITAL Aptitude PYQ Part-6** | Duration: `00:36:40` | ID: `104651829` | [Local Thumbnail](Video_Thumbnails/video_104651829.png)
+    - 🎥 **[VIDEO]** **TCS DIGITAL Aptitude PYQ Part-7** | Duration: `00:18:00` | ID: `104651832` | [Local Thumbnail](Video_Thumbnails/video_104651832.png)
+  * 📁 **Aptitude Videos** `[Folder ID: 31993548]`
+    - 🎥 **[VIDEO]** **Topic 1: Problems on Simplification-Part1** | Duration: `00:49:14` | ID: `104651773` | [Local Thumbnail](Video_Thumbnails/video_104651773.png)
+    - 🎥 **[VIDEO]** **Topic 2: Problems on Simplification Part-2** | Duration: `00:46:57` | ID: `104651789` | [Local Thumbnail](Video_Thumbnails/video_104651789.png)
+    - 🎥 **[VIDEO]** **Topic 3: Problems on Average** | Duration: `00:59:46` | ID: `104651783` | [Local Thumbnail](Video_Thumbnails/video_104651783.png)
+    - 🎥 **[VIDEO]** **Topic 4: Problems on Percentage** | Duration: `00:59:58` | ID: `104651792` | [Local Thumbnail](Video_Thumbnails/video_104651792.png)
+    - 🎥 **[VIDEO]** **Topic 4.1: Problems on Percentage PART2** | Duration: `01:07:21` | ID: `178135553` | [Local Thumbnail](Video_Thumbnails/video_178135553.png)
+    - 🎥 **[VIDEO]** **Topic 5: Problems on Profit & Loss** | Duration: `00:58:37` | ID: `104651790` | [Local Thumbnail](Video_Thumbnails/video_104651790.png)
+    - 🎥 **[VIDEO]** **Topic 6: Problems on Ages** | Duration: `00:39:03` | ID: `104651787` | [Local Thumbnail](Video_Thumbnails/video_104651787.png)
+    - 🎥 **[VIDEO]** **Topic 7: Problems on Number system** | Duration: `00:55:40` | ID: `104651774` | [Local Thumbnail](Video_Thumbnails/video_104651774.png)
+    - 🎥 **[VIDEO]** **Topic 8: Problems on HCF and LCM** | Duration: `01:00:11` | ID: `104651769` | [Local Thumbnail](Video_Thumbnails/video_104651769.png)
+    - 🎥 **[VIDEO]** **Topic 9: Problems on Logarithms** | Duration: `00:38:03` | ID: `104651777` | [Local Thumbnail](Video_Thumbnails/video_104651777.png)
+    - 🎥 **[VIDEO]** **Topic 10: Problems on Ratio and Proportion** | Duration: `00:42:43` | ID: `104651771` | [Local Thumbnail](Video_Thumbnails/video_104651771.png)
+    - 🎥 **[VIDEO]** **Topic 11: Problems on UnitDigit** | Duration: `00:30:28` | ID: `104651776` | [Local Thumbnail](Video_Thumbnails/video_104651776.png)
+    - 🎥 **[VIDEO]** **Topic 12: Problems on Remainder theorem** | Duration: `00:24:55` | ID: `104651781` | [Local Thumbnail](Video_Thumbnails/video_104651781.png)
+    - 🎥 **[VIDEO]** **Topic 13: Problems on Time and work** | Duration: `00:43:59` | ID: `104651766` | [Local Thumbnail](Video_Thumbnails/video_104651766.png)
+    - 🎥 **[VIDEO]** **Topic 14: Problems on Pipes & Cisterns** | Duration: `00:33:17` | ID: `104651772` | [Local Thumbnail](Video_Thumbnails/video_104651772.png)
+    - 🎥 **[VIDEO]** **Topic 15: Problems on Partnership** | Duration: `00:37:56` | ID: `104651782` | [Local Thumbnail](Video_Thumbnails/video_104651782.png)
+    - 🎥 **[VIDEO]** **Topic 16: Problems on Simple and Compound Interest** | Duration: `01:08:25` | ID: `104651779` | [Local Thumbnail](Video_Thumbnails/video_104651779.png)
+    - 🎥 **[VIDEO]** **Topic 16.1: Compound Interest- instalment Based Problems** | Duration: `00:59:11` | ID: `104651796` | [Local Thumbnail](Video_Thumbnails/video_104651796.png)
+    - 🎥 **[VIDEO]** **Topic 17: Permutation and Combination** | Duration: `01:21:59` | ID: `104651775` | [Local Thumbnail](Video_Thumbnails/video_104651775.png)
+    - 🎥 **[VIDEO]** **Topic 18: Probability** | Duration: `01:31:35` | ID: `104651793` | [Local Thumbnail](Video_Thumbnails/video_104651793.png)
+    - 🎥 **[VIDEO]** **Topic 19: Clocks and Calendars** | Duration: `00:50:12` | ID: `104651768` | [Local Thumbnail](Video_Thumbnails/video_104651768.png)
+    - 🎥 **[VIDEO]** **Topic 20: Problems on Mensuration** | Duration: `01:35:56` | ID: `104651791` | [Local Thumbnail](Video_Thumbnails/video_104651791.png)
+    - 🎥 **[VIDEO]** **Topic 21: Problems on Progression** | Duration: `01:05:07` | ID: `104651794` | [Local Thumbnail](Video_Thumbnails/video_104651794.png)
+    - 🎥 **[VIDEO]** **Topic 22: Problems on Quadratic Equation Part-1** | Duration: `00:25:04` | ID: `104651785` | [Local Thumbnail](Video_Thumbnails/video_104651785.png)
+    - 🎥 **[VIDEO]** **Topic 22.1:🔥TCS Quadratic Equation - Zero to Hero _ _ Score 2-3 Marks in TCS _ 🔥** | Duration: `01:09:50` | ID: `104651795` | [Local Thumbnail](Video_Thumbnails/video_104651795.png)
+    - 🎥 **[VIDEO]** **Topic 23: Basic Problems on DATA Interpretation** | Duration: `00:55:23` | ID: `104651778` | [Local Thumbnail](Video_Thumbnails/video_104651778.png)
+    - 🎥 **[VIDEO]** **Topic 23.1: DATA INTERPRETATION PART 1** | Duration: `00:44:50` | ID: `104651798` | [Local Thumbnail](Video_Thumbnails/video_104651798.png)
+    - 🎥 **[VIDEO]** **Topic 23.2: DATA INTERPRETATION PART-2** | Duration: `00:58:38` | ID: `104651797` | [Local Thumbnail](Video_Thumbnails/video_104651797.png)
+    - 🎥 **[VIDEO]** **Topic 24: Problems on Time and Distance** | Duration: `00:58:12` | ID: `104651788` | [Local Thumbnail](Video_Thumbnails/video_104651788.png)
+    - 🎥 **[VIDEO]** **Topic 25: Problems on Trains** | Duration: `00:45:42` | ID: `104651770` | [Local Thumbnail](Video_Thumbnails/video_104651770.png)
+    - 🎥 **[VIDEO]** **Topic 26: Problems on Boats and Streams** | Duration: `00:34:12` | ID: `104651767` | [Local Thumbnail](Video_Thumbnails/video_104651767.png)
+    - 🎥 **[VIDEO]** **Topic 27: Problems on Mixture and Alligation** | Duration: `01:12:48` | ID: `104651784` | [Local Thumbnail](Video_Thumbnails/video_104651784.png)
+    - 🎥 **[VIDEO]** **Topic 28 : Statistics Part-1** | Duration: `00:36:34` | ID: `104651780` | [Local Thumbnail](Video_Thumbnails/video_104651780.png)
+    - 🎥 **[VIDEO]** **Topic 28.1: Statistics Part-2** | Duration: `00:36:58` | ID: `104651786` | [Local Thumbnail](Video_Thumbnails/video_104651786.png)
+    - 📄 **[DOCUMENT/PDF]** [Fully Solved TCS Previous Year Aptitude, Reasoning](https://ali-cdn-wl-assets.classplus.co/production/single/kfqrn/94c94483-0eb3-4d85-8ff9-242ab943a80b.pdf) `[ID: 49629042]`
+    * 📁 **PRACTICE VIDEOS** `[Folder ID: 31993553]`
+      - 🎥 **[VIDEO]** **PRACTICE QUESTIONS-1** | Duration: `00:26:55` | ID: `104651844` | [Local Thumbnail](Video_Thumbnails/video_104651844.png)
+      - 🎥 **[VIDEO]** **Practice QUESTIONS-2** | Duration: `00:19:42` | ID: `104651843` | [Local Thumbnail](Video_Thumbnails/video_104651843.png)
+      - 🎥 **[VIDEO]** **PRACTICE QUESTIONS-3** | Duration: `00:31:10` | ID: `104651845` | [Local Thumbnail](Video_Thumbnails/video_104651845.png)
+      - 📄 **[DOCUMENT/PDF]** [practice questions-3.pdf](https://cdn-wl-assets.classplus.co/production/78392/99f71b91-dcad-4891-aab8-30658835603e.pdf) `[ID: 49629044]`
+      - 🎥 **[VIDEO]** **Practice Questions-4** | Duration: `00:45:00` | ID: `104651846` | [Local Thumbnail](Video_Thumbnails/video_104651846.png)
+      - 📄 **[DOCUMENT/PDF]** [PRACTICE QUESTIONS-4](https://cdn-wl-assets.classplus.co/production/78392/2eef82e5-a456-4a1c-b1ea-0e95454f143a.pdf) `[ID: 49629045]`
+      - 🎥 **[VIDEO]** **PRACTICE QUESTIONS-5** | Duration: `00:34:26` | ID: `104651847` | [Local Thumbnail](Video_Thumbnails/video_104651847.png)
+      - 📄 **[DOCUMENT/PDF]** [PRATICE QUESTIONS-5.pdf](https://cdn-wl-assets.classplus.co/production/78392/77edee35-8271-453d-aaf2-472f9eddb2a9.pdf) `[ID: 49629046]`
+* 📁 **1.4 Reasoning/Mathematical Ability** `[Folder ID: 31993547]`
+  * 📁 **Reasoning Videos** `[Folder ID: 31993550]`
+    - 🎥 **[VIDEO]** **Topic 1: Coding and Decoding** | Duration: `01:34:13` | ID: `104651814` | [Local Thumbnail](Video_Thumbnails/video_104651814.png)
+    - 🎥 **[VIDEO]** **Topic 2: Problems on Direction** | Duration: `00:56:19` | ID: `104651806` | [Local Thumbnail](Video_Thumbnails/video_104651806.png)
+    - 🎥 **[VIDEO]** **Topic 3: Problems on Blood relation** | Duration: `00:59:48` | ID: `104651804` | [Local Thumbnail](Video_Thumbnails/video_104651804.png)
+    - 🎥 **[VIDEO]** **Topic 4: Number Puzzles Part-1** | Duration: `00:18:34` | ID: `104651800` | [Local Thumbnail](Video_Thumbnails/video_104651800.png)
+    - 🎥 **[VIDEO]** **Topic 4.1: Number puzzles Part-2** | Duration: `00:43:17` | ID: `104651801` | [Local Thumbnail](Video_Thumbnails/video_104651801.png)
+    - 🎥 **[VIDEO]** **Topic 5: Number Series** | Duration: `00:49:29` | ID: `104651805` | [Local Thumbnail](Video_Thumbnails/video_104651805.png)
+    - 🎥 **[VIDEO]** **Topic 6: Problems on Syllogism** | Duration: `01:03:29` | ID: `104651807` | [Local Thumbnail](Video_Thumbnails/video_104651807.png)
+    - 🎥 **[VIDEO]** **Topic 7: Problems on Ranking Test** | Duration: `01:04:10` | ID: `104651813` | [Local Thumbnail](Video_Thumbnails/video_104651813.png)
+    - 🎥 **[VIDEO]** **Topic 8: Problems on Seating Arrangement** | Duration: `00:38:20` | ID: `104651802` | [Local Thumbnail](Video_Thumbnails/video_104651802.png)
+    - 🎥 **[VIDEO]** **Topic 9: Problems on Data Sufficiency** | Duration: `00:37:50` | ID: `104651812` | [Local Thumbnail](Video_Thumbnails/video_104651812.png)
+    - 🎥 **[VIDEO]** **Topic 10: Problems on Critical reasoning Part-1** | Duration: `00:33:02` | ID: `104651799` | [Local Thumbnail](Video_Thumbnails/video_104651799.png)
+    - 🎥 **[VIDEO]** **Topic 10.1: Problems on Critical reasoning Part-2** | Duration: `00:37:23` | ID: `104651803` | [Local Thumbnail](Video_Thumbnails/video_104651803.png)
+    - 🎥 **[VIDEO]** **Topic 11: Problems on Deductive Resoning** | Duration: `00:19:06` | ID: `104651809` | [Local Thumbnail](Video_Thumbnails/video_104651809.png)
+    - 🎥 **[VIDEO]** **Topic 12: Problems on Logical Reasoning** | Duration: `00:14:12` | ID: `104651808` | [Local Thumbnail](Video_Thumbnails/video_104651808.png)
+    - 🎥 **[VIDEO]** **Topic 13: Problems on Non-Verbal Reasoning** | Duration: `00:36:17` | ID: `104651811` | [Local Thumbnail](Video_Thumbnails/video_104651811.png)
+    - 🎥 **[VIDEO]** **Topic 14: Reasoning Mock Test -1** | Duration: `00:26:14` | ID: `104651810` | [Local Thumbnail](Video_Thumbnails/video_104651810.png)
+    - 🎥 **[VIDEO]** **Topic15: Inequalities in Reasoning** | Duration: `00:39:48` | ID: `104651815` | [Local Thumbnail](Video_Thumbnails/video_104651815.png)
+  * 📁 **Reasoning Practice Videos** `[Folder ID: 31993552]`
+    - 🎥 **[VIDEO]** **Coding Decoding** | Duration: `01:10:18` | ID: `104651841` | [Local Thumbnail](Video_Thumbnails/video_104651841.png)
+    - 🎥 **[VIDEO]** **Classification & Arrangements** | Duration: `00:21:26` | ID: `104651834` | [Local Thumbnail](Video_Thumbnails/video_104651834.png)
+    - 🎥 **[VIDEO]** **Critical Reasoning** | Duration: `00:31:25` | ID: `104651838` | [Local Thumbnail](Video_Thumbnails/video_104651838.png)
+    - 🎥 **[VIDEO]** **Data Sufficiency** | Duration: `00:39:14` | ID: `104651833` | [Local Thumbnail](Video_Thumbnails/video_104651833.png)
+    - 🎥 **[VIDEO]** **Figure Based Problems** | Duration: `00:35:47` | ID: `104651836` | [Local Thumbnail](Video_Thumbnails/video_104651836.png)
+    - 🎥 **[VIDEO]** **Puzzles** | Duration: `00:28:49` | ID: `104651842` | [Local Thumbnail](Video_Thumbnails/video_104651842.png)
+    - 🎥 **[VIDEO]** **Syllogism** | Duration: `01:50:05` | ID: `104651840` | [Local Thumbnail](Video_Thumbnails/video_104651840.png)
+    - 🎥 **[VIDEO]** **Counting Figure FInal** | Duration: `00:37:35` | ID: `104651835` | [Local Thumbnail](Video_Thumbnails/video_104651835.png)
+    - 🎥 **[VIDEO]** **Number & Letter Analogy** | Duration: `00:26:42` | ID: `104651839` | [Local Thumbnail](Video_Thumbnails/video_104651839.png)
+    - 🎥 **[VIDEO]** **Number Series** | Duration: `00:56:14` | ID: `104651837` | [Local Thumbnail](Video_Thumbnails/video_104651837.png)
+  * 📁 **Logical Reasoning Topiciwse Test Series** `[Folder ID: 42132912]`
+    - 📝 **[MOCK TEST]** **Coding Decoding** | Qs: **20** | Figures: **11** | [Local Paper](1.4 Reasoning_Mathematical Ability/Logical Reasoning Topiciwse Test Series/Coding Decoding_PAPER.md) `[ID: 23945640]`
+    - 📝 **[MOCK TEST]** **Direction Sense** | Qs: **20** | Figures: **20** | [Local Paper](1.4 Reasoning_Mathematical Ability/Logical Reasoning Topiciwse Test Series/Direction Sense_PAPER.md) `[ID: 23945641]`
+    - 📝 **[MOCK TEST]** **Blood Relation** | Qs: **20** | Figures: **18** | [Local Paper](1.4 Reasoning_Mathematical Ability/Logical Reasoning Topiciwse Test Series/Blood Relation_PAPER.md) `[ID: 23945642]`
+    - 📝 **[MOCK TEST]** **Number Series** | Qs: **20** | Figures: **20** | [Local Paper](1.4 Reasoning_Mathematical Ability/Logical Reasoning Topiciwse Test Series/Number Series_PAPER.md) `[ID: 23945643]`
+    - 📝 **[MOCK TEST]** **Syllogism** | Qs: **20** | Figures: **18** | [Local Paper](1.4 Reasoning_Mathematical Ability/Logical Reasoning Topiciwse Test Series/Syllogism_PAPER.md) `[ID: 23945644]`
+    - 📝 **[MOCK TEST]** **Ranking Test** | Qs: **20** | Figures: **4** | [Local Paper](1.4 Reasoning_Mathematical Ability/Logical Reasoning Topiciwse Test Series/Ranking Test_PAPER.md) `[ID: 23945645]`
+    - 📝 **[MOCK TEST]** **Seating Arrangement** | Qs: **20** | Figures: **20** | [Local Paper](1.4 Reasoning_Mathematical Ability/Logical Reasoning Topiciwse Test Series/Seating Arrangement_PAPER.md) `[ID: 23945646]`
+    - 📝 **[MOCK TEST]** **Data Sufficiency** | Qs: **20** | Figures: **0** | [Local Paper](1.4 Reasoning_Mathematical Ability/Logical Reasoning Topiciwse Test Series/Data Sufficiency_PAPER.md) `[ID: 23945647]`
+    - 📝 **[MOCK TEST]** **Critical Reasoning** | Qs: **20** | Figures: **0** | [Local Paper](1.4 Reasoning_Mathematical Ability/Logical Reasoning Topiciwse Test Series/Critical Reasoning_PAPER.md) `[ID: 23945648]`
+    - 📝 **[MOCK TEST]** **Inequalities** | Qs: **20** | Figures: **4** | [Local Paper](1.4 Reasoning_Mathematical Ability/Logical Reasoning Topiciwse Test Series/Inequalities_PAPER.md) `[ID: 23945649]`
+    - 📝 **[MOCK TEST]** **Mirror Image** | Qs: **20** | Figures: **28** | [Local Paper](1.4 Reasoning_Mathematical Ability/Logical Reasoning Topiciwse Test Series/Mirror Image_PAPER.md) `[ID: 23945650]`
+* 📁 **1.5 Infosys Pseudo Code** `[Folder ID: 1042660]`
+  - 🎥 **[VIDEO]** **Concept 1** | Duration: `00:01:48` | ID: `179279632` | [Local Thumbnail](Video_Thumbnails/video_179279632.png)
+  - 🎥 **[VIDEO]** **Concept 2** | Duration: `00:34:36` | ID: `179279634` | [Local Thumbnail](Video_Thumbnails/video_179279634.png)
+  - 🎥 **[VIDEO]** **Concept 3** | Duration: `00:55:32` | ID: `179279633` | [Local Thumbnail](Video_Thumbnails/video_179279633.png)
+  - 🎥 **[VIDEO]** **Infosys Pseudo Code 1** | Duration: `00:39:12` | ID: `3355770` | [Local Thumbnail](Video_Thumbnails/video_3355770.png)
+  - 🎥 **[VIDEO]** **Infosys Pseudo Code 2** | Duration: `00:25:46` | ID: `3355769` | [Local Thumbnail](Video_Thumbnails/video_3355769.png)
+  - 🎥 **[VIDEO]** **Infosys Pseudo Code 3** | Duration: `00:34:09` | ID: `3355777` | [Local Thumbnail](Video_Thumbnails/video_3355777.png)
+  - 🎥 **[VIDEO]** **Infosys Pseudo Code 4** | Duration: `00:28:55` | ID: `3355767` | [Local Thumbnail](Video_Thumbnails/video_3355767.png)
+  - 🎥 **[VIDEO]** **Infosys Pseudo Code 5** | Duration: `00:24:53` | ID: `3355771` | [Local Thumbnail](Video_Thumbnails/video_3355771.png)
+  - 🎥 **[VIDEO]** **Infosys Pseudo Code 6** | Duration: `00:28:45` | ID: `3355773` | [Local Thumbnail](Video_Thumbnails/video_3355773.png)
+  - 🎥 **[VIDEO]** **Infosys Pseudo Code 7** | Duration: `00:25:14` | ID: `3355768` | [Local Thumbnail](Video_Thumbnails/video_3355768.png)
+  - 🎥 **[VIDEO]** **Infosys Pseudo code 8** | Duration: `00:21:10` | ID: `11861442` | [Local Thumbnail](Video_Thumbnails/video_11861442.png)
+  - 🎥 **[VIDEO]** **Infosys Pseudo Code 9** | Duration: `00:29:10` | ID: `3355778` | [Local Thumbnail](Video_Thumbnails/video_3355778.png)
+  - 🎥 **[VIDEO]** **Infosys Pseudo Code 10** | Duration: `00:28:50` | ID: `3355776` | [Local Thumbnail](Video_Thumbnails/video_3355776.png)
+  - 🎥 **[VIDEO]** **Infosys Pseudo Code 11** | Duration: `00:25:26` | ID: `3355775` | [Local Thumbnail](Video_Thumbnails/video_3355775.png)
+  - 🎥 **[VIDEO]** **Infosys Pseudo Code 12** | Duration: `00:13:36` | ID: `3355763` | [Local Thumbnail](Video_Thumbnails/video_3355763.png)
+  - 🎥 **[VIDEO]** **Infosys Pseudo Code 13** | Duration: `00:15:05` | ID: `3355755` | [Local Thumbnail](Video_Thumbnails/video_3355755.png)
+  - 🎥 **[VIDEO]** **Infosys Pseudo Code 14** | Duration: `00:18:49` | ID: `3355765` | [Local Thumbnail](Video_Thumbnails/video_3355765.png)
+  - 🎥 **[VIDEO]** **Infosys Pseudo Code 15** | Duration: `00:18:10` | ID: `3355762` | [Local Thumbnail](Video_Thumbnails/video_3355762.png)
+  - 🎥 **[VIDEO]** **Infosys Pseudo Code 16** | Duration: `00:17:16` | ID: `3355754` | [Local Thumbnail](Video_Thumbnails/video_3355754.png)
+  - 🎥 **[VIDEO]** **Infosys Pseudo Code 17** | Duration: `00:20:15` | ID: `3355761` | [Local Thumbnail](Video_Thumbnails/video_3355761.png)
+  - 🎥 **[VIDEO]** **Infosys Pseudo Code 18** | Duration: `00:16:08` | ID: `3355759` | [Local Thumbnail](Video_Thumbnails/video_3355759.png)
+  - 🎥 **[VIDEO]** **Infosys Pseudo Code 19** | Duration: `00:12:45` | ID: `3355764` | [Local Thumbnail](Video_Thumbnails/video_3355764.png)
+  - 🎥 **[VIDEO]** **Infosys Pseudo Code 20** | Duration: `00:16:44` | ID: `3355758` | [Local Thumbnail](Video_Thumbnails/video_3355758.png)
+  - 🎥 **[VIDEO]** **Infosys Pseudo Code 21** | Duration: `00:29:56` | ID: `3355779` | [Local Thumbnail](Video_Thumbnails/video_3355779.png)
+  - 🎥 **[VIDEO]** **Infosys Pseudo Code 22** | Duration: `00:28:44` | ID: `3355780` | [Local Thumbnail](Video_Thumbnails/video_3355780.png)
+  - 🎥 **[VIDEO]** **Infosys Pseudo Code 23** | Duration: `00:26:13` | ID: `3355774` | [Local Thumbnail](Video_Thumbnails/video_3355774.png)
+  - 🎥 **[VIDEO]** **Infosys Pseudo Code 24** | Duration: `00:23:20` | ID: `3355766` | [Local Thumbnail](Video_Thumbnails/video_3355766.png)
+  - 🎥 **[VIDEO]** **Infosys Pseudo Code 25** | Duration: `00:19:57` | ID: `3355760` | [Local Thumbnail](Video_Thumbnails/video_3355760.png)
+  - 🎥 **[VIDEO]** **infosys pseudo code example 1** | Duration: `00:24:46` | ID: `3355772` | [Local Thumbnail](Video_Thumbnails/video_3355772.png)
+  - 🎥 **[VIDEO]** **infosys pseudo code example 2** | Duration: `00:10:10` | ID: `3355756` | [Local Thumbnail](Video_Thumbnails/video_3355756.png)
+  - 🎥 **[VIDEO]** **infosys pseudo code example 3** | Duration: `00:10:42` | ID: `3355757` | [Local Thumbnail](Video_Thumbnails/video_3355757.png)
+  - 🎥 **[VIDEO]** **Infosys pseudo code example4** | Duration: `00:22:26` | ID: `6578650` | [Local Thumbnail](Video_Thumbnails/video_6578650.png)
+  - 🎥 **[VIDEO]** **Infosys pseudo code example 5** | Duration: `00:17:34` | ID: `6578648` | [Local Thumbnail](Video_Thumbnails/video_6578648.png)
+  - 🎥 **[VIDEO]** **Infosys pseudo code example 6** | Duration: `00:24:12` | ID: `6578649` | [Local Thumbnail](Video_Thumbnails/video_6578649.png)
+  - 🎥 **[VIDEO]** **Infosys Pseudo Code Example 7** | Duration: `00:21:46` | ID: `16300950` | [Local Thumbnail](Video_Thumbnails/video_16300950.png)
+  - 🎥 **[VIDEO]** **Infosys Exam 230122-course video** | Duration: `00:22:56` | ID: `17038581` | [Local Thumbnail](Video_Thumbnails/video_17038581.png)
+  - 🎥 **[VIDEO]** **Time Complexity** | Duration: `00:26:41` | ID: `17038582` | [Local Thumbnail](Video_Thumbnails/video_17038582.png)
+  - 🎥 **[VIDEO]** **Space Complexity** | Duration: `00:09:02` | ID: `17643693` | [Local Thumbnail](Video_Thumbnails/video_17643693.png)
+  - 🎥 **[VIDEO]** **Time and Space Complexity Practice Ques** | Duration: `00:35:38` | ID: `17643684` | [Local Thumbnail](Video_Thumbnails/video_17643684.png)
+  - 🎥 **[VIDEO]** **INFY Pseudo Code PYQ-1** | Duration: `00:39:24` | ID: `133559998` | [Local Thumbnail](Video_Thumbnails/video_133559998.png)
+  - 📄 **[DOCUMENT/PDF]** [Infosys Pseudo Code PYQ-1](https://cdn-wl-assets.classplus.co/production/78392/71660a79-ef96-4bd8-9eb8-fe5f05bc157e.pdf) `[ID: 68143717]`
+  - 🎥 **[VIDEO]** **Pseudo Code Practice Problem** | Duration: `00:36:54` | ID: `134122557` | [Local Thumbnail](Video_Thumbnails/video_134122557.png)
+  - 📄 **[DOCUMENT/PDF]** [Pseudo code Practice Problem](https://cdn-wl-assets.classplus.co/production/78392/dc4023a4-12bd-409d-9eb2-07ca033f90a6.pdf) `[ID: 68454244]`
+  - 🎥 **[VIDEO]** **Infosys Pseudo code Latest - Part1** | Duration: `00:44:04` | ID: `134760510` | [Local Thumbnail](Video_Thumbnails/video_134760510.png)
+  - 📄 **[DOCUMENT/PDF]** [Infosys Pseudo code Latest - Part1.pdf](https://cdn-wl-assets.classplus.co/production/78392/8aed264e-8a44-4251-b56e-392c16b8e71f.pdf) `[ID: 68826699]`
+  - 🎥 **[VIDEO]** **Infosys Pseudo code Latest - Part2** | Duration: `00:40:48` | ID: `134760487` | [Local Thumbnail](Video_Thumbnails/video_134760487.png)
+  - 📄 **[DOCUMENT/PDF]** [Infosys Pseudo code Latest - Part2.pdf](https://cdn-wl-assets.classplus.co/production/78392/df2505c3-6bdc-47d0-aa96-fc3bcb3a3a65.pdf) `[ID: 68826703]`
+  - 🎥 **[VIDEO]** **Infosys Pseudo code Latest - Part3** | Duration: `00:33:05` | ID: `134760109` | [Local Thumbnail](Video_Thumbnails/video_134760109.png)
+  - 📄 **[DOCUMENT/PDF]** [Infosys Pseudo code Latest - Part3.pdf](https://cdn-wl-assets.classplus.co/production/78392/86faf750-2903-4388-ac30-d411a8546a7d.pdf) `[ID: 68826704]`
+  - 📄 **[DOCUMENT/PDF]** [Infosys_100_Pseudocode_MCQ_Topicwise_Solutions.pdf](https://cdn-wl-assets.classplus.co/production/78392/f5259573-ca27-4194-a2f5-cc0344b7cfda.pdf) `[ID: 94828130]`
+* 📁 **1.6 Infosys Puzzles** `[Folder ID: 5060691]`
+  - 🎥 **[VIDEO]** **Infosys Puzzles Part-1** | Duration: `00:43:17` | ID: `16181758` | [Local Thumbnail](Video_Thumbnails/video_16181758.png)
+  - 🎥 **[VIDEO]** **Infosys Puzzles Part-2** | Duration: `00:18:34` | ID: `16181757` | [Local Thumbnail](Video_Thumbnails/video_16181757.png)
+  - 🎥 **[VIDEO]** **Infosys Puzzles Part-3** | Duration: `00:30:13` | ID: `16181773` | [Local Thumbnail](Video_Thumbnails/video_16181773.png)
+  - 🎥 **[VIDEO]** **Infosys Puzzles Part-4** | Duration: `00:25:38` | ID: `16181935` | [Local Thumbnail](Video_Thumbnails/video_16181935.png)
+  - 🎥 **[VIDEO]** **Infosys Puzzles Part-5** | Duration: `00:30:16` | ID: `16201794` | [Local Thumbnail](Video_Thumbnails/video_16201794.png)
+  - 🎥 **[VIDEO]** **Infosys Puzzles PYQ** | Duration: `00:32:43` | ID: `133559429` | [Local Thumbnail](Video_Thumbnails/video_133559429.png)
+  - 📄 **[DOCUMENT/PDF]** [Infosys Puzzles Questions .pdf](https://cdn-wl-assets.classplus.co/production/78392/a18b9d5e-7390-47d0-be34-2b78fadbe045.pdf) `[ID: 68143208]`
+  - 🎥 **[VIDEO]** **Infosys Puzzles Part-7** | Duration: `00:13:21` | ID: `134114346` | [Local Thumbnail](Video_Thumbnails/video_134114346.png)
+  - 📄 **[DOCUMENT/PDF]** [INFOSYS PUZZLE_PART7.pdf](https://cdn-wl-assets.classplus.co/production/78392/269bfd52-5900-4dd4-8ba1-4bc9d13963b4.pdf) `[ID: 68451167]`
+  - 🎥 **[VIDEO]** **Infosys puzzles Part-8** | Duration: `00:11:20` | ID: `134115287` | [Local Thumbnail](Video_Thumbnails/video_134115287.png)
+  - 📄 **[DOCUMENT/PDF]** [INFOSYS PUZZLE_PART8.pdf](https://cdn-wl-assets.classplus.co/production/78392/671819f4-3506-4213-bbe7-fab984e9d4e9.pdf) `[ID: 68451165]`
+  - 🎥 **[VIDEO]** **Infosys puzzles Part-9** | Duration: `00:08:25` | ID: `134115789` | [Local Thumbnail](Video_Thumbnails/video_134115789.png)
+  - 📄 **[DOCUMENT/PDF]** [INFOSYS PUZZLE_PART9.pdf](https://cdn-wl-assets.classplus.co/production/78392/5481cb3a-03ac-4657-a883-a1f57dcf4795.pdf) `[ID: 68451166]`
+  - 📄 **[DOCUMENT/PDF]** [100_Most_Important_Puzzle_Questions.pdf](https://cdn-wl-assets.classplus.co/production/78392/ca2adee9-c112-44ad-9f19-471ba5c25972.pdf) `[ID: 94569932]`
+* 📁 **1.7 Infosys Previous Questions** `[Folder ID: 2326240]`
+  - 🎥 **[VIDEO]** **Infosys  Pseudo Code MOCK Test _ Previous year pseudo code _ Infosys Questions** | Duration: `00:13:24` | ID: `6829055` | [Local Thumbnail](Video_Thumbnails/video_6829055.png)
+  - 🎥 **[VIDEO]** **Infosys Pseudo Code Analysis 10-12am Shift _ Pseudo Code Questions Solved** | Duration: `00:13:51` | ID: `6829056` | [Local Thumbnail](Video_Thumbnails/video_6829056.png)
+  - 🎥 **[VIDEO]** **Infosys Complete Analysis 10-12am Shift _ Technical Ability Questions Solved _ Important topics** | Duration: `00:24:00` | ID: `6829058` | [Local Thumbnail](Video_Thumbnails/video_6829058.png)
+  - 🎥 **[VIDEO]** **Infosys Mock Test _ Aptitude & Reasoning _ Infosys Data Sufficiency, Syllogism & profit,loss** | Duration: `00:18:42` | ID: `6829060` | [Local Thumbnail](Video_Thumbnails/video_6829060.png)
+  - 🎥 **[VIDEO]** **Infosys Previous Year Questions _ Infosys Puzzles, Data interpretation, Series Questions** | Duration: `00:18:19` | ID: `6829059` | [Local Thumbnail](Video_Thumbnails/video_6829059.png)
+  - 🎥 **[VIDEO]** **Infosys Puzzles asked on 16may 2021 _ Infosys puzzle questions Analysis _ Exact Questions** | Duration: `00:20:09` | ID: `6829061` | [Local Thumbnail](Video_Thumbnails/video_6829061.png)
+  - 🎥 **[VIDEO]** **Infosys Questions asked on 26dec 2021** | Duration: `00:28:07` | ID: `16252084` | [Local Thumbnail](Video_Thumbnails/video_16252084.png)
+  - 🎥 **[VIDEO]** **Infosys 06.03.2022 asked Questions** | Duration: `00:21:34` | ID: `22307901` | [Local Thumbnail](Video_Thumbnails/video_22307901.png)
+  - 🎥 **[VIDEO]** **Infosys 22.02.2022_part1** | Duration: `00:19:07` | ID: `22307898` | [Local Thumbnail](Video_Thumbnails/video_22307898.png)
+  - 🎥 **[VIDEO]** **Infosys 22.02.2022_part2** | Duration: `00:20:19` | ID: `22307900` | [Local Thumbnail](Video_Thumbnails/video_22307900.png)
+  - 🎥 **[VIDEO]** **Infosys 22.02.2022_part3** | Duration: `00:20:54` | ID: `22307897` | [Local Thumbnail](Video_Thumbnails/video_22307897.png)
+  - 🎥 **[VIDEO]** **Infosys 22.02.2022_part4** | Duration: `00:20:48` | ID: `22307899` | [Local Thumbnail](Video_Thumbnails/video_22307899.png)
+  - 🎥 **[VIDEO]** **Infosys Interview Experience _ Cracked Infosys in 20days preparation _Complete Journey** | Duration: `00:31:24` | ID: `6829062` | [Local Thumbnail](Video_Thumbnails/video_6829062.png)
+  - 🎥 **[VIDEO]** **Infosys Aptitude PYQ** | Duration: `00:34:39` | ID: `133113742` | [Local Thumbnail](Video_Thumbnails/video_133113742.png)
+  - 📄 **[DOCUMENT/PDF]** [Class 23 Infosys Aptitude.pdf](https://cdn-wl-assets.classplus.co/production/78392/9ab5eca5-2007-4716-8e65-468180fb97f7.pdf) `[ID: 67892865]`
+  - 🎥 **[VIDEO]** **Infosys Verbal Ability PYQ** | Duration: `00:47:43` | ID: `133559490` | [Local Thumbnail](Video_Thumbnails/video_133559490.png)
+  - 🎥 **[VIDEO]** **INFY PYQ PSEUDO CODE -PART1** | Duration: `00:39:24` | ID: `134122537` | [Local Thumbnail](Video_Thumbnails/video_134122537.png)
+  - 📄 **[DOCUMENT/PDF]** [Infy PYQ PSEUDO CODE -PART1.pdf](https://cdn-wl-assets.classplus.co/production/78392/6d7ac33b-f6d9-4233-b6f0-ddf86b36883c.pdf) `[ID: 68454231]`
+  - 🎥 **[VIDEO]** **Infosys PYQ Aptitude - DI** | Duration: `00:37:52` | ID: `134365077` | [Local Thumbnail](Video_Thumbnails/video_134365077.png)
+  - 📄 **[DOCUMENT/PDF]** [Infosys pyq Aptitude - DI.pdf](https://cdn-wl-assets.classplus.co/production/78392/6757a3c0-3976-4048-a2bf-48e831fb9ad9.pdf) `[ID: 68588287]`
+  - 🎥 **[VIDEO]** **Infosys Latest PYQ PSEUDO Code Question_ 10AM Slot 1 Complete Analysis_ Most Important Questions** | Duration: `00:22:49` | ID: `134661659` | [Local Thumbnail](Video_Thumbnails/video_134661659.png)
+* 📁 **1.8 Infosys Mock test Series** `[Folder ID: 41970163]`
+  * 📁 **1.8.1 Infosys Mock Test** `[Folder ID: 41970168]`
+    - 🎥 **[VIDEO]** **MockTest1** | Duration: `00:21:27` | ID: `134122105` | [Local Thumbnail](Video_Thumbnails/video_134122105.png)
+    - 🎥 **[VIDEO]** **MockTest2** | Duration: `00:21:46` | ID: `134122106` | [Local Thumbnail](Video_Thumbnails/video_134122106.png)
+    - 🎥 **[VIDEO]** **MockTest3** | Duration: `00:21:04` | ID: `134122113` | [Local Thumbnail](Video_Thumbnails/video_134122113.png)
+    - 🎥 **[VIDEO]** **MockTest4** | Duration: `00:22:54` | ID: `134122112` | [Local Thumbnail](Video_Thumbnails/video_134122112.png)
+    - 🎥 **[VIDEO]** **MockTest5** | Duration: `00:21:51` | ID: `134122137` | [Local Thumbnail](Video_Thumbnails/video_134122137.png)
+    - 🎥 **[VIDEO]** **MockTest6** | Duration: `00:20:35` | ID: `134122107` | [Local Thumbnail](Video_Thumbnails/video_134122107.png)
+    - 🎥 **[VIDEO]** **MockTest7** | Duration: `00:19:49` | ID: `134122128` | [Local Thumbnail](Video_Thumbnails/video_134122128.png)
+    - 🎥 **[VIDEO]** **MockTest8** | Duration: `00:21:09` | ID: `134122124` | [Local Thumbnail](Video_Thumbnails/video_134122124.png)
+    - 🎥 **[VIDEO]** **MockTest9** | Duration: `00:22:21` | ID: `134122111` | [Local Thumbnail](Video_Thumbnails/video_134122111.png)
+    - 🎥 **[VIDEO]** **MockTest10** | Duration: `00:21:07` | ID: `134122109` | [Local Thumbnail](Video_Thumbnails/video_134122109.png)
+    - 🎥 **[VIDEO]** **MockTest11** | Duration: `00:20:48` | ID: `134122110` | [Local Thumbnail](Video_Thumbnails/video_134122110.png)
+    - 🎥 **[VIDEO]** **MockTest12** | Duration: `00:24:19` | ID: `134122134` | [Local Thumbnail](Video_Thumbnails/video_134122134.png)
+    - 🎥 **[VIDEO]** **MockTest13** | Duration: `00:19:25` | ID: `134122125` | [Local Thumbnail](Video_Thumbnails/video_134122125.png)
+    - 🎥 **[VIDEO]** **MockTest14** | Duration: `00:22:40` | ID: `134122132` | [Local Thumbnail](Video_Thumbnails/video_134122132.png)
+    - 🎥 **[VIDEO]** **MockTest15** | Duration: `00:23:50` | ID: `134122126` | [Local Thumbnail](Video_Thumbnails/video_134122126.png)
+    - 🎥 **[VIDEO]** **MockTest16** | Duration: `00:23:48` | ID: `134122136` | [Local Thumbnail](Video_Thumbnails/video_134122136.png)
+    - 🎥 **[VIDEO]** **MockTest17** | Duration: `00:20:42` | ID: `134122129` | [Local Thumbnail](Video_Thumbnails/video_134122129.png)
+    - 🎥 **[VIDEO]** **MockTest18** | Duration: `00:23:19` | ID: `134122131` | [Local Thumbnail](Video_Thumbnails/video_134122131.png)
+    - 🎥 **[VIDEO]** **MockTest19** | Duration: `00:19:37` | ID: `134122130` | [Local Thumbnail](Video_Thumbnails/video_134122130.png)
+    - 🎥 **[VIDEO]** **MockTest20** | Duration: `00:20:13` | ID: `134122133` | [Local Thumbnail](Video_Thumbnails/video_134122133.png)
+    - 🎥 **[VIDEO]** **MockTest21** | Duration: `00:20:47` | ID: `134122119` | [Local Thumbnail](Video_Thumbnails/video_134122119.png)
+    - 🎥 **[VIDEO]** **MockTest22** | Duration: `00:21:18` | ID: `134122108` | [Local Thumbnail](Video_Thumbnails/video_134122108.png)
+    - 🎥 **[VIDEO]** **MockTest23** | Duration: `00:20:21` | ID: `134122116` | [Local Thumbnail](Video_Thumbnails/video_134122116.png)
+    - 🎥 **[VIDEO]** **MockTest24** | Duration: `00:20:13` | ID: `134122115` | [Local Thumbnail](Video_Thumbnails/video_134122115.png)
+    - 🎥 **[VIDEO]** **MockTest25** | Duration: `00:20:08` | ID: `134122117` | [Local Thumbnail](Video_Thumbnails/video_134122117.png)
+    - 🎥 **[VIDEO]** **MockTest26** | Duration: `00:21:31` | ID: `134122118` | [Local Thumbnail](Video_Thumbnails/video_134122118.png)
+    - 🎥 **[VIDEO]** **MockTest27** | Duration: `00:22:47` | ID: `134122135` | [Local Thumbnail](Video_Thumbnails/video_134122135.png)
+    - 🎥 **[VIDEO]** **MockTest28** | Duration: `00:23:16` | ID: `134122114` | [Local Thumbnail](Video_Thumbnails/video_134122114.png)
+    - 🎥 **[VIDEO]** **MockTest29** | Duration: `00:21:53` | ID: `134122121` | [Local Thumbnail](Video_Thumbnails/video_134122121.png)
+    - 🎥 **[VIDEO]** **MockTest30** | Duration: `00:20:27` | ID: `134122120` | [Local Thumbnail](Video_Thumbnails/video_134122120.png)
+    - 🎥 **[VIDEO]** **MockTest31** | Duration: `00:20:29` | ID: `134122127` | [Local Thumbnail](Video_Thumbnails/video_134122127.png)
+    - 🎥 **[VIDEO]** **MockTest32** | Duration: `00:20:45` | ID: `134122122` | [Local Thumbnail](Video_Thumbnails/video_134122122.png)
+    - 🎥 **[VIDEO]** **MockTest33** | Duration: `00:20:48` | ID: `134122123` | [Local Thumbnail](Video_Thumbnails/video_134122123.png)
+  * 📁 **1.8.2 Latest Mock Test** `[Folder ID: 41970169]`
+    - 🎥 **[VIDEO]** **Infosys verbal ability mock test-1** | Duration: `00:38:34` | ID: `134122138` | [Local Thumbnail](Video_Thumbnails/video_134122138.png)
+    - 📄 **[DOCUMENT/PDF]** [VERBAL ABILITY MOCK TEST.pptx.pdf](https://cdn-wl-assets.classplus.co/production/78392/84457e05-6f0c-494e-82bc-496b71a15636.pdf) `[ID: 68454063]`
+    - 🎥 **[VIDEO]** **INFOSYS_VERBAL ABILITY mock test-2** | Duration: `01:01:03` | ID: `134122139` | [Local Thumbnail](Video_Thumbnails/video_134122139.png)
+    - 📄 **[DOCUMENT/PDF]** [infosys VERBAL ABILITY mocktest2.pdf](https://cdn-wl-assets.classplus.co/production/78392/8ca3af6f-445a-4ee6-8578-f95fe972f0b7.pdf) `[ID: 68454064]`
+* 📁 **1.9.0 Verbal Ability - Grammar & Essay** `[Folder ID: 41970135]`
+  - 📄 **[DOCUMENT/PDF]** [100_Idioms_and_Phrases_MCQ_With_Explanations_Below_Each.pdf](https://cdn-wl-assets.classplus.co/production/78392/072711d9-5600-4b85-8490-5952308e2834.pdf) `[ID: 95292327]`
+  - 📄 **[DOCUMENT/PDF]** [100_DIFFICULT_Sentence_Correction_MCQs_Solutions_At_End.pdf](https://cdn-wl-assets.classplus.co/production/78392/ebe6fc95-ba1a-4b2c-9280-81ede55f0653.pdf) `[ID: 95296457]`
+  - 📄 **[DOCUMENT/PDF]** [Infosys_Verbal_Ability_Rules_Detailed_Grammar_Vocab_Practice_Updated.pdf](https://cdn-wl-assets.classplus.co/production/78392/fce95825-7b13-4e5a-8296-65e9419aee5c.pdf) `[ID: 95839950]`
+  - 📄 **[DOCUMENT/PDF]** [Infosys_Verbal_Ability_Detailed_Grammar_Vocab_Hard_Practice.pdf](https://cdn-wl-assets.classplus.co/production/78392/950da888-e982-4c1a-9c2a-671e4ef463b8.pdf) `[ID: 95839949]`
+  * 📁 **1.9.3 ESSAY WRITTING** `[Folder ID: 41970139]`
+    - 🎥 **[VIDEO]** **ACE Essay Writting** | Duration: `00:25:30` | ID: `134121886` | [Local Thumbnail](Video_Thumbnails/video_134121886.png)
+    - 🎥 **[VIDEO]** **Essay Writing-1** | Duration: `00:21:35` | ID: `134121889` | [Local Thumbnail](Video_Thumbnails/video_134121889.png)
+    - 🎥 **[VIDEO]** **Essay Writing-2** | Duration: `00:28:21` | ID: `134121887` | [Local Thumbnail](Video_Thumbnails/video_134121887.png)
+    - 🎥 **[VIDEO]** **Essay Writing-3** | Duration: `00:19:41` | ID: `134121888` | [Local Thumbnail](Video_Thumbnails/video_134121888.png)
+    - 🎥 **[VIDEO]** **Grading System in School Capgemini Essay** | Duration: `00:08:02` | ID: `134121890` | [Local Thumbnail](Video_Thumbnails/video_134121890.png)
+    - 🎥 **[VIDEO]** **Common Essay writing  for all exam_1** | Duration: `00:19:33` | ID: `134121883` | [Local Thumbnail](Video_Thumbnails/video_134121883.png)
+    - 🎥 **[VIDEO]** **Common Essay writing  for all exam_2 COVID Essay** | Duration: `00:23:26` | ID: `134121880` | [Local Thumbnail](Video_Thumbnails/video_134121880.png)
+    - 🎥 **[VIDEO]** **Common Essay writing  for all exam_3 Technology Essay** | Duration: `00:23:02` | ID: `134121885` | [Local Thumbnail](Video_Thumbnails/video_134121885.png)
+    - 🎥 **[VIDEO]** **Common Essay writing  for all exam_4** | Duration: `00:16:45` | ID: `134121884` | [Local Thumbnail](Video_Thumbnails/video_134121884.png)
+    - 🎥 **[VIDEO]** **Common Essay writing  for all exam_5** | Duration: `00:14:35` | ID: `134121881` | [Local Thumbnail](Video_Thumbnails/video_134121881.png)
+    - 🎥 **[VIDEO]** **Common Essay writing  for all exam_6** | Duration: `00:13:01` | ID: `134121882` | [Local Thumbnail](Video_Thumbnails/video_134121882.png)
+    - 🎥 **[VIDEO]** **Essay Writing asked in 2024** | Duration: `00:31:29` | ID: `134121891` | [Local Thumbnail](Video_Thumbnails/video_134121891.png)
+  * 📁 **1.9.1 Verbal Ability** `[Folder ID: 41970136]`
+    - 📄 **[DOCUMENT/PDF]** [SOLVED VERBAL ABILITY PRACTICE QUESTIONS .pdf](https://cdn-wl-assets.classplus.co/production/78392/0910be29-748a-48cf-9e03-cbc35a737748.pdf) `[ID: 68454017]`
+    * 📁 **Basic English Grammar** `[Folder ID: 41970138]`
+      - 🎥 **[VIDEO]** **Introduction to Verbal Ability** | Duration: `00:18:50` | ID: `134121877` | [Local Thumbnail](Video_Thumbnails/video_134121877.png)
+      - 🎥 **[VIDEO]** **Topic 1: Articles** | Duration: `00:16:30` | ID: `134121858` | [Local Thumbnail](Video_Thumbnails/video_134121858.png)
+      - 🎥 **[VIDEO]** **Topic 2: Noun** | Duration: `00:16:23` | ID: `134121860` | [Local Thumbnail](Video_Thumbnails/video_134121860.png)
+      - 🎥 **[VIDEO]** **Topic 3: Pronouns** | Duration: `00:16:15` | ID: `134121862` | [Local Thumbnail](Video_Thumbnails/video_134121862.png)
+      - 🎥 **[VIDEO]** **Topic 4: Adjectives** | Duration: `00:26:05` | ID: `134121861` | [Local Thumbnail](Video_Thumbnails/video_134121861.png)
+      - 🎥 **[VIDEO]** **Topic 5: Verbs** | Duration: `00:19:08` | ID: `134121854` | [Local Thumbnail](Video_Thumbnails/video_134121854.png)
+      - 🎥 **[VIDEO]** **Topic 6: Adverbs** | Duration: `00:11:51` | ID: `134121851` | [Local Thumbnail](Video_Thumbnails/video_134121851.png)
+      - 🎥 **[VIDEO]** **Topic 7: Preposition Part-1** | Duration: `00:14:31` | ID: `134121865` | [Local Thumbnail](Video_Thumbnails/video_134121865.png)
+      - 🎥 **[VIDEO]** **Topic 7.1: Prepositions Part-2** | Duration: `00:16:43` | ID: `134121869` | [Local Thumbnail](Video_Thumbnails/video_134121869.png)
+      - 🎥 **[VIDEO]** **Topic 7.2: Preposition Part-3** | Duration: `00:13:23` | ID: `134121853` | [Local Thumbnail](Video_Thumbnails/video_134121853.png)
+      - 🎥 **[VIDEO]** **Topic 8: Conjunctions Part-1** | Duration: `00:11:25` | ID: `134121850` | [Local Thumbnail](Video_Thumbnails/video_134121850.png)
+      - 🎥 **[VIDEO]** **Topic 8.1: Conjunctions Part-2** | Duration: `00:14:17` | ID: `134121849` | [Local Thumbnail](Video_Thumbnails/video_134121849.png)
+      - 🎥 **[VIDEO]** **Topic 9: Basic Rules** | Duration: `00:18:41` | ID: `134121868` | [Local Thumbnail](Video_Thumbnails/video_134121868.png)
+      - 🎥 **[VIDEO]** **Topic 10: Analysis of sentences** | Duration: `00:18:43` | ID: `134121867` | [Local Thumbnail](Video_Thumbnails/video_134121867.png)
+      - 🎥 **[VIDEO]** **Topic 11: Clauses** | Duration: `00:14:40` | ID: `134121855` | [Local Thumbnail](Video_Thumbnails/video_134121855.png)
+      - 🎥 **[VIDEO]** **Topic 12: Determiners** | Duration: `00:14:14` | ID: `134121856` | [Local Thumbnail](Video_Thumbnails/video_134121856.png)
+      - 🎥 **[VIDEO]** **Topic 13: Modals** | Duration: `00:18:17` | ID: `134121870` | [Local Thumbnail](Video_Thumbnails/video_134121870.png)
+      - 🎥 **[VIDEO]** **Topic 14: Phrases** | Duration: `00:17:12` | ID: `134121848` | [Local Thumbnail](Video_Thumbnails/video_134121848.png)
+      - 🎥 **[VIDEO]** **Topic 15: Antonyms** | Duration: `00:16:04` | ID: `134121866` | [Local Thumbnail](Video_Thumbnails/video_134121866.png)
+      - 🎥 **[VIDEO]** **Topic 16: Synoynms** | Duration: `00:14:10` | ID: `134121873` | [Local Thumbnail](Video_Thumbnails/video_134121873.png)
+      - 🎥 **[VIDEO]** **Topic 17: Tenses Part-1** | Duration: `00:17:59` | ID: `134121852` | [Local Thumbnail](Video_Thumbnails/video_134121852.png)
+      - 🎥 **[VIDEO]** **Topic 17.1: Tenses Part-2** | Duration: `00:17:04` | ID: `134121857` | [Local Thumbnail](Video_Thumbnails/video_134121857.png)
+      - 🎥 **[VIDEO]** **Topic 17.2: Tenses Part-3** | Duration: `00:18:00` | ID: `134121878` | [Local Thumbnail](Video_Thumbnails/video_134121878.png)
+      - 🎥 **[VIDEO]** **Topic 18: Voice Part-1** | Duration: `00:13:44` | ID: `134121871` | [Local Thumbnail](Video_Thumbnails/video_134121871.png)
+      - 🎥 **[VIDEO]** **Topic 18.1: Voice Part-2** | Duration: `00:16:22` | ID: `134121874` | [Local Thumbnail](Video_Thumbnails/video_134121874.png)
+      - 🎥 **[VIDEO]** **Topic 18.2: Voice Part-3** | Duration: `00:15:12` | ID: `134121864` | [Local Thumbnail](Video_Thumbnails/video_134121864.png)
+      - 🎥 **[VIDEO]** **Topic 19: Subject Verb Agreement Part-1** | Duration: `00:22:58` | ID: `134121863` | [Local Thumbnail](Video_Thumbnails/video_134121863.png)
+      - 🎥 **[VIDEO]** **Topic 19.1: Subject Verb Agreement Part-2** | Duration: `00:16:43` | ID: `134121872` | [Local Thumbnail](Video_Thumbnails/video_134121872.png)
+      - 🎥 **[VIDEO]** **Topic 20: Speech** | Duration: `00:18:56` | ID: `134121859` | [Local Thumbnail](Video_Thumbnails/video_134121859.png)
+      - 🎥 **[VIDEO]** **Topic 20.1: Direct & Indirect Speech Part1** | Duration: `00:26:05` | ID: `134121879` | [Local Thumbnail](Video_Thumbnails/video_134121879.png)
+      - 🎥 **[VIDEO]** **Topic 20.2: Direct & Indirect Speech Part-2** | Duration: `00:26:03` | ID: `134121876` | [Local Thumbnail](Video_Thumbnails/video_134121876.png)
+      - 🎥 **[VIDEO]** **Topic 21: Word Analogy** | Duration: `00:18:56` | ID: `134121875` | [Local Thumbnail](Video_Thumbnails/video_134121875.png)
+    * 📁 **Verbal Ability - Exam Specific Topics** `[Folder ID: 41970141]`
+      - 🎥 **[VIDEO]** **Topic 1: Reading Comprehension Part-1** | Duration: `00:36:28` | ID: `134121929` | [Local Thumbnail](Video_Thumbnails/video_134121929.png)
+      - 🎥 **[VIDEO]** **Topic 1.1: Reading Comprehension Part-2** | Duration: `00:38:50` | ID: `134121928` | [Local Thumbnail](Video_Thumbnails/video_134121928.png)
+      - 🎥 **[VIDEO]** **Topic 2: Direct & Indirect Speech Part-1** | Duration: `00:26:05` | ID: `134121925` | [Local Thumbnail](Video_Thumbnails/video_134121925.png)
+      - 🎥 **[VIDEO]** **Topic 2.1: Direct & Indirect Speech Part-2** | Duration: `00:26:03` | ID: `134121927` | [Local Thumbnail](Video_Thumbnails/video_134121927.png)
+      - 🎥 **[VIDEO]** **Topic 3: Sentence Improvement Part-1** | Duration: `00:24:38` | ID: `134121930` | [Local Thumbnail](Video_Thumbnails/video_134121930.png)
+      - 🎥 **[VIDEO]** **Topic 3.1: Sentence Improvement Part-2** | Duration: `00:22:38` | ID: `134121932` | [Local Thumbnail](Video_Thumbnails/video_134121932.png)
+      - 🎥 **[VIDEO]** **Topic 4: Parajumbles** | Duration: `00:23:37` | ID: `134121926` | [Local Thumbnail](Video_Thumbnails/video_134121926.png)
+      - 🎥 **[VIDEO]** **Topic 5: Phrasal Verbs** | Duration: `00:13:20` | ID: `134121931` | [Local Thumbnail](Video_Thumbnails/video_134121931.png)
+      - 🎥 **[VIDEO]** **Topic 6: Spotting Error Part-1** | Duration: `00:22:22` | ID: `134121937` | [Local Thumbnail](Video_Thumbnails/video_134121937.png)
+      - 🎥 **[VIDEO]** **Topic 6.1: Spotting Error Part-2** | Duration: `00:23:40` | ID: `134121935` | [Local Thumbnail](Video_Thumbnails/video_134121935.png)
+      - 🎥 **[VIDEO]** **Topic 7: English Corrective Usage** | Duration: `00:23:20` | ID: `134121936` | [Local Thumbnail](Video_Thumbnails/video_134121936.png)
+      - 🎥 **[VIDEO]** **Topic 8: Sentence Correction** | Duration: `00:15:35` | ID: `134121934` | [Local Thumbnail](Video_Thumbnails/video_134121934.png)
+      - 🎥 **[VIDEO]** **Topic 9: Essay writing** | Duration: `00:19:33` | ID: `134121933` | [Local Thumbnail](Video_Thumbnails/video_134121933.png)
+    * 📁 **Verbal Ability - Previous Year Questions** `[Folder ID: 41970143]`
+      - 🎥 **[VIDEO]** **TCS NQT 1.0** | Duration: `00:18:35` | ID: `134121954` | [Local Thumbnail](Video_Thumbnails/video_134121954.png)
+      - 🎥 **[VIDEO]** **TCS NQT 2.0** | Duration: `00:13:59` | ID: `134121955` | [Local Thumbnail](Video_Thumbnails/video_134121955.png)
+      - 🎥 **[VIDEO]** **TCS NQT 3.0** | Duration: `00:25:41` | ID: `134121960` | [Local Thumbnail](Video_Thumbnails/video_134121960.png)
+      - 🎥 **[VIDEO]** **TCS NQT 4.0** | Duration: `00:18:28` | ID: `134121957` | [Local Thumbnail](Video_Thumbnails/video_134121957.png)
+      - 🎥 **[VIDEO]** **TCS_Part 1** | Duration: `00:31:33` | ID: `134121951` | [Local Thumbnail](Video_Thumbnails/video_134121951.png)
+      - 🎥 **[VIDEO]** **TCS_Part 2** | Duration: `00:29:40` | ID: `134121953` | [Local Thumbnail](Video_Thumbnails/video_134121953.png)
+      - 🎥 **[VIDEO]** **TCS_Part 3** | Duration: `00:27:08` | ID: `134121952` | [Local Thumbnail](Video_Thumbnails/video_134121952.png)
+      - 🎥 **[VIDEO]** **TCS_Digital_English_Part1** | Duration: `00:15:29` | ID: `134121958` | [Local Thumbnail](Video_Thumbnails/video_134121958.png)
+      - 🎥 **[VIDEO]** **TCS_Digital_English_Part2** | Duration: `00:15:24` | ID: `134121956` | [Local Thumbnail](Video_Thumbnails/video_134121956.png)
+      - 🎥 **[VIDEO]** **TCS_Digital_English_Part3** | Duration: `00:18:42` | ID: `134121967` | [Local Thumbnail](Video_Thumbnails/video_134121967.png)
+      - 🎥 **[VIDEO]** **TCS_Digital_English_Part4** | Duration: `00:18:31` | ID: `134121963` | [Local Thumbnail](Video_Thumbnails/video_134121963.png)
+      - 🎥 **[VIDEO]** **TCS_Digital_English_Part5** | Duration: `00:20:02` | ID: `134121966` | [Local Thumbnail](Video_Thumbnails/video_134121966.png)
+      - 🎥 **[VIDEO]** **TCS_Digital_English_Part6** | Duration: `00:21:59` | ID: `134121968` | [Local Thumbnail](Video_Thumbnails/video_134121968.png)
+      - 🎥 **[VIDEO]** **TCS_Digital_English_Part7** | Duration: `00:20:17` | ID: `134121962` | [Local Thumbnail](Video_Thumbnails/video_134121962.png)
+      - 🎥 **[VIDEO]** **TCS_Digital_English_Part8** | Duration: `00:22:20` | ID: `134121959` | [Local Thumbnail](Video_Thumbnails/video_134121959.png)
+      - 🎥 **[VIDEO]** **TCS_Digital_English_Part9** | Duration: `00:17:56` | ID: `134121965` | [Local Thumbnail](Video_Thumbnails/video_134121965.png)
+      - 🎥 **[VIDEO]** **TCS_Digital_English_Part10** | Duration: `00:18:38` | ID: `134121961` | [Local Thumbnail](Video_Thumbnails/video_134121961.png)
+      - 🎥 **[VIDEO]** **TCS_Digital_English_Part11** | Duration: `00:15:55` | ID: `134121964` | [Local Thumbnail](Video_Thumbnails/video_134121964.png)
+  * 📁 **1.9.2 Verbal Ability** `[Folder ID: 41970137]`
+    * 📁 **Basic English Grammar** `[Folder ID: 41970140]`
+      - 🎥 **[VIDEO]** **Introduction to Verbal Ability** | Duration: `00:18:50` | ID: `134121923` | [Local Thumbnail](Video_Thumbnails/video_134121923.png)
+      - 🎥 **[VIDEO]** **Topic1: Articles** | Duration: `00:16:30` | ID: `134121905` | [Local Thumbnail](Video_Thumbnails/video_134121905.png)
+      - 🎥 **[VIDEO]** **Topic2: Noun** | Duration: `00:16:23` | ID: `134121903` | [Local Thumbnail](Video_Thumbnails/video_134121903.png)
+      - 🎥 **[VIDEO]** **Topic3: Pronouns** | Duration: `00:16:15` | ID: `134121906` | [Local Thumbnail](Video_Thumbnails/video_134121906.png)
+      - 🎥 **[VIDEO]** **Topic4: Adjectives** | Duration: `00:26:05` | ID: `134121909` | [Local Thumbnail](Video_Thumbnails/video_134121909.png)
+      - 🎥 **[VIDEO]** **Topic5: Verbs** | Duration: `00:19:08` | ID: `134121899` | [Local Thumbnail](Video_Thumbnails/video_134121899.png)
+      - 🎥 **[VIDEO]** **Topic6: Adverbs** | Duration: `00:11:51` | ID: `134121902` | [Local Thumbnail](Video_Thumbnails/video_134121902.png)
+      - 🎥 **[VIDEO]** **Topic7: Preposition_1** | Duration: `00:14:31` | ID: `134121914` | [Local Thumbnail](Video_Thumbnails/video_134121914.png)
+      - 🎥 **[VIDEO]** **Topic8: Prepositions_2** | Duration: `00:16:43` | ID: `134121915` | [Local Thumbnail](Video_Thumbnails/video_134121915.png)
+      - 🎥 **[VIDEO]** **Topic9: Preposition** | Duration: `00:13:23` | ID: `134121896` | [Local Thumbnail](Video_Thumbnails/video_134121896.png)
+      - 🎥 **[VIDEO]** **Topic10: Conjunctions 1.0** | Duration: `00:11:25` | ID: `134121897` | [Local Thumbnail](Video_Thumbnails/video_134121897.png)
+      - 🎥 **[VIDEO]** **Topic11: Conjunctions 2.0** | Duration: `00:14:17` | ID: `134121892` | [Local Thumbnail](Video_Thumbnails/video_134121892.png)
+      - 🎥 **[VIDEO]** **Topic12: Basic Rules** | Duration: `00:18:41` | ID: `134121913` | [Local Thumbnail](Video_Thumbnails/video_134121913.png)
+      - 🎥 **[VIDEO]** **Topic13: Analysis of sentences** | Duration: `00:18:43` | ID: `134121911` | [Local Thumbnail](Video_Thumbnails/video_134121911.png)
+      - 🎥 **[VIDEO]** **Topic14: Clauses** | Duration: `00:14:40` | ID: `134121900` | [Local Thumbnail](Video_Thumbnails/video_134121900.png)
+      - 🎥 **[VIDEO]** **Topic15: Determiners** | Duration: `00:14:14` | ID: `134121901` | [Local Thumbnail](Video_Thumbnails/video_134121901.png)
+      - 🎥 **[VIDEO]** **Topic16: Modals** | Duration: `00:18:17` | ID: `134121907` | [Local Thumbnail](Video_Thumbnails/video_134121907.png)
+      - 🎥 **[VIDEO]** **Topic17: Phrases** | Duration: `00:17:12` | ID: `134121894` | [Local Thumbnail](Video_Thumbnails/video_134121894.png)
+      - 🎥 **[VIDEO]** **Topic18: Antonyms** | Duration: `00:16:04` | ID: `134121912` | [Local Thumbnail](Video_Thumbnails/video_134121912.png)
+      - 🎥 **[VIDEO]** **Topic19: Synoynms** | Duration: `00:14:10` | ID: `134121921` | [Local Thumbnail](Video_Thumbnails/video_134121921.png)
+      - 🎥 **[VIDEO]** **Topic20: Tenses 1.0** | Duration: `00:17:59` | ID: `134121895` | [Local Thumbnail](Video_Thumbnails/video_134121895.png)
+      - 🎥 **[VIDEO]** **Topic21: Tenses 2.0** | Duration: `00:17:04` | ID: `134121904` | [Local Thumbnail](Video_Thumbnails/video_134121904.png)
+      - 🎥 **[VIDEO]** **Topic22: Tenses** | Duration: `00:18:00` | ID: `134121924` | [Local Thumbnail](Video_Thumbnails/video_134121924.png)
+      - 🎥 **[VIDEO]** **Topic23: Voice_1** | Duration: `00:13:44` | ID: `134121916` | [Local Thumbnail](Video_Thumbnails/video_134121916.png)
+      - 🎥 **[VIDEO]** **Topic24: Voice_2** | Duration: `00:16:22` | ID: `134121919` | [Local Thumbnail](Video_Thumbnails/video_134121919.png)
+      - 🎥 **[VIDEO]** **Topic25: Voice** | Duration: `00:15:12` | ID: `134121898` | [Local Thumbnail](Video_Thumbnails/video_134121898.png)
+      - 🎥 **[VIDEO]** **Topic26: Subject Verb Agreement** | Duration: `00:22:58` | ID: `134121908` | [Local Thumbnail](Video_Thumbnails/video_134121908.png)
+      - 🎥 **[VIDEO]** **Topic27: Subject Verb Agreement-2** | Duration: `00:16:43` | ID: `134121918` | [Local Thumbnail](Video_Thumbnails/video_134121918.png)
+      - 🎥 **[VIDEO]** **Topic28: Speech** | Duration: `00:18:56` | ID: `134121910` | [Local Thumbnail](Video_Thumbnails/video_134121910.png)
+      - 🎥 **[VIDEO]** **Topic29: Direct and Indirect Speech part1** | Duration: `00:26:05` | ID: `134121922` | [Local Thumbnail](Video_Thumbnails/video_134121922.png)
+      - 🎥 **[VIDEO]** **Topic30: Direct _ Indirect Speech-part2** | Duration: `00:26:03` | ID: `134121917` | [Local Thumbnail](Video_Thumbnails/video_134121917.png)
+      - 🎥 **[VIDEO]** **Topic31: Word Analogy** | Duration: `00:18:56` | ID: `134121920` | [Local Thumbnail](Video_Thumbnails/video_134121920.png)
+    * 📁 **Verbal Ability - Exam Specific Topics** `[Folder ID: 41970142]`
+      - 🎥 **[VIDEO]** **Topic1: Direct and Indirect Speech part1** | Duration: `00:26:05` | ID: `134121938` | [Local Thumbnail](Video_Thumbnails/video_134121938.png)
+      - 🎥 **[VIDEO]** **Topic2: Direct _ Indirect Speech-part2** | Duration: `00:26:03` | ID: `134121941` | [Local Thumbnail](Video_Thumbnails/video_134121941.png)
+      - 🎥 **[VIDEO]** **Topic3: Reading comprehension1** | Duration: `00:36:28` | ID: `134121944` | [Local Thumbnail](Video_Thumbnails/video_134121944.png)
+      - 🎥 **[VIDEO]** **Topic4: Reading comprehension2** | Duration: `00:38:50` | ID: `134121942` | [Local Thumbnail](Video_Thumbnails/video_134121942.png)
+      - 🎥 **[VIDEO]** **Topic5: Sentence Improvement_1** | Duration: `00:24:38` | ID: `134121940` | [Local Thumbnail](Video_Thumbnails/video_134121940.png)
+      - 🎥 **[VIDEO]** **Topic6: Sentence Improvement_2** | Duration: `00:22:38` | ID: `134121945` | [Local Thumbnail](Video_Thumbnails/video_134121945.png)
+      - 🎥 **[VIDEO]** **Topic7: Parajumbles** | Duration: `00:23:37` | ID: `134121939` | [Local Thumbnail](Video_Thumbnails/video_134121939.png)
+      - 🎥 **[VIDEO]** **Topic8: Phrasal Verbs** | Duration: `00:13:20` | ID: `134121943` | [Local Thumbnail](Video_Thumbnails/video_134121943.png)
+      - 🎥 **[VIDEO]** **Topic9: Spotting error part1** | Duration: `00:22:22` | ID: `134121949` | [Local Thumbnail](Video_Thumbnails/video_134121949.png)
+      - 🎥 **[VIDEO]** **Topic10: Spotting error part2** | Duration: `00:23:40` | ID: `134121948` | [Local Thumbnail](Video_Thumbnails/video_134121948.png)
+      - 🎥 **[VIDEO]** **Topic11: English Corrective Usage** | Duration: `00:23:20` | ID: `134121946` | [Local Thumbnail](Video_Thumbnails/video_134121946.png)
+      - 🎥 **[VIDEO]** **Topic12: Sentence Correction** | Duration: `00:15:35` | ID: `134121947` | [Local Thumbnail](Video_Thumbnails/video_134121947.png)
+      - 🎥 **[VIDEO]** **Topic13: Essay writing** | Duration: `00:19:33` | ID: `134121950` | [Local Thumbnail](Video_Thumbnails/video_134121950.png)
+* 📁 **1.10 Live Classes Recording New Batch** `[Folder ID: 41654205]`
+  * 📁 **Aptitude_Reasoning_Classes** `[Folder ID: 46358103]`
+    * 📁 **Aptitude_Classes_By_PratikSir** `[Folder ID: 46358124]`
+      - 🎥 **[VIDEO]** **Class 1: Infosys Aptitude** | Duration: `00:34:39` | ID: `146665948` | [Local Thumbnail](Video_Thumbnails/video_146665948.png)
+      - 📄 **[DOCUMENT/PDF]** [Class 1 Infosys Aptitude.pdf](https://cdn-wl-assets.classplus.co/production/78392/9ab5eca5-2007-4716-8e65-468180fb97f7.pdf) `[ID: 75367062]`
+      - 🎥 **[VIDEO]** **Class 2: Infosys Puzzles Questions** | Duration: `00:42:36` | ID: `146665947` | [Local Thumbnail](Video_Thumbnails/video_146665947.png)
+      - 📄 **[DOCUMENT/PDF]** [Class 2 Infosys Puzzles Questions.pdf](https://cdn-wl-assets.classplus.co/production/78392/5899d6d5-2a66-4687-84f2-03d6cd88b0c1.pdf) `[ID: 75367063]`
+      - 🎥 **[VIDEO]** **Class 3: Infosys Puzzles** | Duration: `00:51:46` | ID: `146665949` | [Local Thumbnail](Video_Thumbnails/video_146665949.png)
+      - 📄 **[DOCUMENT/PDF]** [Class 3 Infosys Puzzles.pdf](https://cdn-wl-assets.classplus.co/production/78392/c6092984-e8bd-4d07-86fd-3751ebc4c1ea.pdf) `[ID: 75367061]`
+      - 🎥 **[VIDEO]** **Class 4: TCS 2025 QUESTIONS** | Duration: `00:41:34` | ID: `146665950` | [Local Thumbnail](Video_Thumbnails/video_146665950.png)
+      - 📄 **[DOCUMENT/PDF]** [Class 4 TCS 2025 QUESTIONS.pdf](https://cdn-wl-assets.classplus.co/production/78392/ddbb0d71-816c-4969-a830-7f1b859ef126.pdf) `[ID: 75367064]`
+      - 🎥 **[VIDEO]** **Class 5: Aptitude – Important Questions** | Duration: `00:43:38` | ID: `146665951` | [Local Thumbnail](Video_Thumbnails/video_146665951.png)
+      - 📄 **[DOCUMENT/PDF]** [Class 5 Aptitude – Important Questions.pdf](https://cdn-wl-assets.classplus.co/production/78392/a4358abb-408f-47ba-86a6-53381050db7b.pdf) `[ID: 75367065]`
+      - 🎥 **[VIDEO]** **Class: 6: Aptitude Questions Part-2** | Duration: `00:47:12` | ID: `146665952` | [Local Thumbnail](Video_Thumbnails/video_146665952.png)
+      - 📄 **[DOCUMENT/PDF]** [Class 6 Aptitude Questions Part-2.pdf](https://cdn-wl-assets.classplus.co/production/78392/7465dd62-699d-409b-9278-81122ce6474b.pdf) `[ID: 75367066]`
+    * 📁 **Reasoning_Classes_By_PratikSir** `[Folder ID: 46358134]`
+    * 📁 **ADVANCE_APTITUDE & REASONING_By_PratikSir** `[Folder ID: 46358135]`
+      * 📁 **ADVANCE APTITUDE** `[Folder ID: 46358136]`
+        - 🎥 **[VIDEO]** **Aptitude Practice Part-1** | Duration: `00:23:35` | ID: `146665968` | [Local Thumbnail](Video_Thumbnails/video_146665968.png)
+        - 🎥 **[VIDEO]** **Aptitude Practice Part-2** | Duration: `00:23:24` | ID: `146665969` | [Local Thumbnail](Video_Thumbnails/video_146665969.png)
+        - 📄 **[DOCUMENT/PDF]** [Aptitude Practice Part2.pdf](https://cdn-wl-assets.classplus.co/production/78392/cec93ed5-9c09-4431-af84-9a08bd1a4efc.pdf) `[ID: 75367068]`
+      * 📁 **ADVANCE REASONING** `[Folder ID: 46358137]`
+    * 📁 **Aptitude_Reasoning_Classes_By_Ankitamam** `[Folder ID: 58138195]`
+      * 📁 **Aptitude_Classes_By_Ankitamam** `[Folder ID: 58138196]`
+        - 🎥 **[VIDEO]** **Class 1: Time And Work** | Duration: `01:00:07` | ID: `178630093` | [Local Thumbnail](Video_Thumbnails/video_178630093.png)
+        - 📄 **[DOCUMENT/PDF]** [Class 1 Time&Work.pdf](https://cdn-wl-assets.classplus.co/production/78392/14393838-399d-4524-9e4f-3b2e402b1c13.pdf) `[ID: 95987411]`
+      * 📁 **Reasoning_Classes_By_Ankitamam** `[Folder ID: 58279291]`
+        - 🎥 **[VIDEO]** **Class 1: PYQ** | Duration: `01:01:52` | ID: `178946394` | [Local Thumbnail](Video_Thumbnails/video_178946394.png)
+        - 🎥 **[VIDEO]** **Class 2: DI_PYQ** | Duration: `01:00:23` | ID: `179507891` | [Local Thumbnail](Video_Thumbnails/video_179507891.png)
+  * 📁 **Coding_Classes_C++_Java_Python** `[Folder ID: 46358107]`
+    * 📁 **CodingClass_in_Python_PriyanshiMam** `[Folder ID: 46358140]`
+      - 🎥 **[VIDEO]** **Class 1: Sorting Algo** | Duration: `01:02:34` | ID: `146665984` | [Local Thumbnail](Video_Thumbnails/video_146665984.png)
+      - 📄 **[DOCUMENT/PDF]** [Class 1 Sorting Algo.pdf](https://cdn-wl-assets.classplus.co/production/78392/2b782670-c423-4a47-9530-cd93c00102f9.pdf) `[ID: 75367081]`
+      - 🎥 **[VIDEO]** **Class 2: Sorting Algo 2** | Duration: `01:02:42` | ID: `146665982` | [Local Thumbnail](Video_Thumbnails/video_146665982.png)
+      - 📄 **[DOCUMENT/PDF]** [Class 2 Sorting Algo 2.pdf](https://cdn-wl-assets.classplus.co/production/78392/b1137802-02d3-41bf-b80e-9f0638c52b1c.pdf) `[ID: 75367082]`
+      - 🎥 **[VIDEO]** **Class 3: Merge sort** | Duration: `01:00:06` | ID: `146665983` | [Local Thumbnail](Video_Thumbnails/video_146665983.png)
+      - 📄 **[DOCUMENT/PDF]** [Class 3 Merge sort.pdf](https://cdn-wl-assets.classplus.co/production/78392/7442cb96-028d-42d6-9b8b-2b51ddcb70b2.pdf) `[ID: 75367083]`
+      - 🎥 **[VIDEO]** **Class 4: Quick sort** | Duration: `00:38:25` | ID: `146665985` | [Local Thumbnail](Video_Thumbnails/video_146665985.png)
+      - 📄 **[DOCUMENT/PDF]** [Class 4 Quick sort.pdf](https://cdn-wl-assets.classplus.co/production/78392/d1e61b74-4d34-4d49-990a-760cef2a1880.pdf) `[ID: 75367085]`
+      - 🎥 **[VIDEO]** **Class 5: Heap Sort** | Duration: `00:44:11` | ID: `146665986` | [Local Thumbnail](Video_Thumbnails/video_146665986.png)
+      - 📄 **[DOCUMENT/PDF]** [Class 5 Heap Sort.pdf](https://cdn-wl-assets.classplus.co/production/78392/7cd8483f-8e61-47e1-b681-3ee4b2471698.pdf) `[ID: 75367084]`
+      - 🎥 **[VIDEO]** **Class 6: TCS NQT Pattern** | Duration: `01:03:06` | ID: `146665987` | [Local Thumbnail](Video_Thumbnails/video_146665987.png)
+      - 📄 **[DOCUMENT/PDF]** [Class 6 TCS NQT Pattern.pdf](https://cdn-wl-assets.classplus.co/production/78392/a2f629bb-9448-4a4e-bc13-450b150c6453.pdf) `[ID: 75367086]`
+      - 🎥 **[VIDEO]** **Class 7: TCS Coding Practice Qs** | Duration: `01:07:20` | ID: `146665988` | [Local Thumbnail](Video_Thumbnails/video_146665988.png)
+      - 📄 **[DOCUMENT/PDF]** [Class 7 TCS Coding Practice Qs.pdf](https://cdn-wl-assets.classplus.co/production/78392/a6c1cc38-52b3-467d-a438-e9929daa20b5.pdf) `[ID: 75367087]`
+      - 🎥 **[VIDEO]** **Class 8: TCS NQT Qs P2** | Duration: `00:56:19` | ID: `146665989` | [Local Thumbnail](Video_Thumbnails/video_146665989.png)
+      - 📄 **[DOCUMENT/PDF]** [Class 8 TCS NQT Qs P2.pdf](https://cdn-wl-assets.classplus.co/production/78392/a15bd0f2-d8e2-45d8-8b5b-d4cc4b794959.pdf) `[ID: 75367088]`
+    * 📁 **CodingClass_in_Java_AdarshSir** `[Folder ID: 46358139]`
+      - 🎥 **[VIDEO]** **Class 1: Stack & Queue Java** | Duration: `00:49:21` | ID: `146665975` | [Local Thumbnail](Video_Thumbnails/video_146665975.png)
+      - 📄 **[DOCUMENT/PDF]** [Class 1 Stack & Queue Java.pdf](https://cdn-wl-assets.classplus.co/production/78392/f2ba31b2-e90e-4f7f-9b36-dcc4f6416574.pdf) `[ID: 75367074]`
+      - 🎥 **[VIDEO]** **Class 2: Pseudocode Questions** | Duration: `00:56:59` | ID: `146665976` | [Local Thumbnail](Video_Thumbnails/video_146665976.png)
+      - 📄 **[DOCUMENT/PDF]** [Class 2 Pseudocode Questions.pdf](https://cdn-wl-assets.classplus.co/production/78392/702fbe67-2c7d-45db-907a-c6b00b836690.pdf) `[ID: 75367075]`
+      - 🎥 **[VIDEO]** **Class 3: Stack & Queue Java** | Duration: `01:07:08` | ID: `146665977` | [Local Thumbnail](Video_Thumbnails/video_146665977.png)
+      - 📄 **[DOCUMENT/PDF]** [Class 3 Stack & Queue Java.pdf](https://cdn-wl-assets.classplus.co/production/78392/c9077fac-a803-4bb1-89c8-75704959a6f8.pdf) `[ID: 75367077]`
+      - 🎥 **[VIDEO]** **Class 4: Class Practice Questions** | Duration: `01:01:48` | ID: `146665978` | [Local Thumbnail](Video_Thumbnails/video_146665978.png)
+      - 📄 **[DOCUMENT/PDF]** [Class 4 Class Practice Questions.pdf](https://cdn-wl-assets.classplus.co/production/78392/ef5b964c-f32c-4bf8-953a-ab7f0f2ca1eb.pdf) `[ID: 75367076]`
+      - 🎥 **[VIDEO]** **Class 5: Practice Questions 2** | Duration: `00:49:08` | ID: `146665979` | [Local Thumbnail](Video_Thumbnails/video_146665979.png)
+      - 📄 **[DOCUMENT/PDF]** [Class 5 Practice Questions 2.pdf](https://cdn-wl-assets.classplus.co/production/78392/98035fe7-be19-4931-883e-c668424b2ce7.pdf) `[ID: 75367078]`
+      - 🎥 **[VIDEO]** **Class 6: Tree Data Structure - 1** | Duration: `00:49:55` | ID: `146665980` | [Local Thumbnail](Video_Thumbnails/video_146665980.png)
+      - 📄 **[DOCUMENT/PDF]** [Class 6 Tree Data Structure - 1.pdf](https://cdn-wl-assets.classplus.co/production/78392/f46bb9d8-55ab-49c9-ad15-15d6444a9208.pdf) `[ID: 75367079]`
+      - 🎥 **[VIDEO]** **Class 7: Tree Data Structure - 2** | Duration: `00:54:16` | ID: `146665981` | [Local Thumbnail](Video_Thumbnails/video_146665981.png)
+      - 📄 **[DOCUMENT/PDF]** [Class 7 Tree Data Structure - 2.pdf](https://cdn-wl-assets.classplus.co/production/78392/479eaf7d-5257-4ca1-ba56-5a46aafc2142.pdf) `[ID: 75367080]`
+    * 📁 **CodingClass_in_C++_AnkanSir** `[Folder ID: 46358138]`
+      - 🎥 **[VIDEO]** **Class 1: Backtracking** | Duration: `00:50:22` | ID: `146665970` | [Local Thumbnail](Video_Thumbnails/video_146665970.png)
+      - 📄 **[DOCUMENT/PDF]** [Class 1 Backtracking.pdf](https://cdn-wl-assets.classplus.co/production/78392/d350fecc-20a0-47aa-87b4-3d9c34e9c04f.pdf) `[ID: 75367069]`
+      - 🎥 **[VIDEO]** **Class 2: Trees part 1** | Duration: `00:42:31` | ID: `146665971` | [Local Thumbnail](Video_Thumbnails/video_146665971.png)
+      - 📄 **[DOCUMENT/PDF]** [Class 2 Trees Part 1.pdf](https://cdn-wl-assets.classplus.co/production/78392/b66c61de-7e66-4a48-a874-cff8300f1407.pdf) `[ID: 75367070]`
+      - 🎥 **[VIDEO]** **Class 3: Trees Part 2** | Duration: `00:55:19` | ID: `146665972` | [Local Thumbnail](Video_Thumbnails/video_146665972.png)
+      - 📄 **[DOCUMENT/PDF]** [Class 3 Trees Part 2.pdf](https://cdn-wl-assets.classplus.co/production/78392/36f624d1-e04a-47fb-8896-e94d6bbc8407.pdf) `[ID: 75367071]`
+      - 🎥 **[VIDEO]** **Class 4: Trees Part 3** | Duration: `00:52:47` | ID: `146665973` | [Local Thumbnail](Video_Thumbnails/video_146665973.png)
+      - 📄 **[DOCUMENT/PDF]** [Class 4 Trees Part 3.pdf](https://cdn-wl-assets.classplus.co/production/78392/14a1dce5-2618-44f7-a478-6ad1bae85021.pdf) `[ID: 75367072]`
+      - 🎥 **[VIDEO]** **Class 5: Trees part 4** | Duration: `00:51:03` | ID: `146665974` | [Local Thumbnail](Video_Thumbnails/video_146665974.png)
+      - 📄 **[DOCUMENT/PDF]** [Class 5 Trees part 4.pdf](https://cdn-wl-assets.classplus.co/production/78392/bd733adb-f4f5-4b46-862f-55c0b6b8ebca.pdf) `[ID: 75367073]`
+  * 📁 **Verbal_Ability** `[Folder ID: 46358108]`
+    * 📁 **Verbal Ability with Salomi Ma'am** `[Folder ID: 46358116]`
+      - 🎥 **[VIDEO]** **Class 1: Infosys Verbal ability questions Part 1** | Duration: `01:20:56` | ID: `146665927` | [Local Thumbnail](Video_Thumbnails/video_146665927.png)
+      - 🎥 **[VIDEO]** **Class 2: Infosys Verbal ability questions Part 2** | Duration: `01:22:18` | ID: `146665928` | [Local Thumbnail](Video_Thumbnails/video_146665928.png)
+      - 🎥 **[VIDEO]** **Class 3: Infosys Verbal ability questions Part 3** | Duration: `01:07:24` | ID: `146665929` | [Local Thumbnail](Video_Thumbnails/video_146665929.png)
+      - 📄 **[DOCUMENT/PDF]** [Infosys Verbal ability questions.pdf](https://cdn-wl-assets.classplus.co/production/78392/cb39fb19-36d3-408b-829b-d03e221bf434.pdf) `[ID: 75367050]`
+      - 🎥 **[VIDEO]** **Class 4: Verbal Ability Set 1** | Duration: `01:05:35` | ID: `146665931` | [Local Thumbnail](Video_Thumbnails/video_146665931.png)
+      - 📄 **[DOCUMENT/PDF]** [Class 4 Verbal Ability Set 1.pdf](https://cdn-wl-assets.classplus.co/production/78392/d6a889e2-eb02-41dd-902e-c7fa1c44f8bf.pdf) `[ID: 75367051]`
+      - 🎥 **[VIDEO]** **Class 5: Verbal ability - Infosys Prep** | Duration: `01:00:30` | ID: `146665932` | [Local Thumbnail](Video_Thumbnails/video_146665932.png)
+      - 🎥 **[VIDEO]** **Class 6: Verbal ability - Infosys Prep 2** | Duration: `00:57:57` | ID: `146665930` | [Local Thumbnail](Video_Thumbnails/video_146665930.png)
+      - 🎥 **[VIDEO]** **Class 7: Verbal ability - Infosys Prep 3** | Duration: `01:06:06` | ID: `146665933` | [Local Thumbnail](Video_Thumbnails/video_146665933.png)
+      - 📄 **[DOCUMENT/PDF]** [Verbal ability SET 2.pdf](https://cdn-wl-assets.classplus.co/production/78392/68c61c17-aaea-40ac-9f18-ef2ef030fa1b.pdf) `[ID: 75367052]`
+      - 🎥 **[VIDEO]** **Class 8: Infosys_Verbal_Mock_practice paper** | Duration: `01:07:38` | ID: `146665934` | [Local Thumbnail](Video_Thumbnails/video_146665934.png)
+      - 📄 **[DOCUMENT/PDF]** [Class 8 Infosys_Verbal_Mock_practice paper.pdf](https://cdn-wl-assets.classplus.co/production/78392/06be3b6b-458d-4832-924a-058d2fa089cc.pdf) `[ID: 75367053]`
+      - 🎥 **[VIDEO]** **Class 9: Infosys Verbal Ability QP** | Duration: `01:06:03` | ID: `146665935` | [Local Thumbnail](Video_Thumbnails/video_146665935.png)
+      - 📄 **[DOCUMENT/PDF]** [Class 9 Infosys Verbal Ability QP.pdf](https://cdn-wl-assets.classplus.co/production/78392/79cccc12-02b9-492a-9e49-fe3a35953693.pdf) `[ID: 75367054]`
+      - 🎥 **[VIDEO]** **Class 10: Infosys Verbal Ability QP 2** | Duration: `01:00:39` | ID: `146665936` | [Local Thumbnail](Video_Thumbnails/video_146665936.png)
+      - 🎥 **[VIDEO]** **Class 11: Infosys Verbal Ability QP 3** | Duration: `01:03:59` | ID: `146665937` | [Local Thumbnail](Video_Thumbnails/video_146665937.png)
+      - 🎥 **[VIDEO]** **Class 12: TCS verbal** | Duration: `00:59:34` | ID: `146665938` | [Local Thumbnail](Video_Thumbnails/video_146665938.png)
+      - 📄 **[DOCUMENT/PDF]** [Class 12 TCS verbal.pdf](https://cdn-wl-assets.classplus.co/production/78392/e782ccb6-8fbb-495a-bba6-f0f3f6b6db64.pdf) `[ID: 75367055]`
+    * 📁 **Verbal Ability with Isha Ma'am** `[Folder ID: 46358117]`
+      - 🎥 **[VIDEO]** **Class 1: Infosys Previous Year Paper Va** | Duration: `00:41:55` | ID: `146665939` | [Local Thumbnail](Video_Thumbnails/video_146665939.png)
+      - 📄 **[DOCUMENT/PDF]** [Class 1 Infosys Previous Year Paper Va.pdf](https://cdn-wl-assets.classplus.co/production/78392/1bf62784-7eed-429e-bf83-34e5c8578c67.pdf) `[ID: 75367057]`
+      - 🎥 **[VIDEO]** **Class 2: Infosys - Grammar** | Duration: `00:56:56` | ID: `146665940` | [Local Thumbnail](Video_Thumbnails/video_146665940.png)
+      - 📄 **[DOCUMENT/PDF]** [Class 2 Infosys - Grammar.pdf](https://cdn-wl-assets.classplus.co/production/78392/d841fe39-dca4-4f9b-9321-9d6935c8d0f7.pdf) `[ID: 75367056]`
+      - 🎥 **[VIDEO]** **Class 3: Essay Writing** | Duration: `00:53:43` | ID: `146665942` | [Local Thumbnail](Video_Thumbnails/video_146665942.png)
+      - 📄 **[DOCUMENT/PDF]** [Class 3 Essay Writing.pdf](https://cdn-wl-assets.classplus.co/production/78392/bd6ef8bf-68d3-494e-80a0-0f15e04afbad.pdf) `[ID: 75367058]`
+      - 🎥 **[VIDEO]** **Class 4: TCS VA QP** | Duration: `00:53:25` | ID: `146665941` | [Local Thumbnail](Video_Thumbnails/video_146665941.png)
+      - 📄 **[DOCUMENT/PDF]** [Class 4 TCS VA QP.pdf](https://cdn-wl-assets.classplus.co/production/78392/73de7e9f-714c-497a-b74b-3b3fd05a6c00.pdf) `[ID: 75367059]`
+      - 🎥 **[VIDEO]** **Class 5: Error Detection exercises on Preposition** | Duration: `00:57:08` | ID: `146665943` | [Local Thumbnail](Video_Thumbnails/video_146665943.png)
+      - 📄 **[DOCUMENT/PDF]** [Class 5 Error Detection exercises on Preposition.pdf](https://cdn-wl-assets.classplus.co/production/78392/508faf53-4cd9-4355-a409-203202f37588.pdf) `[ID: 75367060]`
+  * 📁 **PseudoCode_Live _Class** `[Folder ID: 46358112]`
+    - 🎥 **[VIDEO]** **Class 1: Pseudocode Questions** | Duration: `00:56:59` | ID: `146665922` | [Local Thumbnail](Video_Thumbnails/video_146665922.png)
+    - 📄 **[DOCUMENT/PDF]** [Class 1 Pseudocode Questions.pdf](https://cdn-wl-assets.classplus.co/production/78392/702fbe67-2c7d-45db-907a-c6b00b836690.pdf) `[ID: 75367044]`
+    - 🎥 **[VIDEO]** **Class 2: Pseudocode With Monisha Mam** | Duration: `01:01:25` | ID: `146665923` | [Local Thumbnail](Video_Thumbnails/video_146665923.png)
+    - 📄 **[DOCUMENT/PDF]** [Class 2 Infosys Pseudocode Questions.pdf](https://cdn-wl-assets.classplus.co/production/78392/db91e086-5f6b-4d22-9c35-a53dc62f11d9.pdf) `[ID: 75367045]`
+    - 🎥 **[VIDEO]** **Class 3: Infosys Pseudocode Questions 2** | Duration: `00:59:40` | ID: `146665924` | [Local Thumbnail](Video_Thumbnails/video_146665924.png)
+    - 📄 **[DOCUMENT/PDF]** [Class 3 Infosys Pseudocode Questions 2.pdf](https://cdn-wl-assets.classplus.co/production/78392/3c6bba0c-5da5-49e3-9741-eb0d0e5d9108.pdf) `[ID: 75367046]`
+    - 🎥 **[VIDEO]** **Class 4: Pseudocode Q1-Q14** | Duration: `01:03:50` | ID: `146665925` | [Local Thumbnail](Video_Thumbnails/video_146665925.png)
+    - 📄 **[DOCUMENT/PDF]** [Class 4 Pseudocode Q1-Q14.pdf](https://cdn-wl-assets.classplus.co/production/78392/0a3d4e1d-3e57-4809-9542-451805a81fe3.pdf) `[ID: 75367047]`
+    - 🎥 **[VIDEO]** **Class 5: Pseudocode_Output_Practice_25_Questions** | Duration: `01:01:11` | ID: `177918211` | [Local Thumbnail](Video_Thumbnails/video_177918211.png)
+    - 📄 **[DOCUMENT/PDF]** [Class 5 Pseudocode_Output_Practice_25_Questions.pdf](https://cdn-wl-assets.classplus.co/production/78392/17e0b4da-35c6-4cec-811e-9a015a6d1daf.pdf) `[ID: 95477207]`
+    - 🎥 **[VIDEO]** **Class 6: Pseudocode_Output_Practice_25_Questions part 2** | Duration: `01:05:38` | ID: `178217495` | [Local Thumbnail](Video_Thumbnails/video_178217495.png)
+    - 📄 **[DOCUMENT/PDF]** [Class 6 Pseudocode_Output_Practice_25_Questions part 2.pdf](https://cdn-wl-assets.classplus.co/production/78392/a42fce35-cbe5-4b41-8c0d-a0487fa83180.pdf) `[ID: 95675252]`
+  * 📁 **Live PYQ- 25/09/2026** `[Folder ID: 57841234]`
+    - 🎥 **[VIDEO]** **Infosys PYQ - 1** | Duration: `00:49:12` | ID: `177669125` | [Local Thumbnail](Video_Thumbnails/video_177669125.png)
+    - 📄 **[DOCUMENT/PDF]** [Infosys PYQ - 1.pdf](https://cdn-wl-assets.classplus.co/production/78392/a4262ab4-7f50-4508-9348-f4a81f547454.pdf) `[ID: 95278442]`
+    - 🎥 **[VIDEO]** **Infosys PYQ-2** | Duration: `01:02:16` | ID: `177743156` | [Local Thumbnail](Video_Thumbnails/video_177743156.png)
+    - 🎥 **[VIDEO]** **Infosys PYQ-3** | Duration: `00:43:25` | ID: `178151083` | [Local Thumbnail](Video_Thumbnails/video_178151083.png)
+* 📁 **1.11 LIVE MOCK TEST** `[Folder ID: 42133292]`
+  - 📝 **[MOCK TEST]** **INFOSYS TEST SERIES-1** | Qs: **35** | Figures: **9** | [Local Paper](1.11 LIVE MOCK TEST/INFOSYS TEST SERIES-1_PAPER.md) `[ID: 23946909]`
+  - 📝 **[MOCK TEST]** **INFOSYS TEST SERIES-2** | Qs: **35** | Figures: **10** | [Local Paper](1.11 LIVE MOCK TEST/INFOSYS TEST SERIES-2_PAPER.md) `[ID: 23951141]`
+  - 📝 **[MOCK TEST]** **Infosys Full Length Mock Test-1** | Qs: **60** | Figures: **1** | [Local Paper](1.11 LIVE MOCK TEST/Infosys Full Length Mock Test-1_PAPER.md) `[ID: 32529605]`
+  - 📝 **[MOCK TEST]** **Infosys Full Length Mock Test- 2** | Qs: **60** | Figures: **1** | [Local Paper](1.11 LIVE MOCK TEST/Infosys Full Length Mock Test- 2_PAPER.md) `[ID: 32597293]`
+  - 📝 **[MOCK TEST]** **Infosys Full Length Mock Test- 3** | Qs: **60** | Figures: **1** | [Local Paper](1.11 LIVE MOCK TEST/Infosys Full Length Mock Test- 3_PAPER.md) `[ID: 32597294]`
+  - 📝 **[MOCK TEST]** **Infosys Full Length Mock Test- 4** | Qs: **60** | Figures: **1** | [Local Paper](1.11 LIVE MOCK TEST/Infosys Full Length Mock Test- 4_PAPER.md) `[ID: 32597295]`
+  - 📝 **[MOCK TEST]** **Infosys Full Length Mock Test- 5** | Qs: **60** | Figures: **1** | [Local Paper](1.11 LIVE MOCK TEST/Infosys Full Length Mock Test- 5_PAPER.md) `[ID: 32597296]`
+  - 📝 **[MOCK TEST]** **Infosys Full Length Mock Test- 6** | Qs: **60** | Figures: **1** | [Local Paper](1.11 LIVE MOCK TEST/Infosys Full Length Mock Test- 6_PAPER.md) `[ID: 32597297]`
+  - 📝 **[MOCK TEST]** **Infosys Full Length Mock Test- 7** | Qs: **73** | Figures: **1** | [Local Paper](1.11 LIVE MOCK TEST/Infosys Full Length Mock Test- 7_PAPER.md) `[ID: 32597298]`
+  - 📝 **[MOCK TEST]** **Infosys Full Length Mock Test- 8** | Qs: **60** | Figures: **1** | [Local Paper](1.11 LIVE MOCK TEST/Infosys Full Length Mock Test- 8_PAPER.md) `[ID: 32597299]`
+  - 📝 **[MOCK TEST]** **Infosys Full Length Mock Test- 9** | Qs: **60** | Figures: **1** | [Local Paper](1.11 LIVE MOCK TEST/Infosys Full Length Mock Test- 9_PAPER.md) `[ID: 32597300]`
+  - 📝 **[MOCK TEST]** **Infosys Full Length Mock Test- 10** | Qs: **63** | Figures: **1** | [Local Paper](1.11 LIVE MOCK TEST/Infosys Full Length Mock Test- 10_PAPER.md) `[ID: 32597301]`
+
+---
+
+### Tree Integrity Verification:
+
+* Total Folders Rendered: **54** (Expected: 54)
+* Total Documents/Screenshots Rendered: **1186** (Expected: 1,186)
+* Total Mock Tests Rendered: **23** (Expected: 23)
+* Total Videos Rendered: **379** (Expected: 379)

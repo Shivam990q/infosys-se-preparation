@@ -1,0 +1,789 @@
+{
+  "testName": "Critical Reasoning",
+  "testId": "67c0107a6dd87b22aff54f59",
+  "contentId": 23945648,
+  "totalQuestions": 20,
+  "totalFigures": 0,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "section": "Critical Reasoning",
+      "questionId": "67c0108f13f13e4c8c53062c",
+      "questionText": "Statement:\n Should school uniforms be made compulsory for students? \n\n Arguments: \n\n I.\n Yes, uniforms create equality among students and remove\n discrimination based on clothing. \n\n II.\n No, students should have the freedom to wear what they want.",
+      "questionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statement:\n Should school uniforms be made compulsory for students?</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Arguments:</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I.\n Yes, uniforms create equality among students and remove\n discrimination based on clothing.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II.\n No, students should have the freedom to wear what they want.</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "Only\n Argument I is strong",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n Argument I is strong</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "Only\n Argument II is strong",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n Argument II is strong</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "Both\n I and II are strong",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Both\n I and II are strong</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "Neither\n I nor II is strong",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Neither\n I nor II is strong</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "A",
+      "solutionText": "Argument\n I is strong as it supports discipline and equality. Argument II is\n weak as it focuses only on personal freedom without considering\n the benefits of uniforms.",
+      "solutionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Argument\n I is strong as it supports discipline and equality. Argument II is\n weak as it focuses only on personal freedom without considering\n the benefits of uniforms.</span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 2,
+      "section": "Critical Reasoning",
+      "questionId": "67c0108f13f13eda97530659",
+      "questionText": "Statements: \n\n 1.\n The electricity demand has sharply increased, leading to frequent\n power outages. \n\n 2.\n The city has experienced its hottest summer in the last 50 years.",
+      "questionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statements:</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">1.\n The electricity demand has sharply increased, leading to frequent\n power outages.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">2.\n The city has experienced its hottest summer in the last 50 years.</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "Statement\n 1 is the cause, and Statement 2 is its effect.",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statement\n 1 is the cause, and Statement 2 is its effect.</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "Statement\n 2 is the cause, and Statement 1 is its effect.",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statement\n 2 is the cause, and Statement 1 is its effect.</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "Both\n statements are independent causes.",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Both\n statements are independent causes.</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "Both\n statements are effects of a common cause.",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Both\n statements are effects of a common cause.</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "The\n extreme heat (Statement 2) caused an increase in electricity usage\n (Statement 1), leading to power outages.",
+      "solutionHtml": "<p lang=\"en-US\" class=\"western\">\n <span style=\"color: #000000\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\"><span lang=\"en-IN\"><span style=\"text-decoration: none\">The\n extreme heat (Statement 2) caused an increase in electricity usage\n (Statement 1), leading to power outages.</span></span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 3,
+      "section": "Critical Reasoning",
+      "questionId": "67c0108f13f13ecf39530640",
+      "questionText": "Statements: \n\n 1.\n Many areas in the city are facing severe water shortages. \n\n 2.\n The monsoon rainfall this year was significantly lower than\n expected.",
+      "questionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statements:</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">1.\n Many areas in the city are facing severe water shortages.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">2.\n The monsoon rainfall this year was significantly lower than\n expected.</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "Statement\n 1 is the cause, and Statement 2 is its effect.",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statement\n 1 is the cause, and Statement 2 is its effect.</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "Statement\n 2 is the cause, and Statement 1 is its effect.",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statement\n 2 is the cause, and Statement 1 is its effect.</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "Both\n statements are independent causes.",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Both\n statements are independent causes.</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "Both\n statements are effects of a common cause.",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Both\n statements are effects of a common cause.</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "Low\n monsoon rainfall (Statement 2) has led to severe water shortages\n (Statement 1), making Statement 2 the cause and Statement 1 the\n effect.",
+      "solutionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Low\n monsoon rainfall (Statement 2) has led to severe water shortages\n (Statement 1), making Statement 2 the cause and Statement 1 the\n effect.</span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 4,
+      "section": "Critical Reasoning",
+      "questionId": "67c0108f13f13e4064530622",
+      "questionText": "Statement:\n Should social media platforms be held legally responsible for\n spreading fake news? \n\n Arguments: \n\n I.\n Yes, because social media plays a significant role in shaping\n public opinion and should be accountable. \n\n II.\n No, because it is impossible to monitor and control every piece of\n information shared by users.",
+      "questionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statement:\n Should social media platforms be held legally responsible for\n spreading fake news?</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Arguments:</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I.\n Yes, because social media plays a significant role in shaping\n public opinion and should be accountable.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II.\n No, because it is impossible to monitor and control every piece of\n information shared by users.</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "Only\n Argument I is strong",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n Argument I is strong</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "Only\n Argument II is strong",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n Argument II is strong</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "Both\n I and II are strong",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Both\n I and II are strong</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "Neither\n I nor II is strong",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Neither\n I nor II is strong</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "C",
+      "solutionText": "Both\n arguments are strong. Social media influences public perception\n (I), but monitoring all content is impractical (II).",
+      "solutionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Both\n arguments are strong. Social media influences public perception\n (I), but monitoring all content is impractical (II).</span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 5,
+      "section": "Critical Reasoning",
+      "questionId": "67c0108f13f13e807453064f",
+      "questionText": "Statement:\n \"Employees who do not complete their training within three\n months will be terminated from their jobs.\" – A\n company's HR policy. \n\n Conclusions: \n\n I.\n Completing training is necessary to continue employment in this\n company. \n\n II.\n Some employees fail to complete their training within three\n months.",
+      "questionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statement:\n \"Employees who do not complete their training within three\n months will be terminated from their jobs.\" – A\n company's HR policy.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Conclusions:</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I.\n Completing training is necessary to continue employment in this\n company.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II.\n Some employees fail to complete their training within three\n months.</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "Only\n Conclusion I follows",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n Conclusion I follows</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "Only\n Conclusion II follows",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n Conclusion II follows</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "Both\n I and II follow",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Both\n I and II follow</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "Neither\n I nor II follows",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Neither\n I nor II follows</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "A",
+      "solutionText": "I\n follows because the statement makes training mandatory. II does\n not follow since the statement does not confirm that employees\n have failed the training, only that they will be terminated if\n they do.",
+      "solutionHtml": "<p lang=\"en-US\" class=\"western\">\n <span style=\"color: #000000\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\"><span lang=\"en-IN\"><span style=\"text-decoration: none\">I\n follows because the statement makes training mandatory. II does\n not follow since the statement does not confirm that employees\n have failed the training, only that they will be terminated if\n they do.</span></span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 6,
+      "section": "Critical Reasoning",
+      "questionId": "67c0108f13f13ecad4530627",
+      "questionText": "Argument:\n Wearing a seatbelt while driving reduces the risk of injury in\n accidents.",
+      "questionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Argument:\n Wearing a seatbelt while driving reduces the risk of injury in\n accidents.</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "Many\n people find seatbelts uncomfortable.",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Many\n people find seatbelts uncomfortable.</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "Seatbelts\n are mandatory in many countries.",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Seatbelts\n are mandatory in many countries.</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "Seatbelts\n prevent passengers from being thrown forward in case of a sudden\n stop or crash.",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Seatbelts\n prevent passengers from being thrown forward in case of a sudden\n stop or crash.</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "Accidents\n can also be caused by reckless driving.",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Accidents\n can also be caused by reckless driving.</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "C",
+      "solutionText": "Seatbelts\n prevent passengers from being thrown forward, which directly\n supports the argument that they reduce the risk of injury in\n accidents.",
+      "solutionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Seatbelts\n prevent passengers from being thrown forward, which directly\n supports the argument that they reduce the risk of injury in\n accidents.</span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 7,
+      "section": "Critical Reasoning",
+      "questionId": "67c0108f13f13e8035530645",
+      "questionText": "Argument:\n Reading books enhances knowledge and improves vocabulary.",
+      "questionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Argument:\n Reading books enhances knowledge and improves vocabulary.</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "Watching\n movies is a good way to relax.",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Watching\n movies is a good way to relax.</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "Many\n people do not enjoy reading.",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Many\n people do not enjoy reading.</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "Reading\n books takes a lot of time.",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Reading\n books takes a lot of time.</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "Books\n contain information that helps people learn new words and\n concepts.",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Books\n contain information that helps people learn new words and\n concepts.</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "D",
+      "solutionText": "Books\n provide knowledge and introduce new vocabulary, which directly\n strengthens the argument.",
+      "solutionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Books\n provide knowledge and introduce new vocabulary, which directly\n strengthens the argument.</span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 8,
+      "section": "Critical Reasoning",
+      "questionId": "67c0108f13f13e8558530613",
+      "questionText": "Statement:\n Many factories have been dumping industrial waste into a major\n river, causing severe pollution. \n\n Courses\n of Action: \n\n I.\n The government should shut down all factories near the river. \n\n II.\n Strict penalties should be imposed on factories violating\n pollution norms.",
+      "questionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statement:\n Many factories have been dumping industrial waste into a major\n river, causing severe pollution.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Courses\n of Action:</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I.\n The government should shut down all factories near the river.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II.\n Strict penalties should be imposed on factories violating\n pollution norms.</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "Only\n Course of Action I follows",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n Course of Action I follows</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "Only\n Course of Action II follows",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n Course of Action II follows</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "Both\n I and II follow",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Both\n I and II follow</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "Neither\n I nor II follows",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Neither\n I nor II follows</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "D",
+      "solutionText": "Shutting\n down all factories (Course I) is an extreme measure that could\n harm the economy. Simply imposing penalties (Course II) may not be\n enough without proper enforcement. A better solution would be\n stricter monitoring and implementation of waste treatment systems.",
+      "solutionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Shutting\n down all factories (Course I) is an extreme measure that could\n harm the economy. Simply imposing penalties (Course II) may not be\n enough without proper enforcement. A better solution would be\n stricter monitoring and implementation of waste treatment systems.</span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 9,
+      "section": "Critical Reasoning",
+      "questionId": "67c0108f13f13eae6a53063b",
+      "questionText": "Statement:\n Many students in a school are failing in mathematics. \n\n Courses\n of Action: \n\n I.\n The school should introduce extra coaching classes for\n mathematics. \n\n II.\n The teaching methods for mathematics should be reviewed and\n improved.",
+      "questionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statement:\n Many students in a school are failing in mathematics.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Courses\n of Action:</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I.\n The school should introduce extra coaching classes for\n mathematics.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II.\n The teaching methods for mathematics should be reviewed and\n improved.</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "Only\n Course of Action I follows",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n Course of Action I follows</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "Only\n Course of Action II follows",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n Course of Action II follows</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "Both\n I and II follow",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Both\n I and II follow</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "Neither\n I nor II follows",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Neither\n I nor II follows</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "C",
+      "solutionText": "Both\n actions are reasonable. Extra coaching will provide immediate\n support, while improving teaching methods will have long-term\n benefits.",
+      "solutionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Both\n actions are reasonable. Extra coaching will provide immediate\n support, while improving teaching methods will have long-term\n benefits.</span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 10,
+      "section": "Critical Reasoning",
+      "questionId": "67c0108f13f13e1169530636",
+      "questionText": "Statement:\n \"Many people are shifting to electric vehicles due to rising\n fuel prices.\" \n\n Conclusion: \n\n I.\n Rising fuel prices is not affecting people's choice of\n transportation. \n\n II.\n All people will eventually switch to electric vehicles.",
+      "questionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statement:\n \"Many people are shifting to electric vehicles due to rising\n fuel prices.\"</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Conclusion:</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I.\n Rising fuel prices is not affecting people's choice of\n transportation.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II.\n All people will eventually switch to electric vehicles.</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "Only\n Conclusion I follows",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n Conclusion I follows</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "Only\n Conclusion II follows",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n Conclusion II follows</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "Both\n I and II follow",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Both\n I and II follow</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "Neither\n I nor II follows",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Neither\n I nor II follows</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "D",
+      "solutionText": "Conclusion\n I do not follow because the statement does not establish a\n cause-effect relationship. Conclusion II does not follow as it is\n an extreme generalization.",
+      "solutionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Conclusion\n I do not follow because the statement does not establish a\n cause-effect relationship. Conclusion II does not follow as it is\n an extreme generalization.</span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 11,
+      "section": "Critical Reasoning",
+      "questionId": "67c0108f13f13e223d5305fa",
+      "questionText": "Statement:\n Should the government implement a strict ban on plastic bags? \n\n Arguments: \n\n I.\n Yes, plastic bags contribute to environmental pollution and should\n be banned. \n\n II.\n No, banning plastic bags will cause inconvenience to consumers and\n businesses.",
+      "questionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statement:\n Should the government implement a strict ban on plastic bags?</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Arguments:</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I.\n Yes, plastic bags contribute to environmental pollution and should\n be banned.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II.\n No, banning plastic bags will cause inconvenience to consumers and\n businesses.</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "Only\n Argument I is strong",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n Argument I is strong</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "Only\n Argument II is strong",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n Argument II is strong</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "Both\n I and II are strong",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Both\n I and II are strong</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "Neither\n I nor II is strong",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Neither\n I nor II is strong</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "A",
+      "solutionText": "Argument\n I is strong because it presents an environmental concern. Argument\n II is weak because inconvenience alone is not a strong enough\n reason to ignore environmental damage.",
+      "solutionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Argument\n I is strong because it presents an environmental concern. Argument\n II is weak because inconvenience alone is not a strong enough\n reason to ignore environmental damage.</span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 12,
+      "section": "Critical Reasoning",
+      "questionId": "67c0108f13f13e35ec530609",
+      "questionText": "Read\n the following argument and mark which of the following assumptions\n is made in the argument. \n\n More\n than one billion years’ worth of rocks have gone missing\n from the geologic record of Grand Canyon.",
+      "questionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Read\n the following argument and mark which of the following assumptions\n is made in the argument.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">More\n than one billion years’ worth of rocks have gone missing\n from the geologic record of Grand Canyon.</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "Earth\n has transitioned from an older setting to the modern one during\n these one billion years.",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Earth\n has transitioned from an older setting to the modern one during\n these one billion years.</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "The\n western half of the Grand Canyon has gone through a very different\n geologic contortion compared to the eastern half.",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">The\n western half of the Grand Canyon has gone through a very different\n geologic contortion compared to the eastern half.</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "Series\n of Faulting events in that region possibly tore up the earth\n around the Canyon causing rocks and sediments to wash away in the\n ocean.",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Series\n of Faulting events in that region possibly tore up the earth\n around the Canyon causing rocks and sediments to wash away in the\n ocean.</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "None\n of the mentioned options.",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">None\n of the mentioned options.</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "C",
+      "solutionText": "In\n a new study, researchers led by Peak identify a likely cause for\n the missing rocks: the breakup of Earth's ancient supercontinent\n Rodina approximately 700 million years ago. The upheaval was so\n violent it likely washed rocks and sediment into the ocean —\n one billion years’ worth, in the case of the Grand Canyon.",
+      "solutionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">In\n a new study, researchers led by Peak identify a likely cause for\n the missing rocks: the breakup of Earth's ancient supercontinent\n Rodina approximately 700 million years ago. The upheaval was so\n violent it likely washed rocks and sediment into the ocean —\n one billion years’ worth, in the case of the Grand Canyon.</span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 13,
+      "section": "Critical Reasoning",
+      "questionId": "67c0108f13f13efe6353064a",
+      "questionText": "Statement:\n Fluency in spoken English is a must have in today's job market,\n where every firm wants to compete \n\n at\n the international level. \n\n Inferences: \n\n I.\n The imposition of language is unfair. \n\n II.\n English is the language that bridges the gap between countries.",
+      "questionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statement:\n Fluency in spoken English is a must have in today's job market,\n where every firm wants to compete</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">at\n the international level.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Inferences:</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I.\n The imposition of language is unfair.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II.\n English is the language that bridges the gap between countries.</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "Only\n Conclusion I follows",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n Conclusion I follows</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "Only\n Conclusion II follows",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n Conclusion II follows</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "Both\n I and II follow",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Both\n I and II follow</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "Neither\n I nor II follows",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Neither\n I nor II follows</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "Conclusion\n I: \"The imposition of language is unfair\" does not\n follow because the statement does not discuss fairness or\n imposition; it simply states a requirement in the job market. \n\n Conclusion\n II: \"English is the language that bridges the gap between\n countries\" follows because the statement implies that fluency\n in English is important for firms competing internationally.",
+      "solutionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Conclusion\n I: \"The imposition of language is unfair\" does not\n follow because the statement does not discuss fairness or\n imposition; it simply states a requirement in the job market.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Conclusion\n II: \"English is the language that bridges the gap between\n countries\" follows because the statement implies that fluency\n in English is important for firms competing internationally.</span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 14,
+      "section": "Critical Reasoning",
+      "questionId": "67c0108f13f13e464853060e",
+      "questionText": "Statements: \n\n 1.\n The company has launched a new marketing campaign with attractive\n discounts. \n\n 2.\n The sales of the company have significantly increased in the past\n month.",
+      "questionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statements:</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">1.\n The company has launched a new marketing campaign with attractive\n discounts.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">2.\n The sales of the company have significantly increased in the past\n month.</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "Statement\n 1 is the cause, and Statement 2 is its effect.",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statement\n 1 is the cause, and Statement 2 is its effect.</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "Statement\n 2 is the cause, and Statement 1 is its effect.",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statement\n 2 is the cause, and Statement 1 is its effect.</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "Both\n statements are independent causes.",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Both\n statements are independent causes.</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "Both\n statements are effects of a common cause.",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Both\n statements are effects of a common cause.</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "A",
+      "solutionText": "The\n launch of a new marketing campaign (Statement 1) likely led to an\n increase in sales (Statement 2), making it a cause-and-effect\n relationship.",
+      "solutionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">The\n launch of a new marketing campaign (Statement 1) likely led to an\n increase in sales (Statement 2), making it a cause-and-effect\n relationship.</span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 15,
+      "section": "Critical Reasoning",
+      "questionId": "67c0108f13f13e4b3d530654",
+      "questionText": "Directions:\n In the question below, a statement and assumptions numbered I and\n II are given. An \n\n assumption\n is something supposed or taken for granted. You have to consider\n the following assumption \n\n and\n decide which of the assumption is implicit in the statement. \n\n Statement:\n “Tomorrow morning the daily review meeting will happen at 1\n pm instead of 11 am” said the boss. \n\n Assumptions: \n\n I.\n That day boss will arrive at the office only at 1 pm. \n\n II.\n Some of the employees will not be available at 11 am.",
+      "questionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Directions:\n In the question below, a statement and assumptions numbered I and\n II are given. An</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">assumption\n is something supposed or taken for granted. You have to consider\n the following assumption</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">and\n decide which of the assumption is implicit in the statement.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statement:\n “Tomorrow morning the daily review meeting will happen at 1\n pm instead of 11 am” said the boss.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Assumptions:</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I.\n That day boss will arrive at the office only at 1 pm.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II.\n Some of the employees will not be available at 11 am.</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "Only\n Assumption I is implicit",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n Assumption I is implicit</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "Only\n Assumption II is implicit",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n Assumption II is implicit</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "Both\n I and II are implicit",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Both\n I and II are implicit</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "Neither\n I nor II is implicit",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Neither\n I nor II is implicit</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "D",
+      "solutionText": "The\n statement does not mention when the boss will arrive (I is not\n implicit). \n\n The\n reason for rescheduling is unclear, so employee unavailability is\n not necessarily assumed (II is not implicit).",
+      "solutionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">The\n statement does not mention when the boss will arrive (I is not\n implicit).</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">The\n reason for rescheduling is unclear, so employee unavailability is\n not necessarily assumed (II is not implicit).</span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 16,
+      "section": "Critical Reasoning",
+      "questionId": "67c0108f13f13e838a53061d",
+      "questionText": "Statement: \n\n Mother\n scolding the child said, “If you continue doing naughty\n things, I will slap you.” \n\n Assumptions: \n\n I.\n All children are naughty. \n\n II.\n With this warning, child may stop doing mischievous acts.",
+      "questionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statement:</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Mother\n scolding the child said, “If you continue doing naughty\n things, I will slap you.”</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Assumptions:</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I.\n All children are naughty.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II.\n With this warning, child may stop doing mischievous acts.</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "Only\n Assumption I is implicit",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n Assumption I is implicit</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "Only\n Assumption II is implicit",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n Assumption II is implicit</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "Both\n I and II are implicit",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Both\n I and II are implicit</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "Neither\n I nor II is implicit",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Neither\n I nor II is implicit</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "Assumption\n I: \"All children are naughty\" is not implicit because\n the statement talks about one specific child, not all children in\n general. \n\n Assumption\n II: \"With this warning, the child may stop doing mischievous\n acts\" is implicit because the mother’s warning suggests\n that she believes it will have an effect on the child's behavior.",
+      "solutionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Assumption\n I: \"All children are naughty\" is not implicit because\n the statement talks about one specific child, not all children in\n general.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Assumption\n II: \"With this warning, the child may stop doing mischievous\n acts\" is implicit because the mother’s warning suggests\n that she believes it will have an effect on the child's behavior.</span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 17,
+      "section": "Critical Reasoning",
+      "questionId": "67c0108f13f13e7dae530618",
+      "questionText": "Social\n gatherings could turn into COVID super spreader events if safety\n norms are flouted. \n\n Conclusions\n : \n\n I.\n The coming festive season could be dangerous if safety norms are\n flouted and lead to a surge in COVID cases. \n\n II.\n Vaccine provides over 95% protection against severe disease and\n hospitalisation.",
+      "questionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Social\n gatherings could turn into COVID super spreader events if safety\n norms are flouted.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Conclusions\n :</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I.\n The coming festive season could be dangerous if safety norms are\n flouted and lead to a surge in COVID cases.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II.\n Vaccine provides over 95% protection against severe disease and\n hospitalisation.</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "Only\n Conclusion I follows",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n Conclusion I follows</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "Only\n Conclusion II follows",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n Conclusion II follows</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "Both\n I and II follow",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Both\n I and II follow</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "Neither\n I nor II follows",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Neither\n I nor II follows</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "A",
+      "solutionText": "As\n per the statement gatherings could turn in to COVID super spread\n , so only Conclusion I follows, decision on Conclusion II can’t\n be taken as the statement doesn’t discuss about vaccination.",
+      "solutionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">As\n per the statement gatherings could turn  in to COVID super spread\n , so only Conclusion I follows, decision on Conclusion II can’t\n be taken as the statement doesn’t discuss about vaccination.</span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 18,
+      "section": "Critical Reasoning",
+      "questionId": "67c0108f13f13e0cdd5305ff",
+      "questionText": "Statement:\n \"People who exercise regularly are healthier than those who\n don’t.\" \n\n Assumption: \n\n I.\n Regular exercise improves health. \n\n II.\n Some people do not exercise regularly.",
+      "questionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statement:\n \"People who exercise regularly are healthier than those who\n don’t.\"</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Assumption:</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I.\n Regular exercise improves health.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II.\n Some people do not exercise regularly.</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "Only\n Assumption I is implicit",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n Assumption I is implicit</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "Only\n Assumption II is implicit",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n Assumption II is implicit</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "Both\n I and II are implicit",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Both\n I and II are implicit</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "Neither\n I nor II is implicit",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Neither\n I nor II is implicit</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "C",
+      "solutionText": "Assumption\n I is implicit because the statement claims a direct relationship\n between exercise and health. Assumption II is also implicit as the\n comparison suggests the existence of people who do not exercise.",
+      "solutionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Assumption\n I is implicit because the statement claims a direct relationship\n between exercise and health. Assumption II is also implicit as the\n comparison suggests the existence of people who do not exercise.</span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 19,
+      "section": "Critical Reasoning",
+      "questionId": "67c0108f13f13ee5e0530604",
+      "questionText": "Statement:\n \"All cats are mammals. Some mammals are not domestic\n animals.\" \n\n Conclusion: \n\n I.\n Some domestic animals are mammals. \n\n II.\n All mammals are cats.",
+      "questionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statement:\n \"All cats are mammals. Some mammals are not domestic\n animals.\"</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Conclusion:</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I.\n Some domestic animals are mammals.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II.\n All mammals are cats.</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "Only\n Conclusion I follows",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n Conclusion I follows</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "Only\n Conclusion II follows",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n Conclusion II follows</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "Both\n I and II follow",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Both\n I and II follow</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "Neither\n I nor II follows",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Neither\n I nor II follows</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "A",
+      "solutionText": "Conclusion\n I logically follows, as some mammals can be domestic. Conclusion\n II is incorrect because all mammals are not necessarily cats.",
+      "solutionHtml": "<p lang=\"en-US\" class=\"western\">\n <span style=\"color: #000000\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\"><span lang=\"en-IN\"><span style=\"text-decoration: none\">Conclusion\n I logically follows, as some mammals can be domestic. Conclusion\n II is incorrect because all mammals are not necessarily cats.</span></span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 20,
+      "section": "Critical Reasoning",
+      "questionId": "67c0108f13f13e10d7530631",
+      "questionText": "Statement:\n \"To get a driving license, you must pass a driving test.\" \n\n Assumption: \n\n I.\n Driving tests help in identifying competent drivers. \n\n II.\n Some people fail the driving test.",
+      "questionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statement:\n \"To get a driving license, you must pass a driving test.\"</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Assumption:</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I.\n Driving tests help in identifying competent drivers.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II.\n Some people fail the driving test.</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "Only\n Assumption I is implicit",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n Assumption I is implicit</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "Only\n Assumption II is implicit",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n Assumption II is implicit</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "Both\n I and II are implicit",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Both\n I and II are implicit</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "Neither\n I nor II is implicit",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Neither\n I nor II is implicit</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "C",
+      "solutionText": "Assumption\n I is implicit because the requirement of the test suggests its\n importance. Assumption II is implicit because if everyone passed,\n there would be no need for a test.",
+      "solutionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Assumption\n I is implicit because the requirement of the test suggests its\n importance. Assumption II is implicit because if everyone passed,\n there would be no need for a test.</span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    }
+  ]
+}

@@ -1,0 +1,238 @@
+{
+  "courseId": "58216",
+  "totalTestsHarvested": 23,
+  "totalQuestionsHarvested": 906,
+  "totalFiguresHarvested": 172,
+  "tests": [
+    {
+      "name": "Coding Decoding",
+      "contentId": 23945640,
+      "testId": "67ac6a72be741e1809a9cfb9",
+      "questionsCount": 20,
+      "figuresCount": 11,
+      "folderPath": "1.4 Reasoning/Mathematical Ability / Logical Reasoning Topiciwse Test Series",
+      "mdPath": "1.4 Reasoning_Mathematical Ability/Logical Reasoning Topiciwse Test Series/Coding Decoding_PAPER.md",
+      "jsonPath": "1.4 Reasoning_Mathematical Ability/Logical Reasoning Topiciwse Test Series/Coding Decoding_QUESTIONS.json"
+    },
+    {
+      "name": "Direction Sense",
+      "contentId": 23945641,
+      "testId": "67b0373ec85e91160d496f0e",
+      "questionsCount": 20,
+      "figuresCount": 20,
+      "folderPath": "1.4 Reasoning/Mathematical Ability / Logical Reasoning Topiciwse Test Series",
+      "mdPath": "1.4 Reasoning_Mathematical Ability/Logical Reasoning Topiciwse Test Series/Direction Sense_PAPER.md",
+      "jsonPath": "1.4 Reasoning_Mathematical Ability/Logical Reasoning Topiciwse Test Series/Direction Sense_QUESTIONS.json"
+    },
+    {
+      "name": "Blood Relation",
+      "contentId": 23945642,
+      "testId": "67b5786d8db99f0c78d663aa",
+      "questionsCount": 20,
+      "figuresCount": 18,
+      "folderPath": "1.4 Reasoning/Mathematical Ability / Logical Reasoning Topiciwse Test Series",
+      "mdPath": "1.4 Reasoning_Mathematical Ability/Logical Reasoning Topiciwse Test Series/Blood Relation_PAPER.md",
+      "jsonPath": "1.4 Reasoning_Mathematical Ability/Logical Reasoning Topiciwse Test Series/Blood Relation_QUESTIONS.json"
+    },
+    {
+      "name": "Number Series",
+      "contentId": 23945643,
+      "testId": "67b6d72acd8494fe358bba3c",
+      "questionsCount": 20,
+      "figuresCount": 20,
+      "folderPath": "1.4 Reasoning/Mathematical Ability / Logical Reasoning Topiciwse Test Series",
+      "mdPath": "1.4 Reasoning_Mathematical Ability/Logical Reasoning Topiciwse Test Series/Number Series_PAPER.md",
+      "jsonPath": "1.4 Reasoning_Mathematical Ability/Logical Reasoning Topiciwse Test Series/Number Series_QUESTIONS.json"
+    },
+    {
+      "name": "Syllogism",
+      "contentId": 23945644,
+      "testId": "67b992488fc4f1283b3bff38",
+      "questionsCount": 20,
+      "figuresCount": 18,
+      "folderPath": "1.4 Reasoning/Mathematical Ability / Logical Reasoning Topiciwse Test Series",
+      "mdPath": "1.4 Reasoning_Mathematical Ability/Logical Reasoning Topiciwse Test Series/Syllogism_PAPER.md",
+      "jsonPath": "1.4 Reasoning_Mathematical Ability/Logical Reasoning Topiciwse Test Series/Syllogism_QUESTIONS.json"
+    },
+    {
+      "name": "Ranking Test",
+      "contentId": 23945645,
+      "testId": "67bc768df307941d4a7d8011",
+      "questionsCount": 20,
+      "figuresCount": 4,
+      "folderPath": "1.4 Reasoning/Mathematical Ability / Logical Reasoning Topiciwse Test Series",
+      "mdPath": "1.4 Reasoning_Mathematical Ability/Logical Reasoning Topiciwse Test Series/Ranking Test_PAPER.md",
+      "jsonPath": "1.4 Reasoning_Mathematical Ability/Logical Reasoning Topiciwse Test Series/Ranking Test_QUESTIONS.json"
+    },
+    {
+      "name": "Seating Arrangement",
+      "contentId": 23945646,
+      "testId": "67bd831a399f656c5e09abf0",
+      "questionsCount": 20,
+      "figuresCount": 20,
+      "folderPath": "1.4 Reasoning/Mathematical Ability / Logical Reasoning Topiciwse Test Series",
+      "mdPath": "1.4 Reasoning_Mathematical Ability/Logical Reasoning Topiciwse Test Series/Seating Arrangement_PAPER.md",
+      "jsonPath": "1.4 Reasoning_Mathematical Ability/Logical Reasoning Topiciwse Test Series/Seating Arrangement_QUESTIONS.json"
+    },
+    {
+      "name": "Data Sufficiency",
+      "contentId": 23945647,
+      "testId": "67beb9781d43c1792d358557",
+      "questionsCount": 20,
+      "figuresCount": 0,
+      "folderPath": "1.4 Reasoning/Mathematical Ability / Logical Reasoning Topiciwse Test Series",
+      "mdPath": "1.4 Reasoning_Mathematical Ability/Logical Reasoning Topiciwse Test Series/Data Sufficiency_PAPER.md",
+      "jsonPath": "1.4 Reasoning_Mathematical Ability/Logical Reasoning Topiciwse Test Series/Data Sufficiency_QUESTIONS.json"
+    },
+    {
+      "name": "Critical Reasoning",
+      "contentId": 23945648,
+      "testId": "67c0107a6dd87b22aff54f59",
+      "questionsCount": 20,
+      "figuresCount": 0,
+      "folderPath": "1.4 Reasoning/Mathematical Ability / Logical Reasoning Topiciwse Test Series",
+      "mdPath": "1.4 Reasoning_Mathematical Ability/Logical Reasoning Topiciwse Test Series/Critical Reasoning_PAPER.md",
+      "jsonPath": "1.4 Reasoning_Mathematical Ability/Logical Reasoning Topiciwse Test Series/Critical Reasoning_QUESTIONS.json"
+    },
+    {
+      "name": "Inequalities",
+      "contentId": 23945649,
+      "testId": "67c16ba140b30901617172aa",
+      "questionsCount": 20,
+      "figuresCount": 4,
+      "folderPath": "1.4 Reasoning/Mathematical Ability / Logical Reasoning Topiciwse Test Series",
+      "mdPath": "1.4 Reasoning_Mathematical Ability/Logical Reasoning Topiciwse Test Series/Inequalities_PAPER.md",
+      "jsonPath": "1.4 Reasoning_Mathematical Ability/Logical Reasoning Topiciwse Test Series/Inequalities_QUESTIONS.json"
+    },
+    {
+      "name": "Mirror Image",
+      "contentId": 23945650,
+      "testId": "67c2c0e5d1935f1d2c18ad2c",
+      "questionsCount": 20,
+      "figuresCount": 28,
+      "folderPath": "1.4 Reasoning/Mathematical Ability / Logical Reasoning Topiciwse Test Series",
+      "mdPath": "1.4 Reasoning_Mathematical Ability/Logical Reasoning Topiciwse Test Series/Mirror Image_PAPER.md",
+      "jsonPath": "1.4 Reasoning_Mathematical Ability/Logical Reasoning Topiciwse Test Series/Mirror Image_QUESTIONS.json"
+    },
+    {
+      "name": "INFOSYS TEST SERIES-1",
+      "contentId": 23946909,
+      "testId": "68de1bd8f333192f61169677",
+      "questionsCount": 35,
+      "figuresCount": 9,
+      "folderPath": "1.11 LIVE MOCK TEST",
+      "mdPath": "1.11 LIVE MOCK TEST/INFOSYS TEST SERIES-1_PAPER.md",
+      "jsonPath": "1.11 LIVE MOCK TEST/INFOSYS TEST SERIES-1_QUESTIONS.json"
+    },
+    {
+      "name": "INFOSYS TEST SERIES-2",
+      "contentId": 23951141,
+      "testId": "68de288e20245d6752f68cc6",
+      "questionsCount": 35,
+      "figuresCount": 10,
+      "folderPath": "1.11 LIVE MOCK TEST",
+      "mdPath": "1.11 LIVE MOCK TEST/INFOSYS TEST SERIES-2_PAPER.md",
+      "jsonPath": "1.11 LIVE MOCK TEST/INFOSYS TEST SERIES-2_QUESTIONS.json"
+    },
+    {
+      "name": "Infosys Full Length Mock Test-1",
+      "contentId": 32529605,
+      "testId": "6aaeb187e163e603f24b98ad",
+      "questionsCount": 60,
+      "figuresCount": 1,
+      "folderPath": "1.11 LIVE MOCK TEST",
+      "mdPath": "1.11 LIVE MOCK TEST/Infosys Full Length Mock Test-1_PAPER.md",
+      "jsonPath": "1.11 LIVE MOCK TEST/Infosys Full Length Mock Test-1_QUESTIONS.json"
+    },
+    {
+      "name": "Infosys Full Length Mock Test- 2",
+      "contentId": 32597293,
+      "testId": "6aaff422894ef0040559d75f",
+      "questionsCount": 60,
+      "figuresCount": 1,
+      "folderPath": "1.11 LIVE MOCK TEST",
+      "mdPath": "1.11 LIVE MOCK TEST/Infosys Full Length Mock Test- 2_PAPER.md",
+      "jsonPath": "1.11 LIVE MOCK TEST/Infosys Full Length Mock Test- 2_QUESTIONS.json"
+    },
+    {
+      "name": "Infosys Full Length Mock Test- 3",
+      "contentId": 32597294,
+      "testId": "6ab15647d57fc8564e35e5a0",
+      "questionsCount": 60,
+      "figuresCount": 1,
+      "folderPath": "1.11 LIVE MOCK TEST",
+      "mdPath": "1.11 LIVE MOCK TEST/Infosys Full Length Mock Test- 3_PAPER.md",
+      "jsonPath": "1.11 LIVE MOCK TEST/Infosys Full Length Mock Test- 3_QUESTIONS.json"
+    },
+    {
+      "name": "Infosys Full Length Mock Test- 4",
+      "contentId": 32597295,
+      "testId": "6ab26f53804ce2234b391010",
+      "questionsCount": 60,
+      "figuresCount": 1,
+      "folderPath": "1.11 LIVE MOCK TEST",
+      "mdPath": "1.11 LIVE MOCK TEST/Infosys Full Length Mock Test- 4_PAPER.md",
+      "jsonPath": "1.11 LIVE MOCK TEST/Infosys Full Length Mock Test- 4_QUESTIONS.json"
+    },
+    {
+      "name": "Infosys Full Length Mock Test- 5",
+      "contentId": 32597296,
+      "testId": "6ab272e415725ff2acb37c2c",
+      "questionsCount": 60,
+      "figuresCount": 1,
+      "folderPath": "1.11 LIVE MOCK TEST",
+      "mdPath": "1.11 LIVE MOCK TEST/Infosys Full Length Mock Test- 5_PAPER.md",
+      "jsonPath": "1.11 LIVE MOCK TEST/Infosys Full Length Mock Test- 5_QUESTIONS.json"
+    },
+    {
+      "name": "Infosys Full Length Mock Test- 6",
+      "contentId": 32597297,
+      "testId": "6ab280e6b1086eb04449913d",
+      "questionsCount": 60,
+      "figuresCount": 1,
+      "folderPath": "1.11 LIVE MOCK TEST",
+      "mdPath": "1.11 LIVE MOCK TEST/Infosys Full Length Mock Test- 6_PAPER.md",
+      "jsonPath": "1.11 LIVE MOCK TEST/Infosys Full Length Mock Test- 6_QUESTIONS.json"
+    },
+    {
+      "name": "Infosys Full Length Mock Test- 7",
+      "contentId": 32597298,
+      "testId": "6ab28941d9c9a16baa0f99a0",
+      "questionsCount": 73,
+      "figuresCount": 1,
+      "folderPath": "1.11 LIVE MOCK TEST",
+      "mdPath": "1.11 LIVE MOCK TEST/Infosys Full Length Mock Test- 7_PAPER.md",
+      "jsonPath": "1.11 LIVE MOCK TEST/Infosys Full Length Mock Test- 7_QUESTIONS.json"
+    },
+    {
+      "name": "Infosys Full Length Mock Test- 8",
+      "contentId": 32597299,
+      "testId": "6ab29300606b13a1f48a7f1a",
+      "questionsCount": 60,
+      "figuresCount": 1,
+      "folderPath": "1.11 LIVE MOCK TEST",
+      "mdPath": "1.11 LIVE MOCK TEST/Infosys Full Length Mock Test- 8_PAPER.md",
+      "jsonPath": "1.11 LIVE MOCK TEST/Infosys Full Length Mock Test- 8_QUESTIONS.json"
+    },
+    {
+      "name": "Infosys Full Length Mock Test- 9",
+      "contentId": 32597300,
+      "testId": "6ab29a1715bfe6ccfab483e7",
+      "questionsCount": 60,
+      "figuresCount": 1,
+      "folderPath": "1.11 LIVE MOCK TEST",
+      "mdPath": "1.11 LIVE MOCK TEST/Infosys Full Length Mock Test- 9_PAPER.md",
+      "jsonPath": "1.11 LIVE MOCK TEST/Infosys Full Length Mock Test- 9_QUESTIONS.json"
+    },
+    {
+      "name": "Infosys Full Length Mock Test- 10",
+      "contentId": 32597301,
+      "testId": "6ab29f43ec91108333000c8a",
+      "questionsCount": 63,
+      "figuresCount": 1,
+      "folderPath": "1.11 LIVE MOCK TEST",
+      "mdPath": "1.11 LIVE MOCK TEST/Infosys Full Length Mock Test- 10_PAPER.md",
+      "jsonPath": "1.11 LIVE MOCK TEST/Infosys Full Length Mock Test- 10_QUESTIONS.json"
+    }
+  ]
+}

@@ -1,0 +1,2333 @@
+{
+  "testName": "Infosys Full Length Mock Test- 2",
+  "testId": "6aaff422894ef0040559d75f",
+  "contentId": 32597293,
+  "totalQuestions": 60,
+  "totalFigures": 1,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "section": "Reasoning",
+      "questionId": "6ab0047d4390031ab2b1d813",
+      "questionText": "Refer to the table in Question 7. Which\n product had the highest total sales over the three months?",
+      "questionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Refer to the table in Question 7. Which\n product had the highest total sales over the three months?</span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "A",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">A</span></p>"
+        },
+        {
+          "option": "B",
+          "text": "B",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">B</span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "C",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">C</span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "A and B equal",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">A and B equal</span></p>\n "
+        }
+      ],
+      "correctAnswer": "A",
+      "solutionText": "A = 40+45+50 = 135. B = 30+35+30 = 95. C =\n 25+20+35 = 80. Product A is highest.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">A = 40+45+50 = 135. B = 30+35+30 = 95. C =\n 25+20+35 = 80. Product A is highest.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 2,
+      "section": "Reasoning",
+      "questionId": "6ab0047d4390038d40b1d822",
+      "questionText": "If 1 + 2 = 3, 2 + 3 = 8, 3 + 4 = 15 and 4 +\n 5 = 24, then 5 + 6 = ?",
+      "questionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">If 1 + 2 = 3, 2 + 3 = 8, 3 + 4 = 15 and 4 +\n 5 = 24, then 5 + 6 = ?</span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "30",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">30</span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "33",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">33</span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "35",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">35</span></p>"
+        },
+        {
+          "option": "D",
+          "text": "36",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">36</span></p>\n "
+        }
+      ],
+      "correctAnswer": "C",
+      "solutionText": "The rule is a + b maps to a × b + a,\n which is a(b + 1). Check: 1×2+1=3, 2×3+2=8, 3×4+3=15,\n 4×5+4=24. Then 5×6+5 = 35.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">The rule is a + b maps to a × b + a,\n which is a(b + 1). Check: 1×2+1=3, 2×3+2=8, 3×4+3=15,\n 4×5+4=24. Then 5×6+5 = 35.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 3,
+      "section": "Reasoning",
+      "questionId": "6ab0047d439003e054b1d7f0",
+      "questionText": "Statements: All servers are machines. Some\n machines are laptops. No laptop is a tablet. Conclusions: I. Some\n servers are laptops. II. Some machines are not tablets.",
+      "questionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Statements: All servers are machines. Some\n machines are laptops. No laptop is a tablet. Conclusions: I. Some\n servers are laptops. II. Some machines are not tablets.</span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "Only I follows",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Only I follows</span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "Only II follows",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">Only II follows</span></p>"
+        },
+        {
+          "option": "C",
+          "text": "Both I and II follow",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Both I and II follow</span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "Neither I nor II follows",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Neither I nor II follows</span></p>\n "
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "Servers sit inside machines, but they need\n not overlap laptops, so I does not follow. Some machines are\n laptops, and no laptop is a tablet, so those machines are not\n tablets. II follows.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Servers sit inside machines, but they need\n not overlap laptops, so I does not follow. Some machines are\n laptops, and no laptop is a tablet, so those machines are not\n tablets. II follows.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 4,
+      "section": "Reasoning",
+      "questionId": "6ab0047d439003709ab1d81d",
+      "questionText": "If PLANET is coded as QMBOFU, how is ORBIT\n coded?",
+      "questionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">If PLANET is coded as QMBOFU, how is ORBIT\n coded?</span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "PSCJU",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">PSCJU</span></p>"
+        },
+        {
+          "option": "B",
+          "text": "NQAHS",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">NQAHS</span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "PSCJT",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">PSCJT</span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "PSBJU",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">PSBJU</span></p>\n "
+        }
+      ],
+      "correctAnswer": "A",
+      "solutionText": "Each letter moves one step forward: P→Q,\n L→M, A→B, N→O, E→F, T→U. Apply the same\n to ORBIT: O→P, R→S, B→C, I→J, T→U. Code:\n PSCJU.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Each letter moves one step forward: P→Q,\n L→M, A→B, N→O, E→F, T→U. Apply the same\n to ORBIT: O→P, R→S, B→C, I→J, T→U. Code:\n PSCJU.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 5,
+      "section": "Reasoning",
+      "questionId": "6ab0047d439003d45ab1d82c",
+      "questionText": "Find the missing number in the figure. \n\n 5 \n\n 7 \n\n 9 \n\n 4 \n\n 6 \n\n 8 \n\n 3 \n\n 5 \n\n ?",
+      "questionHtml": "<p style=\"margin-top: 0.288px; margin-bottom: 0.576px;\"><span style=\"color: #111827;\">Find the missing number in the figure.</span></p>\n<table class=\"MsoNormalTable\" style=\"width: 117.0pt; border-collapse: collapse; border: none; mso-border-alt: solid windowtext .5pt; mso-padding-alt: 0cm .5pt 0cm .5pt; mso-border-insideh: .5pt solid windowtext; mso-border-insidev: .5pt solid windowtext;\" border=\"1\" width=\"156\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr style=\"mso-yfti-irow: 0; mso-yfti-firstrow: yes; page-break-inside: avoid;\">\n<td style=\"width: 39pt; border: 1pt solid #4b5563; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 2pt;\" width=\"52\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #111827;\">5</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 39pt; border-width: 1pt 1pt 1pt medium; border-style: solid solid solid none; border-color: #4b5563 #4b5563 #4b5563 currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 2pt;\" width=\"52\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #111827;\">7</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 39pt; border-width: 1pt 1pt 1pt medium; border-style: solid solid solid none; border-color: #4b5563 #4b5563 #4b5563 currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 2pt;\" width=\"52\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #111827;\">9</span></strong><o:p></o:p></p>\n</td>\n</tr>\n<tr style=\"mso-yfti-irow: 1; page-break-inside: avoid;\">\n<td style=\"width: 39pt; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: currentcolor #4b5563 #4b5563; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 2pt;\" width=\"52\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #111827;\">4</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 39pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: currentcolor #4b5563 #4b5563 currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 2pt;\" width=\"52\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #111827;\">6</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 39pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: currentcolor #4b5563 #4b5563 currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 2pt;\" width=\"52\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #111827;\">8</span></strong><o:p></o:p></p>\n</td>\n</tr>\n<tr style=\"mso-yfti-irow: 2; mso-yfti-lastrow: yes; page-break-inside: avoid;\">\n<td style=\"width: 39pt; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: currentcolor #4b5563 #4b5563; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 2pt;\" width=\"52\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #111827;\">3</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 39pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: currentcolor #4b5563 #4b5563 currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 2pt;\" width=\"52\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #111827;\">5</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 39.0pt; border-top: none; border-left: none; border-bottom: solid #4B5563 1.0pt; border-right: solid #4B5563 1.0pt; mso-border-top-alt: solid #4B5563 1.0pt; mso-border-left-alt: solid #4B5563 1.0pt; background: #FEF3C7; padding: 2.5pt 2.0pt 2.5pt 2.0pt;\" width=\"52\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #b45309;\">?</span></strong><o:p></o:p></p>\n</td>\n</tr>\n</tbody>\n</table>\n<p style=\"margin-top: 0.288px; margin-bottom: 0.96px; line-height: 115%;\"></p>",
+      "options": [
+        {
+          "option": "A",
+          "text": "6",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 115%\">\n <span style=\"color: #111827\">6</span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "7",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 115%;\"><span style=\"color: #111827;\">7</span></p>"
+        },
+        {
+          "option": "C",
+          "text": "8",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 115%\">\n <span style=\"color: #111827\">8</span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "9",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 115%\">\n <span style=\"color: #111827\">9</span></p>\n "
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "Each column decreases by 1 going down:\n 5-4-3, 7-6-5, 9-8-7. The missing number is 7. Rows also increase\n by 2.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 115%\">\n <span style=\"color: #111827\">Each column decreases by 1 going down:\n 5-4-3, 7-6-5, 9-8-7. The missing number is 7. Rows also increase\n by 2.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 6,
+      "section": "Reasoning",
+      "questionId": "6ab0047d43900315a1b1d831",
+      "questionText": "A square figure series adds one\n diagonal-style mark in each step: Step 1 has 1 line, Step 2 has 2\n lines, Step 3 has 3 lines. How many lines does Step 5 contain?",
+      "questionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">A square figure series adds one\n diagonal-style mark in each step: Step 1 has 1 line, Step 2 has 2\n lines, Step 3 has 3 lines. How many lines does Step 5 contain?</span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "3",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">3</span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "4",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">4</span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "5",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">5</span></p>"
+        },
+        {
+          "option": "D",
+          "text": "6",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">6</span></p>\n "
+        }
+      ],
+      "correctAnswer": "C",
+      "solutionText": "The count of lines increases by 1 in each\n step. Step 5 therefore has 5 lines.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">The count of lines increases by 1 in each\n step. Step 5 therefore has 5 lines.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 7,
+      "section": "Reasoning",
+      "questionId": "6ab0047d439003abd2b1d809",
+      "questionText": "What is the value of x + y? Statement 1: x −\n y = 4. Statement 2: 2x + 2y = 20.",
+      "questionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">What is the value of x + y? Statement 1: x −\n y = 4. Statement 2: 2x + 2y = 20.</span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "Statement 1 alone is sufficient, but\n Statement 2 alone is not",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Statement 1 alone is sufficient, but\n Statement 2 alone is not</span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "Statement 2 alone is sufficient, but Statement 1 alone is not",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">Statement 2 alone is sufficient, but Statement 1 alone is not</span></p>"
+        },
+        {
+          "option": "C",
+          "text": "Either statement alone is sufficient",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Either statement alone is sufficient</span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "Both statements together are needed",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Both statements together are needed</span></p>\n "
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "S1 gives only the difference, so x + y\n cannot be found. S2 divides by 2 to give x + y = 10. Statement 2\n alone is enough.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">S1 gives only the difference, so x + y\n cannot be found. S2 divides by 2 to give x + y = 10. Statement 2\n alone is enough.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 8,
+      "section": "Reasoning",
+      "questionId": "6ab0047d4390032045b1d836",
+      "questionText": "Find the missing number in the figure. \n\n 2 \n\n 6 \n\n 3 \n\n 4 \n\n 20 \n\n 5 \n\n 3 \n\n ? \n\n 7",
+      "questionHtml": "<p style=\"margin-top: 0.288px; margin-bottom: 0.576px;\"><span style=\"color: #111827;\">Find the missing number in the figure.</span></p>\n<table class=\"MsoNormalTable\" style=\"width: 117.0pt; border-collapse: collapse; border: none; mso-border-alt: solid windowtext .5pt; mso-padding-alt: 0cm .5pt 0cm .5pt; mso-border-insideh: .5pt solid windowtext; mso-border-insidev: .5pt solid windowtext;\" border=\"1\" width=\"156\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr style=\"mso-yfti-irow: 0; mso-yfti-firstrow: yes; page-break-inside: avoid;\">\n<td style=\"width: 39pt; border: 1pt solid #4b5563; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 2pt;\" width=\"52\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #111827;\">2</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 39pt; border-width: 1pt 1pt 1pt medium; border-style: solid solid solid none; border-color: #4b5563 #4b5563 #4b5563 currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 2pt;\" width=\"52\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #111827;\">6</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 39pt; border-width: 1pt 1pt 1pt medium; border-style: solid solid solid none; border-color: #4b5563 #4b5563 #4b5563 currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 2pt;\" width=\"52\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #111827;\">3</span></strong><o:p></o:p></p>\n</td>\n</tr>\n<tr style=\"mso-yfti-irow: 1; page-break-inside: avoid;\">\n<td style=\"width: 39pt; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: currentcolor #4b5563 #4b5563; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 2pt;\" width=\"52\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #111827;\">4</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 39pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: currentcolor #4b5563 #4b5563 currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 2pt;\" width=\"52\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #111827;\">20</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 39pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: currentcolor #4b5563 #4b5563 currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 2pt;\" width=\"52\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #111827;\">5</span></strong><o:p></o:p></p>\n</td>\n</tr>\n<tr style=\"mso-yfti-irow: 2; mso-yfti-lastrow: yes; page-break-inside: avoid;\">\n<td style=\"width: 39pt; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: currentcolor #4b5563 #4b5563; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 2pt;\" width=\"52\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #111827;\">3</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 39.0pt; border-top: none; border-left: none; border-bottom: solid #4B5563 1.0pt; border-right: solid #4B5563 1.0pt; mso-border-top-alt: solid #4B5563 1.0pt; mso-border-left-alt: solid #4B5563 1.0pt; background: #FEF3C7; padding: 2.5pt 2.0pt 2.5pt 2.0pt;\" width=\"52\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #b45309;\">?</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 39pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: currentcolor #4b5563 #4b5563 currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 2pt;\" width=\"52\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #111827;\">7</span></strong><o:p></o:p></p>\n</td>\n</tr>\n</tbody>\n</table>\n<p style=\"margin-top: 0.288px; margin-bottom: 0.96px; line-height: 115%;\"></p>",
+      "options": [
+        {
+          "option": "A",
+          "text": "10",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 115%\">\n <span style=\"color: #111827\">10</span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "18",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 115%\">\n <span style=\"color: #111827\">18</span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "21",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 115%;\"><span style=\"color: #111827;\">21</span></p>"
+        },
+        {
+          "option": "D",
+          "text": "24",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 115%\">\n <span style=\"color: #111827\">24</span></p>\n "
+        }
+      ],
+      "correctAnswer": "C",
+      "solutionText": "In each row the middle cell is the product\n of the two side cells: 2×3=6, 4×5=20, 3×7=21.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 115%\">\n <span style=\"color: #111827\">In each row the middle cell is the product\n of the two side cells: 2×3=6, 4×5=20, 3×7=21.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 9,
+      "section": "Reasoning",
+      "questionId": "6ab0047d439003d2fbb1d818",
+      "questionText": "Refer to the table in Question 7. The\n increase in Product A from January to March is what percent of the\n January figure?",
+      "questionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Refer to the table in Question 7. The\n increase in Product A from January to March is what percent of the\n January figure?</span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "10%",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">10%</span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "20%",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">20%</span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "25%",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">25%</span></p>"
+        },
+        {
+          "option": "D",
+          "text": "30%",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">30%</span></p>\n "
+        }
+      ],
+      "correctAnswer": "C",
+      "solutionText": "Increase = 50 − 40 = 10. Percent = (10\n / 40) × 100 = 25%.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Increase = 50 − 40 = 10. Percent = (10\n / 40) × 100 = 25%.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 10,
+      "section": "Reasoning",
+      "questionId": "6ab0047d4390039669b1d80e",
+      "questionText": "The table shows units sold. What were the total units sold in February? \n\n Product \n\n Jan \n\n Feb \n\n Mar \n\n A \n\n 40 \n\n 45 \n\n 50 \n\n B \n\n 30 \n\n 35 \n\n 30 \n\n C \n\n 25 \n\n 20 \n\n 35",
+      "questionHtml": "<p style=\"margin-top: 0.288px; margin-bottom: 0.576px;\"><span style=\"color: #111827;\">The table shows units sold. What were the total units sold in February?</span></p>\n<table class=\"MsoNormalTable\" style=\"width: 220.0pt; border-collapse: collapse; border: none; mso-border-alt: solid windowtext .5pt; mso-padding-alt: 0cm .5pt 0cm .5pt; mso-border-insideh: .5pt solid windowtext; mso-border-insidev: .5pt solid windowtext;\" border=\"1\" width=\"293\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr style=\"mso-yfti-irow: 0; mso-yfti-firstrow: yes; page-break-inside: avoid;\">\n<td style=\"width: 55pt; border: 1pt solid #4b5563; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 2pt;\" width=\"73\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #111827;\">Product</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 55pt; border-width: 1pt 1pt 1pt medium; border-style: solid solid solid none; border-color: #4b5563 #4b5563 #4b5563 currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 2pt;\" width=\"73\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #111827;\">Jan</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 55pt; border-width: 1pt 1pt 1pt medium; border-style: solid solid solid none; border-color: #4b5563 #4b5563 #4b5563 currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 2pt;\" width=\"73\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #111827;\">Feb</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 55pt; border-width: 1pt 1pt 1pt medium; border-style: solid solid solid none; border-color: #4b5563 #4b5563 #4b5563 currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 2pt;\" width=\"73\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #111827;\">Mar</span></strong><o:p></o:p></p>\n</td>\n</tr>\n<tr style=\"mso-yfti-irow: 1; page-break-inside: avoid;\">\n<td style=\"width: 55pt; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: currentcolor #4b5563 #4b5563; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 2pt;\" width=\"73\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #111827;\">A</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 55pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: currentcolor #4b5563 #4b5563 currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 2pt;\" width=\"73\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #111827;\">40</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 55pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: currentcolor #4b5563 #4b5563 currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 2pt;\" width=\"73\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #111827;\">45</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 55pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: currentcolor #4b5563 #4b5563 currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 2pt;\" width=\"73\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #111827;\">50</span></strong><o:p></o:p></p>\n</td>\n</tr>\n<tr style=\"mso-yfti-irow: 2; page-break-inside: avoid;\">\n<td style=\"width: 55pt; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: currentcolor #4b5563 #4b5563; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 2pt;\" width=\"73\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #111827;\">B</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 55pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: currentcolor #4b5563 #4b5563 currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 2pt;\" width=\"73\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #111827;\">30</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 55pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: currentcolor #4b5563 #4b5563 currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 2pt;\" width=\"73\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #111827;\">35</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 55pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: currentcolor #4b5563 #4b5563 currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 2pt;\" width=\"73\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #111827;\">30</span></strong><o:p></o:p></p>\n</td>\n</tr>\n<tr style=\"mso-yfti-irow: 3; mso-yfti-lastrow: yes; page-break-inside: avoid;\">\n<td style=\"width: 55pt; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: currentcolor #4b5563 #4b5563; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 2pt;\" width=\"73\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #111827;\">C</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 55pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: currentcolor #4b5563 #4b5563 currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 2pt;\" width=\"73\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #111827;\">25</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 55pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: currentcolor #4b5563 #4b5563 currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 2pt;\" width=\"73\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #111827;\">20</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 55pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: currentcolor #4b5563 #4b5563 currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 2pt;\" width=\"73\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #111827;\">35</span></strong><o:p></o:p></p>\n</td>\n</tr>\n</tbody>\n</table>\n<p style=\"margin-top: 0.288px; margin-bottom: 0.96px; line-height: 115%;\"></p>",
+      "options": [
+        {
+          "option": "A",
+          "text": "90",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 115%\">\n <span style=\"color: #111827\">90</span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "100",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 115%;\"><span style=\"color: #111827;\">100</span></p>"
+        },
+        {
+          "option": "C",
+          "text": "110",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 115%\">\n <span style=\"color: #111827\">110</span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "115",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 115%\">\n <span style=\"color: #111827\">115</span></p>\n "
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "February column: 45 + 35 + 20 = 100.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 115%\">\n <span style=\"color: #111827\">February column: 45 + 35 + 20 = 100.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 11,
+      "section": "Reasoning",
+      "questionId": "6ab0047d4390039cd6b1d7fa",
+      "questionText": "Statements: Some codes are bugs. All bugs\n are tickets. No ticket is closed. Conclusions: I. Some codes are\n tickets. II. No bug is closed.",
+      "questionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Statements: Some codes are bugs. All bugs\n are tickets. No ticket is closed. Conclusions: I. Some codes are\n tickets. II. No bug is closed.</span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "Only I follows",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Only I follows</span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "Only II follows",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Only II follows</span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "Both I and II follow",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">Both I and II follow</span></p>"
+        },
+        {
+          "option": "D",
+          "text": "Neither I nor II follows",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Neither I nor II follows</span></p>\n "
+        }
+      ],
+      "correctAnswer": "C",
+      "solutionText": "The codes that are bugs are also tickets, so\n I follows. All bugs are tickets and no ticket is closed, so no bug\n is closed. II follows.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">The codes that are bugs are also tickets, so\n I follows. All bugs are tickets and no ticket is closed, so no bug\n is closed. II follows.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 12,
+      "section": "Reasoning",
+      "questionId": "6ab0047d4390039ca6b1d7ff",
+      "questionText": "What is A’s rank from the top in a\n class of 40? Statement 1: A is 8 ranks above B, who is 15th from\n the bottom. Statement 2: C is 10th from the top and A is 5 ranks\n below C.",
+      "questionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">What is A’s rank from the top in a\n class of 40? Statement 1: A is 8 ranks above B, who is 15th from\n the bottom. Statement 2: C is 10th from the top and A is 5 ranks\n below C.</span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "Statement 1 alone is sufficient, but\n Statement 2 alone is not",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Statement 1 alone is sufficient, but\n Statement 2 alone is not</span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "Statement 2 alone is sufficient, but\n Statement 1 alone is not",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Statement 2 alone is sufficient, but\n Statement 1 alone is not</span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "Either statement alone is sufficient",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">Either statement alone is sufficient</span></p>"
+        },
+        {
+          "option": "D",
+          "text": "Both statements together are needed",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Both statements together are needed</span></p>\n "
+        }
+      ],
+      "correctAnswer": "C",
+      "solutionText": "S1: B is 15th from last, so B’s rank =\n 40 − 15 + 1 = 26. A is 8 above B, so A is 18th. S2: C is\n 10th and A is 5 below C, so A is 15th. Each statement alone gives\n a rank (the two ranks differ, but each is sufficient by itself).",
+      "solutionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">S1: B is 15th from last, so B’s rank =\n 40 − 15 + 1 = 26. A is 8 above B, so A is 18th. S2: C is\n 10th and A is 5 below C, so A is 15th. Each statement alone gives\n a rank (the two ranks differ, but each is sufficient by itself).</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 13,
+      "section": "Reasoning",
+      "questionId": "6ab0047d4390039d9cb1d804",
+      "questionText": "Is the integer n even? Statement 1: n is\n divisible by 4. Statement 2: n + 1 is odd.",
+      "questionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Is the integer n even? Statement 1: n is\n divisible by 4. Statement 2: n + 1 is odd.</span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "Statement 1 alone is sufficient, but\n Statement 2 alone is not",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Statement 1 alone is sufficient, but\n Statement 2 alone is not</span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "Statement 2 alone is sufficient, but\n Statement 1 alone is not",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Statement 2 alone is sufficient, but\n Statement 1 alone is not</span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "Either statement alone is sufficient",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">Either statement alone is sufficient</span></p>"
+        },
+        {
+          "option": "D",
+          "text": "Both statements together are needed",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Both statements together are needed</span></p>\n "
+        }
+      ],
+      "correctAnswer": "C",
+      "solutionText": "S1: every multiple of 4 is even. S2: if n +\n 1 is odd, n itself is even. Either statement answers the question.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">S1: every multiple of 4 is even. S2: if n +\n 1 is odd, n itself is even. Either statement answers the question.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 14,
+      "section": "Reasoning",
+      "questionId": "6ab0047d4390034355b1d827",
+      "questionText": "If REACH is coded as SFBDI, how is LOGIC\n coded?",
+      "questionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">If REACH is coded as SFBDI, how is LOGIC\n coded?</span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "MPHJD",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">MPHJD</span></p>"
+        },
+        {
+          "option": "B",
+          "text": "KNFHB",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">KNFHB</span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "MPGJD",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">MPGJD</span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "NPHJD",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">NPHJD</span></p>\n "
+        }
+      ],
+      "correctAnswer": "A",
+      "solutionText": "Each letter moves one step forward: R→S,\n E→F, A→B, C→D, H→I. So LOGIC → M P H J D.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Each letter moves one step forward: R→S,\n E→F, A→B, C→D, H→I. So LOGIC → M P H J D.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 15,
+      "section": "Reasoning",
+      "questionId": "6ab0047d4390030e2eb1d7f5",
+      "questionText": "Statements: All interns are graduates. All\n graduates are employees. Some employees are managers. Conclusions:\n I. All interns are employees. II. Some managers are interns.",
+      "questionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Statements: All interns are graduates. All\n graduates are employees. Some employees are managers. Conclusions:\n I. All interns are employees. II. Some managers are interns.</span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "Only I follows",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">Only I follows</span></p>"
+        },
+        {
+          "option": "B",
+          "text": "Only II follows",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Only II follows</span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "Both I and II follow",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Both I and II follow</span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "Neither I nor II follows",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Neither I nor II follows</span></p>\n "
+        }
+      ],
+      "correctAnswer": "A",
+      "solutionText": "Interns → graduates → employees,\n so every intern is an employee. I follows. Managers overlap\n employees, not necessarily interns. II does not follow.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Interns → graduates → employees,\n so every intern is an employee. I follows. Managers overlap\n employees, not necessarily interns. II does not follow.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 16,
+      "section": "Aptitude (Technical Ability)",
+      "questionId": "6ab006813612ca6af5f513f2",
+      "questionText": "A can finish a job in 12 days and B can\n finish the same job in 18 days. How many days will they take\n working together?",
+      "questionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">A can finish a job in 12 days and B can\n finish the same job in 18 days. How many days will they take\n working together?</span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "6 days",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">6 days</span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "7.2 days",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">7.2 days</span></p>"
+        },
+        {
+          "option": "C",
+          "text": "8 days",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">8 days</span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "9 days",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">9 days</span></p>\n "
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "A’s 1-day work = 1/12. B’s 1-day\n work = 1/18. Together = 1/12 + 1/18 = 3/36 + 2/36 = 5/36. Time =\n 36/5 = 7.2 days.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">A’s 1-day work = 1/12. B’s 1-day\n work = 1/18. Together = 1/12 + 1/18 = 3/36 + 2/36 = 5/36. Time =\n 36/5 = 7.2 days.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 17,
+      "section": "Aptitude (Technical Ability)",
+      "questionId": "6ab006813612ca43cbf513ed",
+      "questionText": "A trader sells an item at 8% loss. If he had\n sold it for ₹96 more, he would have gained 4%. What is the\n cost price of the item?",
+      "questionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">A trader sells an item at 8% loss. If he had\n sold it for ₹96 more, he would have gained 4%. What is the\n cost price of the item?</span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "₹700",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">₹700</span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "₹750",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">₹750</span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "₹800",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">₹800</span></p>"
+        },
+        {
+          "option": "D",
+          "text": "₹850",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">₹850</span></p>\n "
+        }
+      ],
+      "correctAnswer": "C",
+      "solutionText": "Let CP = x. First SP = 0.92x. Second SP =\n 1.04x. Difference = 0.12x = 96, so x = 96 / 0.12 = 800. Cost price\n is ₹800.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Let CP = x. First SP = 0.92x. Second SP =\n 1.04x. Difference = 0.12x = 96, so x = 96 / 0.12 = 800. Cost price\n is ₹800.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 18,
+      "section": "Aptitude (Technical Ability)",
+      "questionId": "6ab006813612ca089ef513cf",
+      "questionText": "A team of 3 is to be chosen from 5\n developers and 4 testers. In how many ways can the team be formed\n if it must include at least 1 tester?",
+      "questionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">A team of 3 is to be chosen from 5\n developers and 4 testers. In how many ways can the team be formed\n if it must include at least 1 tester?</span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "64",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">64</span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "70",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">70</span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "74",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">74</span></p>"
+        },
+        {
+          "option": "D",
+          "text": "84",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">84</span></p>\n "
+        }
+      ],
+      "correctAnswer": "C",
+      "solutionText": "Total ways to choose 3 from 9 = C(9,3) = 84.\n Ways with no tester = C(5,3) = 10. So at least one tester = 84 −\n 10 = 74.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Total ways to choose 3 from 9 = C(9,3) = 84.\n Ways with no tester = C(5,3) = 10. So at least one tester = 84 −\n 10 = 74.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 19,
+      "section": "Aptitude (Technical Ability)",
+      "questionId": "6ab006813612ca7fe2f513d4",
+      "questionText": "In how many distinct ways can the letters of\n the word SERVER be arranged?",
+      "questionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">In how many distinct ways can the letters of\n the word SERVER be arranged?</span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "120",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">120</span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "180",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">180</span></p>"
+        },
+        {
+          "option": "C",
+          "text": "240",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">240</span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "720",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">720</span></p>\n "
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "SERVER has 6 letters with R and E repeating\n twice each. Number of distinct arrangements = 6! / (2! × 2!)\n = 720 / 4 = 180.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">SERVER has 6 letters with R and E repeating\n twice each. Number of distinct arrangements = 6! / (2! × 2!)\n = 720 / 4 = 180.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 20,
+      "section": "Aptitude (Technical Ability)",
+      "questionId": "6ab006813612ca0df9f513e3",
+      "questionText": "An article is bought for ₹800 and sold\n for ₹920. What is the profit percentage?",
+      "questionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">An article is bought for ₹800 and sold\n for ₹920. What is the profit percentage?</span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "12%",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">12%</span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "15%",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">15%</span></p>"
+        },
+        {
+          "option": "C",
+          "text": "18%",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">18%</span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "20%",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">20%</span></p>\n "
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "Profit = 920 − 800 = 120. Profit % =\n (120 / 800) × 100 = 15%.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Profit = 920 − 800 = 120. Profit % =\n (120 / 800) × 100 = 15%.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 21,
+      "section": "Aptitude (Technical Ability)",
+      "questionId": "6ab006813612ca8d17f513f7",
+      "questionText": "A and B together can do a piece of work in\n 10 days. A alone can do it in 15 days. In how many days can B\n alone do the same work?",
+      "questionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">A and B together can do a piece of work in\n 10 days. A alone can do it in 15 days. In how many days can B\n alone do the same work?</span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "20 days",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">20 days</span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "25 days",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">25 days</span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "30 days",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">30 days</span></p>"
+        },
+        {
+          "option": "D",
+          "text": "45 days",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">45 days</span></p>\n "
+        }
+      ],
+      "correctAnswer": "C",
+      "solutionText": "A + B = 1/10 and A = 1/15. B = 1/10 −\n 1/15 = 3/30 − 2/30 = 1/30. So B alone takes 30 days.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">A + B = 1/10 and A = 1/15. B = 1/10 −\n 1/15 = 3/30 − 2/30 = 1/30. So B alone takes 30 days.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 22,
+      "section": "Aptitude (Technical Ability)",
+      "questionId": "6ab006813612ca61d5f513e8",
+      "questionText": "The marked price of a laptop is ₹40,000.\n After a discount of 10%, it is sold. If the cost price is ₹32,000,\n what is the profit percentage?",
+      "questionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">The marked price of a laptop is ₹40,000.\n After a discount of 10%, it is sold. If the cost price is ₹32,000,\n what is the profit percentage?</span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "10%",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">10%</span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "12.5%",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">12.5%</span></p>"
+        },
+        {
+          "option": "C",
+          "text": "15%",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">15%</span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "20%",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">20%</span></p>\n "
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "SP after 10% discount = 90% of 40,000 =\n ₹36,000. Profit = 36,000 − 32,000 = ₹4,000.\n Profit % = (4000 / 32000) × 100 = 12.5%.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">SP after 10% discount = 90% of 40,000 =\n ₹36,000. Profit = 36,000 − 32,000 = ₹4,000.\n Profit % = (4000 / 32000) × 100 = 12.5%.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 23,
+      "section": "Aptitude (Technical Ability)",
+      "questionId": "6ab006813612ca8c25f513ca",
+      "questionText": "How many 4-letter codes can be formed from\n the letters of the word ORANGE if no letter is repeated?",
+      "questionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">How many 4-letter codes can be formed from\n the letters of the word ORANGE if no letter is repeated?</span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "120",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">120</span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "240",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">240</span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "360",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">360</span></p>"
+        },
+        {
+          "option": "D",
+          "text": "720",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">720</span></p>\n "
+        }
+      ],
+      "correctAnswer": "C",
+      "solutionText": "ORANGE has 6 distinct letters. Number of\n 4-letter codes with no repetition is P(6,4) = 6×5×4×3\n = 360.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">ORANGE has 6 distinct letters. Number of\n 4-letter codes with no repetition is P(6,4) = 6×5×4×3\n = 360.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 24,
+      "section": "Aptitude (Technical Ability)",
+      "questionId": "6ab006813612ca4cc3f513de",
+      "questionText": "A bag contains 4 red and 6 blue balls. Two\n balls are drawn at random without replacement. What is the\n probability that both are red?",
+      "questionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">A bag contains 4 red and 6 blue balls. Two\n balls are drawn at random without replacement. What is the\n probability that both are red?</span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "2/15",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">2/15</span></p>"
+        },
+        {
+          "option": "B",
+          "text": "1/5",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">1/5</span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "4/15",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">4/15</span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "2/9",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">2/9</span></p>\n "
+        }
+      ],
+      "correctAnswer": "A",
+      "solutionText": "P = C(4,2) / C(10,2) = 6 / 45 = 2/15.\n Sequentially: (4/10)×(3/9) = 12/90 = 2/15.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">P = C(4,2) / C(10,2) = 6 / 45 = 2/15.\n Sequentially: (4/10)×(3/9) = 12/90 = 2/15.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 25,
+      "section": "Aptitude (Technical Ability)",
+      "questionId": "6ab006813612ca1e07f513d9",
+      "questionText": "Two fair dice are thrown. What is the\n probability that the sum is 9?",
+      "questionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Two fair dice are thrown. What is the\n probability that the sum is 9?</span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "1/12",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">1/12</span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "1/9",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">1/9</span></p>"
+        },
+        {
+          "option": "C",
+          "text": "1/8",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">1/8</span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "1/6",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">1/6</span></p>\n "
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "Favourable pairs: (3,6), (4,5), (5,4), (6,3)\n — 4 outcomes. Total outcomes = 36. Probability = 4/36 = 1/9.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Favourable pairs: (3,6), (4,5), (5,4), (6,3)\n — 4 outcomes. Total outcomes = 36. Probability = 4/36 = 1/9.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 26,
+      "section": "Verbal Ability",
+      "questionId": "6ab0023bb281e4de1d63751d",
+      "questionText": "Choose the grammatically correct sentence.",
+      "questionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Choose the grammatically correct sentence.</span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "The news are not good this morning.",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">The news are not good this morning.</span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "The news is not good this morning.",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">The news is not good this morning.</span></p>"
+        },
+        {
+          "option": "C",
+          "text": "The news have not good this morning.",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">The news have not good this morning.</span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "The new is not good this morning.",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">The new is not good this morning.</span></p>\n "
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "\"News\" is an uncountable singular\n noun and takes \"is,\" not \"are.\"",
+      "solutionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">\"News\" is an uncountable singular\n noun and takes \"is,\" not \"are.\"</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 27,
+      "section": "Verbal Ability",
+      "questionId": "6ab0023bb281e43b7c6374ff",
+      "questionText": "Passage \n\n Many software companies now treat code reviews as a daily habit rather than a last-minute check. A second pair of eyes often finds defects that automated tests miss, especially unclear names, missing edge cases and weak error messages. Reviews also spread knowledge: a junior engineer who reads a senior colleague’s change learns the team’s style faster than by studying a handbook. The practice has a cost. Long review queues delay releases, and harsh comments discourage people from sharing early drafts. Teams that keep reviews short, set a response-time target and discuss design before large patches are written usually keep both quality and speed. Tools help, but they cannot replace an agreed standard of courtesy and focus. \n\n Which of the following is mentioned as a cost of code reviews?",
+      "questionHtml": "<p style=\"margin-top: 0.288px; margin-bottom: 0.384px;\"><span style=\"color: #1f2937;\"><span style=\"font-size: 13px;\"><strong>Passage</strong></span></span></p>\n<p style=\"margin-top: 0.288px;\"></p>\n<p style=\"margin-top: 0.288px; margin-bottom: 0.576px;\"><span style=\"color: #111827;\"><span style=\"font-size: 13px;\">Many software companies now treat code reviews as a daily habit rather than a last-minute check. A second pair of eyes often finds defects that automated tests miss, especially unclear names, missing edge cases and weak error messages. Reviews also spread knowledge: a junior engineer who reads a senior colleague&rsquo;s change learns the team&rsquo;s style faster than by studying a handbook. The practice has a cost. Long review queues delay releases, and harsh comments discourage people from sharing early drafts. Teams that keep reviews short, set a response-time target and discuss design before large patches are written usually keep both quality and speed. Tools help, but they cannot replace an agreed standard of courtesy and focus.</span></span></p>\n<p style=\"margin-top: 0.288px;\"><strong><span style=\"color: #111827;\">Which of the following is mentioned as a cost of code reviews?</span></strong></p>",
+      "options": [
+        {
+          "option": "A",
+          "text": "They make error messages weaker.",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">They make error messages weaker.</span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "Long queues delay releases and harsh comments discourage early drafts.",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">Long queues delay releases and harsh comments discourage early drafts.</span></p>"
+        },
+        {
+          "option": "C",
+          "text": "They stop teams from using any tools.",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">They stop teams from using any tools.</span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "They force every patch to be rewritten\n twice.",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">They force every patch to be rewritten\n twice.</span></p>\n "
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "The passage states that long review queues\n delay releases and harsh comments discourage people from sharing\n early drafts.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">The passage states that long review queues\n delay releases and harsh comments discourage people from sharing\n early drafts.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 28,
+      "section": "Verbal Ability",
+      "questionId": "6ab0023bb281e45077637554",
+      "questionText": "Fill in the blank: The contract is _____\n until both parties sign it.",
+      "questionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Fill in the blank: The contract is _____\n until both parties sign it.</span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "void",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">void</span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "provisional",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">provisional</span></p>"
+        },
+        {
+          "option": "C",
+          "text": "permanent",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">permanent</span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "obsolete",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">obsolete</span></p>\n "
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "Provisional means temporary and subject to\n later confirmation. Void would mean invalid; permanent and\n obsolete do not fit a draft waiting for signatures.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Provisional means temporary and subject to\n later confirmation. Void would mean invalid; permanent and\n obsolete do not fit a draft waiting for signatures.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 29,
+      "section": "Verbal Ability",
+      "questionId": "6ab0023bb281e41439637518",
+      "questionText": "Choose the grammatically correct sentence.",
+      "questionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Choose the grammatically correct sentence.</span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "Scarcely she had entered when the fire alarm\n rang.",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Scarcely she had entered when the fire alarm\n rang.</span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "Scarcely had she entered when the fire alarm rang.",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">Scarcely had she entered when the fire alarm rang.</span></p>"
+        },
+        {
+          "option": "C",
+          "text": "Scarcely she entered than the fire alarm\n rang.",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Scarcely she entered than the fire alarm\n rang.</span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "Scarcely had she entered then the fire alarm\n rang.",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Scarcely had she entered then the fire alarm\n rang.</span></p>\n "
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "\"Scarcely\" at the start needs\n inversion (\"had she entered\") and is paired with \"when,\"\n not \"than\" or \"then.\"",
+      "solutionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">\"Scarcely\" at the start needs\n inversion (\"had she entered\") and is paired with \"when,\"\n not \"than\" or \"then.\"</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 30,
+      "section": "Verbal Ability",
+      "questionId": "6ab0023bb281e46fa163750e",
+      "questionText": "Choose the grammatically correct sentence.",
+      "questionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Choose the grammatically correct sentence.</span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "The committee have decided to postpone the\n launch.",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">The committee have decided to postpone the\n launch.</span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "The committee has decided to postpone the launch.",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">The committee has decided to postpone the launch.</span></p>"
+        },
+        {
+          "option": "C",
+          "text": "The committee have decide to postpone the\n launch.",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">The committee have decide to postpone the\n launch.</span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "The committee has decide to postpone the\n launch.",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">The committee has decide to postpone the\n launch.</span></p>\n "
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "As a single body, \"committee\"\n takes a singular verb in exam English: \"has decided.\"",
+      "solutionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">As a single body, \"committee\"\n takes a singular verb in exam English: \"has decided.\"</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 31,
+      "section": "Verbal Ability",
+      "questionId": "6ab0023bb281e42252637531",
+      "questionText": "Arrange the sentences to form a coherent\n paragraph. P: A weekly demo forces that conversation to happen on\n a fixed day. Q: Product work stalls when developers and users\n rarely meet. R: Feedback then arrives early enough to change the\n next sprint. S: Waiting until the final release is usually too\n late.",
+      "questionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Arrange the sentences to form a coherent\n paragraph. P: A weekly demo forces that conversation to happen on\n a fixed day. Q: Product work stalls when developers and users\n rarely meet. R: Feedback then arrives early enough to change the\n next sprint. S: Waiting until the final release is usually too\n late.</span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "Q S P R",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">Q S P R</span></p>"
+        },
+        {
+          "option": "B",
+          "text": "Q P S R",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Q P S R</span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "P Q R S",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">P Q R S</span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "S Q P R",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">S Q P R</span></p>\n "
+        }
+      ],
+      "correctAnswer": "A",
+      "solutionText": "Q is the problem. S warns against delay. P\n offers the routine. R is the result. Order: Q S P R.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Q is the problem. S warns against delay. P\n offers the routine. R is the result. Order: Q S P R.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 32,
+      "section": "Verbal Ability",
+      "questionId": "6ab0023bb281e444ec637540",
+      "questionText": "Choose the word most similar in meaning to\n \"meticulous.\"",
+      "questionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Choose the word most similar in meaning to\n \"meticulous.\"</span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "Careless",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Careless</span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "Thorough",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">Thorough</span></p>"
+        },
+        {
+          "option": "C",
+          "text": "Hasty",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Hasty</span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "Rough",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Rough</span></p>\n "
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "\"Meticulous\" means extremely\n careful and thorough. Careless, hasty and rough are opposites.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">\"Meticulous\" means extremely\n careful and thorough. Careless, hasty and rough are opposites.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 33,
+      "section": "Verbal Ability",
+      "questionId": "6ab0023bb281e47dc6637545",
+      "questionText": "Choose the word most opposite in meaning to\n \"obsolete.\"",
+      "questionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Choose the word most opposite in meaning to\n \"obsolete.\"</span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "Outdated",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Outdated</span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "Current",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">Current</span></p>"
+        },
+        {
+          "option": "C",
+          "text": "Abandoned",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Abandoned</span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "Expired",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Expired</span></p>\n "
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "\"Obsolete\" means no longer in use.\n \"Current\" is the antonym. The other three sit close to\n obsolete.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">\"Obsolete\" means no longer in use.\n \"Current\" is the antonym. The other three sit close to\n obsolete.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 34,
+      "section": "Verbal Ability",
+      "questionId": "6ab0023bb281e4295a6374fa",
+      "questionText": "Passage \n\n Many software companies now treat code reviews as a daily habit rather than a last-minute check. A second pair of eyes often finds defects that automated tests miss, especially unclear names, missing edge cases and weak error messages. Reviews also spread knowledge: a junior engineer who reads a senior colleague’s change learns the team’s style faster than by studying a handbook. The practice has a cost. Long review queues delay releases, and harsh comments discourage people from sharing early drafts. Teams that keep reviews short, set a response-time target and discuss design before large patches are written usually keep both quality and speed. Tools help, but they cannot replace an agreed standard of courtesy and focus. \n\n According to the passage, reviews help junior engineers mainly because they",
+      "questionHtml": "<p style=\"margin-top: 0.288px; margin-bottom: 0.384px;\"><span style=\"color: #1f2937;\"><span style=\"font-size: 13px;\"><strong>Passage</strong></span></span></p>\n<p style=\"margin-top: 0.288px;\"></p>\n<p style=\"margin-top: 0.288px; margin-bottom: 0.576px;\"><span style=\"color: #111827;\"><span style=\"font-size: 13px;\">Many software companies now treat code reviews as a daily habit rather than a last-minute check. A second pair of eyes often finds defects that automated tests miss, especially unclear names, missing edge cases and weak error messages. Reviews also spread knowledge: a junior engineer who reads a senior colleague&rsquo;s change learns the team&rsquo;s style faster than by studying a handbook. The practice has a cost. Long review queues delay releases, and harsh comments discourage people from sharing early drafts. Teams that keep reviews short, set a response-time target and discuss design before large patches are written usually keep both quality and speed. Tools help, but they cannot replace an agreed standard of courtesy and focus.</span></span></p>\n<p style=\"margin-top: 0.288px;\"><strong><span style=\"color: #111827;\">According to the passage, reviews help junior engineers mainly because they</span></strong></p>",
+      "options": [
+        {
+          "option": "A",
+          "text": "replace the need to write any tests",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">replace the need to write any tests</span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "learn the team’s style faster by reading real changes",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">learn the team&rsquo;s style faster by reading real changes</span></p>"
+        },
+        {
+          "option": "C",
+          "text": "are allowed to skip handbooks forever",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">are allowed to skip handbooks forever</span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "receive only automated comments",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">receive only automated comments</span></p>\n "
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "The passage says a junior who reads a senior\n colleague’s change learns the team’s style faster than\n by studying a handbook.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">The passage says a junior who reads a senior\n colleague’s change learns the team’s style faster than\n by studying a handbook.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 35,
+      "section": "Verbal Ability",
+      "questionId": "6ab0023bb281e4d900637513",
+      "questionText": "Choose the grammatically correct sentence.",
+      "questionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Choose the grammatically correct sentence.</span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "He is one of the engineers who works night\n shifts.",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">He is one of the engineers who works night\n shifts.</span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "He is one of the engineers who work night shifts.",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">He is one of the engineers who work night shifts.</span></p>"
+        },
+        {
+          "option": "C",
+          "text": "He is one of the engineer who work night\n shifts.",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">He is one of the engineer who work night\n shifts.</span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "He is one of the engineers who has work\n night shifts.",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">He is one of the engineers who has work\n night shifts.</span></p>\n "
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "In \"one of the + plural noun + who,\"\n the relative pronoun refers to the plural noun, so the verb is\n \"work,\" not \"works.\"",
+      "solutionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">In \"one of the + plural noun + who,\"\n the relative pronoun refers to the plural noun, so the verb is\n \"work,\" not \"works.\"</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 36,
+      "section": "Verbal Ability",
+      "questionId": "6ab0023bb281e4462c63753b",
+      "questionText": "Arrange the sentences to form a coherent\n paragraph. P: Small test cases catch those errors before the full\n run. Q: A single off-by-one mistake can ruin a whole report. R:\n Careful engineers therefore write checks for empty lists and last\n rows. S: Spreadsheet formulas look simple until the data set\n grows.",
+      "questionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Arrange the sentences to form a coherent\n paragraph. P: Small test cases catch those errors before the full\n run. Q: A single off-by-one mistake can ruin a whole report. R:\n Careful engineers therefore write checks for empty lists and last\n rows. S: Spreadsheet formulas look simple until the data set\n grows.</span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "S Q P R",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">S Q P R</span></p>"
+        },
+        {
+          "option": "B",
+          "text": "Q S R P",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Q S R P</span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "S P Q R",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">S P Q R</span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "R S Q P",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">R S Q P</span></p>\n "
+        }
+      ],
+      "correctAnswer": "A",
+      "solutionText": "S sets the scene. Q names a typical fault. P\n is the immediate safeguard. R generalises the habit. Order: S Q P\n R.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">S sets the scene. Q names a typical fault. P\n is the immediate safeguard. R generalises the habit. Order: S Q P\n R.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 37,
+      "section": "Verbal Ability",
+      "questionId": "6ab0023bb281e4426f637509",
+      "questionText": "Passage \n\n Many software companies now treat code reviews as a daily habit rather than a last-minute check. A second pair of eyes often finds defects that automated tests miss, especially unclear names, missing edge cases and weak error messages. Reviews also spread knowledge: a junior engineer who reads a senior colleague’s change learns the team’s style faster than by studying a handbook. The practice has a cost. Long review queues delay releases, and harsh comments discourage people from sharing early drafts. Teams that keep reviews short, set a response-time target and discuss design before large patches are written usually keep both quality and speed. Tools help, but they cannot replace an agreed standard of courtesy and focus. \n\n Reviews often catch defects that tests miss, such as",
+      "questionHtml": "<p style=\"margin-top: 0.288px; margin-bottom: 0.384px;\"><span style=\"color: #1f2937;\"><span style=\"font-size: 13px;\"><strong>Passage</strong></span></span></p>\n<p style=\"margin-top: 0.288px;\"></p>\n<p style=\"margin-top: 0.288px; margin-bottom: 0.576px;\"><span style=\"color: #111827;\"><span style=\"font-size: 13px;\">Many software companies now treat code reviews as a daily habit rather than a last-minute check. A second pair of eyes often finds defects that automated tests miss, especially unclear names, missing edge cases and weak error messages. Reviews also spread knowledge: a junior engineer who reads a senior colleague&rsquo;s change learns the team&rsquo;s style faster than by studying a handbook. The practice has a cost. Long review queues delay releases, and harsh comments discourage people from sharing early drafts. Teams that keep reviews short, set a response-time target and discuss design before large patches are written usually keep both quality and speed. Tools help, but they cannot replace an agreed standard of courtesy and focus.</span></span></p>\n<p style=\"margin-top: 0.288px;\"><strong><span style=\"color: #111827;\">Reviews often catch defects that tests miss, such as</span></strong></p>",
+      "options": [
+        {
+          "option": "A",
+          "text": "server downtime and network outages",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">server downtime and network outages</span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "unclear names, missing edge cases and weak error messages",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">unclear names, missing edge cases and weak error messages</span></p>"
+        },
+        {
+          "option": "C",
+          "text": "payroll errors and invoice totals",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">payroll errors and invoice totals</span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "office-seating plans",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">office-seating plans</span></p>\n "
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "Those three examples are listed in the\n second sentence of the passage.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Those three examples are listed in the\n second sentence of the passage.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 38,
+      "section": "Verbal Ability",
+      "questionId": "6ab0023bb281e4fa2063752c",
+      "questionText": "Arrange the sentences to form a coherent\n paragraph. P: Rainwater then collects and floods the next heavy\n shower. Q: Plastic bags block roadside drains in many cities. R:\n Civic teams therefore run clean-up drives before the monsoon. S:\n The cheaper fix is to stop dumping waste into open gutters.",
+      "questionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Arrange the sentences to form a coherent\n paragraph. P: Rainwater then collects and floods the next heavy\n shower. Q: Plastic bags block roadside drains in many cities. R:\n Civic teams therefore run clean-up drives before the monsoon. S:\n The cheaper fix is to stop dumping waste into open gutters.</span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "Q P R S",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">Q P R S</span></p>"
+        },
+        {
+          "option": "B",
+          "text": "P Q S R",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">P Q S R</span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "Q R P S",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Q R P S</span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "S Q P R",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">S Q P R</span></p>\n "
+        }
+      ],
+      "correctAnswer": "A",
+      "solutionText": "Q names the cause. P is the effect. R is the\n official response. S is the longer-term fix. Order: Q P R S.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Q names the cause. P is the effect. R is the\n official response. S is the longer-term fix. Order: Q P R S.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 39,
+      "section": "Verbal Ability",
+      "questionId": "6ab0023bb281e4a6c1637522",
+      "questionText": "Choose the grammatically correct sentence.",
+      "questionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Choose the grammatically correct sentence.</span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "I laid down for an hour after the interview.",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">I laid down for an hour after the interview.</span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "I lay down for an hour after the interview.",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">I lay down for an hour after the interview.</span></p>"
+        },
+        {
+          "option": "C",
+          "text": "I lied down for an hour after the interview.",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">I lied down for an hour after the interview.</span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "I lain down for an hour after the interview.",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">I lain down for an hour after the interview.</span></p>\n "
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "The past tense of the intransitive verb lie\n (recline) is lay. Laid needs an object; lied means told an\n untruth; lain is the past participle.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">The past tense of the intransitive verb lie\n (recline) is lay. Laid needs an object; lied means told an\n untruth; lain is the past participle.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 40,
+      "section": "Verbal Ability",
+      "questionId": "6ab0023bb281e47cca63754a",
+      "questionText": "Choose the correct meaning of the idiom\n \"burn the midnight oil.\"",
+      "questionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Choose the correct meaning of the idiom\n \"burn the midnight oil.\"</span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "Waste fuel at night",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Waste fuel at night</span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "Work or study late into the night",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">Work or study late into the night</span></p>"
+        },
+        {
+          "option": "C",
+          "text": "Start a fire after dark",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Start a fire after dark</span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "Leave the office early",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Leave the office early</span></p>\n "
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "The idiom means to stay up late working or\n studying.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">The idiom means to stay up late working or\n studying.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 41,
+      "section": "Verbal Ability",
+      "questionId": "6ab0023bb281e4e844637536",
+      "questionText": "Arrange the sentences to form a coherent\n paragraph. P: Sleep debt then shows up as slower thinking the next\n day. Q: Late-night screen use delays the body’s sleep\n signal. R: Many offices now ask staff to mute work chat after a\n set hour. S: Blue light from phones is one reason that signal\n slips.",
+      "questionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Arrange the sentences to form a coherent\n paragraph. P: Sleep debt then shows up as slower thinking the next\n day. Q: Late-night screen use delays the body’s sleep\n signal. R: Many offices now ask staff to mute work chat after a\n set hour. S: Blue light from phones is one reason that signal\n slips.</span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "Q S P R",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">Q S P R</span></p>"
+        },
+        {
+          "option": "B",
+          "text": "S Q P R",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">S Q P R</span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "Q P S R",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Q P S R</span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "R Q S P",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">R Q S P</span></p>\n "
+        }
+      ],
+      "correctAnswer": "A",
+      "solutionText": "Q states the effect of late screens. S\n explains the mechanism. P names the next-day cost. R is the\n workplace response. Order: Q S P R.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Q states the effect of late screens. S\n explains the mechanism. P names the next-day cost. R is the\n workplace response. Order: Q S P R.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 42,
+      "section": "Verbal Ability",
+      "questionId": "6ab0023bb281e47ff6637527",
+      "questionText": "Arrange the sentences to form a coherent\n paragraph. P: Those logs later save hours when a defect appears in\n production. Q: Good engineers write a short note on why a change\n was made. R: Code alone rarely records the reason behind a\n decision. S: The habit looks slow on a busy afternoon, but it is\n cheap insurance.",
+      "questionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Arrange the sentences to form a coherent\n paragraph. P: Those logs later save hours when a defect appears in\n production. Q: Good engineers write a short note on why a change\n was made. R: Code alone rarely records the reason behind a\n decision. S: The habit looks slow on a busy afternoon, but it is\n cheap insurance.</span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "R Q P S",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">R Q P S</span></p>"
+        },
+        {
+          "option": "B",
+          "text": "Q R S P",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Q R S P</span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "P Q R S",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">P Q R S</span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "R P Q S",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">R P Q S</span></p>\n "
+        }
+      ],
+      "correctAnswer": "A",
+      "solutionText": "R states the gap. Q is the practice that\n fills it. P is the later benefit. S comments on the cost. Order: R\n Q P S.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">R states the gap. Q is the practice that\n fills it. P is the later benefit. S comments on the cost. Order: R\n Q P S.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 43,
+      "section": "Verbal Ability",
+      "questionId": "6ab0023bb281e45f2f63754f",
+      "questionText": "Choose the one-word substitute: A person who\n is new to a job or activity.",
+      "questionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Choose the one-word substitute: A person who\n is new to a job or activity.</span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "Veteran",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Veteran</span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "Novice",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">Novice</span></p>"
+        },
+        {
+          "option": "C",
+          "text": "Expert",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Expert</span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "Mentor",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Mentor</span></p>\n "
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "A novice is a beginner. Veteran and expert\n are the opposite idea; a mentor guides others.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">A novice is a beginner. Veteran and expert\n are the opposite idea; a mentor guides others.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 44,
+      "section": "Verbal Ability",
+      "questionId": "6ab0023bb281e434ee637504",
+      "questionText": "Passage \n\n Many software companies now treat code reviews as a daily habit rather than a last-minute check. A second pair of eyes often finds defects that automated tests miss, especially unclear names, missing edge cases and weak error messages. Reviews also spread knowledge: a junior engineer who reads a senior colleague’s change learns the team’s style faster than by studying a handbook. The practice has a cost. Long review queues delay releases, and harsh comments discourage people from sharing early drafts. Teams that keep reviews short, set a response-time target and discuss design before large patches are written usually keep both quality and speed. Tools help, but they cannot replace an agreed standard of courtesy and focus. \n\n The author suggests that tools",
+      "questionHtml": "<p style=\"margin-top: 0.288px; margin-bottom: 0.384px;\"><span style=\"color: #1f2937;\"><span style=\"font-size: 13px;\"><strong>Passage</strong></span></span></p>\n<p style=\"margin-top: 0.288px;\"></p>\n<p style=\"margin-top: 0.288px; margin-bottom: 0.576px;\"><span style=\"color: #111827;\"><span style=\"font-size: 13px;\">Many software companies now treat code reviews as a daily habit rather than a last-minute check. A second pair of eyes often finds defects that automated tests miss, especially unclear names, missing edge cases and weak error messages. Reviews also spread knowledge: a junior engineer who reads a senior colleague&rsquo;s change learns the team&rsquo;s style faster than by studying a handbook. The practice has a cost. Long review queues delay releases, and harsh comments discourage people from sharing early drafts. Teams that keep reviews short, set a response-time target and discuss design before large patches are written usually keep both quality and speed. Tools help, but they cannot replace an agreed standard of courtesy and focus.</span></span></p>\n<p style=\"margin-top: 0.288px;\"><strong><span style=\"color: #111827;\">The author suggests that tools</span></strong></p>",
+      "options": [
+        {
+          "option": "A",
+          "text": "can replace courtesy and focus",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">can replace courtesy and focus</span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "are useless in code reviews",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">are useless in code reviews</span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "help but cannot replace agreed standards of courtesy and focus",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">help but cannot replace agreed standards of courtesy and focus</span></p>"
+        },
+        {
+          "option": "D",
+          "text": "should be banned from daily reviews",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">should be banned from daily reviews</span></p>\n "
+        }
+      ],
+      "correctAnswer": "C",
+      "solutionText": "The last sentence says tools help, but they\n cannot replace an agreed standard of courtesy and focus.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">The last sentence says tools help, but they\n cannot replace an agreed standard of courtesy and focus.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 45,
+      "section": "Verbal Ability",
+      "questionId": "6ab0023bb281e4469f6374f5",
+      "questionText": "Passage \n\n Many software companies now treat code reviews as a daily habit rather than a last-minute check. A second pair of eyes often finds defects that automated tests miss, especially unclear names, missing edge cases and weak error messages. Reviews also spread knowledge: a junior engineer who reads a senior colleague’s change learns the team’s style faster than by studying a handbook. The practice has a cost. Long review queues delay releases, and harsh comments discourage people from sharing early drafts. Teams that keep reviews short, set a response-time target and discuss design before large patches are written usually keep both quality and speed. Tools help, but they cannot replace an agreed standard of courtesy and focus. \n\n What is the main idea of the passage?",
+      "questionHtml": "<p style=\"margin-top: 0.288px; margin-bottom: 0.384px;\"><span style=\"color: #1f2937;\"><span style=\"font-size: 13px;\"><strong>Passage</strong></span></span></p>\n<p style=\"margin-top: 0.288px; margin-bottom: 0.576px;\"><span style=\"color: #111827;\"><span style=\"font-size: 13px;\">Many software companies now treat code reviews as a daily habit rather than a last-minute check. A second pair of eyes often finds defects that automated tests miss, especially unclear names, missing edge cases and weak error messages. Reviews also spread knowledge: a junior engineer who reads a senior colleague&rsquo;s change learns the team&rsquo;s style faster than by studying a handbook. The practice has a cost. Long review queues delay releases, and harsh comments discourage people from sharing early drafts. Teams that keep reviews short, set a response-time target and discuss design before large patches are written usually keep both quality and speed. Tools help, but they cannot replace an agreed standard of courtesy and focus.</span></span></p>\n<p style=\"margin-top: 0.288px;\"><strong><span style=\"color: #111827;\">What is the main idea of the passage?</span></strong></p>",
+      "options": [
+        {
+          "option": "A",
+          "text": "Automated tests have made human code reviews\n unnecessary.",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Automated tests have made human code reviews\n unnecessary.</span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "Code reviews improve quality and learning if teams manage time and tone.",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">Code reviews improve quality and learning if teams manage time and tone.</span></p>"
+        },
+        {
+          "option": "C",
+          "text": "Junior engineers should never review senior\n engineers’ work.",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Junior engineers should never review senior\n engineers’ work.</span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "Review tools can fully replace agreed team\n standards.",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Review tools can fully replace agreed team\n standards.</span></p>\n "
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "The passage supports reviews for defects and\n learning, then names the costs, and ends with how short, timely,\n courteous reviews keep quality and speed. That balanced claim is\n the main idea.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">The passage supports reviews for defects and\n learning, then names the costs, and ends with how short, timely,\n courteous reviews keep quality and speed. That balanced claim is\n the main idea.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 46,
+      "section": "Pseudo Code",
+      "questionId": "6aafffe858b8cb5fc6b4b016",
+      "questionText": "What is printed by the following Pseudo\n Code? \n\n Integer\n i, j, count \n\n Set\n count = 0 \n\n for\n i = 1 to 4 do \n\n for\n j = 1 to i do \n\n count\n = count + 1 \n\n end\n for \n\n end\n for \n\n Print\n count",
+      "questionHtml": "<p style=\"margin-top: 0.288px; margin-bottom: 0.384px\">\n <span style=\"color: #111827\">What is printed by the following Pseudo\n Code?</span></p>\n <p style=\"margin-top: 0.288px; margin-bottom: 0.96px\"><span style=\"color: #111827\"><span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\">Integer\n i, j, count</span></span></span></p>\n <p style=\"margin-top: 0.96px; margin-bottom: 0.96px\"><span style=\"color: #111827\"><span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\">Set\n count = 0</span></span></span></p>\n <p style=\"margin-top: 0.96px; margin-bottom: 0.96px\"><span style=\"color: #111827\"><span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\">for\n i = 1 to 4 do</span></span></span></p>\n <p style=\"margin-top: 0.96px; margin-bottom: 0.96px\"><span style=\"color: #111827\">\n    <span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\">for\n j = 1 to i do</span></span></span></p>\n <p style=\"margin-top: 0.96px; margin-bottom: 0.96px\"><span style=\"color: #111827\">\n        <span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\">count\n = count + 1</span></span></span></p>\n <p style=\"margin-top: 0.96px; margin-bottom: 0.96px\"><span style=\"color: #111827\">\n    <span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\">end\n for</span></span></span></p>\n <p style=\"margin-top: 0.96px; margin-bottom: 0.96px\"><span style=\"color: #111827\"><span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\">end\n for</span></span></span></p>\n <p style=\"margin-top: 0.96px\"><span style=\"color: #111827\"><span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\">Print\n count</span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "4",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">4</span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "8",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">8</span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "10",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">10</span></p>"
+        },
+        {
+          "option": "D",
+          "text": "16",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">16</span></p>\n "
+        }
+      ],
+      "correctAnswer": "C",
+      "solutionText": "The inner loop runs i times for each i from\n 1 to 4. Total iterations = 1+2+3+4 = 10. So count prints 10.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">The inner loop runs i times for each i from\n 1 to 4. Total iterations = 1+2+3+4 = 10. So count prints 10.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 47,
+      "section": "Pseudo Code",
+      "questionId": "6aafffe858b8cb35a9b4b011",
+      "questionText": "What is the output of the following Pseudo\n Code? \n\n Integer\n a, b \n\n Set\n a = 9, b = 5 \n\n Print\n a ^ b",
+      "questionHtml": "<p style=\"margin-top: 0.288px; margin-bottom: 0.384px\">\n <span style=\"color: #111827\">What is the output of the following Pseudo\n Code?</span></p>\n <p style=\"margin-top: 0.288px; margin-bottom: 0.96px\"><span style=\"color: #111827\"><span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\">Integer\n a, b</span></span></span></p>\n <p style=\"margin-top: 0.96px; margin-bottom: 0.96px\"><span style=\"color: #111827\"><span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\">Set\n a = 9, b = 5</span></span></span></p>\n <p style=\"margin-top: 0.96px\"><span style=\"color: #111827\"><span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\">Print\n a ^ b</span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "4",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">4</span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "12",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">12</span></p>"
+        },
+        {
+          "option": "C",
+          "text": "13",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">13</span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "14",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">14</span></p>\n "
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "9 in binary is 1001 and 5 is 0101. XOR sets\n a bit where the bits differ: 1100, which is 12.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">9 in binary is 1001 and 5 is 0101. XOR sets\n a bit where the bits differ: 1100, which is 12.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 48,
+      "section": "Pseudo Code",
+      "questionId": "6aafffe858b8cb1340b4b00c",
+      "questionText": "What value is printed by the following\n Pseudo Code? \n\n Function\n F(n) \n\n if\n n == 0 then return 0 \n\n if\n n == 1 then return 1 \n\n return\n F(n - 1) + F(n - 2) \n\n End\n Function \n\n Print\n F(6)",
+      "questionHtml": "<p style=\"margin-top: 0.288px; margin-bottom: 0.384px\">\n <span style=\"color: #111827\">What value is printed by the following\n Pseudo Code?</span></p>\n <p style=\"margin-top: 0.288px; margin-bottom: 0.96px\"><span style=\"color: #111827\"><span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\">Function\n F(n)</span></span></span></p>\n <p style=\"margin-top: 0.96px; margin-bottom: 0.96px\"><span style=\"color: #111827\">\n    <span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\">if\n n == 0 then return 0</span></span></span></p>\n <p style=\"margin-top: 0.96px; margin-bottom: 0.96px\"><span style=\"color: #111827\">\n    <span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\">if\n n == 1 then return 1</span></span></span></p>\n <p style=\"margin-top: 0.96px; margin-bottom: 0.96px\"><span style=\"color: #111827\">\n    <span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\">return\n F(n - 1) + F(n - 2)</span></span></span></p>\n <p style=\"margin-top: 0.96px; margin-bottom: 0.96px\"><span style=\"color: #111827\"><span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\">End\n Function</span></span></span></p>\n <p style=\"margin-top: 0.96px\"><span style=\"color: #111827\"><span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\">Print\n F(6)</span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "5",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">5</span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "8",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">8</span></p>"
+        },
+        {
+          "option": "C",
+          "text": "13",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">13</span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "21",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">21</span></p>\n "
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "F is the Fibonacci sequence: F(0)=0, F(1)=1,\n F(2)=1, F(3)=2, F(4)=3, F(5)=5, F(6)=8. So the printed value is 8.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">F is the Fibonacci sequence: F(0)=0, F(1)=1,\n F(2)=1, F(3)=2, F(4)=3, F(5)=5, F(6)=8. So the printed value is 8.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 49,
+      "section": "Pseudo Code",
+      "questionId": "6aafffe858b8cb6bb7b4b01b",
+      "questionText": "A queue follows FIFO. What is printed by the\n following Pseudo Code? \n\n Queue\n Q \n\n enqueue(Q,\n 2) \n\n enqueue(Q,\n 4) \n\n enqueue(Q,\n 6) \n\n dequeue(Q) \n\n enqueue(Q,\n 8) \n\n Print\n front(Q)",
+      "questionHtml": "<p style=\"margin-top: 0.288px; margin-bottom: 0.384px\">\n <span style=\"color: #111827\">A queue follows FIFO. What is printed by the\n following Pseudo Code?</span></p>\n <p style=\"margin-top: 0.288px; margin-bottom: 0.96px\"><span style=\"color: #111827\"><span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\">Queue\n Q</span></span></span></p>\n <p style=\"margin-top: 0.96px; margin-bottom: 0.96px\"><span style=\"color: #111827\"><span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\">enqueue(Q,\n 2)</span></span></span></p>\n <p style=\"margin-top: 0.96px; margin-bottom: 0.96px\"><span style=\"color: #111827\"><span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\">enqueue(Q,\n 4)</span></span></span></p>\n <p style=\"margin-top: 0.96px; margin-bottom: 0.96px\"><span style=\"color: #111827\"><span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\">enqueue(Q,\n 6)</span></span></span></p>\n <p style=\"margin-top: 0.96px; margin-bottom: 0.96px\"><span style=\"color: #111827\"><span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\">dequeue(Q)</span></span></span></p>\n <p style=\"margin-top: 0.96px; margin-bottom: 0.96px\"><span style=\"color: #111827\"><span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\">enqueue(Q,\n 8)</span></span></span></p>\n <p style=\"margin-top: 0.96px\"><span style=\"color: #111827\"><span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\">Print\n front(Q)</span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "2",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">2</span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "4",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">4</span></p>"
+        },
+        {
+          "option": "C",
+          "text": "6",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">6</span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "8",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">8</span></p>\n "
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "After three enqueues the queue is [2, 4, 6]\n with 2 at the front. dequeue removes 2. enqueue 8 makes [4, 6, 8].\n front returns 4.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">After three enqueues the queue is [2, 4, 6]\n with 2 at the front. dequeue removes 2. enqueue 8 makes [4, 6, 8].\n front returns 4.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 50,
+      "section": "Pseudo Code",
+      "questionId": "6aafffe858b8cbb106b4b007",
+      "questionText": "A stack follows LIFO. What is printed by the\n following Pseudo Code? \n\n Stack\n S \n\n push(S,\n 5) \n\n push(S,\n 8) \n\n push(S,\n 3) \n\n pop(S) \n\n push(S,\n 7) \n\n Print\n peek(S)",
+      "questionHtml": "<p style=\"margin-top: 0.288px; margin-bottom: 0.384px\">\n <span style=\"color: #111827\">A stack follows LIFO. What is printed by the\n following Pseudo Code?</span></p>\n <p style=\"margin-top: 0.288px; margin-bottom: 0.96px\"><span style=\"color: #111827\"><span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\">Stack\n S</span></span></span></p>\n <p style=\"margin-top: 0.96px; margin-bottom: 0.96px\"><span style=\"color: #111827\"><span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\">push(S,\n 5)</span></span></span></p>\n <p style=\"margin-top: 0.96px; margin-bottom: 0.96px\"><span style=\"color: #111827\"><span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\">push(S,\n 8)</span></span></span></p>\n <p style=\"margin-top: 0.96px; margin-bottom: 0.96px\"><span style=\"color: #111827\"><span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\">push(S,\n 3)</span></span></span></p>\n <p style=\"margin-top: 0.96px; margin-bottom: 0.96px\"><span style=\"color: #111827\"><span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\">pop(S)</span></span></span></p>\n <p style=\"margin-top: 0.96px; margin-bottom: 0.96px\"><span style=\"color: #111827\"><span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\">push(S,\n 7)</span></span></span></p>\n <p style=\"margin-top: 0.96px\"><span style=\"color: #111827\"><span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\">Print\n peek(S)</span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "3",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">3</span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "5",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">5</span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "7",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">7</span></p>"
+        },
+        {
+          "option": "D",
+          "text": "8",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">8</span></p>\n "
+        }
+      ],
+      "correctAnswer": "C",
+      "solutionText": "Stack after the three pushes: [5, 8, 3] with\n 3 on top. pop removes 3. push 7 makes the stack [5, 8, 7]. peek\n returns the top element, which is 7.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Stack after the three pushes: [5, 8, 3] with\n 3 on top. pop removes 3. push 7 makes the stack [5, 8, 7]. peek\n returns the top element, which is 7.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 51,
+      "section": "Numerical Puzzles",
+      "questionId": "6aaff98eb26d37a71160da61",
+      "questionText": "Find the missing number in the 3 × 3 matrix. \n\n 16 \n\n 21 \n\n 29 \n\n 25 \n\n 30 \n\n 38 \n\n 36 \n\n 41 \n\n ?",
+      "questionHtml": "<p style=\"margin-top: 0.288px; margin-bottom: 0.576px;\"><span style=\"color: #111827;\">Find the missing number in the 3 &times; 3 matrix.</span></p>\n<table class=\"MsoNormalTable\" style=\"width: 111.0pt; border-collapse: collapse; border: none; mso-border-alt: solid windowtext .5pt; mso-yfti-tbllook: 1184; mso-padding-alt: 0cm .5pt 0cm .5pt; mso-border-insideh: .5pt solid windowtext; mso-border-insidev: .5pt solid windowtext;\" border=\"1\" width=\"148\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr style=\"mso-yfti-irow: 0; mso-yfti-firstrow: yes; page-break-inside: avoid;\">\n<td style=\"width: 37pt; border: 1pt solid #4b5563; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 1.5pt;\" width=\"49\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 11.0pt; color: #111827;\">16</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 37pt; border-width: 1pt 1pt 1pt medium; border-style: solid solid solid none; border-color: #4b5563 #4b5563 #4b5563 currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 1.5pt;\" width=\"49\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 11.0pt; color: #111827;\">21</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 37pt; border-width: 1pt 1pt 1pt medium; border-style: solid solid solid none; border-color: #4b5563 #4b5563 #4b5563 currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 1.5pt;\" width=\"49\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 11.0pt; color: #111827;\">29</span></strong><o:p></o:p></p>\n</td>\n</tr>\n<tr style=\"mso-yfti-irow: 1; page-break-inside: avoid;\">\n<td style=\"width: 37pt; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: currentcolor #4b5563 #4b5563; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 1.5pt;\" width=\"49\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 11.0pt; color: #111827;\">25</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 37pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: currentcolor #4b5563 #4b5563 currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 1.5pt;\" width=\"49\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 11.0pt; color: #111827;\">30</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 37pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: currentcolor #4b5563 #4b5563 currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 1.5pt;\" width=\"49\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 11.0pt; color: #111827;\">38</span></strong><o:p></o:p></p>\n</td>\n</tr>\n<tr style=\"mso-yfti-irow: 2; mso-yfti-lastrow: yes; page-break-inside: avoid;\">\n<td style=\"width: 37pt; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: currentcolor #4b5563 #4b5563; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 1.5pt;\" width=\"49\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 11.0pt; color: #111827;\">36</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 37pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: currentcolor #4b5563 #4b5563 currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 1.5pt;\" width=\"49\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 11.0pt; color: #111827;\">41</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 37.0pt; border-top: none; border-left: none; border-bottom: solid #4B5563 1.0pt; border-right: solid #4B5563 1.0pt; mso-border-top-alt: solid #4B5563 1.0pt; mso-border-left-alt: solid #4B5563 1.0pt; background: #FEF3C7; padding: 2.5pt 1.5pt 2.5pt 1.5pt;\" width=\"49\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 11.0pt; color: #b45309;\">?</span></strong><o:p></o:p></p>\n</td>\n</tr>\n</tbody>\n</table>\n<p style=\"margin-top: 0.288px; margin-bottom: 0.192px; line-height: 108%;\"></p>",
+      "options": [
+        {
+          "option": "A",
+          "text": "47",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 108%\">\n <span style=\"color: #111827\">47</span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "49",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 108%;\"><span style=\"color: #111827;\">49</span></p>"
+        },
+        {
+          "option": "C",
+          "text": "51",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 108%\">\n <span style=\"color: #111827\">51</span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "54",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 108%\">\n <span style=\"color: #111827\">54</span></p>\n "
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "Each row adds 5, then 8: 16+5 = 21, 21+8 =\n 29; 25+5 = 30, 30+8 = 38. So 36+5 = 41 and 41+8 = 49. The first\n column is also consecutive squares: 4², 5², 6².",
+      "solutionHtml": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 108%\">\n <span style=\"color: #111827\">Each row adds 5, then 8: 16+5 = 21, 21+8 =\n 29; 25+5 = 30, 30+8 = 38. So 36+5 = 41 and 41+8 = 49. The first\n column is also consecutive squares: 4², 5², 6².</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 52,
+      "section": "Numerical Puzzles",
+      "questionId": "6aaff98eb26d3718b260da5c",
+      "questionText": "Find the next number in the pattern sequence. \n\n 3 \n\n 8 \n\n 15 \n\n 24 \n\n 35 \n\n ?",
+      "questionHtml": "<p style=\"margin-top: 0.288px; margin-bottom: 0.576px;\"><span style=\"color: #111827;\">Find the next number in the pattern sequence.</span></p>\n<table class=\"MsoNormalTable\" style=\"width: 222.0pt; border-collapse: collapse; border: none; mso-border-alt: solid windowtext .5pt; mso-yfti-tbllook: 1184; mso-padding-alt: 0cm .5pt 0cm .5pt; mso-border-insideh: .5pt solid windowtext; mso-border-insidev: .5pt solid windowtext;\" border=\"1\" width=\"296\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr style=\"mso-yfti-irow: 0; mso-yfti-firstrow: yes; mso-yfti-lastrow: yes; page-break-inside: avoid;\">\n<td style=\"width: 37pt; border: 1pt solid #4b5563; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 1.5pt;\" width=\"49\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 11.0pt; color: #111827;\">3</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 37pt; border-width: 1pt 1pt 1pt medium; border-style: solid solid solid none; border-color: #4b5563 #4b5563 #4b5563 currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 1.5pt;\" width=\"49\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 11.0pt; color: #111827;\">8</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 37pt; border-width: 1pt 1pt 1pt medium; border-style: solid solid solid none; border-color: #4b5563 #4b5563 #4b5563 currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 1.5pt;\" width=\"49\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 11.0pt; color: #111827;\">15</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 37pt; border-width: 1pt 1pt 1pt medium; border-style: solid solid solid none; border-color: #4b5563 #4b5563 #4b5563 currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 1.5pt;\" width=\"49\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 11.0pt; color: #111827;\">24</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 37pt; border-width: 1pt 1pt 1pt medium; border-style: solid solid solid none; border-color: #4b5563 #4b5563 #4b5563 currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 1.5pt;\" width=\"49\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 11.0pt; color: #111827;\">35</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 37.0pt; border: solid #4B5563 1.0pt; border-left: none; mso-border-left-alt: solid #4B5563 1.0pt; background: #FEF3C7; padding: 2.5pt 1.5pt 2.5pt 1.5pt;\" width=\"49\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 11.0pt; color: #b45309;\">?</span></strong><o:p></o:p></p>\n</td>\n</tr>\n</tbody>\n</table>\n<p style=\"margin-top: 0.288px; margin-bottom: 0.192px; line-height: 108%;\"></p>",
+      "options": [
+        {
+          "option": "A",
+          "text": "46",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 108%\">\n <span style=\"color: #111827\">46</span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "48",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 108%;\"><span style=\"color: #111827;\">48</span></p>"
+        },
+        {
+          "option": "C",
+          "text": "49",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 108%\">\n <span style=\"color: #111827\">49</span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "50",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 108%\">\n <span style=\"color: #111827\">50</span></p>\n "
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "The gaps are consecutive odd numbers\n starting at 5: 8−3 = 5, 15−8 = 7, 24−15 = 9,\n 35−24 = 11. The next gap is 13, so 35 + 13 = 48.\n Equivalently, the terms are n(n+2) for n = 1, 2, 3, 4, 5, 6:\n 1×3=3, 2×4=8, 3×5=15, 4×6=24, 5×7=35,\n 6×8=48.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 108%\">\n <span style=\"color: #111827\">The gaps are consecutive odd numbers\n starting at 5: 8−3 = 5, 15−8 = 7, 24−15 = 9,\n 35−24 = 11. The next gap is 13, so 35 + 13 = 48.\n Equivalently, the terms are n(n+2) for n = 1, 2, 3, 4, 5, 6:\n 1×3=3, 2×4=8, 3×5=15, 4×6=24, 5×7=35,\n 6×8=48.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 53,
+      "section": "Numerical Puzzles",
+      "questionId": "6aaff98eb26d37041f60da57",
+      "questionText": "Find the missing number in the 3 × 3 matrix. \n\n 2 \n\n 5 \n\n 12 \n\n 3 \n\n 6 \n\n 21 \n\n 4 \n\n 7 \n\n ?",
+      "questionHtml": "<p style=\"margin-top: 0.288px; margin-bottom: 0.576px;\"><span style=\"color: #111827;\">Find the missing number in the 3 &times; 3 matrix.</span></p>\n<table class=\"MsoNormalTable\" style=\"width: 111.0pt; border-collapse: collapse; border: none; mso-border-alt: solid windowtext .5pt; mso-yfti-tbllook: 1184; mso-padding-alt: 0cm .5pt 0cm .5pt; mso-border-insideh: .5pt solid windowtext; mso-border-insidev: .5pt solid windowtext;\" border=\"1\" width=\"148\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr style=\"mso-yfti-irow: 0; mso-yfti-firstrow: yes; page-break-inside: avoid;\">\n<td style=\"width: 37pt; border: 1pt solid #4b5563; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 1.5pt;\" width=\"49\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 11.0pt; color: #111827;\">2</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 37pt; border-width: 1pt 1pt 1pt medium; border-style: solid solid solid none; border-color: #4b5563 #4b5563 #4b5563 currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 1.5pt;\" width=\"49\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 11.0pt; color: #111827;\">5</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 37pt; border-width: 1pt 1pt 1pt medium; border-style: solid solid solid none; border-color: #4b5563 #4b5563 #4b5563 currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 1.5pt;\" width=\"49\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 11.0pt; color: #111827;\">12</span></strong><o:p></o:p></p>\n</td>\n</tr>\n<tr style=\"mso-yfti-irow: 1; page-break-inside: avoid;\">\n<td style=\"width: 37pt; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: currentcolor #4b5563 #4b5563; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 1.5pt;\" width=\"49\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 11.0pt; color: #111827;\">3</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 37pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: currentcolor #4b5563 #4b5563 currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 1.5pt;\" width=\"49\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 11.0pt; color: #111827;\">6</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 37pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: currentcolor #4b5563 #4b5563 currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 1.5pt;\" width=\"49\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 11.0pt; color: #111827;\">21</span></strong><o:p></o:p></p>\n</td>\n</tr>\n<tr style=\"mso-yfti-irow: 2; mso-yfti-lastrow: yes; page-break-inside: avoid;\">\n<td style=\"width: 37pt; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: currentcolor #4b5563 #4b5563; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 1.5pt;\" width=\"49\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 11.0pt; color: #111827;\">4</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 37pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: currentcolor #4b5563 #4b5563 currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 1.5pt;\" width=\"49\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 11.0pt; color: #111827;\">7</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 37.0pt; border-top: none; border-left: none; border-bottom: solid #4B5563 1.0pt; border-right: solid #4B5563 1.0pt; mso-border-top-alt: solid #4B5563 1.0pt; mso-border-left-alt: solid #4B5563 1.0pt; background: #FEF3C7; padding: 2.5pt 1.5pt 2.5pt 1.5pt;\" width=\"49\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 11.0pt; color: #b45309;\">?</span></strong><o:p></o:p></p>\n</td>\n</tr>\n</tbody>\n</table>\n<p style=\"margin-top: 0.288px; margin-bottom: 0.192px; line-height: 108%;\"></p>",
+      "options": [
+        {
+          "option": "A",
+          "text": "28",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 108%\">\n <span style=\"color: #111827\">28</span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "30",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 108%\">\n <span style=\"color: #111827\">30</span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "32",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 108%;\"><span style=\"color: #111827;\">32</span></p>"
+        },
+        {
+          "option": "D",
+          "text": "36",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 108%\">\n <span style=\"color: #111827\">36</span></p>\n "
+        }
+      ],
+      "correctAnswer": "C",
+      "solutionText": "In each row, third = first × (second +\n 1). Row 1: 2 × 6 = 12. Row 2: 3 × 7 = 21. Row 3: 4 ×\n 8 = 32.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 108%\">\n <span style=\"color: #111827\">In each row, third = first × (second +\n 1). Row 1: 2 × 6 = 12. Row 2: 3 × 7 = 21. Row 3: 4 ×\n 8 = 32.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 54,
+      "section": "Numerical Puzzles",
+      "questionId": "6aaff98eb26d37d15460da52",
+      "questionText": "Each figure is a circular wheel: four numbers sit on the rim and one sits at the centre. The same rule applies to both wheels. Find the missing centre number. \n\n Wheel A \n\n 6 \n\n 8 \n\n 18 \n\n 10 \n\n 12 \n\n Wheel B \n\n 5 \n\n 9 \n\n ? \n\n 11 \n\n 15",
+      "questionHtml": "<p style=\"margin-top: 0.288px; margin-bottom: 0.576px;\"><span style=\"color: #111827;\">Each figure is a circular wheel: four numbers sit on the rim and one sits at the centre. The same rule applies to both wheels. Find the missing centre number.</span></p>\n<p style=\"margin-top: 0.288px; margin-bottom: 0.288px;\"><span style=\"color: #4b5563;\"><span style=\"font-size: 12px;\"><em>Wheel A</em></span></span></p>\n<table class=\"MsoNormalTable\" style=\"width: 105.0pt; border-collapse: collapse; border: none; mso-border-alt: solid windowtext .5pt; mso-yfti-tbllook: 1184; mso-padding-alt: 0cm .5pt 0cm .5pt; mso-border-insideh: .5pt solid windowtext; mso-border-insidev: .5pt solid windowtext;\" border=\"1\" width=\"140\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr style=\"mso-yfti-irow: 0; mso-yfti-firstrow: yes; page-break-inside: avoid;\">\n<td style=\"width: 35pt; border: 1pt white; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 1.5pt;\" width=\"47\">\n<p class=\"MsoNormal\" style=\"margin: .8pt 0cm .8pt 0cm;\"><o:p>&nbsp;</o:p></p>\n</td>\n<td style=\"width: 35pt; border-width: 1pt 1pt 1pt medium; border-style: inset; border-color: #4b5563 #4b5563 #4b5563 currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 1.5pt;\" width=\"47\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 11.0pt; color: #111827;\">6</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 35pt; border-width: 1pt 1pt 1pt medium; border-style: none; border-color: white white white currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 1.5pt;\" width=\"47\">\n<p class=\"MsoNormal\" style=\"margin: .8pt 0cm .8pt 0cm;\"><o:p>&nbsp;</o:p></p>\n</td>\n</tr>\n<tr style=\"mso-yfti-irow: 1; page-break-inside: avoid;\">\n<td style=\"width: 35pt; border-width: medium 1pt 1pt; border-style: inset; border-color: currentcolor #4b5563 #4b5563; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 1.5pt;\" width=\"47\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 11.0pt; color: #111827;\">8</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 35pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: currentcolor #4b5563 #4b5563 currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 1.5pt;\" width=\"47\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 11.0pt; color: #111827;\">18</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 35pt; border-width: medium 1pt 1pt medium; border-style: inset; border-color: currentcolor #4b5563 #4b5563 currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 1.5pt;\" width=\"47\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 11.0pt; color: #111827;\">10</span></strong><o:p></o:p></p>\n</td>\n</tr>\n<tr style=\"mso-yfti-irow: 2; mso-yfti-lastrow: yes; page-break-inside: avoid;\">\n<td style=\"width: 35pt; border-width: medium 1pt 1pt; border-style: none; border-color: currentcolor white white; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 1.5pt;\" width=\"47\">\n<p class=\"MsoNormal\" style=\"margin: .8pt 0cm .8pt 0cm;\"><o:p>&nbsp;</o:p></p>\n</td>\n<td style=\"width: 35pt; border-width: medium 1pt 1pt medium; border-style: inset; border-color: currentcolor #4b5563 #4b5563 currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 1.5pt;\" width=\"47\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 11.0pt; color: #111827;\">12</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 35pt; border-bottom: 1pt white; border-right: 1pt white; border-top-style: none; border-left-style: none; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 1.5pt;\" width=\"47\">\n<p class=\"MsoNormal\" style=\"margin: .8pt 0cm .8pt 0cm;\"><o:p>&nbsp;</o:p></p>\n</td>\n</tr>\n</tbody>\n</table>\n<p><em style=\"color: #4b5563; font-size: 12px;\">Wheel B</em></p>\n<p></p>\n<table class=\"MsoNormalTable\" style=\"width: 105.0pt; border-collapse: collapse; border: none; mso-border-alt: solid windowtext .5pt; mso-yfti-tbllook: 1184; mso-padding-alt: 0cm .5pt 0cm .5pt; mso-border-insideh: .5pt solid windowtext; mso-border-insidev: .5pt solid windowtext;\" border=\"1\" width=\"140\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr style=\"mso-yfti-irow: 0; mso-yfti-firstrow: yes; page-break-inside: avoid;\">\n<td style=\"width: 35pt; border: 1pt white; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 1.5pt;\" width=\"47\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><span style=\"font-size: 11.0pt; color: #111827;\">&nbsp;</span><o:p></o:p></p>\n</td>\n<td style=\"width: 35pt; border-width: 1pt 1pt 1pt medium; border-style: inset; border-color: #4b5563 #4b5563 #4b5563 currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 1.5pt;\" width=\"47\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 11.0pt; color: #111827;\">5</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 35pt; border-width: 1pt 1pt 1pt medium; border-style: none; border-color: white white white currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 1.5pt;\" width=\"47\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><span style=\"font-size: 11.0pt; color: #111827;\">&nbsp;</span><o:p></o:p></p>\n</td>\n</tr>\n<tr style=\"mso-yfti-irow: 1; page-break-inside: avoid;\">\n<td style=\"width: 35pt; border-width: medium 1pt 1pt; border-style: ridge; border-color: currentcolor #4b5563 #4b5563; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 1.5pt;\" width=\"47\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 11.0pt; color: #111827;\">9</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 35.0pt; border-top: none; border-left: none; border-bottom: solid #4B5563 1.0pt; border-right: solid #4B5563 1.0pt; mso-border-top-alt: solid #4B5563 1.0pt; mso-border-left-alt: solid #4B5563 1.0pt; background: #FEF3C7; padding: 2.5pt 1.5pt 2.5pt 1.5pt;\" width=\"47\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 11.0pt; color: #b45309;\">?</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 35pt; border-width: medium 1pt 1pt medium; border-style: inset; border-color: currentcolor #4b5563 #4b5563 currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 1.5pt;\" width=\"47\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 11.0pt; color: #111827;\">11</span></strong><o:p></o:p></p>\n</td>\n</tr>\n<tr style=\"mso-yfti-irow: 2; mso-yfti-lastrow: yes; page-break-inside: avoid;\">\n<td style=\"width: 35pt; border-width: medium 1pt 1pt; border-style: none; border-color: currentcolor white white; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 1.5pt;\" width=\"47\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><span style=\"font-size: 11.0pt; color: #111827;\">&nbsp;</span><o:p></o:p></p>\n</td>\n<td style=\"width: 35pt; border-width: medium 1pt 1pt medium; border-style: inset; border-color: currentcolor #4b5563 #4b5563 currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 1.5pt;\" width=\"47\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 11.0pt; color: #111827;\">15</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 35pt; border-bottom: 1pt white; border-right: 1pt white; border-top-style: none; border-left-style: none; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 1.5pt;\" width=\"47\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><span style=\"font-size: 11.0pt; color: #111827;\">&nbsp;</span><o:p></o:p></p>\n</td>\n</tr>\n</tbody>\n</table>",
+      "options": [
+        {
+          "option": "A",
+          "text": "16",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 108%\">\n <span style=\"color: #111827\">16</span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "18",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 108%\">\n <span style=\"color: #111827\">18</span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "20",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 108%;\"><span style=\"color: #111827;\">20</span></p>"
+        },
+        {
+          "option": "D",
+          "text": "24",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 108%\">\n <span style=\"color: #111827\">24</span></p>\n "
+        }
+      ],
+      "correctAnswer": "C",
+      "solutionText": "Opposite rim numbers add up to the centre.\n Wheel A: 6+12 = 18 and 8+10 = 18. Wheel B: 5+15 = 20 and 9+11 =\n 20. So the missing centre is 20.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 108%\">\n <span style=\"color: #111827\">Opposite rim numbers add up to the centre.\n Wheel A: 6+12 = 18 and 8+10 = 18. Wheel B: 5+15 = 20 and 9+11 =\n 20. So the missing centre is 20.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 55,
+      "section": "English Grammar",
+      "questionId": "6aaff7a3062a2d52384fcda2",
+      "questionText": "I _____ this module since 9 a.m. and I still\n have two test cases left.",
+      "questionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">I _____ this module since 9 a.m. and I still\n have two test cases left.</span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "worked on",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">worked on</span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "am working on",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">am working on</span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "have been working on",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">have been working on</span></p>"
+        },
+        {
+          "option": "D",
+          "text": "had worked on",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">had worked on</span></p>\n "
+        }
+      ],
+      "correctAnswer": "C",
+      "solutionText": "\"Since 9 a.m.\" marks an action\n that started in the past and is still in progress. That requires\n the present perfect continuous: \"have been working on.\"",
+      "solutionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">\"Since 9 a.m.\" marks an action\n that started in the past and is still in progress. That requires\n the present perfect continuous: \"have been working on.\"</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 56,
+      "section": "English Grammar",
+      "questionId": "6aaff7a3062a2d41dd4fcdb1",
+      "questionText": "Identify the part that contains an error:\n Everybody in the two project teams have submitted the timesheet.",
+      "questionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Identify the part that contains an error:\n Everybody in the two project teams have submitted the timesheet.</span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "Everybody in",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Everybody in</span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "the two project teams",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">the two project teams</span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "have submitted the timesheet",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">have submitted the timesheet</span></p>"
+        },
+        {
+          "option": "D",
+          "text": "No error",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">No error</span></p>\n "
+        }
+      ],
+      "correctAnswer": "C",
+      "solutionText": "\"Everybody\" is singular, even when\n a plural phrase follows. The verb must be \"has submitted,\"\n not \"have submitted.\"",
+      "solutionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">\"Everybody\" is singular, even when\n a plural phrase follows. The verb must be \"has submitted,\"\n not \"have submitted.\"</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 57,
+      "section": "English Grammar",
+      "questionId": "6aaff7a3062a2d29ad4fcd9d",
+      "questionText": "A bouquet of roses _____ placed on the\n reception desk every morning.",
+      "questionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">A bouquet of roses _____ placed on the\n reception desk every morning.</span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "are",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">are</span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "were",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">were</span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "is",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">is</span></p>"
+        },
+        {
+          "option": "D",
+          "text": "have been",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">have been</span></p>\n "
+        }
+      ],
+      "correctAnswer": "C",
+      "solutionText": "The true subject is \"bouquet\"\n (singular), not \"roses.\" A singular subject takes \"is.\"\n Phrases beginning with \"of\" do not change the number of\n the verb.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">The true subject is \"bouquet\"\n (singular), not \"roses.\" A singular subject takes \"is.\"\n Phrases beginning with \"of\" do not change the number of\n the verb.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 58,
+      "section": "English Grammar",
+      "questionId": "6aaff7a3062a2df7d54fcdac",
+      "questionText": "Identify the part that contains an error:\n She did not knew that the meeting had been postponed.",
+      "questionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Identify the part that contains an error:\n She did not knew that the meeting had been postponed.</span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "She did not knew",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">She did not knew</span></p>"
+        },
+        {
+          "option": "B",
+          "text": "that the meeting",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">that the meeting</span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "had been postponed",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">had been postponed</span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "No error",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">No error</span></p>\n "
+        }
+      ],
+      "correctAnswer": "A",
+      "solutionText": "After the auxiliary \"did,\" the\n main verb stays in the base form: \"did not know,\" not\n \"did not knew.\" The past participle \"had been\n postponed\" is already correct.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">After the auxiliary \"did,\" the\n main verb stays in the base form: \"did not know,\" not\n \"did not knew.\" The past participle \"had been\n postponed\" is already correct.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 59,
+      "section": "English Grammar",
+      "questionId": "6aaff7a3062a2d83214fcda7",
+      "questionText": "The offer letter is valid _____ 30 September\n 2026.",
+      "questionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">The offer letter is valid _____ 30 September\n 2026.</span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "until",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">until</span></p>"
+        },
+        {
+          "option": "B",
+          "text": "since",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">since</span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "for",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">for</span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "at",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">at</span></p>\n "
+        }
+      ],
+      "correctAnswer": "A",
+      "solutionText": "\"Until\" is used for a point in\n time when something ends. \"Since\" marks a starting\n point, \"for\" marks a duration (for three days), and \"at\"\n marks a clock time or point, not a closing date in this structure.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">\"Until\" is used for a point in\n time when something ends. \"Since\" marks a starting\n point, \"for\" marks a duration (for three days), and \"at\"\n marks a clock time or point, not a closing date in this structure.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 60,
+      "section": "Essay Writting",
+      "questionId": "6aaff422894ef011dd59d76b",
+      "questionText": "Impact of Artificial Intelligence on Students and Education\n\n![Figure](Infosys Full Length Mock Test- 2_figures/fig_1_619c4fad.jpeg)",
+      "questionHtml": "<p>Impact of Artificial Intelligence on Students and Education<img id=\"3\" src=\"https://cdn-wl-assets.classplus.co/production/single/vlvkc/04254bd5-3730-4db2-9fba-adc9289f1cf9.jpeg\" /></p>",
+      "options": [
+        {
+          "option": "A",
+          "text": "",
+          "isCorrect": true,
+          "rawHtml": ""
+        }
+      ],
+      "correctAnswer": "A",
+      "solutionText": "Artificial Intelligence (AI) is becoming an important part of modern education. It has changed the way students learn, prepare for exams, and develop new skills. AI-powered tools help students understand difficult topics, solve problems, and access learning resources quickly.\n\n One of the major benefits of AI in education is personalized learning. Students can learn at their own pace and receive explanations based on their needs. AI can also help students improve their grammar, writing, and programming skills. It saves time and makes education more accessible.\n\n However, excessive dependence on AI can create challenges. Some students may stop thinking independently or rely on AI to complete their assignments. Privacy concerns and inaccurate information are also important issues.\n\n In conclusion, Artificial Intelligence can improve the quality of education when used responsibly. Students should use AI as a learning assistant rather than a replacement for their own thinking and creativity. A balanced approach to technology and traditional learning can help students achieve better academic and professional growth.",
+      "solutionHtml": "<p class=\"w6asjq_TextBase _85PZeG_Text PDq2pG_selectionAnchorContainer\" data-d-component=\"text\">Artificial Intelligence (AI) is becoming an important part of modern education. It has changed the way students learn, prepare for exams, and develop new skills. AI-powered tools help students understand difficult topics, solve problems, and access learning resources quickly.</p>\n<p class=\"w6asjq_TextBase _85PZeG_Text PDq2pG_selectionAnchorContainer\" data-d-component=\"text\"></p>\n<p class=\"w6asjq_TextBase _85PZeG_Text\" data-d-component=\"text\">One of the major benefits of AI in education is personalized learning. Students can learn at their own pace and receive explanations based on their needs. AI can also help students improve their grammar, writing, and programming skills. It saves time and makes education more accessible.</p>\n<p class=\"w6asjq_TextBase _85PZeG_Text\" data-d-component=\"text\"></p>\n<p class=\"w6asjq_TextBase _85PZeG_Text\" data-d-component=\"text\">However, excessive dependence on AI can create challenges. Some students may stop thinking independently or rely on AI to complete their assignments. Privacy concerns and inaccurate information are also important issues.</p>\n<p class=\"w6asjq_TextBase _85PZeG_Text\" data-d-component=\"text\"></p>\n<p class=\"w6asjq_TextBase _85PZeG_Text\" data-d-component=\"text\">In conclusion, Artificial Intelligence can improve the quality of education when used responsibly. Students should use AI as a learning assistant rather than a replacement for their own thinking and creativity. A balanced approach to technology and traditional learning can help students achieve better academic and professional growth.</p>",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": [
+        "Infosys Full Length Mock Test- 2_figures/fig_1_619c4fad.jpeg"
+      ]
+    }
+  ]
+}

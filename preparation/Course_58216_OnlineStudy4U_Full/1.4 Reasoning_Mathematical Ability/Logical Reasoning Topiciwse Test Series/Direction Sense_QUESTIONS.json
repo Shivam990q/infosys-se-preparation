@@ -1,0 +1,829 @@
+{
+  "testName": "Direction Sense",
+  "testId": "67b0373ec85e91160d496f0e",
+  "contentId": 23945641,
+  "totalQuestions": 20,
+  "totalFigures": 20,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "section": "Direction Sense",
+      "questionId": "67b037d4e6cb5b6c736f9042",
+      "questionText": "A\n located to the West of B. C is located at North in between A and\n B. D is exactly to the South of B and also in line with B. In\n which direction of C is D located?",
+      "questionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">A\n located to the West of B. C is located at North in between A and\n B. D is exactly to the South of B and also in line with B. In\n which direction of C is D located?</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "North and South",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none;\"><span style=\"color: #000000;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-family: Cambria,serif;\"><span style=\"font-size: 19px;\">North and South</span></span></span></span></p>"
+        },
+        {
+          "option": "B",
+          "text": "South and East",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"text-decoration: none;\"><span style=\"color: #000000;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-family: Cambria,serif;\"><span style=\"font-size: 19px;\">South and East</span></span></span></span></p>"
+        },
+        {
+          "option": "C",
+          "text": "North and West",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none;\"><span style=\"color: #000000;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-family: Cambria,serif;\"><span style=\"font-size: 19px;\">North and West</span></span></span></span></p>"
+        },
+        {
+          "option": "D",
+          "text": "South and West",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none;\"><span style=\"color: #000000;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-family: Cambria,serif;\"><span style=\"font-size: 19px;\">South and West</span></span></span></span></p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "![Figure](Direction Sense_figures/fig_1_4af3d9de.png)",
+      "solutionHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"https://cms-cdn.classplus.co/parserImages/production/747537_1739601873858.png\" name=\"Picture 1\" align=\"bottom\" width=\"389\" height=\"167\" border=\"0\">\n</img></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": [
+        "Direction Sense_figures/fig_1_4af3d9de.png"
+      ]
+    },
+    {
+      "questionNumber": 2,
+      "section": "Direction Sense",
+      "questionId": "67b037d4e6cb5b0e7b6f908d",
+      "questionText": "Point\n B is 7 km to the west of Point A. Point C is 12 km to the south of\n Point E. Point A is 5km to the east of Point C. Point D is 8 km to\n the north of Point C. Point G is 6 km to the west of Point D.\n Point H is 14 km to the south of Point G. If Siya is standing 6 km\n to the east of Point H and takes 1 hour to complete 9km distance\n then in what possible time she would reach Point E, if taken the\n shortest route?",
+      "questionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Point\n B is 7 km to the west of Point A. Point C is 12 km to the south of\n Point E. Point A is 5km to the east of Point C. Point D is 8 km to\n the north of Point C. Point G is 6 km to the west of Point D.\n Point H is 14 km to the south of Point G. If Siya is standing 6 km\n to the east of Point H and takes 1 hour to complete 9km distance\n then in what possible time she would reach Point E, if taken the\n shortest route?</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "35\n min",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">35\n min</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "60\n min",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">60\n min</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "180\n min",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">180\n min</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "120\n min",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">120\n min</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "D",
+      "solutionText": "In\n such a case, the minimum distance between Siya and Point E is 18\n km, so SIya will take 2 hours or 120 minutes to reach point E.\n\n![Figure](Direction Sense_figures/fig_1_e5cee2d5.png)",
+      "solutionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"https://cms-cdn.classplus.co/parserImages/production/701138_1739601875383.png\" name=\"Picture 8\" align=\"bottom\" width=\"268\" height=\"314\" border=\"0\">\n</img></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">In\n such a case, the minimum distance between Siya and Point E is 18\n km, so SIya will take 2 hours or 120 minutes to reach point E.</span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": [
+        "Direction Sense_figures/fig_1_e5cee2d5.png"
+      ]
+    },
+    {
+      "questionNumber": 3,
+      "section": "Direction Sense",
+      "questionId": "67b037d4e6cb5b69696f909c",
+      "questionText": "Virendra’s\n house is 30 m to the left of the Shani Dev Temple, which is 40 m\n to the north of the Church. One day, Virendra takes the road which\n is parallel to the temple-Church road and walks for 50 m before\n turning to his right. He further walks for 20 m and reaches the\n Gym. \n\n If\n Virendra reaches the church taking the temple-church road and then\n turns 45 degrees thrice in the clock-wise direction, which\n direction would he be facing?",
+      "questionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Virendra’s\n house is 30 m to the left of the Shani Dev Temple, which is 40 m\n to the north of the Church. One day, Virendra takes the road which\n is parallel to the temple-Church road and walks for 50 m before\n turning to his right. He further walks for 20 m and reaches the\n Gym.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n Virendra reaches the church taking the temple-church road and then\n turns 45 degrees thrice in the clock-wise direction, which\n direction would he be facing?</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "Towards\n the Gym",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Towards\n the Gym</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "Towards\n to the House",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Towards\n to the House</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "Towards\n the Temple",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Towards\n the Temple</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "North-East\n direction",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">North-East\n direction</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "From\n the final figure we can deduce the fact that Virendra must be\n facing his house.\n\n![Figure](Direction Sense_figures/fig_1_233073f0.png)",
+      "solutionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"https://cms-cdn.classplus.co/parserImages/production/790779_1739601875553.png\" name=\"Picture 15\" align=\"bottom\" width=\"229\" height=\"187\" border=\"0\">\n</img></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">From\n the final figure we can deduce the fact that Virendra must be\n facing his house.</span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": [
+        "Direction Sense_figures/fig_1_233073f0.png"
+      ]
+    },
+    {
+      "questionNumber": 4,
+      "section": "Direction Sense",
+      "questionId": "67b037d4e6cb5b25096f9092",
+      "questionText": "Read\n the given information carefully and answer the questions given\n beside. \n\n P\n + Q states that P is 2 m East Of Q \n\n P\n ^ Q states that P is 2 m South Of Q \n\n P\n & Q states that P is 4 m East Of Q \n\n P\n - Q states that P is 2 m West Of Q \n\n P\n / Q states that P is 2 m North Of Q \n\n A\n – B ^ C & D + E, F + B \n\n F\n is in which direction with respect to E?",
+      "questionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Read\n the given information carefully and answer the questions given\n beside.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">P\n + Q states that P is 2 m East Of Q</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">P\n ^ Q states that P is 2 m South Of Q</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">P\n &amp; Q states that P is 4 m East Of Q</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">P\n - Q states that P is 2 m West Of Q</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">P\n / Q states that P is 2 m North Of Q</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">A\n – B ^ C &amp; D + E, F + B</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">F\n is in which direction with respect to E?</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "North",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">North</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "South",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">South</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "Northwest",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Northwest</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "Southeast",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Southeast</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "D",
+      "solutionText": "We\n can see from the figure that F is in South East of E.\n\n![Figure](Direction Sense_figures/fig_1_319ac217.png)",
+      "solutionHtml": "<p style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"https://cms-cdn.classplus.co/parserImages/production/164484_1739601875441.png\" name=\"Picture 9\" align=\"bottom\" width=\"381\" height=\"160\" border=\"0\">\n</img></span></p>\n <p style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">We\n can see from the figure that F is in South East of E.</span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": [
+        "Direction Sense_figures/fig_1_319ac217.png"
+      ]
+    },
+    {
+      "questionNumber": 5,
+      "section": "Direction Sense",
+      "questionId": "67b037d4e6cb5b29556f9083",
+      "questionText": "Some\n chairs were placed in a park as per the manner described here.\n Chair B was 24m to the west of Chair A, which is 12m to the south\n of Chair E. Chair D was 10m to the east of Chair H. Chair C was 7m\n to the north of Chair H. Chair L was 15m to the north of Chair B,\n which is towards the south of Chair D. Chair F was 7m to the north\n of Chair E. Chair D and Chair E were placed in a straight\n horizontal line. \n\n Chair\n C is how much far (shortest) and in which direction from Chair F?",
+      "questionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Some\n chairs were placed in a park as per the manner described here.\n Chair B was 24m to the west of Chair A, which is 12m to the south\n of Chair E. Chair D was 10m to the east of Chair H. Chair C was 7m\n to the north of Chair H. Chair L was 15m to the north of Chair B,\n which is towards the south of Chair D. Chair F was 7m to the north\n of Chair E. Chair D and Chair E were placed in a straight\n horizontal line.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Chair\n C is how much far (shortest) and in which direction from Chair F?</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "30m,\n North-West",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">30m,\n North-West</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "27m,\n East",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">27m,\n East</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "34m,\n West",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">34m,\n West </span></span></span></span>\n </p>\n "
+        },
+        {
+          "option": "D",
+          "text": "24m,\n East",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">24m,\n East</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "C",
+      "solutionText": "Chair\n C is 34m to the west of Chair F.\n\n![Figure](Direction Sense_figures/fig_1_6d28e7d7.png)",
+      "solutionHtml": "<p style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"https://cms-cdn.classplus.co/parserImages/production/951237_1739601875273.png\" name=\"Picture 18\" align=\"bottom\" width=\"343\" height=\"207\" border=\"0\">\n</img></span></p>\n <p style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Chair\n C is 34m to the west of Chair F.</span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": [
+        "Direction Sense_figures/fig_1_6d28e7d7.png"
+      ]
+    },
+    {
+      "questionNumber": 6,
+      "section": "Direction Sense",
+      "questionId": "67b037d4e6cb5b602c6f907e",
+      "questionText": "Car\n X starts from point A and travels in a straight line towards north\n for 8 km and takes a right turn and travels for 12 km then turns\n towards left and travels for 6 km before taking a right turn it\n travels for 10 km and takes a right turn and travels for 15 km and\n reaches a point B which is 8 km towards west of the point C where\n car Y stands. What is the position of Car Y with respect to\n initial position of car X?",
+      "questionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Car\n X starts from point A and travels in a straight line towards north\n for 8 km and takes a right turn and travels for 12 km then turns\n towards left and travels for 6 km before taking a right turn it\n travels for 10 km and takes a right turn and travels for 15 km and\n reaches a point B which is 8 km towards west of the point C where\n car Y stands. What is the position of Car Y with respect to\n initial position of car X?</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "East",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">East</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "Southwest",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Southwest</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "Southeast",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Southeast</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "South",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">South</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "C",
+      "solutionText": "Following\n the final solution, we can say that Car Y is southeast direction\n with respect to initial position of car X.\n\n![Figure](Direction Sense_figures/fig_1_1323d7b0.png)",
+      "solutionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"https://cms-cdn.classplus.co/parserImages/production/236840_1739601875219.png\" name=\"Picture 17\" align=\"bottom\" width=\"285\" height=\"160\" border=\"0\">\n</img></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Following\n the final solution, we can say that Car Y is southeast direction\n with respect to initial position of car X.</span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": [
+        "Direction Sense_figures/fig_1_1323d7b0.png"
+      ]
+    },
+    {
+      "questionNumber": 7,
+      "section": "Direction Sense",
+      "questionId": "67b037d4e6cb5b38316f906f",
+      "questionText": "Rudra\n started walking from his home in east direction and after walking\n for 80 m he took a turn of 135° towards his left and walked 22\n m after that took a turn of 90° towards his right and walked\n 30 m and stopped. In which direction Ram is facing now?",
+      "questionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Rudra\n started walking from his home in east direction and after walking\n for 80 m he took a turn of 135° towards his left and walked 22\n m after that took a turn of 90° towards his right and walked\n 30 m and stopped. In which direction Ram is facing now?</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "North",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">North</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "Northeast",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"text-decoration: none;\"><span style=\"color: #000000;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-family: Cambria,serif;\"><span style=\"font-size: 19px;\">Northeast</span></span></span></span></p>"
+        },
+        {
+          "option": "C",
+          "text": "Southwest",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Southwest</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "East",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">East</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "Here\n we can say that ram is facing in Northeast direction.\n\n![Figure](Direction Sense_figures/fig_1_4a389357.png)",
+      "solutionHtml": "<p style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"https://cms-cdn.classplus.co/parserImages/production/979298_1739601875049.png\" name=\"Picture 12\" align=\"bottom\" width=\"354\" height=\"136\" border=\"0\">\n</img></span></p>\n <p style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Here\n we can say that ram is facing in Northeast direction.</span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": [
+        "Direction Sense_figures/fig_1_4a389357.png"
+      ]
+    },
+    {
+      "questionNumber": 8,
+      "section": "Direction Sense",
+      "questionId": "67b037d4e6cb5b02ba6f9079",
+      "questionText": "Bonny\n moves 30 meters towards south then turns to his right and starts\n moving straight till he completes another 30 meters. Then turning\n to his left he moves for 20 meters. He again then turns to his\n left and moves for 30 meters. How far is he from his initial\n position?",
+      "questionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Bonny\n moves 30 meters towards south then turns to his right and starts\n moving straight till he completes another 30 meters. Then turning\n to his left he moves for 20 meters. He again then turns to his\n left and moves for 30 meters. How far is he from his initial\n position?</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "30\n m",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">30\n m</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "50\n m",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">50\n m</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "60\n m",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">60\n m</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "10\n m",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">10\n m</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "![Figure](Direction Sense_figures/fig_1_1c557d53.png)",
+      "solutionHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"https://cms-cdn.classplus.co/parserImages/production/30128_1739601875163.png\" name=\"Picture 16\" align=\"bottom\" width=\"168\" height=\"149\" border=\"0\">\n</img></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": [
+        "Direction Sense_figures/fig_1_1c557d53.png"
+      ]
+    },
+    {
+      "questionNumber": 9,
+      "section": "Direction Sense",
+      "questionId": "67b037d4e6cb5bd1f76f9065",
+      "questionText": "Point\n L is 2m towards north of point C. Point N is 7m towards east of\n point L. Point O is 8m towards south of point N. Point T is 12m\n towards west of point O. What is the direction of point C with\n respect to point T?",
+      "questionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Point\n L is 2m towards north of point C. Point N is 7m towards east of\n point L. Point O is 8m towards south of point N. Point T is 12m\n towards west of point O. What is the direction of point C with\n respect to point T?</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "Northeast",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Northeast</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "Southwest",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Southwest</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "North",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">North</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "Southeast",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Southeast</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "A",
+      "solutionText": "After\n observing the above figure, we can say that point C is in\n northeast direction with respect to point T.\n\n![Figure](Direction Sense_figures/fig_1_54f6b423.png)",
+      "solutionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"https://cms-cdn.classplus.co/parserImages/production/846640_1739601874931.png\" name=\"Picture 10\" align=\"bottom\" width=\"193\" height=\"139\" border=\"0\">\n</img></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">After\n observing the above figure, we can say that point C is in\n northeast direction with respect to point T.</span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": [
+        "Direction Sense_figures/fig_1_54f6b423.png"
+      ]
+    },
+    {
+      "questionNumber": 10,
+      "section": "Direction Sense",
+      "questionId": "67b037d4e6cb5bf7366f9074",
+      "questionText": "Box\n B is in the north of Box C, which is in the north-east of Box D.\n Box E is in the east of Box D. Box A is in the west of Box F,\n which is in the northeast of Box B. Box E is in the middle of Box\n F and Box G. Find Box A is in which direction from Box D?",
+      "questionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Box\n B is in the north of Box C, which is in the north-east of Box D.\n Box E is in the east of Box D. Box A is in the west of Box F,\n which is in the northeast of Box B. Box E is in the middle of Box\n F and Box G. Find Box A is in which direction from Box D?</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "North",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">North</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "Northeast",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Northeast</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "South",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">South</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "Can’t\n determine",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Can’t\n determine</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "D",
+      "solutionText": "We\n cannot determine whether A is in north or north-east or north-west\n of D.\n\n![Figure](Direction Sense_figures/fig_1_4ed3ec79.png)",
+      "solutionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"https://cms-cdn.classplus.co/parserImages/production/952466_1739601875108.png\" name=\"Picture 14\" align=\"bottom\" width=\"510\" height=\"173\" border=\"0\">\n</img></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">We\n cannot determine whether A is in north or north-east or north-west\n of D.</span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": [
+        "Direction Sense_figures/fig_1_4ed3ec79.png"
+      ]
+    },
+    {
+      "questionNumber": 11,
+      "section": "Direction Sense",
+      "questionId": "67b037d4e6cb5b56896f904c",
+      "questionText": "The\n distance between N and P is 50 m and that between Q and R is 40m.\n Q is to the west of R, which is to the east of N at a distance of\n 70m. P is to the west or northwest or north of Q. If Q is to the\n south of P, what is the distance between P and Q?",
+      "questionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">The\n distance between N and P is 50 m and that between Q and R is 40m.\n Q is to the west of R, which is to the east of N at a distance of\n 70m. P is to the west or northwest or north of Q. If Q is to the\n south of P, what is the distance between P and Q?</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "40\n m",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">40\n m</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "35\n m",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">35\n m</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "80\n m",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">80\n m</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "20\n m",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">20\n m</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "A",
+      "solutionText": "From\n Formula \n\n NP 2 \n = NQ + PQ2 \n\n ∴\n NP\n = NP 2 \n – NQ 2 \n\n =\n √ \n (50)2 – (30)2 \n\n =\n √ 2500\n – 900 \n\n =\n √ 1600\n = 40m\n\n![Figure](Direction Sense_figures/fig_1_5e197eac.png)",
+      "solutionHtml": "<p style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"https://cms-cdn.classplus.co/parserImages/production/436157_1739601874644.png\" name=\"Picture 3\" align=\"bottom\" width=\"223\" height=\"178\" border=\"0\">\n<span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\"><br>\nFrom\n Formula</span></span></span></img></span></p>\n <p style=\"margin-bottom: 0px; text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">NP</span></span><sup><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">2</span></span></sup><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">\n = NQ + PQ2</span></span></span></span></p>\n <p style=\"margin-bottom: 0px; text-decoration: none\"><span style=\"color: #000000\">∴\n <span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">NP\n = NP</span></span><sup><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">2</span></span></sup><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">\n – NQ</span></span><sup><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">2</span></span></sup></span></span></p>\n <p style=\"margin-bottom: 0px; text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">=\n </span></span><span style=\"color: #001d35\"><span style=\"font-family: Arial,serif\"><span style=\"font-size: 17px\"><span style=\"background: #ffffff\">√</span></span></span></span><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">\n (50)2 – (30)2</span></span></span></span></p>\n <p style=\"margin-bottom: 0px; text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">=\n </span></span><span style=\"color: #001d35\"><span style=\"font-family: Arial,serif\"><span style=\"font-size: 17px\"><span style=\"background: #ffffff\">√</span></span></span></span><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">2500\n – 900</span></span></span></span></p>\n <p style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">=\n </span></span><span style=\"color: #001d35\"><span style=\"font-family: Arial,serif\"><span style=\"font-size: 17px\"><span style=\"background: #ffffff\">√</span></span></span></span><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">1600\n = 40m</span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": [
+        "Direction Sense_figures/fig_1_5e197eac.png"
+      ]
+    },
+    {
+      "questionNumber": 12,
+      "section": "Direction Sense",
+      "questionId": "67b037d4e6cb5b86c36f90a1",
+      "questionText": "The\n door of B’s house faces east. From the back side of his\n house, B walks straight 50 m. Again he walks 25m after turning to\n his left, then he turns to his right and walks 50m. Finally he\n turns towards north and walks 25m and stops. \n\n Which\n directions does B stand in at the end with respect to his house?",
+      "questionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">The\n door of B’s house faces east. From the back side of his\n house, B walks straight 50 m. Again he walks 25m after turning to\n his left, then he turns to his right and walks 50m. Finally he\n turns towards north and walks 25m and stops.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Which\n directions does B stand in at the end with respect to his house?</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "North",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">North</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "South",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">South</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "West",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">West</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "East",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">East</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "C",
+      "solutionText": "We\n can clearly observe from the figure that at the end point B stand\n in the west direction with respect to starting point.\n\n![Figure](Direction Sense_figures/fig_1_3b8365d9.png)",
+      "solutionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"https://cms-cdn.classplus.co/parserImages/production/510594_1739601875604.png\" name=\"Picture 20\" align=\"bottom\" width=\"248\" height=\"136\" border=\"0\">\n</img></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">We\n can clearly observe from the figure that at the end point B stand\n in the west direction with respect to starting point.</span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": [
+        "Direction Sense_figures/fig_1_3b8365d9.png"
+      ]
+    },
+    {
+      "questionNumber": 13,
+      "section": "Direction Sense",
+      "questionId": "67b037d4e6cb5b2e036f9088",
+      "questionText": "Some\n chairs were placed in a park as per the manner described here.\n Chair B was 24m to the west of Chair A, which is 12m to the south\n of Chair E. Chair D was 10m to the east of Chair H. Chair C was 7m\n to the north of Chair H. Chair L was 15m to the north of Chair B,\n which is towards the south of Chair D. Chair F was 7m to the north\n of Chair E. Chair D and Chair E were placed in a straight\n horizontal line. \n\n Find\n the odd one out?",
+      "questionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Some\n chairs were placed in a park as per the manner described here.\n Chair B was 24m to the west of Chair A, which is 12m to the south\n of Chair E. Chair D was 10m to the east of Chair H. Chair C was 7m\n to the north of Chair H. Chair L was 15m to the north of Chair B,\n which is towards the south of Chair D. Chair F was 7m to the north\n of Chair E. Chair D and Chair E were placed in a straight\n horizontal line.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Find\n the odd one out?</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "F-B",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"text-decoration: none;\"><span style=\"color: #000000;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-family: Cambria,serif;\"><span style=\"font-size: 19px;\">F-B</span></span></span></span></p>"
+        },
+        {
+          "option": "B",
+          "text": "B-D",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">B-D</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "D-L",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">D-L</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "H-C",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">H-C</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "A",
+      "solutionText": "F-B\n is the odd one out because the common thing among rest chairs is\n that the second chair is in the North of the first chair.\n\n![Figure](Direction Sense_figures/fig_1_2cb57ae0.png)",
+      "solutionHtml": "<p style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"https://cms-cdn.classplus.co/parserImages/production/468870_1739601875322.png\" name=\"Picture 19\" align=\"bottom\" width=\"327\" height=\"197\" border=\"0\">\n</img></span></p>\n <p style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">F-B\n is the odd one out because the common thing among rest chairs is\n that the second chair is in the North of the first chair.</span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": [
+        "Direction Sense_figures/fig_1_2cb57ae0.png"
+      ]
+    },
+    {
+      "questionNumber": 14,
+      "section": "Direction Sense",
+      "questionId": "67b037d4e6cb5b9f636f9056",
+      "questionText": "Falyaz\n is standing to the north of Hiran. Hiran is standing 15m to the\n west of Mitul. Sahil is 15m to the north of Mitul and forms a\n straight horizontal line with Falyaz. Vihaan is equidistant from\n all of them. Vihaan is in which direction with respect to Mitul?",
+      "questionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Falyaz\n is standing to the north of Hiran. Hiran is standing 15m to the\n west of Mitul. Sahil is 15m to the north of Mitul and forms a\n straight horizontal line with Falyaz. Vihaan is equidistant from\n all of them. Vihaan is in which direction with respect to Mitul?</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "North-West",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">North-West</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "North-East",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">North-East</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "South-West",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">South-West</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "South-East",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">South-East</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "A",
+      "solutionText": "Hiran\n is standing 15m to the west of Mitul. \n\n Sahil\n is 15m to the north of Mitul and forms a straight horizontal line\n with Falyaz. \n\n Falyaz\n is standing to the north of Hiran. \n\n Vihaan\n is equidistant from all of them. \n\n Note:\n As per statement, Vihaan is exactly in the mid-point of all 4 of\n them. To make exact midpoint, then the distance between Falyaz and\n Hiran should be 15m and also the distance between Falyaz and Sahil\n is 15m as shown in diagram. \n\n Vihaan\n is in North-West direction with respect to Mitul.\n\n![Figure](Direction Sense_figures/fig_1_7056c4f5.png)",
+      "solutionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"https://cms-cdn.classplus.co/parserImages/production/852806_1739601874764.png\" name=\"Picture 5\" align=\"bottom\" width=\"174\" height=\"161\" border=\"0\">\n</img></span></p>\n <ul>\n <li><p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Hiran\n is standing 15m to the west of Mitul.</span></span></span></span></p>\n </li><li><p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Sahil\n is 15m to the north of Mitul and forms a straight horizontal line\n with Falyaz.</span></span></span></span></p>\n </li><li><p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Falyaz\n is standing to the north of Hiran.</span></span></span></span></p>\n </li><li><p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Vihaan\n is equidistant from all of them.</span></span></span></span></p>\n </li></ul>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Note:\n As per statement, Vihaan is exactly in the mid-point of all 4 of\n them. To make exact midpoint, then the distance between Falyaz and\n Hiran should be 15m and also the distance between Falyaz and Sahil\n is 15m as shown in diagram.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Vihaan\n is in North-West direction with respect to Mitul.</span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": [
+        "Direction Sense_figures/fig_1_7056c4f5.png"
+      ]
+    },
+    {
+      "questionNumber": 15,
+      "section": "Direction Sense",
+      "questionId": "67b037d4e6cb5beda16f905b",
+      "questionText": "Kundan\n travels 15 km towards south and then takes a left turn and travels\n 10 km further again he takes a left turn and travels 15 km\n further. How far is he from his original position?",
+      "questionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Kundan\n travels 15 km towards south and then takes a left turn and travels\n 10 km further again he takes a left turn and travels 15 km\n further. How far is he from his original position?</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "40km",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">40km</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "25km",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">25km</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "10km",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">10km</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "15km",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">15km</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "C",
+      "solutionText": "∵\n AD\n = BC = 10 Km \n\n Therefore\n he is 10 km away from the original position.\n\n![Figure](Direction Sense_figures/fig_1_74b03b9b.png)",
+      "solutionHtml": "<p style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"https://cms-cdn.classplus.co/parserImages/production/898221_1739601874818.png\" name=\"Picture 6\" align=\"bottom\" width=\"187\" height=\"140\" border=\"0\">\n</img></span></p>\n <p style=\"margin-bottom: 0px; text-decoration: none\"><span style=\"color: #000000\">∵\n <span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">AD\n = BC = 10 Km</span></span></span></span></p>\n <p style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Therefore\n he is 10 km away from the original position.</span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": [
+        "Direction Sense_figures/fig_1_74b03b9b.png"
+      ]
+    },
+    {
+      "questionNumber": 16,
+      "section": "Direction Sense",
+      "questionId": "67b037d4e6cb5b5b736f9047",
+      "questionText": "Shahrukh\n starts driving from point A and drives 12 km towards north. He\n takes a right turn and drive 20 km. He now drives 8 km after\n taking a left turn. Finally he takes a left turn; and drives 20 km\n and stops at point B. How far is point A with respect to point B?",
+      "questionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Shahrukh\n starts driving from point A and drives 12 km towards north. He\n takes a right turn and drive 20 km. He now drives 8 km after\n taking a left turn. Finally he takes a left turn; and drives 20 km\n and stops at point B. How far is point A with respect to point B?</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "18\n km",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">18\n km</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "20\n km",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">20\n km</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "35\n km",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">35\n km</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "25\n km",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">25\n km</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "AB\n = AP + PB = 12 + 8 = 20 km\n\n![Figure](Direction Sense_figures/fig_1_1eaff178.png)",
+      "solutionHtml": "<p style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"https://cms-cdn.classplus.co/parserImages/production/745271_1739601874565.png\" name=\"Picture 2\" align=\"bottom\" width=\"200\" height=\"168\" border=\"0\">\n</img></span></p>\n <p style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">AB\n = AP + PB = 12 + 8 = 20 km</span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": [
+        "Direction Sense_figures/fig_1_1eaff178.png"
+      ]
+    },
+    {
+      "questionNumber": 17,
+      "section": "Direction Sense",
+      "questionId": "67b037d4e6cb5b1b496f9051",
+      "questionText": "Abhay\n walks 20 m south from Point A to reach Point B. Then he turns to\n his right and walks 14 m to reach Point C. Again, he turns to his\n right and walks 20 m to reach Point D. Finally he turns to his\n left and walks 14 m to reach Point E. What is the distance between\n A and E and in which direction is Point E from Point A.",
+      "questionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Abhay\n walks 20 m south from Point A to reach Point B. Then he turns to\n his right and walks 14 m to reach Point C. Again, he turns to his\n right and walks 20 m to reach Point D. Finally he turns to his\n left and walks 14 m to reach Point E. What is the distance between\n A and E and in which direction is Point E from Point A.</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "20\n m, South",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">20\n m, South</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "26\n m, North",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">26\n m, North</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "28\n m, West",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">28\n m, West</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "34\n m, East",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">34\n m, East</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "C",
+      "solutionText": "The\n distance between Point A and Point E = 14 + 14 = 28 m \n\n Following\n the image we can say that Point E is in west direction with\n respect to A\n\n![Figure](Direction Sense_figures/fig_1_70b7cce4.png)",
+      "solutionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"https://cms-cdn.classplus.co/parserImages/production/148986_1739601874706.png\" name=\"Picture 4\" align=\"bottom\" width=\"259\" height=\"157\" border=\"0\">\n</img></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">The\n distance between Point A and Point E = 14 + 14 = 28 m</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Following\n the image we can say that Point E is in west direction with\n respect to A</span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": [
+        "Direction Sense_figures/fig_1_70b7cce4.png"
+      ]
+    },
+    {
+      "questionNumber": 18,
+      "section": "Direction Sense",
+      "questionId": "67b037d4e6cb5be2576f9060",
+      "questionText": "Point\n B is 25 m south of point A. Point C is 30 m east of point B. Point\n D is 15 m north of point C. Point E is 10 m west of point D. \n\n If\n point X is 30 m east of Point A, then Point D is how far and in\n which direction from point X?",
+      "questionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Point\n B is 25 m south of point A. Point C is 30 m east of point B. Point\n D is 15 m north of point C. Point E is 10 m west of point D.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n point X is 30 m east of Point A, then Point D is how far and in\n which direction from point X?</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "10\n m, North",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">10\n m, North</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "5\n m, North",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">5\n m, North</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "15\n m, South",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">15\n m, South</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "10\n m, South",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">10\n m, South</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "D",
+      "solutionText": "Following\n the common explanation we can say point D is 10 m away and towards\n south of point X.\n\n![Figure](Direction Sense_figures/fig_1_47728109.png)",
+      "solutionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"https://cms-cdn.classplus.co/parserImages/production/771261_1739601874870.png\" name=\"Picture 7\" align=\"bottom\" width=\"172\" height=\"140\" border=\"0\">\n</img></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Following\n the common explanation we can say point D is 10 m away and towards\n south of point X.</span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": [
+        "Direction Sense_figures/fig_1_47728109.png"
+      ]
+    },
+    {
+      "questionNumber": 19,
+      "section": "Direction Sense",
+      "questionId": "67b037d4e6cb5b02116f906a",
+      "questionText": "Lihaan\n walks 8m towards south from his office to reach park. Then take\n left and walks 15m to reach traffic signal. Then he turns 90\n degree anti-clock wise direction and walks 8m to reach coffee\n shop. From the coffee shop he takes left and walks 8m to reach\n home. What is the shortest distance between Lihaan's office and\n Traffic signal?",
+      "questionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Lihaan\n walks 8m towards south from his office to reach park. Then take\n left and walks 15m to reach traffic signal. Then he turns 90\n degree anti-clock wise direction and walks 8m to reach coffee\n shop. From the coffee shop he takes left and walks 8m to reach\n home. What is the shortest distance between Lihaan's office and\n Traffic signal?</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "30\n m",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">30\n m</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "25\n m",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">25\n m</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "17\n m",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">17\n m</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "15\n m",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">15\n m</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "C",
+      "solutionText": "Shortest\n distance between Lihaan's office and Traffic signal = \n\n √ 8 2 \n + 15 2 \n = √64+225 = √289 =17m\n\n![Figure](Direction Sense_figures/fig_1_73c17470.png)",
+      "solutionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"https://cms-cdn.classplus.co/parserImages/production/441518_1739601874986.png\" name=\"Picture 11\" align=\"bottom\" width=\"211\" height=\"148\" border=\"0\">\n</img></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Shortest\n distance between Lihaan's office and Traffic signal =</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\">√<span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">8</span></span><sup><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">2</span></span></sup><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">\n + 15</span></span><sup><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">2</span></span></sup><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">\n = √64+225 = √289 =17m</span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": [
+        "Direction Sense_figures/fig_1_73c17470.png"
+      ]
+    },
+    {
+      "questionNumber": 20,
+      "section": "Direction Sense",
+      "questionId": "67b037d4e6cb5b567b6f9097",
+      "questionText": "Point\n A is 10m to the south of Point B, which is 8m to the west of Point\n C. Point D is 14m to the north of Point C. Point E is 4m to the\n east of Point F, which is 5m to the south of Point D. Point E is\n 8m to the west of Point G. Point H is 19m to the south of Point G.\n Point H is 12m to the east of Point I. Find the shortest distance\n between Points D and G?",
+      "questionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Point\n A is 10m to the south of Point B, which is 8m to the west of Point\n C. Point D is 14m to the north of Point C. Point E is 4m to the\n east of Point F, which is 5m to the south of Point D. Point E is\n 8m to the west of Point G. Point H is 19m to the south of Point G.\n Point H is 12m to the east of Point I. Find the shortest distance\n between Points D and G?</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "10\n m",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">10\n m</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "13\n m",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">13\n m</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "12\n m",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">12\n m</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "20\n m",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">20\n m</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "A",
+      "solutionText": "The\n shortest distance between D and G is 13m.\n\n![Figure](Direction Sense_figures/fig_1_3dd320e6.png)",
+      "solutionHtml": "<p style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"https://cms-cdn.classplus.co/parserImages/production/108204_1739601875497.png\" name=\"Picture 13\" align=\"bottom\" width=\"194\" height=\"218\" border=\"0\">\n</img></span></p>\n <p style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">The\n shortest distance between D and G is 13m.</span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": [
+        "Direction Sense_figures/fig_1_3dd320e6.png"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,825 @@
+{
+  "testName": "Syllogism",
+  "testId": "67b992488fc4f1283b3bff38",
+  "contentId": 23945644,
+  "totalQuestions": 20,
+  "totalFigures": 18,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "section": "Syllogism",
+      "questionId": "67b99282977270dcc143b9d9",
+      "questionText": "Statements:\n\n A\n few Ostriches are Peacocks. \n\n All\n Peacocks are Swans. \n\n Some\n Swans are Ducks. \n\n Conclusions:\n\n I.\n A few Swans are Ostriches. \n\n II.\n Some Ducks are Peacocks.",
+      "questionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statements:\n </span></span></span></span>\n </p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">A\n few Ostriches are Peacocks.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">All\n Peacocks are Swans.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Some\n Swans are Ducks.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Conclusions:\n </span></span></span></span>\n </p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I.\n A few Swans are Ostriches.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II.\n Some Ducks are Peacocks.</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "If\n only conclusion I follows",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n only conclusion I follows</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "If\n only conclusion II follows",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n only conclusion II follows</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "If\n either conclusion I or II follows",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n either conclusion I or II follows</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "If\n neither conclusion I nor II follows",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n neither conclusion I nor II follows</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "A",
+      "solutionText": "![Figure](Syllogism_figures/fig_1_6b6e883c.png)",
+      "solutionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"https://cms-cdn.classplus.co/parserImages/production/130775_1740214913371.png\" name=\"Picture 16\" align=\"bottom\" width=\"394\" height=\"99\" border=\"0\">\n</img></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": [
+        "Syllogism_figures/fig_1_6b6e883c.png"
+      ]
+    },
+    {
+      "questionNumber": 2,
+      "section": "Syllogism",
+      "questionId": "67b99282977270fc1343b9c0",
+      "questionText": "Statements:\n\n A\n few parrots are not pigeons. \n\n All\n pigeons are white. \n\n No\n white is green. \n\n Conclusions:\n\n I.\n No green is a pigeon. \n\n II.\n No parrot is green. \n\n III.\n Some pigeons are not parrots.",
+      "questionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statements:\n </span></span></span></span>\n </p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">A\n few parrots are not pigeons.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">All\n pigeons are white.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">No\n white is green.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Conclusions:\n </span></span></span></span>\n </p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I.\n No green is a pigeon.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II.\n No parrot is green.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">III.\n Some pigeons are not parrots.</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "If\n only conclusion I follows",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n only conclusion I follows</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "If\n either conclusion I or II follows",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n either conclusion I or II follows</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "If\n conclusion II or III follows",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n conclusion II or III follows</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "All\n follows",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">All\n follows</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "A",
+      "solutionText": "![Figure](Syllogism_figures/fig_1_6e39a2df.png)",
+      "solutionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"https://cms-cdn.classplus.co/parserImages/production/784472_1740214913107.png\" name=\"Picture 11\" align=\"bottom\" width=\"426\" height=\"116\" border=\"0\">\n</img></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": [
+        "Syllogism_figures/fig_1_6e39a2df.png"
+      ]
+    },
+    {
+      "questionNumber": 3,
+      "section": "Syllogism",
+      "questionId": "67b99282977270528543b9c5",
+      "questionText": "Statements:\n\n No\n crab is star fish. \n\n No\n octopus is crab. \n\n Conclusions:\n\n I.\n No star fish is octopus. \n\n II.\n All octopus are star fish.",
+      "questionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statements:\n </span></span></span></span>\n </p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">No\n crab is star fish.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">No\n octopus is crab.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Conclusions:\n </span></span></span></span>\n </p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I.\n No star fish is octopus.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II.\n All octopus are star fish.</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "If\n only conclusion I follows",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n only conclusion I follows</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "If\n only conclusion II follows",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n only conclusion II follows</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "If\n either conclusion I or II follows",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n either conclusion I or II follows</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "If\n neither conclusion I nor II follows",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n neither conclusion I nor II follows</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "D",
+      "solutionText": "![Figure](Syllogism_figures/fig_1_3a5a2148.png)",
+      "solutionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"https://cms-cdn.classplus.co/parserImages/production/3428_1740214913162.png\" name=\"Picture 12\" align=\"bottom\" width=\"362\" height=\"65\" border=\"0\">\n</img></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": [
+        "Syllogism_figures/fig_1_3a5a2148.png"
+      ]
+    },
+    {
+      "questionNumber": 4,
+      "section": "Syllogism",
+      "questionId": "67b99282977270ccd943b9ac",
+      "questionText": "Statements: \n\n No\n bike is a bus. \n\n All\n buses are trucks. \n\n All\n trucks are cars. \n\n Conclusions: \n\n I.\n All buses are cars. \n\n II.\n At least some cars are trucks.",
+      "questionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statements:</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">No\n bike is a bus.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">All\n buses are trucks.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">All\n trucks are cars.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Conclusions:</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I.\n All buses are cars.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II.\n At least some cars are trucks.</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "If\n only conclusion I follows",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n only conclusion I follows</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "If\n only conclusion II follows",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n only conclusion II follows</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "If\n either conclusion I or II follows",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n either conclusion I or II follows</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "If\n both conclusion I and II follows",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n both conclusion I and II follows</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "D",
+      "solutionText": "![Figure](Syllogism_figures/fig_1_698bc8da.png)",
+      "solutionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"https://cms-cdn.classplus.co/parserImages/production/88359_1740214912907.png\" name=\"Picture 7\" align=\"bottom\" width=\"290\" height=\"97\" border=\"0\">\n</img></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": [
+        "Syllogism_figures/fig_1_698bc8da.png"
+      ]
+    },
+    {
+      "questionNumber": 5,
+      "section": "Syllogism",
+      "questionId": "67b992829772708b9e43b9e8",
+      "questionText": "Statements:\n\n Only\n a few spoons are bottles. \n\n All\n bottles are clocks. \n\n No\n clock is a stool. \n\n Conclusions:\n\n I.\n At least some spoons are clocks. \n\n II.\n All spoons can never be stools",
+      "questionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statements:\n </span></span></span></span>\n </p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n a few spoons are bottles.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">All\n bottles are clocks.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">No\n clock is a stool.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Conclusions:\n </span></span></span></span>\n </p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I.\n At least some spoons are clocks.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II.\n All spoons can never be stools</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "If\n only conclusion I follows",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n only conclusion I follows</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "If\n only conclusion II follows",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n only conclusion II follows</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "If\n either conclusion I or II follows",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n either conclusion I or II follows</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "If\n both conclusion I and II follows",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n both conclusion I and II follows</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "D",
+      "solutionText": "Only\n a few spoons are bottles (I) + All Bottles are clocks (A) \n\n I\n + A = I \n\n Some\n spoons are clocks (I). \n\n Hence\n conclusion I follows. \n\n Again,\n some spoons are clock (I) + No clock is a stool (E) \n\n I\n + E = O \n\n Some\n spoons are not stools. \n\n Hence\n conclusion II follows",
+      "solutionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n a few spoons are bottles (I) + All Bottles are clocks (A)</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I\n + A = I</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Some\n spoons are clocks (I).</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Hence\n conclusion I follows.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Again,\n some spoons are clock (I) + No clock is a stool (E)</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I\n + E = O</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Some\n spoons are not stools.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Hence\n conclusion II follows</span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 6,
+      "section": "Syllogism",
+      "questionId": "67b99282977270590c43b998",
+      "questionText": "Statements:\n\n Some\n girls are young. \n\n No\n young is a woman. \n\n Conclusions:\n\n I.\n Some women are not girls. \n\n II.\n All women being girls is a possibility.",
+      "questionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statements:\n </span></span></span></span>\n </p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Some\n girls are young.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">No\n young is a woman.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Conclusions:\n </span></span></span></span>\n </p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I.\n Some women are not girls.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II.\n All women being girls is a possibility.</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "If\n only conclusion I follows",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n only conclusion I follows</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "If\n only conclusion II follows",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n only conclusion II follows</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "If\n either conclusion I or II follows",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n either conclusion I or II follows</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "If\n neither conclusion I nor II follows",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n neither conclusion I nor II follows</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "![Figure](Syllogism_figures/fig_1_6baac14c.png)",
+      "solutionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"https://cms-cdn.classplus.co/parserImages/production/184581_1740214912702.png\" name=\"Picture 3\" align=\"bottom\" width=\"287\" height=\"61\" border=\"0\">\n</img></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": [
+        "Syllogism_figures/fig_1_6baac14c.png"
+      ]
+    },
+    {
+      "questionNumber": 7,
+      "section": "Syllogism",
+      "questionId": "67b99282977270e7e843b9ed",
+      "questionText": "Statements:\n\n A\n graduate is a man. \n\n This\n thief is a graduate. \n\n Conclusions:\n\n I.\n This thief is a man. \n\n II.\n Some men are thieves.",
+      "questionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statements:\n </span></span></span></span>\n </p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">A\n graduate is a man.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">This\n thief is a graduate.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Conclusions:\n </span></span></span></span>\n </p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I.\n This thief is a man.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II.\n Some men are thieves.</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "If\n only conclusion I follows",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n only conclusion I follows</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "If\n only conclusion II follows",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n only conclusion II follows</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "If\n either conclusion I or II follows",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n either conclusion I or II follows</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "If\n both conclusion I and II follows",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n both conclusion I and II follows</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "C",
+      "solutionText": "Checking\n I: This thief is a man. \n\n Using\n S2 and S1, we get \n\n This\n thief is a graduate (A) + A graduate is a man (A) ⇒ \n This thief is a man. Hence, C1 follows. \n\n Checking\n II: Some men are thieves. \n\n Converse\n of the conclusion derived above ⇒ \n Some men are thieves. Hence, C2 follows as well.",
+      "solutionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Checking\n I: This thief is a man.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Using\n S2 and S1, we get</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">This\n thief is a graduate (A) + A graduate is a man (A) </span></span><span style=\"font-family: 'Cambria Math',serif\"><span style=\"font-size: 19px\">⇒</span></span><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">\n This thief is a man. Hence, C1 follows.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Checking\n II: Some men are thieves.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Converse\n of the conclusion derived above </span></span><span style=\"font-family: 'Cambria Math',serif\"><span style=\"font-size: 19px\">⇒</span></span><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">\n Some men are thieves. Hence, C2 follows as well.</span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 8,
+      "section": "Syllogism",
+      "questionId": "67b9928297727068e643b9b6",
+      "questionText": "Statements: \n\n Some chairs are desks. \n\n No desk is a bench. \n\n Some Tables are Chairs. \n\n Conclusions: \n\n I. All benches being tables possibility. \n\n II. At least some desks are tables",
+      "questionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none;\"><span style=\"color: #000000;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-family: Cambria,serif;\"><span style=\"font-size: 19px;\">Statements:</span></span></span></span></p>\n<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none;\"><span style=\"color: #000000;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-family: Cambria,serif;\"><span style=\"font-size: 19px;\">Some chairs are desks.</span></span></span></span></p>\n<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none;\"><span style=\"color: #000000;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-family: Cambria,serif;\"><span style=\"font-size: 19px;\">No desk is a bench.</span></span></span></span></p>\n<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none;\"><span style=\"color: #000000;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-family: Cambria,serif;\"><span style=\"font-size: 19px;\">Some Tables are Chairs.</span></span></span></span></p>\n<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none;\"><span style=\"color: #000000;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-family: Cambria,serif;\"><span style=\"font-size: 19px;\">Conclusions:</span></span></span></span></p>\n<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none;\"><span style=\"color: #000000;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-family: Cambria,serif;\"><span style=\"font-size: 19px;\">I. All benches being tables possibility.</span></span></span></span></p>\n<p align=\"justify\" style=\"text-decoration: none;\"><span style=\"color: #000000;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-family: Cambria,serif;\"><span style=\"font-size: 19px;\">II. At least some desks are tables</span></span></span></span></p>",
+      "options": [
+        {
+          "option": "A",
+          "text": "If\n only conclusion I follows",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n only conclusion I follows</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "If\n only conclusion II follows",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n only conclusion II follows</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "If\n either conclusion I or II follows",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n either conclusion I or II follows</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "If\n neither conclusion I nor II follows",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n neither conclusion I nor II follows</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "D",
+      "solutionText": "![Figure](Syllogism_figures/fig_1_1a72be5f.png)",
+      "solutionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"https://cms-cdn.classplus.co/parserImages/production/373411_1740214913010.png\" name=\"Picture 9\" align=\"bottom\" width=\"394\" height=\"79\" border=\"0\">\n</img></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": [
+        "Syllogism_figures/fig_1_1a72be5f.png"
+      ]
+    },
+    {
+      "questionNumber": 9,
+      "section": "Syllogism",
+      "questionId": "67b99282977270881a43b98e",
+      "questionText": "Statements: \n\n Some\n trees are plants. \n\n All\n bushes are plants. \n\n Conclusions: \n\n I.\n At least some trees are bushes. \n\n II.\n Some trees are definitely not bushes.",
+      "questionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statements:</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Some\n trees are plants.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">All\n bushes are plants.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Conclusions:</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I.\n At least some trees are bushes.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II.\n Some trees are definitely not bushes.</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "If\n only conclusion I follows",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n only conclusion I follows</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "If\n only conclusion II follows",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n only conclusion II follows</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "If\n either conclusion I or II follows",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n either conclusion I or II follows</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "If\n neither conclusion I nor II follows",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n neither conclusion I nor II follows</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "C",
+      "solutionText": "![Figure](Syllogism_figures/fig_1_6ecf53ed.png)",
+      "solutionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"https://cms-cdn.classplus.co/parserImages/production/74358_1740214912565.png\" name=\"Picture 1\" align=\"bottom\" width=\"276\" height=\"97\" border=\"0\">\n</img></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": [
+        "Syllogism_figures/fig_1_6ecf53ed.png"
+      ]
+    },
+    {
+      "questionNumber": 10,
+      "section": "Syllogism",
+      "questionId": "67b9928297727018f443b9ca",
+      "questionText": "Statements: \n\n Roshni\n is a teacher. \n\n Roshni\n is a student. \n\n No\n student is a scholar. \n\n Conclusions: \n\n I.\n Some students are teachers. \n\n II.\n Roshni is not a scholar",
+      "questionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statements:</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Roshni\n is a teacher.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Roshni\n is a student.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">No\n student is a scholar.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Conclusions:</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I.\n Some students are teachers.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II.\n Roshni is not a scholar</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "If\n only conclusion I follows",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n only conclusion I follows</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "If\n only conclusion II follows",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n only conclusion II follows</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "If\n either conclusion I or II follows",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n either conclusion I or II follows</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "Both\n conclusion I and II follows",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Both\n conclusion I and II follows</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "D",
+      "solutionText": "![Figure](Syllogism_figures/fig_1_70c4c025.png)",
+      "solutionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"https://cms-cdn.classplus.co/parserImages/production/185464_1740214913213.png\" name=\"Picture 13\" align=\"bottom\" width=\"398\" height=\"103\" border=\"0\">\n</img></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": [
+        "Syllogism_figures/fig_1_70c4c025.png"
+      ]
+    },
+    {
+      "questionNumber": 11,
+      "section": "Syllogism",
+      "questionId": "67b9928297727054d143b9bb",
+      "questionText": "Statements: \n\n Some\n questions are answers. \n\n Some\n answers are explanations. \n\n All\n explanations are lengthy. \n\n No\n lengthy is a summary. \n\n Conclusions: \n\n I.\n No explanation is summary. \n\n II.\n Some lengthy are answers. \n\n III.\n Some answers are not summary.",
+      "questionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statements:</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Some\n questions are answers.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Some\n answers are explanations.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">All\n explanations are lengthy.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">No\n lengthy is a summary.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Conclusions:</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I.\n No explanation is summary.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II.\n Some lengthy are answers.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">III.\n Some answers are not summary.</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "If\n only conclusion I follows",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n only conclusion I follows</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "If\n only conclusion II follows",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n only conclusion II follows</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "If\n either conclusion I or II follows",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n either conclusion I or II follows</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "All\n conclusion follows",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">All\n conclusion follows</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "D",
+      "solutionText": "![Figure](Syllogism_figures/fig_1_f2512342.png)",
+      "solutionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"https://cms-cdn.classplus.co/parserImages/production/682694_1740214913061.png\" name=\"Picture 10\" align=\"bottom\" width=\"515\" height=\"67\" border=\"0\">\n</img></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": [
+        "Syllogism_figures/fig_1_f2512342.png"
+      ]
+    },
+    {
+      "questionNumber": 12,
+      "section": "Syllogism",
+      "questionId": "67b992829772700ae443b9a7",
+      "questionText": "Statements: \n\n All\n letters are envelopes. \n\n No\n envelope is post office. \n\n Some\n post offices are postmen. \n\n Conclusions: \n\n I.\n Some postmen are letters. \n\n II.\n No postman is letter.",
+      "questionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statements:</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">All\n letters are envelopes.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">No\n envelope is post office.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Some\n post offices are postmen.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Conclusions:</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I.\n Some postmen are letters.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II.\n No postman is letter.</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "If\n only conclusion I follows",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n only conclusion I follows</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "If\n only conclusion II follows",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n only conclusion II follows</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "If\n either conclusion I or II follows",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n either conclusion I or II follows</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "If\n neither conclusion I nor II follows",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n neither conclusion I nor II follows</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "C",
+      "solutionText": "![Figure](Syllogism_figures/fig_1_263aab6e.png)",
+      "solutionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"https://cms-cdn.classplus.co/parserImages/production/694788_1740214912856.png\" name=\"Picture 6\" align=\"bottom\" width=\"441\" height=\"95\" border=\"0\">\n</img></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": [
+        "Syllogism_figures/fig_1_263aab6e.png"
+      ]
+    },
+    {
+      "questionNumber": 13,
+      "section": "Syllogism",
+      "questionId": "67b99282977270c44643b9e3",
+      "questionText": "Statements:\n\n Only\n a few teachers are doctors. \n\n 0%\n teachers are lawyers. \n\n Conclusions:\n\n I.\n All lawyers are teachers. \n\n II.\n Some doctors are not lawyers.",
+      "questionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statements:\n </span></span></span></span>\n </p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n a few teachers are doctors.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">0%\n teachers are lawyers.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Conclusions:\n </span></span></span></span>\n </p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I.\n All lawyers are teachers.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II.\n Some doctors are not lawyers.</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "If\n only conclusion I follows",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n only conclusion I follows</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "If\n only conclusion II follows",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n only conclusion II follows</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "If\n either conclusion I or II follows",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n either conclusion I or II follows</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "If\n neither conclusion I nor II follows",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n neither conclusion I nor II follows</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "![Figure](Syllogism_figures/fig_1_7323f938.png)",
+      "solutionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"https://cms-cdn.classplus.co/parserImages/production/772897_1740214913474.png\" name=\"Picture 18\" align=\"bottom\" width=\"340\" height=\"96\" border=\"0\">\n</img></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": [
+        "Syllogism_figures/fig_1_7323f938.png"
+      ]
+    },
+    {
+      "questionNumber": 14,
+      "section": "Syllogism",
+      "questionId": "67b99282977270a8b443b9cf",
+      "questionText": "Statements:\n All clerks are professors. \n\n No\n professor is a doctor. \n\n All\n doctors are managers. \n\n Conclusions:\n I. No manager is a clerk. \n\n II.\n All professors being managers is a possibility.",
+      "questionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statements:\n All clerks are professors.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">No\n professor is a doctor.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">All\n doctors are managers.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Conclusions:\n I. No manager is a clerk.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II.\n All professors being managers is a possibility.</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "If\n only conclusion I follows",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n only conclusion I follows</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "If\n only conclusion II follows",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n only conclusion II follows</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "If\n either conclusion I or II follows",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n either conclusion I or II follows</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "If\n neither conclusion I nor II follows",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n neither conclusion I nor II follows</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "D",
+      "solutionText": "![Figure](Syllogism_figures/fig_1_324ff6fb.png)",
+      "solutionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"https://cms-cdn.classplus.co/parserImages/production/914823_1740214913261.png\" name=\"Picture 14\" align=\"bottom\" width=\"448\" height=\"92\" border=\"0\">\n</img></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": [
+        "Syllogism_figures/fig_1_324ff6fb.png"
+      ]
+    },
+    {
+      "questionNumber": 15,
+      "section": "Syllogism",
+      "questionId": "67b99282977270614643b993",
+      "questionText": "Statements: \n\n All\n planets are stars. \n\n All\n meteors are planets. \n\n No\n orbit is a star. \n\n Conclusions: \n\n I.\n All meteors are stars. \n\n II.\n No planet is an orbit.",
+      "questionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statements:</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">All\n planets are stars.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">All\n meteors are planets.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">No\n orbit is a star.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Conclusions:</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I.\n All meteors are stars.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II.\n No planet is an orbit.</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "If\n only conclusion I follows",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n only conclusion I follows</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "If\n only conclusion II follows",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n only conclusion II follows</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "If\n either conclusion I or II follows",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n either conclusion I or II follows</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "Both\n conclusion I and II follows",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Both\n conclusion I and  II follows</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "D",
+      "solutionText": "![Figure](Syllogism_figures/fig_1_618a015b.png)",
+      "solutionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"https://cms-cdn.classplus.co/parserImages/production/133555_1740214912651.png\" name=\"Picture 2\" align=\"bottom\" width=\"371\" height=\"105\" border=\"0\">\n</img></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": [
+        "Syllogism_figures/fig_1_618a015b.png"
+      ]
+    },
+    {
+      "questionNumber": 16,
+      "section": "Syllogism",
+      "questionId": "67b99282977270e2ee43b9d4",
+      "questionText": "Statements:\n\n Varun\n likes Ice-creams. \n\n All\n ice-creams are sweet in taste. \n\n Conclusions:\n\n I.\n All sweet in taste things being ice-creams is a possibility. \n\n II.\n Varun doesn't like things that are sour in taste.",
+      "questionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statements:\n </span></span></span></span>\n </p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Varun\n likes Ice-creams.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">All\n ice-creams are sweet in taste.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Conclusions:\n </span></span></span></span>\n </p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I.\n All sweet in taste things being ice-creams is a possibility.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II.\n Varun doesn't like things that are sour in taste.</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "If\n only conclusion I follows",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n only conclusion I follows</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "If\n only conclusion II follows",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n only conclusion II follows</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "If\n either conclusion I or II follows",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n either conclusion I or II follows</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "If\n neither conclusion I nor II follows",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n neither conclusion I nor II follows</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "A",
+      "solutionText": "![Figure](Syllogism_figures/fig_1_1c8c1636.png)",
+      "solutionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"https://cms-cdn.classplus.co/parserImages/production/715067_1740214913314.png\" name=\"Picture 15\" align=\"bottom\" width=\"277\" height=\"99\" border=\"0\">\n</img></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": [
+        "Syllogism_figures/fig_1_1c8c1636.png"
+      ]
+    },
+    {
+      "questionNumber": 17,
+      "section": "Syllogism",
+      "questionId": "67b9928297727059e043b9de",
+      "questionText": "Statements:\n No tea is sugar. \n\n No\n milk is tea. \n\n Conclusions:\n I. No sugar is milk. \n\n II.\n All milk are sugar.",
+      "questionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statements:\n No tea is sugar.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">No\n milk is tea.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Conclusions:\n I. No sugar is milk.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II.\n All milk are sugar.</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "If\n only conclusion I follows",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n only conclusion I follows</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "If\n only conclusion II follows",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n only conclusion II follows</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "If\n either conclusion I or II follows",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n either conclusion I or II follows</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "If\n neither conclusion I nor II follows",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n neither conclusion I nor II follows</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "D",
+      "solutionText": "![Figure](Syllogism_figures/fig_1_776cbc90.png)",
+      "solutionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"https://cms-cdn.classplus.co/parserImages/production/805861_1740214913424.png\" name=\"Picture 17\" align=\"bottom\" width=\"278\" height=\"64\" border=\"0\">\n</img></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": [
+        "Syllogism_figures/fig_1_776cbc90.png"
+      ]
+    },
+    {
+      "questionNumber": 18,
+      "section": "Syllogism",
+      "questionId": "67b9928297727087f643b99d",
+      "questionText": "Statement:\n\n Some\n pizzas are pasta. \n\n All\n pastas are macaronis. \n\n Some\n macaronis are pastries. \n\n Conclusions:\n\n I.\n All pizzas being macaronis is a possibility. \n\n II.\n All pastas are pizzas.",
+      "questionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statement:\n </span></span></span></span>\n </p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Some\n pizzas are pasta.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">All\n pastas are macaronis.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Some\n macaronis are pastries.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Conclusions:\n </span></span></span></span>\n </p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I.\n All pizzas being macaronis is a possibility.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II.\n All pastas are pizzas.</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "If\n only conclusion I follows",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n only conclusion I follows</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "If\n only conclusion II follows",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n only conclusion II follows</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "If\n either conclusion I or II follows",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n either conclusion I or II follows</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "If\n neither conclusion I nor II follows",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n neither conclusion I nor II follows</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "A",
+      "solutionText": "![Figure](Syllogism_figures/fig_1_5802ecc4.png)",
+      "solutionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"https://cms-cdn.classplus.co/parserImages/production/368373_1740214912750.png\" name=\"Picture 4\" align=\"bottom\" width=\"367\" height=\"93\" border=\"0\">\n</img></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": [
+        "Syllogism_figures/fig_1_5802ecc4.png"
+      ]
+    },
+    {
+      "questionNumber": 19,
+      "section": "Syllogism",
+      "questionId": "67b992829772707c1243b9a2",
+      "questionText": "Statements: \n\n All\n animals are mammals. \n\n No\n mammal is reptile. \n\n All\n reptiles are amphibians. \n\n Conclusions: \n\n I.\n All animals are amphibians. \n\n II.\n Some amphibians are mammals",
+      "questionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statements:</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">All\n animals are mammals.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">No\n mammal is reptile.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">All\n reptiles are amphibians.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Conclusions:</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I.\n All animals are amphibians.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II.\n Some amphibians are mammals</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "If\n only conclusion I follows",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n only conclusion I follows</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "If\n only conclusion II follows",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n only conclusion II follows</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "If\n either conclusion I or II follows",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n either conclusion I or II follows</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "If\n neither conclusion I nor II follows",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n neither conclusion I nor II follows</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "D",
+      "solutionText": "![Figure](Syllogism_figures/fig_1_6e439af8.png)",
+      "solutionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"https://cms-cdn.classplus.co/parserImages/production/195641_1740214912797.png\" name=\"Picture 5\" align=\"bottom\" width=\"408\" height=\"104\" border=\"0\">\n</img></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": [
+        "Syllogism_figures/fig_1_6e439af8.png"
+      ]
+    },
+    {
+      "questionNumber": 20,
+      "section": "Syllogism",
+      "questionId": "67b992829772703d6b43b9b1",
+      "questionText": "Statements: \n\n At\n least some Europeans are British. \n\n Every\n European is an American. \n\n No\n American is an African. \n\n Conclusions: \n\n All\n Americans being British is a possibility. \n\n Some\n Europeans can be Africans as well. \n\n No\n African is a British.",
+      "questionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statements:</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">At\n least some Europeans are British.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Every\n European is an American.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">No\n American is an African.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Conclusions:</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">All\n Americans being British is a possibility.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Some\n Europeans can be Africans as well.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">No\n African is a British.</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "If\n only conclusion I follows",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n only conclusion I follows</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "If\n conclusion I and III follows",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n conclusion I and III follows</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "If\n conclusion I or II follows",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n conclusion I or II follows</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "None follows",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none;\"><span style=\"color: #000000;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-family: Cambria,serif;\"><span style=\"font-size: 19px;\">None follows</span></span></span></span></p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solutionText": "![Figure](Syllogism_figures/fig_1_6c87cef2.png)",
+      "solutionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"https://cms-cdn.classplus.co/parserImages/production/191564_1740214912960.png\" name=\"Picture 8\" align=\"bottom\" width=\"443\" height=\"93\" border=\"0\">\n</img></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": [
+        "Syllogism_figures/fig_1_6c87cef2.png"
+      ]
+    }
+  ]
+}

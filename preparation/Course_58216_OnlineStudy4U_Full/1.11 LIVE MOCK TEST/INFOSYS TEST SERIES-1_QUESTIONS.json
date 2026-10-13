@@ -1,0 +1,1392 @@
+{
+  "testName": "INFOSYS TEST SERIES-1",
+  "testId": "68de1bd8f333192f61169677",
+  "contentId": 23946909,
+  "totalQuestions": 35,
+  "totalFigures": 9,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "section": "Puzzles",
+      "questionId": "68de264958e478256ed8a576",
+      "questionText": "![Figure](INFOSYS TEST SERIES-1_figures/fig_1_158e3e62.png)",
+      "questionHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"https://cms-cdn.classplus.co/parserImages/production/931738_1759389256798.png\" name=\"Picture 3\" align=\"bottom\" width=\"487\" height=\"199\" border=\"0\">\n</img></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "76",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">76</span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "45",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">45</span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "67",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">67</span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "68",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">68</span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "D",
+      "solutionText": "Logic:\n 5 x 3 + 6 x 4 = 39",
+      "solutionHtml": "<p style=\"margin-bottom: 0px\">\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Logic:\n 5 x 3 + 6 x 4 = 39</span></span></span></p>\n <p style=\"text-decoration: none\"><br>\n\n </p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": [
+        "INFOSYS TEST SERIES-1_figures/fig_1_158e3e62.png"
+      ]
+    },
+    {
+      "questionNumber": 2,
+      "section": "Puzzles",
+      "questionId": "68de264958e478b816d8a580",
+      "questionText": "![Figure](INFOSYS TEST SERIES-1_figures/fig_1_7db9d367.png)",
+      "questionHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"https://cms-cdn.classplus.co/parserImages/production/485870_1759389256921.png\" name=\"Picture 5\" align=\"bottom\" width=\"344\" height=\"261\" border=\"0\">\n</img></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "11",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span lang=\"en-US\">11</span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "33",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span lang=\"en-US\">33</span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "22",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span lang=\"en-US\">22</span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "32",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span lang=\"en-US\">32</span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "A",
+      "solutionText": "Logic: 3 x 5 +  4 x 3 = 27",
+      "solutionHtml": "<p style=\"text-decoration: none;\"><span style=\"color: #000000;\"><span style=\"font-family: Calibri,serif;\"><span lang=\"en-US\">Logic: 3 x 5 +&nbsp; 4 x 3 = 27</span></span></span></p>",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": [
+        "INFOSYS TEST SERIES-1_figures/fig_1_7db9d367.png"
+      ]
+    },
+    {
+      "questionNumber": 3,
+      "section": "Puzzles",
+      "questionId": "68de264958e4785055d8a571",
+      "questionText": "![Figure](INFOSYS TEST SERIES-1_figures/fig_1_22f142f6.png)",
+      "questionHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"https://cms-cdn.classplus.co/parserImages/production/886212_1759389256699.png\" name=\"Picture 2\" align=\"bottom\" width=\"391\" height=\"332\" border=\"0\">\n</img></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "4",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span lang=\"en-US\">4</span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "2",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span lang=\"en-US\">2</span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "6",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span lang=\"en-US\">6</span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "8",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span lang=\"en-US\">8</span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "Logic:\n 9 x 4 – ( 9 + 2) = 25",
+      "solutionHtml": "<p style=\"margin-bottom: 0px\">\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Logic:\n  9 x 4 – ( 9 + 2) = 25</span></span></span></p>\n <p style=\"text-decoration: none\"><br>\n\n </p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": [
+        "INFOSYS TEST SERIES-1_figures/fig_1_22f142f6.png"
+      ]
+    },
+    {
+      "questionNumber": 4,
+      "section": "Puzzles",
+      "questionId": "68de264958e4784683d8a56c",
+      "questionText": "![Figure](INFOSYS TEST SERIES-1_figures/fig_1_68fdee75.png)",
+      "questionHtml": "<p>\n <span style=\"display: inline-block; border: none; padding: 0px\"><img src=\"https://cms-cdn.classplus.co/parserImages/production/480774_1759389256607.png\" name=\"Picture 1\" align=\"bottom\" width=\"416\" height=\"343\" border=\"0\">\n</img></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "4",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span lang=\"en-US\">4</span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "3",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span lang=\"en-US\">3</span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "2",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span lang=\"en-US\">2</span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "1",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span lang=\"en-US\">1</span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "D",
+      "solutionText": "Logic:\n 4 x 5 – (4 + 5) =11 \n\n 3\n x 2 – ( 3+2) = 1",
+      "solutionHtml": "<p style=\"margin-bottom: 0px\">\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Logic:\n 4 x 5 – (4 + 5) =11</span></span></span></p>\n <p style=\"margin-bottom: 0px\"><span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">3\n x 2 – ( 3+2) = 1</span></span></span></p>\n <p><br>\n\n </p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": [
+        "INFOSYS TEST SERIES-1_figures/fig_1_68fdee75.png"
+      ]
+    },
+    {
+      "questionNumber": 5,
+      "section": "Puzzles",
+      "questionId": "68de264958e478ea90d8a57b",
+      "questionText": "![Figure](INFOSYS TEST SERIES-1_figures/fig_1_75b13157.png)",
+      "questionHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"https://cms-cdn.classplus.co/parserImages/production/773679_1759389256864.png\" name=\"Picture 4\" align=\"bottom\" width=\"195\" height=\"135\" border=\"0\">\n</img></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "J",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span lang=\"en-US\">J</span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "T",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span lang=\"en-US\">T</span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "I",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span lang=\"en-US\">I</span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "O",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span lang=\"en-US\">O</span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "A",
+      "solutionText": "Logic:\n\n Write\n the alphabetical position first. \n\n Then\n 3 x 8 /2 = 12 , where 3 is C , H is 8 and L=12",
+      "solutionHtml": "<p style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span lang=\"en-US\">Logic:\n </span></span></span>\n </p>\n <p style=\"margin-bottom: 0px; text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span lang=\"en-US\">Write\n the alphabetical position first.</span></span></span></p>\n <p style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span lang=\"en-US\">Then\n 3 x 8 /2 = 12 , where 3 is C , H is 8 and L=12</span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": [
+        "INFOSYS TEST SERIES-1_figures/fig_1_75b13157.png"
+      ]
+    },
+    {
+      "questionNumber": 6,
+      "section": "Pseudo Code",
+      "questionId": "68de2ecb2fe2a1c7bb67518d",
+      "questionText": "![Figure](INFOSYS TEST SERIES-1_figures/fig_1_4d4c7063.png)",
+      "questionHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"https://cms-cdn.classplus.co/parserImages/production/99348_1759391435253.png\" name=\"Picture 5\" align=\"bottom\" width=\"487\" height=\"343\" border=\"0\">\n</img></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "2",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span lang=\"en-US\">2</span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "13",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span lang=\"en-US\">13</span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "25",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span lang=\"en-US\">25</span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "5",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span lang=\"en-US\">5</span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "",
+      "solutionHtml": "<p style=\"text-decoration: none\">\n <br>\n\n </p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": [
+        "INFOSYS TEST SERIES-1_figures/fig_1_4d4c7063.png"
+      ]
+    },
+    {
+      "questionNumber": 7,
+      "section": "Pseudo Code",
+      "questionId": "68de2ecb2fe2a1ce04675179",
+      "questionText": "![Figure](INFOSYS TEST SERIES-1_figures/fig_1_6de5adcd.png)",
+      "questionHtml": "<p>\n <span style=\"display: inline-block; border: none; padding: 0px\"><img src=\"https://cms-cdn.classplus.co/parserImages/production/589060_1759391434993.png\" name=\"Picture 1\" align=\"bottom\" width=\"487\" height=\"152\" border=\"0\">\n</img></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "None",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span lang=\"en-US\">None</span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "40",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span lang=\"en-US\">40</span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "50",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span lang=\"en-US\">50</span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "60",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span lang=\"en-US\">60</span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "j=50\n and j-10 , 50-10 = 40",
+      "solutionHtml": "<p>\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">j=50\n and j-10 , 50-10 = 40</span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": [
+        "INFOSYS TEST SERIES-1_figures/fig_1_6de5adcd.png"
+      ]
+    },
+    {
+      "questionNumber": 8,
+      "section": "Pseudo Code",
+      "questionId": "68de2ecb2fe2a12bfb675188",
+      "questionText": "![Figure](INFOSYS TEST SERIES-1_figures/fig_1_c5d36fd0.png)",
+      "questionHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"https://cms-cdn.classplus.co/parserImages/production/169252_1759391435193.png\" name=\"Picture 4\" align=\"bottom\" width=\"487\" height=\"284\" border=\"0\">\n</img></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "6\n times",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span lang=\"en-US\">6\n times</span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "8\n times",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span lang=\"en-US\">8\n times</span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "5\n times",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span lang=\"en-US\">5\n times</span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "4\n times",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span lang=\"en-US\">4\n times</span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "A",
+      "solutionText": "",
+      "solutionHtml": "<p style=\"text-decoration: none\">\n <br>\n\n </p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": [
+        "INFOSYS TEST SERIES-1_figures/fig_1_c5d36fd0.png"
+      ]
+    },
+    {
+      "questionNumber": 9,
+      "section": "Pseudo Code",
+      "questionId": "68de2ecb2fe2a1ce7a67517e",
+      "questionText": "What will be the\n output of the following pseudo code \n\n Integer\n i, j, k, d \n\n Set\n j = 6, i = 8, k = 2, d = 1 \n\n if\n ((j ^ i) mod k equals 0) then \n\n d = d + 1 \n\n else \n\n d = d - 1 \n\n end\n if \n\n Print\n d",
+      "questionHtml": "<p style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\">What will be the\n output of the following pseudo code</span></span></p>\n <p style=\"margin-bottom: 0px; text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\">Integer\n i, j, k, d</span></span></p>\n <p style=\"margin-bottom: 0px; text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\">Set\n j = 6, i = 8, k = 2, d = 1</span></span></p>\n <p style=\"margin-bottom: 0px; text-decoration: none\"><br>\n\n </p>\n <p style=\"margin-bottom: 0px; text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\">if\n ((j ^ i) mod k equals 0) then</span></span></p>\n <p style=\"margin-bottom: 0px; text-decoration: none\"><span style=\"color: #000000\">\n    <span style=\"font-family: Calibri,serif\">d = d + 1</span></span></p>\n <p style=\"margin-bottom: 0px; text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\">else</span></span></p>\n <p style=\"margin-bottom: 0px; text-decoration: none\"><span style=\"color: #000000\">\n    <span style=\"font-family: Calibri,serif\">d = d - 1</span></span></p>\n <p style=\"margin-bottom: 0px; text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\">end\n if</span></span></p>\n <p style=\"margin-bottom: 0px; text-decoration: none\"><br>\n\n </p>\n <p style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\">Print\n d</span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "1",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span lang=\"en-US\">1</span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "3",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span lang=\"en-US\">3</span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "0",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span lang=\"en-US\">0</span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "2",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span lang=\"en-US\">2</span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "D",
+      "solutionText": "",
+      "solutionHtml": "<p>\n <br>\n\n </p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 10,
+      "section": "Pseudo Code",
+      "questionId": "68de2ecb2fe2a19b4d675183",
+      "questionText": "![Figure](INFOSYS TEST SERIES-1_figures/fig_1_5681aa17.png)",
+      "questionHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"https://cms-cdn.classplus.co/parserImages/production/979233_1759391435101.png\" name=\"Picture 3\" align=\"bottom\" width=\"487\" height=\"279\" border=\"0\">\n</img></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "20",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">20</span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "40",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">40</span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "60",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">60</span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "80",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">80</span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "",
+      "solutionHtml": "<p>\n <br>\n\n </p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": [
+        "INFOSYS TEST SERIES-1_figures/fig_1_5681aa17.png"
+      ]
+    },
+    {
+      "questionNumber": 11,
+      "section": "Apttitude_Techncal Ability",
+      "questionId": "68de32ec7a4e3e3ba2214743",
+      "questionText": "If\n a number is divided by 5, remainder = 2. If the same number is\n divided by 7, remainder = 3. What is the smallest such number?",
+      "questionHtml": "<p>\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">If\n a number is divided by 5, remainder = 2. If the same number is\n divided by 7, remainder = 3. What is the smallest such number?</span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "17",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span lang=\"en-US\">17</span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "23",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span lang=\"en-US\">23</span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "38",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span lang=\"en-US\">38</span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "52",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span lang=\"en-US\">52</span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "D",
+      "solutionText": "Number\n = 5k + 2. Check divisibility by 7. \n\n k=6\n → 5(6)+2=32 remainder 4. \n\n k=7\n → 37 remainder 2. \n\n k=8\n → 42 remainder 0. \n\n k=9\n → 47 remainder 5. \n\n k=10\n → 52 remainder 3 . \n\n So\n number = 52 .",
+      "solutionHtml": "<p style=\"margin-bottom: 0px\">\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Number\n = 5k + 2. Check divisibility by 7.</span></span></span></p>\n <p style=\"margin-bottom: 0px\"><span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">k=6\n → 5(6)+2=32 remainder 4.</span></span></span></p>\n <p style=\"margin-bottom: 0px\"><span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">k=7\n → 37 remainder 2.</span></span></span></p>\n <p style=\"margin-bottom: 0px\"><span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">k=8\n → 42 remainder 0.</span></span></span></p>\n <p style=\"margin-bottom: 0px\"><span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">k=9\n → 47 remainder 5.</span></span></span></p>\n <p style=\"margin-bottom: 0px\"><span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">k=10\n → 52 remainder 3 .</span></span></span></p>\n <p><span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">So\n number = 52 .</span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 12,
+      "section": "Apttitude_Techncal Ability",
+      "questionId": "68de32ec7a4e3e1284214761",
+      "questionText": "The\n probability of getting a sum of 9 when two dice are thrown is:",
+      "questionHtml": "<p>\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">The\n probability of getting a sum of 9 when two dice are thrown is:</span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "1/12",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\">1/12</span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "1/9",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\">1/9</span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "5/39",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\">5/39</span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "7/36",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\">7/36</span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "A",
+      "solutionText": "Combinations:\n (3,6), (4,5), (5,4), (6,3). \n\n Total\n = 4 outcomes. \n\n Probability\n = 4/36 = 1/9 (Correction → 1/9, not 1/12).",
+      "solutionHtml": "<p style=\"margin-bottom: 0px\">\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Combinations:\n (3,6), (4,5), (5,4), (6,3).</span></span></span></p>\n <p style=\"margin-bottom: 0px\"><span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Total\n = 4 outcomes.</span></span></span></p>\n <p><span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Probability\n = 4/36 = 1/9 (Correction → 1/9, not 1/12).</span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 13,
+      "section": "Apttitude_Techncal Ability",
+      "questionId": "68de32ec7a4e3e967521474d",
+      "questionText": "The\n sum of present ages of A and B is 60. 5 years ago, A was 5 times\n B. What are their ages?",
+      "questionHtml": "<p>\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">The\n sum of present ages of A and B is 60. 5 years ago, A was 5 times\n B. What are their ages?</span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "A=55,\n B=5",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">A=55,\n B=5</span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "A=50,\n B=10",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">A=50,\n B=10</span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "A=45,\n B=15",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">A=45,\n B=15</span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "A=40,\n B=20",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">A=40,\n B=20</span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "A+B=60. \n\n (A–5)\n = 5(B–5). \n\n Solving\n → A=50, B=10.",
+      "solutionHtml": "<p style=\"margin-bottom: 0px\">\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">A+B=60.</span></span></span></p>\n <p style=\"margin-bottom: 0px\"><span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">(A–5)\n = 5(B–5).</span></span></span></p>\n <p><span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Solving\n → A=50, B=10.</span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 14,
+      "section": "Apttitude_Techncal Ability",
+      "questionId": "68de32ec7a4e3e026721475c",
+      "questionText": "If\n x² – 5x + 6 = 0, then find the value of (1/x₁ +\n 1/x₂).",
+      "questionHtml": "<p>\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">If\n x² – 5x + 6 = 0, then find the value of (1/x₁ +\n 1/x₂).</span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "1/2",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\">1/2</span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "5/6",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\">5/6</span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "2/3",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\">2/3</span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "3/2",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\">3/2</span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "Roots\n = 2, 3. \n\n (1/2\n + 1/3) = (3+2)/6 = 5/6.",
+      "solutionHtml": "<p style=\"margin-bottom: 0px\">\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Roots\n = 2, 3.</span></span></span></p>\n <p><span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">(1/2\n + 1/3) = (3+2)/6 = 5/6.</span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 15,
+      "section": "Apttitude_Techncal Ability",
+      "questionId": "68de32ec7a4e3e8090214734",
+      "questionText": "A\n can complete a work in 20 days. B is 25% more efficient than A. In\n how many days will B finish the same work?",
+      "questionHtml": "<p>\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">A\n can complete a work in 20 days. B is 25% more efficient than A. In\n how many days will B finish the same work?</span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "15",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">15</span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "16",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span lang=\"en-US\">16</span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "18",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span lang=\"en-US\">18</span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "20",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span lang=\"en-US\">20</span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "A’s\n 1-day work = 1/20. \n\n Efficiency\n of B = 125% of A = 5/4 × (1/20) = 1/16. \n\n So\n B will finish in 16 days.",
+      "solutionHtml": "<p style=\"margin-bottom: 0px\">\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">A’s\n 1-day work = 1/20.</span></span></span></p>\n <p style=\"margin-bottom: 0px\"><span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Efficiency\n of B = 125% of A = 5/4 × (1/20) = 1/16.</span></span></span></p>\n <p><span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">So\n B will finish in 16 days.</span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 16,
+      "section": "Apttitude_Techncal Ability",
+      "questionId": "68de32ec7a4e3e8705214757",
+      "questionText": "A\n shopkeeper allows 20% discount on the marked price and still makes\n 25% profit. If the marked price is ₹1000, what is the cost\n price?",
+      "questionHtml": "<p>\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">A\n shopkeeper allows 20% discount on the marked price and still makes\n 25% profit. If the marked price is ₹1000, what is the cost\n price?</span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "₹ 600",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\">₹<span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">600</span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "₹ 625",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\">₹<span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">625</span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "₹ 650",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\">₹<span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">650</span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "₹ 700",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\">₹<span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">700</span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "A",
+      "solutionText": "SP\n = 1000 – 20% of 1000 = 800. \n\n Profit\n = 25%. \n\n CP\n = 800 / 1.25 = 640 (correction, not 600).",
+      "solutionHtml": "<p style=\"margin-bottom: 0px\">\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">SP\n = 1000 – 20% of 1000 = 800.</span></span></span></p>\n <p style=\"margin-bottom: 0px\"><span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Profit\n = 25%.</span></span></span></p>\n <p><span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">CP\n = 800 / 1.25 = 640 (correction, not 600).</span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 17,
+      "section": "Apttitude_Techncal Ability",
+      "questionId": "68de32ec7a4e3e0f49214752",
+      "questionText": "The\n ratio of investments of A and B is 4:5. A gets ₹400 less\n than B from the profit. Find the total profit.",
+      "questionHtml": "<p>\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">The\n ratio of investments of A and B is 4:5. A gets ₹400 less\n than B from the profit. Find the total profit.</span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "₹ 3600",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\">₹<span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">3600</span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "₹ 4000",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\">₹<span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">4000</span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "₹ 4200",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\">₹<span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">4200</span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "₹ 4800",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\">₹<span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">4800</span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "A",
+      "solutionText": "Difference\n = 1 part. \n\n 1\n part = 400. \n\n Total\n = 9 parts = 9×400=3600.",
+      "solutionHtml": "<p style=\"margin-bottom: 0px\">\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Difference\n = 1 part.</span></span></span></p>\n <p style=\"margin-bottom: 0px\"><span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">1\n part = 400.</span></span></span></p>\n <p><span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Total\n = 9 parts = 9×400=3600.</span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 18,
+      "section": "Apttitude_Techncal Ability",
+      "questionId": "68de32ec7a4e3ec62c21473e",
+      "questionText": "A\n sum of ₹10,000 is invested at 20% per annum compounded\n annually. What will be the compound interest after 2 years?",
+      "questionHtml": "<p>\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">A\n sum of ₹10,000 is invested at 20% per annum compounded\n annually. What will be the compound interest after 2 years?</span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "₹ 4000",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\">₹<span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">4000</span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "₹ 4200",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\">₹<span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">4200</span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "₹ 4400",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\">₹<span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">4400</span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "₹ 4800",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\">₹<span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">4800</span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "C",
+      "solutionText": "CI\n = P[(1 + r/100)^t – 1] = 10000[(1.2)^2 – 1] =\n 10000(1.44 – 1) = 4400. \n\n (Answer\n : ₹4400).",
+      "solutionHtml": "<p style=\"margin-bottom: 0px\">\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">CI\n = P[(1 + r/100)^t – 1] = 10000[(1.2)^2 – 1] =\n 10000(1.44 – 1) = 4400.</span></span></span></p>\n <p><span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">(Answer\n : ₹4400).</span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 19,
+      "section": "Apttitude_Techncal Ability",
+      "questionId": "68de32ec7a4e3e532f214739",
+      "questionText": "The\n average of 5 consecutive odd numbers is 35. What is the largest of\n these numbers?",
+      "questionHtml": "<p>\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">The\n average of 5 consecutive odd numbers is 35. What is the largest of\n these numbers?</span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "37",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span lang=\"en-US\">37</span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "39",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span lang=\"en-US\">39</span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "41",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span lang=\"en-US\">41</span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "43",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span lang=\"en-US\">43</span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "Middle\n term = 35 (average of consecutive odd nos). \n\n Series\n = 31, 33, 35, 37, 39 → largest = 39.",
+      "solutionHtml": "<p style=\"margin-bottom: 0px\">\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Middle\n term = 35 (average of consecutive odd nos).</span></span></span></p>\n <p><span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Series\n = 31, 33, 35, 37, 39 → largest = 39.</span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 20,
+      "section": "Apttitude_Techncal Ability",
+      "questionId": "68de32ec7a4e3e3770214748",
+      "questionText": "Two\n pipes can fill a tank in 15 min and 20 min respectively. If both\n pipes are opened together, how long will it take to fill the tank?",
+      "questionHtml": "<p>\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Two\n pipes can fill a tank in 15 min and 20 min respectively. If both\n pipes are opened together, how long will it take to fill the tank?</span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "7\n min",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">7\n min</span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "8\n min",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">8\n min</span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "8\n min 34 sec",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">8\n min 34 sec</span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "9\n min",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">9\n min</span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "C",
+      "solutionText": "1/15\n + 1/20 = (4+3)/60 = 7/60. \n\n Time\n = 60/7 = 8.57 min ≈ 8 min 34 sec.",
+      "solutionHtml": "<p style=\"margin-bottom: 0px\">\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">1/15\n + 1/20 = (4+3)/60 = 7/60.</span></span></span></p>\n <p><span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Time\n = 60/7 = 8.57 min ≈ 8 min 34 sec.</span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 21,
+      "section": "Reasoning",
+      "questionId": "68de34f4e543130ae7e69a2b",
+      "questionText": "Arrange\n according to logical order: \n\n (1)\n Exam, (2) Study, (3) Result, (4) Admission.",
+      "questionHtml": "<p style=\"margin-bottom: 0px\">\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Arrange\n according to logical order:</span></span></span></p>\n <p><span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">(1)\n Exam, (2) Study, (3) Result, (4) Admission.</span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "2-1-3-4",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span lang=\"en-US\">2-1-3-4</span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "1-2-3-4",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">1-2-3-4</span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "2-3-1-4",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">2-3-1-4</span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "4-2-1-3",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">4-2-1-3</span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "A",
+      "solutionText": "First\n Study → Exam → Result → Admission.",
+      "solutionHtml": "<p>\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">First\n Study → Exam → Result → Admission.</span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 22,
+      "section": "Reasoning",
+      "questionId": "68de34f4e543135cd4e699fe",
+      "questionText": "Complete\n the series: 7, 26, 63, 124, ?",
+      "questionHtml": "<p>\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Complete\n the series: 7, 26, 63, 124, ?</span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "215",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">215</span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "216",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">216</span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "225",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">225</span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "200",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">200</span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "A",
+      "solutionText": "Pattern:\n n³ – 1. (2³–1=7, 3³–1=26,\n 4³–1=63, 5³–1=124, 6³–1=215).",
+      "solutionHtml": "<p>\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Pattern:\n n³ – 1. (2³–1=7, 3³–1=26,\n 4³–1=63, 5³–1=124, 6³–1=215).</span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 23,
+      "section": "Reasoning",
+      "questionId": "68de34f4e543130971e69a21",
+      "questionText": "Statements: \n\n Some\n pens are pencils. \n\n All\n pencils are erasers.\n\nConclusions:\n\nI. Some pens are\n erasers.\n\nII. All erasers are pencils.",
+      "questionHtml": "<p style=\"margin-bottom: 0px\">\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Statements:</span></span></span></p>\n <ol>\n <li><p lang=\"en-US\" class=\"western\" style=\"margin-bottom: 0px; border: none; padding: 0px\">\n <span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Some\n pens are pencils.</span></span></p>\n </li><li><p lang=\"en-US\" class=\"western\" style=\"border: none; padding: 0px\">\n <span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">All\n pencils are erasers.<br>\nConclusions:<br>\nI. Some pens are\n erasers.<br>\nII. All erasers are pencils.</span></span></p>\n </li></ol>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "Only\n I follows",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Only\n I follows</span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "Only\n II follows",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Only\n II follows</span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "Both\n follow",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Both\n follow</span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "Neither\n follow",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Neither\n follow</span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "A",
+      "solutionText": "Pens\n ⊂ \n Pencils ⊂ \n Erasers → Some pens ⊂ \n Erasers.",
+      "solutionHtml": "<p>\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Pens\n </span></span><span style=\"font-family: 'Cambria Math',serif\"><span style=\"font-size: 15px\">⊂</span></span><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">\n Pencils </span></span><span style=\"font-family: 'Cambria Math',serif\"><span style=\"font-size: 15px\">⊂</span></span><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">\n Erasers → Some pens </span></span><span style=\"font-family: 'Cambria Math',serif\"><span style=\"font-size: 15px\">⊂</span></span><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">\n Erasers.</span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 24,
+      "section": "Reasoning",
+      "questionId": "68de34f4e543139b54e699ea",
+      "questionText": "Six\n friends A, B, C, D, E, F are sitting in a circle facing the\n center. A is between D and F. C is to the left of D. E is between\n B and C. Who is sitting between A and C?",
+      "questionHtml": "<p>\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Six\n friends A, B, C, D, E, F are sitting in a circle facing the\n center. A is between D and F. C is to the left of D. E is between\n B and C. Who is sitting between A and C?</span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "D",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span lang=\"en-US\">D</span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "E",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\">E</span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "F",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\">F</span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "B",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\">B</span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "A",
+      "solutionText": "Arranging:\n A between D & F, C left of D, E between B & C → D is\n between A and C.",
+      "solutionHtml": "<p>\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Arranging:\n A between D &amp; F, C left of D, E between B &amp; C → D is\n between A and C.</span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 25,
+      "section": "Reasoning",
+      "questionId": "68de34f4e543133314e69a1c",
+      "questionText": "Find\n the missing number:",
+      "questionHtml": "<p>\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Find\n the missing number:</span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "24",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span lang=\"en-US\">24</span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "36",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span lang=\"en-US\">36</span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "48",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span lang=\"en-US\">48</span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "36",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span lang=\"en-US\">36</span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "D",
+      "solutionText": "8\n → 8²=64. \n\n 6\n → 6²=36.",
+      "solutionHtml": "<p style=\"margin-bottom: 0px\">\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">8\n → 8²=64.</span></span></span></p>\n <p><span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">6\n → 6²=36.</span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 26,
+      "section": "Reasoning",
+      "questionId": "68de34f4e543132856e69a03",
+      "questionText": "Two\n trains of lengths 120m and 180m are running in opposite directions\n with speeds 60 km/h and 90 km/h. In how much time will they cross\n each other?",
+      "questionHtml": "<p>\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Two\n trains of lengths 120m and 180m are running in opposite directions\n with speeds 60 km/h and 90 km/h. In how much time will they cross\n each other?</span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "6 sec",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\">6 sec</span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "8 sec",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\">8 sec</span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "10 sec",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\">10 sec</span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "12\n sec",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">12\n sec</span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "C",
+      "solutionText": "Relative\n speed = (60+90)×(5/18)=41.67 m/s. \n\n Total\n length = 300m. \n\n Time\n = 300/41.67 ≈ 10 sec.",
+      "solutionHtml": "<p style=\"margin-bottom: 0px\">\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Relative\n speed = (60+90)×(5/18)=41.67 m/s.</span></span></span></p>\n <p style=\"margin-bottom: 0px\"><span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Total\n length = 300m.</span></span></span></p>\n <p><span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Time\n = 300/41.67 ≈ 10 sec.</span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 27,
+      "section": "Reasoning",
+      "questionId": "68de34f4e54313751ce699ef",
+      "questionText": "Pointing\n to a boy, Seema said, “He is the son of my grandfather’s\n only son.” How is the boy related to Seema?",
+      "questionHtml": "<p>\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Pointing\n to a boy, Seema said, “He is the son of my grandfather’s\n only son.” How is the boy related to Seema?</span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "Brother",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Brother</span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "Cousin",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Cousin</span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "Uncle",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Uncle</span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "Nephew",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Nephew</span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "A",
+      "solutionText": "Grandfather’s\n only son = Seema’s father. Boy = son of Seema’s father\n → brother.",
+      "solutionHtml": "<p>\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Grandfather’s\n only son = Seema’s father. Boy = son of Seema’s father\n → brother.</span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 28,
+      "section": "Reasoning",
+      "questionId": "68de34f4e543136e2ae69a17",
+      "questionText": "In\n a row of 40 students, A is 12th from the left and B is 18th from\n the right. How many students are between A and B?",
+      "questionHtml": "<p>\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">In\n a row of 40 students, A is 12th from the left and B is 18th from\n the right. How many students are between A and B?</span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "8",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\">8</span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "9",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\">9</span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "10",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\">10</span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "11",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\">11</span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "C",
+      "solutionText": "A\n = 12th from left. B = 23rd from left (40–18+1). \n\n Between\n = 23–12–1 = 10.",
+      "solutionHtml": "<p style=\"margin-bottom: 0px\">\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">A\n = 12th from left. B = 23rd from left (40–18+1).</span></span></span></p>\n <p><span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Between\n = 23–12–1 = 10. </span></span></span>\n </p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 29,
+      "section": "Reasoning",
+      "questionId": "68de34f4e5431337e1e69a08",
+      "questionText": "Five\n friends scored different marks. P scored more than Q but less than\n R. S scored less than Q but more than T. Who scored the lowest?",
+      "questionHtml": "<p>\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Five\n friends scored different marks. P scored more than Q but less than\n R. S scored less than Q but more than T. Who scored the lowest?</span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "P",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\">P</span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "Q",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\">Q</span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "S",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\">S</span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "T",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\">T</span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "D",
+      "solutionText": "Order:\n R > P > Q > S > T → lowest is T.",
+      "solutionHtml": "<p>\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Order:\n R &gt; P &gt; Q &gt; S &gt; T → lowest is T.</span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 30,
+      "section": "Reasoning",
+      "questionId": "68de34f4e543130abee69a12",
+      "questionText": "If\n ‘A × B’ means A is the father of B, ‘A +\n B’ means A is the sister of B, and ‘A – B’\n means A is the mother of B, then P – Q × R means?",
+      "questionHtml": "<p>\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">If\n ‘A × B’ means A is the father of B, ‘A +\n B’ means A is the sister of B, and ‘A – B’\n means A is the mother of B, then P – Q × R means?</span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "P\n is mother of R",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">P\n is mother of R</span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "P\n is sister of R",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">P\n is sister of R</span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "P\n is father of R",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">P\n is father of R</span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "P\n is grandmother of R",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">P\n is grandmother of R</span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "A",
+      "solutionText": "Q\n × R → Q father of R. P – Q → P mother of Q →\n So P mother of R.",
+      "solutionHtml": "<p>\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Q\n × R → Q father of R. P – Q → P mother of Q →\n So P mother of R.</span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 31,
+      "section": "Reasoning",
+      "questionId": "68de34f4e543137479e69a0d",
+      "questionText": "Find\n the missing term: AB, DE, HI, MN, ?",
+      "questionHtml": "<p>\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Find\n the missing term: AB, DE, HI, MN, ?</span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "RS",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\">RS</span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "ST",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\">ST</span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "TU",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\">TU</span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "VW",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">VW</span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "Skipping\n letters: (AB → DE → HI → MN → ST).",
+      "solutionHtml": "<p>\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Skipping\n letters: (AB → DE → HI → MN → ST).</span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 32,
+      "section": "Reasoning",
+      "questionId": "68de34f4e5431303ebe69a26",
+      "questionText": "What\n comes next? \n\n 2,\n 12, 36, 80, 150, ?",
+      "questionHtml": "<p style=\"margin-bottom: 0px\">\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">What\n comes next?</span></span></span></p>\n <p><span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">2,\n 12, 36, 80, 150, ?</span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "252",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span lang=\"en-US\">252</span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "240",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span lang=\"en-US\">240</span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "260",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span lang=\"en-US\">260</span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "300",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span lang=\"en-US\">300</span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "A",
+      "solutionText": "Pattern:\n n³+ n². \n\n (1³+1²=2,\n 2³+2²=12, 3³+3²=36, 4³+4²=80,\n 5³+5²=150, 6³+6²=252).",
+      "solutionHtml": "<p style=\"margin-bottom: 0px\">\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Pattern:\n n³+ n².</span></span></span></p>\n <p><span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">(1³+1²=2,\n 2³+2²=12, 3³+3²=36, 4³+4²=80,\n 5³+5²=150, 6³+6²=252).</span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 33,
+      "section": "Reasoning",
+      "questionId": "68de34f4e543136908e699f9",
+      "questionText": "In\n a certain code, FLOWER is written as EKNVDQ. How will GARDEN be\n written?",
+      "questionHtml": "<p>\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">In\n a certain code, FLOWER is written as EKNVDQ. How will GARDEN be\n written?</span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "FZQCDM",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">FZQCDM</span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "HBSFEP",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">HBSFEP</span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "FYQBCM",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">FYQBCM</span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "EZQCDM",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">EZQCDM</span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "A",
+      "solutionText": "Each\n letter shifted –1: F→E, L→K, O→N… So\n GARDEN → FZQCDM.",
+      "solutionHtml": "<p>\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Each\n letter shifted –1: F→E, L→K, O→N… So\n GARDEN → FZQCDM.</span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 34,
+      "section": "Reasoning",
+      "questionId": "68de34f4e54313d2c9e699f4",
+      "questionText": "A,\n B, C, D, E are standing in a line. C is between A and E. B is to\n the immediate left of E. D is to the right of A but not at the\n end. Who is in the middle?",
+      "questionHtml": "<p>\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">A,\n B, C, D, E are standing in a line. C is between A and E. B is to\n the immediate left of E. D is to the right of A but not at the\n end. Who is in the middle?</span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "A",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\">A</span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "B",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\">B</span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "C",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\">C</span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "D",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\">D</span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "C",
+      "solutionText": "Order:\n A D C B E → middle = C.",
+      "solutionHtml": "<p>\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Order:\n A D C B E → middle = C.</span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 35,
+      "section": "Reasoning",
+      "questionId": "68de34f4e543131c4ee69a30",
+      "questionText": "If\n in a certain code 3 = 18, 4 = 32, 5 = 50, then 6 = ?",
+      "questionHtml": "<p>\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">If\n in a certain code 3 = 18, 4 = 32, 5 = 50, then 6 = ?</span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "60",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\">60</span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "70",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\">70</span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "72",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">72</span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "80",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">80</span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "C",
+      "solutionText": "70",
+      "solutionHtml": "<p>\n <span style=\"display: inline-block; border: none; padding: 0px\">70</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    }
+  ]
+}

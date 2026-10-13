@@ -1,0 +1,810 @@
+{
+  "testName": "Coding Decoding",
+  "testId": "67ac6a72be741e1809a9cfb9",
+  "contentId": 23945640,
+  "totalQuestions": 20,
+  "totalFigures": 11,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "section": "Coging Decoding",
+      "questionId": "67ac6ada2dfe37573afe36ad",
+      "questionText": "In\n a certain language ‘GUST’ is coded ‘@7$2’\n and ‘SNIP’ is coded ‘$59#’. How will\n ‘SING’ be coded in the same code?",
+      "questionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">In\n a certain language ‘GUST’ is coded ‘@7$2’\n and ‘SNIP’ is coded ‘$59#’. How will\n ‘SING’ be coded in the same code?</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "9$7#",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">9$7#</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "59#$",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">59#$</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "$95@",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">$95@</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "7$@9",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">7$@9</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "C",
+      "solutionText": "![Figure](Coding Decoding_figures/fig_1_23b0e447.png)\n\n![Figure](Coding Decoding_figures/fig_2_5f9dbd86.png)",
+      "solutionHtml": "<p style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"https://cms-cdn.classplus.co/parserImages/production/521639_1739352793549.png\" name=\"Picture 1\" align=\"bottom\" width=\"213\" height=\"97\" border=\"0\">\n</img></span></p>\n <p style=\"text-decoration: none\"><span style=\"color: #000000\"><img src=\"https://cms-cdn.classplus.co/parserImages/production/749163_1739352793627.png\" name=\"Picture 2\" align=\"bottom\" width=\"79\" height=\"82\" border=\"0\">\n</img></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": [
+        "Coding Decoding_figures/fig_1_23b0e447.png",
+        "Coding Decoding_figures/fig_2_5f9dbd86.png"
+      ]
+    },
+    {
+      "questionNumber": 2,
+      "section": "Coging Decoding",
+      "questionId": "67ac6ada2dfe37c117fe36a3",
+      "questionText": "If\n \"APPLE\" is coded as \"ELPPA\", how is \"ORANGE\"\n coded?",
+      "questionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n \"APPLE\" is coded as \"ELPPA\", how is \"ORANGE\"\n coded?</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "EGNORA",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">EGNORA</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "EGNARO",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">EGNARO</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "EGNARA",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none;\"><span style=\"color: #000000;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-family: Cambria,serif;\"><span style=\"font-size: 19px;\">EGNARA</span></span></span></span></p>"
+        },
+        {
+          "option": "D",
+          "text": "EGNROA",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">EGNROA</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "The\n word is written in reverse order. APPLE → ELPPA, so ORANGE →\n EGNARO",
+      "solutionHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">The\n word is written in reverse order. APPLE → ELPPA, so ORANGE →\n EGNARO</span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 3,
+      "section": "Coging Decoding",
+      "questionId": "67ac6ada2dfe3724b9fe36b7",
+      "questionText": "If\n \"ENERGY\" is coded as \"257185145\", how is\n \"HOCKEY\" coded?",
+      "questionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n \"ENERGY\" is coded as \"257185145\", how is\n \"HOCKEY\" coded?</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "255113158",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">255113158</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "815311525",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">815311525</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "255311158",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">255311158</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "253115815",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">253115815</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "A",
+      "solutionText": "![Figure](Coding Decoding_figures/fig_1_1025bd67.jpg)",
+      "solutionHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"https://cms-cdn.classplus.co/parserImages/production/668061_1739352793741.jpg\" name=\"Picture 4\" align=\"bottom\" width=\"556\" height=\"117\" border=\"0\">\n</img></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": [
+        "Coding Decoding_figures/fig_1_1025bd67.jpg"
+      ]
+    },
+    {
+      "questionNumber": 4,
+      "section": "Coging Decoding",
+      "questionId": "67ac6ada2dfe37e9dbfe36c6",
+      "questionText": "If\n ‘MOUSE’ is coded as ‘KPSTC’, what is the\n code for ‘LIGHT’?",
+      "questionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n ‘MOUSE’ is coded as ‘KPSTC’, what is the\n code for ‘LIGHT’?</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "JJERI",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">JJERI</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "JEJRI",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">JEJRI</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "JJREI",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">JJREI</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "JJEIR",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">JJEIR</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "D",
+      "solutionText": "![Figure](Coding Decoding_figures/fig_1_179a0ef5.jpg)",
+      "solutionHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"https://cms-cdn.classplus.co/parserImages/production/996881_1739352793792.jpg\" name=\"Picture 6\" align=\"bottom\" width=\"556\" height=\"153\" border=\"0\">\n</img></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": [
+        "Coding Decoding_figures/fig_1_179a0ef5.jpg"
+      ]
+    },
+    {
+      "questionNumber": 5,
+      "section": "Coging Decoding",
+      "questionId": "67ac6ada2dfe37627bfe36d0",
+      "questionText": "If\n ‘ARCHERY’ is coded as ‘DSBGZSF’, what is\n the code for ‘TERMITE’?",
+      "questionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n ‘ARCHERY’ is coded as ‘DSBGZSF’, what is\n the code for ‘TERMITE’?</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "SFULFJU",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">SFULFJU</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "SFULJUF",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">SFULJUF</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "SFULFUJ",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">SFULFUJ</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "SFULUJF",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">SFULUJF</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "C",
+      "solutionText": "![Figure](Coding Decoding_figures/fig_1_333eec1e.jpg)",
+      "solutionHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"https://cms-cdn.classplus.co/parserImages/production/631888_1739352793896.jpg\" name=\"Picture 8\" align=\"bottom\" width=\"556\" height=\"105\" border=\"0\">\n</img></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": [
+        "Coding Decoding_figures/fig_1_333eec1e.jpg"
+      ]
+    },
+    {
+      "questionNumber": 6,
+      "section": "Coging Decoding",
+      "questionId": "67ac6ada2dfe377873fe36df",
+      "questionText": "In\n a certain code language, 'SUN' is coded as 26 and 'GPL' is coded\n as 11. How will 'SKT' be coded in that language?",
+      "questionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">In\n a certain code language, 'SUN' is coded as 26 and 'GPL' is coded\n as 11. How will 'SKT' be coded in that language?</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "10",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">10</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "15",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">15</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "20",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">20</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "25",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">25</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "A",
+      "solutionText": "![Figure](Coding Decoding_figures/fig_1_49112f3f.jpg)",
+      "solutionHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"https://cms-cdn.classplus.co/parserImages/production/365353_1739352794004.jpg\" name=\"Picture 13\" align=\"bottom\" width=\"425\" height=\"158\" border=\"0\">\n</img></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": [
+        "Coding Decoding_figures/fig_1_49112f3f.jpg"
+      ]
+    },
+    {
+      "questionNumber": 7,
+      "section": "Coging Decoding",
+      "questionId": "67ac6ada2dfe371116fe36d5",
+      "questionText": "In\n a certain language ‘branches have leafs’ is coded\n ‘673’, ‘trees have branches’ is coded\n ‘746’ and ‘mangoes all trees’ is coded\n ‘491’. How will ‘tree’ be coded in the\n same code?",
+      "questionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">In\n a certain language ‘branches have leafs’ is coded\n ‘673’, ‘trees have branches’ is coded\n ‘746’ and ‘mangoes all trees’ is coded\n ‘491’. How will ‘tree’ be coded in the\n same code?</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "9",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">9</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "1",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">1</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "4",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">4</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "7",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">7</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "C",
+      "solutionText": "![Figure](Coding Decoding_figures/fig_1_14c81ca3.jpg)",
+      "solutionHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"https://cms-cdn.classplus.co/parserImages/production/328059_1739352793948.jpg\" name=\"Picture 10\" align=\"bottom\" width=\"431\" height=\"181\" border=\"0\">\n</img></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": [
+        "Coding Decoding_figures/fig_1_14c81ca3.jpg"
+      ]
+    },
+    {
+      "questionNumber": 8,
+      "section": "Coging Decoding",
+      "questionId": "67ac6ada2dfe376cbcfe36ee",
+      "questionText": "If\n \"JUNGLE\" is coded as \"KVOIMF\", how is \"FOREST\"\n coded?",
+      "questionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n \"JUNGLE\" is coded as \"KVOIMF\", how is \"FOREST\"\n coded?</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "GPQTFV",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">GPQTFV</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "GPQTFW",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">GPQTFW</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "GPQTFX",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">GPQTFX</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "GPQTFU",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">GPQTFU</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "D",
+      "solutionText": "Each\n letter is shifted forward by 1 position: \n\n J→K,\n U→V, N→O, G→H, L→M, E→F. \n\n Similarly,\n\n FOREST\n → F→G, O→P, R→S, E→F, S→T, T→U\n → GPQTFU.",
+      "solutionHtml": "<p style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Each\n letter is shifted forward by 1 position: </span></span></span></span>\n </p>\n <p style=\"margin-bottom: 0px; text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">J→K,\n U→V, N→O, G→H, L→M, E→F. </span></span></span></span>\n </p>\n <p style=\"margin-bottom: 0px; text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Similarly,\n </span></span></span></span>\n </p>\n <p style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">FOREST\n → F→G, O→P, R→S, E→F, S→T, T→U\n → GPQTFU.</span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 9,
+      "section": "Coging Decoding",
+      "questionId": "67ac6ada2dfe37078efe3702",
+      "questionText": "If\n A = 1, B = 4, C = 9, D = 16, then what is E?",
+      "questionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n A = 1, B = 4, C = 9, D = 16, then what is E?</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "27",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">27</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "23",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">23</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "25",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">25</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "21",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">21</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "C",
+      "solutionText": "The\n code follows the square of the position in the alphabet. \n\n A\n = 1², B = 2², C = 3², D = 4² \n\n E\n = 5² = 25",
+      "solutionHtml": "<p style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">The\n code follows the square of the position in the alphabet.</span></span></span></span></p>\n <p style=\"margin-bottom: 0px; text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">A\n = 1², B = 2², C = 3², D = 4²</span></span></span></span></p>\n <p style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">E\n = 5² = 25</span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 10,
+      "section": "Coging Decoding",
+      "questionId": "67ac6ada2dfe37291dfe36bc",
+      "questionText": "If\n ‘PENCIL’ is coded as ‘TIRGOK’, what is the\n code for ‘ERASER’?",
+      "questionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n ‘PENCIL’ is coded as ‘TIRGOK’, what is the\n code for ‘ERASER’?</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "IVWXIW",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">IVWXIW</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "IVFXIW",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">IVFXIW</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "IVEWIV",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">IVEWIV</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "IVEXIV",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">IVEXIV</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "C",
+      "solutionText": "Each\n letter is shifted forward by 4 places. \n\n P\n → T, E → I, N → R, C → G, I → O, L →\n K \n\n Similarly,\n E → I, R → V, A → E, S → W, E → I, R →V",
+      "solutionHtml": "<p style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Each\n letter is shifted forward by 4 places.</span></span></span></span></p>\n <p style=\"margin-bottom: 0px; text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">P\n → T, E → I, N → R, C → G, I → O, L →\n K</span></span></span></span></p>\n <p style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Similarly,\n E → I, R → V, A → E, S → W, E → I, R →V</span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 11,
+      "section": "Coging Decoding",
+      "questionId": "67ac6ada2dfe37272afe36fd",
+      "questionText": "In\n a certain code language, 'OM' is coded as 56 and 'GOT' is coded as\n 126. How will 'CARD' be coded in that language?",
+      "questionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">In\n a certain code language, 'OM' is coded as 56 and 'GOT' is coded as\n 126. How will 'CARD' be coded in that language?</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "104",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none;\"><span style=\"color: #000000;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-family: Cambria,serif;\"><span style=\"font-size: 19px;\">104</span></span></span></span></p>"
+        },
+        {
+          "option": "B",
+          "text": "144",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"text-decoration: none;\"><span style=\"color: #000000;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-family: Cambria,serif;\"><span style=\"font-size: 19px;\">144</span></span></span></span></p>"
+        },
+        {
+          "option": "C",
+          "text": "140",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none;\"><span style=\"color: #000000;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-family: Cambria,serif;\"><span style=\"font-size: 19px;\">140</span></span></span></span></p>"
+        },
+        {
+          "option": "D",
+          "text": "142",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none;\"><span style=\"color: #000000;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-family: Cambria,serif;\"><span style=\"font-size: 19px;\">142</span></span></span></span></p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "OM = (15+13)*2 = 56 \n\n GOT = (7+15+20)*3 = 126 \n\n CARD = (3+1+18+14) * 4 = 144",
+      "solutionHtml": "<p style=\"text-decoration: none;\"><span style=\"color: #000000;\">OM = (15+13)*2 = 56</span></p>\n<p style=\"text-decoration: none;\"><span style=\"color: #000000;\">GOT = (7+15+20)*3 = 126</span></p>\n<p style=\"text-decoration: none;\"><span style=\"color: #000000;\">CARD = (3+1+18+14) * 4 = 144</span></p>",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 12,
+      "section": "Coging Decoding",
+      "questionId": "67ac6ada2dfe377e8ffe36c1",
+      "questionText": "If\n ‘NOSTALGIA’ is coded as ‘81’, what is the\n code for ‘FRICTION’?",
+      "questionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n ‘NOSTALGIA’ is coded as ‘81’, what is the\n code for ‘FRICTION’?</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "54",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">54</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "64",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">64</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "68",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">68</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "72",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">72</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "NOSTALGIA\n = 9 letters \n\n 9 2 =81 \n\n FRICTION\n = 8 letters \n\n 8 2 =64",
+      "solutionHtml": "<p style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">NOSTALGIA\n = 9 letters</span></span></span></span></p>\n <p style=\"margin-bottom: 0px; text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">9</span></span><sup><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">2</span></span></sup><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">=81</span></span></span></span></p>\n <p style=\"margin-bottom: 0px; text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">FRICTION\n = 8 letters</span></span></span></span></p>\n <p style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">8</span></span><sup><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">2</span></span></sup><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">=64</span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 13,
+      "section": "Coging Decoding",
+      "questionId": "67ac6ada2dfe372319fe36f3",
+      "questionText": "In\n a code language, if SEND is written as 168, then how will PURSE be\n written in the same language?",
+      "questionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">In\n a code language, if SEND is written as 168, then how will PURSE be\n written in the same language?</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "225",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">225</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "395",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">395</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "185",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">185</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "415",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">415</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "SEND = (19+5+14+4)*4=168 \n\n PURSE = (16+21+18+19+5)*5=395",
+      "solutionHtml": "<p style=\"text-decoration: none;\"><span style=\"color: #000000;\">SEND = (19+5+14+4)*4=168</span></p>\n<p style=\"text-decoration: none;\"><span style=\"color: #000000;\">PURSE = (16+21+18+19+5)*5=395</span></p>",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 14,
+      "section": "Coging Decoding",
+      "questionId": "67ac6ada2dfe37b18afe36f8",
+      "questionText": "If\n \"GARDEN\" is coded as \"FZQCDM\", how is \"FLOWER\"\n coded?",
+      "questionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n \"GARDEN\" is coded as \"FZQCDM\", how is \"FLOWER\"\n coded?</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "EKNVDQ",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">EKNVDQ</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "EKNVQD",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">EKNVQD</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "EKNQVD",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">EKNQVD</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "EKNDVQ",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">EKNDVQ</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "A",
+      "solutionText": "Each\n letter is shifted backward by 1 position in the alphabet: \n\n G→F,\n A→Z, R→Q, D→C, E→D, N→M. \n\n Similarly,\n FLOWER → EKNVDQ",
+      "solutionHtml": "<p style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Each\n letter is shifted backward by 1 position in the alphabet: </span></span></span></span>\n </p>\n <p style=\"margin-bottom: 0px; text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">G→F,\n A→Z, R→Q, D→C, E→D, N→M. </span></span></span></span>\n </p>\n <p style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Similarly,\n FLOWER → EKNVDQ</span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 15,
+      "section": "Coging Decoding",
+      "questionId": "67ac6ada2dfe37425afe36e9",
+      "questionText": "If\n \"CAT\" is coded as \"91400\", how is \"DOG\"\n coded?",
+      "questionHtml": "<p lang=\"en-US\" class=\"western\">\n <span style=\"color: #000000\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\"><span lang=\"en-IN\"><span style=\"text-decoration: none\">If\n \"CAT\" is coded as \"91400\", how is \"DOG\"\n coded?</span></span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "2251649",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">2251649</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "4922516",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">4922516</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "1622549",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">1622549</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "1649225",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">1649225</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "C",
+      "solutionText": "![Figure](Coding Decoding_figures/fig_1_75e707d5.jpg)",
+      "solutionHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"https://cms-cdn.classplus.co/parserImages/production/365950_1739352794123.jpg\" name=\"Picture 15\" align=\"bottom\" width=\"556\" height=\"130\" border=\"0\">\n</img></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": [
+        "Coding Decoding_figures/fig_1_75e707d5.jpg"
+      ]
+    },
+    {
+      "questionNumber": 16,
+      "section": "Coging Decoding",
+      "questionId": "67ac6ada2dfe37a4aafe36a8",
+      "questionText": "If \"PENCIL\" is coded as \"RGPEKN\", how is \"PAPER\" coded?",
+      "questionHtml": "<p align=\"justify\" style=\"text-decoration: none;\"><span style=\"color: #000000;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-family: Cambria,serif;\"><span style=\"font-size: 19px;\">If \"PENCIL\" is coded as \"RGPEKN\", how is \"PAPER\" coded?</span></span></span></span></p>",
+      "options": [
+        {
+          "option": "A",
+          "text": "RCRGT",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">RCRGT</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "RCRGS",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">RCRGS</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "RCRGU",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">RCRGU</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "RCRGV",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">RCRGV</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "A",
+      "solutionText": "Each\n letter is shifted forward by 2 positions in the alphabet. P→R,\n A→C, P→R, E→G, R→T.",
+      "solutionHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Each\n letter is shifted forward by 2 positions in the alphabet. P→R,\n      A→C, P→R, E→G, R→T.</span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 17,
+      "section": "Coging Decoding",
+      "questionId": "67ac6ada2dfe376623fe36b2",
+      "questionText": "If\n \"JUNE\" is coded as \"5531\", how is \"JULY\"\n coded?",
+      "questionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n \"JUNE\" is coded as \"5531\", how is \"JULY\"\n coded?</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "6631",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">6631</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "7731",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">7731</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "7332",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">7332</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "7331",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">7331</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "D",
+      "solutionText": "![Figure](Coding Decoding_figures/fig_1_2d99f609.jpg)",
+      "solutionHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"https://cms-cdn.classplus.co/parserImages/production/58999_1739352793678.jpg\" name=\"Picture 3\" align=\"bottom\" width=\"556\" height=\"156\" border=\"0\">\n</img></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": [
+        "Coding Decoding_figures/fig_1_2d99f609.jpg"
+      ]
+    },
+    {
+      "questionNumber": 18,
+      "section": "Coging Decoding",
+      "questionId": "67ac6ada2dfe37b31efe36da",
+      "questionText": "If\n in a code language \"EXAMINATION\" is written as \"125\"\n then how will “HARDWORK” be written in that language?",
+      "questionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n in a code language \"EXAMINATION\" is written as \"125\"\n then how will “HARDWORK” be written in that language?</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "68",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">68</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "86",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">86</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "89",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">89</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "98",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">98</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "D",
+      "solutionText": "The\n logic followed here is: \n\n Logic:\n Sum of the positional value of letter. \n\n For, \n\n \"EXAMINATION\"\n is written as \"125\" 5+24+1+13+9+14+1+20+9+15+14 = 125 \n\n Similarly,\n HARDWORK = 8+1+18+4+23+15+18+11 = 98.",
+      "solutionHtml": "<p style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">The\n logic followed here is:</span></span></span></span></p>\n <p style=\"margin-bottom: 0px; text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Logic:\n Sum of the positional value of letter.</span></span></span></span></p>\n <p style=\"margin-bottom: 0px; text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">For,</span></span></span></span></p>\n <p style=\"margin-bottom: 0px; text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">\"EXAMINATION\"\n is written as \"125\" 5+24+1+13+9+14+1+20+9+15+14 = 125 </span></span></span></span>\n </p>\n <p style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Similarly,\n HARDWORK = 8+1+18+4+23+15+18+11 = 98.</span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 19,
+      "section": "Coging Decoding",
+      "questionId": "67ac6ada2dfe3730c0fe36e4",
+      "questionText": "In\n a certain code language, 'LEMON' is written as 'ELMNO'. How will\n 'CLUSTER' be written in that language?",
+      "questionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">In\n a certain code language, 'LEMON' is written as 'ELMNO'. How will\n 'CLUSTER' be written in that language?</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "CLESRUT",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">CLESRUT</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "CELRSTU",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">CELRSTU</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "LUCETRS",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">LUCETRS</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "LCUTESR",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">LCUTESR</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "Ascending order.\n\n![Figure](Coding Decoding_figures/fig_1_7c73026b.jpg)",
+      "solutionHtml": "<p style=\"text-decoration: none;\"><span style=\"color: #000000;\"><img src=\"https://cms-cdn.classplus.co/parserImages/production/428664_1739352794067.jpg\" width=\"556\" height=\"130\" name=\"Picture 11\" align=\"bottom\" border=\"0\" /></span></p>\n<p style=\"text-decoration: none;\"><span style=\"color: #000000;\">Ascending order.</span></p>",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": [
+        "Coding Decoding_figures/fig_1_7c73026b.jpg"
+      ]
+    },
+    {
+      "questionNumber": 20,
+      "section": "Coging Decoding",
+      "questionId": "67ac6ada2dfe379e27fe36cb",
+      "questionText": "If\n ‘BEAN’ is coded as ‘ABNE’, ‘SALE’\n is coded as ‘LSEA’, what is the code for ‘NEWS’?",
+      "questionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n ‘BEAN’ is coded as ‘ABNE’, ‘SALE’\n is coded as ‘LSEA’, what is the code for ‘NEWS’?</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "WNSE",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">WNSE</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "SWNE",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">SWNE</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "WSNE",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">WSNE</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "WNES",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">WNES</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "A",
+      "solutionText": "![Figure](Coding Decoding_figures/fig_1_7331573e.jpg)",
+      "solutionHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"https://cms-cdn.classplus.co/parserImages/production/511756_1739352793844.jpg\" name=\"Picture 7\" align=\"bottom\" width=\"265\" height=\"161\" border=\"0\">\n</img></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": [
+        "Coding Decoding_figures/fig_1_7331573e.jpg"
+      ]
+    }
+  ]
+}

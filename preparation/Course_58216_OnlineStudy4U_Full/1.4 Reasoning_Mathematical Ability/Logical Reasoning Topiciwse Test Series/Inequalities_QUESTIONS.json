@@ -1,0 +1,915 @@
+{
+  "testName": "Inequalities",
+  "testId": "67c16ba140b30901617172aa",
+  "contentId": 23945649,
+  "totalQuestions": 20,
+  "totalFigures": 4,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "section": "Inequalities",
+      "questionId": "67c16bb587f5454a378dec83",
+      "questionText": "Statements: \n\n D\n > C, A > B > C, D > E > F, \n\n Conclusions: \n\n I.\n E > C \n\n II.\n F > B",
+      "questionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statements:</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">D\n &gt; C, A &gt; B &gt; C, D &gt; E &gt; F,</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Conclusions:</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I.\n E &gt; C</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II.\n F &gt; B</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "Only\n conclusion I is valid.",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n conclusion I is valid.</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "Only\n conclusion II is valid.",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n conclusion II is valid.</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "Either\n conclusion I or II is valid.",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Either\n conclusion I or II is valid.</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "Neither\n conclusion I nor II is valid.",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Neither\n conclusion I nor II is valid.</span></span></span></span></p>\n "
+        },
+        {
+          "option": "E",
+          "text": "Both\n the conclusion I and II are valid.",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Both\n the conclusion I and II are valid.</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "D",
+      "solutionText": "A\n > B > C < D > E > F \n\n I.\n Not follow \n\n II.\n Not follow",
+      "solutionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">A\n &gt; B &gt; C &lt; D &gt; E &gt; F</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I.\n Not follow</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II.\n Not follow</span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 2,
+      "section": "Inequalities",
+      "questionId": "67c16bb587f545092f8dec4d",
+      "questionText": "Statements:\n L≤W≤M = J, W = K \n\n Conclusions: \n\n I.\n M>K \n\n II.\n L = K",
+      "questionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statements:\n L≤W≤M = J, W = K</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Conclusions:</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I.\n M&gt;K</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II.\n L = K</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "Only\n conclusion I is valid.",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n conclusion I is valid.</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "Only\n conclusion II is valid.",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n conclusion II is valid.</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "Either\n conclusion I or II is valid.",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Either\n conclusion I or II is valid.</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "Neither\n conclusion I nor II is valid.",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Neither\n conclusion I nor II is valid.</span></span></span></span></p>\n "
+        },
+        {
+          "option": "E",
+          "text": "Both\n the conclusion I and II are valid.",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Both\n the conclusion I and II are valid.</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "D",
+      "solutionText": "Conclusion\n I: M>K (False) → Given W=K and W≤M, we get K≤M, but\n M could be equal to K, not necessarily greater. \n\n Conclusion\n II: L=K (False) → Given L≤W and W=K, we get L≤K, but L\n could be less than K, not necessarily equal.",
+      "solutionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Conclusion\n I: M&gt;K (False) → Given W=K and W≤M, we get K≤M, but\n M could be equal to K, not necessarily greater.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Conclusion\n II: L=K (False) → Given L≤W and W=K, we get L≤K, but L\n could be less than K, not necessarily equal.</span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 3,
+      "section": "Inequalities",
+      "questionId": "67c16bb587f54506448dec5f",
+      "questionText": "What\n should be placed in place of question mark in equation B ≤ A ?N\n ?K ?S to make A > K definitely true.",
+      "questionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">What\n should be placed in place of question mark in equation B ≤ A ?N\n ?K ?S to make A &gt; K definitely true.</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "=,\n >, ≥",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">=,\n &gt;, ≥</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "=,\n ≥,>",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">=,\n ≥,&gt;</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "<,\n <,<",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">&lt;,\n &lt;,&lt;</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "<,\n <,=",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">&lt;,\n &lt;,=</span></span></span></span></p>\n "
+        },
+        {
+          "option": "E",
+          "text": "None",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">None</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "A",
+      "solutionText": "B≤A=N>K≥S \n\n Since\n A=N and N>K, we get A>K, which is definitely true. \n\n Thus,\n option (a) is correct.",
+      "solutionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">B≤A=N&gt;K≥S</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Since\n A=N and N&gt;K, we get A&gt;K, which is definitely true.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Thus,\n option (a) is correct.</span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 4,
+      "section": "Inequalities",
+      "questionId": "67c16bb587f5457bb98dec77",
+      "questionText": "Statement:\n 3 ≥ 9 < 7 ≤ 10 = 2 ≤ 6 \n\n Conclusions:\n\n I.\n 6 > 9 \n\n II.\n 9 ≤ 2",
+      "questionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statement:\n 3 ≥ 9 &lt; 7 ≤ 10 = 2 ≤ 6</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Conclusions:\n </span></span></span></span>\n </p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I.\n 6 &gt; 9 </span></span></span></span>\n </p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II.\n 9 ≤ 2</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "Only\n conclusion I is valid.",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n conclusion I is valid.</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "Only\n conclusion II is valid.",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n conclusion II is valid.</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "Either\n conclusion I or II is valid.",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Either\n conclusion I or II is valid.</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "Neither\n conclusion I nor II is valid.",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Neither\n conclusion I nor II is valid.</span></span></span></span></p>\n "
+        },
+        {
+          "option": "E",
+          "text": "Both\n the conclusion I and II are valid.",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Both\n the conclusion I and II are valid.</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "A",
+      "solutionText": "Checking\n conclusion I: 6 > 9 \n\n From\n the given statement, we get: \n\n While\n moving from 6 towards 9, the common sign of inequalities is '>'\n and the given conclusions is also '6 > 9'. Clearly, C1 follows. \n\n Checking\n conclusion II: 9 ≤ 2 \n\n In\n the statement 9 < 7 ≤ 10 = 2, the common sign of\n inequalities between 9 and 2 is '<' whereas the given\n conclusion is '9 ≤ 2'. Therefore, C2 doesn't follow.",
+      "solutionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Checking\n conclusion I: 6 &gt; 9</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">From\n the given statement, we get:</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">While\n moving from 6 towards 9, the common sign of inequalities is '&gt;'\n and the given conclusions is also '6 &gt; 9'. Clearly, C1 follows.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Checking\n conclusion II: 9 ≤ 2</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">In\n the statement 9 &lt; 7 ≤ 10 = 2, the common sign of\n inequalities between 9 and 2 is '&lt;' whereas the given\n conclusion is '9 ≤ 2'. Therefore, C2 doesn't follow.</span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 5,
+      "section": "Inequalities",
+      "questionId": "67c16bb587f54566478decb3",
+      "questionText": "A\n @ B means 'A is not less than B' \n\n A\n $ B means 'A is not more than B' \n\n A\n # B means 'A is neither less nor more than B' \n\n A\n * B means 'A is neither more than nor equal to B' \n\n A\n % B means 'A is neither less than nor equal to B' \n\n Statements\n : R#M$X*T%W@B \n\n Conclusions\n : \n\n I.M*W\n\n II.\n T@M",
+      "questionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">A\n @ B means 'A is not less than B'</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">A\n $ B means 'A is not more than B'</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">A\n # B means 'A is neither less nor more than B'</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">A\n * B means 'A is neither more than nor equal to B'</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">A\n % B means 'A is neither less than nor equal to B'</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statements\n : R#M$X*T%W@B</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Conclusions\n : </span></span></span></span>\n </p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I.M*W\n </span></span></span></span>\n </p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II.\n T@M</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "Only\n conclusion I is valid.",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n conclusion I is valid.</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "Only\n conclusion II is valid.",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n conclusion II is valid.</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "Either\n conclusion I or II is valid.",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Either\n conclusion I or II is valid.</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "Neither\n conclusion I nor II is valid.",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Neither\n conclusion I nor II is valid.</span></span></span></span></p>\n "
+        },
+        {
+          "option": "E",
+          "text": "Both\n the conclusion I and II are valid.",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Both\n the conclusion I and II are valid.</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "D",
+      "solutionText": "For\n conclusion I: \n\n We\n can clearly see the opposite sign persisting between M and W ,\n thus no relationship between them can be established. \n\n Hence\n conclusion I does not follow. \n\n For\n conclusion II: \n\n The\n common sign between M and T is '<', thus M < T or T > M\n is the actual relationship. \n\n Hence\n conclusion II does not follow",
+      "solutionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">For\n conclusion I:</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">We\n can clearly see the opposite sign persisting between M and W ,\n thus no relationship between them can be established.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Hence\n conclusion I does not follow.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">For\n conclusion II:</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">The\n common sign between M and T is '&lt;', thus M &lt; T or T &gt; M\n is the actual relationship.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Hence\n conclusion II does not follow</span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 6,
+      "section": "Inequalities",
+      "questionId": "67c16bb587f545367d8dec59",
+      "questionText": "Statements: \n\n M>N,\n N≥O, O>P \n\n Conclusions: \n\n I.\n M>O \n\n II.\n N>P",
+      "questionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statements:</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">M&gt;N,\n N≥O, O&gt;P</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Conclusions:</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I.\n M&gt;O</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II.\n N&gt;P</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "Only\n conclusion I is valid.",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n conclusion I is valid.</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "Only\n conclusion II is valid.",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n conclusion II is valid.</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "Either\n conclusion I or II is valid.",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Either\n conclusion I or II is valid.</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "Neither\n conclusion I or II is valid.",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Neither\n conclusion I or II is valid.</span></span></span></span></p>\n "
+        },
+        {
+          "option": "E",
+          "text": "Both\n the conclusion I and II are valid.",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Both\n the conclusion I and II are valid.</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "E",
+      "solutionText": "Since\n M>N and N≥O, we can conclude M>O, so Conclusion I is\n true. \n\n Also,\n since N≥O and O>P, we get N>P, so Conclusion II is true.",
+      "solutionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Since\n M&gt;N and N≥O, we can conclude M&gt;O, so Conclusion I is\n true.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Also,\n since N≥O and O&gt;P, we get N&gt;P, so Conclusion II is true.</span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 7,
+      "section": "Inequalities",
+      "questionId": "67c16bb587f545305a8dec8f",
+      "questionText": "Statements: \n\n Y\n ≥ W = N; N ≥ M \n\n Conclusions: \n\n I.\n Y > M \n\n II.\n Y = M",
+      "questionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statements:</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Y\n ≥ W = N; N ≥ M</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Conclusions:</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I.\n Y &gt; M</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II.\n Y = M</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "Only\n conclusion I is valid.",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n conclusion I is valid.</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "Only\n conclusion II is valid.",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n conclusion II is valid.</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "Either\n conclusion I nor II is valid.",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Either\n conclusion I nor II is valid.</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "Neither\n conclusion I or II is valid.",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Neither\n conclusion I or II is valid.</span></span></span></span></p>\n "
+        },
+        {
+          "option": "E",
+          "text": "Both\n the conclusion I and II are valid.",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Both\n the conclusion I and II are valid.</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "C",
+      "solutionText": "Y\n ≥ W = N; N ≥ M \n\n I.\n Y > M \n\n II.\n Y = M \n\n So\n either conclusion I or II is follow",
+      "solutionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Y\n ≥ W = N; N ≥ M</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I.\n Y &gt; M</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II.\n Y = M</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">So\n either conclusion I or II is follow</span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 8,
+      "section": "Inequalities",
+      "questionId": "67c16bb587f545f5638deca1",
+      "questionText": "Some\n friends were discussing about their savings. \n\n M\n says that his savings are not more than that of W. \n\n W\n says that his savings are neither less than nor equal to S. \n\n S\n says that his savings are not less than O, who is not the least\n saver. \n\n T\n says that his savings are less than M but not less than P. \n\n P\n says that his savings are less than M. \n\n Who\n among the following is the highest saver?",
+      "questionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Some\n friends were discussing about their savings.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">M\n says that his savings are not more than that of W.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">W\n says that his savings are neither less than nor equal to S.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">S\n says that his savings are not less than O, who is not the least\n saver.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">T\n says that his savings are less than M but not less than P.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">P\n says that his savings are less than M.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Who\n among the following is the highest saver?</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "W",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">W</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "S",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">S</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "O",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">O</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "P",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">P</span></span></span></span></p>\n "
+        },
+        {
+          "option": "E",
+          "text": "None",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">None</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "A",
+      "solutionText": "The\n following equation can be drawn from the given hints. \n\n P\n ≤ T < M ≤ W > S ≥ O",
+      "solutionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">The\n following equation can be drawn from the given hints.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">P\n ≤ T &lt; M ≤ W &gt; S ≥ O</span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 9,
+      "section": "Inequalities",
+      "questionId": "67c16bb587f545306c8dec95",
+      "questionText": "Some\n friends were discussing about their savings. \n\n M\n says that his savings are not more than that of W. \n\n W\n says that his savings are neither less than nor equal to S. \n\n S\n says that his savings are not less than O, who is not the least\n saver. \n\n T\n says that his savings are less than M but not less than P. \n\n P\n says that his savings are less than M. \n\n P's\n savings are less than how many people?",
+      "questionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Some\n friends were discussing about their savings.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">M\n says that his savings are not more than that of W.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">W\n says that his savings are neither less than nor equal to S.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">S\n says that his savings are not less than O, who is not the least\n saver.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">T\n says that his savings are less than M but not less than P.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">P\n says that his savings are less than M.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">P's\n savings are less than how many people?</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "1",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">1</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "2",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">2</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "3",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">3</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "4",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">4</span></span></span></span></p>\n "
+        },
+        {
+          "option": "E",
+          "text": "More\n than 4",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">More\n than 4</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "E",
+      "solutionText": "The\n following equation can be drawn from the given hints. \n\n P\n ≤ T < M ≤ W > S ≥ O",
+      "solutionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">The\n following equation can be drawn from the given hints.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">P\n ≤ T &lt; M ≤ W &gt; S ≥ O</span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 10,
+      "section": "Inequalities",
+      "questionId": "67c16bb587f545be428dec65",
+      "questionText": "Statement:\n M ≥ P < H, V > T = M \n\n Conclusions:\n\n I.\n V > P \n\n II.\n T ≥ H",
+      "questionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statement:\n M ≥ P &lt; H, V &gt; T = M</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Conclusions:\n </span></span></span></span>\n </p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I.\n V &gt; P </span></span></span></span>\n </p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II.\n T ≥ H</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "Only\n conclusion I is valid.",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n conclusion I is valid.</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "Only\n conclusion II is valid.",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n conclusion II is valid.</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "Either\n conclusion I or II is valid.",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Either\n conclusion I or II is valid.</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "Neither\n conclusion I nor II is valid.",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Neither\n conclusion I nor II is valid.</span></span></span></span></p>\n "
+        },
+        {
+          "option": "E",
+          "text": "Both\n the conclusion I and II are valid.",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Both\n the conclusion I and II are valid.</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "A",
+      "solutionText": "M\n ≥ P < H ...... (i) \n\n V\n > T = M ...... (ii) \n\n Combining\n all statements, we get \n\n V\n > T = M ≥ P < H \n\n Thus,\n V > P is true. \n\n Again,\n T ≥ H is not true.",
+      "solutionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">M\n ≥ P &lt; H ...... (i)</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">V\n &gt; T = M ...... (ii)</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Combining\n all statements, we get</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">V\n &gt; T = M ≥ P &lt; H</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Thus,\n V &gt; P is true.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Again,\n T ≥ H is not true.</span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 11,
+      "section": "Inequalities",
+      "questionId": "67c16bb587f54538f68deca7",
+      "questionText": "Statements:\n F ≤ L > T, N = O ≥ P, F > Q > S \n\n Conclusions:\n\n I.\n L > T \n\n II.\n F > S",
+      "questionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statements:\n F ≤ L &gt; T, N = O ≥ P, F &gt; Q &gt; S</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Conclusions:\n </span></span></span></span>\n </p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I.\n L &gt; T</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II.\n F &gt; S</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "Only\n conclusion I is valid.",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n conclusion I is valid.</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "Only\n conclusion II is valid.",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n conclusion II is valid.</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "Either\n conclusion I or II is valid.",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Either\n conclusion I or II is valid.</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "Neither\n conclusion I nor II is valid.",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Neither\n conclusion I nor II is valid.</span></span></span></span></p>\n "
+        },
+        {
+          "option": "E",
+          "text": "Both\n the conclusion I and II are valid.",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Both\n the conclusion I and II are valid.</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "E",
+      "solutionText": "Conclusion\n I: L>T (True) → Given L>T, this is directly true. \n\n Conclusion\n II: F>S (True) → Given F>Q>S, we get F>S.",
+      "solutionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Conclusion\n I: L&gt;T (True) → Given L&gt;T, this is directly true. </span></span></span></span>\n </p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Conclusion\n II: F&gt;S (True) → Given F&gt;Q&gt;S, we get F&gt;S.</span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 12,
+      "section": "Inequalities",
+      "questionId": "67c16bb587f545e5978dec47",
+      "questionText": "Statements: \n\n A>B,\n B≥C, C>D, D<E \n\n Conclusions: \n\n I.\n A>D \n\n II.\n C>E",
+      "questionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statements:</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">A&gt;B,\n B≥C, C&gt;D, D&lt;E</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Conclusions:</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I.\n A&gt;D</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II.\n C&gt;E</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "Only\n conclusion I is valid.",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n conclusion I is valid.</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "Only\n conclusion II is valid.",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n conclusion II is valid.</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "Either\n conclusion I or II is valid.",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Either\n conclusion I or II is valid.</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "Neither\n conclusion I nor II is valid.",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Neither\n conclusion I nor II is valid.</span></span></span></span></p>\n "
+        },
+        {
+          "option": "E",
+          "text": "Both\n the conclusion I and II are valid.",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Both\n the conclusion I and II are valid.</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "A",
+      "solutionText": "From\n A>B and B≥C, we get A>C. \n\n From\n C>D, we get A>D, so Conclusion I is true. \n\n However,\n we cannot compare C and E directly, so Conclusion II is false.",
+      "solutionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">From\n A&gt;B and B≥C, we get A&gt;C. </span></span></span></span>\n </p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">From\n C&gt;D, we get A&gt;D, so Conclusion I is true.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">However,\n we cannot compare C and E directly, so Conclusion II is false.</span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 13,
+      "section": "Inequalities",
+      "questionId": "67c16bb587f54514c38dec9b",
+      "questionText": "Some\n friends were discussing about their savings. \n\n M\n says that his savings are not more than that of W. \n\n W\n says that his savings are neither less than nor equal to S. \n\n S\n says that his savings are not less than O, who is not the least\n saver. \n\n T\n says that his savings are less than M but not less than P. \n\n P\n says that his savings are less than M. \n\n Which\n of the following statements is correct? \n\n I.\n O's savings are not more than W. \n\n II.\n M's savings are not more than W. \n\n III.\n P's savings are not more than W.",
+      "questionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Some\n friends were discussing about their savings.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">M\n says that his savings are not more than that of W.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">W\n says that his savings are neither less than nor equal to S.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">S\n says that his savings are not less than O, who is not the least\n saver.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">T\n says that his savings are less than M but not less than P.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">P\n says that his savings are less than M.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Which\n of the following statements is correct?</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I.\n O's savings are not more than W.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II.\n M's savings are not more than W.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">III.\n P's savings are not more than W.</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "Only\n conclusion I is valid.",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n conclusion I is valid.</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "Only\n conclusion II is valid.",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n conclusion II is valid.</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "Only\n conclusion III is valid.",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n conclusion III is valid.</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "Neither\n conclusion I nor II is valid.",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Neither\n conclusion I nor II is valid.</span></span></span></span></p>\n "
+        },
+        {
+          "option": "E",
+          "text": "All\n conclusions are valid.",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">All\n conclusions are valid.</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "The\n following equation can be drawn from the given hints. \n\n P\n ≤ T < M ≤ W > S ≥ O",
+      "solutionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">The\n following equation can be drawn from the given hints.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">P\n ≤ T &lt; M ≤ W &gt; S ≥ O</span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 14,
+      "section": "Inequalities",
+      "questionId": "67c16bb587f5452a408dec89",
+      "questionText": "‘ A\n © B’ means ‘A is either smaller than or equal to\n B.’ \n\n ‘ A\n % B’ means ‘A is neither smaller than nor equal to B.’ \n\n ‘ A\n @ B’ means ‘A is either greater than or equal to B.’ \n\n ‘ A\n $ B’ means ‘A is neither greater than nor equal to B.’ \n\n ‘ A\n # B’ means ‘A is neither greater than nor smaller than\n B.’ \n\n Statements:\n L @ R, R % T, T # M \n\n Conclusions:\n I. M $ R II. T $ L",
+      "questionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\">‘<span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">A\n © B’ means ‘A is either smaller than or equal to\n B.’</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\">‘<span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">A\n % B’ means ‘A is neither smaller than nor equal to B.’</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\">‘<span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">A\n @ B’ means ‘A is either greater than or equal to B.’</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\">‘<span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">A\n $ B’ means ‘A is neither greater than nor equal to B.’</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\">‘<span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">A\n # B’ means ‘A is neither greater than nor smaller than\n B.’</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statements:\n L @ R, R % T, T # M</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Conclusions:\n I. M $ R II. T $ L</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "Only\n conclusion I is valid.",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n conclusion I is valid.</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "Only\n conclusion II is valid.",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n conclusion II is valid.</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "Either\n conclusion I or II is valid.",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Either\n conclusion I or II is valid.</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "Neither\n conclusion I nor II is valid.",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Neither\n conclusion I nor II is valid.</span></span></span></span></p>\n "
+        },
+        {
+          "option": "E",
+          "text": "Both\n the conclusion I and II are valid.",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Both\n the conclusion I and II are valid.</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "E",
+      "solutionText": "Conclusion\n I : \n\n Conclusion\n II : \n\n Hence,\n both Conclusions I and II are true.\n\n![Figure](Inequalities_figures/fig_1_2cd36f65.png)\n\n![Figure](Inequalities_figures/fig_2_eb9a1b7d.png)",
+      "solutionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Conclusion\n I :</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"https://cms-cdn.classplus.co/parserImages/production/683735_1740729268473.png\" name=\"Picture 1\" align=\"bottom\" width=\"151\" height=\"90\" border=\"0\">\n</img></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Conclusion\n II :</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"https://cms-cdn.classplus.co/parserImages/production/503051_1740729268537.png\" name=\"Picture 2\" align=\"bottom\" width=\"147\" height=\"84\" border=\"0\">\n</img></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Hence,\n both Conclusions I and II are true.</span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": [
+        "Inequalities_figures/fig_1_2cd36f65.png",
+        "Inequalities_figures/fig_2_eb9a1b7d.png"
+      ]
+    },
+    {
+      "questionNumber": 15,
+      "section": "Inequalities",
+      "questionId": "67c16bb587f54570958decad",
+      "questionText": "Statements: M = X < Z ≥ W = N ≤ Q < T ≤ V = U \n\n Conclusions: \n\n I. V ≥ W \n\n II. T ≯ U",
+      "questionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none;\"><span style=\"color: #000000;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-family: Cambria,serif;\"><span style=\"font-size: 19px;\">Statements: M = X &lt; Z &ge; W = N &le; Q &lt; T &le; V = U</span></span></span></span></p>\n<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none;\"><span style=\"color: #000000;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-family: Cambria,serif;\"><span style=\"font-size: 19px;\">Conclusions: </span></span></span></span></p>\n<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none;\"><span style=\"color: #000000;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-family: Cambria,serif;\"><span style=\"font-size: 19px;\">I. V &ge; W </span></span></span></span></p>\n<p align=\"justify\" style=\"text-decoration: none;\"><span style=\"color: #000000;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-family: Cambria,serif;\"><span style=\"font-size: 19px;\">II. T ≯ U</span></span></span></span></p>",
+      "options": [
+        {
+          "option": "A",
+          "text": "Only\n conclusion I is valid.",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n conclusion I is valid.</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "Only\n conclusion II is valid.",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n conclusion II is valid.</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "Either\n conclusion I or II is valid.",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Either\n conclusion I or II is valid.</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "Neither\n conclusion I nor II is valid.",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Neither\n conclusion I nor II is valid.</span></span></span></span></p>\n "
+        },
+        {
+          "option": "E",
+          "text": "Both\n the conclusion I and II are valid.",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Both\n the conclusion I and II are valid.</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "Conclusion I: V ≥ W → True because W≤Q<T≤V, so V≥W. \n\n Conclusion II: T ≯ U → True because T≤V and V=U, so  T≤U, meaning T is not greater than U.",
+      "solutionHtml": "<p align=\"justify\"><span style=\"color: #000000; font-family: Cambria, serif;\"><span style=\"font-size: 19px;\">Conclusion I: V &ge; W &rarr; True because W&le;Q&lt;T&le;V, so V&ge;W.</span></span></p>\n<p align=\"justify\"><span style=\"color: #000000; font-family: Cambria, serif;\"><span style=\"font-size: 19px;\">Conclusion II: T ≯ U &rarr; True because T&le;V and V=U, so&nbsp; T&le;U, meaning T is not greater than U.</span></span></p>",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 16,
+      "section": "Inequalities",
+      "questionId": "67c16bb587f5451c3e8dec53",
+      "questionText": "Statement: \n\n P\n >S, P < Q, R ≤ Q, R < T \n\n Conclusions: \n\n I.\n Q > S \n\n II.\n Q = T",
+      "questionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statement:</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">P\n &gt;S, P &lt; Q, R ≤ Q, R &lt; T</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Conclusions:</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I.\n Q &gt; S</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II.\n Q =  T</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "Only\n conclusion I is valid.",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n conclusion I is valid.</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "Only\n conclusion II is valid.",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n conclusion II is valid.</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "Either\n conclusion I or II is valid.",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Either\n conclusion I or II is valid.</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "Neither\n conclusion I nor II is valid.",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Neither\n conclusion I nor II is valid.</span></span></span></span></p>\n "
+        },
+        {
+          "option": "E",
+          "text": "Both\n the conclusion I and II are valid.",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Both\n the conclusion I and II are valid.</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "A",
+      "solutionText": "Conclusion\n I: Q>S Given P>S and P<Q, we can infer: Q>P>S So,\n Q>S is true \n\n Conclusion\n II: Q=T Given R≤Q and R<T, we can infer: Q≥R<T \n\n This\n does not guarantee Q=T, so Conclusion II is false",
+      "solutionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Conclusion\n I: Q&gt;S Given P&gt;S and P&lt;Q, we can infer: Q&gt;P&gt;S So,\n Q&gt;S is true </span></span></span></span>\n </p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Conclusion\n II: Q=T Given R≤Q and R&lt;T, we can infer: Q≥R&lt;T</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">This\n does not guarantee Q=T, so Conclusion II is false</span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 17,
+      "section": "Inequalities",
+      "questionId": "67c16bb587f54553888dec71",
+      "questionText": "‘ A\n © B’ means ‘A is either smaller than or equal to\n B.’ \n\n ‘ A\n % B’ means ‘A is neither smaller than nor equal to B.’ \n\n ‘ A\n @ B’ means ‘A is either greater than or equal to B.’ \n\n ‘ A\n $ B’ means ‘A is neither greater than nor equal to B.’ \n\n ‘ A\n # B’ means ‘A is neither greater than nor smaller than\n B.’ \n\n Statements:\n W $ K, K © G, G @ R \n\n Conclusions:\n\n I.\n R $ K \n\n II.\n G % W",
+      "questionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\">‘<span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">A\n © B’ means ‘A is either smaller than or equal to\n B.’</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\">‘<span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">A\n % B’ means ‘A is neither smaller than nor equal to B.’</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\">‘<span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">A\n @ B’ means ‘A is either greater than or equal to B.’</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\">‘<span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">A\n $ B’ means ‘A is neither greater than nor equal to B.’</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\">‘<span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">A\n # B’ means ‘A is neither greater than nor smaller than\n B.’</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statements:\n W $ K, K © G, G @ R</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Conclusions:\n </span></span></span></span>\n </p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I.\n R $ K </span></span></span></span>\n </p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II.\n G % W</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "Only\n conclusion I is valid.",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n conclusion I is valid.</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "Only\n conclusion II is valid.",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n conclusion II is valid.</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "Either\n conclusion I or II is valid.",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Either\n conclusion I or II is valid.</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "Neither\n conclusion I nor II is valid.",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Neither\n conclusion I nor II is valid.</span></span></span></span></p>\n "
+        },
+        {
+          "option": "E",
+          "text": "Both\n the conclusion I and II are valid.",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Both\n the conclusion I and II are valid.</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "Conclusion\n I: \n\n Conclusion\n II: \n\n Hence,\n only Conclusion II is true.\n\n![Figure](Inequalities_figures/fig_1_618eb8aa.png)\n\n![Figure](Inequalities_figures/fig_2_5842d9ce.png)",
+      "solutionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Conclusion\n I:</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"https://cms-cdn.classplus.co/parserImages/production/785007_1740729268280.png\" name=\"Picture 3\" align=\"bottom\" width=\"178\" height=\"78\" border=\"0\">\n</img></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Conclusion\n II:</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"https://cms-cdn.classplus.co/parserImages/production/970871_1740729268391.png\" name=\"Picture 4\" align=\"bottom\" width=\"171\" height=\"95\" border=\"0\">\n</img></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Hence,\n only Conclusion II is true.</span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": [
+        "Inequalities_figures/fig_1_618eb8aa.png",
+        "Inequalities_figures/fig_2_5842d9ce.png"
+      ]
+    },
+    {
+      "questionNumber": 18,
+      "section": "Inequalities",
+      "questionId": "67c16bb587f5451b528dec7d",
+      "questionText": "Statement:\n P ≤ Q < S = T ≥ U ≥ W < Z \n\n Conclusion:\n\n I.\n S > W, \n\n II.\n W = T",
+      "questionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statement:\n P ≤ Q &lt; S = T ≥ U ≥ W &lt; Z</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Conclusion:\n </span></span></span></span>\n </p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I.\n S &gt; W, </span></span></span></span>\n </p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II.\n W = T</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "Only\n conclusion I is valid.",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n conclusion I is valid.</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "Only\n conclusion II is valid.",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n conclusion II is valid.</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "Either\n conclusion I or II is valid.",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Either\n conclusion I or II is valid.</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "Neither\n conclusion I nor II is valid.",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Neither\n conclusion I nor II is valid.</span></span></span></span></p>\n "
+        },
+        {
+          "option": "E",
+          "text": "Both\n the conclusion I and II are valid.",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Both\n the conclusion I and II are valid.</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "C",
+      "solutionText": "For\n conclusion I and II: S > W and W = T \n\n From\n the given statement, we get: \n\n S\n = T ≥ U ≥ W \n\n Here,\n the common sign between S and W is ‘≥’ and the\n given conclusions are S > W and W = S. \n\n Moreover,\n we are aware that 'S = T' which means we can replace T with S in\n conclusion 2. \n\n Hence,\n either conclusion I or conclusion II follows.",
+      "solutionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">For\n conclusion I and II: S &gt; W and W = T</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">From\n the given statement, we get:</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">S\n = T ≥ U ≥ W</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Here,\n the common sign between S and W is ‘≥’ and the\n given conclusions are S &gt; W and W = S.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Moreover,\n we are aware that 'S = T' which means we can replace T with S in\n conclusion 2.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Hence,\n either conclusion I or conclusion II follows.</span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 19,
+      "section": "Inequalities",
+      "questionId": "67c16bb587f545be4b8dec6b",
+      "questionText": "L\n ≤ O > V = E ≥ S \n\n Which\n of the following ones is correct? \n\n 1)\n L ≤ V 2) O = E 3) O > S 4) S ≥ L",
+      "questionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">L\n ≤ O &gt; V = E ≥ S</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Which\n of the following ones is correct?</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">1)\n L ≤ V 2) O = E 3) O &gt; S 4) S ≥ L</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "Only\n 1",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n 1</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "Only\n 2",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n 2</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "Only\n 3",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n 3</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "Only\n 3 and 4",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n 3 and 4</span></span></span></span></p>\n "
+        },
+        {
+          "option": "E",
+          "text": "None",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">None</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "C",
+      "solutionText": "L\n ≤ O > V = E ≥ S \n\n We\n can compare O and S. which shows that the option 3rd is correct\n because the common symbol between O and S is ‘>’.",
+      "solutionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">L\n ≤ O &gt; V = E ≥ S</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">We\n can compare O and S. which shows that the option 3rd is correct\n because the common symbol between O and S is ‘&gt;’.</span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 20,
+      "section": "Inequalities",
+      "questionId": "67c16bb587f545285f8decb9",
+      "questionText": "A\n @ B means 'A is not less than B' \n\n A\n $ B means 'A is not more than B' \n\n A\n # B means 'A is neither less nor more than B' \n\n A\n * B means 'A is neither more than nor equal to B' \n\n A\n % B means 'A is neither less than nor equal to B' \n\n Statements\n : V@I#E*D ; N$E%B#F \n\n Conclusions\n : \n\n I.\n V%F \n\n II.\n V@N",
+      "questionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">A\n @ B means 'A is not less than B'</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">A\n $ B means 'A is not more than B'</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">A\n # B means 'A is neither less nor more than B'</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">A\n * B means 'A is neither more than nor equal to B'</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">A\n % B means 'A is neither less than nor equal to B'</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statements\n : V@I#E*D ; N$E%B#F</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Conclusions\n : </span></span></span></span>\n </p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I.\n V%F </span></span></span></span>\n </p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II.\n V@N</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "Only\n conclusion I is valid.",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n conclusion I is valid.</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "Only\n conclusion II is valid.",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n conclusion II is valid.</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "Either\n conclusion I or II is valid.",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Either\n conclusion I or II is valid.</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "Neither\n conclusion I nor II is valid.",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Neither\n conclusion I nor II is valid.</span></span></span></span></p>\n "
+        },
+        {
+          "option": "E",
+          "text": "Both\n the conclusion I and II are valid.",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Both\n the conclusion I and II are valid.</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "E",
+      "solutionText": "Conclusions:\n I. V > F II. V ≥ N \n\n For\n conclusion I: \n\n From\n both the statements we get: \n\n V\n ≥ I = E > B = F \n\n The\n common sign between V and F is '>', thus V > F is true. \n\n Hence\n conclusion I follows. \n\n For\n conclusion II: \n\n From\n both the statements we get: \n\n V\n ≥ I = E ≥ N \n\n The\n common sign between V and N is '≥', thus V ≥ N is the actual\n relationship. \n\n Hence\n conclusion II follows.",
+      "solutionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Conclusions:\n I. V &gt; F II. V ≥ N</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">For\n conclusion I:</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">From\n both the statements we get:</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">V\n ≥ I = E &gt; B = F</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">The\n common sign between V and F is '&gt;', thus V &gt; F is true.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Hence\n conclusion I follows.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">For\n conclusion II:</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">From\n both the statements we get:</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">V\n ≥ I = E ≥ N</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">The\n common sign between V and N is '≥', thus V ≥ N is the actual\n relationship.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Hence\n conclusion II follows.</span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    }
+  ]
+}

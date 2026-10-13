@@ -1,0 +1,2333 @@
+{
+  "testName": "Infosys Full Length Mock Test- 5",
+  "testId": "6ab272e415725ff2acb37c2c",
+  "contentId": 32597296,
+  "totalQuestions": 60,
+  "totalFigures": 1,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "section": "Reasoning",
+      "questionId": "6ab27bc3262e9333c82b41d5",
+      "questionText": "A 3×3 figure series fills one extra\n cell each step (1 cell, 2 cells, 3 cells). How many filled cells\n are in step 6?",
+      "questionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">A 3×3 figure series fills one extra\n cell each step (1 cell, 2 cells, 3 cells). How many filled cells\n are in step 6?</span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "4",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">4</span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "5",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">5</span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "6",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">6</span></p>"
+        },
+        {
+          "option": "D",
+          "text": "8",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">8</span></p>\n "
+        }
+      ],
+      "correctAnswer": "C",
+      "solutionText": "The count equals the step number. Step 6 has\n 6 filled cells.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">The count equals the step number. Step 6 has\n 6 filled cells.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 2,
+      "section": "Reasoning",
+      "questionId": "6ab27bc3262e933d932b41b2",
+      "questionText": "In what ratio is profit shared by A and B?\n S1: A invested ₹40,000 and B invested ₹60,000 for the\n same time. S2: The total profit is ₹20,000.",
+      "questionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">In what ratio is profit shared by A and B?\n S1: A invested ₹40,000 and B invested ₹60,000 for the\n same time. S2: The total profit is ₹20,000.</span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "S1 alone is sufficient, S2 is not",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">S1 alone is sufficient, S2 is not</span></p>"
+        },
+        {
+          "option": "B",
+          "text": "S2 alone is sufficient, S1 is not",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">S2 alone is sufficient, S1 is not</span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "Either alone",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Either alone</span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "Both needed",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Both needed</span></p>\n "
+        }
+      ],
+      "correctAnswer": "A",
+      "solutionText": "Same time, so the ratio is the capital ratio\n 2 : 3 from S1. The total amount in S2 is not required to find the\n ratio.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Same time, so the ratio is the capital ratio\n 2 : 3 from S1. The total amount in S2 is not required to find the\n ratio.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 3,
+      "section": "Reasoning",
+      "questionId": "6ab27bc3262e9380442b4194",
+      "questionText": "Statements: All kernels are programs. Some\n programs are drivers. No driver is a firmware blob. Conclusions:\n I. Some kernels are drivers. II. Some programs are not firmware\n blobs.",
+      "questionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Statements: All kernels are programs. Some\n programs are drivers. No driver is a firmware blob. Conclusions:\n I. Some kernels are drivers. II. Some programs are not firmware\n blobs.</span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "Only I follows",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Only I follows</span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "Only II follows",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">Only II follows</span></p>"
+        },
+        {
+          "option": "C",
+          "text": "Both follow",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Both follow</span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "Neither follows",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Neither follows</span></p>\n "
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "Kernels sit inside programs but need not\n meet drivers, so I does not follow. Some programs are drivers, and\n no driver is a firmware blob, so those programs are not firmware\n blobs. II follows.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Kernels sit inside programs but need not\n meet drivers, so I does not follow. Some programs are drivers, and\n no driver is a firmware blob, so those programs are not firmware\n blobs. II follows.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 4,
+      "section": "Reasoning",
+      "questionId": "6ab27bc3262e9354e22b41d0",
+      "questionText": "Find the missing number. \n\n 8 \n\n 4 \n\n 2 \n\n 27 \n\n 9 \n\n 3 \n\n 64 \n\n 16 \n\n ?",
+      "questionHtml": "<p style=\"margin-top: 0.288px; margin-bottom: 0.480px;\"><span style=\"color: #111827;\">Find the missing number.</span></p>\n<table style=\"width: 156px;\" border=\"1\" width=\"156\" cellspacing=\"0\" cellpadding=\"3\">\n<tbody>\n<tr>\n<td style=\"background: #ffffff;\" bgcolor=\"#ffffff\" width=\"45\">\n<p align=\"center\" style=\"margin-top: 0.96px;\"><span style=\"color: #111827;\"><span style=\"font-size: 13px;\"><strong>8</strong></span></span></p>\n</td>\n<td style=\"background: #ffffff;\" bgcolor=\"#ffffff\" width=\"46\">\n<p align=\"center\" style=\"margin-top: 0.96px;\"><span style=\"color: #111827;\"><span style=\"font-size: 13px;\"><strong>4</strong></span></span></p>\n</td>\n<td style=\"background: #ffffff;\" bgcolor=\"#ffffff\" width=\"45\">\n<p align=\"center\" style=\"margin-top: 0.96px;\"><span style=\"color: #111827;\"><span style=\"font-size: 13px;\"><strong>2</strong></span></span></p>\n</td>\n</tr>\n<tr>\n<td style=\"background: #ffffff;\" bgcolor=\"#ffffff\" width=\"45\">\n<p align=\"center\" style=\"margin-top: 0.96px;\"><span style=\"color: #111827;\"><span style=\"font-size: 13px;\"><strong>27</strong></span></span></p>\n</td>\n<td style=\"background: #ffffff;\" bgcolor=\"#ffffff\" width=\"46\">\n<p align=\"center\" style=\"margin-top: 0.96px;\"><span style=\"color: #111827;\"><span style=\"font-size: 13px;\"><strong>9</strong></span></span></p>\n</td>\n<td style=\"background: #ffffff;\" bgcolor=\"#ffffff\" width=\"45\">\n<p align=\"center\" style=\"margin-top: 0.96px;\"><span style=\"color: #111827;\"><span style=\"font-size: 13px;\"><strong>3</strong></span></span></p>\n</td>\n</tr>\n<tr>\n<td style=\"background: #ffffff;\" bgcolor=\"#ffffff\" width=\"45\">\n<p align=\"center\" style=\"margin-top: 0.96px;\"><span style=\"color: #111827;\"><span style=\"font-size: 13px;\"><strong>64</strong></span></span></p>\n</td>\n<td style=\"background: #ffffff;\" bgcolor=\"#ffffff\" width=\"46\">\n<p align=\"center\" style=\"margin-top: 0.96px;\"><span style=\"color: #111827;\"><span style=\"font-size: 13px;\"><strong>16</strong></span></span></p>\n</td>\n<td style=\"background: #fef3c7;\" bgcolor=\"#fef3c7\" width=\"45\">\n<p align=\"center\" style=\"margin-top: 0.96px;\"><span style=\"color: #b45309;\"><span style=\"font-size: 13px;\"><strong>?</strong></span></span></p>\n</td>\n</tr>\n</tbody>\n</table>\n<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 115%;\"><br /><br /></p>",
+      "options": [
+        {
+          "option": "A",
+          "text": "4",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 115%;\"><span style=\"color: #111827;\">4</span></p>"
+        },
+        {
+          "option": "B",
+          "text": "6",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 115%\">\n <span style=\"color: #111827\">6</span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "8",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 115%\">\n <span style=\"color: #111827\">8</span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "2",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 115%\">\n <span style=\"color: #111827\">2</span></p>\n "
+        }
+      ],
+      "correctAnswer": "A",
+      "solutionText": "Each row is a cube, a square, then the root:\n 2³, 2², 2; 3³, 3², 3; 4³, 4², 4.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 115%\">\n <span style=\"color: #111827\">Each row is a cube, a square, then the root:\n 2³, 2², 2; 3³, 3², 3; 4³, 4², 4.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 5,
+      "section": "Reasoning",
+      "questionId": "6ab27bc3262e93dd482b41c1",
+      "questionText": "If A=1, B=2, … and GAME is coded as\n 26, the same way TEAM is coded as",
+      "questionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">If A=1, B=2, … and GAME is coded as\n 26, the same way TEAM is coded as</span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "36",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">36</span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "38",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">38</span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "39",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">39</span></p>"
+        },
+        {
+          "option": "D",
+          "text": "42",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">42</span></p>\n "
+        }
+      ],
+      "correctAnswer": "C",
+      "solutionText": "GAME = 7+1+13+5 = 26. TEAM = 20+5+1+13 = 39.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">GAME = 7+1+13+5 = 26. TEAM = 20+5+1+13 = 39.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 6,
+      "section": "Reasoning",
+      "questionId": "6ab27bc3262e9348ec2b41cb",
+      "questionText": "Find the missing number. \n\n 2 \n\n 7 \n\n 14 \n\n 3 \n\n 8 \n\n 24 \n\n 4 \n\n 9 \n\n ?",
+      "questionHtml": "<p style=\"margin-top: 0.288px; margin-bottom: 0.480px;\"><span style=\"color: #111827;\">Find the missing number.</span></p>\n<table style=\"width: 156px;\" border=\"1\" width=\"156\" cellspacing=\"0\" cellpadding=\"3\">\n<tbody>\n<tr>\n<td style=\"background: #ffffff;\" bgcolor=\"#ffffff\" width=\"45\">\n<p align=\"center\" style=\"margin-top: 0.96px;\"><span style=\"color: #111827;\"><span style=\"font-size: 13px;\"><strong>2</strong></span></span></p>\n</td>\n<td style=\"background: #ffffff;\" bgcolor=\"#ffffff\" width=\"46\">\n<p align=\"center\" style=\"margin-top: 0.96px;\"><span style=\"color: #111827;\"><span style=\"font-size: 13px;\"><strong>7</strong></span></span></p>\n</td>\n<td style=\"background: #ffffff;\" bgcolor=\"#ffffff\" width=\"45\">\n<p align=\"center\" style=\"margin-top: 0.96px;\"><span style=\"color: #111827;\"><span style=\"font-size: 13px;\"><strong>14</strong></span></span></p>\n</td>\n</tr>\n<tr>\n<td style=\"background: #ffffff;\" bgcolor=\"#ffffff\" width=\"45\">\n<p align=\"center\" style=\"margin-top: 0.96px;\"><span style=\"color: #111827;\"><span style=\"font-size: 13px;\"><strong>3</strong></span></span></p>\n</td>\n<td style=\"background: #ffffff;\" bgcolor=\"#ffffff\" width=\"46\">\n<p align=\"center\" style=\"margin-top: 0.96px;\"><span style=\"color: #111827;\"><span style=\"font-size: 13px;\"><strong>8</strong></span></span></p>\n</td>\n<td style=\"background: #ffffff;\" bgcolor=\"#ffffff\" width=\"45\">\n<p align=\"center\" style=\"margin-top: 0.96px;\"><span style=\"color: #111827;\"><span style=\"font-size: 13px;\"><strong>24</strong></span></span></p>\n</td>\n</tr>\n<tr>\n<td style=\"background: #ffffff;\" bgcolor=\"#ffffff\" width=\"45\">\n<p align=\"center\" style=\"margin-top: 0.96px;\"><span style=\"color: #111827;\"><span style=\"font-size: 13px;\"><strong>4</strong></span></span></p>\n</td>\n<td style=\"background: #ffffff;\" bgcolor=\"#ffffff\" width=\"46\">\n<p align=\"center\" style=\"margin-top: 0.96px;\"><span style=\"color: #111827;\"><span style=\"font-size: 13px;\"><strong>9</strong></span></span></p>\n</td>\n<td style=\"background: #fef3c7;\" bgcolor=\"#fef3c7\" width=\"45\">\n<p align=\"center\" style=\"margin-top: 0.96px;\"><span style=\"color: #b45309;\"><span style=\"font-size: 13px;\"><strong>?</strong></span></span></p>\n</td>\n</tr>\n</tbody>\n</table>\n<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 115%;\"><br /><br /></p>",
+      "options": [
+        {
+          "option": "A",
+          "text": "32",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 115%\">\n <span style=\"color: #111827\">32</span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "34",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 115%\">\n <span style=\"color: #111827\">34</span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "36",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 115%;\"><span style=\"color: #111827;\">36</span></p>"
+        },
+        {
+          "option": "D",
+          "text": "40",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 115%\">\n <span style=\"color: #111827\">40</span></p>\n "
+        }
+      ],
+      "correctAnswer": "C",
+      "solutionText": "Third = first × second. 2×7=14,\n 3×8=24, 4×9=36.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 115%\">\n <span style=\"color: #111827\">Third = first × second. 2×7=14,\n 3×8=24, 4×9=36.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 7,
+      "section": "Reasoning",
+      "questionId": "6ab27bc3262e931d372b41da",
+      "questionText": "Who is taller, X or Y? S1: X is taller than\n Z. S2: Z is taller than Y.",
+      "questionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Who is taller, X or Y? S1: X is taller than\n Z. S2: Z is taller than Y.</span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "S1 alone",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">S1 alone</span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "S2 alone",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">S2 alone</span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "Either alone",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Either alone</span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "Both together are needed",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">Both together are needed</span></p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solutionText": "S1 and S2 together give X > Z > Y, so\n X is taller. Neither statement alone compares X with Y.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">S1 and S2 together give X &gt; Z &gt; Y, so\n X is taller. Neither statement alone compares X with Y.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 8,
+      "section": "Reasoning",
+      "questionId": "6ab27bc3262e9319fd2b419e",
+      "questionText": "Statements: Some queues are stacks. All\n stacks are linear. No linear structure is a graph. Conclusions: I.\n Some queues are linear. II. No stack is a graph.",
+      "questionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Statements: Some queues are stacks. All\n stacks are linear. No linear structure is a graph. Conclusions: I.\n Some queues are linear. II. No stack is a graph.</span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "Only I",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Only I</span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "Only II",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Only II</span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "Both I and II",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">Both I and II</span></p>"
+        },
+        {
+          "option": "D",
+          "text": "Neither",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Neither</span></p>\n "
+        }
+      ],
+      "correctAnswer": "C",
+      "solutionText": "Queues that are stacks are linear, so I\n follows. Every stack is linear and no linear structure is a graph,\n so no stack is a graph. Both follow.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Queues that are stacks are linear, so I\n follows. Every stack is linear and no linear structure is a graph,\n so no stack is a graph. Both follow.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 9,
+      "section": "Reasoning",
+      "questionId": "6ab27bc3262e9363d12b41b7",
+      "questionText": "If FILTER is coded as GJMUFS, how is BUFFER\n coded?",
+      "questionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">If FILTER is coded as GJMUFS, how is BUFFER\n coded?</span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "CVGGFS",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">CVGGFS</span></p>"
+        },
+        {
+          "option": "B",
+          "text": "ATGEDQ",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">ATGEDQ</span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "CVHGFS",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">CVHGFS</span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "BWGGFS",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">BWGGFS</span></p>\n "
+        }
+      ],
+      "correctAnswer": "A",
+      "solutionText": "Every letter moves one step forward. BUFFER\n → C V G G F S.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Every letter moves one step forward. BUFFER\n → C V G G F S.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 10,
+      "section": "Reasoning",
+      "questionId": "6ab27bc3262e930b272b41a8",
+      "questionText": "What is the average of x and y? S1: x + y =\n 40. S2: x − y = 8.",
+      "questionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">What is the average of x and y? S1: x + y =\n 40. S2: x − y = 8.</span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "S1 alone is sufficient, S2 is not",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">S1 alone is sufficient, S2 is not</span></p>"
+        },
+        {
+          "option": "B",
+          "text": "S2 alone is sufficient, S1 is not",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">S2 alone is sufficient, S1 is not</span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "Either alone is sufficient",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Either alone is sufficient</span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "Both are needed",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Both are needed</span></p>\n "
+        }
+      ],
+      "correctAnswer": "A",
+      "solutionText": "Average = (x+y)/2. S1 gives the sum, so the\n average is 20. S2 alone does not give the sum.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Average = (x+y)/2. S1 gives the sum, so the\n average is 20. S2 alone does not give the sum.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 11,
+      "section": "Reasoning",
+      "questionId": "6ab27bc3262e93e4b62b4199",
+      "questionText": "Statements: All sprints are iterations. All\n iterations are timeboxes. Some timeboxes are buffers. Conclusions:\n I. All sprints are timeboxes. II. Some buffers are sprints.",
+      "questionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Statements: All sprints are iterations. All\n iterations are timeboxes. Some timeboxes are buffers. Conclusions:\n I. All sprints are timeboxes. II. Some buffers are sprints.</span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "Only I follows",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">Only I follows</span></p>"
+        },
+        {
+          "option": "B",
+          "text": "Only II follows",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Only II follows</span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "Both follow",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Both follow</span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "Neither follows",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Neither follows</span></p>\n "
+        }
+      ],
+      "correctAnswer": "A",
+      "solutionText": "Sprints → iterations → timeboxes,\n so I follows. Buffers overlap timeboxes, not necessarily sprints.\n II does not follow.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Sprints → iterations → timeboxes,\n so I follows. Buffers overlap timeboxes, not necessarily sprints.\n II does not follow.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 12,
+      "section": "Reasoning",
+      "questionId": "6ab27bc3262e93aa422b41bc",
+      "questionText": "If 2 * 3 = 10, 4 * 5 = 28 and 6 * 7 = 54,\n then 8 * 9 = ?",
+      "questionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">If 2 * 3 = 10, 4 * 5 = 28 and 6 * 7 = 54,\n then 8 * 9 = ?</span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "80",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">80</span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "84",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">84</span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "88",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">88</span></p>"
+        },
+        {
+          "option": "D",
+          "text": "90",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">90</span></p>\n "
+        }
+      ],
+      "correctAnswer": "C",
+      "solutionText": "a * b maps to a×b + a + b? 6+3+1=10.\n Rule a×b + a − 2: 6+2=8 no. a×(b+2)−2:\n 2×5−0. 2×3+4=10, 4×5+8=28, 6×7+12=54,\n extras +4+8+12. Next +16: 8×9+16=88. Also a(b+1)+b−2.\n Use a×b + 2a: 6+4=10, 20+8=28, 42+12=54, 72+16=88. Yes 88.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">a * b maps to a×b + a + b? 6+3+1=10.\n Rule a×b + a − 2: 6+2=8 no. a×(b+2)−2:\n 2×5−0. 2×3+4=10, 4×5+8=28, 6×7+12=54,\n extras +4+8+12. Next +16: 8×9+16=88. Also a(b+1)+b−2.\n Use a×b + 2a: 6+4=10, 20+8=28, 42+12=54, 72+16=88. Yes 88.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 13,
+      "section": "Reasoning",
+      "questionId": "6ab27bc3262e93aa662b41c6",
+      "questionText": "Find the missing number. \n\n 3 \n\n 5 \n\n 16 \n\n 4 \n\n 7 \n\n 25 \n\n 5 \n\n 9 \n\n ?",
+      "questionHtml": "<p style=\"margin-top: 0.288px; margin-bottom: 0.480px;\"><span style=\"color: #111827;\">Find the missing number.</span></p>\n<table style=\"width: 156px;\" border=\"1\" width=\"156\" cellspacing=\"0\" cellpadding=\"3\">\n<tbody>\n<tr>\n<td style=\"background: #ffffff;\" bgcolor=\"#ffffff\" width=\"45\">\n<p align=\"center\" style=\"margin-top: 0.96px;\"><span style=\"color: #111827;\"><span style=\"font-size: 13px;\"><strong>3</strong></span></span></p>\n</td>\n<td style=\"background: #ffffff;\" bgcolor=\"#ffffff\" width=\"46\">\n<p align=\"center\" style=\"margin-top: 0.96px;\"><span style=\"color: #111827;\"><span style=\"font-size: 13px;\"><strong>5</strong></span></span></p>\n</td>\n<td style=\"background: #ffffff;\" bgcolor=\"#ffffff\" width=\"45\">\n<p align=\"center\" style=\"margin-top: 0.96px;\"><span style=\"color: #111827;\"><span style=\"font-size: 13px;\"><strong>16</strong></span></span></p>\n</td>\n</tr>\n<tr>\n<td style=\"background: #ffffff;\" bgcolor=\"#ffffff\" width=\"45\">\n<p align=\"center\" style=\"margin-top: 0.96px;\"><span style=\"color: #111827;\"><span style=\"font-size: 13px;\"><strong>4</strong></span></span></p>\n</td>\n<td style=\"background: #ffffff;\" bgcolor=\"#ffffff\" width=\"46\">\n<p align=\"center\" style=\"margin-top: 0.96px;\"><span style=\"color: #111827;\"><span style=\"font-size: 13px;\"><strong>7</strong></span></span></p>\n</td>\n<td style=\"background: #ffffff;\" bgcolor=\"#ffffff\" width=\"45\">\n<p align=\"center\" style=\"margin-top: 0.96px;\"><span style=\"color: #111827;\"><span style=\"font-size: 13px;\"><strong>25</strong></span></span></p>\n</td>\n</tr>\n<tr>\n<td style=\"background: #ffffff;\" bgcolor=\"#ffffff\" width=\"45\">\n<p align=\"center\" style=\"margin-top: 0.96px;\"><span style=\"color: #111827;\"><span style=\"font-size: 13px;\"><strong>5</strong></span></span></p>\n</td>\n<td style=\"background: #ffffff;\" bgcolor=\"#ffffff\" width=\"46\">\n<p align=\"center\" style=\"margin-top: 0.96px;\"><span style=\"color: #111827;\"><span style=\"font-size: 13px;\"><strong>9</strong></span></span></p>\n</td>\n<td style=\"background: #fef3c7;\" bgcolor=\"#fef3c7\" width=\"45\">\n<p align=\"center\" style=\"margin-top: 0.96px;\"><span style=\"color: #b45309;\"><span style=\"font-size: 13px;\"><strong>?</strong></span></span></p>\n</td>\n</tr>\n</tbody>\n</table>\n<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 115%;\"><br /><br /></p>",
+      "options": [
+        {
+          "option": "A",
+          "text": "34",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 115%\">\n <span style=\"color: #111827\">34</span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "36",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 115%;\"><span style=\"color: #111827;\">36</span></p>"
+        },
+        {
+          "option": "C",
+          "text": "40",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 115%\">\n <span style=\"color: #111827\">40</span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "45",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 115%\">\n <span style=\"color: #111827\">45</span></p>\n "
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "Third = first² + second + 2. 9+5+2=16,\n 16+7+2=25, 25+9+2=36.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 115%\">\n <span style=\"color: #111827\">Third = first² + second + 2. 9+5+2=16,\n 16+7+2=25, 25+9+2=36.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 14,
+      "section": "Reasoning",
+      "questionId": "6ab27bc3262e931d4a2b41a3",
+      "questionText": "Statements: No cache is a disk. Some disks\n are tapes. All tapes are media. Conclusions: I. Some media are\n disks. II. Some caches are tapes.",
+      "questionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Statements: No cache is a disk. Some disks\n are tapes. All tapes are media. Conclusions: I. Some media are\n disks. II. Some caches are tapes.</span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "Only I follows",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">Only I follows</span></p>"
+        },
+        {
+          "option": "B",
+          "text": "Only II follows",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Only II follows</span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "Both follow",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Both follow</span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "Neither follows",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Neither follows</span></p>\n "
+        }
+      ],
+      "correctAnswer": "A",
+      "solutionText": "Some disks are tapes and all tapes are\n media, so some media are disks. Caches are disjoint from disks and\n need not meet tapes. Only I.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Some disks are tapes and all tapes are\n media, so some media are disks. Caches are disjoint from disks and\n need not meet tapes. Only I.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 15,
+      "section": "Reasoning",
+      "questionId": "6ab27bc3262e93b95e2b41ad",
+      "questionText": "Is integer n divisible by 6? S1: n is\n divisible by 2 and by 3. S2: n ends with the digit 4.",
+      "questionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Is integer n divisible by 6? S1: n is\n divisible by 2 and by 3. S2: n ends with the digit 4.</span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "S1 alone is sufficient, S2 is not",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">S1 alone is sufficient, S2 is not</span></p>"
+        },
+        {
+          "option": "B",
+          "text": "S2 alone is sufficient, S1 is not",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">S2 alone is sufficient, S1 is not</span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "Either alone",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Either alone</span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "Both needed",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Both needed</span></p>\n "
+        }
+      ],
+      "correctAnswer": "A",
+      "solutionText": "A number divisible by 2 and 3 is divisible\n by 6. S1 is enough. Ending with 4 means even, but not necessarily\n a multiple of 3.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">A number divisible by 2 and 3 is divisible\n by 6. S1 is enough. Ending with 4 means even, but not necessarily\n a multiple of 3.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 16,
+      "section": "Aptitude (Technical Ability)",
+      "questionId": "6ab27c6387e1c28dee69d814",
+      "questionText": "Two cards are drawn from 52 without\n replacement. Probability both are aces is",
+      "questionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Two cards are drawn from 52 without\n replacement. Probability both are aces is</span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "1/221",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">1/221</span></p>"
+        },
+        {
+          "option": "B",
+          "text": "1/169",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">1/169</span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "1/17",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">1/17</span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "2/52",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">2/52</span></p>\n "
+        }
+      ],
+      "correctAnswer": "A",
+      "solutionText": "C(4,2)/C(52,2) = 6/1326 = 1/221.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">C(4,2)/C(52,2) = 6/1326 = 1/221.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 17,
+      "section": "Aptitude (Technical Ability)",
+      "questionId": "6ab27c6387e1c29aec69d805",
+      "questionText": "[P&C] The number of distinct\n arrangements of the letters in LEVEL is",
+      "questionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">[P&amp;C] The number of distinct\n arrangements of the letters in LEVEL is</span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "30",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">30</span></p>"
+        },
+        {
+          "option": "B",
+          "text": "60",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">60</span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "120",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">120</span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "24",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">24</span></p>\n "
+        }
+      ],
+      "correctAnswer": "A",
+      "solutionText": "LEVEL has 5 letters, L twice and E twice. 5!\n / (2! × 2!) = 30.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">LEVEL has 5 letters, L twice and E twice. 5!\n / (2! × 2!) = 30.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 18,
+      "section": "Aptitude (Technical Ability)",
+      "questionId": "6ab27c6387e1c2326769d823",
+      "questionText": "A finishes in 20 days, B in 30 days. Working\n together they take",
+      "questionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">A finishes in 20 days, B in 30 days. Working\n together they take</span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "10 days",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">10 days</span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "12 days",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">12 days</span></p>"
+        },
+        {
+          "option": "C",
+          "text": "15 days",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">15 days</span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "25 days",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">25 days</span></p>\n "
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "Combined rate = 1/20 + 1/30 = 1/12. Time =\n 12 days.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Combined rate = 1/20 + 1/30 = 1/12. Time =\n 12 days.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 19,
+      "section": "Aptitude (Technical Ability)",
+      "questionId": "6ab27c6387e1c2301069d81e",
+      "questionText": "An item marked ₹2,500 is sold after\n 20% discount. If CP is ₹1,800, profit percent is",
+      "questionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">An item marked ₹2,500 is sold after\n 20% discount. If CP is ₹1,800, profit percent is</span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "10%",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">10%</span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "11.11%",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">11.11%</span></p>"
+        },
+        {
+          "option": "C",
+          "text": "12%",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">12%</span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "20%",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">20%</span></p>\n "
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "SP = 80% of 2500 = 2000. Profit = 200. % =\n 200/1800 × 100 = 11.11%.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">SP = 80% of 2500 = 2000. Profit = 200. % =\n 200/1800 × 100 = 11.11%.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 20,
+      "section": "Aptitude (Technical Ability)",
+      "questionId": "6ab27c6387e1c23f8069d828",
+      "questionText": "A and B together take 8 days. A alone takes\n 12 days. B alone takes",
+      "questionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">A and B together take 8 days. A alone takes\n 12 days. B alone takes</span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "18 days",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">18 days</span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "20 days",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">20 days</span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "24 days",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">24 days</span></p>"
+        },
+        {
+          "option": "D",
+          "text": "30 days",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">30 days</span></p>\n "
+        }
+      ],
+      "correctAnswer": "C",
+      "solutionText": "B = 1/8 − 1/12 = 1/24. B takes 24\n days.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">B = 1/8 − 1/12 = 1/24. B takes 24\n days.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 21,
+      "section": "Aptitude (Technical Ability)",
+      "questionId": "6ab27c6387e1c2045f69d819",
+      "questionText": "CP = ₹1,200 and profit = 15%. Selling\n price is",
+      "questionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">CP = ₹1,200 and profit = 15%. Selling\n price is</span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "₹1,350",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">₹1,350</span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "₹1,360",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">₹1,360</span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "₹1,380",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">₹1,380</span></p>"
+        },
+        {
+          "option": "D",
+          "text": "₹1,400",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">₹1,400</span></p>\n "
+        }
+      ],
+      "correctAnswer": "C",
+      "solutionText": "SP = 115% of 1200 = ₹1,380.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">SP = 115% of 1200 = ₹1,380.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 22,
+      "section": "Aptitude (Technical Ability)",
+      "questionId": "6ab27c6387e1c2ca8a69d80a",
+      "questionText": "A fair coin is tossed three times.\n Probability of exactly two heads is",
+      "questionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">A fair coin is tossed three times.\n Probability of exactly two heads is</span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "1/8",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">1/8</span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "3/8",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">3/8</span></p>"
+        },
+        {
+          "option": "C",
+          "text": "1/2",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">1/2</span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "3/4",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">3/4</span></p>\n "
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "C(3,2)/8 = 3/8.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">C(3,2)/8 = 3/8.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 23,
+      "section": "Aptitude (Technical Ability)",
+      "questionId": "6ab27c6387e1c2009669d80f",
+      "questionText": "A bag has 3 white and 5 black balls. One\n ball is drawn. Probability it is black is",
+      "questionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">A bag has 3 white and 5 black balls. One\n ball is drawn. Probability it is black is</span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "3/8",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">3/8</span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "1/2",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">1/2</span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "5/8",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">5/8</span></p>"
+        },
+        {
+          "option": "D",
+          "text": "2/5",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">2/5</span></p>\n "
+        }
+      ],
+      "correctAnswer": "C",
+      "solutionText": "5 black out of 8 = 5/8.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">5 black out of 8 = 5/8.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 24,
+      "section": "Aptitude (Technical Ability)",
+      "questionId": "6ab27c6387e1c2833969d7fb",
+      "questionText": "How many ways can 5 distinct books be\n arranged on a shelf if two particular books must stay together?",
+      "questionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">How many ways can 5 distinct books be\n arranged on a shelf if two particular books must stay together?</span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "48",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">48</span></p>"
+        },
+        {
+          "option": "B",
+          "text": "60",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">60</span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "120",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">120</span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "240",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">240</span></p>\n "
+        }
+      ],
+      "correctAnswer": "A",
+      "solutionText": "Tie the two books as one bundle: 4 units can\n be arranged in 4! ways and the bundle in 2! ways. 24 × 2 =\n 48.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Tie the two books as one bundle: 4 units can\n be arranged in 4! ways and the bundle in 2! ways. 24 × 2 =\n 48.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 25,
+      "section": "Aptitude (Technical Ability)",
+      "questionId": "6ab27c6387e1c2772169d800",
+      "questionText": "From 6 men and 4 women, a committee of 4\n with exactly 2 women can be formed in how many ways?",
+      "questionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">From 6 men and 4 women, a committee of 4\n with exactly 2 women can be formed in how many ways?</span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "60",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">60</span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "90",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">90</span></p>"
+        },
+        {
+          "option": "C",
+          "text": "120",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">120</span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "180",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">180</span></p>\n "
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "C(4,2) × C(6,2) = 6 × 15 = 90.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">C(4,2) × C(6,2) = 6 × 15 = 90.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 26,
+      "section": "Verbal Ability",
+      "questionId": "6ab27ca20b81d56d42704fe6",
+      "questionText": "Arrange:\n P: Two-minute demos expose that gap early. Q: Specs that never\n meet a user stay elegant and wrong. R: Put a real task in front of\n one stranger every Friday. S: Notes from that session beat another\n internal review.",
+      "questionHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">Arrange:\n P: Two-minute demos expose that gap early. Q: Specs that never\n meet a user stay elegant and wrong. R: Put a real task in front of\n one stranger every Friday. S: Notes from that session beat another\n internal review.</span></span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "Q\n P R S",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">Q\n P R S</span></span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "Q\n P S R",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">Q\n P S R</span></span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "Q R S P",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-size: 13px;\"><span style=\"font-style: normal;\">Q R S P</span></span></span></span></p>"
+        },
+        {
+          "option": "D",
+          "text": "P\n Q R S",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">P\n Q R S</span></span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "C",
+      "solutionText": "Q\n names the risk. R is the weekly test. S values the notes. P notes\n that short demos also expose the gap; the tightest story is Q R S\n P.",
+      "solutionHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">Q\n names the risk. R is the weekly test. S values the notes. P notes\n that short demos also expose the gap; the tightest story is Q R S\n P.</span></span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 27,
+      "section": "Verbal Ability",
+      "questionId": "6ab27ca20b81d57648704fb9",
+      "questionText": "Choose\n the correct sentence.",
+      "questionHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">Choose\n the correct sentence.</span></span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "Every\n one of the modules have a test.",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">Every\n one of the modules have a test.</span></span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "Every one of the modules has a test.",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-size: 13px;\"><span style=\"font-style: normal;\">Every one of the modules has a test.</span></span></span></span></p>"
+        },
+        {
+          "option": "C",
+          "text": "Every\n one of the module has a test.",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">Every\n one of the module has a test.</span></span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "Every\n one of the modules having a test.",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">Every\n one of the modules having a test.</span></span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "Every\n one is singular: has. Modules stays plural after of.",
+      "solutionHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">Every\n one is singular: has. Modules stays plural after of.</span></span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 28,
+      "section": "Verbal Ability",
+      "questionId": "6ab27ca20b81d5c73a704fcd",
+      "questionText": "Choose\n the correct sentence.",
+      "questionHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">Choose\n the correct sentence.</span></span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "Little of the traffic has cleared.",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-size: 13px;\"><span style=\"font-style: normal;\">Little of the traffic has cleared.</span></span></span></span></p>"
+        },
+        {
+          "option": "B",
+          "text": "Little\n of the traffic have cleared.",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">Little\n of the traffic have cleared.</span></span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "Few\n of the traffic has cleared.",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">Few\n of the traffic has cleared.</span></span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "Little\n of the traffics has cleared.",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">Little\n of the traffics has cleared.</span></span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "A",
+      "solutionText": "Traffic\n is uncountable; little + has.",
+      "solutionHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">Traffic\n is uncountable; little + has.</span></span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 29,
+      "section": "Verbal Ability",
+      "questionId": "6ab27ca20b81d5c359704faa",
+      "questionText": "Passage \n\n A service-level objective is useful only when the team can see the error budget being spent. If latency is promised at 300 ms for 99% of calls, the remaining 1% is not a licence to ignore timeouts. Burn-rate alerts that fire after the month is already lost teach nobody. The better habit is a short window alert plus a long window alert, so a sharp incident and a slow leak are both visible. Documents that list SLOs without owners become wallpaper. \n\n Burn-rate alerts that fire after the month is lost",
+      "questionHtml": "<p align=\"left\" style=\"margin-top: 0.288px; margin-bottom: 0.288px;\"><span style=\"color: #111827;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-size: 13px;\"><span><strong>Passage</strong></span></span></span></span></p>\n<p align=\"left\" style=\"margin-top: 0.288px;\"></p>\n<p align=\"left\" style=\"margin-top: 0.288px; margin-bottom: 0.480px;\"><span style=\"color: #111827;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-size: 13px;\">A service-level objective is useful only when the team can see the error budget being spent. If latency is promised at 300 ms for 99% of calls, the remaining 1% is not a licence to ignore timeouts. Burn-rate alerts that fire after the month is already lost teach nobody. The better habit is a short window alert plus a long window alert, so a sharp incident and a slow leak are both visible. Documents that list SLOs without owners become wallpaper.</span></span></span></p>\n<p align=\"left\" style=\"margin-top: 0.288px;\"><strong><span style=\"color: #111827;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-size: 13px;\"><span style=\"font-style: normal;\">Burn-rate alerts that fire after the month is lost</span></span></span></span></strong></p>",
+      "options": [
+        {
+          "option": "A",
+          "text": "teach nobody",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-size: 13px;\"><span style=\"font-style: normal;\">teach nobody</span></span></span></span></p>"
+        },
+        {
+          "option": "B",
+          "text": "are\n the best design",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">are\n the best design</span></span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "replace\n owners",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">replace\n owners</span></span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "fix\n latency",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">fix\n latency</span></span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "A",
+      "solutionText": "The\n third sentence.",
+      "solutionHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">The\n third sentence.</span></span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 30,
+      "section": "Verbal Ability",
+      "questionId": "6ab27ca20b81d50fd0704fc8",
+      "questionText": "Choose\n the correct sentence.",
+      "questionHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">Choose\n the correct sentence.</span></span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "She\n laid on the couch after the on-call.",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">She\n laid on the couch after the on-call.</span></span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "She lay on the couch after the on-call.",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-size: 13px;\"><span style=\"font-style: normal;\">She lay on the couch after the on-call.</span></span></span></span></p>"
+        },
+        {
+          "option": "C",
+          "text": "She\n lied on the couch after the on-call.",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">She\n lied on the couch after the on-call.</span></span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "She\n lain on the couch after the on-call.",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">She\n lain on the couch after the on-call.</span></span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "Past\n of intransitive lie (recline) is lay.",
+      "solutionHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">Past\n of intransitive lie (recline) is lay.</span></span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 31,
+      "section": "Verbal Ability",
+      "questionId": "6ab27ca20b81d5a13d704fdc",
+      "questionText": "Arrange:\n P: A runbook that names the first three commands beats a long\n essay. Q: Night pages fail when the only help is a slide deck. R:\n Keep the commands in the same repo as the service. S: Then the\n next intern can act without a meeting.",
+      "questionHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">Arrange:\n P: A runbook that names the first three commands beats a long\n essay. Q: Night pages fail when the only help is a slide deck. R:\n Keep the commands in the same repo as the service. S: Then the\n next intern can act without a meeting.</span></span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "Q\n R P S",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">Q\n R P S</span></span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "P\n Q R S",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">P\n Q R S</span></span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "Q P R S",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-size: 13px;\"><span style=\"font-style: normal;\">Q P R S</span></span></span></span></p>"
+        },
+        {
+          "option": "D",
+          "text": "Q\n P S R",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">Q\n P S R</span></span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "C",
+      "solutionText": "Q\n is the failure. P is the better artefact. R says where it lives. S\n is the outcome. Q P R S.",
+      "solutionHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">Q\n is the failure. P is the better artefact. R says where it lives. S\n is the outcome. Q P R S.</span></span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 32,
+      "section": "Verbal Ability",
+      "questionId": "6ab27ca20b81d5f968704fb4",
+      "questionText": "Passage \n\n A service-level objective is useful only when the team can see the error budget being spent. If latency is promised at 300 ms for 99% of calls, the remaining 1% is not a licence to ignore timeouts. Burn-rate alerts that fire after the month is already lost teach nobody. The better habit is a short window alert plus a long window alert, so a sharp incident and a slow leak are both visible. Documents that list SLOs without owners become wallpaper. \n\n SLO documents without owners",
+      "questionHtml": "<p align=\"left\" style=\"margin-top: 0.288px; margin-bottom: 0.288px;\"><span style=\"color: #111827;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-size: 13px;\"><span><strong>Passage</strong></span></span></span></span></p>\n<p align=\"left\" style=\"margin-top: 0.288px; margin-bottom: 0.480px;\"><span style=\"color: #111827;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-size: 13px;\">A service-level objective is useful only when the team can see the error budget being spent. If latency is promised at 300 ms for 99% of calls, the remaining 1% is not a licence to ignore timeouts. Burn-rate alerts that fire after the month is already lost teach nobody. The better habit is a short window alert plus a long window alert, so a sharp incident and a slow leak are both visible. Documents that list SLOs without owners become wallpaper.</span></span></span></p>\n<p align=\"left\" style=\"margin-top: 0.288px;\"><strong><span style=\"color: #111827;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-size: 13px;\"><span style=\"font-style: normal;\">SLO documents without owners</span></span></span></span></strong></p>",
+      "options": [
+        {
+          "option": "A",
+          "text": "run\n the pager",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">run\n the pager</span></span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "cut\n latency automatically",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">cut\n latency automatically</span></span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "replace alerts",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-size: 13px;\"><span style=\"font-style: normal;\"><span style=\"font-weight: normal;\">replace alerts</span></span></span></span></span></p>"
+        },
+        {
+          "option": "D",
+          "text": "become wallpaper",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-size: 13px;\"><span style=\"font-style: normal;\">become wallpaper</span></span></span></span></p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solutionText": "Last\n sentence.",
+      "solutionHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">Last\n sentence.</span></span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 33,
+      "section": "Verbal Ability",
+      "questionId": "6ab27ca20b81d53432704ffa",
+      "questionText": "One-word:\n Lasting only for a short time.",
+      "questionHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">One-word:\n Lasting only for a short time.</span></span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "Chronic",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">Chronic</span></span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "Perennial",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">Perennial</span></span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "Ephemeral",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-size: 13px;\"><span style=\"font-style: normal;\">Ephemeral</span></span></span></span></p>"
+        },
+        {
+          "option": "D",
+          "text": "Perpetual",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">Perpetual</span></span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "C",
+      "solutionText": "Ephemeral\n means short-lived.",
+      "solutionHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">Ephemeral\n means short-lived.</span></span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 34,
+      "section": "Verbal Ability",
+      "questionId": "6ab27ca20b81d5a929704fd7",
+      "questionText": "Arrange:\n P: Cardinality explosions then make the bill jump overnight. Q:\n High-cardinality labels on every request look harmless in staging.\n R: Cap the label set and sample the rest. S: Staging traffic is\n too tidy to show the cost.",
+      "questionHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">Arrange:\n P: Cardinality explosions then make the bill jump overnight. Q:\n High-cardinality labels on every request look harmless in staging.\n R: Cap the label set and sample the rest. S: Staging traffic is\n too tidy to show the cost.</span></span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "Q\n P R S",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">Q\n P R S</span></span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "Q S P R",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-size: 13px;\"><span style=\"font-style: normal;\">Q S P R</span></span></span></span></p>"
+        },
+        {
+          "option": "C",
+          "text": "P\n Q R S",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">P\n Q R S</span></span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "Q\n P S R",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">Q\n P S R</span></span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "Q\n looks harmless. S explains why staging hides it. P is the\n production bill. R is the control. Q S P R.",
+      "solutionHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">Q\n looks harmless. S explains why staging hides it. P is the\n production bill. R is the control. Q S P R.</span></span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 35,
+      "section": "Verbal Ability",
+      "questionId": "6ab27ca20b81d57fee704fd2",
+      "questionText": "Arrange:\n P: Feature flags then let the fix ride with the next build. Q:\n Hotfix branches that live for weeks drift from main. R: A\n short-lived branch plus a flag is usually enough. S: Long-lived\n hotfix trains surprise the next release.",
+      "questionHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">Arrange:\n P: Feature flags then let the fix ride with the next build. Q:\n Hotfix branches that live for weeks drift from main. R: A\n short-lived branch plus a flag is usually enough. S: Long-lived\n hotfix trains surprise the next release.</span></span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "Q S R P",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-size: 13px;\"><span style=\"font-style: normal;\">Q S R P</span></span></span></span></p>"
+        },
+        {
+          "option": "B",
+          "text": "Q\n P R S",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">Q\n P R S</span></span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "S\n Q P R",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">S\n Q P R</span></span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "Q\n R S P",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">Q\n R S P</span></span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "A",
+      "solutionText": "Q\n is the problem. S is the cost. R is the small pattern. P is how\n flags help. Q S R P.",
+      "solutionHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">Q\n is the problem. S is the cost. R is the small pattern. P is how\n flags help. Q S R P.</span></span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 36,
+      "section": "Verbal Ability",
+      "questionId": "6ab27ca20b81d5470a704faf",
+      "questionText": "Passage \n\n A service-level objective is useful only when the team can see the error budget being spent. If latency is promised at 300 ms for 99% of calls, the remaining 1% is not a licence to ignore timeouts. Burn-rate alerts that fire after the month is already lost teach nobody. The better habit is a short window alert plus a long window alert, so a sharp incident and a slow leak are both visible. Documents that list SLOs without owners become wallpaper. \n\n Short-window plus long-window alerts help because",
+      "questionHtml": "<p align=\"left\" style=\"margin-top: 0.288px; margin-bottom: 0.288px;\"><span style=\"color: #111827;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-size: 13px;\"><span><strong>Passage</strong></span></span></span></span></p>\n<p align=\"left\" style=\"margin-top: 0.288px; margin-bottom: 0.480px;\"><span style=\"color: #111827;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-size: 13px;\">A service-level objective is useful only when the team can see the error budget being spent. If latency is promised at 300 ms for 99% of calls, the remaining 1% is not a licence to ignore timeouts. Burn-rate alerts that fire after the month is already lost teach nobody. The better habit is a short window alert plus a long window alert, so a sharp incident and a slow leak are both visible. Documents that list SLOs without owners become wallpaper.</span></span></span></p>\n<p align=\"left\" style=\"margin-top: 0.288px;\"><strong><span style=\"color: #111827;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-size: 13px;\"><span style=\"font-style: normal;\">Short-window plus long-window alerts help because</span></span></span></span></strong></p>",
+      "options": [
+        {
+          "option": "A",
+          "text": "they\n hide slow leaks",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">they\n hide slow leaks</span></span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "a sharp incident and a slow leak are both visible",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-size: 13px;\"><span style=\"font-style: normal;\">a sharp incident and a slow leak are both visible</span></span></span></span></p>"
+        },
+        {
+          "option": "C",
+          "text": "they\n remove the need for an SLO",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">they\n remove the need for an SLO</span></span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "they\n replace error budgets",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">they\n replace error budgets</span></span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "The\n fourth sentence.",
+      "solutionHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">The\n fourth sentence.</span></span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 37,
+      "section": "Verbal Ability",
+      "questionId": "6ab27ca20b81d5e326704fa0",
+      "questionText": "Passage \n\n A service-level objective is useful only when the team can see the error budget being spent. If latency is promised at 300 ms for 99% of calls, the remaining 1% is not a licence to ignore timeouts. Burn-rate alerts that fire after the month is already lost teach nobody. The better habit is a short window alert plus a long window alert, so a sharp incident and a slow leak are both visible. Documents that list SLOs without owners become wallpaper. \n\n The main idea of the passage is that",
+      "questionHtml": "<p align=\"left\" style=\"margin-top: 0.288px; margin-bottom: 0.288px;\"><span style=\"color: #111827;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-size: 13px;\"><span style=\"font-style: normal;\"><strong>Passage</strong></span></span></span></span></p>\n<p align=\"left\" style=\"margin-top: 0.288px; margin-bottom: 0.480px;\"><span style=\"color: #111827;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-size: 13px;\"><span style=\"font-style: normal;\"><span style=\"font-weight: normal;\">A service-level objective is useful only when the team can see the error budget being spent. If latency is promised at 300 ms for 99% of calls, the remaining 1% is not a licence to ignore timeouts. Burn-rate alerts that fire after the month is already lost teach nobody. The better habit is a short window alert plus a long window alert, so a sharp incident and a slow leak are both visible. Documents that list SLOs without owners become wallpaper.</span></span></span></span></span></p>\n<p align=\"left\" style=\"margin-top: 0.288px;\"><strong><span style=\"color: #111827;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-size: 13px;\"><span style=\"font-style: normal;\">The main idea of the passage is that</span></span></span></span></strong></p>",
+      "options": [
+        {
+          "option": "A",
+          "text": "a\n 1% error budget means timeouts may be ignored",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">a\n 1% error budget means timeouts may be ignored</span></span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "SLOs work only with visible budgets, dual-window alerts and owners",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-size: 13px;\"><span style=\"font-style: normal;\">SLOs work only with visible budgets, dual-window alerts and owners</span></span></span></span></p>"
+        },
+        {
+          "option": "C",
+          "text": "monthly\n alerts are better than short windows",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">monthly\n alerts are better than short windows</span></span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "latency\n promises should be deleted",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">latency\n promises should be deleted</span></span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "The\n passage ties SLOs to seeing the budget, using short and long\n alerts, and naming owners.",
+      "solutionHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">The\n passage ties SLOs to seeing the budget, using short and long\n alerts, and naming owners.</span></span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 38,
+      "section": "Verbal Ability",
+      "questionId": "6ab27ca20b81d5f7c9704fff",
+      "questionText": "Fill:\n The outage postmortem was _____ and named every missed alert.",
+      "questionHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">Fill:\n The outage postmortem was _____ and named every missed alert.</span></span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "evasive",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">evasive</span></span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "candid",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-size: 13px;\"><span style=\"font-style: normal;\">candid</span></span></span></span></p>"
+        },
+        {
+          "option": "C",
+          "text": "obscure",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">obscure</span></span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "reluctant",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">reluctant</span></span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "Candid\n means frank and open.",
+      "solutionHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">Candid\n means frank and open.</span></span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 39,
+      "section": "Verbal Ability",
+      "questionId": "6ab27ca20b81d5a431704ff0",
+      "questionText": "Antonym\n of “amplify”:",
+      "questionHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">Antonym\n of “amplify”:</span></span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "Enlarge",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">Enlarge</span></span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "Boost",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">Boost</span></span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "Diminish",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-size: 13px;\"><span style=\"font-style: normal;\">Diminish</span></span></span></span></p>"
+        },
+        {
+          "option": "D",
+          "text": "Raise",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">Raise</span></span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "C",
+      "solutionText": "Diminish\n is the opposite of amplify.",
+      "solutionHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">Diminish\n is the opposite of amplify.</span></span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 40,
+      "section": "Verbal Ability",
+      "questionId": "6ab27ca20b81d53444704ff5",
+      "questionText": "“ Move\n the needle” means",
+      "questionHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">“<span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">Move\n the needle” means</span></span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "Make a measurable difference",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-size: 13px;\"><span style=\"font-style: normal;\">Make a measurable difference</span></span></span></span></p>"
+        },
+        {
+          "option": "B",
+          "text": "Rotate\n a compass",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">Rotate\n a compass</span></span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "Delete\n a metric",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">Delete\n a metric</span></span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "Pause\n a release",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">Pause\n a release</span></span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "A",
+      "solutionText": "The\n idiom means to cause a noticeable change.",
+      "solutionHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">The\n idiom means to cause a noticeable change.</span></span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 41,
+      "section": "Verbal Ability",
+      "questionId": "6ab27ca20b81d5be18704fbe",
+      "questionText": "Choose\n the correct sentence.",
+      "questionHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">Choose\n the correct sentence.</span></span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "No sooner had the job started than the queue grew.",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-size: 13px;\"><span style=\"font-style: normal;\">No sooner had the job started than the queue grew.</span></span></span></span></p>"
+        },
+        {
+          "option": "B",
+          "text": "No\n sooner the job started when the queue grew.",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">No\n sooner the job started when the queue grew.</span></span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "No\n sooner had the job started then the queue grew.",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">No\n sooner had the job started then the queue grew.</span></span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "No\n sooner the job had started than the queue grew.",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">No\n sooner the job had started than the queue grew.</span></span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "A",
+      "solutionText": "No\n sooner + inversion + than.",
+      "solutionHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">No\n sooner + inversion + than.</span></span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 42,
+      "section": "Verbal Ability",
+      "questionId": "6ab27ca20b81d5e944704fc3",
+      "questionText": "Choose\n the correct sentence.",
+      "questionHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">Choose\n the correct sentence.</span></span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "The\n criteria is listed in the RFC.",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">The\n criteria is listed in the RFC.</span></span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "The\n criterias are listed in the RFC.",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">The\n criterias are listed in the RFC.</span></span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "The criteria are listed in the RFC.",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-size: 13px;\"><span style=\"font-style: normal;\">The criteria are listed in the RFC.</span></span></span></span></p>"
+        },
+        {
+          "option": "D",
+          "text": "The\n criterion are listed in the RFC.",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">The\n criterion are listed in the RFC.</span></span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "C",
+      "solutionText": "Criteria\n is plural; the singular is criterion.",
+      "solutionHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">Criteria\n is plural; the singular is criterion.</span></span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 43,
+      "section": "Verbal Ability",
+      "questionId": "6ab27ca20b81d54754704feb",
+      "questionText": "Synonym\n of “succinct”:",
+      "questionHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">Synonym\n of “succinct”:</span></span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "Wordy",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">Wordy</span></span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "Brief",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-size: 13px;\"><span style=\"font-style: normal;\">Brief</span></span></span></span></p>"
+        },
+        {
+          "option": "C",
+          "text": "Vague",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">Vague</span></span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "Loud",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">Loud</span></span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "Succinct\n means briefly and clearly expressed.",
+      "solutionHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">Succinct\n means briefly and clearly expressed.</span></span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 44,
+      "section": "Verbal Ability",
+      "questionId": "6ab27ca20b81d52952704fa5",
+      "questionText": "Passage \n\n A service-level objective is useful only when the team can see the error budget being spent. If latency is promised at 300 ms for 99% of calls, the remaining 1% is not a licence to ignore timeouts. Burn-rate alerts that fire after the month is already lost teach nobody. The better habit is a short window alert plus a long window alert, so a sharp incident and a slow leak are both visible. Documents that list SLOs without owners become wallpaper. \n\n The remaining 1% of calls",
+      "questionHtml": "<p align=\"left\" style=\"margin-top: 0.288px; margin-bottom: 0.288px;\"><span style=\"color: #111827;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-size: 13px;\"><span><strong>Passage</strong></span></span></span></span></p>\n<p align=\"left\" style=\"margin-top: 0.288px; margin-bottom: 0.480px;\"><span style=\"color: #111827;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-size: 13px;\">A service-level objective is useful only when the team can see the error budget being spent. If latency is promised at 300 ms for 99% of calls, the remaining 1% is not a licence to ignore timeouts. Burn-rate alerts that fire after the month is already lost teach nobody. The better habit is a short window alert plus a long window alert, so a sharp incident and a slow leak are both visible. Documents that list SLOs without owners become wallpaper.</span></span></span></p>\n<p align=\"left\" style=\"margin-top: 0.288px;\"><strong><span style=\"color: #111827;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-size: 13px;\"><span style=\"font-style: normal;\">The remaining 1% of calls</span></span></span></span></strong></p>",
+      "options": [
+        {
+          "option": "A",
+          "text": "may\n ignore all timeouts",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">may\n ignore all timeouts</span></span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "proves\n the SLO is optional",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">proves\n the SLO is optional</span></span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "is not a licence to ignore timeouts",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-size: 13px;\"><span style=\"font-style: normal;\">is not a licence to ignore timeouts</span></span></span></span></p>"
+        },
+        {
+          "option": "D",
+          "text": "should\n be deleted from the dashboard",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">should\n be deleted from the dashboard</span></span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "C",
+      "solutionText": "The\n second sentence says the 1% is not a licence to ignore timeouts.",
+      "solutionHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">The\n second sentence says the 1% is not a licence to ignore timeouts.</span></span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 45,
+      "section": "Verbal Ability",
+      "questionId": "6ab27ca20b81d5cd3e704fe1",
+      "questionText": "Arrange:\n P: Secrets in container images leak the moment the image is\n pulled. Q: Inject secrets at runtime from a manager, not from a\n Dockerfile. R: Image scans will not catch a token baked in last\n year. S: Rotate anything that has already shipped inside a layer.",
+      "questionHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">Arrange:\n P: Secrets in container images leak the moment the image is\n pulled. Q: Inject secrets at runtime from a manager, not from a\n Dockerfile. R: Image scans will not catch a token baked in last\n year. S: Rotate anything that has already shipped inside a layer.</span></span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "P R Q S",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-size: 13px;\"><span style=\"font-style: normal;\">P R Q S</span></span></span></span></p>"
+        },
+        {
+          "option": "B",
+          "text": "P\n Q R S",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">P\n Q R S</span></span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "Q\n P R S",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">Q\n P R S</span></span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "P\n R S Q",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">P\n R S Q</span></span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "A",
+      "solutionText": "P\n is the leak path. R says scans miss old tokens. Q is the correct\n inject path. S is cleanup. P R Q S.",
+      "solutionHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">P\n is the leak path. R says scans miss old tokens. Q is the correct\n inject path. S is cleanup. P R Q S.</span></span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 46,
+      "section": "Pseudo Code",
+      "questionId": "6ab27cd4119dce29aff1f23c",
+      "questionText": "[Loops]\n What is printed? \n\n Integer\n i, p \n\n Set\n p = 1 \n\n for\n i = 1 to 4 do \n\n p\n = p * i \n\n end\n for \n\n Print\n p",
+      "questionHtml": "<p align=\"left\" style=\"margin-top: 0.288px; margin-bottom: 0.480px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">[Loops]\n What is printed?</span></span></span></span></span></p>\n <p style=\"margin-top: 0.288px; margin-bottom: 0.96px\"><span style=\"color: #111827\"><span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">Integer\n i, p</span></span></span></span></span></p>\n <p style=\"margin-top: 0.96px; margin-bottom: 0.96px\"><span style=\"color: #111827\"><span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">Set\n p = 1</span></span></span></span></span></p>\n <p style=\"margin-top: 0.96px; margin-bottom: 0.96px\"><span style=\"color: #111827\"><span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">for\n i = 1 to 4 do</span></span></span></span></span></p>\n <p style=\"margin-top: 0.96px; margin-bottom: 0.96px\"><span style=\"color: #111827\">\n    <span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">p\n = p * i</span></span></span></span></span></p>\n <p style=\"margin-top: 0.96px; margin-bottom: 0.96px\"><span style=\"color: #111827\"><span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">end\n for</span></span></span></span></span></p>\n <p style=\"margin-top: 0.96px\"><span style=\"color: #111827\"><span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">Print\n p</span></span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "10",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">10</span></span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "16",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">16</span></span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "24",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-size: 13px;\"><span style=\"font-style: normal;\">24</span></span></span></span></p>"
+        },
+        {
+          "option": "D",
+          "text": "120",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">120</span></span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "C",
+      "solutionText": "p\n multiplies 1×2×3×4 = 24.",
+      "solutionHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">p\n multiplies 1×2×3×4 = 24.</span></span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 47,
+      "section": "Pseudo Code",
+      "questionId": "6ab27cd4119dcee9cdf1f22d",
+      "questionText": "[Data\n Structures] Queue Q receives 5, then 15, then 25. One dequeue\n runs. What is front(Q)? \n\n Queue\n Q \n\n enqueue(Q,\n 5) \n\n enqueue(Q,\n 15) \n\n enqueue(Q,\n 25) \n\n dequeue(Q) \n\n Print\n front(Q)",
+      "questionHtml": "<p align=\"left\" style=\"margin-top: 0.288px; margin-bottom: 0.480px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">[Data\n Structures] Queue Q receives 5, then 15, then 25. One dequeue\n runs. What is front(Q)?</span></span></span></span></span></p>\n <p style=\"margin-top: 0.288px; margin-bottom: 0.96px\"><span style=\"color: #111827\"><span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">Queue\n Q</span></span></span></span></span></p>\n <p style=\"margin-top: 0.96px; margin-bottom: 0.96px\"><span style=\"color: #111827\"><span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">enqueue(Q,\n 5)</span></span></span></span></span></p>\n <p style=\"margin-top: 0.96px; margin-bottom: 0.96px\"><span style=\"color: #111827\"><span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">enqueue(Q,\n 15)</span></span></span></span></span></p>\n <p style=\"margin-top: 0.96px; margin-bottom: 0.96px\"><span style=\"color: #111827\"><span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">enqueue(Q,\n 25)</span></span></span></span></span></p>\n <p style=\"margin-top: 0.96px; margin-bottom: 0.96px\"><span style=\"color: #111827\"><span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">dequeue(Q)</span></span></span></span></span></p>\n <p style=\"margin-top: 0.96px\"><span style=\"color: #111827\"><span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">Print\n front(Q)</span></span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "5",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">5</span></span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "15",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-size: 13px;\"><span style=\"font-style: normal;\">15</span></span></span></span></p>"
+        },
+        {
+          "option": "C",
+          "text": "25",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">25</span></span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "Empty",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">Empty</span></span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "FIFO:\n 5 leaves. Front is 15.",
+      "solutionHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">FIFO:\n 5 leaves. Front is 15.</span></span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 48,
+      "section": "Pseudo Code",
+      "questionId": "6ab27cd4119dcec922f1f228",
+      "questionText": "[Data\n Structures] After the operations, what does peek return? \n\n Stack\n S \n\n push(S,\n 10) \n\n push(S,\n 20) \n\n push(S,\n 30) \n\n pop(S) \n\n push(S,\n 40) \n\n Print\n peek(S)",
+      "questionHtml": "<p align=\"left\" style=\"margin-top: 0.288px; margin-bottom: 0.480px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">[Data\n Structures] After the operations, what does peek return?</span></span></span></span></span></p>\n <p style=\"margin-top: 0.288px; margin-bottom: 0.96px\"><span style=\"color: #111827\"><span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">Stack\n S</span></span></span></span></span></p>\n <p style=\"margin-top: 0.96px; margin-bottom: 0.96px\"><span style=\"color: #111827\"><span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">push(S,\n 10)</span></span></span></span></span></p>\n <p style=\"margin-top: 0.96px; margin-bottom: 0.96px\"><span style=\"color: #111827\"><span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">push(S,\n 20)</span></span></span></span></span></p>\n <p style=\"margin-top: 0.96px; margin-bottom: 0.96px\"><span style=\"color: #111827\"><span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">push(S,\n 30)</span></span></span></span></span></p>\n <p style=\"margin-top: 0.96px; margin-bottom: 0.96px\"><span style=\"color: #111827\"><span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">pop(S)</span></span></span></span></span></p>\n <p style=\"margin-top: 0.96px; margin-bottom: 0.96px\"><span style=\"color: #111827\"><span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">push(S,\n 40)</span></span></span></span></span></p>\n <p style=\"margin-top: 0.96px\"><span style=\"color: #111827\"><span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">Print\n peek(S)</span></span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "10",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">10</span></span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "20",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">20</span></span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "40",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-size: 13px;\"><span style=\"font-style: normal;\">40</span></span></span></span></p>"
+        },
+        {
+          "option": "D",
+          "text": "30",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">30</span></span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "C",
+      "solutionText": "Stack\n after pops/pushes: [10, 20, 40]. peek = 40.",
+      "solutionHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">Stack\n after pops/pushes: [10, 20, 40]. peek = 40.</span></span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 49,
+      "section": "Pseudo Code",
+      "questionId": "6ab27cd4119dce2094f1f237",
+      "questionText": "[Bitwise]\n What is printed? \n\n Integer\n a, b \n\n Set\n a = 13, b = 6 \n\n Print\n a & b",
+      "questionHtml": "<p align=\"left\" style=\"margin-top: 0.288px; margin-bottom: 0.480px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">[Bitwise]\n What is printed?</span></span></span></span></span></p>\n <p style=\"margin-top: 0.288px; margin-bottom: 0.96px\"><span style=\"color: #111827\"><span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">Integer\n a, b</span></span></span></span></span></p>\n <p style=\"margin-top: 0.96px; margin-bottom: 0.96px\"><span style=\"color: #111827\"><span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">Set\n a = 13, b = 6</span></span></span></span></span></p>\n <p style=\"margin-top: 0.96px\"><span style=\"color: #111827\"><span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">Print\n a &amp; b</span></span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "4",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-size: 13px;\"><span style=\"font-style: normal;\">4</span></span></span></span></p>"
+        },
+        {
+          "option": "B",
+          "text": "5",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">5</span></span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "7",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">7</span></span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "11",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">11</span></span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "A",
+      "solutionText": "13\n is 1101, 6 is 0110, AND is 0100 = 4.",
+      "solutionHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">13\n is 1101, 6 is 0110, AND is 0100 = 4.</span></span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 50,
+      "section": "Pseudo Code",
+      "questionId": "6ab27cd4119dce91f0f1f232",
+      "questionText": "[Recursion]\n What does P(4) return? \n\n Function\n P(n) \n\n if\n n == 1 then return 2 \n\n return\n P(n - 1) * 2 \n\n End\n Function \n\n Print\n P(4)",
+      "questionHtml": "<p align=\"left\" style=\"margin-top: 0.288px; margin-bottom: 0.480px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">[Recursion]\n What does P(4) return?</span></span></span></span></span></p>\n <p style=\"margin-top: 0.288px; margin-bottom: 0.96px\"><span style=\"color: #111827\"><span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">Function\n P(n)</span></span></span></span></span></p>\n <p style=\"margin-top: 0.96px; margin-bottom: 0.96px\"><span style=\"color: #111827\">\n    <span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">if\n n == 1 then return 2</span></span></span></span></span></p>\n <p style=\"margin-top: 0.96px; margin-bottom: 0.96px\"><span style=\"color: #111827\">\n    <span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">return\n P(n - 1) * 2</span></span></span></span></span></p>\n <p style=\"margin-top: 0.96px; margin-bottom: 0.96px\"><span style=\"color: #111827\"><span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">End\n Function</span></span></span></span></span></p>\n <p style=\"margin-top: 0.96px\"><span style=\"color: #111827\"><span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">Print\n P(4)</span></span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "8",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">8</span></span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "12",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">12</span></span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "16",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-size: 13px;\"><span style=\"font-style: normal;\">16</span></span></span></span></p>"
+        },
+        {
+          "option": "D",
+          "text": "24",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">24</span></span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "C",
+      "solutionText": "P(1)=2,\n P(2)=4, P(3)=8, P(4)=16.",
+      "solutionHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">P(1)=2,\n P(2)=4, P(3)=8, P(4)=16.</span></span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 51,
+      "section": "Numerical Puzzles",
+      "questionId": "6ab27d8a51c2c8a246e78c98",
+      "questionText": "Centre = sum of each opposite pair. Find the missing centre. \n\n Wheel A \n\n 8 \n\n 3 \n\n 11 \n\n 8 \n\n 3 \n\n Wheel B \n\n 9 \n\n 6 \n\n ? \n\n 7 \n\n 4",
+      "questionHtml": "<p style=\"margin-top: 0.288px; margin-bottom: 0.480px;\"><span style=\"color: #111827;\">Centre = sum of each opposite pair. Find the missing centre.</span></p>\n<p style=\"margin-top: 0.288px; margin-bottom: 0.192px;\"><span style=\"color: #4b5563;\"><span style=\"font-size: 12px;\"><em>Wheel A</em></span></span></p>\n<table class=\"MsoNormalTable\" style=\"width: 102.0pt; border-collapse: collapse; border: none; mso-border-alt: solid windowtext .5pt; mso-padding-alt: 0cm .5pt 0cm .5pt; mso-border-insideh: .5pt solid windowtext; mso-border-insidev: .5pt solid windowtext;\" border=\"1\" width=\"136\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr style=\"mso-yfti-irow: 0; mso-yfti-firstrow: yes; page-break-inside: avoid;\">\n<td style=\"width: 34pt; border: 1pt white; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.3pt 1.5pt;\" width=\"45\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .6pt 0cm .6pt 0cm;\"><span style=\"font-size: 10.0pt; color: #111827;\">&nbsp;</span><o:p></o:p></p>\n</td>\n<td style=\"width: 34pt; border-width: 1pt 1pt 1pt medium; border-style: ridge; border-color: #4b5563 #4b5563 #4b5563 currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.3pt 1.5pt;\" width=\"45\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .6pt 0cm .6pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #111827;\">8</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 34pt; border-width: 1pt 1pt 1pt medium; border-style: none; border-color: white white white currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.3pt 1.5pt;\" width=\"45\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .6pt 0cm .6pt 0cm;\"><span style=\"font-size: 10.0pt; color: #111827;\">&nbsp;</span><o:p></o:p></p>\n</td>\n</tr>\n<tr style=\"mso-yfti-irow: 1; page-break-inside: avoid;\">\n<td style=\"width: 34pt; border-width: medium 1pt 1pt; border-style: ridge; border-color: currentcolor #4b5563 #4b5563; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.3pt 1.5pt;\" width=\"45\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .6pt 0cm .6pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #111827;\">3</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 34pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: currentcolor #4b5563 #4b5563 currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.3pt 1.5pt;\" width=\"45\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .6pt 0cm .6pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #111827;\">11</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 34pt; border-width: medium 1pt 1pt medium; border-style: ridge; border-color: currentcolor #4b5563 #4b5563 currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.3pt 1.5pt;\" width=\"45\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .6pt 0cm .6pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #111827;\">8</span></strong><o:p></o:p></p>\n</td>\n</tr>\n<tr style=\"mso-yfti-irow: 2; mso-yfti-lastrow: yes; page-break-inside: avoid;\">\n<td style=\"width: 34pt; border-width: medium 1pt 1pt; border-style: none; border-color: currentcolor white white; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.3pt 1.5pt;\" width=\"45\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .6pt 0cm .6pt 0cm;\"><span style=\"font-size: 10.0pt; color: #111827;\">&nbsp;</span><o:p></o:p></p>\n</td>\n<td style=\"width: 34pt; border-width: medium 1pt 1pt medium; border-style: ridge; border-color: currentcolor #4b5563 #4b5563 currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.3pt 1.5pt;\" width=\"45\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .6pt 0cm .6pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #111827;\">3</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 34pt; border-bottom: 1pt white; border-right: 1pt white; border-top-style: none; border-left-style: none; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.3pt 1.5pt;\" width=\"45\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .6pt 0cm .6pt 0cm;\"><span style=\"font-size: 10.0pt; color: #111827;\">&nbsp;</span><o:p></o:p></p>\n</td>\n</tr>\n</tbody>\n</table>\n<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 115%;\"><em style=\"color: #4b5563; font-size: 12px;\">Wheel B</em></p>\n<table class=\"MsoNormalTable\" style=\"width: 102.0pt; border-collapse: collapse; border: none; mso-border-alt: solid windowtext .5pt; mso-padding-alt: 0cm .5pt 0cm .5pt; mso-border-insideh: .5pt solid windowtext; mso-border-insidev: .5pt solid windowtext;\" border=\"1\" width=\"136\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr style=\"mso-yfti-irow: 0; mso-yfti-firstrow: yes; page-break-inside: avoid;\">\n<td style=\"width: 34pt; border: 1pt white; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.3pt 1.5pt;\" width=\"45\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .6pt 0cm .6pt 0cm;\"><span style=\"font-size: 10.0pt; color: #111827;\">&nbsp;</span><o:p></o:p></p>\n</td>\n<td style=\"width: 34pt; border-width: 1pt 1pt 1pt medium; border-style: ridge; border-color: #4b5563 #4b5563 #4b5563 currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.3pt 1.5pt;\" width=\"45\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .6pt 0cm .6pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #111827;\">9</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 34pt; border-width: 1pt 1pt 1pt medium; border-style: none; border-color: white white white currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.3pt 1.5pt;\" width=\"45\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .6pt 0cm .6pt 0cm;\"><span style=\"font-size: 10.0pt; color: #111827;\">&nbsp;</span><o:p></o:p></p>\n</td>\n</tr>\n<tr style=\"mso-yfti-irow: 1; page-break-inside: avoid;\">\n<td style=\"width: 34pt; border-width: medium 1pt 1pt; border-style: ridge; border-color: currentcolor #4b5563 #4b5563; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.3pt 1.5pt;\" width=\"45\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .6pt 0cm .6pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #111827;\">6</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 34.0pt; border-top: none; border-left: none; border-bottom: solid #4B5563 1.0pt; border-right: solid #4B5563 1.0pt; mso-border-top-alt: solid #4B5563 1.0pt; mso-border-left-alt: solid #4B5563 1.0pt; background: #FEF3C7; padding: 2.3pt 1.5pt 2.3pt 1.5pt;\" width=\"45\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .6pt 0cm .6pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #b45309;\">?</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 34pt; border-width: medium 1pt 1pt medium; border-style: ridge; border-color: currentcolor #4b5563 #4b5563 currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.3pt 1.5pt;\" width=\"45\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .6pt 0cm .6pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #111827;\">7</span></strong><o:p></o:p></p>\n</td>\n</tr>\n<tr style=\"mso-yfti-irow: 2; mso-yfti-lastrow: yes; page-break-inside: avoid;\">\n<td style=\"width: 34pt; border-width: medium 1pt 1pt; border-style: none; border-color: currentcolor white white; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.3pt 1.5pt;\" width=\"45\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .6pt 0cm .6pt 0cm;\"><span style=\"font-size: 10.0pt; color: #111827;\">&nbsp;</span><o:p></o:p></p>\n</td>\n<td style=\"width: 34pt; border-width: medium 1pt 1pt medium; border-style: ridge; border-color: currentcolor #4b5563 #4b5563 currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.3pt 1.5pt;\" width=\"45\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .6pt 0cm .6pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #111827;\">4</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 34pt; border-bottom: 1pt white; border-right: 1pt white; border-top-style: none; border-left-style: none; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.3pt 1.5pt;\" width=\"45\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .6pt 0cm .6pt 0cm;\"><span style=\"font-size: 10.0pt; color: #111827;\">&nbsp;</span><o:p></o:p></p>\n</td>\n</tr>\n</tbody>\n</table>",
+      "options": [
+        {
+          "option": "A",
+          "text": "12",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 115%\">\n <span style=\"color: #111827\">12</span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "13",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 115%;\"><span style=\"color: #111827;\">13</span></p>"
+        },
+        {
+          "option": "C",
+          "text": "15",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 115%\">\n <span style=\"color: #111827\">15</span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "16",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 115%\">\n <span style=\"color: #111827\">16</span></p>\n "
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "Wheel A: 8+3=11. Wheel B: 9+4=13 and 6+7=13.\n Missing centre = 13.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 115%\">\n <span style=\"color: #111827\">Wheel A: 8+3=11. Wheel B: 9+4=13 and 6+7=13.\n Missing centre = 13.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 52,
+      "section": "Numerical Puzzles",
+      "questionId": "6ab27d8a51c2c81de5e78ca2",
+      "questionText": "Find the next number. \n\n 2 \n\n 6 \n\n 12 \n\n 20 \n\n 30 \n\n ?",
+      "questionHtml": "<p style=\"margin-top: 0.288px; margin-bottom: 0.480px;\"><span style=\"color: #111827;\">Find the next number.</span></p>\n<table style=\"page-break-inside: avoid; width: 288px;\" border=\"1\" width=\"288\" cellspacing=\"0\" cellpadding=\"3\">\n<tbody>\n<tr>\n<td style=\"background: #ffffff;\" bgcolor=\"#ffffff\" width=\"41\">\n<p align=\"center\" style=\"margin-top: 0.96px;\"><span style=\"color: #111827;\"><span style=\"font-size: 13px;\"><strong>2</strong></span></span></p>\n</td>\n<td style=\"background: #ffffff;\" bgcolor=\"#ffffff\" width=\"42\">\n<p align=\"center\" style=\"margin-top: 0.96px;\"><span style=\"color: #111827;\"><span style=\"font-size: 13px;\"><strong>6</strong></span></span></p>\n</td>\n<td style=\"background: #ffffff;\" bgcolor=\"#ffffff\" width=\"42\">\n<p align=\"center\" style=\"margin-top: 0.96px;\"><span style=\"color: #111827;\"><span style=\"font-size: 13px;\"><strong>12</strong></span></span></p>\n</td>\n<td style=\"background: #ffffff;\" bgcolor=\"#ffffff\" width=\"42\">\n<p align=\"center\" style=\"margin-top: 0.96px;\"><span style=\"color: #111827;\"><span style=\"font-size: 13px;\"><strong>20</strong></span></span></p>\n</td>\n<td style=\"background: #ffffff;\" bgcolor=\"#ffffff\" width=\"42\">\n<p align=\"center\" style=\"margin-top: 0.96px;\"><span style=\"color: #111827;\"><span style=\"font-size: 13px;\"><strong>30</strong></span></span></p>\n</td>\n<td style=\"background: #fef3c7;\" bgcolor=\"#fef3c7\" width=\"41\">\n<p align=\"center\" style=\"margin-top: 0.96px;\"><span style=\"color: #b45309;\"><span style=\"font-size: 13px;\"><strong>?</strong></span></span></p>\n</td>\n</tr>\n</tbody>\n</table>\n<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 115%;\"><br /><br /></p>",
+      "options": [
+        {
+          "option": "A",
+          "text": "40",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 115%\">\n <span style=\"color: #111827\">40</span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "42",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 115%;\"><span style=\"color: #111827;\">42</span></p>"
+        },
+        {
+          "option": "C",
+          "text": "44",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 115%\">\n <span style=\"color: #111827\">44</span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "48",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 115%\">\n <span style=\"color: #111827\">48</span></p>\n "
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "Gaps +4, +6, +8, +10, next +12. 30+12=42.\n Also n(n+1): 1×2, 2×3, 3×4, 4×5, 5×6,\n 6×7=42.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 115%\">\n <span style=\"color: #111827\">Gaps +4, +6, +8, +10, next +12. 30+12=42.\n Also n(n+1): 1×2, 2×3, 3×4, 4×5, 5×6,\n 6×7=42.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 53,
+      "section": "Numerical Puzzles",
+      "questionId": "6ab27d8a51c2c8d14ae78ca7",
+      "questionText": "Find the missing number. \n\n 18 \n\n 10 \n\n 8 \n\n 25 \n\n 13 \n\n 12 \n\n 31 \n\n 14 \n\n ?",
+      "questionHtml": "<p style=\"margin-top: 0.288px; margin-bottom: 0.480px;\"><span style=\"color: #111827;\">Find the missing number.</span></p>\n<table style=\"width: 156px;\" border=\"1\" width=\"156\" cellspacing=\"0\" cellpadding=\"3\">\n<tbody>\n<tr>\n<td style=\"background: #ffffff;\" bgcolor=\"#ffffff\" width=\"45\">\n<p align=\"center\" style=\"margin-top: 0.96px;\"><span style=\"color: #111827;\"><span style=\"font-size: 13px;\"><strong>18</strong></span></span></p>\n</td>\n<td style=\"background: #ffffff;\" bgcolor=\"#ffffff\" width=\"46\">\n<p align=\"center\" style=\"margin-top: 0.96px;\"><span style=\"color: #111827;\"><span style=\"font-size: 13px;\"><strong>10</strong></span></span></p>\n</td>\n<td style=\"background: #ffffff;\" bgcolor=\"#ffffff\" width=\"45\">\n<p align=\"center\" style=\"margin-top: 0.96px;\"><span style=\"color: #111827;\"><span style=\"font-size: 13px;\"><strong>8</strong></span></span></p>\n</td>\n</tr>\n<tr>\n<td style=\"background: #ffffff;\" bgcolor=\"#ffffff\" width=\"45\">\n<p align=\"center\" style=\"margin-top: 0.96px;\"><span style=\"color: #111827;\"><span style=\"font-size: 13px;\"><strong>25</strong></span></span></p>\n</td>\n<td style=\"background: #ffffff;\" bgcolor=\"#ffffff\" width=\"46\">\n<p align=\"center\" style=\"margin-top: 0.96px;\"><span style=\"color: #111827;\"><span style=\"font-size: 13px;\"><strong>13</strong></span></span></p>\n</td>\n<td style=\"background: #ffffff;\" bgcolor=\"#ffffff\" width=\"45\">\n<p align=\"center\" style=\"margin-top: 0.96px;\"><span style=\"color: #111827;\"><span style=\"font-size: 13px;\"><strong>12</strong></span></span></p>\n</td>\n</tr>\n<tr>\n<td style=\"background: #ffffff;\" bgcolor=\"#ffffff\" width=\"45\">\n<p align=\"center\" style=\"margin-top: 0.96px;\"><span style=\"color: #111827;\"><span style=\"font-size: 13px;\"><strong>31</strong></span></span></p>\n</td>\n<td style=\"background: #ffffff;\" bgcolor=\"#ffffff\" width=\"46\">\n<p align=\"center\" style=\"margin-top: 0.96px;\"><span style=\"color: #111827;\"><span style=\"font-size: 13px;\"><strong>14</strong></span></span></p>\n</td>\n<td style=\"background: #fef3c7;\" bgcolor=\"#fef3c7\" width=\"45\">\n<p align=\"center\" style=\"margin-top: 0.96px;\"><span style=\"color: #b45309;\"><span style=\"font-size: 13px;\"><strong>?</strong></span></span></p>\n</td>\n</tr>\n</tbody>\n</table>\n<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 115%;\"><br /><br /></p>",
+      "options": [
+        {
+          "option": "A",
+          "text": "17",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 115%;\"><span style=\"color: #111827;\">17</span></p>"
+        },
+        {
+          "option": "B",
+          "text": "16",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 115%\">\n <span style=\"color: #111827\">16</span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "15",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 115%\">\n <span style=\"color: #111827\">15</span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "18",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 115%\">\n <span style=\"color: #111827\">18</span></p>\n "
+        }
+      ],
+      "correctAnswer": "A",
+      "solutionText": "Third = first − second. 18−10=8,\n 25−13=12, 31−14=17.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 115%\">\n <span style=\"color: #111827\">Third = first − second. 18−10=8,\n 25−13=12, 31−14=17.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 54,
+      "section": "Numerical Puzzles",
+      "questionId": "6ab27d8a51c2c83771e78c9d",
+      "questionText": "Find the missing number. \n\n 3 \n\n 4 \n\n 15 \n\n 5 \n\n 6 \n\n 33 \n\n 7 \n\n 8 \n\n ?",
+      "questionHtml": "<p style=\"margin-top: 0.288px; margin-bottom: 0.480px;\"><span style=\"color: #111827;\">Find the missing number.</span></p>\n<table style=\"width: 156px;\" border=\"1\" width=\"156\" cellspacing=\"0\" cellpadding=\"3\">\n<tbody>\n<tr>\n<td style=\"background: #ffffff;\" bgcolor=\"#ffffff\" width=\"45\">\n<p align=\"center\" style=\"margin-top: 0.96px;\"><span style=\"color: #111827;\"><span style=\"font-size: 13px;\"><strong>3</strong></span></span></p>\n</td>\n<td style=\"background: #ffffff;\" bgcolor=\"#ffffff\" width=\"46\">\n<p align=\"center\" style=\"margin-top: 0.96px;\"><span style=\"color: #111827;\"><span style=\"font-size: 13px;\"><strong>4</strong></span></span></p>\n</td>\n<td style=\"background: #ffffff;\" bgcolor=\"#ffffff\" width=\"45\">\n<p align=\"center\" style=\"margin-top: 0.96px;\"><span style=\"color: #111827;\"><span style=\"font-size: 13px;\"><strong>15</strong></span></span></p>\n</td>\n</tr>\n<tr>\n<td style=\"background: #ffffff;\" bgcolor=\"#ffffff\" width=\"45\">\n<p align=\"center\" style=\"margin-top: 0.96px;\"><span style=\"color: #111827;\"><span style=\"font-size: 13px;\"><strong>5</strong></span></span></p>\n</td>\n<td style=\"background: #ffffff;\" bgcolor=\"#ffffff\" width=\"46\">\n<p align=\"center\" style=\"margin-top: 0.96px;\"><span style=\"color: #111827;\"><span style=\"font-size: 13px;\"><strong>6</strong></span></span></p>\n</td>\n<td style=\"background: #ffffff;\" bgcolor=\"#ffffff\" width=\"45\">\n<p align=\"center\" style=\"margin-top: 0.96px;\"><span style=\"color: #111827;\"><span style=\"font-size: 13px;\"><strong>33</strong></span></span></p>\n</td>\n</tr>\n<tr>\n<td style=\"background: #ffffff;\" bgcolor=\"#ffffff\" width=\"45\">\n<p align=\"center\" style=\"margin-top: 0.96px;\"><span style=\"color: #111827;\"><span style=\"font-size: 13px;\"><strong>7</strong></span></span></p>\n</td>\n<td style=\"background: #ffffff;\" bgcolor=\"#ffffff\" width=\"46\">\n<p align=\"center\" style=\"margin-top: 0.96px;\"><span style=\"color: #111827;\"><span style=\"font-size: 13px;\"><strong>8</strong></span></span></p>\n</td>\n<td style=\"background: #fef3c7;\" bgcolor=\"#fef3c7\" width=\"45\">\n<p align=\"center\" style=\"margin-top: 0.96px;\"><span style=\"color: #b45309;\"><span style=\"font-size: 13px;\"><strong>?</strong></span></span></p>\n</td>\n</tr>\n</tbody>\n</table>\n<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 115%;\"><br /><br /></p>",
+      "options": [
+        {
+          "option": "A",
+          "text": "54",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 115%\">\n <span style=\"color: #111827\">54</span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "55",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 115%\">\n <span style=\"color: #111827\">55</span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "59",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 115%;\"><span style=\"color: #111827;\">59</span></p>"
+        },
+        {
+          "option": "D",
+          "text": "63",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 115%\">\n <span style=\"color: #111827\">63</span></p>\n "
+        }
+      ],
+      "correctAnswer": "C",
+      "solutionText": "Third = first × second + 3. 3×4+3=15,\n 5×6+3=33, 7×8+3=59.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 115%\">\n <span style=\"color: #111827\">Third = first × second + 3. 3×4+3=15,\n 5×6+3=33, 7×8+3=59.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 55,
+      "section": "English Grammar",
+      "questionId": "6ab27d17a1786d8cee5485fb",
+      "questionText": "[SVA]\n A series of patches _____ scheduled for Sunday.",
+      "questionHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">[SVA]\n A series of patches _____ scheduled for Sunday.</span></span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "are",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">are</span></span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "is",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-size: 13px;\"><span style=\"font-style: normal;\">is</span></span></span></span></p>"
+        },
+        {
+          "option": "C",
+          "text": "have",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">have</span></span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "were",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">were</span></span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "The\n subject is series (singular): is scheduled.",
+      "solutionHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">The\n subject is series (singular): is scheduled.</span></span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 56,
+      "section": "English Grammar",
+      "questionId": "6ab27d17a1786dec1254860a",
+      "questionText": "[Error\n Spotting] Identify the error: Neither of the servers are\n reachable.",
+      "questionHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">[Error\n Spotting] Identify the error: Neither of the servers are\n reachable.</span></span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "Neither\n of",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">Neither\n of</span></span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "are reachable",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-size: 13px;\"><span style=\"font-style: normal;\">are reachable</span></span></span></span></p>"
+        },
+        {
+          "option": "C",
+          "text": "the\n servers",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">the\n servers</span></span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "No\n error",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">No\n error</span></span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "Neither\n is singular: is reachable.",
+      "solutionHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">Neither\n is singular: is reachable.</span></span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 57,
+      "section": "English Grammar",
+      "questionId": "6ab27d17a1786d76e154860f",
+      "questionText": "[Error\n Spotting] Identify the error: I am used to work late during\n releases.",
+      "questionHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">[Error\n Spotting] Identify the error: I am used to work late during\n releases.</span></span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "I\n am used",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">I\n am used</span></span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "to work late",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-size: 13px;\"><span style=\"font-style: normal;\">to work late</span></span></span></span></p>"
+        },
+        {
+          "option": "C",
+          "text": "during\n releases",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">during\n releases</span></span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "No\n error",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">No\n error</span></span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "Used\n to + gerund: used to working late.",
+      "solutionHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">Used\n to + gerund: used to working late.</span></span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 58,
+      "section": "English Grammar",
+      "questionId": "6ab27d17a1786de985548605",
+      "questionText": "[Prepositions]\n The fix is consistent _____ the style guide.",
+      "questionHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">[Prepositions]\n The fix is consistent _____ the style guide.</span></span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "to",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">to</span></span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "with",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-size: 13px;\"><span style=\"font-style: normal;\">with</span></span></span></span></p>"
+        },
+        {
+          "option": "C",
+          "text": "from",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">from</span></span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "against",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">against</span></span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "Consistent\n with is the standard collocation.",
+      "solutionHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">Consistent\n with is the standard collocation.</span></span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 59,
+      "section": "English Grammar",
+      "questionId": "6ab27d17a1786d1217548600",
+      "questionText": "[Tenses]\n She _____ the patch notes before the standup began.",
+      "questionHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">[Tenses]\n She _____ the patch notes before the standup began.</span></span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "writes",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">writes</span></span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "has\n write",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">has\n write</span></span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "had written",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-size: 13px;\"><span style=\"font-style: normal;\">had written</span></span></span></span></p>"
+        },
+        {
+          "option": "D",
+          "text": "will\n wrote",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">will\n wrote</span></span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "C",
+      "solutionText": "The\n earlier of two past actions takes past perfect: had written.",
+      "solutionHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">The\n earlier of two past actions takes past perfect: had written.</span></span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 60,
+      "section": "Essay Writting",
+      "questionId": "6ab272e415725f935bb37c34",
+      "questionText": "Importance of Cybersecurity in the Digital Age\n\n![Figure](Infosys Full Length Mock Test- 5_figures/fig_1_619c4fad.jpeg)",
+      "questionHtml": "<p>Importance of Cybersecurity in the Digital Age<img id=\"3\" src=\"https://cdn-wl-assets.classplus.co/production/single/vlvkc/04254bd5-3730-4db2-9fba-adc9289f1cf9.jpeg\" /></p>",
+      "options": [
+        {
+          "option": "A",
+          "text": "",
+          "isCorrect": true,
+          "rawHtml": ""
+        }
+      ],
+      "correctAnswer": "A",
+      "solutionText": "Cybersecurity has become an essential part of modern life because people increasingly use the internet for education, communication, banking, shopping, and professional activities. As digital technology continues to grow, protecting personal and organizational information has become very important.\n\n Cybersecurity helps prevent unauthorized access, data theft, online fraud, and other digital threats. Individuals can improve their online security by using strong passwords, enabling two-factor authentication, and avoiding suspicious links and messages. Organizations also need effective security systems to protect customer information and important business data.\n\n However, technology alone cannot provide complete protection. Human awareness is equally important because many cyber incidents happen due to careless actions or a lack of knowledge. Regular cybersecurity education can help people recognize common online threats and use digital services safely.\n\n In conclusion, cybersecurity is not only a responsibility of technology companies or IT professionals. Every internet user has a role in protecting digital information. Developing good security habits and staying aware of online threats can make the digital environment safer and more reliable.",
+      "solutionHtml": "<p dir=\"auto\" data-start=\"172\" data-end=\"471\" class=\"PDq2pG_selectionAnchorContainer\">Cybersecurity has become an essential part of modern life because people increasingly use the internet for education, communication, banking, shopping, and professional activities. As digital technology continues to grow, protecting personal and organizational information has become very important.</p>\n<p dir=\"auto\" data-start=\"172\" data-end=\"471\" class=\"PDq2pG_selectionAnchorContainer\"></p>\n<p dir=\"auto\" data-start=\"473\" data-end=\"839\">Cybersecurity helps prevent unauthorized access, data theft, online fraud, and other digital threats. Individuals can improve their online security by using strong passwords, enabling two-factor authentication, and avoiding suspicious links and messages. Organizations also need effective security systems to protect customer information and important business data.</p>\n<p dir=\"auto\" data-start=\"841\" data-end=\"1136\"></p>\n<p dir=\"auto\" data-start=\"841\" data-end=\"1136\">However, technology alone cannot provide complete protection. Human awareness is equally important because many cyber incidents happen due to careless actions or a lack of knowledge. Regular cybersecurity education can help people recognize common online threats and use digital services safely.</p>\n<p></p>\n<p dir=\"auto\" data-start=\"1138\" data-end=\"1432\" data-is-last-node=\"\" data-is-only-node=\"\"></p>\n<p dir=\"auto\" data-start=\"1138\" data-end=\"1432\" data-is-last-node=\"\" data-is-only-node=\"\">In conclusion, cybersecurity is not only a responsibility of technology companies or IT professionals. Every internet user has a role in protecting digital information. Developing good security habits and staying aware of online threats can make the digital environment safer and more reliable.</p>",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": [
+        "Infosys Full Length Mock Test- 5_figures/fig_1_619c4fad.jpeg"
+      ]
+    }
+  ]
+}

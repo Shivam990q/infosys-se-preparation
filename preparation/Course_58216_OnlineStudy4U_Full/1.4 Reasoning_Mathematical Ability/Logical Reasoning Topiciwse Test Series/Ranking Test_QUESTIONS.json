@@ -1,0 +1,797 @@
+{
+  "testName": "Ranking Test",
+  "testId": "67bc768df307941d4a7d8011",
+  "contentId": 23945645,
+  "totalQuestions": 20,
+  "totalFigures": 4,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "section": "Ranking Test",
+      "questionId": "67bc76a5acf1f6d6f142703e",
+      "questionText": "In\n a line of people, Rohit is ranked 12th from the top, and Ankit is\n ranked 20th from the bottom. If there are 30 people in the line,\n how many people are between Rohit and Ankit?",
+      "questionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">In\n a line of people, Rohit is ranked 12th from the top, and Ankit is\n ranked 20th from the bottom. If there are 30 people in the line,\n how many people are between Rohit and Ankit?</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "5",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">5</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "7",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">7</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "0",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none;\"><span style=\"color: #000000;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-family: Cambria,serif;\"><span style=\"font-size: 19px;\">0</span></span></span></span></p>"
+        },
+        {
+          "option": "D",
+          "text": "9",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">9</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "C",
+      "solutionText": "Rohit position from bottom = (30-12)+1 = 19 \n\n Ankit position from bottom = 20 \n\n Number of people between Rohit and Ankit = 0",
+      "solutionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none;\"><span style=\"color: #000000;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-family: Cambria,serif;\"><span style=\"font-size: 19px;\">Rohit position from bottom = (30-12)+1 = 19</span></span></span></span></p>\n<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none;\"><span style=\"color: #000000;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-family: Cambria,serif;\"><span style=\"font-size: 19px;\">Ankit position from bottom = 20</span></span></span></span></p>\n<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none;\"><span style=\"color: #000000;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-family: Cambria,serif;\"><span style=\"font-size: 19px;\">Number of people between Rohit and Ankit = 0</span></span></span></span></p>",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 2,
+      "section": "Ranking Test",
+      "questionId": "67bc76a5acf1f6b207427075",
+      "questionText": "Arjun\n is older than Sumit but younger than Rahul. Vikas is younger than\n Rahul but older than Arjun. Ramesh is the oldest among them. Who\n is the third oldest?",
+      "questionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Arjun\n is older than Sumit but younger than Rahul. Vikas is younger than\n Rahul but older than Arjun. Ramesh is the oldest among them. Who\n is the third oldest?</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "Sumit",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Sumit</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "Arjun",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Arjun</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "Rahul",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Rahul</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "Vikas",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Vikas</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "D",
+      "solutionText": "From\n the given conditions: \n\n Arjun\n > Sumit, but Arjun < Rahul. \n\n → Rahul\n > Arjun > Sumit. \n\n Vikas\n is younger than Rahul but older than Arjun. \n\n → Rahul\n > Vikas > Arjun > Sumit. \n\n Ramesh\n is the oldest. \n\n Final\n order: Ramesh > Rahul > Vikas > Arjun > Sumit. \n\n The\n third oldest is Vikas.",
+      "solutionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">From\n the given conditions:</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Arjun\n &gt; Sumit, but Arjun &lt; Rahul.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\">→ <span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Rahul\n &gt; Arjun &gt; Sumit.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Vikas\n is younger than Rahul but older than Arjun.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\">→ <span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Rahul\n &gt; Vikas &gt; Arjun &gt; Sumit.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Ramesh\n is the oldest.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Final\n order: Ramesh &gt; Rahul &gt; Vikas &gt; Arjun &gt; Sumit.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">The\n third oldest is Vikas.</span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 3,
+      "section": "Ranking Test",
+      "questionId": "67bc76a5acf1f69e8e427084",
+      "questionText": "Six\n people—P, Q, R, S, T, and U—are standing in a line\n from left to right. P is taller than S but shorter than Q. R is\n taller than Q but shorter than U. T is the tallest. Who is the\n fourth tallest?",
+      "questionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Six\n people—P, Q, R, S, T, and U—are standing in a line\n from left to right. P is taller than S but shorter than Q. R is\n taller than Q but shorter than U. T is the tallest. Who is the\n fourth tallest?</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "P",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">P</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "Q",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Q</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "R",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">R</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "S",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">S</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "From\n the given conditions: \n\n P\n > S, but P < Q → Q > P > S. \n\n R\n > Q, but R < U → U > R > Q. \n\n T\n is the tallest. \n\n Final\n order: T > U > R > Q > P > S. \n\n The\n fourth tallest person is Q.",
+      "solutionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">From\n the given conditions:</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">P\n &gt; S, but P &lt; Q → Q &gt; P &gt; S.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">R\n &gt; Q, but R &lt; U → U &gt; R &gt; Q.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">T\n is the tallest.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Final\n order: T &gt; U &gt; R &gt; Q &gt; P &gt; S.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">The\n fourth tallest person is Q.</span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 4,
+      "section": "Ranking Test",
+      "questionId": "67bc76a5acf1f6867642707f",
+      "questionText": "Shreya\n is taller than Meena but shorter than Ritu. Kajal is shorter than\n Ritu but taller than Meena. Payal is the shortest among all. Who\n is the third tallest?",
+      "questionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Shreya\n is taller than Meena but shorter than Ritu. Kajal is shorter than\n Ritu but taller than Meena. Payal is the shortest among all. Who\n is the third tallest?</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "Shreya",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Shreya</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "Ritu",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Ritu</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "Meena",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Meena</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "Kajal",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Kajal</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "D",
+      "solutionText": "From\n the given conditions: \n\n Shreya\n > Meena but Shreya < Ritu. \n\n → Ritu\n > Shreya > Meena. \n\n Kajal\n is shorter than Ritu but taller than Meena. \n\n → Ritu\n > Kajal > Meena. \n\n Payal\n is the shortest. \n\n Arranging\n all: Ritu > Shreya > Kajal > Meena > Payal. \n\n The\n third tallest person is Kajal.",
+      "solutionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">From\n the given conditions:</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Shreya\n &gt; Meena but Shreya &lt; Ritu.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\">→ <span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Ritu\n &gt; Shreya &gt; Meena.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Kajal\n is shorter than Ritu but taller than Meena.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\">→ <span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Ritu\n &gt; Kajal &gt; Meena.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Payal\n is the shortest.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Arranging\n all: Ritu &gt; Shreya &gt; Kajal &gt; Meena &gt; Payal.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">The\n third tallest person is Kajal.</span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 5,
+      "section": "Ranking Test",
+      "questionId": "67bc76a5acf1f63985427039",
+      "questionText": "In\n a row of students, Raj is 15th from the left end and 12th from the\n right end. How many students are there in the row?",
+      "questionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">In\n a row of students, Raj is 15th from the left end and 12th from the\n right end. How many students are there in the row?</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "26",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">26</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "28",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">28</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "25",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">25</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "30",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">30</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "A",
+      "solutionText": "Total\n students in the row = (Position from Left) + (Position from Right)\n – 1 = 15 + 12 - 1 = 26",
+      "solutionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Total\n students in the row = (Position from Left) + (Position from Right)\n – 1 = 15 + 12 - 1 = 26</span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 6,
+      "section": "Ranking Test",
+      "questionId": "67bc76a5acf1f62df142702a",
+      "questionText": "During\n assembly the students are standing in a line. Salman Khan is 21st\n in order from both the ends. How many boys are there in the class?",
+      "questionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">During\n assembly the students are standing in a line. Salman Khan is 21st\n in order from both the ends. How many boys are there in the class?</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "30",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">30</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "40",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">40</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "31",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">31</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "41",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">41</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "D",
+      "solutionText": "Therefore,\n total number of students = 20 + Salman Khan + 20 = 41\n\n![Figure](Ranking Test_figures/fig_1_6b80e949.png)",
+      "solutionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"https://cms-cdn.classplus.co/parserImages/production/732946_1740404388353.png\" name=\"Picture 1\" align=\"bottom\" width=\"164\" height=\"227\" border=\"0\">\n</img></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Therefore,\n total number of students = 20 + Salman Khan + 20 = 41</span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": [
+        "Ranking Test_figures/fig_1_6b80e949.png"
+      ]
+    },
+    {
+      "questionNumber": 7,
+      "section": "Ranking Test",
+      "questionId": "67bc76a5acf1f60276427052",
+      "questionText": "In\n a row of 45 students, Aditi is ranked 18th from the left. Priya is\n 24th from the right. If there are 5 students between Aditi and\n Priya, how many students are there in the row?",
+      "questionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">In\n a row of 45 students, Aditi is ranked 18th from the left. Priya is\n 24th from the right. If there are 5 students between Aditi and\n Priya, how many students are there in the row?</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "45",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">45</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "47",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">47</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "50",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">50</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "53",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">53</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "Total\n students in the row = (Aditi’s rank from the left) +\n (Priya’s rank from the right) + (Students between them) \n\n =\n 18 + 24 + 5 \n\n =\n 47",
+      "solutionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Total\n students in the row = (Aditi’s rank from the left) +\n (Priya’s rank from the right) + (Students between them)</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">=\n 18 + 24 + 5</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">=\n 47</span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 8,
+      "section": "Ranking Test",
+      "questionId": "67bc76a5acf1f62ad0427070",
+      "questionText": "Rahul\n is heavier than Suresh but lighter than Mohan. Kunal is lighter\n than Rahul but heavier than Suresh. Deepak is heavier than all\n except Mohan. Who is the second lightest?",
+      "questionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Rahul\n is heavier than Suresh but lighter than Mohan. Kunal is lighter\n than Rahul but heavier than Suresh. Deepak is heavier than all\n except Mohan. Who is the second lightest?</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "Rahul",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Rahul</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "Kunal",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Kunal</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "Suresh",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Suresh</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "Mohan",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Mohan</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "Rahul\n is heavier than Suresh but lighter than Mohan. → Mohan >\n Rahul > Suresh \n\n Kunal\n is lighter than Rahul but heavier than Suresh. → Mohan >\n Rahul > Kunal > Suresh \n\n Deepak\n is heavier than all except Mohan. → Mohan > Deepak >\n Rahul > Kunal > Suresh \n\n Solution: \n\n The\n second lightest is Kunal.",
+      "solutionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Rahul\n is heavier than Suresh but lighter than Mohan. → Mohan &gt;\n Rahul &gt; Suresh</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Kunal\n is lighter than Rahul but heavier than Suresh. → Mohan &gt;\n Rahul &gt; Kunal &gt; Suresh</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Deepak\n is heavier than all except Mohan. → Mohan &gt; Deepak &gt;\n Rahul &gt; Kunal &gt; Suresh</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Solution:</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">The\n second lightest is Kunal.</span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 9,
+      "section": "Ranking Test",
+      "questionId": "67bc76a5acf1f6814a427066",
+      "questionText": "In\n a north-facing row of 45 students, Neha is 13th from the left, and\n Priya is 15th from the right. There are 4 students between Priya\n and Rani, who is equidistant to Neha. What is Rani’s\n position from the right?",
+      "questionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">In\n a north-facing row of 45 students, Neha is 13th from the left, and\n Priya is 15th from the right. There are 4 students between Priya\n and Rani, who is equidistant to Neha. What is Rani’s\n position from the right?</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "25",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">25</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "20",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none;\"><span style=\"color: #000000;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-family: Cambria,serif;\"><span style=\"font-size: 19px;\">20</span></span></span></span></p>"
+        },
+        {
+          "option": "C",
+          "text": "30",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">30</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "32",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">32</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "Priya’s position from the left = 45−15+1=31. \n\n Rani’s position from the left (5 places ahead of Priya) = 31−5=26. \n\n Check equidistance: ∣26−13∣=13 (same as Neha's position).  \n\n Rani’s position from the right = 45−26+1=20.",
+      "solutionHtml": "<p align=\"justify\"><span style=\"color: #000000; font-family: Cambria, serif;\"><span style=\"font-size: 19px;\">Priya&rsquo;s position from the left = 45&minus;15+1=31.</span></span></p>\n<p align=\"justify\"><span style=\"color: #000000; font-family: Cambria, serif;\"><span style=\"font-size: 19px;\">Rani&rsquo;s position from the left (5 places ahead of Priya) = 31&minus;5=26.</span></span></p>\n<p align=\"justify\"><span style=\"color: #000000; font-family: Cambria, serif;\"><span style=\"font-size: 19px;\">Check equidistance: ∣26&minus;13∣=13 (same as Neha's position).&nbsp;</span></span></p>\n<p align=\"justify\"><span style=\"color: #000000; font-family: Cambria, serif;\"><span style=\"font-size: 19px;\">Rani&rsquo;s position from the right = 45&minus;26+1=20.</span></span></p>",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 10,
+      "section": "Ranking Test",
+      "questionId": "67bc76a5acf1f62a0442707a",
+      "questionText": "Five\n students—Amit, Bhavesh, Chetan, Dinesh, and Esha—took\n an exam. Amit scored higher than Chetan but lower than Bhavesh.\n Dinesh scored more than Amit but less than Esha. Esha scored the\n highest. Who got the second highest marks?",
+      "questionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Five\n students—Amit, Bhavesh, Chetan, Dinesh, and Esha—took\n an exam. Amit scored higher than Chetan but lower than Bhavesh.\n Dinesh scored more than Amit but less than Esha. Esha scored the\n highest. Who got the second highest marks?</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "Dinesh",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Dinesh</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "Chetan",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Chetan</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "Amit",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Amit</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "Esha",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Esha</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "A",
+      "solutionText": "From\n the given conditions: \n\n Amit\n > Chetan, but Amit < Bhavesh. \n\n → Bhavesh\n > Amit > Chetan. \n\n Dinesh\n > Amit but Dinesh < Esha. \n\n → Esha\n > Dinesh > Amit. \n\n Esha\n scored the highest. \n\n Final\n order: Esha > Dinesh > Bhavesh > Amit > Chetan. \n\n The\n second highest scorer is Dinesh.",
+      "solutionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">From\n the given conditions:</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Amit\n &gt; Chetan, but Amit &lt; Bhavesh.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\">→ <span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Bhavesh\n &gt; Amit &gt; Chetan.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Dinesh\n &gt; Amit but Dinesh &lt; Esha.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\">→ <span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Esha\n &gt; Dinesh &gt; Amit.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Esha\n scored the highest.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Final\n order: Esha &gt; Dinesh &gt; Bhavesh &gt; Amit &gt; Chetan.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">The\n second highest scorer is Dinesh.</span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 11,
+      "section": "Ranking Test",
+      "questionId": "67bc76a5acf1f6985e427048",
+      "questionText": "In\n a class of 50 students, Priya ranks 14th from the top. What is her\n rank from the bottom?",
+      "questionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">In\n a class of 50 students, Priya ranks 14th from the top. What is her\n rank from the bottom?</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "35",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">35</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "37",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">37</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "40",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">40</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "45",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">45</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "Rank\n from the bottom = Total students - Rank from the top + 1 \n\n =\n 50 - 14 + 1 \n\n =\n 37",
+      "solutionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Rank\n from the bottom = Total students - Rank from the top + 1</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">=\n 50 - 14 + 1</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">=\n 37</span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 12,
+      "section": "Ranking Test",
+      "questionId": "67bc76a5acf1f6afdc42706b",
+      "questionText": "If\n the rank of Rohan is 7th from the top in a group of 50 candidates\n and 2 new candidates are added just before and after him, what\n will be his new rank from bottom?",
+      "questionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n the rank of Rohan is 7th from the top in a group of 50 candidates\n and 2 new candidates are added just before and after him, what\n will be his new rank from bottom?</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "44",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">44</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "45",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">45</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "46",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">46</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "48",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">48</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "C",
+      "solutionText": "Adding\n of candidates just before Rohan will not change his rank from\n bottom. Before addition, the rank of Rohan from bottom is = (50 -\n 7) + 1 = 44 \n\n Now\n adding 2 candidates just after Rohan will increase his rank by 2\n positions. Hence; the new rank of Rohan from bottom will be = 44 +\n 2 = 46",
+      "solutionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Adding\n of candidates just before Rohan will not change his rank from\n bottom. Before addition, the rank of Rohan from bottom is = (50 -\n 7) + 1 = 44</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Now\n adding 2 candidates just after Rohan will increase his rank by 2\n positions. Hence; the new rank of Rohan from bottom will be = 44 +\n 2 = 46</span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 13,
+      "section": "Ranking Test",
+      "questionId": "67bc76a5acf1f61400427089",
+      "questionText": "Neha\n is heavier than Rina but lighter than Simran. Aisha is lighter\n than Neha but heavier than Rina. Jaya is heavier than all except\n Simran. Who is the third heaviest?",
+      "questionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Neha\n is heavier than Rina but lighter than Simran. Aisha is lighter\n than Neha but heavier than Rina. Jaya is heavier than all except\n Simran. Who is the third heaviest?</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "Rina",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Rina</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "Simran",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Simran</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "Neha",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Neha</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "Jaya",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Jaya</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "C",
+      "solutionText": "From\n the given conditions: \n\n Neha\n > Rina, but Neha < Simran → Simran > Neha > Rina. \n\n Aisha\n is lighter than Neha but heavier than Rina → Simran > Neha\n > Aisha > Rina. \n\n Jaya\n is heavier than all except Simran → Simran > Jaya >\n Neha > Aisha > Rina. \n\n The\n third heaviest person is Neha.",
+      "solutionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">From\n the given conditions:</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Neha\n &gt; Rina, but Neha &lt; Simran → Simran &gt; Neha &gt; Rina.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Aisha\n is lighter than Neha but heavier than Rina → Simran &gt; Neha\n &gt; Aisha &gt; Rina.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Jaya\n is heavier than all except Simran → Simran &gt; Jaya &gt;\n Neha &gt; Aisha &gt; Rina.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">The\n third heaviest person is Neha.</span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 14,
+      "section": "Ranking Test",
+      "questionId": "67bc76a5acf1f66d58427043",
+      "questionText": "Six\n persons – Sumer, Anant, Parth, Rajat, Karan and Gaurav,\n played in a cricket match and scored different number of runs.\n Sumer scored more runs than only Parth and Gaurav. Anant scored\n less runs than Karan, who was not highest scorer. The Second\n highest person scored 78 runs. How many person(s) scored more runs\n than Parth?",
+      "questionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Six\n persons – Sumer, Anant, Parth, Rajat, Karan and Gaurav,\n played in a cricket match and scored different number of runs.\n Sumer scored more runs than only Parth and Gaurav. Anant scored\n less runs than Karan, who was not highest scorer. The Second\n highest person scored 78 runs. How many person(s) scored more runs\n than Parth?</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "1",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">1</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "2",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">2</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "3",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">3</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "More\n than 3",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">More\n than 3</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "D",
+      "solutionText": "Following\n the final solution we can say that either 4 or 5 persons scored\n more runs than Parth.\n\n![Figure](Ranking Test_figures/fig_1_63f6ad05.png)",
+      "solutionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"https://cms-cdn.classplus.co/parserImages/production/795254_1740404388501.png\" name=\"Picture 6\" align=\"bottom\" width=\"188\" height=\"165\" border=\"0\">\n</img></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Following\n the final solution we can say that either 4 or 5 persons scored\n more runs than Parth.</span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": [
+        "Ranking Test_figures/fig_1_63f6ad05.png"
+      ]
+    },
+    {
+      "questionNumber": 15,
+      "section": "Ranking Test",
+      "questionId": "67bc76a5acf1f6279a42705c",
+      "questionText": "In\n a line of 60 people, Sam is ranked 21st from the top. How many\n people are ahead of him and how many are behind him?",
+      "questionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">In\n a line of 60 people, Sam is ranked 21st from the top. How many\n people are ahead of him and how many are behind him?</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "20,\n 39",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">20,\n 39</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "20,40",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">20,40</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "22,39",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">22,39</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "22,40",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">22,40</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "A",
+      "solutionText": "People\n ahead of Sam = Sam’s rank - 1 = 21 - 1 = 20 \n\n People\n behind Sam = Total - Sam’s rank = 60 - 21 = 39",
+      "solutionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">People\n ahead of Sam = Sam’s rank - 1 = 21 - 1 = 20</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">People\n behind Sam = Total - Sam’s rank = 60 - 21 = 39</span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 16,
+      "section": "Ranking Test",
+      "questionId": "67bc76a5acf1f6bfdd427057",
+      "questionText": "In\n a nursery, I saw a group of small rose trees arranged in a row.\n However, one rose tree caught my attention very much. I started\n counting its rank from the left hand side and found out to be 12.\n When I started counting from right hand side, it was again 12!!\n What is the total number of rose trees that were arranged in that\n row?",
+      "questionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">In\n a nursery, I saw a group of small rose trees arranged in a row.\n However, one rose tree caught my attention very much. I started\n counting its rank from the left hand side and found out to be 12.\n When I started counting from right hand side, it was again 12!!\n What is the total number of rose trees that were arranged in that\n row?</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "21",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">21</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "25",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">25</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "32",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">32</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "23",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">23</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "D",
+      "solutionText": "As\n the rank of the tree is same from either side, the total number of\n trees will be \n\n 12\n + 12 – 1 = 23",
+      "solutionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">As\n the rank of the tree is same from either side, the total number of\n trees will be</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">12\n + 12 – 1 = 23</span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 17,
+      "section": "Ranking Test",
+      "questionId": "67bc76a5acf1f6166a427034",
+      "questionText": "In\n a north facing row of NCC Cadets, Trisha is 9th from the left end\n and Tina is 12th from the right end. There are 5 cadets between\n Trisha and Tanya who is equidstant to Tina. Find how many cadets\n are there in the row?",
+      "questionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">In\n a north facing row of NCC Cadets, Trisha is 9th from the left end\n and Tina is 12th from the right end. There are 5 cadets between\n Trisha and Tanya who is equidstant to Tina. Find how many cadets\n are there in the row?</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "34",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">34</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "31",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">31</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "32",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">32</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "33",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">33</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "C",
+      "solutionText": "Adding\n all the persons in the above image, we get: \n\n 8\n + 1(Trisha) + 5 + 1(Tanya) + 5 + 1(Tina) + 11 = 32 \n\n Thus\n there are 32 cadets in the row.\n\n![Figure](Ranking Test_figures/fig_1_6480490a.png)",
+      "solutionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"https://cms-cdn.classplus.co/parserImages/production/42803_1740404388452.png\" name=\"Picture 3\" align=\"bottom\" width=\"473\" height=\"131\" border=\"0\">\n</img></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Adding\n all the persons in the above image, we get:</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">8\n + 1(Trisha) + 5 + 1(Tanya) + 5 + 1(Tina) + 11 = 32</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Thus\n there are 32 cadets in the row.</span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": [
+        "Ranking Test_figures/fig_1_6480490a.png"
+      ]
+    },
+    {
+      "questionNumber": 18,
+      "section": "Ranking Test",
+      "questionId": "67bc76a5acf1f66901427061",
+      "questionText": "In\n a north-facing row of students, Ajay is 18th from the left and\n Vijay is 22nd from the right. If there are 10 students between\n them, find the total number of students in the row.",
+      "questionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">In\n a north-facing row of students, Ajay is 18th from the left and\n Vijay is 22nd from the right. If there are 10 students between\n them, find the total number of students in the row.</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "40",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">40</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "45",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">45</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "50",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">50</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "55",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">55</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "C",
+      "solutionText": "Total\n students = Ajay’s position from left + Vijay’s\n position from right + students between them = 18 + 22 + 10 = 50",
+      "solutionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Total\n students = Ajay’s position from left + Vijay’s\n position from right + students between them = 18 + 22 + 10 = 50</span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 19,
+      "section": "Ranking Test",
+      "questionId": "67bc76a5acf1f6104b42704d",
+      "questionText": "Aman\n is standing in a queue at the 10th position from the front. If he\n is 15th from the back, how many people are in the queue?",
+      "questionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Aman\n is standing in a queue at the 10th position from the front. If he\n is 15th from the back, how many people are in the queue?</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "30",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">30</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "75",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">75</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "50",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">50</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "24",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">24</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "D",
+      "solutionText": "Total\n people in the queue = (Position from Front) + (Position from Back)\n - 1 \n\n =\n 10 + 15 - 1 \n\n =\n 24",
+      "solutionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Total\n people in the queue = (Position from Front) + (Position from Back)\n - 1</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">=\n 10 + 15 - 1</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">=\n 24</span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 20,
+      "section": "Ranking Test",
+      "questionId": "67bc76a5acf1f6fea442702f",
+      "questionText": "In\n a class of 35 students, Ziya is placed 7th from the bottom where\n as Sofia is placed 9th from the top. Shahruk is placed in between\n the two. What is Ziya's position from Shahruk?",
+      "questionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">In\n a class of 35 students, Ziya is placed 7th from the bottom where\n as Sofia is placed 9th from the top. Shahruk is placed in between\n the two. What is Ziya's position from Shahruk?</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "10",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">10</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "15",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">15</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "19",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">19</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "21",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">21</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "A",
+      "solutionText": "As\n seen in the figure, Shahruk is between Sofia and Ziya. It's given\n that Ziya is 7th from the bottom and Sofia is 9th from the top. \n\n Therefore,\n number of persons between Sofia and Ziya = 35-(9+7) = 19 \n\n Sharuk's\n position between Sofia and Ziya = 19-1/2 = 10. \n\n Hence,\n Shahruk is at the middle ie. at 10th position from both. Ziya,\n therefore, is at the 10th position from Shahruk\n\n![Figure](Ranking Test_figures/fig_1_37577bb7.png)",
+      "solutionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">As\n seen in the figure, Shahruk is between Sofia and Ziya. It's given\n that Ziya is 7th from the bottom and Sofia is 9th from the top.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Therefore,\n number of persons between Sofia and Ziya = 35-(9+7) = 19</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"https://cms-cdn.classplus.co/parserImages/production/659281_1740404388405.png\" name=\"Picture 2\" align=\"bottom\" width=\"147\" height=\"238\" border=\"0\">\n</img></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Sharuk's\n position between Sofia and Ziya = 19-1/2 = 10.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Hence,\n Shahruk is at the middle ie. at 10th position from both. Ziya,\n therefore, is at the 10th position from Shahruk</span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": [
+        "Ranking Test_figures/fig_1_37577bb7.png"
+      ]
+    }
+  ]
+}

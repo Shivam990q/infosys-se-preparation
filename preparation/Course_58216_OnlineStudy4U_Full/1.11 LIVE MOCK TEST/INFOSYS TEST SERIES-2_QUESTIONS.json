@@ -1,0 +1,1394 @@
+{
+  "testName": "INFOSYS TEST SERIES-2",
+  "testId": "68de288e20245d6752f68cc6",
+  "contentId": 23951141,
+  "totalQuestions": 35,
+  "totalFigures": 10,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "section": "Puzzles",
+      "questionId": "68de28be8b12952d032740f0",
+      "questionText": "![Figure](INFOSYS TEST SERIES-2_figures/fig_1_15f77df4.png)",
+      "questionHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"https://cms-cdn.classplus.co/parserImages/production/61099_1759389885830.png\" name=\"Picture 9\" align=\"bottom\" width=\"334\" height=\"289\" border=\"0\">\n</img></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "26",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span lang=\"en-US\">26</span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "6",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span lang=\"en-US\">6</span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "39",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span lang=\"en-US\">39</span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "8",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span lang=\"en-US\">8</span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "A",
+      "solutionText": "Logic:\n 5 x 8 – 7 x 5 = 5",
+      "solutionHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span lang=\"en-US\">Logic:\n 5 x 8 – 7 x 5 = 5</span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": [
+        "INFOSYS TEST SERIES-2_figures/fig_1_15f77df4.png"
+      ]
+    },
+    {
+      "questionNumber": 2,
+      "section": "Puzzles",
+      "questionId": "68de28be8b12951c422740e6",
+      "questionText": "![Figure](INFOSYS TEST SERIES-2_figures/fig_1_3b3ab6b1.png)",
+      "questionHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"https://cms-cdn.classplus.co/parserImages/production/729494_1759389885710.png\" name=\"Picture 7\" align=\"bottom\" width=\"263\" height=\"257\" border=\"0\">\n</img></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "75",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">75</span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "77",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">77</span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "70",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">70</span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "80",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">80</span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "A",
+      "solutionText": "5\n 2\n +\n 1 2 \n + 7 2 \n = 75",
+      "solutionHtml": "<p style=\"margin-bottom: 0px\">\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">5\n </span></span><sup><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">2\n   </span></span></sup><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">+\n 1</span></span><sup><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">2</span></span></sup><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">\n + 7</span></span><sup><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">2</span></span></sup><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">\n = 75</span></span></span></p>\n <p style=\"text-decoration: none\"><br>\n\n </p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": [
+        "INFOSYS TEST SERIES-2_figures/fig_1_3b3ab6b1.png"
+      ]
+    },
+    {
+      "questionNumber": 3,
+      "section": "Puzzles",
+      "questionId": "68de28be8b1295613a2740dc",
+      "questionText": "![Figure](INFOSYS TEST SERIES-2_figures/fig_1_7a9517d6.png)",
+      "questionHtml": "<p>\n <span style=\"display: inline-block; border: none; padding: 0px\"><img src=\"https://cms-cdn.classplus.co/parserImages/production/221914_1759389885563.png\" name=\"Picture 1\" align=\"bottom\" width=\"323\" height=\"268\" border=\"0\">\n</img></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "90",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span lang=\"en-US\">90</span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "45",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span lang=\"en-US\">45</span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "55",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span lang=\"en-US\">55</span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "60",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span lang=\"en-US\">60</span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "B, D",
+      "solutionText": "Logic:\n [ (4 x 4) + 4 ] / 2 = 10",
+      "solutionHtml": "<p style=\"margin-bottom: 0px\">\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Logic:\n [ (4 x 4) + 4 ] / 2 = 10</span></span></span></p>\n <p><br>\n\n </p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": [
+        "INFOSYS TEST SERIES-2_figures/fig_1_7a9517d6.png"
+      ]
+    },
+    {
+      "questionNumber": 4,
+      "section": "Puzzles",
+      "questionId": "68de28be8b129516572740e1",
+      "questionText": "![Figure](INFOSYS TEST SERIES-2_figures/fig_1_590c8c04.png)",
+      "questionHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"https://cms-cdn.classplus.co/parserImages/production/902062_1759389885651.png\" name=\"Picture 6\" align=\"bottom\" width=\"487\" height=\"393\" border=\"0\">\n</img></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "4",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span lang=\"en-US\">4</span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "2",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span lang=\"en-US\">2</span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "6",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span lang=\"en-US\">6</span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "7",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span lang=\"en-US\">7</span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "D",
+      "solutionText": "5\n x 4= 20 \n\n 7\n x 4 = 28",
+      "solutionHtml": "<p style=\"margin-bottom: 0px\">\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">5\n x 4= 20</span></span></span></p>\n <p style=\"margin-bottom: 0px\"><span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">7\n x 4 = 28</span></span></span></p>\n <p style=\"text-decoration: none\"><br>\n\n </p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": [
+        "INFOSYS TEST SERIES-2_figures/fig_1_590c8c04.png"
+      ]
+    },
+    {
+      "questionNumber": 5,
+      "section": "Puzzles",
+      "questionId": "68de28be8b129586b02740eb",
+      "questionText": "![Figure](INFOSYS TEST SERIES-2_figures/fig_1_504b749f.png)",
+      "questionHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"https://cms-cdn.classplus.co/parserImages/production/24740_1759389885771.png\" name=\"Picture 8\" align=\"bottom\" width=\"246\" height=\"191\" border=\"0\">\n</img></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "8",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span lang=\"en-US\">8</span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "4",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span lang=\"en-US\">4</span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "9",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span lang=\"en-US\">9</span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "1",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span lang=\"en-US\">1</span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "A, D",
+      "solutionText": "Logic:\n\n 3\n x 2 + (3 + 2) = 11",
+      "solutionHtml": "<p style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span lang=\"en-US\">Logic:\n </span></span></span>\n </p>\n <p style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span lang=\"en-US\">3\n x 2 + (3 + 2) = 11</span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": [
+        "INFOSYS TEST SERIES-2_figures/fig_1_504b749f.png"
+      ]
+    },
+    {
+      "questionNumber": 6,
+      "section": "Pseudo Code",
+      "questionId": "68de2efa20245d8f2bf68f00",
+      "questionText": "![Figure](INFOSYS TEST SERIES-2_figures/fig_1_25ad354e.png)",
+      "questionHtml": "<p>\n <span style=\"display: inline-block; border: none; padding: 0px\"><img src=\"https://cms-cdn.classplus.co/parserImages/production/746493_1759391481379.png\" name=\"Picture 1\" align=\"bottom\" width=\"299\" height=\"296\" border=\"0\">\n</img></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "1",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span lang=\"en-US\">1</span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "2",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span lang=\"en-US\">2</span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "6",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span lang=\"en-US\">6</span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "8",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span lang=\"en-US\">8</span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "A",
+      "solutionText": "Ij=50\n and j-10 , 50-10 = 40",
+      "solutionHtml": "<p>\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Ij=50\n and j-10 , 50-10 = 40</span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": [
+        "INFOSYS TEST SERIES-2_figures/fig_1_25ad354e.png"
+      ]
+    },
+    {
+      "questionNumber": 7,
+      "section": "Pseudo Code",
+      "questionId": "68de2efa20245d224df68f0a",
+      "questionText": "![Figure](INFOSYS TEST SERIES-2_figures/fig_1_6e3b047e.png)",
+      "questionHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"https://cms-cdn.classplus.co/parserImages/production/587617_1759391481582.png\" name=\"Picture 6\" align=\"bottom\" width=\"487\" height=\"232\" border=\"0\">\n</img></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "Error",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Error</span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "H",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">H</span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "H3ll0",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">H3ll0</span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "Hello",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Hello</span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "A",
+      "solutionText": "",
+      "solutionHtml": "<p>\n <br>\n\n </p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": [
+        "INFOSYS TEST SERIES-2_figures/fig_1_6e3b047e.png"
+      ]
+    },
+    {
+      "questionNumber": 8,
+      "section": "Pseudo Code",
+      "questionId": "68de2efa20245d2a2af68f05",
+      "questionText": "![Figure](INFOSYS TEST SERIES-2_figures/fig_1_821f62d5.png)",
+      "questionHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"https://cms-cdn.classplus.co/parserImages/production/881045_1759391481479.png\" name=\"Picture 2\" align=\"bottom\" width=\"305\" height=\"402\" border=\"0\">\n</img></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "4\n 6 10",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"> <span style=\"font-family: Calibri,serif\"><span lang=\"en-US\">4\n 6 10</span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "6\n 6 12",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span lang=\"en-US\">6\n 6 12</span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "8\n 8 14",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span lang=\"en-US\">8\n 8 14</span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "10\n 12 16",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span lang=\"en-US\">10\n 12 16</span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "",
+      "solutionHtml": "<p>\n <br>\n\n </p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": [
+        "INFOSYS TEST SERIES-2_figures/fig_1_821f62d5.png"
+      ]
+    },
+    {
+      "questionNumber": 9,
+      "section": "Pseudo Code",
+      "questionId": "68de2efa20245d8481f68f14",
+      "questionText": "![Figure](INFOSYS TEST SERIES-2_figures/fig_1_171c4e1e.png)",
+      "questionHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"https://cms-cdn.classplus.co/parserImages/production/428893_1759391481717.png\" name=\"Picture 9\" align=\"bottom\" width=\"487\" height=\"250\" border=\"0\">\n</img></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "temp.pop()",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span lang=\"en-US\">temp.pop()</span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "temp.psuh()",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span lang=\"en-US\">temp.psuh()</span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "temp.top()",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span lang=\"en-US\">temp.top()</span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "pop()",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span lang=\"en-US\">pop()</span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "A",
+      "solutionText": "",
+      "solutionHtml": "<p style=\"text-decoration: none\">\n <br>\n\n </p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": [
+        "INFOSYS TEST SERIES-2_figures/fig_1_171c4e1e.png"
+      ]
+    },
+    {
+      "questionNumber": 10,
+      "section": "Pseudo Code",
+      "questionId": "68de2efa20245d687ef68f0f",
+      "questionText": "![Figure](INFOSYS TEST SERIES-2_figures/fig_1_330b5de7.png)",
+      "questionHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"https://cms-cdn.classplus.co/parserImages/production/571390_1759391481658.png\" name=\"Picture 7\" align=\"bottom\" width=\"487\" height=\"290\" border=\"0\">\n</img></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "4",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span lang=\"en-US\">4</span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "2",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span lang=\"en-US\">2</span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "0",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span lang=\"en-US\">0</span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "1",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span lang=\"en-US\">1</span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "D",
+      "solutionText": "",
+      "solutionHtml": "<p style=\"text-decoration: none\">\n <br>\n\n </p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": [
+        "INFOSYS TEST SERIES-2_figures/fig_1_330b5de7.png"
+      ]
+    },
+    {
+      "questionNumber": 11,
+      "section": "Technical_Ability",
+      "questionId": "68de742c6d94d63f924fabab",
+      "questionText": "A\n man bought an article at 25% discount on the marked price. He sold\n it for ₹600, making a profit of 20% on the cost price. Find\n the marked price.",
+      "questionHtml": "<p>\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">A\n man bought an article at 25% discount on the marked price. He sold\n it for ₹600, making a profit of 20% on the cost price. Find\n the marked price.</span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "₹ 720",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\">₹<span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">720</span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "₹ 700",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\">₹<span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">700</span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "₹ 750",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\">₹<span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">750</span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "₹ 800",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\">₹<span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">800</span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "A",
+      "solutionText": "Let\n MP = 100. CP = 75. \n\n SP\n = 75×1.2 = 90. \n\n So,\n 90 ↔ 600. \n\n 100\n ↔ (600/90)×100 = 666.67. \n\n Correction\n → Marked Price = 720.",
+      "solutionHtml": "<p style=\"margin-bottom: 0px\">\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Let\n MP = 100. CP = 75.</span></span></span></p>\n <p style=\"margin-bottom: 0px\"><span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">SP\n = 75×1.2 = 90.</span></span></span></p>\n <p style=\"margin-bottom: 0px\"><span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">So,\n 90 ↔ 600.</span></span></span></p>\n <p style=\"margin-bottom: 0px\"><span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">100\n ↔ (600/90)×100 = 666.67.</span></span></span></p>\n <p><span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Correction\n → Marked Price = 720.</span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 12,
+      "section": "Technical_Ability",
+      "questionId": "68de742c6d94d677f94fabba",
+      "questionText": "A\n can do a piece of work in 15 days, B in 20 days, and C in 30 days.\n They all work together for 4 days, then A leaves. In how many more\n days will B and C finish the remaining work?",
+      "questionHtml": "<p>\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">A\n can do a piece of work in 15 days, B in 20 days, and C in 30 days.\n They all work together for 4 days, then A leaves. In how many more\n days will B and C finish the remaining work?</span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "6 days",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\">6 days</span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "5 days",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\">5 days</span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "8 days",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\">8 days</span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "9 days",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\">9 days</span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "Work\n per day = A=1/15, B=1/20, C=1/30. \n\n Together\n = (4+3+2)/60=9/60=3/20. \n\n Work\n in 4 days = 12/20=3/5. \n\n Remaining\n = 2/5. \n\n B+C\n = 1/20+1/30=5/60=1/12. \n\n So,\n time = (2/5)/(1/12)=24/5=4.8 ≈ 5 days.",
+      "solutionHtml": "<p style=\"margin-bottom: 0px\">\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Work\n per day = A=1/15, B=1/20, C=1/30.</span></span></span></p>\n <p style=\"margin-bottom: 0px\"><span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Together\n = (4+3+2)/60=9/60=3/20.</span></span></span></p>\n <p style=\"margin-bottom: 0px\"><span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Work\n in 4 days = 12/20=3/5.</span></span></span></p>\n <p style=\"margin-bottom: 0px\"><span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Remaining\n = 2/5.</span></span></span></p>\n <p style=\"margin-bottom: 0px\"><span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">B+C\n = 1/20+1/30=5/60=1/12.</span></span></span></p>\n <p><span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">So,\n time = (2/5)/(1/12)=24/5=4.8 ≈ 5 days.</span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 13,
+      "section": "Technical_Ability",
+      "questionId": "68de742c6d94d650144fab8d",
+      "questionText": "A\n train running at 72 km/h crosses a platform double its length in\n 45 seconds. Find the length of the train.",
+      "questionHtml": "<p>\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">A\n train running at 72 km/h crosses a platform double its length in\n 45 seconds. Find the length of the train.</span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "400\n m",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">400\n m</span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "300\n m",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span lang=\"en-US\">300\n m</span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "420\n m",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span lang=\"en-US\">420\n m</span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "480",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span lang=\"en-US\">480</span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "Speed\n = 72×(1000/3600) = 20 m/s. \n\n Let\n train length = L. \n\n Platform\n = 2L. \n\n Total\n distance = 3L. \n\n Time\n = 45 s → Distance = 20×45 = 900. \n\n So,\n 3L = 900 → L = 300. \n\n Train\n length = 300 m.",
+      "solutionHtml": "<p style=\"margin-bottom: 0px\">\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Speed\n = 72×(1000/3600) = 20 m/s.</span></span></span></p>\n <p style=\"margin-bottom: 0px\"><span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Let\n train length = L.</span></span></span></p>\n <p style=\"margin-bottom: 0px\"><span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Platform\n = 2L.</span></span></span></p>\n <p style=\"margin-bottom: 0px\"><span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Total\n distance = 3L.</span></span></span></p>\n <p style=\"margin-bottom: 0px\"><span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Time\n = 45 s → Distance = 20×45 = 900.</span></span></span></p>\n <p style=\"margin-bottom: 0px\"><span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">So,\n 3L = 900 → L = 300.</span></span></span></p>\n <p><span style=\"display: inline-block; border: none; padding: 0px\">\n <span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Train\n length = 300 m.</span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 14,
+      "section": "Technical_Ability",
+      "questionId": "68de742c6d94d6c5544fab9c",
+      "questionText": "A\n man invests ₹15,000 in a business. After 4 months, another\n man joins with ₹20,000. At the end of the year, they earn\n ₹10,200 profit. Find each man’s share.",
+      "questionHtml": "<p>\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">A\n man invests ₹15,000 in a business. After 4 months, another\n man joins with ₹20,000. At the end of the year, they earn\n ₹10,200 profit. Find each man’s share.</span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "₹ 54,000\n & ₹4,800",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\">₹<span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">54,000\n &amp; ₹4,800</span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "₹ 5,500\n & ₹4,700",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\">₹<span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">5,500\n &amp; ₹4,700</span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "₹ 5,000\n & ₹5,200",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\">₹<span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">5,000\n &amp; ₹5,200</span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "₹ 5,800\n & ₹4,400",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\">₹<span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">5,800\n &amp; ₹4,400</span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "A",
+      "solutionText": "Man1:\n 15,000×12 = 180,000. \n\n Man2:\n 20,000×8 = 160,000. \n\n Ratio\n = 18:16 = 9:8. \n\n Profit\n = 10,200 → 9+8=17 parts. \n\n So,\n Man1 = (9/17)×10200 = 5400. \n\n Man2\n = (8/17)×10200 = 4800.",
+      "solutionHtml": "<p style=\"margin-bottom: 0px\">\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Man1:\n 15,000×12 = 180,000.</span></span></span></p>\n <p style=\"margin-bottom: 0px\"><span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Man2:\n 20,000×8 = 160,000.</span></span></span></p>\n <p style=\"margin-bottom: 0px\"><span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Ratio\n = 18:16 = 9:8.</span></span></span></p>\n <p style=\"margin-bottom: 0px\"><span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Profit\n = 10,200 → 9+8=17 parts.</span></span></span></p>\n <p style=\"margin-bottom: 0px\"><span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">So,\n Man1 = (9/17)×10200 = 5400.</span></span></span></p>\n <p><span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Man2\n = (8/17)×10200 = 4800.</span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 15,
+      "section": "Technical_Ability",
+      "questionId": "68de742c6d94d6d76e4fabb0",
+      "questionText": "A\n and B can complete a piece of work in 12 days and 18 days\n respectively. They work together for 4 days, then A leaves. In how\n many more days will B complete the remaining work?",
+      "questionHtml": "<p>\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">A\n and B can complete a piece of work in 12 days and 18 days\n respectively. They work together for 4 days, then A leaves. In how\n many more days will B complete the remaining work?</span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "7\n days",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">7\n days</span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "8\n days",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">8\n days</span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "9\n days",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">9\n days</span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "10\n days",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">10\n days</span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "Work\n of 1 day: A = 1/12, B = 1/18. Together = (1/12+1/18)=5/36. \n\n Work\n done in 4 days = 20/36 = 5/9. \n\n Remaining\n = 4/9. \n\n B’s\n 1-day work = 1/18. \n\n So,\n time = (4/9)/(1/18) = 8 days. \n\n Correction\n → Answer is 8 days.",
+      "solutionHtml": "<p style=\"margin-bottom: 0px\">\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Work\n of 1 day: A = 1/12, B = 1/18. Together = (1/12+1/18)=5/36.</span></span></span></p>\n <p style=\"margin-bottom: 0px\"><span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Work\n done in 4 days = 20/36 = 5/9.</span></span></span></p>\n <p style=\"margin-bottom: 0px\"><span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Remaining\n = 4/9.</span></span></span></p>\n <p style=\"margin-bottom: 0px\"><span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">B’s\n 1-day work = 1/18.</span></span></span></p>\n <p style=\"margin-bottom: 0px\"><span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">So,\n time = (4/9)/(1/18) = 8 days.</span></span></span></p>\n <p><span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Correction\n → Answer is 8 days.</span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 16,
+      "section": "Technical_Ability",
+      "questionId": "68de742c6d94d656744fabb5",
+      "questionText": "The\n ratio of present ages of A, B and C is 3:4:5. After 6 years, the\n sum of their ages will be 72. Find their present ages.",
+      "questionHtml": "<p>\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">The\n ratio of present ages of A, B and C is 3:4:5. After 6 years, the\n sum of their ages will be 72. Find their present ages.</span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "12,\n 16, 20",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">12,\n 16, 20</span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "15,20,25",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\">15,20,25</span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "18,24,30",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\">18,24,30</span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "10,14,18",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\">10,14,18</span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "A",
+      "solutionText": "Let\n ages = 3x, 4x, 5x. \n\n After\n 6 years → (3x+6)+(4x+6)+(5x+6)=72. \n\n 12x+18=72\n → 12x=54 → x=4.5. \n\n So,\n ages = 13.5, 18, 22.5. \n\n (If\n integer format expected, ratio scaled to 12:16:20).",
+      "solutionHtml": "<p style=\"margin-bottom: 0px\">\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Let\n ages = 3x, 4x, 5x.</span></span></span></p>\n <p style=\"margin-bottom: 0px\"><span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">After\n 6 years → (3x+6)+(4x+6)+(5x+6)=72.</span></span></span></p>\n <p style=\"margin-bottom: 0px\"><span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">12x+18=72\n → 12x=54 → x=4.5.</span></span></span></p>\n <p style=\"margin-bottom: 0px\"><span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">So,\n ages = 13.5, 18, 22.5.</span></span></span></p>\n <p><span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">(If\n integer format expected, ratio scaled to 12:16:20).</span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 17,
+      "section": "Technical_Ability",
+      "questionId": "68de742c6d94d661524faba1",
+      "questionText": "A\n man covers a certain distance by car at 60 km/h and returns at 40\n km/h. Find his average speed.",
+      "questionHtml": "<p>\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">A\n man covers a certain distance by car at 60 km/h and returns at 40\n km/h. Find his average speed.</span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "48\n km/h",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">48\n km/h</span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "50\n km/h",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">50\n km/h</span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "45\n km/h",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">45\n km/h</span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "52\n km/h",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">52\n km/h</span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "A",
+      "solutionText": "Average\n speed = (2×60×40)/(60+40) = 4800/100 = 48 km/h.",
+      "solutionHtml": "<p>\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Average\n speed = (2×60×40)/(60+40) = 4800/100 = 48 km/h.</span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 18,
+      "section": "Technical_Ability",
+      "questionId": "68de742c6d94d662d64faba6",
+      "questionText": "The\n average age of 40 students is 15 years. If the age of the teacher\n is included, the average increases by 0.5 years. Find the age of\n the teacher.",
+      "questionHtml": "<p>\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">The\n average age of 40 students is 15 years. If the age of the teacher\n is included, the average increases by 0.5 years. Find the age of\n the teacher.</span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "35\n years",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">35\n years</span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "36\n years",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">36\n years</span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "37\n years",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">37\n years</span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "38\n years",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">38\n years</span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "Total\n age of 40 students = 40×15 = 600. \n\n New\n average = 15.5 → total = 41×15.5 = 635.5. \n\n Teacher’s\n age = 635.5 − 600 = 35.5 ≈ 36.",
+      "solutionHtml": "<p style=\"margin-bottom: 0px\">\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Total\n age of 40 students = 40×15 = 600.</span></span></span></p>\n <p style=\"margin-bottom: 0px\"><span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">New\n average = 15.5 → total = 41×15.5 = 635.5.</span></span></span></p>\n <p><span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Teacher’s\n age = 635.5 − 600 = 35.5 ≈ 36.</span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 19,
+      "section": "Technical_Ability",
+      "questionId": "68de742c6d94d668dc4fab97",
+      "questionText": "Two\n pipes A and B can fill a tank in 12 hours and 15 hours\n respectively. Pipe C can empty it in 10 hours. If all are opened\n together, in how many hours will the tank be full?",
+      "questionHtml": "<p>\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Two\n pipes A and B can fill a tank in 12 hours and 15 hours\n respectively. Pipe C can empty it in 10 hours. If all are opened\n together, in how many hours will the tank be full?</span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "20\n hours",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">20\n hours</span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "18\n hours",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">18\n hours</span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "15\n hours",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">15\n hours</span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "25\n hours",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">25\n hours</span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "A",
+      "solutionText": "Work\n done in 1 hr = 1/12 + 1/15 − 1/10 = (5+4−6)/60 = 3/60\n = 1/20. \n\n So\n tank fills in 20 hours.",
+      "solutionHtml": "<p style=\"margin-bottom: 0px\">\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Work\n done in 1 hr = 1/12 + 1/15 − 1/10 = (5+4−6)/60 = 3/60\n = 1/20.</span></span></span></p>\n <p><span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">So\n tank fills in 20 hours.</span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 20,
+      "section": "Technical_Ability",
+      "questionId": "68de742c6d94d681234fab92",
+      "questionText": "A\n sum of money at compound interest becomes ₹1,210 in 2 years\n and ₹1,331 in 3 years. Find the principal.",
+      "questionHtml": "<p>\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">A\n sum of money at compound interest becomes ₹1,210 in 2 years\n and ₹1,331 in 3 years. Find the principal.</span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "₹ 1,000",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\">₹<span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">1,000</span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "₹ 1,100",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\">₹<span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">1,100</span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "₹ 1,050",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\">₹<span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">1,050</span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "₹ 1,200",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\">₹<span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">1,200</span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "A",
+      "solutionText": "Ratio\n of amounts in 3rd and 2nd year = 1331/1210 = 1.1 = (1+R). \n\n So\n R = 10%. \n\n Now,\n 1210 = P(1.1)² → P = 1210 / 1.21 = 1000.",
+      "solutionHtml": "<p style=\"margin-bottom: 0px\">\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Ratio\n of amounts in 3rd and 2nd year = 1331/1210 = 1.1 = (1+R).</span></span></span></p>\n <p style=\"margin-bottom: 0px\"><span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">So\n R = 10%.</span></span></span></p>\n <p><span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Now,\n 1210 = P(1.1)² → P = 1210 / 1.21 = 1000.</span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 21,
+      "section": "Reasoning",
+      "questionId": "68de744241cf98800e18361c",
+      "questionText": "Arrange\n the words as per dictionary order: 1. Zebra, 2. Zenith, 3. Zero,\n 4. Zeal",
+      "questionHtml": "<p>\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Arrange\n the words as per dictionary order: 1. Zebra, 2. Zenith, 3. Zero,\n 4. Zeal</span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "4,1,2,3",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">4,1,2,3</span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "1,2,3,4",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">1,2,3,4</span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "2,3,1,4",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">2,3,1,4</span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "3,4,1,2",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">3,4,1,2</span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "A",
+      "solutionText": "Dictionary\n order: Zeal (4), Zebra (1), Zenith (2), Zero (3).",
+      "solutionHtml": "<p>\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Dictionary\n order: Zeal (4), Zebra (1), Zenith (2), Zero (3).</span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 22,
+      "section": "Reasoning",
+      "questionId": "68de744241cf9832581835ea",
+      "questionText": "Pointing\n to a man, Rohit says, \"He is the husband of my mother’s\n only daughter.\" How is the man related to Rohit?",
+      "questionHtml": "<p>\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Pointing\n to a man, Rohit says, \"He is the husband of my mother’s\n only daughter.\" How is the man related to Rohit?</span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "Father",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Father</span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "Uncle",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Uncle</span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "Brother-in-law",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Brother-in-law</span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "Grandfather",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Grandfather</span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "A",
+      "solutionText": "If\n Rohit is the only son, then the \"only daughter\" is\n Rohit’s sister. Wait carefully → If Rohit himself is\n the only child, then \"mother’s only daughter\" =\n Rohit himself (if he is female). But Rohit is male → so it\n must mean the man is Rohit’s\n father .",
+      "solutionHtml": "<p>\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">If\n Rohit is the only son, then the \"only daughter\" is\n Rohit’s sister. Wait carefully → If Rohit himself is\n the only child, then \"mother’s only daughter\" =\n Rohit himself (if he is female). But Rohit is male → so it\n must mean the man is </span></span><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\"><b>Rohit’s\n father</b></span></span><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">.</span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 23,
+      "section": "Reasoning",
+      "questionId": "68de744241cf98ce8e183603",
+      "questionText": "Series:\n 2, 6, 12, 20, 30, ?",
+      "questionHtml": "<p>\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Series:\n 2, 6, 12, 20, 30, ?</span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "40",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">40</span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "41",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\">41</span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "42",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\">42</span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "43",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\">43</span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "C",
+      "solutionText": "Pattern:\n n(n+1). 2=1×2, 6=2×3, 12=3×4, 20=4×5,\n 30=5×6. Next=6×7=42. Correction → So answer=42.",
+      "solutionHtml": "<p>\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Pattern:\n n(n+1). 2=1×2, 6=2×3, 12=3×4, 20=4×5,\n 30=5×6. Next=6×7=42. Correction → So answer=42.</span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 24,
+      "section": "Reasoning",
+      "questionId": "68de744241cf986de41835f4",
+      "questionText": "Statements:\n All pens are books. All books are papers. Conclusion: (i) All pens\n are papers. (ii) Some papers are pens. Which conclusion(s) follow?",
+      "questionHtml": "<p>\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Statements:\n All pens are books. All books are papers. Conclusion: (i) All pens\n are papers. (ii) Some papers are pens. Which conclusion(s) follow?</span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "Only\n (i)",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Only\n (i)</span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "Only\n (ii)",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Only\n (ii)</span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "Both\n (i) and (ii)",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Both\n (i) and (ii)</span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "Neither\n (i) nor (ii)",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Neither\n (i) nor (ii)</span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "C",
+      "solutionText": "Venn\n diagram: Pen ⊂ \n Book ⊂ \n Paper. Both (i) and (ii) follow.",
+      "solutionHtml": "<p>\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Venn\n diagram: Pen </span></span><span style=\"font-family: 'Cambria Math',serif\"><span style=\"font-size: 15px\">⊂</span></span><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">\n Book </span></span><span style=\"font-family: 'Cambria Math',serif\"><span style=\"font-size: 15px\">⊂</span></span><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">\n Paper. Both (i) and (ii) follow.</span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 25,
+      "section": "Reasoning",
+      "questionId": "68de744241cf9807cb1835db",
+      "questionText": "A\n is the son of B. C is the mother of B. D is the brother of C. How\n is A related to D?",
+      "questionHtml": "<p>\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\"><b>A\n is the son of B. C is the mother of B. D is the brother of C. How\n is A related to D?</b></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "Grandson",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Grandson</span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "Son",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Son</span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "Nephew",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Nephew</span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "Cousin",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span lang=\"en-US\">Cousin</span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "A",
+      "solutionText": "A\n is B’s son. B is C’s child. C and D are siblings.\n Hence, D is maternal uncle of B, so A is the grandson \n of D.",
+      "solutionHtml": "<p>\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">A\n is B’s son. B is C’s child. C and D are siblings.\n Hence, D is maternal uncle of B, so A is the </span></span><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\"><b>grandson</b></span></span><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">\n of D.</span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 26,
+      "section": "Reasoning",
+      "questionId": "68de744241cf9813e0183621",
+      "questionText": "Which\n number should replace the question mark? 7, 14, 28, 56, ?",
+      "questionHtml": "<p>\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Which\n number should replace the question mark? 7, 14, 28, 56, ?</span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "84",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\">84</span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "100",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">100</span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "112",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">112</span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "120",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">120</span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "C",
+      "solutionText": "Each\n term ×2. 7→14→28→56→112.",
+      "solutionHtml": "<p>\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Each\n term ×2. 7→14→28→56→112.</span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 27,
+      "section": "Reasoning",
+      "questionId": "68de744241cf982a25183608",
+      "questionText": "Five\n friends are sitting in a row. A is to the left of B, C is to the\n right of D, and E is to the right of C. If A is at the extreme\n left, who is in the middle?",
+      "questionHtml": "<p>\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Five\n friends are sitting in a row. A is to the left of B, C is to the\n right of D, and E is to the right of C. If A is at the extreme\n left, who is in the middle?</span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "B",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\">B</span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "C",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\">C</span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "D",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\">D</span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "E",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\">E</span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "Arrangement:\n A – B – D – C – E. Middle = C.",
+      "solutionHtml": "<p>\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Arrangement:\n A – B – D – C – E. Middle = C.</span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 28,
+      "section": "Reasoning",
+      "questionId": "68de744241cf9886101835ef",
+      "questionText": "Find\n the odd one out: 25, 36, 49, 64, 81, 121",
+      "questionHtml": "<p>\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Find\n the odd one out: 25, 36, 49, 64, 81, 121</span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "36",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\">36</span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "49",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\">49</span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "121",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\">121</span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "25",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\">25</span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "C",
+      "solutionText": "All\n are perfect squares of consecutive numbers except 121 (=11²,\n not consecutive in series).",
+      "solutionHtml": "<p>\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">All\n are perfect squares of consecutive numbers except 121 (=11²,\n not consecutive in series).</span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 29,
+      "section": "Reasoning",
+      "questionId": "68de744241cf98d5c818360d",
+      "questionText": "If\n \"MANGO\" is written as \"51\", \"APPLE\"\n as \"50\", then \"GRAPE\" is coded as?",
+      "questionHtml": "<p>\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">If\n \"MANGO\" is written as \"51\", \"APPLE\"\n as \"50\", then \"GRAPE\" is coded as?</span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "54",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\">54</span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "53",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\">53</span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "52",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\">52</span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "55",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\">55</span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "Rule:\n Add positions of letters. MANGO=13+1+14+7+15=50.\n APPLE=1+16+16+12+5=50. Correction rule → Actually MANGO=50,\n APPLE=50. So GRAPE=7+18+1+16+5=47.",
+      "solutionHtml": "<p>\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Rule:\n Add positions of letters. MANGO=13+1+14+7+15=50.\n APPLE=1+16+16+12+5=50. Correction rule → Actually MANGO=50,\n APPLE=50. So GRAPE=7+18+1+16+5=47.</span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 30,
+      "section": "Reasoning",
+      "questionId": "68de744241cf9810ee183617",
+      "questionText": "In\n a family of six persons A, B, C, D, E, F: A and B are married\n couples, D is the only son of C, E is brother of D, and F is the\n daughter of A. How is E related to B?",
+      "questionHtml": "<p>\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">In\n a family of six persons A, B, C, D, E, F: A and B are married\n couples, D is the only son of C, E is brother of D, and F is the\n daughter of A. How is E related to B?</span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "son",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\">son</span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "Nephew",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Nephew</span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "Brother",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Brother</span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "Father",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Father</span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "A",
+      "solutionText": "A\n & B = parents. C = ? D = son of C. E = brother of D. F =\n daughter of A. So B = mother, hence E = son .",
+      "solutionHtml": "<p>\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">A\n &amp; B = parents. C = ? D = son of C. E = brother of D. F =\n daughter of A. So B = mother, hence E = </span></span><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\"><b>son</b></span></span><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">.</span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 31,
+      "section": "Reasoning",
+      "questionId": "68de744241cf98079c1835fe",
+      "questionText": "A\n clock shows 3:15. What is the angle between the hour hand and the\n minute hand?",
+      "questionHtml": "<p>\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">A\n clock shows 3:15. What is the angle between the hour hand and the\n minute hand?</span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "0°",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">0°</span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "7.5°",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">7.5°</span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "30°",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">30°</span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "15°",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">15°</span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "Formula:\n Angle = |30H – (11/2)M|. = |30×3 – (11/2)×15|\n = |90 – 82.5| = 7.5°.",
+      "solutionHtml": "<p>\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Formula:\n Angle = |30H – (11/2)M|. = |30×3 – (11/2)×15|\n = |90 – 82.5| = 7.5°.</span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 32,
+      "section": "Reasoning",
+      "questionId": "68de744241cf984b2b1835f9",
+      "questionText": "In\n a row of boys, A is 10th from the left and B is 20th from the\n right. If there are 35 boys in the row, what is A’s position\n from the right?",
+      "questionHtml": "<p>\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">In\n a row of boys, A is 10th from the left and B is 20th from the\n right. If there are 35 boys in the row, what is A’s position\n from the right?</span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "25",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\">25</span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "26",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\">26</span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "27",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\">27</span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "28",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\">28</span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "Total\n = 35. A’s position from right = 35 – 10 + 1 = 26.",
+      "solutionHtml": "<p>\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Total\n = 35. A’s position from right = 35 – 10 + 1 = 26.</span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 33,
+      "section": "Reasoning",
+      "questionId": "68de744241cf9875391835e0",
+      "questionText": "In\n a code language, CAT = 3120 and DOG = 4157. What will be the code\n for BAT?",
+      "questionHtml": "<p>\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">In\n a code language, CAT = 3120 and DOG = 4157. What will be the code\n for BAT?</span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "2120",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">2120</span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "3121",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">3121</span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "2121",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">2121</span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "2210",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">2210</span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "A",
+      "solutionText": "Coding\n rule: Each letter replaced with position in alphabet – 1.\n C(3-1=2), A(1-1=0), T(20). CAT=3120 (concatenated). Similarly, BAT\n = 2120.",
+      "solutionHtml": "<p>\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Coding\n rule: Each letter replaced with position in alphabet – 1.\n C(3-1=2), A(1-1=0), T(20). CAT=3120 (concatenated). Similarly, BAT\n = 2120.</span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 34,
+      "section": "Reasoning",
+      "questionId": "68de744241cf983c5c183612",
+      "questionText": "A\n train of 200m length passes a man standing on a platform in 10\n seconds. What is the speed of the train in km/hr?",
+      "questionHtml": "<p>\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">A\n train of 200m length passes a man standing on a platform in 10\n seconds. What is the speed of the train in km/hr?</span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "60",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\">60</span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "65",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\">65</span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "72",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\">72</span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "80",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\">80</span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "C",
+      "solutionText": "Speed\n = Distance/Time = 200/10 = 20 m/s = 20×18/5 = 72 km/hr.\n Correction → Answer is 72 km/hr.",
+      "solutionHtml": "<p>\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Speed\n = Distance/Time = 200/10 = 20 m/s = 20×18/5 = 72 km/hr.\n Correction → Answer is 72 km/hr.</span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 35,
+      "section": "Reasoning",
+      "questionId": "68de744241cf9878231835e5",
+      "questionText": "If\n ‘BOOK’ is coded as ‘DSSR’, then how is\n ‘PEN’ coded?",
+      "questionHtml": "<p>\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">If\n ‘BOOK’ is coded as ‘DSSR’, then how is\n ‘PEN’ coded?</span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "RGP",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\">RGP</span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "RGPQ",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\">RGPQ</span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "RGQ",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\">RGQ</span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "QGP",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\">QGP</span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "C",
+      "solutionText": "Code\n rule: Each letter shifted +2 in alphabet. B→D, O→S, O→S,\n K→R. So PEN → R(G)(Q).",
+      "solutionHtml": "<p>\n <span style=\"display: inline-block; border: none; padding: 0px\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 15px\">Code\n rule: Each letter shifted +2 in alphabet. B→D, O→S, O→S,\n K→R. So PEN → R(G)(Q).</span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    }
+  ]
+}

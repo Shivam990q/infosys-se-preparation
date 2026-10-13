@@ -1,0 +1,2333 @@
+{
+  "testName": "Infosys Full Length Mock Test- 3",
+  "testId": "6ab15647d57fc8564e35e5a0",
+  "contentId": 32597294,
+  "totalQuestions": 60,
+  "totalFigures": 1,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "section": "Reasoning",
+      "questionId": "6ab15b2c25e449308dff1f3d",
+      "questionText": "If DIGITAL is coded as EJHJUBM, how is\n ANALOG coded?",
+      "questionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">If DIGITAL is coded as EJHJUBM, how is\n ANALOG coded?</span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "BOBMPH",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">BOBMPH</span></p>"
+        },
+        {
+          "option": "B",
+          "text": "ZMZKNF",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">ZMZKNF</span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "BOBNPH",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">BOBNPH</span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "BMBMPH",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">BMBMPH</span></p>\n "
+        }
+      ],
+      "correctAnswer": "A",
+      "solutionText": "Each letter moves one step forward: A→B,\n N→O, A→B, L→M, O→P, G→H. So ANALOG →\n BOBMPH.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Each letter moves one step forward: A→B,\n N→O, A→B, L→M, O→P, G→H. So ANALOG →\n BOBMPH.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 2,
+      "section": "Reasoning",
+      "questionId": "6ab15b2c25e449b6edff1f38",
+      "questionText": "Statements: All routers are devices. Some\n devices are sensors. Conclusions: I. Some routers are sensors. II.\n All sensors are routers.",
+      "questionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Statements: All routers are devices. Some\n devices are sensors. Conclusions: I. Some routers are sensors. II.\n All sensors are routers.</span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "Only I follows",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Only I follows</span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "Only II follows",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Only II follows</span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "Both follow",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Both follow</span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "Neither follows",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">Neither follows</span></p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solutionText": "Routers are inside devices. Sensors overlap\n devices, not necessarily routers. Neither conclusion follows.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Routers are inside devices. Sensors overlap\n devices, not necessarily routers. Neither conclusion follows.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 3,
+      "section": "Reasoning",
+      "questionId": "6ab15b2c25e4493f41ff1f42",
+      "questionText": "Statement: “Download the official app\n to track your application status.” Which assumption is\n implicit?",
+      "questionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Statement: “Download the official app\n to track your application status.” Which assumption is\n implicit?</span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "The company will close the website.",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">The company will close the website.</span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "Applicants may want to check status on a phone.",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">Applicants may want to check status on a phone.</span></p>"
+        },
+        {
+          "option": "C",
+          "text": "Only graduates use phones.",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Only graduates use phones.</span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "Tracking is impossible on a computer.",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Tracking is impossible on a computer.</span></p>\n "
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "An official app is offered because some\n applicants are expected to check status from a phone. The other\n options are not required.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">An official app is offered because some\n applicants are expected to check status from a phone. The other\n options are not required.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 4,
+      "section": "Reasoning",
+      "questionId": "6ab15b2c25e4491ed9ff1f29",
+      "questionText": "What is the angle between the hour and\n minute hands at 3:20?",
+      "questionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">What is the angle between the hour and\n minute hands at 3:20?</span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "20°",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">20&deg;</span></p>"
+        },
+        {
+          "option": "B",
+          "text": "25°",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">25°</span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "30°",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">30°</span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "35°",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">35°</span></p>\n "
+        }
+      ],
+      "correctAnswer": "A",
+      "solutionText": "Minute hand = 20 × 6 = 120°. Hour\n hand = 3 × 30 + 20 × 0.5 = 100°. Angle = 20°.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Minute hand = 20 × 6 = 120°. Hour\n hand = 3 × 30 + 20 × 0.5 = 100°. Angle = 20°.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 5,
+      "section": "Reasoning",
+      "questionId": "6ab15b2c25e4499a29ff1f51",
+      "questionText": "Four cars finish a race in this order of\n constraints: Red is immediately before Blue. Green is last. Yellow\n is not first. Which car finishes first?",
+      "questionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Four cars finish a race in this order of\n constraints: Red is immediately before Blue. Green is last. Yellow\n is not first. Which car finishes first?</span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "Red",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">Red</span></p>"
+        },
+        {
+          "option": "B",
+          "text": "Blue",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Blue</span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "Yellow",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Yellow</span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "Green",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Green</span></p>\n "
+        }
+      ],
+      "correctAnswer": "A",
+      "solutionText": "Green is last. Red immediately before Blue\n gives the block RB. Yellow is not first, so first cannot be Yellow\n or Green. First must be Red: order Red, Blue, Yellow, Green.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Green is last. Red immediately before Blue\n gives the block RB. Yellow is not first, so first cannot be Yellow\n or Green. First must be Red: order Red, Blue, Yellow, Green.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 6,
+      "section": "Reasoning",
+      "questionId": "6ab15b2c25e449337cff1f56",
+      "questionText": "A machine rearranges words: Input: “exam\n held next week”. Step I: “week exam held next”.\n Step II: “week next exam held”. What is Step III?",
+      "questionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">A machine rearranges words: Input: “exam\n held next week”. Step I: “week exam held next”.\n Step II: “week next exam held”. What is Step III?</span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "week next held exam",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">week next held exam</span></p>"
+        },
+        {
+          "option": "B",
+          "text": "week held next exam",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">week held next exam</span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "next week exam held",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">next week exam held</span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "week exam next held",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">week exam next held</span></p>\n "
+        }
+      ],
+      "correctAnswer": "A",
+      "solutionText": "Each step takes the last word of the\n remaining right part and places it after the already-fixed left\n part, in reverse dictionary order: week, then next, then held,\n then exam. Step III is week next held exam.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Each step takes the last word of the\n remaining right part and places it after the already-fixed left\n part, in reverse dictionary order: week, then next, then held,\n then exam. Step III is week next held exam.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 7,
+      "section": "Reasoning",
+      "questionId": "6ab15b2c25e4495e5cff1f10",
+      "questionText": "Pointing to a photograph, Kavya says, “He\n is the only son of my mother’s only brother.” How is\n the person in the photograph related to Kavya?",
+      "questionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Pointing to a photograph, Kavya says, “He\n is the only son of my mother’s only brother.” How is\n the person in the photograph related to Kavya?</span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "Father",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Father</span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "Cousin",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">Cousin</span></p>"
+        },
+        {
+          "option": "C",
+          "text": "Brother",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Brother</span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "Uncle",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Uncle</span></p>\n "
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "Kavya’s mother’s only brother is\n Kavya’s maternal uncle. His only son is Kavya’s\n cousin.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Kavya’s mother’s only brother is\n Kavya’s maternal uncle. His only son is Kavya’s\n cousin.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 8,
+      "section": "Reasoning",
+      "questionId": "6ab15b2c25e4495cbcff1f15",
+      "questionText": "Amit walks 10 m north, then 6 m east, then\n 10 m south. How far is he from the starting point, and in which\n direction?",
+      "questionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Amit walks 10 m north, then 6 m east, then\n 10 m south. How far is he from the starting point, and in which\n direction?</span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "10 m east",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">10 m east</span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "6 m north",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">6 m north</span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "6 m east",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">6 m east</span></p>"
+        },
+        {
+          "option": "D",
+          "text": "16 m east",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">16 m east</span></p>\n "
+        }
+      ],
+      "correctAnswer": "C",
+      "solutionText": "The 10 m north and 10 m south cancel. He is\n 6 m east of the start.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">The 10 m north and 10 m south cancel. He is\n 6 m east of the start.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 9,
+      "section": "Reasoning",
+      "questionId": "6ab15b2c25e4498baeff1f24",
+      "questionText": "If 1 January 2024 was a Monday, what day was\n 1 March 2024?",
+      "questionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">If 1 January 2024 was a Monday, what day was\n 1 March 2024?</span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "Monday",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Monday</span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "Wednesday",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Wednesday</span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "Friday",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">Friday</span></p>"
+        },
+        {
+          "option": "D",
+          "text": "Saturday",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Saturday</span></p>\n "
+        }
+      ],
+      "correctAnswer": "C",
+      "solutionText": "2024 is a leap year, so January has 31 days\n and February has 29. Days from 1 Jan to 1 Mar = 31 + 29 = 60. 60\n mod 7 = 4. Monday + 4 = Friday.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">2024 is a leap year, so January has 31 days\n and February has 29. Days from 1 Jan to 1 Mar = 31 + 29 = 60. 60\n mod 7 = 4. Monday + 4 = Friday.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 10,
+      "section": "Reasoning",
+      "questionId": "6ab15b2c25e4495619ff1f33",
+      "questionText": "Choose the pair that matches the relation:\n Book : Author :: Symphony : ?",
+      "questionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Choose the pair that matches the relation:\n Book : Author :: Symphony : ?</span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "Instrument",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Instrument</span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "Composer",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">Composer</span></p>"
+        },
+        {
+          "option": "C",
+          "text": "Orchestra",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Orchestra</span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "Stage",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Stage</span></p>\n "
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "An author creates a book. A composer creates\n a symphony.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">An author creates a book. A composer creates\n a symphony.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 11,
+      "section": "Reasoning",
+      "questionId": "6ab15b2c25e4493c4bff1f2e",
+      "questionText": "Find the next term: 7, 10, 16, 28, 52, ?",
+      "questionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Find the next term: 7, 10, 16, 28, 52, ?</span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "88",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">88</span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "94",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">94</span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "100",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">100</span></p>"
+        },
+        {
+          "option": "D",
+          "text": "108",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">108</span></p>\n "
+        }
+      ],
+      "correctAnswer": "C",
+      "solutionText": "Each term = previous × 2 − 4:\n 7×2−4=10, 10×2−4=16, 16×2−4=28,\n 28×2−4=52, 52×2−4=100.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Each term = previous × 2 − 4:\n 7×2−4=10, 10×2−4=16, 16×2−4=28,\n 28×2−4=52, 52×2−4=100.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 12,
+      "section": "Reasoning",
+      "questionId": "6ab15b2c25e449c5d2ff1f4c",
+      "questionText": "Choose the odd one out: 121, 144, 169, 196,\n 222",
+      "questionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Choose the odd one out: 121, 144, 169, 196,\n 222</span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "121",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">121</span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "144",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">144</span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "169",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">169</span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "222",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">222</span></p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solutionText": "121=11², 144=12², 169=13²,\n 196=14². 222 is not a perfect square.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">121=11², 144=12², 169=13²,\n 196=14². 222 is not a perfect square.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 13,
+      "section": "Reasoning",
+      "questionId": "6ab15b2c25e4497befff1f47",
+      "questionText": "If P > Q = R ≥ S < T, which\n conclusion is definitely true?",
+      "questionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">If P &gt; Q = R ≥ S &lt; T, which\n conclusion is definitely true?</span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "P > S",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">P &gt; S</span></p>"
+        },
+        {
+          "option": "B",
+          "text": "Q < T",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Q &lt; T</span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "P = T",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">P = T</span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "R > T",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">R &gt; T</span></p>\n "
+        }
+      ],
+      "correctAnswer": "A",
+      "solutionText": "P is greater than Q, and Q = R ≥ S, so P\n > S. Q = R ≥ S < T does not compare Q with T.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">P is greater than Q, and Q = R ≥ S, so P\n &gt; S. Q = R ≥ S &lt; T does not compare Q with T.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 14,
+      "section": "Reasoning",
+      "questionId": "6ab15b2c25e4491580ff1f1f",
+      "questionText": "In a queue of 35 people, Neha is 12th from\n the front. What is her position from the rear?",
+      "questionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">In a queue of 35 people, Neha is 12th from\n the front. What is her position from the rear?</span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "23rd",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">23rd</span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "24th",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">24th</span></p>"
+        },
+        {
+          "option": "C",
+          "text": "25th",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">25th</span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "22nd",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">22nd</span></p>\n "
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "Position from rear = 35 − 12 + 1 = 24.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Position from rear = 35 − 12 + 1 = 24.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 15,
+      "section": "Reasoning",
+      "questionId": "6ab15b2c25e449c045ff1f1a",
+      "questionText": "Five friends P, Q, R, S and T sit in a row\n facing north. P sits at one end. Q sits second to the right of P.\n T sits between Q and R. S sits at the other end. Who sits in the\n middle?",
+      "questionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Five friends P, Q, R, S and T sit in a row\n facing north. P sits at one end. Q sits second to the right of P.\n T sits between Q and R. S sits at the other end. Who sits in the\n middle?</span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "Q",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Q</span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "R",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">R</span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "T",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">T</span></p>"
+        },
+        {
+          "option": "D",
+          "text": "S",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">S</span></p>\n "
+        }
+      ],
+      "correctAnswer": "C",
+      "solutionText": "P at left end gives P, Q, T, R, S. The\n middle seat is T.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">P at left end gives P, Q, T, R, S. The\n middle seat is T.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 16,
+      "section": "Aptitude (Technical Ability)",
+      "questionId": "6ab15b9336be79093a412f75",
+      "questionText": "The value of 40% of 250 + 15% of 400 is",
+      "questionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">The value of 40% of 250 + 15% of 400 is</span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "140",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">140</span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "150",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">150</span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "160",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">160</span></p>"
+        },
+        {
+          "option": "D",
+          "text": "170",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">170</span></p>\n "
+        }
+      ],
+      "correctAnswer": "C",
+      "solutionText": "40% of 250 = 100. 15% of 400 = 60. Sum =\n 160.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">40% of 250 = 100. 15% of 400 = 60. Sum =\n 160.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 17,
+      "section": "Aptitude (Technical Ability)",
+      "questionId": "6ab15b9336be79ee94412f66",
+      "questionText": "Pipe A fills a tank in 10 hours and pipe B\n empties it in 15 hours. If both are opened together, the tank\n fills in",
+      "questionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Pipe A fills a tank in 10 hours and pipe B\n empties it in 15 hours. If both are opened together, the tank\n fills in</span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "20 hours",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">20 hours</span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "25 hours",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">25 hours</span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "30 hours",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">30 hours</span></p>"
+        },
+        {
+          "option": "D",
+          "text": "6 hours",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">6 hours</span></p>\n "
+        }
+      ],
+      "correctAnswer": "C",
+      "solutionText": "Net work per hour = 1/10 − 1/15 =\n 1/30. Time = 30 hours.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Net work per hour = 1/10 − 1/15 =\n 1/30. Time = 30 hours.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 18,
+      "section": "Aptitude (Technical Ability)",
+      "questionId": "6ab15b9336be790c6c412f57",
+      "questionText": "The average of five numbers is 18. If one\n number 22 is replaced by 12, the new average is",
+      "questionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">The average of five numbers is 18. If one\n number 22 is replaced by 12, the new average is</span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "16",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">16</span></p>"
+        },
+        {
+          "option": "B",
+          "text": "17",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">17</span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "15",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">15</span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "14",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">14</span></p>\n "
+        }
+      ],
+      "correctAnswer": "A",
+      "solutionText": "Total was 90. New total = 90 − 22 + 12\n = 80. New average = 80/5 = 16.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Total was 90. New total = 90 − 22 + 12\n = 80. New average = 80/5 = 16.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 19,
+      "section": "Aptitude (Technical Ability)",
+      "questionId": "6ab15b9336be7923a6412f6b",
+      "questionText": "The present ages of a father and son are in\n the ratio 7 : 2. After 6 years the ratio will be 8 : 3. The son’s\n present age is",
+      "questionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">The present ages of a father and son are in\n the ratio 7 : 2. After 6 years the ratio will be 8 : 3. The son’s\n present age is</span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "10 years",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">10 years</span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "12 years",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">12 years</span></p>"
+        },
+        {
+          "option": "C",
+          "text": "14 years",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">14 years</span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "16 years",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">16 years</span></p>\n "
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "Let ages be 7x and 2x. (7x+6)/(2x+6) = 8/3.\n 3(7x+6)=8(2x+6) → 21x+18=16x+48 → 5x=30 → x=6. Son\n = 12.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Let ages be 7x and 2x. (7x+6)/(2x+6) = 8/3.\n 3(7x+6)=8(2x+6) → 21x+18=16x+48 → 5x=30 → x=6. Son\n = 12.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 20,
+      "section": "Aptitude (Technical Ability)",
+      "questionId": "6ab15b9336be7968ed412f70",
+      "questionText": "A invests ₹30,000 for 8 months and B\n invests ₹40,000 for 6 months. If the profit is ₹5,500,\n A’s share is",
+      "questionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">A invests ₹30,000 for 8 months and B\n invests ₹40,000 for 6 months. If the profit is ₹5,500,\n A’s share is</span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "₹2,750",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">₹2,750</span></p>"
+        },
+        {
+          "option": "B",
+          "text": "₹2,200",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">₹2,200</span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "₹3,000",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">₹3,000</span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "₹3,300",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">₹3,300</span></p>\n "
+        }
+      ],
+      "correctAnswer": "A",
+      "solutionText": "Ratio of capitals × time = 30,000×8\n : 40,000×6 = 240 : 240 = 1 : 1. A gets half of 5,500 =\n ₹2,750.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Ratio of capitals × time = 30,000×8\n : 40,000×6 = 240 : 240 = 1 : 1. A gets half of 5,500 =\n ₹2,750.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 21,
+      "section": "Aptitude (Technical Ability)",
+      "questionId": "6ab15b9336be79d8bb412f5c",
+      "questionText": "₹5,000 is lent at 8% simple interest\n per year. What is the interest after 3 years?",
+      "questionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">₹5,000 is lent at 8% simple interest\n per year. What is the interest after 3 years?</span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "₹800",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">₹800</span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "₹1,000",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">₹1,000</span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "₹1,200",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">₹1,200</span></p>"
+        },
+        {
+          "option": "D",
+          "text": "₹1,500",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">₹1,500</span></p>\n "
+        }
+      ],
+      "correctAnswer": "C",
+      "solutionText": "SI = PRT/100 = 5000×8×3 / 100 =\n ₹1,200.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">SI = PRT/100 = 5000×8×3 / 100 =\n ₹1,200.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 22,
+      "section": "Aptitude (Technical Ability)",
+      "questionId": "6ab15b9336be793a9a412f52",
+      "questionText": "If A : B = 3 : 4 and B : C = 6 : 7, then A :\n B : C is",
+      "questionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">If A : B = 3 : 4 and B : C = 6 : 7, then A :\n B : C is</span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "3 : 4 : 7",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">3 : 4 : 7</span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "9 : 12 : 14",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">9 : 12 : 14</span></p>"
+        },
+        {
+          "option": "C",
+          "text": "18 : 24 : 14",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">18 : 24 : 14</span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "3 : 6 : 7",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">3 : 6 : 7</span></p>\n "
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "B must match: A:B = 3:4 = 9:12 and B:C = 6:7\n = 12:14. So A:B:C = 9:12:14.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">B must match: A:B = 3:4 = 9:12 and B:C = 6:7\n = 12:14. So A:B:C = 9:12:14.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 23,
+      "section": "Aptitude (Technical Ability)",
+      "questionId": "6ab15b9336be7917b7412f4d",
+      "questionText": "A number is increased by 25% and then\n decreased by 20%. The net change is",
+      "questionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">A number is increased by 25% and then\n decreased by 20%. The net change is</span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "5% increase",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">5% increase</span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "5% decrease",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">5% decrease</span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "no change",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">no change</span></p>"
+        },
+        {
+          "option": "D",
+          "text": "2.5% decrease",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">2.5% decrease</span></p>\n "
+        }
+      ],
+      "correctAnswer": "C",
+      "solutionText": "Let the number be 100. After +25% it is 125.\n After −20% it is 100. Net change is zero.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Let the number be 100. After +25% it is 125.\n After −20% it is 100. Net change is zero.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 24,
+      "section": "Aptitude (Technical Ability)",
+      "questionId": "6ab15b9336be79d99c412f48",
+      "questionText": "What is the remainder when 2^10 is divided\n by 7?",
+      "questionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">What is the remainder when 2^10 is divided\n by 7?</span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "1",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">1</span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "2",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">2</span></p>"
+        },
+        {
+          "option": "C",
+          "text": "3",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">3</span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "4",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">4</span></p>\n "
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "2^1=2, 2^2=4, 2^3=1 (mod 7), then cycle\n length 3. 10 = 3×3 + 1, so remainder equals 2^1 = 2.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">2^1=2, 2^2=4, 2^3=1 (mod 7), then cycle\n length 3. 10 = 3×3 + 1, so remainder equals 2^1 = 2.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 25,
+      "section": "Aptitude (Technical Ability)",
+      "questionId": "6ab15b9336be791ea6412f61",
+      "questionText": "A train 180 m long runs at 54 km/h. How many\n seconds does it take to pass a pole?",
+      "questionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">A train 180 m long runs at 54 km/h. How many\n seconds does it take to pass a pole?</span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "10 s",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">10 s</span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "12 s",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">12 s</span></p>"
+        },
+        {
+          "option": "C",
+          "text": "15 s",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">15 s</span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "18 s",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">18 s</span></p>\n "
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "54 km/h = 54×5/18 = 15 m/s. Time =\n 180/15 = 12 s.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">54 km/h = 54×5/18 = 15 m/s. Time =\n 180/15 = 12 s.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 26,
+      "section": "Verbal Ability",
+      "questionId": "6ab15bf139869f366f5e7602",
+      "questionText": "Fill in the blank: The evidence was too\n _____ to support a firm conclusion.",
+      "questionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Fill in the blank: The evidence was too\n _____ to support a firm conclusion.</span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "conclusive",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">conclusive</span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "scanty",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">scanty</span></p>"
+        },
+        {
+          "option": "C",
+          "text": "ample",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">ample</span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "decisive",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">decisive</span></p>\n "
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "Scanty means insufficient. The other three\n suggest there was enough evidence.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Scanty means insufficient. The other three\n suggest there was enough evidence.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 27,
+      "section": "Verbal Ability",
+      "questionId": "6ab15bf139869f87df5e75d0",
+      "questionText": "Choose the grammatically correct sentence.",
+      "questionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Choose the grammatically correct sentence.</span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "The team as well as the lead have agreed.",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">The team as well as the lead have agreed.</span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "The team as well as the lead are agreed.",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">The team as well as the lead are agreed.</span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "The team as well as the lead has agreed.",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">The team as well as the lead has agreed.</span></p>"
+        },
+        {
+          "option": "D",
+          "text": "The team as well as the lead have agree.",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">The team as well as the lead have agree.</span></p>\n "
+        }
+      ],
+      "correctAnswer": "C",
+      "solutionText": "With “as well as,” the verb\n agrees with the first subject “team” (singular): has\n agreed.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">With “as well as,” the verb\n agrees with the first subject “team” (singular): has\n agreed.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 28,
+      "section": "Verbal Ability",
+      "questionId": "6ab15bf139869fb5d25e75f3",
+      "questionText": "Choose the word most opposite in meaning to\n “expand.”",
+      "questionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Choose the word most opposite in meaning to\n “expand.”</span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "Enlarge",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Enlarge</span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "Widen",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Widen</span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "Contract",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">Contract</span></p>"
+        },
+        {
+          "option": "D",
+          "text": "Grow",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Grow</span></p>\n "
+        }
+      ],
+      "correctAnswer": "C",
+      "solutionText": "Contract means to become smaller, the\n opposite of expand.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Contract means to become smaller, the\n opposite of expand.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 29,
+      "section": "Verbal Ability",
+      "questionId": "6ab15bf139869f17485e75a8",
+      "questionText": "Passage \n\n Open-source licences let companies use shared libraries without writing every component from scratch. That speed has a condition: teams must track which licence each library carries. A copyleft licence can require the company to publish its own source if the library is mixed into a shipped product. Permissive licences are lighter, but they still ask for credit. Legal reviews that happen only a week before release often find a blocked component and force a rewrite. Groups that keep a licence inventory from the first sprint avoid that scramble. \n\n A copyleft licence may require a company to",
+      "questionHtml": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px;\"><span style=\"color: #111827;\"><span style=\"font-size: 13px;\"><strong>Passage</strong></span></span></p>\n<p style=\"margin-top: 0.288px;\"></p>\n<p style=\"margin-top: 0.288px; margin-bottom: 0.480px;\"><span style=\"color: #111827;\"><span style=\"font-size: 13px;\">Open-source licences let companies use shared libraries without writing every component from scratch. That speed has a condition: teams must track which licence each library carries. A copyleft licence can require the company to publish its own source if the library is mixed into a shipped product. Permissive licences are lighter, but they still ask for credit. Legal reviews that happen only a week before release often find a blocked component and force a rewrite. Groups that keep a licence inventory from the first sprint avoid that scramble.</span></span></p>\n<p style=\"margin-top: 0.288px;\"><strong><span style=\"color: #111827;\">A copyleft licence may require a company to</span></strong></p>",
+      "options": [
+        {
+          "option": "A",
+          "text": "pay a yearly fee only",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">pay a yearly fee only</span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "rename the library",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">rename the library</span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "publish its own source if the library is mixed into a shipped product",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">publish its own source if the library is mixed into a shipped product</span></p>"
+        },
+        {
+          "option": "D",
+          "text": "delete all comments",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">delete all comments</span></p>\n "
+        }
+      ],
+      "correctAnswer": "C",
+      "solutionText": "The third sentence states that copyleft can\n require publishing the company’s own source when the library\n is mixed into a shipped product.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">The third sentence states that copyleft can\n require publishing the company’s own source when the library\n is mixed into a shipped product.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 30,
+      "section": "Verbal Ability",
+      "questionId": "6ab15bf139869fa56f5e75a3",
+      "questionText": "Passage \n\n Open-source licences let companies use shared libraries without writing every component from scratch. That speed has a condition: teams must track which licence each library carries. A copyleft licence can require the company to publish its own source if the library is mixed into a shipped product. Permissive licences are lighter, but they still ask for credit. Legal reviews that happen only a week before release often find a blocked component and force a rewrite. Groups that keep a licence inventory from the first sprint avoid that scramble. \n\n What is the main idea of the passage?",
+      "questionHtml": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px;\"><span style=\"color: #111827;\"><span style=\"font-size: 13px;\"><strong>Passage</strong></span></span></p>\n<p style=\"margin-top: 0.288px; margin-bottom: 0.480px;\"><span style=\"color: #111827;\"><span style=\"font-size: 13px;\">Open-source licences let companies use shared libraries without writing every component from scratch. That speed has a condition: teams must track which licence each library carries. A copyleft licence can require the company to publish its own source if the library is mixed into a shipped product. Permissive licences are lighter, but they still ask for credit. Legal reviews that happen only a week before release often find a blocked component and force a rewrite. Groups that keep a licence inventory from the first sprint avoid that scramble.</span></span></p>\n<p style=\"margin-top: 0.288px;\"><strong><span style=\"color: #111827;\">What is the main idea of the passage?</span></strong></p>",
+      "options": [
+        {
+          "option": "A",
+          "text": "Open-source software should be banned in\n companies.",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Open-source software should be banned in\n companies.</span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "Shared libraries save time only if licences are tracked early.",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">Shared libraries save time only if licences are tracked early.</span></p>"
+        },
+        {
+          "option": "C",
+          "text": "Copyleft licences never require published\n source.",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Copyleft licences never require published\n source.</span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "Legal reviews should be delayed until\n release week.",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Legal reviews should be delayed until\n release week.</span></p>\n "
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "The passage balances the speed of shared\n libraries with the need to track licences from the first sprint so\n late rewrites are avoided.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">The passage balances the speed of shared\n libraries with the need to track licences from the first sprint so\n late rewrites are avoided.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 31,
+      "section": "Verbal Ability",
+      "questionId": "6ab15bf139869f2ce15e75bc",
+      "questionText": "Choose the grammatically correct sentence.",
+      "questionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Choose the grammatically correct sentence.</span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "The data was collected last year and are\n reliable.",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">The data was collected last year and are\n reliable.</span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "The data collected last year are reliable.",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">The data collected last year are reliable.</span></p>"
+        },
+        {
+          "option": "C",
+          "text": "The data collected last year is being\n reliable.",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">The data collected last year is being\n reliable.</span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "The datas collected last year are reliable.",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">The datas collected last year are reliable.</span></p>\n "
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "In exam English, “data” is\n treated as plural here with “are.” “Datas”\n is not a word.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">In exam English, “data” is\n treated as plural here with “are.” “Datas”\n is not a word.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 32,
+      "section": "Verbal Ability",
+      "questionId": "6ab15bf139869f00185e75ad",
+      "questionText": "Passage \n\n Open-source licences let companies use shared libraries without writing every component from scratch. That speed has a condition: teams must track which licence each library carries. A copyleft licence can require the company to publish its own source if the library is mixed into a shipped product. Permissive licences are lighter, but they still ask for credit. Legal reviews that happen only a week before release often find a blocked component and force a rewrite. Groups that keep a licence inventory from the first sprint avoid that scramble. \n\n Late legal reviews are a problem because they",
+      "questionHtml": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px;\"><span style=\"color: #111827;\"><span style=\"font-size: 13px;\"><strong>Passage</strong></span></span></p>\n<p style=\"margin-top: 0.288px;\"></p>\n<p style=\"margin-top: 0.288px; margin-bottom: 0.480px;\"><span style=\"color: #111827;\"><span style=\"font-size: 13px;\">Open-source licences let companies use shared libraries without writing every component from scratch. That speed has a condition: teams must track which licence each library carries. A copyleft licence can require the company to publish its own source if the library is mixed into a shipped product. Permissive licences are lighter, but they still ask for credit. Legal reviews that happen only a week before release often find a blocked component and force a rewrite. Groups that keep a licence inventory from the first sprint avoid that scramble.</span></span></p>\n<p style=\"margin-top: 0.288px;\"><strong><span style=\"color: #111827;\">Late legal reviews are a problem because they</span></strong></p>",
+      "options": [
+        {
+          "option": "A",
+          "text": "often find a blocked component and force a rewrite",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">often find a blocked component and force a rewrite</span></p>"
+        },
+        {
+          "option": "B",
+          "text": "always cancel the product",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">always cancel the product</span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "remove the need for credit",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">remove the need for credit</span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "make permissive licences heavier",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">make permissive licences heavier</span></p>\n "
+        }
+      ],
+      "correctAnswer": "A",
+      "solutionText": "The passage says reviews a week before\n release often find a blocked component and force a rewrite.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">The passage says reviews a week before\n release often find a blocked component and force a rewrite.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 33,
+      "section": "Verbal Ability",
+      "questionId": "6ab15bf139869ff92c5e75b2",
+      "questionText": "Passage \n\n Open-source licences let companies use shared libraries without writing every component from scratch. That speed has a condition: teams must track which licence each library carries. A copyleft licence can require the company to publish its own source if the library is mixed into a shipped product. Permissive licences are lighter, but they still ask for credit. Legal reviews that happen only a week before release often find a blocked component and force a rewrite. Groups that keep a licence inventory from the first sprint avoid that scramble. \n\n Permissive licences still require",
+      "questionHtml": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px;\"><span style=\"color: #111827;\"><span style=\"font-size: 13px;\"><strong>Passage</strong></span></span></p>\n<p style=\"margin-top: 0.288px;\"></p>\n<p style=\"margin-top: 0.288px; margin-bottom: 0.480px;\"><span style=\"color: #111827;\"><span style=\"font-size: 13px;\">Open-source licences let companies use shared libraries without writing every component from scratch. That speed has a condition: teams must track which licence each library carries. A copyleft licence can require the company to publish its own source if the library is mixed into a shipped product. Permissive licences are lighter, but they still ask for credit. Legal reviews that happen only a week before release often find a blocked component and force a rewrite. Groups that keep a licence inventory from the first sprint avoid that scramble.</span></span></p>\n<p style=\"margin-top: 0.288px;\"><strong><span style=\"color: #111827;\">Permissive licences still require</span></strong></p>",
+      "options": [
+        {
+          "option": "A",
+          "text": "full source publication",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">full source publication</span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "credit",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">credit</span></p>"
+        },
+        {
+          "option": "C",
+          "text": "a one-week delay",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">a one-week delay</span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "a rewrite of every module",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">a rewrite of every module</span></p>\n "
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "The passage says permissive licences are\n lighter but still ask for credit.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">The passage says permissive licences are\n lighter but still ask for credit.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 34,
+      "section": "Verbal Ability",
+      "questionId": "6ab15bf139869f4ab85e75b7",
+      "questionText": "Passage \n\n Open-source licences let companies use shared libraries without writing every component from scratch. That speed has a condition: teams must track which licence each library carries. A copyleft licence can require the company to publish its own source if the library is mixed into a shipped product. Permissive licences are lighter, but they still ask for credit. Legal reviews that happen only a week before release often find a blocked component and force a rewrite. Groups that keep a licence inventory from the first sprint avoid that scramble. \n\n Teams avoid last-minute scramble by",
+      "questionHtml": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px;\"><span style=\"color: #111827;\"><span style=\"font-size: 13px;\"><strong>Passage</strong></span></span></p>\n<p style=\"margin-top: 0.288px;\"></p>\n<p style=\"margin-top: 0.288px; margin-bottom: 0.480px;\"><span style=\"color: #111827;\"><span style=\"font-size: 13px;\">Open-source licences let companies use shared libraries without writing every component from scratch. That speed has a condition: teams must track which licence each library carries. A copyleft licence can require the company to publish its own source if the library is mixed into a shipped product. Permissive licences are lighter, but they still ask for credit. Legal reviews that happen only a week before release often find a blocked component and force a rewrite. Groups that keep a licence inventory from the first sprint avoid that scramble.</span></span></p>\n<p style=\"margin-top: 0.288px;\"><strong><span style=\"color: #111827;\">Teams avoid last-minute scramble by</span></strong></p>",
+      "options": [
+        {
+          "option": "A",
+          "text": "ignoring copyleft libraries",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">ignoring copyleft libraries</span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "hiring more testers in the last week",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">hiring more testers in the last week</span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "keeping a licence inventory from the first sprint",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">keeping a licence inventory from the first sprint</span></p>"
+        },
+        {
+          "option": "D",
+          "text": "shipping without review",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">shipping without review</span></p>\n "
+        }
+      ],
+      "correctAnswer": "C",
+      "solutionText": "The last sentence recommends a licence\n inventory from the first sprint.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">The last sentence recommends a licence\n inventory from the first sprint.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 35,
+      "section": "Verbal Ability",
+      "questionId": "6ab15bf139869fb0f25e75ee",
+      "questionText": "Choose the word most similar in meaning to\n “pragmatic.”",
+      "questionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Choose the word most similar in meaning to\n “pragmatic.”</span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "Idealistic",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Idealistic</span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "Practical",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">Practical</span></p>"
+        },
+        {
+          "option": "C",
+          "text": "Careless",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Careless</span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "Vague",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Vague</span></p>\n "
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "Pragmatic means dealing with things in a\n practical way.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Pragmatic means dealing with things in a\n practical way.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 36,
+      "section": "Verbal Ability",
+      "questionId": "6ab15bf139869f90135e75c1",
+      "questionText": "Choose the grammatically correct sentence.",
+      "questionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Choose the grammatically correct sentence.</span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "Hardly had the server restarted when the alerts stopped.",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">Hardly had the server restarted when the alerts stopped.</span></p>"
+        },
+        {
+          "option": "B",
+          "text": "Hardly the server had restarted than the\n alerts stopped.",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Hardly the server had restarted than the\n alerts stopped.</span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "Hardly had the server restarted then the\n alerts stopped.",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Hardly had the server restarted then the\n alerts stopped.</span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "Hardly the server restarted when the alerts\n stopped.",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Hardly the server restarted when the alerts\n stopped.</span></p>\n "
+        }
+      ],
+      "correctAnswer": "A",
+      "solutionText": "Hardly is followed by inversion (had the\n server) and paired with when.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Hardly is followed by inversion (had the\n server) and paired with when.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 37,
+      "section": "Verbal Ability",
+      "questionId": "6ab15bf139869fea085e75da",
+      "questionText": "Arrange: P: Pair reviews catch those slips\n before merge. Q: Tired authors miss their own typos in a long\n patch. R: Many teams therefore require a second name on every\n change. S: Style guides alone do not replace a second pair of\n eyes.",
+      "questionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Arrange: P: Pair reviews catch those slips\n before merge. Q: Tired authors miss their own typos in a long\n patch. R: Many teams therefore require a second name on every\n change. S: Style guides alone do not replace a second pair of\n eyes.</span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "Q S P R",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Q S P R</span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "Q P R S",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">Q P R S</span></p>"
+        },
+        {
+          "option": "C",
+          "text": "P Q R S",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">P Q R S</span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "S Q P R",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">S Q P R</span></p>\n "
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "Q names the fault. P is the practice that\n catches it. R states the rule. S adds why guides are not enough. Q\n P R S.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Q names the fault. P is the practice that\n catches it. R states the rule. S adds why guides are not enough. Q\n P R S.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 38,
+      "section": "Verbal Ability",
+      "questionId": "6ab15bf139869f75705e75df",
+      "questionText": "Arrange: P: The spare unit then takes over\n within seconds. Q: Critical servers run in pairs for this reason.\n R: A single disk failure should not stop a payments site. S:\n Health checks decide when the switch must happen.",
+      "questionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Arrange: P: The spare unit then takes over\n within seconds. Q: Critical servers run in pairs for this reason.\n R: A single disk failure should not stop a payments site. S:\n Health checks decide when the switch must happen.</span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "R P Q S",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">R P Q S</span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "Q R P S",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Q R P S</span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "R Q P S",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">R Q P S</span></p>"
+        },
+        {
+          "option": "D",
+          "text": "R Q S P",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">R Q S P</span></p>\n "
+        }
+      ],
+      "correctAnswer": "C",
+      "solutionText": "R states the requirement. Q is the design. P\n is the failover. S is how the switch is decided. R Q P S.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">R states the requirement. Q is the design. P\n is the failover. S is how the switch is decided. R Q P S.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 39,
+      "section": "Verbal Ability",
+      "questionId": "6ab15bf139869f0ce25e75c6",
+      "questionText": "Choose the grammatically correct sentence.",
+      "questionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Choose the grammatically correct sentence.</span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "She congratulated me for my promotion.",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">She congratulated me for my promotion.</span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "She congratulated me on my promotion.",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">She congratulated me on my promotion.</span></p>"
+        },
+        {
+          "option": "C",
+          "text": "She congratulated me to my promotion.",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">She congratulated me to my promotion.</span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "She congratulated me with my promotion.",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">She congratulated me with my promotion.</span></p>\n "
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "The standard collocation is “congratulated\n on.”",
+      "solutionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">The standard collocation is “congratulated\n on.”</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 40,
+      "section": "Verbal Ability",
+      "questionId": "6ab15bf139869f1c3e5e75f8",
+      "questionText": "What does the idiom “cut corners”\n mean?",
+      "questionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">What does the idiom “cut corners”\n mean?</span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "Do something in the cheapest or quickest way, leaving out steps",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">Do something in the cheapest or quickest way, leaving out steps</span></p>"
+        },
+        {
+          "option": "B",
+          "text": "Turn sharply while driving",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Turn sharply while driving</span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "Finish extra work",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Finish extra work</span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "Share credit equally",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Share credit equally</span></p>\n "
+        }
+      ],
+      "correctAnswer": "A",
+      "solutionText": "To cut corners is to skip steps to save time\n or money, often lowering quality.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">To cut corners is to skip steps to save time\n or money, often lowering quality.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 41,
+      "section": "Verbal Ability",
+      "questionId": "6ab15bf139869f3fd35e75cb",
+      "questionText": "Choose the grammatically correct sentence.",
+      "questionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Choose the grammatically correct sentence.</span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "Fewer errors were logged after the patch.",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">Fewer errors were logged after the patch.</span></p>"
+        },
+        {
+          "option": "B",
+          "text": "Less errors were logged after the patch.",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Less errors were logged after the patch.</span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "Fewer error was logged after the patch.",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Fewer error was logged after the patch.</span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "Less number of errors was logged after the\n patch.",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Less number of errors was logged after the\n patch.</span></p>\n "
+        }
+      ],
+      "correctAnswer": "A",
+      "solutionText": "Errors are countable, so “fewer”\n is correct, not “less.”",
+      "solutionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Errors are countable, so “fewer”\n is correct, not “less.”</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 42,
+      "section": "Verbal Ability",
+      "questionId": "6ab15bf139869f67285e75d5",
+      "questionText": "Arrange: P: Cached results then go stale and\n mislead the next user. Q: A search index must be refreshed when\n the source pages change. R: That is why crawlers revisit important\n URLs on a schedule. S: Skipping those visits looks cheaper until a\n client complains.",
+      "questionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Arrange: P: Cached results then go stale and\n mislead the next user. Q: A search index must be refreshed when\n the source pages change. R: That is why crawlers revisit important\n URLs on a schedule. S: Skipping those visits looks cheaper until a\n client complains.</span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "Q P R S",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">Q P R S</span></p>"
+        },
+        {
+          "option": "B",
+          "text": "P Q S R",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">P Q S R</span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "Q R P S",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Q R P S</span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "R Q S P",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">R Q S P</span></p>\n "
+        }
+      ],
+      "correctAnswer": "A",
+      "solutionText": "Q states the need. P is the failure mode. R\n is the operational response. S comments on skipping it. Order Q P\n R S.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Q states the need. P is the failure mode. R\n is the operational response. S comments on skipping it. Order Q P\n R S.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 43,
+      "section": "Verbal Ability",
+      "questionId": "6ab15bf139869f5d6b5e75e9",
+      "questionText": "Arrange: P: Stand-ups that run past fifteen\n minutes usually lose the room. Q: The aim is to surface blockers,\n not to redesign the sprint. R: A written board already holds the\n task detail. S: Speaking to the board keeps each update short.",
+      "questionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Arrange: P: Stand-ups that run past fifteen\n minutes usually lose the room. Q: The aim is to surface blockers,\n not to redesign the sprint. R: A written board already holds the\n task detail. S: Speaking to the board keeps each update short.</span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "P Q R S",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">P Q R S</span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "Q R S P",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">Q R S P</span></p>"
+        },
+        {
+          "option": "C",
+          "text": "P R Q S",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">P R Q S</span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "Q P S R",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Q P S R</span></p>\n "
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "Q states the aim. R notes where detail\n already lives. S is the method. P warns what happens when it\n fails. Q R S P.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Q states the aim. R notes where detail\n already lives. S is the method. P warns what happens when it\n fails. Q R S P.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 44,
+      "section": "Verbal Ability",
+      "questionId": "6ab15bf139869fa6e85e75fd",
+      "questionText": "One-word substitute: A book issued each year\n with updated facts.",
+      "questionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">One-word substitute: A book issued each year\n with updated facts.</span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "Manual",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Manual</span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "Journal",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Journal</span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "Almanac",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">Almanac</span></p>"
+        },
+        {
+          "option": "D",
+          "text": "Memoir",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Memoir</span></p>\n "
+        }
+      ],
+      "correctAnswer": "C",
+      "solutionText": "An almanac is published yearly with revised\n information.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">An almanac is published yearly with revised\n information.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 45,
+      "section": "Verbal Ability",
+      "questionId": "6ab15bf139869f2aa55e75e4",
+      "questionText": "Arrange: P: Clear labels on axes prevent\n that mistake. Q: A chart with no units can be read as growth when\n it is only a change of scale. R: Reviewers should reject figures\n that hide the scale. S: Readers then leave the meeting with the\n wrong story.",
+      "questionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Arrange: P: Clear labels on axes prevent\n that mistake. Q: A chart with no units can be read as growth when\n it is only a change of scale. R: Reviewers should reject figures\n that hide the scale. S: Readers then leave the meeting with the\n wrong story.</span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "Q S P R",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">Q S P R</span></p>"
+        },
+        {
+          "option": "B",
+          "text": "Q P S R",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Q P S R</span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "S Q P R",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">S Q P R</span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "P Q R S",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">P Q R S</span></p>\n "
+        }
+      ],
+      "correctAnswer": "A",
+      "solutionText": "Q is the trap. S is the cost. P is the\n simple fix. R is the process rule. Q S P R.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Q is the trap. S is the cost. P is the\n simple fix. R is the process rule. Q S P R.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 46,
+      "section": "Pseudo Code",
+      "questionId": "6ab15cb351951a2871456a67",
+      "questionText": "What is printed? \n\n Integer\n n, d \n\n Set\n n = 48, d = 0 \n\n while\n n > 1 do \n\n n\n = n / 2 \n\n d\n = d + 1 \n\n end\n while \n\n Print\n d",
+      "questionHtml": "<p style=\"margin-top: 0.288px; margin-bottom: 0.480px\">\n <span style=\"color: #111827\">What is printed?</span></p>\n <p style=\"margin-top: 0.288px; margin-bottom: 0.96px\"><span style=\"color: #111827\"><span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\">Integer\n n, d</span></span></span></p>\n <p style=\"margin-top: 0.96px; margin-bottom: 0.96px\"><span style=\"color: #111827\"><span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\">Set\n n = 48, d = 0</span></span></span></p>\n <p style=\"margin-top: 0.96px; margin-bottom: 0.96px\"><span style=\"color: #111827\"><span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\">while\n n &gt; 1 do</span></span></span></p>\n <p style=\"margin-top: 0.96px; margin-bottom: 0.96px\"><span style=\"color: #111827\">\n    <span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\">n\n = n / 2</span></span></span></p>\n <p style=\"margin-top: 0.96px; margin-bottom: 0.96px\"><span style=\"color: #111827\">\n    <span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\">d\n = d + 1</span></span></span></p>\n <p style=\"margin-top: 0.96px; margin-bottom: 0.96px\"><span style=\"color: #111827\"><span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\">end\n while</span></span></span></p>\n <p style=\"margin-top: 0.96px\"><span style=\"color: #111827\"><span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\">Print\n d</span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "3",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">3</span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "4",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">4</span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "5",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">5</span></p>"
+        },
+        {
+          "option": "D",
+          "text": "6",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">6</span></p>\n "
+        }
+      ],
+      "correctAnswer": "C",
+      "solutionText": "48→24→12→6→3→1.\n That is five divisions. d = 5. (Integer division: 3/2=1.)",
+      "solutionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">48→24→12→6→3→1.\n That is five divisions. d = 5. (Integer division: 3/2=1.)</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 47,
+      "section": "Pseudo Code",
+      "questionId": "6ab15cb351951a4c6c456a58",
+      "questionText": "What is printed? \n\n Integer\n A[5] = {2, 4, 6, 8, 10} \n\n Integer\n i, s \n\n Set\n s = 0 \n\n for\n i = 0 to 4 do \n\n if\n A[i] % 4 == 0 then s = s + A[i] \n\n end\n for \n\n Print\n s",
+      "questionHtml": "<p style=\"margin-top: 0.288px; margin-bottom: 0.480px\">\n <span style=\"color: #111827\">What is printed?</span></p>\n <p style=\"margin-top: 0.288px; margin-bottom: 0.96px\"><span style=\"color: #111827\"><span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\">Integer\n A[5] = {2, 4, 6, 8, 10}</span></span></span></p>\n <p style=\"margin-top: 0.96px; margin-bottom: 0.96px\"><span style=\"color: #111827\"><span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\">Integer\n i, s</span></span></span></p>\n <p style=\"margin-top: 0.96px; margin-bottom: 0.96px\"><span style=\"color: #111827\"><span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\">Set\n s = 0</span></span></span></p>\n <p style=\"margin-top: 0.96px; margin-bottom: 0.96px\"><span style=\"color: #111827\"><span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\">for\n i = 0 to 4 do</span></span></span></p>\n <p style=\"margin-top: 0.96px; margin-bottom: 0.96px\"><span style=\"color: #111827\">\n    <span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\">if\n A[i] % 4 == 0 then s = s + A[i]</span></span></span></p>\n <p style=\"margin-top: 0.96px; margin-bottom: 0.96px\"><span style=\"color: #111827\"><span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\">end\n for</span></span></span></p>\n <p style=\"margin-top: 0.96px\"><span style=\"color: #111827\"><span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\">Print\n s</span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "12",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">12</span></p>"
+        },
+        {
+          "option": "B",
+          "text": "18",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">18</span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "24",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">24</span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "30",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">30</span></p>\n "
+        }
+      ],
+      "correctAnswer": "A",
+      "solutionText": "Values divisible by 4 are 4 and 8. s = 4 + 8\n = 12.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Values divisible by 4 are 4 and 8. s = 4 + 8\n = 12.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 48,
+      "section": "Pseudo Code",
+      "questionId": "6ab15cb351951a7c25456a62",
+      "questionText": "What is printed? \n\n Integer\n x \n\n Set\n x = 10 \n\n Print\n x & 3",
+      "questionHtml": "<p style=\"margin-top: 0.288px; margin-bottom: 0.480px\">\n <span style=\"color: #111827\">What is printed?</span></p>\n <p style=\"margin-top: 0.288px; margin-bottom: 0.96px\"><span style=\"color: #111827\"><span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\">Integer\n x</span></span></span></p>\n <p style=\"margin-top: 0.96px; margin-bottom: 0.96px\"><span style=\"color: #111827\"><span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\">Set\n x = 10</span></span></span></p>\n <p style=\"margin-top: 0.96px\"><span style=\"color: #111827\"><span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\">Print\n x &amp; 3</span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "1",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">1</span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "2",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">2</span></p>"
+        },
+        {
+          "option": "C",
+          "text": "3",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">3</span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "8",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">8</span></p>\n "
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "10 is 1010 and 3 is 0011. AND is 0010, which\n is 2.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">10 is 1010 and 3 is 0011. AND is 0010, which\n is 2.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 49,
+      "section": "Pseudo Code",
+      "questionId": "6ab15cb351951ab729456a6c",
+      "questionText": "What is printed? \n\n Stack\n S \n\n push(S,\n 1) \n\n push(S,\n 4) \n\n push(S,\n 9) \n\n pop(S) \n\n pop(S) \n\n Print\n peek(S)",
+      "questionHtml": "<p style=\"margin-top: 0.288px; margin-bottom: 0.480px\">\n <span style=\"color: #111827\">What is printed?</span></p>\n <p style=\"margin-top: 0.288px; margin-bottom: 0.96px\"><span style=\"color: #111827\"><span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\">Stack\n S</span></span></span></p>\n <p style=\"margin-top: 0.96px; margin-bottom: 0.96px\"><span style=\"color: #111827\"><span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\">push(S,\n 1)</span></span></span></p>\n <p style=\"margin-top: 0.96px; margin-bottom: 0.96px\"><span style=\"color: #111827\"><span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\">push(S,\n 4)</span></span></span></p>\n <p style=\"margin-top: 0.96px; margin-bottom: 0.96px\"><span style=\"color: #111827\"><span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\">push(S,\n 9)</span></span></span></p>\n <p style=\"margin-top: 0.96px; margin-bottom: 0.96px\"><span style=\"color: #111827\"><span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\">pop(S)</span></span></span></p>\n <p style=\"margin-top: 0.96px; margin-bottom: 0.96px\"><span style=\"color: #111827\"><span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\">pop(S)</span></span></span></p>\n <p style=\"margin-top: 0.96px\"><span style=\"color: #111827\"><span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\">Print\n peek(S)</span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "1",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">1</span></p>"
+        },
+        {
+          "option": "B",
+          "text": "4",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">4</span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "9",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">9</span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "Empty",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Empty</span></p>\n "
+        }
+      ],
+      "correctAnswer": "A",
+      "solutionText": "After three pushes the top is 9. Two pops\n remove 9 then 4. peek returns 1.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">After three pushes the top is 9. Two pops\n remove 9 then 4. peek returns 1.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 50,
+      "section": "Pseudo Code",
+      "questionId": "6ab15cb351951ad12a456a5d",
+      "questionText": "What does G(4) return? \n\n Function\n G(n) \n\n if\n n <= 1 then return 1 \n\n return\n n * G(n - 1) \n\n End\n Function \n\n Print\n G(4)",
+      "questionHtml": "<p style=\"margin-top: 0.288px; margin-bottom: 0.480px\">\n <span style=\"color: #111827\">What does G(4) return?</span></p>\n <p style=\"margin-top: 0.288px; margin-bottom: 0.96px\"><span style=\"color: #111827\"><span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\">Function\n G(n)</span></span></span></p>\n <p style=\"margin-top: 0.96px; margin-bottom: 0.96px\"><span style=\"color: #111827\">\n    <span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\">if\n n &lt;= 1 then return 1</span></span></span></p>\n <p style=\"margin-top: 0.96px; margin-bottom: 0.96px\"><span style=\"color: #111827\">\n    <span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\">return\n n * G(n - 1)</span></span></span></p>\n <p style=\"margin-top: 0.96px; margin-bottom: 0.96px\"><span style=\"color: #111827\"><span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\">End\n Function</span></span></span></p>\n <p style=\"margin-top: 0.96px\"><span style=\"color: #111827\"><span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\">Print\n G(4)</span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "10",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">10</span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "16",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">16</span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "24",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">24</span></p>"
+        },
+        {
+          "option": "D",
+          "text": "64",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">64</span></p>\n "
+        }
+      ],
+      "correctAnswer": "C",
+      "solutionText": "G is factorial. G(4)=4×3×2×1=24.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">G is factorial. G(4)=4×3×2×1=24.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 51,
+      "section": "Numerical Puzzles",
+      "questionId": "6ab15dfad57fc8559035ead8",
+      "questionText": "In each wheel the centre equals the sum of an opposite pair. Find the missing centre. \n\n Wheel A \n\n 5 \n\n 4 \n\n 9 \n\n 5 \n\n 4 \n\n Wheel B \n\n 7 \n\n 2 \n\n ? \n\n 6 \n\n 3",
+      "questionHtml": "<p style=\"margin-top: 0.288px; margin-bottom: 0.480px;\"><span style=\"color: #111827;\">In each wheel the centre equals the sum of an opposite pair. Find the missing centre.</span></p>\n<p style=\"margin-top: 0.288px; margin-bottom: 0.192px;\"><span style=\"color: #4b5563;\"><span style=\"font-size: 12px;\"><em>Wheel A</em></span></span></p>\n<table class=\"MsoNormalTable\" style=\"width: 102pt; border-collapse: collapse; border: none; mso-border-alt: solid windowtext .5pt; mso-padding-alt: 0cm .5pt 0cm .5pt; mso-border-insideh: .5pt solid windowtext; mso-border-insidev: .5pt solid windowtext;\" border=\"1\" width=\"102pt\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr style=\"mso-yfti-irow: 0; mso-yfti-firstrow: yes; page-break-inside: avoid;\">\n<td style=\"width: 34pt; border: 1pt white; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.3pt 1.5pt;\" width=\"45\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .6pt 0cm .6pt 0cm;\"><span style=\"font-size: 10.0pt; color: #111827;\">&nbsp;</span><o:p></o:p></p>\n</td>\n<td style=\"width: 34pt; border-width: 1pt 1pt 1pt medium; border-style: inset; border-color: #4b5563 #4b5563 #4b5563 currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.3pt 1.5pt;\" width=\"45\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .6pt 0cm .6pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #111827;\">5</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 34pt; border-width: 1pt 1pt 1pt medium; border-style: none; border-color: white white white currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.3pt 1.5pt;\" width=\"45\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .6pt 0cm .6pt 0cm;\"><span style=\"font-size: 10.0pt; color: #111827;\">&nbsp;</span><o:p></o:p></p>\n</td>\n</tr>\n<tr style=\"mso-yfti-irow: 1; page-break-inside: avoid;\">\n<td style=\"width: 34pt; border-width: medium 1pt 1pt; border-color: currentcolor #4b5563 #4b5563; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.3pt 1.5pt;\" scope=\"col\" width=\"45\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .6pt 0cm .6pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #111827;\">4</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 34pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: currentcolor #4b5563 #4b5563 currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.3pt 1.5pt;\" width=\"45\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .6pt 0cm .6pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #111827;\">9</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 34pt; border-width: medium 1pt 1pt medium; border-color: currentcolor #4b5563 #4b5563 currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.3pt 1.5pt;\" scope=\"col\" width=\"45\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .6pt 0cm .6pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #111827;\">5</span></strong><o:p></o:p></p>\n</td>\n</tr>\n<tr style=\"mso-yfti-irow: 2; mso-yfti-lastrow: yes; page-break-inside: avoid;\">\n<td style=\"width: 34pt; border-width: medium 1pt 1pt; border-style: none; border-color: currentcolor white white; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.3pt 1.5pt;\" width=\"45\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .6pt 0cm .6pt 0cm;\"><span style=\"font-size: 10.0pt; color: #111827;\">&nbsp;</span><o:p></o:p></p>\n</td>\n<td style=\"width: 34pt; border-width: medium 1pt 1pt medium; border-color: currentcolor #4b5563 #4b5563 currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.3pt 1.5pt;\" scope=\"col\" width=\"45\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .6pt 0cm .6pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #111827;\">4</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 34pt; border-bottom: 1pt white; border-right: 1pt white; border-top-style: none; border-left-style: none; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.3pt 1.5pt;\" width=\"45\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .6pt 0cm .6pt 0cm;\"><span style=\"font-size: 10.0pt; color: #111827;\">&nbsp;</span><o:p></o:p></p>\n</td>\n</tr>\n</tbody>\n</table>\n<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 115%;\"><em style=\"color: #4b5563; font-size: 12px;\">Wheel B</em></p>\n<table class=\"MsoNormalTable\" style=\"width: 102.0pt; border-collapse: collapse; border: none; mso-border-alt: solid windowtext .5pt; mso-padding-alt: 0cm .5pt 0cm .5pt; mso-border-insideh: .5pt solid windowtext; mso-border-insidev: .5pt solid windowtext;\" border=\"1\" width=\"136\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr style=\"mso-yfti-irow: 0; mso-yfti-firstrow: yes; page-break-inside: avoid;\">\n<td style=\"width: 34pt; border: 1pt white; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.3pt 1.5pt;\" width=\"45\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .6pt 0cm .6pt 0cm;\"><span style=\"font-size: 10.0pt; color: #111827;\">&nbsp;</span><o:p></o:p></p>\n</td>\n<th style=\"width: 34pt; border-width: 1pt 1pt 1pt medium; border-color: #4b5563 #4b5563 #4b5563 currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.3pt 1.5pt;\" width=\"45\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .6pt 0cm .6pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #111827;\">7</span></strong><o:p></o:p></p>\n</th>\n<td style=\"width: 34pt; border-width: 1pt 1pt 1pt medium; border-style: none; border-color: white white white currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.3pt 1.5pt;\" width=\"45\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .6pt 0cm .6pt 0cm;\"><span style=\"font-size: 10.0pt; color: #111827;\">&nbsp;</span><o:p></o:p></p>\n</td>\n</tr>\n<tr style=\"mso-yfti-irow: 1; page-break-inside: avoid;\">\n<td style=\"width: 34pt; border-width: medium 1pt 1pt; border-color: currentcolor #4b5563 #4b5563; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.3pt 1.5pt;\" scope=\"row\" width=\"45\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .6pt 0cm .6pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #111827;\">2</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 34.0pt; border-top: none; border-left: none; border-bottom: solid #4B5563 1.0pt; border-right: solid #4B5563 1.0pt; mso-border-top-alt: solid #4B5563 1.0pt; mso-border-left-alt: solid #4B5563 1.0pt; background: #FEF3C7; padding: 2.3pt 1.5pt 2.3pt 1.5pt;\" width=\"45\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .6pt 0cm .6pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #b45309;\">?</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 34pt; border-width: medium 1pt 1pt medium; border-color: currentcolor #4b5563 #4b5563 currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.3pt 1.5pt;\" scope=\"col\" width=\"45\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .6pt 0cm .6pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #111827;\">6</span></strong><o:p></o:p></p>\n</td>\n</tr>\n<tr style=\"mso-yfti-irow: 2; mso-yfti-lastrow: yes; page-break-inside: avoid;\">\n<td style=\"width: 34pt; border-width: medium 1pt 1pt; border-style: none; border-color: currentcolor white white; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.3pt 1.5pt;\" width=\"45\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .6pt 0cm .6pt 0cm;\"><span style=\"font-size: 10.0pt; color: #111827;\">&nbsp;</span><o:p></o:p></p>\n</td>\n<td style=\"width: 34pt; border-width: medium 1pt 1pt medium; border-color: currentcolor #4b5563 #4b5563 currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.3pt 1.5pt;\" scope=\"row\" width=\"45\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .6pt 0cm .6pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #111827;\">3</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 34pt; border-bottom: 1pt white; border-right: 1pt white; border-top-style: none; border-left-style: none; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.3pt 1.5pt;\" width=\"45\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .6pt 0cm .6pt 0cm;\"><span style=\"font-size: 10.0pt; color: #111827;\">&nbsp;</span><o:p></o:p></p>\n</td>\n</tr>\n</tbody>\n</table>",
+      "options": [
+        {
+          "option": "A",
+          "text": "8",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 115%\">\n <span style=\"color: #111827\">8</span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "9",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 115%;\"><span style=\"color: #111827;\">9</span></p>"
+        },
+        {
+          "option": "C",
+          "text": "10",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 115%\">\n <span style=\"color: #111827\">10</span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "12",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 115%\">\n <span style=\"color: #111827\">12</span></p>\n "
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "Wheel A: 5+4=9 and 4+5=9. Wheel B: 7+2=9 and\n 6+3=9. The missing centre is 9.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 115%\">\n <span style=\"color: #111827\">Wheel A: 5+4=9 and 4+5=9. Wheel B: 7+2=9 and\n 6+3=9. The missing centre is 9.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 52,
+      "section": "Numerical Puzzles",
+      "questionId": "6ab15dfad57fc8299d35eae2",
+      "questionText": "Find the next number: 4, 9, 19, 39, 79, ? \n\n 4 \n\n 9 \n\n 19 \n\n 39 \n\n 79 \n\n ?",
+      "questionHtml": "<p style=\"margin-top: 0.288px; margin-bottom: 0.480px;\"><span style=\"color: #111827;\">Find the next number: 4, 9, 19, 39, 79, ?</span></p>\n<table class=\"MsoNormalTable\" style=\"width: 216.0pt; border-collapse: collapse; border: none; mso-border-alt: solid windowtext .5pt; mso-padding-alt: 0cm .5pt 0cm .5pt; mso-border-insideh: .5pt solid windowtext; mso-border-insidev: .5pt solid windowtext;\" border=\"1\" width=\"288\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr style=\"mso-yfti-irow: 0; mso-yfti-firstrow: yes; mso-yfti-lastrow: yes; page-break-inside: avoid;\">\n<td style=\"width: 36pt; border: 1pt solid #4b5563; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 2pt;\" width=\"48\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #111827;\">4</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 36pt; border-width: 1pt 1pt 1pt medium; border-style: solid solid solid none; border-color: #4b5563 #4b5563 #4b5563 currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 2pt;\" width=\"48\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #111827;\">9</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 36pt; border-width: 1pt 1pt 1pt medium; border-style: solid solid solid none; border-color: #4b5563 #4b5563 #4b5563 currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 2pt;\" width=\"48\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #111827;\">19</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 36pt; border-width: 1pt 1pt 1pt medium; border-style: solid solid solid none; border-color: #4b5563 #4b5563 #4b5563 currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 2pt;\" width=\"48\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #111827;\">39</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 36pt; border-width: 1pt 1pt 1pt medium; border-style: solid solid solid none; border-color: #4b5563 #4b5563 #4b5563 currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 2pt;\" width=\"48\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #111827;\">79</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 36.0pt; border: solid #4B5563 1.0pt; border-left: none; mso-border-left-alt: solid #4B5563 1.0pt; background: #FEF3C7; padding: 2.5pt 2.0pt 2.5pt 2.0pt;\" width=\"48\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #b45309;\">?</span></strong><o:p></o:p></p>\n</td>\n</tr>\n</tbody>\n</table>\n<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 115%;\"></p>",
+      "options": [
+        {
+          "option": "A",
+          "text": "149",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 115%\">\n <span style=\"color: #111827\">149</span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "157",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 115%\">\n <span style=\"color: #111827\">157</span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "159",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 115%;\"><span style=\"color: #111827;\">159</span></p>"
+        },
+        {
+          "option": "D",
+          "text": "169",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 115%\">\n <span style=\"color: #111827\">169</span></p>\n "
+        }
+      ],
+      "correctAnswer": "C",
+      "solutionText": "Each term = previous × 2 + 1: 4×2+1=9,\n 9×2+1=19, 19×2+1=39, 39×2+1=79, 79×2+1=159.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 115%\">\n <span style=\"color: #111827\">Each term = previous × 2 + 1: 4×2+1=9,\n 9×2+1=19, 19×2+1=39, 39×2+1=79, 79×2+1=159.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 53,
+      "section": "Numerical Puzzles",
+      "questionId": "6ab15dfad57fc86d7535eadd",
+      "questionText": "Find the missing number. \n\n 2 \n\n 3 \n\n 8 \n\n 3 \n\n 4 \n\n 15 \n\n 4 \n\n 5 \n\n ?",
+      "questionHtml": "<p style=\"margin-top: 0.288px; margin-bottom: 0.480px;\"><span style=\"color: #111827;\">Find the missing number.</span></p>\n<table class=\"MsoNormalTable\" style=\"width: 117.0pt; border-collapse: collapse; border: none; mso-border-alt: solid windowtext .5pt; mso-padding-alt: 0cm .5pt 0cm .5pt; mso-border-insideh: .5pt solid windowtext; mso-border-insidev: .5pt solid windowtext;\" border=\"1\" width=\"156\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr style=\"mso-yfti-irow: 0; mso-yfti-firstrow: yes; page-break-inside: avoid;\">\n<td style=\"width: 39pt; border: 1pt solid #4b5563; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 2pt;\" width=\"52\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #111827;\">2</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 39pt; border-width: 1pt 1pt 1pt medium; border-style: solid solid solid none; border-color: #4b5563 #4b5563 #4b5563 currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 2pt;\" width=\"52\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #111827;\">3</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 39pt; border-width: 1pt 1pt 1pt medium; border-style: solid solid solid none; border-color: #4b5563 #4b5563 #4b5563 currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 2pt;\" width=\"52\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #111827;\">8</span></strong><o:p></o:p></p>\n</td>\n</tr>\n<tr style=\"mso-yfti-irow: 1; page-break-inside: avoid;\">\n<td style=\"width: 39pt; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: currentcolor #4b5563 #4b5563; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 2pt;\" width=\"52\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #111827;\">3</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 39pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: currentcolor #4b5563 #4b5563 currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 2pt;\" width=\"52\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #111827;\">4</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 39pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: currentcolor #4b5563 #4b5563 currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 2pt;\" width=\"52\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #111827;\">15</span></strong><o:p></o:p></p>\n</td>\n</tr>\n<tr style=\"mso-yfti-irow: 2; mso-yfti-lastrow: yes; page-break-inside: avoid;\">\n<td style=\"width: 39pt; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: currentcolor #4b5563 #4b5563; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 2pt;\" width=\"52\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #111827;\">4</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 39pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: currentcolor #4b5563 #4b5563 currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 2pt;\" width=\"52\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #111827;\">5</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 39.0pt; border-top: none; border-left: none; border-bottom: solid #4B5563 1.0pt; border-right: solid #4B5563 1.0pt; mso-border-top-alt: solid #4B5563 1.0pt; mso-border-left-alt: solid #4B5563 1.0pt; background: #FEF3C7; padding: 2.5pt 2.0pt 2.5pt 2.0pt;\" width=\"52\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #b45309;\">?</span></strong><o:p></o:p></p>\n</td>\n</tr>\n</tbody>\n</table>\n<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 115%;\"></p>",
+      "options": [
+        {
+          "option": "A",
+          "text": "22",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 115%\">\n <span style=\"color: #111827\">22</span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "24",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 115%;\"><span style=\"color: #111827;\">24</span></p>"
+        },
+        {
+          "option": "C",
+          "text": "26",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 115%\">\n <span style=\"color: #111827\">26</span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "30",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 115%\">\n <span style=\"color: #111827\">30</span></p>\n "
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "Third = first × second + 2, then +3,\n then +4: 2×3+2=8, 3×4+3=15, 4×5+4=24.\n Equivalently first × (second + 1).",
+      "solutionHtml": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 115%\">\n <span style=\"color: #111827\">Third = first × second + 2, then +3,\n then +4: 2×3+2=8, 3×4+3=15, 4×5+4=24.\n Equivalently first × (second + 1).</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 54,
+      "section": "Numerical Puzzles",
+      "questionId": "6ab15dfad57fc8239c35eae7",
+      "questionText": "Find the missing number. \n\n 11 \n\n 6 \n\n 5 \n\n 17 \n\n 8 \n\n 9 \n\n 23 \n\n 9 \n\n ?",
+      "questionHtml": "<p style=\"margin-top: 0.288px; margin-bottom: 0.480px;\"><span style=\"color: #111827;\">Find the missing number.</span></p>\n<table class=\"MsoNormalTable\" style=\"width: 117.0pt; border-collapse: collapse; border: none; mso-border-alt: solid windowtext .5pt; mso-padding-alt: 0cm .5pt 0cm .5pt; mso-border-insideh: .5pt solid windowtext; mso-border-insidev: .5pt solid windowtext;\" border=\"1\" width=\"156\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr style=\"mso-yfti-irow: 0; mso-yfti-firstrow: yes; page-break-inside: avoid;\">\n<td style=\"width: 39pt; border: 1pt solid #4b5563; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 2pt;\" width=\"52\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #111827;\">11</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 39pt; border-width: 1pt 1pt 1pt medium; border-style: solid solid solid none; border-color: #4b5563 #4b5563 #4b5563 currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 2pt;\" width=\"52\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #111827;\">6</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 39pt; border-width: 1pt 1pt 1pt medium; border-style: solid solid solid none; border-color: #4b5563 #4b5563 #4b5563 currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 2pt;\" width=\"52\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #111827;\">5</span></strong><o:p></o:p></p>\n</td>\n</tr>\n<tr style=\"mso-yfti-irow: 1; page-break-inside: avoid;\">\n<td style=\"width: 39pt; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: currentcolor #4b5563 #4b5563; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 2pt;\" width=\"52\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #111827;\">17</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 39pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: currentcolor #4b5563 #4b5563 currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 2pt;\" width=\"52\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #111827;\">8</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 39pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: currentcolor #4b5563 #4b5563 currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 2pt;\" width=\"52\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #111827;\">9</span></strong><o:p></o:p></p>\n</td>\n</tr>\n<tr style=\"mso-yfti-irow: 2; mso-yfti-lastrow: yes; page-break-inside: avoid;\">\n<td style=\"width: 39pt; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: currentcolor #4b5563 #4b5563; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 2pt;\" width=\"52\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #111827;\">23</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 39pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: currentcolor #4b5563 #4b5563 currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 2pt;\" width=\"52\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #111827;\">9</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 39.0pt; border-top: none; border-left: none; border-bottom: solid #4B5563 1.0pt; border-right: solid #4B5563 1.0pt; mso-border-top-alt: solid #4B5563 1.0pt; mso-border-left-alt: solid #4B5563 1.0pt; background: #FEF3C7; padding: 2.5pt 2.0pt 2.5pt 2.0pt;\" width=\"52\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #b45309;\">?</span></strong><o:p></o:p></p>\n</td>\n</tr>\n</tbody>\n</table>\n<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 115%;\"></p>",
+      "options": [
+        {
+          "option": "A",
+          "text": "14",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 115%;\"><span style=\"color: #111827;\">14</span></p>"
+        },
+        {
+          "option": "B",
+          "text": "13",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 115%\">\n <span style=\"color: #111827\">13</span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "12",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 115%\">\n <span style=\"color: #111827\">12</span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "10",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 115%\">\n <span style=\"color: #111827\">10</span></p>\n "
+        }
+      ],
+      "correctAnswer": "A",
+      "solutionText": "Third = first − second: 11−6=5,\n 17−8=9, 23−9=14.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 115%\">\n <span style=\"color: #111827\">Third = first − second: 11−6=5,\n 17−8=9, 23−9=14.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 55,
+      "section": "English Grammar",
+      "questionId": "6ab15d394dc9ef9d1ead06e4",
+      "questionText": "Identify the error: Ten kilometres are a\n long walk in this heat.",
+      "questionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Identify the error: Ten kilometres are a\n long walk in this heat.</span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "Ten kilometres",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Ten kilometres</span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "are a long walk",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">are a long walk</span></p>"
+        },
+        {
+          "option": "C",
+          "text": "in this heat",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">in this heat</span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "No error",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">No error</span></p>\n "
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "A distance taken as a single measure is\n singular: “Ten kilometres is a long walk.”",
+      "solutionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">A distance taken as a single measure is\n singular: “Ten kilometres is a long walk.”</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 56,
+      "section": "English Grammar",
+      "questionId": "6ab15d394dc9ef6466ad06d5",
+      "questionText": "When we reached the hall, the talk _____\n already.",
+      "questionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">When we reached the hall, the talk _____\n already.</span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "starts",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">starts</span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "has started",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">has started</span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "had started",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">had started</span></p>"
+        },
+        {
+          "option": "D",
+          "text": "will start",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">will start</span></p>\n "
+        }
+      ],
+      "correctAnswer": "C",
+      "solutionText": "Two past events: the earlier one takes past\n perfect. The talk had started before we reached.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Two past events: the earlier one takes past\n perfect. The talk had started before we reached.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 57,
+      "section": "English Grammar",
+      "questionId": "6ab15d394dc9eff2b2ad06df",
+      "questionText": "Identify the error: She has been working\n here since three years.",
+      "questionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Identify the error: She has been working\n here since three years.</span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "She has been working",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">She has been working</span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "since three years",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">since three years</span></p>"
+        },
+        {
+          "option": "C",
+          "text": "here",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">here</span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "No error",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">No error</span></p>\n "
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "“Since” takes a point in time. A\n period takes “for”: for three years.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">“Since” takes a point in time. A\n period takes “for”: for three years.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 58,
+      "section": "English Grammar",
+      "questionId": "6ab15d394dc9ef6dddad06d0",
+      "questionText": "The pair of shoes _____ on the rack.",
+      "questionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">The pair of shoes _____ on the rack.</span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "are",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">are</span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "is",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">is</span></p>"
+        },
+        {
+          "option": "C",
+          "text": "were",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">were</span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "have",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">have</span></p>\n "
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "The subject is “pair”\n (singular), so the verb is “is.”",
+      "solutionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">The subject is “pair”\n (singular), so the verb is “is.”</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 59,
+      "section": "English Grammar",
+      "questionId": "6ab15d394dc9efaa4fad06da",
+      "questionText": "He divided the tasks _____ the three\n interns.",
+      "questionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">He divided the tasks _____ the three\n interns.</span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "between",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">between</span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "among",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">among</span></p>"
+        },
+        {
+          "option": "C",
+          "text": "with",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">with</span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "into",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">into</span></p>\n "
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "Use “among” for more than two\n people. “Between” is for two.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Use “among” for more than two\n people. “Between” is for two.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 60,
+      "section": "Essay Writting",
+      "questionId": "6ab15647d57fc8713635e5a8",
+      "questionText": "The Importance of Time Management in Student Life\n\n![Figure](Infosys Full Length Mock Test- 3_figures/fig_1_619c4fad.jpeg)",
+      "questionHtml": "<p>The Importance of Time Management in Student Life <img id=\"3\" src=\"https://cdn-wl-assets.classplus.co/production/single/vlvkc/04254bd5-3730-4db2-9fba-adc9289f1cf9.jpeg\" /></p>",
+      "options": [
+        {
+          "option": "A",
+          "text": "",
+          "isCorrect": true,
+          "rawHtml": ""
+        }
+      ],
+      "correctAnswer": "A",
+      "solutionText": "Time management is an essential skill that helps students achieve their academic and personal goals. It means planning and organizing time effectively to complete different tasks. In today's competitive world, good time management is important for success in education and professional life.\n\n Students often have to manage studies, assignments, examinations, and personal activities. Creating a daily timetable helps them prioritize important tasks and avoid unnecessary stress. Proper time management also improves concentration, productivity, and self-discipline.\n\n One of the major benefits of time management is that it helps students complete their work on time. It also provides enough time for revision, skill development, and relaxation. Students who manage their time effectively can maintain a better balance between studies and personal life.\n\n However, time management requires consistency and dedication. Avoiding distractions such as excessive social media use can help students focus on their goals.\n\n In conclusion, time management is a key factor in student success. By developing good time management habits, students can improve their performance, reduce stress, and prepare themselves for a successful future.",
+      "solutionHtml": "<div class=\"z-0 flex min-h-[46px] justify-start\"></div>\n<div class=\"flex max-w-full flex-col gap-4 grow\">\n<div data-message-id=\"e13b9c4f-1b9b-4427-b91b-bc889c992037\" data-message-author-role=\"assistant\">\n<div>\n<div class=\"puik-root not-prose not-markdown\" data-dil-widget-copy-target=\"\" data-theme=\"light\">\n<div class=\"fv0XaG_DilRenderer fv0XaG_DilResponseRoot J4E5kq_LegacyReveal dil-first-visible-layout w-full max-w-full\" data-d-direction=\"col\">\n<p class=\"w6asjq_TextBase _85PZeG_Text PDq2pG_selectionAnchorContainer\" data-d-component=\"text\">Time management is an essential skill that helps students achieve their academic and personal goals. It means planning and organizing time effectively to complete different tasks. In today's competitive world, good time management is important for success in education and professional life.</p>\n<p class=\"w6asjq_TextBase _85PZeG_Text PDq2pG_selectionAnchorContainer\" data-d-component=\"text\"></p>\n<p class=\"w6asjq_TextBase _85PZeG_Text\" data-d-component=\"text\">Students often have to manage studies, assignments, examinations, and personal activities. Creating a daily timetable helps them prioritize important tasks and avoid unnecessary stress. Proper time management also improves concentration, productivity, and self-discipline.</p>\n<p class=\"w6asjq_TextBase _85PZeG_Text\" data-d-component=\"text\"></p>\n<p class=\"w6asjq_TextBase _85PZeG_Text\" data-d-component=\"text\">One of the major benefits of time management is that it helps students complete their work on time. It also provides enough time for revision, skill development, and relaxation. Students who manage their time effectively can maintain a better balance between studies and personal life.</p>\n<p class=\"w6asjq_TextBase _85PZeG_Text\" data-d-component=\"text\"></p>\n<p class=\"w6asjq_TextBase _85PZeG_Text\" data-d-component=\"text\">However, time management requires consistency and dedication. Avoiding distractions such as excessive social media use can help students focus on their goals.</p>\n<p class=\"w6asjq_TextBase _85PZeG_Text\" data-d-component=\"text\"></p>\n<p class=\"w6asjq_TextBase _85PZeG_Text\" data-d-component=\"text\">In conclusion, time management is a key factor in student success. By developing good time management habits, students can improve their performance, reduce stress, and prepare themselves for a successful future.</p>\n</div>\n</div>\n</div>\n</div>\n</div>",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": [
+        "Infosys Full Length Mock Test- 3_figures/fig_1_619c4fad.jpeg"
+      ]
+    }
+  ]
+}

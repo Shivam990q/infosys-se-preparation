@@ -1,0 +1,2333 @@
+{
+  "testName": "Infosys Full Length Mock Test- 4",
+  "testId": "6ab26f53804ce2234b391010",
+  "contentId": 32597295,
+  "totalQuestions": 60,
+  "totalFigures": 1,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "section": "Reasoning",
+      "questionId": "6ab26fbfe5b34505714467fe",
+      "questionText": "Statement: “Keep a paper copy of your\n boarding pass.” Which assumption is implicit?",
+      "questionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Statement: “Keep a paper copy of your\n boarding pass.” Which assumption is implicit?</span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "Phones never work at airports.",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Phones never work at airports.</span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "The phone or app copy might fail when needed.",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">The phone or app copy might fail when needed.</span></p>"
+        },
+        {
+          "option": "C",
+          "text": "Airlines have banned digital passes.",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Airlines have banned digital passes.</span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "Paper is cheaper than data.",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Paper is cheaper than data.</span></p>\n "
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "A paper copy is advised only if a digital\n copy might not be available when needed.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">A paper copy is advised only if a digital\n copy might not be available when needed.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 2,
+      "section": "Reasoning",
+      "questionId": "6ab26fbfe5b34522a14467ef",
+      "questionText": "Needle : Thread :: Pen : ?",
+      "questionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Needle : Thread :: Pen : ?</span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "Paper",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Paper</span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "Ink",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">Ink</span></p>"
+        },
+        {
+          "option": "C",
+          "text": "Eraser",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Eraser</span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "Desk",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Desk</span></p>\n "
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "A needle works with thread; a pen works with\n ink.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">A needle works with thread; a pen works with\n ink.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 3,
+      "section": "Reasoning",
+      "questionId": "6ab26fbfe5b345c4e74467db",
+      "questionText": "Ravi is 8th from the top and 15th from the\n bottom in a class. How many students are there?",
+      "questionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Ravi is 8th from the top and 15th from the\n bottom in a class. How many students are there?</span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "21",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">21</span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "22",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">22</span></p>"
+        },
+        {
+          "option": "C",
+          "text": "23",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">23</span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "24",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">24</span></p>\n "
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "Total = position from top + position from\n bottom − 1 = 8 + 15 − 1 = 22.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Total = position from top + position from\n bottom − 1 = 8 + 15 − 1 = 22.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 4,
+      "section": "Reasoning",
+      "questionId": "6ab26fbfe5b34561894467cc",
+      "questionText": "A is the brother of B. B is the daughter of\n C. C is the wife of D. How is A related to D?",
+      "questionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">A is the brother of B. B is the daughter of\n C. C is the wife of D. How is A related to D?</span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "Son",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">Son</span></p>"
+        },
+        {
+          "option": "B",
+          "text": "Brother",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Brother</span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "Uncle",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Uncle</span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "Cousin",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Cousin</span></p>\n "
+        }
+      ],
+      "correctAnswer": "A",
+      "solutionText": "C is B’s mother and D’s wife, so\n D is the father of B. A is B’s brother, therefore A is D’s\n son.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">C is B’s mother and D’s wife, so\n D is the father of B. A is B’s brother, therefore A is D’s\n son.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 5,
+      "section": "Reasoning",
+      "questionId": "6ab26fbfe5b34584864467d6",
+      "questionText": "Six people sit around a circular table\n facing the centre. K sits second to the left of L. M sits opposite\n K. N sits between M and O. P sits to the immediate right of L. Who\n sits opposite P?",
+      "questionHtml": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px\">\n <span style=\"color: #111827\">Six people sit around a circular table\n facing the centre. K sits second to the left of L. M sits opposite\n K. N sits between M and O. P sits to the immediate right of L. Who\n sits opposite P?</span></p>\n <p style=\"margin-bottom: 0px\"><br>\n\n </p>\n <p style=\"margin-bottom: 0px\"><br>\n\n </p>\n <p style=\"margin-bottom: 0px\"><br>\n\n </p>\n <p style=\"margin-bottom: 0px\"><br>\n\n </p>\n <p><br>\n\n </p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "K",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">K</span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "N",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">N</span></p>"
+        },
+        {
+          "option": "C",
+          "text": "M",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">M</span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "O",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">O</span></p>\n "
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "Place L, then P immediate right of L. K is\n second left of L. M opposite K. Remaining arc fits N between M and\n O. Opposite P is N.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Place L, then P immediate right of L. K is\n second left of L. M opposite K. Remaining arc fits N between M and\n O. Opposite P is N.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 6,
+      "section": "Reasoning",
+      "questionId": "6ab26fbfe5b34517734467ea",
+      "questionText": "Find the missing term: 3, 5, 9, 17, 33, ?",
+      "questionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Find the missing term: 3, 5, 9, 17, 33, ?</span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "49",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">49</span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "65",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">65</span></p>"
+        },
+        {
+          "option": "C",
+          "text": "66",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">66</span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "67",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">67</span></p>\n "
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "Each term = previous × 2 − 1:\n 3×2−1=5, 5×2−1=9, 9×2−1=17,\n 17×2−1=33, 33×2−1=65.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Each term = previous × 2 − 1:\n 3×2−1=5, 5×2−1=9, 9×2−1=17,\n 17×2−1=33, 33×2−1=65.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 7,
+      "section": "Reasoning",
+      "questionId": "6ab26fbfe5b3452e1f446812",
+      "questionText": "If the letters of LOGIC are arranged in\n alphabetical order, which letter is in the middle?",
+      "questionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">If the letters of LOGIC are arranged in\n alphabetical order, which letter is in the middle?</span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "G",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">G</span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "I",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">I</span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "L",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">L</span></p>"
+        },
+        {
+          "option": "D",
+          "text": "O",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">O</span></p>\n "
+        }
+      ],
+      "correctAnswer": "C",
+      "solutionText": "Alphabetical: C, G, I, L, O. The middle\n letter is I.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Alphabetical: C, G, I, L, O. The middle\n letter is I.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 8,
+      "section": "Reasoning",
+      "questionId": "6ab26fbfe5b345751e44680d",
+      "questionText": "Four flats on a floor are of colours White,\n Blue, Green and Red. White is not next to Blue. Green is between\n White and Red. Red is at one end. Which colour is at the other\n end?",
+      "questionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Four flats on a floor are of colours White,\n Blue, Green and Red. White is not next to Blue. Green is between\n White and Red. Red is at one end. Which colour is at the other\n end?</span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "Green",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Green</span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "Blue",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">Blue</span></p>"
+        },
+        {
+          "option": "C",
+          "text": "White",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">White</span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "Red",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Red</span></p>\n "
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "Red at an end. Green between White and Red\n gives White–Green–Red or Red–Green–White.\n White not next to Blue, so the remaining end is Blue: Blue, White,\n Green, Red.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Red at an end. Green between White and Red\n gives White–Green–Red or Red–Green–White.\n White not next to Blue, so the remaining end is Blue: Blue, White,\n Green, Red.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 9,
+      "section": "Reasoning",
+      "questionId": "6ab26fbfe5b3451aa8446808",
+      "questionText": "Choose the odd one: Triangle, Square,\n Rectangle, Circle",
+      "questionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Choose the odd one: Triangle, Square,\n Rectangle, Circle</span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "Triangle",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Triangle</span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "Square",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Square</span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "Rectangle",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Rectangle</span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "Circle",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">Circle</span></p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solutionText": "Triangle, square and rectangle are polygons\n with straight sides. A circle is not.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Triangle, square and rectangle are polygons\n with straight sides. A circle is not.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 10,
+      "section": "Reasoning",
+      "questionId": "6ab26fbfe5b345d3fc446803",
+      "questionText": "If A ≥ B > C = D < E, which is\n true?",
+      "questionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">If A ≥ B &gt; C = D &lt; E, which is\n true?</span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "A > D",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">A &gt; D</span></p>"
+        },
+        {
+          "option": "B",
+          "text": "B < E",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">B &lt; E</span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "A = E",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">A = E</span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "C > A",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">C &gt; A</span></p>\n "
+        }
+      ],
+      "correctAnswer": "A",
+      "solutionText": "A ≥ B > C = D, so A > D. B and E\n are not directly compared.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">A ≥ B &gt; C = D, so A &gt; D. B and E\n are not directly compared.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 11,
+      "section": "Reasoning",
+      "questionId": "6ab26fbfe5b3452b364467f9",
+      "questionText": "If BASKET is coded as TEKSAB, how is FLOWER\n coded?",
+      "questionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">If BASKET is coded as TEKSAB, how is FLOWER\n coded?</span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "REWOLF",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">REWOLF</span></p>"
+        },
+        {
+          "option": "B",
+          "text": "REWOFL",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">REWOFL</span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "RWEOLF",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">RWEOLF</span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "ELWORF",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">ELWORF</span></p>\n "
+        }
+      ],
+      "correctAnswer": "A",
+      "solutionText": "The code is the word written backwards.\n FLOWER → REWOLF.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">The code is the word written backwards.\n FLOWER → REWOLF.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 12,
+      "section": "Reasoning",
+      "questionId": "6ab26fbfe5b345d3ad4467e5",
+      "questionText": "At what time between 4 and 5 o’clock\n are the hands at right angles for the first time?",
+      "questionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">At what time between 4 and 5 o’clock\n are the hands at right angles for the first time?</span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "4 : 16 4/11",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">4 : 16 4/11</span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "4 : 20",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">4 : 20</span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "4 : 5 5/11",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">4 : 5 5/11</span></p>"
+        },
+        {
+          "option": "D",
+          "text": "4 : 10",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">4 : 10</span></p>\n "
+        }
+      ],
+      "correctAnswer": "C",
+      "solutionText": "Formula: minutes = (30H ± 90)/5.5.\n First right angle after 4: (120−90)/5.5 = 30/5.5 = 60/11 = 5\n 5/11 minutes. So 4 : 5 5/11.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Formula: minutes = (30H ± 90)/5.5.\n First right angle after 4: (120−90)/5.5 = 30/5.5 = 60/11 = 5\n 5/11 minutes. So 4 : 5 5/11.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 13,
+      "section": "Reasoning",
+      "questionId": "6ab26fbfe5b345d40b4467e0",
+      "questionText": "What day of the week was 15 August 1947 if\n 15 August 2023 was a Tuesday? (Ignore that 2023 was actually\n Tuesday; use the given fact.)",
+      "questionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">What day of the week was 15 August 1947 if\n 15 August 2023 was a Tuesday? (Ignore that 2023 was actually\n Tuesday; use the given fact.)</span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "Friday",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">Friday</span></p>"
+        },
+        {
+          "option": "B",
+          "text": "Saturday",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Saturday</span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "Sunday",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Sunday</span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "Monday",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Monday</span></p>\n "
+        }
+      ],
+      "correctAnswer": "A",
+      "solutionText": "Years 1947 to 2023 = 76 years. Leap years\n among 1948–2020 inclusive: 19 leaps (1948,52,…2020 =\n 19). Odd days = 76 + 19 = 95. 95 mod 7 = 4. Tuesday minus 4 days =\n Friday. Check leaps: from 1948 to 2020 step 4: (2020-1948)/4+1=19\n yes. 76 ordinary extra +19 = 95, 13×7=91 rem 4. Tue-4=Fri.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Years 1947 to 2023 = 76 years. Leap years\n among 1948–2020 inclusive: 19 leaps (1948,52,…2020 =\n 19). Odd days = 76 + 19 = 95. 95 mod 7 = 4. Tuesday minus 4 days =\n Friday. Check leaps: from 1948 to 2020 step 4: (2020-1948)/4+1=19\n yes. 76 ordinary extra +19 = 95, 13×7=91 rem 4. Tue-4=Fri.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 14,
+      "section": "Reasoning",
+      "questionId": "6ab26fbfe5b34583404467d1",
+      "questionText": "Riya starts facing east, turns 90° left,\n walks 5 km, turns 90° right, walks 5 km, then turns 90°\n right. Which direction is she facing now?",
+      "questionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Riya starts facing east, turns 90° left,\n walks 5 km, turns 90° right, walks 5 km, then turns 90°\n right. Which direction is she facing now?</span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "North",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">North</span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "West",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">West</span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "East",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">East</span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "South",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">South</span></p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solutionText": "East, then left to north, then right to\n east, then right to south. She faces south.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">East, then left to north, then right to\n east, then right to south. She faces south.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 15,
+      "section": "Reasoning",
+      "questionId": "6ab26fbfe5b3451bca4467f4",
+      "questionText": "Statements: Some files are folders. All\n folders are archives. Conclusions: I. Some files are archives. II.\n All archives are folders.",
+      "questionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Statements: Some files are folders. All\n folders are archives. Conclusions: I. Some files are archives. II.\n All archives are folders.</span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "Only I follows",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">Only I follows</span></p>"
+        },
+        {
+          "option": "B",
+          "text": "Only II follows",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">Only II follows</span></p>"
+        },
+        {
+          "option": "C",
+          "text": "Both follow",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">Both follow</span></p>"
+        },
+        {
+          "option": "D",
+          "text": "Neither follows",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">Neither follows</span></p>"
+        }
+      ],
+      "correctAnswer": "A",
+      "solutionText": "The files that are folders are also archives, so I follows. II reverses a universal statement and does not follow.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">The files that are folders are also archives, so I follows. II reverses a universal statement and does not follow.</span></p>",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 16,
+      "section": "Aptitude (Technical Ability)",
+      "questionId": "6ab26ff96af0759ded0f0cd4",
+      "questionText": "The\n sum of ages of A and B is 40. A is 4 years older than B. B’s\n age is",
+      "questionHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">The\n sum of ages of A and B is 40. A is 4 years older than B. B’s\n age is</span></span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "16",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">16</span></span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "18",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-size: 13px;\"><span style=\"font-style: normal;\">18</span></span></span></span></p>"
+        },
+        {
+          "option": "C",
+          "text": "20",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">20</span></span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "22",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">22</span></span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "A=B+4\n and A+B=40 → 2B+4=40 → B=18.",
+      "solutionHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">A=B+4\n and A+B=40 → 2B+4=40 → B=18.</span></span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 17,
+      "section": "Aptitude (Technical Ability)",
+      "questionId": "6ab26ff96af075259f0f0cd9",
+      "questionText": "An\n article bought for ₹450 is sold at 12% loss. The selling\n price is",
+      "questionHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">An\n article bought for ₹450 is sold at 12% loss. The selling\n price is</span></span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "₹ 396",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">₹<span style=\"font-family: Calibri,serif;\"><span style=\"font-size: 13px;\"><span style=\"font-style: normal;\">396</span></span></span></span></p>"
+        },
+        {
+          "option": "B",
+          "text": "₹ 400",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">₹<span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">400</span></span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "₹ 405",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">₹<span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">405</span></span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "₹ 414",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">₹<span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">414</span></span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "A",
+      "solutionText": "SP\n = 88% of 450 = ₹396.",
+      "solutionHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">SP\n = 88% of 450 = ₹396.</span></span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 18,
+      "section": "Aptitude (Technical Ability)",
+      "questionId": "6ab26ff96af075783d0f0cbb",
+      "questionText": "Divide\n ₹1,260 in the ratio 2 : 3 : 4. The middle share is",
+      "questionHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">Divide\n ₹1,260 in the ratio 2 : 3 : 4. The middle share is</span></span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "₹ 280",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">₹<span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">280</span></span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "₹ 360",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">₹<span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">360</span></span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "₹ 420",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">₹<span style=\"font-family: Calibri,serif;\"><span style=\"font-size: 13px;\"><span style=\"font-style: normal;\">420</span></span></span></span></p>"
+        },
+        {
+          "option": "D",
+          "text": "₹ 560",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">₹<span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">560</span></span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "C",
+      "solutionText": "Parts\n = 9. One part = 140. Middle = 3×140 = ₹420.",
+      "solutionHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">Parts\n = 9. One part = 140. Middle = 3×140 = ₹420.</span></span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 19,
+      "section": "Aptitude (Technical Ability)",
+      "questionId": "6ab26ff96af0753d6d0f0cb6",
+      "questionText": "A\n shopkeeper marks goods 40% above cost and gives a 10% discount.\n His profit percent is",
+      "questionHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">A\n shopkeeper marks goods 40% above cost and gives a 10% discount.\n His profit percent is</span></span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "24%",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">24%</span></span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "26%",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-size: 13px;\"><span style=\"font-style: normal;\">26%</span></span></span></span></p>"
+        },
+        {
+          "option": "C",
+          "text": "30%",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">30%</span></span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "32%",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">32%</span></span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "Let\n CP=100. MP=140. SP=126. Profit=26%.",
+      "solutionHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">Let\n CP=100. MP=140. SP=126. Profit=26%.</span></span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 20,
+      "section": "Aptitude (Technical Ability)",
+      "questionId": "6ab26ff96af07530520f0cb1",
+      "questionText": "The\n HCF of 48 and 180 is",
+      "questionHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">The\n HCF of 48 and 180 is</span></span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "6",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">6</span></span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "8",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">8</span></span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "12",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-size: 13px;\"><span style=\"font-style: normal;\">12</span></span></span></span></p>"
+        },
+        {
+          "option": "D",
+          "text": "24",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">24</span></span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "C",
+      "solutionText": "48=2^4×3,\n 180=2^2×3^2×5. HCF = 2^2×3 = 12.",
+      "solutionHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">48=2^4×3,\n 180=2^2×3^2×5. HCF = 2^2×3 = 12.</span></span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 21,
+      "section": "Aptitude (Technical Ability)",
+      "questionId": "6ab26ff96af0757f480f0cca",
+      "questionText": "A\n car covers 240 km in 4 hours. Its speed in m/s is",
+      "questionHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">A\n car covers 240 km in 4 hours. Its speed in m/s is</span></span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "15\n m/s",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">15\n m/s</span></span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "16.67 m/s",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-size: 13px;\"><span style=\"font-style: normal;\">16.67 m/s</span></span></span></span></p>"
+        },
+        {
+          "option": "C",
+          "text": "20\n m/s",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">20\n m/s</span></span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "60\n m/s",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">60\n m/s</span></span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "Speed\n = 60 km/h = 60×5/18 = 50/3 ≈ 16.67 m/s.",
+      "solutionHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">Speed\n = 60 km/h = 60×5/18 = 50/3 ≈ 16.67 m/s.</span></span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 22,
+      "section": "Aptitude (Technical Ability)",
+      "questionId": "6ab26ff96af07563610f0cc0",
+      "questionText": "The\n average of the first five odd numbers is",
+      "questionHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">The\n average of the first five odd numbers is</span></span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "5",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-size: 13px;\"><span style=\"font-style: normal;\">5</span></span></span></span></p>"
+        },
+        {
+          "option": "B",
+          "text": "6",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">6</span></span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "7",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">7</span></span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "9",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">9</span></span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "A",
+      "solutionText": "1+3+5+7+9=25.\n Average=5.",
+      "solutionHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">1+3+5+7+9=25.\n Average=5.</span></span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 23,
+      "section": "Aptitude (Technical Ability)",
+      "questionId": "6ab26ff96af0757a540f0ccf",
+      "questionText": "12\n workers finish a wall in 8 days. How many workers finish it in 6\n days?",
+      "questionHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">12\n workers finish a wall in 8 days. How many workers finish it in 6\n days?</span></span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "14",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">14</span></span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "15",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">15</span></span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "16",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-size: 13px;\"><span style=\"font-style: normal;\">16</span></span></span></span></p>"
+        },
+        {
+          "option": "D",
+          "text": "18",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">18</span></span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "C",
+      "solutionText": "Worker-days\n = 12×8=96. Needed = 96/6=16.",
+      "solutionHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">Worker-days\n = 12×8=96. Needed = 96/6=16.</span></span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 24,
+      "section": "Aptitude (Technical Ability)",
+      "questionId": "6ab26ff96af07571350f0cc5",
+      "questionText": "₹ 2,000\n at 10% compound interest for 2 years amounts to",
+      "questionHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">₹<span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">2,000\n at 10% compound interest for 2 years amounts to</span></span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "₹ 2,200",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">₹<span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">2,200</span></span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "₹ 2,400",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">₹<span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">2,400</span></span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "₹ 2,420",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">₹<span style=\"font-family: Calibri,serif;\"><span style=\"font-size: 13px;\"><span style=\"font-style: normal;\">2,420</span></span></span></span></p>"
+        },
+        {
+          "option": "D",
+          "text": "₹ 2,440",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">₹<span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">2,440</span></span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "C",
+      "solutionText": "Amount\n = 2000×(1.1)^2 = 2000×1.21 = ₹2,420.",
+      "solutionHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">Amount\n = 2000×(1.1)^2 = 2000×1.21 = ₹2,420.</span></span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 25,
+      "section": "Aptitude (Technical Ability)",
+      "questionId": "6ab26ff96af07594970f0cde",
+      "questionText": "If\n 15% of x = 45, then x equals",
+      "questionHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">If\n 15% of x = 45, then x equals</span></span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "250",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">250</span></span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "280",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">280</span></span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "300",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-size: 13px;\"><span style=\"font-style: normal;\">300</span></span></span></span></p>"
+        },
+        {
+          "option": "D",
+          "text": "320",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">320</span></span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "C",
+      "solutionText": "x\n = 45 × 100 / 15 = 300.",
+      "solutionHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">x\n = 45 × 100 / 15 = 300.</span></span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 26,
+      "section": "Verbal Ability",
+      "questionId": "6ab27018043efb82c88c482e",
+      "questionText": "Synonym\n of “lucid”:",
+      "questionHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">Synonym\n of “lucid”:</span></span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "Confused",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">Confused</span></span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "Clear",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-size: 13px;\"><span style=\"font-style: normal;\">Clear</span></span></span></span></p>"
+        },
+        {
+          "option": "C",
+          "text": "Dim",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">Dim</span></span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "Lengthy",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">Lengthy</span></span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "Lucid\n means easy to understand; clear.",
+      "solutionHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">Lucid\n means easy to understand; clear.</span></span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 27,
+      "section": "Verbal Ability",
+      "questionId": "6ab27018043efb065c8c4829",
+      "questionText": "Arrange:\n P: Borrowed slides often hide the one chart that matters. Q: A\n 12-minute talk can carry only one claim. R: Cut until a stranger\n can repeat that claim in one sentence. S: Extra animations do not\n add proof.",
+      "questionHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">Arrange:\n P: Borrowed slides often hide the one chart that matters. Q: A\n 12-minute talk can carry only one claim. R: Cut until a stranger\n can repeat that claim in one sentence. S: Extra animations do not\n add proof.</span></span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "Q P R S",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-size: 13px;\"><span style=\"font-style: normal;\">Q P R S</span></span></span></span></p>"
+        },
+        {
+          "option": "B",
+          "text": "Q\n S P R",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">Q\n S P R</span></span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "P\n Q R S",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">P\n Q R S</span></span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "Q\n P S R",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">Q\n P S R</span></span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "A",
+      "solutionText": "Q\n states the limit. P shows how extra slides hide the claim. R is\n the edit rule. S rejects decoration. Q P R S.",
+      "solutionHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">Q\n states the limit. P shows how extra slides hide the claim. R is\n the edit rule. S rejects decoration. Q P R S.</span></span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 28,
+      "section": "Verbal Ability",
+      "questionId": "6ab27018043efb823c8c480b",
+      "questionText": "Choose\n the correct sentence.",
+      "questionHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">Choose\n the correct sentence.</span></span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "The\n scissors is on the desk.",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">The\n scissors is on the desk.</span></span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "The scissors are on the desk.",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-size: 13px;\"><span style=\"font-style: normal;\">The scissors are on the desk.</span></span></span></span></p>"
+        },
+        {
+          "option": "C",
+          "text": "The\n scissor are on the desk.",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">The\n scissor are on the desk.</span></span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "A\n scissors are on the desk.",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">A\n scissors are on the desk.</span></span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "Scissors\n is a plural tool-noun and takes are.",
+      "solutionHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">Scissors\n is a plural tool-noun and takes are.</span></span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 29,
+      "section": "Verbal Ability",
+      "questionId": "6ab27018043efbccc08c483d",
+      "questionText": "One-word:\n A person who hates humankind.",
+      "questionHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">One-word:\n A person who hates humankind.</span></span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "Philanthropist",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">Philanthropist</span></span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "Optimist",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">Optimist</span></span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "Misanthrope",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-size: 13px;\"><span style=\"font-style: normal;\">Misanthrope</span></span></span></span></p>"
+        },
+        {
+          "option": "D",
+          "text": "Introvert",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">Introvert</span></span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "C",
+      "solutionText": "A\n misanthrope hates or distrusts people. A philanthropist loves\n humankind.",
+      "solutionHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">A\n misanthrope hates or distrusts people. A philanthropist loves\n humankind.</span></span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 30,
+      "section": "Verbal Ability",
+      "questionId": "6ab27018043efbc0608c4824",
+      "questionText": "Arrange:\n P: Logs that nobody reads are only decoration. Q: An alert should\n name the service, the fault and the next action. R: Otherwise\n night staff guess while the queue grows. S: Templates make that\n three-part line automatic.",
+      "questionHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">Arrange:\n P: Logs that nobody reads are only decoration. Q: An alert should\n name the service, the fault and the next action. R: Otherwise\n night staff guess while the queue grows. S: Templates make that\n three-part line automatic.</span></span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "Q\n P S R",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">Q\n P S R</span></span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "P\n Q R S",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">P\n Q R S</span></span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "Q\n R P S",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">Q\n R P S</span></span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "Q R S P",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-size: 13px;\"><span style=\"font-style: normal;\">Q R S P</span></span></span></span></p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solutionText": "Q\n sets the standard. R is what happens without it. S is the method.\n P dismisses empty logs. Order Q R S P.",
+      "solutionHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">Q\n sets the standard. R is what happens without it. S is the method.\n P dismisses empty logs. Order Q R S P.</span></span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 31,
+      "section": "Verbal Ability",
+      "questionId": "6ab27018043efbb0a08c4801",
+      "questionText": "Choose\n the correct sentence.",
+      "questionHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">Choose\n the correct sentence.</span></span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "It is I who am responsible for the delay.",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-size: 13px;\"><span style=\"font-style: normal;\">It is I who am responsible for the delay.</span></span></span></span></p>"
+        },
+        {
+          "option": "B",
+          "text": "It\n is I who is responsible for the delay.",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">It\n is I who is responsible for the delay.</span></span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "It\n is me who am responsible for the delay.",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">It\n is me who am responsible for the delay.</span></span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "It\n is I who are responsible for the delay.",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">It\n is I who are responsible for the delay.</span></span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "A",
+      "solutionText": "The\n pronoun after “who” agrees with I, so “who am.”",
+      "solutionHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">The\n pronoun after “who” agrees with I, so “who am.”</span></span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 32,
+      "section": "Verbal Ability",
+      "questionId": "6ab27018043efb5d588c4842",
+      "questionText": "Fill:\n The plan is still _____ and may change after the review.",
+      "questionHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">Fill:\n The plan is still _____ and may change after the review.</span></span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "final",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">final</span></span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "tentative",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-size: 13px;\"><span style=\"font-style: normal;\">tentative</span></span></span></span></p>"
+        },
+        {
+          "option": "C",
+          "text": "obsolete",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">obsolete</span></span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "binding",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">binding</span></span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "Tentative\n means not yet fixed.",
+      "solutionHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">Tentative\n means not yet fixed.</span></span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 33,
+      "section": "Verbal Ability",
+      "questionId": "6ab27018043efb6d918c47e8",
+      "questionText": "Passage \n\n Battery-electric buses cut street noise and tailpipe smoke, but they do not remove every cost. A depot needs chargers, a stronger grid connection and spare batteries for peak hours. Drivers also need a new duty cycle: charging windows replace some of the old refuelling stops. Cities that pilot one route first learn the real range in rain and hill traffic before they replace a whole fleet. The cleanest plan is not the largest overnight order; it is the one that matches charger capacity to the timetable. \n\n A depot for electric buses needs",
+      "questionHtml": "<p align=\"left\" style=\"margin-top: 0.288px; margin-bottom: 0.288px;\"><span style=\"color: #111827;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-size: 13px;\"><span><strong>Passage</strong></span></span></span></span></p>\n<p align=\"left\" style=\"margin-top: 0.288px; margin-bottom: 0.480px;\"><span style=\"color: #111827;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-size: 13px;\">Battery-electric buses cut street noise and tailpipe smoke, but they do not remove every cost. A depot needs chargers, a stronger grid connection and spare batteries for peak hours. Drivers also need a new duty cycle: charging windows replace some of the old refuelling stops. Cities that pilot one route first learn the real range in rain and hill traffic before they replace a whole fleet. The cleanest plan is not the largest overnight order; it is the one that matches charger capacity to the timetable.</span></span></span></p>\n<p align=\"left\" style=\"margin-top: 0.288px;\"><strong><span style=\"color: #111827;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-size: 13px;\"><span style=\"font-style: normal;\">A depot for electric buses needs</span></span></span></span></strong></p>",
+      "options": [
+        {
+          "option": "A",
+          "text": "chargers, a stronger grid connection and spare batteries",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-size: 13px;\"><span style=\"font-style: normal;\">chargers, a stronger grid connection and spare batteries</span></span></span></span></p>"
+        },
+        {
+          "option": "B",
+          "text": "only\n a diesel generator",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">only\n a diesel generator</span></span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "no\n change to the grid",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">no\n change to the grid</span></span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "fewer\n drivers",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">fewer\n drivers</span></span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "A",
+      "solutionText": "Those\n three items are listed in the second sentence.",
+      "solutionHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">Those\n three items are listed in the second sentence.</span></span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 34,
+      "section": "Verbal Ability",
+      "questionId": "6ab27018043efb65b38c47f7",
+      "questionText": "Passage \n\n Battery-electric buses cut street noise and tailpipe smoke, but they do not remove every cost. A depot needs chargers, a stronger grid connection and spare batteries for peak hours. Drivers also need a new duty cycle: charging windows replace some of the old refuelling stops. Cities that pilot one route first learn the real range in rain and hill traffic before they replace a whole fleet. The cleanest plan is not the largest overnight order; it is the one that matches charger capacity to the timetable. \n\n The author says the cleanest plan is",
+      "questionHtml": "<p align=\"left\" style=\"margin-top: 0.288px; margin-bottom: 0.288px;\"><span style=\"color: #111827;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-size: 13px;\"><span><strong>Passage</strong></span></span></span></span></p>\n<p align=\"left\" style=\"margin-top: 0.288px; margin-bottom: 0.480px;\"><span style=\"color: #111827;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-size: 13px;\">Battery-electric buses cut street noise and tailpipe smoke, but they do not remove every cost. A depot needs chargers, a stronger grid connection and spare batteries for peak hours. Drivers also need a new duty cycle: charging windows replace some of the old refuelling stops. Cities that pilot one route first learn the real range in rain and hill traffic before they replace a whole fleet. The cleanest plan is not the largest overnight order; it is the one that matches charger capacity to the timetable.</span></span></span></p>\n<p align=\"left\" style=\"margin-top: 0.288px;\"><strong><span style=\"color: #111827;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-size: 13px;\"><span style=\"font-style: normal;\">The author says the cleanest plan is</span></span></span></span></strong></p>",
+      "options": [
+        {
+          "option": "A",
+          "text": "the\n largest overnight order",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">the\n largest overnight order</span></span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "a\n ban on pilots",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">a\n ban on pilots</span></span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "buying\n buses with no spare batteries",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">buying\n buses with no spare batteries</span></span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "the plan that matches charger capacity to the timetable",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-size: 13px;\"><span style=\"font-style: normal;\">the plan that matches charger capacity to the timetable</span></span></span></span></p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solutionText": "That\n claim is the last sentence.",
+      "solutionHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">That\n claim is the last sentence.</span></span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 35,
+      "section": "Verbal Ability",
+      "questionId": "6ab27018043efb3b978c481a",
+      "questionText": "Arrange:\n P: That single index then drives the whole sprint board. Q:\n Product owners who skip a written goal invite scattered work. R: A\n one-line outcome is enough if everyone can repeat it. S: Features\n that do not serve the line get cut first.",
+      "questionHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">Arrange:\n P: That single index then drives the whole sprint board. Q:\n Product owners who skip a written goal invite scattered work. R: A\n one-line outcome is enough if everyone can repeat it. S: Features\n that do not serve the line get cut first.</span></span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "Q\n R P S",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">Q\n R P S</span></span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "Q R S P",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-size: 13px;\"><span style=\"font-style: normal;\">Q R S P</span></span></span></span></p>"
+        },
+        {
+          "option": "C",
+          "text": "R\n Q P S",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">R\n Q P S</span></span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "Q\n P R S",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">Q\n P R S</span></span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "Q\n is the problem. R is the simple fix. S is how the line is used. P\n is the result on the board. Better Q R S P.",
+      "solutionHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">Q\n is the problem. R is the simple fix. S is how the line is used. P\n is the result on the board. Better Q R S P.</span></span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 36,
+      "section": "Verbal Ability",
+      "questionId": "6ab27018043efbfbb38c4806",
+      "questionText": "Choose\n the correct sentence.",
+      "questionHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">Choose\n the correct sentence.</span></span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "He\n is junior than the team lead.",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">He\n is junior than the team lead.</span></span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "He\n is junior from the team lead.",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">He\n is junior from the team lead.</span></span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "He is junior to the team lead.",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-size: 13px;\"><span style=\"font-style: normal;\">He is junior to the team lead.</span></span></span></span></p>"
+        },
+        {
+          "option": "D",
+          "text": "He\n is more junior than the team lead.",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">He\n is more junior than the team lead.</span></span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "C",
+      "solutionText": "Junior,\n senior, superior and inferior take “to.”",
+      "solutionHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">Junior,\n senior, superior and inferior take “to.”</span></span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 37,
+      "section": "Verbal Ability",
+      "questionId": "6ab27018043efb4e708c47ed",
+      "questionText": "Passage \n\n Battery-electric buses cut street noise and tailpipe smoke, but they do not remove every cost. A depot needs chargers, a stronger grid connection and spare batteries for peak hours. Drivers also need a new duty cycle: charging windows replace some of the old refuelling stops. Cities that pilot one route first learn the real range in rain and hill traffic before they replace a whole fleet. The cleanest plan is not the largest overnight order; it is the one that matches charger capacity to the timetable. \n\n Cities are advised to pilot one route first in order to",
+      "questionHtml": "<p align=\"left\" style=\"margin-top: 0.288px; margin-bottom: 0.288px;\"><span style=\"color: #111827;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-size: 13px;\"><span><strong>Passage</strong></span></span></span></span></p>\n<p align=\"left\" style=\"margin-top: 0.288px; margin-bottom: 0.480px;\"><span style=\"color: #111827;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-size: 13px;\">Battery-electric buses cut street noise and tailpipe smoke, but they do not remove every cost. A depot needs chargers, a stronger grid connection and spare batteries for peak hours. Drivers also need a new duty cycle: charging windows replace some of the old refuelling stops. Cities that pilot one route first learn the real range in rain and hill traffic before they replace a whole fleet. The cleanest plan is not the largest overnight order; it is the one that matches charger capacity to the timetable.</span></span></span></p>\n<p align=\"left\" style=\"margin-top: 0.288px;\"><strong><span style=\"color: #111827;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-size: 13px;\"><span style=\"font-style: normal;\">Cities are advised to pilot one route first in order to</span></span></span></span></strong></p>",
+      "options": [
+        {
+          "option": "A",
+          "text": "win\n an award",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">win\n an award</span></span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "avoid\n buying any chargers",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">avoid\n buying any chargers</span></span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "learn real range in rain and hill traffic",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-size: 13px;\"><span style=\"font-style: normal;\">learn real range in rain and hill traffic</span></span></span></span></p>"
+        },
+        {
+          "option": "D",
+          "text": "cut\n driver training",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">cut\n driver training</span></span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "C",
+      "solutionText": "The\n passage says a pilot shows real range in rain and hill traffic\n before a full fleet change.",
+      "solutionHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">The\n passage says a pilot shows real range in rain and hill traffic\n before a full fleet change.</span></span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 38,
+      "section": "Verbal Ability",
+      "questionId": "6ab27018043efb7df88c47e3",
+      "questionText": "Passage \n\n Battery-electric buses cut street noise and tailpipe smoke, but they do not remove every cost. A depot needs chargers, a stronger grid connection and spare batteries for peak hours. Drivers also need a new duty cycle: charging windows replace some of the old refuelling stops. Cities that pilot one route first learn the real range in rain and hill traffic before they replace a whole fleet. The cleanest plan is not the largest overnight order; it is the one that matches charger capacity to the timetable. \n\n The main idea of the passage is that",
+      "questionHtml": "<p align=\"left\" style=\"margin-top: 0.288px; margin-bottom: 0.288px;\"><span style=\"color: #111827;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-size: 13px;\"><span style=\"font-style: normal;\"><strong>Passage</strong></span></span></span></span></p>\n<p align=\"left\" style=\"margin-top: 0.288px; margin-bottom: 0.480px;\"><span style=\"color: #111827;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-size: 13px;\"><span style=\"font-style: normal;\"><span style=\"font-weight: normal;\">Battery-electric buses cut street noise and tailpipe smoke, but they do not remove every cost. A depot needs chargers, a stronger grid connection and spare batteries for peak hours. Drivers also need a new duty cycle: charging windows replace some of the old refuelling stops. Cities that pilot one route first learn the real range in rain and hill traffic before they replace a whole fleet. The cleanest plan is not the largest overnight order; it is the one that matches charger capacity to the timetable.</span></span></span></span></span></p>\n<p align=\"left\" style=\"margin-top: 0.288px;\"><strong><span style=\"color: #111827;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-size: 13px;\"><span style=\"font-style: normal;\">The main idea of the passage is that</span></span></span></span></strong></p>",
+      "options": [
+        {
+          "option": "A",
+          "text": "electric\n buses have no operating cost",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">electric\n buses have no operating cost</span></span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "electric fleets work only if charging and timetables are planned together",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-size: 13px;\"><span style=\"font-style: normal;\">electric fleets work only if charging and timetables are planned together</span></span></span></span></p>"
+        },
+        {
+          "option": "C",
+          "text": "cities\n should ban diesel overnight",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">cities\n should ban diesel overnight</span></span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "spare\n batteries are unnecessary",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">spare\n batteries are unnecessary</span></span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "The\n passage lists extra depot and duty-cycle costs and ends by\n matching charger capacity to the timetable.",
+      "solutionHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">The\n passage lists extra depot and duty-cycle costs and ends by\n matching charger capacity to the timetable.</span></span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 39,
+      "section": "Verbal Ability",
+      "questionId": "6ab27018043efbfd678c4838",
+      "questionText": "Idiom:\n “on the same page” means",
+      "questionHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">Idiom:\n “on the same page” means</span></span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "In agreement",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-size: 13px;\"><span style=\"font-style: normal;\">In agreement</span></span></span></span></p>"
+        },
+        {
+          "option": "B",
+          "text": "Reading\n a book together",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">Reading\n a book together</span></span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "Sitting\n in one row",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">Sitting\n in one row</span></span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "Sharing\n a password",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">Sharing\n a password</span></span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "A",
+      "solutionText": "It\n means having the same understanding or agreement.",
+      "solutionHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">It\n means having the same understanding or agreement.</span></span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 40,
+      "section": "Verbal Ability",
+      "questionId": "6ab27018043efb3a068c47f2",
+      "questionText": "Passage \n\n Battery-electric buses cut street noise and tailpipe smoke, but they do not remove every cost. A depot needs chargers, a stronger grid connection and spare batteries for peak hours. Drivers also need a new duty cycle: charging windows replace some of the old refuelling stops. Cities that pilot one route first learn the real range in rain and hill traffic before they replace a whole fleet. The cleanest plan is not the largest overnight order; it is the one that matches charger capacity to the timetable. \n\n Charging windows replace",
+      "questionHtml": "<p align=\"left\" style=\"margin-top: 0.288px; margin-bottom: 0.288px;\"><span style=\"color: #111827;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-size: 13px;\"><span><strong>Passage</strong></span></span></span></span></p>\n<p align=\"left\" style=\"margin-top: 0.288px;\"></p>\n<p align=\"left\" style=\"margin-top: 0.288px; margin-bottom: 0.480px;\"><span style=\"color: #111827;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-size: 13px;\">Battery-electric buses cut street noise and tailpipe smoke, but they do not remove every cost. A depot needs chargers, a stronger grid connection and spare batteries for peak hours. Drivers also need a new duty cycle: charging windows replace some of the old refuelling stops. Cities that pilot one route first learn the real range in rain and hill traffic before they replace a whole fleet. The cleanest plan is not the largest overnight order; it is the one that matches charger capacity to the timetable.</span></span></span></p>\n<p align=\"left\" style=\"margin-top: 0.288px;\"><strong><span style=\"color: #111827;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-size: 13px;\"><span style=\"font-style: normal;\">Charging windows replace</span></span></span></span></strong></p>",
+      "options": [
+        {
+          "option": "A",
+          "text": "the\n need for drivers",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">the\n need for drivers</span></span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "some of the old refuelling stops",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-size: 13px;\"><span style=\"font-style: normal;\">some of the old refuelling stops</span></span></span></span></p>"
+        },
+        {
+          "option": "C",
+          "text": "the\n timetable itself",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">the\n timetable itself</span></span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "hill\n routes",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">hill\n routes</span></span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "Drivers\n need a new duty cycle in which charging windows replace some\n refuelling stops.",
+      "solutionHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">Drivers\n need a new duty cycle in which charging windows replace some\n refuelling stops.</span></span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 41,
+      "section": "Verbal Ability",
+      "questionId": "6ab27018043efb6c828c4810",
+      "questionText": "Choose\n the correct sentence.",
+      "questionHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">Choose\n the correct sentence.</span></span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "She insisted that he wait outside.",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-size: 13px;\"><span style=\"font-style: normal;\">She insisted that he wait outside.</span></span></span></span></p>"
+        },
+        {
+          "option": "B",
+          "text": "She\n insisted that he waits outside.",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">She\n insisted that he waits outside.</span></span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "She\n insisted him to wait outside.",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">She\n insisted him to wait outside.</span></span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "She\n insisted that he waiting outside.",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">She\n insisted that he waiting outside.</span></span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "A",
+      "solutionText": "After\n insist that, American/exam English uses the base form wait\n (subjunctive).",
+      "solutionHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">After\n insist that, American/exam English uses the base form wait\n (subjunctive).</span></span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 42,
+      "section": "Verbal Ability",
+      "questionId": "6ab27018043efb73d28c4833",
+      "questionText": "Antonym\n of “scarce”:",
+      "questionHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">Antonym\n of “scarce”:</span></span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "Rare",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">Rare</span></span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "Meagre",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">Meagre</span></span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "Plentiful",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-size: 13px;\"><span style=\"font-style: normal;\">Plentiful</span></span></span></span></p>"
+        },
+        {
+          "option": "D",
+          "text": "Sparse",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">Sparse</span></span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "C",
+      "solutionText": "Plentiful\n is the opposite of scarce.",
+      "solutionHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">Plentiful\n is the opposite of scarce.</span></span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 43,
+      "section": "Verbal Ability",
+      "questionId": "6ab27018043efb6eda8c47fc",
+      "questionText": "Choose\n the correct sentence.",
+      "questionHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">Choose\n the correct sentence.</span></span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "Each\n of the reports have a summary.",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">Each\n of the reports have a summary.</span></span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "Each of the reports has a summary.",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-size: 13px;\"><span style=\"font-style: normal;\">Each of the reports has a summary.</span></span></span></span></p>"
+        },
+        {
+          "option": "C",
+          "text": "Each\n of the report has a summary.",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">Each\n of the report has a summary.</span></span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "Each\n of the reports having a summary.",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">Each\n of the reports having a summary.</span></span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "Each\n is singular, so the verb is has. After “of” the noun\n is plural: reports.",
+      "solutionHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">Each\n is singular, so the verb is has. After “of” the noun\n is plural: reports.</span></span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 44,
+      "section": "Verbal Ability",
+      "questionId": "6ab27018043efb79a88c4815",
+      "questionText": "Arrange:\n P: Smoke detectors then buy the extra minutes people need. Q: Most\n fatal home fires start when residents are asleep. R: A working\n alarm is therefore not optional equipment. S: Batteries that died\n last winter help nobody.",
+      "questionHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">Arrange:\n P: Smoke detectors then buy the extra minutes people need. Q: Most\n fatal home fires start when residents are asleep. R: A working\n alarm is therefore not optional equipment. S: Batteries that died\n last winter help nobody.</span></span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "Q P R S",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-size: 13px;\"><span style=\"font-style: normal;\">Q P R S</span></span></span></span></p>"
+        },
+        {
+          "option": "B",
+          "text": "P\n Q R S",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">P\n Q R S</span></span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "Q\n R P S",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">Q\n R P S</span></span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "S\n Q P R",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">S\n Q P R</span></span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "A",
+      "solutionText": "Q\n is the risk. P is how detectors help. R draws the rule. S warns\n about dead batteries. Q P R S.",
+      "solutionHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">Q\n is the risk. P is how detectors help. R draws the rule. S warns\n about dead batteries. Q P R S.</span></span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 45,
+      "section": "Verbal Ability",
+      "questionId": "6ab27018043efb38f38c481f",
+      "questionText": "Arrange:\n P: Wet leaves on a painted crossing are as slick as oil. Q: Autumn\n morning shifts therefore start with a broom, not a briefing. R:\n Two staff minutes prevent a visitor fall. S: The cheapest safety\n tool is still a clear path.",
+      "questionHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">Arrange:\n P: Wet leaves on a painted crossing are as slick as oil. Q: Autumn\n morning shifts therefore start with a broom, not a briefing. R:\n Two staff minutes prevent a visitor fall. S: The cheapest safety\n tool is still a clear path.</span></span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "P Q R S",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-size: 13px;\"><span style=\"font-style: normal;\">P Q R S</span></span></span></span></p>"
+        },
+        {
+          "option": "B",
+          "text": "P\n R Q S",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">P\n R Q S</span></span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "Q\n P S R",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">Q\n P S R</span></span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "S\n P Q R",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">S\n P Q R</span></span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "A",
+      "solutionText": "P\n states the hazard. Q is the work habit. R is the payoff. S\n generalises. P Q R S.",
+      "solutionHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">P\n states the hazard. Q is the work habit. R is the payoff. S\n generalises. P Q R S.</span></span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 46,
+      "section": "Pseudo Code",
+      "questionId": "6ab27058dcf12f9b5029e66d",
+      "questionText": "[Bitwise]\n What is printed? \n\n Integer\n a \n\n Set\n a = 6 \n\n Print\n a | 3",
+      "questionHtml": "<p align=\"left\" style=\"margin-top: 0.288px; margin-bottom: 0.480px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">[Bitwise]\n What is printed?</span></span></span></span></span></p>\n <p style=\"margin-top: 0.288px; margin-bottom: 0.96px\"><span style=\"color: #111827\"><span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">Integer\n a</span></span></span></span></span></p>\n <p style=\"margin-top: 0.96px; margin-bottom: 0.96px\"><span style=\"color: #111827\"><span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">Set\n a = 6</span></span></span></span></span></p>\n <p style=\"margin-top: 0.96px\"><span style=\"color: #111827\"><span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">Print\n a | 3</span></span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "7",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-size: 13px;\"><span style=\"font-style: normal;\">7</span></span></span></span></p>"
+        },
+        {
+          "option": "B",
+          "text": "5",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">5</span></span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "2",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">2</span></span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "18",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">18</span></span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "A",
+      "solutionText": "6\n is 0110, 3 is 0011, OR is 0111 = 7.",
+      "solutionHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">6\n is 0110, 3 is 0011, OR is 0111 = 7.</span></span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 47,
+      "section": "Pseudo Code",
+      "questionId": "6ab27058dcf12fb28129e677",
+      "questionText": "[Queue]\n What is printed? \n\n Queue\n Q \n\n enqueue(Q,\n 11) \n\n enqueue(Q,\n 22) \n\n enqueue(Q,\n 33) \n\n dequeue(Q) \n\n dequeue(Q) \n\n Print\n front(Q)",
+      "questionHtml": "<p align=\"left\" style=\"margin-top: 0.288px; margin-bottom: 0.480px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">[Queue]\n What is printed?</span></span></span></span></span></p>\n <p style=\"margin-top: 0.288px; margin-bottom: 0.96px\"><span style=\"color: #111827\"><span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">Queue\n Q</span></span></span></span></span></p>\n <p style=\"margin-top: 0.96px; margin-bottom: 0.96px\"><span style=\"color: #111827\"><span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">enqueue(Q,\n 11)</span></span></span></span></span></p>\n <p style=\"margin-top: 0.96px; margin-bottom: 0.96px\"><span style=\"color: #111827\"><span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">enqueue(Q,\n 22)</span></span></span></span></span></p>\n <p style=\"margin-top: 0.96px; margin-bottom: 0.96px\"><span style=\"color: #111827\"><span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">enqueue(Q,\n 33)</span></span></span></span></span></p>\n <p style=\"margin-top: 0.96px; margin-bottom: 0.96px\"><span style=\"color: #111827\"><span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">dequeue(Q)</span></span></span></span></span></p>\n <p style=\"margin-top: 0.96px; margin-bottom: 0.96px\"><span style=\"color: #111827\"><span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">dequeue(Q)</span></span></span></span></span></p>\n <p style=\"margin-top: 0.96px\"><span style=\"color: #111827\"><span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">Print\n front(Q)</span></span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "11",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">11</span></span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "22",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">22</span></span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "33",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-size: 13px;\"><span style=\"font-style: normal;\">33</span></span></span></span></p>"
+        },
+        {
+          "option": "D",
+          "text": "Empty",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">Empty</span></span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "C",
+      "solutionText": "Queue\n starts [11,22,33]. Two dequeues remove 11 then 22. Front is 33.",
+      "solutionHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">Queue\n starts [11,22,33]. Two dequeues remove 11 then 22. Front is 33.</span></span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 48,
+      "section": "Pseudo Code",
+      "questionId": "6ab27058dcf12fe96d29e672",
+      "questionText": "[Loops]\n What is printed? \n\n Integer\n i, s \n\n Set\n s = 0 \n\n for\n i = 1 to 10 do \n\n if\n i % 2 == 1 then s = s + i \n\n end\n for \n\n Print\n s",
+      "questionHtml": "<p align=\"left\" style=\"margin-top: 0.288px; margin-bottom: 0.480px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">[Loops]\n What is printed?</span></span></span></span></span></p>\n <p style=\"margin-top: 0.288px; margin-bottom: 0.96px\"><span style=\"color: #111827\"><span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">Integer\n i, s</span></span></span></span></span></p>\n <p style=\"margin-top: 0.96px; margin-bottom: 0.96px\"><span style=\"color: #111827\"><span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">Set\n s = 0</span></span></span></span></span></p>\n <p style=\"margin-top: 0.96px; margin-bottom: 0.96px\"><span style=\"color: #111827\"><span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">for\n i = 1 to 10 do</span></span></span></span></span></p>\n <p style=\"margin-top: 0.96px; margin-bottom: 0.96px\"><span style=\"color: #111827\">\n    <span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">if\n i % 2 == 1 then s = s + i</span></span></span></span></span></p>\n <p style=\"margin-top: 0.96px; margin-bottom: 0.96px\"><span style=\"color: #111827\"><span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">end\n for</span></span></span></span></span></p>\n <p style=\"margin-top: 0.96px\"><span style=\"color: #111827\"><span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">Print\n s</span></span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "25",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-size: 13px;\"><span style=\"font-style: normal;\">25</span></span></span></span></p>"
+        },
+        {
+          "option": "B",
+          "text": "30",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">30</span></span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "45",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">45</span></span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "55",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">55</span></span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "A",
+      "solutionText": "The\n loop adds the odd values 1+3+5+7+9 = 25.",
+      "solutionHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">The\n loop adds the odd values 1+3+5+7+9 = 25.</span></span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 49,
+      "section": "Pseudo Code",
+      "questionId": "6ab27058dcf12f8a1829e668",
+      "questionText": "[Recursion]\n What does S(5) return? \n\n Function\n S(n) \n\n if\n n == 0 then return 0 \n\n return\n n + S(n - 1) \n\n End\n Function \n\n Print\n S(5)",
+      "questionHtml": "<p align=\"left\" style=\"margin-top: 0.288px; margin-bottom: 0.480px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">[Recursion]\n What does S(5) return?</span></span></span></span></span></p>\n <p style=\"margin-top: 0.288px; margin-bottom: 0.96px\"><span style=\"color: #111827\"><span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">Function\n S(n)</span></span></span></span></span></p>\n <p style=\"margin-top: 0.96px; margin-bottom: 0.96px\"><span style=\"color: #111827\">\n    <span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">if\n n == 0 then return 0</span></span></span></span></span></p>\n <p style=\"margin-top: 0.96px; margin-bottom: 0.96px\"><span style=\"color: #111827\">\n    <span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">return\n n + S(n - 1)</span></span></span></span></span></p>\n <p style=\"margin-top: 0.96px; margin-bottom: 0.96px\"><span style=\"color: #111827\"><span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">End\n Function</span></span></span></span></span></p>\n <p style=\"margin-top: 0.96px\"><span style=\"color: #111827\"><span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">Print\n S(5)</span></span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "10",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">10</span></span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "15",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-size: 13px;\"><span style=\"font-style: normal;\">15</span></span></span></span></p>"
+        },
+        {
+          "option": "C",
+          "text": "16",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">16</span></span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "25",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">25</span></span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "S(n)\n is the sum 5+4+3+2+1+0 = 15.",
+      "solutionHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">S(n)\n is the sum 5+4+3+2+1+0 = 15.</span></span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 50,
+      "section": "Pseudo Code",
+      "questionId": "6ab27058dcf12fbec429e663",
+      "questionText": "[Arrays]\n What is printed? \n\n Integer\n A[4] = {3, 5, 7, 9} \n\n Integer\n i, p \n\n Set\n p = 1 \n\n for\n i = 0 to 3 do \n\n p\n = p * A[i] \n\n end\n for \n\n Print\n p",
+      "questionHtml": "<p align=\"left\" style=\"margin-top: 0.288px; margin-bottom: 0.480px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">[Arrays]\n What is printed?</span></span></span></span></span></p>\n <p style=\"margin-top: 0.288px; margin-bottom: 0.96px\"><span style=\"color: #111827\"><span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">Integer\n A[4] = {3, 5, 7, 9}</span></span></span></span></span></p>\n <p style=\"margin-top: 0.96px; margin-bottom: 0.96px\"><span style=\"color: #111827\"><span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">Integer\n i, p</span></span></span></span></span></p>\n <p style=\"margin-top: 0.96px; margin-bottom: 0.96px\"><span style=\"color: #111827\"><span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">Set\n p = 1</span></span></span></span></span></p>\n <p style=\"margin-top: 0.96px; margin-bottom: 0.96px\"><span style=\"color: #111827\"><span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">for\n i = 0 to 3 do</span></span></span></span></span></p>\n <p style=\"margin-top: 0.96px; margin-bottom: 0.96px\"><span style=\"color: #111827\">\n    <span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">p\n = p * A[i]</span></span></span></span></span></p>\n <p style=\"margin-top: 0.96px; margin-bottom: 0.96px\"><span style=\"color: #111827\"><span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">end\n for</span></span></span></span></span></p>\n <p style=\"margin-top: 0.96px\"><span style=\"color: #111827\"><span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">Print\n p</span></span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "24",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">24</span></span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "315",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">315</span></span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "945",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-size: 13px;\"><span style=\"font-style: normal;\">945</span></span></span></span></p>"
+        },
+        {
+          "option": "D",
+          "text": "105",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">105</span></span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "C",
+      "solutionText": "Product\n 3×5×7×9 = 945.",
+      "solutionHtml": "<p align=\"left\" style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\"><span style=\"font-family: Calibri,serif\"><span style=\"font-size: 13px\"><span style=\"font-style: normal\"><span style=\"font-weight: normal\">Product\n 3×5×7×9 = 945.</span></span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 51,
+      "section": "Numerical Puzzles",
+      "questionId": "6ab2716d3a618965c9d3be01",
+      "questionText": "[Pattern Sequence] Find the next number. \n\n 5 \n\n 6 \n\n 14 \n\n 45 \n\n 184 \n\n ?",
+      "questionHtml": "<p style=\"margin-top: 0.288px; margin-bottom: 0.480px;\"><span style=\"color: #111827;\">[Pattern Sequence] Find the next number.</span></p>\n<table style=\"page-break-inside: avoid; width: 280px;\" border=\"1\" width=\"280\" cellspacing=\"0\" cellpadding=\"3\">\n<tbody>\n<tr>\n<td style=\"background: #ffffff;\" bgcolor=\"#ffffff\" width=\"40\">\n<p align=\"center\" style=\"margin-top: 0.96px;\"><span style=\"color: #111827;\"><span style=\"font-size: 13px;\"><strong>5</strong></span></span></p>\n</td>\n<td style=\"background: #ffffff;\" bgcolor=\"#ffffff\" width=\"41\">\n<p align=\"center\" style=\"margin-top: 0.96px;\"><span style=\"color: #111827;\"><span style=\"font-size: 13px;\"><strong>6</strong></span></span></p>\n</td>\n<td style=\"background: #ffffff;\" bgcolor=\"#ffffff\" width=\"41\">\n<p align=\"center\" style=\"margin-top: 0.96px;\"><span style=\"color: #111827;\"><span style=\"font-size: 13px;\"><strong>14</strong></span></span></p>\n</td>\n<td style=\"background: #ffffff;\" bgcolor=\"#ffffff\" width=\"41\">\n<p align=\"center\" style=\"margin-top: 0.96px;\"><span style=\"color: #111827;\"><span style=\"font-size: 13px;\"><strong>45</strong></span></span></p>\n</td>\n<td style=\"background: #ffffff;\" bgcolor=\"#ffffff\" width=\"41\">\n<p align=\"center\" style=\"margin-top: 0.96px;\"><span style=\"color: #111827;\"><span style=\"font-size: 13px;\"><strong>184</strong></span></span></p>\n</td>\n<td style=\"background: #fef3c7;\" bgcolor=\"#fef3c7\" width=\"40\">\n<p align=\"center\" style=\"margin-top: 0.96px;\"><span style=\"color: #b45309;\"><span style=\"font-size: 13px;\"><strong>?</strong></span></span></p>\n</td>\n</tr>\n</tbody>\n</table>\n<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 115%;\"><br /><br /></p>",
+      "options": [
+        {
+          "option": "A",
+          "text": "900",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 115%\">\n <span style=\"color: #111827\">900</span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "920",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 115%\">\n <span style=\"color: #111827\">920</span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "925",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 115%;\"><span style=\"color: #111827;\">925</span></p>"
+        },
+        {
+          "option": "D",
+          "text": "945",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 115%\">\n <span style=\"color: #111827\">945</span></p>\n "
+        }
+      ],
+      "correctAnswer": "C",
+      "solutionText": "×1+1=6, ×2+2=14, ×3+3=45,\n ×4+4=184, ×5+5=925.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 115%\">\n <span style=\"color: #111827\">×1+1=6, ×2+2=14, ×3+3=45,\n ×4+4=184, ×5+5=925.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 52,
+      "section": "Numerical Puzzles",
+      "questionId": "6ab2716d3a61893d47d3bdfc",
+      "questionText": "[Matrix Logic] Find the missing number. \n\n 5 \n\n 4 \n\n 11 \n\n 6 \n\n 5 \n\n 13 \n\n 7 \n\n 6 \n\n ?",
+      "questionHtml": "<p style=\"margin-top: 0.288px; margin-bottom: 0.480px;\"><span style=\"color: #111827;\">[Matrix Logic] Find the missing number.</span></p>\n<table style=\"width: 156px;\" border=\"1\" width=\"156\" cellspacing=\"0\" cellpadding=\"3\">\n<tbody>\n<tr>\n<td style=\"background: #ffffff;\" bgcolor=\"#ffffff\" width=\"45\">\n<p align=\"center\" style=\"margin-top: 0.96px;\"><span style=\"color: #111827;\"><span style=\"font-size: 13px;\"><strong>5</strong></span></span></p>\n</td>\n<td style=\"background: #ffffff;\" bgcolor=\"#ffffff\" width=\"46\">\n<p align=\"center\" style=\"margin-top: 0.96px;\"><span style=\"color: #111827;\"><span style=\"font-size: 13px;\"><strong>4</strong></span></span></p>\n</td>\n<td style=\"background: #ffffff;\" bgcolor=\"#ffffff\" width=\"45\">\n<p align=\"center\" style=\"margin-top: 0.96px;\"><span style=\"color: #111827;\"><span style=\"font-size: 13px;\"><strong>11</strong></span></span></p>\n</td>\n</tr>\n<tr>\n<td style=\"background: #ffffff;\" bgcolor=\"#ffffff\" width=\"45\">\n<p align=\"center\" style=\"margin-top: 0.96px;\"><span style=\"color: #111827;\"><span style=\"font-size: 13px;\"><strong>6</strong></span></span></p>\n</td>\n<td style=\"background: #ffffff;\" bgcolor=\"#ffffff\" width=\"46\">\n<p align=\"center\" style=\"margin-top: 0.96px;\"><span style=\"color: #111827;\"><span style=\"font-size: 13px;\"><strong>5</strong></span></span></p>\n</td>\n<td style=\"background: #ffffff;\" bgcolor=\"#ffffff\" width=\"45\">\n<p align=\"center\" style=\"margin-top: 0.96px;\"><span style=\"color: #111827;\"><span style=\"font-size: 13px;\"><strong>13</strong></span></span></p>\n</td>\n</tr>\n<tr>\n<td style=\"background: #ffffff;\" bgcolor=\"#ffffff\" width=\"45\">\n<p align=\"center\" style=\"margin-top: 0.96px;\"><span style=\"color: #111827;\"><span style=\"font-size: 13px;\"><strong>7</strong></span></span></p>\n</td>\n<td style=\"background: #ffffff;\" bgcolor=\"#ffffff\" width=\"46\">\n<p align=\"center\" style=\"margin-top: 0.96px;\"><span style=\"color: #111827;\"><span style=\"font-size: 13px;\"><strong>6</strong></span></span></p>\n</td>\n<td style=\"background: #fef3c7;\" bgcolor=\"#fef3c7\" width=\"45\">\n<p align=\"center\" style=\"margin-top: 0.96px;\"><span style=\"color: #b45309;\"><span style=\"font-size: 13px;\"><strong>?</strong></span></span></p>\n</td>\n</tr>\n</tbody>\n</table>\n<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 115%;\"><br /><br /></p>",
+      "options": [
+        {
+          "option": "A",
+          "text": "14",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 115%\">\n <span style=\"color: #111827\">14</span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "15",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 115%;\"><span style=\"color: #111827;\">15</span></p>"
+        },
+        {
+          "option": "C",
+          "text": "16",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 115%\">\n <span style=\"color: #111827\">16</span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "17",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 115%\">\n <span style=\"color: #111827\">17</span></p>\n "
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "In each row, third = first + second + 2. So\n 7+6+2 = 15.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 115%\">\n <span style=\"color: #111827\">In each row, third = first + second + 2. So\n 7+6+2 = 15.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 53,
+      "section": "Numerical Puzzles",
+      "questionId": "6ab2716d3a6189f996d3be06",
+      "questionText": "[Matrix Logic] Find the missing number. \n\n 9 \n\n 16 \n\n 25 \n\n 4 \n\n 9 \n\n 16 \n\n 1 \n\n 4 \n\n ?",
+      "questionHtml": "<p style=\"margin-top: 0.288px; margin-bottom: 0.480px;\"><span style=\"color: #111827;\">[Matrix Logic] Find the missing number.</span></p>\n<table class=\"MsoNormalTable\" style=\"width: 117.0pt; border-collapse: collapse; border: none; mso-border-alt: solid windowtext .5pt; mso-padding-alt: 0cm .5pt 0cm .5pt; mso-border-insideh: .5pt solid windowtext; mso-border-insidev: .5pt solid windowtext;\" border=\"1\" width=\"156\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr style=\"mso-yfti-irow: 0; mso-yfti-firstrow: yes; page-break-inside: avoid;\">\n<td style=\"width: 39pt; border: 1pt solid #4b5563; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 2pt;\" width=\"52\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #111827;\">9</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 39pt; border-width: 1pt 1pt 1pt medium; border-style: solid solid solid none; border-color: #4b5563 #4b5563 #4b5563 currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 2pt;\" width=\"52\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #111827;\">16</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 39pt; border-width: 1pt 1pt 1pt medium; border-style: solid solid solid none; border-color: #4b5563 #4b5563 #4b5563 currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 2pt;\" width=\"52\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #111827;\">25</span></strong><o:p></o:p></p>\n</td>\n</tr>\n<tr style=\"mso-yfti-irow: 1; page-break-inside: avoid;\">\n<td style=\"width: 39pt; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: currentcolor #4b5563 #4b5563; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 2pt;\" width=\"52\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #111827;\">4</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 39pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: currentcolor #4b5563 #4b5563 currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 2pt;\" width=\"52\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #111827;\">9</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 39pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: currentcolor #4b5563 #4b5563 currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 2pt;\" width=\"52\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #111827;\">16</span></strong><o:p></o:p></p>\n</td>\n</tr>\n<tr style=\"mso-yfti-irow: 2; mso-yfti-lastrow: yes; page-break-inside: avoid;\">\n<td style=\"width: 39pt; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: currentcolor #4b5563 #4b5563; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 2pt;\" width=\"52\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #111827;\">1</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 39pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: currentcolor #4b5563 #4b5563 currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 2pt;\" width=\"52\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #111827;\">4</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 39.0pt; border-top: none; border-left: none; border-bottom: solid #4B5563 1.0pt; border-right: solid #4B5563 1.0pt; mso-border-top-alt: solid #4B5563 1.0pt; mso-border-left-alt: solid #4B5563 1.0pt; background: #FEF3C7; padding: 2.5pt 2.0pt 2.5pt 2.0pt;\" width=\"52\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #b45309;\">?</span></strong><o:p></o:p></p>\n</td>\n</tr>\n</tbody>\n</table>\n<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 115%;\"></p>",
+      "options": [
+        {
+          "option": "A",
+          "text": "9",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 115%;\"><span style=\"color: #111827;\">9</span></p>"
+        },
+        {
+          "option": "B",
+          "text": "8",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 115%\">\n <span style=\"color: #111827\">8</span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "7",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 115%\">\n <span style=\"color: #111827\">7</span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "6",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 115%\">\n <span style=\"color: #111827\">6</span></p>\n "
+        }
+      ],
+      "correctAnswer": "A",
+      "solutionText": "Each row is consecutive squares: 3² 4²\n 5²; 2² 3² 4²; 1² 2² 3². Missing\n 9.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 115%\">\n <span style=\"color: #111827\">Each row is consecutive squares: 3² 4²\n 5²; 2² 3² 4²; 1² 2² 3². Missing\n 9.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 54,
+      "section": "Numerical Puzzles",
+      "questionId": "6ab2716d3a61899c44d3bdf7",
+      "questionText": "[Circular Wheel] The centre is the product of any opposite pair. Find ?. \n\n Wheel A \n\n 2 \n\n 8 \n\n 16 \n\n 2 \n\n 8 \n\n Wheel B \n\n 3 \n\n 5 \n\n ? \n\n 3 \n\n 5",
+      "questionHtml": "<p style=\"margin-top: 0.288px; margin-bottom: 0.480px;\"><span style=\"color: #111827;\">[Circular Wheel] The centre is the product of any opposite pair. Find ?.</span></p>\n<p style=\"margin-top: 0.288px; margin-bottom: 0.192px;\"><span style=\"color: #4b5563;\"><span style=\"font-size: 12px;\"><em>Wheel A</em></span></span></p>\n<table class=\"MsoNormalTable\" style=\"width: 102.0pt; border-collapse: collapse; border: none; mso-border-alt: solid windowtext .5pt; mso-padding-alt: 0cm .5pt 0cm .5pt; mso-border-insideh: .5pt solid windowtext; mso-border-insidev: .5pt solid windowtext;\" border=\"1\" width=\"136\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr style=\"mso-yfti-irow: 0; mso-yfti-firstrow: yes; page-break-inside: avoid;\">\n<td style=\"width: 34pt; border: 1pt white; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.3pt 1.5pt;\" width=\"45\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .6pt 0cm .6pt 0cm;\"><span style=\"font-size: 10.0pt; color: #111827;\">&nbsp;</span><o:p></o:p></p>\n</td>\n<td style=\"width: 34pt; border-width: 1pt 1pt 1pt medium; border-style: ridge; border-color: #4b5563 #4b5563 #4b5563 currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.3pt 1.5pt;\" width=\"45\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .6pt 0cm .6pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #111827;\">2</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 34pt; border-width: 1pt 1pt 1pt medium; border-style: none; border-color: white white white currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.3pt 1.5pt;\" width=\"45\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .6pt 0cm .6pt 0cm;\"><span style=\"font-size: 10.0pt; color: #111827;\">&nbsp;</span><o:p></o:p></p>\n</td>\n</tr>\n<tr style=\"mso-yfti-irow: 1; page-break-inside: avoid;\">\n<td style=\"width: 34pt; border-width: medium 1pt 1pt; border-style: ridge; border-color: currentcolor #4b5563 #4b5563; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.3pt 1.5pt;\" width=\"45\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .6pt 0cm .6pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #111827;\">8</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 34pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: currentcolor #4b5563 #4b5563 currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.3pt 1.5pt;\" width=\"45\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .6pt 0cm .6pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #111827;\">16</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 34pt; border-width: medium 1pt 1pt medium; border-style: ridge; border-color: currentcolor #4b5563 #4b5563 currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.3pt 1.5pt;\" width=\"45\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .6pt 0cm .6pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #111827;\">2</span></strong><o:p></o:p></p>\n</td>\n</tr>\n<tr style=\"mso-yfti-irow: 2; mso-yfti-lastrow: yes; page-break-inside: avoid;\">\n<td style=\"width: 34pt; border-width: medium 1pt 1pt; border-style: none; border-color: currentcolor white white; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.3pt 1.5pt;\" width=\"45\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .6pt 0cm .6pt 0cm;\"><span style=\"font-size: 10.0pt; color: #111827;\">&nbsp;</span><o:p></o:p></p>\n</td>\n<td style=\"width: 34pt; border-width: medium 1pt 1pt medium; border-style: ridge; border-color: currentcolor #4b5563 #4b5563 currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.3pt 1.5pt;\" width=\"45\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .6pt 0cm .6pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #111827;\">8</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 34pt; border-bottom: 1pt white; border-right: 1pt white; border-top-style: none; border-left-style: none; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.3pt 1.5pt;\" width=\"45\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .6pt 0cm .6pt 0cm;\"><span style=\"font-size: 10.0pt; color: #111827;\">&nbsp;</span><o:p></o:p></p>\n</td>\n</tr>\n</tbody>\n</table>\n<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 115%;\"><em style=\"color: #4b5563; font-size: 12px;\">Wheel B</em></p>\n<table class=\"MsoNormalTable\" style=\"width: 102.0pt; border-collapse: collapse; border: none; mso-border-alt: solid windowtext .5pt; mso-padding-alt: 0cm .5pt 0cm .5pt; mso-border-insideh: .5pt solid windowtext; mso-border-insidev: .5pt solid windowtext;\" border=\"1\" width=\"136\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr style=\"mso-yfti-irow: 0; mso-yfti-firstrow: yes; page-break-inside: avoid;\">\n<td style=\"width: 34pt; border: 1pt white; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.3pt 1.5pt;\" width=\"45\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .6pt 0cm .6pt 0cm;\"><span style=\"font-size: 10.0pt; color: #111827;\">&nbsp;</span><o:p></o:p></p>\n</td>\n<td style=\"width: 34pt; border-width: 1pt 1pt 1pt medium; border-style: ridge; border-color: #4b5563 #4b5563 #4b5563 currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.3pt 1.5pt;\" width=\"45\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .6pt 0cm .6pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #111827;\">3</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 34pt; border-width: 1pt 1pt 1pt medium; border-style: none; border-color: white white white currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.3pt 1.5pt;\" width=\"45\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .6pt 0cm .6pt 0cm;\"><span style=\"font-size: 10.0pt; color: #111827;\">&nbsp;</span><o:p></o:p></p>\n</td>\n</tr>\n<tr style=\"mso-yfti-irow: 1; page-break-inside: avoid;\">\n<td style=\"width: 34pt; border-width: medium 1pt 1pt; border-style: ridge; border-color: currentcolor #4b5563 #4b5563; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.3pt 1.5pt;\" width=\"45\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .6pt 0cm .6pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #111827;\">5</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 34.0pt; border-top: none; border-left: none; border-bottom: solid #4B5563 1.0pt; border-right: solid #4B5563 1.0pt; mso-border-top-alt: solid #4B5563 1.0pt; mso-border-left-alt: solid #4B5563 1.0pt; background: #FEF3C7; padding: 2.3pt 1.5pt 2.3pt 1.5pt;\" width=\"45\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .6pt 0cm .6pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #b45309;\">?</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 34pt; border-width: medium 1pt 1pt medium; border-style: ridge; border-color: currentcolor #4b5563 #4b5563 currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.3pt 1.5pt;\" width=\"45\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .6pt 0cm .6pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #111827;\">3</span></strong><o:p></o:p></p>\n</td>\n</tr>\n<tr style=\"mso-yfti-irow: 2; mso-yfti-lastrow: yes; page-break-inside: avoid;\">\n<td style=\"width: 34pt; border-width: medium 1pt 1pt; border-style: none; border-color: currentcolor white white; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.3pt 1.5pt;\" width=\"45\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .6pt 0cm .6pt 0cm;\"><span style=\"font-size: 10.0pt; color: #111827;\">&nbsp;</span><o:p></o:p></p>\n</td>\n<td style=\"width: 34pt; border-width: medium 1pt 1pt medium; border-style: ridge; border-color: currentcolor #4b5563 #4b5563 currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.3pt 1.5pt;\" width=\"45\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .6pt 0cm .6pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #111827;\">5</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 34pt; border-bottom: 1pt white; border-right: 1pt white; border-top-style: none; border-left-style: none; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.3pt 1.5pt;\" width=\"45\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .6pt 0cm .6pt 0cm;\"><span style=\"font-size: 10.0pt; color: #111827;\">&nbsp;</span><o:p></o:p></p>\n</td>\n</tr>\n</tbody>\n</table>",
+      "options": [
+        {
+          "option": "A",
+          "text": "8",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 115%\">\n <span style=\"color: #111827\">8</span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "10",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 115%\">\n <span style=\"color: #111827\">10</span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "15",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 115%;\"><span style=\"color: #111827;\">15</span></p>"
+        },
+        {
+          "option": "D",
+          "text": "30",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 115%\">\n <span style=\"color: #111827\">30</span></p>\n "
+        }
+      ],
+      "correctAnswer": "C",
+      "solutionText": "Wheel A: 2×8=16. Wheel B: 3×5=15.\n The missing centre is 15.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 115%\">\n <span style=\"color: #111827\">Wheel A: 2×8=16. Wheel B: 3×5=15.\n The missing centre is 15.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 55,
+      "section": "English Grammar",
+      "questionId": "6ab270c1fd118021bfcb2976",
+      "questionText": "[Error Spotting] Identify the error: He\n suggested me to join the evening batch.",
+      "questionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">[Error Spotting] Identify the error: He\n suggested me to join the evening batch.</span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "He suggested me to join",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">He suggested me to join</span></p>"
+        },
+        {
+          "option": "B",
+          "text": "the evening batch",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">the evening batch</span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "No error",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">No error</span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "He suggested",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">He suggested</span></p>\n "
+        }
+      ],
+      "correctAnswer": "A",
+      "solutionText": "Suggest is not followed by object +\n to-infinitive. Use “suggested that I join” or\n “suggested joining.”",
+      "solutionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Suggest is not followed by object +\n to-infinitive. Use “suggested that I join” or\n “suggested joining.”</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 56,
+      "section": "English Grammar",
+      "questionId": "6ab270c1fd11807f41cb297b",
+      "questionText": "[Error Spotting] Identify the error: The\n police is investigating the complaint.",
+      "questionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">[Error Spotting] Identify the error: The\n police is investigating the complaint.</span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "The police",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">The police</span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "is investigating",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">is investigating</span></p>"
+        },
+        {
+          "option": "C",
+          "text": "the complaint",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">the complaint</span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "No error",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">No error</span></p>\n "
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "Police is a plural noun in exam English:\n “The police are investigating.”",
+      "solutionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Police is a plural noun in exam English:\n “The police are investigating.”</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 57,
+      "section": "English Grammar",
+      "questionId": "6ab270c1fd1180ce0dcb296c",
+      "questionText": "[Tenses] I _____ this account since 2021.",
+      "questionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">[Tenses] I _____ this account since 2021.</span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "opened",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">opened</span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "open",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">open</span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "have had",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">have had</span></p>"
+        },
+        {
+          "option": "D",
+          "text": "had open",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">had open</span></p>\n "
+        }
+      ],
+      "correctAnswer": "C",
+      "solutionText": "Since 2021 marks a period up to now, so\n present perfect: have had.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Since 2021 marks a period up to now, so\n present perfect: have had.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 58,
+      "section": "English Grammar",
+      "questionId": "6ab270c1fd118012bccb2967",
+      "questionText": "[Subject–Verb Agreement] Bread and\n butter _____ his usual breakfast.",
+      "questionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">[Subject–Verb Agreement] Bread and\n butter _____ his usual breakfast.</span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "is",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">is</span></p>"
+        },
+        {
+          "option": "B",
+          "text": "are",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">are</span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "were",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">were</span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "have",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">have</span></p>\n "
+        }
+      ],
+      "correctAnswer": "A",
+      "solutionText": "Bread and butter as one meal takes a\n singular verb: is.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Bread and butter as one meal takes a\n singular verb: is.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 59,
+      "section": "English Grammar",
+      "questionId": "6ab270c1fd1180dd3dcb2971",
+      "questionText": "[Prepositions] She is acquainted _____ the\n new tool.",
+      "questionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">[Prepositions] She is acquainted _____ the\n new tool.</span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "to",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">to</span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "with",
+          "isCorrect": true,
+          "rawHtml": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">with</span></p>"
+        },
+        {
+          "option": "C",
+          "text": "of",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">of</span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "from",
+          "isCorrect": false,
+          "rawHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">from</span></p>\n "
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "The collocation is acquainted with.",
+      "solutionHtml": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">The collocation is acquainted with.</span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 60,
+      "section": "Essay Writting",
+      "questionId": "6ab26f53804ce26735391018",
+      "questionText": "Work From Home: Benefits and Challenges\n\n![Figure](Infosys Full Length Mock Test- 4_figures/fig_1_619c4fad.jpeg)",
+      "questionHtml": "<p>Work From Home: Benefits and Challenges<img id=\"3\" src=\"https://cdn-wl-assets.classplus.co/production/single/vlvkc/04254bd5-3730-4db2-9fba-adc9289f1cf9.jpeg\" /></p>",
+      "options": [
+        {
+          "option": "A",
+          "text": "",
+          "isCorrect": true,
+          "rawHtml": ""
+        }
+      ],
+      "correctAnswer": "A",
+      "solutionText": "Work from home has become an important part of the modern working environment. With the help of computers, smartphones, and internet connectivity, employees can perform many professional tasks without visiting an office.\n\n One major benefit of working from home is flexibility. Employees can save travelling time and use it for productive activities. It can also help people maintain a better balance between their professional and personal responsibilities. Companies may also reduce certain office-related expenses by adopting remote work.\n\n However, work from home also has some challenges. Employees may face communication problems, technical issues, or distractions at home. Long working hours and limited interaction with colleagues can also affect productivity and teamwork. Therefore, proper planning and communication are necessary for successful remote working.\n\n In conclusion, work from home offers several advantages but also requires discipline and effective communication. When employees and organizations use suitable technology and maintain clear work schedules, remote working can become an effective way of working in the modern professional world.",
+      "solutionHtml": "<p dir=\"auto\" data-start=\"165\" data-end=\"385\" class=\"PDq2pG_selectionAnchorContainer\">Work from home has become an important part of the modern working environment. With the help of computers, smartphones, and internet connectivity, employees can perform many professional tasks without visiting an office.</p>\n<p dir=\"auto\" data-start=\"165\" data-end=\"385\" class=\"PDq2pG_selectionAnchorContainer\"></p>\n<p dir=\"auto\" data-start=\"387\" data-end=\"705\">One major benefit of working from home is flexibility. Employees can save travelling time and use it for productive activities. It can also help people maintain a better balance between their professional and personal responsibilities. Companies may also reduce certain office-related expenses by adopting remote work.</p>\n<p dir=\"auto\" data-start=\"387\" data-end=\"705\"></p>\n<p dir=\"auto\" data-start=\"707\" data-end=\"1034\">However, work from home also has some challenges. Employees may face communication problems, technical issues, or distractions at home. Long working hours and limited interaction with colleagues can also affect productivity and teamwork. Therefore, proper planning and communication are necessary for successful remote working.</p>\n<p dir=\"auto\" data-start=\"707\" data-end=\"1034\"></p>\n<p></p>\n<p dir=\"auto\" data-start=\"1036\" data-end=\"1329\" data-is-last-node=\"\" data-is-only-node=\"\">In conclusion, work from home offers several advantages but also requires discipline and effective communication. When employees and organizations use suitable technology and maintain clear work schedules, remote working can become an effective way of working in the modern professional world.</p>",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": [
+        "Infosys Full Length Mock Test- 4_figures/fig_1_619c4fad.jpeg"
+      ]
+    }
+  ]
+}

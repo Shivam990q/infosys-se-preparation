@@ -1,0 +1,829 @@
+{
+  "testName": "Seating Arrangement",
+  "testId": "67bd831a399f656c5e09abf0",
+  "contentId": 23945646,
+  "totalQuestions": 20,
+  "totalFigures": 20,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "section": "Seating Arrangement",
+      "questionId": "67bd8330aaf10951a4324c92",
+      "questionText": "Eight\n persons viz. A, B, C, D, E, F, G, and H are sitting around a\n circular table such that all of them are facing towards the\n center. The consecutive alphabetically named persons are not\n sitting adjacent to each other. Two persons sit between A and C,\n who faces E. Only one person sits between A and F. The number of\n persons sitting between E and F is twice the number of persons\n sitting between C and H when counted from the right of both F and\n C. D sits exactly between B and G, who doesn’t sit adjacent\n to E. \n\n What\n is the position of F with respect to H?",
+      "questionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Eight\n persons viz. A, B, C, D, E, F, G, and H are sitting around a\n circular table such that all of them are facing towards the\n center. The consecutive alphabetically named persons are not\n sitting adjacent to each other. Two persons sit between A and C,\n who faces E. Only one person sits between A and F. The number of\n persons sitting between E and F is twice the number of persons\n sitting between C and H when counted from the right of both F and\n C. D sits exactly between B and G, who doesn’t sit adjacent\n to E.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">What\n is the position of F with respect to H?</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "Fourth\n to the right",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Fourth\n to the right</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "Immediate\n left",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Immediate\n left</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "Second\n to the left",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Second\n to the left</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "Third\n to the right",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Third\n to the right</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "![Figure](Seating Arrangement_figures/fig_1_2e68dfce.png)",
+      "solutionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"https://cms-cdn.classplus.co/parserImages/production/848391_1740473135693.png\" name=\"Picture 4\" align=\"bottom\" width=\"163\" height=\"140\" border=\"0\">\n</img></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": [
+        "Seating Arrangement_figures/fig_1_2e68dfce.png"
+      ]
+    },
+    {
+      "questionNumber": 2,
+      "section": "Seating Arrangement",
+      "questionId": "67bd8330aaf1092292324c88",
+      "questionText": "Each\n of these questions are based on the information given below: \n\n A\n ,B, C, D and E are five men sitting in a line facing to south -\n while M, N, O, P and Q are five ladies sitting in a second line\n parallel to the first line and are facing to North. \n\n B\n who is just next to the left of D, is opposite to Q. \n\n C\n and N are diagonally opposite to each other. \n\n E\n is opposite to O who is just next right of M. \n\n P\n who is just to the left of Q, is opposite to D. \n\n M\n is at one end of the line. \n\n Which\n of the following pair is diagonally opposite to each other?",
+      "questionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Each\n of these questions are based on the information given below:</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">A\n ,B, C, D and E are five men sitting in a line facing to south -\n while M, N, O, P and Q are five ladies sitting in a second line\n parallel to the first line and are facing to North.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">B\n who is just next to the left of D, is opposite to Q.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">C\n and N are diagonally opposite to each other.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">E\n is opposite to O who is just next right of M.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">P\n who is just to the left of Q, is opposite to D.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">M\n is at one end of the line.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Which\n of the following pair is diagonally opposite to each other?</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "EQ",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">EQ</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "BO",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">BO</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "AN",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">AN</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "AM",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">AM</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "D",
+      "solutionText": "![Figure](Seating Arrangement_figures/fig_1_7f797fe0.jpg)",
+      "solutionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"https://cms-cdn.classplus.co/parserImages/production/523715_1740473135585.jpg\" name=\"Picture 20\" align=\"bottom\" width=\"273\" height=\"143\" border=\"0\">\n</img></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": [
+        "Seating Arrangement_figures/fig_1_7f797fe0.jpg"
+      ]
+    },
+    {
+      "questionNumber": 3,
+      "section": "Seating Arrangement",
+      "questionId": "67bd8330aaf1091780324c6f",
+      "questionText": "Six\n friends P, Q, R, S, T and U are sitting around the hexagonal table\n each at one corner and are facing the centre of the hexagonal. P\n is second to the left of U. Q is neighbour of R and S. T is second\n to the left of S. Which of the following are the neighbours of P ?",
+      "questionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Six\n friends P, Q, R, S, T and U are sitting around the hexagonal table\n each at one corner and are facing the centre of the hexagonal. P\n is second to the left of U. Q is neighbour of R and S. T is second\n to the left of S. Which of the following are the neighbours of P ?</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "U,P",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">U,P</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "U,R",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">U,R</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "T,R",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">T,R</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "None",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">None</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "C",
+      "solutionText": "![Figure](Seating Arrangement_figures/fig_1_5e27fb5b.png)",
+      "solutionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"https://cms-cdn.classplus.co/parserImages/production/446571_1740473135311.png\" name=\"Picture 18\" align=\"bottom\" width=\"148\" height=\"175\" border=\"0\">\n</img></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": [
+        "Seating Arrangement_figures/fig_1_5e27fb5b.png"
+      ]
+    },
+    {
+      "questionNumber": 4,
+      "section": "Seating Arrangement",
+      "questionId": "67bd8330aaf1094980324c60",
+      "questionText": "Eight\n persons – Amar, Ansh, Arun, Amit, Ashu, Anup, Arif and Anil,\n are sitting around a circular table facing the centre but not\n necessarily in the same order. Arif is to the immediate left of\n Ashu. Anup is to the immediate left of Arun. Amar is the neighbour\n of Ansh. Amit is between Anup and Ansh. Arif is not the neighbour\n of Ansh or Anil. What is the position of Arif with respect to\n Amit?",
+      "questionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Eight\n persons – Amar, Ansh, Arun, Amit, Ashu, Anup, Arif and Anil,\n are sitting around a circular table facing the centre but not\n necessarily in the same order. Arif is to the immediate left of\n Ashu. Anup is to the immediate left of Arun. Amar is the neighbour\n of Ansh. Amit is between Anup and Ansh. Arif is not the neighbour\n of Ansh or Anil. What is the position of Arif with respect to\n Amit?</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "Third\n to the right",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Third\n to the right</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "Second\n to the left",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Second\n to the left</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "Fourth\n to the right",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Fourth\n to the right</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "Fourth\n to the left",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Fourth\n to the left</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "A",
+      "solutionText": "Following\n the final solution, we can say that Arif is third to the right of\n Amit.\n\n![Figure](Seating Arrangement_figures/fig_1_20108228.png)",
+      "solutionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"https://cms-cdn.classplus.co/parserImages/production/312481_1740473135141.png\" name=\"Picture 12\" align=\"bottom\" width=\"167\" height=\"138\" border=\"0\">\n</img></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Following\n the final solution, we can say that Arif is third to the right of\n Amit.</span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": [
+        "Seating Arrangement_figures/fig_1_20108228.png"
+      ]
+    },
+    {
+      "questionNumber": 5,
+      "section": "Seating Arrangement",
+      "questionId": "67bd8330aaf1092d81324ca6",
+      "questionText": "Six\n persons namely P, R, S, T, W, and X are sitting around a\n rectangular table such that one sits at each of the shorter sides\n and two sit at each of the longer sides of the table facing\n towards the center of the table. \n\n W\n sits on the longer side and two persons sit between P and W. R\n sits opposite to X and is near P. T doesn't sit near W. X doesn't\n sit immediately left of T. Pick the odd one out.",
+      "questionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Six\n persons namely P, R, S, T, W, and X are sitting around a\n rectangular table such that one sits at each of the shorter sides\n and two sit at each of the longer sides of the table facing\n towards the center of the table.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">W\n sits on the longer side and two persons sit between P and W. R\n sits opposite to X and is near P. T doesn't sit near W. X doesn't\n sit immediately left of T. Pick the odd one out.</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "T",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">T</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "P",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">P</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "W",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">W</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "None",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">None</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "D",
+      "solutionText": "Clearly,\n all of them are facing inside and sitting on the longer sides. \n\n None\n is odd.\n\n![Figure](Seating Arrangement_figures/fig_1_34448271.jpg)",
+      "solutionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"https://cms-cdn.classplus.co/parserImages/production/481400_1740473135902.jpg\" name=\"Picture 15\" align=\"bottom\" width=\"193\" height=\"120\" border=\"0\">\n</img></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Clearly,\n all of them are facing inside and sitting on the longer sides.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">None\n is odd.</span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": [
+        "Seating Arrangement_figures/fig_1_34448271.jpg"
+      ]
+    },
+    {
+      "questionNumber": 6,
+      "section": "Seating Arrangement",
+      "questionId": "67bd8330aaf1095bd5324ca1",
+      "questionText": "Six\n persons namely P, R, S, T, W, and X are sitting around a\n rectangular table such that one sits at each of the shorter sides\n and two sit at each of the longer sides of the table facing\n towards the center of the table. \n\n W\n sits on the longer side and two persons sit between P and W. R\n sits opposite to X and is near P. T doesn't sit near W. X doesn't\n sit immediately left of T. How many persons sit between P and T\n when counted from the left of P?",
+      "questionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Six\n persons namely P, R, S, T, W, and X are sitting around a\n rectangular table such that one sits at each of the shorter sides\n and two sit at each of the longer sides of the table facing\n towards the center of the table.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">W\n sits on the longer side and two persons sit between P and W. R\n sits opposite to X and is near P. T doesn't sit near W. X doesn't\n sit immediately left of T. How many persons sit between P and T\n when counted from the left of P?</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "1",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">1</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "2",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">2</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "3",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">3</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "4",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">4</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "D",
+      "solutionText": "![Figure](Seating Arrangement_figures/fig_1_128c8cf9.jpg)",
+      "solutionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"https://cms-cdn.classplus.co/parserImages/production/976111_1740473135846.jpg\" name=\"Picture 14\" align=\"bottom\" width=\"193\" height=\"120\" border=\"0\">\n</img></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": [
+        "Seating Arrangement_figures/fig_1_128c8cf9.jpg"
+      ]
+    },
+    {
+      "questionNumber": 7,
+      "section": "Seating Arrangement",
+      "questionId": "67bd8330aaf109624e324c83",
+      "questionText": "A,\n P, R, X, S and Z are sitting in a row. S and Z are in the centre.\n A and P are at the ends. R is sitting to the left of A. Who is to\n the right of P ?",
+      "questionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">A,\n P, R, X, S and Z are sitting in a row. S and Z are in the centre.\n A and P are at the ends. R is sitting to the left of A. Who is to\n the right of P ?</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "X",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">X</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "S",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">S</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "Z",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Z</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "A",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">A</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "A",
+      "solutionText": "![Figure](Seating Arrangement_figures/fig_1_7acba07b.png)",
+      "solutionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"https://cms-cdn.classplus.co/parserImages/production/646714_1740473135534.png\" name=\"Picture 22\" align=\"bottom\" width=\"307\" height=\"113\" border=\"0\">\n</img></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": [
+        "Seating Arrangement_figures/fig_1_7acba07b.png"
+      ]
+    },
+    {
+      "questionNumber": 8,
+      "section": "Seating Arrangement",
+      "questionId": "67bd8330aaf10985eb324c51",
+      "questionText": "Five\n girls are sitting on a bench to be photographed. Seema is to the\n left of Rani and to the right of Bindu. Mary is to the right of\n Rani. Reeta is between Rani and Mary. Who is sitting immediate\n right to Reeta ?",
+      "questionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Five\n girls are sitting on a bench to be photographed. Seema is to the\n left of Rani and to the right of Bindu. Mary is to the right of\n Rani. Reeta is between Rani and Mary. Who is sitting immediate\n right to Reeta ?</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "Bindu",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Bindu\n </span></span></span></span>\n </p>\n "
+        },
+        {
+          "option": "B",
+          "text": "Rani",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Rani</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "Mary",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Mary</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "Seema",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Seema</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "C",
+      "solutionText": "![Figure](Seating Arrangement_figures/fig_1_1b30f8ac.jpg)",
+      "solutionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"https://cms-cdn.classplus.co/parserImages/production/119877_1740473134961.jpg\" name=\"Picture 3\" align=\"bottom\" width=\"325\" height=\"75\" border=\"0\">\n</img></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": [
+        "Seating Arrangement_figures/fig_1_1b30f8ac.jpg"
+      ]
+    },
+    {
+      "questionNumber": 9,
+      "section": "Seating Arrangement",
+      "questionId": "67bd8330aaf1095b3b324c9c",
+      "questionText": "Eight\n persons viz. A, B, C, D, E, F, G, and H are sitting around a\n circular table such that all of them are facing towards the\n center. The consecutive alphabetically named persons are not\n sitting adjacent to each other. Two persons sit between A and C,\n who faces E. Only one person sits between A and F. The number of\n persons sitting between E and F is twice the number of persons\n sitting between C and H when counted from the right of both F and\n C. D sits exactly between B and G, who doesn’t sit adjacent\n to E. \n\n Who\n among the following person sits second to the left of C?",
+      "questionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Eight\n persons viz. A, B, C, D, E, F, G, and H are sitting around a\n circular table such that all of them are facing towards the\n center. The consecutive alphabetically named persons are not\n sitting adjacent to each other. Two persons sit between A and C,\n who faces E. Only one person sits between A and F. The number of\n persons sitting between E and F is twice the number of persons\n sitting between C and H when counted from the right of both F and\n C. D sits exactly between B and G, who doesn’t sit adjacent\n to E.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Who\n among the following person sits second to the left of C?</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "The\n one who sits to the immediate right of E",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">The\n one who sits to the immediate right of E</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "G",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">G</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "The\n one who sits third to the right of A",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">The\n one who sits third to the right of A</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "H",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">H</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "C",
+      "solutionText": "![Figure](Seating Arrangement_figures/fig_1_62ec03f4.png)",
+      "solutionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"https://cms-cdn.classplus.co/parserImages/production/278993_1740473135792.png\" name=\"Picture 8\" align=\"bottom\" width=\"163\" height=\"140\" border=\"0\">\n</img></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": [
+        "Seating Arrangement_figures/fig_1_62ec03f4.png"
+      ]
+    },
+    {
+      "questionNumber": 10,
+      "section": "Seating Arrangement",
+      "questionId": "67bd8330aaf1093eaa324c4c",
+      "questionText": "A,\n B, C, D and E are sitting on a bench. A is sitting next to B, C is\n sitting next to D, D is not sitting with E who is on the left end\n of the bench. C is on the second position from the right. A is to\n the right of B and E. A and C are sitting together. In which\n position A is sitting ?",
+      "questionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">A,\n B, C, D and E are sitting on a bench. A is sitting next to B, C is\n sitting next to D, D is not sitting with E who is on the left end\n of the bench. C is on the second position from the right. A is to\n the right of B and E. A and C are sitting together. In which\n position A is sitting ?</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "Between\n B and C",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Between\n B and C</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "Between\n B and D",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Between\n B and D</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "Between\n E and D",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Between\n E and D</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "Between\n C and D",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Between\n C and D</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "A",
+      "solutionText": "![Figure](Seating Arrangement_figures/fig_1_74f63cb1.jpg)",
+      "solutionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"https://cms-cdn.classplus.co/parserImages/production/649605_1740473134866.jpg\" name=\"Picture 2\" align=\"bottom\" width=\"263\" height=\"93\" border=\"0\">\n</img></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": [
+        "Seating Arrangement_figures/fig_1_74f63cb1.jpg"
+      ]
+    },
+    {
+      "questionNumber": 11,
+      "section": "Seating Arrangement",
+      "questionId": "67bd8330aaf1099a46324c8d",
+      "questionText": "Each\n of these questions are based on the information given below: \n\n A\n ,B, C, D and E are five men sitting in a line facing to south -\n while M, N, O, P and Q are five ladies sitting in a second line\n parallel to the first line and are facing to North. \n\n B\n who is just next to the left of D, is opposite to Q. \n\n C\n and N are diagonally opposite to each other. \n\n E\n is opposite to O who is just next right of M. \n\n P\n who is just to the left of Q, is opposite to D. \n\n M\n is at one end of the line. \n\n Who\n is sitting just opposite to N ?",
+      "questionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Each\n of these questions are based on the information given below:</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">A\n ,B, C, D and E are five men sitting in a line facing to south -\n while M, N, O, P and Q are five ladies sitting in a second line\n parallel to the first line and are facing to North.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">B\n who is just next to the left of D, is opposite to Q.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">C\n and N are diagonally opposite to each other.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">E\n is opposite to O who is just next right of M.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">P\n who is just to the left of Q, is opposite to D.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">M\n is at one end of the line.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Who\n is sitting just opposite to N ?</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "B",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">B</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "A",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">A</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "C",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">C</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "D",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">D</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "![Figure](Seating Arrangement_figures/fig_1_3ccb085e.jpg)",
+      "solutionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"https://cms-cdn.classplus.co/parserImages/production/481877_1740473135641.jpg\" name=\"Picture 19\" align=\"bottom\" width=\"273\" height=\"143\" border=\"0\">\n</img></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": [
+        "Seating Arrangement_figures/fig_1_3ccb085e.jpg"
+      ]
+    },
+    {
+      "questionNumber": 12,
+      "section": "Seating Arrangement",
+      "questionId": "67bd8330aaf109c921324c6a",
+      "questionText": "Six\n friends P, Q, R, S, T and U are sitting around the hexagonal table\n each at one corner and are facing the centre of the hexagonal. P\n is second to the left of U. Q is neighbour of R and S. T is second\n to the left of S. Which one is sitting opposite to P ?",
+      "questionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Six\n friends P, Q, R, S, T and U are sitting around the hexagonal table\n each at one corner and are facing the centre of the hexagonal. P\n is second to the left of U. Q is neighbour of R and S. T is second\n to the left of S. Which one is sitting opposite to P ?</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "R",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">R</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "S",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">S</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "T",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">T</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "Q",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Q</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "![Figure](Seating Arrangement_figures/fig_1_27bc1880.png)",
+      "solutionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"https://cms-cdn.classplus.co/parserImages/production/449032_1740473135238.png\" name=\"Picture 17\" align=\"bottom\" width=\"148\" height=\"175\" border=\"0\">\n</img></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": [
+        "Seating Arrangement_figures/fig_1_27bc1880.png"
+      ]
+    },
+    {
+      "questionNumber": 13,
+      "section": "Seating Arrangement",
+      "questionId": "67bd8330aaf1095032324c79",
+      "questionText": "In\n a group discussion A, B, C, D, E and F are sitting around a\n rectangular table. \n\n A\n is sitting on a side alone. B, C are sitting on the same side. F\n is facing A. D is the immediate left of F. C is facing D. Who is\n immediate right of A?",
+      "questionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">In\n a group discussion A, B, C, D, E and F are sitting around a\n rectangular table.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">A\n is sitting on a side alone. B, C are sitting on the same side. F\n is facing A. D is the immediate left of F. C is facing D. Who is\n immediate right of A?</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "B",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">B</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "F",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">F</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "D",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">D</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "E",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">E</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "D",
+      "solutionText": "![Figure](Seating Arrangement_figures/fig_1_4d1be4e5.jpg)",
+      "solutionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"https://cms-cdn.classplus.co/parserImages/production/465963_1740473135423.jpg\" name=\"Picture 10\" align=\"bottom\" width=\"231\" height=\"149\" border=\"0\">\n</img></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": [
+        "Seating Arrangement_figures/fig_1_4d1be4e5.jpg"
+      ]
+    },
+    {
+      "questionNumber": 14,
+      "section": "Seating Arrangement",
+      "questionId": "67bd8330aaf109c659324c97",
+      "questionText": "Eight\n persons viz. A, B, C, D, E, F, G, and H are sitting around a\n circular table such that all of them are facing towards the\n center. The consecutive alphabetically named persons are not\n sitting adjacent to each other. Two persons sit between A and C,\n who faces E. Only one person sits between A and F. The number of\n persons sitting between E and F is twice the number of persons\n sitting between C and H when counted from the right of both F and\n C. D sits exactly between B and G, who doesn’t sit adjacent\n to E. \n\n Find\n out the series that follow the same logic. \n\n DG\n FA BC ___",
+      "questionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Eight\n persons viz. A, B, C, D, E, F, G, and H are sitting around a\n circular table such that all of them are facing towards the\n center. The consecutive alphabetically named persons are not\n sitting adjacent to each other. Two persons sit between A and C,\n who faces E. Only one person sits between A and F. The number of\n persons sitting between E and F is twice the number of persons\n sitting between C and H when counted from the right of both F and\n C. D sits exactly between B and G, who doesn’t sit adjacent\n to E.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Find\n out the series that follow the same logic.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">DG\n FA BC ___</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "HD",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">HD</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "FE",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">FE</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "HB",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">HB</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "AG",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">AG</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "A",
+      "solutionText": "![Figure](Seating Arrangement_figures/fig_1_74b91918.png)",
+      "solutionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"https://cms-cdn.classplus.co/parserImages/production/641717_1740473135744.png\" name=\"Picture 7\" align=\"bottom\" width=\"163\" height=\"140\" border=\"0\">\n</img></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": [
+        "Seating Arrangement_figures/fig_1_74b91918.png"
+      ]
+    },
+    {
+      "questionNumber": 15,
+      "section": "Seating Arrangement",
+      "questionId": "67bd8330aaf10922c4324c74",
+      "questionText": "In\n a group discussion A, B, C, D, E and F are sitting around a\n rectangular table. \n\n A\n is sitting on a side alone. B, C are sitting on the same side. F\n is facing A. D is the immediate left of F. C is facing D. Who is\n between B and F?",
+      "questionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">In\n a group discussion A, B, C, D, E and F are sitting around a\n rectangular table.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">A\n is sitting on a side alone. B, C are sitting on the same side. F\n is facing A. D is the immediate left of F. C is facing D. Who is\n between B and F?</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "C",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">C</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "D",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">D</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "A",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">A</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "E",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">E</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "A",
+      "solutionText": "![Figure](Seating Arrangement_figures/fig_1_7012a0aa.jpg)",
+      "solutionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"https://cms-cdn.classplus.co/parserImages/production/294667_1740473135370.jpg\" name=\"Picture 9\" align=\"bottom\" width=\"231\" height=\"149\" border=\"0\">\n</img></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": [
+        "Seating Arrangement_figures/fig_1_7012a0aa.jpg"
+      ]
+    },
+    {
+      "questionNumber": 16,
+      "section": "Seating Arrangement",
+      "questionId": "67bd8330aaf1090963324c7e",
+      "questionText": "Six\n people - S, T, U, V, W and Z are sitting around a circular table\n facing towards centre. Only one person is sitting between T and W.\n Z is an immediate neighbour of W. S is sitting third to left of Z.\n U is an immediate neighbour of W. V is not sitting immediate left\n of T. How many people are sitting between U and Z, when counted\n from the right of Z?",
+      "questionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Six\n people - S, T, U, V, W and Z are sitting around a circular table\n facing towards centre. Only one person is sitting between T and W.\n Z is an immediate neighbour of W. S is sitting third to left of Z.\n U is an immediate neighbour of W. V is not sitting immediate left\n of T. How many people are sitting between U and Z, when counted\n from the right of Z?</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "1",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">1</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "2",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">2</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "3",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">3</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "4",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">4</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "C",
+      "solutionText": "T,V\n and S are sitting between U and Z when counted from the right of\n Z.\n\n![Figure](Seating Arrangement_figures/fig_1_6171ec0a.jpg)",
+      "solutionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"https://cms-cdn.classplus.co/parserImages/production/901469_1740473135478.jpg\" name=\"Picture 1\" align=\"bottom\" width=\"185\" height=\"196\" border=\"0\">\n</img></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">T,V\n and S are sitting between U and Z when counted from the right of\n Z.</span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": [
+        "Seating Arrangement_figures/fig_1_6171ec0a.jpg"
+      ]
+    },
+    {
+      "questionNumber": 17,
+      "section": "Seating Arrangement",
+      "questionId": "67bd8330aaf1096f86324c56",
+      "questionText": "Five\n girls are sitting on a bench to be photographed. Seema is to the\n left of Rani and to the right of Bindu. Mary is to the right of\n Rani. Reeta is between Rani and Mary. Who is in the middle of the\n photograph ?",
+      "questionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Five\n girls are sitting on a bench to be photographed. Seema is to the\n left of Rani and to the right of Bindu. Mary is to the right of\n Rani. Reeta is between Rani and Mary. Who is in the middle of the\n photograph ?</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "Bindu",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Bindu</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "Rani",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Rani</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "Seema",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Seema</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "Reeta",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Reeta</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "![Figure](Seating Arrangement_figures/fig_1_755978f1.jpg)",
+      "solutionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"https://cms-cdn.classplus.co/parserImages/production/49199_1740473135036.jpg\" name=\"Picture 21\" align=\"bottom\" width=\"325\" height=\"75\" border=\"0\">\n</img></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": [
+        "Seating Arrangement_figures/fig_1_755978f1.jpg"
+      ]
+    },
+    {
+      "questionNumber": 18,
+      "section": "Seating Arrangement",
+      "questionId": "67bd8330aaf1091224324c5b",
+      "questionText": "Eight\n persons – Amar, Ansh, Arun, Amit, Ashu, Anup, Arif and Anil,\n are sitting around a circular table facing the centre but not\n necessarily in the same order. Arif is to the immediate left of\n Ashu. Anup is to the immediate left of Arun. Amar is the neighbour\n of Ansh. Amit is between Anup and Ansh. Arif is not the neighbour\n of Ansh or Anil. How many persons were sitting between Amit and\n Anil, when counted from the left of Anil?",
+      "questionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Eight\n persons – Amar, Ansh, Arun, Amit, Ashu, Anup, Arif and Anil,\n are sitting around a circular table facing the centre but not\n necessarily in the same order. Arif is to the immediate left of\n Ashu. Anup is to the immediate left of Arun. Amar is the neighbour\n of Ansh. Amit is between Anup and Ansh. Arif is not the neighbour\n of Ansh or Anil. How many persons were sitting between Amit and\n Anil, when counted from the left of Anil?</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "1",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">1</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "2",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">2</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "3",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">3</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "4",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">4</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "D",
+      "solutionText": "Following\n the final solution, we can say that four persons were sitting\n between Amit and Anil, when counted from the left of Anil.\n\n![Figure](Seating Arrangement_figures/fig_1_20002838.png)",
+      "solutionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"https://cms-cdn.classplus.co/parserImages/production/527311_1740473135091.png\" name=\"Picture 11\" align=\"bottom\" width=\"167\" height=\"138\" border=\"0\">\n</img></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Following\n the final solution, we can say that four persons were sitting\n between Amit and Anil, when counted from the left of Anil.</span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": [
+        "Seating Arrangement_figures/fig_1_20002838.png"
+      ]
+    },
+    {
+      "questionNumber": 19,
+      "section": "Seating Arrangement",
+      "questionId": "67bd8330aaf109518e324c65",
+      "questionText": "Eight\n persons – Amar, Ansh, Arun, Amit, Ashu, Anup, Arif and Anil,\n are sitting around a circular table facing the centre but not\n necessarily in the same order. Arif is to the immediate left of\n Ashu. Anup is to the immediate left of Arun. Amar is the neighbour\n of Ansh. Amit is between Anup and Ansh. Arif is not the neighbour\n of Ansh or Anil. Which of the following person sits opposite to\n the one who sits third to the left of Anil?",
+      "questionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Eight\n persons – Amar, Ansh, Arun, Amit, Ashu, Anup, Arif and Anil,\n are sitting around a circular table facing the centre but not\n necessarily in the same order. Arif is to the immediate left of\n Ashu. Anup is to the immediate left of Arun. Amar is the neighbour\n of Ansh. Amit is between Anup and Ansh. Arif is not the neighbour\n of Ansh or Anil. Which of the following person sits opposite to\n the one who sits third to the left of Anil?</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "Anup",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Anup</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "Arif",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Arif</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "Amar",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Amar</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "Arun",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Arun</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "C",
+      "solutionText": "In\n the following common it is clear that Amar sits opposite to the\n one who sits third to the left of Anil.\n\n![Figure](Seating Arrangement_figures/fig_1_21872621.png)",
+      "solutionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"https://cms-cdn.classplus.co/parserImages/production/330801_1740473135184.png\" name=\"Picture 13\" align=\"bottom\" width=\"167\" height=\"138\" border=\"0\">\n</img></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">In\n the following common it is clear that Amar sits opposite to the\n one who sits third to the left of Anil.</span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": [
+        "Seating Arrangement_figures/fig_1_21872621.png"
+      ]
+    },
+    {
+      "questionNumber": 20,
+      "section": "Seating Arrangement",
+      "questionId": "67bd8330aaf109154d324cab",
+      "questionText": "Six\n persons namely P, R, S, T, W, and X are sitting around a\n rectangular table such that one sits at each of the shorter sides\n and two sit at each of the longer sides of the table facing\n towards the center of the table. \n\n W\n sits on the longer side and two persons sit between P and W. R\n sits opposite to X and is near P. T doesn't sit near W. X doesn't\n sit immediately left of T. Who sits second to the right of P?",
+      "questionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Six\n persons namely P, R, S, T, W, and X are sitting around a\n rectangular table such that one sits at each of the shorter sides\n and two sit at each of the longer sides of the table facing\n towards the center of the table.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">W\n sits on the longer side and two persons sit between P and W. R\n sits opposite to X and is near P. T doesn't sit near W. X doesn't\n sit immediately left of T. Who sits second to the right of P?</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "T",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">T</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "R",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">R</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "X",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">X</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "S",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">S</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "C",
+      "solutionText": "![Figure](Seating Arrangement_figures/fig_1_3badfa7d.jpg)",
+      "solutionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"https://cms-cdn.classplus.co/parserImages/production/573935_1740473135949.jpg\" name=\"Picture 16\" align=\"bottom\" width=\"193\" height=\"120\" border=\"0\">\n</img></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": [
+        "Seating Arrangement_figures/fig_1_3badfa7d.jpg"
+      ]
+    }
+  ]
+}

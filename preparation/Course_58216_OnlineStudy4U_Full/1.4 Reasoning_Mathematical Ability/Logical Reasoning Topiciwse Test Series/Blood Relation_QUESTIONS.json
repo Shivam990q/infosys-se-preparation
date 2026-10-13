@@ -1,0 +1,825 @@
+{
+  "testName": "Blood Relation",
+  "testId": "67b5786d8db99f0c78d663aa",
+  "contentId": 23945642,
+  "totalQuestions": 20,
+  "totalFigures": 18,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "section": "Blood Relation",
+      "questionId": "67b5788589e04a7ed9825d38",
+      "questionText": "A\n * B means B is wife of A. \n\n A\n @ B means B is son of A. \n\n B\n $ A means A is father of B. \n\n B\n # A means A is brother of B. \n\n If\n L @ M # Q * S is true for a family members, how is S related to L?",
+      "questionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">A\n * B means B is wife of A.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">A\n @ B means B is son of A.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">B\n $ A means A is father of B.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">B\n # A means A is brother of B.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n L @ M # Q * S is true for a family members, how is S related to L?</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "Brother\n in law",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Brother\n in law</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "Mother\n in law",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Mother\n in law</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "Father\n in law",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Father\n in law</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "Daughter\n in law",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Daughter\n in law</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "D",
+      "solutionText": "As\n we can observe from the blood relation tree below, S is daughter\n in law of L.\n\n![Figure](Blood Relation_figures/fig_1_c19c86a4.png)",
+      "solutionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"https://cms-cdn.classplus.co/parserImages/production/128333_1739946116607.png\" name=\"Picture 8\" align=\"bottom\" width=\"150\" height=\"103\" border=\"0\">\n<span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\"><br>\nAs\n we can observe from the blood relation tree below, S is daughter\n in law of L.</span></span></span></img></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": [
+        "Blood Relation_figures/fig_1_c19c86a4.png"
+      ]
+    },
+    {
+      "questionNumber": 2,
+      "section": "Blood Relation",
+      "questionId": "67b5788589e04a743c825cfc",
+      "questionText": "Introducing\n Reeta, Sarika said, “She is the only daughter of my father’s\n only daughter.” How is Sarika related to Reeta?",
+      "questionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Introducing\n Reeta, Sarika said, “She is the only daughter of my father’s\n only daughter.” How is Sarika related to Reeta?</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "Aunt",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Aunt</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "Niece",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Niece</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "Cousin",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Cousin</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "Mother",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Mother</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "D",
+      "solutionText": "Sarika\n is Reeta’s mother\n\n![Figure](Blood Relation_figures/fig_1_7197cf2a.jpg)",
+      "solutionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"https://cms-cdn.classplus.co/parserImages/production/596002_1739946116025.jpg\" name=\"Picture 4\" align=\"bottom\" width=\"181\" height=\"190\" border=\"0\">\n</img></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Sarika\n is Reeta’s mother</span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": [
+        "Blood Relation_figures/fig_1_7197cf2a.jpg"
+      ]
+    },
+    {
+      "questionNumber": 3,
+      "section": "Blood Relation",
+      "questionId": "67b5788589e04ab636825d24",
+      "questionText": "X @ Y means X is son of Y\n\n X # Y means Y is father of X\n\n X? Y means Y is daughter of X\n\n X! Y means X is mother of Y\n\n X * Y means X is brother of Y. \n\n How is W related to K for the following expression?\n\n J@K!T*W?X#Z",
+      "questionHtml": "<p>X @ Y means X is son of Y</p>\n<p>X # Y means Y is father of X</p>\n<p>X? Y means Y is daughter of X</p>\n<p>X! Y means X is mother of Y</p>\n<p>X * Y means X is brother of Y.&nbsp;</p>\n<p>How is W related to K for the following expression?</p>\n<p>J@K!T*W?X#Z</p>",
+      "options": [
+        {
+          "option": "A",
+          "text": "Daughter",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none;\"><span style=\"color: #000000;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-family: Cambria,serif;\"><span style=\"font-size: 19px;\">Daughter</span></span></span></span></p>"
+        },
+        {
+          "option": "B",
+          "text": "Sister",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none;\"><span style=\"color: #000000;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-family: Cambria,serif;\"><span style=\"font-size: 19px;\">Sister</span></span></span></span></p>"
+        },
+        {
+          "option": "C",
+          "text": "Son",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none;\"><span style=\"color: #000000;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-family: Cambria,serif;\"><span style=\"font-size: 19px;\">Son</span></span></span></span></p>"
+        },
+        {
+          "option": "D",
+          "text": "Brother",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none;\"><span style=\"color: #000000;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-family: Cambria,serif;\"><span style=\"font-size: 19px;\">Brother</span></span></span></span></p>"
+        }
+      ],
+      "correctAnswer": "A",
+      "solutionText": "J is the son of K. K is the mother of T. T is the brother of W. X is the daughter of W. Z is the father of X.\n\n![Figure](Blood Relation_figures/fig_1_4442fd6c.png)",
+      "solutionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none;\"><img src=\"https://cms-cdn.classplus.co/parserImages/1a5a65bc-a013-40b9-aec3-f409be514747.png\" alt=\"\" /></p>\n<p align=\"justify\" style=\"text-decoration: none;\"><span style=\"color: #000000; font-family: Cambria, serif;\"><span style=\"font-size: 19px;\">J is the son of K. K is the mother of T. T is the brother of W. X is the daughter of W. Z is the father of X.</span></span></p>",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": [
+        "Blood Relation_figures/fig_1_4442fd6c.png"
+      ]
+    },
+    {
+      "questionNumber": 4,
+      "section": "Blood Relation",
+      "questionId": "67b5788589e04a3ef3825d56",
+      "questionText": "Micky\n is brother in law of Akku, who has two daughters but no son. Rinku\n is cousin of Quki and brother of Riku. Vicky has two daughters and\n one son. Unni has only one son and one daughter. Micky is the only\n sibling of Wiku. Tinu and Sanu are daughters of Xoxo. Donu is also\n the member of this family. Riku is granddaughter of Akku, who is\n married to Wiku. Unni and Vicky are sons in law of Wiku. How is\n Xoxo related to Sanu?",
+      "questionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Micky\n is brother in law of Akku, who has two daughters but no son. Rinku\n is cousin of Quki and brother of Riku. Vicky has two daughters and\n one son. Unni has only one son and one daughter. Micky is the only\n sibling of Wiku. Tinu and Sanu are daughters of Xoxo. Donu is also\n the member of this family. Riku is granddaughter of Akku, who is\n married to Wiku. Unni and Vicky are sons in law of Wiku. How is\n Xoxo related to Sanu?</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "Daughter",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Daughter</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "Mother",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Mother</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "Aunt",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Aunt</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "Can’t\n be determined",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Can’t\n be determined</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "![Figure](Blood Relation_figures/fig_1_63daf391.png)",
+      "solutionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"https://cms-cdn.classplus.co/parserImages/production/79242_1739946116940.png\" name=\"Picture 19\" align=\"bottom\" width=\"253\" height=\"184\" border=\"0\">\n</img></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": [
+        "Blood Relation_figures/fig_1_63daf391.png"
+      ]
+    },
+    {
+      "questionNumber": 5,
+      "section": "Blood Relation",
+      "questionId": "67b5788589e04a33bb825d42",
+      "questionText": "G\n is the mother of F, who is the spouse of D. M is the daughter of\n D, who is the only brother of C. E is the son of G, who is married\n to H. A is the niece of C, who has no sister. T is the father of D\n and has no daughter. V is the sister-in-law of F. G has only two\n children. M is the granddaughter of O. Find the odd one out?",
+      "questionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">G\n is the mother of F, who is the spouse of D. M is the daughter of\n D, who is the only brother of C. E is the son of G, who is married\n to H. A is the niece of C, who has no sister. T is the father of D\n and has no daughter. V is the sister-in-law of F. G has only two\n children. M is the granddaughter of O. Find the odd one out?</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "V",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">V</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "O",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">O</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "D",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">D</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "F",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">F</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "O\n does not belong to the second generation of the family like rest\n of the persons, thus the odd one out.\n\n![Figure](Blood Relation_figures/fig_1_7cc1a96c.png)",
+      "solutionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"https://cms-cdn.classplus.co/parserImages/production/705195_1739946116714.png\" name=\"Picture 15\" align=\"bottom\" width=\"255\" height=\"150\" border=\"0\">\n</img></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">O\n does not belong to the second generation of the family like rest\n of the persons, thus the odd one out.</span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": [
+        "Blood Relation_figures/fig_1_7cc1a96c.png"
+      ]
+    },
+    {
+      "questionNumber": 6,
+      "section": "Blood Relation",
+      "questionId": "67b5788589e04a36ff825cf7",
+      "questionText": "S\n is mother of T, T is husband of J, N is son of J, Z is\n father-In-law of J, K is brother of N. How K is related to Z?",
+      "questionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">S\n is mother of T, T is husband of J, N is son of J, Z is\n father-In-law of J, K is brother of N. How K is related to Z?</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "Son",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Son</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "Grandson",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Grandson</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "Nephew",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Nephew</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "Uncle",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Uncle</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "K\n is grandson of Z.\n\n![Figure](Blood Relation_figures/fig_1_3533af9b.jpg)",
+      "solutionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"https://cms-cdn.classplus.co/parserImages/production/268269_1739946115956.jpg\" name=\"Picture 3\" align=\"bottom\" width=\"185\" height=\"171\" border=\"0\">\n</img></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">K\n is grandson of Z.</span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": [
+        "Blood Relation_figures/fig_1_3533af9b.jpg"
+      ]
+    },
+    {
+      "questionNumber": 7,
+      "section": "Blood Relation",
+      "questionId": "67b5788589e04a905f825d1f",
+      "questionText": "B\n is father of Q. B has only two children. Q is the brother of R. R\n is the daughter of P. A is the granddaughter of P. S is the father\n of A. How is S related to Q?",
+      "questionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">B\n is father of Q. B has only two children. Q is the brother of R. R\n is the daughter of P. A is the granddaughter of P. S is the father\n of A. How is S related to Q?</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "Son",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Son</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "Brother-in-law",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Brother-in-law</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "Son-in-law",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Son-in-law</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "Brother",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Brother</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "![Figure](Blood Relation_figures/fig_1_6e8ce421.png)",
+      "solutionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"https://cms-cdn.classplus.co/parserImages/production/260296_1739946116314.png\" name=\"Picture 9\" align=\"bottom\" width=\"141\" height=\"162\" border=\"0\">\n</img></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": [
+        "Blood Relation_figures/fig_1_6e8ce421.png"
+      ]
+    },
+    {
+      "questionNumber": 8,
+      "section": "Blood Relation",
+      "questionId": "67b5788589e04abb6d825d1a",
+      "questionText": "A\n girl introduces a boy as the son of the brother of her mother. How\n is the boy related to the girl?",
+      "questionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">A\n girl introduces a boy as the son of the brother of her mother. How\n is the boy related to the girl?</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "Uncle",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Uncle</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "Son",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Son</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "Nephew",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Nephew</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "Cousin",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Cousin</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "D",
+      "solutionText": "Brother\n of mother — Uncle; Uncle’s son — Cousin.",
+      "solutionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Brother\n of mother — Uncle; Uncle’s son — Cousin.</span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 9,
+      "section": "Blood Relation",
+      "questionId": "67b5788589e04af8ed825d15",
+      "questionText": "Introducing\n a girl. Ronit said, \" He is the daughter of the daughter of\n my grandfather's only son\", How is that girl related to\n Ronit?",
+      "questionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Introducing\n a girl. Ronit said, \" He is the daughter of the daughter of\n my grandfather's only son\", How is that girl related to\n Ronit?</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "Cousin",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Cousin</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "Niece",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Niece</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "Father-in-law",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Father-in-law</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "Nephew",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Nephew</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "\"\n He is the daughter of the daughter of my grandfather's only son\" \n\n My\n grandfather's only Son - It means Ronit's father. \n\n Daughter\n of my grandfather's only son - Ronit's father's daughter. It means\n Ronit's sister. \n\n Daughter\n of the daughter of my grandfather - It means Ronit's sister's\n daughter. \n\n Hence,\n that girl is a niece of Ronit.",
+      "solutionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">\"\n He is the daughter of the daughter of my grandfather's only son\"</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">My\n grandfather's only Son - It means Ronit's father.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Daughter\n of my grandfather's only son - Ronit's father's daughter. It means\n Ronit's sister.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Daughter\n of the daughter of my grandfather - It means Ronit's sister's\n daughter.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Hence,\n that girl is a niece of Ronit.</span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 10,
+      "section": "Blood Relation",
+      "questionId": "67b5788589e04acff7825d4c",
+      "questionText": "Eight\n persons – Sarin, Rahi, Akasa, Pavi, Preet, Gunjan, Taran and\n Namya belong to a family which consists of three generations and\n two married couples. \n\n Preet\n is the sister of only son of Akasa. Pavi is the daughter in law of\n Sarin. Rahi is the mother of Akasa. Sarin is the grandfather of\n Taran who is the daughter of Pavi. Namya is the maternal uncle of\n Gunjan. \n\n How\n many male members are there in the family?",
+      "questionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Eight\n persons – Sarin, Rahi, Akasa, Pavi, Preet, Gunjan, Taran and\n Namya belong to a family which consists of three generations and\n two married couples.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Preet\n is the sister of only son of Akasa. Pavi is the daughter in law of\n Sarin. Rahi is the mother of Akasa. Sarin is the grandfather of\n Taran who is the daughter of Pavi. Namya is the maternal uncle of\n Gunjan.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">How\n many male members are there in the family?</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "3",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">3</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "4",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">4</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "5",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">5</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "6",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">6</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "![Figure](Blood Relation_figures/fig_1_63f8b73d.png)",
+      "solutionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"https://cms-cdn.classplus.co/parserImages/production/146486_1739946116820.png\" name=\"Picture 17\" align=\"bottom\" width=\"209\" height=\"135\" border=\"0\">\n</img></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": [
+        "Blood Relation_figures/fig_1_63f8b73d.png"
+      ]
+    },
+    {
+      "questionNumber": 11,
+      "section": "Blood Relation",
+      "questionId": "67b5788589e04abff0825d06",
+      "questionText": "Rohit\n has two sons namely Bittu and Kittu. Bittu is husband of Gillu.\n Lata is the mother in law of Gillu and Sittu. Sittu is mother of\n Mitthu. How is Mitthu realted to Rohit?",
+      "questionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Rohit\n has two sons namely Bittu and Kittu. Bittu is husband of Gillu.\n Lata is the mother in law of Gillu and Sittu. Sittu is mother of\n Mitthu. How is Mitthu realted to Rohit?</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "Granddaughter",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Granddaughter</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "Grandson",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Grandson</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "Daughter\n in law",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Daughter\n in law</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "Can't\n be determined",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Can't\n be determined</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "D",
+      "solutionText": "Following\n the blood relation image, we cannot define Mitthu’s realtion\n with Rohit, as we don’t have gender information about\n Mitthu. It can be either granddaughter or grandson of of Rohit.\n\n![Figure](Blood Relation_figures/fig_1_1daf6394.png)",
+      "solutionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"https://cms-cdn.classplus.co/parserImages/production/129933_1739946116139.png\" name=\"Picture 2\" align=\"bottom\" width=\"253\" height=\"175\" border=\"0\">\n</img></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Following\n the blood relation image, we cannot define Mitthu’s realtion\n with Rohit, as we don’t have gender information about\n Mitthu. It can be either granddaughter or grandson of of Rohit.</span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": [
+        "Blood Relation_figures/fig_1_1daf6394.png"
+      ]
+    },
+    {
+      "questionNumber": 12,
+      "section": "Blood Relation",
+      "questionId": "67b5788589e04aecab825d10",
+      "questionText": "Aaru\n and Aash are sisters, Aaif and Aban are fathers. Aayu, who is only\n son in law of Aaru, is son of Aban and brother of Aans. Aali is\n daughter of Aaif and sister of Aarv, who is son of Aaru. There are\n three married couples. Marriage is allowed among close relatives\n in the family. How is Aash related to Aarv and also Aaif related\n to Aayu respectively?",
+      "questionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Aaru\n and Aash are sisters, Aaif and Aban are fathers. Aayu, who is only\n son in law of Aaru, is son of Aban and brother of Aans. Aali is\n daughter of Aaif and sister of Aarv, who is son of Aaru. There are\n three married couples. Marriage is allowed among close relatives\n in the family. How is Aash related to Aarv and also Aaif related\n to Aayu respectively?</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "Mother-in\n law, Father-in law",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Mother-in\n law, Father-in law</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "Paternal\n Aunt, Uncle",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Paternal\n Aunt, Uncle</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "Maternal\n Aunt, Father-in-law",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Maternal\n Aunt, Father-in-law</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "Maternal\n Aunt, Son-in-law",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Maternal\n Aunt, Son-in-law</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "C",
+      "solutionText": "Following\n the common explanation, we get Aash is related to Aarv as his\n “Maternal Aunt and Aaif is related to Aayu as his\n Father-in-law”.\n\n![Figure](Blood Relation_figures/fig_1_d68cb41d.png)",
+      "solutionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"https://cms-cdn.classplus.co/parserImages/production/737101_1739946116260.png\" name=\"Picture 7\" align=\"bottom\" width=\"351\" height=\"111\" border=\"0\">\n</img></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Following\n the common explanation, we get Aash is related to Aarv as his\n “Maternal Aunt and Aaif is related to Aayu as his\n Father-in-law”.</span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": [
+        "Blood Relation_figures/fig_1_d68cb41d.png"
+      ]
+    },
+    {
+      "questionNumber": 13,
+      "section": "Blood Relation",
+      "questionId": "67b5788589e04a0d2e825d47",
+      "questionText": "In a family of some persons Bhanu says that Reshma is the daughter of my sister Banti, who is the only daughter of Tamanna. Rahul is the child of Tamanna and Farhan, who is the grandmother of Harish. Krishna is the mother of Mohan, who is the only sister of Harish. Rahul is unmarried. If Sadiq is spouse of Banti, how is Krishna related to Sadiq?",
+      "questionHtml": "<p align=\"justify\" style=\"text-decoration: none;\"><span style=\"color: #000000;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-family: Cambria,serif;\"><span style=\"font-size: 19px;\">In a family of some persons Bhanu says that Reshma is the daughter of my sister Banti, who is the only daughter of Tamanna. Rahul is the child of Tamanna and Farhan, who is the grandmother of Harish. Krishna is the mother of Mohan, who is the only sister of Harish. Rahul is unmarried. If Sadiq is spouse of Banti, how is Krishna related to Sadiq?</span></span></span></span></p>",
+      "options": [
+        {
+          "option": "A",
+          "text": "Sister",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Sister</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "Sister-in-law",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none;\"><span style=\"color: #000000;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-family: Cambria,serif;\"><span style=\"font-size: 19px;\">Sister-in-law</span></span></span></span></p>"
+        },
+        {
+          "option": "C",
+          "text": "Wife\n of Brother-in-law",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Wife\n of Brother-in-law</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "Cousin",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Cousin</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "C",
+      "solutionText": "Clearly,\n Krishna is the wife of Bhanu who is brother in law of Sadiq.\n\n![Figure](Blood Relation_figures/fig_1_64bd6ffd.png)",
+      "solutionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"https://cms-cdn.classplus.co/parserImages/production/839837_1739946116763.png\" name=\"Picture 16\" align=\"bottom\" width=\"266\" height=\"145\" border=\"0\">\n</img></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Clearly,\n Krishna is the wife of Bhanu who is brother in law of Sadiq.</span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": [
+        "Blood Relation_figures/fig_1_64bd6ffd.png"
+      ]
+    },
+    {
+      "questionNumber": 14,
+      "section": "Blood Relation",
+      "questionId": "67b5788589e04a0b80825d2e",
+      "questionText": "O,\n M, P, Q, S and T are six members in a family. P is not mother of M\n but M is son of P. O and P are a married couple. S is the brother\n of P. T is brother of M. Q is daughter of O. How many children do\n O and P have?",
+      "questionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">O,\n M, P, Q, S and T are six members in a family. P is not mother of M\n but M is son of P. O and P are a married couple. S is the brother\n of P. T is brother of M. Q is daughter of O. How many children do\n O and P have?</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "1",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">1</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "2",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">2</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "3",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">3</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "4",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">4</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "C",
+      "solutionText": "Following\n the final family tree, we can say that T, M and Q are children of\n O and P.\n\n![Figure](Blood Relation_figures/fig_1_3b346e97.png)",
+      "solutionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"https://cms-cdn.classplus.co/parserImages/production/864833_1739946116478.png\" name=\"Picture 13\" align=\"bottom\" width=\"157\" height=\"133\" border=\"0\">\n</img></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Following\n the final family tree, we can say that T, M and Q are children of\n O and P.</span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": [
+        "Blood Relation_figures/fig_1_3b346e97.png"
+      ]
+    },
+    {
+      "questionNumber": 15,
+      "section": "Blood Relation",
+      "questionId": "67b5788589e04a54c4825d29",
+      "questionText": "In\n a family there are three fathers, two brothers, two sisters, one\n husband, one wife, two brothers-in-law, two daughters, three sons,\n three cousins, two nephews, one grandfather and a niece. How many\n female members are there in the family?",
+      "questionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">In\n a family there are three fathers, two brothers, two sisters, one\n husband, one wife, two brothers-in-law, two daughters, three sons,\n three cousins, two nephews, one grandfather and a niece. How many\n female members are there in the family?</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "3",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">3</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "4",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">4</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "2",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">2</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "1",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">1</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "C",
+      "solutionText": "As\n per the family tree it's evident that there are only 2 female\n members in the family.\n\n![Figure](Blood Relation_figures/fig_1_6d6da7f0.png)",
+      "solutionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"https://cms-cdn.classplus.co/parserImages/production/523046_1739946116422.png\" name=\"Picture 12\" align=\"bottom\" width=\"163\" height=\"174\" border=\"0\">\n</img></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">As\n per the family tree it's evident that there are only 2 female\n members in the family.</span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": [
+        "Blood Relation_figures/fig_1_6d6da7f0.png"
+      ]
+    },
+    {
+      "questionNumber": 16,
+      "section": "Blood Relation",
+      "questionId": "67b5788589e04a2de0825d51",
+      "questionText": "There\n are eight family members Anupam, Bhuika, Mohini, Hitesh, Vishnu,\n Ruchika, Sanshlesh and Pritam. Vishnu is uncle of Sanshlesh, who\n is daughter of Pritam. There are two married couples in the family\n and two grandchildren in the family. Mohini has one daughter and\n one son. Anupam is granddaughter of Ruchika and sister of Bhumika.\n Ruchika is sister in law of Vishnu. Mohini is not a male.\n Sanshlesh has only one brother. How Bhumika is related to\n Sanshlesh?",
+      "questionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">There\n are eight family members Anupam, Bhuika, Mohini, Hitesh, Vishnu,\n Ruchika, Sanshlesh and Pritam. Vishnu is uncle of Sanshlesh, who\n is daughter of Pritam. There are two married couples in the family\n and two grandchildren in the family. Mohini has one daughter and\n one son. Anupam is granddaughter of Ruchika and sister of Bhumika.\n Ruchika is sister in law of Vishnu. Mohini is not a male.\n Sanshlesh has only one brother. How Bhumika is related to\n Sanshlesh?</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "Nephew",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Nephew</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "Niece",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Niece</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "Son",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Son\n </span></span></span></span>\n </p>\n "
+        },
+        {
+          "option": "D",
+          "text": "Daughter",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Daughter</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "A",
+      "solutionText": "![Figure](Blood Relation_figures/fig_1_3798f337.png)",
+      "solutionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"https://cms-cdn.classplus.co/parserImages/production/51590_1739946116879.png\" name=\"Picture 18\" align=\"bottom\" width=\"279\" height=\"175\" border=\"0\">\n</img></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": [
+        "Blood Relation_figures/fig_1_3798f337.png"
+      ]
+    },
+    {
+      "questionNumber": 17,
+      "section": "Blood Relation",
+      "questionId": "67b5788589e04a843d825d0b",
+      "questionText": "D\n is the mother of J and L. J is the brother of F. F is the son of\n K. K has only three children. Y is the son-in-law of D. M is the\n son of Y. M is the brother of S. As per the given information, how\n is D related to M?",
+      "questionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">D\n is the mother of J and L. J is the brother of F. F is the son of\n K. K has only three children. Y is the son-in-law of D. M is the\n son of Y. M is the brother of S. As per the given information, how\n is D related to M?</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "Mother-in-law",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Mother-in-law</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "Grandmother",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Grandmother</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "Mother",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Mother</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "Sister-in-law",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Sister-in-law</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "![Figure](Blood Relation_figures/fig_1_c243f032.png)",
+      "solutionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"https://cms-cdn.classplus.co/parserImages/production/959766_1739946116202.png\" name=\"Picture 6\" align=\"bottom\" width=\"141\" height=\"141\" border=\"0\">\n</img></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": [
+        "Blood Relation_figures/fig_1_c243f032.png"
+      ]
+    },
+    {
+      "questionNumber": 18,
+      "section": "Blood Relation",
+      "questionId": "67b5788589e04aac77825d01",
+      "questionText": "A,\n B, C, I, J and K are six family members. J is son of I, who is not\n the mother of J. B is brother of I. K and I are a married couple.\n C is daughter of K, who is sister of A. How is J related to C?",
+      "questionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">A,\n B, C, I, J and K are six family members. J is son of I, who is not\n the mother of J. B is brother of I. K and I are a married couple.\n C is daughter of K, who is sister of A. How is J related to C?</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "Brother",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Brother</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "Father",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Father</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "Sister",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Sister</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "Mother",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Mother</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "A",
+      "solutionText": "Hence,\n J is brother of C.\n\n![Figure](Blood Relation_figures/fig_1_48a00df6.png)",
+      "solutionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"https://cms-cdn.classplus.co/parserImages/production/2604_1739946116086.png\" name=\"Picture 1\" align=\"bottom\" width=\"175\" height=\"125\" border=\"0\">\n</img></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Hence,\n J is brother of C.</span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": [
+        "Blood Relation_figures/fig_1_48a00df6.png"
+      ]
+    },
+    {
+      "questionNumber": 19,
+      "section": "Blood Relation",
+      "questionId": "67b5788589e04a9e18825d33",
+      "questionText": "Seven\n family members namely Rekha, Tipu, Meena, Mohan, Duggu, Sandy and\n Krishna in a family are related to each other in the following\n way: \n\n Krishna\n is uncle of Sandy who is only son of mohan. Duggu is brother of\n mohan who is husband of Meena. Rekha has only two sons. Sandy is\n grandson of Tipu. Rekha is wife of Tipu. How\n is Krishna related to Sandy?",
+      "questionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Seven\n family members namely Rekha, Tipu, Meena, Mohan, Duggu, Sandy and\n Krishna in a family are related to each other in the following\n way:</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Krishna\n is uncle of Sandy who is only son of mohan. Duggu is brother of\n mohan who is husband of Meena. Rekha has only two sons. Sandy is\n grandson of Tipu. Rekha is wife of Tipu.</span></span> <span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">How\n is Krishna related to Sandy?</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "Maternal\n Uncle",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Maternal\n Uncle</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "Paternal\n Uncle",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Paternal\n Uncle</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "Niece",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Niece</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "Nephew",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Nephew</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "A",
+      "solutionText": "![Figure](Blood Relation_figures/fig_1_7d165ce9.png)",
+      "solutionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"https://cms-cdn.classplus.co/parserImages/production/922897_1739946116552.png\" name=\"Picture 5\" align=\"bottom\" width=\"297\" height=\"152\" border=\"0\">\n</img></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": [
+        "Blood Relation_figures/fig_1_7d165ce9.png"
+      ]
+    },
+    {
+      "questionNumber": 20,
+      "section": "Blood Relation",
+      "questionId": "67b5788589e04a429f825d3d",
+      "questionText": "H\n is the brother of M, who is the only daughter of B. T is the only\n child of J, who is the sister of X. H is the brother-in-law of X.\n There are only two unmarried females in the family. Find how is T\n related to X?",
+      "questionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">H\n is the brother of M, who is the only daughter of B. T is the only\n child of J, who is the sister of X. H is the brother-in-law of X.\n There are only two unmarried females in the family. Find how is T\n related to X?</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "Nephew",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Nephew</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "Maternal\n Aunt",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Maternal\n Aunt</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "Niece",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Niece</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "Either\n option A or C",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Either\n option A or C</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "D",
+      "solutionText": "![Figure](Blood Relation_figures/fig_1_5bd554df.png)",
+      "solutionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"https://cms-cdn.classplus.co/parserImages/production/334567_1739946116662.png\" name=\"Picture 11\" align=\"bottom\" width=\"205\" height=\"166\" border=\"0\">\n</img></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": [
+        "Blood Relation_figures/fig_1_5bd554df.png"
+      ]
+    }
+  ]
+}

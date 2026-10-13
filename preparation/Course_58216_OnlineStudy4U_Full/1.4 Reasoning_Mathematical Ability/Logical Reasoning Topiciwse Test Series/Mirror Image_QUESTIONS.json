@@ -1,0 +1,829 @@
+{
+  "testName": "Mirror Image",
+  "testId": "67c2c0e5d1935f1d2c18ad2c",
+  "contentId": 23945650,
+  "totalQuestions": 20,
+  "totalFigures": 28,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "section": "Mirror Image",
+      "questionId": "67c2c102a8ca99cfab253cee",
+      "questionText": "![Figure](Mirror Image_figures/fig_1_73a236d2.png)",
+      "questionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"https://cms-cdn.classplus.co/parserImages/production/925515_1740816642049.png\" name=\"Picture 22\" align=\"bottom\" width=\"423\" height=\"113\" border=\"0\">\n</img></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "1",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">1</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "2",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">2</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "3",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">3</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "4",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">4</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "D",
+      "solutionText": "",
+      "solutionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <br>\n\n </p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": [
+        "Mirror Image_figures/fig_1_73a236d2.png"
+      ]
+    },
+    {
+      "questionNumber": 2,
+      "section": "Mirror Image",
+      "questionId": "67c2c102a8ca997834253c94",
+      "questionText": "![Figure](Mirror Image_figures/fig_1_52da49cf.png)",
+      "questionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"https://cms-cdn.classplus.co/parserImages/production/802451_1740816640522.png\" name=\"Picture 1\" align=\"bottom\" width=\"342\" height=\"82\" border=\"0\">\n</img></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "1",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">1</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "2",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">2</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "3",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">3</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "4",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">4</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "",
+      "solutionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <br>\n\n </p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": [
+        "Mirror Image_figures/fig_1_52da49cf.png"
+      ]
+    },
+    {
+      "questionNumber": 3,
+      "section": "Mirror Image",
+      "questionId": "67c2c102a8ca991801253ca3",
+      "questionText": "![Figure](Mirror Image_figures/fig_1_19499052.png)",
+      "questionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"https://cms-cdn.classplus.co/parserImages/production/274048_1740816640764.png\" name=\"Picture 4\" align=\"bottom\" width=\"262\" height=\"168\" border=\"0\">\n</img></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "1",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">1</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "2",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">2</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "3",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">3</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "4",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">4</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "A",
+      "solutionText": "",
+      "solutionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <br>\n\n </p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": [
+        "Mirror Image_figures/fig_1_19499052.png"
+      ]
+    },
+    {
+      "questionNumber": 4,
+      "section": "Mirror Image",
+      "questionId": "67c2c102a8ca99d45e253cb7",
+      "questionText": "![Figure](Mirror Image_figures/fig_1_78e92be6.png)",
+      "questionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"https://cms-cdn.classplus.co/parserImages/production/628397_1740816641208.png\" name=\"Picture 14\" align=\"bottom\" width=\"225\" height=\"161\" border=\"0\">\n</img></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "1",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">1</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "2",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">2</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "3",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">3</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "4",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">4</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "",
+      "solutionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <br>\n\n </p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": [
+        "Mirror Image_figures/fig_1_78e92be6.png"
+      ]
+    },
+    {
+      "questionNumber": 5,
+      "section": "Mirror Image",
+      "questionId": "67c2c102a8ca997309253cad",
+      "questionText": "![Figure](Mirror Image_figures/fig_1_447b4e2d.png)",
+      "questionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"https://cms-cdn.classplus.co/parserImages/production/78696_1740816640872.png\" name=\"Picture 7\" align=\"bottom\" width=\"255\" height=\"116\" border=\"0\">\n</img></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "A",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">A</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "B",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">B</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "C",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">C</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "D",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">D</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "C",
+      "solutionText": "",
+      "solutionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <br>\n\n </p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": [
+        "Mirror Image_figures/fig_1_447b4e2d.png"
+      ]
+    },
+    {
+      "questionNumber": 6,
+      "section": "Mirror Image",
+      "questionId": "67c2c102a8ca99190f253cf3",
+      "questionText": "![Figure](Mirror Image_figures/fig_1_6eb07a2b.png)",
+      "questionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"https://cms-cdn.classplus.co/parserImages/production/357595_1740816642100.png\" name=\"Picture 18\" align=\"bottom\" width=\"284\" height=\"81\" border=\"0\">\n</img></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "1",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">1</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "2",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">2</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "3",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">3</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "4",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">4</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "",
+      "solutionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <br>\n\n </p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": [
+        "Mirror Image_figures/fig_1_6eb07a2b.png"
+      ]
+    },
+    {
+      "questionNumber": 7,
+      "section": "Mirror Image",
+      "questionId": "67c2c102a8ca993f17253c9e",
+      "questionText": "![Figure](Mirror Image_figures/fig_1_77ccf973.png)",
+      "questionHtml": "<p align=\"justify\" style=\"text-decoration: none;\"><span style=\"color: #000000;\"><img src=\"https://cms-cdn.classplus.co/parserImages/production/940147_1740816640711.gif\" width=\"401\" height=\"115\" align=\"bottom\" /></span></p>",
+      "options": [
+        {
+          "option": "A",
+          "text": "a",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">a</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "b",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">b</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "c",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">c</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "d",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">d</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "",
+      "solutionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <br>\n\n </p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": [
+        "Mirror Image_figures/fig_1_77ccf973.png"
+      ]
+    },
+    {
+      "questionNumber": 8,
+      "section": "Mirror Image",
+      "questionId": "67c2c102a8ca991dac253c99",
+      "questionText": "![Figure](Mirror Image_figures/fig_1_21e60915.png)",
+      "questionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"https://cms-cdn.classplus.co/parserImages/production/114954_1740816640634.png\" name=\"Picture 2\" align=\"bottom\" width=\"257\" height=\"153\" border=\"0\">\n</img></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "1",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">1</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "2",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">2</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "3",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">3</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "4",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">4</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "D",
+      "solutionText": "",
+      "solutionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <br>\n\n </p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": [
+        "Mirror Image_figures/fig_1_21e60915.png"
+      ]
+    },
+    {
+      "questionNumber": 9,
+      "section": "Mirror Image",
+      "questionId": "67c2c102a8ca99a9a6253cb2",
+      "questionText": "![Figure](Mirror Image_figures/fig_1_43d5bf10.png)",
+      "questionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"https://cms-cdn.classplus.co/parserImages/production/155180_1740816640926.png\" name=\"Picture 9\" align=\"bottom\" width=\"173\" height=\"141\" border=\"0\">\n</img></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "![Figure](Mirror Image_figures/fig_1_4ce8ee38.png)",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"https://cms-cdn.classplus.co/parserImages/production/416683_1740816640989.png\" name=\"Picture 11\" align=\"bottom\" width=\"105\" height=\"93\" border=\"0\">\n</img></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "![Figure](Mirror Image_figures/fig_1_5bc46b57.png)",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"https://cms-cdn.classplus.co/parserImages/production/501654_1740816641043.png\" name=\"Picture 10\" align=\"bottom\" width=\"105\" height=\"93\" border=\"0\">\n</img></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "![Figure](Mirror Image_figures/fig_1_1ccb9a32.png)",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"https://cms-cdn.classplus.co/parserImages/production/477982_1740816641094.png\" name=\"Picture 12\" align=\"bottom\" width=\"109\" height=\"95\" border=\"0\">\n</img></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "![Figure](Mirror Image_figures/fig_1_16337a8b.png)",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"https://cms-cdn.classplus.co/parserImages/production/908640_1740816641154.png\" name=\"Picture 13\" align=\"bottom\" width=\"109\" height=\"92\" border=\"0\">\n</img></span></p>\n "
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "",
+      "solutionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <br>\n\n </p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": [
+        "Mirror Image_figures/fig_1_43d5bf10.png"
+      ]
+    },
+    {
+      "questionNumber": 10,
+      "section": "Mirror Image",
+      "questionId": "67c2c102a8ca9982b2253ccb",
+      "questionText": "![Figure](Mirror Image_figures/fig_1_2041d13c.png)",
+      "questionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"https://cms-cdn.classplus.co/parserImages/production/448713_1740816641432.png\" name=\"Picture 20\" align=\"bottom\" width=\"210\" height=\"165\" border=\"0\">\n</img></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "A",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">A</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "B",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">B</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "C",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">C</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "D",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">D</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "A",
+      "solutionText": "",
+      "solutionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <br>\n\n </p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": [
+        "Mirror Image_figures/fig_1_2041d13c.png"
+      ]
+    },
+    {
+      "questionNumber": 11,
+      "section": "Mirror Image",
+      "questionId": "67c2c102a8ca990899253cbc",
+      "questionText": "![Figure](Mirror Image_figures/fig_1_73458df1.png)",
+      "questionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"https://cms-cdn.classplus.co/parserImages/production/74849_1740816641257.png\" name=\"Picture 15\" align=\"bottom\" width=\"344\" height=\"113\" border=\"0\">\n</img></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "1",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">1</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "2",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">2</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "3",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">3</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "4",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">4</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "D",
+      "solutionText": "",
+      "solutionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <br>\n\n </p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": [
+        "Mirror Image_figures/fig_1_73458df1.png"
+      ]
+    },
+    {
+      "questionNumber": 12,
+      "section": "Mirror Image",
+      "questionId": "67c2c102a8ca994ca8253cd5",
+      "questionText": "![Figure](Mirror Image_figures/fig_1_d037e78e.png)",
+      "questionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"https://cms-cdn.classplus.co/parserImages/production/11689_1740816641539.png\" name=\"Picture 24\" align=\"bottom\" width=\"117\" height=\"123\" border=\"0\">\n</img></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "![Figure](Mirror Image_figures/fig_1_5ddbe1c7.png)",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"https://cms-cdn.classplus.co/parserImages/production/841121_1740816641598.png\" name=\"Picture 26\" align=\"bottom\" width=\"97\" height=\"98\" border=\"0\">\n</img></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "![Figure](Mirror Image_figures/fig_1_1a3b0d54.png)",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"https://cms-cdn.classplus.co/parserImages/production/650096_1740816641653.png\" name=\"Picture 25\" align=\"bottom\" width=\"105\" height=\"93\" border=\"0\">\n</img></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "![Figure](Mirror Image_figures/fig_1_895ae03d.png)",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"https://cms-cdn.classplus.co/parserImages/production/352186_1740816641711.png\" name=\"Picture 27\" align=\"bottom\" width=\"102\" height=\"98\" border=\"0\">\n</img></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "![Figure](Mirror Image_figures/fig_1_6829f544.png)",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"https://cms-cdn.classplus.co/parserImages/production/150142_1740816641775.png\" name=\"Picture 28\" align=\"bottom\" width=\"103\" height=\"101\" border=\"0\">\n</img></span></p>\n "
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "",
+      "solutionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <br>\n\n </p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": [
+        "Mirror Image_figures/fig_1_d037e78e.png"
+      ]
+    },
+    {
+      "questionNumber": 13,
+      "section": "Mirror Image",
+      "questionId": "67c2c102a8ca99c2ae253cd0",
+      "questionText": "![Figure](Mirror Image_figures/fig_1_60942e3f.png)",
+      "questionHtml": "<p align=\"justify\" style=\"text-decoration: none;\"><span style=\"color: #000000;\"><img src=\"https://cms-cdn.classplus.co/parserImages/production/661062_1740816641489.gif\" width=\"349\" height=\"109\" align=\"bottom\" /></span></p>",
+      "options": [
+        {
+          "option": "A",
+          "text": "b",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">b</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "c",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">c</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "d",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">d</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "a",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">a</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "C",
+      "solutionText": "",
+      "solutionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <br>\n\n </p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": [
+        "Mirror Image_figures/fig_1_60942e3f.png"
+      ]
+    },
+    {
+      "questionNumber": 14,
+      "section": "Mirror Image",
+      "questionId": "67c2c102a8ca99738e253cda",
+      "questionText": "![Figure](Mirror Image_figures/fig_1_1f5722e9.png)",
+      "questionHtml": "<p align=\"justify\" style=\"text-decoration: none;\"><span style=\"color: #000000;\"><img src=\"https://cms-cdn.classplus.co/parserImages/production/677381_1740816641833.gif\" width=\"358\" height=\"108\" align=\"bottom\" /></span></p>",
+      "options": [
+        {
+          "option": "A",
+          "text": "a",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">a</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "b",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">b</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "c",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">c</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "d",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">d</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "",
+      "solutionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <br>\n\n </p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": [
+        "Mirror Image_figures/fig_1_1f5722e9.png"
+      ]
+    },
+    {
+      "questionNumber": 15,
+      "section": "Mirror Image",
+      "questionId": "67c2c102a8ca995b7c253cc6",
+      "questionText": "![Figure](Mirror Image_figures/fig_1_6a1c35c0.png)",
+      "questionHtml": "<p align=\"justify\" style=\"text-decoration: none;\"><span style=\"color: #000000;\"><img src=\"https://cms-cdn.classplus.co/parserImages/production/923917_1740816641355.gif\" width=\"373\" height=\"112\" align=\"bottom\" /></span></p>",
+      "options": [
+        {
+          "option": "A",
+          "text": "a",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">a</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "b",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">b</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "c",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">c</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "d",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">d</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "D",
+      "solutionText": "",
+      "solutionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <br>\n\n </p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": [
+        "Mirror Image_figures/fig_1_6a1c35c0.png"
+      ]
+    },
+    {
+      "questionNumber": 16,
+      "section": "Mirror Image",
+      "questionId": "67c2c102a8ca99024e253ce4",
+      "questionText": "![Figure](Mirror Image_figures/fig_1_5be7fc11.png)",
+      "questionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"https://cms-cdn.classplus.co/parserImages/production/780134_1740816641936.png\" name=\"Picture 30\" align=\"bottom\" width=\"424\" height=\"115\" border=\"0\">\n</img></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "1",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">1</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "2",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">2</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "3",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">3</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "4",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">4</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "A",
+      "solutionText": "",
+      "solutionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <br>\n\n </p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": [
+        "Mirror Image_figures/fig_1_5be7fc11.png"
+      ]
+    },
+    {
+      "questionNumber": 17,
+      "section": "Mirror Image",
+      "questionId": "67c2c102a8ca990113253cdf",
+      "questionText": "![Figure](Mirror Image_figures/fig_1_1b3ed31f.png)",
+      "questionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"https://cms-cdn.classplus.co/parserImages/production/732936_1740816641880.png\" name=\"Picture 29\" align=\"bottom\" width=\"405\" height=\"111\" border=\"0\">\n</img></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "1",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">1</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "2",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">2</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "3",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">3</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "4",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">4</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "",
+      "solutionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <br>\n\n </p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": [
+        "Mirror Image_figures/fig_1_1b3ed31f.png"
+      ]
+    },
+    {
+      "questionNumber": 18,
+      "section": "Mirror Image",
+      "questionId": "67c2c102a8ca9958ad253ca8",
+      "questionText": "![Figure](Mirror Image_figures/fig_1_2afb9e22.png)",
+      "questionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"https://cms-cdn.classplus.co/parserImages/production/165333_1740816640818.png\" name=\"Picture 6\" align=\"bottom\" width=\"345\" height=\"80\" border=\"0\">\n</img></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "1",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">1</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "2",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">2</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "3",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">3</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "4",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">4</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "D",
+      "solutionText": "",
+      "solutionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <br>\n\n </p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": [
+        "Mirror Image_figures/fig_1_2afb9e22.png"
+      ]
+    },
+    {
+      "questionNumber": 19,
+      "section": "Mirror Image",
+      "questionId": "67c2c102a8ca996e87253cc1",
+      "questionText": "![Figure](Mirror Image_figures/fig_1_142154e6.png)",
+      "questionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"https://cms-cdn.classplus.co/parserImages/production/945745_1740816641306.png\" name=\"Picture 16\" align=\"bottom\" width=\"340\" height=\"90\" border=\"0\">\n</img></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "1",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">1</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "2",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">2</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "3",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">3</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "4",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">4</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "A",
+      "solutionText": "",
+      "solutionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <br>\n\n </p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": [
+        "Mirror Image_figures/fig_1_142154e6.png"
+      ]
+    },
+    {
+      "questionNumber": 20,
+      "section": "Mirror Image",
+      "questionId": "67c2c102a8ca99076c253ce9",
+      "questionText": "![Figure](Mirror Image_figures/fig_1_3ffb436f.png)",
+      "questionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"https://cms-cdn.classplus.co/parserImages/production/990682_1740816641992.png\" name=\"Picture 31\" align=\"bottom\" width=\"411\" height=\"109\" border=\"0\">\n</img></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "1",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">1</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "2",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">2</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "3",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">3</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "4",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">4</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "D",
+      "solutionText": "",
+      "solutionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <br>\n\n </p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": [
+        "Mirror Image_figures/fig_1_3ffb436f.png"
+      ]
+    }
+  ]
+}

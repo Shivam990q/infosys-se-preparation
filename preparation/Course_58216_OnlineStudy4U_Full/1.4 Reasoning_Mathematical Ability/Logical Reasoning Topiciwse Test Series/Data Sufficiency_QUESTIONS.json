@@ -1,0 +1,909 @@
+{
+  "testName": "Data Sufficiency",
+  "testId": "67beb9781d43c1792d358557",
+  "contentId": 23945647,
+  "totalQuestions": 20,
+  "totalFigures": 0,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "section": "Data Sufficiency",
+      "questionId": "67beb992037cc279fffb5f57",
+      "questionText": "How\n many students are in the class? \n\n Statements: \n\n I.\n Ramesh is ranked 12th from the top. \n\n II.\n Suresh is ranked 8th from the bottom. \n\n III.\n There are 5 students between Ramesh and Suresh.",
+      "questionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">How\n many students are in the class?</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statements:</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I.\n Ramesh is ranked 12th from the top.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II.\n Suresh is ranked 8th from the bottom.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">III.\n There are 5 students between Ramesh and Suresh.</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "Only\n I and II together are sufficient",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n I and II together are sufficient</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "Only\n II and III together are sufficient",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n II and III together are sufficient</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "Only\n I and III together are sufficient",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n I and III together are sufficient</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "All\n I, II, and III together are sufficient",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">All\n I, II, and III together are sufficient</span></span></span></span></p>\n "
+        },
+        {
+          "option": "E",
+          "text": "Even\n all statements together are not sufficient",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Even\n all statements together are not sufficient</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "D",
+      "solutionText": "From\n Statement I, Ramesh is 12th from the top. \n\n From\n Statement III, there are 5 students between Ramesh and Suresh,\n meaning Suresh’s rank from the top is 18th. \n\n From\n Statement II, Suresh is 8th from the bottom. \n\n Since\n Suresh is 18th from the top and 8th from the bottom, the total\n number of students = 18 + 8 - 1 = 25. \n\n All\n three statements together are required to determine the total\n number of students.",
+      "solutionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">From\n Statement I, Ramesh is 12th from the top.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">From\n Statement III, there are 5 students between Ramesh and Suresh,\n meaning Suresh’s rank from the top is 18th.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">From\n Statement II, Suresh is 8th from the bottom.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Since\n Suresh is 18th from the top and 8th from the bottom, the total\n number of students = 18 + 8 - 1 = 25.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">All\n three statements together are required to determine the total\n number of students.</span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 2,
+      "section": "Data Sufficiency",
+      "questionId": "67beb992037cc285cffb5f21",
+      "questionText": "Question:\n Who among P, Q, T, V and M is exactly in the middle when they are\n arranged in ascending order of their heights ? \n\n Statements: \n\n I.\n V is taller than Q but shorter than M. \n\n II.\n T is taller than Q and M but shorter than P.",
+      "questionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Question:\n Who among P, Q, T, V and M is exactly in the middle when they are\n arranged in ascending order of their heights ?</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statements:</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I.\n V is taller than Q but shorter than M.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II.\n T is taller than Q and M but shorter than P.</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "I\n alone is sufficient while II alone is not sufficient",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I\n alone is sufficient while II alone is not sufficient</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "II\n alone is sufficient while I alone is not sufficient",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II\n alone is sufficient while I alone is not sufficient</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "Either\n I or II is sufficient",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Either\n I or II is sufficient</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "Neither\n I nor II is sufficient",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Neither\n I nor II is sufficient</span></span></span></span></p>\n "
+        },
+        {
+          "option": "E",
+          "text": "Both\n I and II are sufficient",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Both\n I and II are sufficient</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "E",
+      "solutionText": "From\n I, we have: M > V > Q. \n\n From\n II, we have: T > Q, T > M, P > T. \n\n Combining\n the above two, we have: P>T>M>V>Q i.e. Q \n\n Clearly,\n M is in the middle.",
+      "solutionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">From\n I, we have: M &gt; V &gt; Q.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">From\n II, we have: T &gt; Q, T &gt; M, P &gt; T.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Combining\n the above two, we have: P&gt;T&gt;M&gt;V&gt;Q i.e. Q</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Clearly,\n M is in the middle.</span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 3,
+      "section": "Data Sufficiency",
+      "questionId": "67beb992037cc2620cfb5f75",
+      "questionText": "Question:\n How is 'DATE' written in the code language ? \n\n Statements: \n\n I.\n DEAR is written as $#@? in that code. \n\n II.\n TREAT is written as %?#@% in that code. \n\n III.\n TEAR is written as %#@? in that code.",
+      "questionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Question:\n How is 'DATE' written in the code language ?</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statements:</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I.\n DEAR is written as $#@? in that code.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II.\n TREAT is written as %?#@% in that code.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">III.\n TEAR is written as %#@? in that code.</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "Only\n I and II together are sufficient",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n I and II together are sufficient</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "Only\n II and III together are sufficient",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n II and III together are sufficient</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "Only\n I and III together are sufficient",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n I and III together are sufficient</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "All\n I, II, and III together are sufficient",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">All\n I, II, and III together are sufficient</span></span></span></span></p>\n "
+        },
+        {
+          "option": "E",
+          "text": "Even\n all statements together are not sufficient",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Even\n all statements together are not sufficient</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "D",
+      "solutionText": "Observing\n I, II and III, we find that similar letters have similar code\n symbols at the corresponding places in the code. So, this is\n direct-coding. \n\n Thus,\n to find the code for DATE, we need the code for D which can be\n obtained from I only (i.e. $.) and the codes for A, T and E which\n can be obtained either from II or III (@, # and % respectively).",
+      "solutionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Observing\n I, II and III, we find that similar letters have similar code\n symbols at the corresponding places in the code. So, this is\n direct-coding.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Thus,\n to find the code for DATE, we need the code for D which can be\n obtained from I only (i.e. $.) and the codes for A, T and E which\n can be obtained either from II or III (@, # and % respectively).</span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 4,
+      "section": "Data Sufficiency",
+      "questionId": "67beb992037cc2985dfb5f63",
+      "questionText": "What\n is the total salary of A and B? \n\n Statements: \n\n I.\n A’s salary is ₹10,000 more than B’s salary, and\n B’s salary is ₹40,000. \n\n II.\n The difference between A’s and B’s salary is ₹10,000.",
+      "questionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">What\n is the total salary of A and B?</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statements:</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I.\n A’s salary is ₹10,000 more than B’s salary, and\n B’s salary is ₹40,000.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II.\n The difference between A’s and B’s salary is ₹10,000.</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "I\n alone is sufficient while II alone is not sufficient",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I\n alone is sufficient while II alone is not sufficient</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "II\n alone is sufficient while I alone is not sufficient",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II\n alone is sufficient while I alone is not sufficient</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "Either\n I or II is sufficient",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Either\n I or II is sufficient</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "Neither\n I nor II is sufficient",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Neither\n I nor II is sufficient</span></span></span></span></p>\n "
+        },
+        {
+          "option": "E",
+          "text": "Both\n I and II are sufficient",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Both\n I and II are sufficient</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "A",
+      "solutionText": "Statement\n 1: A’s salary = 40,000 + 10,000 = ₹50,000 \n\n Total Salary=\n 50,000 + 40,000 = ₹90,000 \n\n So,\n total salary is determined from statement I only.",
+      "solutionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statement\n 1: A’s salary = 40,000 + 10,000 = ₹50,000</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Total&nbsp;Salary=\n 50,000 + 40,000 = ₹90,000</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">So,\n total salary is determined from statement I only.</span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 5,
+      "section": "Data Sufficiency",
+      "questionId": "67beb992037cc24c9afb5f45",
+      "questionText": "How\n many pencils does the shopkeeper sells on Sunday ? \n\n I.\n On Sunday he sold 12 more pencils than he sold the previous day \n\n II.\n He sold 28 pencils each on Thursday and Saturday",
+      "questionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">How\n many pencils does the shopkeeper sells on Sunday ?</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I.\n On Sunday he sold 12 more pencils than he sold the previous day</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II.\n He sold 28 pencils each on Thursday and Saturday</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "I\n alone is sufficient while II alone is not sufficient",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I\n alone is sufficient while II alone is not sufficient</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "II\n alone is sufficient while I alone is not sufficient",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II\n alone is sufficient while I alone is not sufficient</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "Either\n I or II is sufficient",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Either\n I or II is sufficient</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "Neither\n I nor II is sufficient",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Neither\n I nor II is sufficient</span></span></span></span></p>\n "
+        },
+        {
+          "option": "E",
+          "text": "Both\n I and II are sufficient",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Both\n I and II are sufficient</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "E",
+      "solutionText": "28+12\n = 40",
+      "solutionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">28+12\n = 40</span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 6,
+      "section": "Data Sufficiency",
+      "questionId": "67beb992037cc265cafb5f33",
+      "questionText": "What\n is the position of A from the left end of row? \n\n I.\n In a row having 15 people, A is sitting second to the right of B\n who is sitting at twelfth position from the right end of row. \n\n II.\n In a row of 20 people, C will take the eighth position from the\n right end of row if C and A interchange their respective\n positions.",
+      "questionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">What\n is the position of A from the left end of row?</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I.\n In a row having 15 people, A is sitting second to the right of B\n who is sitting at twelfth position from the right end of row.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II.\n In a row of 20 people, C will take the eighth position from the\n right end of row if C and A interchange their respective\n positions.</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "I\n alone is sufficient while II alone is not sufficient",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I\n alone is sufficient while II alone is not sufficient</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "II\n alone is sufficient while I alone is not sufficient",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II\n alone is sufficient while I alone is not sufficient</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "Either\n I or II is sufficient",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Either\n I or II is sufficient</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "Neither\n I nor II is sufficient",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Neither\n I nor II is sufficient</span></span></span></span></p>\n "
+        },
+        {
+          "option": "E",
+          "text": "Both\n I and II are sufficient",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Both\n I and II are sufficient</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "C",
+      "solutionText": "From\n Statement I, B is 12 th \n from the right end, so A is 10th from right end so (15-10+1) 6 th \n from left end. \n\n From\n statement II, C is 8 th \n from right end means before changing positions, A was at 8th\n position from right, so (20-8+1) = 13 th \n from left end.",
+      "solutionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">From\n Statement I, B is 12</span></span><sup><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">th</span></span></sup><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">\n from the right end, so A is 10th from right end so (15-10+1) 6</span></span><sup><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">th</span></span></sup><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">\n from left end.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">From\n statement II, C is 8</span></span><sup><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">th</span></span></sup><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">\n from right end means before changing positions, A was at 8th\n position from right, so (20-8+1) = 13</span></span><sup><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">th</span></span></sup><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">\n from left end.</span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 7,
+      "section": "Data Sufficiency",
+      "questionId": "67beb992037cc29922fb5f87",
+      "questionText": "What\n is the total salary of A and B together? \n\n Statements: \n\n I.\n A’s salary is 20% more than B’s salary. \n\n II.\n B’s salary is ₹40,000. \n\n III.\n A’s salary is ₹48,000.",
+      "questionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">What\n is the total salary of A and B together?</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statements:</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I.\n A’s salary is 20% more than B’s salary.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II.\n B’s salary is ₹40,000.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">III.\n A’s salary is ₹48,000.</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "Only\n I and II together are sufficient",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n I and II together are sufficient</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "Only\n II and III together are sufficient",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n II and III together are sufficient</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "Only\n I and III together are sufficient",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n I and III together are sufficient</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "All\n I, II, and III together are sufficient",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">All\n I, II, and III together are sufficient</span></span></span></span></p>\n "
+        },
+        {
+          "option": "E",
+          "text": "Even\n all statements together are not sufficient",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Even\n all statements together are not sufficient</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "Statement\n II: B’s salary = ₹40,000. \n\n Statement\n III: A’s salary = ₹48,000. \n\n Total\n salary = ₹40,000 + ₹48,000 = ₹88,000. \n\n Statement\n I is unnecessary since we already have exact values.",
+      "solutionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statement\n II: B’s salary = ₹40,000.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statement\n III: A’s salary = ₹48,000.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Total\n salary = ₹40,000 + ₹48,000 = ₹88,000.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statement\n I is unnecessary since we already have exact values.</span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 8,
+      "section": "Data Sufficiency",
+      "questionId": "67beb992037cc2e48ffb5f1b",
+      "questionText": "What\n is the total monthly salary of Ramesh? \n\n Statements: \n\n I.\n Ramesh's basic salary is ₹40,000, and his total salary\n includes HRA and allowances. \n\n II.\n HRA is 30% of the basic salary, and allowances are ₹12,000.",
+      "questionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">What\n is the total monthly salary of Ramesh?</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statements:</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I.\n Ramesh's basic salary is ₹40,000, and his total salary\n includes HRA and allowances.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II.\n HRA is 30% of the basic salary, and allowances are ₹12,000.</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "I\n alone is sufficient while II alone is not sufficient",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I\n alone is sufficient while II alone is not sufficient</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "II\n alone is sufficient while I alone is not sufficient",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II\n alone is sufficient while I alone is not sufficient</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "Either\n I or II is sufficient",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Either\n I or II is sufficient</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "Neither\n I nor II is sufficient",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Neither\n I nor II is sufficient</span></span></span></span></p>\n "
+        },
+        {
+          "option": "E",
+          "text": "Both\n I and II are sufficient",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Both\n I and II are sufficient</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "E",
+      "solutionText": "From\n statement I, we know the basic salary is ₹40,000. \n\n From\n statement II, we know HRA = 30% of ₹40,000 = ₹12,000\n and allowances = ₹12,000. \n\n Thus,\n total salary = ₹40,000 + ₹12,000 + ₹12,000 =\n ₹64,000. \n\n So,\n both statements together are sufficient.",
+      "solutionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">From\n statement I, we know the basic salary is ₹40,000.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">From\n statement II, we know HRA = 30% of ₹40,000 = ₹12,000\n and allowances = ₹12,000.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Thus,\n total salary = ₹40,000 + ₹12,000 + ₹12,000 =\n ₹64,000.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">So,\n both statements together are sufficient.</span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 9,
+      "section": "Data Sufficiency",
+      "questionId": "67beb992037cc25f5cfb5f3f",
+      "questionText": "In\n which year was Sanjay born? \n\n Statements: \n\n I.\n Sanjay is six years older than Gopal. \n\n II.\n Gopal's brother was born in 1982. \n\n III.\n Sanjay's brother is two years younger than Gopal's brother who was\n eight years younger than Gopal.",
+      "questionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">In\n which year was Sanjay born?</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statements:</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I.\n Sanjay is six years older than Gopal.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II.\n Gopal's brother was born in 1982.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">III.\n Sanjay's brother is two years younger than Gopal's brother who was\n eight years younger than Gopal.</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "Only\n I and II together are sufficient",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n I and II together are sufficient</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "Only\n II and III together are sufficient",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n II and III together are sufficient</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "Only\n I and III together are sufficient",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n I and III together are sufficient</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "All\n I, II, and III together are sufficient",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">All\n I, II, and III together are sufficient</span></span></span></span></p>\n "
+        },
+        {
+          "option": "E",
+          "text": "Even\n all statements together are not sufficient",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Even\n all statements together are not sufficient</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "D",
+      "solutionText": "From\n Statement II, Gopal’s brother was born in 1982. \n\n From\n Statement III, Sanjay’s brother is two years younger than\n Gopal’s brother → Born in 1984. \n\n Gopal’s\n brother was 8 years younger than Gopal, so Gopal was born in 1974. \n\n From\n Statement I, Sanjay is 6 years older than Gopal, so he was born in\n 1968. \n\n All\n three statements together are required to determine the birth year\n of Sanjay.",
+      "solutionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">From\n Statement II, Gopal’s brother was born in 1982.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">From\n Statement III, Sanjay’s brother is two years younger than\n Gopal’s brother → Born in 1984.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Gopal’s\n brother was 8 years younger than Gopal, so Gopal was born in 1974.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">From\n Statement I, Sanjay is 6 years older than Gopal, so he was born in\n 1968.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">All\n three statements together are required to determine the birth year\n of Sanjay.</span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 10,
+      "section": "Data Sufficiency",
+      "questionId": "67beb992037cc23abbfb5f2d",
+      "questionText": "What\n is the present age of Sunita? \n\n Statements: \n\n I.\n Five years ago, Sunita's age was half of what it will be in 10\n years. \n\n II.\n The difference between Sunita's present age and twice her age five\n years ago is 10 years.",
+      "questionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">What\n is the present age of Sunita?</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statements:</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I.\n Five years ago, Sunita's age was half of what it will be in 10\n years.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II.\n The difference between Sunita's present age and twice her age five\n years ago is 10 years.</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "I\n alone is sufficient while II alone is not sufficient",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I\n alone is sufficient while II alone is not sufficient</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "II\n alone is sufficient while I alone is not sufficient",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II\n alone is sufficient while I alone is not sufficient</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "Either\n I or II is sufficient",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Either\n I or II is sufficient</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "Neither\n I nor II is sufficient",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Neither\n I nor II is sufficient</span></span></span></span></p>\n "
+        },
+        {
+          "option": "E",
+          "text": "Both\n I and II are sufficient",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Both\n I and II are sufficient</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "C",
+      "solutionText": "From\n statement I: Let Sunita’s present age be x. \n\n Five\n years ago, her age was (x - 5). \n\n In\n 10 years, her age will be (x + 10). \n\n Given:\n (x - 5) = ½ (x + 10) \n\n Solving\n for x, we get x = 20. \n\n From\n statement II: Let Sunita’s age be x. \n\n Twice\n her age five years ago = 2(x - 5). \n\n Given:\n x - 2(x - 5) = 10 \n\n Solving\n for x, we get x = 20.",
+      "solutionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">From\n statement I: Let Sunita’s present age be x.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Five\n years ago, her age was (x - 5).</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">In\n 10 years, her age will be (x + 10).</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Given:\n (x - 5) = ½ (x + 10)</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Solving\n for x, we get x = 20.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">From\n statement II: Let Sunita’s age be x.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Twice\n her age five years ago = 2(x - 5).</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Given:\n x - 2(x - 5) = 10</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Solving\n for x, we get x = 20.</span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 11,
+      "section": "Data Sufficiency",
+      "questionId": "67beb992037cc25a0ffb5f81",
+      "questionText": "Question:\n How many children does M have ? \n\n Statements: \n\n I.\n H is the only daughter of X who is wife of M. \n\n II.\n K and J are brothers of M.",
+      "questionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Question:\n How many children does M have ?</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statements:</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I.\n H is the only daughter of X who is wife of M.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II.\n K and J are brothers of M.</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "I\n alone is sufficient while II alone is not sufficient",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I\n alone is sufficient while II alone is not sufficient</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "II\n alone is sufficient while I alone is not sufficient",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II\n alone is sufficient while I alone is not sufficient</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "Either\n I or II is sufficient",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Either\n I or II is sufficient</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "Neither\n I nor II is sufficient",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Neither\n I nor II is sufficient</span></span></span></span></p>\n "
+        },
+        {
+          "option": "E",
+          "text": "Both\n I and II are sufficient",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Both\n I and II are sufficient</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "D",
+      "solutionText": "From\n I, we conclude that H is the only daughter of M. But this does not\n indicate that M has no son. The information given in II is\n immaterial.",
+      "solutionHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">From\n I, we conclude that H is the only daughter of M. But this does not\n indicate that M has no son. The information given in II is\n immaterial.</span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 12,
+      "section": "Data Sufficiency",
+      "questionId": "67beb992037cc23282fb5f69",
+      "questionText": "3.\n Is number X an even number? \n\n Statements: \n\n I.\n X is divisible by 4. \n\n II.\n X is a multiple of 6.",
+      "questionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">3.\n Is number X an even number?</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statements:</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I.\n X is divisible by 4.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II.\n X is a multiple of 6.</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "I\n alone is sufficient while II alone is not sufficient",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I\n alone is sufficient while II alone is not sufficient</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "II\n alone is sufficient while I alone is not sufficient",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II\n alone is sufficient while I alone is not sufficient</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "Either\n I or II is sufficient",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Either\n I or II is sufficient</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "Neither\n I nor II is sufficient",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Neither\n I nor II is sufficient</span></span></span></span></p>\n "
+        },
+        {
+          "option": "E",
+          "text": "Both\n I and II are sufficient",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Both\n I and II are sufficient</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "C",
+      "solutionText": "From statement I: If 𝑋 is divisible by 4, then \n\n 𝑋 is definitely even. So, statement I alone is sufficient. \n\n From statement II: If 𝑋 is a multiple of 6, \n\n 𝑋 could be 12, 18, 24, 30, ... (all even).",
+      "solutionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none;\"><span style=\"color: #000000;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-family: Cambria,serif;\"><span style=\"font-size: 19px;\">From statement I: If 𝑋 is divisible by 4, then </span></span></span></span></p>\n<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none;\"><span style=\"color: #000000;\">𝑋 <span style=\"font-family: Calibri,serif;\"><span style=\"font-family: Cambria,serif;\"><span style=\"font-size: 19px;\">is definitely even. So, statement I alone is sufficient.</span></span></span></span></p>\n<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none;\"><span style=\"color: #000000;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-family: Cambria,serif;\"><span style=\"font-size: 19px;\">From statement II: If 𝑋 is a multiple of 6, </span></span></span></span></p>\n<p align=\"justify\" style=\"text-decoration: none;\"><span style=\"color: #000000;\">𝑋 <span style=\"font-family: Calibri,serif;\"><span style=\"font-family: Cambria,serif;\"><span style=\"font-size: 19px;\">could be 12, 18, 24, 30, ... (all even).</span></span></span></span></p>",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 13,
+      "section": "Data Sufficiency",
+      "questionId": "67beb992037cc265e6fb5f8d",
+      "questionText": "Can\n a water tank of 2500 litres capacity be filled by two inlet pipes\n A and B together in less than 8 hours? \n\n I.\n If pipe A is opened alone then it takes 12 hours to fill the tank. \n\n II.\n Pipe B can fill 1 litres of water per minute.",
+      "questionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Can\n a water tank of 2500 litres capacity be filled by two inlet pipes\n A and B together in less than 8 hours?</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I.\n If pipe A is opened alone then it takes 12 hours to fill the tank.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II.\n Pipe B can fill 1 litres of water per minute.</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "I\n alone is sufficient while II alone is not sufficient",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I\n alone is sufficient while II alone is not sufficient</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "II\n alone is sufficient while I alone is not sufficient",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II\n alone is sufficient while I alone is not sufficient</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "Either\n I or II is sufficient",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Either\n I or II is sufficient</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "Neither\n I nor II is sufficient",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Neither\n I nor II is sufficient</span></span></span></span></p>\n "
+        },
+        {
+          "option": "E",
+          "text": "Both\n I and II are sufficient",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Both\n I and II are sufficient</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "E",
+      "solutionText": "From\n the statement I, the efficiency of pipe A per hour = 2500/12 =\n 625/3 litres per hour \n\n From\n the statement II, the efficiency of pipe B = 1 × 60 = 60\n litres per hour \n\n Pipe\n A and B together will fill in 1 hour = 625/3 + 60 = 805/3 litres\n per hour \n\n The\n time it will take to fill 2500 litres of water = more than 8\n hours, therefore answer will be no \n\n Therefore,\n the data in both the statements I and II together is necessary to\n answer the question",
+      "solutionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">From\n the statement I, the efficiency of pipe A per hour = 2500/12 =\n 625/3 litres per hour </span></span></span></span>\n </p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">From\n the statement II, the efficiency of pipe B = 1 × 60 = 60\n litres per hour</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Pipe\n A and B together will fill in 1 hour = 625/3 + 60 = 805/3 litres\n per hour </span></span></span></span>\n </p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">The\n time it will take to fill 2500 litres of water = more than 8\n hours, therefore answer will be no</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Therefore,\n the data in both the statements I and II together is necessary to\n answer the question</span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 14,
+      "section": "Data Sufficiency",
+      "questionId": "67beb992037cc20e29fb5f51",
+      "questionText": "What\n is the speed of a train? \n\n Statements: \n\n I.\n The train crosses a pole in 8 seconds. \n\n II.\n The train is 200 meters long.",
+      "questionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">What\n is the speed of a train?</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statements:</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I.\n The train crosses a pole in 8 seconds.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II.\n The train is 200 meters long.</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "I\n alone is sufficient while II alone is not sufficient",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I\n alone is sufficient while II alone is not sufficient</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "II\n alone is sufficient while I alone is not sufficient",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II\n alone is sufficient while I alone is not sufficient</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "Either\n I or II is sufficient",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Either\n I or II is sufficient</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "Neither\n I nor II is sufficient",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Neither\n I nor II is sufficient</span></span></span></span></p>\n "
+        },
+        {
+          "option": "E",
+          "text": "Both\n I and II are sufficient",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Both\n I and II are sufficient</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "E",
+      "solutionText": "Speed\n = Distance / Time. \n\n From\n statement I, we know time = 8 seconds, but we don’t know the\n distance. \n\n From\n statement II, we know the length of the train is 200 meters. \n\n Using\n both together: Speed = 200 / 8 = 25 m/s. \n\n So,\n both statements together are sufficient.",
+      "solutionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Speed\n = Distance / Time.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">From\n statement I, we know time = 8 seconds, but we don’t know the\n distance.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">From\n statement II, we know the length of the train is 200 meters.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Using\n both together: Speed = 200 / 8 = 25 m/s.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">So,\n both statements together are sufficient.</span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 15,
+      "section": "Data Sufficiency",
+      "questionId": "67beb992037cc2daf4fb5f6f",
+      "questionText": "What\n is the code for \"WORLD\" in a certain coding language? \n\n Statements: \n\n I.\n \"HELLO\" is coded as \"IFMMP\". \n\n II.\n \"NIGHT\" is coded as \"OJHIU\". \n\n III.\n The coding follows a pattern where each letter is replaced by the\n next letter in the English alphabet.",
+      "questionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">What\n is the code for \"WORLD\" in a certain coding language?</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statements:</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I.\n \"HELLO\" is coded as \"IFMMP\".</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II.\n \"NIGHT\" is coded as \"OJHIU\".</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">III.\n The coding follows a pattern where each letter is replaced by the\n next letter in the English alphabet.</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "Only\n I and II together are sufficient",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n I and II together are sufficient</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "Only\n II and III together are sufficient",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n II and III together are sufficient</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "Only\n I and III together are sufficient",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n I and III together are sufficient</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "All\n I, II, and III together are sufficient",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">All\n I, II, and III together are sufficient</span></span></span></span></p>\n "
+        },
+        {
+          "option": "E",
+          "text": "Even\n all statements together are not sufficient",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Even\n all statements together are not sufficient</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "C",
+      "solutionText": "Statement\n I: Shows how \"HELLO\" is coded as \"IFMMP\". \n\n Statement\n II: Shows how \"NIGHT\" is coded as \"OJHIU\". \n\n Statement\n III: Confirms the pattern → Each letter is replaced by the\n next letter. \n\n Applying\n this pattern to WORLD: \n\n W\n → X \n\n O\n → P \n\n R\n → S \n\n L\n → M \n\n D\n → E \n\n So,\n \"WORLD\" = \"XPSME\". \n\n Statements\n I and III together are sufficient.",
+      "solutionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statement\n I: Shows how \"HELLO\" is coded as \"IFMMP\".</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statement\n II: Shows how \"NIGHT\" is coded as \"OJHIU\".</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statement\n III: Confirms the pattern → Each letter is replaced by the\n next letter.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Applying\n this pattern to WORLD:</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">W\n → X</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">O\n → P</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">R\n → S</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">L\n → M</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">D\n → E</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">So,\n \"WORLD\" = \"XPSME\".</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statements\n I and III together are sufficient.</span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 16,
+      "section": "Data Sufficiency",
+      "questionId": "67beb992037cc2805bfb5f27",
+      "questionText": "What\n is the sum of the angles of a triangle? \n\n I.\n One of the angles of the triangle is 60 degrees. \n\n II.\n The triangle is an equilateral triangle.",
+      "questionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">What\n is the sum of the angles of a triangle? </span></span></span></span>\n </p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I.\n One of the angles of the triangle is 60 degrees. </span></span></span></span>\n </p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II.\n The triangle is an equilateral triangle.</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "I\n alone is sufficient while II alone is not sufficient",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I\n alone is sufficient while II alone is not sufficient</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "II\n alone is sufficient while I alone is not sufficient",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II\n alone is sufficient while I alone is not sufficient</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "Either\n I or II is sufficient",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Either\n I or II is sufficient</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "Neither\n I nor II is sufficient",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Neither\n I nor II is sufficient</span></span></span></span></p>\n "
+        },
+        {
+          "option": "E",
+          "text": "Both\n I and II are sufficient",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Both\n I and II are sufficient</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "Step\n 1: Checking Statement I \n\n It\n only tells us that one of the angles is 60 degrees, but it does\n not give information about the sum of all angles. \n\n However,\n the sum of the angles in any triangle is always 180 degrees, which\n is a known fact. \n\n Statement\n I alone is NOT sufficient, as it does not help determine whether\n the general rule of 180° holds. \n\n Step\n 2: Checking Statement II \n\n An\n equilateral triangle has all three angles equal to 60 degrees. \n\n Since\n we know it's a triangle, its angles must sum to 180 degrees by\n definition. \n\n Statement\n II alone is sufficient, as it confirms the sum of angles.",
+      "solutionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Step\n 1: Checking Statement I</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">It\n only tells us that one of the angles is 60 degrees, but it does\n not give information about the sum of all angles.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">However,\n the sum of the angles in any triangle is always 180 degrees, which\n is a known fact.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statement\n I alone is NOT sufficient, as it does not help determine whether\n the general rule of 180° holds.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Step\n 2: Checking Statement II</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">An\n equilateral triangle has all three angles equal to 60 degrees.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Since\n we know it's a triangle, its angles must sum to 180 degrees by\n definition.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statement\n II alone is sufficient, as it confirms the sum of angles.</span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 17,
+      "section": "Data Sufficiency",
+      "questionId": "67beb992037cc203c9fb5f4b",
+      "questionText": "What\n is the value of X? \n\n Statements: \n\n I.\n 𝑋 is an even number. \n\n II.\n 𝑋 is a multiple of 4 and lies between 10 and 20.",
+      "questionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">What\n is the value of X?</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statements:</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I.\n 𝑋 is an even number.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II.\n 𝑋 is a multiple of 4 and lies between 10 and 20.</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "I\n alone is sufficient while II alone is not sufficient",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I\n alone is sufficient while II alone is not sufficient</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "II\n alone is sufficient while I alone is not sufficient",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II\n alone is sufficient while I alone is not sufficient</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "Either\n I or II is sufficient",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Either\n I or II is sufficient</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "Neither\n I nor II is sufficient",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Neither\n I nor II is sufficient</span></span></span></span></p>\n "
+        },
+        {
+          "option": "E",
+          "text": "Both\n I and II are sufficient",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Both\n I and II are sufficient</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "D",
+      "solutionText": "Statement\n 1: X is even → Possible values: any even number (not\n sufficient). \n\n Statement\n 2: X is a multiple of 4 and lies between 10 and 20 → Possible\n values: 12, 16 (not unique). \n\n Even\n together, we can't determine a unique value.",
+      "solutionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statement\n 1: X is even → Possible values: any even number (not\n sufficient).</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statement\n 2: X is a multiple of 4 and lies between 10 and 20 → Possible\n values: 12, 16 (not unique).</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Even\n together, we can't determine a unique value.</span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 18,
+      "section": "Data Sufficiency",
+      "questionId": "67beb992037cc261e4fb5f39",
+      "questionText": "On\n which day of the week did Raman leave for Dubai ? \n\n I.\n Raman didn’t leave for Dubai during the weekend. \n\n II.\n Raman’s brother left for Dubai on Friday 2 days after Raman\n left for Dubai",
+      "questionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">On\n which day of the week did Raman leave for Dubai ?</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I.\n Raman didn’t leave for Dubai during the weekend.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II.\n Raman’s brother left for Dubai on Friday 2 days after Raman\n left for Dubai</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "I\n alone is sufficient while II alone is not sufficient",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I\n alone is sufficient while II alone is not sufficient</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "II\n alone is sufficient while I alone is not sufficient",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II\n alone is sufficient while I alone is not sufficient</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "Either\n I or II is sufficient",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Either\n I or II is sufficient</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "Neither\n I nor II is sufficient",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Neither\n I nor II is sufficient</span></span></span></span></p>\n "
+        },
+        {
+          "option": "E",
+          "text": "Both\n I and II are sufficient",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Both\n I and II are sufficient</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "B",
+      "solutionText": "From\n Statement II: Raman’s brother left on Friday, 2 days after\n Raman → So Raman left on Wednesday. \n\n Statement\n I only tells us Raman didn’t leave on the weekend but\n doesn’t determine the exact day. \n\n Thus,\n Statement II alone is sufficient.",
+      "solutionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">From\n Statement II: Raman’s brother left on Friday, 2 days after\n Raman → So Raman left on Wednesday.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statement\n I only tells us Raman didn’t leave on the weekend but\n doesn’t determine the exact day.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Thus,\n Statement II alone is sufficient.</span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 19,
+      "section": "Data Sufficiency",
+      "questionId": "67beb992037cc271d2fb5f7b",
+      "questionText": "Five\n persons - A, B, C, D and E are sitting in a row. Who is sitting in\n the middle? \n\n Statements: \n\n I.\n B is between E and C. \n\n II.\n B is to the right of E. \n\n III.\n D is between A and E.",
+      "questionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Five\n persons - A, B, C, D and E are sitting in a row. Who is sitting in\n the middle?</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statements:</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I.\n B is between E and C.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II.\n B is to the right of E.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">III.\n D is between A and E.</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "Only\n I and II together are sufficient",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n I and II together are sufficient</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "Only\n II and III together are sufficient",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n II and III together are sufficient</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "Only\n I and III together are sufficient",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n I and III together are sufficient</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "All\n I, II, and III together are sufficient",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">All\n I, II, and III together are sufficient</span></span></span></span></p>\n "
+        },
+        {
+          "option": "E",
+          "text": "Even\n all statements together are not sufficient",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Even\n all statements together are not sufficient</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "D",
+      "solutionText": "From\n I, the order is : E, B, C or C, B, E. \n\n From\n II, the order is : E, B. \n\n From\n III, the order is : A, D, E. \n\n Combining\n the above three, we get the order as : A, D, E, B, C. Clearly, E\n is sitting in the middle.",
+      "solutionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">From\n I, the order is : E, B, C or C, B, E.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">From\n II, the order is : E, B.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">From\n III, the order is : A, D, E.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Combining\n the above three, we get the order as : A, D, E, B, C. Clearly, E\n is sitting in the middle.</span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    },
+    {
+      "questionNumber": 20,
+      "section": "Data Sufficiency",
+      "questionId": "67beb992037cc27a15fb5f5d",
+      "questionText": "What\n is the speed of a train? \n\n Statements: \n\n I.\n The train crosses a 240-meter platform in 12 seconds. \n\n II.\n The length of the train is 120 meters.",
+      "questionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">What\n is the speed of a train?</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statements:</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I.\n The train crosses a 240-meter platform in 12 seconds.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II.\n The length of the train is 120 meters.</span></span></span></span></p>\n ",
+      "options": [
+        {
+          "option": "A",
+          "text": "I\n alone is sufficient while II alone is not sufficient",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I\n alone is sufficient while II alone is not sufficient</span></span></span></span></p>\n "
+        },
+        {
+          "option": "B",
+          "text": "II\n alone is sufficient while I alone is not sufficient",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II\n alone is sufficient while I alone is not sufficient</span></span></span></span></p>\n "
+        },
+        {
+          "option": "C",
+          "text": "Either\n I or II is sufficient",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Either\n I or II is sufficient</span></span></span></span></p>\n "
+        },
+        {
+          "option": "D",
+          "text": "Neither\n I nor II is sufficient",
+          "isCorrect": false,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Neither\n I nor II is sufficient</span></span></span></span></p>\n "
+        },
+        {
+          "option": "E",
+          "text": "Both\n I and II are sufficient",
+          "isCorrect": true,
+          "rawHtml": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Both\n I and II are sufficient</span></span></span></span></p>\n "
+        }
+      ],
+      "correctAnswer": "E",
+      "solutionText": "Statement\n 1: Distance covered = Train length + Platform length = 120 + 240 =\n 360 meters \n\n Speed\n = 360/12 = 30 m/s \n\n So,\n speed is determined. \n\n Statement\n 2: Only gives train length, which is not enough to calculate\n speed.",
+      "solutionHtml": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statement\n 1: Distance covered = Train length + Platform length = 120 + 240 =\n 360 meters</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Speed\n = 360/12 = 30 m/s</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">So,\n speed is determined.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statement\n 2: Only gives train length, which is not enough to calculate\n speed.</span></span></span></span></p>\n ",
+      "positiveMarks": 0,
+      "negativeMarks": 0,
+      "figures": []
+    }
+  ]
+}
