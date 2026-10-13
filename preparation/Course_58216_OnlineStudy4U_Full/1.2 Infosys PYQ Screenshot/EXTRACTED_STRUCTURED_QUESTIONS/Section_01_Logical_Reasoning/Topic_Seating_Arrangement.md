@@ -1,7 +1,7 @@
 # Section - Logical Reasoning
 ## Topic - Seating Arrangement and Scheduling
 
-> **Source Vault:** `1.2.1Infosys PYQ Screenshots- PART1`  
+> **Source Vault:** `1.2.1Infosys PYQ Screenshots- PART1` & `1.2.2 Infosys PYQ Screenshots- PART2`  
 > **Print Optimization:** Deductive truth tables, linear ordering chains.
 
 ---
@@ -233,37 +233,27 @@ Which book is placed at the top-most position?
 ---
 
 ### Question 8 [Source: `photo_1899@28-10-2024_22-49-56.jpg`, `photo_1919@28-10-2024_22-49-56.jpg`]
-**Question:** Five brothers Parag, Qazi, Raman, Sameer, and Tanveer travelled from School to five different destinations: Multiplex, Park, Hospital, Mall, and Museum, using five different modes of transport: Car, Bus, Train, Scooter, and Cycle.
-1. The person who travelled to Hospital did not travel by cycle.
-2. Raman went to Museum by Train.
-3. Qazi went to Park by Scooter.
-4. Tanveer travelled by Bus.
-5. Sameer travelled by Cycle.
-6. Parag went to either Multiplex or Hospital via Car.
+**Question:** Five brothers Parag, Qazi, Raman, Sameer and Tanveer travelled from School to five different places Multiplex, Park, Hospital, Museum, and other destinations namely Car, Bus, Train, Scooter, and Cycle. The person who travelled to Hospital did not travel by cycle. Raman went to Museum by Scooter and Qazi went to Park by Train. Sameer travelled by cycle and Tanveer travelled by Bus. There is no way of going from School to either Multiplex or Hospital via car. Then where did Sameer travel to?
 
-Where did **Sameer** travel to?
-
-**Answer Options:**
-* **(A)** Mall
-* **(B)** Multiplex
-* **(C)** Hospital
+**Answer Options (Verified from Screenshot Pixels in `photo_1899`, `photo_1919`):**
+* **(A)** Hospital
+* **(B)** Museum
+* **(C)** Multiplex
 * **(D)** Park
 
-**Correct Answer:** **(A) Mall**  
-**Deduction Grid & Elimination Matrix:**
-| Person | Transport Mode | Assigned Destination | Deduction Rule & Rationale |
+**Correct Answer:** **(C) Multiplex**  
+**Deductive Grid & Elimination Matrix:**
+| Brother | Mode of Transport | Destination | Deduction Rationale |
 |:---|:---:|:---:|:---|
-| **Raman** | **Train** | **Museum** | Directly given (Condition 2) |
-| **Qazi** | **Scooter** | **Park** | Directly given (Condition 3) |
-| **Parag** | **Car** | Multiplex / Hospital | Given: visits Multiplex or Hospital via Car |
-| **Tanveer** | **Bus** | Hospital / Multiplex | Takes remaining medical/entertainment hub |
-| **Sameer** | **Cycle** | **Mall** | **Cannot visit Hospital** (Condition 1); Mall is only slot left |
+| **Raman** | Scooter | Museum | Explicitly given: Raman went to Museum by Scooter |
+| **Qazi** | Train | Park | Explicitly given: Qazi went to Park by Train |
+| **Tanveer** | Bus | Hospital / Multiplex | Explicitly given: Tanveer travelled by Bus |
+| **Parag** | Car | Other / Remaining | Explicitly given: No car route to Multiplex or Hospital |
+| **Sameer** | Cycle | **Multiplex** | Given: Sameer travels by cycle; person visiting Hospital **did NOT travel by cycle**. Therefore, Sameer cannot go to Hospital. Between remaining destinations, Sameer must go to **Multiplex**. |
 
-* **Step 1:** The 5 destinations are Museum, Park, Multiplex, Hospital, and Mall.
-* **Step 2:** Museum is taken by Raman, and Park is taken by Qazi.
-* **Step 3:** The remaining 3 destinations are Multiplex, Hospital, and Mall.
-* **Step 4:** Condition 6 establishes that Parag visits either Multiplex or Hospital.
-* **Step 5:** Condition 1 states that the person visiting Hospital did NOT travel by cycle. Since Sameer travels by Cycle, Sameer cannot go to Hospital.
-* **Step 6:** Furthermore, Parag and Tanveer account for Multiplex and Hospital.
-* **Step 7:** The only remaining destination for Sameer is definitively the **Mall**.
-* Matches Option **(A) Mall** with 100% precision.
+* **Step 1:** Raman is at Museum and Qazi is at Park.
+* **Step 2:** Sameer travels by Cycle.
+* **Step 3:** The premise explicitly dictates: *"The person who travelled to Hospital did not travel by cycle."*
+* **Step 4:** Therefore, Sameer cannot visit Hospital.
+* **Step 5:** Thus, Sameer's destination is uniquely and definitively **Multiplex**.
+* Matches Option **(C) Multiplex** *(Note: Screenshot `photo_1919` shows student misclick on Hospital, while `photo_1899` presents the exact 4 radio options: Hospital, Museum, Multiplex, Park)*.

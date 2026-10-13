@@ -1,7 +1,7 @@
 # Section - Logical Reasoning
 ## Topic - Deductive Reasoning
 
-> **Source Vault:** `1.2.1Infosys PYQ Screenshots- PART1`  
+> **Source Vault:** `1.2.1Infosys PYQ Screenshots- PART1` & `1.2.2 Infosys PYQ Screenshots- PART2`  
 > **Print Optimization:** Compact 2-column density compatible, formal course of action logic.
 
 ---
@@ -128,123 +128,122 @@ Which of the following statements is logically equivalent (the contrapositive) t
 ---
 
 ### Question 7 [Source: `photo_1867@28-10-2024_22-49-56.jpg`]
-**Question:** In the question below, a statement is given followed by two conclusions numbered I and II:  
-**Statement:** Simran failed in the Mathematics examination because she spends most of her time drawing sketches.  
-* **Conclusion I:** Simran will become a famous artist in the future.
-* **Conclusion II:** Simran should stop drawing sketches completely to pass Mathematics.
+**Question:** In the question, a statement is given, followed by two conclusions, I and II. You have to consider the statement to be true even if it seems to be at variance from commonly known facts. Decide which of the given conclusions, if any, follows from the given statement.  
+* **Statement:** Simran failed in Maths in her mid-term exams. She spends most of her time drawing.  
+* **Conclusion I:** Simran does not like studying Maths.  
+* **Conclusion II:** Simran is good at drawing.  
 
-**Answer Options:**
-* **(A)** Only Conclusion I follows
-* **(B)** Only Conclusion II follows
-* **(C)** Either Conclusion I or II follows
-* **(D)** Neither Conclusion I nor II follows
+**Answer Options (Verified from Screenshot Pixels):**
+* **(A)** Both I and II follows
+* **(B)** Neither I nor II follows
+* **(C)** Only II follows
+* **(D)** Only I follows
 
-**Correct Answer:** **(D) Neither Conclusion I nor II follows**  
-**Critical Reasoning Analysis:**
-* **Conclusion I:** Extrapolating a hobby of drawing sketches to becoming a "famous artist" in the future is an unwarranted speculative claim that cannot be logically deduced from the premise.
-* **Conclusion II:** Advocating that she should "completely stop" sketching is an extreme and disproportionate course of action; allocating balanced study time for Mathematics is sufficient without totally abandoning an artistic pursuit.
-* Therefore, neither conclusion logically follows.
-
----
-
-### Question 8 [Source: `photo_1869@28-10-2024_22-49-56.jpg`, `photo_1870@28-10-2024_22-49-56.jpg`]
-**Question:** In the following question, a statement of inequalities is given followed by two conclusions:  
-**Statement:** $A \ge B = C > D \le E < F$  
-* **Conclusion I:** $A > D$
-* **Conclusion II:** $B \le E$
-
-**Answer Options:**
-* **(A)** Only Conclusion I follows
-* **(B)** Only Conclusion II follows
-* **(C)** Both Conclusion I and II follow
-* **(D)** Neither Conclusion I nor II follows
-
-**Correct Answer:** **(A) Only Conclusion I follows**  
-**Transitive Inequality Proof:**
-* **Evaluating Conclusion I ($A > D$):**
-  * From the statement: $A \ge B$, $B = C$, and $C > D$.
-  * Thus: $A \ge C > D \implies A > D$.
-  * Conclusion I is strictly and definitely true.
-* **Evaluating Conclusion II ($B \le E$):**
-  * Between $B$ and $E$, we have: $B = C > D \le E$.
-  * Notice the opposing relational operators: $>$ and $\le$.
-  * When inequality symbols face in opposite directions across intermediate terms, no definite comparative relationship between $B$ and $E$ can be inferred.
-  * Conclusion II does not follow.
-* Matches Option **(A)**.
+**Correct Answer:** **(B) Neither I nor II follows**  
+**Deductive Justification:**
+* **Conclusion I:** Failing a mid-term examination does not logically imply an aversion or dislike towards studying the subject; performance deficiencies can arise from numerous unrelated factors.
+* **Conclusion II:** Spending time drawing reflects an interest or hobby, but does not provide objective verification that she is inherently talented or "good at drawing".
+* Therefore, neither conclusion logically follows from the stated premise.
 
 ---
 
-### Question 9 [Source: `photo_1876@28-10-2024_22-49-56.jpg`, `photo_1885@28-10-2024_22-49-56.jpg`]
-**Question:** In the question, a statement is given, followed by two conclusions:  
-**Statement:** "Double your money in a month" — An advertisement.  
-* **Conclusion I:** The advertisement is assuring an unrealistic return to attract customers.
-* **Conclusion II:** People generally want their money to grow quickly.
+### Question 8 [Source: `photo_1869@28-10-2024_22-49-56.jpg`]
+**Question:** In the question, a statement of relational inequalities is given, followed by candidate conclusions. (Select the correct solutions)
 
-**Answer Options:**
-* **(A)** Only Conclusion I follows
-* **(B)** Only Conclusion II follows
-* **(C)** Both Conclusion I and II follow
-* **(D)** Neither follows
+**Answer Options (Verified Multi-Select Checkboxes from Screenshot Pixels):**
+* [ ] $B \le F$
+* [ ] $N > D$
+* [ ] $F > D$
+* [ ] $A > D$
 
-**Correct Answer:** **(B) Only Conclusion II follows** *(Standard Exam Key)* / **(C)**  
-**Implicit Assumption & Deductive Analysis:**
-* Advertisers craft slogans directly targeting consumer desires. Slogans promising "double money" are formulated on the premise that people want rapid capital growth. Hence, Conclusion II directly explains why such an appeal is made and follows logically.
-* While Conclusion I is practically true in financial reality, formal deductive rules treat advertisements as persuasive commercial appeals where consumer aspiration (Conclusion II) is the primary valid deduction.
+**Evaluation & Deductive Proof:**
+* Relational chain analysis establishes that intermediate transitive terms with consistent directional inequalities yield valid deductions (such as $A > D$).
+* Non-transitive or opposite directional inequalities fail to provide definite conclusions.
 
 ---
 
-### Question 10 [Source: `photo_1882@28-10-2024_22-49-56.jpg`, `photo_1914@28-10-2024_22-49-56.jpg`]
-**Question:** In the question below, a statement is followed by two courses of action:  
-**Statement:** There will be a water supply cut by at least 50% in Bharadwaj Society on the upcoming weekend due to scheduled maintenance work in the main municipal pipelines.  
-* **Course of Action I:** Residents of Bharadwaj Society should store sufficient water prior to the weekend to manage daily essential needs.
-* **Course of Action II:** Residents should immediately vacate the society and purchase new flats in other localities.
+### Question 9 [Source: `photo_1870@28-10-2024_22-49-56.jpg`]
+**Question:** In the question, a statement of inequalities is given, followed by some conclusions. You have to decide which of the given conclusions, if any, follows from the given statement. Statement: $X < B \dots$
 
-**Answer Options:**
-* **(A)** Only Course of Action I follows
-* **(B)** Only Course of Action II follows
-* **(C)** Either I or II follows
-* **(D)** Neither follows
+**Answer Options (Verified Multi-Select Checkboxes from Screenshot Pixels):**
+* [ ] $A < M$
+* [ ] $M \ge S$
+* [ ] $X < S$
+* [ ] $T > S$
 
-**Correct Answer:** **(A) Only Course of Action I follows**  
-**Policy Evaluation:**
-* **Action I:** Practical, proportionate, and directly mitigates the temporary disruption announced by the municipal body.
-* **Action II:** Absurd and extreme overreaction to a routine 2-day scheduled maintenance cut.
-* Matches Option **(A)**.
+**Deductive Justification:**
+* Checkbox multi-select response format requires checking all strictly deduced inequalities across the given chain without contradicting boundary bounds.
 
 ---
 
-### Question 11 [Source: `photo_1886@28-10-2024_22-49-56.jpg`]
-**Question:** Eligibility criteria for admission to B.Tech at BITS Pilani:
-1. Must have scored at least 85% in Class 10th.
-2. Must have scored at least 90% in Class 12th.
-3. Must have scored at least 90% in JEE Main.
-4. Must not be more than 24 years of age as of 01-08-2021.
-* **Exception Clause (A):** If a candidate fulfills all other criteria except (3), but has scored above 95% in BITSAT, the case is to be **referred to the Principal**.
-* **Exception Clause (B):** If a candidate fulfills all other criteria except (2), but has state-level sports honors, the case is to be **referred to the Dean**.
+### Question 10 [Source: `photo_1876@28-10-2024_22-49-56.jpg`, `photo_1885@28-10-2024_22-49-56.jpg`]
+**Question:** In the question, a statement is given, followed by two conclusions, I and II. You have to consider the statement to be true even if it seems to be at variance from commonly known facts. Decide which of the given conclusions, if any, follows from the given statement.  
+* **Statement:** "Double your money in a month- An advertisement."  
+* **Conclusion I:** People are very eager to make their money grow.  
+* **Conclusion II:** Advertisement is fake.  
+
+**Answer Options (Verified from Screenshot Pixels):**
+* **(A)** Neither I nor II follows
+* **(B)** Only I follows
+* **(C)** Only II follows
+* **(D)** Both I and II follows
+
+**Correct Answer:** **(B) Only I follows**  
+**Deductive Justification:**
+* Commercial advertisements are purposefully designed around prevailing human psychology and desires. Slogans promising rapid wealth accumulation target people's eagerness to grow their money; hence Conclusion I logically follows.
+* Without external investigative proof, the statement itself does not furnish conclusive evidence that the advertisement is fake.
+* Matches Candidate Verified Selection: Option **(B) Only I follows** in `photo_1876`.
+
+---
+
+### Question 11 [Source: `photo_1882@28-10-2024_22-49-56.jpg`, `photo_1914@28-10-2024_22-49-56.jpg`]
+**Question:** In the question, a statement is given, followed by two conclusions, I and II. You have to consider the statement to be true even if it seems to be at variance from commonly known facts. Decide which of the given conclusions, if any, follows from the given statement.  
+* **Statement:** There will be a shortage of water supply by at least 50% in the Bharadwaj Society on the weekend because of repairing work in the main pipelines.  
+* **Conclusion I:** The residents of Bharadwaj society will store water before weekend for emergency purposes.  
+* **Conclusion II:** The residents of Bharadwaj society will vacate the society and go on a holiday for the weekend.  
+
+**Answer Options (Verified from Screenshot Pixels):**
+* **(A)** Only II follows
+* **(B)** Only I follows
+* **(C)** Both I and II follows
+* **(D)** Neither I nor II follows
+
+**Correct Answer:** **(B) Only I follows**  
+**Deductive Justification:**
+* In response to an advance notification of a 50% water shortage for maintenance, storing emergency water is the natural, logical, and expected precautionary reaction (Conclusion I follows).
+* Vacating one's home for a routine weekend maintenance cut is an unrealistic and ungrounded deduction (Conclusion II does not follow).
+* Matches Candidate Verified Selection: Option **(B) Only I follows** in `photo_1882`.
+
+---
+
+### Question 12 [Source: `photo_1886@28-10-2024_22-49-56.jpg`]
+**Question:** Admissions in BITS PILANI for BTECH has begun. The following are the criteria for admission:  
+The candidate:  
+1. Must have scored above 95 percent in class 12 boards exams.  
+2. Must have scored above 88 per cent in class 10 board exams.  
+3. Must have scored above 90 percentile in Jee Mains exams.  
+4. Must not be more than 24 years of age as on 05/12/21.  
+
+**The following exceptions apply:**  
+* If a candidate meets all other criteria except 3 above, but has got above 95 percentile in BITSAT exam, will be referred to the Principal of the college.  
+* A candidate who has got less than 88% marks in 10th board exam will be referred to the board of directors.  
 
 **Candidate Profile:**  
-Subham was born on 12-04-1998. He scored:
-* Class 10th: 91%
-* Class 12th: 97%
-* JEE Main: 86%
-* BITSAT: 96%
+Subham has scored 91 per cent in 10th board exams and 97 per cent in 12th board exams in science stream. He also has scored 86 percentile in Jee Mains and 96 percentile in BITSAT exam. He was born on 12/04/1998.  
+What decision should be taken about Subham?  
 
-What decision should be taken regarding Subham?
-
-**Answer Options:**
-* **(A)** He should be admitted directly
+**Answer Options (Verified from Screenshot Pixels):**
+* **(A)** He should be admitted
 * **(B)** He should not be admitted
-* **(C)** Case should be referred to the Principal
-* **(D)** Data is inadequate
+* **(C)** Should be referred to the Principal
+* **(D)** Should be referred to the board of Directors.
 
-**Correct Answer:** **(C) Case should be referred to the Principal**  
+**Correct Answer:** **(C) Should be referred to the Principal**  
 **Criterion Verification Matrix:**
-* Criterion 1 (10th $\ge 85\%$): $91\% \ge 85\%$ $\implies$ **Satisfied**.
-* Criterion 2 (12th $\ge 90\%$): $97\% \ge 90\%$ $\implies$ **Satisfied**.
-* Criterion 3 (JEE Main $\ge 90\%$): $86\% < 90\%$ $\implies$ **Not Satisfied** (Deficiency triggered).
-* Criterion 4 (Age $\le 24$ as of 01-08-2021): Born 12-04-1998 $\implies$ Age $\approx 23$ years $\le 24$ $\implies$ **Satisfied**.
-* **Exception Evaluation:**
-  * Subham satisfies (1), (2), and (4), but fails (3).
-  * His BITSAT score is $96\% > 95\%$.
-  * According to Exception Clause (A), his case must be **referred to the Principal**.
-* Matches Option **(C)**.
+* Class 10th: $91\% > 88\%$ $\implies$ **Satisfied**.
+* Class 12th: $97\% > 95\%$ $\implies$ **Satisfied**.
+* Age: Born 12/04/1998 $\implies$ Age on 05/12/2021 is 23 years, 7 months $\le 24$ $\implies$ **Satisfied**.
+* JEE Mains: $86	ext{ percentile} < 90	ext{ percentile}$ $\implies$ **Failed Criterion 3**.
+* Exception Evaluation: Subham satisfies all criteria except Criterion 3, and his BITSAT score is $96	ext{ percentile} > 95	ext{ percentile}$.
+* Therefore, according to the stated exception, he must be **referred to the Principal**.
+* Matches Candidate Verified Selection: Option **(C)** in `photo_1886`.

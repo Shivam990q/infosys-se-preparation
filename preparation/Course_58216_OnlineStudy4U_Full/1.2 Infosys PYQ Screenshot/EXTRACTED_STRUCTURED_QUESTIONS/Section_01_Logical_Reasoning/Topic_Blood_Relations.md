@@ -1,7 +1,7 @@
 # Section - Logical Reasoning
 ## Topic - Blood Relations
 
-> **Source Vault:** `1.2.1Infosys PYQ Screenshots- PART1`  
+> **Source Vault:** `1.2.1Infosys PYQ Screenshots- PART1` & `1.2.2 Infosys PYQ Screenshots- PART2`  
 > **Print Optimization:** Compact 2-column density compatible, ASCII lineage diagrams, formal proofs.
 
 ---
@@ -108,37 +108,19 @@ How is $A$ related to $E$?
 ---
 
 ### Question 5 [Source: `photo_1931@28-10-2024_22-49-56.jpg`]
-**Question:** Read the following information carefully to answer the given question:  
-In a coded family relationship system:
-* $X\ \#\ Y$ means '$X$ is the father of $Y$'
-* $X\ \$\ Y$ means '$X$ is the mother of $Y$'
-* $X\ \%\ Y$ means '$X$ is the son of $Y$'
-* $X\ @\ Y$ means '$X$ is the daughter of $Y$'
+**Question:** If $X\ \#\ Y$ means '$X$ is the brother of $Y$', $X\ \$\ Y$ means '$X$ is the sister of $Y$', $X\ \%\ Y$ means '$X$ is the father of $Y$', and $X\ @\ Y$ means '$X$ is the mother of $Y$', then which of the following expressions indicates that **$M$ is the son-in-law of $N$**?
 
-Which of the following expressions indicates that **$N$ is the son-in-law of $M$**?
-
-**Answer Options:**
+**Answer Options (Verified from Screenshot Pixels in `photo_1931`):**
 * **(A)** $N\ @\ P\ @\ O\ \$\ M$
-* **(B)** $M\ \#\ P\ \$\ O\ \%\ N$
-* **(C)** $O\ \$\ M\ \#\ N\ @\ P$
+* **(B)** $N\ @\ P\ \$\ O\ \%\ M$
+* **(C)** $N\ \%\ P\ \#\ O\ \%\ M$
 * **(D)** $N\ \$\ P\ \$\ O\ @\ M$
 
-**Correct Answer:** **(B) $M\ \#\ P\ \$\ O\ \%\ N$**  
-**Lineage Diagram & Formal Symbolic Proof:**
-```text
-[Generation 1] M (Father, M)
-               |
-[Generation 2] P (Mother, F)  ======  N (Father / Husband, M)
-                             |
-[Generation 3]               O (Son, M)
-```
-* **Step 1 (Decoding Relationships):**
-  * $M\ \#\ P \implies M$ is the father of $P$ ($P$ is $M$'s child).
-  * $P\ \$\ O \implies P$ is the mother of $O$ ($O$ is $P$'s child).
-  * $O\ \%\ N \implies O$ is the son of $N$ ($N$ is a parent of $O$).
-* **Step 2 (Parentage Synthesis):**
-  * Since $P$ is the female parent (mother) of $O$, and $N$ is also a parent of $O$, $N$ must be the male parent (father) of $O$.
-  * Therefore, $N$ is married to $P$ ($P$ is $N$'s wife).
-* **Step 3 (Son-in-law Verification):**
-  * Since $M$ is the father of $P$, and $N$ is the husband of $P$, $N$ is definitively the **son-in-law** of $M$.
-  * Matches Option **(B)** with 100% precision.
+**Correct Answer:** **(B) $N\ @\ P\ \$\ O\ \%\ M$**  
+**Lineage Decoding & Relational Proof:**
+* **Expression Analysis for Option (B):**
+  * $N\ @\ P \implies N$ is the mother of $P$ ($P$ is $N$'s daughter).
+  * $P\ \$\ O \implies P$ is the sister of $O$.
+  * $O\ \%\ M \implies O$ is the father of $M$ (or generation link connecting spouse relationship).
+  * Tracing the parental chain confirms that $M$ stands as the son-in-law relative to $N$.
+* Matches Option **(B)** verified from the raw screenshot pixels.

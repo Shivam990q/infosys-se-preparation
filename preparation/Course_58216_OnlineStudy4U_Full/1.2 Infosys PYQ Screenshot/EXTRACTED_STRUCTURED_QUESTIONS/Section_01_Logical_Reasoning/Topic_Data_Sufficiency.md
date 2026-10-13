@@ -1,7 +1,7 @@
 # Section - Logical Reasoning
 ## Topic - Data Sufficiency
 
-> **Source Vault:** `1.2.1Infosys PYQ Screenshots- PART1`  
+> **Source Vault:** `1.2.1Infosys PYQ Screenshots- PART1` & `1.2.2 Infosys PYQ Screenshots- PART2`  
 > **Total Questions:** 12 Fully Verified Questions  
 > **Print Optimization:** Compact 2-column density compatible, concise mathematical derivations, zero filler.
 
@@ -450,30 +450,31 @@ From Statement I: Total Sales $= 4000 \times \$100 = \$400,000$. Since product X
 
 ### Question 22 [Source: `photo_1872@28-10-2024_22-49-56.jpg`]
 **Question:** In which year was Raghav born?  
-* **Statement I:** Raghav's mother was 24 years old in the year 2000.
-* **Statement II:** Raghav's father was born in 1980 and is 25 years older than Raghav.
+* **Statement I:** Raghav is twice the age of his brother at present.  
+* **Statement II:** Raghav's father, who was born in 1980, is 25 years older than Raghav.  
 
-**Answer Options:**
-* **(A)** Statement I alone is sufficient
-* **(B)** Both statements I and II together are sufficient
-* **(C)** Statement II alone is sufficient while Statement I alone is not sufficient
-* **(D)** Neither statement I nor statement II is sufficient
+**Answer Options (Verified from Screenshot Pixels):**
+* **(A)** Neither I nor II is sufficient
+* **(B)** Both I and II together are sufficient
+* **(C)** II alone is sufficient while I alone is not sufficient
+* **(D)** I alone is sufficient while II alone is not sufficient
 
-**Correct Answer:** **(C) Statement II alone is sufficient while Statement I alone is not sufficient**  
+**Correct Answer:** **(C) II alone is sufficient while I alone is not sufficient**  
 **Algebraic Proof:**
-* **Statement I:** Mother was 24 in 2000 $\implies$ Mother was born in $2000 - 24 = 1976$. However, no relationship between mother's birth year and Raghav's birth year is provided. Insufficient.
+* **Statement I:** Knowing that Raghav is twice the age of his brother gives the ratio $R = 2B$, but neither age nor reference year is known. Insufficient.
 * **Statement II:**
   * Father was born in 1980.
-  * Father is 25 years older than Raghav $\implies \text{Year of Birth of Raghav} = 1980 + 25 = \mathbf{2005}$.
-  * Raghav's birth year is uniquely determined as 2005.
-* Therefore, Statement II alone is sufficient.
+  * Father is 25 years older than Raghav $\implies 	ext{Raghav's Birth Year} = 1980 + 25 = \mathbf{2005}$.
+  * Raghav's year of birth is uniquely determined from Statement II alone.
+* Therefore, Statement II alone is sufficient while Statement I alone is not sufficient.
+* Matches Option **(C)** selected on screen.
 
 ---
 
 ### Question 23 [Source: `photo_1880@28-10-2024_22-49-56.jpg`]
 **Question:** Egypt is towards which direction of Paris?  
-* **Statement I:** Paris is towards North of Canada.
-* **Statement II:** Canada is towards East of Egypt.
+* **Statement I:** Paris is towards North of Canada.  
+* **Statement II:** Canada is towards East of Egypt.  
 
 **Answer Options:**
 * **(A)** Statement I alone is sufficient
@@ -484,21 +485,18 @@ From Statement I: Total Sales $= 4000 \times \$100 = \$400,000$. Since product X
 **Correct Answer:** **(B) Both statements I and II together are sufficient**  
 **Relative Vector Direction Proof:**
 * Let Egypt be at origin $(0, 0)$.
-* **Statement II:** Canada is East of Egypt $\implies \text{Canada} = (x_c, 0)$ where $x_c > 0$.
-* **Statement I:** Paris is North of Canada $\implies \text{Paris} = (x_c, y_p)$ where $y_p > 0$.
-* **Direction of Egypt from Paris:**
-  * Displacement vector from Paris to Egypt:
-    $$\vec{r}_{\text{Egypt} - \text{Paris}} = (0 - x_c)\hat{i} + (0 - y_p)\hat{j} = -x_c\hat{i} - y_p\hat{j}$$
-  * Since $-x_c < 0$ (West) and $-y_p < 0$ (South), Egypt lies definitively in the **South-West** direction of Paris.
+* Statement II: Canada is East of Egypt $\implies 	ext{Canada} = (x_c, 0)$, $x_c > 0$.
+* Statement I: Paris is North of Canada $\implies 	ext{Paris} = (x_c, y_p)$, $y_p > 0$.
+* Vector from Paris to Egypt $= (-x_c)\hat{i} + (-y_p)\hat{j}$ (South-West).
 * Both statements together are necessary and sufficient.
 
 ---
 
 ### Question 24 [Source: `photo_1896@28-10-2024_22-49-56.jpg`]
 **Question:** What is the two-digit number if the unit's digit is greater than the ten's digit?  
-* **Statement I:** The difference between the digits is 4.
-* **Statement II:** The difference between the number and the number formed by interchanging the digits is 36.
-* **Statement III:** The average of the digit at unit's place and the digit at ten's place is 4.
+* **Statement I:** The difference between the digits is 4.  
+* **Statement II:** The difference between the number and the number formed by interchanging the digits is 36.  
+* **Statement III:** The average of the digit at unit's place and the digit at ten's place is 4.  
 
 **Answer Options:**
 * **(A)** Only Statement I and II
@@ -507,50 +505,40 @@ From Statement I: Total Sales $= 4000 \times \$100 = \$400,000$. Since product X
 * **(D)** None of the statements are sufficient
 
 **Correct Answer:** **(B) Statement III together with either Statement I or Statement II**  
-**Mathematical Algebraic Derivation:**
-* Let the two-digit number be $N = 10t + u$, with $u > t$.
-* **Statement I:** $u - t = 4$.
-* **Statement II:**
-  $$(10u + t) - (10t + u) = 9(u - t) = 36 \implies u - t = 4$$
-  *(Note: Statement II is linearly dependent / redundant with Statement I).*
-* **Statement III:**
-  $$\frac{u + t}{2} = 4 \implies u + t = 8$$
-* **System Resolution:**
-  * Adding $(u - t = 4)$ and $(u + t = 8)$:
-    $$2u = 12 \implies u = 6$$
-    $$t = 8 - 6 = 2$$
-  * The number is uniquely determined as **26**.
-* Thus, Statement III combined with either Statement I or Statement II is sufficient.
+**Proof:**
+* Let digits be $t$ and $u$ with $u > t$.
+* Stmt I gives $u - t = 4$.
+* Stmt II gives $9(u - t) = 36 \implies u - t = 4$ (identical to Stmt I).
+* Stmt III gives $(u + t)/2 = 4 \implies u + t = 8$.
+* Solving $u - t = 4$ and $u + t = 8$ uniquely gives $u = 6, t = 2 \implies N = 26$.
 
 ---
 
 ### Question 25 [Source: `photo_1903@28-10-2024_22-49-56.jpg`]
 **Question:** What is the time by Sameer's watch?  
-* **Statement I:** After one hour, Sameer's watch will show the minute hand at 12 and the hour hand at 9.
-* **Statement II:** The smaller hand of Sameer's watch is between 8 and 9, and the longer hand is at 5.
+* **Statement I:** After one hour, Sameer will leave the office.  
+* **Statement II:** The smaller hand is between 8 and 9 and the longer hand is at 5.  
 
-**Answer Options:**
-* **(A)** Either Statement I alone or Statement II alone is sufficient
-* **(B)** Statement I alone is sufficient
-* **(C)** Statement II alone is sufficient
-* **(D)** Both statements together are not sufficient
+**Answer Options (Verified from Screenshot Pixels):**
+* **(A)** I alone is sufficient while II alone is not sufficient
+* **(B)** Both I and II together are sufficient
+* **(C)** II alone is sufficient while I alone is not sufficient
+* **(D)** Neither I nor II is sufficient
 
-**Correct Answer:** **(A) Either Statement I alone or Statement II alone is sufficient**  
-**Clock Geometry Proof:**
-* **Statement I:**
-  * After 1 hour, hour hand at 9 and minute hand at 12 corresponds to exactly 9:00.
-  * Therefore, present time $= 9:00 - 1\text{ hour} = \mathbf{8:00}$. This uniquely determines the time.
-* **Statement II:**
-  * Smaller hand (hour hand) between 8 and 9, and longer hand (minute hand) pointing at numeral 5 ($5 \times 5 = 25\text{ minutes}$).
-  * This corresponds to exactly $\mathbf{8:25}$. This also uniquely determines the time.
-* Since each statement independently establishes an unambiguous time on the watch, either statement alone is sufficient.
+**Correct Answer:** **(C) II alone is sufficient while I alone is not sufficient**  
+**Clock Proof:**
+* **Statement I:** Stating that Sameer will leave after one hour provides no absolute reference or clock time. Insufficient.
+* **Statement II:** The smaller hand (hour hand) is between 8 and 9, and the longer hand (minute hand) is at numeral 5 ($5 	imes 5 = 25	ext{ minutes}$).
+* This unequivocally indicates the clock time is **8:25**.
+* Hence, Statement II alone is sufficient while Statement I alone is not sufficient.
+* Matches Option **(C)** selected on screen.
 
 ---
 
 ### Question 26 [Source: `photo_1907@28-10-2024_22-49-56.jpg`]
 **Question:** Which factory among A, B, C, D, and E has the least sales?  
-* **Statement I:** Sales of A was less than B but higher than C.
-* **Statement II:** Sales of D was higher than E but less than C.
+* **Statement I:** Sales of A was less than B but higher than C.  
+* **Statement II:** Sales of D was higher than E but less than C.  
 
 **Answer Options:**
 * **(A)** Statement I alone is sufficient
@@ -560,41 +548,39 @@ From Statement I: Total Sales $= 4000 \times \$100 = \$400,000$. Since product X
 
 **Correct Answer:** **(C) Both statements I and II together are sufficient**  
 **Chain Inequality Proof:**
-* **From Statement I:** $B > A > C$. (Factories D and E are missing; least could be C, D, or E).
-* **From Statement II:** $C > D > E$. (Factories A and B are missing).
-* **Combining Statements I and II:**
-  $$B > A > C > D > E$$
-* The chain completely ranks all 5 factories. Factory **E** has the strictly lowest sales.
+* From Statement I: $B > A > C$.
+* From Statement II: $C > D > E$.
+* Combining: $B > A > C > D > E$. Factory **E** has the least sales.
 * Both statements together are sufficient.
 
 ---
 
 ### Question 27 [Source: `photo_1913@28-10-2024_22-49-56.jpg`]
-**Question:** How many students are there in the class?  
-* **Statement I:** Seema's rank is 15th from the top and 17th from the bottom in the class.
-* **Statement II:** There are 8 students between Seema and Rohan.
+**Question:** How many students are there studying in Seema's class?  
+* **Statement I:** In a test, Seema's rank from the top is fifteenth and from bottom is seventeenth.  
+* **Statement II:** Seema is the eldest in her class.  
 
-**Answer Options:**
-* **(A)** Statement I alone is sufficient while Statement II alone is not sufficient
-* **(B)** Statement II alone is sufficient
-* **(C)** Both statements I and II together are sufficient
-* **(D)** Neither statement is sufficient
+**Answer Options (Verified from Screenshot Pixels):**
+* **(A)** I alone is sufficient while II alone is not sufficient
+* **(B)** Neither I nor II is sufficient
+* **(C)** II alone is sufficient while I alone is not sufficient
+* **(D)** Both I and II together are sufficient
 
-**Correct Answer:** **(A) Statement I alone is sufficient while Statement II alone is not sufficient**  
+**Correct Answer:** **(A) I alone is sufficient while II alone is not sufficient**  
 **Ranking Formula Proof:**
 * **Statement I:**
-  $$\text{Total Students} = \text{Rank}_{\text{top}} + \text{Rank}_{\text{bottom}} - 1$$
-  $$\text{Total Students} = 15 + 17 - 1 = \mathbf{31}$$
-  * Statement I alone directly determines the total count.
-* **Statement II:** Gives relative gap between Seema and Rohan without total bounds or Rohan's absolute position. Insufficient.
-* Statement I alone is sufficient.
+  $$	ext{Total Students} = 	ext{Rank}_{	ext{top}} + 	ext{Rank}_{	ext{bottom}} - 1 = 15 + 17 - 1 = \mathbf{31}$$
+  Statement I alone uniquely determines the total number of students.
+* **Statement II:** Stating that Seema is the eldest provides no quantitative information about class strength.
+* Therefore, Statement I alone is sufficient while Statement II alone is not sufficient.
+* Matches Option **(A)** selected on screen.
 
 ---
 
 ### Question 28 [Source: `photo_1920@28-10-2024_22-49-56.jpg`]
 **Question:** What is the speed of the boat in still water?  
-* **Statement I:** The boat covers a distance of 50 km downstream in 5 hours.
-* **Statement II:** The boat covers a distance of 25 km upstream in 5 hours.
+* **Statement I:** The boat covers a distance of 50 km downstream in 5 hours.  
+* **Statement II:** The boat covers a distance of 25 km upstream in 5 hours.  
 
 **Answer Options:**
 * **(A)** Statement I alone is sufficient
@@ -603,15 +589,7 @@ From Statement I: Total Sales $= 4000 \times \$100 = \$400,000$. Since product X
 * **(D)** Neither statement is sufficient
 
 **Correct Answer:** **(C) Both statements I and II together are sufficient**  
-**Hydrodynamic Rate Derivation:**
-* Let boat speed in still water be $u\text{ km/h}$ and stream speed be $v\text{ km/h}$.
-* **From Statement I:**
-  $$u + v = \frac{50}{5} = 10\text{ km/h}$$
-  *(One equation in two unknowns; insufficient).*
-* **From Statement II:**
-  $$u - v = \frac{25}{5} = 5\text{ km/h}$$
-  *(One equation in two unknowns; insufficient).*
-* **Combining Statements I and II:**
-  $$u = \frac{(u + v) + (u - v)}{2} = \frac{10 + 5}{2} = \mathbf{7.5\text{ km/h}}$$
-  $$v = \frac{(u + v) - (u - v)}{2} = \frac{10 - 5}{2} = 2.5\text{ km/h}$$
-* Both statements together are sufficient.
+**Speed Derivation:**
+* Downstream speed $u + v = 50 / 5 = 10	ext{ km/hr}$.
+* Upstream speed $u - v = 25 / 5 = 5	ext{ km/hr}$.
+* Adding both equations: $2u = 15 \implies u = 7.5	ext{ km/hr}$. Both statements together are sufficient.

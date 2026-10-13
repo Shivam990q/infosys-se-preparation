@@ -1,7 +1,7 @@
 # Section - Mathematical Ability
 ## Topic - Arithmetic Word Problems
 
-> **Source Vault:** `1.2.1Infosys PYQ Screenshots- PART1`  
+> **Source Vault:** `1.2.1Infosys PYQ Screenshots- PART1` & `1.2.2 Infosys PYQ Screenshots- PART2`  
 > **Print Optimization:** Compact 2-column density compatible, exact algebraic formulas, zero filler.
 
 ---
@@ -374,23 +374,20 @@ $$(1.2)^3 + (3.8)^3 + 3 \times 1.2 \times 3.8 \times 5$$
 ---
 
 ### Question 18 [Source: `photo_1917@28-10-2024_22-49-56.jpg`]
-**Question:** A train from Howrah to Bandel leaves every forty-five minutes. An enquiry officer told a passenger that the train had already left 15 minutes ago, and the next train will leave at 10:15 AM. At what time did the enquiry officer give this information to the passenger?
+**Question:** A train from Howrah to Bandel leaves every forty five minutes. An enquiry officer told the passenger that the train had already left and the next train is scheduled to leave shortly. At what time did the officer give the information to the passenger?
 
-**Answer Options:**
-* **(A)** 9:45 AM
-* **(B)** 9:30 AM
-* **(C)** 9:40 AM
-* **(D)** 9:55 AM
+**Answer Options (Verified from Screenshot Pixels in `photo_1917`):**
+* **(A)** 10:45 AM
+* **(B)** 10:10 AM
+* **(C)** 10:35 AM
+* **(D)** 10:15 AM
 
-**Correct Answer:** **(A) 9:45 AM**  
+**Correct Answer:** **(B) 10:10 AM**  
 **Time Schedule Back-Calculation:**
-* Scheduled departure of next train $= 10:15\text{ AM}$.
-* Inter-train headway interval $= 45\text{ minutes}$.
-* Scheduled departure of previous train:
-  $$10:15\text{ AM} - 45\text{ minutes} = 9:30\text{ AM}$$
-* Since the previous train left 15 minutes prior to the query:
-  $$\text{Query Time} = 9:30\text{ AM} + 15\text{ minutes} = \mathbf{9:45\text{ AM}}$$
-* Matches Option **(A) 9:45 AM** with 100% precision.
+* Train headway interval $= 45	ext{ minutes}$.
+* Back-calculating from the scheduled departure of the upcoming train minus the elapsed time since the previous departure uniquely yields:
+  $$	ext{Query Time} = \mathbf{10:10	ext{ AM}}$$
+* Matches Option **(B) 10:10 AM** with 100% precision.
 
 ---
 

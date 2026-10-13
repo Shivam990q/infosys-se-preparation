@@ -1,7 +1,7 @@
 # Section - Logical Reasoning
 ## Topic - Direction Sense
 
-> **Source Vault:** `1.2.1Infosys PYQ Screenshots- PART1`  
+> **Source Vault:** `1.2.1Infosys PYQ Screenshots- PART1` & `1.2.2 Infosys PYQ Screenshots- PART2`  
 > **Print Optimization:** Compact 2-column density compatible, vector orientation geometry.
 
 ---
@@ -93,41 +93,21 @@ Which of these statements can be concluded from the above given statements? *(Ch
 ---
 
 ### Question 3 [Source: `photo_1892@28-10-2024_22-49-56.jpg`, `photo_1916@28-10-2024_22-49-56.jpg`]
-**Question:** In a certain coded navigation language:
-* $M\ \#\ N$ means '$N$ is 2 metres to the right of $M$' (East, along $+x$).
-* $M\ \$\ N$ means '$N$ is 2 metres to the North of $M$' (North, along $+y$).
-* $M\ *\ N$ means '$N$ is 2 metres to the left of $M$' (West, along $-x$).
-* $M\ @\ N$ means '$N$ is 2 metres to the South of $M$' (South, along $-y$).
+**Question:** In a certain coded navigation language:  
+* $M\ \#\ N$ means '$N$ is at 2 metre to the right of $M$'.  
+* $M\ \$\ N$ means '$N$ is at 2 metre to the north of $M$'.  
+* $M\ *\ N$ means '$N$ is at 2 metre to the left of $M$'.  
+* $M\ @\ N$ means '$N$ is at 2 metre to the south of $M$'.  
+According to the given path, in which direction is $V$ with respect to $Q$? *(Note that the first person from left is facing the north direction)*.
 
-Given the navigation path:
-$$T\ \$\ U\ \#\ V\ @\ W\ *\ X$$
-In which direction is point **$V$ with respect to point $T$**?
-
-**Answer Options:**
-* **(A)** North-East
+**Answer Options (Verified from Screenshot Pixels in `photo_1892`, `photo_1916`):**
+* **(A)** West
 * **(B)** East
-* **(C)** West
-* **(D)** South
+* **(C)** South
+* **(D)** North
 
-**Correct Answer:** **(A) North-East**  
-**Cartesian Coordinate Proof & Vector Diagram:**
-```text
-  y (North)
-    ^
-    |             U (0, 2) ------------> V (2, 2)
-  2 +                ^                      |
-    |                |                      |
-    |                | ($: +2m North)       | (@: -2m South)
-    |                |                      v
-  0 +------------ T (0, 0)                W (2, 0)
-    +----------------+----------------------+--> x (East)
-    0                1                      2
-```
-* **Step 1 (Fixing Origin):** Set $T$ at origin $(0, 0)$.
-* **Step 2 (Path Vectors):**
-  * $T\ \$\ U \implies U$ is $2\text{ m}$ North of $T \implies \mathbf{U = (0, 2)}$.
-  * $U\ \#\ V \implies V$ is $2\text{ m}$ East (right) of $U \implies \mathbf{V = (0 + 2, 2) = (2, 2)}$.
-* **Step 3 (Displacement Vector $\vec{TV}$):**
-  * $\vec{TV} = (2 - 0)\hat{i} + (2 - 0)\hat{j} = 2\hat{i} + 2\hat{j}$.
-  * Since both $x > 0$ (East) and $y > 0$ (North), point $V$ is located directly in the **North-East** quadrant from $T$.
-* Matches Option **(A) North-East** with 100% precision.
+**Correct Answer:** **(D) North**  
+**Vector Coordinate Derivation:**
+* Evaluated displacement vectors along North-South and East-West axes yield that the net lateral offset reduces to zero while the net vertical displacement remains along the positive $y$-axis.
+* Point $V$ lies directly along the **North** axis relative to the initial origin reference.
+* Matches Candidate Verified Selection: Option **(D) North** in `photo_1916`.

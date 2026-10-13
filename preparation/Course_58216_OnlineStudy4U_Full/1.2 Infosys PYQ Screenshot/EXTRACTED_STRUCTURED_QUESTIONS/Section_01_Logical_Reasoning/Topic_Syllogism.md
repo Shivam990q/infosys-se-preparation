@@ -1,7 +1,7 @@
 # Section - Logical Reasoning
 ## Topic - Syllogism
 
-> **Source Vault:** `1.2.1Infosys PYQ Screenshots- PART1`  
+> **Source Vault:** `1.2.1Infosys PYQ Screenshots- PART1` & `1.2.2 Infosys PYQ Screenshots- PART2`  
 > **Print Optimization:** Compact 2-column density compatible, formal set theory notations.
 
 ---
@@ -121,110 +121,114 @@ Which of the following conclusions can be logically deduced from the statements?
 ---
 
 ### Question 5 [Source: `photo_1866@28-10-2024_22-49-56.jpg`]
-**Question:** If the given statement is true:  
-**Statement:** Some bikes are scooters.  
-Then which of the following conclusions are valid / possible? *(Select the valid possibilities/deductions)*
-1. No scooter is a bike
-2. All scooters are bikes
-3. Some scooters are not bikes
-4. Some scooters are bikes
+**Question:** If the given statement is true, **Some bikes are scooters**, then which of the following conclusions are possible? *(Select three correct solutions)*
 
-**Answer Analysis & Deductive Proof:**
-* **Venn Representation:**
-  The intersection set $\text{Bikes} \cap \text{Scooters} \neq \emptyset$.
-* **Definite Conclusion:**
-  * Statement 4 ("Some scooters are bikes") is the valid immediate converse of "Some bikes are scooters".
-* **Possible Scenarios:**
-  * Statement 2 ("All scooters are bikes") is possible (Scooters $\subseteq$ Bikes).
-  * Statement 3 ("Some scooters are not bikes") is possible.
-  * Statement 1 ("No scooter is a bike") is strictly FALSE and contradictory.
-* **Valid Deductions/Possibilities:** **2, 3, and 4**.
+**Answer Options (Verified Multi-Select Checkboxes from Screenshot Pixels):**
+* [ ] No scooters is a bike
+* [x] **All scooters are bike**
+* [x] **Some scooters are not bikes**
+* [x] **Some scooters are bikes**
+
+**Correct Solutions:** **All scooters are bike, Some scooters are not bikes, Some scooters are bikes**  
+**Set-Theoretic Deduction Proof:**
+* Given: $	ext{Bikes} \cap 	ext{Scooters} 
+e \emptyset$.
+* 1. "No scooters is a bike" directly contradicts the premise ($	ext{Bikes} \cap 	ext{Scooters} = \emptyset$ is false).
+* 2. "All scooters are bike" is a valid possibility ($	ext{Scooters} \subseteq 	ext{Bikes}$).
+* 3. "Some scooters are not bikes" is a valid possibility ($	ext{Scooters} \setminus 	ext{Bikes} 
+e \emptyset$).
+* 4. "Some scooters are bikes" is definitely true by immediate conversion, hence also possible.
+* Therefore, the three required possible solutions are options 2, 3, and 4.
 
 ---
 
 ### Question 6 [Source: `photo_1873@28-10-2024_22-49-56.jpg`]
-**Question:** In this question, four statements have been given followed by conclusions:  
-**Statements:**
-1. No pavement is a footpath.
-2. Some footpaths are wells.
-3. All wells are gardens.
-4. All gardens are beautiful.  
-**Conclusions:**
-* **I.** Some gardens are footpaths.
-* **II.** Some beautiful are wells.
-* **III.** No pavement is a well.
+**Question:** In this question, four statements have been given followed by some conclusions. Assuming that all information in the statements are true, analyse the conclusions together and determine whether a definitely follow(s) from the information given in the statements.  
+* **Statement I:** Some pavements are footpath.  
+* **Statement II:** All footpath are well.  
+* **Statement III:** Some well are garden.  
+* **Statement IV:** No garden is beautiful.  
+*(Select Two Correct Solutions)*
 
-**Correct Answer:** **Conclusions I and II definitely follow**  
-**Venn Diagram Proof:**
-```text
-  [ Pavements ]   (Disjoint)   [ Footpaths ] <--(Intersection)--> [ Wells ]
-                                                                       |
-                                                                (Subset of)
-                                                                       v
-                                                                 [ Gardens ]
-                                                                       |
-                                                                (Subset of)
-                                                                       v
-                                                                [ Beautiful ]
-```
-* **Conclusion I:** Footpaths intersect Wells, and Wells $\subseteq$ Gardens. Hence, the intersection Footpaths $\cap$ Gardens is non-empty. **Conclusion I follows**.
-* **Conclusion II:** Wells $\subseteq$ Gardens $\subseteq$ Beautiful. Since Wells is a non-empty subset of Beautiful, Some beautiful are wells. **Conclusion II follows**.
-* **Conclusion III:** Pavement is disjoint from Footpath, but Pavement could potentially intersect the non-footpath region of Wells. Hence, "No pavement is a well" is not definitely true.
+**Answer Options (Verified Multi-Select Checkboxes from Screenshot Pixels):**
+* [ ] All well are pavements
+* [ ] All beautiful are pavements
+* [x] **Some footpath being garden is a possibility**
+* [x] **Some pavements are well**
+
+**Correct Solutions:** **Some footpath being garden is a possibility, Some pavements are well**  
+**Venn Representation & Relational Proof:**
+* $	ext{Pavements} \cap 	ext{Footpath} 
+e \emptyset$.
+* $	ext{Footpath} \subseteq 	ext{Well} \implies$ Since Pavements overlaps Footpath, and Footpath is completely inside Well, Pavements must overlap Well ($	ext{Pavements} \cap 	ext{Well} 
+e \emptyset$). Hence, **"Some pavements are well"** definitely follows.
+* Footpaths and Gardens have no negative restriction; hence, **"Some footpath being garden is a possibility"** is strictly valid.
+* The two required correct solutions are selected.
 
 ---
 
 ### Question 7 [Source: `photo_1884@28-10-2024_22-49-56.jpg`]
-**Question:** In this question, four statements are given followed by conclusions:  
-**Statements:**
-1. All jackets are hoodies.
-2. No hoodie is a pullover.
-3. Some pullovers are coats.
-4. All coats are jerseys.  
-**Conclusions:**
-* **I.** No jacket is a pullover.
-* **II.** Some jerseys are pullovers.
+**Question:** In this question, four statements have been given followed by some conclusions. Assuming that all information in the statements are true, analyse the conclusions together and determine whether any of them definitely follow(s) from the information given in the statements.  
+* **Statement I:** Some jackets are hoodies.  
+* **Statement II:** Some hoodies are pullovers.  
+* **Statement III:** Some pullovers are coats.  
+* **Statement IV:** Some coats are jerseys.  
+*(Select two possible solutions)*
 
-**Correct Answer:** **Both Conclusions I and II follow**  
-**Venn Subset Proof:**
-* **Conclusion I:**
-  * Jackets $\subseteq$ Hoodies.
-  * Hoodies $\cap$ Pullovers $= \emptyset$.
-  * Since Jackets is completely inside Hoodies, Jackets can have no intersection with Pullovers.
-  * Therefore, "No jacket is a pullover" definitely follows.
-* **Conclusion II:**
-  * Some pullovers are coats $\implies \text{Pullovers} \cap \text{Coats} \neq \emptyset$.
-  * Coats $\subseteq$ Jerseys.
-  * Therefore, Pullovers intersects Jerseys $\implies$ "Some jerseys are pullovers" definitely follows.
+**Answer Options (Verified Multi-Select Checkboxes from Screenshot Pixels):**
+* [ ] Some coats are hoodies
+* [x] **Some pullovers are hoodies**
+* [x] **Some jackets being coats is a possibility**
+* [ ] All coats are jerseys
+
+**Correct Solutions:** **Some pullovers are hoodies, Some jackets being coats is a possibility**  
+**Deductive Proof:**
+* Statement II states "Some hoodies are pullovers". By immediate converse, **"Some pullovers are hoodies"** is definitely true and valid.
+* Jackets and coats have no negative constraint separating them; therefore, **"Some jackets being coats is a possibility"** is a valid possible conclusion.
+* The two selected options match the verified exam criteria.
 
 ---
 
 ### Question 8 [Source: `photo_1893@28-10-2024_22-49-56.jpg`]
-**Question:** Statements:  
-1. Some spiders are lizards.
-2. Some lizards are mice.
-3. No mouse is a cat.
-4. All cats are dogs.  
-**Conclusions:**
-* **I.** Some dogs are cats.
-* **II.** No cat is a lizard.
+**Question:** In this question, four statements have been given followed by some conclusions. Assuming that all information in the statements are true, analyse the conclusions together and determine whether any of them logically and definitely follow(s) from the information given in the statements.  
+* **Statement I:** No spider is a lizard.  
+* **Statement II:** All lizards are mouse.  
+* **Statement III:** Some mouse are cats.  
+* **Statement IV:** All cats are dogs.  
+*(Select two solutions)*
 
-**Correct Answer:** **Only Conclusion I follows**  
-**Set Theoretic Proof:**
-* **Conclusion I:** Cats $\subseteq$ Dogs. Since Cats is non-empty, the intersection Dogs $\cap$ Cats is non-empty. Therefore, "Some dogs are cats" definitely follows.
-* **Conclusion II:** Cats is disjoint from Mice, but Cats can overlap with the non-mouse region of Lizards. Therefore, "No cat is a lizard" is not definitely guaranteed.
+**Answer Options (Verified Multi-Select Checkboxes from Screenshot Pixels):**
+* [ ] No Lizard is dog
+* [x] **Some dogs being spider is a possibility**
+* [x] **Some mouse are dogs**
+* [ ] No mouse is a spider
+
+**Correct Solutions:** **Some dogs being spider is a possibility, Some mouse are dogs**  
+**Syllogistic Proof:**
+* Statement III: "Some mouse are cats" and Statement IV: "All cats are dogs".
+  * Since cats are a subset of dogs, the mouse elements that are cats are also dogs $\implies$ **"Some mouse are dogs"** definitely follows.
+* Spiders and dogs have no disjoint condition; thus **"Some dogs being spider is a possibility"** is completely valid.
+* Matches the two correct solutions.
 
 ---
 
 ### Question 9 [Source: `photo_1926@28-10-2024_22-49-56.jpg`]
-**Question:** Statements:  
-1. All pillows are cushions.
-2. Some cushions are quilts.
-3. All quilts are bedsheets.  
-**Conclusions:**
-* **I.** Some bedsheets are cushions.
-* **II.** Some pillows are quilts.
+**Question:** In this question, three statements have been given followed by some conclusions. Assuming that all information in the statements are true, analyse the conclusions together and determine whether any of them logically and definitely follow(s) from the information given in the statements.  
+* **Statement I:** All pillows are cushions.  
+* **Statement II:** No cushion is a quilt.  
+* **Statement III:** Some quilt are bedsheet.  
+*(Select two solutions)*
 
-**Correct Answer:** **Only Conclusion I follows**  
-**Set Theoretic Proof:**
-* **Conclusion I:** Cushions intersects Quilts, and Quilts $\subseteq$ Bedsheets. Therefore, Cushions intersects Bedsheets $\implies$ "Some bedsheets are cushions" definitely follows.
-* **Conclusion II:** Pillows $\subseteq$ Cushions, and Cushions intersects Quilts. However, the intersection of Cushions and Quilts need not overlap with Pillows. Therefore, "Some pillows are quilts" does not definitely follow.
+**Answer Options (Verified Multi-Select Checkboxes from Screenshot Pixels):**
+* [x] **No pillow is a quilt**
+* [x] **Some cushions are pillow**
+* [ ] All pillows are bedsheet
+* [ ] No pillow is a bedsheet
+
+**Correct Solutions:** **No pillow is a quilt, Some cushions are pillow**  
+**Venn Diagram Proof:**
+* $	ext{Pillows} \subseteq 	ext{Cushions}$.
+* $	ext{Cushions} \cap 	ext{Quilt} = \emptyset$.
+* Since Pillows is entirely inside Cushions, Pillows cannot have any common elements with Quilt $\implies 	ext{Pillows} \cap 	ext{Quilt} = \emptyset$. Hence, **"No pillow is a quilt"** definitely follows.
+* By subaltern conversion of "All pillows are cushions", **"Some cushions are pillow"** definitely follows.
+* Both valid conclusions are confirmed.
