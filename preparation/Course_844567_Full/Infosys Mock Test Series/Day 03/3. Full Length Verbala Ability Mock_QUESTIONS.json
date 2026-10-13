@@ -1,0 +1,792 @@
+{
+  "testId": "6616252d9ce9ebfe68338cf3",
+  "title": "3. Full Length Verbala Ability Mock",
+  "engine": "Classplus CMS",
+  "folderPath": "Infosys Mock Test Series / Day 03",
+  "totalQuestions": 20,
+  "totalMarks": 0,
+  "durationMinutes": 0,
+  "livePortalUrl": null,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "section": "Verbal Solution 04",
+      "id": "661625436abf6239f1984e56",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "Read each of the following sentences to find out if there is any grammatical error in it. The error, if any, will be in one part of the sentence. The number (1, 2, 3 or 4) of this part is your answer. \n\nChildren genreally (1) fight above (2) petty issues. (3) No error. (4)",
+      "questionHtml": "<p>Read each of the following sentences to find out if there is any grammatical error in it. The error, if any, will be in one part of the sentence. The number (1, 2, 3 or 4) of this part is your answer.&nbsp;</p>\n<p></p>\n<p>Children genreally (1) fight above (2) petty issues. (3) No error. (4)</p>",
+      "solutionText": "Ans - b",
+      "solutionHtml": "<p>Ans - b</p>\n<p></p>\n<p><iframe title=\"3\" src=\"//www.youtube.com/embed/jPfAyjQUiX0\" width=\"657\" height=\"370\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+      "options": [
+        {
+          "order": null,
+          "text": "1",
+          "html": "<p>1</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "2",
+          "html": "<p>2</p>",
+          "isCorrect": true
+        },
+        {
+          "order": null,
+          "text": "3",
+          "html": "<p>3</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "4",
+          "html": "<p>4</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 2,
+      "section": "Verbal Solution 04",
+      "id": "661625436abf62f185984e5b",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "Fill in the blank :\n\nShe lived _____ the expectations.",
+      "questionHtml": "<p>Fill in the blank :</p>\n<p></p>\n<p>She lived _____ the expectations.</p>",
+      "solutionText": "Ans - b",
+      "solutionHtml": "<p>Ans - b</p>\n<p></p>\n<p><iframe title=\"4\" src=\"//www.youtube.com/embed/aWKXydG8A3E\" width=\"657\" height=\"370\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+      "options": [
+        {
+          "order": null,
+          "text": "As per",
+          "html": "<p>As per</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "Up to",
+          "html": "<p>Up to</p>",
+          "isCorrect": true
+        },
+        {
+          "order": null,
+          "text": "On",
+          "html": "<p>On</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "At",
+          "html": "<p>At</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 3,
+      "section": "Verbal Solution 04",
+      "id": "661625436abf622632984e60",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "To end in smoke",
+      "questionHtml": "<p>To end in smoke</p>",
+      "solutionText": "Ans - c",
+      "solutionHtml": "<p>Ans - c</p>\n<p></p>\n<p><iframe title=\"7\" src=\"//www.youtube.com/embed/OREqaAEOHLE\" width=\"657\" height=\"370\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+      "options": [
+        {
+          "order": null,
+          "text": "to burn oneself",
+          "html": "<p>to burn oneself</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "to die of hunger",
+          "html": "<p>to die of hunger</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "to come to nothing",
+          "html": "<p>to come to nothing</p>",
+          "isCorrect": true
+        },
+        {
+          "order": null,
+          "text": "to become angry",
+          "html": "<p>to become angry</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 4,
+      "section": "Verbal Solution 04",
+      "id": "661625436abf626c3e984e65",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "Find the Similar meaning of the word :\n\nVent",
+      "questionHtml": "<p>Find the Similar meaning of the word :</p>\n<p></p>\n<p><strong>Vent</strong></p>",
+      "solutionText": "Ans - D",
+      "solutionHtml": "<p>Ans - D</p>\n<p></p>\n<p><iframe title=\"8\" src=\"//www.youtube.com/embed/jb0yrzKy2R4\" width=\"657\" height=\"370\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+      "options": [
+        {
+          "order": null,
+          "text": "Wet",
+          "html": "<p>Wet</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "Dent",
+          "html": "<p>Dent</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "End",
+          "html": "<p>End</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "Opening",
+          "html": "<p>Opening</p>",
+          "isCorrect": true
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 5,
+      "section": "Verbal Solution 04",
+      "id": "661625436abf621cd0984e6a",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "Arrange the sentence :\n\nThe water tanks may remain empty\nA. on Tuesday evening\nB. in the city\nC. will repair the damaged water pipes\nD. as the water supply department ",
+      "questionHtml": "<p>Arrange the sentence :</p>\n<p></p>\n<p>The water tanks may remain empty</p>\n<p>A. on Tuesday evening</p>\n<p>B. in the city</p>\n<p>C. will repair the damaged water pipes</p>\n<p>D. as the water supply department&nbsp;</p>",
+      "solutionText": "Ans - d",
+      "solutionHtml": "<p>Ans - d</p>\n<p></p>\n<p><iframe title=\"11\" src=\"//www.youtube.com/embed/cmjdg0uLeS0\" width=\"657\" height=\"370\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+      "options": [
+        {
+          "order": null,
+          "text": "BADC",
+          "html": "<p>BADC</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "BACD",
+          "html": "<p>BACD</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "DBAC",
+          "html": "<p>DBAC</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "ADCB",
+          "html": "<p>ADCB</p>",
+          "isCorrect": true
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 6,
+      "section": "Verbal Solution 04",
+      "id": "661625436abf627b91984e6f",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "Choose one of the following options that means the opposite of the given word;\n\nPit",
+      "questionHtml": "<p>Choose one of the following options that means the opposite of the given word;</p>\n<p></p>\n<p>Pit</p>",
+      "solutionText": "Ans - d",
+      "solutionHtml": "<p>Ans - d</p>\n<p></p>\n<p><iframe title=\"12\" src=\"//www.youtube.com/embed/5XtRChx2ik0\" width=\"657\" height=\"370\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+      "options": [
+        {
+          "order": null,
+          "text": "Down",
+          "html": "<p>Down</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "Up",
+          "html": "<p>Up</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "Correct",
+          "html": "<p>Correct</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "Peak",
+          "html": "<p>Peak</p>",
+          "isCorrect": true
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 7,
+      "section": "Verbal Solution 04",
+      "id": "661625436abf623e28984e74",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "Find the correct replacement of the bold sencentence\n\nHe was very tired as he is working since 6 O' clock in the morning.",
+      "questionHtml": "<p>Find the correct replacement of the bold sencentence</p>\n<p></p>\n<p>He was very tired as <strong>he is working</strong> since 6 O' clock in the morning.</p>",
+      "solutionText": "Ans - c",
+      "solutionHtml": "<p>Ans - c</p>\n<p></p>\n<p><iframe title=\"15\" src=\"//www.youtube.com/embed/n9_Lz2yq_1I\" width=\"657\" height=\"370\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+      "options": [
+        {
+          "order": null,
+          "text": "he was working",
+          "html": "<p>he was working</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "he had been working",
+          "html": "<p>he had been working</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "he has been working",
+          "html": "<p>he has been working</p>",
+          "isCorrect": true
+        },
+        {
+          "order": null,
+          "text": "he will be working",
+          "html": "<p>he will be working</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 8,
+      "section": "Verbal Solution 04",
+      "id": "661625436abf623509984e79",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "Find the correct replacement of the bold sencentence\n\nThe girl to who I sold my car was very honest.",
+      "questionHtml": "<p><span style=\"font-family: var(--font-family);\">Find the correct replacement of the bold sencentence</span></p>\n<p></p>\n<p>The girl <strong>to who I sold</strong> my car was very honest.</p>",
+      "solutionText": "Ans - a",
+      "solutionHtml": "<p>Ans - a</p>\n<p></p>\n<p><iframe title=\"16\" src=\"//www.youtube.com/embed/Xe0iJIeCves\" width=\"657\" height=\"370\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+      "options": [
+        {
+          "order": null,
+          "text": "to who I sell",
+          "html": "<p>to who I sell</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "to whom I sold",
+          "html": "<p>to whom I sold</p>",
+          "isCorrect": true
+        },
+        {
+          "order": null,
+          "text": "to who I sold",
+          "html": "<p>to who I sold</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "to whom I sell",
+          "html": "<p>to whom I sell</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 9,
+      "section": "Verbal Solution 04",
+      "id": "661625436abf624344984e7e",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "What is the antonym of:\n\nMeticulous",
+      "questionHtml": "<p>What is the antonym of:</p>\n<p></p>\n<p>Meticulous</p>",
+      "solutionText": "Ans - b",
+      "solutionHtml": "<p>Ans - b</p>\n<p></p>\n<p><iframe title=\"19\" src=\"//www.youtube.com/embed/WRD-zO_-tm0\" width=\"657\" height=\"370\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+      "options": [
+        {
+          "order": null,
+          "text": "Energetic",
+          "html": "<p>Energetic</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "Slovenly",
+          "html": "<p>Slovenly</p>",
+          "isCorrect": true
+        },
+        {
+          "order": null,
+          "text": "Ridiculous",
+          "html": "<p>Ridiculous</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "Decisive",
+          "html": "<p>Decisive</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 10,
+      "section": "Verbal Solution 04",
+      "id": "661625436abf62ed93984e83",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "What is the antonym of:\n\nHaphazard",
+      "questionHtml": "<p>What is the antonym of:</p>\n<p></p>\n<p>Haphazard</p>",
+      "solutionText": "Ans - c",
+      "solutionHtml": "<p>Ans - c</p>\n<p></p>\n<p><iframe title=\"20\" src=\"//www.youtube.com/embed/mPgm73PqNv0\" width=\"657\" height=\"370\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+      "options": [
+        {
+          "order": null,
+          "text": "Confused",
+          "html": "<p>Confused</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "Irregular",
+          "html": "<p>Irregular</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "Planned",
+          "html": "<p>Planned</p>",
+          "isCorrect": true
+        },
+        {
+          "order": null,
+          "text": "Unplanned",
+          "html": "<p>Unplanned</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 11,
+      "section": "Verbal Solution 04",
+      "id": "661625436abf6264d4984e88",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "If Warm :Hot :: old: ?",
+      "questionHtml": "<p>If Warm :Hot :: old: ?</p>",
+      "solutionText": "Ans - b",
+      "solutionHtml": "<p>Ans - b</p>\n<p></p>\n<p><iframe title=\"23\" src=\"//www.youtube.com/embed/BfuI4NdxkOQ\" width=\"657\" height=\"370\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+      "options": [
+        {
+          "order": null,
+          "text": "History",
+          "html": "<p>History</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "Antique",
+          "html": "<p>Antique</p>",
+          "isCorrect": true
+        },
+        {
+          "order": null,
+          "text": "Fragile",
+          "html": "<p>Fragile</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "Gold",
+          "html": "<p>Gold</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 12,
+      "section": "Verbal Solution 04",
+      "id": "661625436abf62b70e984e8d",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "Find the correct Analogies\nPoor: Wealthy",
+      "questionHtml": "<h1 class=\"h1\" style=\"line-height: 1.3em; margin-top: 5px; font-weight: 400; font-family: erdana, helvetica, arial, sans-serif; font-size: 29px; color: #610b38; text-align: justify;\"><span style=\"font-size: 12pt;\">Find the correct Analogies</span></h1>\n<p>Poor: Wealthy</p>",
+      "solutionText": "Ans - a",
+      "solutionHtml": "<p>Ans - a</p>\n<p></p>\n<p><iframe title=\"24\" src=\"//www.youtube.com/embed/nzBA8ezZXvw\" width=\"657\" height=\"370\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+      "options": [
+        {
+          "order": null,
+          "text": "Gauche: Graceful",
+          "html": "<p>Gauche: Graceful</p>",
+          "isCorrect": true
+        },
+        {
+          "order": null,
+          "text": "Sugar: Sweet",
+          "html": "<p>Sugar: Sweet</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "Angry: Arrogant",
+          "html": "<p>Angry: Arrogant</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "Ice: Cold",
+          "html": "<p>Ice: Cold</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 13,
+      "section": "Verbal Solution 04",
+      "id": "661625436abf6216a7984e92",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "Substitute one word for the following:\n\nThe practice of having several wives",
+      "questionHtml": "<p>Substitute one word for the following:</p>\n<p></p>\n<p>The practice of having several wives</p>",
+      "solutionText": "Ans - d",
+      "solutionHtml": "<p>Ans - d</p>\n<p></p>\n<p><iframe title=\"27\" src=\"//www.youtube.com/embed/GB4u3YD2tCQ\" width=\"657\" height=\"370\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+      "options": [
+        {
+          "order": null,
+          "text": "bisexual",
+          "html": "<p>bisexual</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "monogamy",
+          "html": "<p>monogamy</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "bigamy",
+          "html": "<p>bigamy</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "polygamy",
+          "html": "<p>polygamy</p>",
+          "isCorrect": true
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 14,
+      "section": "Verbal Solution 04",
+      "id": "661625436abf6201af984e97",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "Substitute one word for the following:\n\nA man with a woman like characteristics, habits or manners.",
+      "questionHtml": "<p>Substitute one word for the following:</p>\n<p></p>\n<p>A man with a woman like characteristics, habits or manners.</p>",
+      "solutionText": "Ans - a",
+      "solutionHtml": "<p>Ans - a</p>\n<p></p>\n<p><iframe title=\"28\" src=\"//www.youtube.com/embed/BawLZ-NmvNM\" width=\"657\" height=\"370\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+      "options": [
+        {
+          "order": null,
+          "text": "effeminate",
+          "html": "<p>effeminate</p>",
+          "isCorrect": true
+        },
+        {
+          "order": null,
+          "text": "womanish",
+          "html": "<p>womanish</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "feminine",
+          "html": "<p>feminine</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "ladybird",
+          "html": "<p>ladybird</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 15,
+      "section": "Verbal Solution 04",
+      "id": "661625436abf628103984e9c",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "Substitute one word for the following:\n\nAn apple of discord",
+      "questionHtml": "<p><strong><span style=\"font-family: var(--font-family);\">Substitute one word for the following:</span></strong></p>\n<p></p>\n<p>An apple of discord</p>",
+      "solutionText": "Ans - a",
+      "solutionHtml": "<p>Ans - a</p>\n<p></p>\n<p><iframe title=\"31\" src=\"//www.youtube.com/embed/ZgHZwyXQ6oQ\" width=\"657\" height=\"370\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+      "options": [
+        {
+          "order": null,
+          "text": "cause of quarrel",
+          "html": "<p>cause of quarrel</p>",
+          "isCorrect": true
+        },
+        {
+          "order": null,
+          "text": "cause of happiness",
+          "html": "<p>cause of happiness</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "cause of depression",
+          "html": "<p>cause of depression</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "opportunity to earn money",
+          "html": "<p>opportunity to earn money</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 16,
+      "section": "Verbal Solution 04",
+      "id": "661625436abf625da7984ea1",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "Substitute one word for the following:\n\nAt sea",
+      "questionHtml": "<p><span style=\"font-family: var(--font-family);\">Substitute one word for the following:</span></p>\n<p></p>\n<p><strong>At sea</strong></p>",
+      "solutionText": "Ans - b",
+      "solutionHtml": "<p>Ans - b</p>\n<p></p>\n<p><iframe title=\"32\" src=\"//www.youtube.com/embed/di0ZC5yWBTg\" width=\"657\" height=\"370\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+      "options": [
+        {
+          "order": null,
+          "text": "feeling confident",
+          "html": "<p>feeling confident</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "to be confused",
+          "html": "<p>to be confused</p>",
+          "isCorrect": true
+        },
+        {
+          "order": null,
+          "text": "extremely happy",
+          "html": "<p>extremely happy</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "very afraid",
+          "html": "<p>very afraid</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 17,
+      "section": "Verbal Solution 04",
+      "id": "661625436abf62cb4d984ea6",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "Change the voice of the given sentence :\n\nHas the company considered your profile? ",
+      "questionHtml": "<p>Change the voice of the given sentence :</p>\n<p></p>\n<p><strong>Has the company considered your profile?&nbsp;</strong></p>",
+      "solutionText": "Ans - b",
+      "solutionHtml": "<p>Ans - b</p>\n<p></p>\n<p><iframe title=\"35\" src=\"//www.youtube.com/embed/HvcXOUKjx0c\" width=\"657\" height=\"370\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+      "options": [
+        {
+          "order": null,
+          "text": "Your profile has been considered by the company?",
+          "html": "<p>Your profile has been considered by the company?</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "Has your profile been considered by the company?",
+          "html": "<p>Has your profile been considered by the company?</p>",
+          "isCorrect": true
+        },
+        {
+          "order": null,
+          "text": "Has your profile considered by the company?",
+          "html": "<p>Has your profile considered by the company?</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "Your profile has considered by the company?",
+          "html": "<p>Your profile has considered by the company?</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 18,
+      "section": "Verbal Solution 04",
+      "id": "661625436abf62157a984eab",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "Arrange in the proper format :\n\nAn advertisement in the newspaper said that\n\nA. fully furnished apartments\nB. air-conditioned\nC. are available for\nD. the gentlemen of taste ",
+      "questionHtml": "<p>Arrange in the proper format :</p>\n<p></p>\n<p>An advertisement in the newspaper said that</p>\n<p></p>\n<p>A. fully furnished apartments</p>\n<p>B. air-conditioned</p>\n<p>C. are available for</p>\n<p>D. the gentlemen of taste&nbsp;</p>",
+      "solutionText": "Ans - d",
+      "solutionHtml": "<p>Ans - d</p>\n<p></p>\n<p><iframe title=\"36\" src=\"//www.youtube.com/embed/nEOs_YPHFks\" width=\"657\" height=\"370\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+      "options": [
+        {
+          "order": null,
+          "text": "ABCD",
+          "html": "<p>ABCD</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "DCBA",
+          "html": "<p>DCBA</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "BCDA",
+          "html": "<p>BCDA</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "BACD",
+          "html": "<p>BACD</p>",
+          "isCorrect": true
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 19,
+      "section": "Verbal Solution 04",
+      "id": "661625436abf628df8984eb0",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "Find the adjective: He ate forty bananas in the contest and was sick afterward.",
+      "questionHtml": "<p>Find the adjective: He ate forty bananas in the contest and was sick afterward.</p>",
+      "solutionText": "Ans - c",
+      "solutionHtml": "<p>Ans - c</p>\n<p></p>\n<p><iframe title=\"39\" src=\"//www.youtube.com/embed/DqF8NWWh7bo\" width=\"657\" height=\"370\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+      "options": [
+        {
+          "order": null,
+          "text": "ate",
+          "html": "<p>ate</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "in",
+          "html": "<p>in</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "forty",
+          "html": "<p>forty</p>",
+          "isCorrect": true
+        },
+        {
+          "order": null,
+          "text": "sick",
+          "html": "<p>sick</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 20,
+      "section": "Verbal Solution 04",
+      "id": "661625436abf623050984eb5",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "Dusk: Evening::Dawn: ?",
+      "questionHtml": "<p>Dusk: Evening::Dawn: ?</p>",
+      "solutionText": "Ans - d",
+      "solutionHtml": "<p>Ans - d</p>\n<p></p>\n<p><iframe title=\"40\" src=\"//www.youtube.com/embed/O-4z2DrctaQ\" width=\"657\" height=\"370\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+      "options": [
+        {
+          "order": null,
+          "text": "Night",
+          "html": "<p>Night</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "Light",
+          "html": "<p>Light</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "Fog",
+          "html": "<p>Fog</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "Morning",
+          "html": "<p>Morning</p>",
+          "isCorrect": true
+        }
+      ],
+      "embeddedImages": []
+    }
+  ]
+}

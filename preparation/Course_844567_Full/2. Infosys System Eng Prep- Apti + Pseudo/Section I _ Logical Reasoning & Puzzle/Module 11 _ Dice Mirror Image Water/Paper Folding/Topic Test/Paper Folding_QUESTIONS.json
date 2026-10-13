@@ -1,0 +1,669 @@
+{
+  "testId": "61041347bf8d8d37113616d7",
+  "title": "Paper Folding",
+  "engine": "Classplus CMS",
+  "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section I : Logical Reasoning & Puzzle / Module 11 :  Dice Mirror Image Water / Paper Folding / Topic Test",
+  "totalQuestions": 15,
+  "totalMarks": 0,
+  "durationMinutes": 0,
+  "livePortalUrl": "https://student-cms.classplusapp.com?token=eyJhbGciOiJIUzM4NCIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjE5MjYwNjExNiwibmFtZSI6IkhhY2tXaXRoSW5meVByZXAiLCJlbWFpbCI6ImhhY2t3aXRoaW5meXByZXBAZ21haWwuY29tIiwibW9iaWxlIjoiOTE3ODk4MDk3Mjk3Iiwic3R1ZGVudElkIjoxNTkzMDU3NDYsImNvbnRlbnRJZCI6Mjk0ODkzODcsIm9yZ0lkIjo0NDAzMiwiY29udGVudFR5cGUiOjQsImNvdXJzZUlkIjoiODQ0NTY3IiwidGltZXN0YW1wIjoxNzkxODcyMjExOTgyLCJjb3Vyc2VOYW1lIjoiTkVXIEluZm9zeXMgLVNFICwgRFNFICYgU1AgLVVwZGF0ZWQgUGF0dGVybiArIFBZUSArIEluZm9zeXMgdGVzdCBTZXJpZXMgd2l0aCBWaWRlbyBzb2wiLCJ0ZXN0SWQiOiI2MTA0MTM0N2JmOGQ4ZDM3MTEzNjE2ZDciLCJudW1iZXJPZkF0dGVtcHRzIjotMSwibWV0YURhdGEiOnsib2NzSWQiOjU4MjA1MTAzLCJvY3NUaW1lIjoxNzg5ODg1MjI4MDAwfSwiaWF0IjoxNzkxODcyMjEyLCJleHAiOjE3OTI0NzcwMTJ9.khq3_3GtMmk8ecMBvxL91BZ7w-N65MtCQfGyvh5qPPoASDSAMoHcDlmBGCFUcOdG&testId=61041347bf8d8d37113616d7&user_email=hackwithinfyprep@gmail.com&user_id=159305746&defaultLanguage=en&isGenericShare=false",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "section": "Quantitative Aptitude",
+      "id": "6104137e14efbdd171e21112",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "",
+      "questionHtml": "<p><span style=\"font-size: 14pt;\"><img src=\"https://testzone.smartkeeda.com/Myfiles/files/1(341).png\" width=\"406\" height=\"148\" /></span></p>",
+      "solutionText": "Correct Option: D",
+      "solutionHtml": "<div><span style=\"font-size: 14pt;\"><label style=\"display: inline-block; max-width: 100%; margin-bottom: 5px;\">Correct Option:&nbsp;</label>D</span></div>\n<p><span style=\"font-size: 14pt;\"><img style=\"border: 0px; max-width: 100%; height: 117px; font-family: 'Open Sans'; width: 420px;\" src=\"https://testzone.smartkeeda.com/Myfiles/files/6(153).png\" alt=\"\" /></span></p>",
+      "options": [
+        {
+          "order": null,
+          "text": "",
+          "html": "<div class=\"optionans\"><span style=\"font-size: 14pt;\"><img style=\"box-sizing: border-box; border: 0px; vertical-align: middle; max-width: 100%; height: 130px; color: #333333; font-family: 'Open Sans'; width: 130px;\" src=\"https://testzone.smartkeeda.com/Myfiles/files/2(315).png\" alt=\"\" /></span></div>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "",
+          "html": "<div class=\"optionans\"><img style=\"box-sizing: border-box; border: 0px; vertical-align: middle; max-width: 100%; height: 129px; color: #333333; font-family: 'Open Sans'; font-size: 14px; width: 130px;\" src=\"https://testzone.smartkeeda.com/Myfiles/files/3(299).png\" alt=\"\" /></div>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "",
+          "html": "<div class=\"optionans\"><img style=\"box-sizing: border-box; border: 0px; vertical-align: middle; max-width: 100%; height: 127px; color: #333333; font-family: 'Open Sans'; font-size: 14px; width: 128px;\" src=\"https://testzone.smartkeeda.com/Myfiles/files/4(233).png\" alt=\"\" /></div>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "",
+          "html": "<div class=\"optionans\"><img style=\"box-sizing: border-box; border: 0px; vertical-align: middle; max-width: 100%; height: 127px; color: #333333; font-family: 'Open Sans'; font-size: 14px; font-weight: bold; width: 128px;\" src=\"https://testzone.smartkeeda.com/Myfiles/files/5(177).png\" alt=\"\" /></div>",
+          "isCorrect": true
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 2,
+      "section": "Quantitative Aptitude",
+      "id": "6104137e14efbd1ec8e21117",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "",
+      "questionHtml": "<p><img style=\"border: 0px; max-width: 100%; height: 147px; font-family: 'Open Sans'; font-weight: bold; width: 403px;\" src=\"https://testzone.smartkeeda.com/Myfiles/files/Question(17).png\" alt=\"\" /></p>",
+      "solutionText": "Correct Option: D",
+      "solutionHtml": "<div><span style=\"font-size: 14pt;\"><label style=\"display: inline-block; max-width: 100%; margin-bottom: 5px;\">Correct Option:&nbsp;</label>D</span></div>\n<div><span style=\"font-size: 14pt;\">&nbsp;</span><span style=\"font-size: 14pt;\"><img style=\"border: 0px; max-width: 100%; height: 115px; font-family: 'Open Sans'; width: 415px;\" src=\"https://testzone.smartkeeda.com/Myfiles/files/Explanation(14).png\" alt=\"\" /></span></div>",
+      "options": [
+        {
+          "order": null,
+          "text": "\n\n",
+          "html": "<div class=\"optionans\">\n<div class=\"col-md-6\" id=\"OptAEng\"><img style=\"box-sizing: border-box; border: 0px; vertical-align: middle; max-width: 100%; height: 129px; width: 129px;\" src=\"https://testzone.smartkeeda.com/Myfiles/files/A(57).png\" alt=\"\" /></div>\n</div>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "",
+          "html": "<p><img src=\"https://testzone.smartkeeda.com/Myfiles/files/B(49).png\" width=\"130\" height=\"130\" /></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "\n\n",
+          "html": "<div class=\"optionans\">\n<div class=\"optionans\"><img style=\"border: 0px; vertical-align: middle; max-width: 100%; height: 128px; font-family: 'Open Sans'; font-size: 14px; width: 128px;\" src=\"https://testzone.smartkeeda.com/Myfiles/files/C(56).png\" alt=\"\" /></div>\n</div>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "",
+          "html": "<p><img src=\"https://testzone.smartkeeda.com/Myfiles/files/D(35).png\" width=\"130\" height=\"130\" /></p>",
+          "isCorrect": true
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 3,
+      "section": "Quantitative Aptitude",
+      "id": "6104137e14efbdeaa5e2111c",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "In the question, A triangular piece of paper is folded and punched as shown below. From the given responses indicate how it will appear when opened.",
+      "questionHtml": "<p><span style=\"font-weight: bold; color: #222222; font-family: Roboto, sans-serif; text-align: justify; font-size: 14pt;\">In the question, A triangular piece of paper is folded and punched as shown below. From the given responses indicate how it will appear when opened.</span><br style=\"color: #222222; font-family: Roboto, sans-serif; text-align: justify;\" /><br style=\"color: #222222; font-family: Roboto, sans-serif; text-align: justify;\" /><span style=\"font-size: 14pt;\"><img style=\"border: 0px; max-width: 100%; height: 175px; color: #222222; font-family: Roboto, sans-serif; text-align: justify; width: 571px;\" src=\"https://testzone.smartkeeda.com/Myfiles/files/fq(1).png\" alt=\"\" /></span></p>",
+      "solutionText": "Correct Option: A",
+      "solutionHtml": "<div><span style=\"font-size: 14pt;\"><label style=\"display: inline-block; max-width: 100%; margin-bottom: 5px;\">Correct Option:&nbsp;</label>A</span></div>\n<p><span style=\"font-size: 14pt;\"><img style=\"border: 0px; max-width: 100%; height: 123px; color: #444444; font-family: Roboto, sans-serif; width: 688px;\" src=\"https://testzone.smartkeeda.com/Myfiles/files/fans(1).png\" alt=\"\" /></span></p>",
+      "options": [
+        {
+          "order": null,
+          "text": "",
+          "html": "<div class=\"optionans\"><img style=\"box-sizing: border-box; border: 0px; vertical-align: middle; max-width: 100%; height: 133px; width: 143px;\" src=\"https://testzone.smartkeeda.com/Myfiles/files/f01(1).png\" alt=\"\" /></div>",
+          "isCorrect": true
+        },
+        {
+          "order": null,
+          "text": "",
+          "html": "<div class=\"optionans\"><img style=\"box-sizing: border-box; border: 0px; vertical-align: middle; max-width: 100%; height: 134px; width: 144px;\" src=\"https://testzone.smartkeeda.com/Myfiles/files/f02(1).png\" alt=\"\" /></div>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "",
+          "html": "<div class=\"optionans\"><img style=\"box-sizing: border-box; border: 0px; vertical-align: middle; max-width: 100%; height: 138px; width: 149px;\" src=\"https://testzone.smartkeeda.com/Myfiles/files/f03(2).png\" alt=\"\" /></div>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "",
+          "html": "<div class=\"optionans\"><img style=\"box-sizing: border-box; border: 0px; vertical-align: middle; max-width: 100%; height: 137px; width: 147px;\" src=\"https://testzone.smartkeeda.com/Myfiles/files/f04(1).png\" alt=\"\" /></div>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 4,
+      "section": "Quantitative Aptitude",
+      "id": "6104137e14efbd4551e21121",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "",
+      "questionHtml": "<p><img style=\"border: 0px; max-width: 100%; font-family: 'Open Sans'; text-align: justify; height: 102px;\" src=\"https://testzone.smartkeeda.com/Myfiles/files/RAVI7818pNf%20(1).png\" alt=\"\" width=\"400\" /></p>",
+      "solutionText": "Correct Option: B",
+      "solutionHtml": "<div><span style=\"font-size: 14pt;\"><label style=\"display: inline-block; max-width: 100%; margin-bottom: 5px;\">Correct Option:&nbsp;</label>B</span></div>\n<p><span style=\"font-size: 14pt;\"><img style=\"border: 0px; max-width: 100%; font-family: 'Open Sans'; height: 103px;\" src=\"https://testzone.smartkeeda.com/Myfiles/files/RAVI7818pNf%20(6).png\" alt=\"\" width=\"404\" /></span></p>",
+      "options": [
+        {
+          "order": null,
+          "text": "",
+          "html": "<div class=\"optionans\"><img style=\"box-sizing: border-box; border: 0px; vertical-align: middle; max-width: 100%; color: #333333; font-family: 'Open Sans'; font-size: 14px; height: 129px;\" src=\"https://testzone.smartkeeda.com/Myfiles/files/RAVI7818pNf%20(2).png\" alt=\"\" width=\"129\" /></div>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "",
+          "html": "<div class=\"optionans\"><img style=\"box-sizing: border-box; border: 0px; vertical-align: middle; max-width: 100%; color: #333333; font-family: 'Open Sans'; font-size: 14px; font-weight: bold; height: 130px;\" src=\"https://testzone.smartkeeda.com/Myfiles/files/RAVI7818pNf%20(3).png\" alt=\"\" width=\"130\" /></div>",
+          "isCorrect": true
+        },
+        {
+          "order": null,
+          "text": "",
+          "html": "<div class=\"optionans\"><img style=\"box-sizing: border-box; border: 0px; vertical-align: middle; max-width: 100%; color: #333333; font-family: 'Open Sans'; font-size: 14px; height: 130px;\" src=\"https://testzone.smartkeeda.com/Myfiles/files/RAVI7818pNf%20(4).png\" alt=\"\" width=\"130\" /></div>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "",
+          "html": "<p><img src=\"https://testzone.smartkeeda.com/Myfiles/files/RAVI7818pNf%20(5).png\" width=\"130\" height=\"130\" /></p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 5,
+      "section": "Quantitative Aptitude",
+      "id": "6104137e14efbd8577e21126",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "Directions: A piece of a paper is folded and cut as shown below in the Question Figures. Indicate how it will appear when opened.",
+      "questionHtml": "<p><strong><span style=\"color: #222222; font-family: Roboto, sans-serif; text-align: justify; font-size: 14pt;\">Directions: A piece of a paper is folded and cut as shown below in the Question Figures. Indicate how it will appear when opened.</span></strong><br style=\"color: #222222; font-family: Roboto, sans-serif; text-align: justify;\" /><br style=\"color: #222222; font-family: Roboto, sans-serif; text-align: justify;\" /><strong><span style=\"font-size: 14pt;\"><img style=\"border: 0px; max-width: 100%; color: #222222; font-family: Roboto, sans-serif; text-align: justify; height: 102px;\" src=\"https://testzone.smartkeeda.com/Myfiles/files/FIG211018PNF%20(1).png\" width=\"400\" /></span></strong></p>",
+      "solutionText": "Correct Option: D",
+      "solutionHtml": "<div><span style=\"font-size: 14pt;\"><label style=\"display: inline-block; max-width: 100%; margin-bottom: 5px;\">Correct Option:&nbsp;</label>D</span></div>\n<p><span style=\"font-size: 14pt;\"><img style=\"border: 0px; max-width: 100%; color: #444444; font-family: Roboto, sans-serif; text-align: justify; height: 104px;\" src=\"https://testzone.smartkeeda.com/Myfiles/files/FIG211018PNF%20(6).png\" alt=\"\" width=\"408\" /></span></p>",
+      "options": [
+        {
+          "order": null,
+          "text": "",
+          "html": "<div class=\"optionans\"><img style=\"box-sizing: border-box; border: 0px; vertical-align: middle; max-width: 100%; text-align: justify; height: 129px;\" src=\"https://testzone.smartkeeda.com/Myfiles/files/FIG211018PNF%20(2).png\" alt=\"\" width=\"129\" /></div>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "",
+          "html": "<div class=\"optionans\"><img style=\"box-sizing: border-box; border: 0px; vertical-align: middle; max-width: 100%; text-align: justify; height: 130px;\" src=\"https://testzone.smartkeeda.com/Myfiles/files/FIG211018PNF%20(3).png\" alt=\"\" width=\"130\" /></div>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "",
+          "html": "<div class=\"optionans\"><img style=\"box-sizing: border-box; border: 0px; vertical-align: middle; max-width: 100%; text-align: justify; height: 130px;\" src=\"https://testzone.smartkeeda.com/Myfiles/files/FIG211018PNF%20(4).png\" alt=\"\" width=\"130\" /></div>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "",
+          "html": "<div class=\"optionans\"><img style=\"box-sizing: border-box; border: 0px; vertical-align: middle; max-width: 100%; height: 130px; text-align: justify; width: 130px;\" src=\"https://testzone.smartkeeda.com/Myfiles/files/FIG211018PNF%20(5a).png\" alt=\"\" /></div>",
+          "isCorrect": true
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 6,
+      "section": "Quantitative Aptitude",
+      "id": "6104137e14efbd609ae2112b",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "Directions: A piece of a paper is folded and cut as shown below in the Question Figures. Indicate how it will appear when opened.",
+      "questionHtml": "<p><strong><span style=\"color: #222222; font-family: Roboto, sans-serif; text-align: justify; font-size: 14pt;\">Directions: A piece of a paper is folded and cut as shown below in the Question Figures. Indicate how it will appear when opened.</span></strong><br style=\"color: #222222; font-family: Roboto, sans-serif; text-align: justify;\" /><br style=\"color: #222222; font-family: Roboto, sans-serif; text-align: justify;\" /><strong><span style=\"font-size: 14pt;\"><img style=\"border: 0px; max-width: 100%; color: #222222; font-family: Roboto, sans-serif; text-align: justify; height: 102px;\" src=\"https://testzone.smartkeeda.com/Myfiles/files/FIG211018PNFA%20(1).png\" width=\"400\" /></span></strong></p>",
+      "solutionText": "Correct Option: D",
+      "solutionHtml": "<div><span style=\"font-size: 14pt;\"><label style=\"display: inline-block; max-width: 100%; margin-bottom: 5px;\">Correct Option:&nbsp;</label>D</span></div>\n<p><span style=\"font-size: 14pt;\"><img style=\"border: 0px; max-width: 100%; color: #444444; font-family: Roboto, sans-serif; height: 102px;\" src=\"https://testzone.smartkeeda.com/Myfiles/files/FIG211018PNFA%20(6).png\" width=\"400\" /></span></p>",
+      "options": [
+        {
+          "order": null,
+          "text": "",
+          "html": "<div class=\"optionans\"><img style=\"box-sizing: border-box; border: 0px; vertical-align: middle; max-width: 100%; height: 130px;\" src=\"https://testzone.smartkeeda.com/Myfiles/files/FIG211018PNFA%20(2).png\" width=\"130\" /></div>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "",
+          "html": "<div class=\"optionans\"><img style=\"box-sizing: border-box; border: 0px; vertical-align: middle; max-width: 100%; height: 130px;\" src=\"https://testzone.smartkeeda.com/Myfiles/files/FIG211018PNFA%20(3).png\" width=\"130\" /></div>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "",
+          "html": "<div class=\"optionans\"><img style=\"box-sizing: border-box; border: 0px; vertical-align: middle; max-width: 100%; height: 129px;\" src=\"https://testzone.smartkeeda.com/Myfiles/files/FIG211018PNFA%20(4).png\" width=\"129\" /></div>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "",
+          "html": "<div class=\"optionans\"><img style=\"box-sizing: border-box; border: 0px; vertical-align: middle; max-width: 100%; height: 130px;\" src=\"https://testzone.smartkeeda.com/Myfiles/files/FIG211018PNFA%20(5a).png\" width=\"130\" /></div>",
+          "isCorrect": true
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 7,
+      "section": "Quantitative Aptitude",
+      "id": "6104137e14efbd5921e21130",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "Directions: A piece of a paper is folded and cut as shown below in the Question Figures. Indicate how it will appear when opened.",
+      "questionHtml": "<p><span style=\"font-weight: bold; color: #222222; font-family: Roboto, sans-serif; text-align: justify; font-size: 14pt;\">Directions: A piece of a paper is folded and cut as shown below in the Question Figures. Indicate how it will appear when opened.</span><br style=\"color: #222222; font-family: Roboto, sans-serif; text-align: justify;\" /><br style=\"color: #222222; font-family: Roboto, sans-serif; text-align: justify;\" /><span style=\"font-size: 14pt;\"><img style=\"border: 0px; max-width: 100%; color: #222222; font-family: Roboto, sans-serif; text-align: justify; height: 102px;\" src=\"https://testzone.smartkeeda.com/Myfiles/files/FIG211018PNFB%20(1).png\" width=\"400\" /></span></p>",
+      "solutionText": "Correct Option: D",
+      "solutionHtml": "<div><span style=\"font-size: 14pt;\"><label style=\"display: inline-block; max-width: 100%; margin-bottom: 5px;\">Correct Option:&nbsp;</label>D</span></div>\n<p><span style=\"font-size: 14pt;\"><img style=\"border: 0px; max-width: 100%; color: #444444; font-family: Roboto, sans-serif; height: 102px;\" src=\"https://testzone.smartkeeda.com/Myfiles/files/FIG211018PNFB%20(6).png\" width=\"400\" /></span></p>",
+      "options": [
+        {
+          "order": null,
+          "text": "",
+          "html": "<div class=\"optionans\"><img style=\"box-sizing: border-box; border: 0px; vertical-align: middle; max-width: 100%; height: 129px;\" src=\"https://testzone.smartkeeda.com/Myfiles/files/FIG211018PNFB%20(2).png\" width=\"129\" /></div>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "",
+          "html": "<div class=\"optionans\"><img style=\"box-sizing: border-box; border: 0px; vertical-align: middle; max-width: 100%; height: 130px;\" src=\"https://testzone.smartkeeda.com/Myfiles/files/FIG211018PNFB%20(3).png\" width=\"130\" /></div>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "",
+          "html": "<div class=\"optionans\"><img style=\"box-sizing: border-box; border: 0px; vertical-align: middle; max-width: 100%; height: 130px;\" src=\"https://testzone.smartkeeda.com/Myfiles/files/FIG211018PNFB%20(4).png\" width=\"130\" /></div>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "",
+          "html": "<div class=\"optionans\"><img style=\"box-sizing: border-box; border: 0px; vertical-align: middle; max-width: 100%; height: 130px;\" src=\"https://testzone.smartkeeda.com/Myfiles/files/FIG211018PNFB%20(5a).png\" width=\"130\" /></div>",
+          "isCorrect": true
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 8,
+      "section": "Quantitative Aptitude",
+      "id": "6104137e14efbd1d55e21135",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "Directions: A piece of a paper is folded and cut as shown below in the Question Figures. Indicate how it will appear when opened.",
+      "questionHtml": "<p><span style=\"font-weight: bold; color: #222222; font-family: Roboto, sans-serif; text-align: justify; font-size: 14pt;\">Directions: A piece of a paper is folded and cut as shown below in the Question Figures. Indicate how it will appear when opened.</span><br style=\"color: #222222; font-family: Roboto, sans-serif; text-align: justify;\" /><br style=\"color: #222222; font-family: Roboto, sans-serif; text-align: justify;\" /><span style=\"font-size: 14pt;\"><img style=\"border: 0px; max-width: 100%; color: #222222; font-family: Roboto, sans-serif; text-align: justify; height: 100px;\" src=\"https://testzone.smartkeeda.com/Myfiles/files/FIG211018PNFC%20(1).png\" width=\"392\" /></span></p>",
+      "solutionText": "Correct Option: B",
+      "solutionHtml": "<div><span style=\"font-size: 14pt;\"><label style=\"display: inline-block; max-width: 100%; margin-bottom: 5px;\">Correct Option:&nbsp;</label>B</span></div>\n<p><span style=\"font-size: 14pt;\"><img style=\"border: 0px; max-width: 100%; color: #444444; font-family: Roboto, sans-serif; height: 105px;\" src=\"https://testzone.smartkeeda.com/Myfiles/files/FIG211018PNFC%20(6).png\" width=\"412\" /></span></p>",
+      "options": [
+        {
+          "order": null,
+          "text": "",
+          "html": "<div class=\"optionans\"><img style=\"box-sizing: border-box; border: 0px; vertical-align: middle; max-width: 100%; height: 130px;\" src=\"https://testzone.smartkeeda.com/Myfiles/files/FIG211018PNFC%20(2).png\" width=\"130\" /></div>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "",
+          "html": "<div class=\"optionans\"><img style=\"box-sizing: border-box; border: 0px; vertical-align: middle; max-width: 100%; height: 130px;\" src=\"https://testzone.smartkeeda.com/Myfiles/files/FIG211018PNFC%20(3A).png\" width=\"130\" /></div>",
+          "isCorrect": true
+        },
+        {
+          "order": null,
+          "text": "",
+          "html": "<div class=\"optionans\"><img style=\"box-sizing: border-box; border: 0px; vertical-align: middle; max-width: 100%; height: 131px;\" src=\"https://testzone.smartkeeda.com/Myfiles/files/FIG211018PNFC%20(4).png\" width=\"131\" /></div>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "",
+          "html": "<div class=\"optionans\"><img style=\"box-sizing: border-box; border: 0px; vertical-align: middle; max-width: 100%; height: 130px;\" src=\"https://testzone.smartkeeda.com/Myfiles/files/FIG211018PNFC%20(5).png\" width=\"130\" /></div>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 9,
+      "section": "Quantitative Aptitude",
+      "id": "6104137e14efbdbea9e2113a",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "Directions: A piece of a paper is folded and cut as shown below in the Question Figures. Indicate how it will appear when opened.",
+      "questionHtml": "<p><span style=\"font-weight: bold; color: #222222; font-family: Roboto, sans-serif; text-align: justify; font-size: 14pt;\">Directions: A piece of a paper is folded and cut as shown below in the Question Figures. Indicate how it will appear when opened.</span><br style=\"color: #222222; font-family: Roboto, sans-serif; text-align: justify;\" /><br style=\"color: #222222; font-family: Roboto, sans-serif; text-align: justify;\" /><span style=\"font-size: 14pt;\"><img style=\"border: 0px; max-width: 100%; color: #222222; font-family: Roboto, sans-serif; text-align: justify; height: 102px;\" src=\"https://testzone.smartkeeda.com/Myfiles/files/FIG211018PNFD%20(1).png\" width=\"400\" /></span></p>",
+      "solutionText": "Correct Option: C",
+      "solutionHtml": "<div><span style=\"font-size: 14pt;\"><label style=\"display: inline-block; max-width: 100%; margin-bottom: 5px;\">Correct Option:&nbsp;</label>C</span></div>\n<p><span style=\"font-size: 14pt;\"><img style=\"border: 0px; max-width: 100%; color: #444444; font-family: Roboto, sans-serif; height: 102px;\" src=\"https://testzone.smartkeeda.com/Myfiles/files/FIG211018PNFD%20(6).png\" width=\"400\" /></span></p>",
+      "options": [
+        {
+          "order": null,
+          "text": "",
+          "html": "<div class=\"optionans\"><img style=\"box-sizing: border-box; border: 0px; vertical-align: middle; max-width: 100%; height: 130px;\" src=\"https://testzone.smartkeeda.com/Myfiles/files/FIG211018PNFD%20(2).png\" width=\"130\" /></div>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "",
+          "html": "<div class=\"optionans\"><img style=\"box-sizing: border-box; border: 0px; vertical-align: middle; max-width: 100%; height: 130px;\" src=\"https://testzone.smartkeeda.com/Myfiles/files/FIG211018PNFD%20(3).png\" width=\"130\" /></div>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "",
+          "html": "<div class=\"optionans\"><img style=\"box-sizing: border-box; border: 0px; vertical-align: middle; max-width: 100%; height: 130px;\" src=\"https://testzone.smartkeeda.com/Myfiles/files/FIG211018PNFD%20(4A).png\" width=\"130\" /></div>",
+          "isCorrect": true
+        },
+        {
+          "order": null,
+          "text": "",
+          "html": "<div class=\"optionans\"><img style=\"box-sizing: border-box; border: 0px; vertical-align: middle; max-width: 100%; height: 126px;\" src=\"https://testzone.smartkeeda.com/Myfiles/files/FIG211018PNFD%20(5).png\" width=\"126\" /></div>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 10,
+      "section": "Quantitative Aptitude",
+      "id": "6104137e14efbd6fbde2113f",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "Directions: A piece of a paper is folded and cut as shown below in the Question Figures. Indicate how it will appear when opened.",
+      "questionHtml": "<p><strong><span style=\"color: #222222; font-family: Roboto, sans-serif; text-align: justify; font-size: 14pt;\">Directions: A piece of a paper is folded and cut as shown below in the Question Figures. Indicate how it will appear when opened.</span></strong><br style=\"color: #222222; font-family: Roboto, sans-serif; text-align: justify;\" /><br style=\"color: #222222; font-family: Roboto, sans-serif; text-align: justify;\" /><strong><span style=\"font-size: 14pt;\"><img style=\"border: 0px; max-width: 100%; color: #222222; font-family: Roboto, sans-serif; text-align: justify; height: auto !important;\" src=\"https://testzone.smartkeeda.com/Myfiles/files/FIG211018PNFE%20(1).png\" /></span></strong></p>",
+      "solutionText": "Correct Option: C",
+      "solutionHtml": "<div><span style=\"font-size: 14pt;\"><label style=\"display: inline-block; max-width: 100%; margin-bottom: 5px;\">Correct Option:&nbsp;</label>C</span></div>\n<p><span style=\"font-size: 14pt;\"><img style=\"border: 0px; max-width: 100%; height: 102px; color: #444444; font-family: Roboto, sans-serif; text-align: justify; width: 400px;\" src=\"https://testzone.smartkeeda.com/Myfiles/files/FIG211018PNFE%20(6).png\" alt=\"\" /></span></p>",
+      "options": [
+        {
+          "order": null,
+          "text": "",
+          "html": "<div class=\"optionans\"><img style=\"box-sizing: border-box; border: 0px; vertical-align: middle; max-width: 100%; height: 130px; text-align: justify; width: 130px;\" src=\"https://testzone.smartkeeda.com/Myfiles/files/FIG211018PNFE%20(2).png\" alt=\"\" /></div>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "",
+          "html": "<div class=\"optionans\"><img style=\"box-sizing: border-box; border: 0px; vertical-align: middle; max-width: 100%; height: 130px; text-align: justify; width: 130px;\" src=\"https://testzone.smartkeeda.com/Myfiles/files/FIG211018PNFE%20(3).png\" alt=\"\" /></div>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "",
+          "html": "<div class=\"optionans\"><img style=\"box-sizing: border-box; border: 0px; vertical-align: middle; max-width: 100%; height: 130px; text-align: justify; width: 130px;\" src=\"https://testzone.smartkeeda.com/Myfiles/files/FIG211018PNFE%20(4A).png\" alt=\"\" /></div>",
+          "isCorrect": true
+        },
+        {
+          "order": null,
+          "text": "",
+          "html": "<div class=\"optionans\"><img style=\"box-sizing: border-box; border: 0px; vertical-align: middle; max-width: 100%; height: 130px; text-align: justify; width: 130px;\" src=\"https://testzone.smartkeeda.com/Myfiles/files/FIG211018PNFE%20(5).png\" alt=\"\" /></div>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 11,
+      "section": "Quantitative Aptitude",
+      "id": "6104137e14efbd0a7fe21144",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "",
+      "questionHtml": "<p><img style=\"border: 0px; max-width: 100%; height: 151px; color: #222222; font-family: Roboto, sans-serif; width: 151px;\" src=\"http://smartkeeda.com/Myfiles/images/Ques%202.jpg\" alt=\"\" /></p>",
+      "solutionText": "Correct Option: B",
+      "solutionHtml": "<p><span style=\"font-size: 14pt;\"><label style=\"display: inline-block; max-width: 100%; margin-bottom: 5px; color: #444444; font-family: Roboto, sans-serif;\">Correct Option:&nbsp;</label><span style=\"color: #444444; font-family: Roboto, sans-serif;\">B</span></span></p>",
+      "options": [
+        {
+          "order": null,
+          "text": "",
+          "html": "<div class=\"optionans\"><img style=\"box-sizing: border-box; border: 0px; vertical-align: middle; max-width: 100%; height: 130px; width: 130px;\" src=\"http://smartkeeda.com/Myfiles/images/Opt%20(A)(1).jpg\" alt=\"\" /></div>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "",
+          "html": "<div class=\"optionans\"><img style=\"box-sizing: border-box; border: 0px; vertical-align: middle; max-width: 100%; height: 129px; width: 129px;\" src=\"http://smartkeeda.com/Myfiles/images/Opt%20(B)(1).jpg\" alt=\"\" /></div>",
+          "isCorrect": true
+        },
+        {
+          "order": null,
+          "text": "",
+          "html": "<div class=\"optionans\"><img style=\"box-sizing: border-box; border: 0px; vertical-align: middle; max-width: 100%; height: 130px; width: 130px;\" src=\"http://smartkeeda.com/Myfiles/images/Opt%20(C)(1).jpg\" alt=\"\" /></div>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "",
+          "html": "<div class=\"optionans\"><img style=\"box-sizing: border-box; border: 0px; vertical-align: middle; max-width: 100%; height: 82px; width: 80px;\" src=\"http://smartkeeda.com/Myfiles/images/Opt%20(D)(1).jpg\" alt=\"\" /></div>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 12,
+      "section": "Quantitative Aptitude",
+      "id": "6104137e14efbde587e21149",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "In the question, a piece of paper is folded and cut as shown below in the questions figures. From the given option figure, indicates how it will appear when opened.",
+      "questionHtml": "<p><span style=\"font-weight: bold; color: #222222; font-family: Roboto, sans-serif; text-align: justify; font-size: 14pt;\">In the question, a piece of paper is folded and cut as shown below in the questions figures. From the given option figure, indicates how it will appear when opened.</span><br style=\"color: #222222; font-family: Roboto, sans-serif; text-align: justify;\" /><br style=\"color: #222222; font-family: Roboto, sans-serif; text-align: justify;\" /><span style=\"font-size: 14pt;\"><img style=\"border: 0px; max-width: 100%; height: 122px; color: #222222; font-family: Roboto, sans-serif; text-align: justify; width: 371px;\" src=\"https://testzone.smartkeeda.com/Myfiles/files/PfoldingQ2.png\" alt=\"\" /></span></p>",
+      "solutionText": "Correct Option: A",
+      "solutionHtml": "<div><span style=\"font-size: 14pt;\"><label style=\"display: inline-block; max-width: 100%; margin-bottom: 5px;\">Correct Option:&nbsp;</label>A</span></div>\n<p><span style=\"font-size: 14pt;\"><img style=\"border: 0px; max-width: 100%; height: 122px; color: #444444; font-family: Roboto, sans-serif; width: 494px;\" src=\"https://testzone.smartkeeda.com/Myfiles/files/PfoldingAns.png\" alt=\"\" /></span></p>",
+      "options": [
+        {
+          "order": null,
+          "text": "\n\n",
+          "html": "<div class=\"optionans\">\n<div class=\"optionans\"><img style=\"border: 0px; vertical-align: middle; max-width: 100%; height: 118px; width: 129px;\" src=\"https://testzone.smartkeeda.com/Myfiles/files/Q2PfO1.png\" alt=\"\" /></div>\n</div>",
+          "isCorrect": true
+        },
+        {
+          "order": null,
+          "text": "\n\n",
+          "html": "<div class=\"optionans\">\n<div class=\"optionans\"><img style=\"border: 0px; vertical-align: middle; max-width: 100%; height: 118px; width: 129px;\" src=\"https://testzone.smartkeeda.com/Myfiles/files/Q2PfO2.png\" alt=\"\" /></div>\n</div>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "\n\n",
+          "html": "<div class=\"optionans\">\n<div class=\"optionans\"><img style=\"border: 0px; vertical-align: middle; max-width: 100%; height: 118px; width: 129px;\" src=\"https://testzone.smartkeeda.com/Myfiles/files/Q2PfO3.png\" alt=\"\" /></div>\n</div>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "\n\n",
+          "html": "<div class=\"optionans\">\n<div class=\"optionans\"><img style=\"border: 0px; vertical-align: middle; max-width: 100%; height: 118px; width: 129px;\" src=\"https://testzone.smartkeeda.com/Myfiles/files/Q2PfO4.png\" alt=\"\" /></div>\n</div>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": [
+        {
+          "original": "https://testzone.smartkeeda.com/Myfiles/files/PfoldingQ2.png",
+          "local": "Paper Folding_figures/q12_1.png"
+        },
+        {
+          "original": "https://testzone.smartkeeda.com/Myfiles/files/Q2PfO1.png",
+          "local": "Paper Folding_figures/q12_2.png"
+        },
+        {
+          "original": "https://testzone.smartkeeda.com/Myfiles/files/Q2PfO2.png",
+          "local": "Paper Folding_figures/q12_3.png"
+        },
+        {
+          "original": "https://testzone.smartkeeda.com/Myfiles/files/Q2PfO3.png",
+          "local": "Paper Folding_figures/q12_4.png"
+        },
+        {
+          "original": "https://testzone.smartkeeda.com/Myfiles/files/Q2PfO4.png",
+          "local": "Paper Folding_figures/q12_5.png"
+        }
+      ]
+    },
+    {
+      "questionNumber": 13,
+      "section": "Quantitative Aptitude",
+      "id": "6104137e14efbd1570e2114e",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "In the question, a piece of paper is folded and cut as shown below in the questions figures. From the given option figures, which one indicates how it will appear when opened.",
+      "questionHtml": "<p><span style=\"font-weight: bold; color: #222222; font-family: Roboto, sans-serif; text-align: justify; font-size: 14pt;\">In the question, a piece of paper is folded and cut as shown below in the questions figures. From the given option figures, which one indicates how it will appear when opened.</span><br style=\"color: #222222; font-family: Roboto, sans-serif; text-align: justify;\" /><br style=\"color: #222222; font-family: Roboto, sans-serif; text-align: justify;\" /><span style=\"font-size: 14pt;\"><img style=\"border: 0px; max-width: 100%; height: 103px; color: #222222; font-family: Roboto, sans-serif; text-align: justify; width: 477px;\" src=\"https://testzone.smartkeeda.com/Myfiles/files/q2nw.png\" alt=\"\" /></span></p>",
+      "solutionText": "Correct Option: C",
+      "solutionHtml": "<div><span style=\"font-size: 14pt;\"><label style=\"display: inline-block; max-width: 100%; margin-bottom: 5px;\">Correct Option:&nbsp;</label>C</span></div>\n<p><span style=\"font-size: 14pt;\"><img style=\"border: 0px; max-width: 100%; height: 106px; color: #444444; font-family: Roboto, sans-serif; width: 600px;\" src=\"https://testzone.smartkeeda.com/Myfiles/files/an%202.png\" alt=\"\" /></span></p>",
+      "options": [
+        {
+          "order": null,
+          "text": "",
+          "html": "<div class=\"optionans\"><img style=\"box-sizing: border-box; border: 0px; vertical-align: middle; max-width: 100%; height: 107px; width: 113px;\" src=\"https://testzone.smartkeeda.com/Myfiles/files/a2.png\" alt=\"\" /></div>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "",
+          "html": "<div class=\"optionans\"><img style=\"box-sizing: border-box; border: 0px; vertical-align: middle; max-width: 100%; height: 112px; width: 120px;\" src=\"https://testzone.smartkeeda.com/Myfiles/files/03.png\" alt=\"\" /></div>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "",
+          "html": "<div class=\"optionans\"><img style=\"box-sizing: border-box; border: 0px; vertical-align: middle; max-width: 100%; height: 107px; width: 113px;\" src=\"https://testzone.smartkeeda.com/Myfiles/files/c2.png\" alt=\"\" /></div>",
+          "isCorrect": true
+        },
+        {
+          "order": null,
+          "text": "",
+          "html": "<div class=\"optionans\"><img style=\"box-sizing: border-box; border: 0px; vertical-align: middle; max-width: 100%; height: 112px; width: 119px;\" src=\"https://testzone.smartkeeda.com/Myfiles/files/O2.png\" alt=\"\" /></div>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": [
+        {
+          "original": "https://testzone.smartkeeda.com/Myfiles/files/q2nw.png",
+          "local": "Paper Folding_figures/q13_1.png"
+        },
+        {
+          "original": "https://testzone.smartkeeda.com/Myfiles/files/a2.png",
+          "local": "Paper Folding_figures/q13_2.png"
+        },
+        {
+          "original": "https://testzone.smartkeeda.com/Myfiles/files/03.png",
+          "local": "Paper Folding_figures/q13_3.png"
+        },
+        {
+          "original": "https://testzone.smartkeeda.com/Myfiles/files/c2.png",
+          "local": "Paper Folding_figures/q13_4.png"
+        },
+        {
+          "original": "https://testzone.smartkeeda.com/Myfiles/files/O2.png",
+          "local": "Paper Folding_figures/q13_5.png"
+        }
+      ]
+    },
+    {
+      "questionNumber": 14,
+      "section": "Quantitative Aptitude",
+      "id": "6104137e14efbd28d4e21153",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "In the question, a piece of paper is folded and cut as shown below in the questions figures. From the given option figure, indicates how it will appear when opened.",
+      "questionHtml": "<p><span style=\"font-weight: bold; color: #222222; font-family: Roboto, sans-serif; text-align: justify; font-size: 14pt;\">In the question, a piece of paper is folded and cut as shown below in the questions figures. From the given option figure, indicates how it will appear when opened.</span><br style=\"color: #222222; font-family: Roboto, sans-serif; text-align: justify;\" /><br style=\"color: #222222; font-family: Roboto, sans-serif; text-align: justify;\" /><span style=\"font-size: 14pt;\"><img style=\"border: 0px; max-width: 100%; height: 116px; color: #222222; font-family: Roboto, sans-serif; text-align: justify; width: 478px;\" src=\"https://testzone.smartkeeda.com/Myfiles/files/43q(2).png\" alt=\"\" /></span></p>",
+      "solutionText": "Correct Option: B",
+      "solutionHtml": "<div><span style=\"font-size: 14pt;\"><label style=\"display: inline-block; max-width: 100%; margin-bottom: 5px;\">Correct Option:&nbsp;</label>B</span></div>\n<p><span style=\"font-size: 14pt;\"><img style=\"border: 0px; max-width: 100%; height: 131px; color: #444444; font-family: Roboto, sans-serif; width: 644px;\" src=\"https://testzone.smartkeeda.com/Myfiles/files/43ans.png\" alt=\"\" /></span></p>",
+      "options": [
+        {
+          "order": null,
+          "text": "",
+          "html": "<div class=\"optionans\"><img style=\"box-sizing: border-box; border: 0px; vertical-align: middle; max-width: 100%; height: 114px; width: 114px;\" src=\"https://testzone.smartkeeda.com/Myfiles/files/43a.png\" alt=\"\" /></div>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "",
+          "html": "<div class=\"optionans\"><img style=\"box-sizing: border-box; border: 0px; vertical-align: middle; max-width: 100%; height: 114px; width: 114px;\" src=\"https://testzone.smartkeeda.com/Myfiles/files/43b.png\" alt=\"\" /></div>",
+          "isCorrect": true
+        },
+        {
+          "order": null,
+          "text": "",
+          "html": "<div class=\"optionans\"><img style=\"box-sizing: border-box; border: 0px; vertical-align: middle; max-width: 100%; height: 114px; width: 114px;\" src=\"https://testzone.smartkeeda.com/Myfiles/files/43c.png\" alt=\"\" /></div>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "",
+          "html": "<div class=\"optionans\"><img style=\"box-sizing: border-box; border: 0px; vertical-align: middle; max-width: 100%; height: 114px; width: 114px;\" src=\"https://testzone.smartkeeda.com/Myfiles/files/43d.png\" alt=\"\" /></div>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": [
+        {
+          "original": "https://testzone.smartkeeda.com/Myfiles/files/43a.png",
+          "local": "Paper Folding_figures/q14_2.png"
+        },
+        {
+          "original": "https://testzone.smartkeeda.com/Myfiles/files/43b.png",
+          "local": "Paper Folding_figures/q14_3.png"
+        },
+        {
+          "original": "https://testzone.smartkeeda.com/Myfiles/files/43c.png",
+          "local": "Paper Folding_figures/q14_4.png"
+        },
+        {
+          "original": "https://testzone.smartkeeda.com/Myfiles/files/43d.png",
+          "local": "Paper Folding_figures/q14_5.png"
+        }
+      ]
+    },
+    {
+      "questionNumber": 15,
+      "section": "Quantitative Aptitude",
+      "id": "6104137e14efbd3c88e21158",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "In the question, a piece of paper is folded and cut as shown below in the questions figures. From the given option figure, indicates how it will appear when opened.",
+      "questionHtml": "<p><span style=\"font-weight: bold; color: #222222; font-family: Roboto, sans-serif; text-align: justify; font-size: 14pt;\">In the question, a piece of paper is folded and cut as shown below in the questions figures. From the given option figure, indicates how it will appear when opened.</span><br style=\"color: #222222; font-family: Roboto, sans-serif; text-align: justify;\" /><br style=\"color: #222222; font-family: Roboto, sans-serif; text-align: justify;\" /><span style=\"font-size: 14pt;\"><img style=\"border: 0px; max-width: 100%; height: 116px; color: #222222; font-family: Roboto, sans-serif; text-align: justify; width: 316px;\" src=\"https://testzone.smartkeeda.com/Myfiles/files/q(2).png\" alt=\"\" /></span></p>",
+      "solutionText": "Correct Option: B",
+      "solutionHtml": "<div><span style=\"font-size: 14pt;\"><label style=\"display: inline-block; max-width: 100%; margin-bottom: 5px;\">Correct Option:&nbsp;</label>B</span></div>\n<p><span style=\"font-size: 14pt;\"><img style=\"border: 0px; max-width: 100%; height: 115px; color: #444444; font-family: Roboto, sans-serif; width: 343px;\" src=\"https://testzone.smartkeeda.com/Myfiles/files/an.png\" alt=\"\" /></span></p>",
+      "options": [
+        {
+          "order": null,
+          "text": "",
+          "html": "<div class=\"optionans\"><img style=\"box-sizing: border-box; border: 0px; vertical-align: middle; max-width: 100%; height: 114px; width: 125px;\" src=\"https://testzone.smartkeeda.com/Myfiles/files/1.png\" alt=\"\" /></div>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "",
+          "html": "<div class=\"optionans\"><img style=\"box-sizing: border-box; border: 0px; vertical-align: middle; max-width: 100%; height: 114px; width: 125px;\" src=\"https://testzone.smartkeeda.com/Myfiles/files/2(1).png\" alt=\"\" /></div>",
+          "isCorrect": true
+        },
+        {
+          "order": null,
+          "text": "",
+          "html": "<div class=\"optionans\"><img style=\"box-sizing: border-box; border: 0px; vertical-align: middle; max-width: 100%; height: 114px; width: 125px;\" src=\"https://testzone.smartkeeda.com/Myfiles/files/4.png\" alt=\"\" /></div>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "",
+          "html": "<div class=\"optionans\"><img style=\"box-sizing: border-box; border: 0px; vertical-align: middle; max-width: 100%; height: 114px; width: 125px;\" src=\"https://testzone.smartkeeda.com/Myfiles/files/3.png\" alt=\"\" /></div>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": [
+        {
+          "original": "https://testzone.smartkeeda.com/Myfiles/files/1.png",
+          "local": "Paper Folding_figures/q15_2.png"
+        },
+        {
+          "original": "https://testzone.smartkeeda.com/Myfiles/files/4.png",
+          "local": "Paper Folding_figures/q15_4.png"
+        },
+        {
+          "original": "https://testzone.smartkeeda.com/Myfiles/files/3.png",
+          "local": "Paper Folding_figures/q15_5.png"
+        }
+      ]
+    }
+  ]
+}

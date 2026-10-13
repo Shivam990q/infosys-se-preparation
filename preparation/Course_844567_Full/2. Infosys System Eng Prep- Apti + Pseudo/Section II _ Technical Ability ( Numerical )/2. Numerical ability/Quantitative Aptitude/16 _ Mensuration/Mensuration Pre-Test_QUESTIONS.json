@@ -1,0 +1,271 @@
+{
+  "testId": "64fc70fcd1b6792144a6550f",
+  "title": "Mensuration Pre-Test",
+  "engine": "Testbook SDK",
+  "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section II : Technical Ability ( Numerical ) / 2. Numerical ability/Quantitative Aptitude / 16 : Mensuration",
+  "totalQuestions": 10,
+  "totalMarks": 40,
+  "durationMinutes": 15.0,
+  "livePortalUrl": "https://testsdk.testbook.com/org-44032-844567/tests/64fc70fcd1b6792144a6550f#auth?page=test&auth=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiI1YjQzMDFmYzdkZTU1NzBjMzFkNTU1NTUiLCJzdWIiOiIxNTkzMDU3NDYiLCJhdWQiOiJDUCIsImV4cEludCI6MTc5MTk1ODYxMiwiaWF0SW50IjoxNzkxODcyMjEyLCJvcmdJZCI6IjViNDMwMWZjN2RlNTU3MGMzMWQ1NTU1NSIsInJvbGVzIjoic3R1ZGVudCIsIm5hbWUiOiJIYWNrV2l0aEluZnlQcmVwIn0.X-d5ypN0CGKkDbb3TZ45ZFCyu_d3-CSa7DYcmaakzwCESuKTXujDJYGydSY9ZyZD4Vze7GyA8nhjCfeFWyYq7XybB8sGKUQ799k1WTcBbGYTpabUUe5_4vYa_qO9dVndFO1MJAg6TUfHG_4QWatDHXpR5_xIevg2cE69GnfPUJUFjE6zW8EY9D6-SzllYfwFoRnxaWSA3jtrT7E1GwXmXjxrQB9ffJCZEX71nxCI_z0TSkOMUbr-T_EGPxXjPx6EXV6O4NmECMa1kQyzmc431w_fO2KTNS0oUa0NQ1iKhzGDGKzzNIQpwjqz4xfXQPkajJCblQs9q-qmvIVtle_Rpw&hideRank=0&isCPTestBookMarkEnabled=true",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "section": "Mensuration Class Test",
+      "id": "64fc712d9127ba4ad2c6f3e4",
+      "type": "numerical",
+      "posMarks": 4,
+      "negMarks": 0,
+      "questionText": "The length, width, and height ratio of a cuboid is 7:5:4 and its entire surface area is 2656 square cm. Find its width ?",
+      "questionHtml": "<p style=\"line-height: 90%; margin-top: 10pt; margin-bottom: 0pt; margin-left: 0in; text-indent: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;\"><span style=\"font-size: 18pt; font-family: Arial; color: black; font-weight: bold;\">The length, width, and height ratio of a cuboid is 7:5:4 and its entire&nbsp; surface&nbsp; area&nbsp; &nbsp;is&nbsp; &nbsp;2656&nbsp; &nbsp;square cm.</span></p>\n<p style=\"line-height: 90%; margin-top: 10pt; margin-bottom: 0pt; margin-left: 0in; text-indent: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;\"></p>\n<p style=\"line-height: 90%; margin-top: 10pt; margin-bottom: 0pt; margin-left: 0in; text-indent: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;\"><span style=\"font-size: 18pt; font-family: Arial; color: black; font-weight: bold;\">Find its </span><span style=\"color: black; font-family: Arial; font-size: 18pt; font-weight: bold; text-indent: 0in;\">width ?&nbsp;</span></p>",
+      "correctOption": "",
+      "options": [
+        {
+          "order": "1",
+          "text": "undefined",
+          "html": "undefined",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 2,
+      "section": "Mensuration Class Test",
+      "id": "64fc712d9127ba3b3fc6f3e6",
+      "type": "numerical",
+      "posMarks": 4,
+      "negMarks": 0,
+      "questionText": "Find the total surface area (in cm 2 ) of a right circular cylinder of diameter 7 cm and height 6 cm.",
+      "questionHtml": "<p><span style=\"font-size: 18pt;\"><span style=\"font-family: Arial; color: black; font-weight: bold;\">Find the total surface area (in cm</span><span style=\"font-family: Arial; color: black; font-weight: bold; vertical-align: super;\">2</span><span style=\"font-family: Arial; color: black; font-weight: bold;\">) of a right circular cylinder of diameter 7 cm and height 6 cm.</span></span></p>",
+      "correctOption": "",
+      "options": [
+        {
+          "order": "1",
+          "text": "undefined",
+          "html": "undefined",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 3,
+      "section": "Mensuration Class Test",
+      "id": "64fc712d9127ba2089c6f3e8",
+      "type": "numerical",
+      "posMarks": 4,
+      "negMarks": 0,
+      "questionText": "The length and breadth ratio of an auditorium is 3: 2. If the roof area is 216 square meters and the area of the four walls is 480 square meters, then what will be the height of the auditorium?",
+      "questionHtml": "<p style=\"line-height: 90%; margin-top: 10pt; margin-bottom: 0pt; margin-left: 0in; text-indent: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;\"><span style=\"font-size: 14pt; font-family: Arial; color: black; font-weight: bold;\">The length and breadth ratio of an auditorium is 3: 2. If the roof area is 216 square meters and the area of the four walls is 480 square</span></p>\n<p style=\"line-height: 90%; margin-top: 10pt; margin-bottom: 0pt; margin-left: 0in; text-indent: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;\"><span style=\"font-size: 14pt; font-family: Arial; color: black; font-weight: bold;\"> meters, then what will be the height of the auditorium?&nbsp;</span></p>",
+      "correctOption": "",
+      "options": [
+        {
+          "order": "1",
+          "text": "undefined",
+          "html": "undefined",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 4,
+      "section": "Mensuration Class Test",
+      "id": "64fc712d9127ba5f6ec6f3ea",
+      "type": "numerical",
+      "posMarks": 4,
+      "negMarks": 0,
+      "questionText": "",
+      "questionHtml": "<p><img src=\"https://cms-cdn.classplus.co/parserImages/73dc0780-20bc-499e-9193-f3466797c2de.png\" alt=\"\" /></p>",
+      "correctOption": "",
+      "options": [
+        {
+          "order": "1",
+          "text": "undefined",
+          "html": "undefined",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": [
+        {
+          "original": "https://cms-cdn.classplus.co/parserImages/73dc0780-20bc-499e-9193-f3466797c2de.png",
+          "local": "Mensuration Pre-Test_figures/q4_1.png"
+        }
+      ]
+    },
+    {
+      "questionNumber": 5,
+      "section": "Mensuration Class Test",
+      "id": "64fc712d9127baf141c6f3ec",
+      "type": "numerical",
+      "posMarks": 4,
+      "negMarks": 0,
+      "questionText": "Three spherical balls of radius 2 cm, 4 cm and 6 cm are melted to form a new spherical ball. In this process there is a loss of 25% of the material. What is the radius (in cm) of the new ball?",
+      "questionHtml": "<p><span style=\"font-size: 14pt; font-family: Arial; color: black; font-weight: bold;\">Three spherical balls of radius 2 cm, 4 cm and 6 cm are melted to form a new spherical ball. In this process there is a loss of 25% of the material. What is the radius (in cm) of the new ball?</span></p>",
+      "correctOption": "",
+      "options": [
+        {
+          "order": "1",
+          "text": "undefined",
+          "html": "undefined",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 6,
+      "section": "Mensuration Class Test",
+      "id": "64fc712d9127baf0edc6f3ee",
+      "type": "numerical",
+      "posMarks": 4,
+      "negMarks": 0,
+      "questionText": "A cylindrical rod of radius 30 cm and length 40 cm is melted and made into spherical balls of radius 1 cm. The number of spherical balls is.",
+      "questionHtml": "<p><span style=\"font-size: 14pt; font-family: Arial; color: black; font-weight: bold;\">A cylindrical rod of radius 30 cm and length 40 cm is melted and made into spherical balls of radius 1 cm. The number of spherical balls is.</span></p>",
+      "correctOption": "",
+      "options": [
+        {
+          "order": "1",
+          "text": "undefined",
+          "html": "undefined",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 7,
+      "section": "Mensuration Class Test",
+      "id": "64fc712d9127baeaf4c6f3f0",
+      "type": "numerical",
+      "posMarks": 4,
+      "negMarks": 0,
+      "questionText": "Find the curved surface area (in cm 2 ) of a hemisphere of diameter 28 cm.",
+      "questionHtml": "<div><span style=\"font-size: 14pt;\"><span style=\"text-indent: 0in; font-family: Arial; color: black; font-weight: bold;\">Find the curved surface area (in cm</span><span style=\"text-indent: 0in; font-family: Arial; color: black; font-weight: bold; vertical-align: super;\">2</span><span style=\"text-indent: 0in; font-family: Arial; color: black; font-weight: bold;\">) of a hemisphere of diameter 28 cm.</span></span></div>",
+      "correctOption": "",
+      "options": [
+        {
+          "order": "1",
+          "text": "undefined",
+          "html": "undefined",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 8,
+      "section": "Mensuration Class Test",
+      "id": "64fc7938d91778f45311b3f2",
+      "type": "mcq",
+      "posMarks": 4,
+      "negMarks": 0,
+      "questionText": "A solid cone of height 24 cm and radius of its base 8 cm is melted to form a solid cylinder of radius 6 cm and height 6 cm. In the whole process what percent of material is wasted?",
+      "questionHtml": "<p><span style=\"font-size: 12pt; font-family: Arial; color: black; font-weight: bold;\">A solid cone of height 24 cm and radius of its base 8 cm is melted to form a solid cylinder of radius 6 cm and height 6 cm. In the whole process what percent of material is wasted?</span></p>",
+      "correctOption": "3",
+      "options": [
+        {
+          "order": "1",
+          "text": "48.5",
+          "html": "<p><span style=\"font-size: 18pt; font-family: Arial; color: black; font-weight: bold;\">48.5</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "37.5",
+          "html": "<p><span style=\"font-size: 20.0pt; font-family: Arial; mso-ascii-font-family: Arial; mso-fareast-font-family: +mn-ea; mso-bidi-font-family: Arial; mso-fareast-theme-font: minor-fareast; color: black; mso-color-index: 1; mso-font-kerning: 12.0pt; language: en-US; font-weight: bold; mso-style-textfill-type: solid; mso-style-textfill-fill-themecolor: text1; mso-style-textfill-fill-color: black; mso-style-textfill-fill-alpha: 100.0%;\">37.5</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "57.8",
+          "html": "<p><span style=\"font-size: 20.0pt; font-family: Arial; mso-ascii-font-family: Arial; mso-fareast-font-family: +mn-ea; mso-bidi-font-family: Arial; mso-fareast-theme-font: minor-fareast; color: black; mso-color-index: 1; mso-font-kerning: 12.0pt; language: en-US; font-weight: bold; mso-style-textfill-type: solid; mso-style-textfill-fill-themecolor: text1; mso-style-textfill-fill-color: black; mso-style-textfill-fill-alpha: 100.0%;\">57.8</span></p>",
+          "isCorrect": true
+        },
+        {
+          "order": "4",
+          "text": "64",
+          "html": "<p><span style=\"font-size: 20.0pt; font-family: Arial; mso-ascii-font-family: Arial; mso-fareast-font-family: +mn-ea; mso-bidi-font-family: Arial; mso-fareast-theme-font: minor-fareast; color: black; mso-color-index: 1; mso-font-kerning: 12.0pt; language: en-US; font-weight: bold; mso-style-textfill-type: solid; mso-style-textfill-fill-themecolor: text1; mso-style-textfill-fill-color: black; mso-style-textfill-fill-alpha: 100.0%;\">64</span></p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 9,
+      "section": "Mensuration Class Test",
+      "id": "64fc7938d91778f25711b3f7",
+      "type": "mcq",
+      "posMarks": 4,
+      "negMarks": 0,
+      "questionText": "The sum of the length, width and height of a cuboid x cm and the length of its diagonal is y cm, then its total surface area will be-",
+      "questionHtml": "<p><span style=\"font-size: 18pt; font-family: Arial; color: black; font-weight: bold;\">The sum of the length, width and height of a cuboid x cm and the length of its diagonal is y cm, then its total surface area will be-</span></p>",
+      "correctOption": "1",
+      "options": [
+        {
+          "order": "1",
+          "text": "x 2 - y 2",
+          "html": "<p><span style=\"font-size: 14pt;\"><span style=\"font-family: Arial; color: black; font-weight: bold;\">x</span><span style=\"font-family: Arial; color: black; font-weight: bold; vertical-align: super;\">2</span><span style=\"font-family: Arial; color: black; font-weight: bold;\"> - y</span><span style=\"font-family: Arial; color: black; font-weight: bold; vertical-align: super;\">2</span><span style=\"font-family: Arial; color: black; font-weight: bold;\">&nbsp; &nbsp; &nbsp; &nbsp;</span></span></p>",
+          "isCorrect": true
+        },
+        {
+          "order": "2",
+          "text": "x 2 + y 2",
+          "html": "<p><span style=\"font-size: 14pt;\"><span style=\"font-family: Arial; color: black; font-weight: bold;\">x</span><span style=\"font-family: Arial; color: black; font-weight: bold; vertical-align: super;\">2</span><span style=\"font-family: Arial; color: black; font-weight: bold;\"> + y</span></span><span style=\"font-size: 28.0pt; font-family: Arial; mso-ascii-font-family: Arial; mso-fareast-font-family: +mn-ea; mso-bidi-font-family: Arial; mso-fareast-theme-font: minor-fareast; color: black; mso-color-index: 1; mso-font-kerning: 12.0pt; language: en-US; font-weight: bold; vertical-align: super; mso-text-raise: 30%; mso-style-textfill-type: solid; mso-style-textfill-fill-themecolor: text1; mso-style-textfill-fill-color: black; mso-style-textfill-fill-alpha: 100.0%;\"><span style=\"font-size: 14pt;\">2</span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "&#120783; &#120784; 1/2 (x 2 - y 2 )",
+          "html": "<p><!-- [if gte msEquation 12]><m:oMath><m:f><m:fPr><span\n   style='font-size:28.0pt;font-family:\"Cambria Math\";mso-ascii-font-family:\n   \"Cambria Math\";mso-fareast-font-family:+mn-ea;mso-bidi-font-family:Arial;\n   mso-fareast-theme-font:minor-fareast;color:black;mso-color-index:1;\n   mso-font-kerning:12.0pt;language:en-US;font-weight:bold;font-style:italic;\n   mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:text1;\n   mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%'><m:ctrlPr></m:ctrlPr></span></m:fPr><m:num><m:r><span\n    style='font-size:28.0pt;font-family:\"Cambria Math\";mso-ascii-font-family:\n    \"Cambria Math\";mso-fareast-font-family:+mn-ea;mso-bidi-font-family:Arial;\n    mso-fareast-theme-font:minor-fareast;color:black;mso-color-index:1;\n    mso-font-kerning:12.0pt;language:en-US;font-weight:bold;font-style:italic;\n    mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:text1;\n    mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%'>&#120783;</span></m:r></m:num><m:den><m:r><span\n    style='font-size:28.0pt;font-family:\"Cambria Math\";mso-ascii-font-family:\n    \"Cambria Math\";mso-fareast-font-family:+mn-ea;mso-bidi-font-family:Arial;\n    mso-fareast-theme-font:minor-fareast;color:black;mso-color-index:1;\n    mso-font-kerning:12.0pt;language:en-US;font-weight:bold;font-style:italic;\n    mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:text1;\n    mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%'>&#120784;</span></m:r></m:den></m:f></m:oMath><![endif]--><!-- [if !msEquation]--><span style=\"font-size: 18pt;\"><span style=\"font-family: 'Cambria Math'; color: black; font-weight: bold;\">1/2</span><!--[endif]--><span style=\"font-family: Arial; color: black; font-weight: bold;\">(x</span><span style=\"font-family: Arial; color: black; font-weight: bold; vertical-align: super;\">2</span><span style=\"font-family: Arial; color: black; font-weight: bold;\"> - y</span><span style=\"font-family: Arial; color: black; font-weight: bold; vertical-align: super;\">2</span><span style=\"font-family: Arial; color: black; font-weight: bold;\">) &nbsp;</span></span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "(x-y) 2",
+          "html": "<p><span style=\"font-size: 14pt;\"><span style=\"font-family: Arial; color: black; font-weight: bold;\">(x-y)</span><span style=\"font-family: Arial; color: black; font-weight: bold; vertical-align: super;\">2</span></span></p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 10,
+      "section": "Mensuration Class Test",
+      "id": "64fc7d296926a3175cda8ced",
+      "type": "mcq",
+      "posMarks": 4,
+      "negMarks": 0,
+      "questionText": "A sphere of diameter 5cm is dropped into a cylindrical vessel partly filled with water. The diameter of the base of the vessel is 10cm . If the sphere is completely submerged, by how much will the level of water rise?",
+      "questionHtml": "<p><span style=\"font-size: 14pt; font-family: Arial; color: black; font-weight: bold;\">A sphere of diameter 5cm is dropped into a cylindrical vessel partly filled with water. The diameter of the base of the vessel is 10cm . If the sphere is completely submerged, by how much will the level of water rise?</span></p>",
+      "correctOption": "4",
+      "options": [
+        {
+          "order": "1",
+          "text": "3/5 cm",
+          "html": "<p><span style=\"font-size: 24.0pt; font-family: Arial; mso-ascii-font-family: Arial; mso-fareast-font-family: +mn-ea; mso-bidi-font-family: Arial; mso-fareast-theme-font: minor-fareast; color: black; mso-color-index: 1; mso-font-kerning: 12.0pt; language: en-US; font-weight: bold; mso-style-textfill-type: solid; mso-style-textfill-fill-themecolor: text1; mso-style-textfill-fill-color: black; mso-style-textfill-fill-alpha: 100.0%;\">3/5 cm</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "5/3 cm",
+          "html": "<p><span style=\"font-size: 24.0pt; font-family: Arial; mso-ascii-font-family: Arial; mso-fareast-font-family: +mn-ea; mso-bidi-font-family: Arial; mso-fareast-theme-font: minor-fareast; color: black; mso-color-index: 1; mso-font-kerning: 12.0pt; language: en-US; font-weight: bold; mso-style-textfill-type: solid; mso-style-textfill-fill-themecolor: text1; mso-style-textfill-fill-color: black; mso-style-textfill-fill-alpha: 100.0%;\">5/3 cm</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "1 cm",
+          "html": "<p><span style=\"font-size: 24.0pt; font-family: Arial; mso-ascii-font-family: Arial; mso-fareast-font-family: +mn-ea; mso-bidi-font-family: Arial; mso-fareast-theme-font: minor-fareast; color: black; mso-color-index: 1; mso-font-kerning: 12.0pt; language: en-US; font-weight: bold; mso-style-textfill-type: solid; mso-style-textfill-fill-themecolor: text1; mso-style-textfill-fill-color: black; mso-style-textfill-fill-alpha: 100.0%;\">1&nbsp; cm</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "5/6 cm",
+          "html": "<p><span style=\"font-size: 24.0pt; font-family: Arial; mso-ascii-font-family: Arial; mso-fareast-font-family: +mn-ea; mso-bidi-font-family: Arial; mso-fareast-theme-font: minor-fareast; color: black; mso-color-index: 1; mso-font-kerning: 12.0pt; language: en-US; font-weight: bold; mso-style-textfill-type: solid; mso-style-textfill-fill-themecolor: text1; mso-style-textfill-fill-color: black; mso-style-textfill-fill-alpha: 100.0%;\">5/6 cm&nbsp;</span></p>",
+          "isCorrect": true
+        }
+      ],
+      "embeddedImages": []
+    }
+  ]
+}

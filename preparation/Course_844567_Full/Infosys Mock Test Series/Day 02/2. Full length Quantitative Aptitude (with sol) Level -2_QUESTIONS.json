@@ -1,0 +1,630 @@
+{
+  "testId": "661cddc9ab9847d60b8df9a0",
+  "title": "2. Full length Quantitative Aptitude (with sol) Level -2",
+  "engine": "Classplus CMS",
+  "folderPath": "Infosys Mock Test Series / Day 02",
+  "totalQuestions": 14,
+  "totalMarks": 0,
+  "durationMinutes": 0,
+  "livePortalUrl": null,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "section": "1.1 Quantitative Mock",
+      "id": "661cdde4ab984735398df9ae",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "In the IT department of backrub, the administrator password is changed every month. The team of administrators, spread across the globe, receive an 8 digit number via email. This number is to be prefixed with a single digit number and suffixed with a single digit number to get the actual password. The password is divisible by 11 and 8. If the team received 65351364 this month, then which of the following pairs give prefix and suffix respectively.",
+      "questionHtml": "<p><span style=\"color: #000000; font-family: Arial, Helvetica, sans-serif; font-size: 12pt;\">In the IT department of backrub, the administrator password is changed every month. The team of administrators, spread across the globe, receive an 8 digit number via email. This number is to be prefixed with a single digit number and suffixed with a single digit number to get the actual password. The password is divisible by 11 and 8. If the team received 65351364 this month, then which of the following pairs give prefix and suffix respectively.</span></p>",
+      "solutionText": "Ans - B",
+      "solutionHtml": "<p>Ans - B</p>\n<p></p>\n<p><iframe title=\"1.1 Quantitative Mock Q1\" src=\"//www.youtube.com/embed/fvw2sCtgvMo\" width=\"659\" height=\"371\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+      "options": [
+        {
+          "order": null,
+          "text": "8, 9",
+          "html": "<p>8, 9</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "7, 8",
+          "html": "<p>7, 8</p>",
+          "isCorrect": true
+        },
+        {
+          "order": null,
+          "text": "3, 4",
+          "html": "<p>3, 4</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "2, 7",
+          "html": "<p>2, 7</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 2,
+      "section": "1.1 Quantitative Mock",
+      "id": "661cdde4ab984728348df9b3",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "In the IT department of backrub, the administrator password is changed every month. The team of administrator, spread across the globe, receive an 8 digits number via email. This number is to be prefixed with a single digit number and suffixed with a single digit number to get the actual password. The password is divisible by 11 and 8. If the team received 54218345 this month. Then which of the following pairs give valid prefix and suffix respectively?",
+      "questionHtml": "<p><span style=\"color: #000000; font-family: hind, sans-serif; font-size: 12pt;\">In the IT department of backrub, the administrator password is changed every month. The team of administrator, spread across the globe, receive an 8 digits number via email. This number is to be prefixed with a single digit number and suffixed with a single digit number to get the actual password. The password is divisible by 11 and 8. If the team received 54218345 this month. Then which of the following pairs give valid prefix and suffix respectively?</span></p>",
+      "solutionText": "Ans - B",
+      "solutionHtml": "<p>Ans - B</p>\n<p></p>\n<p><iframe title=\"1.1 Quantitative Mock Q2\" src=\"//www.youtube.com/embed/LWd6SHZTtpc\" width=\"659\" height=\"371\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+      "options": [
+        {
+          "order": null,
+          "text": "3, 7",
+          "html": "<p>3, 7</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "1, 6",
+          "html": "<p>1, 6</p>",
+          "isCorrect": true
+        },
+        {
+          "order": null,
+          "text": "2, 4",
+          "html": "<p>2, 4</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "4, 2",
+          "html": "<p>4, 2</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 3,
+      "section": "1.1 Quantitative Mock",
+      "id": "661cdde4ab984766cd8df9b8",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "Two ants of length 1 cm and 1.2 cm crawl in opposite directions with average speeds of 2 and 3 mm per second respectively. How many seconds will they take to cross each other?",
+      "questionHtml": "<p><span style=\"color: #000000; font-family: Arial, Helvetica, sans-serif; font-size: 12pt;\">Two ants of length 1 cm and 1.2 cm crawl in opposite directions with average speeds of 2 and 3 mm per second respectively. How many seconds will they take to cross each other?</span></p>",
+      "solutionText": "Ans - D",
+      "solutionHtml": "<p>Ans - D</p>\n<p></p>\n<p><iframe title=\"\" src=\"//www.youtube.com/embed/imBlz0Dt9h0\" width=\"659\" height=\"371\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+      "options": [
+        {
+          "order": null,
+          "text": "0.44 sec",
+          "html": "<p>0.44 sec</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "44 sec",
+          "html": "<p>44 sec</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "6.4 sec",
+          "html": "<p>6.4 sec</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "Not",
+          "html": "<p>Not</p>",
+          "isCorrect": true
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 4,
+      "section": "1.1 Quantitative Mock",
+      "id": "661cdde4ab984792b58df9bd",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "Rs. 3000 is distributed among A, B and C such that A gets 2/3 rd of what B and C together get and C gets 1/2 of what A and B together get. Find B's share.",
+      "questionHtml": "<p><span style=\"color: #000000; font-family: Arial, Helvetica, sans-serif; font-size: 12pt;\">Rs. 3000 is distributed among A, B and C such that A gets 2/3 rd of what B and C together get and C gets 1/2 of what A and B together get. Find B's share.</span></p>",
+      "solutionText": "Ans - A",
+      "solutionHtml": "<p>Ans - A</p>\n<p></p>\n<p><iframe title=\"\" src=\"//www.youtube.com/embed/q1qoS8ZEhX8\" width=\"659\" height=\"371\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+      "options": [
+        {
+          "order": null,
+          "text": "800",
+          "html": "<p>800</p>",
+          "isCorrect": true
+        },
+        {
+          "order": null,
+          "text": "1000",
+          "html": "<p>1000</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "1200",
+          "html": "<p>1200</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "1500",
+          "html": "<p>1500</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "1800",
+          "html": "<p>1800</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 5,
+      "section": "1.1 Quantitative Mock",
+      "id": "661cdde4ab9847de448df9c2",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "A sum of money invested at compound interest amounts of 800 in 3 years and 882 in 5 years.What is the rate of Interest?",
+      "questionHtml": "<p>A sum of money invested at compound interest amounts of 800 in 3 years and 882 in 5 years.<br />What is the rate of Interest?</p>",
+      "solutionText": "Ans - C",
+      "solutionHtml": "<p>Ans - C</p>\n<p></p>\n<p><iframe title=\"1 1 Quantitative Mock Q5\" src=\"//www.youtube.com/embed/yjTjvXJ7kjw\" width=\"659\" height=\"371\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+      "options": [
+        {
+          "order": null,
+          "text": "2.5%",
+          "html": "<p>2.5%</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "4%",
+          "html": "<p>4%</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "5%",
+          "html": "<p>5%</p>",
+          "isCorrect": true
+        },
+        {
+          "order": null,
+          "text": "6.66%",
+          "html": "<p>6.66%</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "Option 5None of these",
+          "html": "<p>Option 5None of these</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 6,
+      "section": "1.1 Quantitative Mock",
+      "id": "661cdde4ab984733998df9c7",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "Two trains are on the same line, 100 miles apart, heading towards each other, each traveling at 20 miles/h. A bee starts flying between the trains when the distance between two trains is 100 km. The bee first flies from first train to second train. Once it reaches the second train, it immediately flies back to the first train ... and so on until trains collide. Calculate the total distance travelled by the bee, if Speed of bee is 40 miles/h",
+      "questionHtml": "<p><span style=\"font-size: 12pt;\"><span style=\"color: #000000; font-family: Arial, Helvetica, sans-serif;\">Two trains are on the same line, 100 miles apart, heading towards each other, each traveling at 20 miles/h. A bee starts flying between the trains when the distance between two trains is 100 km. The bee first flies from first train to second train. Once it reaches the second train, it immediately flies back to the first train ... and so on until trains collide. Calculate the total distance travelled by the bee, if Speed of bee is 40 miles/h</span></span></p>",
+      "solutionText": "Ans - A",
+      "solutionHtml": "<p>Ans - A</p>\n<p></p>\n<p><iframe title=\"\" src=\"//www.youtube.com/embed/CJN7hGo81bo\" width=\"659\" height=\"371\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+      "options": [
+        {
+          "order": null,
+          "text": "100",
+          "html": "<p>100</p>",
+          "isCorrect": true
+        },
+        {
+          "order": null,
+          "text": "150",
+          "html": "<p>150</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "170",
+          "html": "<p>170</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "200",
+          "html": "<p>200</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 7,
+      "section": "1.1 Quantitative Mock",
+      "id": "661cdde4ab984722448df9cc",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "The mark price of an article is Rs. 300.After allowing a discount 15% on the marked price, the shopkeeper makes a gain of Rs.15.What is the gain percentage?",
+      "questionHtml": "<p><span style=\"color: #000000; font-family: Arial, Helvetica, sans-serif; font-size: 12pt;\">The mark price of an article is Rs. 300.After allowing a discount 15% on the marked price, the shopkeeper makes a gain of Rs.15.What is the gain percentage?</span></p>",
+      "solutionText": "Ans - D",
+      "solutionHtml": "<p>Ans - D</p>\n<p></p>\n<p><iframe title=\"\" src=\"//www.youtube.com/embed/HB-kXbgEr8g\" width=\"659\" height=\"371\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+      "options": [
+        {
+          "order": null,
+          "text": "16(1/4)",
+          "html": "<p>16(1/4)</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "7(1/4)",
+          "html": "<p>7<span style=\"font-family: var(--font-family);\">(1/4)</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "16(2/3)",
+          "html": "<p>16(2/3)</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "NOT",
+          "html": "<p>NOT</p>",
+          "isCorrect": true
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 8,
+      "section": "1.1 Quantitative Mock",
+      "id": "661cdde4ab9847c5cd8df9d1",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "Quantity 1: Speed of boat in still water, if a man can travel 54 km downstream in 9 hours and 40 km upstream in 10 hours. Quantity II: Speed of boat in still water, if a man can travel 45 km downstream in 9 hours and the speed of stream is 1 kmph.",
+      "questionHtml": "<p><span style=\"color: #000000; font-family: Arial, Helvetica, sans-serif; font-size: 12pt;\">Quantity 1: Speed of boat in still water, if a man can travel 54 km downstream in 9 hours and 40 km upstream in 10 hours. Quantity II: Speed of boat in still water, if a man can travel 45 km downstream in 9 hours and the speed of stream is 1 kmph.</span></p>",
+      "solutionText": "Ans - C",
+      "solutionHtml": "<p>Ans - C</p>\n<p></p>\n<p><iframe title=\"1 1 Quantitative Mock Q8\" src=\"//www.youtube.com/embed/6Un-9mkFJtc\" width=\"659\" height=\"371\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+      "options": [
+        {
+          "order": null,
+          "text": "",
+          "html": "<p><img src=\"https://cms-cdn.classplus.co/parserImages/5a88a341-a3fa-445c-aff9-bce0c9d5d17a.png\" alt=\"\" /></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "",
+          "html": "<p><img src=\"https://cms-cdn.classplus.co/parserImages/1aa60e5f-c8e1-4014-b3ba-2d3067807250.png\" alt=\"\" /></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "",
+          "html": "<p><img src=\"https://cms-cdn.classplus.co/parserImages/a22dc5cf-a7ca-49b5-a970-2b430794716f.png\" alt=\"\" /></p>",
+          "isCorrect": true
+        },
+        {
+          "order": null,
+          "text": "",
+          "html": "<p><img src=\"https://cms-cdn.classplus.co/parserImages/2ca3ca4f-7309-41c7-9349-a02d2d938101.png\" alt=\"\" /></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "",
+          "html": "<p><img src=\"https://cms-cdn.classplus.co/parserImages/7046867e-538f-4da2-aa55-43f50023d521.png\" alt=\"\" /></p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": [
+        {
+          "original": "https://cms-cdn.classplus.co/parserImages/5a88a341-a3fa-445c-aff9-bce0c9d5d17a.png",
+          "local": "2. Full length Quantitative Aptitude (with sol) Level -2_figures/q8_1.png"
+        },
+        {
+          "original": "https://cms-cdn.classplus.co/parserImages/1aa60e5f-c8e1-4014-b3ba-2d3067807250.png",
+          "local": "2. Full length Quantitative Aptitude (with sol) Level -2_figures/q8_2.png"
+        },
+        {
+          "original": "https://cms-cdn.classplus.co/parserImages/a22dc5cf-a7ca-49b5-a970-2b430794716f.png",
+          "local": "2. Full length Quantitative Aptitude (with sol) Level -2_figures/q8_3.png"
+        },
+        {
+          "original": "https://cms-cdn.classplus.co/parserImages/2ca3ca4f-7309-41c7-9349-a02d2d938101.png",
+          "local": "2. Full length Quantitative Aptitude (with sol) Level -2_figures/q8_4.png"
+        },
+        {
+          "original": "https://cms-cdn.classplus.co/parserImages/7046867e-538f-4da2-aa55-43f50023d521.png",
+          "local": "2. Full length Quantitative Aptitude (with sol) Level -2_figures/q8_5.png"
+        }
+      ]
+    },
+    {
+      "questionNumber": 9,
+      "section": "1.1 Quantitative Mock",
+      "id": "661cdde4ab984781e18df9d6",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "In an envelope there are 5 green, 3 yellow and 4 pink tablets. 3 tablets are picked at random.Quantity I: The probability that 2 tablets are yellow in colour and 1 tablet is pink in colour.Quantity II: The probability that all the tablets are green in colour.",
+      "questionHtml": "<p><span style=\"color: #000000; font-family: Arial, Helvetica, sans-serif; font-size: 12pt;\">In an envelope there are 5 green, 3 yellow and 4 pink tablets. 3 tablets are picked at random.</span><br style=\"outline: 0px; transition: all 0.3s ease 0s; color: #000000; font-family: Arial, Helvetica, sans-serif;\" /><span style=\"color: #000000; font-family: Arial, Helvetica, sans-serif; font-size: 12pt;\">Quantity I: The probability that 2 tablets are yellow in colour and 1 tablet is pink in colour.</span><br style=\"outline: 0px; transition: all 0.3s ease 0s; color: #000000; font-family: Arial, Helvetica, sans-serif;\" /><span style=\"color: #000000; font-family: Arial, Helvetica, sans-serif; font-size: 12pt;\">Quantity II: The probability that all the tablets are green in colour.</span></p>",
+      "solutionText": "Ans - A",
+      "solutionHtml": "<p>Ans - A</p>\n<p></p>\n<p><iframe title=\"1 1 Quantitative Mock Q9\" src=\"//www.youtube.com/embed/OymCzxUBta4\" width=\"659\" height=\"371\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+      "options": [
+        {
+          "order": null,
+          "text": "",
+          "html": "<p><img src=\"https://cms-cdn.classplus.co/parserImages/0e325022-1345-464f-9caf-0cf6bd9710c7.png\" alt=\"\" /></p>",
+          "isCorrect": true
+        },
+        {
+          "order": null,
+          "text": "",
+          "html": "<p><img src=\"https://cms-cdn.classplus.co/parserImages/75c9585b-9ba9-4398-b725-6ac81be5b646.png\" alt=\"\" /></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "",
+          "html": "<p><img src=\"https://cms-cdn.classplus.co/parserImages/487a031d-6415-47c2-8d8a-1e2835dfc871.png\" alt=\"\" /></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "",
+          "html": "<p><img src=\"https://cms-cdn.classplus.co/parserImages/33e44449-a920-4b3b-907b-d9ca0c111a71.png\" alt=\"\" /></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "",
+          "html": "<p><img src=\"https://cms-cdn.classplus.co/parserImages/694fef39-a4ac-4f7c-a194-eebb7f84eec2.png\" alt=\"\" /></p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": [
+        {
+          "original": "https://cms-cdn.classplus.co/parserImages/0e325022-1345-464f-9caf-0cf6bd9710c7.png",
+          "local": "2. Full length Quantitative Aptitude (with sol) Level -2_figures/q9_1.png"
+        },
+        {
+          "original": "https://cms-cdn.classplus.co/parserImages/75c9585b-9ba9-4398-b725-6ac81be5b646.png",
+          "local": "2. Full length Quantitative Aptitude (with sol) Level -2_figures/q9_2.png"
+        },
+        {
+          "original": "https://cms-cdn.classplus.co/parserImages/487a031d-6415-47c2-8d8a-1e2835dfc871.png",
+          "local": "2. Full length Quantitative Aptitude (with sol) Level -2_figures/q9_3.png"
+        },
+        {
+          "original": "https://cms-cdn.classplus.co/parserImages/33e44449-a920-4b3b-907b-d9ca0c111a71.png",
+          "local": "2. Full length Quantitative Aptitude (with sol) Level -2_figures/q9_4.png"
+        },
+        {
+          "original": "https://cms-cdn.classplus.co/parserImages/694fef39-a4ac-4f7c-a194-eebb7f84eec2.png",
+          "local": "2. Full length Quantitative Aptitude (with sol) Level -2_figures/q9_5.png"
+        }
+      ]
+    },
+    {
+      "questionNumber": 10,
+      "section": "1.1 Quantitative Mock",
+      "id": "661cdde4ab9847abb68df9db",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "Sum of CP's of two cows is Rs. 39, 000. Both the cows are sold at a profit of 20% and 40% respectively with their SP's being the same. What is the difference of CP's of both the cows?",
+      "questionHtml": "<p><span style=\"color: #000000; font-family: Arial, Helvetica, sans-serif; font-size: 14pt;\">Sum of CP's of two cows is Rs. 39, 000. Both the cows are sold at a profit of 20% and 40% respectively with their SP's being the same. What is the difference of CP's of both the cows?</span></p>",
+      "solutionText": "Ans - A",
+      "solutionHtml": "<p>Ans - A</p>\n<p></p>\n<p><iframe title=\"1 1 Quantitative Mock Q10\" src=\"//www.youtube.com/embed/Br1A27-PNEs\" width=\"659\" height=\"371\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+      "options": [
+        {
+          "order": null,
+          "text": "Rs. 3,000",
+          "html": "<p>Rs. 3,000</p>",
+          "isCorrect": true
+        },
+        {
+          "order": null,
+          "text": "Rs. 2,000",
+          "html": "<p>Rs. 2,000</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "Rs. 1,500",
+          "html": "<p>Rs. 1,500</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "Rs. 2,500",
+          "html": "<p>Rs. 2,500</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "None of these",
+          "html": "<p>None of these</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 11,
+      "section": "1.1 Quantitative Mock",
+      "id": "661cdde4ab984733608df9e0",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "If the sum of five consecutive is S, then the largest of, those integers in term of S is:",
+      "questionHtml": "<p>If the sum of five consecutive is S, then the largest of, those integers in term of S is:</p>",
+      "solutionText": "Ans - D",
+      "solutionHtml": "<p>Ans - D</p>\n<p></p>\n<p><iframe title=\"1 1 Quantitative Mock Q11\" src=\"//www.youtube.com/embed/_HeFHlIoQI0\" width=\"659\" height=\"371\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+      "options": [
+        {
+          "order": null,
+          "text": "(S-10)/4",
+          "html": "<p>(S-10)/4</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "(S+4)/4",
+          "html": "<p>(S+4)/4</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "(S+5)/4",
+          "html": "<p>(S+5)/4</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "(S+10)/5",
+          "html": "<p>(S+10)/5</p>",
+          "isCorrect": true
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 12,
+      "section": "1.1 Quantitative Mock",
+      "id": "661cdde4ab98478a528df9e5",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "A person can complete a job in 120 days. He works alone on Day 1. On Day 2, he is joined by another person who also can complete the job in exactly 120 days. On Day 3, they are joined by another person of equal efficiency. Like this, everyday a new person with the same efficiency joins the work. How many days are required to complete the job?",
+      "questionHtml": "<p><span style=\"color: #000000; font-family: Arial, Helvetica, sans-serif; font-size: 12pt;\">A person can complete a job in 120 days. He works alone on Day 1. On Day 2, he is joined by another person who also can complete the job in exactly 120 days. On Day 3, they are joined by another person of equal efficiency. Like this, everyday a new person with the same efficiency joins the work. How many days are required to complete the job?</span></p>",
+      "solutionText": "Ans - B",
+      "solutionHtml": "<p>Ans - B</p>\n<p></p>\n<p><iframe title=\"1 1 Quantitative Mock Q12\" src=\"//www.youtube.com/embed/v65MQbbNzVc\" width=\"659\" height=\"371\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+      "options": [
+        {
+          "order": null,
+          "text": "20",
+          "html": "<p>20</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "15",
+          "html": "<p>15</p>",
+          "isCorrect": true
+        },
+        {
+          "order": null,
+          "text": "25",
+          "html": "<p>25</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "NOT",
+          "html": "<p>NOT</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 13,
+      "section": "1.1 Quantitative Mock",
+      "id": "661cdde4ab98472a7b8df9ea",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "A container contains 40 liters of milk. From this container 4 liters of milk was taken out and replaced by water. This process was repeated further two times. How much milk Is now contained by the container?",
+      "questionHtml": "<p><span style=\"color: #000000; font-family: Arial, Helvetica, sans-serif; font-size: 12pt;\">A container contains 40 liters of milk. From this container 4 liters of milk was taken out and replaced by water. This process was repeated further two times. How much milk Is now contained by the container?</span></p>",
+      "solutionText": "Ans - B",
+      "solutionHtml": "<p>Ans - B</p>\n<p></p>\n<p><iframe title=\"\" src=\"//www.youtube.com/embed/So_YhvJtUfs\" width=\"659\" height=\"371\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+      "options": [
+        {
+          "order": null,
+          "text": "26.34 liters",
+          "html": "<p>26.34 liters</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "29.16 liters",
+          "html": "<p>29.16&nbsp;<span style=\"font-family: var(--font-family);\">liters</span></p>",
+          "isCorrect": true
+        },
+        {
+          "order": null,
+          "text": "28.34 liters",
+          "html": "<p>28.34&nbsp;<span style=\"font-family: var(--font-family);\">liters</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "29.18 liters",
+          "html": "<p>29.18&nbsp;<span style=\"font-family: var(--font-family);\">liters</span></p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 14,
+      "section": "1.1 Quantitative Mock",
+      "id": "661cdde4ab9847590f8df9ef",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "The Ghaziabad-Hapur-Meerut EMU and the Meerut-Hapur- Ghaziabad EMU start at the same time from Ghaziabad and Meerut and proceed towards each other at 16 km/hr and 21 km/hr, respectively. When they meet, it is found that one train has travelled 60 km more than the other. The distance between two stations is:",
+      "questionHtml": "<p><span style=\"color: #000000; font-family: Arial, Helvetica, sans-serif; font-size: 12pt;\">The Ghaziabad-Hapur-Meerut EMU and the Meerut-Hapur- Ghaziabad EMU start at the same time from Ghaziabad and Meerut and proceed towards each other at 16 km/hr and 21 km/hr, respectively. When they meet, it is found that one train </span><span style=\"color: #000000; font-family: Arial, Helvetica, sans-serif; font-size: 12pt;\">has travelled 60 km more than the other. The distance between </span><span style=\"color: #000000; font-family: Arial, Helvetica, sans-serif; font-size: 12pt;\">two stations is:</span></p>",
+      "solutionText": "Ans - B",
+      "solutionHtml": "<p>Ans - B</p>\n<p></p>\n<p><iframe title=\"1 1 Quantitative Mock Q14\" src=\"//www.youtube.com/embed/RKLkArEZz0Y\" width=\"659\" height=\"371\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+      "options": [
+        {
+          "order": null,
+          "text": "445 km",
+          "html": "<p>445 km</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "444 km",
+          "html": "<p>444 km</p>",
+          "isCorrect": true
+        },
+        {
+          "order": null,
+          "text": "440 km",
+          "html": "<p>440 km</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "450 km",
+          "html": "<p>450 km</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    }
+  ]
+}

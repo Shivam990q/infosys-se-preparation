@@ -1,0 +1,715 @@
+{
+  "testId": "6623588dfdf938f3140b1ded",
+  "title": "Numerical Ability- All India 2024",
+  "engine": "Testbook SDK",
+  "folderPath": "Infosys Mock Test Series / Day 01",
+  "totalQuestions": 20,
+  "totalMarks": 29,
+  "durationMinutes": 25.0,
+  "livePortalUrl": "https://testsdk.testbook.com/org-44032-844567/tests/6623588dfdf938f3140b1ded#auth?page=test&auth=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiI1YjQzMDFmYzdkZTU1NzBjMzFkNTU1NTUiLCJzdWIiOiIxNTkzMDU3NDYiLCJhdWQiOiJDUCIsImV4cEludCI6MTc5MTk1ODYxMywiaWF0SW50IjoxNzkxODcyMjEzLCJvcmdJZCI6IjViNDMwMWZjN2RlNTU3MGMzMWQ1NTU1NSIsInJvbGVzIjoic3R1ZGVudCIsIm5hbWUiOiJIYWNrV2l0aEluZnlQcmVwIn0.dv7ZiOj084dQMJrlCPbktbT75UEi-f5wPKPgCS83hpb_9xPoh0sztk2fP2Hgzs-CWuY3AIAYgnPsil7qidAG6OWNRWEfBOI8sI2yi3OVrmusUD1hLBIN58X47LHJPzoXWJhM8Z7kOK2inSG4juP7a6SQ_TZj9iU-u8FpsxAm9fE6vwA2gfXAly8u8aCxfwE5O7BUpuYHTAVo6d0_KqO7b6rleMCV7dq0-UXYGer0Sj4mf_Yp_mkfs3XBE3SkUGwE0lT0_MTBpI5AbJwYLrbhAJQP0rJQK976Ua_AxSm0swnnTyd6_NsJvCVnQWI2a7S6O8iOb9bd2NzN8M5UXVjaHg&hideRank=0&isCPTestBookMarkEnabled=true",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "section": "Numeriacal ability",
+      "id": "662358e5f22609119b7d5b23",
+      "type": "numerical",
+      "posMarks": 2,
+      "negMarks": 0,
+      "questionText": "720 litres of a mixture contain milk and water only in the ratio of x : 3 respectively. If 30 litres water is added into it, then the ratio of quantity of milk to that of water in the resultant mixture will become 3:2. Find the value of",
+      "questionHtml": "<p class=\"MsoNormal\"><span style=\"font-size: 12.0pt; line-height: 107%;\">720 litres of a mixture contain milk and water only in the ratio of x : 3</span><span style=\"font-size: 12.0pt; line-height: 107%;\">&nbsp;respectively. If 30 litres water is added into it, then the ratio of quantity of milk to that of water in the resultant mixture will become 3:2. Find the value of&nbsp; </span><img style=\"font-family: var(--font-family);\" src=\"https://cms-cdn.classplus.co/parserImages/3523d3b6-6344-4496-a553-54aa2b649eff.png\" alt=\"\" /><span style=\"font-size: 12pt; font-family: var(--font-family);\">&nbsp;</span></p>\n<p class=\"MsoNormal\"><o:p></o:p></p>",
+      "correctOption": "",
+      "options": [
+        {
+          "order": "1",
+          "text": "10",
+          "html": "10",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": [
+        {
+          "original": "https://cms-cdn.classplus.co/parserImages/3523d3b6-6344-4496-a553-54aa2b649eff.png",
+          "local": "1. Full Length Numerical Ability with Video Solution- Level -Medium_figures/q1_1.png"
+        }
+      ]
+    },
+    {
+      "questionNumber": 2,
+      "section": "Numeriacal ability",
+      "id": "662358e5f22609a6d37d5b25",
+      "type": "numerical",
+      "posMarks": 2,
+      "negMarks": 0,
+      "questionText": "A contractor agreed to construct a 6 km road in 200 days. He employed 140 persons for the work. After 60 days, he realized that only 1.5 km road has been completed. How many additional people would he need to employ to finish the work exactly on time?",
+      "questionHtml": "<p class=\"MsoNormal\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 107%; mso-ansi-language: EN-US;\">A contractor agreed to construct a 6 km road in 200 days. He employed 140 persons for the work. After 60 days, he realized that only 1.5 km road has been completed. How many additional people would he need to employ to finish the work exactly on time?</span><o:p></o:p></p>",
+      "correctOption": "",
+      "options": [
+        {
+          "order": "1",
+          "text": "40",
+          "html": "40",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 3,
+      "section": "Numeriacal ability",
+      "id": "662358e5f22609059a7d5b27",
+      "type": "numerical",
+      "posMarks": 2,
+      "negMarks": 0,
+      "questionText": "A sum of Rs. 45500 is to be paid back in 3 equal annual installments. How much is each installment if the interest is compounded annually at 20% per annum ?",
+      "questionHtml": "<p class=\"MsoNormal\"><span style=\"font-size: 14.0pt; line-height: 107%;\">A sum of Rs. 45500 is to be paid back in 3 equal annual installments. How much is each installment if the interest is compounded annually at 20% per annum ?<o:p></o:p></span></p>",
+      "correctOption": "",
+      "options": [
+        {
+          "order": "1",
+          "text": "21600",
+          "html": "21600",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 4,
+      "section": "Numeriacal ability",
+      "id": "662358e5f22609c1ae7d5b29",
+      "type": "numerical",
+      "posMarks": 2,
+      "negMarks": 0,
+      "questionText": "Note : Type ans in Min Only without unit",
+      "questionHtml": "<p><img src=\"https://cms-cdn.classplus.co/parserImages/cae13fe7-5de9-4090-8cea-c6035da5c519.png\" alt=\"\" /></p>\n<p>Note : Type ans in Min Only without unit&nbsp;</p>",
+      "correctOption": "",
+      "options": [
+        {
+          "order": "1",
+          "text": "72",
+          "html": "72",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": [
+        {
+          "original": "https://cms-cdn.classplus.co/parserImages/cae13fe7-5de9-4090-8cea-c6035da5c519.png",
+          "local": "1. Full Length Numerical Ability with Video Solution- Level -Medium_figures/q4_1.png"
+        }
+      ]
+    },
+    {
+      "questionNumber": 5,
+      "section": "Numeriacal ability",
+      "id": "662358e5f226090a267d5b2b",
+      "type": "numerical",
+      "posMarks": 2,
+      "negMarks": 0,
+      "questionText": "Note : Ans in days",
+      "questionHtml": "<p><img src=\"https://cms-cdn.classplus.co/parserImages/7283bbad-dd9f-46ed-8892-09946c1d75b6.png\" alt=\"\" /></p>\n<p>Note : Ans in days&nbsp;</p>",
+      "correctOption": "",
+      "options": [
+        {
+          "order": "1",
+          "text": "6",
+          "html": "6",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": [
+        {
+          "original": "https://cms-cdn.classplus.co/parserImages/7283bbad-dd9f-46ed-8892-09946c1d75b6.png",
+          "local": "1. Full Length Numerical Ability with Video Solution- Level -Medium_figures/q5_1.png"
+        }
+      ]
+    },
+    {
+      "questionNumber": 6,
+      "section": "Numeriacal ability",
+      "id": "662358e5f226094ffd7d5b2d",
+      "type": "numerical",
+      "posMarks": 2,
+      "negMarks": 0,
+      "questionText": "If a 10-digit number= 5432y1749x is divisible by 72, then what is the value of (5x-4y)?",
+      "questionHtml": "<p class=\"MsoNormal\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 107%; mso-ansi-language: EN-US;\">If a 10-digit number=&nbsp; </span><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 107%; mso-ansi-language: EN-US;\"><strong>5432y1749x&nbsp;</strong> &nbsp;</span></p>\n<p class=\"MsoNormal\"></p>\n<p class=\"MsoNormal\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 107%; mso-ansi-language: EN-US;\">is divisible by 72, then what is the value of (5x-4y)?</span><o:p></o:p></p>",
+      "correctOption": "",
+      "options": [
+        {
+          "order": "1",
+          "text": "14",
+          "html": "14",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 7,
+      "section": "Numeriacal ability",
+      "id": "662358e5f226093cd27d5b2f",
+      "type": "numerical",
+      "posMarks": 2,
+      "negMarks": 0,
+      "questionText": "",
+      "questionHtml": "<p><img src=\"https://cms-cdn.classplus.co/parserImages/ceda189c-851c-4ba1-b105-7ebcb2eef667.png\" alt=\"\" /></p>",
+      "correctOption": "",
+      "options": [
+        {
+          "order": "1",
+          "text": "240000",
+          "html": "240000",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": [
+        {
+          "original": "https://cms-cdn.classplus.co/parserImages/ceda189c-851c-4ba1-b105-7ebcb2eef667.png",
+          "local": "1. Full Length Numerical Ability with Video Solution- Level -Medium_figures/q7_1.png"
+        }
+      ]
+    },
+    {
+      "questionNumber": 8,
+      "section": "Numeriacal ability",
+      "id": "662358e5f226095e187d5b31",
+      "type": "numerical",
+      "posMarks": 2,
+      "negMarks": 0,
+      "questionText": "If x is the mean of the first 8 positive integers multiple of 9 and Y is the Median for the same , then find the value of 5X-3Y.",
+      "questionHtml": "<div><span style=\"font-size: 14pt; font-family: var(--font-family);\">If x is the mean of the first 8 positive integers multiple of 9 and Y is the Median for the same , then find the value of 5X-3Y.</span></div>",
+      "correctOption": "",
+      "options": [
+        {
+          "order": "1",
+          "text": "81",
+          "html": "81",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 9,
+      "section": "Numeriacal ability",
+      "id": "662358e5f226093ad47d5b33",
+      "type": "numerical",
+      "posMarks": 2,
+      "negMarks": 0,
+      "questionText": "",
+      "questionHtml": "<p><img src=\"https://cms-cdn.classplus.co/parserImages/2b443d87-6adb-4751-a08c-039b790918ce.png\" alt=\"\" /></p>",
+      "correctOption": "",
+      "options": [
+        {
+          "order": "1",
+          "text": "45000",
+          "html": "45000",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": [
+        {
+          "original": "https://cms-cdn.classplus.co/parserImages/2b443d87-6adb-4751-a08c-039b790918ce.png",
+          "local": "1. Full Length Numerical Ability with Video Solution- Level -Medium_figures/q9_1.png"
+        }
+      ]
+    },
+    {
+      "questionNumber": 10,
+      "section": "Numeriacal ability",
+      "id": "66236036666d6212cbc0a55c",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "X and Y enter into a business partnership with capital in the ratio 3:5. After 5 months, X adds 50% of his capital, while Y withdraws 60% of his capital. What is the share ( in Rs lakhs) of X in the annual profit of Rs 10.26 lakhs?",
+      "questionHtml": "<p><span style=\"font-size: 14pt; font-family: var(--font-family);\">X and Y enter into a business partnership with capital in the ratio 3:5. After 5 months, X adds 50% of his capital, while Y withdraws 60% of his capital. What is the share ( in Rs lakhs) of X in the annual profit of Rs 10.26 lakhs?</span></p>",
+      "correctOption": "3",
+      "options": [
+        {
+          "order": "1",
+          "text": "5.89",
+          "html": "<p class=\"MsoNormal\" style=\"margin-left: 36.0pt; text-indent: -18.0pt; mso-list: l0 level1 lfo1; tab-stops: list 36.0pt;\"><!-- [if !supportLists]--><span style=\"font-size: 14.0pt; line-height: 107%;\">5.89<o:p></o:p></span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "4.56",
+          "html": "<p class=\"MsoNormal\" style=\"margin-left: 36.0pt; text-indent: -18.0pt; mso-list: l0 level1 lfo1; tab-stops: list 36.0pt;\"><span style=\"font-size: 14.0pt; line-height: 107%; mso-bidi-font-family: Aptos; mso-bidi-theme-font: minor-latin;\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';\">&nbsp; </span></span><!--[endif]--><span style=\"font-size: 14.0pt; line-height: 107%;\">4.56<o:p></o:p></span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "5.58",
+          "html": "<p class=\"MsoNormal\" style=\"margin-left: 36.0pt; text-indent: -18.0pt; mso-list: l0 level1 lfo1; tab-stops: list 36.0pt;\"><!-- [if !supportLists]--><span style=\"font-size: 14.0pt; line-height: 107%;\">5.58<o:p></o:p></span></p>",
+          "isCorrect": true
+        },
+        {
+          "order": "4",
+          "text": "6.24",
+          "html": "<p class=\"MsoNormal\" style=\"margin-left: 36.0pt; text-indent: -18.0pt; mso-list: l0 level1 lfo1; tab-stops: list 36.0pt;\"><span style=\"font-size: 14.0pt; line-height: 107%; mso-bidi-font-family: Aptos; mso-bidi-theme-font: minor-latin;\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';\">&nbsp;</span></span><!--[endif]--><span style=\"font-size: 14.0pt; line-height: 107%;\">6.24<o:p></o:p></span></p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 11,
+      "section": "Numeriacal ability",
+      "id": "66236036666d624286c0a561",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "",
+      "questionHtml": "<p><img src=\"https://cms-cdn.classplus.co/parserImages/4e5e779b-a17b-4e15-87e7-d2adb948660e.png\" alt=\"\" /></p>",
+      "correctOption": "2",
+      "options": [
+        {
+          "order": "1",
+          "text": "",
+          "html": "<p><img style=\"font-family: var(--font-family);\" src=\"https://cms-cdn.classplus.co/parserImages/bb87cb7b-73f5-42ab-bfd0-485f3e4a7e9c.png\" alt=\"\" /></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "",
+          "html": "<p><img src=\"https://cms-cdn.classplus.co/parserImages/c355a313-649c-4394-957a-ab3c8c1a8019.png\" alt=\"\" /></p>",
+          "isCorrect": true
+        },
+        {
+          "order": "3",
+          "text": "",
+          "html": "<p><img src=\"https://cms-cdn.classplus.co/parserImages/1020480b-8af1-498a-b9a4-5aa04e2405d4.png\" alt=\"\" /></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "",
+          "html": "<p><img src=\"https://cms-cdn.classplus.co/parserImages/9d3e8570-0dcd-4930-a743-9beff6b064df.png\" alt=\"\" /></p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": [
+        {
+          "original": "https://cms-cdn.classplus.co/parserImages/4e5e779b-a17b-4e15-87e7-d2adb948660e.png",
+          "local": "1. Full Length Numerical Ability with Video Solution- Level -Medium_figures/q11_1.png"
+        },
+        {
+          "original": "https://cms-cdn.classplus.co/parserImages/bb87cb7b-73f5-42ab-bfd0-485f3e4a7e9c.png",
+          "local": "1. Full Length Numerical Ability with Video Solution- Level -Medium_figures/q11_2.png"
+        },
+        {
+          "original": "https://cms-cdn.classplus.co/parserImages/c355a313-649c-4394-957a-ab3c8c1a8019.png",
+          "local": "1. Full Length Numerical Ability with Video Solution- Level -Medium_figures/q11_3.png"
+        },
+        {
+          "original": "https://cms-cdn.classplus.co/parserImages/1020480b-8af1-498a-b9a4-5aa04e2405d4.png",
+          "local": "1. Full Length Numerical Ability with Video Solution- Level -Medium_figures/q11_4.png"
+        },
+        {
+          "original": "https://cms-cdn.classplus.co/parserImages/9d3e8570-0dcd-4930-a743-9beff6b064df.png",
+          "local": "1. Full Length Numerical Ability with Video Solution- Level -Medium_figures/q11_5.png"
+        }
+      ]
+    },
+    {
+      "questionNumber": 12,
+      "section": "Numeriacal ability",
+      "id": "66236036666d620113c0a566",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "",
+      "questionHtml": "<p><img src=\"https://cms-cdn.classplus.co/parserImages/9afa2345-28bc-4067-b266-f3241d31c6ba.png\" alt=\"\" /></p>",
+      "correctOption": "1",
+      "options": [
+        {
+          "order": "1",
+          "text": "",
+          "html": "<p><img src=\"https://cms-cdn.classplus.co/parserImages/a371fb15-214f-4ee2-a2d6-0b52ce976f9a.png\" alt=\"\" /></p>",
+          "isCorrect": true
+        },
+        {
+          "order": "2",
+          "text": "",
+          "html": "<p><img src=\"https://cms-cdn.classplus.co/parserImages/b3bdc09a-190f-4fe6-b745-95468f0c733e.png\" alt=\"\" /></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "",
+          "html": "<p><img src=\"https://cms-cdn.classplus.co/parserImages/52e67b65-3c17-4b59-b363-b66ea97fd5b9.png\" alt=\"\" /></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "",
+          "html": "<p><img src=\"https://cms-cdn.classplus.co/parserImages/4ea73fe7-261d-4f27-92d4-d9caf48e3687.png\" alt=\"\" /></p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": [
+        {
+          "original": "https://cms-cdn.classplus.co/parserImages/9afa2345-28bc-4067-b266-f3241d31c6ba.png",
+          "local": "1. Full Length Numerical Ability with Video Solution- Level -Medium_figures/q12_1.png"
+        },
+        {
+          "original": "https://cms-cdn.classplus.co/parserImages/a371fb15-214f-4ee2-a2d6-0b52ce976f9a.png",
+          "local": "1. Full Length Numerical Ability with Video Solution- Level -Medium_figures/q12_2.png"
+        },
+        {
+          "original": "https://cms-cdn.classplus.co/parserImages/b3bdc09a-190f-4fe6-b745-95468f0c733e.png",
+          "local": "1. Full Length Numerical Ability with Video Solution- Level -Medium_figures/q12_3.png"
+        },
+        {
+          "original": "https://cms-cdn.classplus.co/parserImages/52e67b65-3c17-4b59-b363-b66ea97fd5b9.png",
+          "local": "1. Full Length Numerical Ability with Video Solution- Level -Medium_figures/q12_4.png"
+        },
+        {
+          "original": "https://cms-cdn.classplus.co/parserImages/4ea73fe7-261d-4f27-92d4-d9caf48e3687.png",
+          "local": "1. Full Length Numerical Ability with Video Solution- Level -Medium_figures/q12_5.png"
+        }
+      ]
+    },
+    {
+      "questionNumber": 13,
+      "section": "Numeriacal ability",
+      "id": "66236036666d62bbc8c0a56b",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "",
+      "questionHtml": "<p><img src=\"https://cms-cdn.classplus.co/parserImages/8220941e-61f3-444b-b818-31a3ce54f0c5.png\" alt=\"\" /></p>",
+      "correctOption": "3",
+      "options": [
+        {
+          "order": "1",
+          "text": "35km/hr",
+          "html": "<p class=\"MsoNormal\" style=\"margin-left: 36.0pt; text-indent: -18.0pt; mso-list: l0 level1 lfo1; tab-stops: list 36.0pt;\"><span style=\"font-size: 14.0pt; line-height: 107%; mso-bidi-font-family: Aptos; mso-bidi-theme-font: minor-latin;\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';\">&nbsp; &nbsp;</span></span><!--[endif]--><span style=\"font-size: 14.0pt; line-height: 107%;\">35km/hr<o:p></o:p></span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "40km/hr",
+          "html": "<p class=\"MsoNormal\" style=\"margin-left: 36.0pt; text-indent: -18.0pt; mso-list: l0 level1 lfo1; tab-stops: list 36.0pt;\"><span style=\"font-size: 14.0pt; line-height: 107%; mso-bidi-font-family: Aptos; mso-bidi-theme-font: minor-latin;\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';\">&nbsp; &nbsp;</span></span><!--[endif]--><span style=\"font-size: 14.0pt; line-height: 107%;\">40km/hr<o:p></o:p></span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "37.5km/hr",
+          "html": "<p class=\"MsoNormal\" style=\"margin-left: 36.0pt; text-indent: -18.0pt; mso-list: l0 level1 lfo1; tab-stops: list 36.0pt;\"><!-- [if !supportLists]--><span style=\"font-size: 14.0pt; line-height: 107%;\">37.5km/hr<o:p></o:p></span></p>",
+          "isCorrect": true
+        },
+        {
+          "order": "4",
+          "text": "45 km/hr",
+          "html": "<p class=\"MsoNormal\" style=\"margin-left: 36.0pt; text-indent: -18.0pt; mso-list: l0 level1 lfo1; tab-stops: list 36.0pt;\"><!-- [if !supportLists]--><span style=\"font-size: 14.0pt; line-height: 107%;\">45 km/hr<o:p></o:p></span></p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": [
+        {
+          "original": "https://cms-cdn.classplus.co/parserImages/8220941e-61f3-444b-b818-31a3ce54f0c5.png",
+          "local": "1. Full Length Numerical Ability with Video Solution- Level -Medium_figures/q13_1.png"
+        }
+      ]
+    },
+    {
+      "questionNumber": 14,
+      "section": "Numeriacal ability",
+      "id": "66236036666d620524c0a570",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "",
+      "questionHtml": "<p><img src=\"https://cms-cdn.classplus.co/parserImages/eadcf3ab-978d-437c-b0e3-c5bbfd140368.png\" alt=\"\" /></p>",
+      "correctOption": "1",
+      "options": [
+        {
+          "order": "1",
+          "text": "4,5,9",
+          "html": "<p><span style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Aptos',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Aptos; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">4,5,9</span></p>",
+          "isCorrect": true
+        },
+        {
+          "order": "2",
+          "text": "3,7,8",
+          "html": "<p><span style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Aptos',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Aptos; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">3,7,8</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "3,6,9",
+          "html": "<p><span style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Aptos',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Aptos; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">3,6,9</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "4,7,7",
+          "html": "<p><span style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Aptos',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Aptos; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">4,7,7</span></p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": [
+        {
+          "original": "https://cms-cdn.classplus.co/parserImages/eadcf3ab-978d-437c-b0e3-c5bbfd140368.png",
+          "local": "1. Full Length Numerical Ability with Video Solution- Level -Medium_figures/q14_1.png"
+        }
+      ]
+    },
+    {
+      "questionNumber": 15,
+      "section": "Numeriacal ability",
+      "id": "66236036666d625995c0a575",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "A shopkeeper earns a profit of 20% by selling an article by giving 25% discount on its marked price. If the cost price of the article increases by 10%, then how much discount percent should he give now on the same marked price to earn the same percentage of profit as earlier?",
+      "questionHtml": "<p class=\"MsoNormal\"><span style=\"font-size: 14.0pt; line-height: 107%;\">A shopkeeper earns a profit of 20% by selling an article by giving 25% discount on its marked price. If the cost price of the article increases by 10%, then how much discount percent should he give now on the same marked price to earn the same percentage of profit as earlier?<o:p></o:p></span></p>",
+      "correctOption": "1",
+      "options": [
+        {
+          "order": "1",
+          "text": "17.5%",
+          "html": "<p class=\"MsoNormal\" style=\"margin-left: 36.0pt; text-indent: -18.0pt; mso-list: l0 level1 lfo1; tab-stops: list 36.0pt;\"><!-- [if !supportLists]--><span style=\"font-size: 14.0pt; line-height: 107%;\">17.5%<o:p></o:p></span></p>",
+          "isCorrect": true
+        },
+        {
+          "order": "2",
+          "text": "16.5%",
+          "html": "<p class=\"MsoNormal\" style=\"margin-left: 36.0pt; text-indent: -18.0pt; mso-list: l0 level1 lfo1; tab-stops: list 36.0pt;\"><!-- [if !supportLists]--><span style=\"font-size: 14.0pt; line-height: 107%;\">16.5%&nbsp;<o:p></o:p></span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "18%",
+          "html": "<p class=\"MsoNormal\" style=\"margin-left: 36.0pt; text-indent: -18.0pt; mso-list: l0 level1 lfo1; tab-stops: list 36.0pt;\"><!-- [if !supportLists]--><span style=\"font-size: 14.0pt; line-height: 107%;\">18%<o:p></o:p></span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "15%",
+          "html": "<p class=\"MsoNormal\" style=\"margin-left: 36.0pt; text-indent: -18.0pt; mso-list: l0 level1 lfo1; tab-stops: list 36.0pt;\"><!-- [if !supportLists]--><span style=\"font-size: 14.0pt; line-height: 107%;\">15%<o:p></o:p></span></p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 16,
+      "section": "Numeriacal ability",
+      "id": "66236036666d628190c0a57a",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "In the given questions, two quantities are given, one as 'Quantity 1' and another as 'Quantity 2'. You have to determine relationship between two quantities and choose the appropriate option: Question: One of the roots is 1, find the other root",
+      "questionHtml": "<p class=\"MsoNormal\"><span style=\"font-size: 14.0pt; line-height: 107%;\">In the given questions, two quantities are given, one as 'Quantity 1' and another as 'Quantity 2'. You have to determine relationship between two quantities and choose the appropriate option:<o:p></o:p></span></p>\n<p></p>\n<p class=\"MsoNormal\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 107%; mso-ansi-language: EN-US;\">Question: </span><span style=\"font-size: 14.0pt; line-height: 107%;\">One of the roots is 1, find the other root<o:p></o:p></span></p>\n<p class=\"MsoNormal\"></p>\n<p class=\"MsoNormal\"><span style=\"font-size: 14.0pt; line-height: 107%;\"><img src=\"https://cms-cdn.classplus.co/parserImages/b6035be8-4355-44a7-8d89-8b9f9df668da.png\" alt=\"\" /></span></p>\n<p class=\"MsoNormal\"></p>",
+      "correctOption": "3",
+      "options": [
+        {
+          "order": "1",
+          "text": "Quantity 1 > Quantity 2",
+          "html": "<p><span style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Aptos',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Aptos; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">Quantity 1 &gt; Quantity 2</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "Quantity 1 &ge; Quantity 2",
+          "html": "<p><span style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Aptos',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Aptos; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">Quantity 1 &ge; Quantity 2</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "Quantity 2 > Quantity 1",
+          "html": "<p><span style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Aptos',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Aptos; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">Quantity 2 &gt; Quantity 1</span></p>",
+          "isCorrect": true
+        },
+        {
+          "order": "4",
+          "text": "Quantity 2 &ge; Quantity 1",
+          "html": "<p><span style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Aptos',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Aptos; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">Quantity 2 &ge; Quantity 1</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "5",
+          "text": "Quantity 1 = Quantity 2 or Relation cannot be established",
+          "html": "<p class=\"MsoNormal\"><span style=\"font-size: 14.0pt; line-height: 107%;\">Quantity 1 = Quantity 2 or Relation cannot be established<o:p></o:p></span></p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": [
+        {
+          "original": "https://cms-cdn.classplus.co/parserImages/b6035be8-4355-44a7-8d89-8b9f9df668da.png",
+          "local": "1. Full Length Numerical Ability with Video Solution- Level -Medium_figures/q16_1.png"
+        }
+      ]
+    },
+    {
+      "questionNumber": 17,
+      "section": "Numeriacal ability",
+      "id": "66236036666d62e990c0a584",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "In a river, the ratio of the speed of stream and speed of a boat A in still water is 2 : 5. Again, in the same river ratio of the speed of stream and speed of another boat B in still water is 3 : 4. What is the ratio of the speeds of the first boat to the second boat in still water ?",
+      "questionHtml": "<p class=\"MsoNormal\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 107%; mso-ansi-language: EN-US;\">In a river, the ratio of the speed of stream and speed of a boat A in still water is 2 : 5. Again, in the same river ratio of the speed of stream and speed of another boat B in still water is 3 : 4. What is the ratio of the speeds of the first boat to the second boat in still water ?&nbsp;</span><o:p></o:p></p>",
+      "correctOption": "2",
+      "options": [
+        {
+          "order": "1",
+          "text": "10 : 7",
+          "html": "<p class=\"MsoNormal\" style=\"margin-left: 36.0pt; text-indent: -18.0pt; mso-list: l0 level1 lfo1; tab-stops: list 36.0pt;\"><!-- [if !supportLists]--><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 107%; mso-ansi-language: EN-US;\">10 : 7</span><o:p></o:p></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "15 : 8",
+          "html": "<p class=\"MsoNormal\" style=\"margin-left: 36.0pt; text-indent: -18.0pt; mso-list: l0 level1 lfo1; tab-stops: list 36.0pt;\"><!-- [if !supportLists]--><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 107%; mso-ansi-language: EN-US;\">15 : 8</span><o:p></o:p></p>",
+          "isCorrect": true
+        },
+        {
+          "order": "3",
+          "text": "4 : 3",
+          "html": "<p><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Aptos',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Aptos; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">&nbsp; &nbsp; &nbsp; 4 : 3&nbsp;</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "5 : 4",
+          "html": "<p class=\"MsoNormal\" style=\"margin-left: 36.0pt; text-indent: -18.0pt; mso-list: l0 level1 lfo1; tab-stops: list 36.0pt;\"><!-- [if !supportLists]--><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 107%; mso-ansi-language: EN-US;\">5 : 4&nbsp;</span><o:p></o:p></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "5",
+          "text": "7 : 11",
+          "html": "<p class=\"MsoNormal\" style=\"margin-left: 36.0pt; text-indent: -18.0pt; mso-list: l0 level1 lfo1; tab-stops: list 36.0pt;\"><!-- [if !supportLists]--><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 107%; mso-ansi-language: EN-US;\">7 : 11</span><o:p></o:p></p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 18,
+      "section": "Numeriacal ability",
+      "id": "66236036666d6250f6c0a589",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "Find the area of blue portion.",
+      "questionHtml": "<p><span style=\"font-size: 14pt; font-family: var(--font-family);\">Find the area of blue portion.</span></p>\n<p><img style=\"font-family: var(--font-family);\" src=\"https://cms-cdn.classplus.co/parserImages/6f0ed2b8-04ed-407d-bfd7-4afb1617aa80.png\" alt=\"\" /></p>",
+      "correctOption": "4",
+      "options": [
+        {
+          "order": "1",
+          "text": "52",
+          "html": "<p>52</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "62",
+          "html": "<p>62</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "72",
+          "html": "<p>72</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "None of these",
+          "html": "<p>None of these</p>",
+          "isCorrect": true
+        }
+      ],
+      "embeddedImages": [
+        {
+          "original": "https://cms-cdn.classplus.co/parserImages/6f0ed2b8-04ed-407d-bfd7-4afb1617aa80.png",
+          "local": "1. Full Length Numerical Ability with Video Solution- Level -Medium_figures/q18_1.png"
+        }
+      ]
+    },
+    {
+      "questionNumber": 19,
+      "section": "Numeriacal ability",
+      "id": "66237658fdf938d6750b40e4",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "In the given questions, two quantities are given, one as 'Quantity 1' and another as 'Quantity 2'. You have to determine relationship between two quantities and choose the appropriate option: Question: Two dices are rolled simultaneously. Quantity 1: Probability that the sum of the numbers that appeared is a multiple of 5. Quantity 2: 1/6",
+      "questionHtml": "<p class=\"MsoNormal\"><span style=\"font-size: 14.0pt; line-height: 107%;\">In the given questions, two quantities are given, one as 'Quantity 1' and another as 'Quantity 2'. You have to determine relationship between two quantities and choose the appropriate option:<o:p></o:p></span></p>\n<p></p>\n<p class=\"MsoNormal\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 107%; mso-ansi-language: EN-US;\">Question:</span><span style=\"font-size: 14pt; font-family: var(--font-family);\">Two dices are rolled simultaneously.</span></p>\n<p class=\"MsoNormal\"><o:p></o:p></p>\n<p class=\"MsoNormal\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 107%; mso-ansi-language: EN-US;\">Quantity 1: Probability that the sum of</span> <span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 107%; mso-ansi-language: EN-US;\">the numbers that appeared is a multiple of 5.</span><o:p></o:p></p>\n<p class=\"MsoNormal\"></p>\n<p class=\"MsoNormal\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 107%; mso-ansi-language: EN-US;\">Quantity 2: 1/6</span><o:p></o:p></p>\n<p class=\"MsoNormal\"></p>",
+      "correctOption": "1",
+      "options": [
+        {
+          "order": "1",
+          "text": "Quantity 1 > Quantity 2",
+          "html": "<p><span style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Aptos',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Aptos; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">Quantity 1 &gt; Quantity 2</span></p>",
+          "isCorrect": true
+        },
+        {
+          "order": "2",
+          "text": "Quantity 1 &ge; Quantity 2",
+          "html": "<p><span style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Aptos',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Aptos; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">Quantity 1 &ge; Quantity 2</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "Quantity 2 > Quantity 1",
+          "html": "<p><span style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Aptos',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Aptos; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">Quantity 2 &gt; Quantity 1</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "Quantity 2 &ge; Quantity 1",
+          "html": "<p><span style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Aptos',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Aptos; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">Quantity 2 &ge; Quantity 1</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "5",
+          "text": "Quantity 1 = Quantity 2 or Relation cannot be established",
+          "html": "<p class=\"MsoNormal\"><span style=\"font-size: 14.0pt; line-height: 107%;\">Quantity 1 = Quantity 2 or Relation cannot be established<o:p></o:p></span></p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 20,
+      "section": "Numeriacal ability",
+      "id": "662378c744093175badc3817",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "What is the mean of the mode and median of the data given below? 8, 7, 5, 4, 9, 1, 3, 7, 6, 5, 2, 1, 6, 3, 9, 8, 4, 6",
+      "questionHtml": "<p class=\"MsoNormal\"><span style=\"font-size: 14.0pt; line-height: 107%;\">What is the mean of the mode and median of the data given below?<o:p></o:p></span></p>\n<p></p>\n<p class=\"MsoNormal\"><strong><span style=\"font-size: 14.0pt; line-height: 107%;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;8, 7, 5, 4, 9, 1, 3, 7, 6, 5, 2, 1, 6, 3, 9, 8, 4, 6<o:p></o:p></span></strong></p>",
+      "correctOption": "4",
+      "options": [
+        {
+          "order": "1",
+          "text": "6.5",
+          "html": "<p class=\"MsoNormal\" style=\"margin-left: 36.0pt; text-indent: -18.0pt; mso-list: l0 level1 lfo1; tab-stops: list 36.0pt;\"><!-- [if !supportLists]--><span style=\"font-size: 14.0pt; line-height: 107%;\">6.5<o:p></o:p></span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "6.25",
+          "html": "<p class=\"MsoNormal\" style=\"margin-left: 36.0pt; text-indent: -18.0pt; mso-list: l0 level1 lfo1; tab-stops: list 36.0pt;\"><!-- [if !supportLists]--><span style=\"font-size: 14.0pt; line-height: 107%;\">6.25<o:p></o:p></span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "5.5",
+          "html": "<p class=\"MsoNormal\" style=\"margin-left: 36.0pt; text-indent: -18.0pt; mso-list: l0 level1 lfo1; tab-stops: list 36.0pt;\"><!-- [if !supportLists]--><span style=\"font-size: 14.0pt; line-height: 107%;\">5.5<o:p></o:p></span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "5.75",
+          "html": "<p><span style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Aptos',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Aptos; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">&nbsp; &nbsp; &nbsp; 5.75</span></p>",
+          "isCorrect": true
+        }
+      ],
+      "embeddedImages": []
+    }
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "totalTests": 15,
+  "totalQuestions": 240,
+  "totalImages": 59,
+  "tests": [
+    {
+      "id": 29489347,
+      "name": "DISTANCE AND DIRECTION TEST 02",
+      "testId": "60e8260fc1ad68a7e5c772f4",
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section I : Logical Reasoning & Puzzle / 2 : Distance and Direction / Topic Test",
+      "totalQuestions": 15,
+      "totalImages": 0,
+      "jsonFile": "Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section I _ Logical Reasoning & Puzzle/2 _ Distance and Direction/Topic Test/DISTANCE AND DIRECTION TEST 02_QUESTIONS.json",
+      "mdFile": "Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section I _ Logical Reasoning & Puzzle/2 _ Distance and Direction/Topic Test/DISTANCE AND DIRECTION TEST 02_PAPER.md"
+    },
+    {
+      "id": 29489348,
+      "name": "DISTANCE AND DIRECTION TEST",
+      "testId": "60e885e28446f7828bcfe940",
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section I : Logical Reasoning & Puzzle / 2 : Distance and Direction / Topic Test",
+      "totalQuestions": 10,
+      "totalImages": 0,
+      "jsonFile": "Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section I _ Logical Reasoning & Puzzle/2 _ Distance and Direction/Topic Test/DISTANCE AND DIRECTION TEST_QUESTIONS.json",
+      "mdFile": "Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section I _ Logical Reasoning & Puzzle/2 _ Distance and Direction/Topic Test/DISTANCE AND DIRECTION TEST_PAPER.md"
+    },
+    {
+      "id": 29489346,
+      "name": "Coding decoding",
+      "testId": "60a00ce5e686351684dfe5e0",
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section I : Logical Reasoning & Puzzle / 1 : Alphabet Related Topics / 2. Topic Test",
+      "totalQuestions": 20,
+      "totalImages": 0,
+      "jsonFile": "Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section I _ Logical Reasoning & Puzzle/1 _ Alphabet Related Topics/2. Topic Test/Coding decoding_QUESTIONS.json",
+      "mdFile": "Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section I _ Logical Reasoning & Puzzle/1 _ Alphabet Related Topics/2. Topic Test/Coding decoding_PAPER.md"
+    },
+    {
+      "id": 29489360,
+      "name": "BLOOD RELATION TEST 01",
+      "testId": "60f45f6bea19c89029edbfbe",
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section I : Logical Reasoning & Puzzle / 4 :  Blood Relation / Topic Mock Test",
+      "totalQuestions": 15,
+      "totalImages": 0,
+      "jsonFile": "Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section I _ Logical Reasoning & Puzzle/4 _ Blood Relation/Topic Mock Test/BLOOD RELATION TEST 01_QUESTIONS.json",
+      "mdFile": "Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section I _ Logical Reasoning & Puzzle/4 _ Blood Relation/Topic Mock Test/BLOOD RELATION TEST 01_PAPER.md"
+    },
+    {
+      "id": 29489380,
+      "name": "syllogisms 01",
+      "testId": "60f439c48ac508dab6e7741e",
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section I : Logical Reasoning & Puzzle / 8 : Critical Reasoning & Syllogism / Syllogism / Topic Tests",
+      "totalQuestions": 15,
+      "totalImages": 0,
+      "jsonFile": "Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section I _ Logical Reasoning & Puzzle/8 _ Critical Reasoning & Syllogism/Syllogism/Topic Tests/syllogisms 01_QUESTIONS.json",
+      "mdFile": "Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section I _ Logical Reasoning & Puzzle/8 _ Critical Reasoning & Syllogism/Syllogism/Topic Tests/syllogisms 01_PAPER.md"
+    },
+    {
+      "id": 29489381,
+      "name": "syllogisms Test 02",
+      "testId": "60f3df488598c66a756e6dd0",
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section I : Logical Reasoning & Puzzle / 8 : Critical Reasoning & Syllogism / Syllogism / Topic Tests",
+      "totalQuestions": 15,
+      "totalImages": 0,
+      "jsonFile": "Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section I _ Logical Reasoning & Puzzle/8 _ Critical Reasoning & Syllogism/Syllogism/Topic Tests/syllogisms Test 02_QUESTIONS.json",
+      "mdFile": "Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section I _ Logical Reasoning & Puzzle/8 _ Critical Reasoning & Syllogism/Syllogism/Topic Tests/syllogisms Test 02_PAPER.md"
+    },
+    {
+      "id": 29489382,
+      "name": "Syllogisms 03",
+      "testId": "60a79aab08f54f46507a9342",
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section I : Logical Reasoning & Puzzle / 8 : Critical Reasoning & Syllogism / Syllogism / Topic Tests",
+      "totalQuestions": 15,
+      "totalImages": 0,
+      "jsonFile": "Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section I _ Logical Reasoning & Puzzle/8 _ Critical Reasoning & Syllogism/Syllogism/Topic Tests/Syllogisms 03_QUESTIONS.json",
+      "mdFile": "Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section I _ Logical Reasoning & Puzzle/8 _ Critical Reasoning & Syllogism/Syllogism/Topic Tests/Syllogisms 03_PAPER.md"
+    },
+    {
+      "id": 29489377,
+      "name": "Number Puzzles",
+      "testId": "610555647963926f09cb7551",
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section I : Logical Reasoning & Puzzle / Module 11 :  Dice Mirror Image Water",
+      "totalQuestions": 15,
+      "totalImages": 0,
+      "jsonFile": "Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section I _ Logical Reasoning & Puzzle/Module 11 _ Dice Mirror Image Water/Number Puzzles_QUESTIONS.json",
+      "mdFile": "Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section I _ Logical Reasoning & Puzzle/Module 11 _ Dice Mirror Image Water/Number Puzzles_PAPER.md"
+    },
+    {
+      "id": 29489378,
+      "name": "Water Image",
+      "testId": "6101632992692942ca583208",
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section I : Logical Reasoning & Puzzle / Module 11 :  Dice Mirror Image Water",
+      "totalQuestions": 15,
+      "totalImages": 0,
+      "jsonFile": "Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section I _ Logical Reasoning & Puzzle/Module 11 _ Dice Mirror Image Water/Water Image_QUESTIONS.json",
+      "mdFile": "Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section I _ Logical Reasoning & Puzzle/Module 11 _ Dice Mirror Image Water/Water Image_PAPER.md"
+    },
+    {
+      "id": 29489379,
+      "name": "Mirror Imge",
+      "testId": "6102aec2f0c848a1e9b21993",
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section I : Logical Reasoning & Puzzle / Module 11 :  Dice Mirror Image Water",
+      "totalQuestions": 15,
+      "totalImages": 0,
+      "jsonFile": "Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section I _ Logical Reasoning & Puzzle/Module 11 _ Dice Mirror Image Water/Mirror Imge_QUESTIONS.json",
+      "mdFile": "Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section I _ Logical Reasoning & Puzzle/Module 11 _ Dice Mirror Image Water/Mirror Imge_PAPER.md"
+    },
+    {
+      "id": 29489387,
+      "name": "Paper Folding",
+      "testId": "61041347bf8d8d37113616d7",
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section I : Logical Reasoning & Puzzle / Module 11 :  Dice Mirror Image Water / Paper Folding / Topic Test",
+      "totalQuestions": 15,
+      "totalImages": 0,
+      "jsonFile": "Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section I _ Logical Reasoning & Puzzle/Module 11 _ Dice Mirror Image Water/Paper Folding/Topic Test/Paper Folding_QUESTIONS.json",
+      "mdFile": "Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section I _ Logical Reasoning & Puzzle/Module 11 _ Dice Mirror Image Water/Paper Folding/Topic Test/Paper Folding_PAPER.md"
+    },
+    {
+      "id": 29489383,
+      "name": "Partnership",
+      "testId": "60fea572ebdad408d2b263a4",
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section II : Technical Ability ( Numerical ) / 2. Numerical ability/Quantitative Aptitude / 8 Partnership & Average / 1 Partnership",
+      "totalQuestions": 15,
+      "totalImages": 0,
+      "jsonFile": "Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section II _ Technical Ability ( Numerical )/2. Numerical ability/Quantitative Aptitude/8 Partnership & Average/1 Partnership/Partnership_QUESTIONS.json",
+      "mdFile": "Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section II _ Technical Ability ( Numerical )/2. Numerical ability/Quantitative Aptitude/8 Partnership & Average/1 Partnership/Partnership_PAPER.md"
+    },
+    {
+      "id": 29489364,
+      "name": "ENGLISH SESSION",
+      "testId": "60cf75ee2f06567f2589ae7b",
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section IV & V : English & Grammar / Module 3: Reading Comprehension",
+      "totalQuestions": 30,
+      "totalImages": 0,
+      "jsonFile": "Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section IV & V _ English & Grammar/Module 3_ Reading Comprehension/ENGLISH SESSION_QUESTIONS.json",
+      "mdFile": "Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section IV & V _ English & Grammar/Module 3_ Reading Comprehension/ENGLISH SESSION_PAPER.md"
+    },
+    {
+      "id": 29489365,
+      "name": "VERBAL ABILITY _RC 02",
+      "testId": "60f69f82e70c56d176070c38",
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section IV & V : English & Grammar / Module 3: Reading Comprehension",
+      "totalQuestions": 15,
+      "totalImages": 0,
+      "jsonFile": "Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section IV & V _ English & Grammar/Module 3_ Reading Comprehension/VERBAL ABILITY _RC 02_QUESTIONS.json",
+      "mdFile": "Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section IV & V _ English & Grammar/Module 3_ Reading Comprehension/VERBAL ABILITY _RC 02_PAPER.md"
+    },
+    {
+      "id": 29489366,
+      "name": "VERBAL ABILITY_RC 01",
+      "testId": "60f5b2429adb1a6c700ec604",
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section IV & V : English & Grammar / Module 3: Reading Comprehension",
+      "totalQuestions": 15,
+      "totalImages": 0,
+      "jsonFile": "Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section IV & V _ English & Grammar/Module 3_ Reading Comprehension/VERBAL ABILITY_RC 01_QUESTIONS.json",
+      "mdFile": "Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section IV & V _ English & Grammar/Module 3_ Reading Comprehension/VERBAL ABILITY_RC 01_PAPER.md"
+    }
+  ]
+}

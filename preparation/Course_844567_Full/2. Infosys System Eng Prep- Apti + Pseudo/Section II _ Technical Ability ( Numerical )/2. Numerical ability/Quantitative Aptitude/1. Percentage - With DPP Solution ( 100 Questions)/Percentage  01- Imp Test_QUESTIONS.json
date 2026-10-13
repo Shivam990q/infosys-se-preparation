@@ -1,0 +1,498 @@
+{
+  "testId": "685d05498a723898125bb6ef",
+  "title": "Percentage  01- Imp Test",
+  "engine": "Testbook SDK",
+  "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section II : Technical Ability ( Numerical ) / 2. Numerical ability/Quantitative Aptitude / 1. Percentage - With DPP Solution ( 100 Questions)",
+  "totalQuestions": 15,
+  "totalMarks": 20,
+  "durationMinutes": 20.0,
+  "livePortalUrl": "https://testsdk.testbook.com/org-44032-844567/tests/685d05498a723898125bb6ef#auth?page=test&auth=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiI1YjQzMDFmYzdkZTU1NzBjMzFkNTU1NTUiLCJzdWIiOiIxNTkzMDU3NDYiLCJhdWQiOiJDUCIsImV4cEludCI6MTc5MTk1ODYxNSwiaWF0SW50IjoxNzkxODcyMjE1LCJvcmdJZCI6IjViNDMwMWZjN2RlNTU3MGMzMWQ1NTU1NSIsInJvbGVzIjoic3R1ZGVudCIsIm5hbWUiOiJIYWNrV2l0aEluZnlQcmVwIn0.LhiJHYlmxDDTPk39OY7uvZFXr4waGqfdunbVK7pVYY5o6KbFUHdXdqs0QoZP6h2e5_uAzgYH1ttT8gYowb098XylsFEnqBNVCgOh5gqAtF9OjrRCFmV24RqtzPl8aA4LZJ663hPwIgl95ZvQMdiJvVzBM8eWW7-0qPHibiDKoqQQ-EVWNyDRnmag4Z7n5fNwLyN5CdZ50BZ4a3s4U59V0_IvIv2fOEMJKXo2qGF2LkVwvNA8HYoN0hSaMBEqw2CRA-61gfjvvOx51yAzla-mOY7fCk9hu0OCd_TSeO-kTApI8d0hBnCmotzC1oqZfVi_2CJ8zmIiQEg5wW0MQHIZ3g&hideRank=0&isCPTestBookMarkEnabled=true",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "section": "Percenatge - Assessment -01 - Imp",
+      "id": "685d05b1cdf80c669140544b",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "A spend 25% of his monthly salary on household and 20% of the remaining salary spend on rent. A spend remaining salary on travelling and food in the ratio of 2:3 respectively. Difference between amounts spend on food and household is Rs.1540, then find the monthly expenditure of A.",
+      "questionHtml": "<p class=\"MsoNormal\" style=\"margin: 0cm 0cm 8pt; line-height: 22px; font-size: 11pt; font-family: Aptos, sans-serif; color: #000000;\"><span style=\"font-size: 14pt;\">A spend 25% of his monthly salary on household and 20% of the remaining salary spend on rent. A spend remaining salary on travelling and food in the ratio of 2:3 respectively. Difference between amounts spend on food and household is Rs.1540, then find the monthly expenditure of A.</span><o:p></o:p></p>",
+      "correctOption": "4",
+      "options": [
+        {
+          "order": "1",
+          "text": "18000",
+          "html": "<p>18000</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "15600",
+          "html": "<p>15600</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "12100",
+          "html": "<p>12100</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "14000",
+          "html": "<p>14000</p>",
+          "isCorrect": true
+        },
+        {
+          "order": "5",
+          "text": "9050",
+          "html": "<p>9050</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 2,
+      "section": "Percenatge - Assessment -01 - Imp",
+      "id": "685d05b1cdf80c5eb7405450",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "A candidate scoring 25% in an examination fails by 30 marks , while another candidate scores 50 % mark, gets 20 marks more than the minimum pass marks . Find the minimum pass percentage.",
+      "questionHtml": "<p><span style=\"font-size: 14pt;\"><span style=\"line-height: 17.12px; font-family: 'inherit', serif; color: #333333;\">A candidate scoring 25% in an examination fails by 30 marks , while another candidate scores 50 % mark, gets 20 marks more than the minimum pass marks . Find the minimum pass percentage.&nbsp;</span></span></p>",
+      "correctOption": "4",
+      "options": [
+        {
+          "order": "1",
+          "text": "42",
+          "html": "<p>42</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "55",
+          "html": "<p>55</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "33",
+          "html": "<p>33</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "40",
+          "html": "<p>40</p>",
+          "isCorrect": true
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 3,
+      "section": "Percenatge - Assessment -01 - Imp",
+      "id": "685d05b1cdf80ca2de405455",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "The population of a town is 6000. If males are Increased by 5% and female are increased by 9%. Then population will become 6500 after 1 year. Find the number of males and females?",
+      "questionHtml": "<p><span style=\"font-size: 14pt; line-height: 17.12px; font-family: 'Nunito Sans'; color: #252525; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">The population of a town is 6000. If males are Increased by 5% and female are increased by 9%. Then population will become 6500 after 1 year. Find the number of males and females?</span></p>",
+      "correctOption": "1",
+      "options": [
+        {
+          "order": "1",
+          "text": "M = 1000 F = 5000",
+          "html": "<p class=\"MsoListParagraph\" style=\"margin: 0cm 0cm 8pt 36pt; line-height: 15.6933px; font-size: 11pt; font-family: Aptos, sans-serif; color: #000000; text-indent: -18pt;\"><span style=\"font-size: 12pt; line-height: 17.12px; font-family: 'Nunito Sans'; color: #252525; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">M = 1000 F = 5000<o:p></o:p></span></p>",
+          "isCorrect": true
+        },
+        {
+          "order": "2",
+          "text": "M = 5000 F = 1000",
+          "html": "<p class=\"MsoListParagraph\" style=\"margin: 0cm 0cm 8pt 36pt; line-height: 15.6933px; font-size: 11pt; font-family: Aptos, sans-serif; color: #000000; text-indent: -18pt;\"><span style=\"font-size: 12pt; line-height: 17.12px; font-family: 'Nunito Sans'; color: #252525; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">M = 5000 F = 1000<o:p></o:p></span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "M = 2000 F = 4000",
+          "html": "<p class=\"MsoListParagraph\" style=\"margin: 0cm 0cm 8pt 36pt; line-height: 15.6933px; font-size: 11pt; font-family: Aptos, sans-serif; color: #000000; text-indent: -18pt;\"><span style=\"font-size: 12pt; line-height: 17.12px; font-family: 'Nunito Sans'; color: #252525; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">M = 2000 F = 4000<o:p></o:p></span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "M = 4000 F = 2000",
+          "html": "<p class=\"MsoListParagraph\" style=\"margin: 0cm 0cm 8pt 36pt; line-height: 15.6933px; font-size: 11pt; font-family: Aptos, sans-serif; color: #000000; text-indent: -18pt;\"><span style=\"font-size: 12pt; line-height: 17.12px; font-family: 'Nunito Sans'; color: #252525; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">M = 4000 F = 2000<o:p></o:p></span></p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 4,
+      "section": "Percenatge - Assessment -01 - Imp",
+      "id": "685d05b1cdf80c36fa40545a",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "Journalist Popatlal&rsquo;s income is 37.5% less than Dr. Iyyer&rsquo;s. Then Dr.Iyyer&rsquo;s income is how much % more than Popatlal&rsquo;s income ?",
+      "questionHtml": "<p class=\"MsoNormal\" style=\"margin: 0cm 0cm 8pt 19.85pt; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; text-indent: -18pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\"><span style=\"font-size: 14pt; font-family: 'Times New Roman', serif; color: #333333;\">Journalist Popatlal&rsquo;s income is 37.5% less than Dr. Iyyer&rsquo;s. Then Dr.Iyyer&rsquo;s income is how much % more than Popatlal&rsquo;s income ?</span></p>",
+      "correctOption": "2",
+      "options": [
+        {
+          "order": "1",
+          "text": "37.5%",
+          "html": "<p>37.5%</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "60%",
+          "html": "<p>60%</p>",
+          "isCorrect": true
+        },
+        {
+          "order": "3",
+          "text": "50%",
+          "html": "<p>50%</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "None of these",
+          "html": "<p>None of these</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 5,
+      "section": "Percenatge - Assessment -01 - Imp",
+      "id": "685d05b1cdf80c30a140545f",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "If A&rsquo;s salary is 25% less than B&rsquo;s salary, then B&rsquo;s salary is what % more than A&rsquo;s salary?",
+      "questionHtml": "<p class=\"MsoNoSpacing\" style=\"margin: 0cm; font-size: 11pt; font-family: Calibri, sans-serif; color: #000000;\"><span style=\"font-size: 14pt; font-family: 'Times New Roman', serif;\">If A&rsquo;s salary is 25% less than B&rsquo;s salary, then B&rsquo;s salary is what % more than A&rsquo;s salary?&nbsp;<o:p></o:p></span></p>\n<p class=\"MsoNoSpacing\" style=\"margin: 0cm; font-size: 11pt; font-family: Calibri, sans-serif; color: #000000;\"></p>",
+      "correctOption": "2",
+      "options": [
+        {
+          "order": "1",
+          "text": "25%",
+          "html": "<p>25%</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "33.33%",
+          "html": "<p>33.33%</p>",
+          "isCorrect": true
+        },
+        {
+          "order": "3",
+          "text": "55%",
+          "html": "<p>55%</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "None of these",
+          "html": "<p>None of these</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 6,
+      "section": "Percenatge - Assessment -01 - Imp",
+      "id": "685d0c2b116e3958540f8c9a",
+      "type": "numerical",
+      "posMarks": 2,
+      "negMarks": 0,
+      "questionText": "The value of a washing machine depreciates at the rate of 10% every year. If its present value is Rs. 8748, then what was the price of the washing machine three years ago?",
+      "questionHtml": "<p class=\"MsoNoSpacing\" style=\"margin: 0cm; font-size: 11pt; font-family: Aptos, sans-serif; color: #000000;\"><span style=\"font-size: 14pt;\">The value of a washing machine depreciates at the rate of 10% every year. If its present value is Rs. 8748, then what was the price of the washing machine three years ago?</span><o:p></o:p></p>",
+      "correctOption": "",
+      "options": [
+        {
+          "order": "1",
+          "text": "undefined",
+          "html": "undefined",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 7,
+      "section": "Percenatge - Assessment -01 - Imp",
+      "id": "685d0c2b116e39352c0f8c9c",
+      "type": "numerical",
+      "posMarks": 2,
+      "negMarks": 0,
+      "questionText": "Mr x spends 20% of his monthly income on household expenditure, out of the remaining. 25% he spends on children's education, 15% on transport, 15% on medicine and 10% on entertainment. He is left with Rs.9800 after incurring all these expenditures. what is his monthly income?",
+      "questionHtml": "<p class=\"MsoNoSpacing\" style=\"margin: 0cm; font-size: 11pt; font-family: Aptos, sans-serif; color: #000000;\"><span style=\"font-size: 14pt;\">Mr x spends 20% of his monthly income on household expenditure, out of the remaining.</span><o:p></o:p><span style=\"font-size: 14pt;\">25% he spends on children's education, 15% on transport, 15% on medicine and 10% on entertainment. He is left with Rs.9800 after incurring all these expenditures. what is his </span><o:p></o:p><span style=\"font-size: 14pt;\">monthly income?</span><o:p></o:p></p>",
+      "correctOption": "",
+      "options": [
+        {
+          "order": "1",
+          "text": "undefined",
+          "html": "undefined",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 8,
+      "section": "Percenatge - Assessment -01 - Imp",
+      "id": "685d0c2b116e393a360f8c9e",
+      "type": "numerical",
+      "posMarks": 2,
+      "negMarks": 0,
+      "questionText": "Difference between 54% of a number and 69% of the same number is 90. What is 60% of that number?",
+      "questionHtml": "<p class=\"MsoNoSpacing\" style=\"margin: 0cm; font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; text-align: left;\"><span style=\"font-size: 14pt; font-family: 'Times New Roman', serif;\">Difference between 54% of a number and 69% of the same number is 90. What is 60% of that&nbsp;</span><span style=\"font-family: 'Times New Roman', serif; font-size: 18.6667px;\">number? </span><span style=\"font-family: 'Times New Roman', serif; font-size: 14pt;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span></p>",
+      "correctOption": "",
+      "options": [
+        {
+          "order": "1",
+          "text": "undefined",
+          "html": "undefined",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 9,
+      "section": "Percenatge - Assessment -01 - Imp",
+      "id": "685d0c2b116e3980d00f8ca0",
+      "type": "numerical",
+      "posMarks": 2,
+      "negMarks": 0,
+      "questionText": "The population of a village has a constant growth of 6.25% every year. .present population 4046.W hat was the population two yes ago ?",
+      "questionHtml": "<p class=\"MsoNoSpacing\" style=\"margin: 0cm; font-size: 11pt; font-family: Aptos, sans-serif; color: #000000;\"><span style=\"font-size: 14pt;\">The population of a village has a constant growth of 6.25% every year. .present population 4046.W</span><span style=\"font-size: 14pt;\">hat was the population two yes ago ?</span><o:p></o:p></p>",
+      "correctOption": "",
+      "options": [
+        {
+          "order": "1",
+          "text": "undefined",
+          "html": "undefined",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 10,
+      "section": "Percenatge - Assessment -01 - Imp",
+      "id": "685d0c2b116e3914d30f8ca2",
+      "type": "numerical",
+      "posMarks": 2,
+      "negMarks": 0,
+      "questionText": "In an election there were two candidates Ram Singh and Sohan Lal. The total no. of voters in the constituency was 80000 and 80% of the total votes were polled. If 60% of the polled votes were cast in favour of Ram Singh, how many votes were received by Sohan Lal?",
+      "questionHtml": "<p class=\"MsoNoSpacing\" style=\"margin: 0cm; font-size: 11pt; font-family: Aptos, sans-serif; color: #000000;\"><span style=\"font-size: 14pt;\">In an election there were two candidates Ram Singh and Sohan Lal. The total no. of </span><o:p></o:p><span style=\"font-size: 14pt;\">voters in the constituency was 80000 and 80% of the total votes were polled. If 60% of the polled votes were cast in favour of Ram Singh, how many votes were received by </span><o:p></o:p><span style=\"font-size: 14pt;\">Sohan Lal?</span><o:p></o:p></p>",
+      "correctOption": "",
+      "options": [
+        {
+          "order": "1",
+          "text": "undefined",
+          "html": "undefined",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 11,
+      "section": "Percenatge - Assessment -01 - Imp",
+      "id": "685d0d5e7c610a4e9ba49c6e",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "In a constituency, 55% of the total number of voters are males and the rest are females . If 40% of the males are illiterates and 40% of the females are literates then by what percent is the number of literate males more than that of illiterate females ?",
+      "questionHtml": "<p class=\"MsoNoSpacing\" style=\"margin: 0cm; font-size: 11pt; font-family: Aptos, sans-serif; color: #000000;\"><strong><span style=\"font-size: 14pt;\">In a constituency, 55% of the total number of voters are males and the rest are females . If 40% of the males are illiterates and 40% of the females are literates then by what percent is the number of literate males more than that of illiterate females ?</span></strong><o:p></o:p></p>",
+      "correctOption": "3",
+      "options": [
+        {
+          "order": "1",
+          "text": "33.33%",
+          "html": "<p>33.33%</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "25%",
+          "html": "<p>25%</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "22.22%",
+          "html": "<p>22.22%</p>",
+          "isCorrect": true
+        },
+        {
+          "order": "4",
+          "text": "None of these",
+          "html": "<p>None of these</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 12,
+      "section": "Percenatge - Assessment -01 - Imp",
+      "id": "685d0ead7e633000d1665e3c",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "The salary of all officers is increased twice successively by 20%. What is the net percentage increase in their salaries?",
+      "questionHtml": "<p class=\"MsoNoSpacing\" style=\"margin: 0cm; font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; text-align: left;\"><span style=\"font-family: Verdana, sans-serif; color: #333333; font-size: 14pt;\">The salary of all officers is increased twice successively by 20%. What is the net percentage increase in their salaries?</span><o:p></o:p></p>",
+      "correctOption": "3",
+      "options": [
+        {
+          "order": "1",
+          "text": "40%",
+          "html": "<p>40%</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "remains same",
+          "html": "<p>remains same</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "44%",
+          "html": "<p>44%</p>",
+          "isCorrect": true
+        },
+        {
+          "order": "4",
+          "text": "20%",
+          "html": "<p>20%</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 13,
+      "section": "Percenatge - Assessment -01 - Imp",
+      "id": "685d10338a7238d3565bc121",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "The price of an article rose by 25% every odd year and fell by 20% every even year , what would be the percentage change after 180 years ?",
+      "questionHtml": "<p class=\"MsoNoSpacing\" style=\"margin: 0cm; font-size: 11pt; font-family: Aptos, sans-serif; color: #000000;\"><span style=\"font-size: 12pt; font-family: 'Times New Roman', serif;\"><span style=\"font-size: 14pt;\">The price of an article rose by 25% every odd year and fell by 20% every even year , what would be the percentage change after 180 years ?</span><o:p></o:p></span></p>",
+      "correctOption": "4",
+      "options": [
+        {
+          "order": "1",
+          "text": "Inc by 20%",
+          "html": "<p>Inc by 20%</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "Dec by 20%",
+          "html": "<p>Dec by 20%</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "Inc by 25%",
+          "html": "<p>Inc by 25%</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "Remains Same- No Change",
+          "html": "<p>Remains Same- No Change</p>",
+          "isCorrect": true
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 14,
+      "section": "Percenatge - Assessment -01 - Imp",
+      "id": "685d10d952689dd48f71fde9",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "Ratio between the expenditure and saving of a man is 5:4. If income is increased by 20% and saving is decreased by 10% then calculate % change in expenditure.",
+      "questionHtml": "<p class=\"MsoNoSpacing\" style=\"margin: 0cm; font-size: 11pt; font-family: Aptos, sans-serif; color: #000000;\"><span style=\"font-size: 14pt;\">Ratio between the expenditure and saving of a man is 5:4. If income is increased by 20% and saving is decreased by 10% then calculate % change in expenditure.</span><o:p></o:p></p>",
+      "correctOption": "4",
+      "options": [
+        {
+          "order": "1",
+          "text": "168%",
+          "html": "<p>168%&nbsp;</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "50%",
+          "html": "<p>50%&nbsp;</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "No Change",
+          "html": "<p>No Change</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "44%",
+          "html": "<p>44%&nbsp;</p>",
+          "isCorrect": true
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 15,
+      "section": "Percenatge - Assessment -01 - Imp",
+      "id": "685d1323a276cd2b39771adb",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "The reduction in 10% in the price of mangoes in able Vicky to buy 25 kg mangoes more for rupees 22500 . Find the reduced price per/kg.",
+      "questionHtml": "<p class=\"MsoNoSpacing\" style=\"margin: 0cm; font-size: 11pt; font-family: Aptos, sans-serif; color: #000000;\"><span style=\"font-size: 14pt;\">The reduction in 10% in the price of mangoes in able Vicky to buy 25 kg mangoes more for rupees 22500 . Find the reduced price per/kg.</span><o:p></o:p></p>",
+      "correctOption": "2",
+      "options": [
+        {
+          "order": "1",
+          "text": "100",
+          "html": "<p>100</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "90",
+          "html": "<p>90</p>",
+          "isCorrect": true
+        },
+        {
+          "order": "3",
+          "text": "150",
+          "html": "<p>150</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "None of these",
+          "html": "<p>None of these</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    }
+  ]
+}

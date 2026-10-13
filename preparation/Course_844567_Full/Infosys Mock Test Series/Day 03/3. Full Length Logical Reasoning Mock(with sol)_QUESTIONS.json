@@ -1,0 +1,1273 @@
+{
+  "testId": "66112f4cb8cfaf96190a6eda",
+  "title": "3. Full Length Logical Reasoning Mock(with sol)",
+  "engine": "Classplus CMS",
+  "folderPath": "Infosys Mock Test Series / Day 03",
+  "totalQuestions": 29,
+  "totalMarks": 0,
+  "durationMinutes": 0,
+  "livePortalUrl": null,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "section": "Logical Reasoning",
+      "id": "66112f4cb8cfafb5a90a6eec",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "Select the set in which the numbers are related in the same way as are the numbers of the following sets.\n\n(49, 63, 441) \n\n(7, 14, 14)",
+      "questionHtml": "<p><span style=\"font-size: 14pt;\"><strong>Select the set in which the numbers are related in the same way as are the numbers of the following sets.</strong></span></p>\n<p></p>\n<p><span style=\"font-size: 14pt;\"><strong>(49, 63, 441) </strong></span></p>\n<p></p>\n<p><span style=\"font-size: 14pt;\"><strong>(7, 14, 14)</strong></span></p>",
+      "solutionText": "Ans - B",
+      "solutionHtml": "<p>Ans - B</p>\n<p></p>\n<p><iframe title=\"SSc CGL Q23\" src=\"//www.youtube.com/embed/CAdbxqgEfnA\" width=\"656\" height=\"369\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+      "options": [
+        {
+          "order": null,
+          "text": "(7, 28, 35)",
+          "html": "<p><strong><span style=\"font-size: 14pt;\">(7, 28, 35)</span></strong></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "(14, 28, 56)",
+          "html": "<p><span style=\"font-size: 14pt;\"><strong>(14, 28, 56)</strong></span></p>",
+          "isCorrect": true
+        },
+        {
+          "order": null,
+          "text": "(7, 14, 45)",
+          "html": "<p><span style=\"font-size: 14pt;\"><strong>(7, 14, 45)</strong></span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "(12, 18, 324)",
+          "html": "<p><strong><span style=\"font-size: 14pt;\">(12, 18, 324)</span></strong></p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 2,
+      "section": "Logical Reasoning",
+      "id": "66112f4cb8cfafab5f0a6ee9",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "Which two signs should be interchanged to make the given equation correct?\n\n60 x 4 + 9 ÷  3 – 8 = 34",
+      "questionHtml": "<p><strong><span style=\"font-size: 14pt;\">Which two signs should be interchanged to make the given equation correct?</span></strong></p>\n<p></p>\n<p><strong><span style=\"font-size: 14pt;\">60 x 4 + 9 &divide;&nbsp; 3 &ndash; 8 = 34</span></strong></p>",
+      "solutionText": "Ans - D",
+      "solutionHtml": "<p>Ans - D</p>\n<p></p>\n<p><iframe title=\"SSc CGL Q1\" src=\"//www.youtube.com/embed/VUszJ1HlnLc\" width=\"656\" height=\"369\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+      "options": [
+        {
+          "order": null,
+          "text": "+ and –",
+          "html": "<p><strong><span style=\"font-size: 14pt;\">+ and &ndash;</span></strong></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "÷ and +",
+          "html": "<p><strong><span style=\"font-size: 14pt;\">&divide; and +</span></strong></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "+ and x",
+          "html": "<p><strong><span style=\"font-size: 14pt;\">+ and x</span></strong></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "÷ and x",
+          "html": "<p><strong><span style=\"font-size: 14pt;\">&divide; and x</span></strong></p>",
+          "isCorrect": true
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 3,
+      "section": "Logical Reasoning",
+      "id": "66112f4cb8cfafd3b10a6ef0",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "Which of the following numbers will replace the question mark (?) in the given series?\n\n15, ?, 27, 39, 55, 75",
+      "questionHtml": "<p><strong><span style=\"font-size: 14pt;\">Which of the following numbers will replace the question mark (?) in the given series?</span></strong></p>\n<p></p>\n<p><strong><span style=\"font-size: 14pt;\">15, ?, 27, 39, 55, 75</span></strong></p>",
+      "solutionText": "Ans - A",
+      "solutionHtml": "<p>Ans - A</p>\n<p></p>\n<p><iframe title=\"SSc CGL Q2\" src=\"//www.youtube.com/embed/t_D21mSFbPI\" width=\"657\" height=\"370\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+      "options": [
+        {
+          "order": null,
+          "text": "19",
+          "html": "<p><strong><span style=\"font-size: 14pt;\">19</span></strong></p>",
+          "isCorrect": true
+        },
+        {
+          "order": null,
+          "text": "20",
+          "html": "<p><span style=\"font-size: 14pt;\"><strong>20</strong></span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "21",
+          "html": "<p><strong><span style=\"font-size: 14pt;\">21</span></strong></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "18",
+          "html": "<p><strong><span style=\"font-size: 14pt;\">18</span></strong></p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 4,
+      "section": "Logical Reasoning",
+      "id": "66112f4cb8cfaf39c50a6ee3",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "In a certain code language, 'MANAGE' is written as 'HJDQDP' and 'LITTLE' is written as 'HOWWLO'. How will 'POLICY' be written in that language?",
+      "questionHtml": "<p><span style=\"font-size: 14pt;\"><strong>In a certain code language, 'MANAGE' is written as 'HJDQDP' and 'LITTLE' is written as 'HOWWLO'. How will 'POLICY' be written in that language?</strong></span></p>",
+      "solutionText": "Ans - D",
+      "solutionHtml": "<p>Ans - D</p>\n<p></p>\n<p><iframe title=\"SSc CGL Q3\" src=\"//www.youtube.com/embed/ircvAWENZ6o\" width=\"657\" height=\"370\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+      "options": [
+        {
+          "order": null,
+          "text": "CPMDOZ",
+          "html": "<p><strong><span style=\"font-size: 14pt;\">CPMDOZ</span></strong></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "QPMJDZ",
+          "html": "<p><strong><span style=\"font-size: 14pt;\">QPMJDZ</span></strong></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "YCILOP",
+          "html": "<p><strong><span style=\"font-size: 14pt;\">YCILOP</span></strong></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "BFLORS",
+          "html": "<p><strong><span style=\"font-size: 14pt;\">BFLORS</span></strong></p>",
+          "isCorrect": true
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 5,
+      "section": "Logical Reasoning",
+      "id": "66112f4cb8cfaf89c70a6eeb",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "Select the option that is related to the third word in the same way as the second word is related to the first word. (The words must be considered as meaningful English words and must NOT be related to each other based on the number of letters/number of consonants/vowels in the word) Ophthalmology : Eyes Dermatology?",
+      "questionHtml": "<p><span style=\"font-size: 14pt;\"><strong>Select the option that is related to the third word in the same way as the second word is related to the first word. (The words must be considered as meaningful English words and must NOT be related to each other based on the number of letters/number of consonants/vowels in the word) Ophthalmology : Eyes Dermatology?</strong></span></p>",
+      "solutionText": "Ans - B",
+      "solutionHtml": "<p>Ans - B</p>\n<p></p>\n<p><iframe title=\"SSc CGL Q4\" src=\"//www.youtube.com/embed/UNWIWFcajp0\" width=\"657\" height=\"370\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+      "options": [
+        {
+          "order": null,
+          "text": "Nerves",
+          "html": "<p><strong><span style=\"font-size: 14pt;\">Nerves</span></strong></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "Skin",
+          "html": "<p><strong><span style=\"font-size: 14pt;\">Skin</span></strong></p>",
+          "isCorrect": true
+        },
+        {
+          "order": null,
+          "text": "Bones",
+          "html": "<p><strong><span style=\"font-size: 14pt;\">Bones</span></strong></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "Brain",
+          "html": "<p><strong><span style=\"font-size: 14pt;\">Brain</span></strong></p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 6,
+      "section": "Logical Reasoning",
+      "id": "66112f4cb8cfaf10a50a6eed",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "Select the set in which the numbers are related in the same way as the numbers of the given sets. \n (4,6,8)\n (6,8,10)",
+      "questionHtml": "<p><strong><span style=\"font-size: 14pt;\">Select the set in which the numbers are related in the same way as the numbers of the given sets.&nbsp;</span></strong></p>\n<p><span style=\"font-size: 18pt;\"><strong> (4,6,8)</strong></span></p>\n<p><span style=\"font-size: 18pt;\"><strong> (6,8,10)</strong></span></p>",
+      "solutionText": "Ans - B",
+      "solutionHtml": "<p>Ans - B</p>\n<p></p>\n<p><iframe title=\"SSc CGL Q24\" src=\"//www.youtube.com/embed/Cs7Yg46MMcg\" width=\"657\" height=\"370\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+      "options": [
+        {
+          "order": null,
+          "text": "(2, 12, 8)",
+          "html": "<p><strong><span style=\"font-size: 14pt;\">(2, 12, 8)</span></strong></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "(8, 12, 16)",
+          "html": "<p><strong><span style=\"font-size: 14pt;\">(8, 12, 16)</span></strong></p>",
+          "isCorrect": true
+        },
+        {
+          "order": null,
+          "text": "(5, 30, 10)",
+          "html": "<p><strong><span style=\"font-size: 14pt;\">(5, 30, 10)</span></strong></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "(18, 18, 16)",
+          "html": "<p><strong><span style=\"font-size: 14pt;\">(18, 18, 16)</span></strong></p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 7,
+      "section": "Logical Reasoning",
+      "id": "66112f4cb8cfaff24d0a6ee0",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "Select the option that is related to the third word in the same way as the second word is related to the first word. (The words must be considered as meaningful English words and must not be related to each other based on the number of letters/number of consonants/vowels in the word.) \nTortoise : Hatchling :: Rabbit : ? ",
+      "questionHtml": "<p><strong><span style=\"font-size: 14pt;\">Select the option that is related to the third word in the same way as the second word is related to the first word. (The words must be considered as meaningful English words and must not be related to each other based on the number of letters/number of consonants/vowels in the word.) </span></strong></p>\n<p><strong><span style=\"font-size: 14pt;\">Tortoise : Hatchling :: Rabbit : ?&nbsp;</span></strong></p>",
+      "solutionText": "Ans - B",
+      "solutionHtml": "<p>Ans - B</p>\n<p></p>\n<p><iframe title=\"SSc CGL Q5\" src=\"//www.youtube.com/embed/ngl_fQeReTM\" width=\"657\" height=\"370\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+      "options": [
+        {
+          "order": null,
+          "text": "Shoat",
+          "html": "<p><strong><span style=\"font-size: 14pt;\">Shoat</span></strong></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "Kitten",
+          "html": "<p><strong><span style=\"font-size: 14pt;\">Kitten</span></strong></p>",
+          "isCorrect": true
+        },
+        {
+          "order": null,
+          "text": "Piglet",
+          "html": "<p><strong><span style=\"font-size: 14pt;\">Piglet</span></strong></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "Calf",
+          "html": "<p><strong><span style=\"font-size: 14pt;\">Calf</span></strong></p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 8,
+      "section": "Logical Reasoning",
+      "id": "66112f4cb8cfaf8dfe0a6ee2",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "Select the set in which the numbers are related in the same way as are the numbers of the following sets. \n\n(15,20,4) \n(30, 30, 3)\n",
+      "questionHtml": "<p><strong><span style=\"font-size: 14pt;\">Select the set in which the numbers are related in the same way as are the numbers of the following sets.&nbsp;</span></strong></p>\n<p></p>\n<p><strong><span style=\"font-size: 14pt;\">(15,20,4) </span></strong></p>\n<p><strong><span style=\"font-size: 14pt;\">(30, 30, 3)</span></strong></p>\n<p></p>",
+      "solutionText": "Ans - D",
+      "solutionHtml": "<p>Ans - D</p>\n<p></p>\n<p><iframe title=\"SSc CGL Q22\" src=\"//www.youtube.com/embed/ssGsCytCFrY\" width=\"657\" height=\"370\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+      "options": [
+        {
+          "order": null,
+          "text": "(44, 187, 44)",
+          "html": "<p><span style=\"font-size: 14pt;\"><strong>(44, 187, 44)</strong></span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "(30, 190, 15)",
+          "html": "<p><strong style=\"font-size: 18.6667px;\">(30, 190, 15)</strong></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "(35, 120, 19)",
+          "html": "<p><strong style=\"font-size: 18.6667px;\">(35, 120, 19)</strong></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "(60, 400, 20)",
+          "html": "<p><strong style=\"font-size: 18.6667px;\">(60, 400, 20)</strong></p>",
+          "isCorrect": true
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 9,
+      "section": "Logical Reasoning",
+      "id": "66112f4cb8cfaf65e20a6ee1",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "In a certain code, POETRY is written as QONDSQX and OVER is written as PNUDQ. How is MORE written in that code language?  ",
+      "questionHtml": "<p><span style=\"font-size: 18pt; line-height: 107%; font-family: 'Times New Roman', serif; color: black;\">In a certain code, POETRY is written as QONDSQX and OVER is written as PNUDQ. How is MORE written in that code language?&nbsp;&nbsp;</span></p>",
+      "solutionText": "Ans - C",
+      "solutionHtml": "<p>Ans - C</p>\n<p></p>\n<p><iframe title=\"SSc CGL Q6\" src=\"//www.youtube.com/embed/VpOtLgE5CdE\" width=\"657\" height=\"370\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+      "options": [
+        {
+          "order": null,
+          "text": "LNNQD ",
+          "html": "<p><span style=\"font-size: 12pt; line-height: 107%; font-family: 'Times New Roman', serif; color: black;\">LNNQD&nbsp;</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "NNNQD ",
+          "html": "<p><span style=\"font-size: 12pt; line-height: 107%; font-family: 'Times New Roman', serif; color: black;\">NNNQD&nbsp;</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "NLNQD",
+          "html": "<p><span style=\"font-size: 12pt; line-height: 107%; font-family: 'Times New Roman', serif; color: black;\">NLNQD</span></p>",
+          "isCorrect": true
+        },
+        {
+          "order": null,
+          "text": "NLPQD",
+          "html": "<p><span style=\"font-size: 12pt; line-height: 107%; font-family: 'Times New Roman', serif; color: black;\">NLPQD</span></p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 10,
+      "section": "Logical Reasoning",
+      "id": "66112f4cb8cfaf99960a6ee7",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "‘P @ Q' means 'P is the wife of Q’. \nP # Q' means 'P is the brother of Q'.\n'P $ Q' means 'P is the father of Q’. \n‘P - Q' means 'P is the daughter of Q’. \nIf Z - B $ D $ G, then how is Z related to G",
+      "questionHtml": "<p><span style=\"font-size: 14pt;\"><strong>&lsquo;P @ Q' means 'P is the wife of Q&rsquo;. </strong></span></p>\n<p><span style=\"font-size: 14pt;\"><strong>P # Q' means 'P is the brother of Q'.</strong></span></p>\n<p><span style=\"font-size: 14pt;\"><strong>'P $ Q' means 'P is the father of Q&rsquo;. </strong></span></p>\n<p><span style=\"font-size: 14pt;\"><strong>&lsquo;P - Q' means 'P is the daughter of Q&rsquo;. </strong></span></p>\n<p><span style=\"font-size: 14pt;\"><strong>If Z - B $ D $ G, then how is Z related to G</strong></span></p>",
+      "solutionText": "Ans - C",
+      "solutionHtml": "<p>Ans - C</p>\n<p></p>\n<p><iframe title=\"SSc CGL Q7\" src=\"//www.youtube.com/embed/0OOOshz2H08\" width=\"657\" height=\"370\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+      "options": [
+        {
+          "order": null,
+          "text": "Z is the mother of G",
+          "html": "<p><strong><span style=\"font-size: 14pt;\">Z is the mother of G</span></strong></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "Z is the sister of G",
+          "html": "<p><strong><span style=\"font-size: 14pt;\">Z is the sister of G</span></strong></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "Z is the father’s sister of G",
+          "html": "<p><strong><span style=\"font-size: 14pt;\">Z is the father&rsquo;s sister of G</span></strong></p>",
+          "isCorrect": true
+        },
+        {
+          "order": null,
+          "text": "Z is the daughter of G",
+          "html": "<p><strong><span style=\"font-size: 14pt;\">Z is the daughter of G</span></strong></p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 11,
+      "section": "Logical Reasoning",
+      "id": "66112f4cb8cfaf11b80a6edf",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "The second number in the given number pairs is obtained by performing certain mathematical operation(s) on the first number. The same operation(s) are followed in all the number pairs, EXCEPT one. Find that odd number pair.",
+      "questionHtml": "<p><strong><span style=\"font-size: 14pt;\">The second number in the given number pairs is obtained by performing certain mathematical operation(s) on the first number. The same operation(s) are followed in all the number pairs, EXCEPT one. Find that odd number pair.</span></strong></p>",
+      "solutionText": "Ans - B",
+      "solutionHtml": "<p>Ans - B</p>\n<p></p>\n<p><iframe title=\"SSc CGL Q8\" src=\"//www.youtube.com/embed/WzHGnDti7oQ\" width=\"657\" height=\"370\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+      "options": [
+        {
+          "order": null,
+          "text": "(87, 522)",
+          "html": "<p><strong><span style=\"font-size: 14pt;\">(87, 522)</span></strong></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "(84, 672)",
+          "html": "<p><strong><span style=\"font-size: 14pt;\">(84, 672)</span></strong></p>",
+          "isCorrect": true
+        },
+        {
+          "order": null,
+          "text": "(92, 552)",
+          "html": "<p><strong><span style=\"font-size: 14pt;\">(92, 552)</span></strong></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "(64, 384)",
+          "html": "<p><strong><span style=\"font-size: 14pt;\">(64, 384)</span></strong></p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 12,
+      "section": "Logical Reasoning",
+      "id": "66112f4cb8cfaf66210a6eea",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "Three of the following four letter-clusters are alike in a certain way and one is different. Pick the odd one out.",
+      "questionHtml": "<p><span style=\"font-size: 14pt;\"><strong>Three of the following four letter-clusters are alike in a certain way and one is different. Pick the odd one out.</strong></span></p>",
+      "solutionText": "Ans - C",
+      "solutionHtml": "<p>Ans - C</p>\n<p></p>\n<p><iframe title=\"SSc CGL Q9\" src=\"//www.youtube.com/embed/cQIsTUqFbVg\" width=\"657\" height=\"370\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+      "options": [
+        {
+          "order": null,
+          "text": "JQM",
+          "html": "<p><strong><span style=\"font-size: 14pt;\">JQM</span></strong></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "DWG",
+          "html": "<p><strong><span style=\"font-size: 14pt;\">DWG</span></strong></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "BXE",
+          "html": "<p><strong><span style=\"font-size: 14pt;\">BXE</span></strong></p>",
+          "isCorrect": true
+        },
+        {
+          "order": null,
+          "text": "AZD",
+          "html": "<p><strong><span style=\"font-size: 14pt;\">AZD</span></strong></p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 13,
+      "section": "Logical Reasoning",
+      "id": "66112f4cb8cfafe59a0a6ede",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "Select the option that represents the correct order of the given words as they would appear in an English dictionary.\n1. Tertiary\n2. Terrace\n3. Terrain\n4. Termite\n5. Territory\n6. Terminate",
+      "questionHtml": "<p><strong><span style=\"font-size: 14pt;\">Select the option that represents the correct order of the given words as they would appear in an English dictionary.</span></strong></p>\n<p><strong><span style=\"font-size: 14pt;\">1. Tertiary</span></strong></p>\n<p><strong><span style=\"font-size: 14pt;\">2. Terrace</span></strong></p>\n<p><strong><span style=\"font-size: 14pt;\">3. Terrain</span></strong></p>\n<p><strong><span style=\"font-size: 14pt;\">4. Termite</span></strong></p>\n<p><strong><span style=\"font-size: 14pt;\">5. Territory</span></strong></p>\n<p><strong><span style=\"font-size: 14pt;\">6. Terminate</span></strong></p>",
+      "solutionText": "Ans - C",
+      "solutionHtml": "<p>Ans - C</p>\n<p></p>\n<p><iframe title=\"SSc CGL Q10\" src=\"//www.youtube.com/embed/5Zl1UTtf1tw\" width=\"657\" height=\"370\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+      "options": [
+        {
+          "order": null,
+          "text": "4, 6, 3, 2, 5, 1",
+          "html": "<p><strong><span style=\"font-size: 14pt;\">4, 6, 3, 2, 5, 1</span></strong></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "4, 6, 2, 3, 1, 5",
+          "html": "<p><strong><span style=\"font-size: 14pt;\">4, 6, 2, 3, 1, 5</span></strong></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "6, 4, 2, 3, 5, 1",
+          "html": "<p><strong><span style=\"font-size: 14pt;\">6, 4, 2, 3, 5, 1</span></strong></p>",
+          "isCorrect": true
+        },
+        {
+          "order": null,
+          "text": "6, 4, 3, 2, 5, 1",
+          "html": "<p><strong><span style=\"font-size: 14pt;\">6, 4, 3, 2, 5, 1</span></strong></p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 14,
+      "section": "Logical Reasoning",
+      "id": "66112f4cb8cfafb2fd0a6ee6",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "Select the combination of letters that when sequentially placed in the blanks of the given series will complete the series.\nA _ M P S A C _ P S A C O _ S A C P P _",
+      "questionHtml": "<p><strong><span style=\"font-size: 14pt;\">Select the combination of letters that when sequentially placed in the blanks of the given series will complete the series.</span></strong></p>\n<p><strong><span style=\"font-size: 14pt;\">A _ M P S A C _ P S A C O _ S A C P P _</span></strong></p>",
+      "solutionText": "Ans - D",
+      "solutionHtml": "<p>Ans - D</p>\n<p></p>\n<p><iframe title=\"SSc CGL Q21\" src=\"//www.youtube.com/embed/wOxG32PcSbg\" width=\"657\" height=\"370\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+      "options": [
+        {
+          "order": null,
+          "text": "S M P A",
+          "html": "<p><strong><span style=\"font-size: 14pt;\">S M P A</span></strong></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "S C A N",
+          "html": "<p><strong><span style=\"font-size: 14pt;\">S C A N</span></strong></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "C M A S",
+          "html": "<p><strong><span style=\"font-size: 14pt;\">C M A S</span></strong></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "C N P S",
+          "html": "<p><strong><span style=\"font-size: 14pt;\">C N P S</span></strong></p>",
+          "isCorrect": true
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 15,
+      "section": "Logical Reasoning",
+      "id": "66112f4cb8cfaf23ec0a6eee",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "Which of the following terms will replace the question mark (?) in the given series? OTLN, MSJM, KRHL, IQFK, ?",
+      "questionHtml": "<p><strong><span style=\"font-size: 14pt;\">Which of the following terms will replace the question mark (?) in the given series? OTLN, MSJM, KRHL, IQFK, ?</span></strong></p>",
+      "solutionText": "Ans - C",
+      "solutionHtml": "<p>Ans - C</p>\n<p></p>\n<p><iframe title=\"SSc CGL Q11\" src=\"//www.youtube.com/embed/OU0mzkuNXk0\" width=\"657\" height=\"370\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+      "options": [
+        {
+          "order": null,
+          "text": "HPDK",
+          "html": "<p><span style=\"font-size: 14pt;\"><strong>HPDK</strong></span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "GQDJ",
+          "html": "<p><strong style=\"font-size: 18.6667px;\">GQDJ</strong></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "GPDJ",
+          "html": "<p><strong style=\"font-size: 18.6667px;\">GPDJ</strong></p>",
+          "isCorrect": true
+        },
+        {
+          "order": null,
+          "text": "GPDK",
+          "html": "<p><strong style=\"font-size: 18.6667px;\">GPDK</strong></p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 16,
+      "section": "Logical Reasoning",
+      "id": "66112f4cb8cfaf38bb0a6ee5",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "Which two signs should be interchanged to make the given equation correct? \n117 ÷ 13 + 16 x 540 - 40 = 644",
+      "questionHtml": "<p><strong><span style=\"font-size: 14pt;\">Which two signs should be interchanged to make the given equation correct? </span></strong></p>\n<p><strong><span style=\"font-size: 14pt;\">117 &divide; 13 + 16 x 540 - 40 = 644</span></strong></p>",
+      "solutionText": "Ans - B",
+      "solutionHtml": "<p>Ans - B</p>\n<p></p>\n<p><iframe title=\"SSc CGL Q12\" src=\"//www.youtube.com/embed/vvOcLGYexfY\" width=\"657\" height=\"370\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+      "options": [
+        {
+          "order": null,
+          "text": "÷ and +",
+          "html": "<p><strong><span style=\"font-size: 14pt;\">&divide; and +</span></strong></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "+ and x",
+          "html": "<p><strong><span style=\"font-size: 14pt;\">+ and x</span></strong></p>",
+          "isCorrect": true
+        },
+        {
+          "order": null,
+          "text": "- and +",
+          "html": "<p><strong><span style=\"font-size: 14pt;\">- and +</span></strong></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "÷ and - ",
+          "html": "<p><strong><span style=\"font-size: 14pt;\">&divide; and -&nbsp;</span></strong></p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 17,
+      "section": "Logical Reasoning",
+      "id": "66112f4cb8cfafa0be0a6eef",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "Three different positions of the same dice are shown. Find the number on the face opposite the face showing ‘5’.\n",
+      "questionHtml": "<p><strong><span style=\"font-size: 14pt;\">Three different positions of the same dice are shown. Find the number on the face opposite the face showing &lsquo;5&rsquo;.</span></strong></p>\n<p><strong><span style=\"font-size: 14pt;\"><img src=\"https://cms-cdn.classplus.co/parserImages/83780c8f-7c10-4e14-8002-4b8ef9cfa596.png\" alt=\"\" width=\"430\" height=\"161\" /></span></strong></p>",
+      "solutionText": "Ans - D",
+      "solutionHtml": "<p>Ans - D</p>\n<p></p>\n<p><iframe title=\"SSc CGL Q13\" src=\"//www.youtube.com/embed/UEEh1Oo_q98\" width=\"657\" height=\"370\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+      "options": [
+        {
+          "order": null,
+          "text": "2 ",
+          "html": "<p><strong><span style=\"font-size: 14pt;\">2&nbsp;</span></strong></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "3 ",
+          "html": "<p><strong style=\"font-family: var(--font-family);\"><span style=\"font-size: 14pt;\">3&nbsp;</span></strong></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "4 ",
+          "html": "<p><strong><span style=\"font-size: 14pt;\">4&nbsp;</span></strong></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "1",
+          "html": "<p><strong><span style=\"font-size: 14pt;\">1</span></strong></p>",
+          "isCorrect": true
+        }
+      ],
+      "embeddedImages": [
+        {
+          "original": "https://cms-cdn.classplus.co/parserImages/83780c8f-7c10-4e14-8002-4b8ef9cfa596.png",
+          "local": "3. Full Length Logical Reasoning Mock(with sol)_figures/q17_1.png"
+        }
+      ]
+    },
+    {
+      "questionNumber": 18,
+      "section": "Logical Reasoning",
+      "id": "66112f4cb8cfaf642c0a6edc",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "Which of the answer figures is the exact mirror image of the given problem figure when the mirror is held at the right side?\n\nProblem figure:  ",
+      "questionHtml": "<p>Which of the answer figures is the exact mirror image of the given problem figure when the mirror is held at the right side?</p>\n<p></p>\n<p>Problem figure:&nbsp;&nbsp;<img src=\"https://cms-cdn.classplus.co/parserImages/a923931c-cd3c-49fb-ac53-3f9051e8dedb.png\" alt=\"\" width=\"148\" height=\"139\" /></p>",
+      "solutionText": "Ans - D",
+      "solutionHtml": "<p>Ans - D</p>\n<p></p>\n<p><iframe title=\"SSc CGL Q14\" src=\"//www.youtube.com/embed/02547krZqqE\" width=\"657\" height=\"370\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+      "options": [
+        {
+          "order": null,
+          "text": "",
+          "html": "<p><img src=\"https://cms-cdn.classplus.co/parserImages/ba32283e-552a-403a-9139-537fc60d7d07.png\" alt=\"\" width=\"117\" height=\"117\" /></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "",
+          "html": "<p><img src=\"https://cms-cdn.classplus.co/parserImages/56c06207-d45a-4f96-b8f8-4f250bc39fd9.png\" alt=\"\" width=\"112\" height=\"115\" /></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "",
+          "html": "<p><img src=\"https://cms-cdn.classplus.co/parserImages/ac4a6796-1428-46a8-aa48-74880775bcb6.png\" alt=\"\" width=\"115\" height=\"114\" /></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "",
+          "html": "<p><img src=\"https://cms-cdn.classplus.co/parserImages/cb17442f-9f1b-4db8-aba5-8ef54a2a8042.png\" alt=\"\" width=\"115\" height=\"114\" /></p>",
+          "isCorrect": true
+        }
+      ],
+      "embeddedImages": [
+        {
+          "original": "https://cms-cdn.classplus.co/parserImages/a923931c-cd3c-49fb-ac53-3f9051e8dedb.png",
+          "local": "3. Full Length Logical Reasoning Mock(with sol)_figures/q18_1.png"
+        },
+        {
+          "original": "https://cms-cdn.classplus.co/parserImages/ba32283e-552a-403a-9139-537fc60d7d07.png",
+          "local": "3. Full Length Logical Reasoning Mock(with sol)_figures/q18_2.png"
+        },
+        {
+          "original": "https://cms-cdn.classplus.co/parserImages/56c06207-d45a-4f96-b8f8-4f250bc39fd9.png",
+          "local": "3. Full Length Logical Reasoning Mock(with sol)_figures/q18_3.png"
+        },
+        {
+          "original": "https://cms-cdn.classplus.co/parserImages/ac4a6796-1428-46a8-aa48-74880775bcb6.png",
+          "local": "3. Full Length Logical Reasoning Mock(with sol)_figures/q18_4.png"
+        },
+        {
+          "original": "https://cms-cdn.classplus.co/parserImages/cb17442f-9f1b-4db8-aba5-8ef54a2a8042.png",
+          "local": "3. Full Length Logical Reasoning Mock(with sol)_figures/q18_5.png"
+        }
+      ]
+    },
+    {
+      "questionNumber": 19,
+      "section": "Logical Reasoning",
+      "id": "66112f4cb8cfaf22af0a6ee4",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "Select the Veen diagram that best illustration the relationship between the following classes.\nWomen, Professor, Players",
+      "questionHtml": "<p><strong><span style=\"font-size: 14pt;\">Select the Veen diagram that best illustration the relationship between the following classes.</span></strong></p>\n<p><strong><span style=\"font-size: 14pt;\">Women, Professor, Players</span></strong></p>",
+      "solutionText": "Ans - C",
+      "solutionHtml": "<p>Ans - C</p>\n<p></p>\n<p><iframe title=\"SSc CGL Q15\" src=\"//www.youtube.com/embed/_c1N4nA7fTI\" width=\"657\" height=\"370\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+      "options": [
+        {
+          "order": null,
+          "text": "",
+          "html": "<p><img src=\"https://cms-cdn.classplus.co/parserImages/e04bd874-622e-411e-bd21-6eb0b36df3c2.png\" alt=\"\" width=\"212\" height=\"84\" /></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "",
+          "html": "<p><img src=\"https://cms-cdn.classplus.co/parserImages/38dbc505-66dd-43d3-89ea-db2862c75455.png\" alt=\"\" width=\"93\" height=\"92\" /></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "",
+          "html": "<p><img src=\"https://cms-cdn.classplus.co/parserImages/9feb0162-70f1-4dae-8c73-097573ab7fd5.png\" alt=\"\" width=\"88\" height=\"85\" /></p>",
+          "isCorrect": true
+        },
+        {
+          "order": null,
+          "text": "",
+          "html": "<p><img src=\"https://cms-cdn.classplus.co/parserImages/8692e2fb-d12f-4885-ae0f-6f9d88f6860a.png\" alt=\"\" width=\"164\" height=\"81\" /></p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": [
+        {
+          "original": "https://cms-cdn.classplus.co/parserImages/e04bd874-622e-411e-bd21-6eb0b36df3c2.png",
+          "local": "3. Full Length Logical Reasoning Mock(with sol)_figures/q19_1.png"
+        },
+        {
+          "original": "https://cms-cdn.classplus.co/parserImages/38dbc505-66dd-43d3-89ea-db2862c75455.png",
+          "local": "3. Full Length Logical Reasoning Mock(with sol)_figures/q19_2.png"
+        },
+        {
+          "original": "https://cms-cdn.classplus.co/parserImages/9feb0162-70f1-4dae-8c73-097573ab7fd5.png",
+          "local": "3. Full Length Logical Reasoning Mock(with sol)_figures/q19_3.png"
+        },
+        {
+          "original": "https://cms-cdn.classplus.co/parserImages/8692e2fb-d12f-4885-ae0f-6f9d88f6860a.png",
+          "local": "3. Full Length Logical Reasoning Mock(with sol)_figures/q19_4.png"
+        }
+      ]
+    },
+    {
+      "questionNumber": 20,
+      "section": "Logical Reasoning",
+      "id": "66112f4cb8cfaf3a900a6edd",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "Select the option figure which is embedded in the given figure (rotation is NOT allowed)\n",
+      "questionHtml": "<p><strong><span style=\"font-size: 14pt;\">Select the option figure which is embedded in the given figure (rotation is NOT allowed)</span></strong></p>\n<p><strong><span style=\"font-size: 14pt;\"><img src=\"https://cms-cdn.classplus.co/parserImages/ead2d54f-832c-47e5-abca-7c7abc3fe367.png\" alt=\"\" width=\"126\" height=\"148\" /></span></strong></p>",
+      "solutionText": "",
+      "solutionHtml": " ",
+      "options": [
+        {
+          "order": null,
+          "text": "",
+          "html": "<p><img src=\"https://cms-cdn.classplus.co/parserImages/f29ef122-b314-46fd-b970-5401147d1e4a.png\" alt=\"\" width=\"70\" height=\"101\" /></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "",
+          "html": "<p><img src=\"https://cms-cdn.classplus.co/parserImages/9200d702-cf2e-4277-b8c7-90f8e9465aab.png\" alt=\"\" width=\"69\" height=\"83\" /></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "",
+          "html": "<p><img src=\"https://cms-cdn.classplus.co/parserImages/767a2e02-ba5e-4c9c-bed8-d6a1d264b2a6.png\" alt=\"\" width=\"62\" height=\"67\" /></p>",
+          "isCorrect": true
+        },
+        {
+          "order": null,
+          "text": "",
+          "html": "<p><img src=\"https://cms-cdn.classplus.co/parserImages/efeb69f5-a7db-4aa4-ae96-4af72b2ef590.png\" alt=\"\" width=\"95\" height=\"53\" /></p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": [
+        {
+          "original": "https://cms-cdn.classplus.co/parserImages/ead2d54f-832c-47e5-abca-7c7abc3fe367.png",
+          "local": "3. Full Length Logical Reasoning Mock(with sol)_figures/q20_1.png"
+        },
+        {
+          "original": "https://cms-cdn.classplus.co/parserImages/f29ef122-b314-46fd-b970-5401147d1e4a.png",
+          "local": "3. Full Length Logical Reasoning Mock(with sol)_figures/q20_2.png"
+        },
+        {
+          "original": "https://cms-cdn.classplus.co/parserImages/9200d702-cf2e-4277-b8c7-90f8e9465aab.png",
+          "local": "3. Full Length Logical Reasoning Mock(with sol)_figures/q20_3.png"
+        },
+        {
+          "original": "https://cms-cdn.classplus.co/parserImages/767a2e02-ba5e-4c9c-bed8-d6a1d264b2a6.png",
+          "local": "3. Full Length Logical Reasoning Mock(with sol)_figures/q20_4.png"
+        },
+        {
+          "original": "https://cms-cdn.classplus.co/parserImages/efeb69f5-a7db-4aa4-ae96-4af72b2ef590.png",
+          "local": "3. Full Length Logical Reasoning Mock(with sol)_figures/q20_5.png"
+        }
+      ]
+    },
+    {
+      "questionNumber": 21,
+      "section": "Logical Reasoning",
+      "id": "66112f4cb8cfaf14a50a6ef1",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "Select the figure that will replace the question mark (?) in the following figure series.\n",
+      "questionHtml": "<p><strong><span style=\"font-size: 14pt;\">Select the figure that will replace the question mark (?) in the following figure series.</span></strong></p>\n<p><strong><span style=\"font-size: 14pt;\"><img src=\"https://cms-cdn.classplus.co/parserImages/0b7b8499-5096-4e94-835a-d7d8c59eee2b.png\" alt=\"\" width=\"457\" height=\"111\" /></span></strong></p>",
+      "solutionText": "",
+      "solutionHtml": " ",
+      "options": [
+        {
+          "order": null,
+          "text": "",
+          "html": "<p><img src=\"https://cms-cdn.classplus.co/parserImages/5b3c8bc3-4dad-4f98-973f-055a5fd63a03.png\" alt=\"\" width=\"84\" height=\"84\" /></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "",
+          "html": "<p><img src=\"https://cms-cdn.classplus.co/parserImages/6e01b7cd-86c0-4205-8cb7-c39c1200e451.png\" alt=\"\" width=\"83\" height=\"84\" /></p>",
+          "isCorrect": true
+        },
+        {
+          "order": null,
+          "text": "",
+          "html": "<p><img src=\"https://cms-cdn.classplus.co/parserImages/b6d20d01-51de-47ec-ae59-bb2937bec38b.png\" alt=\"\" width=\"83\" height=\"84\" /></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "",
+          "html": "<p><img src=\"https://cms-cdn.classplus.co/parserImages/f8938f88-7516-4253-982f-9e05085e744c.png\" alt=\"\" width=\"82\" height=\"85\" /></p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": [
+        {
+          "original": "https://cms-cdn.classplus.co/parserImages/0b7b8499-5096-4e94-835a-d7d8c59eee2b.png",
+          "local": "3. Full Length Logical Reasoning Mock(with sol)_figures/q21_1.png"
+        },
+        {
+          "original": "https://cms-cdn.classplus.co/parserImages/5b3c8bc3-4dad-4f98-973f-055a5fd63a03.png",
+          "local": "3. Full Length Logical Reasoning Mock(with sol)_figures/q21_2.png"
+        },
+        {
+          "original": "https://cms-cdn.classplus.co/parserImages/6e01b7cd-86c0-4205-8cb7-c39c1200e451.png",
+          "local": "3. Full Length Logical Reasoning Mock(with sol)_figures/q21_3.png"
+        },
+        {
+          "original": "https://cms-cdn.classplus.co/parserImages/b6d20d01-51de-47ec-ae59-bb2937bec38b.png",
+          "local": "3. Full Length Logical Reasoning Mock(with sol)_figures/q21_4.png"
+        },
+        {
+          "original": "https://cms-cdn.classplus.co/parserImages/f8938f88-7516-4253-982f-9e05085e744c.png",
+          "local": "3. Full Length Logical Reasoning Mock(with sol)_figures/q21_5.png"
+        }
+      ]
+    },
+    {
+      "questionNumber": 22,
+      "section": "Logical Reasoning",
+      "id": "66112f4cb8cfaf5d730a6ee8",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "Select the figure among the given options that can replace the question mark (?) in the following series.\n\n",
+      "questionHtml": "<p><strong><span style=\"font-size: 14pt;\">Select the figure among the given options that can replace the question mark (?) in the following series.</span></strong></p>\n<p></p>\n<p><strong><span style=\"font-size: 14pt;\"><img src=\"https://cms-cdn.classplus.co/parserImages/9bb9c35f-f10d-45ef-bdf9-327c405836dc.png\" alt=\"\" width=\"387\" height=\"83\" /></span></strong></p>",
+      "solutionText": "Ans - B",
+      "solutionHtml": "<p>Ans - B</p>\n<p></p>\n<p><iframe title=\"SSc CGL Q16\" src=\"//www.youtube.com/embed/TSQ2Y_bQ0Z8\" width=\"657\" height=\"370\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+      "options": [
+        {
+          "order": null,
+          "text": "",
+          "html": "<p><img src=\"https://cms-cdn.classplus.co/parserImages/01d1795d-0bfc-480f-95d1-05ce5478f6e0.png\" alt=\"\" width=\"89\" height=\"85\" /></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "",
+          "html": "<p><img src=\"https://cms-cdn.classplus.co/parserImages/033f3fa7-9bb9-466e-ba42-895caa15c7ea.png\" alt=\"\" width=\"91\" height=\"87\" /></p>",
+          "isCorrect": true
+        },
+        {
+          "order": null,
+          "text": "",
+          "html": "<p><img src=\"https://cms-cdn.classplus.co/parserImages/eade95a6-a670-432f-b929-6c0cf87a849d.png\" alt=\"\" width=\"88\" height=\"86\" /></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "",
+          "html": "<p><img src=\"https://cms-cdn.classplus.co/parserImages/b3a4ab99-40b1-4036-9edc-b11605411023.png\" alt=\"\" width=\"89\" height=\"86\" /></p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": [
+        {
+          "original": "https://cms-cdn.classplus.co/parserImages/9bb9c35f-f10d-45ef-bdf9-327c405836dc.png",
+          "local": "3. Full Length Logical Reasoning Mock(with sol)_figures/q22_1.png"
+        },
+        {
+          "original": "https://cms-cdn.classplus.co/parserImages/01d1795d-0bfc-480f-95d1-05ce5478f6e0.png",
+          "local": "3. Full Length Logical Reasoning Mock(with sol)_figures/q22_2.png"
+        },
+        {
+          "original": "https://cms-cdn.classplus.co/parserImages/033f3fa7-9bb9-466e-ba42-895caa15c7ea.png",
+          "local": "3. Full Length Logical Reasoning Mock(with sol)_figures/q22_3.png"
+        },
+        {
+          "original": "https://cms-cdn.classplus.co/parserImages/eade95a6-a670-432f-b929-6c0cf87a849d.png",
+          "local": "3. Full Length Logical Reasoning Mock(with sol)_figures/q22_4.png"
+        },
+        {
+          "original": "https://cms-cdn.classplus.co/parserImages/b3a4ab99-40b1-4036-9edc-b11605411023.png",
+          "local": "3. Full Length Logical Reasoning Mock(with sol)_figures/q22_5.png"
+        }
+      ]
+    },
+    {
+      "questionNumber": 23,
+      "section": "Logical Reasoning",
+      "id": "66112f4cb8cfaf69c90a6ef2",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "Find the Missing Number \n\n      ?           9          16           51          200         1005",
+      "questionHtml": "<p><span style=\"font-size: 14pt;\">Find the Missing Number&nbsp;</span></p>\n<p></p>\n<p><strong><span style=\"font-size: 18pt;\">&nbsp; &nbsp; &nbsp; ?&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;9&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 16&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;51&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 200&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;1005</span></strong></p>",
+      "solutionText": "Ans - C",
+      "solutionHtml": "<p>Ans - C</p>\n<p></p>\n<p><iframe title=\"SSc CGL Q17\" src=\"//www.youtube.com/embed/M76hBzm-sxw\" width=\"657\" height=\"370\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+      "options": [
+        {
+          "order": null,
+          "text": "6",
+          "html": "<p>6</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "7",
+          "html": "<p>7</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "8",
+          "html": "<p>8</p>",
+          "isCorrect": true
+        },
+        {
+          "order": null,
+          "text": "9",
+          "html": "<p>9</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "None of these",
+          "html": "<p>None of these</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 24,
+      "section": "Logical Reasoning",
+      "id": "66112f4cb8cfafb2270a6ef3",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "Find the Missing Term :\n\n        23       12        13        21         44        ?",
+      "questionHtml": "<p><strong><span style=\"font-size: 12pt;\">Find the Missing Term :</span></strong></p>\n<p></p>\n<p><strong><span style=\"font-size: 24pt;\">&nbsp; &nbsp; &nbsp; &nbsp; 23&nbsp; &nbsp; &nbsp; &nbsp;12&nbsp; &nbsp; &nbsp; &nbsp; 13&nbsp; &nbsp; &nbsp; &nbsp; 21&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;44&nbsp; &nbsp; &nbsp; &nbsp; ?</span></strong></p>",
+      "solutionText": "Ans - B",
+      "solutionHtml": "<p>Ans - B</p>\n<p></p>\n<p><iframe title=\"SSc CGL Q18\" src=\"//www.youtube.com/embed/9-1cF6Jdq_Y\" width=\"657\" height=\"370\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+      "options": [
+        {
+          "order": null,
+          "text": "102.5",
+          "html": "<p>102.5</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "112.5",
+          "html": "<p>112.5</p>",
+          "isCorrect": true
+        },
+        {
+          "order": null,
+          "text": "123",
+          "html": "<p>123</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "103.5",
+          "html": "<p>103.5</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "None Of These ",
+          "html": "<p>None Of These&nbsp;</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 25,
+      "section": "Logical Reasoning",
+      "id": "66112f4cb8cfaf2fa40a6ef4",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "Find the Missing Term :\n\n        12       7        9        21         88        ?",
+      "questionHtml": "<p><strong><span style=\"font-size: 12pt;\">Find the Missing Term :</span></strong></p>\n<p></p>\n<p><strong><span style=\"font-size: 24pt;\">&nbsp; &nbsp; &nbsp; &nbsp; 12&nbsp; &nbsp; &nbsp; &nbsp;7&nbsp; &nbsp; &nbsp; &nbsp; 9&nbsp; &nbsp; &nbsp; &nbsp; 21&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;88&nbsp; &nbsp; &nbsp; &nbsp; ?</span></strong></p>",
+      "solutionText": "",
+      "solutionHtml": "",
+      "options": [
+        {
+          "order": null,
+          "text": "702",
+          "html": "<p>702</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "709",
+          "html": "<p>709</p>",
+          "isCorrect": true
+        },
+        {
+          "order": null,
+          "text": "809",
+          "html": "<p>809</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "158",
+          "html": "<p>158</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "None Of These ",
+          "html": "<p>None Of These&nbsp;</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 26,
+      "section": "Logical Reasoning",
+      "id": "66112f4cb8cfaf61b30a6ef5",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "Statement: India cricket team is is performing very well.  Particularly the batting line-up is the best in the world.\n\nCourses of action:\n1. There should be least changes in the present team.\n2. The Indian cricket board should take an action to improve the bowling standard.\n",
+      "questionHtml": "<p><strong>Statement:</strong> India cricket team is&nbsp;<span style=\"font-family: var(--font-family);\">is performing very well.</span><span style=\"font-family: var(--font-family);\">&nbsp; </span><span style=\"font-family: var(--font-family);\">Particularly the batting line-up is</span>&nbsp;the best in the world.</p>\n<p></p>\n<p><strong>Courses of action:</strong></p>\n<p>1. There should be least changes in the present team.</p>\n<p>2. The Indian cricket board should take an action to improve the bowling standard.</p>\n<p></p>",
+      "solutionText": "Ans - A",
+      "solutionHtml": "<p>Ans - A</p>\n<p></p>\n<p><iframe title=\"SSc CGL Q20\" src=\"//www.youtube.com/embed/qdUM4he8FTE\" width=\"657\" height=\"370\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+      "options": [
+        {
+          "order": null,
+          "text": "Only I follows",
+          "html": "<p>Only I follows</p>",
+          "isCorrect": true
+        },
+        {
+          "order": null,
+          "text": "Only II follows",
+          "html": "<p>Only II follows</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "Neither I nor II follows",
+          "html": "<p>Neither I nor II follows</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "Both I and II follow",
+          "html": "<p>Both I and II follow</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 27,
+      "section": "Logical Reasoning",
+      "id": "66112f4cb8cfaf9ffe0a6ef6",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "Statement: “Look at his audacity. Rohan has not replied to my letter” - A tells B.\n\nAssumptions:\n1. Rohan received his letter.\n2. Rohan did not receive his letter.\n3. The letter was sent only by post.",
+      "questionHtml": "<p>Statement: &ldquo;Look at his audacity. Rohan has not replied to my letter&rdquo; - A tells B.</p>\n<p></p>\n<p>Assumptions:</p>\n<p>1. Rohan received his letter.</p>\n<p>2. Rohan did not receive his letter.</p>\n<p>3. The letter was sent only by post.</p>",
+      "solutionText": "Ans - A",
+      "solutionHtml": "<p>Ans - A</p>\n<p></p>\n<p><iframe title=\"SSc CGL Q19\" src=\"//www.youtube.com/embed/5-Wewiyc6_U\" width=\"657\" height=\"370\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+      "options": [
+        {
+          "order": null,
+          "text": "Only I  is implicit",
+          "html": "<p>Only I&nbsp; is implicit</p>",
+          "isCorrect": true
+        },
+        {
+          "order": null,
+          "text": "Only II is implicit",
+          "html": "<p>Only II is implicit</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "Only III is implicit",
+          "html": "<p>Only III is implicit</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "All are implicit",
+          "html": "<p>All are implicit</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "None is implicit",
+          "html": "<p>None is implicit</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 28,
+      "section": "Logical Reasoning",
+      "id": "66112f4cb8cfaf6c850a6ef7",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "Statement: A major retail store announced thirty percent reduction on all food items during the weekend.\nAssumption\nI. People may still prefer buying food items from other stores.\nII.  A large number of customers may visit the retail store and buy food items.",
+      "questionHtml": "<p><strong>Statement:</strong> A major retail store announced thirty percent reduction on all food items during the weekend.</p>\n<p><strong>Assumption</strong></p>\n<p>I. People may still prefer buying food items from other stores.</p>\n<p>II.&nbsp; A large number of customers may visit the retail store and buy food items.</p>",
+      "solutionText": "",
+      "solutionHtml": "",
+      "options": [
+        {
+          "order": null,
+          "text": "Only I is implicit",
+          "html": "<p>Only I is implicit</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "Only II is implicit",
+          "html": "<p>Only II is implicit</p>",
+          "isCorrect": true
+        },
+        {
+          "order": null,
+          "text": "All are implicit",
+          "html": "<p>All are implicit</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "None is implicit",
+          "html": "<p>None is implicit</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 29,
+      "section": "Logical Reasoning",
+      "id": "66112f4cb8cfafed8d0a6ef8",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "Statement : The state government has abolished the scheme of Providing concessional air ticket to students.\nAssumptions :\nI. Students will not travel by air in future.\nII. The students who resort so travel by air can bear the expenses of air ticket.",
+      "questionHtml": "<p><strong>Statement</strong> : The state government has abolished the scheme of Providing concessional air ticket to students.</p>\n<p><strong>Assumptions :</strong></p>\n<p>I. Students will not travel by air in future.</p>\n<p>II. The students who resort so travel by air can bear the expenses of air ticket.</p>",
+      "solutionText": "",
+      "solutionHtml": "",
+      "options": [
+        {
+          "order": null,
+          "text": "Only I is implicit",
+          "html": "<p>Only I is implicit</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "Only II is implicit",
+          "html": "<p>Only II is implicit</p>",
+          "isCorrect": true
+        },
+        {
+          "order": null,
+          "text": "Both are implicit",
+          "html": "<p>Both are implicit</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "None is implicit",
+          "html": "<p>None is implicit</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    }
+  ]
+}

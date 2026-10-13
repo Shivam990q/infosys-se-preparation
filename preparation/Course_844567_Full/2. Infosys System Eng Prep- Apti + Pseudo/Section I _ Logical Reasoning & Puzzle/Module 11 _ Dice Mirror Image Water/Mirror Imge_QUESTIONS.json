@@ -1,0 +1,652 @@
+{
+  "testId": "6102aec2f0c848a1e9b21993",
+  "title": "Mirror Imge",
+  "engine": "Classplus CMS",
+  "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section I : Logical Reasoning & Puzzle / Module 11 :  Dice Mirror Image Water",
+  "totalQuestions": 15,
+  "totalMarks": 0,
+  "durationMinutes": 0,
+  "livePortalUrl": "https://student-cms.classplusapp.com?token=eyJhbGciOiJIUzM4NCIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjE5MjYwNjExNiwibmFtZSI6IkhhY2tXaXRoSW5meVByZXAiLCJlbWFpbCI6ImhhY2t3aXRoaW5meXByZXBAZ21haWwuY29tIiwibW9iaWxlIjoiOTE3ODk4MDk3Mjk3Iiwic3R1ZGVudElkIjoxNTkzMDU3NDYsImNvbnRlbnRJZCI6Mjk0ODkzNzksIm9yZ0lkIjo0NDAzMiwiY29udGVudFR5cGUiOjQsImNvdXJzZUlkIjoiODQ0NTY3IiwidGltZXN0YW1wIjoxNzkxODcyMjA5NzkxLCJjb3Vyc2VOYW1lIjoiTkVXIEluZm9zeXMgLVNFICwgRFNFICYgU1AgLVVwZGF0ZWQgUGF0dGVybiArIFBZUSArIEluZm9zeXMgdGVzdCBTZXJpZXMgd2l0aCBWaWRlbyBzb2wiLCJ0ZXN0SWQiOiI2MTAyYWVjMmYwYzg0OGExZTliMjE5OTMiLCJudW1iZXJPZkF0dGVtcHRzIjotMSwibWV0YURhdGEiOnsib2NzSWQiOjU4MjA1MTAzLCJvY3NUaW1lIjoxNzg5ODg1MjI4MDAwfSwiaWF0IjoxNzkxODcyMjA5LCJleHAiOjE3OTI0NzcwMDl9.oqpnemiWgpIyVMsHdoO2zBrPXSNJulRfPNkDKJZg03-Jq6dst1ynB7Hcd1Cwkgdt&testId=6102aec2f0c848a1e9b21993&user_email=hackwithinfyprep@gmail.com&user_id=159305746&defaultLanguage=en&isGenericShare=false",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "section": "Quantitative Aptitude",
+      "id": "6102aefdeedcff6b621aaa43",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "Looking into a mirror, the clock shows 9 : 30 as the time. The actual time is ________ \n ",
+      "questionHtml": "<p><span style=\"font-size: 14pt;\"><strong><span style=\"color: #666666; font-family: Verdana, Tahoma, Arial, sans-serif;\">Looking into a mirror, the clock shows 9 : 30 as the time. The actual time is ________&nbsp;</span></strong></span></p>\n<p>&nbsp;</p>",
+      "solutionText": "Answer: Option A Explanation: It is clear from Fig. (X) that if seen through a mirror, the time indicated by clock is 9 : 30. When the mirror is placed vertically at AB, its mirror i.e., Fix. (Y) shows the actual time in the clock i.e., 2 : 30.",
+      "solutionHtml": "<p><span style=\"font-size: 14pt;\"><span class=\"lf-green\" style=\"font-family: Verdana, Tahoma, Arial, sans-serif; color: #5eac1a;\"><span style=\"font-weight: 600;\">Answer:</span></span><span style=\"color: #666666; font-family: Verdana, Tahoma, Arial, sans-serif;\">&nbsp;</span><span style=\"color: #666666; font-family: Verdana, Tahoma, Arial, sans-serif;\">Option</span><span class=\"jq-hdnakqb\" style=\"color: #666666; font-family: Verdana, Tahoma, Arial, sans-serif; font-weight: 600;\">&nbsp;A</span></span></p>\n<p>&nbsp;</p>\n<p style=\"margin-bottom: 15px; font-family: Verdana, Tahoma, Arial, sans-serif; line-height: 1.5; color: #666666;\"><span class=\"lf-green\" style=\"color: #5eac1a; font-size: 14pt;\"><span style=\"font-weight: 600;\">Explanation:</span></span></p>\n<p style=\"margin-bottom: 15px; font-family: Verdana, Tahoma, Arial, sans-serif; line-height: 1.5; color: #666666;\"><span style=\"font-size: 14pt;\"><img style=\"border: 0px; max-width: 100%; height: auto;\" src=\"https://learnfrenzy.com/assets/images/non-verbal/mirror-images/clock-mirror-image-q1.png\" alt=\"mirror-image-of-letters-and-numbers---mirror-images-problems\" /></span></p>\n<p style=\"margin-bottom: 15px; font-family: Verdana, Tahoma, Arial, sans-serif; line-height: 1.5; color: #666666;\"><span style=\"font-size: 14pt;\">It is clear from Fig. (X) that if seen through a mirror, the time indicated by clock is 9 : 30. When the mirror is placed vertically at AB, its mirror&nbsp;<em>i.e.,&nbsp;</em>Fix. (Y) shows the actual time in the clock&nbsp;<em>i.e.,&nbsp;</em>2 : 30.</span></p>",
+      "options": [
+        {
+          "order": null,
+          "text": "2:30",
+          "html": "<p><span style=\"font-size: 14pt;\">2:30</span></p>",
+          "isCorrect": true
+        },
+        {
+          "order": null,
+          "text": "3:30",
+          "html": "<p><span style=\"font-size: 18.6667px;\">3:30</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "4:30",
+          "html": "<p><span style=\"font-size: 18.6667px;\">4:30</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "5:30",
+          "html": "<p><span style=\"font-size: 18.6667px;\">5:30</span></p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 2,
+      "section": "Quantitative Aptitude",
+      "id": "6102aefdeedcff784c1aaa48",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "When seen through a mirror, a clock shows 8 : 30. The correct time is ________",
+      "questionHtml": "<p><strong><span style=\"color: #666666; font-family: Verdana, Tahoma, Arial, sans-serif; font-size: 14pt;\">When seen through a mirror, a clock shows 8 : 30. The correct time is ________</span></strong></p>",
+      "solutionText": "Answer: Option B Explanation: It is clear from Fig. (X) that if seen through a mirror, the time indicated by clock is 8 : 30. When the mirror is placed vertically at AB, its mirror i.e., Fix. (Y) shows the actual time in the clock i.e., 3 : 30.",
+      "solutionHtml": "<p style=\"margin-bottom: 15px; font-family: Verdana, Tahoma, Arial, sans-serif; line-height: 1.5; color: #666666;\"><span style=\"font-size: 14pt;\"><span class=\"lf-green\" style=\"color: #5eac1a;\"><span style=\"font-weight: 600;\">Answer:</span></span>&nbsp;Option<span class=\"jq-hdnakqb\" style=\"font-weight: 600;\">&nbsp;B</span></span></p>\n<p style=\"margin-bottom: 15px; font-family: Verdana, Tahoma, Arial, sans-serif; line-height: 1.5; color: #666666;\"><span class=\"lf-green\" style=\"color: #5eac1a; font-size: 14pt;\"><span style=\"font-weight: 600;\">Explanation:</span></span></p>\n<p style=\"margin-bottom: 15px; font-family: Verdana, Tahoma, Arial, sans-serif; line-height: 1.5; color: #666666;\"><span style=\"font-size: 14pt;\"><img style=\"border: 0px; max-width: 100%; height: auto;\" src=\"https://learnfrenzy.com/assets/images/non-verbal/mirror-images/clock-mirror-image-q2.png\" alt=\"mirror-image-of-letters-and-numbers---mirror-images-problems\" /></span></p>\n<p style=\"margin-bottom: 15px; font-family: Verdana, Tahoma, Arial, sans-serif; line-height: 1.5; color: #666666;\"><span style=\"font-size: 14pt;\">It is clear from Fig. (X) that if seen through a mirror, the time indicated by clock is 8 : 30. When the mirror is placed vertically at AB, its mirror&nbsp;<em>i.e.,&nbsp;</em>Fix. (Y) shows the actual time in the clock&nbsp;<em>i.e.,</em>&nbsp;3 : 30.</span></p>",
+      "options": [
+        {
+          "order": null,
+          "text": "2:30",
+          "html": "<p><span style=\"font-size: 14pt;\">2:30</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "3:30",
+          "html": "<p><span style=\"font-size: 18.6667px;\">3:30</span></p>",
+          "isCorrect": true
+        },
+        {
+          "order": null,
+          "text": "4:30",
+          "html": "<p><span style=\"font-size: 18.6667px;\">4:30</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "5:30",
+          "html": "<p><span style=\"font-size: 18.6667px;\">5:30</span></p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 3,
+      "section": "Quantitative Aptitude",
+      "id": "6102aefdeedcff42b61aaa4d",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "By looking in a mirror, it appears that it is 6 : 30 in the clock. What is the real time?",
+      "questionHtml": "<p><strong><span style=\"color: #666666; font-family: Verdana, Tahoma, Arial, sans-serif; font-size: 14pt;\">By looking in a mirror, it appears that it is 6 : 30 in the clock. What is the real time?</span></strong></p>",
+      "solutionText": "Answer: Option B Explanation: It is clear from Fig. (X) that if seen through a mirror, the time indicated by clock is 6 : 30. When the mirror is placed vertically at AB, its mirror i.e., Fix. (Y) shows the actual time in the clock i.e., 5 : 30.",
+      "solutionHtml": "<p style=\"margin-bottom: 15px; font-family: Verdana, Tahoma, Arial, sans-serif; line-height: 1.5; color: #666666;\"><span style=\"font-size: 14pt;\"><span class=\"lf-green\" style=\"color: #5eac1a;\"><span style=\"font-weight: 600;\">Answer:</span></span>&nbsp;Option<span class=\"jq-hdnakqb\" style=\"font-weight: 600;\">&nbsp;B</span></span></p>\n<p style=\"margin-bottom: 15px; font-family: Verdana, Tahoma, Arial, sans-serif; line-height: 1.5; color: #666666;\"><span class=\"lf-green\" style=\"color: #5eac1a; font-size: 14pt;\"><span style=\"font-weight: 600;\">Explanation:</span></span></p>\n<p style=\"margin-bottom: 15px; font-family: Verdana, Tahoma, Arial, sans-serif; line-height: 1.5; color: #666666;\"><span style=\"font-size: 14pt;\"><img style=\"border: 0px; max-width: 100%; height: auto;\" src=\"https://learnfrenzy.com/assets/images/non-verbal/mirror-images/clock-mirror-image-q3.png\" alt=\"mirror-image-of-letters-and-numbers---mirror-images-problems\" /></span></p>\n<p style=\"margin-bottom: 15px; font-family: Verdana, Tahoma, Arial, sans-serif; line-height: 1.5; color: #666666;\"><span style=\"font-size: 14pt;\">It is clear from Fig. (X) that if seen through a mirror, the time indicated by clock is 6 : 30. When the mirror is placed vertically at AB, its mirror&nbsp;<em>i.e.,&nbsp;</em>Fix. (Y) shows the actual time in the clock&nbsp;<em>i.e.,&nbsp;</em>5 : 30.</span></p>",
+      "options": [
+        {
+          "order": null,
+          "text": "6:30",
+          "html": "<p><span style=\"font-size: 14pt;\">6:30</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "5:30",
+          "html": "<p><span style=\"font-size: 18.6667px;\">5:30</span></p>",
+          "isCorrect": true
+        },
+        {
+          "order": null,
+          "text": "4:30",
+          "html": "<p><span style=\"font-size: 14pt;\">4:30</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "3:30",
+          "html": "<p><span style=\"font-size: 18.6667px;\">3:30</span></p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 4,
+      "section": "Quantitative Aptitude",
+      "id": "6102aefdeedcffc02d1aaa52",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "When seen through a mirror, a watch shows 12 : 15. The correct time is",
+      "questionHtml": "<p><strong><span style=\"color: #666666; font-family: Verdana, Tahoma, Arial, sans-serif; font-size: 14pt;\">When seen through a mirror, a watch shows 12 : 15. The correct time is</span></strong></p>",
+      "solutionText": "Answer: Option D Explanation: It is clear from Fig. (X) that if seen through a mirror, the time indicated by clock is 12 : 15. When the mirror is placed vertically at AB, its mirror i.e., Fix. (Y) shows the actual time in the clock i.e., 11 : 45",
+      "solutionHtml": "<p style=\"margin-bottom: 15px; font-family: Verdana, Tahoma, Arial, sans-serif; line-height: 1.5; color: #666666;\"><span style=\"font-size: 14pt;\"><span class=\"lf-green\" style=\"color: #5eac1a;\"><span style=\"font-weight: 600;\">Answer:</span></span>&nbsp;Option<span class=\"jq-hdnakqb\" style=\"font-weight: 600;\">&nbsp;D</span></span></p>\n<p style=\"margin-bottom: 15px; font-family: Verdana, Tahoma, Arial, sans-serif; line-height: 1.5; color: #666666;\"><span class=\"lf-green\" style=\"color: #5eac1a; font-size: 14pt;\"><span style=\"font-weight: 600;\">Explanation:</span></span></p>\n<p style=\"margin-bottom: 15px; font-family: Verdana, Tahoma, Arial, sans-serif; line-height: 1.5; color: #666666;\"><span style=\"font-size: 14pt;\"><img style=\"border: 0px; max-width: 100%; height: auto;\" src=\"https://learnfrenzy.com/assets/images/non-verbal/mirror-images/clock-mirror-image-q4.png\" alt=\"mirror-image-of-letters-and-numbers---mirror-images-problems\" /></span></p>\n<p style=\"margin-bottom: 15px; font-family: Verdana, Tahoma, Arial, sans-serif; line-height: 1.5; color: #666666;\"><span style=\"font-size: 14pt;\">It is clear from Fig. (X) that if seen through a mirror, the time indicated by clock is 12 : 15. When the mirror is placed vertically at AB, its mirror&nbsp;<em>i.e.,&nbsp;</em>Fix. (Y) shows the actual time in the clock&nbsp;<em>i.e.,&nbsp;</em>11 : 45</span></p>",
+      "options": [
+        {
+          "order": null,
+          "text": "12 : 30",
+          "html": "<p><span style=\"color: #666666; font-family: Verdana, Tahoma; font-size: 14pt;\">12 : 30</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "1 : 15",
+          "html": "<p><span style=\"color: #666666; font-family: Verdana, Tahoma; font-size: 14pt;\">1 : 15</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "12 : 45",
+          "html": "<p><span style=\"color: #666666; font-family: Verdana, Tahoma; font-size: 14pt;\">12 : 45</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "11 : 45",
+          "html": "<p><span style=\"color: #666666; font-family: Verdana, Tahoma; font-size: 14pt;\">11 : 45</span></p>",
+          "isCorrect": true
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 5,
+      "section": "Quantitative Aptitude",
+      "id": "6102aefdeedcffa19f1aaa57",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": " \n\n\n\n\nWhich of the answer figure is exactly the mirror image of the given figure, when mirror is placed on the line AB?\n\n\n\n",
+      "questionHtml": "<p>&nbsp;</p>\n<table class=\"frenzy-tbl-container\" style=\"border-spacing: 0px; border-collapse: collapse; color: #666666; font-family: 'Open Sans', sans-serif; font-size: 13px;\" border=\"0\" width=\"100%\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr>\n<td class=\"frenzy-td-qtxt\" style=\"padding: 0px; font-family: Verdana, Arial, Tahoma; font-size: 14px;\" valign=\"top\">\n<p style=\"margin-bottom: 15px; font-family: Verdana, Tahoma, Arial, sans-serif; line-height: 1.5;\"><strong><span style=\"font-size: 14pt;\">Which of the answer figure is exactly the mirror image of the given figure, when mirror is placed on the line AB?</span></strong></p>\n<strong><span style=\"font-size: 14pt;\"><img style=\"border: 0px; vertical-align: middle; max-width: 100%; height: auto;\" src=\"https://learnfrenzy.com/assets/images/non-verbal/mirror-images/vertical-mirror-image-q1.png\" alt=\"based-on-vertical-mirror---mirror-images-problems\" /></span></strong></td>\n</tr>\n</tbody>\n</table>",
+      "solutionText": "Answer: Option A Explanation: Here, the mirror is placed vertically at AB on the RHS of the question figure. Hence, only the figure given in answer figure (1) would be obtained as the correct mirror image.",
+      "solutionHtml": "<p style=\"margin-bottom: 15px; font-family: Verdana, Tahoma, Arial, sans-serif; line-height: 1.5; color: #666666;\"><span style=\"font-size: 14pt;\"><span class=\"lf-green\" style=\"color: #5eac1a;\"><span style=\"font-weight: 600;\">Answer:</span></span>&nbsp;Option<span class=\"jq-hdnakqb\" style=\"font-weight: 600;\">&nbsp;A</span></span></p>\n<p style=\"margin-bottom: 15px; font-family: Verdana, Tahoma, Arial, sans-serif; line-height: 1.5; color: #666666;\"><span class=\"lf-green\" style=\"color: #5eac1a; font-size: 14pt;\"><span style=\"font-weight: 600;\">Explanation:</span></span></p>\n<p style=\"margin-bottom: 15px; font-family: Verdana, Tahoma, Arial, sans-serif; line-height: 1.5; color: #666666;\"><span style=\"font-size: 14pt;\">Here, the mirror is placed vertically at AB on the RHS of the question figure. Hence, only the figure given in answer figure (1) would be obtained as the correct mirror image.</span></p>",
+      "options": [
+        {
+          "order": null,
+          "text": "1",
+          "html": "<p><span style=\"font-size: 14pt;\">1</span></p>",
+          "isCorrect": true
+        },
+        {
+          "order": null,
+          "text": "2",
+          "html": "<p><span style=\"font-size: 14pt;\">2</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "3",
+          "html": "<p><span style=\"font-size: 14pt;\">3</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "4",
+          "html": "<p><span style=\"font-size: 14pt;\">4</span></p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": [
+        {
+          "original": "https://learnfrenzy.com/assets/images/non-verbal/mirror-images/vertical-mirror-image-q1.png",
+          "local": "Mirror Imge_figures/q5_1.png"
+        }
+      ]
+    },
+    {
+      "questionNumber": 6,
+      "section": "Quantitative Aptitude",
+      "id": "6102aefdeedcff55471aaa5c",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": " \n\n\n\n\nWhich of the answer figure is exactly the mirror image of the given figure, when mirror is placed on the line AB?\n\n\n\n",
+      "questionHtml": "<p>&nbsp;</p>\n<table class=\"frenzy-tbl-container\" style=\"border-spacing: 0px; border-collapse: collapse; color: #666666; font-family: 'Open Sans', sans-serif; font-size: 13px;\" border=\"0\" width=\"100%\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr>\n<td class=\"frenzy-td-qtxt\" style=\"padding: 0px; font-family: Verdana, Arial, Tahoma; font-size: 14px;\" valign=\"top\">\n<p style=\"margin-bottom: 15px; font-family: Verdana, Tahoma, Arial, sans-serif; line-height: 1.5;\"><strong><span style=\"font-size: 14pt;\">Which of the answer figure is exactly the mirror image of the given figure, when mirror is placed on the line AB?</span></strong></p>\n<strong><span style=\"font-size: 14pt;\"><img style=\"border: 0px; vertical-align: middle; max-width: 100%; height: auto;\" src=\"https://learnfrenzy.com/assets/images/non-verbal/mirror-images/vertical-mirror-q2.png\" alt=\"based-on-vertical-mirror---mirror-images-problems\" /></span></strong></td>\n</tr>\n</tbody>\n</table>",
+      "solutionText": "Answer: Option C Explanation: Here, the mirror is placed vertically at AB on the RHS of the question figure. Hence, only the figure given in answer figure (3) would be obtained as the correct mirror image.",
+      "solutionHtml": "<p style=\"margin-bottom: 15px; font-family: Verdana, Tahoma, Arial, sans-serif; line-height: 1.5; color: #666666;\"><span style=\"font-size: 14pt;\"><span class=\"lf-green\" style=\"color: #5eac1a;\"><span style=\"font-weight: 600;\">Answer:</span></span>&nbsp;Option<span class=\"jq-hdnakqb\" style=\"font-weight: 600;\">&nbsp;C</span></span></p>\n<p style=\"margin-bottom: 15px; font-family: Verdana, Tahoma, Arial, sans-serif; line-height: 1.5; color: #666666;\"><span class=\"lf-green\" style=\"color: #5eac1a; font-size: 14pt;\"><span style=\"font-weight: 600;\">Explanation:</span></span></p>\n<p style=\"margin-bottom: 15px; font-family: Verdana, Tahoma, Arial, sans-serif; line-height: 1.5; color: #666666;\"><span style=\"font-size: 14pt;\">Here, the mirror is placed vertically at AB on the RHS of the question figure. Hence, only the figure given in answer figure (3) would be obtained as the correct mirror image.</span></p>",
+      "options": [
+        {
+          "order": null,
+          "text": "1",
+          "html": "<p><span style=\"font-size: 14pt;\">1</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "2",
+          "html": "<p><span style=\"font-size: 14pt;\">2</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "3",
+          "html": "<p><span style=\"font-size: 14pt;\">3</span></p>",
+          "isCorrect": true
+        },
+        {
+          "order": null,
+          "text": "4",
+          "html": "<p><span style=\"font-size: 14pt;\">4</span></p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": [
+        {
+          "original": "https://learnfrenzy.com/assets/images/non-verbal/mirror-images/vertical-mirror-q2.png",
+          "local": "Mirror Imge_figures/q6_1.png"
+        }
+      ]
+    },
+    {
+      "questionNumber": 7,
+      "section": "Quantitative Aptitude",
+      "id": "6102aefdeedcff23931aaa61",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "Which of the answer figure is exactly the mirror image of the given figure, when mirror is placed on the line AB?\n",
+      "questionHtml": "<p style=\"margin-bottom: 15px; font-family: Verdana, Tahoma, Arial, sans-serif; line-height: 1.5; color: #666666;\"><strong><span style=\"font-size: 14pt;\">Which of the answer figure is exactly the mirror image of the given figure, when mirror is placed on the line AB?</span></strong></p>\n<p><strong><span style=\"font-size: 14pt;\"><img style=\"border: 0px; max-width: 100%; height: auto; color: #666666; font-family: Verdana, Arial, Tahoma;\" src=\"https://learnfrenzy.com/assets/images/non-verbal/mirror-images/vertical-mirror-q3.png\" alt=\"based-on-vertical-mirror---mirror-images-problems\" /></span></strong></p>",
+      "solutionText": "Answer: Option B Explanation: Here, the mirror is placed vertically at AB on the RHS of the question figure. Hence, only the figure given in answer figure (2) would be obtained as the correct mirror image.",
+      "solutionHtml": "<p style=\"margin-bottom: 15px; font-family: Verdana, Tahoma, Arial, sans-serif; line-height: 1.5; color: #666666;\"><span style=\"font-size: 14pt;\"><span class=\"lf-green\" style=\"color: #5eac1a;\"><span style=\"font-weight: 600;\">Answer:</span></span>&nbsp;Option<span class=\"jq-hdnakqb\" style=\"font-weight: 600;\">&nbsp;B</span></span></p>\n<p style=\"margin-bottom: 15px; font-family: Verdana, Tahoma, Arial, sans-serif; line-height: 1.5; color: #666666;\"><span class=\"lf-green\" style=\"color: #5eac1a; font-size: 14pt;\"><span style=\"font-weight: 600;\">Explanation:</span></span></p>\n<p style=\"margin-bottom: 15px; font-family: Verdana, Tahoma, Arial, sans-serif; line-height: 1.5; color: #666666;\"><span style=\"font-size: 14pt;\">Here, the mirror is placed vertically at AB on the RHS of the question figure. Hence, only the figure given in answer figure (2) would be obtained as the correct mirror image.</span></p>",
+      "options": [
+        {
+          "order": null,
+          "text": "1",
+          "html": "<p><span style=\"font-size: 14pt;\">1</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "2",
+          "html": "<p><span style=\"font-size: 14pt;\">2</span></p>",
+          "isCorrect": true
+        },
+        {
+          "order": null,
+          "text": "3",
+          "html": "<p><span style=\"font-size: 14pt;\">3</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "4",
+          "html": "<p><span style=\"font-size: 14pt;\">4</span></p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": [
+        {
+          "original": "https://learnfrenzy.com/assets/images/non-verbal/mirror-images/vertical-mirror-q3.png",
+          "local": "Mirror Imge_figures/q7_1.png"
+        }
+      ]
+    },
+    {
+      "questionNumber": 8,
+      "section": "Quantitative Aptitude",
+      "id": "6102aefdeedcff363e1aaa66",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": " \n\n\n\n\nWhich of the answer figure is exactly the mirror image of the given figure, when mirror is placed on the line AB?\n\n\n\n",
+      "questionHtml": "<p>&nbsp;</p>\n<table class=\"frenzy-tbl-container\" style=\"border-spacing: 0px; border-collapse: collapse; color: #666666; font-family: 'Open Sans', sans-serif; font-size: 13px;\" border=\"0\" width=\"100%\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr>\n<td class=\"frenzy-td-qtxt\" style=\"padding: 0px; font-family: Verdana, Arial, Tahoma; font-size: 14px;\" valign=\"top\">\n<p style=\"margin-bottom: 15px; font-family: Verdana, Tahoma, Arial, sans-serif; line-height: 1.5;\"><strong><span style=\"font-size: 14pt;\">Which of the answer figure is exactly the mirror image of the given figure, when mirror is placed on the line AB?</span></strong></p>\n<strong><span style=\"font-size: 14pt;\"><img style=\"border: 0px; vertical-align: middle; max-width: 100%; height: auto;\" src=\"https://learnfrenzy.com/assets/images/non-verbal/mirror-images/vertical-mirror-q4.png\" alt=\"based-on-vertical-mirror---mirror-images-problems\" /></span></strong></td>\n</tr>\n</tbody>\n</table>",
+      "solutionText": "Answer: Option D Explanation: Here, the mirror is placed vertically at AB on the RHS of the question figure. Hence, only the figure given in answer figure (4) would be obtained as the correct mirror image.",
+      "solutionHtml": "<p style=\"margin-bottom: 15px; font-family: Verdana, Tahoma, Arial, sans-serif; line-height: 1.5; color: #666666;\"><span style=\"font-size: 14pt;\"><span class=\"lf-green\" style=\"color: #5eac1a;\"><span style=\"font-weight: 600;\">Answer:</span></span>&nbsp;Option<span class=\"jq-hdnakqb\" style=\"font-weight: 600;\">&nbsp;D</span></span></p>\n<p style=\"margin-bottom: 15px; font-family: Verdana, Tahoma, Arial, sans-serif; line-height: 1.5; color: #666666;\"><span class=\"lf-green\" style=\"color: #5eac1a; font-size: 14pt;\"><span style=\"font-weight: 600;\">Explanation:</span></span></p>\n<p style=\"margin-bottom: 15px; font-family: Verdana, Tahoma, Arial, sans-serif; line-height: 1.5; color: #666666;\"><span style=\"font-size: 14pt;\">Here, the mirror is placed vertically at AB on the RHS of the question figure. Hence, only the figure given in answer figure (4) would be obtained as the correct mirror image.</span></p>",
+      "options": [
+        {
+          "order": null,
+          "text": "1",
+          "html": "<p><span style=\"font-size: 14pt;\">1</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "2",
+          "html": "<p><span style=\"font-size: 14pt;\">2</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "3",
+          "html": "<p><span style=\"font-size: 14pt;\">3</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "4",
+          "html": "<p><span style=\"font-size: 14pt;\">4</span></p>",
+          "isCorrect": true
+        }
+      ],
+      "embeddedImages": [
+        {
+          "original": "https://learnfrenzy.com/assets/images/non-verbal/mirror-images/vertical-mirror-q4.png",
+          "local": "Mirror Imge_figures/q8_1.png"
+        }
+      ]
+    },
+    {
+      "questionNumber": 9,
+      "section": "Quantitative Aptitude",
+      "id": "6102aefdeedcff19431aaa6b",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "Which of the answer figure is exactly the mirror image of the given figure, when mirror is placed on the line AB?\n",
+      "questionHtml": "<p style=\"margin-bottom: 15px; font-family: Verdana, Tahoma, Arial, sans-serif; line-height: 1.5; color: #666666;\"><strong><span style=\"font-size: 14pt;\">Which of the answer figure is exactly the mirror image of the given figure, when mirror is placed on the line AB?</span></strong></p>\n<p><strong><span style=\"font-size: 14pt;\"><img style=\"border: 0px; max-width: 100%; height: auto; color: #666666; font-family: Verdana, Arial, Tahoma;\" src=\"https://learnfrenzy.com/assets/images/non-verbal/mirror-images/vertical-mirror-q9.png\" alt=\"based-on-vertical-mirror---mirror-images-problems\" /></span></strong></p>",
+      "solutionText": "Answer: Option C Explanation: Here, the mirror is placed vertically at AB on the LHS of the question figure. Hence, only the figure given in answer figure (3) would be obtained as the correct mirror image.",
+      "solutionHtml": "<p style=\"margin-bottom: 15px; font-family: Verdana, Tahoma, Arial, sans-serif; line-height: 1.5; color: #666666;\"><span style=\"font-size: 14pt;\"><span class=\"lf-green\" style=\"color: #5eac1a;\"><span style=\"font-weight: 600;\">Answer:</span></span>&nbsp;Option<span class=\"jq-hdnakqb\" style=\"font-weight: 600;\">&nbsp;C</span></span></p>\n<p style=\"margin-bottom: 15px; font-family: Verdana, Tahoma, Arial, sans-serif; line-height: 1.5; color: #666666;\"><span class=\"lf-green\" style=\"color: #5eac1a; font-size: 14pt;\"><span style=\"font-weight: 600;\">Explanation:</span></span></p>\n<p style=\"margin-bottom: 15px; font-family: Verdana, Tahoma, Arial, sans-serif; line-height: 1.5; color: #666666;\"><span style=\"font-size: 14pt;\">Here, the mirror is placed vertically at AB on the LHS of the question figure. Hence, only the figure given in answer figure (3) would be obtained as the correct mirror image.</span></p>",
+      "options": [
+        {
+          "order": null,
+          "text": "1",
+          "html": "<p><span style=\"font-size: 14pt;\">1</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "2",
+          "html": "<p><span style=\"font-size: 14pt;\">2</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "3",
+          "html": "<p><span style=\"font-size: 14pt;\">3</span></p>",
+          "isCorrect": true
+        },
+        {
+          "order": null,
+          "text": "4",
+          "html": "<p><span style=\"font-size: 14pt;\">4</span></p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": [
+        {
+          "original": "https://learnfrenzy.com/assets/images/non-verbal/mirror-images/vertical-mirror-q9.png",
+          "local": "Mirror Imge_figures/q9_1.png"
+        }
+      ]
+    },
+    {
+      "questionNumber": 10,
+      "section": "Quantitative Aptitude",
+      "id": "6102aefdeedcffb8941aaa70",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "Which of the answer figures is exactly the mirror image of the given question figure when the mirror is held at XY?\n \n",
+      "questionHtml": "<p><strong><span style=\"color: #050002; font-family: Verdana, Geneva, Tahoma, Arial, Helvetica, sans-serif; letter-spacing: 1px; text-align: justify; font-size: 14pt;\">Which of the answer figures is exactly the mirror image of the given question figure when the mirror is held at XY?</span></strong></p>\n<p>&nbsp;</p>\n<p><img class=\"img-responsive\" style=\"border: 0px; margin: 0px; padding: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; line-height: inherit; font-family: Verdana, Geneva, Tahoma, Arial, Helvetica, sans-serif; pointer-events: none; display: block; max-width: 100%; height: 300px; color: #050002; letter-spacing: 1px; text-align: justify;\" src=\"http://www.studyandscore.com/images_all/3_Practice%20test/Mirror%20Images/Figure-based-Q11.png\" alt=\"Solved mirror image questions, concept of Mirror images, general aptitude, Mirror image questin answers, Previous solved papers, clock based Mirror image, figure based Mirror image, alpha numeric Mirror image, alphabet Mirror image,number based Mirror image, mirror reflections, mirror inversion\" width=\"435\" /></p>",
+      "solutionText": "Answer: Option B Explanation In the mirror image, &bull; The right side of the object becomes the left side &bull; The left side of the object becomes the right side &bull; The top and bottom sides of the object remain unchanged",
+      "solutionHtml": "<h5 class=\"text-center\" style=\"font-family: Verdana, Geneva, Tahoma, Arial, Helvetica, sans-serif; font-weight: inherit; line-height: inherit; color: #ffcc00; margin: 0px; padding: 9px 0px 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; letter-spacing: 1px; font-size: 14px !important;\"><span style=\"font-size: 14pt;\"><span style=\"margin: 0px; padding: 0px; font-style: inherit; font-variant: inherit; font-weight: bold; font-stretch: inherit; line-height: inherit; font-family: inherit; color: #00b050;\">Answer:</span>&nbsp;Option B</span></h5>\n<p>&nbsp;</p>\n<p style=\"padding-right: 10px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-weight: bold; font-stretch: inherit; line-height: inherit; font-family: Verdana, Geneva, Tahoma, Arial, Helvetica, sans-serif; text-align: justify; color: #050002; letter-spacing: 1px;\"><span style=\"margin: 0px; padding: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; line-height: inherit; font-family: inherit; color: #00b050; font-size: 14pt;\">Explanation</span></p>\n<p style=\"font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; line-height: inherit; font-family: Verdana, Geneva, Tahoma, Arial, Helvetica, sans-serif; text-align: justify; color: #050002; letter-spacing: 1px;\">&nbsp;</p>\n<p style=\"font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; line-height: inherit; font-family: Verdana, Geneva, Tahoma, Arial, Helvetica, sans-serif; color: #050002; letter-spacing: 1px;\">&nbsp;</p>\n<p style=\"font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; line-height: inherit; font-family: Verdana, Geneva, Tahoma, Arial, Helvetica, sans-serif; color: #050002; letter-spacing: 1px;\"><span style=\"font-size: 14pt;\"><img class=\"img-responsive\" style=\"border: 0px; margin: 0px; padding: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; line-height: inherit; font-family: inherit; pointer-events: none; display: block; max-width: 100%; height: 166px;\" src=\"https://www.studyandscore.com/images_all/3_Practice%20test/Mirror%20Images/Figure-based-E11.png\" alt=\"Solved mirror image questions, concept of Mirror images, general aptitude, Mirror image questin answers, Previous solved papers, clock based Mirror image, figure based Mirror image, alpha numeric Mirror image, alphabet Mirror image,number based Mirror image, mirror reflections, mirror inversion\" width=\"341\" /></span></p>\n<p style=\"font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; line-height: inherit; font-family: Verdana, Geneva, Tahoma, Arial, Helvetica, sans-serif; text-align: justify; color: #050002; letter-spacing: 1px;\">&nbsp;</p>\n<p style=\"font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; line-height: inherit; font-family: Verdana, Geneva, Tahoma, Arial, Helvetica, sans-serif; text-align: justify; color: #050002; letter-spacing: 1px;\"><span style=\"font-size: 14pt;\">In the mirror image,</span><br /><span style=\"font-size: 14pt;\">&bull; The right side of the object becomes the left side</span><br /><span style=\"font-size: 14pt;\">&bull; The left side of the object becomes the right side</span><br /><span style=\"font-size: 14pt;\">&bull; The top and bottom sides of the object remain unchanged</span></p>",
+      "options": [
+        {
+          "order": null,
+          "text": "2",
+          "html": "<p><span style=\"font-size: 14pt;\">2</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "4",
+          "html": "<p><span style=\"font-size: 14pt;\">4</span></p>",
+          "isCorrect": true
+        },
+        {
+          "order": null,
+          "text": "3",
+          "html": "<p><span style=\"font-size: 14pt;\">3</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "1",
+          "html": "<p><span style=\"font-size: 14pt;\">1</span></p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": [
+        {
+          "original": "http://www.studyandscore.com/images_all/3_Practice%20test/Mirror%20Images/Figure-based-Q11.png",
+          "local": "Mirror Imge_figures/q10_1.png"
+        }
+      ]
+    },
+    {
+      "questionNumber": 11,
+      "section": "Quantitative Aptitude",
+      "id": "6102aefdeedcff06191aaa75",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "Choose the alternative which is closely resembles the mirror image of the given combination.\n",
+      "questionHtml": "<p style=\"margin-bottom: 15px; font-family: Verdana, Tahoma, Arial, sans-serif; line-height: 1.5; color: #666666;\"><strong><span style=\"font-size: 14pt;\">Choose the alternative which is closely resembles the mirror image of the given combination.</span></strong></p>\n<p><strong><span style=\"font-size: 14pt;\"><img style=\"border: 0px; max-width: 100%; height: 157px; color: #666666; font-family: Verdana, Arial, Tahoma;\" src=\"https://learnfrenzy.com/assets/images/non-verbal/mirror-images/letters-and-numbers-mirror-expert-level-q1.png\" alt=\"mirror-image-of-letters-and-numbers---mirror-images-problems\" width=\"509\" /></span></strong></p>",
+      "solutionText": "Answer: Option C Explanation: The correct mirror image will be (3).",
+      "solutionHtml": "<p style=\"margin-bottom: 15px; font-family: Verdana, Tahoma, Arial, sans-serif; line-height: 1.5; color: #666666;\"><span style=\"font-size: 14pt;\"><span class=\"lf-green\" style=\"color: #5eac1a;\"><span style=\"font-weight: 600;\">Answer:</span></span>&nbsp;Option<span class=\"jq-hdnakqb\" style=\"font-weight: 600;\">&nbsp;C</span></span></p>\n<p style=\"margin-bottom: 15px; font-family: Verdana, Tahoma, Arial, sans-serif; line-height: 1.5; color: #666666;\"><span class=\"lf-green\" style=\"color: #5eac1a; font-size: 14pt;\"><span style=\"font-weight: 600;\">Explanation:</span></span></p>\n<p style=\"margin-bottom: 15px; font-family: Verdana, Tahoma, Arial, sans-serif; line-height: 1.5; color: #666666;\"><span style=\"font-size: 14pt;\">The correct mirror image will be (3).</span></p>",
+      "options": [
+        {
+          "order": null,
+          "text": "1",
+          "html": "<p><span style=\"font-size: 14pt;\">1</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "2",
+          "html": "<p><span style=\"font-size: 14pt;\">2</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "3",
+          "html": "<p><span style=\"font-size: 14pt;\">3</span></p>",
+          "isCorrect": true
+        },
+        {
+          "order": null,
+          "text": "4",
+          "html": "<p><span style=\"font-size: 14pt;\">4</span></p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": [
+        {
+          "original": "https://learnfrenzy.com/assets/images/non-verbal/mirror-images/letters-and-numbers-mirror-expert-level-q1.png",
+          "local": "Mirror Imge_figures/q11_1.png"
+        }
+      ]
+    },
+    {
+      "questionNumber": 12,
+      "section": "Quantitative Aptitude",
+      "id": "6102aefdeedcff95251aaa7a",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "Choose the alternative which is closely resembles the mirror image of the given combination.\n",
+      "questionHtml": "<p style=\"margin-bottom: 15px; font-family: Verdana, Tahoma, Arial, sans-serif; line-height: 1.5; color: #666666;\"><strong><span style=\"font-size: 14pt;\">Choose the alternative which is closely resembles the mirror image of the given combination.</span></strong></p>\n<p><strong><span style=\"font-size: 14pt;\"><img style=\"border: 0px; max-width: 100%; height: 140px; color: #666666; font-family: Verdana, Arial, Tahoma;\" src=\"https://learnfrenzy.com/assets/images/non-verbal/mirror-images/letters-and-numbers-mirror-expert-level-q2.png\" alt=\"mirror-image-of-letters-and-numbers---mirror-images-problems\" width=\"478\" /></span></strong></p>",
+      "solutionText": "Answer: Option A Explanation: The correct mirror image will be (1).",
+      "solutionHtml": "<p style=\"margin-bottom: 15px; font-family: Verdana, Tahoma, Arial, sans-serif; line-height: 1.5; color: #666666;\"><span style=\"font-size: 14pt;\"><span class=\"lf-green\" style=\"color: #5eac1a;\"><span style=\"font-weight: 600;\">Answer:</span></span>&nbsp;Option<span class=\"jq-hdnakqb\" style=\"font-weight: 600;\">&nbsp;A</span></span></p>\n<p style=\"margin-bottom: 15px; font-family: Verdana, Tahoma, Arial, sans-serif; line-height: 1.5; color: #666666;\"><span class=\"lf-green\" style=\"color: #5eac1a; font-size: 14pt;\"><span style=\"font-weight: 600;\">Explanation:</span></span></p>\n<p style=\"margin-bottom: 15px; font-family: Verdana, Tahoma, Arial, sans-serif; line-height: 1.5; color: #666666;\"><span style=\"font-size: 14pt;\">The correct mirror image will be (1).</span></p>",
+      "options": [
+        {
+          "order": null,
+          "text": "1",
+          "html": "<p><span style=\"font-size: 14pt;\">1</span></p>",
+          "isCorrect": true
+        },
+        {
+          "order": null,
+          "text": "2",
+          "html": "<p><span style=\"font-size: 14pt;\">2</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "3",
+          "html": "<p><span style=\"font-size: 14pt;\">3</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "4",
+          "html": "<p><span style=\"font-size: 14pt;\">4</span></p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": [
+        {
+          "original": "https://learnfrenzy.com/assets/images/non-verbal/mirror-images/letters-and-numbers-mirror-expert-level-q2.png",
+          "local": "Mirror Imge_figures/q12_1.png"
+        }
+      ]
+    },
+    {
+      "questionNumber": 13,
+      "section": "Quantitative Aptitude",
+      "id": "6102aefdeedcff7c201aaa7f",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "Choose the alternative which is closely resembles the mirror image of the given combination.\n",
+      "questionHtml": "<p style=\"margin-bottom: 15px; font-family: Verdana, Tahoma, Arial, sans-serif; line-height: 1.5; color: #666666;\"><strong><span style=\"font-size: 14pt;\">Choose the alternative which is closely resembles the mirror image of the given combination.</span></strong></p>\n<p><strong><span style=\"font-size: 14pt;\"><img style=\"border: 0px; max-width: 100%; height: 132px; color: #666666; font-family: Verdana, Arial, Tahoma;\" src=\"https://learnfrenzy.com/assets/images/non-verbal/mirror-images/letters-and-numbers-mirror-expert-level-q4.png\" alt=\"mirror-image-of-letters-and-numbers---mirror-images-problems\" width=\"566\" /></span></strong></p>",
+      "solutionText": "Answer: Option D Explanation: The correct mirror image will be (4).",
+      "solutionHtml": "<p><span style=\"font-size: 14pt;\"><span class=\"lf-green\" style=\"font-family: Verdana, Tahoma, Arial, sans-serif; color: #5eac1a;\"><span style=\"font-weight: 600;\">Answer:</span></span><span style=\"color: #666666; font-family: Verdana, Tahoma, Arial, sans-serif;\">&nbsp;</span><span style=\"color: #666666; font-family: Verdana, Tahoma, Arial, sans-serif;\">Option</span><span class=\"jq-hdnakqb\" style=\"color: #666666; font-family: Verdana, Tahoma, Arial, sans-serif; font-weight: 600;\">&nbsp;D</span></span></p>\n<p style=\"margin-bottom: 15px; font-family: Verdana, Tahoma, Arial, sans-serif; line-height: 1.5; color: #666666;\"><span class=\"lf-green\" style=\"color: #5eac1a; font-size: 14pt;\"><span style=\"font-weight: 600;\">Explanation:</span></span></p>\n<p style=\"margin-bottom: 15px; font-family: Verdana, Tahoma, Arial, sans-serif; line-height: 1.5; color: #666666;\"><span style=\"font-size: 14pt;\">The correct mirror image will be (4).</span></p>",
+      "options": [
+        {
+          "order": null,
+          "text": "1",
+          "html": "<p><span style=\"font-size: 14pt;\">1</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "2",
+          "html": "<p><span style=\"font-size: 14pt;\">2</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "3",
+          "html": "<p><span style=\"font-size: 14pt;\">3</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "4",
+          "html": "<p><span style=\"font-size: 14pt;\">4</span></p>",
+          "isCorrect": true
+        }
+      ],
+      "embeddedImages": [
+        {
+          "original": "https://learnfrenzy.com/assets/images/non-verbal/mirror-images/letters-and-numbers-mirror-expert-level-q4.png",
+          "local": "Mirror Imge_figures/q13_1.png"
+        }
+      ]
+    },
+    {
+      "questionNumber": 14,
+      "section": "Quantitative Aptitude",
+      "id": "6102aefdeedcff49211aaa84",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "Choose the alternative which is closely resembles the mirror image of the given combination.\n",
+      "questionHtml": "<p style=\"margin-bottom: 15px; font-family: Verdana, Tahoma, Arial, sans-serif; line-height: 1.5; color: #666666;\"><strong><span style=\"font-size: 14pt;\">Choose the alternative which is closely resembles the mirror image of the given combination.</span></strong></p>\n<p><strong><span style=\"font-size: 14pt;\"><img style=\"border: 0px; max-width: 100%; height: 117px; color: #666666; font-family: Verdana, Arial, Tahoma;\" src=\"https://learnfrenzy.com/assets/images/non-verbal/mirror-images/letters-and-numbers-mirror-expert-level-q5.png\" alt=\"mirror-image-of-letters-and-numbers---mirror-images-problems\" width=\"532\" /></span></strong></p>",
+      "solutionText": "Answer: Option D Explanation: The correct mirror image will be (4).",
+      "solutionHtml": "<p style=\"margin-bottom: 15px; font-family: Verdana, Tahoma, Arial, sans-serif; line-height: 1.5; color: #666666;\"><span style=\"font-size: 14pt;\"><span class=\"lf-green\" style=\"color: #5eac1a;\"><span style=\"font-weight: 600;\">Answer:</span></span>&nbsp;Option<span class=\"jq-hdnakqb\" style=\"font-weight: 600;\">&nbsp;D</span></span></p>\n<p style=\"margin-bottom: 15px; font-family: Verdana, Tahoma, Arial, sans-serif; line-height: 1.5; color: #666666;\"><span class=\"lf-green\" style=\"color: #5eac1a; font-size: 14pt;\"><span style=\"font-weight: 600;\">Explanation:</span></span></p>\n<p style=\"margin-bottom: 15px; font-family: Verdana, Tahoma, Arial, sans-serif; line-height: 1.5; color: #666666;\"><span style=\"font-size: 14pt;\">The correct mirror image will be (4).</span></p>",
+      "options": [
+        {
+          "order": null,
+          "text": "1",
+          "html": "<p><span style=\"font-size: 14pt;\">1</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "2",
+          "html": "<p><span style=\"font-size: 14pt;\">2</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "3",
+          "html": "<p><span style=\"font-size: 14pt;\">3</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "4",
+          "html": "<p><span style=\"font-size: 14pt;\">4</span></p>",
+          "isCorrect": true
+        }
+      ],
+      "embeddedImages": [
+        {
+          "original": "https://learnfrenzy.com/assets/images/non-verbal/mirror-images/letters-and-numbers-mirror-expert-level-q5.png",
+          "local": "Mirror Imge_figures/q14_1.png"
+        }
+      ]
+    },
+    {
+      "questionNumber": 15,
+      "section": "Quantitative Aptitude",
+      "id": "6102aefdeedcff615a1aaa89",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "Choose the alternative which is closely resembles the mirror image of the given combination.\n",
+      "questionHtml": "<p><strong><span style=\"font-size: 14pt;\"><span style=\"color: #666666; font-family: Verdana, Tahoma, Arial, sans-serif;\">Choose the alternative which is closely resembles the mirror image of the given combination.</span></span></strong></p>\n<p><strong><span style=\"font-size: 14pt;\"><img style=\"border: 0px; vertical-align: middle; max-width: 100%; height: 123px; color: #666666; font-family: Verdana, Arial, Tahoma;\" src=\"https://learnfrenzy.com/assets/images/non-verbal/mirror-images/letters-and-numbers-mirror-expert-level-q9.png\" alt=\"mirror-image-of-letters-and-numbers---mirror-images-problems\" width=\"429\" /></span></strong></p>",
+      "solutionText": "Answer: Option B Explanation: The correct mirror image will be (2).",
+      "solutionHtml": "<p style=\"margin-bottom: 15px; font-family: Verdana, Tahoma, Arial, sans-serif; line-height: 1.5; color: #666666;\"><span style=\"font-size: 14pt;\"><span class=\"lf-green\" style=\"color: #5eac1a;\"><span style=\"font-weight: 600;\">Answer:</span></span>&nbsp;Option<span class=\"jq-hdnakqb\" style=\"font-weight: 600;\">&nbsp;B</span></span></p>\n<p style=\"margin-bottom: 15px; font-family: Verdana, Tahoma, Arial, sans-serif; line-height: 1.5; color: #666666;\"><span class=\"lf-green\" style=\"color: #5eac1a; font-size: 14pt;\"><span style=\"font-weight: 600;\">Explanation:</span></span></p>\n<p style=\"margin-bottom: 15px; font-family: Verdana, Tahoma, Arial, sans-serif; line-height: 1.5; color: #666666;\"><span style=\"font-size: 14pt;\">The correct mirror image will be (2).</span></p>",
+      "options": [
+        {
+          "order": null,
+          "text": "1",
+          "html": "<p><span style=\"font-size: 14pt;\">1</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "2",
+          "html": "<p><span style=\"font-size: 14pt;\">2</span></p>",
+          "isCorrect": true
+        },
+        {
+          "order": null,
+          "text": "3",
+          "html": "<p><span style=\"font-size: 14pt;\">3</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "4",
+          "html": "<p><span style=\"font-size: 14pt;\">4</span></p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": [
+        {
+          "original": "https://learnfrenzy.com/assets/images/non-verbal/mirror-images/letters-and-numbers-mirror-expert-level-q9.png",
+          "local": "Mirror Imge_figures/q15_1.png"
+        }
+      ]
+    }
+  ]
+}

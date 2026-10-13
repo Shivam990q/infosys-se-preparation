@@ -1,0 +1,278 @@
+{
+  "testId": "68ceb4f96524303c0254a3d7",
+  "title": "Section III : Pseudo Codes Based on PYQ",
+  "engine": "Testbook SDK",
+  "folderPath": "Infosys Mock Test Series / Day 07 / 2. Full Length Mock II- Based on Infosys PYQ",
+  "totalQuestions": 7,
+  "totalMarks": 7,
+  "durationMinutes": 10.0,
+  "livePortalUrl": "https://testsdk.testbook.com/org-44032-844567/tests/68ceb4f96524303c0254a3d7#auth?page=test&auth=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiI1YjQzMDFmYzdkZTU1NzBjMzFkNTU1NTUiLCJzdWIiOiIxNTkzMDU3NDYiLCJhdWQiOiJDUCIsImV4cEludCI6MTc5MTk1ODYwOCwiaWF0SW50IjoxNzkxODcyMjA4LCJvcmdJZCI6IjViNDMwMWZjN2RlNTU3MGMzMWQ1NTU1NSIsInJvbGVzIjoic3R1ZGVudCIsIm5hbWUiOiJIYWNrV2l0aEluZnlQcmVwIn0.afWnlSma4YC72l8-TLvMBHCTkqFWP99_pdBA4P2X3UuyNfr8FOBBjhcztvzEKIResq0onKAHhto9l2GpzkUN10RifQaI7Ynz2ujetOznNuiZY5btu9SPVy-f_Cs27qqUQ44t313j71RhdAaN6Gb0SQWLou8bXENvYgyuVEedu14MXle364Sdf_hWGI4eVhbGpG8-X_2S3OzSVuxUXMPt2j9Bx8gA8X4Tgm_BQOeIHUfjitRDT8Tgw-USB5OjoiqsnQmdscrKwtjzf-AAR-_EG4xtZBeQVGCC-TbkWIcm6fhWjSugB0xvsgco9ZdimDAsITv1p6QpTumYwHvYmZpeVQ&hideRank=0&isCPTestBookMarkEnabled=true",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "section": "Technical Pseudo Codes -01",
+      "id": "68ceb4f9652430827254a3de",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "What is the output of the following C code? #include <stdio.h> int main() { int num = 987; int rem; while(num != 0) { rem = num % 4; num = num / 10; } printf(\"%d\", rem); }",
+      "questionHtml": "<p><span style=\"font-size: 14pt;\">What is the output of the following C code?</span></p>\n<p></p>\n<p><span style=\"font-size: 14pt;\">#include &lt;stdio.h&gt;</span></p>\n<p><span style=\"font-size: 14pt;\">int main()</span></p>\n<p><span style=\"font-size: 14pt;\">{</span></p>\n<p><span style=\"font-size: 14pt;\">&nbsp; &nbsp; int num = 987;</span></p>\n<p><span style=\"font-size: 14pt;\">&nbsp; &nbsp; int rem;</span></p>\n<p><span style=\"font-size: 14pt;\">&nbsp; &nbsp; while(num != 0)</span></p>\n<p><span style=\"font-size: 14pt;\">&nbsp; &nbsp; {</span></p>\n<p><span style=\"font-size: 14pt;\">&nbsp; &nbsp; &nbsp; &nbsp; rem = num % 4;</span></p>\n<p><span style=\"font-size: 14pt;\">&nbsp; &nbsp; &nbsp; &nbsp; num = num / 10;</span></p>\n<p><span style=\"font-size: 14pt;\">&nbsp; &nbsp; }</span></p>\n<p><span style=\"font-size: 14pt;\">&nbsp; &nbsp; printf(\"%d\", rem);</span></p>\n<p><span style=\"font-size: 14pt;\">}</span></p>",
+      "correctOption": "2",
+      "options": [
+        {
+          "order": "1",
+          "text": "0",
+          "html": "<p>0</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "1",
+          "html": "<p>1</p>",
+          "isCorrect": true
+        },
+        {
+          "order": "3",
+          "text": "10",
+          "html": "<p>10</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "5",
+          "html": "<p>5</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 2,
+      "section": "Technical Pseudo Codes -01",
+      "id": "68ceb4f96524307a6654a3d9",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "What is the output of the following C code? #include <stdio.h> int main() { float x = 0.0; long int y = 10; printf(\"%d\", sizeof(y) == sizeof(x + y)); return 0; }",
+      "questionHtml": "<p><span style=\"font-size: 14pt;\">What is the output of the following C code?</span></p>\n<p></p>\n<p><span style=\"font-size: 14pt;\">#include &lt;stdio.h&gt;</span></p>\n<p><span style=\"font-size: 14pt;\">int main()</span></p>\n<p><span style=\"font-size: 14pt;\">{</span></p>\n<p><span style=\"font-size: 14pt;\">&nbsp; &nbsp; float x = 0.0;</span></p>\n<p><span style=\"font-size: 14pt;\">&nbsp; &nbsp; long int y = 10;</span></p>\n<p></p>\n<p><span style=\"font-size: 14pt;\">&nbsp; &nbsp; printf(\"%d\", sizeof(y) == sizeof(x + y));</span></p>\n<p></p>\n<p><span style=\"font-size: 14pt;\">&nbsp; &nbsp; return 0;</span></p>\n<p><span style=\"font-size: 14pt;\">}</span></p>",
+      "correctOption": "2",
+      "options": [
+        {
+          "order": "1",
+          "text": "3",
+          "html": "<p>3</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "1",
+          "html": "<p>1</p>",
+          "isCorrect": true
+        },
+        {
+          "order": "3",
+          "text": "5",
+          "html": "<p>5</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "2",
+          "html": "<p>2</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 3,
+      "section": "Technical Pseudo Codes -01",
+      "id": "68ceb4f9652430504854a3dc",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "Predict the output of the given pseudocode if the value of the number is 6: Read number k = 2 i = 2 while i <= number: k = k * i i = i + 1 end while write k",
+      "questionHtml": "<p><span class=\"citation-35\" style=\"font-size: 14pt;\">Predict the output of the given pseudocode if the value of the </span></p>\n<p><span style=\"font-size: 14pt;\"><code>number</code><span class=\"citation-35 citation-end-35\"> is 6:</span></span></p>\n<p></p>\n<p><span class=\"citation-35 citation-end-35\" style=\"font-size: 14pt;\">Read number </span></p>\n<p><span class=\"citation-35 citation-end-35\" style=\"font-size: 14pt;\">k = 2 </span></p>\n<p><span class=\"citation-35 citation-end-35\" style=\"font-size: 14pt;\">i = 2 </span></p>\n<p><span class=\"citation-35 citation-end-35\" style=\"font-size: 14pt;\">while i &lt;= number: </span></p>\n<p><span class=\"citation-35 citation-end-35\" style=\"font-size: 14pt;\">&nbsp; k = k * i </span></p>\n<p><span class=\"citation-35 citation-end-35\" style=\"font-size: 14pt;\">&nbsp; i = i + 1 </span></p>\n<p><span class=\"citation-35 citation-end-35\" style=\"font-size: 14pt;\">end while </span></p>\n<p><span class=\"citation-35 citation-end-35\" style=\"font-size: 14pt;\">write k</span></p>\n<p></p>",
+      "correctOption": "1",
+      "options": [
+        {
+          "order": "1",
+          "text": "1440.0",
+          "html": "<p>1440.0</p>",
+          "isCorrect": true
+        },
+        {
+          "order": "2",
+          "text": "1340.0",
+          "html": "<p>1340.0</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "1700.0",
+          "html": "<p>1700.0</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "1560.0",
+          "html": "<p>1560.0</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 4,
+      "section": "Technical Pseudo Codes -01",
+      "id": "68ceb4f965243035dc54a3dd",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "What is the output of the following C code? int f(int x, int *py, int **ppz) { int y, z; **ppz += 1; z = **ppz; *py += 2; y = *py; x += 3; return x + y + z; } void main() { int c, *b, **a; c = 4; b = &c; a = &b; printf(\"%d \", f(c, b, a)); return 0; }",
+      "questionHtml": "<p><span style=\"font-size: 14pt;\">What is the output of the following C code?</span></p>\n<p></p>\n<p><span style=\"font-size: 14pt;\">int f(int x, int *py, int **ppz) {</span></p>\n<p><span style=\"font-size: 14pt;\">&nbsp; &nbsp; int y, z;</span></p>\n<p><span style=\"font-size: 14pt;\">&nbsp; &nbsp; **ppz += 1;</span></p>\n<p><span style=\"font-size: 14pt;\">&nbsp; &nbsp; z = **ppz;</span></p>\n<p><span style=\"font-size: 14pt;\">&nbsp; &nbsp; *py += 2;</span></p>\n<p><span style=\"font-size: 14pt;\">&nbsp; &nbsp; y = *py;</span></p>\n<p><span style=\"font-size: 14pt;\">&nbsp; &nbsp; x += 3;</span></p>\n<p><span style=\"font-size: 14pt;\">&nbsp; &nbsp; return x + y + z;</span></p>\n<p><span style=\"font-size: 14pt;\">}</span></p>\n<p><span style=\"font-size: 14pt;\">void main() {</span></p>\n<p><span style=\"font-size: 14pt;\">&nbsp; &nbsp; int c, *b, **a;</span></p>\n<p><span style=\"font-size: 14pt;\">&nbsp; &nbsp; c = 4;</span></p>\n<p><span style=\"font-size: 14pt;\">&nbsp; &nbsp; b = &amp;c;</span></p>\n<p><span style=\"font-size: 14pt;\">&nbsp; &nbsp; a = &amp;b;</span></p>\n<p><span style=\"font-size: 14pt;\">&nbsp; &nbsp; printf(\"%d \", f(c, b, a));</span></p>\n<p><span style=\"font-size: 14pt;\">&nbsp; &nbsp; return 0;</span></p>\n<p><span style=\"font-size: 14pt;\">}</span></p>",
+      "correctOption": "2",
+      "options": [
+        {
+          "order": "1",
+          "text": "18",
+          "html": "<p>18</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "19",
+          "html": "<p>19</p>",
+          "isCorrect": true
+        },
+        {
+          "order": "3",
+          "text": "21",
+          "html": "<p>21</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "22",
+          "html": "<p>22</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 5,
+      "section": "Technical Pseudo Codes -01",
+      "id": "68ceb4f96524306be954a3da",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "What is the output of the following C code? #include <stdio.h> int main() { int a = 12; void *ptr = (int *)&a; printf(\"%d\", *ptr); getchar(); return 0; }",
+      "questionHtml": "<p><span style=\"font-size: 14pt;\">What is the output of the following C code?</span></p>\n<p></p>\n<p><span style=\"font-size: 14pt;\">#include &lt;stdio.h&gt;</span></p>\n<p><span style=\"font-size: 14pt;\">int main()</span></p>\n<p><span style=\"font-size: 14pt;\">{</span></p>\n<p><span style=\"font-size: 14pt;\">&nbsp; &nbsp; int a = 12;</span></p>\n<p><span style=\"font-size: 14pt;\">&nbsp; &nbsp; void *ptr = (int *)&amp;a;</span></p>\n<p><span style=\"font-size: 14pt;\">&nbsp; &nbsp; printf(\"%d\", *ptr);</span></p>\n<p><span style=\"font-size: 14pt;\">&nbsp; &nbsp; getchar();</span></p>\n<p><span style=\"font-size: 14pt;\">&nbsp; &nbsp; return 0;</span></p>\n<p><span style=\"font-size: 14pt;\">}</span></p>",
+      "correctOption": "2",
+      "options": [
+        {
+          "order": "1",
+          "text": "12",
+          "html": "<p>12</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "Compiler Error",
+          "html": "<p>Compiler Error</p>",
+          "isCorrect": true
+        },
+        {
+          "order": "3",
+          "text": "Run Time Error",
+          "html": "<p>Run Time Error</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "0",
+          "html": "<p>0</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 6,
+      "section": "Technical Pseudo Codes -01",
+      "id": "68ceb4f96524303e3454a3db",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "Predict the output of the following pseudocode. Integer x, y, z Set x = -2, y = 3, z = 1 if (x + (2 & 2) && y + (3 & 3) && z + (2 ^ 2)) x = x - 2 y = x Else x = z y = y ^ 2 End if Print x + y + z",
+      "questionHtml": "<p><span style=\"font-size: 14pt;\">Predict the output of the following pseudocode.&nbsp;</span></p>\n<p></p>\n<p><span style=\"font-size: 14pt;\">Integer x, y, z </span></p>\n<p><span style=\"font-size: 14pt;\">Set x = -2, y = 3, z = 1 </span></p>\n<p></p>\n<p><span style=\"font-size: 14pt;\">if (x + (2 &amp; 2) &amp;&amp; y + (3 &amp; 3) &amp;&amp; z + (2 ^ 2)) </span></p>\n<p><span style=\"font-size: 14pt;\">&nbsp; x = x - 2 </span></p>\n<p><span style=\"font-size: 14pt;\">&nbsp; y = x </span></p>\n<p><span style=\"font-size: 14pt;\">Else </span></p>\n<p><span style=\"font-size: 14pt;\">&nbsp; x = z </span></p>\n<p><span style=\"font-size: 14pt;\">&nbsp; y = y ^ 2 </span></p>\n<p><span style=\"font-size: 14pt;\">End if </span></p>\n<p><span style=\"font-size: 14pt;\">Print x + y + z</span></p>",
+      "correctOption": "3",
+      "options": [
+        {
+          "order": "1",
+          "text": "2",
+          "html": "<p>2</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "11",
+          "html": "<p>11</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "3",
+          "html": "<p>3</p>",
+          "isCorrect": true
+        },
+        {
+          "order": "4",
+          "text": "0",
+          "html": "<p>0</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 7,
+      "section": "Technical Pseudo Codes -01",
+      "id": "68ceb4f9652430d74354a3df",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "int main() { int x, y = 5, z = 5; x = y == z; Print(x) return 0; }",
+      "questionHtml": "<p><span style=\"font-size: 14pt;\">int main()</span></p>\n<p><span style=\"font-size: 14pt;\">{</span></p>\n<p><span style=\"font-size: 14pt;\">&nbsp; &nbsp; int x, y = 5, z = 5;</span></p>\n<p><span style=\"font-size: 14pt;\">&nbsp; &nbsp; x = y == z;</span></p>\n<p><span style=\"font-size: 14pt;\">&nbsp; &nbsp; Print(x)</span></p>\n<p><span style=\"font-size: 14pt;\">&nbsp; &nbsp; return 0;</span></p>\n<p><span style=\"font-size: 14pt;\">}</span></p>",
+      "correctOption": "2",
+      "options": [
+        {
+          "order": "1",
+          "text": "0",
+          "html": "<p>0</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "1",
+          "html": "<p>1</p>",
+          "isCorrect": true
+        },
+        {
+          "order": "3",
+          "text": "5",
+          "html": "<p>5</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "Compilation Error",
+          "html": "<p>Compilation Error</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    }
+  ]
+}

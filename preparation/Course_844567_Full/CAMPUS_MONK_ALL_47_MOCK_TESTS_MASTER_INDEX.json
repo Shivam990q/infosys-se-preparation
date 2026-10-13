@@ -1,0 +1,430 @@
+{
+  "totalTestsHarvested": 47,
+  "totalQuestionsHarvested": 777,
+  "totalDiagramsDownloaded": 225,
+  "tests": [
+    {
+      "name": "DISTANCE AND DIRECTION TEST 02",
+      "engine": "Classplus CMS",
+      "questionsCount": 15,
+      "imagesCount": 0,
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section I : Logical Reasoning & Puzzle / 2 : Distance and Direction / Topic Test",
+      "jsonPath": "Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section I _ Logical Reasoning & Puzzle/2 _ Distance and Direction/Topic Test/DISTANCE AND DIRECTION TEST 02_QUESTIONS.json",
+      "mdPath": "Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section I _ Logical Reasoning & Puzzle/2 _ Distance and Direction/Topic Test/DISTANCE AND DIRECTION TEST 02_PAPER.md"
+    },
+    {
+      "name": "DISTANCE AND DIRECTION TEST",
+      "engine": "Classplus CMS",
+      "questionsCount": 10,
+      "imagesCount": 0,
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section I : Logical Reasoning & Puzzle / 2 : Distance and Direction / Topic Test",
+      "jsonPath": "Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section I _ Logical Reasoning & Puzzle/2 _ Distance and Direction/Topic Test/DISTANCE AND DIRECTION TEST_QUESTIONS.json",
+      "mdPath": "Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section I _ Logical Reasoning & Puzzle/2 _ Distance and Direction/Topic Test/DISTANCE AND DIRECTION TEST_PAPER.md"
+    },
+    {
+      "name": "Coding decoding",
+      "engine": "Classplus CMS",
+      "questionsCount": 20,
+      "imagesCount": 0,
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section I : Logical Reasoning & Puzzle / 1 : Alphabet Related Topics / 2. Topic Test",
+      "jsonPath": "Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section I _ Logical Reasoning & Puzzle/1 _ Alphabet Related Topics/2. Topic Test/Coding decoding_QUESTIONS.json",
+      "mdPath": "Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section I _ Logical Reasoning & Puzzle/1 _ Alphabet Related Topics/2. Topic Test/Coding decoding_PAPER.md"
+    },
+    {
+      "name": "BLOOD RELATION TEST 01",
+      "engine": "Classplus CMS",
+      "questionsCount": 15,
+      "imagesCount": 0,
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section I : Logical Reasoning & Puzzle / 4 :  Blood Relation / Topic Mock Test",
+      "jsonPath": "Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section I _ Logical Reasoning & Puzzle/4 _ Blood Relation/Topic Mock Test/BLOOD RELATION TEST 01_QUESTIONS.json",
+      "mdPath": "Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section I _ Logical Reasoning & Puzzle/4 _ Blood Relation/Topic Mock Test/BLOOD RELATION TEST 01_PAPER.md"
+    },
+    {
+      "name": "syllogisms 01",
+      "engine": "Classplus CMS",
+      "questionsCount": 15,
+      "imagesCount": 0,
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section I : Logical Reasoning & Puzzle / 8 : Critical Reasoning & Syllogism / Syllogism / Topic Tests",
+      "jsonPath": "Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section I _ Logical Reasoning & Puzzle/8 _ Critical Reasoning & Syllogism/Syllogism/Topic Tests/syllogisms 01_QUESTIONS.json",
+      "mdPath": "Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section I _ Logical Reasoning & Puzzle/8 _ Critical Reasoning & Syllogism/Syllogism/Topic Tests/syllogisms 01_PAPER.md"
+    },
+    {
+      "name": "syllogisms Test 02",
+      "engine": "Classplus CMS",
+      "questionsCount": 15,
+      "imagesCount": 0,
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section I : Logical Reasoning & Puzzle / 8 : Critical Reasoning & Syllogism / Syllogism / Topic Tests",
+      "jsonPath": "Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section I _ Logical Reasoning & Puzzle/8 _ Critical Reasoning & Syllogism/Syllogism/Topic Tests/syllogisms Test 02_QUESTIONS.json",
+      "mdPath": "Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section I _ Logical Reasoning & Puzzle/8 _ Critical Reasoning & Syllogism/Syllogism/Topic Tests/syllogisms Test 02_PAPER.md"
+    },
+    {
+      "name": "Syllogisms 03",
+      "engine": "Classplus CMS",
+      "questionsCount": 15,
+      "imagesCount": 0,
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section I : Logical Reasoning & Puzzle / 8 : Critical Reasoning & Syllogism / Syllogism / Topic Tests",
+      "jsonPath": "Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section I _ Logical Reasoning & Puzzle/8 _ Critical Reasoning & Syllogism/Syllogism/Topic Tests/Syllogisms 03_QUESTIONS.json",
+      "mdPath": "Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section I _ Logical Reasoning & Puzzle/8 _ Critical Reasoning & Syllogism/Syllogism/Topic Tests/Syllogisms 03_PAPER.md"
+    },
+    {
+      "name": "Calender _ LR",
+      "engine": "Testbook SDK",
+      "questionsCount": 11,
+      "imagesCount": 0,
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section I : Logical Reasoning & Puzzle / Module 12: Clocks & Calendar / Calenadar",
+      "jsonPath": "Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section I _ Logical Reasoning & Puzzle/Module 12_ Clocks & Calendar/Calenadar/Calender _ LR_QUESTIONS.json",
+      "mdPath": "Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section I _ Logical Reasoning & Puzzle/Module 12_ Clocks & Calendar/Calenadar/Calender _ LR_PAPER.md"
+    },
+    {
+      "name": "Number Puzzles",
+      "engine": "Classplus CMS",
+      "questionsCount": 15,
+      "imagesCount": 15,
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section I : Logical Reasoning & Puzzle / Module 11 :  Dice Mirror Image Water",
+      "jsonPath": "Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section I _ Logical Reasoning & Puzzle/Module 11 _ Dice Mirror Image Water/Number Puzzles_QUESTIONS.json",
+      "mdPath": "Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section I _ Logical Reasoning & Puzzle/Module 11 _ Dice Mirror Image Water/Number Puzzles_PAPER.md"
+    },
+    {
+      "name": "Water Image",
+      "engine": "Classplus CMS",
+      "questionsCount": 15,
+      "imagesCount": 16,
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section I : Logical Reasoning & Puzzle / Module 11 :  Dice Mirror Image Water",
+      "jsonPath": "Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section I _ Logical Reasoning & Puzzle/Module 11 _ Dice Mirror Image Water/Water Image_QUESTIONS.json",
+      "mdPath": "Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section I _ Logical Reasoning & Puzzle/Module 11 _ Dice Mirror Image Water/Water Image_PAPER.md"
+    },
+    {
+      "name": "Mirror Imge",
+      "engine": "Classplus CMS",
+      "questionsCount": 15,
+      "imagesCount": 11,
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section I : Logical Reasoning & Puzzle / Module 11 :  Dice Mirror Image Water",
+      "jsonPath": "Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section I _ Logical Reasoning & Puzzle/Module 11 _ Dice Mirror Image Water/Mirror Imge_QUESTIONS.json",
+      "mdPath": "Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section I _ Logical Reasoning & Puzzle/Module 11 _ Dice Mirror Image Water/Mirror Imge_PAPER.md"
+    },
+    {
+      "name": "Paper Folding",
+      "engine": "Classplus CMS",
+      "questionsCount": 15,
+      "imagesCount": 17,
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section I : Logical Reasoning & Puzzle / Module 11 :  Dice Mirror Image Water / Paper Folding / Topic Test",
+      "jsonPath": "Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section I _ Logical Reasoning & Puzzle/Module 11 _ Dice Mirror Image Water/Paper Folding/Topic Test/Paper Folding_QUESTIONS.json",
+      "mdPath": "Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section I _ Logical Reasoning & Puzzle/Module 11 _ Dice Mirror Image Water/Paper Folding/Topic Test/Paper Folding_PAPER.md"
+    },
+    {
+      "name": "Percentage  01- Imp Test",
+      "engine": "Testbook SDK",
+      "questionsCount": 15,
+      "imagesCount": 0,
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section II : Technical Ability ( Numerical ) / 2. Numerical ability/Quantitative Aptitude / 1. Percentage - With DPP Solution ( 100 Questions)",
+      "jsonPath": "Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section II _ Technical Ability ( Numerical )/2. Numerical ability/Quantitative Aptitude/1. Percentage - With DPP Solution ( 100 Questions)/Percentage  01- Imp Test_QUESTIONS.json",
+      "mdPath": "Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section II _ Technical Ability ( Numerical )/2. Numerical ability/Quantitative Aptitude/1. Percentage - With DPP Solution ( 100 Questions)/Percentage  01- Imp Test_PAPER.md"
+    },
+    {
+      "name": "Partnership",
+      "engine": "Classplus CMS",
+      "questionsCount": 15,
+      "imagesCount": 0,
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section II : Technical Ability ( Numerical ) / 2. Numerical ability/Quantitative Aptitude / 8 Partnership & Average / 1 Partnership",
+      "jsonPath": "Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section II _ Technical Ability ( Numerical )/2. Numerical ability/Quantitative Aptitude/8 Partnership & Average/1 Partnership/Partnership_QUESTIONS.json",
+      "mdPath": "Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section II _ Technical Ability ( Numerical )/2. Numerical ability/Quantitative Aptitude/8 Partnership & Average/1 Partnership/Partnership_PAPER.md"
+    },
+    {
+      "name": "Mensuration Pre-Test",
+      "engine": "Testbook SDK",
+      "questionsCount": 10,
+      "imagesCount": 1,
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section II : Technical Ability ( Numerical ) / 2. Numerical ability/Quantitative Aptitude / 16 : Mensuration",
+      "jsonPath": "Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section II _ Technical Ability ( Numerical )/2. Numerical ability/Quantitative Aptitude/16 _ Mensuration/Mensuration Pre-Test_QUESTIONS.json",
+      "mdPath": "Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section II _ Technical Ability ( Numerical )/2. Numerical ability/Quantitative Aptitude/16 _ Mensuration/Mensuration Pre-Test_PAPER.md"
+    },
+    {
+      "name": "Synonym & Antonym",
+      "engine": "Classplus CMS",
+      "questionsCount": 10,
+      "imagesCount": 0,
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section IV & V : English & Grammar / Module 1: Vocab / Topic Test",
+      "jsonPath": "Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section IV & V _ English & Grammar/Module 1_ Vocab/Topic Test/Synonym & Antonym_QUESTIONS.json",
+      "mdPath": "Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section IV & V _ English & Grammar/Module 1_ Vocab/Topic Test/Synonym & Antonym_PAPER.md"
+    },
+    {
+      "name": "ENGLISH SESSION",
+      "engine": "Classplus CMS",
+      "questionsCount": 30,
+      "imagesCount": 0,
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section IV & V : English & Grammar / Module 3: Reading Comprehension",
+      "jsonPath": "Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section IV & V _ English & Grammar/Module 3_ Reading Comprehension/ENGLISH SESSION_QUESTIONS.json",
+      "mdPath": "Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section IV & V _ English & Grammar/Module 3_ Reading Comprehension/ENGLISH SESSION_PAPER.md"
+    },
+    {
+      "name": "VERBAL ABILITY _RC 02",
+      "engine": "Classplus CMS",
+      "questionsCount": 15,
+      "imagesCount": 0,
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section IV & V : English & Grammar / Module 3: Reading Comprehension",
+      "jsonPath": "Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section IV & V _ English & Grammar/Module 3_ Reading Comprehension/VERBAL ABILITY _RC 02_QUESTIONS.json",
+      "mdPath": "Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section IV & V _ English & Grammar/Module 3_ Reading Comprehension/VERBAL ABILITY _RC 02_PAPER.md"
+    },
+    {
+      "name": "VERBAL ABILITY_RC 01",
+      "engine": "Classplus CMS",
+      "questionsCount": 15,
+      "imagesCount": 0,
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section IV & V : English & Grammar / Module 3: Reading Comprehension",
+      "jsonPath": "Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section IV & V _ English & Grammar/Module 3_ Reading Comprehension/VERBAL ABILITY_RC 01_QUESTIONS.json",
+      "mdPath": "Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section IV & V _ English & Grammar/Module 3_ Reading Comprehension/VERBAL ABILITY_RC 01_PAPER.md"
+    },
+    {
+      "name": "LR (Number Puzzle Questions)",
+      "engine": "Testbook SDK",
+      "questionsCount": 17,
+      "imagesCount": 19,
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section VI: Puzzle Solving",
+      "jsonPath": "Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section VI_ Puzzle Solving/LR (Number Puzzle Questions)_QUESTIONS.json",
+      "mdPath": "Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section VI_ Puzzle Solving/LR (Number Puzzle Questions)_PAPER.md"
+    },
+    {
+      "name": "1. Full Length Logical Reasoning Mock ( Video Sol)",
+      "engine": "Testbook SDK",
+      "questionsCount": 20,
+      "imagesCount": 25,
+      "folderPath": "Infosys Mock Test Series / Day 01",
+      "jsonPath": "Course_844567_Full/Infosys Mock Test Series/Day 01/1. Full Length Logical Reasoning Mock ( Video Sol)_QUESTIONS.json",
+      "mdPath": "Course_844567_Full/Infosys Mock Test Series/Day 01/1. Full Length Logical Reasoning Mock ( Video Sol)_PAPER.md"
+    },
+    {
+      "name": "1. Full length verbal ability",
+      "engine": "Testbook SDK",
+      "questionsCount": 25,
+      "imagesCount": 0,
+      "folderPath": "Infosys Mock Test Series / Day 01",
+      "jsonPath": "Course_844567_Full/Infosys Mock Test Series/Day 01/1. Full length verbal ability_QUESTIONS.json",
+      "mdPath": "Course_844567_Full/Infosys Mock Test Series/Day 01/1. Full length verbal ability_PAPER.md"
+    },
+    {
+      "name": "1. Full Length Numerical Ability with Video Solution- Level -Medium",
+      "engine": "Testbook SDK",
+      "questionsCount": 20,
+      "imagesCount": 19,
+      "folderPath": "Infosys Mock Test Series / Day 01",
+      "jsonPath": "Course_844567_Full/Infosys Mock Test Series/Day 01/1. Full Length Numerical Ability with Video Solution- Level -Medium_QUESTIONS.json",
+      "mdPath": "Course_844567_Full/Infosys Mock Test Series/Day 01/1. Full Length Numerical Ability with Video Solution- Level -Medium_PAPER.md"
+    },
+    {
+      "name": "2. Full length Logical Reasoning (with sol)",
+      "engine": "Classplus CMS",
+      "questionsCount": 15,
+      "imagesCount": 16,
+      "folderPath": "Infosys Mock Test Series / Day 02",
+      "jsonPath": "Course_844567_Full/Infosys Mock Test Series/Day 02/2. Full length Logical Reasoning (with sol)_QUESTIONS.json",
+      "mdPath": "Course_844567_Full/Infosys Mock Test Series/Day 02/2. Full length Logical Reasoning (with sol)_PAPER.md"
+    },
+    {
+      "name": "2. Full length Verbal Ability",
+      "engine": "Classplus CMS",
+      "questionsCount": 20,
+      "imagesCount": 0,
+      "folderPath": "Infosys Mock Test Series / Day 02",
+      "jsonPath": "Course_844567_Full/Infosys Mock Test Series/Day 02/2. Full length Verbal Ability_QUESTIONS.json",
+      "mdPath": "Course_844567_Full/Infosys Mock Test Series/Day 02/2. Full length Verbal Ability_PAPER.md"
+    },
+    {
+      "name": "2. Full length Quantitative Aptitude (with sol) Level -2",
+      "engine": "Classplus CMS",
+      "questionsCount": 14,
+      "imagesCount": 10,
+      "folderPath": "Infosys Mock Test Series / Day 02",
+      "jsonPath": "Course_844567_Full/Infosys Mock Test Series/Day 02/2. Full length Quantitative Aptitude (with sol) Level -2_QUESTIONS.json",
+      "mdPath": "Course_844567_Full/Infosys Mock Test Series/Day 02/2. Full length Quantitative Aptitude (with sol) Level -2_PAPER.md"
+    },
+    {
+      "name": "3. Full Length Verbala Ability Mock",
+      "engine": "Classplus CMS",
+      "questionsCount": 20,
+      "imagesCount": 0,
+      "folderPath": "Infosys Mock Test Series / Day 03",
+      "jsonPath": "Course_844567_Full/Infosys Mock Test Series/Day 03/3. Full Length Verbala Ability Mock_QUESTIONS.json",
+      "mdPath": "Course_844567_Full/Infosys Mock Test Series/Day 03/3. Full Length Verbala Ability Mock_PAPER.md"
+    },
+    {
+      "name": "3. Full length Quantitative Aptitude (with sol) Level -1-2",
+      "engine": "Classplus CMS",
+      "questionsCount": 13,
+      "imagesCount": 4,
+      "folderPath": "Infosys Mock Test Series / Day 03",
+      "jsonPath": "Course_844567_Full/Infosys Mock Test Series/Day 03/3. Full length Quantitative Aptitude (with sol) Level -1-2_QUESTIONS.json",
+      "mdPath": "Course_844567_Full/Infosys Mock Test Series/Day 03/3. Full length Quantitative Aptitude (with sol) Level -1-2_PAPER.md"
+    },
+    {
+      "name": "3. Full Length Logical Reasoning Mock(with sol)",
+      "engine": "Classplus CMS",
+      "questionsCount": 29,
+      "imagesCount": 25,
+      "folderPath": "Infosys Mock Test Series / Day 03",
+      "jsonPath": "Course_844567_Full/Infosys Mock Test Series/Day 03/3. Full Length Logical Reasoning Mock(with sol)_QUESTIONS.json",
+      "mdPath": "Course_844567_Full/Infosys Mock Test Series/Day 03/3. Full Length Logical Reasoning Mock(with sol)_PAPER.md"
+    },
+    {
+      "name": "4. Full Length Logical Reasoning(with sol)",
+      "engine": "Testbook SDK",
+      "questionsCount": 25,
+      "imagesCount": 26,
+      "folderPath": "Infosys Mock Test Series / Day 04",
+      "jsonPath": "Course_844567_Full/Infosys Mock Test Series/Day 04/4. Full Length Logical Reasoning(with sol)_QUESTIONS.json",
+      "mdPath": "Course_844567_Full/Infosys Mock Test Series/Day 04/4. Full Length Logical Reasoning(with sol)_PAPER.md"
+    },
+    {
+      "name": "4. Full Length Verbal Ability",
+      "engine": "Classplus CMS",
+      "questionsCount": 20,
+      "imagesCount": 0,
+      "folderPath": "Infosys Mock Test Series / Day 04",
+      "jsonPath": "Course_844567_Full/Infosys Mock Test Series/Day 04/4. Full Length Verbal Ability_QUESTIONS.json",
+      "mdPath": "Course_844567_Full/Infosys Mock Test Series/Day 04/4. Full Length Verbal Ability_PAPER.md"
+    },
+    {
+      "name": "Technical MCQ - Pseudo Codes Based on PYQ With Video Sol",
+      "engine": "Classplus CMS",
+      "questionsCount": 30,
+      "imagesCount": 0,
+      "folderPath": "Infosys Mock Test Series / Day 04",
+      "jsonPath": "Course_844567_Full/Infosys Mock Test Series/Day 04/Technical MCQ - Pseudo Codes Based on PYQ With Video Sol_QUESTIONS.json",
+      "mdPath": "Course_844567_Full/Infosys Mock Test Series/Day 04/Technical MCQ - Pseudo Codes Based on PYQ With Video Sol_PAPER.md"
+    },
+    {
+      "name": "5 Ful length Logical Reasoning Mock",
+      "engine": "Testbook SDK",
+      "questionsCount": 20,
+      "imagesCount": 0,
+      "folderPath": "Infosys Mock Test Series / Day 05",
+      "jsonPath": "Course_844567_Full/Infosys Mock Test Series/Day 05/5 Ful length Logical Reasoning Mock_QUESTIONS.json",
+      "mdPath": "Course_844567_Full/Infosys Mock Test Series/Day 05/5 Ful length Logical Reasoning Mock_PAPER.md"
+    },
+    {
+      "name": "5 Ful length Verbal Ability",
+      "engine": "Classplus CMS",
+      "questionsCount": 15,
+      "imagesCount": 0,
+      "folderPath": "Infosys Mock Test Series / Day 05",
+      "jsonPath": "Course_844567_Full/Infosys Mock Test Series/Day 05/5 Ful length Verbal Ability_QUESTIONS.json",
+      "mdPath": "Course_844567_Full/Infosys Mock Test Series/Day 05/5 Ful length Verbal Ability_PAPER.md"
+    },
+    {
+      "name": "Quantitative Aptitude/Technical Abilty",
+      "engine": "Testbook SDK",
+      "questionsCount": 10,
+      "imagesCount": 2,
+      "folderPath": "Infosys Mock Test Series / Day 06 / 1. Full Length Mock I- Based on Infosys PYQ",
+      "jsonPath": "Course_844567_Full/Infosys Mock Test Series/Day 06/1. Full Length Mock I- Based on Infosys PYQ/Quantitative Aptitude_Technical Abilty_QUESTIONS.json",
+      "mdPath": "Course_844567_Full/Infosys Mock Test Series/Day 06/1. Full Length Mock I- Based on Infosys PYQ/Quantitative Aptitude_Technical Abilty_PAPER.md"
+    },
+    {
+      "name": "Verbal Ability",
+      "engine": "Testbook SDK",
+      "questionsCount": 11,
+      "imagesCount": 0,
+      "folderPath": "Infosys Mock Test Series / Day 06 / 1. Full Length Mock I- Based on Infosys PYQ",
+      "jsonPath": "Course_844567_Full/Infosys Mock Test Series/Day 06/1. Full Length Mock I- Based on Infosys PYQ/Verbal Ability_QUESTIONS.json",
+      "mdPath": "Course_844567_Full/Infosys Mock Test Series/Day 06/1. Full Length Mock I- Based on Infosys PYQ/Verbal Ability_PAPER.md"
+    },
+    {
+      "name": "Logical Puzzle",
+      "engine": "Testbook SDK",
+      "questionsCount": 5,
+      "imagesCount": 3,
+      "folderPath": "Infosys Mock Test Series / Day 06 / 1. Full Length Mock I- Based on Infosys PYQ",
+      "jsonPath": "Course_844567_Full/Infosys Mock Test Series/Day 06/1. Full Length Mock I- Based on Infosys PYQ/Logical Puzzle_QUESTIONS.json",
+      "mdPath": "Course_844567_Full/Infosys Mock Test Series/Day 06/1. Full Length Mock I- Based on Infosys PYQ/Logical Puzzle_PAPER.md"
+    },
+    {
+      "name": "Pseudo Code",
+      "engine": "Testbook SDK",
+      "questionsCount": 10,
+      "imagesCount": 0,
+      "folderPath": "Infosys Mock Test Series / Day 06 / 1. Full Length Mock I- Based on Infosys PYQ",
+      "jsonPath": "Course_844567_Full/Infosys Mock Test Series/Day 06/1. Full Length Mock I- Based on Infosys PYQ/Pseudo Code_QUESTIONS.json",
+      "mdPath": "Course_844567_Full/Infosys Mock Test Series/Day 06/1. Full Length Mock I- Based on Infosys PYQ/Pseudo Code_PAPER.md"
+    },
+    {
+      "name": "SECTION-II: ANALYTICAL THINKING",
+      "engine": "Testbook SDK",
+      "questionsCount": 15,
+      "imagesCount": 6,
+      "folderPath": "Infosys Mock Test Series / Day 07 / 2. Full Length Mock II- Based on Infosys PYQ",
+      "jsonPath": "Course_844567_Full/Infosys Mock Test Series/Day 07/2. Full Length Mock II- Based on Infosys PYQ/SECTION-II_ ANALYTICAL THINKING_QUESTIONS.json",
+      "mdPath": "Course_844567_Full/Infosys Mock Test Series/Day 07/2. Full Length Mock II- Based on Infosys PYQ/SECTION-II_ ANALYTICAL THINKING_PAPER.md"
+    },
+    {
+      "name": "Section III : Pseudo Codes Based on PYQ",
+      "engine": "Testbook SDK",
+      "questionsCount": 7,
+      "imagesCount": 0,
+      "folderPath": "Infosys Mock Test Series / Day 07 / 2. Full Length Mock II- Based on Infosys PYQ",
+      "jsonPath": "Course_844567_Full/Infosys Mock Test Series/Day 07/2. Full Length Mock II- Based on Infosys PYQ/Section III _ Pseudo Codes Based on PYQ_QUESTIONS.json",
+      "mdPath": "Course_844567_Full/Infosys Mock Test Series/Day 07/2. Full Length Mock II- Based on Infosys PYQ/Section III _ Pseudo Codes Based on PYQ_PAPER.md"
+    },
+    {
+      "name": "Section IV: Puzzle Solving",
+      "engine": "Testbook SDK",
+      "questionsCount": 4,
+      "imagesCount": 2,
+      "folderPath": "Infosys Mock Test Series / Day 07 / 2. Full Length Mock II- Based on Infosys PYQ",
+      "jsonPath": "Course_844567_Full/Infosys Mock Test Series/Day 07/2. Full Length Mock II- Based on Infosys PYQ/Section IV_ Puzzle Solving_QUESTIONS.json",
+      "mdPath": "Course_844567_Full/Infosys Mock Test Series/Day 07/2. Full Length Mock II- Based on Infosys PYQ/Section IV_ Puzzle Solving_PAPER.md"
+    },
+    {
+      "name": "SECTION-I: MATHEMATICAL ABILITY",
+      "engine": "Testbook SDK",
+      "questionsCount": 11,
+      "imagesCount": 0,
+      "folderPath": "Infosys Mock Test Series / Day 07 / 2. Full Length Mock II- Based on Infosys PYQ",
+      "jsonPath": "Course_844567_Full/Infosys Mock Test Series/Day 07/2. Full Length Mock II- Based on Infosys PYQ/SECTION-I_ MATHEMATICAL ABILITY_QUESTIONS.json",
+      "mdPath": "Course_844567_Full/Infosys Mock Test Series/Day 07/2. Full Length Mock II- Based on Infosys PYQ/SECTION-I_ MATHEMATICAL ABILITY_PAPER.md"
+    },
+    {
+      "name": "Technical MCQ - Pseudo Codes Based on PYQ 01",
+      "engine": "Testbook SDK",
+      "questionsCount": 10,
+      "imagesCount": 0,
+      "folderPath": "Infosys Mock Test Series / Day 08 / 3 Full Length Mock III- Based on Infosys PYQ",
+      "jsonPath": "Course_844567_Full/Infosys Mock Test Series/Day 08/3 Full Length Mock III- Based on Infosys PYQ/Technical MCQ - Pseudo Codes Based on PYQ 01_QUESTIONS.json",
+      "mdPath": "Course_844567_Full/Infosys Mock Test Series/Day 08/3 Full Length Mock III- Based on Infosys PYQ/Technical MCQ - Pseudo Codes Based on PYQ 01_PAPER.md"
+    },
+    {
+      "name": "Aptitude 01 - All India Mock 01",
+      "engine": "Testbook SDK",
+      "questionsCount": 33,
+      "imagesCount": 2,
+      "folderPath": "Infosys Mock Test Series / Day 08 / 3 Full Length Mock III- Based on Infosys PYQ",
+      "jsonPath": "Course_844567_Full/Infosys Mock Test Series/Day 08/3 Full Length Mock III- Based on Infosys PYQ/Aptitude 01 - All India Mock 01_QUESTIONS.json",
+      "mdPath": "Course_844567_Full/Infosys Mock Test Series/Day 08/3 Full Length Mock III- Based on Infosys PYQ/Aptitude 01 - All India Mock 01_PAPER.md"
+    },
+    {
+      "name": "Aptitude 02 - All India Mock",
+      "engine": "Testbook SDK",
+      "questionsCount": 50,
+      "imagesCount": 6,
+      "folderPath": "Infosys Mock Test Series / Day 09 / 4. Full Length Mock IV Based on Infosys PYQ",
+      "jsonPath": "Course_844567_Full/Infosys Mock Test Series/Day 09/4. Full Length Mock IV Based on Infosys PYQ/Aptitude 02 - All India Mock_QUESTIONS.json",
+      "mdPath": "Course_844567_Full/Infosys Mock Test Series/Day 09/4. Full Length Mock IV Based on Infosys PYQ/Aptitude 02 - All India Mock_PAPER.md"
+    },
+    {
+      "name": "Technical MCQ - Pseudo Codes Based on PYQ 02",
+      "engine": "Testbook SDK",
+      "questionsCount": 10,
+      "imagesCount": 0,
+      "folderPath": "Infosys Mock Test Series / Day 09 / 4. Full Length Mock IV Based on Infosys PYQ",
+      "jsonPath": "Course_844567_Full/Infosys Mock Test Series/Day 09/4. Full Length Mock IV Based on Infosys PYQ/Technical MCQ - Pseudo Codes Based on PYQ 02_QUESTIONS.json",
+      "mdPath": "Course_844567_Full/Infosys Mock Test Series/Day 09/4. Full Length Mock IV Based on Infosys PYQ/Technical MCQ - Pseudo Codes Based on PYQ 02_PAPER.md"
+    },
+    {
+      "name": "Infosys English Question asked on 4 Oct 2025",
+      "engine": "Testbook SDK",
+      "questionsCount": 12,
+      "imagesCount": 0,
+      "folderPath": "Infosys Mock Test Series",
+      "jsonPath": "Course_844567_Full/Infosys Mock Test Series/Infosys English Question asked on 4 Oct 2025_QUESTIONS.json",
+      "mdPath": "Course_844567_Full/Infosys Mock Test Series/Infosys English Question asked on 4 Oct 2025_PAPER.md"
+    }
+  ]
+}

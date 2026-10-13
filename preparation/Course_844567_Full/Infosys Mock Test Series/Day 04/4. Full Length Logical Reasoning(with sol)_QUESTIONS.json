@@ -1,0 +1,1074 @@
+{
+  "testId": "64d85038432dab8cf372eaf0",
+  "title": "PYQ CGL July 2023",
+  "engine": "Testbook SDK",
+  "folderPath": "Infosys Mock Test Series / Day 04",
+  "totalQuestions": 25,
+  "totalMarks": 25,
+  "durationMinutes": 25.0,
+  "livePortalUrl": "https://testsdk.testbook.com/org-44032-844567/tests/64d85038432dab8cf372eaf0#auth?page=test&auth=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiI1YjQzMDFmYzdkZTU1NzBjMzFkNTU1NTUiLCJzdWIiOiIxNTkzMDU3NDYiLCJhdWQiOiJDUCIsImV4cEludCI6MTc5MTk1ODYwNiwiaWF0SW50IjoxNzkxODcyMjA2LCJvcmdJZCI6IjViNDMwMWZjN2RlNTU3MGMzMWQ1NTU1NSIsInJvbGVzIjoic3R1ZGVudCIsIm5hbWUiOiJIYWNrV2l0aEluZnlQcmVwIn0.UnW8PXyrtKmM_e0nniW9r4E8c_r0pqB98XSga1nkiHlzHqTeQ8W4IK8lg023PFLN_LnNDM3b8H50v1bthda01dgPBcVfRVYdDNt27zaB7hHs8ZacSf45RzAwsQnso0ouk_bJzWi8aMaIpZ93gFU3RZqWVfMJv1AorWQvofcjeLUyYlpYGXOfL9yepTaUleP1uAP5cl1B8mOiupeo0nkhVn1B5GkoBzgsDUgdFeAszG509Z5hWKOqumyy_iyfr9Mofsg_ryRt_LBMqh-wOs1sLOloMFI_v-Ffe3oBvw_euQ5B9WUb4v3oKG2FrqilOc1KFgMsLp0yGKqK7_9UwJT2Ow&hideRank=0&isCPTestBookMarkEnabled=true",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "section": "SSC CGL",
+      "id": "64d85038432dab538d72eaf2",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "Select the figure that will replace the question mark (?) in the following figure series.",
+      "questionHtml": "<p><span style=\"font-size: 20.0pt; font-family: Arial; mso-ascii-font-family: Arial; mso-fareast-font-family: +mj-ea; mso-bidi-font-family: Arial; mso-fareast-theme-font: major-fareast; color: black; mso-color-index: 1; mso-font-kerning: 12.0pt; language: en-IN; font-weight: bold; mso-style-textfill-type: solid; mso-style-textfill-fill-themecolor: text1; mso-style-textfill-fill-color: black; mso-style-textfill-fill-alpha: 100.0%;\">Select </span><span style=\"font-size: 20.0pt; font-family: Arial; mso-ascii-font-family: Arial; mso-fareast-font-family: +mj-ea; mso-bidi-font-family: Arial; mso-fareast-theme-font: major-fareast; color: black; mso-color-index: 1; mso-font-kerning: 12.0pt; language: en-IN; font-weight: bold; mso-style-textfill-type: solid; mso-style-textfill-fill-themecolor: text1; mso-style-textfill-fill-color: black; mso-style-textfill-fill-alpha: 100.0%;\">the figure that will replace the question mark (?) in the following figure series.</span></p>\n<p><span style=\"font-size: 20.0pt; font-family: Arial; mso-ascii-font-family: Arial; mso-fareast-font-family: +mj-ea; mso-bidi-font-family: Arial; mso-fareast-theme-font: major-fareast; color: black; mso-color-index: 1; mso-font-kerning: 12.0pt; language: en-IN; font-weight: bold; mso-style-textfill-type: solid; mso-style-textfill-fill-themecolor: text1; mso-style-textfill-fill-color: black; mso-style-textfill-fill-alpha: 100.0%;\"><img src=\"https://cms-cdn.classplus.co/parserImages/e8748ac7-9e2b-446b-adfc-5ab3f7dc971e.png\" alt=\"\" width=\"540\" height=\"124\" /></span></p>",
+      "correctOption": "3",
+      "options": [
+        {
+          "order": "1",
+          "text": "",
+          "html": "<p><img src=\"https://cms-cdn.classplus.co/parserImages/3c80f92a-294b-4415-907c-d6f12235b03c.png\" alt=\"\" width=\"182\" height=\"183\" /></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "",
+          "html": "<p><img src=\"https://cms-cdn.classplus.co/parserImages/25855aba-aeac-4126-89cc-da8d62affd85.png\" alt=\"\" width=\"182\" height=\"180\" /></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "",
+          "html": "<p><img src=\"https://cms-cdn.classplus.co/parserImages/48928185-a695-4a77-91ac-659f7b969544.png\" alt=\"\" width=\"182\" height=\"178\" /></p>",
+          "isCorrect": true
+        },
+        {
+          "order": "4",
+          "text": "",
+          "html": "<p><img src=\"https://cms-cdn.classplus.co/parserImages/7c012882-4fd5-4dd5-b5df-c7223fb8f70b.png\" alt=\"\" width=\"183\" height=\"183\" /></p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": [
+        {
+          "original": "https://cms-cdn.classplus.co/parserImages/e8748ac7-9e2b-446b-adfc-5ab3f7dc971e.png",
+          "local": "4. Full Length Logical Reasoning(with sol)_figures/q1_1.png"
+        },
+        {
+          "original": "https://cms-cdn.classplus.co/parserImages/3c80f92a-294b-4415-907c-d6f12235b03c.png",
+          "local": "4. Full Length Logical Reasoning(with sol)_figures/q1_2.png"
+        },
+        {
+          "original": "https://cms-cdn.classplus.co/parserImages/25855aba-aeac-4126-89cc-da8d62affd85.png",
+          "local": "4. Full Length Logical Reasoning(with sol)_figures/q1_3.png"
+        },
+        {
+          "original": "https://cms-cdn.classplus.co/parserImages/48928185-a695-4a77-91ac-659f7b969544.png",
+          "local": "4. Full Length Logical Reasoning(with sol)_figures/q1_4.png"
+        },
+        {
+          "original": "https://cms-cdn.classplus.co/parserImages/7c012882-4fd5-4dd5-b5df-c7223fb8f70b.png",
+          "local": "4. Full Length Logical Reasoning(with sol)_figures/q1_5.png"
+        }
+      ]
+    },
+    {
+      "questionNumber": 2,
+      "section": "SSC CGL",
+      "id": "64d85038432dabe01172eaf7",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "Select the option that is related to the fifth number in the same way as the second number is related to the first number and the fourth number is related to the third number. 5:45::3:3::6: ?",
+      "questionHtml": "<p><span style=\"font-size: 20.0pt; font-family: Arial; mso-ascii-font-family: Arial; mso-fareast-font-family: +mj-ea; mso-bidi-font-family: Arial; mso-fareast-theme-font: major-fareast; color: black; mso-color-index: 1; mso-font-kerning: 12.0pt; language: en-US; font-weight: bold; mso-style-textfill-type: solid; mso-style-textfill-fill-themecolor: text1; mso-style-textfill-fill-color: black; mso-style-textfill-fill-alpha: 100.0%;\"><span style=\"font-size: 14pt;\">Select the option that is related to the fifth number in the same way as the second number is related to the first number and the fourth number is related to the third </span><span style=\"font-size: 14pt;\">number.</span><br /><span style=\"font-size: 24pt;\">5:45::3:3::6: ?</span><br /></span></p>",
+      "correctOption": "4",
+      "options": [
+        {
+          "order": "1",
+          "text": "90",
+          "html": "<p><span style=\"font-size: 18pt;\"><strong>90</strong></span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "106",
+          "html": "<p><strong style=\"font-size: 24px;\">106</strong></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "110",
+          "html": "<p><strong style=\"font-size: 24px;\">110</strong></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "96",
+          "html": "<p><strong style=\"font-size: 24px;\">96</strong></p>",
+          "isCorrect": true
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 3,
+      "section": "SSC CGL",
+      "id": "64d85038432dab3cdd72eb06",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "Three statements are given, followed by four conclusions numbered I, II, III and IV. Assuming the statements to be true, even if they seem to be at variance with commonly known facts, decide which of the conclusions logically follow(s) from the statements. Statements: Some desks are trays. Some trays are plates. Some plates are desks. Conclusions: I. All desks are plates. II. All plates are desks. III. Some plates are trays. IV. All trays are desks.",
+      "questionHtml": "<p><span style=\"font-size: 20.0pt; font-family: Arial; mso-ascii-font-family: Arial; mso-fareast-font-family: +mj-ea; mso-bidi-font-family: Arial; mso-fareast-theme-font: major-fareast; color: black; mso-color-index: 1; mso-font-kerning: 12.0pt; language: en-US; font-weight: bold; mso-style-textfill-type: solid; mso-style-textfill-fill-themecolor: text1; mso-style-textfill-fill-color: black; mso-style-textfill-fill-alpha: 100.0%;\">Three statements are given, followed by four conclusions numbered I, II, III and IV. Assuming the statements to be true, even if they seem to be at variance with commonly known facts, decide which of the conclusions logically follow(s) from the statements.<br /><br />Statements:<br />Some desks are trays. <br />Some trays are plates. <br />Some plates are desks.</span></p>\n<p></p>\n<p style=\"margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;\"><span style=\"font-size: 20.0pt; font-family: Arial; mso-ascii-font-family: Arial; mso-fareast-font-family: +mn-ea; mso-bidi-font-family: Arial; mso-fareast-theme-font: minor-fareast; color: black; mso-color-index: 1; mso-font-kerning: 12.0pt; language: en-US; font-weight: bold; mso-style-textfill-type: solid; mso-style-textfill-fill-themecolor: text1; mso-style-textfill-fill-color: black; mso-style-textfill-fill-alpha: 100.0%;\">Conclusions:<br />I. All desks are plates. <br />II. All plates are desks. <br />III. Some plates are trays. <br />IV. All trays are desks.</span></p>",
+      "correctOption": "1",
+      "options": [
+        {
+          "order": "1",
+          "text": "Only conclusion III follows",
+          "html": "<p><span style=\"font-size: 19.0pt; font-family: Arial; mso-ascii-font-family: Arial; mso-fareast-font-family: +mn-ea; mso-bidi-font-family: Arial; mso-fareast-theme-font: minor-fareast; color: black; mso-color-index: 1; mso-font-kerning: 12.0pt; language: en-US; font-weight: bold; mso-style-textfill-type: solid; mso-style-textfill-fill-themecolor: text1; mso-style-textfill-fill-color: black; mso-style-textfill-fill-alpha: 100.0%;\">Only conclusion III follows</span></p>",
+          "isCorrect": true
+        },
+        {
+          "order": "2",
+          "text": "Only conclusion IV follows",
+          "html": "<p><span style=\"font-size: 19.0pt; font-family: Arial; mso-ascii-font-family: Arial; mso-fareast-font-family: +mn-ea; mso-bidi-font-family: Arial; mso-fareast-theme-font: minor-fareast; color: black; mso-color-index: 1; mso-font-kerning: 12.0pt; language: en-US; font-weight: bold; mso-style-textfill-type: solid; mso-style-textfill-fill-themecolor: text1; mso-style-textfill-fill-color: black; mso-style-textfill-fill-alpha: 100.0%;\">Only conclusion IV follows</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "Only conclusion II follows",
+          "html": "<p><span style=\"font-size: 19.0pt; font-family: Arial; mso-ascii-font-family: Arial; mso-fareast-font-family: +mn-ea; mso-bidi-font-family: Arial; mso-fareast-theme-font: minor-fareast; color: black; mso-color-index: 1; mso-font-kerning: 12.0pt; language: en-US; font-weight: bold; mso-style-textfill-type: solid; mso-style-textfill-fill-themecolor: text1; mso-style-textfill-fill-color: black; mso-style-textfill-fill-alpha: 100.0%;\">Only conclusion II follows</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "Only conclusion I follows",
+          "html": "<p><span style=\"font-size: 19.0pt; font-family: Arial; mso-ascii-font-family: Arial; mso-fareast-font-family: +mn-ea; mso-bidi-font-family: Arial; mso-fareast-theme-font: minor-fareast; color: black; mso-color-index: 1; mso-font-kerning: 12.0pt; language: en-US; font-weight: bold; mso-style-textfill-type: solid; mso-style-textfill-fill-themecolor: text1; mso-style-textfill-fill-color: black; mso-style-textfill-fill-alpha: 100.0%;\">Only conclusion I follows</span></p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 4,
+      "section": "SSC CGL",
+      "id": "64d85038432dabac7f72eb01",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "Select the set in which the numbers are related in the same way as are the numbers of the following sets. (55, 11, 25) (64,16, 16) (NOTE: Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g. 13-Operations on 13 such as adding /subtracting /multiplying etc. to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is NOT allowed)",
+      "questionHtml": "<p><span style=\"font-size: 20.0pt; font-family: Arial; mso-ascii-font-family: Arial; mso-fareast-font-family: +mj-ea; mso-bidi-font-family: Arial; mso-fareast-theme-font: major-fareast; color: black; mso-color-index: 1; mso-font-kerning: 12.0pt; language: en-US; font-weight: bold; mso-style-textfill-type: solid; mso-style-textfill-fill-themecolor: text1; mso-style-textfill-fill-color: black; mso-style-textfill-fill-alpha: 100.0%;\">Select the set in which the numbers are related in the same way as are the numbers of the following sets.<br />(55, 11, 25)<br />(64,16, 16)<br />(NOTE: Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g. 13-Operations on 13 such as adding /subtracting /multiplying etc. to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is NOT allowed)</span></p>",
+      "correctOption": "1",
+      "options": [
+        {
+          "order": "1",
+          "text": "( 33 , 11, 9)",
+          "html": "<p style=\"line-height: 90%; margin-top: 14pt; margin-bottom: 0pt; margin-left: 0in; text-indent: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;\"><span style=\"font-size: 18pt;\"><span style=\"font-family: Arial; color: black; font-weight: bold;\">( 33</span><span style=\"font-family: Arial; color: black; font-weight: bold;\">, 11, 9)</span></span></p>",
+          "isCorrect": true
+        },
+        {
+          "order": "2",
+          "text": "( 33, 11, 22)",
+          "html": "<p><span style=\"font-size: 18pt;\"><span style=\"font-family: Arial; color: black; font-weight: bold;\">(</span><span style=\"font-family: Arial; color: black; font-weight: bold;\">33, 11, 22)</span></span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "( 33, 11, 3)",
+          "html": "<p><span style=\"font-size: 18pt;\"><span style=\"font-family: Arial; color: black; font-weight: bold;\">(</span><span style=\"font-family: Arial; color: black; font-weight: bold;\">33, 11, 3)</span></span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "( 33, 11, 10)",
+          "html": "<p><span style=\"font-size: 18pt;\"><span style=\"font-family: Arial; color: black; font-weight: bold;\">(</span><span style=\"font-family: Arial; color: black; font-weight: bold;\">33, 11, 10)</span></span></p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 5,
+      "section": "SSC CGL",
+      "id": "64d85038432dabba6e72eaf8",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "Ganesh was taking a walk with his mother's brother's father's granddaughter. Who was he walking with?",
+      "questionHtml": "<p><span style=\"font-size: 20.0pt; font-family: Arial; mso-ascii-font-family: Arial; mso-fareast-font-family: +mj-ea; mso-bidi-font-family: Arial; mso-fareast-theme-font: major-fareast; color: black; mso-color-index: 1; mso-font-kerning: 12.0pt; language: en-US; font-weight: bold; mso-style-textfill-type: solid; mso-style-textfill-fill-themecolor: text1; mso-style-textfill-fill-color: black; mso-style-textfill-fill-alpha: 100.0%;\">Ganesh </span><span style=\"font-size: 20.0pt; font-family: Arial; mso-ascii-font-family: Arial; mso-fareast-font-family: +mj-ea; mso-bidi-font-family: Arial; mso-fareast-theme-font: major-fareast; color: black; mso-color-index: 1; mso-font-kerning: 12.0pt; language: en-US; font-weight: bold; mso-style-textfill-type: solid; mso-style-textfill-fill-themecolor: text1; mso-style-textfill-fill-color: black; mso-style-textfill-fill-alpha: 100.0%;\">was taking a walk with his mother's brother's father's granddaughter. Who was he walking with?</span></p>",
+      "correctOption": "3",
+      "options": [
+        {
+          "order": "1",
+          "text": "Daughter",
+          "html": "<p><span style=\"font-size: 20.0pt; font-family: Arial; mso-ascii-font-family: Arial; mso-fareast-font-family: +mn-ea; mso-bidi-font-family: Arial; mso-fareast-theme-font: minor-fareast; color: black; mso-color-index: 1; mso-font-kerning: 12.0pt; language: en-US; font-weight: bold; mso-style-textfill-type: solid; mso-style-textfill-fill-themecolor: text1; mso-style-textfill-fill-color: black; mso-style-textfill-fill-alpha: 100.0%;\">Daughter</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "Mother",
+          "html": "<p><span style=\"font-size: 20.0pt; font-family: Arial; mso-ascii-font-family: Arial; mso-fareast-font-family: +mn-ea; mso-bidi-font-family: Arial; mso-fareast-theme-font: minor-fareast; color: black; mso-color-index: 1; mso-font-kerning: 12.0pt; language: en-US; font-weight: bold; mso-style-textfill-type: solid; mso-style-textfill-fill-themecolor: text1; mso-style-textfill-fill-color: black; mso-style-textfill-fill-alpha: 100.0%;\">Mother</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "Cousin",
+          "html": "<p><span style=\"font-size: 20.0pt; font-family: Arial; mso-ascii-font-family: Arial; mso-fareast-font-family: +mn-ea; mso-bidi-font-family: Arial; mso-fareast-theme-font: minor-fareast; color: black; mso-color-index: 1; mso-font-kerning: 12.0pt; language: en-US; font-weight: bold; mso-style-textfill-type: solid; mso-style-textfill-fill-themecolor: text1; mso-style-textfill-fill-color: black; mso-style-textfill-fill-alpha: 100.0%;\">Cousin</span></p>",
+          "isCorrect": true
+        },
+        {
+          "order": "4",
+          "text": "Granddaughter",
+          "html": "<p><span style=\"font-size: 20.0pt; font-family: Arial; mso-ascii-font-family: Arial; mso-fareast-font-family: +mn-ea; mso-bidi-font-family: Arial; mso-fareast-theme-font: minor-fareast; color: black; mso-color-index: 1; mso-font-kerning: 12.0pt; language: en-US; font-weight: bold; mso-style-textfill-type: solid; mso-style-textfill-fill-themecolor: text1; mso-style-textfill-fill-color: black; mso-style-textfill-fill-alpha: 100.0%;\">Granddaughter</span></p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 6,
+      "section": "SSC CGL",
+      "id": "64d85038432dab798c72eafe",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "Select the correct mirror image of the given figure when the mirror is placed at MN as shown below. T e 2 9 E K P M _______ N",
+      "questionHtml": "<p><span style=\"font-size: 20.0pt; font-family: Arial; mso-ascii-font-family: Arial; mso-fareast-font-family: +mj-ea; mso-bidi-font-family: Arial; mso-fareast-theme-font: major-fareast; color: black; mso-color-index: 1; mso-font-kerning: 12.0pt; language: en-US; font-weight: bold; mso-style-textfill-type: solid; mso-style-textfill-fill-themecolor: text1; mso-style-textfill-fill-color: black; mso-style-textfill-fill-alpha: 100.0%;\">Select </span><span style=\"font-size: 20.0pt; font-family: Arial; mso-ascii-font-family: Arial; mso-fareast-font-family: +mj-ea; mso-bidi-font-family: Arial; mso-fareast-theme-font: major-fareast; color: black; mso-color-index: 1; mso-font-kerning: 12.0pt; language: en-US; font-weight: bold; mso-style-textfill-type: solid; mso-style-textfill-fill-themecolor: text1; mso-style-textfill-fill-color: black; mso-style-textfill-fill-alpha: 100.0%;\">the correct mirror image of the given figure when the mirror is placed at MN as shown below.<br /><br /></span><span style=\"font-size: 28.0pt; font-family: Arial; mso-ascii-font-family: Arial; mso-fareast-font-family: +mj-ea; mso-bidi-font-family: Arial; mso-fareast-theme-font: major-fareast; color: black; mso-color-index: 1; mso-font-kerning: 12.0pt; language: en-US; font-weight: bold; mso-style-textfill-type: solid; mso-style-textfill-fill-themecolor: text1; mso-style-textfill-fill-color: black; mso-style-textfill-fill-alpha: 100.0%;\">T e 2 9 E K P<br /></span><span style=\"font-size: 20.0pt; font-family: Arial; mso-ascii-font-family: Arial; mso-fareast-font-family: +mj-ea; mso-bidi-font-family: Arial; mso-fareast-theme-font: major-fareast; color: black; mso-color-index: 1; mso-font-kerning: 12.0pt; language: en-US; font-weight: bold; mso-style-textfill-type: solid; mso-style-textfill-fill-themecolor: text1; mso-style-textfill-fill-color: black; mso-style-textfill-fill-alpha: 100.0%;\"><br />M _______ N</span></p>",
+      "correctOption": "4",
+      "options": [
+        {
+          "order": "1",
+          "text": "",
+          "html": "<p><img src=\"https://cms-cdn.classplus.co/parserImages/88057cbe-da76-4ec0-a4e7-9e6f302ed987.png\" alt=\"\" width=\"272\" height=\"53\" /></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "",
+          "html": "<p><img src=\"https://cms-cdn.classplus.co/parserImages/2a2040fb-bb1e-422e-b9e0-a4a6454c3be7.png\" alt=\"\" width=\"269\" height=\"49\" /></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "",
+          "html": "<p><img src=\"https://cms-cdn.classplus.co/parserImages/ca8a258a-62ed-4429-a719-b3a5ff130887.png\" alt=\"\" width=\"272\" height=\"51\" /></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "",
+          "html": "<p><img src=\"https://cms-cdn.classplus.co/parserImages/3ab41e30-db18-4355-8ff0-578e259db0c9.png\" alt=\"\" width=\"275\" height=\"55\" /></p>",
+          "isCorrect": true
+        }
+      ],
+      "embeddedImages": [
+        {
+          "original": "https://cms-cdn.classplus.co/parserImages/88057cbe-da76-4ec0-a4e7-9e6f302ed987.png",
+          "local": "4. Full Length Logical Reasoning(with sol)_figures/q6_1.png"
+        },
+        {
+          "original": "https://cms-cdn.classplus.co/parserImages/2a2040fb-bb1e-422e-b9e0-a4a6454c3be7.png",
+          "local": "4. Full Length Logical Reasoning(with sol)_figures/q6_2.png"
+        },
+        {
+          "original": "https://cms-cdn.classplus.co/parserImages/ca8a258a-62ed-4429-a719-b3a5ff130887.png",
+          "local": "4. Full Length Logical Reasoning(with sol)_figures/q6_3.png"
+        },
+        {
+          "original": "https://cms-cdn.classplus.co/parserImages/3ab41e30-db18-4355-8ff0-578e259db0c9.png",
+          "local": "4. Full Length Logical Reasoning(with sol)_figures/q6_4.png"
+        }
+      ]
+    },
+    {
+      "questionNumber": 7,
+      "section": "SSC CGL",
+      "id": "64d85038432dab92ef72eaf3",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "Which of the following letter-clusters will replace the question mark (?) in the given series? UV, OY, IB, EE, ?",
+      "questionHtml": "<p><span style=\"font-size: 20.0pt; font-family: Arial; mso-ascii-font-family: Arial; mso-fareast-font-family: +mj-ea; mso-bidi-font-family: Arial; mso-fareast-theme-font: major-fareast; color: black; mso-color-index: 1; mso-font-kerning: 12.0pt; language: en-US; font-weight: bold; mso-style-textfill-type: solid; mso-style-textfill-fill-themecolor: text1; mso-style-textfill-fill-color: black; mso-style-textfill-fill-alpha: 100.0%;\">Which </span><span style=\"font-size: 20.0pt; font-family: Arial; mso-ascii-font-family: Arial; mso-fareast-font-family: +mj-ea; mso-bidi-font-family: Arial; mso-fareast-theme-font: major-fareast; color: black; mso-color-index: 1; mso-font-kerning: 12.0pt; language: en-US; font-weight: bold; mso-style-textfill-type: solid; mso-style-textfill-fill-themecolor: text1; mso-style-textfill-fill-color: black; mso-style-textfill-fill-alpha: 100.0%;\">of the following letter-clusters will replace the question mark (?) in the given series?<br /></span><span style=\"font-size: 24.0pt; font-family: Arial; mso-ascii-font-family: Arial; mso-fareast-font-family: +mj-ea; mso-bidi-font-family: Arial; mso-fareast-theme-font: major-fareast; color: black; mso-color-index: 1; mso-font-kerning: 12.0pt; language: en-US; font-weight: bold; mso-style-textfill-type: solid; mso-style-textfill-fill-themecolor: text1; mso-style-textfill-fill-color: black; mso-style-textfill-fill-alpha: 100.0%;\">UV, OY, IB, EE, ?</span></p>",
+      "correctOption": "2",
+      "options": [
+        {
+          "order": "1",
+          "text": "ZK",
+          "html": "<p><span style=\"font-size: 24.0pt; font-family: Arial; mso-ascii-font-family: Arial; mso-fareast-font-family: +mn-ea; mso-bidi-font-family: Arial; mso-fareast-theme-font: minor-fareast; color: black; mso-color-index: 1; mso-font-kerning: 12.0pt; language: pl; font-weight: bold; mso-style-textfill-type: solid; mso-style-textfill-fill-themecolor: text1; mso-style-textfill-fill-color: black; mso-style-textfill-fill-alpha: 100.0%;\">ZK</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "AH",
+          "html": "<p><span style=\"font-size: 24.0pt; font-family: Arial; mso-ascii-font-family: Arial; mso-fareast-font-family: +mn-ea; mso-bidi-font-family: Arial; mso-fareast-theme-font: minor-fareast; color: black; mso-color-index: 1; mso-font-kerning: 12.0pt; language: pl; font-weight: bold; mso-style-textfill-type: solid; mso-style-textfill-fill-themecolor: text1; mso-style-textfill-fill-color: black; mso-style-textfill-fill-alpha: 100.0%;\">AH</span></p>",
+          "isCorrect": true
+        },
+        {
+          "order": "3",
+          "text": "BI",
+          "html": "<p><span style=\"font-size: 24.0pt; font-family: Arial; mso-ascii-font-family: Arial; mso-fareast-font-family: +mn-ea; mso-bidi-font-family: Arial; mso-fareast-theme-font: minor-fareast; color: black; mso-color-index: 1; mso-font-kerning: 12.0pt; language: pl; font-weight: bold; mso-style-textfill-type: solid; mso-style-textfill-fill-themecolor: text1; mso-style-textfill-fill-color: black; mso-style-textfill-fill-alpha: 100.0%;\">BI</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "BH",
+          "html": "<p><span style=\"font-size: 24.0pt; font-family: Arial; mso-ascii-font-family: Arial; mso-fareast-font-family: +mn-ea; mso-bidi-font-family: Arial; mso-fareast-theme-font: minor-fareast; color: black; mso-color-index: 1; mso-font-kerning: 12.0pt; language: pl; font-weight: bold; mso-style-textfill-type: solid; mso-style-textfill-fill-themecolor: text1; mso-style-textfill-fill-color: black; mso-style-textfill-fill-alpha: 100.0%;\">BH</span></p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 8,
+      "section": "SSC CGL",
+      "id": "64d85038432dab08db72eaf4",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "The second number in the given number-pairs is obtained by performing certain mathematical operation(s) on the first number. The same operation(s) is/are followed in all the number-pairs except one. Find that odd number-pair.",
+      "questionHtml": "<p><span style=\"font-size: 20.0pt; font-family: Arial; mso-ascii-font-family: Arial; mso-fareast-font-family: +mj-ea; mso-bidi-font-family: Arial; mso-fareast-theme-font: major-fareast; color: black; mso-color-index: 1; mso-font-kerning: 12.0pt; language: en-US; font-weight: bold; mso-style-textfill-type: solid; mso-style-textfill-fill-themecolor: text1; mso-style-textfill-fill-color: black; mso-style-textfill-fill-alpha: 100.0%;\">The </span><span style=\"font-size: 20.0pt; font-family: Arial; mso-ascii-font-family: Arial; mso-fareast-font-family: +mj-ea; mso-bidi-font-family: Arial; mso-fareast-theme-font: major-fareast; color: black; mso-color-index: 1; mso-font-kerning: 12.0pt; language: en-US; font-weight: bold; mso-style-textfill-type: solid; mso-style-textfill-fill-themecolor: text1; mso-style-textfill-fill-color: black; mso-style-textfill-fill-alpha: 100.0%;\">second number in the given number-pairs is obtained by performing certain mathematical operation(s) on the first number. The same operation(s) is/are followed in all the number-pairs except one. Find that odd number-pair.</span></p>",
+      "correctOption": "3",
+      "options": [
+        {
+          "order": "1",
+          "text": "20:11",
+          "html": "<p><span style=\"font-size: 24.0pt; font-family: Arial; mso-ascii-font-family: Arial; mso-fareast-font-family: +mn-ea; mso-bidi-font-family: Arial; mso-fareast-theme-font: minor-fareast; color: black; mso-color-index: 1; mso-font-kerning: 12.0pt; language: en-IN; font-weight: bold; mso-style-textfill-type: solid; mso-style-textfill-fill-themecolor: text1; mso-style-textfill-fill-color: black; mso-style-textfill-fill-alpha: 100.0%;\">20:11</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "6:4",
+          "html": "<p><span style=\"font-size: 24.0pt; font-family: Arial; mso-ascii-font-family: Arial; mso-fareast-font-family: +mn-ea; mso-bidi-font-family: Arial; mso-fareast-theme-font: minor-fareast; color: black; mso-color-index: 1; mso-font-kerning: 12.0pt; language: en-IN; font-weight: bold; mso-style-textfill-type: solid; mso-style-textfill-fill-themecolor: text1; mso-style-textfill-fill-color: black; mso-style-textfill-fill-alpha: 100.0%;\">6:4</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "15:9",
+          "html": "<p><span style=\"font-size: 24.0pt; font-family: Arial; mso-ascii-font-family: Arial; mso-fareast-font-family: +mn-ea; mso-bidi-font-family: Arial; mso-fareast-theme-font: minor-fareast; color: black; mso-color-index: 1; mso-font-kerning: 12.0pt; language: en-IN; font-weight: bold; mso-style-textfill-type: solid; mso-style-textfill-fill-themecolor: text1; mso-style-textfill-fill-color: black; mso-style-textfill-fill-alpha: 100.0%;\">15:9</span></p>",
+          "isCorrect": true
+        },
+        {
+          "order": "4",
+          "text": "12:7",
+          "html": "<p><span style=\"font-size: 24.0pt; font-family: Arial; mso-ascii-font-family: Arial; mso-fareast-font-family: +mn-ea; mso-bidi-font-family: Arial; mso-fareast-theme-font: minor-fareast; color: black; mso-color-index: 1; mso-font-kerning: 12.0pt; language: en-IN; font-weight: bold; mso-style-textfill-type: solid; mso-style-textfill-fill-themecolor: text1; mso-style-textfill-fill-color: black; mso-style-textfill-fill-alpha: 100.0%;\">12:7</span></p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 9,
+      "section": "SSC CGL",
+      "id": "64d85038432dab121a72eafc",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "Three different positions of the same dice are shown. Find the number on the face opposite the face showing '1'.",
+      "questionHtml": "<p><span style=\"font-size: 20.0pt; font-family: Arial; mso-ascii-font-family: Arial; mso-fareast-font-family: +mj-ea; mso-bidi-font-family: Arial; mso-fareast-theme-font: major-fareast; color: black; mso-color-index: 1; mso-font-kerning: 12.0pt; language: en-US; font-weight: bold; mso-style-textfill-type: solid; mso-style-textfill-fill-themecolor: text1; mso-style-textfill-fill-color: black; mso-style-textfill-fill-alpha: 100.0%;\">Three </span><span style=\"font-size: 20.0pt; font-family: Arial; mso-ascii-font-family: Arial; mso-fareast-font-family: +mj-ea; mso-bidi-font-family: Arial; mso-fareast-theme-font: major-fareast; color: black; mso-color-index: 1; mso-font-kerning: 12.0pt; language: en-US; font-weight: bold; mso-style-textfill-type: solid; mso-style-textfill-fill-themecolor: text1; mso-style-textfill-fill-color: black; mso-style-textfill-fill-alpha: 100.0%;\">different positions of the same dice are shown. Find the number on the face opposite the face showing '1'.</span></p>\n<p><span style=\"font-size: 20.0pt; font-family: Arial; mso-ascii-font-family: Arial; mso-fareast-font-family: +mj-ea; mso-bidi-font-family: Arial; mso-fareast-theme-font: major-fareast; color: black; mso-color-index: 1; mso-font-kerning: 12.0pt; language: en-US; font-weight: bold; mso-style-textfill-type: solid; mso-style-textfill-fill-themecolor: text1; mso-style-textfill-fill-color: black; mso-style-textfill-fill-alpha: 100.0%;\"><img src=\"https://cms-cdn.classplus.co/parserImages/8b0254fb-ae80-4fb3-8679-1241c661216f.png\" alt=\"\" width=\"347\" height=\"137\" /></span></p>",
+      "correctOption": "3",
+      "options": [
+        {
+          "order": "1",
+          "text": "6",
+          "html": "<p><span style=\"font-size: 18pt;\"><strong>6</strong></span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "2",
+          "html": "<p><strong style=\"font-size: 24px;\">2</strong></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "3",
+          "html": "<p><strong style=\"font-size: 24px;\">3</strong></p>",
+          "isCorrect": true
+        },
+        {
+          "order": "4",
+          "text": "4",
+          "html": "<p><strong style=\"font-size: 24px;\">4</strong></p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": [
+        {
+          "original": "https://cms-cdn.classplus.co/parserImages/8b0254fb-ae80-4fb3-8679-1241c661216f.png",
+          "local": "4. Full Length Logical Reasoning(with sol)_figures/q9_1.png"
+        }
+      ]
+    },
+    {
+      "questionNumber": 10,
+      "section": "SSC CGL",
+      "id": "64d85038432dab5a7a72eb09",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "Select the option that is related to the sixth letter-cluster in the same way as the first letter-cluster is related to the second letter-cluster and the third letter-cluster is related to the fourth letter-cluster. HMD: KOE :: BNQ: EPR :: ?: FLV",
+      "questionHtml": "<p><span style=\"font-size: 20.0pt; font-family: Arial; mso-ascii-font-family: Arial; mso-fareast-font-family: +mj-ea; mso-bidi-font-family: Arial; mso-fareast-theme-font: major-fareast; color: black; mso-color-index: 1; mso-font-kerning: 12.0pt; language: en-US; font-weight: bold; mso-style-textfill-type: solid; mso-style-textfill-fill-themecolor: text1; mso-style-textfill-fill-color: black; mso-style-textfill-fill-alpha: 100.0%;\">Select </span><span style=\"font-size: 20.0pt; font-family: Arial; mso-ascii-font-family: Arial; mso-fareast-font-family: +mj-ea; mso-bidi-font-family: Arial; mso-fareast-theme-font: major-fareast; color: black; mso-color-index: 1; mso-font-kerning: 12.0pt; language: en-US; font-weight: bold; mso-style-textfill-type: solid; mso-style-textfill-fill-themecolor: text1; mso-style-textfill-fill-color: black; mso-style-textfill-fill-alpha: 100.0%;\">the option that is related to the sixth letter-cluster in the same way as the first letter-cluster is related to the second letter-cluster and the third letter-cluster is related to the fourth letter-cluster.<br />HMD: KOE :: BNQ: EPR :: ?: FLV</span></p>",
+      "correctOption": "4",
+      "options": [
+        {
+          "order": "1",
+          "text": "SJE",
+          "html": "<p><span style=\"font-size: 18pt; font-family: Arial; color: black; font-weight: bold;\">SJE</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "UJC",
+          "html": "<p><span style=\"font-size: 18pt; font-family: Arial; color: black; font-weight: bold;\">UJC</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "EJS",
+          "html": "<p><span style=\"font-size: 18pt; font-family: Arial; color: black; font-weight: bold;\">EJS</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "CJU",
+          "html": "<p><span style=\"font-size: 18pt; font-family: Arial; color: black; font-weight: bold;\">CJU</span></p>",
+          "isCorrect": true
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 11,
+      "section": "SSC CGL",
+      "id": "64d85038432dabb63472eaff",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "Select the figure from the options that can replace the question mark (?) and complete the given patter.",
+      "questionHtml": "<p><span style=\"font-size: 20.0pt; font-family: Arial; mso-ascii-font-family: Arial; mso-fareast-font-family: +mj-ea; mso-bidi-font-family: Arial; mso-fareast-theme-font: major-fareast; color: black; mso-color-index: 1; mso-font-kerning: 12.0pt; language: en-IN; font-weight: bold; mso-style-textfill-type: solid; mso-style-textfill-fill-themecolor: text1; mso-style-textfill-fill-color: black; mso-style-textfill-fill-alpha: 100.0%;\">Select </span><span style=\"font-size: 20.0pt; font-family: Arial; mso-ascii-font-family: Arial; mso-fareast-font-family: +mj-ea; mso-bidi-font-family: Arial; mso-fareast-theme-font: major-fareast; color: black; mso-color-index: 1; mso-font-kerning: 12.0pt; language: en-IN; font-weight: bold; mso-style-textfill-type: solid; mso-style-textfill-fill-themecolor: text1; mso-style-textfill-fill-color: black; mso-style-textfill-fill-alpha: 100.0%;\">the figure from the options that can replace the question mark (?) and complete the given patter.</span></p>\n<p><span style=\"font-size: 20.0pt; font-family: Arial; mso-ascii-font-family: Arial; mso-fareast-font-family: +mj-ea; mso-bidi-font-family: Arial; mso-fareast-theme-font: major-fareast; color: black; mso-color-index: 1; mso-font-kerning: 12.0pt; language: en-IN; font-weight: bold; mso-style-textfill-type: solid; mso-style-textfill-fill-themecolor: text1; mso-style-textfill-fill-color: black; mso-style-textfill-fill-alpha: 100.0%;\"><img src=\"https://cms-cdn.classplus.co/parserImages/07e28251-9416-497b-931b-561d225ca851.png\" alt=\"\" width=\"578\" height=\"125\" /></span></p>",
+      "correctOption": "4",
+      "options": [
+        {
+          "order": "1",
+          "text": "",
+          "html": "<p><img src=\"https://cms-cdn.classplus.co/parserImages/70f5a6b8-5e33-4cb1-a261-7b4275325031.png\" alt=\"\" width=\"134\" height=\"130\" /></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "",
+          "html": "<p><img src=\"https://cms-cdn.classplus.co/parserImages/323cd7cc-45e8-4197-af5a-921b214bbfab.png\" alt=\"\" width=\"138\" height=\"133\" /></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "",
+          "html": "<p><img src=\"https://cms-cdn.classplus.co/parserImages/8ec9446b-b5a9-40b9-bd10-03a62534674a.png\" alt=\"\" width=\"134\" height=\"127\" /></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "",
+          "html": "<p><img src=\"https://cms-cdn.classplus.co/parserImages/ac2961fb-5d8a-493f-a853-e599d3ec3422.png\" alt=\"\" width=\"130\" height=\"124\" /></p>",
+          "isCorrect": true
+        }
+      ],
+      "embeddedImages": [
+        {
+          "original": "https://cms-cdn.classplus.co/parserImages/07e28251-9416-497b-931b-561d225ca851.png",
+          "local": "4. Full Length Logical Reasoning(with sol)_figures/q11_1.png"
+        },
+        {
+          "original": "https://cms-cdn.classplus.co/parserImages/70f5a6b8-5e33-4cb1-a261-7b4275325031.png",
+          "local": "4. Full Length Logical Reasoning(with sol)_figures/q11_2.png"
+        },
+        {
+          "original": "https://cms-cdn.classplus.co/parserImages/323cd7cc-45e8-4197-af5a-921b214bbfab.png",
+          "local": "4. Full Length Logical Reasoning(with sol)_figures/q11_3.png"
+        },
+        {
+          "original": "https://cms-cdn.classplus.co/parserImages/8ec9446b-b5a9-40b9-bd10-03a62534674a.png",
+          "local": "4. Full Length Logical Reasoning(with sol)_figures/q11_4.png"
+        },
+        {
+          "original": "https://cms-cdn.classplus.co/parserImages/ac2961fb-5d8a-493f-a853-e599d3ec3422.png",
+          "local": "4. Full Length Logical Reasoning(with sol)_figures/q11_5.png"
+        }
+      ]
+    },
+    {
+      "questionNumber": 12,
+      "section": "SSC CGL",
+      "id": "64d85038432dabbbbe72eaf6",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "Four letter-clusters have been given, out of which three are alike in some manner and one is different. Select the odd letter-cluster .",
+      "questionHtml": "<p><span style=\"font-size: 20.0pt; font-family: Arial; mso-ascii-font-family: Arial; mso-fareast-font-family: +mj-ea; mso-bidi-font-family: Arial; mso-fareast-theme-font: major-fareast; color: black; mso-color-index: 1; mso-font-kerning: 12.0pt; language: en-US; font-weight: bold; mso-style-textfill-type: solid; mso-style-textfill-fill-themecolor: text1; mso-style-textfill-fill-color: black; mso-style-textfill-fill-alpha: 100.0%;\">Four </span><span style=\"font-size: 20.0pt; font-family: Arial; mso-ascii-font-family: Arial; mso-fareast-font-family: +mj-ea; mso-bidi-font-family: Arial; mso-fareast-theme-font: major-fareast; color: black; mso-color-index: 1; mso-font-kerning: 12.0pt; language: en-US; font-weight: bold; mso-style-textfill-type: solid; mso-style-textfill-fill-themecolor: text1; mso-style-textfill-fill-color: black; mso-style-textfill-fill-alpha: 100.0%;\">letter-clusters have been given, out of which three are alike in some manner and one is different. Select the odd letter-cluster</span><span style=\"font-size: 20.0pt; font-family: Arial; mso-ascii-font-family: Arial; mso-fareast-font-family: +mj-ea; mso-bidi-font-family: Arial; mso-fareast-theme-font: major-fareast; color: black; mso-color-index: 1; mso-font-kerning: 12.0pt; language: en-US; font-weight: bold; mso-style-textfill-type: solid; mso-style-textfill-fill-themecolor: text1; mso-style-textfill-fill-color: black; mso-style-textfill-fill-alpha: 100.0%;\">.</span></p>",
+      "correctOption": "3",
+      "options": [
+        {
+          "order": "1",
+          "text": "BFJN",
+          "html": "<p><span style=\"font-size: 18pt; font-family: Arial; color: black; font-weight: bold;\">BFJN</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "DHLP",
+          "html": "<p><span style=\"font-size: 18pt; font-family: Arial; color: black; font-weight: bold;\">DHLP</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "HJKP",
+          "html": "<p><span style=\"font-size: 18pt; font-family: Arial; color: black; font-weight: bold;\">HJKP</span></p>",
+          "isCorrect": true
+        },
+        {
+          "order": "4",
+          "text": "JNRV",
+          "html": "<p><span style=\"font-size: 18pt; font-family: Arial; color: black; font-weight: bold;\">JNRV</span></p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 13,
+      "section": "SSC CGL",
+      "id": "64d85038432dabd9e372eb07",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "Select the option that represents the correct order of the given words as they would appear in an English dictionary. 1. Warriors 2. Warehouse 3. Warcraft 4. Warranty 5. Wardrobe 6. Wardenship",
+      "questionHtml": "<p><span style=\"font-size: 18pt; font-family: Arial; color: black; font-weight: bold;\">Select the option that represents the correct order of the given words as they would appear in an English dictionary.<br />1. Warriors 2. Warehouse 3. Warcraft 4. Warranty 5. Wardrobe <br />6. Wardenship</span></p>",
+      "correctOption": "4",
+      "options": [
+        {
+          "order": "1",
+          "text": "3, 6, 5, 2, 1, 4",
+          "html": "<p><span style=\"font-size: 18pt; font-family: Arial; color: black; font-weight: bold;\">3, 6, 5, 2, 1, 4</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "3, 5, 6, 2, 1, 4",
+          "html": "<p><span style=\"font-size: 18pt; font-family: Arial; color: black; font-weight: bold;\">3, 5, 6, 2, 1, 4</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "3, 5, 6, 2, 4, 1",
+          "html": "<p><span style=\"font-size: 18pt; font-family: Arial; color: black; font-weight: bold;\">3, 5, 6, 2, 4, 1</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "3, 6, 5, 2, 4, 1",
+          "html": "<p><span style=\"font-size: 18pt; font-family: Arial; color: black; font-weight: bold;\">3, 6, 5, 2, 4, 1</span></p>",
+          "isCorrect": true
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 14,
+      "section": "SSC CGL",
+      "id": "64d85038432dab413a72eb0a",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "Which of the following numbers will replace the question mark (?) in the given series? 8, 15, 26, ?, 56, 75",
+      "questionHtml": "<p><span style=\"font-size: 16.0pt; font-family: Arial; mso-ascii-font-family: Arial; mso-fareast-font-family: +mj-ea; mso-bidi-font-family: Arial; mso-fareast-theme-font: major-fareast; color: black; mso-color-index: 1; mso-font-kerning: 12.0pt; language: en-US; font-weight: bold; mso-style-textfill-type: solid; mso-style-textfill-fill-themecolor: text1; mso-style-textfill-fill-color: black; mso-style-textfill-fill-alpha: 100.0%;\">Which </span><span style=\"font-size: 16.0pt; font-family: Arial; mso-ascii-font-family: Arial; mso-fareast-font-family: +mj-ea; mso-bidi-font-family: Arial; mso-fareast-theme-font: major-fareast; color: black; mso-color-index: 1; mso-font-kerning: 12.0pt; language: en-US; font-weight: bold; mso-style-textfill-type: solid; mso-style-textfill-fill-themecolor: text1; mso-style-textfill-fill-color: black; mso-style-textfill-fill-alpha: 100.0%;\">of the following numbers will replace the question mark (?) in the given series? 8, 15, 26, ?, 56, 75</span></p>",
+      "correctOption": "1",
+      "options": [
+        {
+          "order": "1",
+          "text": "39",
+          "html": "<p><strong><span style=\"font-size: 18pt;\">39</span></strong></p>",
+          "isCorrect": true
+        },
+        {
+          "order": "2",
+          "text": "41",
+          "html": "<p><strong><span style=\"font-size: 18pt;\">41</span></strong></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "35",
+          "html": "<p><strong><span style=\"font-size: 18pt;\">35</span></strong></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "43",
+          "html": "<p><strong><span style=\"font-size: 18pt;\">43</span></strong></p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 15,
+      "section": "SSC CGL",
+      "id": "64d85038432dab7ff272eaf9",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "46 23 34.5 86.25 ?",
+      "questionHtml": "<p><span style=\"font-size: 12pt; font-family: Arial; color: black; font-weight: bold;\"><br /><span style=\"font-size: 24pt;\"> 46&nbsp; &nbsp; 23&nbsp;&nbsp;&nbsp;&nbsp; 34.5&nbsp;&nbsp;&nbsp; 86.25&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ?&nbsp; &nbsp;</span></span></p>",
+      "correctOption": "2",
+      "options": [
+        {
+          "order": "1",
+          "text": "300",
+          "html": "<p>300</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "301.875",
+          "html": "<p>301.875</p>",
+          "isCorrect": true
+        },
+        {
+          "order": "3",
+          "text": "301.975",
+          "html": "<p>301.975</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "300.875",
+          "html": "<p>300.875</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 16,
+      "section": "SSC CGL",
+      "id": "64d85038432dab7d5272eafd",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "Select the option that is related to the fifth number in the same way as the second number is related to the first number and the fourth number is related to the third number. 625 : 5 :: 2560 : 8 :: 5000: ?",
+      "questionHtml": "<p><span style=\"font-size: 16.0pt; font-family: Arial; mso-ascii-font-family: Arial; mso-fareast-font-family: +mj-ea; mso-bidi-font-family: Arial; mso-fareast-theme-font: major-fareast; color: black; mso-color-index: 1; mso-font-kerning: 12.0pt; language: en-US; font-weight: bold; mso-style-textfill-type: solid; mso-style-textfill-fill-themecolor: text1; mso-style-textfill-fill-color: black; mso-style-textfill-fill-alpha: 100.0%;\">Select </span><span style=\"font-size: 16.0pt; font-family: Arial; mso-ascii-font-family: Arial; mso-fareast-font-family: +mj-ea; mso-bidi-font-family: Arial; mso-fareast-theme-font: major-fareast; color: black; mso-color-index: 1; mso-font-kerning: 12.0pt; language: en-US; font-weight: bold; mso-style-textfill-type: solid; mso-style-textfill-fill-themecolor: text1; mso-style-textfill-fill-color: black; mso-style-textfill-fill-alpha: 100.0%;\">the option that is related to the fifth number in the same way as the second number is related to the first number and the fourth number is related to the third number.<br />625 : 5 :: 2560 : 8 :: 5000: ?</span></p>",
+      "correctOption": "3",
+      "options": [
+        {
+          "order": "1",
+          "text": "9",
+          "html": "<p><span style=\"font-size: 18pt;\"><strong>9</strong></span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "12",
+          "html": "<p><strong style=\"font-size: 24px;\">12</strong></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "10",
+          "html": "<p><strong style=\"font-size: 24px;\">10</strong></p>",
+          "isCorrect": true
+        },
+        {
+          "order": "4",
+          "text": "15",
+          "html": "<p><strong style=\"font-size: 24px;\">15</strong></p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 17,
+      "section": "SSC CGL",
+      "id": "64d85038432dabbea072eb08",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "In a certain code language, 'ASK' is written as '62' and 'BYE' is written as '64'. How will 'CRY' be written in that language?",
+      "questionHtml": "<p><span style=\"font-size: 16.0pt; font-family: Arial; mso-ascii-font-family: Arial; mso-fareast-font-family: +mj-ea; mso-bidi-font-family: Arial; mso-fareast-theme-font: major-fareast; color: black; mso-color-index: 1; mso-font-kerning: 12.0pt; language: en-US; font-weight: bold; mso-style-textfill-type: solid; mso-style-textfill-fill-themecolor: text1; mso-style-textfill-fill-color: black; mso-style-textfill-fill-alpha: 100.0%;\">In </span><span style=\"font-size: 16.0pt; font-family: Arial; mso-ascii-font-family: Arial; mso-fareast-font-family: +mj-ea; mso-bidi-font-family: Arial; mso-fareast-theme-font: major-fareast; color: black; mso-color-index: 1; mso-font-kerning: 12.0pt; language: en-US; font-weight: bold; mso-style-textfill-type: solid; mso-style-textfill-fill-themecolor: text1; mso-style-textfill-fill-color: black; mso-style-textfill-fill-alpha: 100.0%;\">a certain code language, 'ASK' is written as '62' and 'BYE' is written as '64'. How will 'CRY' be written in that language?</span></p>",
+      "correctOption": "4",
+      "options": [
+        {
+          "order": "1",
+          "text": "68",
+          "html": "<p><span style=\"font-size: 18.0pt; font-family: Arial; mso-ascii-font-family: Arial; mso-fareast-font-family: +mn-ea; mso-bidi-font-family: Arial; mso-fareast-theme-font: minor-fareast; color: black; mso-color-index: 1; mso-font-kerning: 12.0pt; language: en-IN; font-weight: bold; mso-style-textfill-type: solid; mso-style-textfill-fill-themecolor: text1; mso-style-textfill-fill-color: black; mso-style-textfill-fill-alpha: 100.0%;\">68</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "72",
+          "html": "<p><span style=\"font-size: 18.0pt; font-family: Arial; mso-ascii-font-family: Arial; mso-fareast-font-family: +mn-ea; mso-bidi-font-family: Arial; mso-fareast-theme-font: minor-fareast; color: black; mso-color-index: 1; mso-font-kerning: 12.0pt; language: en-IN; font-weight: bold; mso-style-textfill-type: solid; mso-style-textfill-fill-themecolor: text1; mso-style-textfill-fill-color: black; mso-style-textfill-fill-alpha: 100.0%;\">72</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "86",
+          "html": "<p><span style=\"font-size: 18.0pt; font-family: Arial; mso-ascii-font-family: Arial; mso-fareast-font-family: +mn-ea; mso-bidi-font-family: Arial; mso-fareast-theme-font: minor-fareast; color: black; mso-color-index: 1; mso-font-kerning: 12.0pt; language: en-IN; font-weight: bold; mso-style-textfill-type: solid; mso-style-textfill-fill-themecolor: text1; mso-style-textfill-fill-color: black; mso-style-textfill-fill-alpha: 100.0%;\">86</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "92",
+          "html": "<p><span style=\"font-size: 18.0pt; font-family: Arial; mso-ascii-font-family: Arial; mso-fareast-font-family: +mn-ea; mso-bidi-font-family: Arial; mso-fareast-theme-font: minor-fareast; color: black; mso-color-index: 1; mso-font-kerning: 12.0pt; language: en-IN; font-weight: bold; mso-style-textfill-type: solid; mso-style-textfill-fill-themecolor: text1; mso-style-textfill-fill-color: black; mso-style-textfill-fill-alpha: 100.0%;\">92</span></p>",
+          "isCorrect": true
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 18,
+      "section": "SSC CGL",
+      "id": "64d85038432dab46cc72eafb",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "Select the correct combination of mathematical signs that can sequentially replace the * signs and balance the given equation. 256 * 4 * 9 * 3 * 14 = 51",
+      "questionHtml": "<p><span style=\"font-size: 16.0pt; font-family: Arial; mso-ascii-font-family: Arial; mso-fareast-font-family: +mj-ea; mso-bidi-font-family: Arial; mso-fareast-theme-font: major-fareast; color: black; mso-color-index: 1; mso-font-kerning: 12.0pt; language: en-US; font-weight: bold; mso-style-textfill-type: solid; mso-style-textfill-fill-themecolor: text1; mso-style-textfill-fill-color: black; mso-style-textfill-fill-alpha: 100.0%;\">Select </span><span style=\"font-size: 16.0pt; font-family: Arial; mso-ascii-font-family: Arial; mso-fareast-font-family: +mj-ea; mso-bidi-font-family: Arial; mso-fareast-theme-font: major-fareast; color: black; mso-color-index: 1; mso-font-kerning: 12.0pt; language: en-US; font-weight: bold; mso-style-textfill-type: solid; mso-style-textfill-fill-themecolor: text1; mso-style-textfill-fill-color: black; mso-style-textfill-fill-alpha: 100.0%;\">the correct combination of mathematical signs that can sequentially replace the * signs and balance the given equation.<br />256 * 4 * 9 * 3 * 14 = 51</span></p>",
+      "correctOption": "4",
+      "options": [
+        {
+          "order": "1",
+          "text": "x + &ndash; ÷ &divide;",
+          "html": "<p><span style=\"font-size: 24pt;\"><strong><span style=\"font-family: Arial; color: black;\">x + &ndash; </span><!-- [if gte msEquation 12]><m:oMath><m:r><span\n  style='font-size:24.0pt;font-family:\"Cambria Math\";mso-ascii-font-family:\n  \"Cambria Math\";mso-fareast-font-family:\"Cambria Math\";mso-bidi-font-family:\n  Arial;color:black;mso-color-index:1;mso-font-kerning:12.0pt;language:en-IN;\n  font-weight:normal;font-style:italic;mso-style-textfill-type:solid;\n  mso-style-textfill-fill-themecolor:text1;mso-style-textfill-fill-color:black;\n  mso-style-textfill-fill-alpha:100.0%'>÷</span></m:r></m:oMath><![endif]--><!-- [if !msEquation]--><span style=\"font-family: 'Cambria Math'; color: black;\">&divide;</span><!--[endif]--></strong></span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "÷ &divide; x &ndash; +",
+          "html": "<p><!-- [if gte msEquation 12]><m:oMath><m:r><span\n  style='font-size:24.0pt;font-family:\"Cambria Math\";mso-ascii-font-family:\n  \"Cambria Math\";mso-fareast-font-family:\"Cambria Math\";mso-bidi-font-family:\n  Arial;color:black;mso-color-index:1;mso-font-kerning:12.0pt;language:en-IN;\n  font-weight:bold;font-style:italic;mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:\n  text1;mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%'>÷</span></m:r></m:oMath><![endif]--><!-- [if !msEquation]--><span style=\"font-size: 24pt;\"><strong><span style=\"font-family: 'Cambria Math'; color: black;\">&divide;</span><!--[endif]--><span style=\"font-family: Arial; color: black;\"> x &ndash; +</span></strong></span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "x ÷ &divide; + &ndash;",
+          "html": "<p><span style=\"font-size: 24pt;\"><strong><span style=\"font-family: Arial; color: black;\">x </span><!-- [if gte msEquation 12]><m:oMath><m:r><span\n  style='font-size:24.0pt;font-family:\"Cambria Math\";mso-ascii-font-family:\n  \"Cambria Math\";mso-fareast-font-family:\"Cambria Math\";mso-bidi-font-family:\n  Arial;color:black;mso-color-index:1;mso-font-kerning:12.0pt;language:en-IN;\n  font-weight:bold;font-style:italic;mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:\n  text1;mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%'>÷</span></m:r></m:oMath><![endif]--><!-- [if !msEquation]--><span style=\"font-family: 'Cambria Math'; color: black;\">&divide;</span><!--[endif]--><span style=\"font-family: Arial; color: black;\"> + &ndash;</span></strong></span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "÷ &divide; &ndash; x +",
+          "html": "<p><!-- [if gte msEquation 12]><m:oMath><m:r><span\n  style='font-size:24.0pt;font-family:\"Cambria Math\";mso-ascii-font-family:\n  \"Cambria Math\";mso-fareast-font-family:\"Cambria Math\";mso-bidi-font-family:\n  Arial;color:black;mso-color-index:1;mso-font-kerning:12.0pt;language:en-IN;\n  font-weight:bold;font-style:italic;mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:\n  text1;mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%'>÷</span></m:r></m:oMath><![endif]--><!-- [if !msEquation]--><span style=\"font-size: 24pt; font-family: 'Cambria Math'; color: black; font-weight: bold;\">&divide;</span><!--[endif]--><span style=\"font-size: 24.0pt; font-family: Arial; mso-ascii-font-family: Arial; mso-fareast-font-family: +mn-ea; mso-bidi-font-family: Arial; mso-fareast-theme-font: minor-fareast; color: black; mso-color-index: 1; mso-font-kerning: 12.0pt; language: en-IN; mso-style-textfill-type: solid; mso-style-textfill-fill-themecolor: text1; mso-style-textfill-fill-color: black; mso-style-textfill-fill-alpha: 100.0%;\"> &ndash; x +</span></p>",
+          "isCorrect": true
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 19,
+      "section": "SSC CGL",
+      "id": "64d85038432dab72eb72eb05",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "Select the option that represents the letters that, when placed from left to right in the following blanks, will complete the letter-series. C L_V E C_ _W E C L O_ _C_O_E",
+      "questionHtml": "<p><span style=\"font-size: 16.0pt; font-family: Arial; mso-ascii-font-family: Arial; mso-fareast-font-family: +mj-ea; mso-bidi-font-family: Arial; mso-fareast-theme-font: major-fareast; color: black; mso-color-index: 1; mso-font-kerning: 12.0pt; language: en-US; font-weight: bold; mso-style-textfill-type: solid; mso-style-textfill-fill-themecolor: text1; mso-style-textfill-fill-color: black; mso-style-textfill-fill-alpha: 100.0%;\">Select </span><span style=\"font-size: 16.0pt; font-family: Arial; mso-ascii-font-family: Arial; mso-fareast-font-family: +mj-ea; mso-bidi-font-family: Arial; mso-fareast-theme-font: major-fareast; color: black; mso-color-index: 1; mso-font-kerning: 12.0pt; language: en-US; font-weight: bold; mso-style-textfill-type: solid; mso-style-textfill-fill-themecolor: text1; mso-style-textfill-fill-color: black; mso-style-textfill-fill-alpha: 100.0%;\">the option that represents the letters that, when placed from left to right in the following blanks, will complete the letter-series.<br />C L_V E C_ _W E C L O_ _C_O_E</span></p>",
+      "correctOption": "4",
+      "options": [
+        {
+          "order": "1",
+          "text": "OLPXELY",
+          "html": "<p><span style=\"font-size: 16.0pt; font-family: Arial; mso-ascii-font-family: Arial; mso-fareast-font-family: +mn-ea; mso-bidi-font-family: Arial; mso-fareast-theme-font: minor-fareast; color: black; mso-color-index: 1; mso-font-kerning: 12.0pt; language: en-IN; font-weight: bold; mso-style-textfill-type: solid; mso-style-textfill-fill-themecolor: text1; mso-style-textfill-fill-color: black; mso-style-textfill-fill-alpha: 100.0%;\">OLPXELY</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "OLOYELZ",
+          "html": "<p><span style=\"font-size: 16.0pt; font-family: Arial; mso-ascii-font-family: Arial; mso-fareast-font-family: +mn-ea; mso-bidi-font-family: Arial; mso-fareast-theme-font: minor-fareast; color: black; mso-color-index: 1; mso-font-kerning: 12.0pt; language: en-IN; font-weight: bold; mso-style-textfill-type: solid; mso-style-textfill-fill-themecolor: text1; mso-style-textfill-fill-color: black; mso-style-textfill-fill-alpha: 100.0%;\">OLOYELZ</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "OLOXFMY",
+          "html": "<p><span style=\"font-size: 16.0pt; font-family: Arial; mso-ascii-font-family: Arial; mso-fareast-font-family: +mn-ea; mso-bidi-font-family: Arial; mso-fareast-theme-font: minor-fareast; color: black; mso-color-index: 1; mso-font-kerning: 12.0pt; language: en-IN; font-weight: bold; mso-style-textfill-type: solid; mso-style-textfill-fill-themecolor: text1; mso-style-textfill-fill-color: black; mso-style-textfill-fill-alpha: 100.0%;\">OLOXFMY</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "OLOXELY",
+          "html": "<p><span style=\"font-size: 16.0pt; font-family: Arial; mso-ascii-font-family: Arial; mso-fareast-font-family: +mn-ea; mso-bidi-font-family: Arial; mso-fareast-theme-font: minor-fareast; color: black; mso-color-index: 1; mso-font-kerning: 12.0pt; language: en-IN; font-weight: bold; mso-style-textfill-type: solid; mso-style-textfill-fill-themecolor: text1; mso-style-textfill-fill-color: black; mso-style-textfill-fill-alpha: 100.0%;\">OLOXELY</span></p>",
+          "isCorrect": true
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 20,
+      "section": "SSC CGL",
+      "id": "64d85038432dab245172eb00",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "In a certain code language, 'TABLE' is coded as ELEAT and 'SWING' is coded as GNLWS. How will 'FRAME' be coded in the same language?",
+      "questionHtml": "<p><span style=\"font-size: 16.0pt; font-family: Arial; mso-ascii-font-family: Arial; mso-fareast-font-family: +mj-ea; mso-bidi-font-family: Arial; mso-fareast-theme-font: major-fareast; color: black; mso-color-index: 1; mso-font-kerning: 12.0pt; language: en-US; font-weight: bold; mso-style-textfill-type: solid; mso-style-textfill-fill-themecolor: text1; mso-style-textfill-fill-color: black; mso-style-textfill-fill-alpha: 100.0%;\">In </span><span style=\"font-size: 16.0pt; font-family: Arial; mso-ascii-font-family: Arial; mso-fareast-font-family: +mj-ea; mso-bidi-font-family: Arial; mso-fareast-theme-font: major-fareast; color: black; mso-color-index: 1; mso-font-kerning: 12.0pt; language: en-US; font-weight: bold; mso-style-textfill-type: solid; mso-style-textfill-fill-themecolor: text1; mso-style-textfill-fill-color: black; mso-style-textfill-fill-alpha: 100.0%;\">a certain code language, 'TABLE' is coded as ELEAT and 'SWING' is coded as GNLWS. How will 'FRAME' be coded in the same language?</span></p>",
+      "correctOption": "2",
+      "options": [
+        {
+          "order": "1",
+          "text": "EMERF",
+          "html": "<p><span style=\"font-size: 16.0pt; font-family: Arial; mso-ascii-font-family: Arial; mso-fareast-font-family: +mn-ea; mso-bidi-font-family: Arial; mso-fareast-theme-font: minor-fareast; color: black; mso-color-index: 1; mso-font-kerning: 12.0pt; language: en-IN; font-weight: bold; mso-style-textfill-type: solid; mso-style-textfill-fill-themecolor: text1; mso-style-textfill-fill-color: black; mso-style-textfill-fill-alpha: 100.0%;\">EMERF</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "EMDRF",
+          "html": "<p><span style=\"font-size: 16.0pt; font-family: Arial; mso-ascii-font-family: Arial; mso-fareast-font-family: +mn-ea; mso-bidi-font-family: Arial; mso-fareast-theme-font: minor-fareast; color: black; mso-color-index: 1; mso-font-kerning: 12.0pt; language: en-IN; font-weight: bold; mso-style-textfill-type: solid; mso-style-textfill-fill-themecolor: text1; mso-style-textfill-fill-color: black; mso-style-textfill-fill-alpha: 100.0%;\">EMDRF</span></p>",
+          "isCorrect": true
+        },
+        {
+          "order": "3",
+          "text": "ERMDF",
+          "html": "<p><span style=\"font-size: 16.0pt; font-family: Arial; mso-ascii-font-family: Arial; mso-fareast-font-family: +mn-ea; mso-bidi-font-family: Arial; mso-fareast-theme-font: minor-fareast; color: black; mso-color-index: 1; mso-font-kerning: 12.0pt; language: en-IN; font-weight: bold; mso-style-textfill-type: solid; mso-style-textfill-fill-themecolor: text1; mso-style-textfill-fill-color: black; mso-style-textfill-fill-alpha: 100.0%;\">ERMDF</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "MEDFR",
+          "html": "<p><span style=\"font-size: 16.0pt; font-family: Arial; mso-ascii-font-family: Arial; mso-fareast-font-family: +mn-ea; mso-bidi-font-family: Arial; mso-fareast-theme-font: minor-fareast; color: black; mso-color-index: 1; mso-font-kerning: 12.0pt; language: en-IN; font-weight: bold; mso-style-textfill-type: solid; mso-style-textfill-fill-themecolor: text1; mso-style-textfill-fill-color: black; mso-style-textfill-fill-alpha: 100.0%;\">MEDFR</span></p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 21,
+      "section": "SSC CGL",
+      "id": "64d85038432dab2e5b72eb04",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "Two different positions of the same dice are shown, the six faces of which are marked from A to F. Select the letter that will be on the face opposite to the face showing the letter C.",
+      "questionHtml": "<p style=\"margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;\"><span style=\"font-size: 14pt; font-family: 'Calibri (Body)'; color: #c55a11; font-weight: bold;\">Two different positions of the same dice are shown, the six faces of which are marked from A to F. Select the letter that will be on the face opposite to the face showing the letter C.</span></p>\n<p style=\"margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;\"><img src=\"https://cms-cdn.classplus.co/parserImages/3eb430d2-39f3-454d-a61d-40fdbf42dd35.png\" alt=\"\" width=\"272\" height=\"138\" /></p>",
+      "correctOption": "2",
+      "options": [
+        {
+          "order": "1",
+          "text": "F",
+          "html": "<p><span style=\"font-size: 16.0pt; font-family: Arial; mso-ascii-font-family: Arial; mso-fareast-font-family: +mn-ea; mso-bidi-font-family: Arial; mso-fareast-theme-font: minor-fareast; color: black; mso-color-index: 1; mso-font-kerning: 12.0pt; language: en-US; font-weight: bold; mso-style-textfill-type: solid; mso-style-textfill-fill-themecolor: text1; mso-style-textfill-fill-color: black; mso-style-textfill-fill-alpha: 100.0%;\">F</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "B",
+          "html": "<p><span style=\"font-size: 16.0pt; font-family: Arial; mso-ascii-font-family: Arial; mso-fareast-font-family: +mn-ea; mso-bidi-font-family: Arial; mso-fareast-theme-font: minor-fareast; color: black; mso-color-index: 1; mso-font-kerning: 12.0pt; language: en-US; font-weight: bold; mso-style-textfill-type: solid; mso-style-textfill-fill-themecolor: text1; mso-style-textfill-fill-color: black; mso-style-textfill-fill-alpha: 100.0%;\">B</span></p>",
+          "isCorrect": true
+        },
+        {
+          "order": "3",
+          "text": "A",
+          "html": "<p><span style=\"font-size: 16.0pt; font-family: Arial; mso-ascii-font-family: Arial; mso-fareast-font-family: +mn-ea; mso-bidi-font-family: Arial; mso-fareast-theme-font: minor-fareast; color: black; mso-color-index: 1; mso-font-kerning: 12.0pt; language: en-US; font-weight: bold; mso-style-textfill-type: solid; mso-style-textfill-fill-themecolor: text1; mso-style-textfill-fill-color: black; mso-style-textfill-fill-alpha: 100.0%;\">A</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "D",
+          "html": "<p><span style=\"font-size: 16.0pt; font-family: Arial; mso-ascii-font-family: Arial; mso-fareast-font-family: +mn-ea; mso-bidi-font-family: Arial; mso-fareast-theme-font: minor-fareast; color: black; mso-color-index: 1; mso-font-kerning: 12.0pt; language: en-US; font-weight: bold; mso-style-textfill-type: solid; mso-style-textfill-fill-themecolor: text1; mso-style-textfill-fill-color: black; mso-style-textfill-fill-alpha: 100.0%;\">D</span></p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": [
+        {
+          "original": "https://cms-cdn.classplus.co/parserImages/3eb430d2-39f3-454d-a61d-40fdbf42dd35.png",
+          "local": "4. Full Length Logical Reasoning(with sol)_figures/q21_1.png"
+        }
+      ]
+    },
+    {
+      "questionNumber": 22,
+      "section": "SSC CGL",
+      "id": "64d85038432dabf0b372eb03",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "Select the option figure which is embedded in the given figure. (Rotation is NOT allowed).",
+      "questionHtml": "<p><span style=\"font-size: 16.0pt; font-family: Arial; mso-ascii-font-family: Arial; mso-fareast-font-family: +mj-ea; mso-bidi-font-family: Arial; mso-fareast-theme-font: major-fareast; color: black; mso-color-index: 1; mso-font-kerning: 12.0pt; language: en-IN; font-weight: bold; mso-style-textfill-type: solid; mso-style-textfill-fill-themecolor: text1; mso-style-textfill-fill-color: black; mso-style-textfill-fill-alpha: 100.0%;\">Select </span><span style=\"font-size: 16.0pt; font-family: Arial; mso-ascii-font-family: Arial; mso-fareast-font-family: +mj-ea; mso-bidi-font-family: Arial; mso-fareast-theme-font: major-fareast; color: black; mso-color-index: 1; mso-font-kerning: 12.0pt; language: en-IN; font-weight: bold; mso-style-textfill-type: solid; mso-style-textfill-fill-themecolor: text1; mso-style-textfill-fill-color: black; mso-style-textfill-fill-alpha: 100.0%;\">the option figure which is embedded in the given figure. (Rotation is NOT allowed).&nbsp;</span></p>\n<p><span style=\"font-size: 16.0pt; font-family: Arial; mso-ascii-font-family: Arial; mso-fareast-font-family: +mj-ea; mso-bidi-font-family: Arial; mso-fareast-theme-font: major-fareast; color: black; mso-color-index: 1; mso-font-kerning: 12.0pt; language: en-IN; font-weight: bold; mso-style-textfill-type: solid; mso-style-textfill-fill-themecolor: text1; mso-style-textfill-fill-color: black; mso-style-textfill-fill-alpha: 100.0%;\"><img src=\"https://cms-cdn.classplus.co/parserImages/63a3db71-0ffa-43a6-a673-e19afbc2af31.png\" alt=\"\" width=\"200\" height=\"159\" /></span></p>",
+      "correctOption": "2",
+      "options": [
+        {
+          "order": "1",
+          "text": "",
+          "html": "<p><img src=\"https://cms-cdn.classplus.co/parserImages/147e9ce7-c26d-43f5-94a7-35b880770b8f.png\" alt=\"\" width=\"163\" height=\"130\" /></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "",
+          "html": "<p><img src=\"https://cms-cdn.classplus.co/parserImages/fb01ac3e-6a86-40ac-95a9-4809618372af.png\" alt=\"\" width=\"149\" height=\"145\" /></p>",
+          "isCorrect": true
+        },
+        {
+          "order": "3",
+          "text": "",
+          "html": "<p><img src=\"https://cms-cdn.classplus.co/parserImages/b5a27b79-f6ca-4fcc-bf37-d050fe30a633.png\" alt=\"\" width=\"143\" height=\"135\" /></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "",
+          "html": "<p><img src=\"https://cms-cdn.classplus.co/parserImages/fc3f33f5-8ddd-4bc5-8149-ac406835f4ae.png\" alt=\"\" width=\"159\" height=\"133\" /></p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": [
+        {
+          "original": "https://cms-cdn.classplus.co/parserImages/63a3db71-0ffa-43a6-a673-e19afbc2af31.png",
+          "local": "4. Full Length Logical Reasoning(with sol)_figures/q22_1.png"
+        },
+        {
+          "original": "https://cms-cdn.classplus.co/parserImages/147e9ce7-c26d-43f5-94a7-35b880770b8f.png",
+          "local": "4. Full Length Logical Reasoning(with sol)_figures/q22_2.png"
+        },
+        {
+          "original": "https://cms-cdn.classplus.co/parserImages/fb01ac3e-6a86-40ac-95a9-4809618372af.png",
+          "local": "4. Full Length Logical Reasoning(with sol)_figures/q22_3.png"
+        },
+        {
+          "original": "https://cms-cdn.classplus.co/parserImages/b5a27b79-f6ca-4fcc-bf37-d050fe30a633.png",
+          "local": "4. Full Length Logical Reasoning(with sol)_figures/q22_4.png"
+        },
+        {
+          "original": "https://cms-cdn.classplus.co/parserImages/fc3f33f5-8ddd-4bc5-8149-ac406835f4ae.png",
+          "local": "4. Full Length Logical Reasoning(with sol)_figures/q22_5.png"
+        }
+      ]
+    },
+    {
+      "questionNumber": 23,
+      "section": "SSC CGL",
+      "id": "64d85038432dab3aa472eaf5",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "Select the option that is related to the third word in the same way as the second word is related to the first word. (The words must be considered as meaningful English words and must not be related to each other based on the number of letters/number of consonants/vowels in the word.) Skin : Touch :: Nose : ?",
+      "questionHtml": "<p><span style=\"font-size: 16.0pt; font-family: Arial; mso-ascii-font-family: Arial; mso-fareast-font-family: +mj-ea; mso-bidi-font-family: Arial; mso-fareast-theme-font: major-fareast; color: black; mso-color-index: 1; mso-font-kerning: 12.0pt; language: en-US; font-weight: bold; mso-style-textfill-type: solid; mso-style-textfill-fill-themecolor: text1; mso-style-textfill-fill-color: black; mso-style-textfill-fill-alpha: 100.0%;\">Select </span><span style=\"font-size: 16.0pt; font-family: Arial; mso-ascii-font-family: Arial; mso-fareast-font-family: +mj-ea; mso-bidi-font-family: Arial; mso-fareast-theme-font: major-fareast; color: black; mso-color-index: 1; mso-font-kerning: 12.0pt; language: en-US; font-weight: bold; mso-style-textfill-type: solid; mso-style-textfill-fill-themecolor: text1; mso-style-textfill-fill-color: black; mso-style-textfill-fill-alpha: 100.0%;\">the option that is related to the third word in the same way as the second word is related to the first word.<br />(The words must be considered as meaningful English words and must not be related to each other based on the number of letters/number of consonants/vowels in the word.)<br />Skin : Touch :: Nose : ?</span></p>",
+      "correctOption": "1",
+      "options": [
+        {
+          "order": "1",
+          "text": "Smell",
+          "html": "<p><span style=\"font-size: 16.0pt; font-family: Arial; mso-ascii-font-family: Arial; mso-fareast-font-family: +mn-ea; mso-bidi-font-family: Arial; mso-fareast-theme-font: minor-fareast; color: black; mso-color-index: 1; mso-font-kerning: 12.0pt; language: en-US; font-weight: bold; mso-style-textfill-type: solid; mso-style-textfill-fill-themecolor: text1; mso-style-textfill-fill-color: black; mso-style-textfill-fill-alpha: 100.0%;\">Smell</span></p>",
+          "isCorrect": true
+        },
+        {
+          "order": "2",
+          "text": "Taste",
+          "html": "<p><span style=\"font-size: 16.0pt; font-family: Arial; mso-ascii-font-family: Arial; mso-fareast-font-family: +mn-ea; mso-bidi-font-family: Arial; mso-fareast-theme-font: minor-fareast; color: black; mso-color-index: 1; mso-font-kerning: 12.0pt; language: en-US; font-weight: bold; mso-style-textfill-type: solid; mso-style-textfill-fill-themecolor: text1; mso-style-textfill-fill-color: black; mso-style-textfill-fill-alpha: 100.0%;\">Taste</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "Nose ring",
+          "html": "<p><span style=\"font-size: 16.0pt; font-family: Arial; mso-ascii-font-family: Arial; mso-fareast-font-family: +mn-ea; mso-bidi-font-family: Arial; mso-fareast-theme-font: minor-fareast; color: black; mso-color-index: 1; mso-font-kerning: 12.0pt; language: en-US; font-weight: bold; mso-style-textfill-type: solid; mso-style-textfill-fill-themecolor: text1; mso-style-textfill-fill-color: black; mso-style-textfill-fill-alpha: 100.0%;\">Nose ring</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "Sweat",
+          "html": "<p><span style=\"font-size: 16.0pt; font-family: Arial; mso-ascii-font-family: Arial; mso-fareast-font-family: +mn-ea; mso-bidi-font-family: Arial; mso-fareast-theme-font: minor-fareast; color: black; mso-color-index: 1; mso-font-kerning: 12.0pt; language: en-US; font-weight: bold; mso-style-textfill-type: solid; mso-style-textfill-fill-themecolor: text1; mso-style-textfill-fill-color: black; mso-style-textfill-fill-alpha: 100.0%;\">Sweat</span></p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 24,
+      "section": "SSC CGL",
+      "id": "64d85038432dab7b0a72eafa",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "Three different positions of the same dice are shown. Find the number on the face opposite the face showing &lsquo;4&rsquo;.",
+      "questionHtml": "<p><span style=\"font-size: 16.0pt; font-family: Arial; mso-ascii-font-family: Arial; mso-fareast-font-family: +mj-ea; mso-bidi-font-family: Arial; mso-fareast-theme-font: major-fareast; color: black; mso-color-index: 1; mso-font-kerning: 12.0pt; language: en-IN; font-weight: bold; mso-style-textfill-type: solid; mso-style-textfill-fill-themecolor: text1; mso-style-textfill-fill-color: black; mso-style-textfill-fill-alpha: 100.0%;\">Three </span><span style=\"font-size: 16.0pt; font-family: Arial; mso-ascii-font-family: Arial; mso-fareast-font-family: +mj-ea; mso-bidi-font-family: Arial; mso-fareast-theme-font: major-fareast; color: black; mso-color-index: 1; mso-font-kerning: 12.0pt; language: en-IN; font-weight: bold; mso-style-textfill-type: solid; mso-style-textfill-fill-themecolor: text1; mso-style-textfill-fill-color: black; mso-style-textfill-fill-alpha: 100.0%;\">different positions of the same dice are shown. Find the number on the face opposite the face showing &lsquo;4&rsquo;.</span></p>\n<p><span style=\"font-size: 16.0pt; font-family: Arial; mso-ascii-font-family: Arial; mso-fareast-font-family: +mj-ea; mso-bidi-font-family: Arial; mso-fareast-theme-font: major-fareast; color: black; mso-color-index: 1; mso-font-kerning: 12.0pt; language: en-IN; font-weight: bold; mso-style-textfill-type: solid; mso-style-textfill-fill-themecolor: text1; mso-style-textfill-fill-color: black; mso-style-textfill-fill-alpha: 100.0%;\"><img src=\"https://cms-cdn.classplus.co/parserImages/03780da8-e98f-4978-a219-191982552336.png\" alt=\"\" width=\"314\" height=\"145\" /></span></p>",
+      "correctOption": "4",
+      "options": [
+        {
+          "order": "1",
+          "text": "5",
+          "html": "<p><strong><span style=\"font-size: 18pt;\">5</span></strong></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "6",
+          "html": "<p><strong><span style=\"font-size: 18pt;\">6</span></strong></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "2",
+          "html": "<p><strong><span style=\"font-size: 18pt;\">2</span></strong></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "3",
+          "html": "<p><strong><span style=\"font-size: 18pt;\">3</span></strong></p>",
+          "isCorrect": true
+        }
+      ],
+      "embeddedImages": [
+        {
+          "original": "https://cms-cdn.classplus.co/parserImages/03780da8-e98f-4978-a219-191982552336.png",
+          "local": "4. Full Length Logical Reasoning(with sol)_figures/q24_1.png"
+        }
+      ]
+    },
+    {
+      "questionNumber": 25,
+      "section": "SSC CGL",
+      "id": "64d85038432dab407172eb02",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "Select the Venn diagram that best illustration the relationship between the following classes. Ticket, Aeroplane, Rail",
+      "questionHtml": "<p><span style=\"font-size: 16.0pt; font-family: Arial; mso-ascii-font-family: Arial; mso-fareast-font-family: +mj-ea; mso-bidi-font-family: Arial; mso-fareast-theme-font: major-fareast; color: black; mso-color-index: 1; mso-font-kerning: 12.0pt; language: en-IN; font-weight: bold; mso-style-textfill-type: solid; mso-style-textfill-fill-themecolor: text1; mso-style-textfill-fill-color: black; mso-style-textfill-fill-alpha: 100.0%;\">Select </span><span style=\"font-size: 16.0pt; font-family: Arial; mso-ascii-font-family: Arial; mso-fareast-font-family: +mj-ea; mso-bidi-font-family: Arial; mso-fareast-theme-font: major-fareast; color: black; mso-color-index: 1; mso-font-kerning: 12.0pt; language: en-IN; font-weight: bold; mso-style-textfill-type: solid; mso-style-textfill-fill-themecolor: text1; mso-style-textfill-fill-color: black; mso-style-textfill-fill-alpha: 100.0%;\">the Venn diagram that best illustration the relationship between the following classes.<br />Ticket, Aeroplane, Rail</span></p>",
+      "correctOption": "1",
+      "options": [
+        {
+          "order": "1",
+          "text": "",
+          "html": "<p><img src=\"https://cms-cdn.classplus.co/parserImages/21fbcebe-014e-4ec6-b4a4-3dda21bd7345.png\" alt=\"\" width=\"198\" height=\"96\" /></p>",
+          "isCorrect": true
+        },
+        {
+          "order": "2",
+          "text": "",
+          "html": "<p><img src=\"https://cms-cdn.classplus.co/parserImages/830a769b-ac58-4bc4-8453-760fbd3f7297.png\" alt=\"\" width=\"224\" height=\"94\" /></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "",
+          "html": "<p><img src=\"https://cms-cdn.classplus.co/parserImages/ac970f38-2f98-4b38-aa69-5fa57fb63bed.png\" alt=\"\" width=\"124\" height=\"111\" /></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "",
+          "html": "<p><img src=\"https://cms-cdn.classplus.co/parserImages/8ef253be-0070-4061-87eb-ea96ff48da58.png\" alt=\"\" width=\"161\" height=\"133\" /></p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": [
+        {
+          "original": "https://cms-cdn.classplus.co/parserImages/21fbcebe-014e-4ec6-b4a4-3dda21bd7345.png",
+          "local": "4. Full Length Logical Reasoning(with sol)_figures/q25_1.png"
+        },
+        {
+          "original": "https://cms-cdn.classplus.co/parserImages/830a769b-ac58-4bc4-8453-760fbd3f7297.png",
+          "local": "4. Full Length Logical Reasoning(with sol)_figures/q25_2.png"
+        },
+        {
+          "original": "https://cms-cdn.classplus.co/parserImages/ac970f38-2f98-4b38-aa69-5fa57fb63bed.png",
+          "local": "4. Full Length Logical Reasoning(with sol)_figures/q25_3.png"
+        },
+        {
+          "original": "https://cms-cdn.classplus.co/parserImages/8ef253be-0070-4061-87eb-ea96ff48da58.png",
+          "local": "4. Full Length Logical Reasoning(with sol)_figures/q25_4.png"
+        }
+      ]
+    }
+  ]
+}

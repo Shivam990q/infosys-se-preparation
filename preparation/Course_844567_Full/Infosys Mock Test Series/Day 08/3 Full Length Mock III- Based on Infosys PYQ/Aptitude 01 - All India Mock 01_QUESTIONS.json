@@ -1,0 +1,1132 @@
+{
+  "testId": "68bbe5b92571a13275bf3004",
+  "title": "Aptitude 01 - All India Mock 01",
+  "engine": "Testbook SDK",
+  "folderPath": "Infosys Mock Test Series / Day 08 / 3 Full Length Mock III- Based on Infosys PYQ",
+  "totalQuestions": 33,
+  "totalMarks": 40,
+  "durationMinutes": 35.0,
+  "livePortalUrl": "https://testsdk.testbook.com/org-44032-844567/tests/68bbe5b92571a13275bf3004#auth?page=test&auth=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiI1YjQzMDFmYzdkZTU1NzBjMzFkNTU1NTUiLCJzdWIiOiIxNTkzMDU3NDYiLCJhdWQiOiJDUCIsImV4cEludCI6MTc5MTk1ODYwOSwiaWF0SW50IjoxNzkxODcyMjA5LCJvcmdJZCI6IjViNDMwMWZjN2RlNTU3MGMzMWQ1NTU1NSIsInJvbGVzIjoic3R1ZGVudCIsIm5hbWUiOiJIYWNrV2l0aEluZnlQcmVwIn0.X1RoaTnMXMfCSE0T4m7rhlsvYcJTiTB36FZ-93midjyEyLa0XKiam6liIf5IveqUBlsd7AZhftmLm5wwdFnbV_YepvxMbk6_Zn0wfkTMf2_Ya_cXkJRnW77BExJMh1s2JHFQWZXskUc8N-5uNAv2xa3dS9qZnZQPfBcvKP67cKNBGk29WOvx-cY-GNiz6M864CwaF5EX6CpnFTFhPkkaEMwJRrbzvHNvO0yX0prA6bCKSkR3qMROmbjmK39PvY9YPBzzePOWyCS7B0chRBW5YuW3oU8uIHQPucNRDphA4HcYKmc1tnAoWxuGr_ETmFUl9JlzTRsn6dGHl3mLaKf8Hg&hideRank=0&isCPTestBookMarkEnabled=true",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "section": "Quantitative Aptitude",
+      "id": "68bc38e30e9cca5d81e43fb6",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "Question : If the surface areas of two spheres are in the ratio of 49:81 , then find the ratio of their volumes.",
+      "questionHtml": "<p class=\"MsoNormal\" style=\"margin: 0cm 0cm 8pt; line-height: 18.4px; font-size: 12pt; font-family: Aptos, sans-serif; color: #000000;\"><span style=\"font-size: 14pt;\"><strong>Question</strong> :</span></p>\n<p class=\"MsoNormal\" style=\"margin: 0cm 0cm 8pt; line-height: 18.4px; font-size: 12pt; font-family: Aptos, sans-serif; color: #000000;\"><span style=\"font-size: 14pt;\"> If the surface areas of two spheres are in the ratio of <strong>49:81</strong>, then find the <strong>ratio of their volumes.</strong></span><o:p></o:p></p>",
+      "correctOption": "3",
+      "options": [
+        {
+          "order": "1",
+          "text": "27:64",
+          "html": "<p>27:64</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "125:512",
+          "html": "<p>125:512</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "343:729",
+          "html": "<p>343:729</p>",
+          "isCorrect": true
+        },
+        {
+          "order": "4",
+          "text": "216:512",
+          "html": "<p>216:512</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 2,
+      "section": "Quantitative Aptitude",
+      "id": "68bc38e30e9ccaaef3e43fbb",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "Question : If Raman drives his bike at a speed of 24 km/h, he reaches his office 5 minutes late. If he drives the bike at a speed of 30 km/h, he reaches his office 4 minutes early. How much time (in minutes) will he take to reach his office at a speed of 27 km/h?",
+      "questionHtml": "<p class=\"MsoNormal\" style=\"margin: 0cm 0cm 8pt; line-height: 24px; font-size: 12pt; font-family: Aptos, sans-serif; color: #000000;\"><span style=\"font-size: 14pt;\"><strong>Question</strong> :</span></p>\n<p class=\"MsoNormal\" style=\"margin: 0cm 0cm 8pt; line-height: 24px; font-size: 12pt; font-family: Aptos, sans-serif; color: #000000;\"><span style=\"font-size: 14pt;\">If Raman drives his bike at a speed of 24 km/h, he reaches his office 5 minutes late. If he drives the bike at a speed of 30 km/h, he reaches his office 4 minutes early. How much time (in minutes) will he take to reach his office at a speed of 27 km/h?</span><o:p></o:p></p>",
+      "correctOption": "1",
+      "options": [
+        {
+          "order": "1",
+          "text": "40",
+          "html": "<p>40</p>",
+          "isCorrect": true
+        },
+        {
+          "order": "2",
+          "text": "55",
+          "html": "<p>55</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "50",
+          "html": "<p>50</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "45",
+          "html": "<p>45</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 3,
+      "section": "Quantitative Aptitude",
+      "id": "68bc38e30e9cca3fa7e43fc0",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "Question : If the height of a solid right circular cylinder is 27 cm and diameter of its base is 30 cm, the total surface area (in sq cm) of the right circular cylinder is?",
+      "questionHtml": "<p class=\"MsoNormal\" style=\"margin: 0cm 0cm 8pt; line-height: 24px; font-size: 12pt; font-family: Aptos, sans-serif; color: #000000;\"><span style=\"font-size: 14pt;\"><strong>Question</strong> :</span></p>\n<p class=\"MsoNormal\" style=\"margin: 0cm 0cm 8pt; line-height: 24px; font-size: 12pt; font-family: Aptos, sans-serif; color: #000000;\"><span style=\"font-size: 14pt;\">If the height of a solid right circular cylinder is 27 cm and diameter of its base is 30 cm, the total surface area (in sq cm) of the right circular cylinder is?</span><o:p></o:p></p>",
+      "correctOption": "3",
+      "options": [
+        {
+          "order": "1",
+          "text": "3976",
+          "html": "<p>3976</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "3964",
+          "html": "<p>3964</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "3960",
+          "html": "<p>3960</p>",
+          "isCorrect": true
+        },
+        {
+          "order": "4",
+          "text": "3978",
+          "html": "<p>3978</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 4,
+      "section": "Quantitative Aptitude",
+      "id": "68bc38e30e9ccab478e43fc5",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "Question : Avra travels from A to B at 74 km/h and returns from B to A through the same route at 111 km/h. What was his average speed during the two-way journey?",
+      "questionHtml": "<p class=\"MsoNormal\" style=\"margin: 0cm 0cm 8pt; line-height: 18.4px; font-size: 12pt; font-family: Aptos, sans-serif; color: #000000;\"><span style=\"font-size: 14pt;\"><strong>Question :</strong> </span></p>\n<p class=\"MsoNormal\" style=\"margin: 0cm 0cm 8pt; line-height: 18.4px; font-size: 12pt; font-family: Aptos, sans-serif; color: #000000;\"><span style=\"font-size: 14pt;\">Avra travels from A to B at 74 km/h and returns from B to A through the same route at 111 km/h. What was his average speed during the two-way journey?</span><o:p></o:p></p>",
+      "correctOption": "2",
+      "options": [
+        {
+          "order": "1",
+          "text": "78.88 km/hr",
+          "html": "<p>78.88 km/hr</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "88.88 km/hr",
+          "html": "<p>88.88 km/hr</p>",
+          "isCorrect": true
+        },
+        {
+          "order": "3",
+          "text": "98.88 km/hr",
+          "html": "<p>98.88 km/hr</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "108.88 km/hr",
+          "html": "<p>108.88 km/hr</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 5,
+      "section": "Quantitative Aptitude",
+      "id": "68bc38e30e9cca37afe43fca",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "Question : A can do 1/4 of a work in 3 days and B can do 1/6 of the same work in 4 days, how much will A get if both work together and are paid Rs. 180 in all?",
+      "questionHtml": "<p class=\"MsoNormal\" style=\"margin: 0cm 0cm 8pt; line-height: 18.4px; font-size: 12pt; font-family: Aptos, sans-serif; color: #000000;\"><span style=\"font-size: 14pt;\"><strong>Question :</strong></span></p>\n<p class=\"MsoNormal\" style=\"margin: 0cm 0cm 8pt; line-height: 18.4px; font-size: 12pt; font-family: Aptos, sans-serif; color: #000000;\"><span style=\"font-size: 14pt;\">A can do 1/4 of a work in 3 days and B can do 1/6 of the same work in 4 days, how much will A get if both work together and are paid Rs. 180 in all?</span><o:p></o:p></p>",
+      "correctOption": "3",
+      "options": [
+        {
+          "order": "1",
+          "text": "150 Rs",
+          "html": "<p>150 Rs</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "100",
+          "html": "<p>100</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "120",
+          "html": "<p>120</p>",
+          "isCorrect": true
+        },
+        {
+          "order": "4",
+          "text": "160",
+          "html": "<p>160</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 6,
+      "section": "Quantitative Aptitude",
+      "id": "68bcecfcd4be710f75138f8b",
+      "type": "numerical",
+      "posMarks": 2,
+      "negMarks": 0,
+      "questionText": "Question : At 20% discount the selling price of a refrigerator is Rs 2400. What is the selling price if the discount is 32.5%?",
+      "questionHtml": "<p class=\"MsoListParagraph\" style=\"margin: 0cm 0cm 9pt 32.2pt; line-height: 18pt; font-size: 12pt; font-family: Aptos, sans-serif; color: #000000; text-indent: -18pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\"><strong style=\"font-size: 18.6667px;\">Question :</strong></p>\n<p class=\"MsoListParagraph\" style=\"margin: 0cm 0cm 9pt 32.2pt; line-height: 18pt; font-size: 12pt; font-family: Aptos, sans-serif; color: #000000; text-indent: -18pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\"><span style=\"font-size: 14pt;\"><span style=\"font-family: Arial, sans-serif; color: #232323;\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; line-height: normal; font-family: 'Times New Roman';\">&nbsp;</span></span><span style=\"font-family: Arial, sans-serif; color: #232323;\">At 20% discount the selling price of a refrigerator is Rs 2400. What is the selling price if the discount is 32.5%?</span></span><o:p></o:p></p>",
+      "correctOption": "",
+      "options": [
+        {
+          "order": "1",
+          "text": "undefined",
+          "html": "undefined",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 7,
+      "section": "Quantitative Aptitude",
+      "id": "68bcee74a9528c383891d19a",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "Question : A mixture contains milk and water in ratio 5 : 7, when 8 liters milk of and 8 liters of water is added in mixture then ratio becomes 9 : 11. Find initial quantity of milk.",
+      "questionHtml": "<p class=\"MsoNormal\" style=\"margin: 0cm 0cm 8pt; line-height: 18.4px; font-size: 12pt; font-family: Aptos, sans-serif; color: #000000;\"><span style=\"font-size: 14pt;\"><strong style=\"text-indent: -24px;\">Question :</strong></span></p>\n<p class=\"MsoNormal\" style=\"margin: 0cm 0cm 8pt; line-height: 18.4px; font-size: 12pt; font-family: Aptos, sans-serif; color: #000000;\"><span style=\"font-size: 14pt;\">A mixture contains milk and water in ratio 5 : 7, when 8 liters milk of and 8 liters of water is added in mixture then ratio becomes 9 : 11. Find initial quantity of milk.</span><o:p></o:p></p>",
+      "correctOption": "2",
+      "options": [
+        {
+          "order": "1",
+          "text": "24 liters",
+          "html": "<p><strong style=\"color: #000000; font-size: medium;\"><span lang=\"EN-US\" style=\"font-size: 12pt; line-height: 18.4px; font-family: Aptos, sans-serif;\">24 liters</span></strong></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "10 liters",
+          "html": "<p><strong style=\"font-size: medium; color: #000000;\"><span lang=\"EN-US\" style=\"font-size: 12pt; line-height: 18.4px; font-family: Aptos, sans-serif;\">10 liters</span></strong></p>",
+          "isCorrect": true
+        },
+        {
+          "order": "3",
+          "text": "16liters",
+          "html": "<p><strong style=\"font-size: medium; color: #000000;\"><span lang=\"EN-US\" style=\"font-size: 12pt; line-height: 18.4px; font-family: Aptos, sans-serif;\">16liters</span></strong></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "18 liters",
+          "html": "<p><strong style=\"font-size: medium; color: #000000;\"><span lang=\"EN-US\" style=\"font-size: 12pt; line-height: 18.4px; font-family: Aptos, sans-serif;\">18 liters</span></strong></p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 8,
+      "section": "Quantitative Aptitude",
+      "id": "68bceecaa9528c02dd91d1aa",
+      "type": "numerical",
+      "posMarks": 2,
+      "negMarks": 0,
+      "questionText": "Question : The mean weight of 34 students of a school is 42 kg. If the weight of the teacher is also included, the mean rises by 400 grams. Find the weight of the teacher (in kg.)",
+      "questionHtml": "<p class=\"MsoNormal\" style=\"margin: 0cm 0cm 8pt; line-height: 18.4px; font-size: 12pt; font-family: Aptos, sans-serif; color: #000000;\"><span style=\"font-size: 14pt;\"><strong style=\"text-indent: -24px;\">Question :</strong></span></p>\n<p class=\"MsoNormal\" style=\"margin: 0cm 0cm 8pt; line-height: 18.4px; font-size: 12pt; font-family: Aptos, sans-serif; color: #000000;\"><span style=\"font-size: 14pt;\">The mean weight of 34 students of a school is 42 kg. If the weight of the teacher is also included, the mean rises by 400 grams. Find the weight of the teacher (in kg.)</span><o:p></o:p></p>",
+      "correctOption": "",
+      "options": [
+        {
+          "order": "1",
+          "text": "undefined",
+          "html": "undefined",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 9,
+      "section": "Quantitative Aptitude",
+      "id": "68bcef11a9528c4aff91d1bb",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "Question : A basket contains 6 White 4 Black 2 Pink and 3 Green balls. If four balls are picked at random, what is the probability that at least one is Black?",
+      "questionHtml": "<p class=\"MsoNormal\" style=\"margin: 0cm 0cm 8pt; line-height: 18.4px; font-size: 12pt; font-family: Aptos, sans-serif; color: #000000;\"><span style=\"font-size: 14pt;\"><strong style=\"text-indent: -24px;\">Question :</strong></span></p>\n<p class=\"MsoNormal\" style=\"margin: 0cm 0cm 8pt; line-height: 18.4px; font-size: 12pt; font-family: Aptos, sans-serif; color: #000000;\"><span style=\"font-size: 14pt;\">A basket contains 6 White 4 Black 2 Pink and 3 Green balls. If four balls are picked at random, what is the probability that at least one is Black?</span><o:p></o:p></p>",
+      "correctOption": "1",
+      "options": [
+        {
+          "order": "1",
+          "text": "69/91",
+          "html": "<p><strong style=\"color: #000000; font-size: medium;\"><span lang=\"EN-US\" style=\"font-size: 12pt; line-height: 18.4px; font-family: Aptos, sans-serif;\">69/91</span></strong></p>",
+          "isCorrect": true
+        },
+        {
+          "order": "2",
+          "text": "80/91",
+          "html": "<p><strong style=\"color: #000000; font-size: medium;\"><span lang=\"EN-US\" style=\"font-size: 12pt; line-height: 18.4px; font-family: Aptos, sans-serif;\">80/91</span></strong></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "21/91",
+          "html": "<p><strong style=\"color: #000000; font-size: medium;\"><span lang=\"EN-US\" style=\"font-size: 12pt; line-height: 18.4px; font-family: Aptos, sans-serif;\">21/91</span></strong></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "55/91",
+          "html": "<p><strong style=\"color: #000000; font-size: medium;\"><span lang=\"EN-US\" style=\"font-size: 12pt; line-height: 18.4px; font-family: Aptos, sans-serif;\">55/91</span></strong></p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 10,
+      "section": "Quantitative Aptitude",
+      "id": "68bcef4a0c316cf37762e2c3",
+      "type": "numerical",
+      "posMarks": 2,
+      "negMarks": 0,
+      "questionText": "Question : Two boys Rishi and Vamsi start at the same time to ride from Lucknow to Kanpur that is 95 km away. Rishi travels 5 km/h slower than Vamsi. Vamsi reaches Kanpur and immediately start to travel back. On his return journey he meets Rishi who is 25 km away from Kanpur. Find Rishi's speed(Km/hr)",
+      "questionHtml": "<p class=\"MsoNormal\" style=\"margin: 0cm 0cm 8pt; line-height: 18.4px; font-size: 12pt; font-family: Aptos, sans-serif; color: #000000;\"><span style=\"font-size: 14pt;\"><strong style=\"text-indent: -24px;\">Question :</strong></span></p>\n<p class=\"MsoNormal\" style=\"margin: 0cm 0cm 8pt; line-height: 18.4px; font-size: 12pt; font-family: Aptos, sans-serif; color: #000000;\"><span style=\"font-size: 14pt;\">Two boys Rishi and Vamsi start at the same time to ride from Lucknow to Kanpur that is 95 km away. Rishi travels 5 km/h slower than Vamsi. Vamsi reaches Kanpur and immediately start to travel back. On his return journey he meets Rishi who is 25 km away from Kanpur. Find Rishi's speed(Km/hr)</span><o:p></o:p></p>",
+      "correctOption": "",
+      "options": [
+        {
+          "order": "1",
+          "text": "undefined",
+          "html": "undefined",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 11,
+      "section": "Quantitative Aptitude",
+      "id": "68bcef946daa361c55e104f7",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "Question : The length, Breadth and height of a cuboid increases by 20%, 10% and 30% Respectively. What is the percentage increases in the volume of that cuboid?",
+      "questionHtml": "<p class=\"MsoNormal\" style=\"margin: 0cm 0cm 8pt; line-height: 18.4px; font-size: 12pt; font-family: Aptos, sans-serif; color: #000000;\"><span style=\"font-size: 14pt;\"><strong style=\"text-indent: -24px;\">Question :</strong></span></p>\n<p class=\"MsoNormal\" style=\"margin: 0cm 0cm 8pt; line-height: 18.4px; font-size: 12pt; font-family: Aptos, sans-serif; color: #000000;\"><span style=\"font-size: 14pt;\">The length, Breadth and height of a cuboid increases by 20%, 10% and 30% Respectively. What is the percentage increases in the volume of that cuboid?</span><o:p></o:p></p>",
+      "correctOption": "3",
+      "options": [
+        {
+          "order": "1",
+          "text": "30%",
+          "html": "<p><span style=\"color: black; font-size: 10.5pt; line-height: 16.1px; font-family: Helvetica;\">30%</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "20%",
+          "html": "<p><span style=\"color: black; font-size: 10.5pt; line-height: 16.1px; font-family: Helvetica;\">20%</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "71.6%",
+          "html": "<p><span style=\"color: black; font-size: 10.5pt; line-height: 16.1px; font-family: Helvetica;\">71.6%</span></p>",
+          "isCorrect": true
+        },
+        {
+          "order": "4",
+          "text": "43%",
+          "html": "<p><span style=\"color: black; font-size: 10.5pt; line-height: 16.1px; font-family: Helvetica;\">43%</span></p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 12,
+      "section": "Quantitative Aptitude",
+      "id": "68bcef946daa360051e104fc",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "Question : A bag contains Rs. 4100 in the form of Rs. 5, Rs. 2 and Rs. 1 coin. The number of coins is in ratio 4: 6: 9. So, find the number of 1 Rs. coins.",
+      "questionHtml": "<p class=\"MsoNormal\" style=\"margin: 0cm 0cm 8pt; line-height: 18.4px; font-size: 12pt; font-family: Aptos, sans-serif; color: #000000;\"><span style=\"font-size: 14pt;\"><strong style=\"text-indent: -24px;\">Question :</strong></span></p>\n<p class=\"MsoNormal\" style=\"margin: 0cm 0cm 8pt; line-height: 18.4px; font-size: 12pt; font-family: Aptos, sans-serif; color: #000000;\"><span style=\"font-size: 14pt;\">A bag contains Rs. 4100 in the form of Rs. 5, Rs. 2 and Rs. 1 coin. The number of coins is in ratio 4: 6: 9. So, find the number of 1 Rs. coins.</span><o:p></o:p></p>",
+      "correctOption": "3",
+      "options": [
+        {
+          "order": "1",
+          "text": "40",
+          "html": "<p><span style=\"color: #000000; font-size: 14pt; line-height: 21.4667px; font-family: 'Times New Roman', serif;\">40</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "500",
+          "html": "<p><span style=\"color: #000000; font-size: 14pt; line-height: 21.4667px; font-family: 'Times New Roman', serif;\">500</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "900",
+          "html": "<p>900</p>",
+          "isCorrect": true
+        },
+        {
+          "order": "4",
+          "text": "None of these",
+          "html": "<p>None of these</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 13,
+      "section": "Quantitative Aptitude",
+      "id": "68bcf03db9478f54e1934187",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "Question : The two trains are coming towards each other and cross a signal pole in 30 seconds and 20 seconds respectively and they cross each other in 24seconds. Find the ratio of the speed of these two trains?",
+      "questionHtml": "<p class=\"MsoNormal\" style=\"margin: 0cm 0cm 8pt; line-height: 18.4px; font-size: 12pt; font-family: Aptos, sans-serif; color: #000000;\"><span style=\"font-size: 14pt;\"><strong style=\"text-indent: -24px;\">Question :</strong></span></p>\n<p class=\"MsoNormal\" style=\"margin: 0cm 0cm 8pt; line-height: 18.4px; font-size: 12pt; font-family: Aptos, sans-serif; color: #000000;\"><span style=\"font-size: 14pt;\">The two trains are coming towards each other and cross a signal pole in 30 seconds and 20 seconds respectively and they cross each other in 24seconds. Find the ratio of the speed of these two trains?</span><o:p></o:p></p>",
+      "correctOption": "1",
+      "options": [
+        {
+          "order": "1",
+          "text": "2:3",
+          "html": "<p>2:3</p>",
+          "isCorrect": true
+        },
+        {
+          "order": "2",
+          "text": "3:5",
+          "html": "<p>3:5</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "4:5",
+          "html": "<p>4:5</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "3:4",
+          "html": "<p>3:4</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 14,
+      "section": "logical Reasoning",
+      "id": "68bcf3dc1f640570fbf17986",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "",
+      "questionHtml": "<p><img src=\"https://cms-cdn.classplus.co/parserImages/db6c5d8a-e630-406c-8536-24c630eee2ab.png\" alt=\"\" /></p>",
+      "correctOption": "4",
+      "options": [
+        {
+          "order": "1",
+          "text": "A",
+          "html": "<p>A</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "C",
+          "html": "<p>C</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "Z",
+          "html": "<p>Z</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "B",
+          "html": "<p>B</p>",
+          "isCorrect": true
+        }
+      ],
+      "embeddedImages": [
+        {
+          "original": "https://cms-cdn.classplus.co/parserImages/db6c5d8a-e630-406c-8536-24c630eee2ab.png",
+          "local": "Aptitude 01 - All India Mock 01_figures/q14_1.png"
+        }
+      ]
+    },
+    {
+      "questionNumber": 15,
+      "section": "logical Reasoning",
+      "id": "68bcf534ced1c680e0897f54",
+      "type": "mcq",
+      "posMarks": 2,
+      "negMarks": 0,
+      "questionText": "Directions : Study the following information carefully to answer these questions. A, B, C, D, E, F, G and H are sitting around a circle, facing the centre. F sits to the immediate right of D and third to the left of A. G sits third to the left of D who does not sit next to E. B sits next to G but not next to D. C does not sit next to either D or A. Question : What is the position of H with respect to C?",
+      "questionHtml": "<p class=\"MsoNormal\" style=\"margin: 0cm 0cm 8pt; line-height: 18.4px; font-size: 12pt; font-family: Aptos, sans-serif; color: #000000;\"><span style=\"font-size: 14pt;\">Directions : Study the following information carefully to answer these questions.</span><o:p></o:p></p>\n<p class=\"MsoNormal\" style=\"margin: 0cm 0cm 8pt; line-height: 18.4px; font-size: 12pt; font-family: Aptos, sans-serif; color: #000000;\"><span style=\"font-size: 14pt;\">A, B, C, D, E, F, G and H are sitting around a circle, facing the centre. F sits to the immediate right of D and third to the left of A. G sits third to the left of D who does not sit next to E. B sits next to G but not next to D. C does not sit next to either D or A.</span><o:p></o:p></p>\n<p class=\"MsoNormal\" style=\"margin: 0cm 0cm 8pt; line-height: 18.4px; font-size: 12pt; font-family: Aptos, sans-serif; color: #000000;\"></p>\n<p class=\"MsoNormal\" style=\"margin: 0cm 0cm 8pt; line-height: 18.4px; font-size: 12pt; font-family: Aptos, sans-serif; color: #000000;\"><strong><span style=\"font-size: 14pt;\">Question : What is the position of H with respect to C?</span></strong><o:p></o:p></p>",
+      "correctOption": "5",
+      "options": [
+        {
+          "order": "1",
+          "text": "Second to the left",
+          "html": "<p><strong style=\"color: #000000; font-family: Aptos, sans-serif; text-indent: -24px;\"><span style=\"text-indent: 0px; font-size: 14pt; line-height: 15.3333px; font-family: Calibri, sans-serif;\">Second to the left</span></strong></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "First to the right",
+          "html": "<p><strong style=\"color: #000000; font-family: Aptos, sans-serif; text-indent: -24px;\"><span style=\"text-indent: 0px; font-size: 14pt; line-height: 15.3333px; font-family: Calibri, sans-serif;\">First to the right</span></strong></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "Third to the right",
+          "html": "<p><strong style=\"color: #000000; font-family: Aptos, sans-serif; text-indent: -24px;\"><span style=\"text-indent: 0px; font-size: 14pt; line-height: 15.3333px; font-family: Calibri, sans-serif;\">Third to the right</span></strong></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "Second to the right",
+          "html": "<p><strong style=\"color: #000000; font-family: Aptos, sans-serif; text-indent: -24px;\"><span style=\"text-indent: 0px; font-size: 14pt; line-height: 15.3333px; font-family: Calibri, sans-serif;\">Second to the right</span></strong></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "5",
+          "text": "None of these",
+          "html": "<p><strong style=\"color: #000000; font-family: Aptos, sans-serif; text-indent: -24px;\"><span style=\"text-indent: 0px; font-size: 14pt; line-height: 15.3333px; font-family: Calibri, sans-serif;\">None of these</span></strong></p>",
+          "isCorrect": true
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 16,
+      "section": "logical Reasoning",
+      "id": "68bcf603a9528ccee691d6fb",
+      "type": "mcq",
+      "posMarks": 2,
+      "negMarks": 0,
+      "questionText": "Directions : Study the following information carefully to answer these questions. A, B, C, D, E, F, G and H are sitting around a circle, facing the centre. F sits to the immediate right of D and third to the left of A. G sits third to the left of D who does not sit next to E. B sits next to G but not next to D. C does not sit next to either D or A. Question : Starting from A&rsquo;s position, if all the eight are arranged in alphabetical order in clockwise direction, the seating position of which of the following (excluding A) would not change?",
+      "questionHtml": "<p class=\"MsoNormal\" style=\"margin: 0cm 0cm 8pt; line-height: 18.4px; font-size: 12pt; font-family: Aptos, sans-serif; color: #000000;\"><span style=\"font-size: 14pt;\">Directions : Study the following information carefully to answer these questions.</span><o:p></o:p></p>\n<p class=\"MsoNormal\" style=\"margin: 0cm 0cm 8pt; line-height: 18.4px; font-size: 12pt; font-family: Aptos, sans-serif; color: #000000;\"><span style=\"font-size: 14pt;\">A, B, C, D, E, F, G and H are sitting around a circle, facing the centre. F sits to the immediate right of D and third to the left of A. G sits third to the left of D who does not sit next to E. B sits next to G but not next to D. C does not sit next to either D or A.</span></p>\n<p class=\"MsoNormal\" style=\"margin: 0cm 0cm 8pt; line-height: 18.4px; font-size: 12pt; font-family: Aptos, sans-serif; color: #000000;\"><o:p></o:p><strong><span style=\"text-indent: 0px; font-size: 14pt; line-height: 15.3333px; font-family: Calibri, sans-serif;\">Question :&nbsp;</span><span style=\"font-family: Calibri, sans-serif; font-size: 14pt;\">Starting from A&rsquo;s position, if all the eight are arranged in alphabetical order in clockwise direction, the seating position of which of the following (excluding A) would not change?</span></strong></p>",
+      "correctOption": "2",
+      "options": [
+        {
+          "order": "1",
+          "text": "B",
+          "html": "<p>B</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "C",
+          "html": "<p><strong style=\"color: #000000; font-family: Aptos, sans-serif; text-indent: -24px;\"><span style=\"text-indent: 0px; font-size: 14pt; line-height: 15.3333px; font-family: Calibri, sans-serif;\">C</span></strong></p>",
+          "isCorrect": true
+        },
+        {
+          "order": "3",
+          "text": "D",
+          "html": "<p><strong style=\"color: #000000; font-family: Aptos, sans-serif; text-indent: -24px;\"><span style=\"text-indent: 0px; font-size: 14pt; line-height: 15.3333px; font-family: Calibri, sans-serif;\">D</span></strong></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "H",
+          "html": "<p><strong style=\"color: #000000; font-family: Aptos, sans-serif; text-indent: -24px;\"><span style=\"text-indent: 0px; font-size: 14pt; line-height: 15.3333px; font-family: Calibri, sans-serif;\">H</span></strong></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "5",
+          "text": "None of these",
+          "html": "<p><strong style=\"color: #000000; font-family: Aptos, sans-serif; text-indent: -24px;\"><span style=\"text-indent: 0px; font-size: 14pt; line-height: 15.3333px; font-family: Calibri, sans-serif;\">None of these</span></strong></p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 17,
+      "section": "logical Reasoning",
+      "id": "68bcf6b863cfcbcdaa22db51",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "P started from his house towards west. After walking a distance of 25 m. He turned to the right and walked 10 m. He then again turned to the right and walked 15 m. After this he is to turn right at 135 degree and to cover 30 m. In which direction P is going?",
+      "questionHtml": "<p class=\"MsoNormal\" style=\"margin: 0cm 0cm 8pt; line-height: 24px; font-size: 12pt; font-family: Aptos, sans-serif; color: #000000;\"><span style=\"font-size: 14pt;\">P started from his house towards west. After walking a distance of 25 m. He turned to the right and walked 10 m. He then again turned to the right and walked 15 m. After this he is to turn right at <strong>135 degree</strong> and to cover 30 m. <strong>In which direction P is going?</strong></span><o:p></o:p></p>",
+      "correctOption": "4",
+      "options": [
+        {
+          "order": "1",
+          "text": "West",
+          "html": "<p><span style=\"color: #000000; font-size: 10.5pt; line-height: 16.1px; font-family: Arial, sans-serif;\">West</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "South",
+          "html": "<p><span style=\"color: #000000; font-size: 10.5pt; line-height: 16.1px; font-family: Arial, sans-serif;\">South</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "South-East",
+          "html": "<p><span style=\"color: #000000; font-size: 10.5pt; line-height: 16.1px; font-family: Arial, sans-serif;\">South-East</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "South-West",
+          "html": "<p><span style=\"color: #000000; font-family: Arial, sans-serif; font-size: 14px;\">South-West</span></p>",
+          "isCorrect": true
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 18,
+      "section": "logical Reasoning",
+      "id": "68bcf7c423679a5a5dc0c3c5",
+      "type": "numerical",
+      "posMarks": 2,
+      "negMarks": 0,
+      "questionText": "If GOOD is coded as 164 , BAD is coded as 21 & UGLY is coded as 260 then JUMP will be coded as ?",
+      "questionHtml": "<p class=\"MsoNoSpacing\" style=\"margin: 0cm; font-size: 11pt; font-family: Calibri, sans-serif; color: #000000;\"><span style=\"font-size: 14pt;\">If GOOD is coded as 164 ,&nbsp; BAD is coded as 21 &amp; UGLY is coded as 260 then JUMP will be coded as ?</span><o:p></o:p></p>",
+      "correctOption": "",
+      "options": [
+        {
+          "order": "1",
+          "text": "undefined",
+          "html": "undefined",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 19,
+      "section": "logical Reasoning",
+      "id": "68bcf8fe202ad488e47ec2ec",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "The Line graph shows the data of 3 different types of cars sold in 5 different cities : Questio : Number of Honda car sold in Ahmedabad is what percent of the total Innova car sold in surat ?",
+      "questionHtml": "<p>The Line graph shows the data of 3 different types of cars sold in 5 different cities :</p>\n<p><img src=\"https://cms-cdn.classplus.co/parserImages/5990adb0-820b-421b-9504-4d5c77b0ba9b.png\" alt=\"\" /></p>\n<p>Questio : Number of Honda car sold in Ahmedabad is what percent of the total Innova car sold in surat ?&nbsp;</p>",
+      "correctOption": "2",
+      "options": [
+        {
+          "order": "1",
+          "text": "50 %",
+          "html": "<p>50 %</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "66(2/3)%",
+          "html": "<p>66(2/3)%</p>",
+          "isCorrect": true
+        },
+        {
+          "order": "3",
+          "text": "70%",
+          "html": "<p>70%</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "None of these",
+          "html": "<p>None of these</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": [
+        {
+          "original": "https://cms-cdn.classplus.co/parserImages/5990adb0-820b-421b-9504-4d5c77b0ba9b.png",
+          "local": "Aptitude 01 - All India Mock 01_figures/q19_1.png"
+        }
+      ]
+    },
+    {
+      "questionNumber": 20,
+      "section": "logical Reasoning",
+      "id": "68bcfb91a9528c26e891dc6e",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "Statements: Some towns are villages. Some villages are lanes. Some lanes are hamlets. Conclusions: I. Some hamlets are villages. II. Some lanes are towns. III. Some hamlets are towns.",
+      "questionHtml": "<p class=\"MsoNormal\" style=\"margin: 0cm 0cm 8pt; line-height: 24px; font-size: 12pt; font-family: Aptos, sans-serif; color: #000000;\"><span style=\"font-size: 14pt;\"><strong>Statements:</strong></span><o:p></o:p></p>\n<p class=\"MsoNormal\" style=\"margin: 0cm 0cm 8pt; line-height: 24px; font-size: 12pt; font-family: Aptos, sans-serif; color: #000000;\"><span style=\"font-size: 14pt;\">Some towns are villages.</span><o:p></o:p></p>\n<p class=\"MsoNormal\" style=\"margin: 0cm 0cm 8pt; line-height: 24px; font-size: 12pt; font-family: Aptos, sans-serif; color: #000000;\"><span style=\"font-size: 14pt;\">Some villages are lanes.</span><o:p></o:p></p>\n<p class=\"MsoNormal\" style=\"margin: 0cm 0cm 8pt; line-height: 24px; font-size: 12pt; font-family: Aptos, sans-serif; color: #000000;\"><span style=\"font-size: 14pt;\">Some lanes are hamlets.</span><o:p></o:p></p>\n<p class=\"MsoNormal\" style=\"margin: 0cm 0cm 8pt; line-height: 24px; font-size: 12pt; font-family: Aptos, sans-serif; color: #000000;\"><span style=\"font-size: 14pt;\"><strong>Conclusions:</strong></span><o:p></o:p></p>\n<p class=\"MsoListParagraphCxSpFirst\" style=\"margin: 0cm 0cm 0cm 54pt; line-height: 24px; font-size: 12pt; font-family: Aptos, sans-serif; color: #000000; text-indent: -36pt;\"><span style=\"font-size: 14pt;\">I.<span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; line-height: normal; font-family: 'Times New Roman';\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Some hamlets are villages.</span><o:p></o:p></p>\n<p class=\"MsoListParagraphCxSpMiddle\" style=\"margin: 0cm 0cm 0cm 54pt; line-height: 24px; font-size: 12pt; font-family: Aptos, sans-serif; color: #000000; text-indent: -36pt;\"><span style=\"font-size: 14pt;\">II.<span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; line-height: normal; font-family: 'Times New Roman';\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Some lanes are towns.</span><o:p></o:p></p>\n<p class=\"MsoListParagraphCxSpLast\" style=\"margin: 0cm 0cm 8pt 54pt; line-height: 24px; font-size: 12pt; font-family: Aptos, sans-serif; color: #000000; text-indent: -36pt;\"><span style=\"font-size: 14pt;\">III.<span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; line-height: normal; font-family: 'Times New Roman';\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Some hamlets are towns.</span><o:p></o:p></p>",
+      "correctOption": "5",
+      "options": [
+        {
+          "order": "1",
+          "text": "Only I follows",
+          "html": "<p><strong style=\"color: #000000; font-size: medium;\"><span style=\"font-size: 11pt; line-height: 16.8667px; font-family: Calibri, sans-serif;\">Only I follows</span></strong></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "Only II follows",
+          "html": "<p><strong style=\"color: #000000; font-size: medium;\"><span style=\"font-size: 11pt; line-height: 16.8667px; font-family: Calibri, sans-serif;\">Only II follows</span></strong></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "Only III follows",
+          "html": "<p><strong style=\"color: #000000; font-size: medium;\"><span style=\"font-size: 11pt; line-height: 16.8667px; font-family: Calibri, sans-serif;\">Only III follows</span></strong></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "Only II and III follows",
+          "html": "<p><strong style=\"color: #000000; font-size: medium;\"><span style=\"font-size: 11pt; line-height: 16.8667px; font-family: Calibri, sans-serif;\">Only II and III follows</span></strong></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "5",
+          "text": "None follows",
+          "html": "<p><span style=\"font-size: 10pt;\"><strong>None follows</strong></span></p>",
+          "isCorrect": true
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 21,
+      "section": "logical Reasoning",
+      "id": "68bcfc4c7ffd9317a249b5f9",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "Question : In a certain code, MONKEY is written as XDJMNL . How is TIGER written in that code ?",
+      "questionHtml": "<p class=\"MsoNormal\" style=\"margin: 0cm 0cm 8pt; line-height: 24px; font-size: 12pt; font-family: Aptos, sans-serif; color: #000000;\"><span style=\"font-size: 14pt;\"><strong>Question :</strong></span></p>\n<p class=\"MsoNormal\" style=\"margin: 0cm 0cm 8pt; line-height: 24px; font-size: 12pt; font-family: Aptos, sans-serif; color: #000000;\"><span style=\"font-size: 14pt;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; In a certain code, <strong>MONKEY is written as XDJMNL</strong>. How is <strong>TIGER</strong> written in that code ?</span><o:p></o:p></p>",
+      "correctOption": "4",
+      "options": [
+        {
+          "order": "1",
+          "text": "SDFHS",
+          "html": "<p><strong style=\"color: #000000; font-size: medium;\"><span style=\"font-size: 11pt; line-height: 16.8667px; font-family: Calibri, sans-serif;\">SDFHS</span></strong></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "SHFDQ",
+          "html": "<p><strong style=\"color: #000000; font-size: medium;\"><span style=\"font-size: 11pt; line-height: 16.8667px; font-family: Calibri, sans-serif;\">SHFDQ</span></strong></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "UJHFS",
+          "html": "<p><strong style=\"color: #000000; font-size: medium;\"><span style=\"font-size: 11pt; line-height: 16.8667px; font-family: Calibri, sans-serif;\">UJHFS</span></strong></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "QDFHS",
+          "html": "<p><strong style=\"color: #000000; font-size: medium;\"><span style=\"font-size: 11pt; line-height: 16.8667px; font-family: Calibri, sans-serif;\">QDFHS</span></strong></p>",
+          "isCorrect": true
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 22,
+      "section": "logical Reasoning",
+      "id": "68bcfef01416480f14690b60",
+      "type": "numerical",
+      "posMarks": 2,
+      "negMarks": 0,
+      "questionText": "Find the Missing Term: 256 , 64 , ? , 24 , 24 , 30",
+      "questionHtml": "<div><span style=\"font-size: 14pt;\">Find the Missing Term:</span></div>\n<div></div>\n<div><span style=\"font-size: 14pt;\"><strong>&nbsp; <span style=\"font-size: 18pt;\">&nbsp;256 , 64 , ? , 24 , 24 , 30&nbsp;</span></strong></span></div>",
+      "correctOption": "",
+      "options": [
+        {
+          "order": "1",
+          "text": "undefined",
+          "html": "undefined",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 23,
+      "section": "logical Reasoning",
+      "id": "68bd012c7ffd93a0a549b74d",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "Seven girls P, Q, R, S, T, W and X are sitting in a row facing towards the north (not necessarily in the same order). R is at one of the ends of the row. T sits exactly in the middle of row. S is third to the left of X. Q is to the immediate left of W. Q is not at any end of the row. Which of the following statements) is/are correct? I. S is to the immediate right of R. Il. T is to the immediate right of X.",
+      "questionHtml": "<p class=\"MsoNormal\" style=\"margin: 0cm; line-height: normal; font-size: 12pt; font-family: Aptos, sans-serif; color: #000000;\"><span lang=\"EN-GB\" style=\"font-family: Helvetica; font-size: 14pt;\">Seven girls P, Q, R, S, T, W and X are sitting in a row facing towards the north (not necessarily in the same order). R is at one of the ends of the row. T sits exactly in the middle of row. S is third to the left of X. Q is to the immediate left of W. Q is not at any end of the row.<o:p></o:p></span></p>\n<p class=\"MsoNormal\" style=\"margin: 0cm; line-height: normal; font-size: 12pt; font-family: Aptos, sans-serif; color: #000000;\"><span lang=\"EN-GB\" style=\"font-family: Helvetica; font-size: 14pt;\">Which of the following statements) is/are correct?<o:p></o:p></span></p>\n<p class=\"MsoNormal\" style=\"margin: 0cm; line-height: normal; font-size: 12pt; font-family: Aptos, sans-serif; color: #000000;\"><span lang=\"EN-GB\" style=\"font-family: Helvetica; font-size: 14pt;\">I. S is to the immediate right of R.<o:p></o:p></span></p>\n<p class=\"MsoNormal\" style=\"margin: 0cm; line-height: normal; font-size: 12pt; font-family: Aptos, sans-serif; color: #000000;\"><span lang=\"EN-GB\" style=\"font-family: Helvetica;\"><span style=\"font-size: 14pt;\">Il. T is to the immediate right of X.</span><o:p></o:p></span></p>",
+      "correctOption": "1",
+      "options": [
+        {
+          "order": "1",
+          "text": "Only I",
+          "html": "<p>Only I</p>",
+          "isCorrect": true
+        },
+        {
+          "order": "2",
+          "text": "Only II",
+          "html": "<p>Only II</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "Both I & II",
+          "html": "<p>Both I &amp; II</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "Neither I nor II",
+          "html": "<p>Neither I nor II</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 24,
+      "section": "Verbal Ability",
+      "id": "68bd04267db292e22bc2664f",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "Read the passage and answer the questions that follow : Once upon a time, in a quaint little village nestled in a picturesque valley, there lived a young girl named Lily. She was known for her adventurous spirit and her deep curiosity. One sunny afternoon, while exploring the woods that bordered the village, Lily stumbled upon a hidden clearing. In the center of this secret meadow, she found an old oak tree with a peculiar nook. In that nook, half-buried in the earth, was a mysterious locket, ornate and gleaming with intricate designs. Lily carefully unearthed it, and as she held it in her hand, she felt a strange connection to this forgotten piece of jewelry. Back in her cottage, Lily examined the locket more closely. It was made of silver with a hint of gold, and its surface was adorned with delicate engravings of leaves and flowers. On the front, there was an image of a crescent moon, and on the back, an engraving read, &ldquo;To the one who seeks the truth.&rdquo; The locket was sealed tightly, and Lily couldn&rsquo;t open it no matter how hard she tried. Determined to solve the mystery, Lily embarked on a quest to find someone who could open the locket. She asked the village blacksmith, the wise old woman who lived on the hill, and even the town&rsquo;s mayor, but none of them could unlock its secrets. Feeling a bit discouraged, Lily spent her days reading about ancient relics and searching for clues in the library. One day, while immersed in an old book about mystical lockets, Lily came across a passage that mentioned the existence of a &ldquo;key of the heart.&rdquo; It said that this key could open the most stubborn of locks, but it was hidden within each person, waiting to be discovered. This newfound knowledge gave Lily a renewed sense of hope and determination. The next morning, Lily decided to visit the village&rsquo;s recluse, an elderly woman rumored to have deep knowledge of the heart. The recluse lived in a remote cottage surrounded by a lush garden. Lily knocked on the door and explained her quest. The old woman listened attentively and finally agreed to help. She told Lily that the key to opening the locket was hidden within her heart and that she needed to meditate on her truest desires and intentions. Lily followed the recluse&rsquo;s advice, sitting beneath the ancient oak tree where she had found the locket. She closed her eyes, focused on her heart&rsquo;s deepest desires, and as she did, she felt the locket warming in her hand. When she opened her eyes, she found the locket had sprung open, revealing a tiny, folded parchment inside. With trembling hands, she carefully unfolded it and read the message: &ldquo;The truth lies in the journey, not the destination.&rdquo; The mystery of the locket was solved, but Lily realized that the real treasure was the journey of self-discovery she had undertaken. She understood that her quest had led her to understand her heart&rsquo;s desires and the power of her own determination. Question 1- What did Lily discover in the hidden clearing in the woods?",
+      "questionHtml": "<p style=\"text-align: justify;\"><strong>Read the passage and answer the questions that follow : </strong></p>\n<p style=\"text-align: justify;\">Once upon a time, in a quaint little village nestled in a picturesque valley, there lived a young girl named Lily. She was known for her adventurous spirit and her deep curiosity. One sunny afternoon, while exploring the woods that bordered the village, Lily stumbled upon a hidden clearing. In the center of this secret meadow, she found an old oak tree with a peculiar nook. In that nook, half-buried in the earth, was a mysterious locket, ornate and gleaming with intricate designs. Lily carefully unearthed it, and as she held it in her hand, she felt a strange connection to this forgotten piece of jewelry.</p>\n<p style=\"text-align: justify;\">Back in her cottage, Lily examined the locket more closely. It was made of silver with a hint of gold, and its surface was adorned with delicate engravings of leaves and flowers. On the front, there was an image of a crescent moon, and on the back, an engraving read, &ldquo;To the one who seeks the truth.&rdquo; The locket was sealed tightly, and Lily couldn&rsquo;t open it no matter how hard she tried.</p>\n<p style=\"text-align: justify;\">Determined to solve the mystery, Lily embarked on a quest to find someone who could open the locket. She asked the village blacksmith, the wise old woman who lived on the hill, and even the town&rsquo;s mayor, but none of them could unlock its secrets. Feeling a bit discouraged, Lily spent her days reading about ancient relics and searching for clues in the library.</p>\n<p style=\"text-align: justify;\">One day, while immersed in an old book about mystical lockets, Lily came across a passage that mentioned the existence of a &ldquo;key of the heart.&rdquo; It said that this key could open the most stubborn of locks, but it was hidden within each person, waiting to be discovered. This newfound knowledge gave Lily a renewed sense of hope and determination.</p>\n<p style=\"text-align: justify;\">The next morning, Lily decided to visit the village&rsquo;s recluse, an elderly woman rumored to have deep knowledge of the heart. The recluse lived in a remote cottage surrounded by a lush garden. Lily knocked on the door and explained her quest. The old woman listened attentively and finally agreed to help. She told Lily that the key to opening the locket was hidden within her heart and that she needed to meditate on her truest desires and intentions.</p>\n<p style=\"text-align: justify;\">Lily followed the recluse&rsquo;s advice, sitting beneath the ancient oak tree where she had found the locket. She closed her eyes, focused on her heart&rsquo;s deepest desires, and as she did, she felt the locket warming in her hand. When she opened her eyes, she found the locket had sprung open, revealing a tiny, folded parchment inside. With trembling hands, she carefully unfolded it and read the message: &ldquo;The truth lies in the journey, not the destination.&rdquo;</p>\n<p style=\"text-align: justify;\">The mystery of the locket was solved, but Lily realized that the real treasure was the journey of self-discovery she had undertaken. She understood that her quest had led her to understand her heart&rsquo;s desires and the power of her own determination.</p>\n<p style=\"text-align: justify;\"></p>\n<p style=\"text-align: justify;\"><strong>Question 1- What did Lily discover in the hidden clearing in the woods?</strong></p>",
+      "correctOption": "2",
+      "options": [
+        {
+          "order": "1",
+          "text": "A hidden garden",
+          "html": "<p>A hidden garden</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "An old oak tree",
+          "html": "<p>An old oak tree</p>",
+          "isCorrect": true
+        },
+        {
+          "order": "3",
+          "text": "A mysterious book",
+          "html": "<p>A mysterious book</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "A magic wand",
+          "html": "<p>A magic wand</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 25,
+      "section": "Verbal Ability",
+      "id": "68bd0430712426decba88aa1",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "Read the passage and answer the questions that follow : Once upon a time, in a quaint little village nestled in a picturesque valley, there lived a young girl named Lily. She was known for her adventurous spirit and her deep curiosity. One sunny afternoon, while exploring the woods that bordered the village, Lily stumbled upon a hidden clearing. In the center of this secret meadow, she found an old oak tree with a peculiar nook. In that nook, half-buried in the earth, was a mysterious locket, ornate and gleaming with intricate designs. Lily carefully unearthed it, and as she held it in her hand, she felt a strange connection to this forgotten piece of jewelry. Back in her cottage, Lily examined the locket more closely. It was made of silver with a hint of gold, and its surface was adorned with delicate engravings of leaves and flowers. On the front, there was an image of a crescent moon, and on the back, an engraving read, &ldquo;To the one who seeks the truth.&rdquo; The locket was sealed tightly, and Lily couldn&rsquo;t open it no matter how hard she tried. Determined to solve the mystery, Lily embarked on a quest to find someone who could open the locket. She asked the village blacksmith, the wise old woman who lived on the hill, and even the town&rsquo;s mayor, but none of them could unlock its secrets. Feeling a bit discouraged, Lily spent her days reading about ancient relics and searching for clues in the library. One day, while immersed in an old book about mystical lockets, Lily came across a passage that mentioned the existence of a &ldquo;key of the heart.&rdquo; It said that this key could open the most stubborn of locks, but it was hidden within each person, waiting to be discovered. This newfound knowledge gave Lily a renewed sense of hope and determination. The next morning, Lily decided to visit the village&rsquo;s recluse, an elderly woman rumored to have deep knowledge of the heart. The recluse lived in a remote cottage surrounded by a lush garden. Lily knocked on the door and explained her quest. The old woman listened attentively and finally agreed to help. She told Lily that the key to opening the locket was hidden within her heart and that she needed to meditate on her truest desires and intentions. Lily followed the recluse&rsquo;s advice, sitting beneath the ancient oak tree where she had found the locket. She closed her eyes, focused on her heart&rsquo;s deepest desires, and as she did, she felt the locket warming in her hand. When she opened her eyes, she found the locket had sprung open, revealing a tiny, folded parchment inside. With trembling hands, she carefully unfolded it and read the message: &ldquo;The truth lies in the journey, not the destination.&rdquo; The mystery of the locket was solved, but Lily realized that the real treasure was the journey of self-discovery she had undertaken. She understood that her quest had led her to understand her heart&rsquo;s desires and the power of her own determination. Question 2- What was inscribed on the back of the mysterious locket?",
+      "questionHtml": "<p style=\"text-align: justify;\"><strong>Read the passage and answer the questions that follow :</strong></p>\n<p style=\"text-align: justify;\">Once upon a time, in a quaint little village nestled in a picturesque valley, there lived a young girl named Lily. She was known for her adventurous spirit and her deep curiosity. One sunny afternoon, while exploring the woods that bordered the village, Lily stumbled upon a hidden clearing. In the center of this secret meadow, she found an old oak tree with a peculiar nook. In that nook, half-buried in the earth, was a mysterious locket, ornate and gleaming with intricate designs. Lily carefully unearthed it, and as she held it in her hand, she felt a strange connection to this forgotten piece of jewelry.</p>\n<p style=\"text-align: justify;\">Back in her cottage, Lily examined the locket more closely. It was made of silver with a hint of gold, and its surface was adorned with delicate engravings of leaves and flowers. On the front, there was an image of a crescent moon, and on the back, an engraving read, &ldquo;To the one who seeks the truth.&rdquo; The locket was sealed tightly, and Lily couldn&rsquo;t open it no matter how hard she tried.</p>\n<p style=\"text-align: justify;\">Determined to solve the mystery, Lily embarked on a quest to find someone who could open the locket. She asked the village blacksmith, the wise old woman who lived on the hill, and even the town&rsquo;s mayor, but none of them could unlock its secrets. Feeling a bit discouraged, Lily spent her days reading about ancient relics and searching for clues in the library.</p>\n<p style=\"text-align: justify;\">One day, while immersed in an old book about mystical lockets, Lily came across a passage that mentioned the existence of a &ldquo;key of the heart.&rdquo; It said that this key could open the most stubborn of locks, but it was hidden within each person, waiting to be discovered. This newfound knowledge gave Lily a renewed sense of hope and determination.</p>\n<p style=\"text-align: justify;\">The next morning, Lily decided to visit the village&rsquo;s recluse, an elderly woman rumored to have deep knowledge of the heart. The recluse lived in a remote cottage surrounded by a lush garden. Lily knocked on the door and explained her quest. The old woman listened attentively and finally agreed to help. She told Lily that the key to opening the locket was hidden within her heart and that she needed to meditate on her truest desires and intentions.</p>\n<p style=\"text-align: justify;\">Lily followed the recluse&rsquo;s advice, sitting beneath the ancient oak tree where she had found the locket. She closed her eyes, focused on her heart&rsquo;s deepest desires, and as she did, she felt the locket warming in her hand. When she opened her eyes, she found the locket had sprung open, revealing a tiny, folded parchment inside. With trembling hands, she carefully unfolded it and read the message: &ldquo;The truth lies in the journey, not the destination.&rdquo;</p>\n<p style=\"text-align: justify;\">The mystery of the locket was solved, but Lily realized that the real treasure was the journey of self-discovery she had undertaken. She understood that her quest had led her to understand her heart&rsquo;s desires and the power of her own determination.</p>\n<p style=\"text-align: justify;\"></p>\n<p style=\"text-align: justify;\"><strong>Question 2- What was inscribed on the back of the mysterious locket?</strong>&nbsp;</p>",
+      "correctOption": "3",
+      "options": [
+        {
+          "order": "1",
+          "text": "&ldquo;To the one who seeks adventure&rdquo;",
+          "html": "<p>&ldquo;To the one who seeks adventure&rdquo;</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "&ldquo;To the one who seeks answers&rdquo;",
+          "html": "<p>&ldquo;To the one who seeks answers&rdquo;</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "&ldquo;To the one who seeks the truth&rdquo;",
+          "html": "<p>&ldquo;To the one who seeks the truth&rdquo;</p>",
+          "isCorrect": true
+        },
+        {
+          "order": "4",
+          "text": "&ldquo;To the one who seeks gold&rdquo;",
+          "html": "<p>&ldquo;To the one who seeks gold&rdquo;</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 26,
+      "section": "Verbal Ability",
+      "id": "68bd04369cc787d04a8d5ba4",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "Read the passage and answer the questions that follow : Once upon a time, in a quaint little village nestled in a picturesque valley, there lived a young girl named Lily. She was known for her adventurous spirit and her deep curiosity. One sunny afternoon, while exploring the woods that bordered the village, Lily stumbled upon a hidden clearing. In the center of this secret meadow, she found an old oak tree with a peculiar nook. In that nook, half-buried in the earth, was a mysterious locket, ornate and gleaming with intricate designs. Lily carefully unearthed it, and as she held it in her hand, she felt a strange connection to this forgotten piece of jewelry. Back in her cottage, Lily examined the locket more closely. It was made of silver with a hint of gold, and its surface was adorned with delicate engravings of leaves and flowers. On the front, there was an image of a crescent moon, and on the back, an engraving read, &ldquo;To the one who seeks the truth.&rdquo; The locket was sealed tightly, and Lily couldn&rsquo;t open it no matter how hard she tried. Determined to solve the mystery, Lily embarked on a quest to find someone who could open the locket. She asked the village blacksmith, the wise old woman who lived on the hill, and even the town&rsquo;s mayor, but none of them could unlock its secrets. Feeling a bit discouraged, Lily spent her days reading about ancient relics and searching for clues in the library. One day, while immersed in an old book about mystical lockets, Lily came across a passage that mentioned the existence of a &ldquo;key of the heart.&rdquo; It said that this key could open the most stubborn of locks, but it was hidden within each person, waiting to be discovered. This newfound knowledge gave Lily a renewed sense of hope and determination. The next morning, Lily decided to visit the village&rsquo;s recluse, an elderly woman rumored to have deep knowledge of the heart. The recluse lived in a remote cottage surrounded by a lush garden. Lily knocked on the door and explained her quest. The old woman listened attentively and finally agreed to help. She told Lily that the key to opening the locket was hidden within her heart and that she needed to meditate on her truest desires and intentions. Lily followed the recluse&rsquo;s advice, sitting beneath the ancient oak tree where she had found the locket. She closed her eyes, focused on her heart&rsquo;s deepest desires, and as she did, she felt the locket warming in her hand. When she opened her eyes, she found the locket had sprung open, revealing a tiny, folded parchment inside. With trembling hands, she carefully unfolded it and read the message: &ldquo;The truth lies in the journey, not the destination.&rdquo; The mystery of the locket was solved, but Lily realized that the real treasure was the journey of self-discovery she had undertaken. She understood that her quest had led her to understand her heart&rsquo;s desires and the power of her own determination. Question 3- Who did Lily seek help from in opening the locket?",
+      "questionHtml": "<p style=\"text-align: justify;\"><strong>Read the passage and answer the questions that follow :</strong></p>\n<p style=\"text-align: justify;\">Once upon a time, in a quaint little village nestled in a picturesque valley, there lived a young girl named Lily. She was known for her adventurous spirit and her deep curiosity. One sunny afternoon, while exploring the woods that bordered the village, Lily stumbled upon a hidden clearing. In the center of this secret meadow, she found an old oak tree with a peculiar nook. In that nook, half-buried in the earth, was a mysterious locket, ornate and gleaming with intricate designs. Lily carefully unearthed it, and as she held it in her hand, she felt a strange connection to this forgotten piece of jewelry.</p>\n<p style=\"text-align: justify;\">Back in her cottage, Lily examined the locket more closely. It was made of silver with a hint of gold, and its surface was adorned with delicate engravings of leaves and flowers. On the front, there was an image of a crescent moon, and on the back, an engraving read, &ldquo;To the one who seeks the truth.&rdquo; The locket was sealed tightly, and Lily couldn&rsquo;t open it no matter how hard she tried.</p>\n<p style=\"text-align: justify;\">Determined to solve the mystery, Lily embarked on a quest to find someone who could open the locket. She asked the village blacksmith, the wise old woman who lived on the hill, and even the town&rsquo;s mayor, but none of them could unlock its secrets. Feeling a bit discouraged, Lily spent her days reading about ancient relics and searching for clues in the library.</p>\n<p style=\"text-align: justify;\">One day, while immersed in an old book about mystical lockets, Lily came across a passage that mentioned the existence of a &ldquo;key of the heart.&rdquo; It said that this key could open the most stubborn of locks, but it was hidden within each person, waiting to be discovered. This newfound knowledge gave Lily a renewed sense of hope and determination.</p>\n<p style=\"text-align: justify;\">The next morning, Lily decided to visit the village&rsquo;s recluse, an elderly woman rumored to have deep knowledge of the heart. The recluse lived in a remote cottage surrounded by a lush garden. Lily knocked on the door and explained her quest. The old woman listened attentively and finally agreed to help. She told Lily that the key to opening the locket was hidden within her heart and that she needed to meditate on her truest desires and intentions.</p>\n<p style=\"text-align: justify;\">Lily followed the recluse&rsquo;s advice, sitting beneath the ancient oak tree where she had found the locket. She closed her eyes, focused on her heart&rsquo;s deepest desires, and as she did, she felt the locket warming in her hand. When she opened her eyes, she found the locket had sprung open, revealing a tiny, folded parchment inside. With trembling hands, she carefully unfolded it and read the message: &ldquo;The truth lies in the journey, not the destination.&rdquo;</p>\n<p style=\"text-align: justify;\">The mystery of the locket was solved, but Lily realized that the real treasure was the journey of self-discovery she had undertaken. She understood that her quest had led her to understand her heart&rsquo;s desires and the power of her own determination.</p>\n<p style=\"text-align: justify;\"></p>\n<p style=\"text-align: justify;\"><strong>Question 3- Who did Lily seek help from in opening the locket?</strong>&nbsp;</p>",
+      "correctOption": "4",
+      "options": [
+        {
+          "order": "1",
+          "text": "The village blacksmith",
+          "html": "<p>The village blacksmith</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "The wise old woman on the hill",
+          "html": "<p>The wise old woman on the hill</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "The town&rsquo;s mayor",
+          "html": "<p>The town&rsquo;s mayor</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "All of the above",
+          "html": "<p>All of the above</p>",
+          "isCorrect": true
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 27,
+      "section": "Verbal Ability",
+      "id": "68bd0545202ad466887eccde",
+      "type": "numerical",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "Rearrange them to form a logically coherent paragraph 1️⃣ Start-ups are increasingly adopting artificial intelligence to automate routine operations and reduce human error. 2️⃣ Investors are keen to fund ventures that can demonstrate scalable AI-driven business models. 3️⃣ As competition intensifies, companies seek innovative tools to gain a market edge. 4️⃣ However, reliance on AI also raises ethical concerns about transparency and job displacement. Q1. After rearranging into a coherent paragraph, which sentence will come second? (Enter the integer only)",
+      "questionHtml": "<p><span style=\"caret-color: #000000; color: #000000; font-family: -webkit-standard; font-size: medium;\">Rearrange them to form a<span class=\"Apple-converted-space\">&nbsp;</span></span><strong style=\"caret-color: #000000; color: #000000;\" data-start=\"189\" data-end=\"211\">logically coherent</strong><span style=\"caret-color: #000000; color: #000000; font-family: -webkit-standard; font-size: medium;\"><span class=\"Apple-converted-space\">&nbsp;</span>paragraph</span></p>\n<p></p>\n<p data-start=\"316\" data-end=\"728\" style=\"caret-color: #000000; color: #000000;\">1️⃣ Start-ups are increasingly adopting artificial intelligence to automate routine operations and reduce human error.<br data-start=\"435\" data-end=\"438\" />2️⃣ Investors are keen to fund ventures that can demonstrate scalable AI-driven business models.<br data-start=\"535\" data-end=\"538\" />3️⃣ As competition intensifies, companies seek innovative tools to gain a market edge.<br data-start=\"625\" data-end=\"628\" />4️⃣ However, reliance on AI also raises ethical concerns about transparency and job displacement.</p>\n<p data-start=\"523\" data-end=\"969\" style=\"caret-color: #000000; color: #000000;\"></p>\n<p data-start=\"523\" data-end=\"969\" style=\"caret-color: #000000; color: #000000;\"><strong data-start=\"835\" data-end=\"842\">Q1.</strong><span style=\"font-family: -webkit-standard; font-size: medium;\"><span class=\"Apple-converted-space\">&nbsp;</span>After rearranging into a coherent paragraph,<span class=\"Apple-converted-space\">&nbsp;</span></span><strong data-start=\"888\" data-end=\"924\">which sentence will come second?</strong><span style=\"font-family: -webkit-standard; font-size: medium;\">&nbsp;</span><em data-start=\"925\" data-end=\"951\">(Enter the integer only)</em></p>",
+      "correctOption": "",
+      "options": [
+        {
+          "order": "1",
+          "text": "undefined",
+          "html": "undefined",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 28,
+      "section": "Verbal Ability",
+      "id": "68bd06c6cb51daceaa937fed",
+      "type": "numerical",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "Rearrange them to form a logically coherent paragraph 1️⃣ Start-ups are increasingly adopting artificial intelligence to automate routine operations and reduce human error. 2️⃣ Investors are keen to fund ventures that can demonstrate scalable AI-driven business models. 3️⃣ As competition intensifies, companies seek innovative tools to gain a market edge. 4️⃣ However, reliance on AI also raises ethical concerns about transparency and job displacement. Q2. Which sentence best serves as the concluding idea for the paragraph? (Enter the integer only)",
+      "questionHtml": "<p><span style=\"caret-color: #000000; color: #000000; font-family: -webkit-standard; font-size: medium;\">Rearrange them to form a<span class=\"Apple-converted-space\">&nbsp;</span></span><strong style=\"caret-color: #000000; color: #000000;\" data-start=\"189\" data-end=\"211\">logically coherent</strong><span style=\"caret-color: #000000; color: #000000; font-family: -webkit-standard; font-size: medium;\"><span class=\"Apple-converted-space\">&nbsp;</span>paragraph</span></p>\n<p></p>\n<p data-start=\"316\" data-end=\"728\" style=\"caret-color: #000000; color: #000000;\">1️⃣ Start-ups are increasingly adopting artificial intelligence to automate routine operations and reduce human error.<br data-start=\"435\" data-end=\"438\" />2️⃣ Investors are keen to fund ventures that can demonstrate scalable AI-driven business models.<br data-start=\"535\" data-end=\"538\" />3️⃣ As competition intensifies, companies seek innovative tools to gain a market edge.<br data-start=\"625\" data-end=\"628\" />4️⃣ However, reliance on AI also raises ethical concerns about transparency and job displacement.</p>\n<p data-start=\"523\" data-end=\"969\" style=\"caret-color: #000000; color: #000000;\"></p>\n<p data-start=\"523\" data-end=\"969\" style=\"caret-color: #000000; color: #000000;\"><strong data-start=\"874\" data-end=\"881\">Q2.</strong><span style=\"font-family: -webkit-standard; font-size: medium;\"><span class=\"Apple-converted-space\">&nbsp;</span>Which sentence best serves as the<span class=\"Apple-converted-space\">&nbsp;</span></span><strong data-start=\"916\" data-end=\"935\">concluding idea</strong><span style=\"font-family: -webkit-standard; font-size: medium;\"><span class=\"Apple-converted-space\">&nbsp;</span>for the paragraph?<span class=\"Apple-converted-space\">&nbsp;</span></span><em data-start=\"955\" data-end=\"981\">(Enter the integer only)</em></p>",
+      "correctOption": "",
+      "options": [
+        {
+          "order": "1",
+          "text": "undefined",
+          "html": "undefined",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 29,
+      "section": "Verbal Ability",
+      "id": "68bd07b54cb6cd8530da6a94",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "Each sentence below has a blank space. Four options are suggested. Select the most appropriate word/phrase to complete the sentence meaningfully. Mark the correct option. Despite several challenges, the new metro project has made remarkable progress and is now expected to be completed ______ schedule.",
+      "questionHtml": "<p data-start=\"232\" data-end=\"369\" style=\"caret-color: #000000; color: #000000;\"><span style=\"font-size: 12pt;\"><span style=\"font-family: -webkit-standard;\">Each sentence below has a blank space. Four options are suggested. Select the<span class=\"Apple-converted-space\">&nbsp;</span></span><strong data-start=\"225\" data-end=\"257\">most appropriate word/phrase</strong><span style=\"font-family: -webkit-standard;\"><span class=\"Apple-converted-space\">&nbsp;</span>to complete the sentence meaningfully. Mark the correct option.</span></span></p>\n<p data-start=\"232\" data-end=\"369\" style=\"caret-color: #000000; color: #000000;\"></p>\n<p data-start=\"232\" data-end=\"369\" style=\"caret-color: #000000; color: #000000;\"><span style=\"font-size: 12pt;\">Despite several challenges, the new metro project has made<span class=\"Apple-converted-space\">&nbsp;</span><strong data-start=\"291\" data-end=\"305\">remarkable</strong><span class=\"Apple-converted-space\">&nbsp;</span>progress and is now expected to be completed ______ schedule.</span></p>",
+      "correctOption": "2",
+      "options": [
+        {
+          "order": "1",
+          "text": "beneath",
+          "html": "<p><span style=\"color: #000000; caret-color: #000000;\">beneath</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "ahead of",
+          "html": "<p><span style=\"color: #000000; caret-color: #000000;\">ahead of</span></p>",
+          "isCorrect": true
+        },
+        {
+          "order": "3",
+          "text": "on",
+          "html": "<p><span style=\"color: #000000; caret-color: #000000;\">on</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "over",
+          "html": "<p><span style=\"color: #000000; caret-color: #000000;\">over</span></p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 30,
+      "section": "Verbal Ability",
+      "id": "68bd07b54cb6cd6739da6a99",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "Question : The committee urged all departments to work in a ______ manner to achieve the organization&rsquo;s long-term goals.",
+      "questionHtml": "<h3 style=\"caret-color: #000000; color: #000000;\" data-start=\"712\" data-end=\"732\">Question : The committee urged all departments to work in a ______ manner to achieve the organization&rsquo;s long-term goals.</h3>",
+      "correctOption": "1",
+      "options": [
+        {
+          "order": "1",
+          "text": "coordinated",
+          "html": "<p><span style=\"caret-color: #000000; color: #000000; font-family: -webkit-standard; font-size: medium;\">coordinated</span></p>",
+          "isCorrect": true
+        },
+        {
+          "order": "2",
+          "text": "casual",
+          "html": "<p><span style=\"caret-color: #000000; color: #000000; font-family: -webkit-standard; font-size: medium;\">casual</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "negligent",
+          "html": "<p><span style=\"caret-color: #000000; color: #000000; font-family: -webkit-standard; font-size: medium;\">negligent</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "contradictory",
+          "html": "<p><span style=\"caret-color: #000000; color: #000000; font-family: -webkit-standard; font-size: medium;\">contradictory</span></p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 31,
+      "section": "Verbal Ability",
+      "id": "68bd08dc1f64055d9df18a36",
+      "type": "numerical",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "Each sentence is split into four numbered parts (1&ndash;4). Identify the part that contains the grammatical error. If there is no error , choose option 5 . Type only the integer (1/2/3/4/5) as your answer. Question Neither the manager nor his assistants was willing to accept the responsibility. No error",
+      "questionHtml": "<p><span style=\"caret-color: #000000; color: #000000; font-family: -webkit-standard; font-size: medium;\">Each sentence is split into four numbered parts (1&ndash;4). Identify the part that contains the grammatical error. If there is<span class=\"Apple-converted-space\">&nbsp;</span></span><strong style=\"caret-color: #000000; color: #000000;\" data-start=\"306\" data-end=\"318\">no error</strong><span style=\"caret-color: #000000; color: #000000; font-family: -webkit-standard; font-size: medium;\">, choose option<span class=\"Apple-converted-space\">&nbsp;</span></span><strong style=\"caret-color: #000000; color: #000000;\" data-start=\"334\" data-end=\"339\">5</strong><span style=\"caret-color: #000000; color: #000000; font-family: -webkit-standard; font-size: medium;\">.&nbsp;</span></p>\n<p><strong style=\"caret-color: #000000; color: #000000;\" data-start=\"353\" data-end=\"406\">Type only the integer (1/2/3/4/5) as your answer.</strong></p>\n<h3 style=\"caret-color: #000000; color: #000000;\" data-start=\"347\" data-end=\"367\"><strong data-start=\"351\" data-end=\"365\">Question&nbsp;</strong></h3>\n<ol>\n<li style=\"list-style-type: none;\">\n<ol data-start=\"652\" data-end=\"766\">\n<li data-start=\"652\" data-end=\"676\">\n<p data-start=\"655\" data-end=\"676\">Neither the manager</p>\n</li>\n<li data-start=\"677\" data-end=\"700\">\n<p data-start=\"680\" data-end=\"700\">nor his assistants</p>\n</li>\n<li data-start=\"701\" data-end=\"727\">\n<p data-start=\"704\" data-end=\"727\">was willing to accept</p>\n</li>\n<li data-start=\"728\" data-end=\"752\">\n<p data-start=\"731\" data-end=\"752\">the responsibility.</p>\n</li>\n<li data-start=\"753\" data-end=\"766\">\n<p data-start=\"756\" data-end=\"766\">No error</p>\n</li>\n</ol>\n</li>\n</ol>",
+      "correctOption": "",
+      "options": [
+        {
+          "order": "1",
+          "text": "undefined",
+          "html": "undefined",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 32,
+      "section": "Verbal Ability",
+      "id": "68bd08dc1f6405526bf18a38",
+      "type": "numerical",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "Each sentence is split into four numbered parts (1&ndash;4). Identify the part containing the grammatical error. If there is no error , choose option 5 . Answer by typing the integer (1/2/3/4/5) only. Question : The teacher along with her students were preparing for the annual function. No error",
+      "questionHtml": "<p data-start=\"124\" data-end=\"335\" style=\"caret-color: #000000; color: #000000;\">Each sentence is split into four numbered parts (1&ndash;4). Identify the part containing the grammatical error.<br data-start=\"230\" data-end=\"233\" />If there is<span class=\"Apple-converted-space\">&nbsp;</span><strong data-start=\"245\" data-end=\"257\">no error</strong>, choose option<span class=\"Apple-converted-space\">&nbsp;</span><strong data-start=\"273\" data-end=\"278\">5</strong>.<br data-start=\"279\" data-end=\"282\" /><span class=\"Apple-converted-space\">&nbsp;</span><strong data-start=\"285\" data-end=\"335\">Answer by typing the integer (1/2/3/4/5) only.</strong></p>\n<h3 style=\"caret-color: #000000; color: #000000;\" data-start=\"342\" data-end=\"362\"><strong data-start=\"346\" data-end=\"360\">Question :</strong></h3>\n<p data-start=\"124\" data-end=\"335\" style=\"caret-color: #000000; color: #000000;\"></p>\n<ol style=\"caret-color: #000000; color: #000000;\" data-start=\"363\" data-end=\"472\">\n<li data-start=\"363\" data-end=\"390\">\n<p data-start=\"366\" data-end=\"390\">The teacher along with</p>\n</li>\n<li data-start=\"391\" data-end=\"408\">\n<p data-start=\"394\" data-end=\"408\">her students</p>\n</li>\n<li data-start=\"409\" data-end=\"428\">\n<p data-start=\"412\" data-end=\"428\">were preparing</p>\n</li>\n<li data-start=\"429\" data-end=\"458\">\n<p data-start=\"432\" data-end=\"458\">for the annual function.</p>\n</li>\n<li data-start=\"459\" data-end=\"472\">\n<p data-start=\"462\" data-end=\"472\">No error</p>\n</li>\n</ol>",
+      "correctOption": "",
+      "options": [
+        {
+          "order": "1",
+          "text": "undefined",
+          "html": "undefined",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 33,
+      "section": "Verbal Ability",
+      "id": "68bd0affb93f3f759acee3aa",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "Choose the word that is nearest in meaning to the underlined word. Question The detective&rsquo;s report was meticulous , leaving no room for doubt. careless detailed hasty approximate",
+      "questionHtml": "<p data-start=\"111\" data-end=\"241\" style=\"caret-color: #000000; color: #000000;\">Choose the word that is<span class=\"Apple-converted-space\">&nbsp;</span><strong data-start=\"135\" data-end=\"157\">nearest in meaning</strong><span class=\"Apple-converted-space\">&nbsp;</span>to the underlined word.</p>\n<p data-start=\"248\" data-end=\"334\" style=\"caret-color: #000000; color: #000000;\"></p>\n<p data-start=\"248\" data-end=\"334\" style=\"caret-color: #000000; color: #000000;\"><strong data-start=\"248\" data-end=\"260\">Question</strong><br data-start=\"260\" data-end=\"263\" />The detective&rsquo;s report was<span class=\"Apple-converted-space\">&nbsp;</span><strong data-start=\"290\" data-end=\"304\">meticulous</strong>, leaving no room for doubt.</p>\n<ol style=\"caret-color: #000000; color: #000000;\" data-start=\"336\" data-end=\"391\">\n<li data-start=\"336\" data-end=\"349\">\n<p data-start=\"339\" data-end=\"349\">careless</p>\n</li>\n<li data-start=\"350\" data-end=\"363\">\n<p data-start=\"353\" data-end=\"363\">detailed</p>\n</li>\n<li data-start=\"364\" data-end=\"374\">\n<p data-start=\"367\" data-end=\"374\">hasty</p>\n</li>\n<li data-start=\"375\" data-end=\"391\">\n<p data-start=\"378\" data-end=\"391\">approximate</p>\n</li>\n</ol>",
+      "correctOption": "2",
+      "options": [
+        {
+          "order": "1",
+          "text": "careless",
+          "html": "<p data-start=\"339\" data-end=\"349\">careless</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "detailed",
+          "html": "<p data-start=\"353\" data-end=\"363\">detailed</p>",
+          "isCorrect": true
+        },
+        {
+          "order": "3",
+          "text": "hasty",
+          "html": "<p data-start=\"367\" data-end=\"374\">hasty</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "approximate",
+          "html": "<p data-start=\"378\" data-end=\"391\">approximate</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    }
+  ]
+}

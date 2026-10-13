@@ -1,0 +1,430 @@
+{
+  "testId": "68d8bd28799fbb44dd947e60",
+  "title": "Verbal Ability",
+  "engine": "Testbook SDK",
+  "folderPath": "Infosys Mock Test Series / Day 06 / 1. Full Length Mock I- Based on Infosys PYQ",
+  "totalQuestions": 11,
+  "totalMarks": 11,
+  "durationMinutes": 10.0,
+  "livePortalUrl": "https://testsdk.testbook.com/org-44032-844567/tests/68d8bd28799fbb44dd947e60#auth?page=test&auth=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiI1YjQzMDFmYzdkZTU1NzBjMzFkNTU1NTUiLCJzdWIiOiIxNTkzMDU3NDYiLCJhdWQiOiJDUCIsImV4cEludCI6MTc5MTk1ODYwOCwiaWF0SW50IjoxNzkxODcyMjA4LCJvcmdJZCI6IjViNDMwMWZjN2RlNTU3MGMzMWQ1NTU1NSIsInJvbGVzIjoic3R1ZGVudCIsIm5hbWUiOiJIYWNrV2l0aEluZnlQcmVwIn0.afWnlSma4YC72l8-TLvMBHCTkqFWP99_pdBA4P2X3UuyNfr8FOBBjhcztvzEKIResq0onKAHhto9l2GpzkUN10RifQaI7Ynz2ujetOznNuiZY5btu9SPVy-f_Cs27qqUQ44t313j71RhdAaN6Gb0SQWLou8bXENvYgyuVEedu14MXle364Sdf_hWGI4eVhbGpG8-X_2S3OzSVuxUXMPt2j9Bx8gA8X4Tgm_BQOeIHUfjitRDT8Tgw-USB5OjoiqsnQmdscrKwtjzf-AAR-_EG4xtZBeQVGCC-TbkWIcm6fhWjSugB0xvsgco9ZdimDAsITv1p6QpTumYwHvYmZpeVQ&hideRank=0&isCPTestBookMarkEnabled=true",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "section": "Verbal Ability",
+      "id": "61459055ef869425d2a99453",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0.25,
+      "questionText": "Direction: Select the option that is most nearly similar in meaning to the given word: TIMID",
+      "questionHtml": "<p><strong><span style=\"font-family: 'Nunito Sans', sans-serif; font-size: 14pt; text-align: justify;\">Direction: Select the option that is most nearly similar in meaning to the given word: TIMID</span></strong></p>",
+      "correctOption": "4",
+      "options": [
+        {
+          "order": "1",
+          "text": "Fast",
+          "html": "<p><span style=\"font-size: 14pt;\">Fast&nbsp;</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "Slow",
+          "html": "<p><span style=\"font-size: 14pt;\">Slow</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "Medium",
+          "html": "<p><span style=\"font-size: 14pt;\">Medium</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "Shy",
+          "html": "<p><span style=\"font-size: 14pt;\">Shy</span></p>",
+          "isCorrect": true
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 2,
+      "section": "Verbal Ability",
+      "id": "61459057ee0d56e27f25a4df",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0.25,
+      "questionText": "Direction: Select the option that is most nearly similar in meaning to the given word:ADVERSITY",
+      "questionHtml": "<p><strong><span style=\"font-family: 'Nunito Sans', sans-serif; font-size: 14pt; text-align: justify;\">Direction: Select the option that is most nearly similar in meaning to the given word:ADVERSITY</span></strong></p>",
+      "correctOption": "3",
+      "options": [
+        {
+          "order": "1",
+          "text": "Failure",
+          "html": "<p><span style=\"font-family: 'Nunito Sans', sans-serif; font-size: 14pt; text-align: justify;\">Failure</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "Helplessness",
+          "html": "<p><span style=\"font-family: 'Nunito Sans', sans-serif; font-size: 14pt; text-align: justify;\">Helplessness</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "Misfortune",
+          "html": "<p><span style=\"font-family: 'Nunito Sans', sans-serif; font-size: 14pt; text-align: justify;\">Misfortune</span></p>",
+          "isCorrect": true
+        },
+        {
+          "order": "4",
+          "text": "Crisis",
+          "html": "<p><span style=\"font-family: 'Nunito Sans', sans-serif; font-size: 14pt; text-align: justify;\">Crisis</span></p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 3,
+      "section": "Verbal Ability",
+      "id": "6145905921363e09ffc8b2f1",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0.25,
+      "questionText": "Direction: Select the correct option that fills the blank(s) to make the sentence meaningfully complete. She _______ most of her time to music.",
+      "questionHtml": "<p style=\"margin-bottom: 10px; font-size: 16px; line-height: normal; font-stretch: normal; text-align: justify; font-family: 'Nunito Sans', sans-serif;\"><strong><span style=\"font-size: 14pt;\">Direction: Select the correct option that fills the blank(s) to make the sentence meaningfully complete.</span></strong></p>\n<p style=\"margin-bottom: 10px; font-size: 16px; line-height: normal; font-stretch: normal; text-align: justify; font-family: 'Nunito Sans', sans-serif;\"><strong><span style=\"font-size: 14pt;\">She _______ most of her time to music.</span></strong></p>",
+      "correctOption": "3",
+      "options": [
+        {
+          "order": "1",
+          "text": "spent",
+          "html": "<p><span style=\"font-size: 14pt;\">spent</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "lent",
+          "html": "<p><span style=\"font-size: 14pt;\">lent</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "devoted",
+          "html": "<p><span style=\"font-size: 14pt;\">devoted</span></p>",
+          "isCorrect": true
+        },
+        {
+          "order": "4",
+          "text": "made",
+          "html": "<p><span style=\"font-size: 14pt;\">made</span></p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 4,
+      "section": "Verbal Ability",
+      "id": "6145905aef86946bd6a9946d",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0.25,
+      "questionText": "Direction: Select the correct option that fills the blank(s) to make the sentence meaningfully complete. Most children remain _______ school _______ the ages of seven and eight.",
+      "questionHtml": "<p style=\"margin-bottom: 10px; font-size: 16px; line-height: normal; font-stretch: normal; text-align: justify; font-family: 'Nunito Sans', sans-serif;\"><strong><span style=\"font-size: 14pt;\">Direction: Select the correct option that fills the blank(s) to make the sentence meaningfully complete.</span></strong></p>\n<p style=\"margin-bottom: 10px; font-size: 16px; line-height: normal; font-stretch: normal; text-align: justify; font-family: 'Nunito Sans', sans-serif;\"><strong><span style=\"font-size: 14pt;\">Most children remain _______ school _______ the ages of seven and eight.</span></strong></p>",
+      "correctOption": "2",
+      "options": [
+        {
+          "order": "1",
+          "text": "in/in",
+          "html": "<p><span style=\"font-size: 14pt;\"><span style=\"font-family: 'Nunito Sans', sans-serif; text-align: justify;\">in/in</span><span style=\"font-family: 'Nunito Sans', sans-serif; text-align: justify;\">&nbsp;</span></span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "at/between",
+          "html": "<p><span style=\"font-family: 'Nunito Sans', sans-serif; font-size: 14pt; text-align: justify;\">at/between</span></p>",
+          "isCorrect": true
+        },
+        {
+          "order": "3",
+          "text": "inside/of",
+          "html": "<p><span style=\"font-size: 14pt;\"><span style=\"font-family: 'Nunito Sans', sans-serif; text-align: justify;\">inside/of</span></span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "under/beyond",
+          "html": "<p><span style=\"font-family: 'Nunito Sans', sans-serif; font-size: 14pt; text-align: justify;\">under/beyond</span></p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 5,
+      "section": "Verbal Ability",
+      "id": "6145905b21363e167cc8b2f6",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0.25,
+      "questionText": "Read the passage and answer the questions. Management is a set of processes that can keep a complicated system of people and technology to run smoothly. The most important aspects of management include planning, budgeting, organizing, staffing, controlling and problem-solving. Leadership is a set of processes that creates organizations in the first place or adapts them to significantly changing circumstances. Leadership defines what the future should look like, aligns people with that vision and inspires them to make it happen despite the obstacles. This distinction is absolutely crucial for our purposes here: Successful transformation is 70 to 90 per cent leadership and only 10 to 30 percent management. Yet for historical reasons, many organizations today don't have much leadership. And almost everyone thinks about the problem here as one of managing change. For most of this country, as we created thousands and thousands of large organizations for the first time in human history, we didn't have enough good managers to keep all those bureaucracies functioning. Many companies and universities developed management programs and hundreds and thousands of people were encouraged to learn management on the job. And they did. But, people were taught little about leadership. To some degree, management was emphasized because it's easier to preach than leadership. But even more so, management was the main item on the twentieth century agenda because that's what was needed. For every entrepreneur or business builder who was a leader, we needed hundreds of managers to run their ever-growing enterprises. Unfortunately for us today, this emphasis on management has often been institutionalized in corporate cultures that discourage employees from learning how to lead. Ironically, past success is usually the key ingredient in producing this outcome. The syndrome, as I have observed it on many occasions, goes like this: Success creates some degree of marked dominance which in turn produces much growth. After a while keeping the ever-larger organization under control becomes the primary challenge. So, attention turns inward and managerial competencies are nurtured. With a strong emphasis on management but not leadership, bureaucracy and an inward focus takeover. But with continued success, the result mostly of market dominance, the problem often goes unaddressed and an unhealthy arrogance begins to evolve. All of these characteristics then make any transformation effort much more difficult. Arrogant managers can over-evaluate their current performance and competitive position, listen poorly and learn slowly. Inwardly focused employees can have difficulty seeing the very forces that present threats and opportunities. Bureaucratic cultures can smother those who want to respond to shifting conditions. And the lack of leadership leaves no force inside these organizations to break out of the morass. Q. Why did companies and universities develop programs to prepare managers in such large numbers?",
+      "questionHtml": "<p style=\"margin-bottom: 10px; font-size: 16px; line-height: normal; font-stretch: normal; text-align: justify; font-family: 'Nunito Sans', sans-serif;\"><strong><span style=\"font-size: 14pt;\">Read the passage and answer the questions.</span></strong></p>\n<p style=\"margin-bottom: 10px; font-size: 16px; line-height: normal; font-stretch: normal; font-family: 'Nunito Sans', sans-serif; text-align: left;\">&nbsp;</p>\n<p style=\"margin-bottom: 10px; font-size: 16px; line-height: normal; font-stretch: normal; font-family: 'Nunito Sans', sans-serif; text-align: left;\"><span style=\"font-size: 14pt;\">Management is a set of processes that can keep a complicated system of people and technology to run smoothly. The most important aspects of management include planning, budgeting, organizing, staffing, controlling and problem-solving.</span></p>\n<p style=\"margin-bottom: 10px; font-size: 16px; line-height: normal; font-stretch: normal; font-family: 'Nunito Sans', sans-serif; text-align: left;\">&nbsp;</p>\n<p style=\"margin-bottom: 10px; font-size: 16px; line-height: normal; font-stretch: normal; font-family: 'Nunito Sans', sans-serif; text-align: left;\"><span style=\"font-size: 14pt;\">Leadership is a set of processes that creates organizations in the first place or adapts them to significantly changing circumstances. Leadership defines what the future should look like, aligns people with that vision and inspires them to make it happen despite the obstacles. This distinction is absolutely crucial for our purposes here: Successful transformation is 70 to 90 per cent leadership and only 10 to 30 percent management. Yet for historical reasons, many organizations today don't have much leadership. And almost everyone thinks about the problem here as one of managing change.</span></p>\n<p style=\"margin-bottom: 10px; font-size: 16px; line-height: normal; font-stretch: normal; font-family: 'Nunito Sans', sans-serif; text-align: left;\">&nbsp;</p>\n<p style=\"margin-bottom: 10px; font-size: 16px; line-height: normal; font-stretch: normal; font-family: 'Nunito Sans', sans-serif; text-align: left;\"><span style=\"font-size: 14pt;\">For most of this country, as we created thousands and thousands of large organizations for the first time in human history, we didn't have enough good managers to keep all those bureaucracies functioning. Many companies and universities developed management programs and hundreds and thousands of people were encouraged to learn management on the job. And they did. But, people were taught little about leadership.</span></p>\n<p style=\"margin-bottom: 10px; font-size: 16px; line-height: normal; font-stretch: normal; font-family: 'Nunito Sans', sans-serif; text-align: left;\">&nbsp;</p>\n<p style=\"margin-bottom: 10px; font-size: 16px; line-height: normal; font-stretch: normal; font-family: 'Nunito Sans', sans-serif; text-align: left;\"><span style=\"font-size: 14pt;\">To some degree, management was emphasized because it's easier to preach than leadership. But even more so, management was the main item on the twentieth century agenda because that's what was needed. For every entrepreneur or business builder who was a leader, we needed hundreds of managers to run their ever-growing enterprises. Unfortunately for us today, this emphasis on management has often been institutionalized in corporate cultures that discourage employees from learning how to lead. Ironically, past success is usually the key ingredient in producing this outcome.</span></p>\n<p style=\"margin-bottom: 10px; font-size: 16px; line-height: normal; font-stretch: normal; font-family: 'Nunito Sans', sans-serif; text-align: left;\">&nbsp;</p>\n<p style=\"margin-bottom: 10px; font-size: 16px; line-height: normal; font-stretch: normal; font-family: 'Nunito Sans', sans-serif; text-align: left;\"><span style=\"font-size: 14pt;\">The syndrome, as I have observed it on many occasions, goes like this: Success creates some degree of marked dominance which in turn produces much growth. After a while keeping the ever-larger organization under control becomes the primary challenge. So, attention turns inward and managerial competencies are nurtured. With a strong emphasis on management but not leadership, bureaucracy and an inward focus takeover. But with continued success, the result mostly of market dominance, the problem often goes unaddressed and an unhealthy arrogance begins to evolve. All of these characteristics then make any transformation effort much more difficult. Arrogant managers can over-evaluate their current performance and competitive position, listen poorly and learn slowly.</span></p>\n<p style=\"margin-bottom: 10px; font-size: 16px; line-height: normal; font-stretch: normal; font-family: 'Nunito Sans', sans-serif; text-align: left;\">&nbsp;</p>\n<p style=\"margin-bottom: 10px; font-size: 16px; line-height: normal; font-stretch: normal; font-family: 'Nunito Sans', sans-serif; text-align: left;\"><span style=\"font-size: 14pt;\">Inwardly focused employees can have difficulty seeing the very forces that present threats and opportunities. Bureaucratic cultures can smother those who want to respond to shifting conditions. And the lack of leadership leaves no force inside these organizations to break out of the morass.</span></p>\n<p style=\"margin-bottom: 10px; font-size: 16px; line-height: normal; font-stretch: normal; text-align: justify; font-family: 'Nunito Sans', sans-serif;\">&nbsp;</p>\n<p style=\"margin-bottom: 10px; font-size: 16px; line-height: normal; font-stretch: normal; text-align: justify; font-family: 'Nunito Sans', sans-serif;\"><strong><span style=\"font-size: 14pt;\">Q.&nbsp;Why did companies and universities develop programs to prepare managers in such large numbers?</span></strong></p>",
+      "correctOption": "2",
+      "options": [
+        {
+          "order": "1",
+          "text": "Companies and universities wanted to generate funds through these programs.",
+          "html": "<p><span style=\"font-family: 'Nunito Sans', sans-serif; font-size: 14pt; text-align: justify;\">Companies and universities wanted to generate funds through these programs.</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "The large number of organizations were created as they needed managers in good number.",
+          "html": "<p><span style=\"font-family: 'Nunito Sans', sans-serif; font-size: 14pt; text-align: justify;\">The large number of organizations were created as they needed managers in good number.</span></p>",
+          "isCorrect": true
+        },
+        {
+          "order": "3",
+          "text": "Organizations did not want to spend their scarce resources in training managers.",
+          "html": "<p><span style=\"font-family: 'Nunito Sans', sans-serif; font-size: 14pt; text-align: justify;\">Organizations did not want to spend their scarce resources in training managers.</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "Organizations wanted to create communication network through trained managers.",
+          "html": "<p style=\"margin-bottom: 10px; font-size: 16px; line-height: normal; font-stretch: normal; text-align: justify;\"><span style=\"font-size: 14pt;\">Organizations wanted to create communication network through trained managers.</span></p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 6,
+      "section": "Verbal Ability",
+      "id": "614596c2ee0d563d3725b760",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0.25,
+      "questionText": "Read the passage and answer the questions. Management is a set of processes that can keep a complicated system of people and technology to run smoothly. The most important aspects of management include planning, budgeting, organizing, staffing, controlling and problem-solving. Leadership is a set of processes that creates organizations in the first place or adapts them to significantly changing circumstances. Leadership defines what the future should look like, aligns people with that vision and inspires them to make it happen despite the obstacles. This distinction is absolutely crucial for our purposes here: Successful transformation is 70 to 90 per cent leadership and only 10 to 30 percent management. Yet for historical reasons, many organizations today don't have much leadership. And almost everyone thinks about the problem here as one of managing change. For most of this country, as we created thousands and thousands of large organizations for the first time in human history, we didn't have enough good managers to keep all those bureaucracies functioning. Many companies and universities developed management programs and hundreds and thousands of people were encouraged to learn management on the job. And they did. But, people were taught little about leadership. To some degree, management was emphasized because it's easier to preach than leadership. But even more so, management was the main item on the twentieth century agenda because that's what was needed. For every entrepreneur or business builder who was a leader, we needed hundreds of managers to run their ever-growing enterprises. Unfortunately for us today, this emphasis on management has often been institutionalized in corporate cultures that discourage employees from learning how to lead. Ironically, past success is usually the key ingredient in producing this outcome. The syndrome, as I have observed it on many occasions, goes like this: Success creates some degree of marked dominance which in turn produces much growth. After a while keeping the ever-larger organization under control becomes the primary challenge. So, attention turns inward and managerial competencies are nurtured. With a strong emphasis on management but not leadership, bureaucracy and an inward focus takeover. But with continued success, the result mostly of market dominance, the problem often goes unaddressed and an unhealthy arrogance begins to evolve. All of these characteristics then make any transformation effort much more difficult. Arrogant managers can over-evaluate their current performance and competitive position, listen poorly and learn slowly. Inwardly focused employees can have difficulty seeing the very forces that present threats and opportunities. Bureaucratic cultures can smother those who want to respond to shifting conditions. And the lack of leadership leaves no force inside these organizations to break out of the morass. Q. Which of the following characteristics helps an organization in its efforts to transform?",
+      "questionHtml": "<p style=\"margin-bottom: 10px; font-size: 16px; line-height: normal; font-stretch: normal; text-align: justify; font-family: 'Nunito Sans', sans-serif;\"><strong><span style=\"font-size: 14pt;\">Read the passage and answer the questions.</span></strong></p>\n<p style=\"margin-bottom: 10px; font-size: 16px; line-height: normal; font-stretch: normal; font-family: 'Nunito Sans', sans-serif; text-align: left;\">&nbsp;</p>\n<p style=\"margin-bottom: 10px; font-size: 16px; line-height: normal; font-stretch: normal; font-family: 'Nunito Sans', sans-serif; text-align: left;\"><span style=\"font-size: 14pt;\">Management is a set of processes that can keep a complicated system of people and technology to run smoothly. The most important aspects of management include planning, budgeting, organizing, staffing, controlling and problem-solving.</span></p>\n<p style=\"margin-bottom: 10px; font-size: 16px; line-height: normal; font-stretch: normal; font-family: 'Nunito Sans', sans-serif; text-align: left;\">&nbsp;</p>\n<p style=\"margin-bottom: 10px; font-size: 16px; line-height: normal; font-stretch: normal; font-family: 'Nunito Sans', sans-serif; text-align: left;\"><span style=\"font-size: 14pt;\">Leadership is a set of processes that creates organizations in the first place or adapts them to significantly changing circumstances. Leadership defines what the future should look like, aligns people with that vision and inspires them to make it happen despite the obstacles. This distinction is absolutely crucial for our purposes here: Successful transformation is 70 to 90 per cent leadership and only 10 to 30 percent management. Yet for historical reasons, many organizations today don't have much leadership. And almost everyone thinks about the problem here as one of managing change.</span></p>\n<p style=\"margin-bottom: 10px; font-size: 16px; line-height: normal; font-stretch: normal; font-family: 'Nunito Sans', sans-serif; text-align: left;\">&nbsp;</p>\n<p style=\"margin-bottom: 10px; font-size: 16px; line-height: normal; font-stretch: normal; font-family: 'Nunito Sans', sans-serif; text-align: left;\"><span style=\"font-size: 14pt;\">For most of this country, as we created thousands and thousands of large organizations for the first time in human history, we didn't have enough good managers to keep all those bureaucracies functioning. Many companies and universities developed management programs and hundreds and thousands of people were encouraged to learn management on the job. And they did. But, people were taught little about leadership.</span></p>\n<p style=\"margin-bottom: 10px; font-size: 16px; line-height: normal; font-stretch: normal; font-family: 'Nunito Sans', sans-serif; text-align: left;\">&nbsp;</p>\n<p style=\"margin-bottom: 10px; font-size: 16px; line-height: normal; font-stretch: normal; font-family: 'Nunito Sans', sans-serif; text-align: left;\"><span style=\"font-size: 14pt;\">To some degree, management was emphasized because it's easier to preach than leadership. But even more so, management was the main item on the twentieth century agenda because that's what was needed. For every entrepreneur or business builder who was a leader, we needed hundreds of managers to run their ever-growing enterprises. Unfortunately for us today, this emphasis on management has often been institutionalized in corporate cultures that discourage employees from learning how to lead. Ironically, past success is usually the key ingredient in producing this outcome.</span></p>\n<p style=\"margin-bottom: 10px; font-size: 16px; line-height: normal; font-stretch: normal; font-family: 'Nunito Sans', sans-serif; text-align: left;\">&nbsp;</p>\n<p style=\"margin-bottom: 10px; font-size: 16px; line-height: normal; font-stretch: normal; font-family: 'Nunito Sans', sans-serif; text-align: left;\"><span style=\"font-size: 14pt;\">The syndrome, as I have observed it on many occasions, goes like this: Success creates some degree of marked dominance which in turn produces much growth. After a while keeping the ever-larger organization under control becomes the primary challenge. So, attention turns inward and managerial competencies are nurtured. With a strong emphasis on management but not leadership, bureaucracy and an inward focus takeover. But with continued success, the result mostly of market dominance, the problem often goes unaddressed and an unhealthy arrogance begins to evolve. All of these characteristics then make any transformation effort much more difficult. Arrogant managers can over-evaluate their current performance and competitive position, listen poorly and learn slowly.</span></p>\n<p style=\"margin-bottom: 10px; font-size: 16px; line-height: normal; font-stretch: normal; font-family: 'Nunito Sans', sans-serif; text-align: left;\">&nbsp;</p>\n<p style=\"margin-bottom: 10px; font-size: 16px; line-height: normal; font-stretch: normal; font-family: 'Nunito Sans', sans-serif; text-align: left;\"><span style=\"font-size: 14pt;\">Inwardly focused employees can have difficulty seeing the very forces that present threats and opportunities. Bureaucratic cultures can smother those who want to respond to shifting conditions. And the lack of leadership leaves no force inside these organizations to break out of the morass.</span></p>\n<p style=\"margin-bottom: 10px; font-size: 16px; line-height: normal; font-stretch: normal; text-align: justify; font-family: 'Nunito Sans', sans-serif;\">&nbsp;</p>\n<p style=\"margin-bottom: 10px; font-size: 16px; line-height: normal; font-stretch: normal; text-align: justify; font-family: 'Nunito Sans', sans-serif;\"><strong><span style=\"font-size: 14pt;\">Q.&nbsp;Which of the following characteristics helps an organization in its efforts to transform?</span></strong></p>",
+      "correctOption": "1",
+      "options": [
+        {
+          "order": "1",
+          "text": "Emphasis on leadership and not management",
+          "html": "<p><span style=\"font-family: 'Nunito Sans', sans-serif; font-size: 14pt; text-align: justify;\">Emphasis on leadership and not management</span></p>",
+          "isCorrect": true
+        },
+        {
+          "order": "2",
+          "text": "Strong and dogmatic culture",
+          "html": "<p><span style=\"font-family: 'Nunito Sans', sans-serif; font-size: 14pt; text-align: justify;\">Strong and dogmatic culture</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "Bureaucratic and inward-looking approach",
+          "html": "<p><span style=\"font-family: 'Nunito Sans', sans-serif; font-size: 14pt; text-align: justify;\">Bureaucratic and inward-looking approach</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "Failing to acknowledge the value of customers and shareholders",
+          "html": "<p><span style=\"font-family: 'Nunito Sans', sans-serif; font-size: 14pt; text-align: justify;\">Failing to acknowledge the value of customers and shareholders</span></p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 7,
+      "section": "Verbal Ability",
+      "id": "614596c56a6626d6ee83dde3",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0.25,
+      "questionText": "Read the passage and answer the questions. The impressive recent growth of certain sectors of the Indian economy is a necessary but insufficient condition for the elimination of extreme poverty. In order to ensure that the poorest benefit from this growth, and also contribute to it, the expansion and improvement of the microfinance sector should be a national priority.studies suggest that the impact of microfinance on the poorest is greater than on the poor, and yet another that non-participating members of communities where microfinance operates experience socio-economic gains suggesting strong spillover effects. Moreover, well-managed microfinance institutions (MFIs) have shown a capacity to wean themselves off of subsidies and become sustainable within a few years. Microfinance is powerful, but it is clearly no panacea. Microfinance does not directly address some structural problems facing Indian society and the economy, and it is not yet as efficient as it will be when economies of scale are realised and a more supportive policy environment is created. Loan products are still too inflexible, and savings and insurance services that the poor also need are not widely available due to regulatory barriers Still, microfinance is one of the few market-based, scaleable anti-poverty solutions that is in place in India today, and the argument to scale it up to meet the overwhelming need is compelling.According to Sa-Dhan, the overall outreach is 6.5 million families and the sector-wide loan portfolio is Rs 2,500 crore. However, this is meeting only 10% of the estimated demand. Importantly, new initiatives are expanding this success story to the some of the country's poorest regions, such as eastern and central Uttar Pradesh. The local and national governments have an important role to play in ensuring the growth and improvement of microfinance. First and foremost, the market should be left to set interest rates, not the state. Ensuring transparency and full disclosure of rates including fees is something the government should ensure, and something that new technologies as well as reporting and data standards are already enabling. Furthermore, government regulators should set clear criteria for allowing MFIs to mobilise savings for on-lending to the poor; this would allow for a large measure of financial independence amongst well-managed MFIs. Each Indian state could consider forming a multi-party working group to meet with microfinance leaders and have a dialogue with them about how the policy environment could be made more supportive and to clear up misperceptions. There is an opportunity to make a real dent in hard-core poverty through microfinance. By unleashing the entrepreneurial talent of the poor, we will slowly but surely transform India in ways we can only begin to imagine today. Q. Which of following is not a challenge faced by microfinance in India?",
+      "questionHtml": "<p style=\"margin-bottom: 10px; font-size: 16px; line-height: normal; font-stretch: normal; text-align: justify; font-family: 'Nunito Sans', sans-serif;\"><strong><span style=\"font-size: 14pt;\">Read the passage and answer the questions.</span></strong></p>\n<p style=\"margin-bottom: 10px; font-size: 16px; line-height: normal; font-stretch: normal; text-align: justify; font-family: 'Nunito Sans', sans-serif;\">&nbsp;</p>\n<p style=\"margin-bottom: 10px; font-size: 16px; line-height: normal; font-stretch: normal; text-align: justify; font-family: 'Nunito Sans', sans-serif;\"><span style=\"font-size: 14pt;\">The impressive recent growth of certain sectors of the Indian economy is a necessary but insufficient condition for the elimination of extreme poverty.</span></p>\n<p style=\"margin-bottom: 10px; font-size: 16px; line-height: normal; font-stretch: normal; text-align: justify; font-family: 'Nunito Sans', sans-serif;\">&nbsp;</p>\n<p style=\"margin-bottom: 10px; font-size: 16px; line-height: normal; font-stretch: normal; text-align: justify; font-family: 'Nunito Sans', sans-serif;\"><span style=\"font-size: 14pt;\">In order to ensure that the poorest benefit from this growth, and also contribute to it, the expansion and improvement of the microfinance sector should be a national priority.studies suggest that the impact of microfinance on the poorest is greater than on the poor, and yet another that non-participating members of communities where microfinance operates experience socio-economic gains suggesting strong spillover effects. Moreover, well-managed microfinance institutions (MFIs) have shown a capacity to wean themselves off of subsidies and become sustainable within a few years.</span></p>\n<p style=\"margin-bottom: 10px; font-size: 16px; line-height: normal; font-stretch: normal; text-align: justify; font-family: 'Nunito Sans', sans-serif;\">&nbsp;</p>\n<p style=\"margin-bottom: 10px; font-size: 16px; line-height: normal; font-stretch: normal; text-align: justify; font-family: 'Nunito Sans', sans-serif;\"><span style=\"font-size: 14pt;\">Microfinance is powerful, but it is clearly no panacea. Microfinance does not directly address some structural problems facing Indian society and the economy, and it is not yet as efficient as it will be when economies of scale are realised and a more supportive policy environment is created.</span></p>\n<p style=\"margin-bottom: 10px; font-size: 16px; line-height: normal; font-stretch: normal; text-align: justify; font-family: 'Nunito Sans', sans-serif;\">&nbsp;</p>\n<p style=\"margin-bottom: 10px; font-size: 16px; line-height: normal; font-stretch: normal; text-align: justify; font-family: 'Nunito Sans', sans-serif;\"><span style=\"font-size: 14pt;\">Loan products are still too inflexible, and savings and insurance services that the poor also need are not widely available due to regulatory barriers</span></p>\n<p style=\"margin-bottom: 10px; font-size: 16px; line-height: normal; font-stretch: normal; text-align: justify; font-family: 'Nunito Sans', sans-serif;\">&nbsp;</p>\n<p style=\"margin-bottom: 10px; font-size: 16px; line-height: normal; font-stretch: normal; text-align: justify; font-family: 'Nunito Sans', sans-serif;\"><span style=\"font-size: 14pt;\">Still, microfinance is one of the few market-based, scaleable anti-poverty solutions that is in place in India today, and the argument to scale it up to meet the overwhelming need is compelling.According to Sa-Dhan, the overall outreach is 6.5 million families and the sector-wide loan portfolio is Rs 2,500 crore.</span></p>\n<p style=\"margin-bottom: 10px; font-size: 16px; line-height: normal; font-stretch: normal; text-align: justify; font-family: 'Nunito Sans', sans-serif;\">&nbsp;</p>\n<p style=\"margin-bottom: 10px; font-size: 16px; line-height: normal; font-stretch: normal; text-align: justify; font-family: 'Nunito Sans', sans-serif;\"><span style=\"font-size: 14pt;\">However, this is meeting only 10% of the estimated demand. Importantly, new initiatives are expanding this success story to the some of the country's poorest regions, such as eastern and central Uttar Pradesh.</span></p>\n<p style=\"margin-bottom: 10px; font-size: 16px; line-height: normal; font-stretch: normal; text-align: justify; font-family: 'Nunito Sans', sans-serif;\"><span style=\"font-size: 14pt;\">The local and national governments have an important role to play in ensuring the growth and improvement of microfinance. First and foremost, the market should be left to set interest rates, not the state. Ensuring transparency and full disclosure of rates including fees is something the government should ensure, and something that new technologies as well as reporting and data standards are already enabling.</span></p>\n<p style=\"margin-bottom: 10px; font-size: 16px; line-height: normal; font-stretch: normal; text-align: justify; font-family: 'Nunito Sans', sans-serif;\">&nbsp;</p>\n<p style=\"margin-bottom: 10px; font-size: 16px; line-height: normal; font-stretch: normal; text-align: justify; font-family: 'Nunito Sans', sans-serif;\"><span style=\"font-size: 14pt;\">Furthermore, government regulators should set clear criteria for allowing MFIs to mobilise savings for on-lending to the poor; this would allow for a large measure of financial independence amongst well-managed MFIs. Each Indian state could consider forming a multi-party working group to meet with microfinance leaders and have a dialogue with them about how the policy environment could be made more supportive and to clear up misperceptions.</span></p>\n<p style=\"margin-bottom: 10px; font-size: 16px; line-height: normal; font-stretch: normal; text-align: justify; font-family: 'Nunito Sans', sans-serif;\">&nbsp;</p>\n<p style=\"margin-bottom: 10px; font-size: 16px; line-height: normal; font-stretch: normal; text-align: justify; font-family: 'Nunito Sans', sans-serif;\"><span style=\"font-size: 14pt;\">There is an opportunity to make a real dent in hard-core poverty through microfinance. By unleashing the entrepreneurial talent of the poor, we will slowly but surely transform India in ways we can only begin to imagine today.</span></p>\n<p style=\"margin-bottom: 10px; font-size: 16px; line-height: normal; font-stretch: normal; text-align: justify; font-family: 'Nunito Sans', sans-serif;\">&nbsp;</p>\n<p style=\"margin-bottom: 10px; font-size: 16px; line-height: normal; font-stretch: normal; text-align: justify; font-family: 'Nunito Sans', sans-serif;\"><strong><span style=\"font-size: 14pt;\">Q.&nbsp;Which of following is not a challenge faced by microfinance in India?</span></strong></p>",
+      "correctOption": "1",
+      "options": [
+        {
+          "order": "1",
+          "text": "does not help the poorest",
+          "html": "<p><span style=\"font-family: 'Nunito Sans', sans-serif; font-size: 14pt; text-align: justify;\">does not help the poorest</span></p>",
+          "isCorrect": true
+        },
+        {
+          "order": "2",
+          "text": "fficient when economy of scale is achieved",
+          "html": "<p><span style=\"font-family: 'Nunito Sans', sans-serif; font-size: 14pt; text-align: justify;\">fficient when economy of scale is achieved</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "non_conducting policy environment",
+          "html": "<p><span style=\"font-family: 'Nunito Sans', sans-serif; font-size: 14pt; text-align: justify;\">non_conducting policy environment</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "structural problems of india society",
+          "html": "<p><span style=\"font-family: 'Nunito Sans', sans-serif; font-size: 14pt; text-align: justify;\">structural problems of india society</span></p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 8,
+      "section": "Verbal Ability",
+      "id": "6628d2b2d25ea041ae193a2a",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "Direction : In Question nos. 1 to 3 some part of the sentences have errors and some are correct. Find out which part of a sentence has an error and blacken the oval [ ] corresponding to the appropriate letter (A), (B), (C). If a sentence is free from error, blacken the oval corresponding to (D) in the Answer Sheet. Q2. We were happy that (A)/ the customers responded well (B)/ and gave all the products a patiently listening (C)/ No error (D)",
+      "questionHtml": "<p class=\"MsoNormal\"><strong>Direction : In Question nos. 1 to 3 some part of the sentences have errors and some are&nbsp; correct. Find out which part of a sentence has&nbsp; an error and blacken the oval [ ]&nbsp; corresponding to the appropriate letter (A), (B),&nbsp; (C). If a sentence is free from error, blacken the&nbsp; oval corresponding to (D) in the Answer Sheet.</strong><br /><br />Q2. We were happy that (A)/ <br />the customers responded well (B)/ <br />and gave all the products a patiently listening (C)/ <br />No error (D)<o:p></o:p></p>",
+      "correctOption": "3",
+      "options": [
+        {
+          "order": "1",
+          "text": "A",
+          "html": "<p>A</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "B",
+          "html": "<p>B</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "C",
+          "html": "<p>C</p>",
+          "isCorrect": true
+        },
+        {
+          "order": "4",
+          "text": "D",
+          "html": "<p>D</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 9,
+      "section": "Verbal Ability",
+      "id": "6628d2b2d25ea069e3193a2f",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "Direction : In Question nos. 1 to 3 some part of the sentences have errors and some are correct. Find out which part of a sentence has an error and blacken the oval [ ] corresponding to the appropriate letter (A), (B), (C). If a sentence is free from error, blacken the oval corresponding to (D) in the Answer Sheet. Q3. The committee reviewing the deal (A)/ comprising leading businessmen (B)/ and policymakers of our country. (C)/ No error (D)",
+      "questionHtml": "<p class=\"MsoNormal\"><strong>Direction : In Question nos. 1 to 3 some part of the sentences have errors and some are&nbsp; correct. Find out which part of a sentence has&nbsp; an error and blacken the oval [ ]&nbsp; corresponding to the appropriate letter (A), (B),&nbsp; (C). If a sentence is free from error, blacken the&nbsp; oval corresponding to (D) in the Answer Sheet.</strong><br /><br />Q3. The committee reviewing the deal (A)/<br />comprising leading businessmen (B)/ <br />and policymakers of our country. (C)/ <br />No error (D)<o:p></o:p></p>",
+      "correctOption": "2",
+      "options": [
+        {
+          "order": "1",
+          "text": "A",
+          "html": "<p>A</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "B",
+          "html": "<p>B</p>",
+          "isCorrect": true
+        },
+        {
+          "order": "3",
+          "text": "C",
+          "html": "<p>C</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "D",
+          "html": "<p>D</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 10,
+      "section": "Verbal Ability",
+      "id": "6628d2b2d25ea0cfb9193a5c",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "Direction : In Question nos. 12 to 14, four alternative are given for the Idiom/Phrase in bold. Choose the alternative which best expresses the meaning of the Idiom/Phrase and mark it in the Answer Sheet. Q12. Some people have a habit of wearing their heart on their sleeve.",
+      "questionHtml": "<p class=\"MsoNormal\"><strong>Direction : In Question nos. 12 to 14, four alternative are given for the Idiom/Phrase in bold. Choose the alternative which best expresses the meaning of the Idiom/Phrase and mark it in the Answer Sheet.<br /></strong><strong><span lang=\"EN-IN\"><br /></span></strong><o:p></o:p></p>\n<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-family: 'Noto Sans', sans-serif; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; font-weight: normal;\">Q12.&nbsp;</span></strong><strong><span style=\"font-family: 'Noto Sans', sans-serif; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; font-weight: normal;\">Some people have a habit of <strong>wearing their heart on their sleeve.</strong></span></strong><o:p></o:p></p>",
+      "correctOption": "2",
+      "options": [
+        {
+          "order": "1",
+          "text": "saying something which is not to be taken seriously",
+          "html": "<p>saying something which is not to be taken seriously</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "exposing their innermost feelings to others",
+          "html": "<p>exposing their innermost feelings to others</p>",
+          "isCorrect": true
+        },
+        {
+          "order": "3",
+          "text": "avoiding being friendly with others",
+          "html": "<p>avoiding being friendly with others</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "always try to gain advantage over others",
+          "html": "<p>always try to gain advantage over others</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 11,
+      "section": "Verbal Ability",
+      "id": "6628d2b2d25ea06419193a61",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "Direction : In Question nos. 12 to 14, four alternative are given for the Idiom/Phrase in bold. Choose the alternative which best expresses the meaning of the Idiom/Phrase and mark it in the Answer Sheet. Q13. I raked my brains to solve this difficult problem.",
+      "questionHtml": "<p class=\"MsoNormal\"><strong>Direction : In Question nos. 12 to 14, four alternative are given for the Idiom/Phrase in bold. Choose the alternative which best expresses the meaning of the Idiom/Phrase and mark it in the Answer Sheet.<br /></strong><strong><span lang=\"EN-IN\"><br /></span></strong><o:p></o:p></p>\n<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-family: 'Noto Sans', sans-serif; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; font-weight: normal;\">Q13.<strong>&nbsp;</strong></span></strong><strong><span style=\"font-family: 'Noto Sans', sans-serif; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; font-weight: normal;\"><strong>I raked my brains</strong> to solve this difficult problem.</span></strong><o:p></o:p></p>",
+      "correctOption": "4",
+      "options": [
+        {
+          "order": "1",
+          "text": "I read a number of books",
+          "html": "<p>I read a number of books</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "I consulted several people",
+          "html": "<p>I consulted several people</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "I used my commonsense",
+          "html": "<p>I used my commonsense</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "I subjected my mind to hard thinking",
+          "html": "<p>I subjected my mind to hard thinking</p>",
+          "isCorrect": true
+        }
+      ],
+      "embeddedImages": []
+    }
+  ]
+}

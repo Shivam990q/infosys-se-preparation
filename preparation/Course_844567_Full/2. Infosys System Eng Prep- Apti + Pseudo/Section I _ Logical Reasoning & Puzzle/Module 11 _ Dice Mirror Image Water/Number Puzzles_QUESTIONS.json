@@ -1,0 +1,672 @@
+{
+  "testId": "610555647963926f09cb7551",
+  "title": "Number Puzzles",
+  "engine": "Classplus CMS",
+  "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section I : Logical Reasoning & Puzzle / Module 11 :  Dice Mirror Image Water",
+  "totalQuestions": 15,
+  "totalMarks": 0,
+  "durationMinutes": 0,
+  "livePortalUrl": "https://student-cms.classplusapp.com?token=eyJhbGciOiJIUzM4NCIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjE5MjYwNjExNiwibmFtZSI6IkhhY2tXaXRoSW5meVByZXAiLCJlbWFpbCI6ImhhY2t3aXRoaW5meXByZXBAZ21haWwuY29tIiwibW9iaWxlIjoiOTE3ODk4MDk3Mjk3Iiwic3R1ZGVudElkIjoxNTkzMDU3NDYsImNvbnRlbnRJZCI6Mjk0ODkzNzcsIm9yZ0lkIjo0NDAzMiwiY29udGVudFR5cGUiOjQsImNvdXJzZUlkIjoiODQ0NTY3IiwidGltZXN0YW1wIjoxNzkxODcyMjA5NzkxLCJjb3Vyc2VOYW1lIjoiTkVXIEluZm9zeXMgLVNFICwgRFNFICYgU1AgLVVwZGF0ZWQgUGF0dGVybiArIFBZUSArIEluZm9zeXMgdGVzdCBTZXJpZXMgd2l0aCBWaWRlbyBzb2wiLCJ0ZXN0SWQiOiI2MTA1NTU2NDc5NjM5MjZmMDljYjc1NTEiLCJudW1iZXJPZkF0dGVtcHRzIjotMSwibWV0YURhdGEiOnsib2NzSWQiOjU4MjA1MTAzLCJvY3NUaW1lIjoxNzg5ODg1MjI4MDAwfSwiaWF0IjoxNzkxODcyMjA5LCJleHAiOjE3OTI0NzcwMDl9.oJqZd-AYhHTIkAzOuehgZBBD21qG_UfTNOJtvwk_SuVZz41JD5dnFV-ZDG2vXTfv&testId=610555647963926f09cb7551&user_email=hackwithinfyprep@gmail.com&user_id=159305746&defaultLanguage=en&isGenericShare=false",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "section": "Quantitative Aptitude",
+      "id": "610555a0f5866ce0ab3f33d9",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "",
+      "questionHtml": "<p><img src=\"https://www.indiabix.com/_files/images/puzzles/10-20-q-26.png\" width=\"605\" height=\"248\" /></p>",
+      "solutionText": "Answer : C Explanation : In each triangle, multiply the lower two numbers together and add the upper number to give the value in the centre.",
+      "solutionHtml": "<table style=\"margin: 0px; font-family: arial;\" border=\"0\" width=\"80%\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody style=\"margin: 0px;\">\n<tr style=\"margin: 0px;\">\n<td style=\"margin: 0px; padding: 5px; line-height: 1.7;\" valign=\"top\" width=\"10%\"><span class=\"mx-green mx-bold\" style=\"margin: 0px; font-weight: bold; color: #5eac1a; font-size: 14pt;\">Answer</span></td>\n<td style=\"margin: 0px; padding: 5px; line-height: 1.7;\" valign=\"top\" width=\"2%\"><span class=\"mx-green mx-bold\" style=\"margin: 0px; font-weight: bold; color: #5eac1a; font-size: 14pt;\">:</span></td>\n<td style=\"margin: 0px; padding: 5px; line-height: 1.7;\" valign=\"top\" width=\"88%\"><span class=\"mx-bold\" style=\"margin: 0px; font-weight: bold; font-size: 14pt;\">C</span></td>\n</tr>\n<tr style=\"margin: 0px;\">\n<td style=\"margin: 0px; padding: 5px; line-height: 1.7;\" valign=\"top\" width=\"10%\"><span class=\"mx-green mx-bold\" style=\"margin: 0px; font-weight: bold; color: #5eac1a; font-size: 14pt;\">Explanation</span></td>\n<td style=\"margin: 0px; padding: 5px; line-height: 1.7;\" valign=\"top\" width=\"2%\"><span class=\"mx-green mx-bold\" style=\"margin: 0px; font-weight: bold; color: #5eac1a; font-size: 14pt;\">:</span></td>\n<td style=\"margin: 0px; padding: 5px; line-height: 1.7;\" valign=\"top\" width=\"88%\"><span style=\"font-size: 14pt;\">In each triangle, multiply the lower two numbers together and add the upper number to give the value in the centre.</span></td>\n</tr>\n</tbody>\n</table>",
+      "options": [
+        {
+          "order": null,
+          "text": "4",
+          "html": "<p><span style=\"font-size: 14pt;\">4</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "7",
+          "html": "<p><span style=\"font-size: 14pt;\">7</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "9",
+          "html": "<p><span style=\"font-size: 14pt;\">9</span></p>",
+          "isCorrect": true
+        },
+        {
+          "order": null,
+          "text": "11",
+          "html": "<p><span style=\"font-size: 14pt;\">11</span></p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": [
+        {
+          "original": "https://www.indiabix.com/_files/images/puzzles/10-20-q-26.png",
+          "local": "Number Puzzles_figures/q1_1.png"
+        }
+      ]
+    },
+    {
+      "questionNumber": 2,
+      "section": "Quantitative Aptitude",
+      "id": "610555a0f5866ccead3f33de",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "",
+      "questionHtml": "<p><img style=\"margin: 0px; outline: 0px; border: 0px; color: #000000; font-family: arial; text-align: -webkit-center;\" src=\"https://www.indiabix.com/_files/images/puzzles/10-20-q-29.png\" width=\"463\" height=\"343\" /></p>",
+      "solutionText": "Answer : C Explanation : Using the lower two circles as a source, the values in corresponding segments of the upper left circle equal the sums of the numbers in the lower two circles. The values in the upper central circle equal the products of the values in the lower two circles, and the upper right circle equals the difference between values in the lower two circles.",
+      "solutionHtml": "<table style=\"margin: 0px; font-family: arial;\" border=\"0\" width=\"80%\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody style=\"margin: 0px;\">\n<tr style=\"margin: 0px;\">\n<td style=\"margin: 0px; padding: 5px; line-height: 1.7;\" valign=\"top\" width=\"10%\"><span class=\"mx-green mx-bold\" style=\"margin: 0px; font-weight: bold; color: #5eac1a; font-size: 14pt;\">Answer</span></td>\n<td style=\"margin: 0px; padding: 5px; line-height: 1.7;\" valign=\"top\" width=\"2%\"><span class=\"mx-green mx-bold\" style=\"margin: 0px; font-weight: bold; color: #5eac1a; font-size: 14pt;\">:</span></td>\n<td style=\"margin: 0px; padding: 5px; line-height: 1.7;\" valign=\"top\" width=\"88%\"><span class=\"mx-bold\" style=\"margin: 0px; font-weight: bold; font-size: 14pt;\">C</span></td>\n</tr>\n<tr style=\"margin: 0px;\">\n<td style=\"margin: 0px; padding: 5px; line-height: 1.7;\" valign=\"top\" width=\"10%\"><span class=\"mx-green mx-bold\" style=\"margin: 0px; font-weight: bold; color: #5eac1a; font-size: 14pt;\">Explanation</span></td>\n<td style=\"margin: 0px; padding: 5px; line-height: 1.7;\" valign=\"top\" width=\"2%\"><span class=\"mx-green mx-bold\" style=\"margin: 0px; font-weight: bold; color: #5eac1a; font-size: 14pt;\">:</span></td>\n<td style=\"margin: 0px; padding: 5px; line-height: 1.7;\" valign=\"top\" width=\"88%\"><span style=\"font-size: 14pt;\">Using the lower two circles as a source, the values in corresponding segments of the upper left circle equal the sums of the numbers in the lower two circles. The values in the upper central circle equal the products of the values in the lower two circles, and the upper right circle equals the difference between values in the lower two circles.</span></td>\n</tr>\n</tbody>\n</table>",
+      "options": [
+        {
+          "order": null,
+          "text": "1",
+          "html": "<p><span style=\"font-size: 14pt;\">1</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "2",
+          "html": "<p><span style=\"font-size: 14pt;\">2</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "3",
+          "html": "<p><span style=\"font-size: 14pt;\">3</span></p>",
+          "isCorrect": true
+        },
+        {
+          "order": null,
+          "text": "4",
+          "html": "<p><span style=\"font-size: 14pt;\">4</span></p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": [
+        {
+          "original": "https://www.indiabix.com/_files/images/puzzles/10-20-q-29.png",
+          "local": "Number Puzzles_figures/q2_1.png"
+        }
+      ]
+    },
+    {
+      "questionNumber": 3,
+      "section": "Quantitative Aptitude",
+      "id": "610555a0f5866c02563f33e3",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "",
+      "questionHtml": "<p><img src=\"https://www.indiabix.com/_files/images/puzzles/10-20-q-30.png\" width=\"597\" height=\"150\" /></p>",
+      "solutionText": "Answer : B Explanation : Starting on the extreme left and right hand of the row and working towards the centre, add the end digits together and subtract 3 to give the next value along to the left, and add 1 to give the next value along to the right. Repeat this sequence, working towards the centre.",
+      "solutionHtml": "<table style=\"margin: 0px; font-family: arial;\" border=\"0\" width=\"80%\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody style=\"margin: 0px;\">\n<tr style=\"margin: 0px;\">\n<td style=\"margin: 0px; padding: 5px; line-height: 1.7;\" valign=\"top\" width=\"10%\"><span class=\"mx-green mx-bold\" style=\"margin: 0px; font-weight: bold; color: #5eac1a; font-size: 14pt;\">Answer</span></td>\n<td style=\"margin: 0px; padding: 5px; line-height: 1.7;\" valign=\"top\" width=\"2%\"><span class=\"mx-green mx-bold\" style=\"margin: 0px; font-weight: bold; color: #5eac1a; font-size: 14pt;\">:</span></td>\n<td style=\"margin: 0px; padding: 5px; line-height: 1.7;\" valign=\"top\" width=\"88%\"><span class=\"mx-bold\" style=\"margin: 0px; font-weight: bold; font-size: 14pt;\">B</span></td>\n</tr>\n<tr style=\"margin: 0px;\">\n<td style=\"margin: 0px; padding: 5px; line-height: 1.7;\" valign=\"top\" width=\"10%\"><span class=\"mx-green mx-bold\" style=\"margin: 0px; font-weight: bold; color: #5eac1a; font-size: 14pt;\">Explanation</span></td>\n<td style=\"margin: 0px; padding: 5px; line-height: 1.7;\" valign=\"top\" width=\"2%\"><span class=\"mx-green mx-bold\" style=\"margin: 0px; font-weight: bold; color: #5eac1a; font-size: 14pt;\">:</span></td>\n<td style=\"margin: 0px; padding: 5px; line-height: 1.7;\" valign=\"top\" width=\"88%\"><span style=\"font-size: 14pt;\">Starting on the extreme left and right hand of the row and working towards the centre, add the end digits together and subtract 3 to give the next value along to the left, and add 1 to give the next value along to the right. Repeat this sequence, working towards the centre.</span></td>\n</tr>\n</tbody>\n</table>",
+      "options": [
+        {
+          "order": null,
+          "text": "2",
+          "html": "<p><span style=\"font-size: 14pt;\">2</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "6",
+          "html": "<p><span style=\"font-size: 14pt;\">6</span></p>",
+          "isCorrect": true
+        },
+        {
+          "order": null,
+          "text": "9",
+          "html": "<p><span style=\"font-size: 14pt;\">9</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "12",
+          "html": "<p><span style=\"font-size: 14pt;\">12</span></p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": [
+        {
+          "original": "https://www.indiabix.com/_files/images/puzzles/10-20-q-30.png",
+          "local": "Number Puzzles_figures/q3_1.png"
+        }
+      ]
+    },
+    {
+      "questionNumber": 4,
+      "section": "Quantitative Aptitude",
+      "id": "610555a0f5866c19503f33e8",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "",
+      "questionHtml": "<p><img src=\"https://www.indiabix.com/_files/images/puzzles/10-1-q-8.png\" width=\"406\" height=\"335\" /></p>",
+      "solutionText": "Answer : A Explanation : Starting bottom left and moving clockwise around the triangle, numbers follow the sequence of Square Numbers.",
+      "solutionHtml": "<table style=\"margin: 0px; font-family: arial;\" border=\"0\" width=\"80%\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody style=\"margin: 0px;\">\n<tr style=\"margin: 0px;\">\n<td style=\"margin: 0px; padding: 5px; line-height: 1.7;\" valign=\"top\" width=\"10%\"><span class=\"mx-green mx-bold\" style=\"margin: 0px; font-weight: bold; color: #5eac1a; font-size: 14pt;\">Answer</span></td>\n<td style=\"margin: 0px; padding: 5px; line-height: 1.7;\" valign=\"top\" width=\"2%\"><span class=\"mx-green mx-bold\" style=\"margin: 0px; font-weight: bold; color: #5eac1a; font-size: 14pt;\">:</span></td>\n<td style=\"margin: 0px; padding: 5px; line-height: 1.7;\" valign=\"top\" width=\"88%\"><span class=\"mx-bold\" style=\"margin: 0px; font-weight: bold; font-size: 14pt;\">A</span></td>\n</tr>\n<tr style=\"margin: 0px;\">\n<td style=\"margin: 0px; padding: 5px; line-height: 1.7;\" valign=\"top\" width=\"10%\"><span class=\"mx-green mx-bold\" style=\"margin: 0px; font-weight: bold; color: #5eac1a; font-size: 14pt;\">Explanation</span></td>\n<td style=\"margin: 0px; padding: 5px; line-height: 1.7;\" valign=\"top\" width=\"2%\"><span class=\"mx-green mx-bold\" style=\"margin: 0px; font-weight: bold; color: #5eac1a; font-size: 14pt;\">:</span></td>\n<td style=\"margin: 0px; padding: 5px; line-height: 1.7;\" valign=\"top\" width=\"88%\"><span style=\"font-size: 14pt;\">Starting bottom left and moving clockwise around the triangle, numbers follow the sequence of Square Numbers.</span></td>\n</tr>\n</tbody>\n</table>",
+      "options": [
+        {
+          "order": null,
+          "text": "16",
+          "html": "<p><span style=\"font-size: 14pt;\">16</span></p>",
+          "isCorrect": true
+        },
+        {
+          "order": null,
+          "text": "20",
+          "html": "<p><span style=\"font-size: 14pt;\">20</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "24",
+          "html": "<p><span style=\"font-size: 14pt;\">24</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "28",
+          "html": "<p><span style=\"font-size: 14pt;\">28</span></p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": [
+        {
+          "original": "https://www.indiabix.com/_files/images/puzzles/10-1-q-8.png",
+          "local": "Number Puzzles_figures/q4_1.png"
+        }
+      ]
+    },
+    {
+      "questionNumber": 5,
+      "section": "Quantitative Aptitude",
+      "id": "610555a0f5866c46e53f33ed",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "",
+      "questionHtml": "<p><img style=\"margin: 0px; outline: 0px; border: 0px; color: #000000; font-family: arial; text-align: -webkit-center;\" src=\"https://www.indiabix.com/_files/images/puzzles/10-1-q-11.png\" width=\"405\" height=\"367\" /></p>",
+      "solutionText": "Answer : D Explanation : Working from top to bottom, double each number and subtract 1, then 2, then 3 etc.",
+      "solutionHtml": "<table style=\"margin: 0px; font-family: arial;\" border=\"0\" width=\"80%\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody style=\"margin: 0px;\">\n<tr style=\"margin: 0px;\">\n<td style=\"margin: 0px; padding: 5px; line-height: 1.7;\" valign=\"top\" width=\"10%\"><span class=\"mx-green mx-bold\" style=\"margin: 0px; font-weight: bold; color: #5eac1a; font-size: 14pt;\">Answer</span></td>\n<td style=\"margin: 0px; padding: 5px; line-height: 1.7;\" valign=\"top\" width=\"2%\"><span class=\"mx-green mx-bold\" style=\"margin: 0px; font-weight: bold; color: #5eac1a; font-size: 14pt;\">:</span></td>\n<td style=\"margin: 0px; padding: 5px; line-height: 1.7;\" valign=\"top\" width=\"88%\"><span class=\"mx-bold\" style=\"margin: 0px; font-weight: bold; font-size: 14pt;\">D</span></td>\n</tr>\n<tr style=\"margin: 0px;\">\n<td style=\"margin: 0px; padding: 5px; line-height: 1.7;\" valign=\"top\" width=\"10%\"><span class=\"mx-green mx-bold\" style=\"margin: 0px; font-weight: bold; color: #5eac1a; font-size: 14pt;\">Explanation</span></td>\n<td style=\"margin: 0px; padding: 5px; line-height: 1.7;\" valign=\"top\" width=\"2%\"><span class=\"mx-green mx-bold\" style=\"margin: 0px; font-weight: bold; color: #5eac1a; font-size: 14pt;\">:</span></td>\n<td style=\"margin: 0px; padding: 5px; line-height: 1.7;\" valign=\"top\" width=\"88%\"><span style=\"font-size: 14pt;\">Working from top to bottom, double each number and subtract 1, then 2, then 3 etc.</span></td>\n</tr>\n</tbody>\n</table>",
+      "options": [
+        {
+          "order": null,
+          "text": "21",
+          "html": "<p><span style=\"font-size: 14pt;\">21</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "25",
+          "html": "<p><span style=\"font-size: 14pt;\">25</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "30",
+          "html": "<p><span style=\"font-size: 14pt;\">30</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "39",
+          "html": "<p><span style=\"font-size: 14pt;\">39</span></p>",
+          "isCorrect": true
+        }
+      ],
+      "embeddedImages": [
+        {
+          "original": "https://www.indiabix.com/_files/images/puzzles/10-1-q-11.png",
+          "local": "Number Puzzles_figures/q5_1.png"
+        }
+      ]
+    },
+    {
+      "questionNumber": 6,
+      "section": "Quantitative Aptitude",
+      "id": "610555a0f5866cee5c3f33f2",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "",
+      "questionHtml": "<p><img style=\"margin: 0px; outline: 0px; border: 0px; color: #000000; font-family: arial; text-align: -webkit-center;\" src=\"https://www.indiabix.com/_files/images/puzzles/10-1-q-12.png\" width=\"402\" height=\"338\" /></p>",
+      "solutionText": "Answer : D Explanation : Working in columns, the sum of the numbers in each column is always 14.",
+      "solutionHtml": "<table style=\"margin: 0px; font-family: arial;\" border=\"0\" width=\"80%\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody style=\"margin: 0px;\">\n<tr style=\"margin: 0px;\">\n<td style=\"margin: 0px; padding: 5px; line-height: 1.7;\" valign=\"top\" width=\"10%\"><span class=\"mx-green mx-bold\" style=\"margin: 0px; font-weight: bold; color: #5eac1a; font-size: 14pt;\">Answer</span></td>\n<td style=\"margin: 0px; padding: 5px; line-height: 1.7;\" valign=\"top\" width=\"2%\"><span class=\"mx-green mx-bold\" style=\"margin: 0px; font-weight: bold; color: #5eac1a; font-size: 14pt;\">:</span></td>\n<td style=\"margin: 0px; padding: 5px; line-height: 1.7;\" valign=\"top\" width=\"88%\"><span class=\"mx-bold\" style=\"margin: 0px; font-weight: bold; font-size: 14pt;\">D</span></td>\n</tr>\n<tr style=\"margin: 0px;\">\n<td style=\"margin: 0px; padding: 5px; line-height: 1.7;\" valign=\"top\" width=\"10%\"><span class=\"mx-green mx-bold\" style=\"margin: 0px; font-weight: bold; color: #5eac1a; font-size: 14pt;\">Explanation</span></td>\n<td style=\"margin: 0px; padding: 5px; line-height: 1.7;\" valign=\"top\" width=\"2%\"><span class=\"mx-green mx-bold\" style=\"margin: 0px; font-weight: bold; color: #5eac1a; font-size: 14pt;\">:</span></td>\n<td style=\"margin: 0px; padding: 5px; line-height: 1.7;\" valign=\"top\" width=\"88%\"><span style=\"font-size: 14pt;\">Working in columns, the sum of the numbers in each column is always 14.</span></td>\n</tr>\n</tbody>\n</table>",
+      "options": [
+        {
+          "order": null,
+          "text": "1",
+          "html": "<p><span style=\"font-size: 14pt;\">1</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "2",
+          "html": "<p><span style=\"font-size: 14pt;\">2</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "3",
+          "html": "<p><span style=\"font-size: 14pt;\">3</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "4",
+          "html": "<p><span style=\"font-size: 14pt;\">4</span></p>",
+          "isCorrect": true
+        }
+      ],
+      "embeddedImages": [
+        {
+          "original": "https://www.indiabix.com/_files/images/puzzles/10-1-q-12.png",
+          "local": "Number Puzzles_figures/q6_1.png"
+        }
+      ]
+    },
+    {
+      "questionNumber": 7,
+      "section": "Quantitative Aptitude",
+      "id": "610555a0f5866c1e923f33f7",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "",
+      "questionHtml": "<p><img style=\"margin: 0px; outline: 0px; border: 0px; color: #000000; font-family: arial; text-align: -webkit-center;\" src=\"https://www.indiabix.com/_files/images/puzzles/10-1-q-15.png\" width=\"404\" height=\"327\" /></p>",
+      "solutionText": "Answer : A Explanation : The numbers in each row and column add up to 15.",
+      "solutionHtml": "<table style=\"margin: 0px; font-family: arial;\" border=\"0\" width=\"80%\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody style=\"margin: 0px;\">\n<tr style=\"margin: 0px;\">\n<td style=\"margin: 0px; padding: 5px; line-height: 1.7;\" valign=\"top\" width=\"10%\"><span class=\"mx-green mx-bold\" style=\"margin: 0px; font-weight: bold; color: #5eac1a; font-size: 14pt;\">Answer</span></td>\n<td style=\"margin: 0px; padding: 5px; line-height: 1.7;\" valign=\"top\" width=\"2%\"><span class=\"mx-green mx-bold\" style=\"margin: 0px; font-weight: bold; color: #5eac1a; font-size: 14pt;\">:</span></td>\n<td style=\"margin: 0px; padding: 5px; line-height: 1.7;\" valign=\"top\" width=\"88%\"><span class=\"mx-bold\" style=\"margin: 0px; font-weight: bold; font-size: 14pt;\">A</span></td>\n</tr>\n<tr style=\"margin: 0px;\">\n<td style=\"margin: 0px; padding: 5px; line-height: 1.7;\" valign=\"top\" width=\"10%\"><span class=\"mx-green mx-bold\" style=\"margin: 0px; font-weight: bold; color: #5eac1a; font-size: 14pt;\">Explanation</span></td>\n<td style=\"margin: 0px; padding: 5px; line-height: 1.7;\" valign=\"top\" width=\"2%\"><span class=\"mx-green mx-bold\" style=\"margin: 0px; font-weight: bold; color: #5eac1a; font-size: 14pt;\">:</span></td>\n<td style=\"margin: 0px; padding: 5px; line-height: 1.7;\" valign=\"top\" width=\"88%\"><span style=\"font-size: 14pt;\">The numbers in each row and column add up to 15.</span></td>\n</tr>\n</tbody>\n</table>",
+      "options": [
+        {
+          "order": null,
+          "text": "6",
+          "html": "<p><span style=\"font-size: 14pt;\">6</span></p>",
+          "isCorrect": true
+        },
+        {
+          "order": null,
+          "text": "12",
+          "html": "<p><span style=\"font-size: 14pt;\">12</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "18",
+          "html": "<p><span style=\"font-size: 14pt;\">18</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "24",
+          "html": "<p><span style=\"font-size: 14pt;\">24</span></p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": [
+        {
+          "original": "https://www.indiabix.com/_files/images/puzzles/10-1-q-15.png",
+          "local": "Number Puzzles_figures/q7_1.png"
+        }
+      ]
+    },
+    {
+      "questionNumber": 8,
+      "section": "Quantitative Aptitude",
+      "id": "610555a0f5866c9fa23f33fc",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "",
+      "questionHtml": "<p><img style=\"margin: 0px; outline: 0px; border: 0px; color: #000000; font-family: arial; text-align: -webkit-center;\" src=\"https://www.indiabix.com/_files/images/puzzles/10-1-q-17.png\" width=\"404\" height=\"145\" /></p>",
+      "solutionText": "Answer : B Explanation : Moving from left to right, numbers increase by 2,3,4 and 5.",
+      "solutionHtml": "<table style=\"margin: 0px; font-family: arial;\" border=\"0\" width=\"80%\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody style=\"margin: 0px;\">\n<tr style=\"margin: 0px;\">\n<td style=\"margin: 0px; padding: 5px; line-height: 1.7;\" valign=\"top\" width=\"10%\"><span class=\"mx-green mx-bold\" style=\"margin: 0px; font-weight: bold; color: #5eac1a; font-size: 14pt;\">Answer</span></td>\n<td style=\"margin: 0px; padding: 5px; line-height: 1.7;\" valign=\"top\" width=\"2%\"><span class=\"mx-green mx-bold\" style=\"margin: 0px; font-weight: bold; color: #5eac1a; font-size: 14pt;\">:</span></td>\n<td style=\"margin: 0px; padding: 5px; line-height: 1.7;\" valign=\"top\" width=\"88%\"><span class=\"mx-bold\" style=\"margin: 0px; font-weight: bold; font-size: 14pt;\">B</span></td>\n</tr>\n<tr style=\"margin: 0px;\">\n<td style=\"margin: 0px; padding: 5px; line-height: 1.7;\" valign=\"top\" width=\"10%\"><span class=\"mx-green mx-bold\" style=\"margin: 0px; font-weight: bold; color: #5eac1a; font-size: 14pt;\">Explanation</span></td>\n<td style=\"margin: 0px; padding: 5px; line-height: 1.7;\" valign=\"top\" width=\"2%\"><span class=\"mx-green mx-bold\" style=\"margin: 0px; font-weight: bold; color: #5eac1a; font-size: 14pt;\">:</span></td>\n<td style=\"margin: 0px; padding: 5px; line-height: 1.7;\" valign=\"top\" width=\"88%\"><span style=\"font-size: 14pt;\">Moving from left to right, numbers increase by 2,3,4 and 5.</span></td>\n</tr>\n</tbody>\n</table>",
+      "options": [
+        {
+          "order": null,
+          "text": "35",
+          "html": "<p><span style=\"font-size: 14pt;\">35</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "40",
+          "html": "<p><span style=\"font-size: 14pt;\">40</span></p>",
+          "isCorrect": true
+        },
+        {
+          "order": null,
+          "text": "45",
+          "html": "<p><span style=\"font-size: 14pt;\">45</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "50",
+          "html": "<p><span style=\"font-size: 14pt;\">50</span></p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": [
+        {
+          "original": "https://www.indiabix.com/_files/images/puzzles/10-1-q-17.png",
+          "local": "Number Puzzles_figures/q8_1.png"
+        }
+      ]
+    },
+    {
+      "questionNumber": 9,
+      "section": "Quantitative Aptitude",
+      "id": "610555a0f5866cce643f3401",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "",
+      "questionHtml": "<p><img style=\"margin: 0px; outline: 0px; border: 0px; color: #000000; font-family: arial; text-align: -webkit-center;\" src=\"https://www.indiabix.com/_files/images/puzzles/10-1-q-19.png\" width=\"409\" height=\"326\" /></p>",
+      "solutionText": "Answer : C Explanation : In each square of the diagram, the sum of the numbers is always 22.",
+      "solutionHtml": "<table style=\"margin: 0px; font-family: arial;\" border=\"0\" width=\"80%\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody style=\"margin: 0px;\">\n<tr style=\"margin: 0px;\">\n<td style=\"margin: 0px; padding: 5px; line-height: 1.7;\" valign=\"top\" width=\"10%\"><span class=\"mx-green mx-bold\" style=\"margin: 0px; font-weight: bold; color: #5eac1a; font-size: 14pt;\">Answer</span></td>\n<td style=\"margin: 0px; padding: 5px; line-height: 1.7;\" valign=\"top\" width=\"2%\"><span class=\"mx-green mx-bold\" style=\"margin: 0px; font-weight: bold; color: #5eac1a; font-size: 14pt;\">:</span></td>\n<td style=\"margin: 0px; padding: 5px; line-height: 1.7;\" valign=\"top\" width=\"88%\"><span class=\"mx-bold\" style=\"margin: 0px; font-weight: bold; font-size: 14pt;\">C</span></td>\n</tr>\n<tr style=\"margin: 0px;\">\n<td style=\"margin: 0px; padding: 5px; line-height: 1.7;\" valign=\"top\" width=\"10%\"><span class=\"mx-green mx-bold\" style=\"margin: 0px; font-weight: bold; color: #5eac1a; font-size: 14pt;\">Explanation</span></td>\n<td style=\"margin: 0px; padding: 5px; line-height: 1.7;\" valign=\"top\" width=\"2%\"><span class=\"mx-green mx-bold\" style=\"margin: 0px; font-weight: bold; color: #5eac1a; font-size: 14pt;\">:</span></td>\n<td style=\"margin: 0px; padding: 5px; line-height: 1.7;\" valign=\"top\" width=\"88%\"><span style=\"font-size: 14pt;\">In each square of the diagram, the sum of the numbers is always 22.</span></td>\n</tr>\n</tbody>\n</table>",
+      "options": [
+        {
+          "order": null,
+          "text": "3",
+          "html": "<p><span style=\"font-size: 14pt;\">3</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "6",
+          "html": "<p><span style=\"font-size: 14pt;\">6</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "9",
+          "html": "<p><span style=\"font-size: 14pt;\">9</span></p>",
+          "isCorrect": true
+        },
+        {
+          "order": null,
+          "text": "12",
+          "html": "<p><span style=\"font-size: 14pt;\">12</span></p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": [
+        {
+          "original": "https://www.indiabix.com/_files/images/puzzles/10-1-q-19.png",
+          "local": "Number Puzzles_figures/q9_1.png"
+        }
+      ]
+    },
+    {
+      "questionNumber": 10,
+      "section": "Quantitative Aptitude",
+      "id": "610555a0f5866c71983f3406",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "",
+      "questionHtml": "<p><img style=\"margin: 0px; outline: 0px; border: 0px; color: #000000; font-family: arial; text-align: -webkit-center;\" src=\"https://www.indiabix.com/_files/images/puzzles/10-1-q-20.png\" width=\"396\" height=\"316\" /></p>",
+      "solutionText": "Answer : A Explanation : Moving clockwise, around alternate segments in the chain, one sequence decreases by 1, 2, 3 and 4 each time, while the other increases by 2, 3, 4 and 5.",
+      "solutionHtml": "<table style=\"margin: 0px; font-family: arial;\" border=\"0\" width=\"80%\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody style=\"margin: 0px;\">\n<tr style=\"margin: 0px;\">\n<td style=\"margin: 0px; padding: 5px; line-height: 1.7;\" valign=\"top\" width=\"10%\"><span class=\"mx-green mx-bold\" style=\"margin: 0px; font-weight: bold; color: #5eac1a; font-size: 14pt;\">Answer</span></td>\n<td style=\"margin: 0px; padding: 5px; line-height: 1.7;\" valign=\"top\" width=\"2%\"><span class=\"mx-green mx-bold\" style=\"margin: 0px; font-weight: bold; color: #5eac1a; font-size: 14pt;\">:</span></td>\n<td style=\"margin: 0px; padding: 5px; line-height: 1.7;\" valign=\"top\" width=\"88%\"><span class=\"mx-bold\" style=\"margin: 0px; font-weight: bold; font-size: 14pt;\">A</span></td>\n</tr>\n<tr style=\"margin: 0px;\">\n<td style=\"margin: 0px; padding: 5px; line-height: 1.7;\" valign=\"top\" width=\"10%\"><span class=\"mx-green mx-bold\" style=\"margin: 0px; font-weight: bold; color: #5eac1a; font-size: 14pt;\">Explanation</span></td>\n<td style=\"margin: 0px; padding: 5px; line-height: 1.7;\" valign=\"top\" width=\"2%\"><span class=\"mx-green mx-bold\" style=\"margin: 0px; font-weight: bold; color: #5eac1a; font-size: 14pt;\">:</span></td>\n<td style=\"margin: 0px; padding: 5px; line-height: 1.7;\" valign=\"top\" width=\"88%\"><span style=\"font-size: 14pt;\">Moving clockwise, around alternate segments in the chain, one sequence decreases by 1, 2, 3 and 4 each time, while the other increases by 2, 3, 4 and 5.</span></td>\n</tr>\n</tbody>\n</table>",
+      "options": [
+        {
+          "order": null,
+          "text": "16",
+          "html": "<p><span style=\"font-size: 14pt;\">16</span></p>",
+          "isCorrect": true
+        },
+        {
+          "order": null,
+          "text": "22",
+          "html": "<p><span style=\"font-size: 14pt;\">22</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "26",
+          "html": "<p><span style=\"font-size: 14pt;\">26</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "29",
+          "html": "<p><span style=\"font-size: 14pt;\">29</span></p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": [
+        {
+          "original": "https://www.indiabix.com/_files/images/puzzles/10-1-q-20.png",
+          "local": "Number Puzzles_figures/q10_1.png"
+        }
+      ]
+    },
+    {
+      "questionNumber": 11,
+      "section": "Quantitative Aptitude",
+      "id": "610555a0f5866c53353f340b",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "",
+      "questionHtml": "<p><img style=\"margin: 0px; outline: 0px; border: 0px; color: #000000; font-family: arial; text-align: -webkit-center;\" src=\"https://www.indiabix.com/_files/images/puzzles/10-1-q-21.png\" width=\"405\" height=\"323\" /></p>",
+      "solutionText": "Answer : D Explanation : Starting with the numbers in the top row, and following straight lines through the centre of the diagram, subtract the middle number from the top number to give the corresponding value on the bottom row.",
+      "solutionHtml": "<table style=\"margin: 0px; font-family: arial;\" border=\"0\" width=\"80%\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody style=\"margin: 0px;\">\n<tr style=\"margin: 0px;\">\n<td style=\"margin: 0px; padding: 5px; line-height: 1.7;\" valign=\"top\" width=\"10%\"><span class=\"mx-green mx-bold\" style=\"margin: 0px; font-weight: bold; color: #5eac1a; font-size: 14pt;\">Answer</span></td>\n<td style=\"margin: 0px; padding: 5px; line-height: 1.7;\" valign=\"top\" width=\"2%\"><span class=\"mx-green mx-bold\" style=\"margin: 0px; font-weight: bold; color: #5eac1a; font-size: 14pt;\">:</span></td>\n<td style=\"margin: 0px; padding: 5px; line-height: 1.7;\" valign=\"top\" width=\"88%\"><span class=\"mx-bold\" style=\"margin: 0px; font-weight: bold; font-size: 14pt;\">D</span></td>\n</tr>\n<tr style=\"margin: 0px;\">\n<td style=\"margin: 0px; padding: 5px; line-height: 1.7;\" valign=\"top\" width=\"10%\"><span class=\"mx-green mx-bold\" style=\"margin: 0px; font-weight: bold; color: #5eac1a; font-size: 14pt;\">Explanation</span></td>\n<td style=\"margin: 0px; padding: 5px; line-height: 1.7;\" valign=\"top\" width=\"2%\"><span class=\"mx-green mx-bold\" style=\"margin: 0px; font-weight: bold; color: #5eac1a; font-size: 14pt;\">:</span></td>\n<td style=\"margin: 0px; padding: 5px; line-height: 1.7;\" valign=\"top\" width=\"88%\"><span style=\"font-size: 14pt;\">Starting with the numbers in the top row, and following straight lines through the centre of the diagram, subtract the middle number from the top number to give the corresponding value on the bottom row.</span></td>\n</tr>\n</tbody>\n</table>",
+      "options": [
+        {
+          "order": null,
+          "text": "4",
+          "html": "<p><span style=\"font-size: 18.6667px;\">4</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "5",
+          "html": "<p><span style=\"font-size: 14pt;\">5</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "6",
+          "html": "<p><span style=\"font-size: 14pt;\">6</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "7",
+          "html": "<p><span style=\"font-size: 14pt;\">7</span></p>",
+          "isCorrect": true
+        }
+      ],
+      "embeddedImages": [
+        {
+          "original": "https://www.indiabix.com/_files/images/puzzles/10-1-q-21.png",
+          "local": "Number Puzzles_figures/q11_1.png"
+        }
+      ]
+    },
+    {
+      "questionNumber": 12,
+      "section": "Quantitative Aptitude",
+      "id": "610555a0f5866c473a3f3410",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "",
+      "questionHtml": "<p><img style=\"margin: 0px; outline: 0px; border: 0px; color: #000000; font-family: arial; text-align: -webkit-center;\" src=\"https://www.indiabix.com/_files/images/puzzles/10-1-q-23.png\" width=\"398\" height=\"356\" /></p>",
+      "solutionText": "Answer : B Explanation : In each circle, starting at the top left segment, numbers increase, as you move clockwise, by 2 for the upper left circle, 3 for the upper right, 4 for the lower right and 5 for the lower left.",
+      "solutionHtml": "<table style=\"margin: 0px; font-family: arial;\" border=\"0\" width=\"80%\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody style=\"margin: 0px;\">\n<tr style=\"margin: 0px;\">\n<td style=\"margin: 0px; padding: 5px; line-height: 1.7;\" valign=\"top\" width=\"10%\"><span class=\"mx-green mx-bold\" style=\"margin: 0px; font-weight: bold; color: #5eac1a; font-size: 14pt;\">Answer</span></td>\n<td style=\"margin: 0px; padding: 5px; line-height: 1.7;\" valign=\"top\" width=\"2%\"><span class=\"mx-green mx-bold\" style=\"margin: 0px; font-weight: bold; color: #5eac1a; font-size: 14pt;\">:</span></td>\n<td style=\"margin: 0px; padding: 5px; line-height: 1.7;\" valign=\"top\" width=\"88%\"><span class=\"mx-bold\" style=\"margin: 0px; font-weight: bold; font-size: 14pt;\">B</span></td>\n</tr>\n<tr style=\"margin: 0px;\">\n<td style=\"margin: 0px; padding: 5px; line-height: 1.7;\" valign=\"top\" width=\"10%\"><span class=\"mx-green mx-bold\" style=\"margin: 0px; font-weight: bold; color: #5eac1a; font-size: 14pt;\">Explanation</span></td>\n<td style=\"margin: 0px; padding: 5px; line-height: 1.7;\" valign=\"top\" width=\"2%\"><span class=\"mx-green mx-bold\" style=\"margin: 0px; font-weight: bold; color: #5eac1a; font-size: 14pt;\">:</span></td>\n<td style=\"margin: 0px; padding: 5px; line-height: 1.7;\" valign=\"top\" width=\"88%\"><span style=\"font-size: 14pt;\">In each circle, starting at the top left segment, numbers increase, as you move clockwise, by 2 for the upper left circle, 3 for the upper right, 4 for the lower right and 5 for the lower left.</span></td>\n</tr>\n</tbody>\n</table>",
+      "options": [
+        {
+          "order": null,
+          "text": "10",
+          "html": "<p><span style=\"font-size: 14pt;\">10</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "13",
+          "html": "<p><span style=\"font-size: 14pt;\">13</span></p>",
+          "isCorrect": true
+        },
+        {
+          "order": null,
+          "text": "16",
+          "html": "<p><span style=\"font-size: 14pt;\">16</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "19",
+          "html": "<p><span style=\"font-size: 14pt;\">19</span></p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": [
+        {
+          "original": "https://www.indiabix.com/_files/images/puzzles/10-1-q-23.png",
+          "local": "Number Puzzles_figures/q12_1.png"
+        }
+      ]
+    },
+    {
+      "questionNumber": 13,
+      "section": "Quantitative Aptitude",
+      "id": "610555a0f5866c59b63f3415",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "",
+      "questionHtml": "<p><img style=\"margin: 0px; outline: 0px; border: 0px; color: #000000; font-family: arial; text-align: -webkit-center;\" src=\"https://www.indiabix.com/_files/images/puzzles/10-1-q-26.png\" width=\"401\" height=\"262\" /></p>",
+      "solutionText": "Answer : C Explanation : In each group of 3 numbers, the lower number equals the average of the top two numbers.",
+      "solutionHtml": "<table style=\"margin: 0px; font-family: arial;\" border=\"0\" width=\"80%\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody style=\"margin: 0px;\">\n<tr style=\"margin: 0px;\">\n<td style=\"margin: 0px; padding: 5px; line-height: 1.7;\" valign=\"top\" width=\"10%\"><span class=\"mx-green mx-bold\" style=\"margin: 0px; font-weight: bold; color: #5eac1a; font-size: 14pt;\">Answer</span></td>\n<td style=\"margin: 0px; padding: 5px; line-height: 1.7;\" valign=\"top\" width=\"2%\"><span class=\"mx-green mx-bold\" style=\"margin: 0px; font-weight: bold; color: #5eac1a; font-size: 14pt;\">:</span></td>\n<td style=\"margin: 0px; padding: 5px; line-height: 1.7;\" valign=\"top\" width=\"88%\"><span class=\"mx-bold\" style=\"margin: 0px; font-weight: bold; font-size: 14pt;\">C</span></td>\n</tr>\n<tr style=\"margin: 0px;\">\n<td style=\"margin: 0px; padding: 5px; line-height: 1.7;\" valign=\"top\" width=\"10%\"><span class=\"mx-green mx-bold\" style=\"margin: 0px; font-weight: bold; color: #5eac1a; font-size: 14pt;\">Explanation</span></td>\n<td style=\"margin: 0px; padding: 5px; line-height: 1.7;\" valign=\"top\" width=\"2%\"><span class=\"mx-green mx-bold\" style=\"margin: 0px; font-weight: bold; color: #5eac1a; font-size: 14pt;\">:</span></td>\n<td style=\"margin: 0px; padding: 5px; line-height: 1.7;\" valign=\"top\" width=\"88%\"><span style=\"font-size: 14pt;\">In each group of 3 numbers, the lower number equals the average of the top two numbers.</span></td>\n</tr>\n</tbody>\n</table>",
+      "options": [
+        {
+          "order": null,
+          "text": "1",
+          "html": "<p><span style=\"font-size: 14pt;\">1</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "2",
+          "html": "<p><span style=\"font-size: 14pt;\">2</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "3",
+          "html": "<p><span style=\"font-size: 14pt;\">3</span></p>",
+          "isCorrect": true
+        },
+        {
+          "order": null,
+          "text": "4",
+          "html": "<p><span style=\"font-size: 14pt;\">4</span></p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": [
+        {
+          "original": "https://www.indiabix.com/_files/images/puzzles/10-1-q-26.png",
+          "local": "Number Puzzles_figures/q13_1.png"
+        }
+      ]
+    },
+    {
+      "questionNumber": 14,
+      "section": "Quantitative Aptitude",
+      "id": "610555a0f5866c30573f341a",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "",
+      "questionHtml": "<p><img style=\"margin: 0px; outline: 0px; border: 0px; color: #000000; font-family: arial; text-align: -webkit-center;\" src=\"https://www.indiabix.com/_files/images/puzzles/10-1-q-27.png\" width=\"401\" height=\"303\" /></p>",
+      "solutionText": "Answer : A Explanation : Reading each row as a 3 digit number, the rows follow the sequence of square numbers, from 17 to 19.",
+      "solutionHtml": "<table style=\"margin: 0px; font-family: arial;\" border=\"0\" width=\"80%\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody style=\"margin: 0px;\">\n<tr style=\"margin: 0px;\">\n<td style=\"margin: 0px; padding: 5px; line-height: 1.7;\" valign=\"top\" width=\"10%\"><span class=\"mx-green mx-bold\" style=\"margin: 0px; font-weight: bold; color: #5eac1a; font-size: 14pt;\">Answer</span></td>\n<td style=\"margin: 0px; padding: 5px; line-height: 1.7;\" valign=\"top\" width=\"2%\"><span class=\"mx-green mx-bold\" style=\"margin: 0px; font-weight: bold; color: #5eac1a; font-size: 14pt;\">:</span></td>\n<td style=\"margin: 0px; padding: 5px; line-height: 1.7;\" valign=\"top\" width=\"88%\"><span class=\"mx-bold\" style=\"margin: 0px; font-weight: bold; font-size: 14pt;\">A</span></td>\n</tr>\n<tr style=\"margin: 0px;\">\n<td style=\"margin: 0px; padding: 5px; line-height: 1.7;\" valign=\"top\" width=\"10%\"><span class=\"mx-green mx-bold\" style=\"margin: 0px; font-weight: bold; color: #5eac1a; font-size: 14pt;\">Explanation</span></td>\n<td style=\"margin: 0px; padding: 5px; line-height: 1.7;\" valign=\"top\" width=\"2%\"><span class=\"mx-green mx-bold\" style=\"margin: 0px; font-weight: bold; color: #5eac1a; font-size: 14pt;\">:</span></td>\n<td style=\"margin: 0px; padding: 5px; line-height: 1.7;\" valign=\"top\" width=\"88%\"><span style=\"font-size: 14pt;\">Reading each row as a 3 digit number, the rows follow the sequence of square numbers, from 17 to 19.</span></td>\n</tr>\n</tbody>\n</table>",
+      "options": [
+        {
+          "order": null,
+          "text": "1",
+          "html": "<p><span style=\"font-size: 14pt;\">1</span></p>",
+          "isCorrect": true
+        },
+        {
+          "order": null,
+          "text": "3",
+          "html": "<p><span style=\"font-size: 14pt;\">3</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "4",
+          "html": "<p><span style=\"font-size: 14pt;\">4</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "6",
+          "html": "<p><span style=\"font-size: 14pt;\">6</span></p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": [
+        {
+          "original": "https://www.indiabix.com/_files/images/puzzles/10-1-q-27.png",
+          "local": "Number Puzzles_figures/q14_1.png"
+        }
+      ]
+    },
+    {
+      "questionNumber": 15,
+      "section": "Quantitative Aptitude",
+      "id": "610555a0f5866c25d53f341f",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "",
+      "questionHtml": "<p><img style=\"margin: 0px; outline: 0px; border: 0px; color: #000000; font-family: arial; text-align: -webkit-center;\" src=\"https://www.indiabix.com/_files/images/puzzles/10-16-q-5.png\" width=\"403\" height=\"309\" /></p>",
+      "solutionText": "Answer : D Explanation : Starting with the circle on the top left, and moving to the right, top row then bottom row, the sum of the numbers in each circle follows the sequence 12, 15, 18, 21 etc.",
+      "solutionHtml": "<table style=\"margin: 0px; font-family: arial;\" border=\"0\" width=\"80%\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody style=\"margin: 0px;\">\n<tr style=\"margin: 0px;\">\n<td style=\"margin: 0px; padding: 5px; line-height: 1.7;\" valign=\"top\" width=\"10%\"><span class=\"mx-green mx-bold\" style=\"margin: 0px; font-weight: bold; color: #5eac1a; font-size: 14pt;\">Answer</span></td>\n<td style=\"margin: 0px; padding: 5px; line-height: 1.7;\" valign=\"top\" width=\"2%\"><span class=\"mx-green mx-bold\" style=\"margin: 0px; font-weight: bold; color: #5eac1a; font-size: 14pt;\">:</span></td>\n<td style=\"margin: 0px; padding: 5px; line-height: 1.7;\" valign=\"top\" width=\"88%\"><span class=\"mx-bold\" style=\"margin: 0px; font-weight: bold; font-size: 14pt;\">D</span></td>\n</tr>\n<tr style=\"margin: 0px;\">\n<td style=\"margin: 0px; padding: 5px; line-height: 1.7;\" valign=\"top\" width=\"10%\"><span class=\"mx-green mx-bold\" style=\"margin: 0px; font-weight: bold; color: #5eac1a; font-size: 14pt;\">Explanation</span></td>\n<td style=\"margin: 0px; padding: 5px; line-height: 1.7;\" valign=\"top\" width=\"2%\"><span class=\"mx-green mx-bold\" style=\"margin: 0px; font-weight: bold; color: #5eac1a; font-size: 14pt;\">:</span></td>\n<td style=\"margin: 0px; padding: 5px; line-height: 1.7;\" valign=\"top\" width=\"88%\"><span style=\"font-size: 14pt;\">Starting with the circle on the top left, and moving to the right, top row then bottom row, the sum of the numbers in each circle follows the sequence 12, 15, 18, 21 etc.</span></td>\n</tr>\n</tbody>\n</table>",
+      "options": [
+        {
+          "order": null,
+          "text": "4",
+          "html": "<p><span style=\"font-size: 14pt;\">4</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "3",
+          "html": "<p><span style=\"font-size: 14pt;\">3</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "2",
+          "html": "<p><span style=\"font-size: 14pt;\">2</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "1",
+          "html": "<p><span style=\"font-size: 14pt;\">1</span></p>",
+          "isCorrect": true
+        }
+      ],
+      "embeddedImages": [
+        {
+          "original": "https://www.indiabix.com/_files/images/puzzles/10-16-q-5.png",
+          "local": "Number Puzzles_figures/q15_1.png"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,217 @@
+{
+  "testId": "68d82fecdd30507b0b9ff782",
+  "title": "Logical Puzzle",
+  "engine": "Testbook SDK",
+  "folderPath": "Infosys Mock Test Series / Day 06 / 1. Full Length Mock I- Based on Infosys PYQ",
+  "totalQuestions": 5,
+  "totalMarks": 10,
+  "durationMinutes": 10.0,
+  "livePortalUrl": "https://testsdk.testbook.com/org-44032-844567/tests/68d82fecdd30507b0b9ff782#auth?page=test&auth=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiI1YjQzMDFmYzdkZTU1NzBjMzFkNTU1NTUiLCJzdWIiOiIxNTkzMDU3NDYiLCJhdWQiOiJDUCIsImV4cEludCI6MTc5MTk1ODYwOCwiaWF0SW50IjoxNzkxODcyMjA4LCJvcmdJZCI6IjViNDMwMWZjN2RlNTU3MGMzMWQ1NTU1NSIsInJvbGVzIjoic3R1ZGVudCIsIm5hbWUiOiJIYWNrV2l0aEluZnlQcmVwIn0.afWnlSma4YC72l8-TLvMBHCTkqFWP99_pdBA4P2X3UuyNfr8FOBBjhcztvzEKIResq0onKAHhto9l2GpzkUN10RifQaI7Ynz2ujetOznNuiZY5btu9SPVy-f_Cs27qqUQ44t313j71RhdAaN6Gb0SQWLou8bXENvYgyuVEedu14MXle364Sdf_hWGI4eVhbGpG8-X_2S3OzSVuxUXMPt2j9Bx8gA8X4Tgm_BQOeIHUfjitRDT8Tgw-USB5OjoiqsnQmdscrKwtjzf-AAR-_EG4xtZBeQVGCC-TbkWIcm6fhWjSugB0xvsgco9ZdimDAsITv1p6QpTumYwHvYmZpeVQ&hideRank=0&isCPTestBookMarkEnabled=true",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "section": "Puzzle",
+      "id": "68d8300bd3329a339ac09358",
+      "type": "mcq",
+      "posMarks": 2,
+      "negMarks": 0,
+      "questionText": "",
+      "questionHtml": "<p><img src=\"https://www.indiabix.com/_files/images/puzzles/10-6-q-20.png\" /></p>",
+      "correctOption": "2",
+      "options": [
+        {
+          "order": "1",
+          "text": "I",
+          "html": "<p>I</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "G",
+          "html": "<p>G</p>",
+          "isCorrect": true
+        },
+        {
+          "order": "3",
+          "text": "B",
+          "html": "<p>B</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "T",
+          "html": "<p>T</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": [
+        {
+          "original": "https://www.indiabix.com/_files/images/puzzles/10-6-q-20.png",
+          "local": "Logical Puzzle_figures/q1_1.png"
+        }
+      ]
+    },
+    {
+      "questionNumber": 2,
+      "section": "Puzzle",
+      "id": "68d8300bd3329a1787c0935d",
+      "type": "mcq",
+      "posMarks": 2,
+      "negMarks": 0,
+      "questionText": "",
+      "questionHtml": "<p><img src=\"https://www.indiabix.com/_files/images/puzzles/10-18-q-11.png\" /></p>",
+      "correctOption": "1",
+      "options": [
+        {
+          "order": "1",
+          "text": "P",
+          "html": "<p>P</p>",
+          "isCorrect": true
+        },
+        {
+          "order": "2",
+          "text": "S",
+          "html": "<p>S</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "R",
+          "html": "<p>R</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "Q",
+          "html": "<p>Q</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": [
+        {
+          "original": "https://www.indiabix.com/_files/images/puzzles/10-18-q-11.png",
+          "local": "Logical Puzzle_figures/q2_1.png"
+        }
+      ]
+    },
+    {
+      "questionNumber": 3,
+      "section": "Puzzle",
+      "id": "68d8300bd3329a01f8c09362",
+      "type": "mcq",
+      "posMarks": 2,
+      "negMarks": 0,
+      "questionText": "Study the 4&times;4 matrix. Each row follows the same rule relating the first two entries to the third entry. Find the missing number ? 8 5 6 53 7 4 8 6 0 5 7 9 5 2 6 9 8 ? e rule.",
+      "questionHtml": "<p><!--StartFragment--> <!--EndFragment--></p>\n<p style=\"language: en-IN; margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: left; direction: ltr; unicode-bidi: embed; mso-line-break-override: none; word-break: normal; punctuation-wrap: hanging;\"><span style=\"font-size: 18.0pt; font-family: Aptos; mso-ascii-font-family: Aptos; mso-fareast-font-family: +mn-ea; mso-bidi-font-family: +mn-cs; mso-ascii-theme-font: minor-latin; mso-fareast-theme-font: minor-fareast; mso-bidi-theme-font: minor-bidi; color: black; mso-color-index: 0; mso-font-kerning: 12.0pt; language: en-US; mso-style-textfill-type: solid; mso-style-textfill-fill-themecolor: background1; mso-style-textfill-fill-color: black; mso-style-textfill-fill-alpha: 100.0%;\">Study the 4&times;4 matrix. Each row follows the same rule relating the first two entries to the third entry. Find the missing number ?&nbsp;</span></p>\n<p></p>\n<table style=\"border-collapse: collapse; width: 259pt;\" border=\"0\" width=\"345\" cellspacing=\"0\" cellpadding=\"0\"><colgroup><col style=\"width: 65pt;\" span=\"4\" width=\"86\" /></colgroup>\n<tbody>\n<tr style=\"height: 35.28pt;\">\n<td class=\"oa1\" style=\"padding-top: 0.75pt; padding-right: 0.75pt; padding-left: 0.75pt; color: windowtext; font-size: 18pt; font-family: Arial; vertical-align: bottom; border: 1.5pt solid #156082; background: #e7eaed; text-align: center; height: 35.28pt; width: 65pt;\" width=\"86\" height=\"47\">\n<p style=\"margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; vertical-align: bottom; word-break: normal;\"><span style=\"font-size: 24pt; font-family: 'Aptos Narrow'; font-weight: bold;\">8</span></p>\n</td>\n<td class=\"oa1\" style=\"padding-top: 0.75pt; padding-right: 0.75pt; padding-left: 0.75pt; color: windowtext; font-size: 18pt; font-family: Arial; vertical-align: bottom; border: 1.5pt solid #156082; background: #e7eaed; text-align: center; width: 65pt;\" width=\"86\">\n<p style=\"margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; vertical-align: bottom; word-break: normal;\"><span style=\"font-size: 24pt; font-family: 'Aptos Narrow'; font-weight: bold;\">5</span></p>\n</td>\n<td class=\"oa1\" style=\"padding-top: 0.75pt; padding-right: 0.75pt; padding-left: 0.75pt; color: windowtext; font-size: 18pt; font-family: Arial; vertical-align: bottom; border: 1.5pt solid #156082; background: #e7eaed; text-align: center; width: 65pt;\" width=\"86\">\n<p style=\"margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; vertical-align: bottom; word-break: normal;\"><span style=\"font-size: 24pt; font-family: 'Aptos Narrow'; font-weight: bold;\">6</span></p>\n</td>\n<td class=\"oa1\" style=\"padding-top: 0.75pt; padding-right: 0.75pt; padding-left: 0.75pt; color: windowtext; font-size: 18pt; font-family: Arial; vertical-align: bottom; border: 1.5pt solid #156082; background: #e7eaed; text-align: center; width: 65pt;\" width=\"86\">\n<p style=\"margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; vertical-align: bottom; word-break: normal;\"><span style=\"font-size: 24pt; font-family: 'Aptos Narrow'; font-weight: bold;\">53</span></p>\n</td>\n</tr>\n<tr style=\"height: 35.28pt;\">\n<td class=\"oa1\" style=\"padding-top: 0.75pt; padding-right: 0.75pt; padding-left: 0.75pt; color: windowtext; font-size: 18pt; font-family: Arial; vertical-align: bottom; border: 1.5pt solid #156082; background: #e7eaed; text-align: center; height: 35.28pt; width: 65pt;\" width=\"86\" height=\"47\">\n<p style=\"margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; vertical-align: bottom; word-break: normal;\"><span style=\"font-size: 24pt; font-family: 'Aptos Narrow'; font-weight: bold;\">7</span></p>\n</td>\n<td class=\"oa1\" style=\"padding-top: 0.75pt; padding-right: 0.75pt; padding-left: 0.75pt; color: windowtext; font-size: 18pt; font-family: Arial; vertical-align: bottom; border: 1.5pt solid #156082; background: #e7eaed; text-align: center; width: 65pt;\" width=\"86\">\n<p style=\"margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; vertical-align: bottom; word-break: normal;\"><span style=\"font-size: 24pt; font-family: 'Aptos Narrow'; font-weight: bold;\">4</span></p>\n</td>\n<td class=\"oa1\" style=\"padding-top: 0.75pt; padding-right: 0.75pt; padding-left: 0.75pt; color: windowtext; font-size: 18pt; font-family: Arial; vertical-align: bottom; border: 1.5pt solid #156082; background: #e7eaed; text-align: center; width: 65pt;\" width=\"86\">\n<p style=\"margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; vertical-align: bottom; word-break: normal;\"><span style=\"font-size: 24pt; font-family: 'Aptos Narrow'; font-weight: bold;\">8</span></p>\n</td>\n<td class=\"oa1\" style=\"padding-top: 0.75pt; padding-right: 0.75pt; padding-left: 0.75pt; color: windowtext; font-size: 18pt; font-family: Arial; vertical-align: bottom; border: 1.5pt solid #156082; background: #e7eaed; text-align: center; width: 65pt;\" width=\"86\">\n<p style=\"margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; vertical-align: bottom; word-break: normal;\"><span style=\"font-size: 24pt; font-family: 'Aptos Narrow'; font-weight: bold;\">6</span><span style=\"font-size: 24pt; font-family: 'Aptos Narrow'; font-weight: bold;\">0</span></p>\n</td>\n</tr>\n<tr style=\"height: 35.28pt;\">\n<td class=\"oa1\" style=\"padding-top: 0.75pt; padding-right: 0.75pt; padding-left: 0.75pt; color: windowtext; font-size: 18pt; font-family: Arial; vertical-align: bottom; border: 1.5pt solid #156082; background: #e7eaed; text-align: center; height: 35.28pt; width: 65pt;\" width=\"86\" height=\"47\">\n<p style=\"margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; vertical-align: bottom; word-break: normal;\"><span style=\"font-size: 24pt; font-family: 'Aptos Narrow'; font-weight: bold;\">5</span></p>\n</td>\n<td class=\"oa1\" style=\"padding-top: 0.75pt; padding-right: 0.75pt; padding-left: 0.75pt; color: windowtext; font-size: 18pt; font-family: Arial; vertical-align: bottom; border: 1.5pt solid #156082; background: #e7eaed; text-align: center; width: 65pt;\" width=\"86\">\n<p style=\"margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; vertical-align: bottom; word-break: normal;\"><span style=\"font-size: 24pt; font-family: 'Aptos Narrow'; font-weight: bold;\">7</span></p>\n</td>\n<td class=\"oa1\" style=\"padding-top: 0.75pt; padding-right: 0.75pt; padding-left: 0.75pt; color: windowtext; font-size: 18pt; font-family: Arial; vertical-align: bottom; border: 1.5pt solid #156082; background: #e7eaed; text-align: center; width: 65pt;\" width=\"86\">\n<p style=\"margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; vertical-align: bottom; word-break: normal;\"><span style=\"font-size: 24pt; font-family: 'Aptos Narrow'; font-weight: bold;\">9</span></p>\n</td>\n<td class=\"oa1\" style=\"padding-top: 0.75pt; padding-right: 0.75pt; padding-left: 0.75pt; color: windowtext; font-size: 18pt; font-family: Arial; vertical-align: bottom; border: 1.5pt solid #156082; background: #e7eaed; text-align: center; width: 65pt;\" width=\"86\">\n<p style=\"margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; vertical-align: bottom; word-break: normal;\"><span style=\"font-size: 24pt; font-family: 'Aptos Narrow'; font-weight: bold;\">5</span><span style=\"font-size: 24pt; font-family: 'Aptos Narrow'; font-weight: bold;\">2</span></p>\n</td>\n</tr>\n<tr style=\"height: 35.28pt;\">\n<td class=\"oa1\" style=\"padding-top: 0.75pt; padding-right: 0.75pt; padding-left: 0.75pt; color: windowtext; font-size: 18pt; font-family: Arial; vertical-align: bottom; border: 1.5pt solid #156082; background: #e7eaed; text-align: center; height: 35.28pt; width: 65pt;\" width=\"86\" height=\"47\">\n<p style=\"margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; vertical-align: bottom; word-break: normal;\"><span style=\"font-size: 24pt; font-family: 'Aptos Narrow'; font-weight: bold;\">6</span></p>\n</td>\n<td class=\"oa1\" style=\"padding-top: 0.75pt; padding-right: 0.75pt; padding-left: 0.75pt; color: windowtext; font-size: 18pt; font-family: Arial; vertical-align: bottom; border: 1.5pt solid #156082; background: #e7eaed; text-align: center; width: 65pt;\" width=\"86\">\n<p style=\"margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; vertical-align: bottom; word-break: normal;\"><span style=\"font-size: 24pt; font-family: 'Aptos Narrow'; font-weight: bold;\">9</span></p>\n</td>\n<td class=\"oa1\" style=\"padding-top: 0.75pt; padding-right: 0.75pt; padding-left: 0.75pt; color: windowtext; font-size: 18pt; font-family: Arial; vertical-align: bottom; border: 1.5pt solid #156082; background: #e7eaed; text-align: center; width: 65pt;\" width=\"86\">\n<p style=\"margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; vertical-align: bottom; word-break: normal;\"><span style=\"font-size: 24pt; font-family: 'Aptos Narrow'; font-weight: bold;\">8</span></p>\n</td>\n<td class=\"oa1\" style=\"padding-top: 0.75pt; padding-right: 0.75pt; padding-left: 0.75pt; color: windowtext; font-size: 18pt; font-family: Arial; vertical-align: bottom; border: 1.5pt solid #156082; background: #e7eaed; text-align: center; width: 65pt;\" width=\"86\">\n<p style=\"margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; vertical-align: bottom; word-break: normal;\"><span style=\"font-size: 24pt; font-family: 'Aptos Narrow'; font-weight: bold;\">?</span></p>\n</td>\n</tr>\n</tbody>\n</table>\n<p></p>\n<!--StartFragment-->\n<p style=\"margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;\"><span style=\"font-size: 18.0pt; font-family: Aptos; mso-ascii-font-family: Aptos; mso-fareast-font-family: +mn-ea; mso-bidi-font-family: +mn-cs; mso-ascii-theme-font: minor-latin; mso-fareast-theme-font: minor-fareast; mso-bidi-theme-font: minor-bidi; color: white; mso-color-index: 1; mso-font-kerning: 12.0pt; language: en-US; mso-style-textfill-type: solid; mso-style-textfill-fill-themecolor: text1; mso-style-textfill-fill-color: white; mso-style-textfill-fill-alpha: 100.0%;\">e rule.</span></p>\n<p></p>\n<!--EndFragment-->",
+      "correctOption": "1",
+      "options": [
+        {
+          "order": "1",
+          "text": "57",
+          "html": "<p>57</p>",
+          "isCorrect": true
+        },
+        {
+          "order": "2",
+          "text": "59",
+          "html": "<p>59</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "67",
+          "html": "<p>67</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "87",
+          "html": "<p>87</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 4,
+      "section": "Puzzle",
+      "id": "68d8300bd3329a738dc09367",
+      "type": "mcq",
+      "posMarks": 2,
+      "negMarks": 0,
+      "questionText": "",
+      "questionHtml": "<p><img src=\"https://www.indiabix.com/_files/images/puzzles/10-9-q-14.png\" /></p>",
+      "correctOption": "2",
+      "options": [
+        {
+          "order": "1",
+          "text": "5",
+          "html": "<p>5</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "6",
+          "html": "<p>6</p>",
+          "isCorrect": true
+        },
+        {
+          "order": "3",
+          "text": "8",
+          "html": "<p>8</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "2",
+          "html": "<p>2</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": [
+        {
+          "original": "https://www.indiabix.com/_files/images/puzzles/10-9-q-14.png",
+          "local": "Logical Puzzle_figures/q4_1.png"
+        }
+      ]
+    },
+    {
+      "questionNumber": 5,
+      "section": "Puzzle",
+      "id": "68d83574dd30501c8a9ffddd",
+      "type": "mcq",
+      "posMarks": 2,
+      "negMarks": 0,
+      "questionText": "Study the 3&times;3 matrix. Each row follows the same rule relating the first two entries to the third entry. Find the missing number 2 1 2 16 5 2 5 5 0 7 5 1 ?",
+      "questionHtml": "<p><!--StartFragment--> <!--EndFragment--></p>\n<p style=\"language: en-IN; margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: left; direction: ltr; unicode-bidi: embed; mso-line-break-override: none; word-break: normal; punctuation-wrap: hanging;\"><span style=\"font-size: 18.0pt; font-family: Aptos; mso-ascii-font-family: Aptos; mso-fareast-font-family: +mn-ea; mso-bidi-font-family: +mn-cs; mso-ascii-theme-font: minor-latin; mso-fareast-theme-font: minor-fareast; mso-bidi-theme-font: minor-bidi; color: black; mso-color-index: 0; mso-font-kerning: 12.0pt; language: en-US; mso-style-textfill-type: solid; mso-style-textfill-fill-themecolor: background1; mso-style-textfill-fill-color: black; mso-style-textfill-fill-alpha: 100.0%;\">Study the </span><span style=\"font-size: 18.0pt; font-family: Aptos; mso-ascii-font-family: Aptos; mso-fareast-font-family: +mn-ea; mso-bidi-font-family: +mn-cs; mso-ascii-theme-font: minor-latin; mso-fareast-theme-font: minor-fareast; mso-bidi-theme-font: minor-bidi; color: black; mso-color-index: 0; mso-font-kerning: 12.0pt; language: en-US; mso-style-textfill-type: solid; mso-style-textfill-fill-themecolor: background1; mso-style-textfill-fill-color: black; mso-style-textfill-fill-alpha: 100.0%;\">3&times;3 </span><span style=\"font-size: 18.0pt; font-family: Aptos; mso-ascii-font-family: Aptos; mso-fareast-font-family: +mn-ea; mso-bidi-font-family: +mn-cs; mso-ascii-theme-font: minor-latin; mso-fareast-theme-font: minor-fareast; mso-bidi-theme-font: minor-bidi; color: black; mso-color-index: 0; mso-font-kerning: 12.0pt; language: en-US; mso-style-textfill-type: solid; mso-style-textfill-fill-themecolor: background1; mso-style-textfill-fill-color: black; mso-style-textfill-fill-alpha: 100.0%;\">matrix. Each row follows the same rule relating the first two entries to the third entry. Find the missing number&nbsp;</span></p>\n<table style=\"border-collapse: collapse; width: 194pt;\" border=\"0\" width=\"259\" cellspacing=\"0\" cellpadding=\"0\"><colgroup><col style=\"width: 65pt;\" span=\"3\" width=\"86\" /></colgroup>\n<tbody>\n<tr style=\"height: 35.28pt;\">\n<td class=\"oa1\" style=\"padding-top: 0.75pt; padding-right: 0.75pt; padding-left: 0.75pt; color: windowtext; font-size: 18pt; font-family: Arial; vertical-align: bottom; border: 1.5pt solid #156082; background: #e7eaed; text-align: center; height: 35.28pt; width: 65pt;\" width=\"86\" height=\"47\">\n<p style=\"margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; vertical-align: bottom; word-break: normal;\"><span style=\"font-size: 24pt; font-family: 'Aptos Narrow'; font-weight: bold;\">2</span></p>\n</td>\n<td class=\"oa1\" style=\"padding-top: 0.75pt; padding-right: 0.75pt; padding-left: 0.75pt; color: windowtext; font-size: 18pt; font-family: Arial; vertical-align: bottom; border: 1.5pt solid #156082; background: #e7eaed; text-align: center; width: 65pt;\" width=\"86\">\n<p style=\"margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; vertical-align: bottom; word-break: normal;\"><span style=\"font-size: 24pt; font-family: 'Aptos Narrow'; font-weight: bold;\">1</span><span style=\"font-size: 24pt; font-family: 'Aptos Narrow'; font-weight: bold;\">2</span></p>\n</td>\n<td class=\"oa1\" style=\"padding-top: 0.75pt; padding-right: 0.75pt; padding-left: 0.75pt; color: windowtext; font-size: 18pt; font-family: Arial; vertical-align: bottom; border: 1.5pt solid #156082; background: #e7eaed; text-align: center; width: 65pt;\" width=\"86\">\n<p style=\"margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; vertical-align: bottom; word-break: normal;\"><span style=\"font-size: 24pt; font-family: 'Aptos Narrow'; font-weight: bold;\">16</span></p>\n</td>\n</tr>\n<tr style=\"height: 35.28pt;\">\n<td class=\"oa1\" style=\"padding-top: 0.75pt; padding-right: 0.75pt; padding-left: 0.75pt; color: windowtext; font-size: 18pt; font-family: Arial; vertical-align: bottom; border: 1.5pt solid #156082; background: #e7eaed; text-align: center; height: 35.28pt; width: 65pt;\" width=\"86\" height=\"47\">\n<p style=\"margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; vertical-align: bottom; word-break: normal;\"><span style=\"font-size: 24pt; font-family: 'Aptos Narrow'; font-weight: bold;\">5</span></p>\n</td>\n<td class=\"oa1\" style=\"padding-top: 0.75pt; padding-right: 0.75pt; padding-left: 0.75pt; color: windowtext; font-size: 18pt; font-family: Arial; vertical-align: bottom; border: 1.5pt solid #156082; background: #e7eaed; text-align: center; width: 65pt;\" width=\"86\">\n<p style=\"margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; vertical-align: bottom; word-break: normal;\"><span style=\"font-size: 24pt; font-family: 'Aptos Narrow'; font-weight: bold;\">2</span><span style=\"font-size: 24pt; font-family: 'Aptos Narrow'; font-weight: bold;\">5</span></p>\n</td>\n<td class=\"oa1\" style=\"padding-top: 0.75pt; padding-right: 0.75pt; padding-left: 0.75pt; color: windowtext; font-size: 18pt; font-family: Arial; vertical-align: bottom; border: 1.5pt solid #156082; background: #e7eaed; text-align: center; width: 65pt;\" width=\"86\">\n<p style=\"margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; vertical-align: bottom; word-break: normal;\"><span style=\"font-size: 24pt; font-family: 'Aptos Narrow'; font-weight: bold;\">5</span><span style=\"font-size: 24pt; font-family: 'Aptos Narrow'; font-weight: bold;\">0</span></p>\n</td>\n</tr>\n<tr style=\"height: 35.28pt;\">\n<td class=\"oa1\" style=\"padding-top: 0.75pt; padding-right: 0.75pt; padding-left: 0.75pt; color: windowtext; font-size: 18pt; font-family: Arial; vertical-align: bottom; border: 1.5pt solid #156082; background: #e7eaed; text-align: center; height: 35.28pt; width: 65pt;\" width=\"86\" height=\"47\">\n<p style=\"margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; vertical-align: bottom; word-break: normal;\"><span style=\"font-size: 24pt; font-family: 'Aptos Narrow'; font-weight: bold;\">7</span></p>\n</td>\n<td class=\"oa1\" style=\"padding-top: 0.75pt; padding-right: 0.75pt; padding-left: 0.75pt; color: windowtext; font-size: 18pt; font-family: Arial; vertical-align: bottom; border: 1.5pt solid #156082; background: #e7eaed; text-align: center; width: 65pt;\" width=\"86\">\n<p style=\"margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; vertical-align: bottom; word-break: normal;\"><span style=\"font-size: 24pt; font-family: 'Aptos Narrow'; font-weight: bold;\">5</span><span style=\"font-size: 24pt; font-family: 'Aptos Narrow'; font-weight: bold;\">1</span></p>\n</td>\n<td class=\"oa1\" style=\"padding-top: 0.75pt; padding-right: 0.75pt; padding-left: 0.75pt; color: windowtext; font-size: 18pt; font-family: Arial; vertical-align: bottom; border: 1.5pt solid #156082; background: #e7eaed; text-align: center; width: 65pt;\" width=\"86\">\n<p style=\"margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; vertical-align: bottom; word-break: normal;\"><span style=\"font-size: 24pt; font-family: 'Aptos Narrow'; font-weight: bold;\">?</span></p>\n</td>\n</tr>\n</tbody>\n</table>",
+      "correctOption": "4",
+      "options": [
+        {
+          "order": "1",
+          "text": "70",
+          "html": "<p>70</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "50",
+          "html": "<p>50</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "120",
+          "html": "<p>120</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "100",
+          "html": "<p>100</p>",
+          "isCorrect": true
+        }
+      ],
+      "embeddedImages": []
+    }
+  ]
+}

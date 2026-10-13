@@ -1,0 +1,338 @@
+{
+  "testId": "68bbd85c57e937c3b687f93d",
+  "title": "Technical MCQ - Pseudo Codes Based on PYQ 01",
+  "engine": "Testbook SDK",
+  "folderPath": "Infosys Mock Test Series / Day 08 / 3 Full Length Mock III- Based on Infosys PYQ",
+  "totalQuestions": 10,
+  "totalMarks": 13,
+  "durationMinutes": 10.0,
+  "livePortalUrl": "https://testsdk.testbook.com/org-44032-844567/tests/68bbd85c57e937c3b687f93d#auth?page=test&auth=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiI1YjQzMDFmYzdkZTU1NzBjMzFkNTU1NTUiLCJzdWIiOiIxNTkzMDU3NDYiLCJhdWQiOiJDUCIsImV4cEludCI6MTc5MTk1ODYwOSwiaWF0SW50IjoxNzkxODcyMjA5LCJvcmdJZCI6IjViNDMwMWZjN2RlNTU3MGMzMWQ1NTU1NSIsInJvbGVzIjoic3R1ZGVudCIsIm5hbWUiOiJIYWNrV2l0aEluZnlQcmVwIn0.X1RoaTnMXMfCSE0T4m7rhlsvYcJTiTB36FZ-93midjyEyLa0XKiam6liIf5IveqUBlsd7AZhftmLm5wwdFnbV_YepvxMbk6_Zn0wfkTMf2_Ya_cXkJRnW77BExJMh1s2JHFQWZXskUc8N-5uNAv2xa3dS9qZnZQPfBcvKP67cKNBGk29WOvx-cY-GNiz6M864CwaF5EX6CpnFTFhPkkaEMwJRrbzvHNvO0yX0prA6bCKSkR3qMROmbjmK39PvY9YPBzzePOWyCS7B0chRBW5YuW3oU8uIHQPucNRDphA4HcYKmc1tnAoWxuGr_ETmFUl9JlzTRsn6dGHl3mLaKf8Hg&hideRank=0&isCPTestBookMarkEnabled=true",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "section": "Technical Pseudo Codes -01",
+      "id": "68bbd8e0d95cebb5d55e6510",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "Q1.) Integer p, q, r Set p = 0, q = 2, r = 9 r = 7 + p q = q + r for (each r from 4 to 7) p = (p + p) & q if ((p + q) < (r - p) || 8 < p) p = (p + 2) + q Jump out of the loop End if End for Print p + q",
+      "questionHtml": "<p>Q1.) Integer p, q, r</p>\n<p>Set p = 0, q = 2, r = 9</p>\n<p>r = 7 + p</p>\n<p>q = q + r</p>\n<p>for (each r from 4 to 7)</p>\n<p>p = (p + p) &amp; q</p>\n<p>if ((p + q) &lt; (r - p) || 8 &lt; p)</p>\n<p>p = (p + 2) + q</p>\n<p>Jump out of the loop</p>\n<p>End if</p>\n<p>End for</p>\n<p>Print p + q</p>",
+      "correctOption": "2",
+      "options": [
+        {
+          "order": "1",
+          "text": "5",
+          "html": "<p>5</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "9",
+          "html": "<p>9</p>",
+          "isCorrect": true
+        },
+        {
+          "order": "3",
+          "text": "19",
+          "html": "<p>19</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "20",
+          "html": "<p>20</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 2,
+      "section": "Technical Pseudo Codes -01",
+      "id": "68bbd8e0d95ceb1b1f5e651a",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "Q2.) #include<iostream> using namespace std; int main() { int a = 3, b = 2, c = 5; int result = (a++ << 2) + (--b << 1) - (c-- >> 1) + (a & b); cout << result; return 0; }",
+      "questionHtml": "<p>Q2.) #include&lt;iostream&gt;&nbsp;<iostream> </iostream></p>\n<p><iostream>using namespace std; </iostream></p>\n<p><iostream> int main() { </iostream></p>\n<p><iostream> int a = 3, b = 2, c = 5; </iostream></p>\n<p><iostream> int result = (a++ &lt;&lt; 2) + (--b &lt;&lt; 1) - (c-- &gt;&gt; 1) + (a &amp; b); </iostream></p>\n<p><iostream> cout &lt;&lt; result; </iostream></p>\n<p><iostream> return 0; </iostream></p>\n<p><iostream> }</iostream></p>",
+      "correctOption": "1",
+      "options": [
+        {
+          "order": "1",
+          "text": "12",
+          "html": "<p>12</p>",
+          "isCorrect": true
+        },
+        {
+          "order": "2",
+          "text": "14",
+          "html": "<p>14</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "10",
+          "html": "<p>10</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "16",
+          "html": "<p>16</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 3,
+      "section": "Technical Pseudo Codes -01",
+      "id": "68bbd8e0d95ceb0b465e651f",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "Q3.) Integer value, n Set value = 1, n = 45 while (value less than equal to n) value = value << 1 end loop Print value",
+      "questionHtml": "<p>Q3.) Integer value, n</p>\n<p>Set value = 1, n = 45</p>\n<p>while (value less than equal to n)</p>\n<p>value = value &lt;&lt; 1</p>\n<p>end loop</p>\n<p>Print value</p>",
+      "correctOption": "3",
+      "options": [
+        {
+          "order": "1",
+          "text": "16",
+          "html": "<p>16</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "32",
+          "html": "<p>32</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "64",
+          "html": "<p>64</p>",
+          "isCorrect": true
+        },
+        {
+          "order": "4",
+          "text": "36",
+          "html": "<p>36</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 4,
+      "section": "Technical Pseudo Codes -01",
+      "id": "68bbd8e0d95ceb3d745e6524",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "Q4.) Predict the output of the following pseudocode. Integer x, y, z Set x = -2, y = 3, z = 1 if (x + (2 & 2) && y + (3 & 3) && z + (2 ^ 2)) x = x -2 y = x Else x = z y = y ^ 2 End if Print x + y + z",
+      "questionHtml": "<p>Q4.) Predict the output of the following pseudocode.</p>\n<p></p>\n<p>Integer x, y, z</p>\n<p>Set x = -2, y = 3, z = 1</p>\n<p>if (x + (2 &amp; 2) &amp;&amp; y + (3 &amp; 3) &amp;&amp; z + (2 ^ 2))</p>\n<p>x = x -2</p>\n<p>y = x</p>\n<p>Else</p>\n<p>x = z</p>\n<p>y = y ^ 2</p>\n<p>End if</p>\n<p>Print x + y + z</p>",
+      "correctOption": "4",
+      "options": [
+        {
+          "order": "1",
+          "text": "2",
+          "html": "<p>2</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "11",
+          "html": "<p>11</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "0",
+          "html": "<p>0</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "3",
+          "html": "<p>3</p>",
+          "isCorrect": true
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 5,
+      "section": "Technical Pseudo Codes -01",
+      "id": "68bbd8e0d95ceb40da5e6529",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "Q5. What is the output int main() { int x = 10; int *y, **z; y = &x; z = &y; **z=7; print(x,*y,**z) return 0; }",
+      "questionHtml": "<p>Q5. What is the output</p>\n<p></p>\n<p>int main()</p>\n<p>{ int x = 10;</p>\n<p>int *y, **z;</p>\n<p>y = &amp;x;</p>\n<p>z = &amp;y;</p>\n<p>**z=7;</p>\n<p>print(x,*y,**z)</p>\n<p>return 0;</p>\n<p>}&nbsp;</p>",
+      "correctOption": "3",
+      "options": [
+        {
+          "order": "1",
+          "text": "10 10 10",
+          "html": "<p>10 10 10</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "10 7 7",
+          "html": "<p>10 7 7</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "7 7 7",
+          "html": "<p>7 7 7</p>",
+          "isCorrect": true
+        },
+        {
+          "order": "4",
+          "text": "10 10 7",
+          "html": "<p>&nbsp;10 10 7</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 6,
+      "section": "Technical Pseudo Codes -01",
+      "id": "68bbd8e0d95ceb41d05e6533",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "Q6. What is the output for p=15 and q=4. Integer solve (Integer p, Integer q) Integer value while(q) value = p MOD q p = q q = value End while return p End function solve()",
+      "questionHtml": "<p>Q6. What is the output for p=15 and q=4.</p>\n<p></p>\n<p>Integer solve (Integer p, Integer q)</p>\n<p>Integer value</p>\n<p>while(q)</p>\n<p>value = p MOD q</p>\n<p>p = q</p>\n<p>q = value</p>\n<p>End while</p>\n<p>return p</p>\n<p>End function solve()</p>",
+      "correctOption": "2",
+      "options": [
+        {
+          "order": "1",
+          "text": "3",
+          "html": "<p>3</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "1",
+          "html": "<p>1</p>",
+          "isCorrect": true
+        },
+        {
+          "order": "3",
+          "text": "2",
+          "html": "<p>2</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "0",
+          "html": "<p>0</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 7,
+      "section": "Technical Pseudo Codes -01",
+      "id": "68bbd8e0d95ceb0e785e6538",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "Q7.what is the output for number=4 int something(int number) { if(number <= 0) return 1; else return number * something(number-1); } something(4);",
+      "questionHtml": "<p>Q7.what is the output for number=4</p>\n<p>int something(int number)</p>\n<p>{</p>\n<p>if(number &lt;= 0)</p>\n<p>return 1;</p>\n<p>else</p>\n<p>return number * something(number-1);&nbsp;</p>\n<p>}</p>\n<p>something(4);&nbsp;</p>",
+      "correctOption": "2",
+      "options": [
+        {
+          "order": "1",
+          "text": "12",
+          "html": "<p>12</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "24",
+          "html": "<p>24</p>",
+          "isCorrect": true
+        },
+        {
+          "order": "3",
+          "text": "1",
+          "html": "<p>1</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "20",
+          "html": "<p>20</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 8,
+      "section": "Technical Pseudo Codes -01",
+      "id": "68bd02dbb148f2396ecad260",
+      "type": "numerical",
+      "posMarks": 2,
+      "negMarks": 0,
+      "questionText": "Q8. What will be the output of the following pseudocode? int a , b ,c Set a=0,b=1,c=2 If (b^c || a&b || a>>1) c=9 a =b+c else c =1 a=a+c End if Print a+b+c",
+      "questionHtml": "<p style=\"margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;\">Q8. What will be the output of the following pseudocode?</p>\n<p style=\"margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;\">int a , b ,c</p>\n<p style=\"margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;\">Set a=0,b=1,c=2</p>\n<p style=\"margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;\">If (b^c || a&amp;b || a&gt;&gt;1)</p>\n<p style=\"margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;\">c=9</p>\n<p style=\"margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;\">a =b+c</p>\n<p style=\"margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;\">else</p>\n<p style=\"margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;\">c =1</p>\n<p style=\"margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;\">a=a+c</p>\n<p style=\"margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;\">End if</p>\n<p style=\"margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;\">Print a+b+c</p>",
+      "correctOption": "",
+      "options": [
+        {
+          "order": "1",
+          "text": "20",
+          "html": "20",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 9,
+      "section": "Technical Pseudo Codes -01",
+      "id": "68bd04b7ee246f59b9755ce0",
+      "type": "numerical",
+      "posMarks": 2,
+      "negMarks": 0,
+      "questionText": "Q9. What is the output for x = 10, y = 5 Integer solve(Integer x, Integer y) if(y > 0) if(x > 0) return x + y + solve(2, y - 5) + solve(x - 10, 1) End if End if return x + y End function",
+      "questionHtml": "<p>Q9. What is the output for x = 10, y = 5</p>\n<p></p>\n<p>Integer solve(Integer x, Integer y)</p>\n<p>if(y &gt; 0)</p>\n<p>&nbsp; &nbsp;if(x &gt; 0)</p>\n<p>&nbsp; &nbsp; &nbsp; return x + y + solve(2, y - 5) + solve(x - 10, 1)</p>\n<p>&nbsp; &nbsp;End if</p>\n<p>End if</p>\n<p>return x + y</p>\n<p>End function</p>\n<p></p>",
+      "correctOption": "",
+      "options": [
+        {
+          "order": "1",
+          "text": "undefined",
+          "html": "undefined",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 10,
+      "section": "Technical Pseudo Codes -01",
+      "id": "68bd04bc40b2da4d4fba443a",
+      "type": "numerical",
+      "posMarks": 2,
+      "negMarks": 0,
+      "questionText": "Q10. What is the output of following Integer value, n Set value = 32, n = 1 while(value >= n) value = value >> 1 end loop Print value",
+      "questionHtml": "<p>Q10. What is the output of following</p>\n<p></p>\n<p>Integer value, n</p>\n<p>Set value = 32, n = 1</p>\n<p>while(value &gt;= n)</p>\n<p>&nbsp; &nbsp; value = value &gt;&gt; 1</p>\n<p>end loop</p>\n<p>Print value</p>\n<p></p>",
+      "correctOption": "",
+      "options": [
+        {
+          "order": "1",
+          "text": "undefined",
+          "html": "undefined",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    }
+  ]
+}

@@ -1,0 +1,338 @@
+{
+  "testId": "68bfcdf045f32a99fa1c9bf1",
+  "title": "Technical MCQ - Pseudo Codes Based on PYQ 02",
+  "engine": "Testbook SDK",
+  "folderPath": "Infosys Mock Test Series / Day 09 / 4. Full Length Mock IV Based on Infosys PYQ",
+  "totalQuestions": 10,
+  "totalMarks": 13,
+  "durationMinutes": 10.0,
+  "livePortalUrl": "https://testsdk.testbook.com/org-44032-844567/tests/68bfcdf045f32a99fa1c9bf1#auth?page=test&auth=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiI1YjQzMDFmYzdkZTU1NzBjMzFkNTU1NTUiLCJzdWIiOiIxNTkzMDU3NDYiLCJhdWQiOiJDUCIsImV4cEludCI6MTc5MTk1ODYxMSwiaWF0SW50IjoxNzkxODcyMjExLCJvcmdJZCI6IjViNDMwMWZjN2RlNTU3MGMzMWQ1NTU1NSIsInJvbGVzIjoic3R1ZGVudCIsIm5hbWUiOiJIYWNrV2l0aEluZnlQcmVwIn0.O1gAxEtRqU6gRSEiKSfWonKQeYPkXPmZbAB4ff8u6wMd33jPPRtjOUJQ6TcmhjAQD4lAreaMrJbkL4BTS463VKNIieqt85wckQjiUzUIMZ6URVsnI0dlnDNHsmSB7FyoWZxzBsO0r_pfyVsXj5pJxiVyo8J9AEr9bDRmb1h42-qkCJLyjZfzoSmgeLiiIqOewhk-0U9Kua9gyWedKhL0kqzlk8sDbFJ9PfMGl4mL1L9UvU6yaSU2E5_31gFIeLRvNg1uCVcxcfY4KmTYr5IK2f5-Y_Xlzlv1esVck5-LcczA_MTg1EqZbFe-32b96r04BMgLxSgKWUbng21bv3AWaA&hideRank=0&isCPTestBookMarkEnabled=true",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "section": "Technical Pseudo Codes -01",
+      "id": "68bfd0778f82956f049aac06",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "What is the output of following pseudo code: Fun() { Int a=10 , b=20 , c=30; If(c>b>a) Print(&ldquo;True&rdquo;); Else Print(&ldquo;False&rdquo;); return 0; }",
+      "questionHtml": "<p>What is the output of following pseudo code:</p>\n<p></p>\n<p>Fun() {&nbsp;</p>\n<p>&nbsp; &nbsp;Int a=10 , b=20 , c=30;&nbsp;</p>\n<p>&nbsp; &nbsp;If(c&gt;b&gt;a)&nbsp;</p>\n<p>&nbsp; &nbsp; &nbsp; Print(&ldquo;True&rdquo;);&nbsp;</p>\n<p>&nbsp; &nbsp;Else&nbsp;</p>\n<p>&nbsp; &nbsp; &nbsp; Print(&ldquo;False&rdquo;);&nbsp;</p>\n<p>&nbsp; &nbsp;return 0;&nbsp;</p>\n<p>}</p>\n<p></p>",
+      "correctOption": "2",
+      "options": [
+        {
+          "order": "1",
+          "text": "True",
+          "html": "<p>True</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "False",
+          "html": "<p>False</p>",
+          "isCorrect": true
+        },
+        {
+          "order": "3",
+          "text": "Error",
+          "html": "<p>Error</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "-1",
+          "html": "<p>-1</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 2,
+      "section": "Technical Pseudo Codes -01",
+      "id": "68bfd0778f829506279aac0b",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "What is the output of following code: Int main(){ Int n=(1<<2+3<<4) Print(n); Return 0; }",
+      "questionHtml": "<p>What is the output of following code:</p>\n<p></p>\n<p>Int main(){&nbsp;</p>\n<p>&nbsp; &nbsp;Int n=(1&lt;&lt;2+3&lt;&lt;4)&nbsp;</p>\n<p>&nbsp; &nbsp;Print(n);&nbsp;</p>\n<p>&nbsp; &nbsp;Return 0;&nbsp;</p>\n<p>}</p>\n<p></p>",
+      "correctOption": "2",
+      "options": [
+        {
+          "order": "1",
+          "text": "112",
+          "html": "<p>112</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "512",
+          "html": "<p>512</p>",
+          "isCorrect": true
+        },
+        {
+          "order": "3",
+          "text": "52",
+          "html": "<p>52</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "0",
+          "html": "<p>0</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 3,
+      "section": "Technical Pseudo Codes -01",
+      "id": "68bfd0778f829544ad9aac10",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "What is the output of following: Integer x, y Set x = 15, y = 12 y = x &ndash; 1 do{ Print x x = y + (x &ndash; 2) } while(x < 40) end do while",
+      "questionHtml": "<p class=\"overflow-visible!\" data-start=\"569\" data-end=\"699\">&nbsp;What is the output of following:</p>\n<p class=\"overflow-visible!\" data-start=\"569\" data-end=\"699\"></p>\n<p class=\"overflow-visible!\" data-start=\"569\" data-end=\"699\">Integer x, y&nbsp;&nbsp;</p>\n<p class=\"overflow-visible!\" data-start=\"569\" data-end=\"699\">Set x = 15, y = 12&nbsp;&nbsp;</p>\n<p class=\"overflow-visible!\" data-start=\"569\" data-end=\"699\">y = x &ndash; 1&nbsp;&nbsp;</p>\n<p class=\"overflow-visible!\" data-start=\"569\" data-end=\"699\">do{&nbsp; &nbsp;&nbsp;</p>\n<p class=\"overflow-visible!\" data-start=\"569\" data-end=\"699\">&nbsp; &nbsp;Print x&nbsp; &nbsp;&nbsp;</p>\n<p class=\"overflow-visible!\" data-start=\"569\" data-end=\"699\">&nbsp; &nbsp;x = y + (x &ndash; 2)&nbsp;&nbsp;</p>\n<p class=\"overflow-visible!\" data-start=\"569\" data-end=\"699\">} while(x &lt; 40)&nbsp;&nbsp;</p>\n<p class=\"overflow-visible!\" data-start=\"569\" data-end=\"699\">end do while</p>\n<p></p>",
+      "correctOption": "2",
+      "options": [
+        {
+          "order": "1",
+          "text": "14 26",
+          "html": "<p>14 26&nbsp;</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "15 27 39",
+          "html": "<p>15 27 39</p>",
+          "isCorrect": true
+        },
+        {
+          "order": "3",
+          "text": "27 39",
+          "html": "<p>27 39</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "15",
+          "html": "<p>15</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 4,
+      "section": "Technical Pseudo Codes -01",
+      "id": "68bfd0778f82956e5b9aac15",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "What is the output if fun(5) is called? Function fun(n) If n == 0 Return 0 Else Print(n) Return fun(n + 1) End If End Function",
+      "questionHtml": "<p>What is the output if <code data-start=\"800\" data-end=\"808\">fun(5)</code> is called?</p>\n<p></p>\n<p>Function fun(n)&nbsp;&nbsp;</p>\n<p>&nbsp; &nbsp;If n == 0&nbsp;&nbsp;</p>\n<p>&nbsp; &nbsp; &nbsp; Return 0&nbsp; &nbsp;</p>\n<p>&nbsp; &nbsp;Else&nbsp; &nbsp;&nbsp;</p>\n<p>&nbsp; &nbsp; &nbsp; Print(n)&nbsp;&nbsp;</p>\n<p>&nbsp; &nbsp; &nbsp; Return fun(n + 1)&nbsp;&nbsp;</p>\n<p>&nbsp; &nbsp;End If&nbsp;</p>\n<p>End Function</p>\n<p></p>",
+      "correctOption": "3",
+      "options": [
+        {
+          "order": "1",
+          "text": "1 2 3 4 5",
+          "html": "<p>1 2 3 4 5</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "5 4 3 2 1",
+          "html": "<p>5 4 3 2 1</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "Stack overflow",
+          "html": "<p>Stack overflow</p>",
+          "isCorrect": true
+        },
+        {
+          "order": "4",
+          "text": "-1",
+          "html": "<p>-1</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 5,
+      "section": "Technical Pseudo Codes -01",
+      "id": "68bfd0778f829506c49aac1f",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "int main() { int x, y = 5, z = 5; x = y == z; Print(x); return 0; }",
+      "questionHtml": "<p>int main() {&nbsp; &nbsp; &nbsp;</p>\n<p>&nbsp; &nbsp;int x, y = 5, z = 5;&nbsp; &nbsp; &nbsp;</p>\n<p>&nbsp; &nbsp;x = y == z;&nbsp; &nbsp; &nbsp;</p>\n<p>&nbsp; &nbsp;Print(x);&nbsp; &nbsp; &nbsp;</p>\n<p>&nbsp; &nbsp;return 0;&nbsp;</p>\n<p>}</p>\n<p></p>",
+      "correctOption": "2",
+      "options": [
+        {
+          "order": "1",
+          "text": "0",
+          "html": "<p>0</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "1",
+          "html": "<p>1</p>",
+          "isCorrect": true
+        },
+        {
+          "order": "3",
+          "text": "5",
+          "html": "<p>5</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "Compilation Error",
+          "html": "<p>Compilation Error</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 6,
+      "section": "Technical Pseudo Codes -01",
+      "id": "68bfd0778f829512bd9aac33",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "1. Integer a = 5, b = 9 2. a = a ^ b 3. b = a ^ b 4. a = a ^ b 5. if (a == 9 && b == 5) 6. Print \"Swapped\" 7. else 8. Print \"Not swapped\"",
+      "questionHtml": "<p>1. Integer a = 5, b = 9&nbsp;&nbsp;</p>\n<p>2. a = a ^ b&nbsp;&nbsp;</p>\n<p>3. b = a ^ b&nbsp;&nbsp;</p>\n<p>4. a = a ^ b&nbsp;&nbsp;</p>\n<p>5. if (a == 9 &amp;&amp; b == 5)&nbsp;&nbsp;</p>\n<p>6.&nbsp; &nbsp; &nbsp;Print \"Swapped\"&nbsp;&nbsp;</p>\n<p>7. else&nbsp;&nbsp;</p>\n<p>8.&nbsp; &nbsp; &nbsp;Print \"Not swapped\"&nbsp;&nbsp;</p>\n<p></p>",
+      "correctOption": "4",
+      "options": [
+        {
+          "order": "1",
+          "text": "Line 2",
+          "html": "<p>Line 2</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "Line 3",
+          "html": "<p>Line 3</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "Line 4",
+          "html": "<p>Line 4</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "No error",
+          "html": "<p>No error</p>",
+          "isCorrect": true
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 7,
+      "section": "Technical Pseudo Codes -01",
+      "id": "68bfd4bb0778380fb4da4b28",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "int main() { int x = 9, y = 2, z = 6; int a = x & y | z; printf(\"%d\", a); return 0; }",
+      "questionHtml": "<p>int main() {&nbsp; &nbsp; &nbsp;</p>\n<p>&nbsp; &nbsp;int x = 9, y = 2, z = 6;&nbsp; &nbsp; &nbsp;</p>\n<p>&nbsp; &nbsp;int a = x &amp; y | z;&nbsp; &nbsp; &nbsp;</p>\n<p>&nbsp; &nbsp;printf(\"%d\", a);&nbsp; &nbsp; &nbsp;</p>\n<p>&nbsp; &nbsp;return 0;&nbsp;</p>\n<p>}</p>\n<p></p>",
+      "correctOption": "4",
+      "options": [
+        {
+          "order": "1",
+          "text": "Error",
+          "html": "<p>Error</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "2",
+          "html": "<p>2</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "3",
+          "html": "<p>3</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "6",
+          "html": "<p>6</p>",
+          "isCorrect": true
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 8,
+      "section": "Technical Pseudo Codes -01",
+      "id": "68bfd53638b39293e9b8bc13",
+      "type": "numerical",
+      "posMarks": 2,
+      "negMarks": 0,
+      "questionText": "Integer p, q, r Set p = 4, q = 2, r = 5 p = (q + p) + p if ((q + p) < (r - q) && 3 > p) then p = (q + r) + p if (((p + r) + (r + q)) <= (p + r + q)) then r = q + p else r = (p + r) + p end if p = (9 & 6) + q else q = r & r if ((q - 5) < (5 - q)) then r = (6 + 6) & q q = (q + 7) + r end if p = (1 ^ 11) + q end if Print p + q + r",
+      "questionHtml": "<p>Integer p, q, r&nbsp;</p>\n<p>Set p = 4, q = 2, r = 5&nbsp;</p>\n<p>p = (q + p) + p&nbsp;</p>\n<p>if ((q + p) &lt; (r - q) &amp;&amp; 3 &gt; p) then&nbsp; &nbsp; &nbsp;</p>\n<p>&nbsp; &nbsp;p = (q + r) + p&nbsp; &nbsp; &nbsp;</p>\n<p>&nbsp; &nbsp;if (((p + r) + (r + q)) &lt;= (p + r + q)) then&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>\n<p>&nbsp; &nbsp; &nbsp; r = q + p&nbsp; &nbsp; &nbsp;</p>\n<p>&nbsp; &nbsp;else&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>\n<p>&nbsp; &nbsp; &nbsp; r = (p + r) + p&nbsp; &nbsp; &nbsp;</p>\n<p>&nbsp; &nbsp;end if&nbsp; &nbsp; &nbsp;</p>\n<p>&nbsp; &nbsp;p = (9 &amp; 6) + q&nbsp;</p>\n<p>else&nbsp; &nbsp; &nbsp;</p>\n<p>&nbsp; &nbsp;q = r &amp; r&nbsp; &nbsp; &nbsp;</p>\n<p>&nbsp; &nbsp;if ((q - 5) &lt; (5 - q)) then&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>\n<p>&nbsp; &nbsp; &nbsp; r = (6 + 6) &amp; q&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>\n<p>&nbsp; &nbsp; &nbsp; q = (q + 7) + r&nbsp; &nbsp; &nbsp;</p>\n<p>&nbsp; &nbsp;end if&nbsp; &nbsp; &nbsp;</p>\n<p>&nbsp; &nbsp;p = (1 ^ 11) + q&nbsp;</p>\n<p>end if&nbsp;</p>\n<p>Print p + q + r</p>\n<p></p>",
+      "correctOption": "",
+      "options": [
+        {
+          "order": "1",
+          "text": "undefined",
+          "html": "undefined",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 9,
+      "section": "Technical Pseudo Codes -01",
+      "id": "68bfd53638b39234afb8bc15",
+      "type": "numerical",
+      "posMarks": 2,
+      "negMarks": 0,
+      "questionText": "Integer a, b, c Set a = 2, b = 4, c = 7 b = 7 + a if (c > b) b = b + b end if b = 6 + a if ((a + b) < (b - a) || c < a) b = (c + 4) + c else a = c + b end if c = (c + 9) ^ a Print a + b + c",
+      "questionHtml": "<p>Integer a, b, c&nbsp;</p>\n<p>Set a = 2, b = 4, c = 7&nbsp;</p>\n<p>b = 7 + a&nbsp;</p>\n<p>if (c &gt; b)&nbsp; &nbsp; &nbsp;</p>\n<p>&nbsp; &nbsp;b = b + b&nbsp;</p>\n<p>end if&nbsp;</p>\n<p>b = 6 + a&nbsp;</p>\n<p>if ((a + b) &lt; (b - a) || c &lt; a)&nbsp; &nbsp; &nbsp;</p>\n<p>&nbsp; &nbsp;b = (c + 4) + c&nbsp;</p>\n<p>else&nbsp; &nbsp; &nbsp;</p>\n<p>&nbsp; &nbsp;a = c + b&nbsp;</p>\n<p>end if&nbsp;</p>\n<p>c = (c + 9) ^ a&nbsp;</p>\n<p>Print a + b + c</p>\n<p></p>",
+      "correctOption": "",
+      "options": [
+        {
+          "order": "1",
+          "text": "undefined",
+          "html": "undefined",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 10,
+      "section": "Technical Pseudo Codes -01",
+      "id": "68bfd53638b39299e7b8bc17",
+      "type": "numerical",
+      "posMarks": 2,
+      "negMarks": 0,
+      "questionText": "Integer a, b, c Set a = 1, b = 6, c = 7 b = (a & b) + b for (each c from 3 to 5) { b = (a + a) ^ a b = (12 + 5) + a } a = (a ^ 9) + a Print a + b",
+      "questionHtml": "<div>Integer a, b, c&nbsp;</div>\n<div>Set a = 1, b = 6, c = 7&nbsp;</div>\n<div>b = (a &amp; b) + b&nbsp;</div>\n<div>for (each c from 3 to 5) {&nbsp; &nbsp; &nbsp;</div>\n<div>&nbsp; &nbsp;b = (a + a) ^ a&nbsp; &nbsp; &nbsp;</div>\n<div>&nbsp; &nbsp;b = (12 + 5) + a&nbsp;</div>\n<div>}&nbsp;</div>\n<div>a = (a ^ 9) + a&nbsp;</div>\n<div>Print a + b</div>\n<p></p>",
+      "correctOption": "",
+      "options": [
+        {
+          "order": "1",
+          "text": "undefined",
+          "html": "undefined",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    }
+  ]
+}

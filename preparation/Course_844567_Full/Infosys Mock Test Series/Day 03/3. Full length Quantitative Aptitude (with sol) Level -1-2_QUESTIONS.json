@@ -1,0 +1,599 @@
+{
+  "testId": "662210fa7026ff38eb5c28b6",
+  "title": "3. Full length Quantitative Aptitude (with sol) Level -1-2",
+  "engine": "Classplus CMS",
+  "folderPath": "Infosys Mock Test Series / Day 03",
+  "totalQuestions": 13,
+  "totalMarks": 0,
+  "durationMinutes": 0,
+  "livePortalUrl": null,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "section": "Quantitative Aptitude - with D.I",
+      "id": "662210fa7026ff99d55c28b8",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "Study the pie chart carefully and answer the questions. The pie chart shows the percentage breakup students in different classes from VI to X in the year 2017\n\n1. The total number of students study in class VI and class IX together is approximately what percentage more than that of the total number of students study in class X?",
+      "questionHtml": "<p>Study the pie chart carefully and answer the questions. The pie chart shows the percentage breakup students in different classes from VI to X in the year 2017</p>\n<p><img src=\"https://cms-cdn.classplus.co/parserImages/913296ca-f09e-4f78-9fd6-4f165dda2bce.png\" alt=\"\" width=\"226\" height=\"198\" /></p>\n<p>1. The total number of students study in class VI and class IX together is approximately what percentage more than that of the total number of students study in class X?</p>",
+      "solutionText": "Ans - C",
+      "solutionHtml": "<p>Ans - C</p>\n<p></p>\n<p><iframe title=\"TCS NQT PREPARATION MOCK Q1\" src=\"//www.youtube.com/embed/6Xwszl9zNxw\" width=\"659\" height=\"371\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+      "options": [
+        {
+          "order": null,
+          "text": "125%",
+          "html": "<p>125%</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "280%",
+          "html": "<p>280<span style=\"font-family: var(--font-family);\">%</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "217%",
+          "html": "<p>217<span style=\"font-family: var(--font-family);\">%</span></p>",
+          "isCorrect": true
+        },
+        {
+          "order": null,
+          "text": "189%",
+          "html": "<p>189<span style=\"font-family: var(--font-family);\">%</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "77%",
+          "html": "<p>77<span style=\"font-family: var(--font-family);\">%</span></p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": [
+        {
+          "original": "https://cms-cdn.classplus.co/parserImages/913296ca-f09e-4f78-9fd6-4f165dda2bce.png",
+          "local": "3. Full length Quantitative Aptitude (with sol) Level -1-2_figures/q1_1.png"
+        }
+      ]
+    },
+    {
+      "questionNumber": 2,
+      "section": "Quantitative Aptitude - with D.I",
+      "id": "662210fa7026ff0cac5c28be",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "Study the pie chart carefully and answer the questions. The pie chart shows the percentage breakup students in different classes from VI to X in the year 2017\n\n2. If in class VI, the ratio of boys to girls is 6:5 and the total number of girls in class VI is 50 less than that of the total number of girls in class VII. Find the ratio of the total number of boys in class VI to class VII.",
+      "questionHtml": "<p>Study the pie chart carefully and answer the questions. The pie chart shows the percentage breakup students in different classes from VI to X in the year 2017</p>\n<p><img src=\"https://cms-cdn.classplus.co/parserImages/913296ca-f09e-4f78-9fd6-4f165dda2bce.png\" alt=\"\" width=\"226\" height=\"198\" /></p>\n<p>2. If in class VI, the ratio of boys to girls is 6:5 and the total number of girls in class VI is 50 less than that of the total number of girls in class VII. Find the ratio of the total number of boys in class VI to class VII.</p>",
+      "solutionText": "Ans - D",
+      "solutionHtml": "<p>Ans - D</p>\n<p></p>\n<p><iframe title=\"TCS NQT PREPARATION MOCK Q2\" src=\"//www.youtube.com/embed/jja5e3NZxx8\" width=\"659\" height=\"371\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+      "options": [
+        {
+          "order": null,
+          "text": "5:7",
+          "html": "<p>5:7</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "7:11",
+          "html": "<p>7:11</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "9:13",
+          "html": "<p>9:13</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "6:13",
+          "html": "<p>6:13</p>",
+          "isCorrect": true
+        },
+        {
+          "order": null,
+          "text": "Option 54:5",
+          "html": "<p>Option 54:5</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": [
+        {
+          "original": "https://cms-cdn.classplus.co/parserImages/913296ca-f09e-4f78-9fd6-4f165dda2bce.png",
+          "local": "3. Full length Quantitative Aptitude (with sol) Level -1-2_figures/q2_1.png"
+        }
+      ]
+    },
+    {
+      "questionNumber": 3,
+      "section": "Quantitative Aptitude - with D.I",
+      "id": "662210fa7026ffceb35c28bf",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "Study the pie chart carefully and answer the questions. The pie chart shows the percentage breakup students in different classes from VI to X in the year 2017\n\n3. If the total number of boys in class VIII is \"x\" and the total number of boys in class IX is \"x+40\". The total number of girls in class VIII and class IX together is 306. Then find the value of \"x\".",
+      "questionHtml": "<p>Study the pie chart carefully and answer the questions. The pie chart shows the percentage breakup students in different classes from VI to X in the year 2017</p>\n<p><img src=\"https://cms-cdn.classplus.co/parserImages/913296ca-f09e-4f78-9fd6-4f165dda2bce.png\" alt=\"\" width=\"226\" height=\"198\" /></p>\n<p>3. If the total number of boys in class VIII is \"x\" and the total number of boys in class IX is \"x+40\". The total number of girls in class VIII and class IX together is 306. Then find the value of \"x\".</p>",
+      "solutionText": "Ans - A",
+      "solutionHtml": "<p>Ans - A</p>\n<p></p>\n<p><iframe title=\"TCS NQT PREPARATION MOCK Q3\" src=\"//www.youtube.com/embed/7AMHMwBexLI\" width=\"659\" height=\"371\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+      "options": [
+        {
+          "order": null,
+          "text": "190",
+          "html": "<p>190</p>",
+          "isCorrect": true
+        },
+        {
+          "order": null,
+          "text": "210",
+          "html": "<p>210</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "174",
+          "html": "<p>174</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "184",
+          "html": "<p>184</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "196",
+          "html": "<p>196</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": [
+        {
+          "original": "https://cms-cdn.classplus.co/parserImages/913296ca-f09e-4f78-9fd6-4f165dda2bce.png",
+          "local": "3. Full length Quantitative Aptitude (with sol) Level -1-2_figures/q3_1.png"
+        }
+      ]
+    },
+    {
+      "questionNumber": 4,
+      "section": "Quantitative Aptitude - with D.I",
+      "id": "662210fa7026ffac8f5c28bc",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "Study the pie chart carefully and answer the questions. The pie chart shows the percentage breakup students in different classes from VI to X in the year 2017\n\n4. What is the difference between the total number of students in class VII and class VIII together to that of the total number of students in class IX and class X together? ",
+      "questionHtml": "<p>Study the pie chart carefully and answer the questions. The pie chart shows the percentage breakup students in different classes from VI to X in the year 2017</p>\n<p><img src=\"https://cms-cdn.classplus.co/parserImages/913296ca-f09e-4f78-9fd6-4f165dda2bce.png\" alt=\"\" width=\"226\" height=\"198\" /></p>\n<p>4. What is the difference between the total number of students in class VII and class VIII together to that of the total number of students in class IX and class X together?&nbsp;</p>",
+      "solutionText": "Ans - C",
+      "solutionHtml": "<p>Ans - C</p>\n<p></p>\n<p><iframe title=\"TCS NQT PREPARATION MOCK Q4\" src=\"//www.youtube.com/embed/Jh2Ns5ouvxU\" width=\"659\" height=\"371\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+      "options": [
+        {
+          "order": null,
+          "text": "480",
+          "html": "<p>480</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "520",
+          "html": "<p>520</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "440",
+          "html": "<p>440</p>",
+          "isCorrect": true
+        },
+        {
+          "order": null,
+          "text": "400",
+          "html": "<p>400</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "560",
+          "html": "<p>560</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": [
+        {
+          "original": "https://cms-cdn.classplus.co/parserImages/913296ca-f09e-4f78-9fd6-4f165dda2bce.png",
+          "local": "3. Full length Quantitative Aptitude (with sol) Level -1-2_figures/q4_1.png"
+        }
+      ]
+    },
+    {
+      "questionNumber": 5,
+      "section": "Quantitative Aptitude - with D.I",
+      "id": "662210fa7026ff13565c28c2",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "Four circles having equal radii are drawn with centres at the four corners of a square. Each circle touches the other two adjacent circle. If remaining area of the square is 168 cm square, what is the size of the radius of the circle? (in centimeters) (take π = 22/7)",
+      "questionHtml": "<p>Four circles having equal radii are drawn with centres at the four corners of a square. Each circle touches the other two adjacent circle. If remaining area of the square is 168 cm square, what is the size of the radius of the circle? (in centimeters) (take &pi; = 22/7)</p>",
+      "solutionText": "Ans - B",
+      "solutionHtml": "<p>Ans - B</p>\n<p></p>\n<p><iframe title=\"TCS NQT PREPARATION MOCK Q5\" src=\"//www.youtube.com/embed/kb3UYFzh9Ds\" width=\"659\" height=\"371\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+      "options": [
+        {
+          "order": null,
+          "text": "1.4",
+          "html": "<p>1.4</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "14",
+          "html": "<p>14</p>",
+          "isCorrect": true
+        },
+        {
+          "order": null,
+          "text": "35",
+          "html": "<p>35</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "21",
+          "html": "<p>21</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "3.5",
+          "html": "<p>3.5</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 6,
+      "section": "Quantitative Aptitude - with D.I",
+      "id": "662210fa7026ff5bdf5c28c4",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "A man wants to invest Rs. 16850 in bank account of his 2 sons, whose ages are 12 years & 16 years in such a way so that they will get equal amount at an age of 120 years at the rate of 33(1/3)% compounded annually. Find the share of younger son?",
+      "questionHtml": "<p>A man wants to invest Rs. 16850 in bank account of his 2 sons, whose ages are 12 years &amp; 16 years in such a way so that they will get equal amount at an age of 120 years at the rate of 33(1/3)% compounded annually. Find the share of younger son?</p>",
+      "solutionText": "Ans - A",
+      "solutionHtml": "<p>Ans - A</p>\n<p></p>\n<p><iframe title=\"TCS NQT PREPARATION MOCK Q6\" src=\"//www.youtube.com/embed/Fee-v5t7yuU\" width=\"659\" height=\"371\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+      "options": [
+        {
+          "order": null,
+          "text": "4050",
+          "html": "<p>4050</p>",
+          "isCorrect": true
+        },
+        {
+          "order": null,
+          "text": "4080",
+          "html": "<p>4080</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "4090",
+          "html": "<p>4090</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "4085",
+          "html": "<p>4085</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 7,
+      "section": "Quantitative Aptitude - with D.I",
+      "id": "662210fa7026ff2bee5c28ba",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "A bag contains 5 red and 7 white balls. Four balls are drawn out one by one and not replaced. What is the probability that they are alternatively of different colours?",
+      "questionHtml": "<p>A bag contains 5 red and 7 white balls. Four balls are drawn out one by one and not replaced. What is the probability that they are alternatively of different colours?</p>",
+      "solutionText": "Ans - C",
+      "solutionHtml": "<p>Ans - C</p>\n<p></p>\n<p><iframe title=\"TCS NQT PREPARATION MOCK Q7\" src=\"//www.youtube.com/embed/JA6KdhkmmUo\" width=\"659\" height=\"371\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+      "options": [
+        {
+          "order": null,
+          "text": "7/99",
+          "html": "<p>7/99</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "11/99",
+          "html": "<p>11/99</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "14/99",
+          "html": "<p>14/99</p>",
+          "isCorrect": true
+        },
+        {
+          "order": null,
+          "text": "19/99",
+          "html": "<p>19/99</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "None of these",
+          "html": "<p>None of these</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 8,
+      "section": "Quantitative Aptitude - with D.I",
+      "id": "662210fa7026ff02615c28c3",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "The ratio of the age of Ram and Rahim 10 years ago was 1 : 3. The ratio of their age five years hence will be\n2 : 3. Then the ratio of their present age is",
+      "questionHtml": "<p>The ratio of the age of Ram and Rahim 10 years ago was 1 : 3. The ratio of their age five years hence will be</p>\n<p>2 : 3. Then the ratio of their present age is</p>",
+      "solutionText": "Ans - B",
+      "solutionHtml": "<p>Ans - B</p>\n<p></p>\n<p><iframe title=\"TCS NQT PREPARATION MOCK Q8\" src=\"//www.youtube.com/embed/1LjiPiJ92Xo\" width=\"659\" height=\"371\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+      "options": [
+        {
+          "order": null,
+          "text": "1 : 2",
+          "html": "<p>1 : 2</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "3 : 5",
+          "html": "<p>3 : 5</p>",
+          "isCorrect": true
+        },
+        {
+          "order": null,
+          "text": "3 : 4",
+          "html": "<p>3 : 4</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "2 : 5",
+          "html": "<p>2 : 5</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 9,
+      "section": "Quantitative Aptitude - with D.I",
+      "id": "662210fa7026ff202c5c28bd",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "\"A\" can complete a piece of work in 8 days,while \"B\" is 20% more efficient than him. A works for 2 days,then B works for 1 day, and the cycle continues like this.in how many days would the work be completed?",
+      "questionHtml": "<p>\"A\" can complete a piece of work in 8 days,while \"B\" is 20% more efficient than him. A works for 2 days,then B works for 1 day, and the cycle continues like this.in how many days would the work be completed?</p>",
+      "solutionText": "Ans - A",
+      "solutionHtml": "<p>Ans - A</p>\n<p></p>\n<p><iframe title=\"TCS NQT PREPARATION MOCK Q9\" src=\"//www.youtube.com/embed/lK8TA9-0tt8\" width=\"659\" height=\"371\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+      "options": [
+        {
+          "order": null,
+          "text": "7(3/5)",
+          "html": "<p>7(3/5)</p>",
+          "isCorrect": true
+        },
+        {
+          "order": null,
+          "text": "7 days",
+          "html": "<p>7 days</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "7(7/9)",
+          "html": "<p>7(7/9)</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "not",
+          "html": "<p>not</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 10,
+      "section": "Quantitative Aptitude - with D.I",
+      "id": "662210fa7026ff06865c28bb",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "The simple interest (p.a.) accrued on an amount of Rs 17,000 at the end of four years is Rs 6,800. What would be the compound interest (compounded annually) accrued on the same amount at the same rate in two years?",
+      "questionHtml": "<p>The simple interest (p.a.) accrued on an amount of Rs 17,000 at the end of four years is Rs 6,800. What would be the compound interest (compounded annually) accrued on the same amount at the same rate in two years?</p>",
+      "solutionText": "Ans - C",
+      "solutionHtml": "<p>Ans - C</p>\n<p></p>\n<p><iframe title=\"TCS NQT PREPARATION MOCK Q10\" src=\"//www.youtube.com/embed/jgn8JLfdQus\" width=\"659\" height=\"371\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+      "options": [
+        {
+          "order": null,
+          "text": "Cannot be determined",
+          "html": "<p>Cannot be determined</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "Other than those given as option",
+          "html": "<p>Other than those given as option</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "3570",
+          "html": "<p>3570</p>",
+          "isCorrect": true
+        },
+        {
+          "order": null,
+          "text": "3260",
+          "html": "<p>3260</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "3980",
+          "html": "<p>3980</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 11,
+      "section": "Quantitative Aptitude - with D.I",
+      "id": "662210fa7026ff19125c28c0",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "Find the missing number in the given seriese.\n2, 7, 10, 22, 18, 37, 26,?",
+      "questionHtml": "<p>Find the missing number in the given seriese.</p>\n<p>2, 7, 10, 22, 18, 37, 26,?</p>",
+      "solutionText": "Ans - B",
+      "solutionHtml": "<p>Ans - B</p>\n<p></p>\n<p><iframe title=\"TCS NQT PREPARATION MOCK Q11\" src=\"//www.youtube.com/embed/qiNnnyCo9KQ\" width=\"659\" height=\"371\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+      "options": [
+        {
+          "order": null,
+          "text": "42",
+          "html": "<p>42</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "52",
+          "html": "<p>52</p>",
+          "isCorrect": true
+        },
+        {
+          "order": null,
+          "text": "46",
+          "html": "<p>46</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "62",
+          "html": "<p>62</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "None of these",
+          "html": "<p>None of these</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 12,
+      "section": "Quantitative Aptitude - with D.I",
+      "id": "662210fa7026ff30335c28b9",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "Find the missing number in the given seriese.\n\n12,     12,     18,     45,     180,     1170,     ?",
+      "questionHtml": "<p><span style=\"font-family: var(--font-family);\">Find the missing number in the given seriese.</span></p>\n<p></p>\n<p>12,&nbsp; &nbsp; &nbsp;12,&nbsp; &nbsp; &nbsp;18,&nbsp; &nbsp; &nbsp;45,&nbsp; &nbsp; &nbsp;180,&nbsp; &nbsp; &nbsp;1170,&nbsp; &nbsp; &nbsp;?</p>",
+      "solutionText": "Ans - A",
+      "solutionHtml": "<p>Ans - A</p>\n<p></p>\n<p><iframe title=\"TCS NQT PREPARATION MOCK Q12\" src=\"//www.youtube.com/embed/fCG8tbOsgBk\" width=\"659\" height=\"371\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+      "options": [
+        {
+          "order": null,
+          "text": "12285",
+          "html": "<p>12285</p>",
+          "isCorrect": true
+        },
+        {
+          "order": null,
+          "text": "10530",
+          "html": "<p>10530</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "11700",
+          "html": "<p>11700</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "12870",
+          "html": "<p>12870</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "9945",
+          "html": "<p>9945</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 13,
+      "section": "Quantitative Aptitude - with D.I",
+      "id": "662210fa7026ff9f5c5c28c1",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "Find the wrong term in the series\n\n2,   3,   10,   38,   172",
+      "questionHtml": "<p>Find the wrong term in the series</p>\n<p></p>\n<p>2,&nbsp; &nbsp;3,&nbsp; &nbsp;10,&nbsp; &nbsp;38,&nbsp; &nbsp;172</p>",
+      "solutionText": "Ans - D",
+      "solutionHtml": "<p>Ans - D</p>\n<p></p>\n<p><iframe title=\"TCS NQT PREPARATION MOCK Q13\" src=\"//www.youtube.com/embed/vMI6tV0uKoM\" width=\"659\" height=\"371\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+      "options": [
+        {
+          "order": null,
+          "text": "2",
+          "html": "<p>2</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "3",
+          "html": "<p>3</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "10",
+          "html": "<p>10</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "38",
+          "html": "<p>38</p>",
+          "isCorrect": true
+        },
+        {
+          "order": null,
+          "text": "172",
+          "html": "<p>172</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    }
+  ]
+}

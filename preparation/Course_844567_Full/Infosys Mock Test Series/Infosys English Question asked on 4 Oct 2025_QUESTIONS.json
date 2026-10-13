@@ -1,0 +1,468 @@
+{
+  "testId": "68e385271c1ed998ed1b74b3",
+  "title": "Infosys English Question asked on 4 Oct 2025",
+  "engine": "Testbook SDK",
+  "folderPath": "Infosys Mock Test Series",
+  "totalQuestions": 12,
+  "totalMarks": 12,
+  "durationMinutes": 12.0,
+  "livePortalUrl": "https://testsdk.testbook.com/org-44032-844567/tests/68e385271c1ed998ed1b74b3#auth?page=test&auth=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiI1YjQzMDFmYzdkZTU1NzBjMzFkNTU1NTUiLCJzdWIiOiIxNTkzMDU3NDYiLCJhdWQiOiJDUCIsImV4cEludCI6MTc5MTk1ODYxMiwiaWF0SW50IjoxNzkxODcyMjEyLCJvcmdJZCI6IjViNDMwMWZjN2RlNTU3MGMzMWQ1NTU1NSIsInJvbGVzIjoic3R1ZGVudCIsIm5hbWUiOiJIYWNrV2l0aEluZnlQcmVwIn0.X-d5ypN0CGKkDbb3TZ45ZFCyu_d3-CSa7DYcmaakzwCESuKTXujDJYGydSY9ZyZD4Vze7GyA8nhjCfeFWyYq7XybB8sGKUQ799k1WTcBbGYTpabUUe5_4vYa_qO9dVndFO1MJAg6TUfHG_4QWatDHXpR5_xIevg2cE69GnfPUJUFjE6zW8EY9D6-SzllYfwFoRnxaWSA3jtrT7E1GwXmXjxrQB9ffJCZEX71nxCI_z0TSkOMUbr-T_EGPxXjPx6EXV6O4NmECMa1kQyzmc431w_fO2KTNS0oUa0NQ1iKhzGDGKzzNIQpwjqz4xfXQPkajJCblQs9q-qmvIVtle_Rpw&hideRank=0&isCPTestBookMarkEnabled=true",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "section": "Verbal Ability",
+      "id": "68e3853bb186002379464ebb",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0.25,
+      "questionText": "As the Plane landed, the passengers ______their seat belts.",
+      "questionHtml": "<p style=\"text-align: justify;\"><span style=\"font-family: Nunito Sans, sans-serif;\"><span style=\"font-size: 18.6667px;\"><strong>As the Plane landed, the passengers ______their seat belts.</strong></span></span></p>",
+      "correctOption": "2",
+      "options": [
+        {
+          "order": "1",
+          "text": "Fastened",
+          "html": "<p>Fastened</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "unfastened",
+          "html": "<p>unfastened</p>",
+          "isCorrect": true
+        },
+        {
+          "order": "3",
+          "text": "removed",
+          "html": "<p>removed</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "Tightened",
+          "html": "<p>Tightened</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 2,
+      "section": "Verbal Ability",
+      "id": "68e3860eff761c97c6cb542a",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0.25,
+      "questionText": "The Goverment is working hard to ____ inflation.",
+      "questionHtml": "<p>The Goverment is working hard to ____ inflation.</p>",
+      "correctOption": "2",
+      "options": [
+        {
+          "order": "1",
+          "text": "decrease",
+          "html": "<p>decrease</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "control",
+          "html": "<p>control</p>",
+          "isCorrect": true
+        },
+        {
+          "order": "3",
+          "text": "increase",
+          "html": "<p>increase</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "Raise",
+          "html": "<p>Raise</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 3,
+      "section": "Verbal Ability",
+      "id": "68e38fb0a40ad3a88a42022d",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0.25,
+      "questionText": "The Scientist's research was ____ by his peers for its originality and depth.",
+      "questionHtml": "<p>The Scientist's research was ____ by his peers for its originality and depth.</p>",
+      "correctOption": "1",
+      "options": [
+        {
+          "order": "1",
+          "text": "appreciated",
+          "html": "<p><span style=\"font-size: 18.6667px;\">appreciated</span></p>",
+          "isCorrect": true
+        },
+        {
+          "order": "2",
+          "text": "condemned",
+          "html": "<p>condemned</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "ignored",
+          "html": "<p>ignored</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "rejected",
+          "html": "<p>rejected</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 4,
+      "section": "Verbal Ability",
+      "id": "68e38ff1b18600771846566b",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0.25,
+      "questionText": "The success of the Project depends ______the efforts of the entire team/.",
+      "questionHtml": "<p>The success of the Project depends ______the efforts of the entire team/.</p>",
+      "correctOption": "1",
+      "options": [
+        {
+          "order": "1",
+          "text": "on",
+          "html": "<p style=\"text-align: justify;\"><span style=\"font-family: Nunito Sans, sans-serif;\"><span style=\"font-size: 18.6667px;\">on</span></span></p>",
+          "isCorrect": true
+        },
+        {
+          "order": "2",
+          "text": "with",
+          "html": "<p style=\"text-align: justify;\"><span style=\"font-family: Nunito Sans, sans-serif;\"><span style=\"font-size: 18.6667px;\">with</span></span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "at",
+          "html": "<p><strong>at</strong></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "to",
+          "html": "<p style=\"text-align: justify;\"><span style=\"font-family: Nunito Sans, sans-serif;\"><span style=\"font-size: 18.6667px;\">to</span></span></p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 5,
+      "section": "Verbal Ability",
+      "id": "68e390ba64ad2092c0418c11",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0.25,
+      "questionText": "Comprehension Passage Read the passage and answer the quesitons: The Internet has revolutionized communication by making it possible to share information instantly across the globe. With its vast resources, it has become an indispensable tool for education, business, and entertainment. However, the overuse of the Internet can lead to issues such as decreased productivity and social isolation. What is the Primary benifit of the internet accoridng to the passage?",
+      "questionHtml": "<p><strong>Comprehension Passage</strong><br /><br /><strong>Read the passage and answer the quesitons:</strong></p>\n<p></p>\n<p>The Internet has revolutionized communication by making it possible to share information instantly across the globe. With its vast resources, it has become an indispensable tool for education, business, and entertainment. However, the overuse of the Internet can lead to issues such as decreased productivity and social isolation.</p>\n<p></p>\n<p><strong>What is the Primary benifit of the internet accoridng to the passage?</strong></p>",
+      "correctOption": "2",
+      "options": [
+        {
+          "order": "1",
+          "text": "Entertainment",
+          "html": "<p>Entertainment</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "Instant global communication",
+          "html": "<p>Instant global communication</p>",
+          "isCorrect": true
+        },
+        {
+          "order": "3",
+          "text": "Social interation",
+          "html": "<p>Social interation</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "Productivity",
+          "html": "<p>Productivity</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 6,
+      "section": "Verbal Ability",
+      "id": "68e3915b6a8a6970aa52b2ba",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0.25,
+      "questionText": "Comprehension Passage Read the passage and answer the quesitons: The Internet has revolutionized communication by making it possible to share information instantly across the globe. With its vast resources, it has become an indispensable tool for education, business, and entertainment. However, the overuse of the Internet can lead to issues such as decreased productivity and social isolation. According to the passage, what is a negative impact of excessive internet use?",
+      "questionHtml": "<p><strong>Comprehension Passage</strong><br /><br /><strong>Read the passage and answer the quesitons:</strong></p>\n<p></p>\n<p>The Internet has revolutionized communication by making it possible to share information instantly across the globe. With its vast resources, it has become an indispensable tool for education, business, and entertainment. However, the overuse of the Internet can lead to issues such as decreased productivity and social isolation.</p>\n<p></p>\n<p><strong>According to the passage, what is a negative impact of excessive internet use?</strong></p>",
+      "correctOption": "3",
+      "options": [
+        {
+          "order": "1",
+          "text": "Improved global connections",
+          "html": "<p>Improved global connections</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "Increased business opportunities",
+          "html": "<p>Increased business opportunities</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "Social isolation",
+          "html": "<p>Social isolation</p>",
+          "isCorrect": true
+        },
+        {
+          "order": "4",
+          "text": "Enhanced education",
+          "html": "<p>Enhanced education</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 7,
+      "section": "Verbal Ability",
+      "id": "68e391f8fc61ef75e71e9494",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0.25,
+      "questionText": "Basic Grammer Questions Choose the Correct Sentence. He don't know the answer He doesn't knows the answer He Doesn't know the answer He don't knows the answer",
+      "questionHtml": "<p><strong>Basic Grammer Questions</strong></p>\n<p></p>\n<p><strong>Choose the Correct Sentence.</strong></p>\n<p></p>\n<ol>\n<li>He don't know the answer</li>\n<li>He doesn't knows the answer</li>\n<li>He Doesn't know the&nbsp; answer</li>\n<li>He don't knows the answer</li>\n</ol>",
+      "correctOption": "3",
+      "options": [
+        {
+          "order": "1",
+          "text": "He don't know the answer",
+          "html": "<p>He don't know the answer</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "He doesn't knows the answer",
+          "html": "<p>He doesn't knows the answer</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "He Doesn't know the answer",
+          "html": "<p>He Doesn't know the&nbsp; answer</p>",
+          "isCorrect": true
+        },
+        {
+          "order": "4",
+          "text": "He don't knows the answer",
+          "html": "<p>He don't knows the answer</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 8,
+      "section": "Verbal Ability",
+      "id": "68e392a65c111567c9ec1560",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "Change the sentences to passive voice: The cat chased the mouse. The mouse was chased by the cat. The mouse is being chased by the cat. The cat was chasing the mouse. The Mouse chased the cat.",
+      "questionHtml": "<p><strong>Change the sentences to passive voice:</strong></p>\n<p></p>\n<p>The cat chased the mouse.</p>\n<p></p>\n<ol>\n<li>The mouse was chased by the cat.</li>\n<li>The mouse is being chased by the cat.</li>\n<li>The cat was chasing the mouse.</li>\n<li>The Mouse chased the cat.</li>\n</ol>",
+      "correctOption": "1",
+      "options": [
+        {
+          "order": "1",
+          "text": "The mouse was chased by the cat.",
+          "html": "<p>The mouse was chased by the cat.</p>",
+          "isCorrect": true
+        },
+        {
+          "order": "2",
+          "text": "The mouse is being chased by the cat.",
+          "html": "<p>The mouse is being chased by the cat.</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "The cat was chasing the mouse.",
+          "html": "<p>The cat was chasing the mouse.</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "The Mouse chased the cat.",
+          "html": "<p>The Mouse chased the cat.</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 9,
+      "section": "Verbal Ability",
+      "id": "68e3930a41e6a52170e495aa",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "Synonys & Antonyms Choose the Synonym of \"abundant\":",
+      "questionHtml": "<p><strong>Synonys &amp; Antonyms</strong></p>\n<p></p>\n<p><strong>Choose the Synonym of \"abundant\":</strong></p>",
+      "correctOption": "2",
+      "options": [
+        {
+          "order": "1",
+          "text": "Scarce",
+          "html": "<p>Scarce</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "Plentiful",
+          "html": "<p>Plentiful</p>",
+          "isCorrect": true
+        },
+        {
+          "order": "3",
+          "text": "Limited",
+          "html": "<p>Limited</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "Rare",
+          "html": "<p>Rare</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 10,
+      "section": "Verbal Ability",
+      "id": "68e393424f211e27abeb9803",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "Choose the antonym of \"benevolent\":",
+      "questionHtml": "<p><strong>Choose the antonym of \"benevolent\":</strong></p>",
+      "correctOption": "2",
+      "options": [
+        {
+          "order": "1",
+          "text": "Kind",
+          "html": "<p>Kind</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "Cruel",
+          "html": "<p>Cruel</p>",
+          "isCorrect": true
+        },
+        {
+          "order": "3",
+          "text": "Generous",
+          "html": "<p>Generous</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "Charitable",
+          "html": "<p>Charitable</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 11,
+      "section": "Verbal Ability",
+      "id": "68e393b0dbcc984a788cfc27",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "Spot the Error (1) Each of the Student (2) are excited (3) about the annual sports day (4) No Error",
+      "questionHtml": "<p><strong>Spot the Error</strong></p>\n<p></p>\n<p>(1) Each of the Student</p>\n<p>(2) are excited</p>\n<p>(3) about the annual sports day&nbsp;</p>\n<p>(4) No Error</p>",
+      "correctOption": "2",
+      "options": [
+        {
+          "order": "1",
+          "text": "A",
+          "html": "<p>A</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "B",
+          "html": "<p>B</p>",
+          "isCorrect": true
+        },
+        {
+          "order": "3",
+          "text": "C",
+          "html": "<p>C</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "D",
+          "html": "<p>D</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 12,
+      "section": "Verbal Ability",
+      "id": "68e395ae80ceb70f62811930",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "Spot the Error (1) I have read (2) an interesting novel yesterday (3) and enjoyed it a lot (4) No error",
+      "questionHtml": "<p><strong>Spot the Error</strong></p>\n<p></p>\n<p>(1) I have read</p>\n<p>(2) an interesting novel yesterday</p>\n<p>(3) and enjoyed it a lot</p>\n<p>(4) No error</p>",
+      "correctOption": "1",
+      "options": [
+        {
+          "order": "1",
+          "text": "A",
+          "html": "<p>A</p>",
+          "isCorrect": true
+        },
+        {
+          "order": "2",
+          "text": "B",
+          "html": "<p>B</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "C",
+          "html": "<p>C</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "D",
+          "html": "<p>D</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    }
+  ]
+}

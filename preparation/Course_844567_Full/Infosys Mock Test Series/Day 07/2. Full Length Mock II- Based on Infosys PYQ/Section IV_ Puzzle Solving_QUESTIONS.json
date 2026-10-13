@@ -1,0 +1,174 @@
+{
+  "testId": "68ce8cfcb9fccbc8274e9152",
+  "title": "Section IV: Puzzle Solving",
+  "engine": "Testbook SDK",
+  "folderPath": "Infosys Mock Test Series / Day 07 / 2. Full Length Mock II- Based on Infosys PYQ",
+  "totalQuestions": 4,
+  "totalMarks": 4,
+  "durationMinutes": 8.0,
+  "livePortalUrl": "https://testsdk.testbook.com/org-44032-844567/tests/68ce8cfcb9fccbc8274e9152#auth?page=test&auth=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiI1YjQzMDFmYzdkZTU1NzBjMzFkNTU1NTUiLCJzdWIiOiIxNTkzMDU3NDYiLCJhdWQiOiJDUCIsImV4cEludCI6MTc5MTk1ODYwOCwiaWF0SW50IjoxNzkxODcyMjA4LCJvcmdJZCI6IjViNDMwMWZjN2RlNTU3MGMzMWQ1NTU1NSIsInJvbGVzIjoic3R1ZGVudCIsIm5hbWUiOiJIYWNrV2l0aEluZnlQcmVwIn0.afWnlSma4YC72l8-TLvMBHCTkqFWP99_pdBA4P2X3UuyNfr8FOBBjhcztvzEKIResq0onKAHhto9l2GpzkUN10RifQaI7Ynz2ujetOznNuiZY5btu9SPVy-f_Cs27qqUQ44t313j71RhdAaN6Gb0SQWLou8bXENvYgyuVEedu14MXle364Sdf_hWGI4eVhbGpG8-X_2S3OzSVuxUXMPt2j9Bx8gA8X4Tgm_BQOeIHUfjitRDT8Tgw-USB5OjoiqsnQmdscrKwtjzf-AAR-_EG4xtZBeQVGCC-TbkWIcm6fhWjSugB0xvsgco9ZdimDAsITv1p6QpTumYwHvYmZpeVQ&hideRank=0&isCPTestBookMarkEnabled=true",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "section": "Technical Pseudo Codes -01",
+      "id": "68ce8cfcb9fccb641a4e9157",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "Find the value of the question mark (?) Choose the best answer:",
+      "questionHtml": "<p class=\"MsoListParagraphCxSpFirst\" style=\"line-height: normal;\"><span style=\"font-size: 14pt; font-family: -webkit-standard, 'serif'; color: black;\">Find the value of the question mark (?)<o:p></o:p></span></p>\n<p class=\"MsoListParagraphCxSpLast\" style=\"line-height: normal;\"></p>\n<p class=\"MsoListParagraphCxSpLast\" style=\"line-height: normal;\"><span style=\"font-size: 12pt;\"><img src=\"https://cms-cdn.classplus.co/parserImages/b8b4847c-ae7d-44db-ac37-e42bc33bb0d8.png\" alt=\"\" width=\"298\" height=\"198\" /></span></p>\n<p class=\"MsoListParagraphCxSpLast\" style=\"line-height: normal;\"></p>\n<p><span style=\"font-size: 14pt;\"><strong><span style=\"mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: major-fareast; color: black;\">Choose the best answer:</span></strong><o:p></o:p></span></p>",
+      "correctOption": "2",
+      "options": [
+        {
+          "order": "1",
+          "text": "169",
+          "html": "<p>169</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "181",
+          "html": "<p>181</p>",
+          "isCorrect": true
+        },
+        {
+          "order": "3",
+          "text": "197",
+          "html": "<p>197</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "205",
+          "html": "<p><span style=\"color: #000000;\">205</span></p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": [
+        {
+          "original": "https://cms-cdn.classplus.co/parserImages/b8b4847c-ae7d-44db-ac37-e42bc33bb0d8.png",
+          "local": "Section IV_ Puzzle Solving_figures/q1_1.png"
+        }
+      ]
+    },
+    {
+      "questionNumber": 2,
+      "section": "Technical Pseudo Codes -01",
+      "id": "68ce8cfcb9fccb8d264e9159",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "Study the 3&times;3 matrix. Each row follows the same rule relating the first two entries to the third entry. Find the missing number ? that makes the middle row obey the same rule. 3 2 11 ? 6 13 3 5 23",
+      "questionHtml": "<p class=\"MsoNormal\" style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;\"><span style=\"font-size: 14pt;\"><span style=\"font-family: 'Times New Roman','serif'; mso-fareast-font-family: 'Times New Roman'; color: black; mso-font-kerning: 0pt; mso-ligatures: none; mso-fareast-language: EN-GB;\">Study the 3&times;3 matrix. Each row follows the same rule relating the first two entries to the third entry. Find the missing number&nbsp;</span><span style=\"font-family: 'Courier New'; color: black;\">?</span></span><span style=\"font-family: 'Times New Roman','serif'; mso-fareast-font-family: 'Times New Roman'; color: black; mso-font-kerning: 0pt; mso-ligatures: none; mso-fareast-language: EN-GB;\"><span style=\"font-size: 14pt;\">&nbsp;that makes the middle row obey the same rule.</span><o:p></o:p></span></p>\n<table class=\"MsoNormalTable\" style=\"width: 195.0pt; border-collapse: collapse; mso-yfti-tbllook: 1184; mso-padding-alt: 0in 5.4pt 0in 5.4pt;\" border=\"0\" width=\"260\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr style=\"mso-yfti-irow: 0; mso-yfti-firstrow: yes; height: 32.0pt;\">\n<td style=\"width: 65.0pt; border: solid windowtext 1.0pt; mso-border-alt: solid windowtext .5pt; padding: 0in 5.4pt 0in 5.4pt; height: 32.0pt;\" valign=\"bottom\" nowrap=\"nowrap\" width=\"87\">\n<p class=\"MsoNormal\" align=\"center\" style=\"margin-bottom: .0001pt; text-align: center; line-height: normal;\"><strong><span style=\"font-size: 24.0pt; font-family: 'Aptos Narrow','sans-serif'; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: black; mso-font-kerning: 0pt; mso-ligatures: none; mso-fareast-language: EN-GB;\">3<o:p></o:p></span></strong></p>\n</td>\n<td style=\"width: 65.0pt; border: solid windowtext 1.0pt; border-left: none; mso-border-top-alt: solid windowtext .5pt; mso-border-bottom-alt: solid windowtext .5pt; mso-border-right-alt: solid windowtext .5pt; padding: 0in 5.4pt 0in 5.4pt; height: 32.0pt;\" valign=\"bottom\" nowrap=\"nowrap\" width=\"87\">\n<p class=\"MsoNormal\" align=\"center\" style=\"margin-bottom: .0001pt; text-align: center; line-height: normal;\"><strong><span style=\"font-size: 24.0pt; font-family: 'Aptos Narrow','sans-serif'; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: black; mso-font-kerning: 0pt; mso-ligatures: none; mso-fareast-language: EN-GB;\">2<o:p></o:p></span></strong></p>\n</td>\n<td style=\"width: 65.0pt; border: solid windowtext 1.0pt; border-left: none; mso-border-top-alt: solid windowtext .5pt; mso-border-bottom-alt: solid windowtext .5pt; mso-border-right-alt: solid windowtext .5pt; padding: 0in 5.4pt 0in 5.4pt; height: 32.0pt;\" valign=\"bottom\" nowrap=\"nowrap\" width=\"87\">\n<p class=\"MsoNormal\" align=\"center\" style=\"margin-bottom: .0001pt; text-align: center; line-height: normal;\"><strong><span style=\"font-size: 24.0pt; font-family: 'Aptos Narrow','sans-serif'; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: black; mso-font-kerning: 0pt; mso-ligatures: none; mso-fareast-language: EN-GB;\">11<o:p></o:p></span></strong></p>\n</td>\n</tr>\n<tr style=\"mso-yfti-irow: 1; height: 32.0pt;\">\n<td style=\"width: 65.0pt; border: solid windowtext 1.0pt; border-top: none; mso-border-left-alt: solid windowtext .5pt; mso-border-bottom-alt: solid windowtext .5pt; mso-border-right-alt: solid windowtext .5pt; padding: 0in 5.4pt 0in 5.4pt; height: 32.0pt;\" valign=\"bottom\" nowrap=\"nowrap\" width=\"87\">\n<p class=\"MsoNormal\" align=\"center\" style=\"margin-bottom: .0001pt; text-align: center; line-height: normal;\"><strong><span style=\"font-size: 24.0pt; font-family: 'Aptos Narrow','sans-serif'; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: black; mso-font-kerning: 0pt; mso-ligatures: none; mso-fareast-language: EN-GB;\">?<o:p></o:p></span></strong></p>\n</td>\n<td style=\"width: 65.0pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-bottom-alt: solid windowtext .5pt; mso-border-right-alt: solid windowtext .5pt; padding: 0in 5.4pt 0in 5.4pt; height: 32.0pt;\" valign=\"bottom\" nowrap=\"nowrap\" width=\"87\">\n<p class=\"MsoNormal\" align=\"center\" style=\"margin-bottom: .0001pt; text-align: center; line-height: normal;\"><strong><span style=\"font-size: 24.0pt; font-family: 'Aptos Narrow','sans-serif'; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: black; mso-font-kerning: 0pt; mso-ligatures: none; mso-fareast-language: EN-GB;\">6<o:p></o:p></span></strong></p>\n</td>\n<td style=\"width: 65.0pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-bottom-alt: solid windowtext .5pt; mso-border-right-alt: solid windowtext .5pt; padding: 0in 5.4pt 0in 5.4pt; height: 32.0pt;\" valign=\"bottom\" nowrap=\"nowrap\" width=\"87\">\n<p class=\"MsoNormal\" align=\"center\" style=\"margin-bottom: .0001pt; text-align: center; line-height: normal;\"><strong><span style=\"font-size: 24.0pt; font-family: 'Aptos Narrow','sans-serif'; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: black; mso-font-kerning: 0pt; mso-ligatures: none; mso-fareast-language: EN-GB;\">13<o:p></o:p></span></strong></p>\n</td>\n</tr>\n<tr style=\"mso-yfti-irow: 2; mso-yfti-lastrow: yes; height: 32.0pt;\">\n<td style=\"width: 65.0pt; border: solid windowtext 1.0pt; border-top: none; mso-border-left-alt: solid windowtext .5pt; mso-border-bottom-alt: solid windowtext .5pt; mso-border-right-alt: solid windowtext .5pt; padding: 0in 5.4pt 0in 5.4pt; height: 32.0pt;\" valign=\"bottom\" nowrap=\"nowrap\" width=\"87\">\n<p class=\"MsoNormal\" align=\"center\" style=\"margin-bottom: .0001pt; text-align: center; line-height: normal;\"><strong><span style=\"font-size: 24.0pt; font-family: 'Aptos Narrow','sans-serif'; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: black; mso-font-kerning: 0pt; mso-ligatures: none; mso-fareast-language: EN-GB;\">3<o:p></o:p></span></strong></p>\n</td>\n<td style=\"width: 65.0pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-bottom-alt: solid windowtext .5pt; mso-border-right-alt: solid windowtext .5pt; padding: 0in 5.4pt 0in 5.4pt; height: 32.0pt;\" valign=\"bottom\" nowrap=\"nowrap\" width=\"87\">\n<p class=\"MsoNormal\" align=\"center\" style=\"margin-bottom: .0001pt; text-align: center; line-height: normal;\"><strong><span style=\"font-size: 24.0pt; font-family: 'Aptos Narrow','sans-serif'; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: black; mso-font-kerning: 0pt; mso-ligatures: none; mso-fareast-language: EN-GB;\">5<o:p></o:p></span></strong></p>\n</td>\n<td style=\"width: 65.0pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-bottom-alt: solid windowtext .5pt; mso-border-right-alt: solid windowtext .5pt; padding: 0in 5.4pt 0in 5.4pt; height: 32.0pt;\" valign=\"bottom\" nowrap=\"nowrap\" width=\"87\">\n<p class=\"MsoNormal\" align=\"center\" style=\"margin-bottom: .0001pt; text-align: center; line-height: normal;\"><strong><span style=\"font-size: 24.0pt; font-family: 'Aptos Narrow','sans-serif'; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: black; mso-font-kerning: 0pt; mso-ligatures: none; mso-fareast-language: EN-GB;\">23<o:p></o:p></span></strong></p>\n</td>\n</tr>\n</tbody>\n</table>\n<p></p>\n<p></p>\n<p></p>",
+      "correctOption": "2",
+      "options": [
+        {
+          "order": "1",
+          "text": "0",
+          "html": "<p>0</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "1",
+          "html": "<p>1</p>",
+          "isCorrect": true
+        },
+        {
+          "order": "3",
+          "text": "2",
+          "html": "<p>2</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "4",
+          "html": "<p>4</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 3,
+      "section": "Technical Pseudo Codes -01",
+      "id": "68ce8cfcb9fccbdaeb4e915a",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "In the following question select the number which can be placed at the question ? mark which follows the same rule relating the first two entries to the third entry.",
+      "questionHtml": "<p class=\"MsoNormal\" style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;\"><span style=\"font-family: 'Times New Roman','serif'; mso-fareast-font-family: 'Times New Roman'; color: black; mso-font-kerning: 0pt; mso-ligatures: none; mso-fareast-language: EN-GB;\"><span style=\"font-size: 14pt;\">In the following question select the number which can be placed at the question ? mark which follows the same rule relating the first two entries to the third entry.&nbsp;</span><o:p></o:p></span></p>\n<p class=\"MsoNormal\" style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;\"></p>\n<p class=\"MsoNormal\" style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;\"><img src=\"https://cms-cdn.classplus.co/parserImages/aa0962c6-d0d8-4f3d-b138-5c417becbc3c.png\" alt=\"\" width=\"447\" height=\"135\" /></p>",
+      "correctOption": "3",
+      "options": [
+        {
+          "order": "1",
+          "text": "76",
+          "html": "<p>76</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "58",
+          "html": "<p>58</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "68",
+          "html": "<p>68</p>",
+          "isCorrect": true
+        },
+        {
+          "order": "4",
+          "text": "98",
+          "html": "<p>98</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": [
+        {
+          "original": "https://cms-cdn.classplus.co/parserImages/aa0962c6-d0d8-4f3d-b138-5c417becbc3c.png",
+          "local": "Section IV_ Puzzle Solving_figures/q3_1.png"
+        }
+      ]
+    },
+    {
+      "questionNumber": 4,
+      "section": "Technical Pseudo Codes -01",
+      "id": "68ce8cfcb9fccb70434e9156",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "Study the 3&times;3 matrix. Each row follows the same rule relating the first two entries to the third entry. Find the missing number ? that makes the middle row obey the same rule. 5 J G 4 A C B 7 5 V Q ?",
+      "questionHtml": "<p class=\"MsoNormal\" style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;\"><span style=\"font-size: 14pt;\"><span style=\"font-family: 'Times New Roman','serif'; mso-fareast-font-family: 'Times New Roman'; color: black; mso-font-kerning: 0pt; mso-ligatures: none; mso-fareast-language: EN-GB;\">Study the 3&times;3 matrix. Each row follows the same rule relating the first two entries to the third entry. Find the missing number&nbsp;</span><span style=\"font-family: 'Courier New'; color: black;\">?</span></span><span style=\"font-family: 'Times New Roman','serif'; mso-fareast-font-family: 'Times New Roman'; color: black; mso-font-kerning: 0pt; mso-ligatures: none; mso-fareast-language: EN-GB;\"><span style=\"font-size: 14pt;\">&nbsp;that makes the middle row obey the same rule.</span><o:p></o:p></span></p>\n<p><span style=\"color: black;\">&nbsp;</span></p>\n<table class=\"MsoNormalTable\" style=\"width: 195.0pt; border-collapse: collapse; mso-yfti-tbllook: 1184; mso-padding-alt: 0in 5.4pt 0in 5.4pt;\" border=\"0\" width=\"260\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr style=\"mso-yfti-irow: 0; mso-yfti-firstrow: yes; height: 32.0pt;\">\n<td style=\"width: 65.0pt; border: solid windowtext 1.0pt; mso-border-top-alt: 1.0pt; mso-border-left-alt: 1.0pt; mso-border-bottom-alt: .5pt; mso-border-right-alt: .5pt; mso-border-color-alt: windowtext; mso-border-style-alt: solid; padding: 0in 5.4pt 0in 5.4pt; height: 32.0pt;\" valign=\"bottom\" nowrap=\"nowrap\" width=\"87\">\n<p class=\"MsoNormal\" align=\"center\" style=\"margin-bottom: .0001pt; text-align: center; line-height: normal;\"><strong><span style=\"font-size: 24.0pt; font-family: 'Aptos Narrow','sans-serif'; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: black; mso-font-kerning: 0pt; mso-ligatures: none; mso-fareast-language: EN-GB;\">5<o:p></o:p></span></strong></p>\n</td>\n<td style=\"width: 65.0pt; border: solid windowtext 1.0pt; border-left: none; mso-border-top-alt: solid windowtext 1.0pt; mso-border-bottom-alt: solid windowtext .5pt; mso-border-right-alt: solid windowtext .5pt; padding: 0in 5.4pt 0in 5.4pt; height: 32.0pt;\" valign=\"bottom\" nowrap=\"nowrap\" width=\"87\">\n<p class=\"MsoNormal\" align=\"center\" style=\"margin-bottom: .0001pt; text-align: center; line-height: normal;\"><strong><span style=\"font-size: 24.0pt; font-family: 'Aptos Narrow','sans-serif'; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: black; mso-font-kerning: 0pt; mso-ligatures: none; mso-fareast-language: EN-GB;\">J<o:p></o:p></span></strong></p>\n</td>\n<td style=\"width: 65.0pt; border: solid windowtext 1.0pt; border-left: none; mso-border-top-alt: solid windowtext 1.0pt; mso-border-bottom-alt: solid windowtext .5pt; mso-border-right-alt: solid windowtext 1.0pt; padding: 0in 5.4pt 0in 5.4pt; height: 32.0pt;\" valign=\"bottom\" nowrap=\"nowrap\" width=\"87\">\n<p class=\"MsoNormal\" align=\"center\" style=\"margin-bottom: .0001pt; text-align: center; line-height: normal;\"><strong><span style=\"font-size: 24.0pt; font-family: 'Aptos Narrow','sans-serif'; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: black; mso-font-kerning: 0pt; mso-ligatures: none; mso-fareast-language: EN-GB;\">G<o:p></o:p></span></strong></p>\n</td>\n</tr>\n<tr style=\"mso-yfti-irow: 1; height: 32.0pt;\">\n<td style=\"width: 65.0pt; border: solid windowtext 1.0pt; border-top: none; mso-border-left-alt: solid windowtext 1.0pt; mso-border-bottom-alt: solid windowtext .5pt; mso-border-right-alt: solid windowtext .5pt; padding: 0in 5.4pt 0in 5.4pt; height: 32.0pt;\" valign=\"bottom\" nowrap=\"nowrap\" width=\"87\">\n<p class=\"MsoNormal\" align=\"center\" style=\"margin-bottom: .0001pt; text-align: center; line-height: normal;\"><strong><span style=\"font-size: 24.0pt; font-family: 'Aptos Narrow','sans-serif'; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: black; mso-font-kerning: 0pt; mso-ligatures: none; mso-fareast-language: EN-GB;\">4<o:p></o:p></span></strong></p>\n</td>\n<td style=\"width: 65.0pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-bottom-alt: solid windowtext .5pt; mso-border-right-alt: solid windowtext .5pt; padding: 0in 5.4pt 0in 5.4pt; height: 32.0pt;\" valign=\"bottom\" nowrap=\"nowrap\" width=\"87\">\n<p class=\"MsoNormal\" align=\"center\" style=\"margin-bottom: .0001pt; text-align: center; line-height: normal;\"><strong><span style=\"font-size: 24.0pt; font-family: 'Aptos Narrow','sans-serif'; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: black; mso-font-kerning: 0pt; mso-ligatures: none; mso-fareast-language: EN-GB;\">A<o:p></o:p></span></strong></p>\n</td>\n<td style=\"width: 65.0pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-bottom-alt: solid windowtext .5pt; mso-border-right-alt: solid windowtext 1.0pt; padding: 0in 5.4pt 0in 5.4pt; height: 32.0pt;\" valign=\"bottom\" nowrap=\"nowrap\" width=\"87\">\n<p class=\"MsoNormal\" align=\"center\" style=\"margin-bottom: .0001pt; text-align: center; line-height: normal;\"><strong><span style=\"font-size: 24.0pt; font-family: 'Aptos Narrow','sans-serif'; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: black; mso-font-kerning: 0pt; mso-ligatures: none; mso-fareast-language: EN-GB;\">C<o:p></o:p></span></strong></p>\n</td>\n</tr>\n<tr style=\"mso-yfti-irow: 2; height: 32.0pt;\">\n<td style=\"width: 65.0pt; border: solid windowtext 1.0pt; border-top: none; mso-border-left-alt: solid windowtext 1.0pt; mso-border-bottom-alt: solid windowtext .5pt; mso-border-right-alt: solid windowtext .5pt; padding: 0in 5.4pt 0in 5.4pt; height: 32.0pt;\" valign=\"bottom\" nowrap=\"nowrap\" width=\"87\">\n<p class=\"MsoNormal\" align=\"center\" style=\"margin-bottom: .0001pt; text-align: center; line-height: normal;\"><strong><span style=\"font-size: 24.0pt; font-family: 'Aptos Narrow','sans-serif'; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: black; mso-font-kerning: 0pt; mso-ligatures: none; mso-fareast-language: EN-GB;\">B<o:p></o:p></span></strong></p>\n</td>\n<td style=\"width: 65.0pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-bottom-alt: solid windowtext .5pt; mso-border-right-alt: solid windowtext .5pt; padding: 0in 5.4pt 0in 5.4pt; height: 32.0pt;\" valign=\"bottom\" nowrap=\"nowrap\" width=\"87\">\n<p class=\"MsoNormal\" align=\"center\" style=\"margin-bottom: .0001pt; text-align: center; line-height: normal;\"><strong><span style=\"font-size: 24.0pt; font-family: 'Aptos Narrow','sans-serif'; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: black; mso-font-kerning: 0pt; mso-ligatures: none; mso-fareast-language: EN-GB;\">7<o:p></o:p></span></strong></p>\n</td>\n<td style=\"width: 65.0pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-bottom-alt: solid windowtext .5pt; mso-border-right-alt: solid windowtext 1.0pt; padding: 0in 5.4pt 0in 5.4pt; height: 32.0pt;\" valign=\"bottom\" nowrap=\"nowrap\" width=\"87\">\n<p class=\"MsoNormal\" align=\"center\" style=\"margin-bottom: .0001pt; text-align: center; line-height: normal;\"><strong><span style=\"font-size: 24.0pt; font-family: 'Aptos Narrow','sans-serif'; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: black; mso-font-kerning: 0pt; mso-ligatures: none; mso-fareast-language: EN-GB;\">5<o:p></o:p></span></strong></p>\n</td>\n</tr>\n<tr style=\"mso-yfti-irow: 3; mso-yfti-lastrow: yes; height: 33.0pt;\">\n<td style=\"width: 65.0pt; border: solid windowtext 1.0pt; border-top: none; mso-border-left-alt: solid windowtext 1.0pt; mso-border-bottom-alt: solid windowtext 1.0pt; mso-border-right-alt: solid windowtext .5pt; padding: 0in 5.4pt 0in 5.4pt; height: 33.0pt;\" valign=\"bottom\" nowrap=\"nowrap\" width=\"87\">\n<p class=\"MsoNormal\" align=\"center\" style=\"margin-bottom: .0001pt; text-align: center; line-height: normal;\"><strong><span style=\"font-size: 24.0pt; font-family: 'Aptos Narrow','sans-serif'; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: black; mso-font-kerning: 0pt; mso-ligatures: none; mso-fareast-language: EN-GB;\">V <o:p></o:p></span></strong></p>\n</td>\n<td style=\"width: 65.0pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-bottom-alt: solid windowtext 1.0pt; mso-border-right-alt: solid windowtext .5pt; padding: 0in 5.4pt 0in 5.4pt; height: 33.0pt;\" valign=\"bottom\" nowrap=\"nowrap\" width=\"87\">\n<p class=\"MsoNormal\" align=\"center\" style=\"margin-bottom: .0001pt; text-align: center; line-height: normal;\"><strong><span style=\"font-size: 24.0pt; font-family: 'Aptos Narrow','sans-serif'; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: black; mso-font-kerning: 0pt; mso-ligatures: none; mso-fareast-language: EN-GB;\">Q<o:p></o:p></span></strong></p>\n</td>\n<td style=\"width: 65.0pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0in 5.4pt 0in 5.4pt; height: 33.0pt;\" valign=\"bottom\" nowrap=\"nowrap\" width=\"87\">\n<p class=\"MsoNormal\" align=\"center\" style=\"margin-bottom: .0001pt; text-align: center; line-height: normal;\"><strong><span style=\"font-size: 24.0pt; font-family: 'Aptos Narrow','sans-serif'; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: black; mso-font-kerning: 0pt; mso-ligatures: none; mso-fareast-language: EN-GB;\">?<o:p></o:p></span></strong></p>\n</td>\n</tr>\n</tbody>\n</table>\n<p></p>\n<p class=\"MsoNormal\" style=\"line-height: normal;\"><strong><span style=\"font-family: 'Times New Roman','serif';\">&nbsp;</span></strong></p>",
+      "correctOption": "4",
+      "options": [
+        {
+          "order": "1",
+          "text": "Y",
+          "html": "<p>Y</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "X",
+          "html": "<p>X</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "W",
+          "html": "<p>W</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "Z",
+          "html": "<p>Z</p>",
+          "isCorrect": true
+        }
+      ],
+      "embeddedImages": []
+    }
+  ]
+}

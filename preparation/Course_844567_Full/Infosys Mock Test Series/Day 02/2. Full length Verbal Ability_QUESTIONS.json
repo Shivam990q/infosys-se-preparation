@@ -1,0 +1,804 @@
+{
+  "testId": "66161af5c02a5024220dff74",
+  "title": "2. Full length Verbal Ability",
+  "engine": "Classplus CMS",
+  "folderPath": "Infosys Mock Test Series / Day 02",
+  "totalQuestions": 20,
+  "totalMarks": 0,
+  "durationMinutes": 0,
+  "livePortalUrl": null,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "section": "Verbal Solution 01",
+      "id": "66161b690a3207139763c37f",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "Find the Error :\n\nDoctors can't treat (1) this complicated disease (2) unless full medical equipment (3) are not given to them (4). No error (5)",
+      "questionHtml": "<p><strong>Find the Error :</strong></p>\n<p></p>\n<p>Doctors can't treat (1) this complicated disease (2) unless full medical equipment (3) are not given to them (4). No error (5)</p>",
+      "solutionText": "Ans - d",
+      "solutionHtml": "<p>Ans - d</p>\n<p></p>\n<p><iframe title=\"1\" src=\"//www.youtube.com/embed/pnl4TZdnS40\" width=\"657\" height=\"370\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+      "options": [
+        {
+          "order": null,
+          "text": "1",
+          "html": "<p>1</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "2",
+          "html": "<p>2</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "3",
+          "html": "<p>3</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "4",
+          "html": "<p>4</p>",
+          "isCorrect": true
+        },
+        {
+          "order": null,
+          "text": "5",
+          "html": "<p>5</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 2,
+      "section": "Verbal Solution 01",
+      "id": "66161b690a32079d7463c384",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "Find the Error\n\nSeveral famous politicians (1) involved in the scandal (2) are required to appear (3) to the investigation committee. (4) No Error (5).",
+      "questionHtml": "<p><strong>Find the Error</strong></p>\n<p></p>\n<p>Several famous politicians (1) involved in the scandal (2) are required to appear (3) to the investigation committee. (4) No Error (5).</p>",
+      "solutionText": "Ans - d",
+      "solutionHtml": "<p>Ans - d</p>\n<p></p>\n<p><iframe title=\"2\" src=\"//www.youtube.com/embed/ccPEBullatI\" width=\"657\" height=\"370\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+      "options": [
+        {
+          "order": null,
+          "text": "1",
+          "html": "<p>1</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "2",
+          "html": "<p>2</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "3",
+          "html": "<p>3</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "4",
+          "html": "<p>4</p>",
+          "isCorrect": true
+        },
+        {
+          "order": null,
+          "text": "5",
+          "html": "<p>5</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 3,
+      "section": "Verbal Solution 01",
+      "id": "66161b690a3207c42f63c389",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "Fill in the blank \n\nIf the courier boy delivers your packet _______ keep it with me till you come or ________ to your home.",
+      "questionHtml": "<p><strong>Fill in the blank </strong></p>\n<p></p>\n<p>If the courier boy delivers your packet _______ keep it with me till you come or ________ to your home.</p>",
+      "solutionText": "Ans - c",
+      "solutionHtml": "<p>Ans - c</p>\n<p></p>\n<p><iframe title=\"5\" src=\"//www.youtube.com/embed/XplqSp7CLqY\" width=\"657\" height=\"370\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+      "options": [
+        {
+          "order": null,
+          "text": "Do I, send it",
+          "html": "<p>Do I, send it</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "Will I, send it",
+          "html": "<p>Will I, send it</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "Should I, send it",
+          "html": "<p>Should I, send it</p>",
+          "isCorrect": true
+        },
+        {
+          "order": null,
+          "text": "Would I, send it",
+          "html": "<p>Would I, send it</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 4,
+      "section": "Verbal Solution 01",
+      "id": "66161b690a320730af63c38e",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "Select the sentence which have the same meaning :\n\nTo cry wolf",
+      "questionHtml": "<p>Select the sentence which have the same meaning :</p>\n<p></p>\n<p><strong>To cry wolf</strong></p>",
+      "solutionText": "Ans - d",
+      "solutionHtml": "<p>Ans - d</p>\n<p></p>\n<p><iframe title=\"6\" src=\"//www.youtube.com/embed/C7weZusikD8\" width=\"657\" height=\"370\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+      "options": [
+        {
+          "order": null,
+          "text": "to speak loudly",
+          "html": "<p>to speak loudly</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "to eat like a wolf",
+          "html": "<p>to eat like a wolf</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "to get afraid",
+          "html": "<p>to get afraid</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "to give a false alarm",
+          "html": "<p>to give a false alarm</p>",
+          "isCorrect": true
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 5,
+      "section": "Verbal Solution 01",
+      "id": "66161b690a3207aefb63c393",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "Find the similar meaning :\n\nCanny",
+      "questionHtml": "<p>Find the similar meaning :</p>\n<p></p>\n<p><strong>Canny</strong></p>",
+      "solutionText": "Ans - b",
+      "solutionHtml": "<p>Ans - b</p>\n<p></p>\n<p><iframe title=\"9\" src=\"//www.youtube.com/embed/sL5MwnYYPtM\" width=\"657\" height=\"370\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+      "options": [
+        {
+          "order": null,
+          "text": "Beautiful",
+          "html": "<p>Beautiful</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "Clever",
+          "html": "<p>Clever</p>",
+          "isCorrect": true
+        },
+        {
+          "order": null,
+          "text": "Gorgeous",
+          "html": "<p>Gorgeous</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "Fat",
+          "html": "<p>Fat</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 6,
+      "section": "Verbal Solution 01",
+      "id": "66161b690a3207a36163c398",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "Rearrange :\n\nA month after colleges opened......A. 35% seats reserved under OBC\nB. in private colleges\nC. for the next academic year\nD. remained vacant ",
+      "questionHtml": "<p><strong>Rearrange :</strong></p>\n<p></p>\n<p>A month after colleges opened......<br /><br />A. 35% seats reserved under OBC</p>\n<p>B. in private colleges</p>\n<p>C. for the next academic year</p>\n<p>D. remained vacant&nbsp;</p>",
+      "solutionText": "Ans - b",
+      "solutionHtml": "<p>Ans - b</p>\n<p></p>\n<p><iframe title=\"10\" src=\"//www.youtube.com/embed/hrVE39J7Qgg\" width=\"657\" height=\"370\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+      "options": [
+        {
+          "order": null,
+          "text": "CBDA",
+          "html": "<p>CBDA</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "CADB",
+          "html": "<p>CADB</p>",
+          "isCorrect": true
+        },
+        {
+          "order": null,
+          "text": "ADBC",
+          "html": "<p>ADBC</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "BADC",
+          "html": "<p>BADC</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 7,
+      "section": "Verbal Solution 01",
+      "id": "66161b690a32072f8163c39d",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "One word substitution \n\nA person who travels on foot.",
+      "questionHtml": "<p><strong>One word substitution </strong></p>\n<p></p>\n<p>A person who travels on foot.</p>",
+      "solutionText": "Ans - a",
+      "solutionHtml": "<p>Ans - a</p>\n<p></p>\n<p><iframe title=\"13\" src=\"//www.youtube.com/embed/SxF_8bhxgEs\" width=\"657\" height=\"370\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+      "options": [
+        {
+          "order": null,
+          "text": "pedestrian",
+          "html": "<p>pedestrian</p>",
+          "isCorrect": true
+        },
+        {
+          "order": null,
+          "text": "traveler",
+          "html": "<p>traveler</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "walker",
+          "html": "<p>walker</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "health conscious",
+          "html": "<p>health conscious</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 8,
+      "section": "Verbal Solution 01",
+      "id": "66161b690a3207af4d63c3a2",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "Select the word which has a similar meaning :\n\nA country that is ruled by a king or queen",
+      "questionHtml": "<p><strong>Select the word which has a similar meaning :</strong></p>\n<p></p>\n<p>A country that is ruled by a king or queen</p>",
+      "solutionText": "Ans - a",
+      "solutionHtml": "<p>Ans - a</p>\n<p></p>\n<p><iframe title=\"14\" src=\"//www.youtube.com/embed/N99gVtIVhQ8\" width=\"657\" height=\"370\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+      "options": [
+        {
+          "order": null,
+          "text": "monarchy",
+          "html": "<p>monarchy</p>",
+          "isCorrect": true
+        },
+        {
+          "order": null,
+          "text": "democratic",
+          "html": "<p>democratic</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "autocracy",
+          "html": "<p>autocracy</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "all of the above",
+          "html": "<p>all of the above</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 9,
+      "section": "Verbal Solution 01",
+      "id": "66161b690a3207597963c3a7",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "Find the replacement\n\nJeans was not allowed in Maria's college.",
+      "questionHtml": "<p>Find the replacement</p>\n<p></p>\n<p>Jeans <strong>was</strong> not allowed in Maria's college.</p>",
+      "solutionText": "Ans - c",
+      "solutionHtml": "<p>Ans - c</p>\n<p></p>\n<p><iframe title=\"17\" src=\"//www.youtube.com/embed/AqNIO9iZt48\" width=\"657\" height=\"370\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+      "options": [
+        {
+          "order": null,
+          "text": "is",
+          "html": "<p>is</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "had",
+          "html": "<p>had</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "were",
+          "html": "<p>were</p>",
+          "isCorrect": true
+        },
+        {
+          "order": null,
+          "text": "will",
+          "html": "<p>will</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 10,
+      "section": "Verbal Solution 01",
+      "id": "66161b690a3207004d63c3ac",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "Replace the bold sentence \n\nThe teacher told Alice to skim the chapter one more time.",
+      "questionHtml": "<p>Replace the bold sentence&nbsp;</p>\n<p></p>\n<p>The teacher <strong>told Alice</strong> to skim the chapter one more time.</p>",
+      "solutionText": "Ans - b",
+      "solutionHtml": "<p>Ans - b</p>\n<p></p>\n<p><iframe title=\"18\" src=\"//www.youtube.com/embed/khumKenH-Jg\" width=\"657\" height=\"370\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+      "options": [
+        {
+          "order": null,
+          "text": "invited Alice",
+          "html": "<p>invited Alice</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "asked Alice",
+          "html": "<p>asked Alice</p>",
+          "isCorrect": true
+        },
+        {
+          "order": null,
+          "text": "ordered Alice",
+          "html": "<p>ordered Alice</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "said to Alice",
+          "html": "<p>said to Alice</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 11,
+      "section": "Verbal Solution 01",
+      "id": "66161b690a3207adcc63c3b1",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "What is the antonym of:\n\n Philistine",
+      "questionHtml": "<p>What is the antonym of:</p>\n<p></p>\n<p><strong> Philistine</strong></p>",
+      "solutionText": "Ans - b",
+      "solutionHtml": "<p>Ans - b</p>\n<p></p>\n<p><iframe title=\"21\" src=\"//www.youtube.com/embed/pun1ueOj6dc\" width=\"657\" height=\"370\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+      "options": [
+        {
+          "order": null,
+          "text": "Religious",
+          "html": "<p>Religious</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "Intellectual",
+          "html": "<p>Intellectual</p>",
+          "isCorrect": true
+        },
+        {
+          "order": null,
+          "text": "Debutante",
+          "html": "<p>Debutante</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "learner",
+          "html": "<p>learner</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 12,
+      "section": "Verbal Solution 01",
+      "id": "66161b690a3207ce4563c3b6",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "Rearrange: \n\nPanic gripped the people.\n\nA. of the village\nB. beside the city\nC. on Friday\nD. after the terrorist attack ",
+      "questionHtml": "<p><strong>Rearrange:</strong>&nbsp;</p>\n<p></p>\n<p>Panic gripped the people.</p>\n<p></p>\n<p>A. of the village</p>\n<p>B. beside the city</p>\n<p>C. on Friday</p>\n<p>D. after the terrorist attack&nbsp;</p>",
+      "solutionText": "Ans - c",
+      "solutionHtml": "<p>Ans - c</p>\n<p></p>\n<p><iframe title=\"22\" src=\"//www.youtube.com/embed/gtgH_EpK7ag\" width=\"657\" height=\"370\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+      "options": [
+        {
+          "order": null,
+          "text": "CABD",
+          "html": "<p>CABD</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "BACD",
+          "html": "<p>BACD</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "ABCD",
+          "html": "<p>ABCD</p>",
+          "isCorrect": true
+        },
+        {
+          "order": null,
+          "text": "ACDB",
+          "html": "<p>ACDB</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 13,
+      "section": "Verbal Solution 01",
+      "id": "66161b690a3207a72963c3bb",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "What is the synonym of:\n\n Relinquish",
+      "questionHtml": "<p>What is the <strong>synonym of:</strong></p>\n<p></p>\n<p><strong> Relinquish</strong></p>",
+      "solutionText": "Ans - c",
+      "solutionHtml": "<p>Ans - c</p>\n<p></p>\n<p><iframe title=\"25\" src=\"//www.youtube.com/embed/NP3I5s6EWjE\" width=\"657\" height=\"370\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+      "options": [
+        {
+          "order": null,
+          "text": "Real",
+          "html": "<p>Real</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "Religious",
+          "html": "<p>Religious</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "Renounce",
+          "html": "<p>Renounce</p>",
+          "isCorrect": true
+        },
+        {
+          "order": null,
+          "text": "Punishment",
+          "html": "<p>Punishment</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 14,
+      "section": "Verbal Solution 01",
+      "id": "66161b690a3207281f63c3c0",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "What is the synonym of: \n\nFable",
+      "questionHtml": "<p>What is the <strong>synonym of: </strong></p>\n<p></p>\n<p>Fable</p>",
+      "solutionText": "Ans- d",
+      "solutionHtml": "<p>Ans- d</p>\n<p></p>\n<p><iframe title=\"26\" src=\"//www.youtube.com/embed/UZvNRlqe86Y\" width=\"657\" height=\"370\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+      "options": [
+        {
+          "order": null,
+          "text": "Sacred",
+          "html": "<p>Sacred</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "Scary",
+          "html": "<p>Scary</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "Secret",
+          "html": "<p>Secret</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "Story",
+          "html": "<p>Story</p>",
+          "isCorrect": true
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 15,
+      "section": "Verbal Solution 01",
+      "id": "66161b690a3207168863c3c5",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "Sentence formation:\n\n1. about the\n2. what\n3. do you know\n4. for the common cold\n5. Home remedies",
+      "questionHtml": "<p><strong>Sentence formation:</strong></p>\n<p></p>\n<p>1. about the</p>\n<p>2. what</p>\n<p>3. do you know</p>\n<p>4. for the common cold</p>\n<p>5. Home remedies</p>",
+      "solutionText": "Ans - b",
+      "solutionHtml": "<p>Ans - b</p>\n<p></p>\n<p><iframe title=\"29\" src=\"//www.youtube.com/embed/iH00KMmhlx4\" width=\"657\" height=\"370\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+      "options": [
+        {
+          "order": null,
+          "text": "21543",
+          "html": "<p>21543</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "23154",
+          "html": "<p>23154</p>",
+          "isCorrect": true
+        },
+        {
+          "order": null,
+          "text": "15423",
+          "html": "<p>15423</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "32154",
+          "html": "<p>32154</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 16,
+      "section": "Verbal Solution 01",
+      "id": "66161b690a32075a5b63c3ca",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "Sentence formation:\n\n1. living in the villages\n2. the government\n3. to uplift the standard of\n4. introduced many\n5. schemes",
+      "questionHtml": "<p><strong>Sentence formation:</strong></p>\n<p></p>\n<p>1. living in the villages</p>\n<p>2. the government</p>\n<p>3. to uplift the standard of</p>\n<p>4. introduced many</p>\n<p>5. schemes</p>",
+      "solutionText": "Ans - a",
+      "solutionHtml": "<p>Ans - a</p>\n<p></p>\n<p><iframe title=\"30\" src=\"//www.youtube.com/embed/tucNef9lDSg\" width=\"657\" height=\"370\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+      "options": [
+        {
+          "order": null,
+          "text": "24531",
+          "html": "<p>24531</p>",
+          "isCorrect": true
+        },
+        {
+          "order": null,
+          "text": "25431",
+          "html": "<p>25431</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "35241",
+          "html": "<p>35241</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "23145",
+          "html": "<p>23145</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 17,
+      "section": "Verbal Solution 01",
+      "id": "66161b690a32070ee563c3cf",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "What is the meaning\n\nAt one's wit's end",
+      "questionHtml": "<p><span style=\"color: #1f1f1f; font-family: 'Google Sans', arial, sans-serif;\">What is the meaning</span></p>\n<p></p>\n<p><strong>At one's wit's end</strong></p>",
+      "solutionText": "Ans - b",
+      "solutionHtml": "<p>Ans - b</p>\n<p></p>\n<p><iframe title=\"33\" src=\"//www.youtube.com/embed/SSOigVAceVk\" width=\"657\" height=\"370\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+      "options": [
+        {
+          "order": null,
+          "text": "extremely afraid",
+          "html": "<p>extremely afraid</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "perplexed",
+          "html": "<p>perplexed</p>",
+          "isCorrect": true
+        },
+        {
+          "order": null,
+          "text": "unexpected gain",
+          "html": "<p>unexpected gain</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "unexpected loss",
+          "html": "<p>unexpected loss</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 18,
+      "section": "Verbal Solution 01",
+      "id": "66161b690a32074e7663c3d4",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "Change the voice:\n\nHer selection in the crew surprised Peter.",
+      "questionHtml": "<p><strong>Change the voice:</strong></p>\n<p></p>\n<p>Her selection in the crew surprised Peter.</p>",
+      "solutionText": "Ans- b",
+      "solutionHtml": "<p>Ans- b</p>\n<p></p>\n<p><iframe title=\"34\" src=\"//www.youtube.com/embed/mq0iFrUP9oQ\" width=\"657\" height=\"370\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+      "options": [
+        {
+          "order": null,
+          "text": "Her selection in the crew was a big surprise.",
+          "html": "<p>Her selection in the crew was a big surprise.</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "Peter was surprised at her selection in the crew.",
+          "html": "<p>Peter was surprised at her selection in the crew.</p>",
+          "isCorrect": true
+        },
+        {
+          "order": null,
+          "text": "Her selection was a surprise.",
+          "html": "<p>Her selection was a surprise.</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "Peter was surprised at her selection of the crew.",
+          "html": "<p>Peter was surprised at her selection of the crew.</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 19,
+      "section": "Verbal Solution 01",
+      "id": "66161b690a32071a8763c3d9",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "Rearrange \nThe government should\n\nA. to improve\nB. introduce policies\nC. the quality of education\nD. in government schools",
+      "questionHtml": "<p><strong>Rearrange </strong></p>\n<p>The government should</p>\n<p></p>\n<p>A. to improve</p>\n<p>B. introduce policies</p>\n<p>C. the quality of education</p>\n<p>D. in government schools</p>",
+      "solutionText": "Ans - d",
+      "solutionHtml": "<p>Ans - d</p>\n<p></p>\n<p><iframe title=\"37\" src=\"//www.youtube.com/embed/oON8OZAkEyY\" width=\"657\" height=\"370\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+      "options": [
+        {
+          "order": null,
+          "text": "DBAC",
+          "html": "<p>DBAC</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "DBAC",
+          "html": "<p>DBAC</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "ACDB",
+          "html": "<p>ACDB</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "BACD",
+          "html": "<p>BACD</p>",
+          "isCorrect": true
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 20,
+      "section": "Verbal Solution 01",
+      "id": "66161b690a32077c7663c3de",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "Find the adjective: \n\nOn looking at the cloudless sky, Peter said, \"It won't rain today.\"",
+      "questionHtml": "<p><strong>Find the adjective: </strong></p>\n<p></p>\n<p>On looking at the cloudless sky, Peter said, \"It won't rain today.\"</p>",
+      "solutionText": "Ans - b",
+      "solutionHtml": "<p>Ans - b</p>\n<p></p>\n<p><iframe title=\"38\" src=\"//www.youtube.com/embed/MNBq16U_aTc\" width=\"657\" height=\"370\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+      "options": [
+        {
+          "order": null,
+          "text": "at",
+          "html": "<p>at</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "cloudless",
+          "html": "<p>cloudless</p>",
+          "isCorrect": true
+        },
+        {
+          "order": null,
+          "text": "sky",
+          "html": "<p>sky</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "today",
+          "html": "<p>today</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    }
+  ]
+}

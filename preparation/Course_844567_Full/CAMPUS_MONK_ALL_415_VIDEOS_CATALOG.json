@@ -1,0 +1,3740 @@
+{
+  "totalVideos": 415,
+  "videos": [
+    {
+      "id": 178884968,
+      "name": "One Shot   Alphabatic Logical Reasoning",
+      "duration": "01:24:10",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/media/44032/cc/850eac31ebe347f9925a09854e1ccb83-33/thumbnail.png",
+      "folderPath": "1.0 LIVE: Infosys Prep / Aptitude Prep With Rachit sir / Day 1: One Shot   Alphabatic Logical Reasoning  C",
+      "parentFolderId": 58254991,
+      "createdAt": "2026-10-07T05:57:43.000Z"
+    },
+    {
+      "id": 178884922,
+      "name": "PART 1: Number System from basic  ALL PYQ series",
+      "duration": "01:37:05",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/media/44032/cc/9383e18a70074d1593dcdfe5506936b7-yg/thumbnail.png",
+      "folderPath": "1.0 LIVE: Infosys Prep / Aptitude Prep With Rachit sir / Day 2:  Number System",
+      "parentFolderId": 58254986,
+      "createdAt": "2026-10-07T05:57:13.000Z"
+    },
+    {
+      "id": 178884923,
+      "name": "PART 2: Number system 02",
+      "duration": "01:31:31",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/media/44032/cc/38fe14c914ff4c94902ed9c6ab0b1169-fz/thumbnail.png",
+      "folderPath": "1.0 LIVE: Infosys Prep / Aptitude Prep With Rachit sir / Day 2:  Number System",
+      "parentFolderId": 58254986,
+      "createdAt": "2026-10-07T05:57:13.000Z"
+    },
+    {
+      "id": 178984490,
+      "name": "PART 3: NUMBER Divisibility Rule One Shot",
+      "duration": "01:30:38",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/media/44032/cc/c4dadb2bec074ee49df77547351febfe-o9/thumbnail.png",
+      "folderPath": "1.0 LIVE: Infosys Prep / Aptitude Prep With Rachit sir / Day 2:  Number System",
+      "parentFolderId": 58254986,
+      "createdAt": "2026-10-08T04:27:45.000Z"
+    },
+    {
+      "id": 178884926,
+      "name": "LCM HCF One Shot",
+      "duration": "01:26:34",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/media/44032/cc/a07290cd24c74332b7914c88f524fff8-pa/thumbnail.png",
+      "folderPath": "1.0 LIVE: Infosys Prep / Aptitude Prep With Rachit sir / Day 3: LCM/ HCF",
+      "parentFolderId": 58254988,
+      "createdAt": "2026-10-07T05:57:13.000Z"
+    },
+    {
+      "id": 178884924,
+      "name": "PART 1: Infosys PYQ Prep & OTHERS",
+      "duration": "00:57:24",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/media/44032/cc/d799cc5f415947258a286ca5ceac1748-ld/thumbnail.png",
+      "folderPath": "1.0 LIVE: Infosys Prep / Coding Prep with Itika Ma'am / 1: PYQ's (Infosys & Others)",
+      "parentFolderId": 58254987,
+      "createdAt": "2026-10-07T05:57:13.000Z"
+    },
+    {
+      "id": 178884925,
+      "name": "PART 2: PYQ Coding Prep TCS, Infosys & others",
+      "duration": "01:17:03",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/media/44032/cc/d6d2c29aa8ec417d95e5305033722261-a5/thumbnail.png",
+      "folderPath": "1.0 LIVE: Infosys Prep / Coding Prep with Itika Ma'am / 1: PYQ's (Infosys & Others)",
+      "parentFolderId": 58254987,
+      "createdAt": "2026-10-07T05:57:13.000Z"
+    },
+    {
+      "id": 179172460,
+      "name": "PART 3: TCS, IBM, Infosys and other companies",
+      "duration": "01:23:11",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/media/44032/cc/fa668d5eff9d45f399e7d8bb239afd08-a8/thumbnail.png",
+      "folderPath": "1.0 LIVE: Infosys Prep / Coding Prep with Itika Ma'am / 1: PYQ's (Infosys & Others)",
+      "parentFolderId": 58254987,
+      "createdAt": "2026-10-09T13:18:08.000Z"
+    },
+    {
+      "id": 162552047,
+      "name": "All About Infosys _ How to Prepare _ Updated Pattern_",
+      "duration": "00:12:12",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa3/media/1128227/drm/wv/68d144f1a08b5f3cb8c7244c/3c0eadf2f74daa531bc36b840857fbb6/thumbnail.png",
+      "folderPath": "1. RoadMap : Induction Imp",
+      "parentFolderId": 52553290,
+      "createdAt": "2026-05-13T07:55:56.000Z"
+    },
+    {
+      "id": 162552046,
+      "name": "1. Induction",
+      "duration": "00:20:15",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/vod-thumbnail/bc6d8e79-2665-456a-96b6-661c9ee8e004.jpg",
+      "folderPath": "1. RoadMap : Induction Imp",
+      "parentFolderId": 52553290,
+      "createdAt": "2026-05-13T07:55:56.000Z"
+    },
+    {
+      "id": 162552109,
+      "name": "1. Linear Arrangement",
+      "duration": "01:23:49",
+      "thumbnailUrl": "https://cdn-wl-assets.classplus.co/production/single/bfwhv/2cd46290-4cce-4843-a547-5cca5c697f61.png",
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section I : Logical Reasoning & Puzzle / 3: Linear & Parallel Arrangement",
+      "parentFolderId": 52553310,
+      "createdAt": "2026-05-13T07:55:58.000Z"
+    },
+    {
+      "id": 162552108,
+      "name": "2 Parallel Arrangement",
+      "duration": "01:19:36",
+      "thumbnailUrl": "https://cdn-wl-assets.classplus.co/production/single/bfwhv/95153f5e-19a9-465c-8dc8-9f3f9ca5d771.png",
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section I : Logical Reasoning & Puzzle / 3: Linear & Parallel Arrangement",
+      "parentFolderId": 52553310,
+      "createdAt": "2026-05-13T07:55:58.000Z"
+    },
+    {
+      "id": 162552068,
+      "name": "1. Distance & Directions",
+      "duration": "01:34:04",
+      "thumbnailUrl": "https://cdn-wl-assets.classplus.co/production/single/bfwhv/8635655b-3b63-4137-bf2a-da2941968f30.png",
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section I : Logical Reasoning & Puzzle / 2 : Distance and Direction",
+      "parentFolderId": 52553300,
+      "createdAt": "2026-05-13T07:55:57.000Z"
+    },
+    {
+      "id": 162552069,
+      "name": "2. Types: distance , angle ,Shadow",
+      "duration": "00:46:55",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/vod-thumbnail/80b9cd66-c214-4b4a-affd-4c80ecde4217.jpeg",
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section I : Logical Reasoning & Puzzle / 2 : Distance and Direction",
+      "parentFolderId": 52553300,
+      "createdAt": "2026-05-13T07:55:57.000Z"
+    },
+    {
+      "id": 162552201,
+      "name": "Circular Arrangement",
+      "duration": "01:29:31",
+      "thumbnailUrl": "https://cdn-wl-assets.classplus.co/production/single/bfwhv/2d1f56b0-2c3d-45f4-a634-dce163a7e394.png",
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section I : Logical Reasoning & Puzzle / 5 Circular Arrangement",
+      "parentFolderId": 52553335,
+      "createdAt": "2026-05-13T07:56:01.000Z"
+    },
+    {
+      "id": 162552070,
+      "name": "1. Coding Decoding _ By Rachit Rastogi",
+      "duration": "00:28:04",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/vod-thumbnail/fd083e56-9a26-4ad1-805d-c456cd8ffa1d.jpeg",
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section I : Logical Reasoning & Puzzle / 1 : Alphabet Related Topics / 2. Coding Decoding Concept Videos",
+      "parentFolderId": 52553301,
+      "createdAt": "2026-05-13T07:55:57.000Z"
+    },
+    {
+      "id": 162552071,
+      "name": "2. Coding Decoding  _ Rachit Rastogi",
+      "duration": "00:23:27",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/vod-thumbnail/dc68fcd9-f784-4f11-a11c-c2f958d3072b.jpeg",
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section I : Logical Reasoning & Puzzle / 1 : Alphabet Related Topics / 2. Coding Decoding Concept Videos",
+      "parentFolderId": 52553301,
+      "createdAt": "2026-05-13T07:55:57.000Z"
+    },
+    {
+      "id": 162552048,
+      "name": "1 Logical Reasoning (0-Hero)",
+      "duration": "01:07:58",
+      "thumbnailUrl": "https://cdn-wl-assets.classplus.co/production/single/bfwhv/87f3960f-ce49-4c29-ad18-4789fecea41c.png",
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section I : Logical Reasoning & Puzzle / 1 : Alphabet Related Topics",
+      "parentFolderId": 52553292,
+      "createdAt": "2026-05-13T07:55:57.000Z"
+    },
+    {
+      "id": 162552049,
+      "name": "3 Chinese Coding and New Type Ques",
+      "duration": "00:43:43",
+      "thumbnailUrl": "https://cdn-wl-assets.classplus.co/production/single/bfwhv/01735240-16c0-4cfc-b1f8-16997fc97bf6.png",
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section I : Logical Reasoning & Puzzle / 1 : Alphabet Related Topics",
+      "parentFolderId": 52553292,
+      "createdAt": "2026-05-13T07:55:57.000Z"
+    },
+    {
+      "id": 162552239,
+      "name": "Square Triangle Based Arrangement",
+      "duration": "01:32:57",
+      "thumbnailUrl": "https://cdn-wl-assets.classplus.co/production/single/bfwhv/210137d6-1ce5-4cbb-9c78-041639a5db15.png",
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section I : Logical Reasoning & Puzzle / 6 Square Triangle Based Arrangement",
+      "parentFolderId": 52553346,
+      "createdAt": "2026-05-13T07:56:03.000Z"
+    },
+    {
+      "id": 162552212,
+      "name": "Blood Relation",
+      "duration": "00:54:11",
+      "thumbnailUrl": "https://media-cdn.classplusapp.com/44032/cc/66828d0195e74e179fafa77101933b62-ie/thumbnail.png",
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section I : Logical Reasoning & Puzzle / 4 :  Blood Relation / Concept Video Blood Relation _ Live",
+      "parentFolderId": 52553337,
+      "createdAt": "2026-05-13T07:56:01.000Z"
+    },
+    {
+      "id": 162552309,
+      "name": "BASIC PART 01",
+      "duration": "00:22:57",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/vod-thumbnail/5c9641a5-5f19-4df7-bf54-8c81909fce7e.jpeg",
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section I : Logical Reasoning & Puzzle / 7 : Puzzle",
+      "parentFolderId": 52553358,
+      "createdAt": "2026-05-13T07:56:07.000Z"
+    },
+    {
+      "id": 162552308,
+      "name": "PART 02",
+      "duration": "00:21:55",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/vod-thumbnail/cbef47e0-ef66-436e-a975-9c74967a6541.jpeg",
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section I : Logical Reasoning & Puzzle / 7 : Puzzle",
+      "parentFolderId": 52553358,
+      "createdAt": "2026-05-13T07:56:07.000Z"
+    },
+    {
+      "id": 162552369,
+      "name": "Part 1",
+      "duration": "00:07:25",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/vod-thumbnail/5a4866e1-e8a5-473a-a815-8348844ba4af.jpg",
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section I : Logical Reasoning & Puzzle / 9 : Number Series _ Important types",
+      "parentFolderId": 52553378,
+      "createdAt": "2026-05-13T07:56:14.000Z"
+    },
+    {
+      "id": 162552367,
+      "name": "Part 2",
+      "duration": "00:14:46",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/vod-thumbnail/3d222de1-5264-4a65-bb0a-2ed7fbb22c33.jpg",
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section I : Logical Reasoning & Puzzle / 9 : Number Series _ Important types",
+      "parentFolderId": 52553378,
+      "createdAt": "2026-05-13T07:56:14.000Z"
+    },
+    {
+      "id": 162552366,
+      "name": "Numbe Series 03",
+      "duration": "00:08:22",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/vod-thumbnail/a780eff7-16a9-4dfd-89e6-8da6013ac606.jpg",
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section I : Logical Reasoning & Puzzle / 9 : Number Series _ Important types",
+      "parentFolderId": 52553378,
+      "createdAt": "2026-05-13T07:56:14.000Z"
+    },
+    {
+      "id": 162552365,
+      "name": "Number Series 04 (Zero Difference)",
+      "duration": "00:05:52",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/vod-thumbnail/7338db33-3a6b-4ddb-92ee-e76bd211a18b.jpg",
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section I : Logical Reasoning & Puzzle / 9 : Number Series _ Important types",
+      "parentFolderId": 52553378,
+      "createdAt": "2026-05-13T07:56:14.000Z"
+    },
+    {
+      "id": 162552368,
+      "name": "Number Series 05",
+      "duration": "00:06:08",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/vod-thumbnail/bc1dbac5-f42a-442d-9945-f30404ac7721.jpg",
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section I : Logical Reasoning & Puzzle / 9 : Number Series _ Important types",
+      "parentFolderId": 52553378,
+      "createdAt": "2026-05-13T07:56:14.000Z"
+    },
+    {
+      "id": 162552386,
+      "name": "1. Logical Reasoning Data Sufficiency Prep",
+      "duration": "01:29:10",
+      "thumbnailUrl": "https://cdn-wl-assets.classplus.co/production/single/bfwhv/44756689-b89c-4689-9e27-8d522f5507ac.png",
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section I : Logical Reasoning & Puzzle / 10: IMP LR (Data Sufficiency)",
+      "parentFolderId": 52553387,
+      "createdAt": "2026-05-13T07:56:17.000Z"
+    },
+    {
+      "id": 162552388,
+      "name": "2.Data Sufficiency",
+      "duration": "00:15:59",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/vod-thumbnail/fd30c34f-e716-4ab4-b1d6-070ea119c42c.jpg",
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section I : Logical Reasoning & Puzzle / 10: IMP LR (Data Sufficiency)",
+      "parentFolderId": 52553387,
+      "createdAt": "2026-05-13T07:56:17.000Z"
+    },
+    {
+      "id": 162552387,
+      "name": "3.Data Sufficiency",
+      "duration": "00:14:08",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/vod-thumbnail/15a6eee2-88e7-4264-9eda-404fb73f193d.jpg",
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section I : Logical Reasoning & Puzzle / 10: IMP LR (Data Sufficiency)",
+      "parentFolderId": 52553387,
+      "createdAt": "2026-05-13T07:56:17.000Z"
+    },
+    {
+      "id": 162552390,
+      "name": "Critical Reasoning Part 1",
+      "duration": "01:32:58",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/vod-thumbnail/c811e365-6ac1-4808-8230-60aba03cf43b.jpg",
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section I : Logical Reasoning & Puzzle / 8 : Critical Reasoning & Syllogism / Assumption Argument C.R",
+      "parentFolderId": 52553388,
+      "createdAt": "2026-05-13T07:56:17.000Z"
+    },
+    {
+      "id": 162552389,
+      "name": "Critical Reasoning - Part 2",
+      "duration": "01:15:17",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/vod-thumbnail/480fef16-614f-4e82-aff9-dd70e61847be.jpg",
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section I : Logical Reasoning & Puzzle / 8 : Critical Reasoning & Syllogism / Assumption Argument C.R",
+      "parentFolderId": 52553388,
+      "createdAt": "2026-05-13T07:56:17.000Z"
+    },
+    {
+      "id": 162552391,
+      "name": "Critical Reasoning - Part 3",
+      "duration": "01:02:58",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/vod-thumbnail/4ee7bdef-7ec3-49f6-8187-526a9e8848df.jpg",
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section I : Logical Reasoning & Puzzle / 8 : Critical Reasoning & Syllogism / Assumption Argument C.R",
+      "parentFolderId": 52553388,
+      "createdAt": "2026-05-13T07:56:17.000Z"
+    },
+    {
+      "id": 162552392,
+      "name": "Syllogism 1_ Foundation",
+      "duration": "01:10:03",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/vod-thumbnail/3b79014f-54de-442e-bf5a-c5f412f435f1.jpeg",
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section I : Logical Reasoning & Puzzle / 8 : Critical Reasoning & Syllogism / Syllogism / Concept Videos",
+      "parentFolderId": 52553389,
+      "createdAt": "2026-05-13T07:56:18.000Z"
+    },
+    {
+      "id": 162552393,
+      "name": "Syllogisms 2 _ Reverse Syllogism",
+      "duration": "00:43:51",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/vod-thumbnail/08d52213-0d25-4495-a86b-a15580e6a828.jpg",
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section I : Logical Reasoning & Puzzle / 8 : Critical Reasoning & Syllogism / Syllogism / Concept Videos",
+      "parentFolderId": 52553389,
+      "createdAt": "2026-05-13T07:56:18.000Z"
+    },
+    {
+      "id": 162552426,
+      "name": "Calendar Class",
+      "duration": "00:56:48",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/vod-thumbnail/664a8b8c-3534-4665-b9d8-81d064e1399c.jpg",
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section I : Logical Reasoning & Puzzle / Module 12: Clocks & Calendar / Calenadar",
+      "parentFolderId": 52553412,
+      "createdAt": "2026-05-13T07:56:26.000Z"
+    },
+    {
+      "id": 162552419,
+      "name": "Clocks 01",
+      "duration": "00:56:00",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/vod-thumbnail/d2e778c9-df4c-40e2-8b7f-acff77fc7bfd.jpg",
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section I : Logical Reasoning & Puzzle / Module 12: Clocks & Calendar",
+      "parentFolderId": 52553406,
+      "createdAt": "2026-05-13T07:56:23.000Z"
+    },
+    {
+      "id": 162552420,
+      "name": "Live 2 Clocks",
+      "duration": "01:03:16",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/vod-thumbnail/0fee883a-2442-4370-ad60-81d8165fdd22.jpg",
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section I : Logical Reasoning & Puzzle / Module 12: Clocks & Calendar",
+      "parentFolderId": 52553406,
+      "createdAt": "2026-05-13T07:56:23.000Z"
+    },
+    {
+      "id": 162552427,
+      "name": "Dice",
+      "duration": "00:23:43",
+      "thumbnailUrl": "https://media-cdn.classplusapp.com/tencent/359365019bfb473094bc64ac44c328b4/thumbnail.jpg",
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section I : Logical Reasoning & Puzzle / Module 11 :  Dice Mirror Image Water / Dice",
+      "parentFolderId": 52553413,
+      "createdAt": "2026-05-13T07:56:26.000Z"
+    },
+    {
+      "id": 162552428,
+      "name": "Paper Folding",
+      "duration": "00:42:56",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/vod-thumbnail/ef3ca21f-2045-44e7-abda-b58ff5f00583.jpg",
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section I : Logical Reasoning & Puzzle / Module 11 :  Dice Mirror Image Water / Paper Folding / Concept Video",
+      "parentFolderId": 52553414,
+      "createdAt": "2026-05-13T07:56:26.000Z"
+    },
+    {
+      "id": 162552076,
+      "name": "1. D.I-  01 Pie chart  SET 01 of sheet",
+      "duration": "00:25:41",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/vod-thumbnail/b31bdb59-0d66-4917-bb3d-bdbfe116b26c.jpeg",
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section II : Technical Ability ( Numerical ) / 1. Most Most Imp - Data Interpretation / 1.Pie Chart",
+      "parentFolderId": 52553305,
+      "createdAt": "2026-05-13T07:55:57.000Z"
+    },
+    {
+      "id": 162552077,
+      "name": "2 - 02 Pie chart SET 02 SET 03 of sheet",
+      "duration": "00:14:59",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/vod-thumbnail/f24ff466-da10-430f-ad3e-18145c5b87e0.jpeg",
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section II : Technical Ability ( Numerical ) / 1. Most Most Imp - Data Interpretation / 1.Pie Chart",
+      "parentFolderId": 52553305,
+      "createdAt": "2026-05-13T07:55:57.000Z"
+    },
+    {
+      "id": 162552137,
+      "name": "LRDI from basic",
+      "duration": "01:18:50",
+      "thumbnailUrl": "https://cdn-wl-assets.classplus.co/production/single/bfwhv/862dc603-cbbe-4527-9818-8590f46b1fc6.png",
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section II : Technical Ability ( Numerical ) / 1. Most Most Imp - Data Interpretation / 2: LRDI - Live Imp",
+      "parentFolderId": 52553318,
+      "createdAt": "2026-05-13T07:55:58.000Z"
+    },
+    {
+      "id": 162552138,
+      "name": "02 LRDI",
+      "duration": "01:19:31",
+      "thumbnailUrl": "https://cdn-wl-assets.classplus.co/production/single/bfwhv/589f0de4-f4c5-43ad-8a1d-f9f651d44c2e.png",
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section II : Technical Ability ( Numerical ) / 1. Most Most Imp - Data Interpretation / 2: LRDI - Live Imp",
+      "parentFolderId": 52553318,
+      "createdAt": "2026-05-13T07:55:58.000Z"
+    },
+    {
+      "id": 162552139,
+      "name": "03 LRDI",
+      "duration": "01:09:15",
+      "thumbnailUrl": "https://cdn-wl-assets.classplus.co/production/single/bfwhv/dabaeff4-ddb9-4e95-8d2c-856068f1c41a.png",
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section II : Technical Ability ( Numerical ) / 1. Most Most Imp - Data Interpretation / 2: LRDI - Live Imp",
+      "parentFolderId": 52553318,
+      "createdAt": "2026-05-13T07:55:58.000Z"
+    },
+    {
+      "id": 162552160,
+      "name": "Radar Based D.I",
+      "duration": "00:21:12",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/vod-thumbnail/e5abd0f6-8dd1-4489-9055-528d8bbddcdc.jpeg",
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section II : Technical Ability ( Numerical ) / 1. Most Most Imp - Data Interpretation / 3. Advance Radar D. I",
+      "parentFolderId": 52553329,
+      "createdAt": "2026-05-13T07:56:00.000Z"
+    },
+    {
+      "id": 162552222,
+      "name": "caselete1.0",
+      "duration": "00:22:59",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/vod-thumbnail/d2f69a33-aa22-4afb-83cc-482a3dc7836f.jpeg",
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section II : Technical Ability ( Numerical ) / 1. Most Most Imp - Data Interpretation / 4. Caselet based D.I",
+      "parentFolderId": 52553340,
+      "createdAt": "2026-05-13T07:56:02.000Z"
+    },
+    {
+      "id": 162552256,
+      "name": "Missing D.I Q.1-5 solution",
+      "duration": "00:16:01",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/vod-thumbnail/4b4a5639-1918-4fc5-b04a-df2bcdb115fc.jpeg",
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section II : Technical Ability ( Numerical ) / 1. Most Most Imp - Data Interpretation / 5. Advance Missing D.I",
+      "parentFolderId": 52553352,
+      "createdAt": "2026-05-13T07:56:06.000Z"
+    },
+    {
+      "id": 162552257,
+      "name": "Miss. D.I Q6-10 solution",
+      "duration": "00:14:07",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/vod-thumbnail/bae65c00-9a43-48ad-84d8-54a1aae0e62d.jpeg",
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section II : Technical Ability ( Numerical ) / 1. Most Most Imp - Data Interpretation / 5. Advance Missing D.I",
+      "parentFolderId": 52553352,
+      "createdAt": "2026-05-13T07:56:06.000Z"
+    },
+    {
+      "id": 162552136,
+      "name": "1: Percentage All Type",
+      "duration": "01:34:01",
+      "thumbnailUrl": "https://cdn-wl-assets.classplus.co/production/single/bfwhv/903204ed-9255-4b76-80f2-7b5fe3c56ec6.png",
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section II : Technical Ability ( Numerical ) / 2. Numerical ability/Quantitative Aptitude / 1. Percentage - With DPP Solution ( 100 Questions)",
+      "parentFolderId": 52553317,
+      "createdAt": "2026-05-13T07:55:58.000Z"
+    },
+    {
+      "id": 162552135,
+      "name": "02: Percentage",
+      "duration": "01:11:09",
+      "thumbnailUrl": "https://cdn-wl-assets.classplus.co/production/single/bfwhv/1ffde2cf-db58-4c46-a2e6-1346df9b91a9.png",
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section II : Technical Ability ( Numerical ) / 2. Numerical ability/Quantitative Aptitude / 1. Percentage - With DPP Solution ( 100 Questions)",
+      "parentFolderId": 52553317,
+      "createdAt": "2026-05-13T07:55:58.000Z"
+    },
+    {
+      "id": 162552134,
+      "name": "03: Percentage",
+      "duration": "01:06:18",
+      "thumbnailUrl": "https://cdn-wl-assets.classplus.co/production/single/bfwhv/2d1b7039-98ae-4928-863e-1925830c800e.png",
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section II : Technical Ability ( Numerical ) / 2. Numerical ability/Quantitative Aptitude / 1. Percentage - With DPP Solution ( 100 Questions)",
+      "parentFolderId": 52553317,
+      "createdAt": "2026-05-13T07:55:58.000Z"
+    },
+    {
+      "id": 162552159,
+      "name": "Ratio And Proportion Prep",
+      "duration": "01:48:42",
+      "thumbnailUrl": "https://cdn-wl-assets.classplus.co/production/single/bfwhv/d51de962-0e06-41b1-8423-689d071be4e7.png",
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section II : Technical Ability ( Numerical ) / 2. Numerical ability/Quantitative Aptitude / 2. Ratio & Proportion",
+      "parentFolderId": 52553328,
+      "createdAt": "2026-05-13T07:56:00.000Z"
+    },
+    {
+      "id": 162552158,
+      "name": "Part 2: Ratio And Proportion Prep",
+      "duration": "01:16:01",
+      "thumbnailUrl": "https://cdn-wl-assets.classplus.co/production/single/bfwhv/28cc08af-c181-4dd3-acf1-93d62ee3be8b.png",
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section II : Technical Ability ( Numerical ) / 2. Numerical ability/Quantitative Aptitude / 2. Ratio & Proportion",
+      "parentFolderId": 52553328,
+      "createdAt": "2026-05-13T07:56:00.000Z"
+    },
+    {
+      "id": 162552218,
+      "name": "ALLIGATION 01",
+      "duration": "01:22:10",
+      "thumbnailUrl": "https://cdn-wl-assets.classplus.co/production/single/bfwhv/a0bf71b8-395a-4917-8f5e-eee1fff8d7fa.png",
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section II : Technical Ability ( Numerical ) / 2. Numerical ability/Quantitative Aptitude / 3: Mixture & Alligation",
+      "parentFolderId": 52553339,
+      "createdAt": "2026-05-13T07:56:02.000Z"
+    },
+    {
+      "id": 162552219,
+      "name": "MIXTURES 1",
+      "duration": "00:57:17",
+      "thumbnailUrl": "https://cdn-wl-assets.classplus.co/production/single/bfwhv/6d5c6e6d-ca77-4294-ae02-82df0ef5921c.png",
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section II : Technical Ability ( Numerical ) / 2. Numerical ability/Quantitative Aptitude / 3: Mixture & Alligation",
+      "parentFolderId": 52553339,
+      "createdAt": "2026-05-13T07:56:02.000Z"
+    },
+    {
+      "id": 162552221,
+      "name": "Tawa Fry Method + Replacement",
+      "duration": "01:30:19",
+      "thumbnailUrl": "https://cdn-wl-assets.classplus.co/production/single/bfwhv/19801d53-c89d-4d52-9cbf-f604559a7783.png",
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section II : Technical Ability ( Numerical ) / 2. Numerical ability/Quantitative Aptitude / 3: Mixture & Alligation",
+      "parentFolderId": 52553339,
+      "createdAt": "2026-05-13T07:56:02.000Z"
+    },
+    {
+      "id": 162552322,
+      "name": "1: Simple interest",
+      "duration": "01:58:45",
+      "thumbnailUrl": "https://cdn-wl-assets.classplus.co/production/single/bfwhv/4ee1c5b0-2490-4bfb-8de1-a2a67da22948.png",
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section II : Technical Ability ( Numerical ) / 2. Numerical ability/Quantitative Aptitude / 5: Simple & Compound interest + Installment",
+      "parentFolderId": 52553361,
+      "createdAt": "2026-05-13T07:56:09.000Z"
+    },
+    {
+      "id": 162552321,
+      "name": "2: Compound Interest",
+      "duration": "01:38:55",
+      "thumbnailUrl": "https://cdn-wl-assets.classplus.co/production/single/bfwhv/82c8e824-c1d0-4cee-8e48-eddb7b0bc08a.png",
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section II : Technical Ability ( Numerical ) / 2. Numerical ability/Quantitative Aptitude / 5: Simple & Compound interest + Installment",
+      "parentFolderId": 52553361,
+      "createdAt": "2026-05-13T07:56:09.000Z"
+    },
+    {
+      "id": 162552323,
+      "name": "3: SIMPLE & COMPOUND INTEREST",
+      "duration": "01:23:25",
+      "thumbnailUrl": "https://cdn-wl-assets.classplus.co/production/single/bfwhv/69392904-4e7c-40c4-a028-864125ae7221.png",
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section II : Technical Ability ( Numerical ) / 2. Numerical ability/Quantitative Aptitude / 5: Simple & Compound interest + Installment",
+      "parentFolderId": 52553361,
+      "createdAt": "2026-05-13T07:56:09.000Z"
+    },
+    {
+      "id": 162552253,
+      "name": "Profit and loss 01",
+      "duration": "01:30:02",
+      "thumbnailUrl": "https://cdn-wl-assets.classplus.co/production/single/bfwhv/db2e5be9-c1f7-4f90-8172-e20cece25663.png",
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section II : Technical Ability ( Numerical ) / 2. Numerical ability/Quantitative Aptitude / 4: Profit Loss & discount",
+      "parentFolderId": 52553351,
+      "createdAt": "2026-05-13T07:56:05.000Z"
+    },
+    {
+      "id": 162552254,
+      "name": "Profit and loss 02",
+      "duration": "01:33:18",
+      "thumbnailUrl": "https://cdn-wl-assets.classplus.co/production/single/bfwhv/4e6f7cac-fc07-44ac-9cd5-2e1673d35996.png",
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section II : Technical Ability ( Numerical ) / 2. Numerical ability/Quantitative Aptitude / 4: Profit Loss & discount",
+      "parentFolderId": 52553351,
+      "createdAt": "2026-05-13T07:56:05.000Z"
+    },
+    {
+      "id": 162552255,
+      "name": "Discount One Shot 1",
+      "duration": "01:53:12",
+      "thumbnailUrl": "https://cdn-wl-assets.classplus.co/production/single/bfwhv/db3ea492-3fbf-4fef-a99e-d8a60a8c8954.png",
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section II : Technical Ability ( Numerical ) / 2. Numerical ability/Quantitative Aptitude / 4: Profit Loss & discount",
+      "parentFolderId": 52553351,
+      "createdAt": "2026-05-13T07:56:05.000Z"
+    },
+    {
+      "id": 162552356,
+      "name": "01 Time & Work",
+      "duration": "01:24:51",
+      "thumbnailUrl": "https://cdn-wl-assets.classplus.co/production/single/bfwhv/630e88bf-bf47-4e1e-ac75-d9e8826f4504.png",
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section II : Technical Ability ( Numerical ) / 2. Numerical ability/Quantitative Aptitude / 6: Time & Work/ Pipes & Cistern",
+      "parentFolderId": 52553373,
+      "createdAt": "2026-05-13T07:56:12.000Z"
+    },
+    {
+      "id": 162552357,
+      "name": "02 Pipes & Cistern Prep",
+      "duration": "01:13:14",
+      "thumbnailUrl": "https://cdn-wl-assets.classplus.co/production/single/bfwhv/085c1fc9-a682-47b4-9278-79497c6f0067.png",
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section II : Technical Ability ( Numerical ) / 2. Numerical ability/Quantitative Aptitude / 6: Time & Work/ Pipes & Cistern",
+      "parentFolderId": 52553373,
+      "createdAt": "2026-05-13T07:56:12.000Z"
+    },
+    {
+      "id": 162552358,
+      "name": "03 Time & Work  Men & Women",
+      "duration": "01:49:00",
+      "thumbnailUrl": "https://cdn-wl-assets.classplus.co/production/single/bfwhv/20954c27-2d76-4a80-86c6-68568e0f8cfe.png",
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section II : Technical Ability ( Numerical ) / 2. Numerical ability/Quantitative Aptitude / 6: Time & Work/ Pipes & Cistern",
+      "parentFolderId": 52553373,
+      "createdAt": "2026-05-13T07:56:12.000Z"
+    },
+    {
+      "id": 162552380,
+      "name": "Q1-Q5",
+      "duration": "00:17:45",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/vod-thumbnail/6ebc2494-9e61-43d7-8efa-2870e0b67671.jpeg",
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section II : Technical Ability ( Numerical ) / 2. Numerical ability/Quantitative Aptitude / 7 Ages _ Tawa Fry Method",
+      "parentFolderId": 52553382,
+      "createdAt": "2026-05-13T07:56:15.000Z"
+    },
+    {
+      "id": 162552381,
+      "name": "Q6-Q11",
+      "duration": "00:21:35",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/vod-thumbnail/818968ba-c3c3-4bae-b253-7c77e47cab00.jpeg",
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section II : Technical Ability ( Numerical ) / 2. Numerical ability/Quantitative Aptitude / 7 Ages _ Tawa Fry Method",
+      "parentFolderId": 52553382,
+      "createdAt": "2026-05-13T07:56:15.000Z"
+    },
+    {
+      "id": 162552382,
+      "name": "Q12-Q15",
+      "duration": "00:12:36",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/vod-thumbnail/68196d42-f9eb-447f-ba66-509cb4d80e23.jpeg",
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section II : Technical Ability ( Numerical ) / 2. Numerical ability/Quantitative Aptitude / 7 Ages _ Tawa Fry Method",
+      "parentFolderId": 52553382,
+      "createdAt": "2026-05-13T07:56:15.000Z"
+    },
+    {
+      "id": 162552383,
+      "name": "Q15-Q20",
+      "duration": "00:22:14",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/vod-thumbnail/3abcb93d-a3dd-4eb4-96aa-54e8e9669ecd.jpeg",
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section II : Technical Ability ( Numerical ) / 2. Numerical ability/Quantitative Aptitude / 7 Ages _ Tawa Fry Method",
+      "parentFolderId": 52553382,
+      "createdAt": "2026-05-13T07:56:15.000Z"
+    },
+    {
+      "id": 162552414,
+      "name": "TSD 01",
+      "duration": "01:23:18",
+      "thumbnailUrl": "https://cdn-wl-assets.classplus.co/production/single/bfwhv/6946021a-2600-48aa-938c-1a89f01e2c7f.png",
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section II : Technical Ability ( Numerical ) / 2. Numerical ability/Quantitative Aptitude / 10: TSD (Time, Speed & Distance)",
+      "parentFolderId": 52553401,
+      "createdAt": "2026-05-13T07:56:21.000Z"
+    },
+    {
+      "id": 162552415,
+      "name": "TSD 02",
+      "duration": "01:34:59",
+      "thumbnailUrl": "https://cdn-wl-assets.classplus.co/production/single/bfwhv/2a1bd3c7-5c55-40a5-b225-1ab2b29f0d0d.png",
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section II : Technical Ability ( Numerical ) / 2. Numerical ability/Quantitative Aptitude / 10: TSD (Time, Speed & Distance)",
+      "parentFolderId": 52553401,
+      "createdAt": "2026-05-13T07:56:21.000Z"
+    },
+    {
+      "id": 162552416,
+      "name": "TSD 03",
+      "duration": "01:26:27",
+      "thumbnailUrl": "https://cdn-wl-assets.classplus.co/production/single/bfwhv/80ebfe8e-1e96-4e5b-834a-5d54d9576e5c.png",
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section II : Technical Ability ( Numerical ) / 2. Numerical ability/Quantitative Aptitude / 10: TSD (Time, Speed & Distance)",
+      "parentFolderId": 52553401,
+      "createdAt": "2026-05-13T07:56:21.000Z"
+    },
+    {
+      "id": 162552421,
+      "name": "Boat & Stream Questions",
+      "duration": "01:31:50",
+      "thumbnailUrl": "https://cdn-wl-assets.classplus.co/production/single/bfwhv/810ef0a8-3701-4958-bda9-c8dee8a3f264.png",
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section II : Technical Ability ( Numerical ) / 2. Numerical ability/Quantitative Aptitude / 11: Boat & Stream",
+      "parentFolderId": 52553408,
+      "createdAt": "2026-05-13T07:56:24.000Z"
+    },
+    {
+      "id": 162552417,
+      "name": "Partnership 01",
+      "duration": "00:30:51",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/vod-thumbnail/9f6527a5-5423-4ede-a55f-7b92085a849c.jpeg",
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section II : Technical Ability ( Numerical ) / 2. Numerical ability/Quantitative Aptitude / 8 Partnership & Average / 1 Partnership",
+      "parentFolderId": 52553402,
+      "createdAt": "2026-05-13T07:56:21.000Z"
+    },
+    {
+      "id": 162552418,
+      "name": "Partnership 02",
+      "duration": "00:35:17",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/vod-thumbnail/b98ed5a2-295e-4421-a945-4300f85be339.jpeg",
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section II : Technical Ability ( Numerical ) / 2. Numerical ability/Quantitative Aptitude / 8 Partnership & Average / 1 Partnership",
+      "parentFolderId": 52553402,
+      "createdAt": "2026-05-13T07:56:21.000Z"
+    },
+    {
+      "id": 162552422,
+      "name": "PART 01: Average",
+      "duration": "01:02:15",
+      "thumbnailUrl": "https://media-cdn.classplusapp.com/tencent/bfa3f0e0484a492b9047ea767a986167/thumbnail.jpg",
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section II : Technical Ability ( Numerical ) / 2. Numerical ability/Quantitative Aptitude / 8 Partnership & Average / 2 Average",
+      "parentFolderId": 52553409,
+      "createdAt": "2026-05-13T07:56:24.000Z"
+    },
+    {
+      "id": 162552423,
+      "name": "Part 02 - Average",
+      "duration": "01:16:30",
+      "thumbnailUrl": "https://media-cdn.classplusapp.com/tencent/b1b79e7aa4174f9f9738dac980f8c8a7/thumbnail.jpg",
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section II : Technical Ability ( Numerical ) / 2. Numerical ability/Quantitative Aptitude / 8 Partnership & Average / 2 Average",
+      "parentFolderId": 52553409,
+      "createdAt": "2026-05-13T07:56:24.000Z"
+    },
+    {
+      "id": 162552430,
+      "name": "Part 1:  Number System from Basic",
+      "duration": "01:44:55",
+      "thumbnailUrl": "https://cdn-wl-assets.classplus.co/production/single/bfwhv/94fee8d9-d351-4f63-bd58-1ba216b086e9.png",
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section II : Technical Ability ( Numerical ) / 2. Numerical ability/Quantitative Aptitude / 12: Number System from basic",
+      "parentFolderId": 52553415,
+      "createdAt": "2026-05-13T07:56:26.000Z"
+    },
+    {
+      "id": 162552431,
+      "name": "Part 2: Number System Updated Questions",
+      "duration": "01:26:53",
+      "thumbnailUrl": "https://cdn-wl-assets.classplus.co/production/single/bfwhv/90938507-a62a-4cca-8159-b64ef925c713.png",
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section II : Technical Ability ( Numerical ) / 2. Numerical ability/Quantitative Aptitude / 12: Number System from basic",
+      "parentFolderId": 52553415,
+      "createdAt": "2026-05-13T07:56:26.000Z"
+    },
+    {
+      "id": 162552432,
+      "name": "Part 3: UNIT DIGIT & FACTORS",
+      "duration": "01:15:56",
+      "thumbnailUrl": "https://cdn-wl-assets.classplus.co/production/single/bfwhv/e9e18968-c40c-4376-8d32-7bdde0bfa1dc.png",
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section II : Technical Ability ( Numerical ) / 2. Numerical ability/Quantitative Aptitude / 12: Number System from basic",
+      "parentFolderId": 52553415,
+      "createdAt": "2026-05-13T07:56:26.000Z"
+    },
+    {
+      "id": 162552433,
+      "name": "1: LCM/ HCF from basic",
+      "duration": "01:37:12",
+      "thumbnailUrl": "https://cdn-wl-assets.classplus.co/production/single/bfwhv/900f178c-bd66-47c8-8cd9-1dfd35fba1fb.png",
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section II : Technical Ability ( Numerical ) / 2. Numerical ability/Quantitative Aptitude / 13: LCM/ HCF From Basic",
+      "parentFolderId": 52553418,
+      "createdAt": "2026-05-13T07:56:28.000Z"
+    },
+    {
+      "id": 162552435,
+      "name": "PnC Prep from Basic",
+      "duration": "01:33:36",
+      "thumbnailUrl": "https://cdn-wl-assets.classplus.co/production/single/bfwhv/d5e04192-df60-48b8-b50c-f5ccebbf4b74.png",
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section II : Technical Ability ( Numerical ) / 2. Numerical ability/Quantitative Aptitude / 14: Permutation & Combination",
+      "parentFolderId": 52553420,
+      "createdAt": "2026-05-13T07:56:29.000Z"
+    },
+    {
+      "id": 162552434,
+      "name": "2: Permutation & Combination",
+      "duration": "01:12:54",
+      "thumbnailUrl": "https://cdn-wl-assets.classplus.co/production/single/bfwhv/64324c27-d2eb-4d47-989c-a45544787e43.png",
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section II : Technical Ability ( Numerical ) / 2. Numerical ability/Quantitative Aptitude / 14: Permutation & Combination",
+      "parentFolderId": 52553420,
+      "createdAt": "2026-05-13T07:56:29.000Z"
+    },
+    {
+      "id": 162552436,
+      "name": "Probability Type Bag based Ques",
+      "duration": "01:22:30",
+      "thumbnailUrl": "https://cdn-wl-assets.classplus.co/production/single/bfwhv/1eb4e7f7-b58a-46cf-af4a-ee5a9f684df2.png",
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section II : Technical Ability ( Numerical ) / 2. Numerical ability/Quantitative Aptitude / 15: Probability Questions prep",
+      "parentFolderId": 52553422,
+      "createdAt": "2026-05-13T07:56:31.000Z"
+    },
+    {
+      "id": 162552438,
+      "name": "1.1 BG Music Mensuration 3D Cheat Sheet",
+      "duration": "00:19:17",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/vod-thumbnail/f3d45484-1dfd-4df9-afc4-1db534453e48.jpg",
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section II : Technical Ability ( Numerical ) / 2. Numerical ability/Quantitative Aptitude / 16 : Mensuration / Updated Rachit Sir Mensuration",
+      "parentFolderId": 52553426,
+      "createdAt": "2026-05-13T07:56:31.000Z"
+    },
+    {
+      "id": 162552442,
+      "name": "Mensuartion 1.1",
+      "duration": "00:12:24",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/vod-thumbnail/995df2c6-6231-4e7a-bc08-cd932a26d396.jpg",
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section II : Technical Ability ( Numerical ) / 2. Numerical ability/Quantitative Aptitude / 16 : Mensuration / Updated Rachit Sir Mensuration",
+      "parentFolderId": 52553426,
+      "createdAt": "2026-05-13T07:56:31.000Z"
+    },
+    {
+      "id": 162552443,
+      "name": "Mensuartion 1.2",
+      "duration": "00:11:54",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/vod-thumbnail/b8156803-b055-4706-8adb-a290483ba270.jpg",
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section II : Technical Ability ( Numerical ) / 2. Numerical ability/Quantitative Aptitude / 16 : Mensuration / Updated Rachit Sir Mensuration",
+      "parentFolderId": 52553426,
+      "createdAt": "2026-05-13T07:56:31.000Z"
+    },
+    {
+      "id": 162552441,
+      "name": "Mensuartion 1.3",
+      "duration": "00:13:13",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/vod-thumbnail/3f3cbb87-063d-45a0-a41c-37c5193047e2.jpg",
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section II : Technical Ability ( Numerical ) / 2. Numerical ability/Quantitative Aptitude / 16 : Mensuration / Updated Rachit Sir Mensuration",
+      "parentFolderId": 52553426,
+      "createdAt": "2026-05-13T07:56:31.000Z"
+    },
+    {
+      "id": 162552439,
+      "name": "Mensuartion 1.6",
+      "duration": "00:20:26",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/vod-thumbnail/d5be26dc-7033-455d-9595-5d10623f942e.jpg",
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section II : Technical Ability ( Numerical ) / 2. Numerical ability/Quantitative Aptitude / 16 : Mensuration / Updated Rachit Sir Mensuration",
+      "parentFolderId": 52553426,
+      "createdAt": "2026-05-13T07:56:31.000Z"
+    },
+    {
+      "id": 162552440,
+      "name": "Mensuartion 1.4",
+      "duration": "00:09:46",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/vod-thumbnail/e3041bc6-276c-413d-803d-3502d036f9a5.jpg",
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section II : Technical Ability ( Numerical ) / 2. Numerical ability/Quantitative Aptitude / 16 : Mensuration / Updated Rachit Sir Mensuration",
+      "parentFolderId": 52553426,
+      "createdAt": "2026-05-13T07:56:31.000Z"
+    },
+    {
+      "id": 162552444,
+      "name": "Mensuartion 1.5",
+      "duration": "00:13:56",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/vod-thumbnail/9b5029ae-3a83-42c6-bccd-1821ffd19765.jpg",
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section II : Technical Ability ( Numerical ) / 2. Numerical ability/Quantitative Aptitude / 16 : Mensuration / Updated Rachit Sir Mensuration",
+      "parentFolderId": 52553426,
+      "createdAt": "2026-05-13T07:56:31.000Z"
+    },
+    {
+      "id": 162552437,
+      "name": "Clocks Aptitude Questions",
+      "duration": "01:42:43",
+      "thumbnailUrl": "https://cdn-wl-assets.classplus.co/production/single/bfwhv/873861e5-b865-4308-8ce0-ee35c2433ced.png",
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section II : Technical Ability ( Numerical ) / 2. Numerical ability/Quantitative Aptitude / 17: Clock Apti Questions",
+      "parentFolderId": 52553425,
+      "createdAt": "2026-05-13T07:56:31.000Z"
+    },
+    {
+      "id": 162552445,
+      "name": "Part 1: Quadratic Equations",
+      "duration": "01:20:39",
+      "thumbnailUrl": "https://cdn-wl-assets.classplus.co/production/single/bfwhv/9fd47362-88e5-42d2-a882-733e97aab4ac.png",
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section II : Technical Ability ( Numerical ) / 2. Numerical ability/Quantitative Aptitude / 18: Quadratic Equations",
+      "parentFolderId": 52553427,
+      "createdAt": "2026-05-13T07:56:32.000Z"
+    },
+    {
+      "id": 162552446,
+      "name": "Part 2: Quadratic Equations",
+      "duration": "01:12:05",
+      "thumbnailUrl": "https://cdn-wl-assets.classplus.co/production/single/bfwhv/99d859ed-4bae-49af-90d0-44ee6b544229.png",
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section II : Technical Ability ( Numerical ) / 2. Numerical ability/Quantitative Aptitude / 18: Quadratic Equations",
+      "parentFolderId": 52553427,
+      "createdAt": "2026-05-13T07:56:32.000Z"
+    },
+    {
+      "id": 162552072,
+      "name": "1. Pseudo Code PYQ",
+      "duration": "01:01:00",
+      "thumbnailUrl": "https://cdn-wl-assets.classplus.co/production/single/bfwhv/216f225b-ba24-48cf-b129-ef4a24d6bfff.png",
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section III : Pseudo Codes / Infosys Pseudo Live Class",
+      "parentFolderId": 52553303,
+      "createdAt": "2026-05-13T07:55:57.000Z"
+    },
+    {
+      "id": 162552073,
+      "name": "2: PSEUDO CODES",
+      "duration": "00:57:01",
+      "thumbnailUrl": "https://cdn-wl-assets.classplus.co/production/single/bfwhv/b1dbe4ea-ed51-4439-b91b-a842af471dc7.png",
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section III : Pseudo Codes / Infosys Pseudo Live Class",
+      "parentFolderId": 52553303,
+      "createdAt": "2026-05-13T07:55:57.000Z"
+    },
+    {
+      "id": 162552074,
+      "name": "3: Pseudo Code for Upcoming Exam",
+      "duration": "01:05:10",
+      "thumbnailUrl": "https://cdn-wl-assets.classplus.co/production/single/bfwhv/2c0611fd-5549-4e41-8207-581c8226efa5.png",
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section III : Pseudo Codes / Infosys Pseudo Live Class",
+      "parentFolderId": 52553303,
+      "createdAt": "2026-05-13T07:55:57.000Z"
+    },
+    {
+      "id": 162552075,
+      "name": "4: PYQ Pseudo code prep",
+      "duration": "01:05:26",
+      "thumbnailUrl": "https://cdn-wl-assets.classplus.co/production/single/bfwhv/8e9c2a92-8cbe-44e5-8e84-4b88e95b0bc9.png",
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section III : Pseudo Codes / Infosys Pseudo Live Class",
+      "parentFolderId": 52553303,
+      "createdAt": "2026-05-13T07:55:57.000Z"
+    },
+    {
+      "id": 162552119,
+      "name": "CapG1",
+      "duration": "00:11:29",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/vod-thumbnail/f6c38eb1-c598-40aa-bc5b-24e838ded009.jpg",
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section III : Pseudo Codes / 1.1 Pseudo Codes- Cpg/Infosys/Other",
+      "parentFolderId": 52553316,
+      "createdAt": "2026-05-13T07:55:58.000Z"
+    },
+    {
+      "id": 162552129,
+      "name": "CapG 2",
+      "duration": "00:39:53",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/vod-thumbnail/3941513b-8d56-4c24-843b-fd08ff95d019.jpg",
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section III : Pseudo Codes / 1.1 Pseudo Codes- Cpg/Infosys/Other",
+      "parentFolderId": 52553316,
+      "createdAt": "2026-05-13T07:55:58.000Z"
+    },
+    {
+      "id": 162552133,
+      "name": "capG 3",
+      "duration": "00:31:09",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/vod-thumbnail/313c16c4-df4c-4dd8-80bc-4ab492db8b4d.jpg",
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section III : Pseudo Codes / 1.1 Pseudo Codes- Cpg/Infosys/Other",
+      "parentFolderId": 52553316,
+      "createdAt": "2026-05-13T07:55:58.000Z"
+    },
+    {
+      "id": 162552126,
+      "name": "capG 4",
+      "duration": "00:31:10",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/vod-thumbnail/d923a568-89b0-42a1-bb89-1e71612d6e18.jpg",
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section III : Pseudo Codes / 1.1 Pseudo Codes- Cpg/Infosys/Other",
+      "parentFolderId": 52553316,
+      "createdAt": "2026-05-13T07:55:58.000Z"
+    },
+    {
+      "id": 162552128,
+      "name": "capG 5",
+      "duration": "00:33:13",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/vod-thumbnail/928690cb-bcf8-4541-987e-30a8ed99a552.jpg",
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section III : Pseudo Codes / 1.1 Pseudo Codes- Cpg/Infosys/Other",
+      "parentFolderId": 52553316,
+      "createdAt": "2026-05-13T07:55:58.000Z"
+    },
+    {
+      "id": 162552131,
+      "name": "capg 6",
+      "duration": "00:27:14",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/vod-thumbnail/194173be-6702-4f54-81be-85ad193b6080.jpg",
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section III : Pseudo Codes / 1.1 Pseudo Codes- Cpg/Infosys/Other",
+      "parentFolderId": 52553316,
+      "createdAt": "2026-05-13T07:55:58.000Z"
+    },
+    {
+      "id": 162552123,
+      "name": "capg 7",
+      "duration": "00:29:48",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/vod-thumbnail/e1241667-aa6a-4d24-bfe3-b23b7cc4645a.jpg",
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section III : Pseudo Codes / 1.1 Pseudo Codes- Cpg/Infosys/Other",
+      "parentFolderId": 52553316,
+      "createdAt": "2026-05-13T07:55:58.000Z"
+    },
+    {
+      "id": 162552125,
+      "name": "capg 8",
+      "duration": "00:30:48",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/vod-thumbnail/a1298274-4963-4243-a826-8cea932f3fdc.jpg",
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section III : Pseudo Codes / 1.1 Pseudo Codes- Cpg/Infosys/Other",
+      "parentFolderId": 52553316,
+      "createdAt": "2026-05-13T07:55:58.000Z"
+    },
+    {
+      "id": 162552124,
+      "name": "capg9",
+      "duration": "00:34:37",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/vod-thumbnail/910b0b5b-4238-48b7-8668-c33cd62ad94b.jpg",
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section III : Pseudo Codes / 1.1 Pseudo Codes- Cpg/Infosys/Other",
+      "parentFolderId": 52553316,
+      "createdAt": "2026-05-13T07:55:58.000Z"
+    },
+    {
+      "id": 162552117,
+      "name": "capg10",
+      "duration": "00:18:03",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/vod-thumbnail/836659f7-1f90-49b0-a638-146b10ce14cd.jpg",
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section III : Pseudo Codes / 1.1 Pseudo Codes- Cpg/Infosys/Other",
+      "parentFolderId": 52553316,
+      "createdAt": "2026-05-13T07:55:58.000Z"
+    },
+    {
+      "id": 162552122,
+      "name": "capg11",
+      "duration": "00:21:07",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/vod-thumbnail/81c9f569-cae1-4262-a67f-0d890f84f7a5.jpg",
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section III : Pseudo Codes / 1.1 Pseudo Codes- Cpg/Infosys/Other",
+      "parentFolderId": 52553316,
+      "createdAt": "2026-05-13T07:55:58.000Z"
+    },
+    {
+      "id": 162552118,
+      "name": "capg12",
+      "duration": "00:32:57",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/vod-thumbnail/62cdb883-27f0-4208-a6d5-1ac0853ba311.jpg",
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section III : Pseudo Codes / 1.1 Pseudo Codes- Cpg/Infosys/Other",
+      "parentFolderId": 52553316,
+      "createdAt": "2026-05-13T07:55:58.000Z"
+    },
+    {
+      "id": 162552132,
+      "name": "capg 13 DBMS",
+      "duration": "00:37:21",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/vod-thumbnail/9547474f-2419-43d6-8314-f8449db7d724.jpg",
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section III : Pseudo Codes / 1.1 Pseudo Codes- Cpg/Infosys/Other",
+      "parentFolderId": 52553316,
+      "createdAt": "2026-05-13T07:55:58.000Z"
+    },
+    {
+      "id": 162552120,
+      "name": "capg 14 _ Computer Networking",
+      "duration": "00:26:50",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/vod-thumbnail/e5e28282-0076-457b-8d7d-582254e0a14f.jpg",
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section III : Pseudo Codes / 1.1 Pseudo Codes- Cpg/Infosys/Other",
+      "parentFolderId": 52553316,
+      "createdAt": "2026-05-13T07:55:58.000Z"
+    },
+    {
+      "id": 162552121,
+      "name": "capg15 Operating System",
+      "duration": "00:28:43",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/vod-thumbnail/88dce611-8db9-4dc2-b074-7f94583adf9d.jpg",
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section III : Pseudo Codes / 1.1 Pseudo Codes- Cpg/Infosys/Other",
+      "parentFolderId": 52553316,
+      "createdAt": "2026-05-13T07:55:58.000Z"
+    },
+    {
+      "id": 162552130,
+      "name": "capg16",
+      "duration": "00:31:20",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/vod-thumbnail/a8e74444-28a9-443e-af2d-327fc322e9c6.jpg",
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section III : Pseudo Codes / 1.1 Pseudo Codes- Cpg/Infosys/Other",
+      "parentFolderId": 52553316,
+      "createdAt": "2026-05-13T07:55:58.000Z"
+    },
+    {
+      "id": 162552127,
+      "name": "capg17",
+      "duration": "00:31:42",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/vod-thumbnail/39b6ece4-619b-4bb1-aa2f-41c6c32cbcff.jpg",
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section III : Pseudo Codes / 1.1 Pseudo Codes- Cpg/Infosys/Other",
+      "parentFolderId": 52553316,
+      "createdAt": "2026-05-13T07:55:58.000Z"
+    },
+    {
+      "id": 162552112,
+      "name": "1. Infosys Actual Paper",
+      "duration": "00:52:12",
+      "thumbnailUrl": "https://cdn-wl-assets.classplus.co/production/single/bfwhv/802f750d-5c2c-47a8-b7ef-c526bfd257d2.png",
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section IV & V : English & Grammar / Live : Infosys Previous year",
+      "parentFolderId": 52553315,
+      "createdAt": "2026-05-13T07:55:58.000Z"
+    },
+    {
+      "id": 162552111,
+      "name": "2 Assorted Infosys",
+      "duration": "01:12:51",
+      "thumbnailUrl": "https://cdn-wl-assets.classplus.co/production/single/bfwhv/3341320e-e34a-4540-9ebb-2102ff0a02f5.png",
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section IV & V : English & Grammar / Live : Infosys Previous year",
+      "parentFolderId": 52553315,
+      "createdAt": "2026-05-13T07:55:58.000Z"
+    },
+    {
+      "id": 162552114,
+      "name": "3: Advance Sentence Correction",
+      "duration": "01:08:44",
+      "thumbnailUrl": "https://cdn-wl-assets.classplus.co/production/single/bfwhv/1fa80dd8-7cfe-44bc-bbc1-5738030f138a.png",
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section IV & V : English & Grammar / Live : Infosys Previous year",
+      "parentFolderId": 52553315,
+      "createdAt": "2026-05-13T07:55:58.000Z"
+    },
+    {
+      "id": 162552113,
+      "name": "4: PYQ Verbal Assorted Questions",
+      "duration": "01:18:48",
+      "thumbnailUrl": "https://cdn-wl-assets.classplus.co/production/single/bfwhv/7a5fbc30-fd5a-4f76-83cc-1a0381e7f94b.png",
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section IV & V : English & Grammar / Live : Infosys Previous year",
+      "parentFolderId": 52553315,
+      "createdAt": "2026-05-13T07:55:58.000Z"
+    },
+    {
+      "id": 162552115,
+      "name": "5: PYQ Verbal Ability",
+      "duration": "01:11:09",
+      "thumbnailUrl": "https://cdn-wl-assets.classplus.co/production/single/bfwhv/db6832c0-5444-431e-937b-6d7ea942cdd7.png",
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section IV & V : English & Grammar / Live : Infosys Previous year",
+      "parentFolderId": 52553315,
+      "createdAt": "2026-05-13T07:55:58.000Z"
+    },
+    {
+      "id": 162552116,
+      "name": "6: Assorted Verbal Questions",
+      "duration": "01:02:11",
+      "thumbnailUrl": "https://cdn-wl-assets.classplus.co/production/single/bfwhv/170539e2-cfaa-4e15-8462-4a525a227c68.png",
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section IV & V : English & Grammar / Live : Infosys Previous year",
+      "parentFolderId": 52553315,
+      "createdAt": "2026-05-13T07:55:58.000Z"
+    },
+    {
+      "id": 162552252,
+      "name": "One word substitution 1",
+      "duration": "00:23:24",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/vod-thumbnail/c7703ccc-047e-4489-a4d4-bb3e51a3d1fd.jpeg",
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section IV & V : English & Grammar / Module 2: One word  substitution",
+      "parentFolderId": 52553349,
+      "createdAt": "2026-05-13T07:56:05.000Z"
+    },
+    {
+      "id": 162552251,
+      "name": "One word substitution 2",
+      "duration": "00:15:46",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/vod-thumbnail/7b4da002-89df-424e-87a7-df3d173c613c.jpeg",
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section IV & V : English & Grammar / Module 2: One word  substitution",
+      "parentFolderId": 52553349,
+      "createdAt": "2026-05-13T07:56:05.000Z"
+    },
+    {
+      "id": 162552250,
+      "name": "One word substitution 3",
+      "duration": "00:24:40",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/vod-thumbnail/497dd8af-dbe8-4759-9d90-8ab3509e0763.jpeg",
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section IV & V : English & Grammar / Module 2: One word  substitution",
+      "parentFolderId": 52553349,
+      "createdAt": "2026-05-13T07:56:05.000Z"
+    },
+    {
+      "id": 162552213,
+      "name": "vocab 1",
+      "duration": "00:23:15",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/vod-thumbnail/f4e6feb7-e4fd-4ff7-b2da-2617c2c84499.jpeg",
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section IV & V : English & Grammar / Module 1: Vocab",
+      "parentFolderId": 52553338,
+      "createdAt": "2026-05-13T07:56:02.000Z"
+    },
+    {
+      "id": 162552216,
+      "name": "vocab 2",
+      "duration": "00:22:03",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/vod-thumbnail/40ea1235-3871-412d-a1ba-aa53b3097e02.jpeg",
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section IV & V : English & Grammar / Module 1: Vocab",
+      "parentFolderId": 52553338,
+      "createdAt": "2026-05-13T07:56:02.000Z"
+    },
+    {
+      "id": 162552214,
+      "name": "vocab 3",
+      "duration": "00:22:09",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/vod-thumbnail/e2be5d6a-11a9-4cb9-b81f-31b416ee5e9f.jpeg",
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section IV & V : English & Grammar / Module 1: Vocab",
+      "parentFolderId": 52553338,
+      "createdAt": "2026-05-13T07:56:02.000Z"
+    },
+    {
+      "id": 162552217,
+      "name": "Vocab Lec 4",
+      "duration": "00:22:36",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/vod-thumbnail/0b20d9d3-6048-4414-ad8e-272a086b82db.jpeg",
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section IV & V : English & Grammar / Module 1: Vocab",
+      "parentFolderId": 52553338,
+      "createdAt": "2026-05-13T07:56:02.000Z"
+    },
+    {
+      "id": 162552215,
+      "name": "Vocab Lec 5",
+      "duration": "00:23:03",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/vod-thumbnail/410970c3-ed5e-4294-997f-5be32fe729ca.jpeg",
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section IV & V : English & Grammar / Module 1: Vocab",
+      "parentFolderId": 52553338,
+      "createdAt": "2026-05-13T07:56:02.000Z"
+    },
+    {
+      "id": 162552317,
+      "name": "1. RC Introduction",
+      "duration": "00:22:08",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/vod-thumbnail/459d3c3f-598f-467f-8e22-0392fe90c8d9.jpeg",
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section IV & V : English & Grammar / Module 3: Reading Comprehension",
+      "parentFolderId": 52553360,
+      "createdAt": "2026-05-13T07:56:08.000Z"
+    },
+    {
+      "id": 162552319,
+      "name": "2. RC Tones",
+      "duration": "00:29:34",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/vod-thumbnail/ea02458d-7433-4401-8589-72abeebbba32.jpeg",
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section IV & V : English & Grammar / Module 3: Reading Comprehension",
+      "parentFolderId": 52553360,
+      "createdAt": "2026-05-13T07:56:08.000Z"
+    },
+    {
+      "id": 162552318,
+      "name": "3. Strategies to ace RC",
+      "duration": "00:19:30",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/vod-thumbnail/6819f45c-a25d-4100-ac4c-59fc72d73b63.jpeg",
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section IV & V : English & Grammar / Module 3: Reading Comprehension",
+      "parentFolderId": 52553360,
+      "createdAt": "2026-05-13T07:56:08.000Z"
+    },
+    {
+      "id": 162552320,
+      "name": "4. Tones Identification  Questions",
+      "duration": "00:10:22",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/vod-thumbnail/2a8e265e-df33-4e7e-91c3-402cd501ca69.jpeg",
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section IV & V : English & Grammar / Module 3: Reading Comprehension",
+      "parentFolderId": 52553360,
+      "createdAt": "2026-05-13T07:56:08.000Z"
+    },
+    {
+      "id": 162552316,
+      "name": "5. Types of Questions in RC",
+      "duration": "00:17:24",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/vod-thumbnail/668ea690-c6c4-43c7-bbaa-8f698bdda716.jpeg",
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section IV & V : English & Grammar / Module 3: Reading Comprehension",
+      "parentFolderId": 52553360,
+      "createdAt": "2026-05-13T07:56:08.000Z"
+    },
+    {
+      "id": 162552354,
+      "name": "SVA 1",
+      "duration": "00:22:46",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/vod-thumbnail/3024f69c-80c6-4e06-a0e4-e8f135f45503.jpeg",
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section IV & V : English & Grammar / Module 4: Error Detection- SVA",
+      "parentFolderId": 52553372,
+      "createdAt": "2026-05-13T07:56:12.000Z"
+    },
+    {
+      "id": 162552355,
+      "name": "SVA 2",
+      "duration": "00:13:17",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/vod-thumbnail/db1e9dc5-f905-4569-b38b-ae99b3756099.jpeg",
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section IV & V : English & Grammar / Module 4: Error Detection- SVA",
+      "parentFolderId": 52553372,
+      "createdAt": "2026-05-13T07:56:12.000Z"
+    },
+    {
+      "id": 162552353,
+      "name": "SVA 3",
+      "duration": "00:12:34",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/vod-thumbnail/d5577c9b-0011-486d-87ad-c3e83d55d58c.jpeg",
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section IV & V : English & Grammar / Module 4: Error Detection- SVA",
+      "parentFolderId": 52553372,
+      "createdAt": "2026-05-13T07:56:12.000Z"
+    },
+    {
+      "id": 162552352,
+      "name": "Live (SVA)",
+      "duration": "01:00:33",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/vod-thumbnail/af4a54c5-7f11-4e03-b6cb-8ae194a62af5.jpg",
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section IV & V : English & Grammar / Module 4: Error Detection- SVA",
+      "parentFolderId": 52553372,
+      "createdAt": "2026-05-13T07:56:12.000Z"
+    },
+    {
+      "id": 162552378,
+      "name": "Articles",
+      "duration": "01:13:17",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/vod-thumbnail/402e9d80-90e3-494a-8dce-d5de874e7d7a.jpg",
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section IV & V : English & Grammar / Module 5: Error - Article",
+      "parentFolderId": 52553381,
+      "createdAt": "2026-05-13T07:56:15.000Z"
+    },
+    {
+      "id": 162552379,
+      "name": "Article 2",
+      "duration": "01:02:08",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/vod-thumbnail/0402da69-319f-45b9-a6e2-b4d77130391e.jpg",
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section IV & V : English & Grammar / Module 5: Error - Article",
+      "parentFolderId": 52553381,
+      "createdAt": "2026-05-13T07:56:15.000Z"
+    },
+    {
+      "id": 162552403,
+      "name": "Live - 1",
+      "duration": "01:26:46",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/vod-thumbnail/d89ca649-21c7-4cef-9c0d-620dc9f69541.jpg",
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section IV & V : English & Grammar / Module 6: Error- Parallelism",
+      "parentFolderId": 52553391,
+      "createdAt": "2026-05-13T07:56:18.000Z"
+    },
+    {
+      "id": 162552110,
+      "name": "Infosys Number puzzle",
+      "duration": "01:45:26",
+      "thumbnailUrl": "https://cdn-wl-assets.classplus.co/production/single/bfwhv/5ebcaf6b-15fd-4ad2-b46e-ac4ae9635cd0.png",
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section VI: Puzzle Solving",
+      "parentFolderId": 52553313,
+      "createdAt": "2026-05-13T07:55:58.000Z"
+    },
+    {
+      "id": 162552154,
+      "name": "Part 1: Essay Question Prep",
+      "duration": "00:10:27",
+      "thumbnailUrl": "https://media-cdn.classplusapp.com/44032/cc/0d3a1b5bd489400bb59930208371d4c8-56/thumbnail.png",
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section VII : Essay Writing",
+      "parentFolderId": 52553325,
+      "createdAt": "2026-05-13T07:55:59.000Z"
+    },
+    {
+      "id": 162552157,
+      "name": "Part 2: Essay Question Prep",
+      "duration": "00:07:47",
+      "thumbnailUrl": "https://media-cdn.classplusapp.com/44032/cc/b00b3c0bf36f40a8bd2bb13b8d2ac4eb-dp/thumbnail.png",
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section VII : Essay Writing",
+      "parentFolderId": 52553325,
+      "createdAt": "2026-05-13T07:55:59.000Z"
+    },
+    {
+      "id": 162552155,
+      "name": "Part 3: Essay Question Prep",
+      "duration": "00:10:15",
+      "thumbnailUrl": "https://media-cdn.classplusapp.com/44032/cc/5830dba915ed4b9287abfd2e4993ec14-j1/thumbnail.png",
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section VII : Essay Writing",
+      "parentFolderId": 52553325,
+      "createdAt": "2026-05-13T07:55:59.000Z"
+    },
+    {
+      "id": 162552156,
+      "name": "Part 4: Essay Question Prep",
+      "duration": "00:10:45",
+      "thumbnailUrl": "https://media-cdn.classplusapp.com/44032/cc/1fca8b56e062461eaa2813da954e5dc1-es/thumbnail.png",
+      "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section VII : Essay Writing",
+      "parentFolderId": 52553325,
+      "createdAt": "2026-05-13T07:55:59.000Z"
+    },
+    {
+      "id": 170292060,
+      "name": "Q1: Infosys PYQ",
+      "duration": "00:27:49",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/44032/cc/9280fa3c6ec646e696d41d9c59e25c92-s9/thumbnail.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / NEW - DSE/ SE: Infosys Coding Questions",
+      "parentFolderId": 55168121,
+      "createdAt": "2026-07-23T12:41:03.000Z"
+    },
+    {
+      "id": 170292062,
+      "name": "Q2: Infosys PYQ",
+      "duration": "00:38:05",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/44032/cc/52d1153669d54ff29d8fdfdb6197f880-pr/thumbnail.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / NEW - DSE/ SE: Infosys Coding Questions",
+      "parentFolderId": 55168121,
+      "createdAt": "2026-07-23T12:41:03.000Z"
+    },
+    {
+      "id": 170292061,
+      "name": "Q3: Infosys PYQ",
+      "duration": "00:21:42",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/44032/cc/8c2f84a08fbb4a30a597f7083f2b4200-sm/thumbnail.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / NEW - DSE/ SE: Infosys Coding Questions",
+      "parentFolderId": 55168121,
+      "createdAt": "2026-07-23T12:41:03.000Z"
+    },
+    {
+      "id": 170292063,
+      "name": "Q4: Infosys - PYQ - Linked List",
+      "duration": "00:15:20",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/44032/cc/b5beef3beb0c471d91414fec8f901dc5-ck/thumbnail.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / NEW - DSE/ SE: Infosys Coding Questions",
+      "parentFolderId": 55168121,
+      "createdAt": "2026-07-23T12:41:03.000Z"
+    },
+    {
+      "id": 170292067,
+      "name": "Q5: Infosys PYQ - Dynamic Programming - 1",
+      "duration": "00:16:37",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/44032/cc/6802e1e7aa6b4b6fbcc50e71b40d4cc5-kp/thumbnail.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / NEW - DSE/ SE: Infosys Coding Questions",
+      "parentFolderId": 55168121,
+      "createdAt": "2026-07-23T12:41:03.000Z"
+    },
+    {
+      "id": 170292066,
+      "name": "Q6: Infosys PYQ - Dynamic Programming - 2",
+      "duration": "00:17:13",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/44032/cc/36806cb7934b45ffbfccd6d1cc061c06-l1/thumbnail.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / NEW - DSE/ SE: Infosys Coding Questions",
+      "parentFolderId": 55168121,
+      "createdAt": "2026-07-23T12:41:03.000Z"
+    },
+    {
+      "id": 170292065,
+      "name": "Q7: Infosys PYQ -  Dynamic Programming",
+      "duration": "00:12:56",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/44032/cc/c905c2eee09c4810926c86a7b747a97c-4k/thumbnail.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / NEW - DSE/ SE: Infosys Coding Questions",
+      "parentFolderId": 55168121,
+      "createdAt": "2026-07-23T12:41:03.000Z"
+    },
+    {
+      "id": 170292064,
+      "name": "Q8: Infosys PYQ- SEDSE - DNF - 1",
+      "duration": "00:10:56",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/44032/cc/9731f355851146f58f3844709b593884-aq/thumbnail.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / NEW - DSE/ SE: Infosys Coding Questions",
+      "parentFolderId": 55168121,
+      "createdAt": "2026-07-23T12:41:03.000Z"
+    },
+    {
+      "id": 170292069,
+      "name": "Q9: Infosys PYQ - Binary Tree - 1",
+      "duration": "00:17:57",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/44032/cc/c51bde9b5efd4f7cbadc71b81f06d157-5o/thumbnail.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / NEW - DSE/ SE: Infosys Coding Questions",
+      "parentFolderId": 55168121,
+      "createdAt": "2026-07-23T12:41:03.000Z"
+    },
+    {
+      "id": 170292068,
+      "name": "Q10: Infosys PYQ - Backtracking - 1",
+      "duration": "00:27:19",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/44032/cc/59a3d313f8bc40569e49d5f0565b5393-33/thumbnail.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / NEW - DSE/ SE: Infosys Coding Questions",
+      "parentFolderId": 55168121,
+      "createdAt": "2026-07-23T12:41:03.000Z"
+    },
+    {
+      "id": 171280200,
+      "name": "Q11: Infosys - Validate Binary Search Tree (Infosys series)",
+      "duration": "00:14:02",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/44032/cc/8c6bf417185844d2ad7b14114315d29f-zu/thumbnail.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / NEW - DSE/ SE: Infosys Coding Questions",
+      "parentFolderId": 55168121,
+      "createdAt": "2026-08-02T08:18:32.000Z"
+    },
+    {
+      "id": 171280201,
+      "name": "Q12: Infosys - Edit Distance Recursion + DP solution",
+      "duration": "00:18:12",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/44032/cc/abb2183e70c14cc3818052e7a05c66d7-87/thumbnail.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / NEW - DSE/ SE: Infosys Coding Questions",
+      "parentFolderId": 55168121,
+      "createdAt": "2026-08-02T08:18:32.000Z"
+    },
+    {
+      "id": 171280202,
+      "name": "Q13: Infosys - Maximum Product sub array",
+      "duration": "00:12:01",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/44032/cc/d57c07c0dede420583f9355f0a790fd8-nv/thumbnail.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / NEW - DSE/ SE: Infosys Coding Questions",
+      "parentFolderId": 55168121,
+      "createdAt": "2026-08-02T08:18:32.000Z"
+    },
+    {
+      "id": 162552140,
+      "name": "Java Intro",
+      "duration": "00:05:45",
+      "thumbnailUrl": "https://cdn-wl-assets.classplus.co/production/single/bfwhv/30790ea7-bb94-4420-bba7-29bb0e3c15ae.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.1. DSA in Java with Itika Ma'am - Black Book Sol / Module 1:  Basic Java Intro and how to take Input/",
+      "parentFolderId": 52553319,
+      "createdAt": "2026-05-13T07:55:58.000Z"
+    },
+    {
+      "id": 162552141,
+      "name": "Class 1 :  Java Basic Introduction",
+      "duration": "00:33:36",
+      "thumbnailUrl": "https://cdn-wl-assets.classplus.co/production/single/bfwhv/59447c5d-43f0-4cf1-af15-068637aabbe8.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.1. DSA in Java with Itika Ma'am - Black Book Sol / Module 1:  Basic Java Intro and how to take Input/",
+      "parentFolderId": 52553319,
+      "createdAt": "2026-05-13T07:55:58.000Z"
+    },
+    {
+      "id": 162552142,
+      "name": "Class 2 :  Taking Input & Output in Java",
+      "duration": "00:30:52",
+      "thumbnailUrl": "https://cdn-wl-assets.classplus.co/production/single/bfwhv/a59f5840-3986-4aba-8a28-6197a354daf2.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.1. DSA in Java with Itika Ma'am - Black Book Sol / Module 1:  Basic Java Intro and how to take Input/",
+      "parentFolderId": 52553319,
+      "createdAt": "2026-05-13T07:55:58.000Z"
+    },
+    {
+      "id": 162552161,
+      "name": "Class 3 :  Basic Maths Important Questions 1",
+      "duration": "00:54:57",
+      "thumbnailUrl": "https://cdn-wl-assets.classplus.co/production/single/bfwhv/26e9571e-26f0-45e2-8462-a6fe8f8233eb.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.1. DSA in Java with Itika Ma'am - Black Book Sol / Module 2: Important Mathematics concepts and PYQ",
+      "parentFolderId": 52553330,
+      "createdAt": "2026-05-13T07:56:00.000Z"
+    },
+    {
+      "id": 162552162,
+      "name": "Class 4 :  Maths Important Questions 2",
+      "duration": "01:03:12",
+      "thumbnailUrl": "https://cdn-wl-assets.classplus.co/production/single/bfwhv/0d1126d3-015c-4781-b000-8a2d79675b13.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.1. DSA in Java with Itika Ma'am - Black Book Sol / Module 2: Important Mathematics concepts and PYQ",
+      "parentFolderId": 52553330,
+      "createdAt": "2026-05-13T07:56:00.000Z"
+    },
+    {
+      "id": 162552226,
+      "name": "Class 5 : Java Arrays Introduction",
+      "duration": "00:33:24",
+      "thumbnailUrl": "https://cdn-wl-assets.classplus.co/production/single/bfwhv/7eb9cc9a-eca3-4f57-bc65-7b09daa3c05f.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.1. DSA in Java with Itika Ma'am - Black Book Sol / Module 3: Java Arrays",
+      "parentFolderId": 52553341,
+      "createdAt": "2026-05-13T07:56:03.000Z"
+    },
+    {
+      "id": 162552227,
+      "name": "Class 6 : Input an Array in Java",
+      "duration": "00:20:06",
+      "thumbnailUrl": "https://cdn-wl-assets.classplus.co/production/single/bfwhv/57ae205c-76d3-4e4c-ac2a-698a33b0686a.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.1. DSA in Java with Itika Ma'am - Black Book Sol / Module 3: Java Arrays",
+      "parentFolderId": 52553341,
+      "createdAt": "2026-05-13T07:56:03.000Z"
+    },
+    {
+      "id": 162552225,
+      "name": "Class 7 : Searching in Array",
+      "duration": "01:10:32",
+      "thumbnailUrl": "https://cdn-wl-assets.classplus.co/production/single/bfwhv/52af9c46-7692-44c9-b85f-89e2f92c50c6.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.1. DSA in Java with Itika Ma'am - Black Book Sol / Module 3: Java Arrays",
+      "parentFolderId": 52553341,
+      "createdAt": "2026-05-13T07:56:03.000Z"
+    },
+    {
+      "id": 162552224,
+      "name": "Class 8 : Reverse & Rotate Array in Java",
+      "duration": "00:54:58",
+      "thumbnailUrl": "https://cdn-wl-assets.classplus.co/production/single/bfwhv/c52cec50-98f2-4e36-a310-067957463354.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.1. DSA in Java with Itika Ma'am - Black Book Sol / Module 3: Java Arrays",
+      "parentFolderId": 52553341,
+      "createdAt": "2026-05-13T07:56:03.000Z"
+    },
+    {
+      "id": 162552223,
+      "name": "Class 9 : Dynamic Arrays in Java",
+      "duration": "00:34:40",
+      "thumbnailUrl": "https://cdn-wl-assets.classplus.co/production/single/bfwhv/a3a8c2f2-daed-466b-bd1f-17f83b23bd43.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.1. DSA in Java with Itika Ma'am - Black Book Sol / Module 3: Java Arrays",
+      "parentFolderId": 52553341,
+      "createdAt": "2026-05-13T07:56:03.000Z"
+    },
+    {
+      "id": 162552229,
+      "name": "Class 10 : Java Array PYQ",
+      "duration": "00:53:07",
+      "thumbnailUrl": "https://cdn-wl-assets.classplus.co/production/single/bfwhv/1f50f2d9-0cae-4671-b7da-b2e4b00c45f9.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.1. DSA in Java with Itika Ma'am - Black Book Sol / Module 3: Java Arrays",
+      "parentFolderId": 52553341,
+      "createdAt": "2026-05-13T07:56:03.000Z"
+    },
+    {
+      "id": 162552228,
+      "name": "Class 11 : Java Arrays PYQ",
+      "duration": "00:27:26",
+      "thumbnailUrl": "https://cdn-wl-assets.classplus.co/production/single/bfwhv/f20f9843-1340-4091-9356-c26ba0acf6f8.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.1. DSA in Java with Itika Ma'am - Black Book Sol / Module 3: Java Arrays",
+      "parentFolderId": 52553341,
+      "createdAt": "2026-05-13T07:56:03.000Z"
+    },
+    {
+      "id": 162552231,
+      "name": "Class 12: Java union of two sorted arrays",
+      "duration": "00:30:38",
+      "thumbnailUrl": "https://cdn-wl-assets.classplus.co/production/single/bfwhv/b6cb0dbb-678c-4b70-b379-f939653d6d54.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.1. DSA in Java with Itika Ma'am - Black Book Sol / Module 3: Java Arrays",
+      "parentFolderId": 52553341,
+      "createdAt": "2026-05-13T07:56:03.000Z"
+    },
+    {
+      "id": 162552230,
+      "name": "Class 14: Dutch National Flag Algorithm",
+      "duration": "00:29:59",
+      "thumbnailUrl": "https://cdn-wl-assets.classplus.co/production/single/bfwhv/a923fc9e-443c-443a-9de1-af8dbdfad4ae.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.1. DSA in Java with Itika Ma'am - Black Book Sol / Module 3: Java Arrays",
+      "parentFolderId": 52553341,
+      "createdAt": "2026-05-13T07:56:03.000Z"
+    },
+    {
+      "id": 162552232,
+      "name": "Class 15: Single among double in sorted array",
+      "duration": "00:37:31",
+      "thumbnailUrl": "https://cdn-wl-assets.classplus.co/production/single/bfwhv/235f40f9-5671-43af-b669-02f935edfe99.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.1. DSA in Java with Itika Ma'am - Black Book Sol / Module 3: Java Arrays",
+      "parentFolderId": 52553341,
+      "createdAt": "2026-05-13T07:56:03.000Z"
+    },
+    {
+      "id": 162552258,
+      "name": "Class 16: Map in Java",
+      "duration": "00:25:01",
+      "thumbnailUrl": "https://cdn-wl-assets.classplus.co/production/single/bfwhv/65e9054a-b8cc-4b3c-ac6f-cd7acc58bf1b.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.1. DSA in Java with Itika Ma'am - Black Book Sol / Module 4: Map in Java",
+      "parentFolderId": 52553353,
+      "createdAt": "2026-05-13T07:56:06.000Z"
+    },
+    {
+      "id": 162552261,
+      "name": "Class 17: Find frequency of each element",
+      "duration": "00:18:37",
+      "thumbnailUrl": "https://cdn-wl-assets.classplus.co/production/single/bfwhv/96706714-c818-41c1-9d33-044b8a29180c.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.1. DSA in Java with Itika Ma'am - Black Book Sol / Module 4: Map in Java",
+      "parentFolderId": 52553353,
+      "createdAt": "2026-05-13T07:56:06.000Z"
+    },
+    {
+      "id": 162552259,
+      "name": "Class 18: Find Length of longest subarray with sum k",
+      "duration": "00:52:09",
+      "thumbnailUrl": "https://cdn-wl-assets.classplus.co/production/single/bfwhv/eef39a84-de5a-4f38-b938-c14f09e84f53.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.1. DSA in Java with Itika Ma'am - Black Book Sol / Module 4: Map in Java",
+      "parentFolderId": 52553353,
+      "createdAt": "2026-05-13T07:56:06.000Z"
+    },
+    {
+      "id": 162552262,
+      "name": "Class 19: Find Longest sub-array with sum k ( all positives )",
+      "duration": "00:22:20",
+      "thumbnailUrl": "https://cdn-wl-assets.classplus.co/production/single/bfwhv/34f017bf-1ef7-4db4-92d8-523fbfe42a60.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.1. DSA in Java with Itika Ma'am - Black Book Sol / Module 4: Map in Java",
+      "parentFolderId": 52553353,
+      "createdAt": "2026-05-13T07:56:06.000Z"
+    },
+    {
+      "id": 162552260,
+      "name": "Class 20: Two sum problem (brute force , better and optimal solution )",
+      "duration": "00:38:56",
+      "thumbnailUrl": "https://cdn-wl-assets.classplus.co/production/single/bfwhv/8d362ce9-b6de-4bd6-8e6c-b17b93c18412.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.1. DSA in Java with Itika Ma'am - Black Book Sol / Module 4: Map in Java",
+      "parentFolderId": 52553353,
+      "createdAt": "2026-05-13T07:56:06.000Z"
+    },
+    {
+      "id": 162552326,
+      "name": "Class 21: Sliding Window Technique",
+      "duration": "00:22:12",
+      "thumbnailUrl": "https://cdn-wl-assets.classplus.co/production/single/bfwhv/f9ba55f0-e1e7-49f4-a280-a12dcb28d1f0.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.1. DSA in Java with Itika Ma'am - Black Book Sol / Module 5: Sliding Window technique and 2 Pointer A",
+      "parentFolderId": 52553364,
+      "createdAt": "2026-05-13T07:56:09.000Z"
+    },
+    {
+      "id": 162552325,
+      "name": "Class 22: Rearrange array elements by  sign",
+      "duration": "00:27:29",
+      "thumbnailUrl": "https://cdn-wl-assets.classplus.co/production/single/bfwhv/586f8edc-a8af-4389-be9e-a2c66d3821cb.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.1. DSA in Java with Itika Ma'am - Black Book Sol / Module 5: Sliding Window technique and 2 Pointer A",
+      "parentFolderId": 52553364,
+      "createdAt": "2026-05-13T07:56:09.000Z"
+    },
+    {
+      "id": 162552324,
+      "name": "Class 23: Maximum Consecutive One",
+      "duration": "00:10:42",
+      "thumbnailUrl": "https://cdn-wl-assets.classplus.co/production/single/bfwhv/7a5b8b9c-3a3f-447a-bbab-dffc6b537c30.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.1. DSA in Java with Itika Ma'am - Black Book Sol / Module 5: Sliding Window technique and 2 Pointer A",
+      "parentFolderId": 52553364,
+      "createdAt": "2026-05-13T07:56:09.000Z"
+    },
+    {
+      "id": 162552327,
+      "name": "Class 24: Moore's Voting Algorithm",
+      "duration": "00:34:25",
+      "thumbnailUrl": "https://cdn-wl-assets.classplus.co/production/single/bfwhv/9bce0b0d-0e04-435f-b5b3-a1a3ac7008e8.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.1. DSA in Java with Itika Ma'am - Black Book Sol / Module 5: Sliding Window technique and 2 Pointer A",
+      "parentFolderId": 52553364,
+      "createdAt": "2026-05-13T07:56:09.000Z"
+    },
+    {
+      "id": 162552153,
+      "name": "DSA JAVA L-1",
+      "duration": "00:05:17",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/44032/cc/e336416d09cb449c9351cfb7f48ed49b-n9/thumbnail.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.1. DSA in Java with Itika Ma'am - Black Book Sol / Java Leet Code Series (Basic - Advance) / 1. Arrays & Strings",
+      "parentFolderId": 52553321,
+      "createdAt": "2026-05-13T07:55:59.000Z"
+    },
+    {
+      "id": 162552146,
+      "name": "DSA JAVA 2 - Merge strings alternatively",
+      "duration": "00:03:20",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/44032/cc/985fa7c2f13744d69d92ac3cf2bbadf7-72/thumbnail.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.1. DSA in Java with Itika Ma'am - Black Book Sol / Java Leet Code Series (Basic - Advance) / 1. Arrays & Strings",
+      "parentFolderId": 52553321,
+      "createdAt": "2026-05-13T07:55:58.000Z"
+    },
+    {
+      "id": 162552150,
+      "name": "DSA JAVA 3 - Roman to integer",
+      "duration": "00:05:18",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/44032/cc/a2de5a942e2b40dbb39d4b28a4eb8a15-cy/thumbnail.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.1. DSA in Java with Itika Ma'am - Black Book Sol / Java Leet Code Series (Basic - Advance) / 1. Arrays & Strings",
+      "parentFolderId": 52553321,
+      "createdAt": "2026-05-13T07:55:58.000Z"
+    },
+    {
+      "id": 162552144,
+      "name": "DSA JAVA 4 - Is Subsequence",
+      "duration": "00:02:02",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/44032/cc/ec8722fbbabd4847a32e279a84a36305-a1/thumbnail.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.1. DSA in Java with Itika Ma'am - Black Book Sol / Java Leet Code Series (Basic - Advance) / 1. Arrays & Strings",
+      "parentFolderId": 52553321,
+      "createdAt": "2026-05-13T07:55:58.000Z"
+    },
+    {
+      "id": 162552143,
+      "name": "DSA JAVA 5 - Best time to buy and sell Stock",
+      "duration": "00:02:59",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/44032/cc/6b4f807f36e846a98ab7052a4d0b57bd-a0/thumbnail.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.1. DSA in Java with Itika Ma'am - Black Book Sol / Java Leet Code Series (Basic - Advance) / 1. Arrays & Strings",
+      "parentFolderId": 52553321,
+      "createdAt": "2026-05-13T07:55:58.000Z"
+    },
+    {
+      "id": 162552149,
+      "name": "DSA JAVA 6 - Longest Common Prefix",
+      "duration": "00:04:03",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/44032/cc/b0f8546b28df4071b8d9c1384142acb3-r8/thumbnail.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.1. DSA in Java with Itika Ma'am - Black Book Sol / Java Leet Code Series (Basic - Advance) / 1. Arrays & Strings",
+      "parentFolderId": 52553321,
+      "createdAt": "2026-05-13T07:55:58.000Z"
+    },
+    {
+      "id": 162552147,
+      "name": "DSA JAVA 7 - Summary Ranges",
+      "duration": "00:03:46",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/44032/cc/4524f5c95c9e4d11bdc129087ae483ea-hz/thumbnail.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.1. DSA in Java with Itika Ma'am - Black Book Sol / Java Leet Code Series (Basic - Advance) / 1. Arrays & Strings",
+      "parentFolderId": 52553321,
+      "createdAt": "2026-05-13T07:55:58.000Z"
+    },
+    {
+      "id": 162552145,
+      "name": "DSA JAVA 8 - Product of Array Except Self",
+      "duration": "00:03:26",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/44032/cc/b031ec37b02941d6bc8590dd9f45a096-jc/thumbnail.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.1. DSA in Java with Itika Ma'am - Black Book Sol / Java Leet Code Series (Basic - Advance) / 1. Arrays & Strings",
+      "parentFolderId": 52553321,
+      "createdAt": "2026-05-13T07:55:58.000Z"
+    },
+    {
+      "id": 162552152,
+      "name": "DSA JAVA 9 - Merge Intervals",
+      "duration": "00:06:08",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/44032/cc/a53e5029b06d4e12ab15e0b948f4b1da-y5/thumbnail.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.1. DSA in Java with Itika Ma'am - Black Book Sol / Java Leet Code Series (Basic - Advance) / 1. Arrays & Strings",
+      "parentFolderId": 52553321,
+      "createdAt": "2026-05-13T07:55:59.000Z"
+    },
+    {
+      "id": 162552151,
+      "name": "DSA JAVA 10 - Spiral Matrix",
+      "duration": "00:11:25",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/44032/cc/d8b6448851c443cdb06a0b77f43b8af2-zc/thumbnail.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.1. DSA in Java with Itika Ma'am - Black Book Sol / Java Leet Code Series (Basic - Advance) / 1. Arrays & Strings",
+      "parentFolderId": 52553321,
+      "createdAt": "2026-05-13T07:55:58.000Z"
+    },
+    {
+      "id": 162552148,
+      "name": "DSA JAVA 11 - Rotate Image",
+      "duration": "00:03:45",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/44032/cc/7c4934ffc72a484ea01eed59e61b349e-p2/thumbnail.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.1. DSA in Java with Itika Ma'am - Black Book Sol / Java Leet Code Series (Basic - Advance) / 1. Arrays & Strings",
+      "parentFolderId": 52553321,
+      "createdAt": "2026-05-13T07:55:58.000Z"
+    },
+    {
+      "id": 162552165,
+      "name": "DSA JAVA 12  - jewels and stones",
+      "duration": "00:03:53",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/44032/cc/c7f7d98f7d8e40ccba1c8913517e6a7e-2w/thumbnail.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.1. DSA in Java with Itika Ma'am - Black Book Sol / Java Leet Code Series (Basic - Advance) / 2. Hash Maps & Hash Set",
+      "parentFolderId": 52553332,
+      "createdAt": "2026-05-13T07:56:00.000Z"
+    },
+    {
+      "id": 162552167,
+      "name": "DSA JAVA 13 - Ransome Note",
+      "duration": "00:04:01",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/44032/cc/8ab2c30d22664dd889bed3ceb31ef03a-jt/thumbnail.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.1. DSA in Java with Itika Ma'am - Black Book Sol / Java Leet Code Series (Basic - Advance) / 2. Hash Maps & Hash Set",
+      "parentFolderId": 52553332,
+      "createdAt": "2026-05-13T07:56:00.000Z"
+    },
+    {
+      "id": 162552163,
+      "name": "DSA JAVA 14 - Contains Duplicate",
+      "duration": "00:02:13",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/44032/cc/435ac0cce31c4682a22604aad8db5de6-du/thumbnail.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.1. DSA in Java with Itika Ma'am - Black Book Sol / Java Leet Code Series (Basic - Advance) / 2. Hash Maps & Hash Set",
+      "parentFolderId": 52553332,
+      "createdAt": "2026-05-13T07:56:00.000Z"
+    },
+    {
+      "id": 162552164,
+      "name": "DSA JAVA 15 - Valid Anagram",
+      "duration": "00:03:37",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/44032/cc/4695b885d5ff4d35b6c7f5b869d33c61-8i/thumbnail.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.1. DSA in Java with Itika Ma'am - Black Book Sol / Java Leet Code Series (Basic - Advance) / 2. Hash Maps & Hash Set",
+      "parentFolderId": 52553332,
+      "createdAt": "2026-05-13T07:56:00.000Z"
+    },
+    {
+      "id": 162552166,
+      "name": "DSA JAVA 16 - Two Sum",
+      "duration": "00:03:58",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/44032/cc/9a7e7f40588c4affabc76a4fd500330d-ot/thumbnail.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.1. DSA in Java with Itika Ma'am - Black Book Sol / Java Leet Code Series (Basic - Advance) / 2. Hash Maps & Hash Set",
+      "parentFolderId": 52553332,
+      "createdAt": "2026-05-13T07:56:00.000Z"
+    },
+    {
+      "id": 162552168,
+      "name": "DSA JAVA 17 - Group Anagrams",
+      "duration": "00:05:07",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/44032/cc/fb56f3169f61474e8777733dc0ae28b4-16/thumbnail.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.1. DSA in Java with Itika Ma'am - Black Book Sol / Java Leet Code Series (Basic - Advance) / 2. Hash Maps & Hash Set",
+      "parentFolderId": 52553332,
+      "createdAt": "2026-05-13T07:56:00.000Z"
+    },
+    {
+      "id": 162552169,
+      "name": "DSA JAVA 18 - Valid Sudoku",
+      "duration": "00:07:59",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/44032/cc/8581959b5d054d7c9a43babb248ceb76-70/thumbnail.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.1. DSA in Java with Itika Ma'am - Black Book Sol / Java Leet Code Series (Basic - Advance) / 2. Hash Maps & Hash Set",
+      "parentFolderId": 52553332,
+      "createdAt": "2026-05-13T07:56:00.000Z"
+    },
+    {
+      "id": 162552172,
+      "name": "DSA JAVA 19 Maximum number of balloons",
+      "duration": "00:11:31",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/44032/cc/3dbab1d59f7848c1b63579f561c0cbec-m7/thumbnail.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.1. DSA in Java with Itika Ma'am - Black Book Sol / Java Leet Code Series (Basic - Advance) / 2. Hash Maps & Hash Set",
+      "parentFolderId": 52553332,
+      "createdAt": "2026-05-13T07:56:00.000Z"
+    },
+    {
+      "id": 162552171,
+      "name": "DSA JAVA 20 Longest Consecutive Sequence",
+      "duration": "00:03:53",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/44032/cc/07d465cb951744e6ad709f270aff85b9-rf/thumbnail.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.1. DSA in Java with Itika Ma'am - Black Book Sol / Java Leet Code Series (Basic - Advance) / 2. Hash Maps & Hash Set",
+      "parentFolderId": 52553332,
+      "createdAt": "2026-05-13T07:56:00.000Z"
+    },
+    {
+      "id": 162552170,
+      "name": "DSA JAVA 21 Majority Elements",
+      "duration": "00:02:22",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/44032/cc/97f9998334df483cbbb0a1d37c0bf1e1-kk/thumbnail.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.1. DSA in Java with Itika Ma'am - Black Book Sol / Java Leet Code Series (Basic - Advance) / 2. Hash Maps & Hash Set",
+      "parentFolderId": 52553332,
+      "createdAt": "2026-05-13T07:56:00.000Z"
+    },
+    {
+      "id": 162552234,
+      "name": "DSA JAVA 22 Reverse String",
+      "duration": "00:02:17",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/44032/cc/3b063b07a36747aba712c97019f84eb0-xf/thumbnail.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.1. DSA in Java with Itika Ma'am - Black Book Sol / Java Leet Code Series (Basic - Advance) / 3. Two Pointers",
+      "parentFolderId": 52553343,
+      "createdAt": "2026-05-13T07:56:03.000Z"
+    },
+    {
+      "id": 162552233,
+      "name": "DSA JAVA 23 Two Sum II – Input Array is Sorted",
+      "duration": "00:04:15",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/44032/cc/1494fce418504e62985c9880820988a2-w8/thumbnail.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.1. DSA in Java with Itika Ma'am - Black Book Sol / Java Leet Code Series (Basic - Advance) / 3. Two Pointers",
+      "parentFolderId": 52553343,
+      "createdAt": "2026-05-13T07:56:03.000Z"
+    },
+    {
+      "id": 162552235,
+      "name": "DSA JAVA 25 Trapping Rain Water",
+      "duration": "00:08:24",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/44032/cc/d963cbe474ba412391abff71b067d54f-5j/thumbnail.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.1. DSA in Java with Itika Ma'am - Black Book Sol / Java Leet Code Series (Basic - Advance) / 3. Two Pointers",
+      "parentFolderId": 52553343,
+      "createdAt": "2026-05-13T07:56:03.000Z"
+    },
+    {
+      "id": 162552236,
+      "name": "DSA JAVA 24 Valid Palindrome",
+      "duration": "00:04:12",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/44032/cc/a86bec47cd1c4d8b82b233065ce1cf9c-l6/thumbnail.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.1. DSA in Java with Itika Ma'am - Black Book Sol / Java Leet Code Series (Basic - Advance) / 3. Two Pointers",
+      "parentFolderId": 52553343,
+      "createdAt": "2026-05-13T07:56:03.000Z"
+    },
+    {
+      "id": 162552237,
+      "name": "DSA JAVA 26 Trapping Rain Water",
+      "duration": "00:04:48",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/44032/cc/ffda2cb3fdfc47acaf616c17ef94cb39-06/thumbnail.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.1. DSA in Java with Itika Ma'am - Black Book Sol / Java Leet Code Series (Basic - Advance) / 3. Two Pointers",
+      "parentFolderId": 52553343,
+      "createdAt": "2026-05-13T07:56:03.000Z"
+    },
+    {
+      "id": 162552291,
+      "name": "DSA JAVA 27 Baseball Game",
+      "duration": "00:05:17",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/44032/cc/62f29ccccb6148418a659c9b3cfcd4c1-ey/thumbnail.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.1. DSA in Java with Itika Ma'am - Black Book Sol / Java Leet Code Series (Basic - Advance) / 4. Stacks",
+      "parentFolderId": 52553355,
+      "createdAt": "2026-05-13T07:56:06.000Z"
+    },
+    {
+      "id": 162552292,
+      "name": "DSA JAVA 28 Valid Parentheses",
+      "duration": "00:04:49",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/44032/cc/9b263adf78f64bfebfc712788dd5460a-0g/thumbnail.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.1. DSA in Java with Itika Ma'am - Black Book Sol / Java Leet Code Series (Basic - Advance) / 4. Stacks",
+      "parentFolderId": 52553355,
+      "createdAt": "2026-05-13T07:56:06.000Z"
+    },
+    {
+      "id": 162552289,
+      "name": "DSA JAVA 29 Daily Temperatures",
+      "duration": "00:04:15",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/44032/cc/d2ac74b22cd74e9a8ba63930b85c37b1-pq/thumbnail.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.1. DSA in Java with Itika Ma'am - Black Book Sol / Java Leet Code Series (Basic - Advance) / 4. Stacks",
+      "parentFolderId": 52553355,
+      "createdAt": "2026-05-13T07:56:06.000Z"
+    },
+    {
+      "id": 162552290,
+      "name": "DSA JAVA 30 Evaluate Reverse Polish Notation",
+      "duration": "00:06:52",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/44032/cc/867a25ab2a02451a8a6fb1d6a5da46ce-o9/thumbnail.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.1. DSA in Java with Itika Ma'am - Black Book Sol / Java Leet Code Series (Basic - Advance) / 4. Stacks",
+      "parentFolderId": 52553355,
+      "createdAt": "2026-05-13T07:56:06.000Z"
+    },
+    {
+      "id": 162552293,
+      "name": "DSA JAVA 31 155-Min Stack",
+      "duration": "00:04:05",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/44032/cc/efd6456a4f354cab8beaef57d2171d4c-gx/thumbnail.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.1. DSA in Java with Itika Ma'am - Black Book Sol / Java Leet Code Series (Basic - Advance) / 4. Stacks",
+      "parentFolderId": 52553355,
+      "createdAt": "2026-05-13T07:56:06.000Z"
+    },
+    {
+      "id": 162552345,
+      "name": "DSA JAVA 32 Binary Search",
+      "duration": "00:03:20",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/44032/cc/7bfe54d60ca04c14971d882895a7da0f-cr/thumbnail.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.1. DSA in Java with Itika Ma'am - Black Book Sol / Java Leet Code Series (Basic - Advance) / 5. Binary Search",
+      "parentFolderId": 52553366,
+      "createdAt": "2026-05-13T07:56:10.000Z"
+    },
+    {
+      "id": 162552344,
+      "name": "DSA JAVA 33 Search Insert Position",
+      "duration": "00:03:07",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/44032/cc/3193a4b105494e9782f33cfbb769fb27-j9/thumbnail.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.1. DSA in Java with Itika Ma'am - Black Book Sol / Java Leet Code Series (Basic - Advance) / 5. Binary Search",
+      "parentFolderId": 52553366,
+      "createdAt": "2026-05-13T07:56:10.000Z"
+    },
+    {
+      "id": 162552342,
+      "name": "DSA JAVA 34 Search a 2D Matrix",
+      "duration": "00:03:26",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/44032/cc/33e2e65c23bb4b1fb222b0279b2fa78c-93/thumbnail.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.1. DSA in Java with Itika Ma'am - Black Book Sol / Java Leet Code Series (Basic - Advance) / 5. Binary Search",
+      "parentFolderId": 52553366,
+      "createdAt": "2026-05-13T07:56:10.000Z"
+    },
+    {
+      "id": 162552343,
+      "name": "DSA JAVA 35 Find Minimum in Rotated Sorted Array",
+      "duration": "00:02:43",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/44032/cc/8c2045af781b441581f0d490fce7aa35-if/thumbnail.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.1. DSA in Java with Itika Ma'am - Black Book Sol / Java Leet Code Series (Basic - Advance) / 5. Binary Search",
+      "parentFolderId": 52553366,
+      "createdAt": "2026-05-13T07:56:10.000Z"
+    },
+    {
+      "id": 162552346,
+      "name": "DSA JAVA 36 Search in Rotated Sorted Array",
+      "duration": "00:05:12",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/44032/cc/8aa8b61b23034026aad97d00a5993e30-vh/thumbnail.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.1. DSA in Java with Itika Ma'am - Black Book Sol / Java Leet Code Series (Basic - Advance) / 5. Binary Search",
+      "parentFolderId": 52553366,
+      "createdAt": "2026-05-13T07:56:10.000Z"
+    },
+    {
+      "id": 162552359,
+      "name": "Class 25: Assign cookies",
+      "duration": "00:16:02",
+      "thumbnailUrl": "https://cdn-wl-assets.classplus.co/production/single/bfwhv/0d5ca97a-d41d-4a6f-9279-d174661aa820.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.1. DSA in Java with Itika Ma'am - Black Book Sol / Module 6: Greedy Algorithm",
+      "parentFolderId": 52553374,
+      "createdAt": "2026-05-13T07:56:13.000Z"
+    },
+    {
+      "id": 162552360,
+      "name": "Class 26: Lemonade Change",
+      "duration": "00:13:58",
+      "thumbnailUrl": "https://cdn-wl-assets.classplus.co/production/single/bfwhv/5d752cfc-4585-467f-bb98-71000c51a4bf.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.1. DSA in Java with Itika Ma'am - Black Book Sol / Module 6: Greedy Algorithm",
+      "parentFolderId": 52553374,
+      "createdAt": "2026-05-13T07:56:13.000Z"
+    },
+    {
+      "id": 162552361,
+      "name": "Class 27: Jump Game 1",
+      "duration": "00:18:44",
+      "thumbnailUrl": "https://cdn-wl-assets.classplus.co/production/single/bfwhv/85e05851-13f7-4363-95bb-eb78431b8e6c.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.1. DSA in Java with Itika Ma'am - Black Book Sol / Module 6: Greedy Algorithm",
+      "parentFolderId": 52553374,
+      "createdAt": "2026-05-13T07:56:13.000Z"
+    },
+    {
+      "id": 162552362,
+      "name": "Class 28: Search in rotated sorted array-1",
+      "duration": "00:26:20",
+      "thumbnailUrl": "https://cdn-wl-assets.classplus.co/production/single/bfwhv/0a4ff614-60c4-46c2-bd88-5e3f02e013a7.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.1. DSA in Java with Itika Ma'am - Black Book Sol / Module 6: Greedy Algorithm",
+      "parentFolderId": 52553374,
+      "createdAt": "2026-05-13T07:56:13.000Z"
+    },
+    {
+      "id": 162552384,
+      "name": "Class 29: Find Minimum in rotated sorted array",
+      "duration": "00:25:29",
+      "thumbnailUrl": "https://cdn-wl-assets.classplus.co/production/single/bfwhv/c1dd2bec-89f2-483d-bba2-ed5547c5b782.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.1. DSA in Java with Itika Ma'am - Black Book Sol / Module 7: Binary search Questions",
+      "parentFolderId": 52553383,
+      "createdAt": "2026-05-13T07:56:16.000Z"
+    },
+    {
+      "id": 162552385,
+      "name": "Class 30: How many times array is rotated",
+      "duration": "00:08:09",
+      "thumbnailUrl": "https://cdn-wl-assets.classplus.co/production/single/bfwhv/c7e8b253-8a4d-4801-ba41-46a4684da5ee.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.1. DSA in Java with Itika Ma'am - Black Book Sol / Module 7: Binary search Questions",
+      "parentFolderId": 52553383,
+      "createdAt": "2026-05-13T07:56:16.000Z"
+    },
+    {
+      "id": 162552405,
+      "name": "Class 31: Strings in JAVA",
+      "duration": "00:40:44",
+      "thumbnailUrl": "https://cdn-wl-assets.classplus.co/production/single/bfwhv/0d4e7c67-7201-4abb-9642-f9cf4f981184.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.1. DSA in Java with Itika Ma'am - Black Book Sol / Module 8:  Strings in Java",
+      "parentFolderId": 52553393,
+      "createdAt": "2026-05-13T07:56:19.000Z"
+    },
+    {
+      "id": 162552404,
+      "name": "Class 32: Longest Odd number in String",
+      "duration": "00:16:45",
+      "thumbnailUrl": "https://cdn-wl-assets.classplus.co/production/single/bfwhv/521bd1da-194a-465a-ae48-cfd5f8377d96.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.1. DSA in Java with Itika Ma'am - Black Book Sol / Module 8:  Strings in Java",
+      "parentFolderId": 52553393,
+      "createdAt": "2026-05-13T07:56:19.000Z"
+    },
+    {
+      "id": 162552406,
+      "name": "Class 33: Longest Common Prefix",
+      "duration": "00:25:44",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/44032/cc/8b55c452f9624040a49b861663bec4cb-pi/thumbnail.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.1. DSA in Java with Itika Ma'am - Black Book Sol / Module 8:  Strings in Java",
+      "parentFolderId": 52553393,
+      "createdAt": "2026-05-13T07:56:19.000Z"
+    },
+    {
+      "id": 162552410,
+      "name": "Class 34: Isomorphic strings",
+      "duration": "00:25:05",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/44032/cc/6160d9c8592e47af8c420560bffda592-0q/thumbnail.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.1. DSA in Java with Itika Ma'am - Black Book Sol / Module 8:  Strings in Java",
+      "parentFolderId": 52553393,
+      "createdAt": "2026-05-13T07:56:19.000Z"
+    },
+    {
+      "id": 162552407,
+      "name": "Class 35: Rotate String",
+      "duration": "00:21:00",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/44032/cc/c5613287354148be880ace1a64055a0a-63/thumbnail.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.1. DSA in Java with Itika Ma'am - Black Book Sol / Module 8:  Strings in Java",
+      "parentFolderId": 52553393,
+      "createdAt": "2026-05-13T07:56:19.000Z"
+    },
+    {
+      "id": 162552409,
+      "name": "Class 36: Valid Anagram Leetcode 242",
+      "duration": "00:19:31",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/44032/cc/c6cc3bb91f6641a2a27c5d8e98c785e0-20/thumbnail.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.1. DSA in Java with Itika Ma'am - Black Book Sol / Module 8:  Strings in Java",
+      "parentFolderId": 52553393,
+      "createdAt": "2026-05-13T07:56:19.000Z"
+    },
+    {
+      "id": 162552408,
+      "name": "Class 37: Number of substrings with only 1\\'s",
+      "duration": "00:21:44",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/44032/cc/ba617c72cf964378a32f1c37b90bdb7f-1b/thumbnail.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.1. DSA in Java with Itika Ma'am - Black Book Sol / Module 8:  Strings in Java",
+      "parentFolderId": 52553393,
+      "createdAt": "2026-05-13T07:56:19.000Z"
+    },
+    {
+      "id": 162552052,
+      "name": "1: Introduction",
+      "duration": "00:14:01",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa3/media/1128227/drm/wv/68c18603b7e30f0289a727ac/e6869df25fea447425eb267213bc4112/thumbnail.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.3 DSA with Python / Python: Basic",
+      "parentFolderId": 52553298,
+      "createdAt": "2026-05-13T07:55:57.000Z"
+    },
+    {
+      "id": 162552050,
+      "name": "DSA 2: Basic Syntax and Operations using Python",
+      "duration": "00:21:31",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa3/media/1128227/drm/wv/68c18603b7e30f0289a727a8/a41d319f4408b30a77afc4e3adedb546/thumbnail.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.3 DSA with Python / Python: Basic",
+      "parentFolderId": 52553298,
+      "createdAt": "2026-05-13T07:55:57.000Z"
+    },
+    {
+      "id": 162552051,
+      "name": "DSA 3-  final trip list",
+      "duration": "00:23:16",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa3/media/1128227/drm/wv/68c18603b7e30f0289a727a9/07bcb8ff5c37171814b628f6619e84bb/thumbnail.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.3 DSA with Python / Python: Basic",
+      "parentFolderId": 52553298,
+      "createdAt": "2026-05-13T07:55:57.000Z"
+    },
+    {
+      "id": 162552053,
+      "name": "DSA 4: List, for while loop, increment decrement operations and logical and Logical OR operations",
+      "duration": "00:37:03",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa3/media/1128227/drm/wv/68c18603b7e30f0289a727b1/1af5509c97d7a2bf0c0a35df966f8485/thumbnail.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.3 DSA with Python / Python: Basic",
+      "parentFolderId": 52553298,
+      "createdAt": "2026-05-13T07:55:57.000Z"
+    },
+    {
+      "id": 162552055,
+      "name": "DSA-5-Functions",
+      "duration": "00:31:14",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa3/media/1128227/drm/wv/68c18bf5a08b5f3cb899db36/d5dd8cfa7a6606f4ac63fe830662c05b/thumbnail.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.3 DSA with Python / Python: Basic",
+      "parentFolderId": 52553298,
+      "createdAt": "2026-05-13T07:55:57.000Z"
+    },
+    {
+      "id": 162552054,
+      "name": "DSA-6-part1- IS & Function Tricks",
+      "duration": "00:20:48",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa3/media/1128227/drm/wv/68c18bf5a08b5f3cb899db34/013ac7e584b8a3d2afc892afce65ab4c/thumbnail.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.3 DSA with Python / Python: Basic",
+      "parentFolderId": 52553298,
+      "createdAt": "2026-05-13T07:55:57.000Z"
+    },
+    {
+      "id": 162552057,
+      "name": "DSA-7-part2- IS & Function Tricks",
+      "duration": "00:18:57",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa3/media/1128227/drm/wv/68c18df3b7e30f0289a74894/1406aee99a995959ad17ad64041f43b8/thumbnail.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.3 DSA with Python / Python: Basic",
+      "parentFolderId": 52553298,
+      "createdAt": "2026-05-13T07:55:57.000Z"
+    },
+    {
+      "id": 162552059,
+      "name": "DSA-8-File Reading and File Writing",
+      "duration": "00:25:02",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa3/media/1128227/drm/wv/68c190b3b7e30f0289a753e9/5a25762db8476a71ffd8f4f3c4fa43a9/thumbnail.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.3 DSA with Python / Python: Basic",
+      "parentFolderId": 52553298,
+      "createdAt": "2026-05-13T07:55:57.000Z"
+    },
+    {
+      "id": 162552058,
+      "name": "DSA-9-Class & Objects",
+      "duration": "00:30:07",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa3/media/1128227/drm/wv/68c18df3a08b5f3cb899e38d/c82c1dd166c05cf74f96173da3a63931/thumbnail.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.3 DSA with Python / Python: Basic",
+      "parentFolderId": 52553298,
+      "createdAt": "2026-05-13T07:55:57.000Z"
+    },
+    {
+      "id": 162552064,
+      "name": "DSA-10-Comments,Help & Lists",
+      "duration": "00:37:38",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa3/media/1128227/drm/wv/68c190b3a08b5f3cb899eee3/eaa0379fb813c9c6e0b99813d9944094/thumbnail.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.3 DSA with Python / Python: Basic",
+      "parentFolderId": 52553298,
+      "createdAt": "2026-05-13T07:55:57.000Z"
+    },
+    {
+      "id": 162552056,
+      "name": "DSA-11-Dictionary",
+      "duration": "00:25:41",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa3/media/1128227/drm/wv/68c18df4b7e30f0289a74897/f146c86e888d1df37baedf9494d76451/thumbnail.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.3 DSA with Python / Python: Basic",
+      "parentFolderId": 52553298,
+      "createdAt": "2026-05-13T07:55:57.000Z"
+    },
+    {
+      "id": 162552063,
+      "name": "DSA-12-Strings",
+      "duration": "00:25:47",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa3/media/1128227/drm/wv/68c190b3a08b5f3cb899eedf/1b7d4da75eb400d9d97032d5cf11102c/thumbnail.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.3 DSA with Python / Python: Basic",
+      "parentFolderId": 52553298,
+      "createdAt": "2026-05-13T07:55:57.000Z"
+    },
+    {
+      "id": 162552060,
+      "name": "DSA-13-Tuples/Sets",
+      "duration": "00:20:47",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa3/media/1128227/drm/wv/68c190b3b7e30f0289a753ea/e6f4d61c0c938536d4484eb9610d521e/thumbnail.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.3 DSA with Python / Python: Basic",
+      "parentFolderId": 52553298,
+      "createdAt": "2026-05-13T07:55:57.000Z"
+    },
+    {
+      "id": 162552062,
+      "name": "DSA-14-Error/Try/Except",
+      "duration": "00:17:59",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa3/media/1128227/drm/wv/68c190b4a08b5f3cb899eee6/ad656da2e54878c2228034f9ff1f6f5d/thumbnail.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.3 DSA with Python / Python: Basic",
+      "parentFolderId": 52553298,
+      "createdAt": "2026-05-13T07:55:57.000Z"
+    },
+    {
+      "id": 162552061,
+      "name": "DSA-15-List Comprehension",
+      "duration": "00:22:58",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa3/media/1128227/drm/wv/68c190b3a08b5f3cb899eee1/33b0e915faa20269754d1cda929e4ee8/thumbnail.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.3 DSA with Python / Python: Basic",
+      "parentFolderId": 52553298,
+      "createdAt": "2026-05-13T07:55:57.000Z"
+    },
+    {
+      "id": 162552066,
+      "name": "DSA-16-ASCII, Modules & Packages",
+      "duration": "00:21:04",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa3/media/1128227/drm/wv/68c2599db7e30f0289a90820/24430790075e308b85a0f285b3c4fbcb/thumbnail.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.3 DSA with Python / Python: Basic",
+      "parentFolderId": 52553298,
+      "createdAt": "2026-05-13T07:55:57.000Z"
+    },
+    {
+      "id": 162552065,
+      "name": "DSA-17-Python Script",
+      "duration": "00:18:09",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa3/media/1128227/drm/wv/68c2599eb7e30f0289a90824/cc0dbd6decddba830d9848c8c902d111/thumbnail.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.3 DSA with Python / Python: Basic",
+      "parentFolderId": 52553298,
+      "createdAt": "2026-05-13T07:55:57.000Z"
+    },
+    {
+      "id": 162552067,
+      "name": "DSA-18-Lambda Functions",
+      "duration": "00:38:15",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa3/media/1128227/drm/wv/68c2599db7e30f0289a9081c/6361f27d35a5ef6a54463a409b9377b7/thumbnail.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.3 DSA with Python / Python: Basic",
+      "parentFolderId": 52553298,
+      "createdAt": "2026-05-13T07:55:57.000Z"
+    },
+    {
+      "id": 162552083,
+      "name": "DSA-19- Static Arrays, Dynamic Arrays & Strings-part 1",
+      "duration": "00:38:24",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa3/media/1128227/drm/wv/68c2599db7e30f0289a9081d/17f4916efbf83828e5d06eccce220edb/thumbnail.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.3 DSA with Python / Python: Data Structures & Concepts",
+      "parentFolderId": 52553308,
+      "createdAt": "2026-05-13T07:55:57.000Z"
+    },
+    {
+      "id": 162552080,
+      "name": "DSA-20- Static Arrays, Dynamic Arrays & Strings-part 2",
+      "duration": "00:27:30",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa3/media/1128227/drm/wv/68c2599db7e30f0289a9081a/7846976ae7acffcbf7c00d889dde3df3/thumbnail.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.3 DSA with Python / Python: Data Structures & Concepts",
+      "parentFolderId": 52553308,
+      "createdAt": "2026-05-13T07:55:57.000Z"
+    },
+    {
+      "id": 162552082,
+      "name": "DSA-21-Singly Linked Lists & Doubly Linked Lists – part 1",
+      "duration": "00:35:39",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa3/media/1128227/drm/wv/68c2599ea08b5f3cb89ba387/8754c8d0789fe80d9d2c24c9228d8853/thumbnail.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.3 DSA with Python / Python: Data Structures & Concepts",
+      "parentFolderId": 52553308,
+      "createdAt": "2026-05-13T07:55:57.000Z"
+    },
+    {
+      "id": 162552081,
+      "name": "DSA-22-Singly Linked Lists & Doubly Linked Lists – part 2",
+      "duration": "00:38:17",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa3/media/1128227/drm/wv/68c2599eb7e30f0289a90822/b6167d8783f0d262675fc33c9074ed77/thumbnail.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.3 DSA with Python / Python: Data Structures & Concepts",
+      "parentFolderId": 52553308,
+      "createdAt": "2026-05-13T07:55:57.000Z"
+    },
+    {
+      "id": 162552078,
+      "name": "DSA-23-Hash Table: Hash Function, Sets & Maps- Part 1",
+      "duration": "00:24:46",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa3/media/1128227/drm/wv/68c2599da08b5f3cb89ba383/458be3092250160472471a4c2ae81229/thumbnail.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.3 DSA with Python / Python: Data Structures & Concepts",
+      "parentFolderId": 52553308,
+      "createdAt": "2026-05-13T07:55:57.000Z"
+    },
+    {
+      "id": 162552079,
+      "name": "DSA-24-Hash Table: Hash Function, Sets & Maps- Part 2",
+      "duration": "00:29:35",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa3/media/1128227/drm/wv/68c2599da08b5f3cb89ba381/34561b44c738fd978f32ace25c044505/thumbnail.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.3 DSA with Python / Python: Data Structures & Concepts",
+      "parentFolderId": 52553308,
+      "createdAt": "2026-05-13T07:55:57.000Z"
+    },
+    {
+      "id": 162552084,
+      "name": "DSA-25-Hash Table: Hash Function, Sets & Maps- Part 3",
+      "duration": "00:31:13",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa3/media/1128227/drm/wv/68c564b3b7e30f0289b2c217/bb6cb5394add80fd2500a33f17ff146d/thumbnail.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.3 DSA with Python / Python: Data Structures & Concepts",
+      "parentFolderId": 52553308,
+      "createdAt": "2026-05-13T07:55:57.000Z"
+    },
+    {
+      "id": 162552086,
+      "name": "DSA-26-Stacks & Queue – Part 1",
+      "duration": "00:27:31",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa3/media/1128227/drm/wv/68c57385a08b5f3cb8a598b0/7c749e8663e7a923eba60fed2de0e4c9/thumbnail.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.3 DSA with Python / Python: Data Structures & Concepts",
+      "parentFolderId": 52553308,
+      "createdAt": "2026-05-13T07:55:57.000Z"
+    },
+    {
+      "id": 162552085,
+      "name": "DSA-27-Stacks & Queue – Part 2",
+      "duration": "00:22:37",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa3/media/1128227/drm/wv/68c57385b7e30f0289b2fde6/d0a0ae405bb219c9290bf5316adad8c1/thumbnail.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.3 DSA with Python / Python: Data Structures & Concepts",
+      "parentFolderId": 52553308,
+      "createdAt": "2026-05-13T07:55:57.000Z"
+    },
+    {
+      "id": 162552089,
+      "name": "DSA-28-Recursion-Recursion Call Stack & Algorithm- Part 1",
+      "duration": "00:28:11",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa3/media/1128227/drm/wv/68e7a3dccede4d068fcd567e/6396686915a91d183804c1cab3715ac3/thumbnail.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.3 DSA with Python / Python: Data Structures & Concepts",
+      "parentFolderId": 52553308,
+      "createdAt": "2026-05-13T07:55:57.000Z"
+    },
+    {
+      "id": 162552092,
+      "name": "DSA-29-Recursion-Recursion Call Stack & Algorithm- Part 2",
+      "duration": "00:26:54",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa3/media/1128227/drm/wv/68e7a3dccede4d068fcd5684/e505b7792b9e7b78676f88a21de6cebb/thumbnail.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.3 DSA with Python / Python: Data Structures & Concepts",
+      "parentFolderId": 52553308,
+      "createdAt": "2026-05-13T07:55:57.000Z"
+    },
+    {
+      "id": 162552087,
+      "name": "DSA-30-Binary Search -part 1",
+      "duration": "00:23:37",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa3/media/1128227/drm/wv/68e7a3dc78ee677f42bc4930/46aa8907f0f72ad422e5386796fb954a/thumbnail.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.3 DSA with Python / Python: Data Structures & Concepts",
+      "parentFolderId": 52553308,
+      "createdAt": "2026-05-13T07:55:57.000Z"
+    },
+    {
+      "id": 162552088,
+      "name": "DSA-31-Binary Search -part 2",
+      "duration": "00:23:47",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa3/media/1128227/drm/wv/68e7a3dccede4d068fcd5680/81873c6122818f55f2621c448a63bbaf/thumbnail.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.3 DSA with Python / Python: Data Structures & Concepts",
+      "parentFolderId": 52553308,
+      "createdAt": "2026-05-13T07:55:57.000Z"
+    },
+    {
+      "id": 162552090,
+      "name": "DSA-32-Binary Tree -Part 1",
+      "duration": "00:34:53",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa3/media/1128227/drm/wv/68e7a3dccede4d068fcd5682/fcc8b7f9f3f5ef84a73be57eca17f5dd/thumbnail.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.3 DSA with Python / Python: Data Structures & Concepts",
+      "parentFolderId": 52553308,
+      "createdAt": "2026-05-13T07:55:57.000Z"
+    },
+    {
+      "id": 162552091,
+      "name": "DSA-33-Binary Tree -Part 2",
+      "duration": "00:28:55",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa3/media/1128227/drm/wv/68e7a3dc78ee677f42bc4933/54bd2c8699fa4159f405b9d937a59828/thumbnail.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.3 DSA with Python / Python: Data Structures & Concepts",
+      "parentFolderId": 52553308,
+      "createdAt": "2026-05-13T07:55:57.000Z"
+    },
+    {
+      "id": 162552098,
+      "name": "DSA-34-Binary Tree -Part 3",
+      "duration": "00:26:52",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa3/media/1128227/drm/wv/68e7ac2178ee677f42bc6c9c/45ac0016ffb85f89c2bdf236ed9bcee7/thumbnail.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.3 DSA with Python / Python: Data Structures & Concepts",
+      "parentFolderId": 52553308,
+      "createdAt": "2026-05-13T07:55:57.000Z"
+    },
+    {
+      "id": 162552106,
+      "name": "DSA-35- Heaps & Priority Queue - part 1",
+      "duration": "00:36:13",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/44032/cc/49020707ff2f4638bc804a1ceb95458a-zj/thumbnail.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.3 DSA with Python / Python: Data Structures & Concepts",
+      "parentFolderId": 52553308,
+      "createdAt": "2026-05-13T07:55:57.000Z"
+    },
+    {
+      "id": 162552096,
+      "name": "DSA-36- Heaps & Priority Queue-Part2",
+      "duration": "00:24:03",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa3/media/1128227/drm/wv/68e7ac21cede4d068fcd7a1d/832d77d227eca4235e9ecfc234b0a426/thumbnail.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.3 DSA with Python / Python: Data Structures & Concepts",
+      "parentFolderId": 52553308,
+      "createdAt": "2026-05-13T07:55:57.000Z"
+    },
+    {
+      "id": 162552095,
+      "name": "DSA-37-Bubble Sort, Insertion Sort & Selection Sort",
+      "duration": "00:28:08",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa3/media/1128227/drm/wv/68e7ac2178ee677f42bc6c9a/922705d3dc0412afc46f5902324d94dc/thumbnail.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.3 DSA with Python / Python: Data Structures & Concepts",
+      "parentFolderId": 52553308,
+      "createdAt": "2026-05-13T07:55:57.000Z"
+    },
+    {
+      "id": 162552097,
+      "name": "DSA-38-Merge Sort",
+      "duration": "00:27:32",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa3/media/1128227/drm/wv/68e7ac2178ee677f42bc6ca1/60c9691dc1b6583b77847c50e3515bdb/thumbnail.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.3 DSA with Python / Python: Data Structures & Concepts",
+      "parentFolderId": 52553308,
+      "createdAt": "2026-05-13T07:55:57.000Z"
+    },
+    {
+      "id": 162552093,
+      "name": "DSA-39-Quick Sort",
+      "duration": "00:19:39",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa3/media/1128227/drm/wv/68e7ac2178ee677f42bc6c98/f4d7c9d34f431033f4d37009b17e2c50/thumbnail.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.3 DSA with Python / Python: Data Structures & Concepts",
+      "parentFolderId": 52553308,
+      "createdAt": "2026-05-13T07:55:57.000Z"
+    },
+    {
+      "id": 162552100,
+      "name": "DSA-40-Counting Sort",
+      "duration": "00:29:38",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa3/media/1128227/drm/wv/68e7ac21cede4d068fcd7a1f/39036e5b3181a38ce988bbf80b316655/thumbnail.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.3 DSA with Python / Python: Data Structures & Concepts",
+      "parentFolderId": 52553308,
+      "createdAt": "2026-05-13T07:55:57.000Z"
+    },
+    {
+      "id": 162552099,
+      "name": "DSA-41-Graphs-Part 1",
+      "duration": "00:30:31",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa3/media/1128227/drm/wv/68e7ac2178ee677f42bc6c9f/1b0aab8bfd83c7aa36c3bb295cc562fa/thumbnail.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.3 DSA with Python / Python: Data Structures & Concepts",
+      "parentFolderId": 52553308,
+      "createdAt": "2026-05-13T07:55:57.000Z"
+    },
+    {
+      "id": 162552094,
+      "name": "DSA-42-Graphs-Part 2",
+      "duration": "00:16:32",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa3/media/1128227/drm/wv/68e7ac21cede4d068fcd7a21/88b75bbb2d23c9656bcf9399e72809d2/thumbnail.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.3 DSA with Python / Python: Data Structures & Concepts",
+      "parentFolderId": 52553308,
+      "createdAt": "2026-05-13T07:55:57.000Z"
+    },
+    {
+      "id": 162552105,
+      "name": "DSA-43-Graphs-Part 3",
+      "duration": "00:22:37",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/44032/cc/76e9b3e544ef42edbe02f5ed61b9190f-as/thumbnail.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.3 DSA with Python / Python: Data Structures & Concepts",
+      "parentFolderId": 52553308,
+      "createdAt": "2026-05-13T07:55:57.000Z"
+    },
+    {
+      "id": 162552102,
+      "name": "DSA-44-Two Pointers",
+      "duration": "00:16:49",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/44032/cc/1bb4750719c24da3ba566356d8b10b01-56/thumbnail.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.3 DSA with Python / Python: Data Structures & Concepts",
+      "parentFolderId": 52553308,
+      "createdAt": "2026-05-13T07:55:57.000Z"
+    },
+    {
+      "id": 162552101,
+      "name": "DSA-45-Sliding Window – Part 1",
+      "duration": "00:21:16",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/44032/cc/71b0edc1b704404d84ea4e56c581bca6-q6/thumbnail.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.3 DSA with Python / Python: Data Structures & Concepts",
+      "parentFolderId": 52553308,
+      "createdAt": "2026-05-13T07:55:57.000Z"
+    },
+    {
+      "id": 162552103,
+      "name": "DSA-46-Sliding Window – Part 2",
+      "duration": "00:20:41",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/44032/cc/429b3e66745841a89497d79c23e17c13-3f/thumbnail.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.3 DSA with Python / Python: Data Structures & Concepts",
+      "parentFolderId": 52553308,
+      "createdAt": "2026-05-13T07:55:57.000Z"
+    },
+    {
+      "id": 162552104,
+      "name": "DSA-47-Recursive Backtracking",
+      "duration": "00:17:59",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/44032/cc/491ed9ec01f6499c82f82031c06fa5b9-rm/thumbnail.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.3 DSA with Python / Python: Data Structures & Concepts",
+      "parentFolderId": 52553308,
+      "createdAt": "2026-05-13T07:55:57.000Z"
+    },
+    {
+      "id": 162552107,
+      "name": "DSA-48-DynamicProgramming",
+      "duration": "00:31:25",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/44032/cc/5501f8b1bbe749f8acbc72e273e9c76f-4t/thumbnail.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.3 DSA with Python / Python: Data Structures & Concepts",
+      "parentFolderId": 52553308,
+      "createdAt": "2026-05-13T07:55:58.000Z"
+    },
+    {
+      "id": 162552203,
+      "name": "DSA-L1-leetcode-2239-Find closest number to zero",
+      "duration": "00:07:41",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/44032/cc/10c14ff5eb964e14be062d92359587e0-gk/thumbnail.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.3 DSA with Python / Python LeetCode Series / 1. Arrays & Strings",
+      "parentFolderId": 52553336,
+      "createdAt": "2026-05-13T07:56:01.000Z"
+    },
+    {
+      "id": 162552208,
+      "name": "DSA-L2-leetcode-1768-Merge strings alternatively",
+      "duration": "00:16:36",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/44032/cc/04fb3a5d049b41fdae90bb41a8b4b78f-xo/thumbnail.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.3 DSA with Python / Python LeetCode Series / 1. Arrays & Strings",
+      "parentFolderId": 52553336,
+      "createdAt": "2026-05-13T07:56:01.000Z"
+    },
+    {
+      "id": 162552206,
+      "name": "DSA-L4-leetcode-392-Is Subsequence",
+      "duration": "00:13:13",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/44032/cc/68832d5d73d84e219de656538a3e2bb6-qi/thumbnail.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.3 DSA with Python / Python LeetCode Series / 1. Arrays & Strings",
+      "parentFolderId": 52553336,
+      "createdAt": "2026-05-13T07:56:01.000Z"
+    },
+    {
+      "id": 162552204,
+      "name": "DSA-L5-leetcode-121-Best time to buy and sell Stock",
+      "duration": "00:12:15",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/44032/cc/e4a4077bbc2a4ed681b070202a782300-03/thumbnail.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.3 DSA with Python / Python LeetCode Series / 1. Arrays & Strings",
+      "parentFolderId": 52553336,
+      "createdAt": "2026-05-13T07:56:01.000Z"
+    },
+    {
+      "id": 162552210,
+      "name": "DSA-L6-Longest Common Prefix-leetcode-14",
+      "duration": "00:10:14",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/44032/cc/2dd8c761202740e0a933a7701ffa1d56-lj/thumbnail.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.3 DSA with Python / Python LeetCode Series / 1. Arrays & Strings",
+      "parentFolderId": 52553336,
+      "createdAt": "2026-05-13T07:56:01.000Z"
+    },
+    {
+      "id": 162552202,
+      "name": "DSA-L7-leetcode-228-Summary Ranges",
+      "duration": "00:14:36",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/44032/cc/f883451a147243eca44bdb4d523bd84c-nv/thumbnail.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.3 DSA with Python / Python LeetCode Series / 1. Arrays & Strings",
+      "parentFolderId": 52553336,
+      "createdAt": "2026-05-13T07:56:01.000Z"
+    },
+    {
+      "id": 162552205,
+      "name": "DSA-L8-leetcode-238-Product of Array Except Self",
+      "duration": "00:15:17",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/44032/cc/8fc2b674a1254142bd80fc7cc600b284-0u/thumbnail.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.3 DSA with Python / Python LeetCode Series / 1. Arrays & Strings",
+      "parentFolderId": 52553336,
+      "createdAt": "2026-05-13T07:56:01.000Z"
+    },
+    {
+      "id": 162552209,
+      "name": "DSA-9 Leetcode 56- Merge Intervals( Array&Strings)",
+      "duration": "00:14:57",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/44032/cc/dd236ca2ab8c48639d5682155ca97716-7x/thumbnail.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.3 DSA with Python / Python LeetCode Series / 1. Arrays & Strings",
+      "parentFolderId": 52553336,
+      "createdAt": "2026-05-13T07:56:01.000Z"
+    },
+    {
+      "id": 162552211,
+      "name": "DSA-L 10 Leetcode-54-Spiral Matrix(Arrays & String",
+      "duration": "00:18:14",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/44032/cc/feb6474bd7ed48a698d88f26dfd94049-ui/thumbnail.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.3 DSA with Python / Python LeetCode Series / 1. Arrays & Strings",
+      "parentFolderId": 52553336,
+      "createdAt": "2026-05-13T07:56:01.000Z"
+    },
+    {
+      "id": 162552207,
+      "name": "DSA L-11 Leetcode 48- Rotate Image(Arrays&Strings)",
+      "duration": "00:12:44",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/44032/cc/03f8cbdfd2c443eeb975da4acc764879-53/thumbnail.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.3 DSA with Python / Python LeetCode Series / 1. Arrays & Strings",
+      "parentFolderId": 52553336,
+      "createdAt": "2026-05-13T07:56:01.000Z"
+    },
+    {
+      "id": 162552240,
+      "name": "DSA L-12 Leetcode-771-Jewels & Stones(Hashmap & Ha",
+      "duration": "00:08:29",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/44032/cc/01c1431ad38d4543a71dc0e180a63a01-5p/thumbnail.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.3 DSA with Python / Python LeetCode Series / 2. Hash Maps & Hash Set",
+      "parentFolderId": 52553347,
+      "createdAt": "2026-05-13T07:56:04.000Z"
+    },
+    {
+      "id": 162552243,
+      "name": "DSA L-13 Leetcode-383-Ransom Note( Hashmap & Hashs",
+      "duration": "00:12:34",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/44032/cc/b979594ce34d4d03bebe82cc27812e9a-k8/thumbnail.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.3 DSA with Python / Python LeetCode Series / 2. Hash Maps & Hash Set",
+      "parentFolderId": 52553347,
+      "createdAt": "2026-05-13T07:56:04.000Z"
+    },
+    {
+      "id": 162552242,
+      "name": "Leetcode-14- Longest Common Prefix(Array & Strings",
+      "duration": "00:10:14",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/44032/cc/0309b31b0d6e489fb0081f34148b160d-h1/thumbnail.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.3 DSA with Python / Python LeetCode Series / 2. Hash Maps & Hash Set",
+      "parentFolderId": 52553347,
+      "createdAt": "2026-05-13T07:56:04.000Z"
+    },
+    {
+      "id": 162552241,
+      "name": "DSA L-15 Valid Anagrams (Hash Maps & Hash Sets)",
+      "duration": "00:07:48",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/44032/cc/eb1f718936414068be7c15a66e0ad2e7-gm/thumbnail.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.3 DSA with Python / Python LeetCode Series / 2. Hash Maps & Hash Set",
+      "parentFolderId": 52553347,
+      "createdAt": "2026-05-13T07:56:04.000Z"
+    },
+    {
+      "id": 162552244,
+      "name": "DSA L16 Leetcode -1- Two Sums( Hash map & Hash set",
+      "duration": "00:08:16",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/44032/cc/5634a092a0894bc79fbfd49694f2e3d5-2m/thumbnail.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.3 DSA with Python / Python LeetCode Series / 2. Hash Maps & Hash Set",
+      "parentFolderId": 52553347,
+      "createdAt": "2026-05-13T07:56:04.000Z"
+    },
+    {
+      "id": 162552246,
+      "name": "DSA L-17 Group Anagrams-Leetcode- 49(Hash map & Ha",
+      "duration": "00:09:43",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/44032/cc/459c4a6c61bd4906bae2fe27ea6398ae-5z/thumbnail.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.3 DSA with Python / Python LeetCode Series / 2. Hash Maps & Hash Set",
+      "parentFolderId": 52553347,
+      "createdAt": "2026-05-13T07:56:04.000Z"
+    },
+    {
+      "id": 162552248,
+      "name": "DSA L-18 Valid Sudoku- Leetcode-36(Hashmap&hashset",
+      "duration": "00:11:26",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/44032/cc/e6254593e0cc44c38b2eb4fc69993d36-yb/thumbnail.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.3 DSA with Python / Python LeetCode Series / 2. Hash Maps & Hash Set",
+      "parentFolderId": 52553347,
+      "createdAt": "2026-05-13T07:56:04.000Z"
+    },
+    {
+      "id": 162552245,
+      "name": "DSA L-19 maximum number of balloons-leetcode-1189(",
+      "duration": "00:09:09",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/44032/cc/02bd6b7aa86b47aa8bafa743a85ac56f-w5/thumbnail.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.3 DSA with Python / Python LeetCode Series / 2. Hash Maps & Hash Set",
+      "parentFolderId": 52553347,
+      "createdAt": "2026-05-13T07:56:04.000Z"
+    },
+    {
+      "id": 162552249,
+      "name": "DSA L-20 Longest Consecutive Sequence-LeetCode-128",
+      "duration": "00:11:02",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/44032/cc/dd59d3b62c9045a39195e1ae9533b600-zj/thumbnail.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.3 DSA with Python / Python LeetCode Series / 2. Hash Maps & Hash Set",
+      "parentFolderId": 52553347,
+      "createdAt": "2026-05-13T07:56:04.000Z"
+    },
+    {
+      "id": 162552247,
+      "name": "DSA L-21 Majority Element- Leetcode-169(Hash Maps",
+      "duration": "00:09:42",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/44032/cc/d5a1ee6955b24334b456e07bdee4792c-u3/thumbnail.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.3 DSA with Python / Python LeetCode Series / 2. Hash Maps & Hash Set",
+      "parentFolderId": 52553347,
+      "createdAt": "2026-05-13T07:56:04.000Z"
+    },
+    {
+      "id": 162552310,
+      "name": "DSA L-22 Reverse String- LeetCode- 344( Two pointe",
+      "duration": "00:06:09",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/44032/cc/dd11c6f056294ebfb9b185b5268adccf-6f/thumbnail.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.3 DSA with Python / Python LeetCode Series / 3. Two Pointers",
+      "parentFolderId": 52553359,
+      "createdAt": "2026-05-13T07:56:07.000Z"
+    },
+    {
+      "id": 162552311,
+      "name": "DSA L-23 Two Sum II-Input Array is Sorted- Leetcod",
+      "duration": "00:09:42",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/44032/cc/7f380f44f6844486adafe588f32833e6-px/thumbnail.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.3 DSA with Python / Python LeetCode Series / 3. Two Pointers",
+      "parentFolderId": 52553359,
+      "createdAt": "2026-05-13T07:56:07.000Z"
+    },
+    {
+      "id": 162552312,
+      "name": "DSA L-24 Valid Palindrome-LeetCode-125(Two Pointer",
+      "duration": "00:08:17",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/44032/cc/69f997dc78a2412da12ad70ef415eeee-1u/thumbnail.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.3 DSA with Python / Python LeetCode Series / 3. Two Pointers",
+      "parentFolderId": 52553359,
+      "createdAt": "2026-05-13T07:56:07.000Z"
+    },
+    {
+      "id": 162552313,
+      "name": "DSA L-25 3Sum -Leetcode-15( Two Pointers)",
+      "duration": "00:15:44",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/44032/cc/7419b68acd0d43ab9a7b14c5aca88f47-68/thumbnail.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.3 DSA with Python / Python LeetCode Series / 3. Two Pointers",
+      "parentFolderId": 52553359,
+      "createdAt": "2026-05-13T07:56:07.000Z"
+    },
+    {
+      "id": 162552314,
+      "name": "DSA L-26 trapping Rain Water -LeetCode-42 (Two Poi",
+      "duration": "00:11:26",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/44032/cc/17ab481141e2420692b69ce0f195e9fa-or/thumbnail.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.3 DSA with Python / Python LeetCode Series / 3. Two Pointers",
+      "parentFolderId": 52553359,
+      "createdAt": "2026-05-13T07:56:07.000Z"
+    },
+    {
+      "id": 162552347,
+      "name": "DSA L-27 Baseball Game-Leetcode-682(Stacks)",
+      "duration": "00:07:54",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/44032/cc/bec1473c1d19427c8e0a3ffd4190c3bc-jh/thumbnail.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.3 DSA with Python / Python LeetCode Series / 4. Stacks",
+      "parentFolderId": 52553371,
+      "createdAt": "2026-05-13T07:56:11.000Z"
+    },
+    {
+      "id": 162552351,
+      "name": "DSA L- 28 valid Parentheses-Leetcode-20(Stacks)",
+      "duration": "00:11:02",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/44032/cc/f70c37d485aa4af08c0334425f796f71-88/thumbnail.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.3 DSA with Python / Python LeetCode Series / 4. Stacks",
+      "parentFolderId": 52553371,
+      "createdAt": "2026-05-13T07:56:11.000Z"
+    },
+    {
+      "id": 162552350,
+      "name": "DSA L-29 3Sum -Leetcode-15( Two Pointers)",
+      "duration": "00:13:47",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/44032/cc/4245b28c6f7544f6b26163a46b14795f-q7/thumbnail.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.3 DSA with Python / Python LeetCode Series / 4. Stacks",
+      "parentFolderId": 52553371,
+      "createdAt": "2026-05-13T07:56:11.000Z"
+    },
+    {
+      "id": 162552348,
+      "name": "DSA L - 30 Leetcode 150-Evaluate Reverse Polish Notation",
+      "duration": "00:10:13",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/44032/cc/45e2625bbd7e4764bf74f43c9fdf6cbd-pt/thumbnail.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.3 DSA with Python / Python LeetCode Series / 4. Stacks",
+      "parentFolderId": 52553371,
+      "createdAt": "2026-05-13T07:56:11.000Z"
+    },
+    {
+      "id": 162552349,
+      "name": "DSA L-31 leetcode-155-Min Stack",
+      "duration": "00:10:50",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/44032/cc/a783a69d9457410393b313f513466b49-p0/thumbnail.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.3 DSA with Python / Python LeetCode Series / 4. Stacks",
+      "parentFolderId": 52553371,
+      "createdAt": "2026-05-13T07:56:11.000Z"
+    },
+    {
+      "id": 162552373,
+      "name": "DSA L-32 leetcode-704-Binary Search",
+      "duration": "00:08:29",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/44032/cc/6594b288907e4aa5aefe65b07a37e3af-3b/thumbnail.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.3 DSA with Python / Python LeetCode Series / 5. Binary Search",
+      "parentFolderId": 52553380,
+      "createdAt": "2026-05-13T07:56:15.000Z"
+    },
+    {
+      "id": 162552377,
+      "name": "DSA L- 33 Search Insert Position -Leetcode-35(Bina",
+      "duration": "00:08:18",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/44032/cc/32724514d6c64722a7d9134675249ec9-76/thumbnail.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.3 DSA with Python / Python LeetCode Series / 5. Binary Search",
+      "parentFolderId": 52553380,
+      "createdAt": "2026-05-13T07:56:15.000Z"
+    },
+    {
+      "id": 162552376,
+      "name": "DSA L- 34 Search a 2D Matrix-LeetCode-74(Binary Se",
+      "duration": "00:08:47",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/44032/cc/311be210192342a9a67f7243680f848d-yv/thumbnail.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.3 DSA with Python / Python LeetCode Series / 5. Binary Search",
+      "parentFolderId": 52553380,
+      "createdAt": "2026-05-13T07:56:15.000Z"
+    },
+    {
+      "id": 162552370,
+      "name": "DSA L-35 Find Minimum in Rotated Sorted Array- Lee (1)",
+      "duration": "00:10:20",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/44032/cc/8da94e45839b468ca28ca6c403f32861-yk/thumbnail.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.3 DSA with Python / Python LeetCode Series / 5. Binary Search",
+      "parentFolderId": 52553380,
+      "createdAt": "2026-05-13T07:56:15.000Z"
+    },
+    {
+      "id": 162552374,
+      "name": "DSA L-36  Search in Rotated Sorted Array-Leetcode-",
+      "duration": "00:14:11",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/44032/cc/ef615de1519a4f04913607bcdbdd4a98-rp/thumbnail.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.3 DSA with Python / Python LeetCode Series / 5. Binary Search",
+      "parentFolderId": 52553380,
+      "createdAt": "2026-05-13T07:56:15.000Z"
+    },
+    {
+      "id": 162552375,
+      "name": "DSA L-37 First Bad Version-Leetcode-278(Binary Sea",
+      "duration": "00:14:21",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/44032/cc/589cc22622a943a3816a4e738b770aa8-w7/thumbnail.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.3 DSA with Python / Python LeetCode Series / 5. Binary Search",
+      "parentFolderId": 52553380,
+      "createdAt": "2026-05-13T07:56:15.000Z"
+    },
+    {
+      "id": 162552371,
+      "name": "DSA L-38 valid Perfect Square-LeetCode-367(Binary",
+      "duration": "00:11:30",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/44032/cc/c7df7ef195664aa28724416bc7d27ab7-dl/thumbnail.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.3 DSA with Python / Python LeetCode Series / 5. Binary Search",
+      "parentFolderId": 52553380,
+      "createdAt": "2026-05-13T07:56:15.000Z"
+    },
+    {
+      "id": 162552372,
+      "name": "DSA L-39 Koko Eating Bananas-Leetcode-875(Binary S",
+      "duration": "00:13:19",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/44032/cc/07b117737e9345a492dc5392b92be9fa-0x/thumbnail.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.3 DSA with Python / Python LeetCode Series / 5. Binary Search",
+      "parentFolderId": 52553380,
+      "createdAt": "2026-05-13T07:56:15.000Z"
+    },
+    {
+      "id": 162552395,
+      "name": "DSA L-40 Remove Duplicates from Sorted List-LeetCo",
+      "duration": "00:05:19",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/44032/cc/3f6ebfc7d5e744599b22c79b9c8c34cf-dz/thumbnail.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.3 DSA with Python / Python LeetCode Series / 6. Linked List",
+      "parentFolderId": 52553390,
+      "createdAt": "2026-05-13T07:56:18.000Z"
+    },
+    {
+      "id": 162552399,
+      "name": "DSA L-41 Reverse Linked List-Leetcode-206(Linked L",
+      "duration": "00:10:16",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/44032/cc/8f8625a8c7cd48d98128303d49bb5318-4i/thumbnail.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.3 DSA with Python / Python LeetCode Series / 6. Linked List",
+      "parentFolderId": 52553390,
+      "createdAt": "2026-05-13T07:56:18.000Z"
+    },
+    {
+      "id": 162552400,
+      "name": "DSA L- 42 Merge Two Sorted Lists-LeetCode-21(Linke",
+      "duration": "00:09:36",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/44032/cc/a7ce41e385734860a9030367407105cb-h7/thumbnail.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.3 DSA with Python / Python LeetCode Series / 6. Linked List",
+      "parentFolderId": 52553390,
+      "createdAt": "2026-05-13T07:56:18.000Z"
+    },
+    {
+      "id": 162552398,
+      "name": "DSA L-43 Linked List Cycle-Leetcode-141(Linked Lis",
+      "duration": "00:14:58",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/44032/cc/121b9e573da344bba6dda6dd8a9726ae-pl/thumbnail.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.3 DSA with Python / Python LeetCode Series / 6. Linked List",
+      "parentFolderId": 52553390,
+      "createdAt": "2026-05-13T07:56:18.000Z"
+    },
+    {
+      "id": 162552396,
+      "name": "DSA L-44 Insert Greatest Common Divisor in Linked",
+      "duration": "00:05:55",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/44032/cc/e69203f988684087b6942065d48693be-89/thumbnail.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.3 DSA with Python / Python LeetCode Series / 6. Linked List",
+      "parentFolderId": 52553390,
+      "createdAt": "2026-05-13T07:56:18.000Z"
+    },
+    {
+      "id": 162552397,
+      "name": "DSA L-45 Remove the Nth Node from End of the Linke",
+      "duration": "00:07:34",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/44032/cc/5bf62c9f59d24130930c05d49ed67c6f-xc/thumbnail.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.3 DSA with Python / Python LeetCode Series / 6. Linked List",
+      "parentFolderId": 52553390,
+      "createdAt": "2026-05-13T07:56:18.000Z"
+    },
+    {
+      "id": 162552394,
+      "name": "DSA L-46 Middle of the Linked List-LeetCode-876(Li",
+      "duration": "00:06:54",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/44032/cc/f8e6301c8b914b998e13fa65b6c11777-du/thumbnail.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.3 DSA with Python / Python LeetCode Series / 6. Linked List",
+      "parentFolderId": 52553390,
+      "createdAt": "2026-05-13T07:56:18.000Z"
+    },
+    {
+      "id": 162552401,
+      "name": "DSA L- 47 Copy List with Random Pointer-Leetcode-",
+      "duration": "00:10:11",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/44032/cc/3d540b7037364292ba637058c479b48e-3k/thumbnail.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.3 DSA with Python / Python LeetCode Series / 6. Linked List",
+      "parentFolderId": 52553390,
+      "createdAt": "2026-05-13T07:56:18.000Z"
+    },
+    {
+      "id": 162552411,
+      "name": "DSA L-48 max Consecutive Ones III - Leetcode-1004(",
+      "duration": "00:09:42",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/44032/cc/737db4f9d66948729d5bd0a43229d30f-1n/thumbnail.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.3 DSA with Python / Python LeetCode Series / 7. Sliding Window",
+      "parentFolderId": 52553400,
+      "createdAt": "2026-05-13T07:56:21.000Z"
+    },
+    {
+      "id": 162552412,
+      "name": "DSA L-49 Longest Repeating Character Replacement-L",
+      "duration": "00:11:01",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/44032/cc/c8d40d267fb04acd96be426b50312e14-7v/thumbnail.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.3 DSA with Python / Python LeetCode Series / 7. Sliding Window",
+      "parentFolderId": 52553400,
+      "createdAt": "2026-05-13T07:56:21.000Z"
+    },
+    {
+      "id": 162552413,
+      "name": "DSA L-50 Minimum Size Subarray Sum- Leetcode-209(S",
+      "duration": "00:08:47",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/44032/cc/3631e1c9f86b4a57a00521167f1aa02b-de/thumbnail.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / 2.3 DSA with Python / Python LeetCode Series / 7. Sliding Window",
+      "parentFolderId": 52553400,
+      "createdAt": "2026-05-13T07:56:21.000Z"
+    },
+    {
+      "id": 162552264,
+      "name": "Day 1 - DSA (Introduction)",
+      "duration": "01:14:01",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/vod-thumbnail/836f94cf-6b52-4503-80c1-b0d932103307.jpg",
+      "folderPath": "3. Infosys DSE & SP Role Prep / DSA With C/C++ / 1.3 DSA by Akshat Sir / DSA by Akshat Sir",
+      "parentFolderId": 52553354,
+      "createdAt": "2026-05-13T07:56:06.000Z"
+    },
+    {
+      "id": 162552272,
+      "name": "Day 2 - Time Complexity and Space Complexity",
+      "duration": "01:02:38",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/vod-thumbnail/1ed541ae-4979-490b-8292-516277a59494.jpg",
+      "folderPath": "3. Infosys DSE & SP Role Prep / DSA With C/C++ / 1.3 DSA by Akshat Sir / DSA by Akshat Sir",
+      "parentFolderId": 52553354,
+      "createdAt": "2026-05-13T07:56:06.000Z"
+    },
+    {
+      "id": 162552288,
+      "name": "Day 3 - Array (Mathematics Approach)",
+      "duration": "00:50:16",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/vod-thumbnail/88780641-d255-4f29-adbf-6f9c611c5553.jpg",
+      "folderPath": "3. Infosys DSE & SP Role Prep / DSA With C/C++ / 1.3 DSA by Akshat Sir / DSA by Akshat Sir",
+      "parentFolderId": 52553354,
+      "createdAt": "2026-05-13T07:56:06.000Z"
+    },
+    {
+      "id": 162552275,
+      "name": "Day 4 - Maps and Two Pointer",
+      "duration": "00:47:17",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/vod-thumbnail/c398b0e3-3f01-4d76-ade5-024411b30446.jpg",
+      "folderPath": "3. Infosys DSE & SP Role Prep / DSA With C/C++ / 1.3 DSA by Akshat Sir / DSA by Akshat Sir",
+      "parentFolderId": 52553354,
+      "createdAt": "2026-05-13T07:56:06.000Z"
+    },
+    {
+      "id": 162552267,
+      "name": "Day 5 - Union and Intersection of Array",
+      "duration": "01:17:40",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/vod-thumbnail/d3d65cef-391e-4aa6-a6f5-8ab2ef9312cb.jpg",
+      "folderPath": "3. Infosys DSE & SP Role Prep / DSA With C/C++ / 1.3 DSA by Akshat Sir / DSA by Akshat Sir",
+      "parentFolderId": 52553354,
+      "createdAt": "2026-05-13T07:56:06.000Z"
+    },
+    {
+      "id": 162552282,
+      "name": "Day 6 - Kadane's Algo and Dutch National Flag Algo",
+      "duration": "01:07:32",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/vod-thumbnail/3e92f16f-bd44-4e6c-9191-32ed6bfef1b4.jpg",
+      "folderPath": "3. Infosys DSE & SP Role Prep / DSA With C/C++ / 1.3 DSA by Akshat Sir / DSA by Akshat Sir",
+      "parentFolderId": 52553354,
+      "createdAt": "2026-05-13T07:56:06.000Z"
+    },
+    {
+      "id": 162552265,
+      "name": "Day 7 - Arrays Advance",
+      "duration": "01:10:45",
+      "thumbnailUrl": "https://cdn-cp-assets-public.classplus.co/cams/image-coming-soon.jpg",
+      "folderPath": "3. Infosys DSE & SP Role Prep / DSA With C/C++ / 1.3 DSA by Akshat Sir / DSA by Akshat Sir",
+      "parentFolderId": 52553354,
+      "createdAt": "2026-05-13T07:56:06.000Z"
+    },
+    {
+      "id": 162552263,
+      "name": "Day 8 - Maps (Hashmaps)",
+      "duration": "00:52:52",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/vod-thumbnail/6f70a14b-a030-4751-8459-a362a389fece.jpg",
+      "folderPath": "3. Infosys DSE & SP Role Prep / DSA With C/C++ / 1.3 DSA by Akshat Sir / DSA by Akshat Sir",
+      "parentFolderId": 52553354,
+      "createdAt": "2026-05-13T07:56:06.000Z"
+    },
+    {
+      "id": 162552287,
+      "name": "Day 9 - Recursion (1)",
+      "duration": "00:50:30",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/vod-thumbnail/f4b3cb46-97ed-4b00-88e2-fcbd882cab07.jpg",
+      "folderPath": "3. Infosys DSE & SP Role Prep / DSA With C/C++ / 1.3 DSA by Akshat Sir / DSA by Akshat Sir",
+      "parentFolderId": 52553354,
+      "createdAt": "2026-05-13T07:56:06.000Z"
+    },
+    {
+      "id": 162552270,
+      "name": "Day 10 - Recursion (2)",
+      "duration": "01:09:24",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/vod-thumbnail/9c38c1a5-af84-442d-8d14-2eb7b79b8f4b.jpg",
+      "folderPath": "3. Infosys DSE & SP Role Prep / DSA With C/C++ / 1.3 DSA by Akshat Sir / DSA by Akshat Sir",
+      "parentFolderId": 52553354,
+      "createdAt": "2026-05-13T07:56:06.000Z"
+    },
+    {
+      "id": 162552276,
+      "name": "Day 11 - Recursion (3)",
+      "duration": "00:46:36",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/vod-thumbnail/1da0fa06-664a-40da-8d06-88a8be194178.jpg",
+      "folderPath": "3. Infosys DSE & SP Role Prep / DSA With C/C++ / 1.3 DSA by Akshat Sir / DSA by Akshat Sir",
+      "parentFolderId": 52553354,
+      "createdAt": "2026-05-13T07:56:06.000Z"
+    },
+    {
+      "id": 162552269,
+      "name": "Day 12 - Recursion (Revision)",
+      "duration": "00:39:41",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/vod-thumbnail/a8c7e471-a51b-4a66-a6ca-50e0e09cdb65.jpg",
+      "folderPath": "3. Infosys DSE & SP Role Prep / DSA With C/C++ / 1.3 DSA by Akshat Sir / DSA by Akshat Sir",
+      "parentFolderId": 52553354,
+      "createdAt": "2026-05-13T07:56:06.000Z"
+    },
+    {
+      "id": 162552268,
+      "name": "Day 13 - Backtracking",
+      "duration": "00:43:34",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/vod-thumbnail/41e543c3-3ad6-412c-91a1-344bae2e62dd.jpg",
+      "folderPath": "3. Infosys DSE & SP Role Prep / DSA With C/C++ / 1.3 DSA by Akshat Sir / DSA by Akshat Sir",
+      "parentFolderId": 52553354,
+      "createdAt": "2026-05-13T07:56:06.000Z"
+    },
+    {
+      "id": 162552279,
+      "name": "Day 14 - Strings + Bit Manipulation (Easy)",
+      "duration": "00:43:42",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/vod-thumbnail/861aa268-6637-4ad8-97c5-5cbea1c489a8.jpg",
+      "folderPath": "3. Infosys DSE & SP Role Prep / DSA With C/C++ / 1.3 DSA by Akshat Sir / DSA by Akshat Sir",
+      "parentFolderId": 52553354,
+      "createdAt": "2026-05-13T07:56:06.000Z"
+    },
+    {
+      "id": 162552274,
+      "name": "Day 15 - String (2)",
+      "duration": "00:34:34",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/vod-thumbnail/fe128d02-3f55-48c8-af0a-b4db2e2b8ded.jpg",
+      "folderPath": "3. Infosys DSE & SP Role Prep / DSA With C/C++ / 1.3 DSA by Akshat Sir / DSA by Akshat Sir",
+      "parentFolderId": 52553354,
+      "createdAt": "2026-05-13T07:56:06.000Z"
+    },
+    {
+      "id": 162552278,
+      "name": "Day 16 - String (Maps)",
+      "duration": "00:54:07",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/vod-thumbnail/72ba44ce-5333-4e6b-8297-220024c426b9.jpg",
+      "folderPath": "3. Infosys DSE & SP Role Prep / DSA With C/C++ / 1.3 DSA by Akshat Sir / DSA by Akshat Sir",
+      "parentFolderId": 52553354,
+      "createdAt": "2026-05-13T07:56:06.000Z"
+    },
+    {
+      "id": 162552266,
+      "name": "Day 17 - Introduction : Sliding Window",
+      "duration": "00:59:03",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/vod-thumbnail/efb70d39-57ce-43cb-8fef-cf346cf66b4b.jpg",
+      "folderPath": "3. Infosys DSE & SP Role Prep / DSA With C/C++ / 1.3 DSA by Akshat Sir / DSA by Akshat Sir",
+      "parentFolderId": 52553354,
+      "createdAt": "2026-05-13T07:56:06.000Z"
+    },
+    {
+      "id": 162552283,
+      "name": "Day 18 - Contest Discussion",
+      "duration": "00:45:58",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/vod-thumbnail/0fed6e08-f27d-4043-9bbe-50d280c1097f.jpg",
+      "folderPath": "3. Infosys DSE & SP Role Prep / DSA With C/C++ / 1.3 DSA by Akshat Sir / DSA by Akshat Sir",
+      "parentFolderId": 52553354,
+      "createdAt": "2026-05-13T07:56:06.000Z"
+    },
+    {
+      "id": 162552271,
+      "name": "Day 19 - Introduction : Stack and Queue",
+      "duration": "00:45:14",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/vod-thumbnail/534151de-b1ac-4b18-bede-b9eef7ddd88a.jpg",
+      "folderPath": "3. Infosys DSE & SP Role Prep / DSA With C/C++ / 1.3 DSA by Akshat Sir / DSA by Akshat Sir",
+      "parentFolderId": 52553354,
+      "createdAt": "2026-05-13T07:56:06.000Z"
+    },
+    {
+      "id": 162552280,
+      "name": "Day 20 -  Trees Foundation",
+      "duration": "00:49:18",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/vod-thumbnail/65d64c9d-14d3-4884-9909-e010d188973b.jpg",
+      "folderPath": "3. Infosys DSE & SP Role Prep / DSA With C/C++ / 1.3 DSA by Akshat Sir / DSA by Akshat Sir",
+      "parentFolderId": 52553354,
+      "createdAt": "2026-05-13T07:56:06.000Z"
+    },
+    {
+      "id": 162552284,
+      "name": "Day 21 - Trees (Part 2)",
+      "duration": "00:44:51",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/vod-thumbnail/99f2a5b6-703c-41e3-8721-df205da58f3e.jpg",
+      "folderPath": "3. Infosys DSE & SP Role Prep / DSA With C/C++ / 1.3 DSA by Akshat Sir / DSA by Akshat Sir",
+      "parentFolderId": 52553354,
+      "createdAt": "2026-05-13T07:56:06.000Z"
+    },
+    {
+      "id": 162552285,
+      "name": "Day 22 - Trees (Questions)",
+      "duration": "00:40:08",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/vod-thumbnail/837bd393-d569-407e-afe6-ea492a454ee3.jpg",
+      "folderPath": "3. Infosys DSE & SP Role Prep / DSA With C/C++ / 1.3 DSA by Akshat Sir / DSA by Akshat Sir",
+      "parentFolderId": 52553354,
+      "createdAt": "2026-05-13T07:56:06.000Z"
+    },
+    {
+      "id": 162552277,
+      "name": "DSA (Live - 21)",
+      "duration": "00:43:00",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/vod-thumbnail/bd1dd987-5d1a-4968-b60b-633cd9a95d67.jpg",
+      "folderPath": "3. Infosys DSE & SP Role Prep / DSA With C/C++ / 1.3 DSA by Akshat Sir / DSA by Akshat Sir",
+      "parentFolderId": 52553354,
+      "createdAt": "2026-05-13T07:56:06.000Z"
+    },
+    {
+      "id": 162552286,
+      "name": "DSA (Live - 22)",
+      "duration": "00:44:57",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/vod-thumbnail/8f43bcf3-433d-4f1d-9701-a43d8e5549e3.jpg",
+      "folderPath": "3. Infosys DSE & SP Role Prep / DSA With C/C++ / 1.3 DSA by Akshat Sir / DSA by Akshat Sir",
+      "parentFolderId": 52553354,
+      "createdAt": "2026-05-13T07:56:06.000Z"
+    },
+    {
+      "id": 162552281,
+      "name": "DSA (Live - 23)",
+      "duration": "00:37:36",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/vod-thumbnail/6f1633b1-2518-4f68-b559-2df89e88b1ad.jpg",
+      "folderPath": "3. Infosys DSE & SP Role Prep / DSA With C/C++ / 1.3 DSA by Akshat Sir / DSA by Akshat Sir",
+      "parentFolderId": 52553354,
+      "createdAt": "2026-05-13T07:56:06.000Z"
+    },
+    {
+      "id": 162552273,
+      "name": "DSA (Live - 24)",
+      "duration": "00:40:36",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/vod-thumbnail/801c9ba0-b1f0-44a8-be33-b0660958c1e9.jpg",
+      "folderPath": "3. Infosys DSE & SP Role Prep / DSA With C/C++ / 1.3 DSA by Akshat Sir / DSA by Akshat Sir",
+      "parentFolderId": 52553354,
+      "createdAt": "2026-05-13T07:56:06.000Z"
+    },
+    {
+      "id": 162552334,
+      "name": "1.1 Arrays & Strings - Remove element",
+      "duration": "00:07:13",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/vod-thumbnail/4adf3997-2597-4f7e-b95d-e06f52fda5fd.jpg",
+      "folderPath": "3. Infosys DSE & SP Role Prep / DSA With C/C++ / 1.3 DSA by Akshat Sir / CM DSA Black Book Top 100 Question With Video Solu",
+      "parentFolderId": 52553365,
+      "createdAt": "2026-05-13T07:56:10.000Z"
+    },
+    {
+      "id": 162552336,
+      "name": "1.2 Arrays & Strings - Needle & Haystack",
+      "duration": "00:08:03",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/vod-thumbnail/de724feb-8ab8-42e8-a1a2-d34fd9dc5a02.jpg",
+      "folderPath": "3. Infosys DSE & SP Role Prep / DSA With C/C++ / 1.3 DSA by Akshat Sir / CM DSA Black Book Top 100 Question With Video Solu",
+      "parentFolderId": 52553365,
+      "createdAt": "2026-05-13T07:56:10.000Z"
+    },
+    {
+      "id": 162552333,
+      "name": "1.3 Arrays & Strings - Longest Common Prefix",
+      "duration": "00:07:26",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/vod-thumbnail/7bf4b3bf-4a89-4256-aaf6-217edbc540cb.jpg",
+      "folderPath": "3. Infosys DSE & SP Role Prep / DSA With C/C++ / 1.3 DSA by Akshat Sir / CM DSA Black Book Top 100 Question With Video Solu",
+      "parentFolderId": 52553365,
+      "createdAt": "2026-05-13T07:56:10.000Z"
+    },
+    {
+      "id": 162552337,
+      "name": "1.4 Arrays & Strings - Length of Last word",
+      "duration": "00:05:35",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/vod-thumbnail/64bada68-2983-4ecb-a69f-85e0fa8f6bba.jpg",
+      "folderPath": "3. Infosys DSE & SP Role Prep / DSA With C/C++ / 1.3 DSA by Akshat Sir / CM DSA Black Book Top 100 Question With Video Solu",
+      "parentFolderId": 52553365,
+      "createdAt": "2026-05-13T07:56:10.000Z"
+    },
+    {
+      "id": 162552330,
+      "name": "1.5 Arrays & Strings - Roman to Integer",
+      "duration": "00:12:04",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/vod-thumbnail/90c277fe-6e2b-4b40-a7d8-bcf375cdb8de.jpg",
+      "folderPath": "3. Infosys DSE & SP Role Prep / DSA With C/C++ / 1.3 DSA by Akshat Sir / CM DSA Black Book Top 100 Question With Video Solu",
+      "parentFolderId": 52553365,
+      "createdAt": "2026-05-13T07:56:10.000Z"
+    },
+    {
+      "id": 162552329,
+      "name": "1.6 Arrays & Strings - Merge Sorted Arrays",
+      "duration": "00:10:01",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/vod-thumbnail/a93bff1d-77dc-4b7b-b6b7-c53525491187.jpg",
+      "folderPath": "3. Infosys DSE & SP Role Prep / DSA With C/C++ / 1.3 DSA by Akshat Sir / CM DSA Black Book Top 100 Question With Video Solu",
+      "parentFolderId": 52553365,
+      "createdAt": "2026-05-13T07:56:09.000Z"
+    },
+    {
+      "id": 162552340,
+      "name": "1.7 Arrays & Strings - Buy & Sell Stocks",
+      "duration": "00:07:45",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/vod-thumbnail/fccee7aa-f652-41f6-b5eb-4606d88a8c73.jpg",
+      "folderPath": "3. Infosys DSE & SP Role Prep / DSA With C/C++ / 1.3 DSA by Akshat Sir / CM DSA Black Book Top 100 Question With Video Solu",
+      "parentFolderId": 52553365,
+      "createdAt": "2026-05-13T07:56:10.000Z"
+    },
+    {
+      "id": 162552328,
+      "name": "1.9 Arrays & Strings - Rotate Array",
+      "duration": "00:08:08",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/vod-thumbnail/63335b90-6a8f-4110-bad5-a8824226b0b2.jpg",
+      "folderPath": "3. Infosys DSE & SP Role Prep / DSA With C/C++ / 1.3 DSA by Akshat Sir / CM DSA Black Book Top 100 Question With Video Solu",
+      "parentFolderId": 52553365,
+      "createdAt": "2026-05-13T07:56:09.000Z"
+    },
+    {
+      "id": 162552332,
+      "name": "1.13 Arrays & Strings - Trapping Rain Water",
+      "duration": "00:12:33",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/vod-thumbnail/bad965e6-e7ef-492f-badd-833b26a57313.jpg",
+      "folderPath": "3. Infosys DSE & SP Role Prep / DSA With C/C++ / 1.3 DSA by Akshat Sir / CM DSA Black Book Top 100 Question With Video Solu",
+      "parentFolderId": 52553365,
+      "createdAt": "2026-05-13T07:56:10.000Z"
+    },
+    {
+      "id": 162552335,
+      "name": "2.1 Arrays & Strings - Defanging IP Address",
+      "duration": "00:07:03",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/vod-thumbnail/fe35b52a-ffdc-4c4c-9061-8be38e743c16.jpg",
+      "folderPath": "3. Infosys DSE & SP Role Prep / DSA With C/C++ / 1.3 DSA by Akshat Sir / CM DSA Black Book Top 100 Question With Video Solu",
+      "parentFolderId": 52553365,
+      "createdAt": "2026-05-13T07:56:10.000Z"
+    },
+    {
+      "id": 162552331,
+      "name": "2.2 Arrays & Strings - Max Words",
+      "duration": "00:10:30",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/vod-thumbnail/b94a8655-2e2a-483f-a6fb-f9ed2c3c10ef.jpg",
+      "folderPath": "3. Infosys DSE & SP Role Prep / DSA With C/C++ / 1.3 DSA by Akshat Sir / CM DSA Black Book Top 100 Question With Video Solu",
+      "parentFolderId": 52553365,
+      "createdAt": "2026-05-13T07:56:10.000Z"
+    },
+    {
+      "id": 162552341,
+      "name": "2.3 Arrays & Strings - Number of Senior Citizen",
+      "duration": "00:05:49",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/vod-thumbnail/4f47de37-e0e9-43ab-820b-7aca410cfcfa.jpg",
+      "folderPath": "3. Infosys DSE & SP Role Prep / DSA With C/C++ / 1.3 DSA by Akshat Sir / CM DSA Black Book Top 100 Question With Video Solu",
+      "parentFolderId": 52553365,
+      "createdAt": "2026-05-13T07:56:10.000Z"
+    },
+    {
+      "id": 162552338,
+      "name": "2.4 Arrays & Strings - Collect Garbage",
+      "duration": "00:15:23",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/vod-thumbnail/30813f59-7871-4cca-a1b8-9497207d686f.jpg",
+      "folderPath": "3. Infosys DSE & SP Role Prep / DSA With C/C++ / 1.3 DSA by Akshat Sir / CM DSA Black Book Top 100 Question With Video Solu",
+      "parentFolderId": 52553365,
+      "createdAt": "2026-05-13T07:56:10.000Z"
+    },
+    {
+      "id": 162552339,
+      "name": "2.5 Arrays & Strings - Find & Replace Pattern",
+      "duration": "00:11:03",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/vod-thumbnail/ad8bbe90-068d-450b-9440-5ee3f7a7724e.jpg",
+      "folderPath": "3. Infosys DSE & SP Role Prep / DSA With C/C++ / 1.3 DSA by Akshat Sir / CM DSA Black Book Top 100 Question With Video Solu",
+      "parentFolderId": 52553365,
+      "createdAt": "2026-05-13T07:56:10.000Z"
+    },
+    {
+      "id": 162552176,
+      "name": "Lecture 1 : Basics of Programming",
+      "duration": "00:49:26",
+      "thumbnailUrl": "https://cdn-wl-assets.classplus.co/production/single/bfwhv/d228d54b-b5eb-425f-90e7-19407b6b1ff7.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / DSA With C/C++ / 1.1 Basic to Advance - Anshul Sir ( Google) / 1.1 Basic to Advance (Programming)",
+      "parentFolderId": 52553333,
+      "createdAt": "2026-05-13T07:56:00.000Z"
+    },
+    {
+      "id": 162552184,
+      "name": "Lecture 2 : Introduction to Arrays",
+      "duration": "00:49:01",
+      "thumbnailUrl": "https://cdn-wl-assets.classplus.co/production/single/bfwhv/efda0ae0-8d92-427d-9566-1874811b77db.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / DSA With C/C++ / 1.1 Basic to Advance - Anshul Sir ( Google) / 1.1 Basic to Advance (Programming)",
+      "parentFolderId": 52553333,
+      "createdAt": "2026-05-13T07:56:00.000Z"
+    },
+    {
+      "id": 162552178,
+      "name": "Lecture 3 : Questions on array (Part 1)",
+      "duration": "00:48:09",
+      "thumbnailUrl": "https://cdn-wl-assets.classplus.co/production/single/bfwhv/1033188f-187a-40c5-9e41-0fe9102095b0.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / DSA With C/C++ / 1.1 Basic to Advance - Anshul Sir ( Google) / 1.1 Basic to Advance (Programming)",
+      "parentFolderId": 52553333,
+      "createdAt": "2026-05-13T07:56:00.000Z"
+    },
+    {
+      "id": 162552196,
+      "name": "Lecture  4:  Questions on Array (Part 2)",
+      "duration": "00:56:01",
+      "thumbnailUrl": "https://cdn-wl-assets.classplus.co/production/single/bfwhv/8d366534-267b-40ae-9ecd-85b106097910.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / DSA With C/C++ / 1.1 Basic to Advance - Anshul Sir ( Google) / 1.1 Basic to Advance (Programming)",
+      "parentFolderId": 52553333,
+      "createdAt": "2026-05-13T07:56:01.000Z"
+    },
+    {
+      "id": 162552179,
+      "name": "Lecture 5 :  Question on Arrays (Part-3)",
+      "duration": "00:42:59",
+      "thumbnailUrl": "https://cdn-wl-assets.classplus.co/production/single/bfwhv/e341305e-2294-447a-aa8e-c2d2f067996d.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / DSA With C/C++ / 1.1 Basic to Advance - Anshul Sir ( Google) / 1.1 Basic to Advance (Programming)",
+      "parentFolderId": 52553333,
+      "createdAt": "2026-05-13T07:56:00.000Z"
+    },
+    {
+      "id": 162552174,
+      "name": "Lecture 6 : Introduction to String",
+      "duration": "00:49:30",
+      "thumbnailUrl": "https://cdn-wl-assets.classplus.co/production/single/bfwhv/0ca224f8-8c9b-4dce-ac2f-a31e2f401d0b.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / DSA With C/C++ / 1.1 Basic to Advance - Anshul Sir ( Google) / 1.1 Basic to Advance (Programming)",
+      "parentFolderId": 52553333,
+      "createdAt": "2026-05-13T07:56:00.000Z"
+    },
+    {
+      "id": 162552173,
+      "name": "Lecture 7 : Question on strings (Part 1)",
+      "duration": "00:49:23",
+      "thumbnailUrl": "https://cdn-wl-assets.classplus.co/production/single/bfwhv/361be644-8de8-4e96-bf02-4cee875f0a59.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / DSA With C/C++ / 1.1 Basic to Advance - Anshul Sir ( Google) / 1.1 Basic to Advance (Programming)",
+      "parentFolderId": 52553333,
+      "createdAt": "2026-05-13T07:56:00.000Z"
+    },
+    {
+      "id": 162552175,
+      "name": "Lecture  8 : Question on strings(Part 2)",
+      "duration": "00:44:21",
+      "thumbnailUrl": "https://cdn-wl-assets.classplus.co/production/single/bfwhv/eeb3b60f-0a23-48b0-a0d2-719a9ed69b80.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / DSA With C/C++ / 1.1 Basic to Advance - Anshul Sir ( Google) / 1.1 Basic to Advance (Programming)",
+      "parentFolderId": 52553333,
+      "createdAt": "2026-05-13T07:56:00.000Z"
+    },
+    {
+      "id": 162552197,
+      "name": "Lecture 9 : Strings, Intro to Matrix(2-D Array)",
+      "duration": "00:39:49",
+      "thumbnailUrl": "https://cdn-wl-assets.classplus.co/production/single/bfwhv/f3545a4b-0c9d-411c-8f23-2d6c2e93898d.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / DSA With C/C++ / 1.1 Basic to Advance - Anshul Sir ( Google) / 1.1 Basic to Advance (Programming)",
+      "parentFolderId": 52553333,
+      "createdAt": "2026-05-13T07:56:01.000Z"
+    },
+    {
+      "id": 162552195,
+      "name": "Lecture 10 : Question on Matrix (Part-1)",
+      "duration": "00:39:36",
+      "thumbnailUrl": "https://cdn-wl-assets.classplus.co/production/single/bfwhv/f66325b5-d6db-4b88-a03d-875e5524238b.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / DSA With C/C++ / 1.1 Basic to Advance - Anshul Sir ( Google) / 1.1 Basic to Advance (Programming)",
+      "parentFolderId": 52553333,
+      "createdAt": "2026-05-13T07:56:01.000Z"
+    },
+    {
+      "id": 162552185,
+      "name": "Lecture 11 : Question on Matrix (Part 2)",
+      "duration": "00:47:01",
+      "thumbnailUrl": "https://cdn-wl-assets.classplus.co/production/single/bfwhv/08382362-1219-4e26-816e-cbc5122548b6.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / DSA With C/C++ / 1.1 Basic to Advance - Anshul Sir ( Google) / 1.1 Basic to Advance (Programming)",
+      "parentFolderId": 52553333,
+      "createdAt": "2026-05-13T07:56:00.000Z"
+    },
+    {
+      "id": 162552177,
+      "name": "Lecture 12 : Time and Space Complexity",
+      "duration": "00:44:25",
+      "thumbnailUrl": "https://cdn-wl-assets.classplus.co/production/single/bfwhv/f2f38fe7-40c6-43fe-acf9-071d135376c1.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / DSA With C/C++ / 1.1 Basic to Advance - Anshul Sir ( Google) / 1.1 Basic to Advance (Programming)",
+      "parentFolderId": 52553333,
+      "createdAt": "2026-05-13T07:56:00.000Z"
+    },
+    {
+      "id": 162552183,
+      "name": "Lecture 13 :  Binary Search",
+      "duration": "00:43:14",
+      "thumbnailUrl": "https://cdn-wl-assets.classplus.co/production/single/bfwhv/16ce697c-395b-453e-81e2-6f9aa66c7f63.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / DSA With C/C++ / 1.1 Basic to Advance - Anshul Sir ( Google) / 1.1 Basic to Advance (Programming)",
+      "parentFolderId": 52553333,
+      "createdAt": "2026-05-13T07:56:00.000Z"
+    },
+    {
+      "id": 162552181,
+      "name": "Lecture 14 : Recursion",
+      "duration": "00:40:54",
+      "thumbnailUrl": "https://cdn-wl-assets.classplus.co/production/single/bfwhv/63bd879f-c62f-4aea-bf4d-1b57f347d221.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / DSA With C/C++ / 1.1 Basic to Advance - Anshul Sir ( Google) / 1.1 Basic to Advance (Programming)",
+      "parentFolderId": 52553333,
+      "createdAt": "2026-05-13T07:56:00.000Z"
+    },
+    {
+      "id": 162552193,
+      "name": "Lecture 15 : Recursion (PART 2)",
+      "duration": "00:34:56",
+      "thumbnailUrl": "https://cdn-wl-assets.classplus.co/production/single/bfwhv/d953a6b8-eebf-4446-a74b-ce31bf3f56d0.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / DSA With C/C++ / 1.1 Basic to Advance - Anshul Sir ( Google) / 1.1 Basic to Advance (Programming)",
+      "parentFolderId": 52553333,
+      "createdAt": "2026-05-13T07:56:00.000Z"
+    },
+    {
+      "id": 162552180,
+      "name": "Lecture 16  : (Intro to STL)",
+      "duration": "00:38:24",
+      "thumbnailUrl": "https://cdn-wl-assets.classplus.co/production/single/bfwhv/99a5fe73-fcc5-48bb-9ced-5675e32d7b8c.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / DSA With C/C++ / 1.1 Basic to Advance - Anshul Sir ( Google) / 1.1 Basic to Advance (Programming)",
+      "parentFolderId": 52553333,
+      "createdAt": "2026-05-13T07:56:00.000Z"
+    },
+    {
+      "id": 162552188,
+      "name": "Lecture  17 : (Implementation of STL - Vector, Set)",
+      "duration": "00:32:34",
+      "thumbnailUrl": "https://cdn-wl-assets.classplus.co/production/single/bfwhv/45d9fe37-e088-4600-8da1-0a260e156aa1.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / DSA With C/C++ / 1.1 Basic to Advance - Anshul Sir ( Google) / 1.1 Basic to Advance (Programming)",
+      "parentFolderId": 52553333,
+      "createdAt": "2026-05-13T07:56:00.000Z"
+    },
+    {
+      "id": 162552186,
+      "name": "Lecture  18 : (Implementation of STL - maps)",
+      "duration": "00:50:21",
+      "thumbnailUrl": "https://cdn-wl-assets.classplus.co/production/single/bfwhv/ae316023-acac-4374-82a9-8447b0e95659.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / DSA With C/C++ / 1.1 Basic to Advance - Anshul Sir ( Google) / 1.1 Basic to Advance (Programming)",
+      "parentFolderId": 52553333,
+      "createdAt": "2026-05-13T07:56:00.000Z"
+    },
+    {
+      "id": 162552198,
+      "name": "Lecture - 19 (Questions1)",
+      "duration": "00:35:51",
+      "thumbnailUrl": "https://cdn-wl-assets.classplus.co/production/single/bfwhv/3329ae64-e2f6-4641-9a6d-d51723707fc6.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / DSA With C/C++ / 1.1 Basic to Advance - Anshul Sir ( Google) / 1.1 Basic to Advance (Programming)",
+      "parentFolderId": 52553333,
+      "createdAt": "2026-05-13T07:56:01.000Z"
+    },
+    {
+      "id": 162552182,
+      "name": "Lecture - 20 (Questions2)",
+      "duration": "00:39:26",
+      "thumbnailUrl": "https://cdn-wl-assets.classplus.co/production/single/bfwhv/ade6b50b-e78a-49c6-a7a3-dc62c7022002.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / DSA With C/C++ / 1.1 Basic to Advance - Anshul Sir ( Google) / 1.1 Basic to Advance (Programming)",
+      "parentFolderId": 52553333,
+      "createdAt": "2026-05-13T07:56:00.000Z"
+    },
+    {
+      "id": 162552199,
+      "name": "Lecture - 21(Bubble,Selection and Insertion Sort)",
+      "duration": "00:43:09",
+      "thumbnailUrl": "https://cdn-wl-assets.classplus.co/production/single/bfwhv/488fb76d-eef4-4076-81ad-fda3981ad904.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / DSA With C/C++ / 1.1 Basic to Advance - Anshul Sir ( Google) / 1.1 Basic to Advance (Programming)",
+      "parentFolderId": 52553333,
+      "createdAt": "2026-05-13T07:56:01.000Z"
+    },
+    {
+      "id": 162552187,
+      "name": "Lecture - 22  (Kadane's Algo)",
+      "duration": "00:24:15",
+      "thumbnailUrl": "https://cdn-wl-assets.classplus.co/production/single/bfwhv/a17131c4-7c13-40b0-a515-94a467ce28c0.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / DSA With C/C++ / 1.1 Basic to Advance - Anshul Sir ( Google) / 1.1 Basic to Advance (Programming)",
+      "parentFolderId": 52553333,
+      "createdAt": "2026-05-13T07:56:00.000Z"
+    },
+    {
+      "id": 162552192,
+      "name": "Lecture - 23 (Generate all subsequences)",
+      "duration": "00:30:00",
+      "thumbnailUrl": "https://cdn-wl-assets.classplus.co/production/single/bfwhv/8163c7e7-1dca-48f8-803e-7c76bfb6a583.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / DSA With C/C++ / 1.1 Basic to Advance - Anshul Sir ( Google) / 1.1 Basic to Advance (Programming)",
+      "parentFolderId": 52553333,
+      "createdAt": "2026-05-13T07:56:00.000Z"
+    },
+    {
+      "id": 162552191,
+      "name": "Lecture - 24 (Merge Sort)",
+      "duration": "00:44:32",
+      "thumbnailUrl": "https://cdn-wl-assets.classplus.co/production/single/bfwhv/a8a38e57-e02f-4610-8d17-fa47eaaea9b8.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / DSA With C/C++ / 1.1 Basic to Advance - Anshul Sir ( Google) / 1.1 Basic to Advance (Programming)",
+      "parentFolderId": 52553333,
+      "createdAt": "2026-05-13T07:56:00.000Z"
+    },
+    {
+      "id": 162552200,
+      "name": "Lecture - 25 (Minimum Number of Jumps)",
+      "duration": "00:27:03",
+      "thumbnailUrl": "https://cdn-wl-assets.classplus.co/production/single/bfwhv/a9bd7a2d-9d12-4bd0-91f0-85624bcf6386.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / DSA With C/C++ / 1.1 Basic to Advance - Anshul Sir ( Google) / 1.1 Basic to Advance (Programming)",
+      "parentFolderId": 52553333,
+      "createdAt": "2026-05-13T07:56:01.000Z"
+    },
+    {
+      "id": 162552190,
+      "name": "Lecture - 26 (Pointers)",
+      "duration": "00:22:35",
+      "thumbnailUrl": "https://cdn-wl-assets.classplus.co/production/single/bfwhv/819bcadc-cde6-40c8-8682-5843dc3b1070.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / DSA With C/C++ / 1.1 Basic to Advance - Anshul Sir ( Google) / 1.1 Basic to Advance (Programming)",
+      "parentFolderId": 52553333,
+      "createdAt": "2026-05-13T07:56:00.000Z"
+    },
+    {
+      "id": 162552194,
+      "name": "Lecture - 27 (Knapsack and Fractional)",
+      "duration": "00:31:15",
+      "thumbnailUrl": "https://cdn-wl-assets.classplus.co/production/single/bfwhv/c2ba0a9f-7679-48b5-919c-8f425ec54739.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / DSA With C/C++ / 1.1 Basic to Advance - Anshul Sir ( Google) / 1.1 Basic to Advance (Programming)",
+      "parentFolderId": 52553333,
+      "createdAt": "2026-05-13T07:56:00.000Z"
+    },
+    {
+      "id": 162552189,
+      "name": "Lecture - 28 (Valid Parenthesis)",
+      "duration": "00:25:19",
+      "thumbnailUrl": "https://cdn-wl-assets.classplus.co/production/single/bfwhv/ec441e67-6c9b-4c4d-8b37-356a0c1eca75.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep / DSA With C/C++ / 1.1 Basic to Advance - Anshul Sir ( Google) / 1.1 Basic to Advance (Programming)",
+      "parentFolderId": 52553333,
+      "createdAt": "2026-05-13T07:56:00.000Z"
+    },
+    {
+      "id": 162552298,
+      "name": "Logic Building - 1",
+      "duration": "01:17:36",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/vod-thumbnail/9a8e4929-5477-4a91-bab1-ddf010be43b4.jpeg",
+      "folderPath": "3. Infosys DSE & SP Role Prep / DSA With C/C++ / 1.1 Basic to Advance - Anshul Sir ( Google) / 1.2  Logic Building by Anshul Sir / Logic Building by Anshul Sir",
+      "parentFolderId": 52553356,
+      "createdAt": "2026-05-13T07:56:06.000Z"
+    },
+    {
+      "id": 162552300,
+      "name": "Logic Building - 2",
+      "duration": "01:02:35",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/vod-thumbnail/d3ed9540-082b-4a64-8f25-eb42b666c6c3.jpeg",
+      "folderPath": "3. Infosys DSE & SP Role Prep / DSA With C/C++ / 1.1 Basic to Advance - Anshul Sir ( Google) / 1.2  Logic Building by Anshul Sir / Logic Building by Anshul Sir",
+      "parentFolderId": 52553356,
+      "createdAt": "2026-05-13T07:56:06.000Z"
+    },
+    {
+      "id": 162552302,
+      "name": "Logic Building - 3",
+      "duration": "01:02:35",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/vod-thumbnail/57557ee1-ac59-4a8e-a698-1a65fe4b8b01.jpeg",
+      "folderPath": "3. Infosys DSE & SP Role Prep / DSA With C/C++ / 1.1 Basic to Advance - Anshul Sir ( Google) / 1.2  Logic Building by Anshul Sir / Logic Building by Anshul Sir",
+      "parentFolderId": 52553356,
+      "createdAt": "2026-05-13T07:56:06.000Z"
+    },
+    {
+      "id": 162552307,
+      "name": "Logic Building - 4",
+      "duration": "01:09:31",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/vod-thumbnail/8f3cd574-2520-4d72-a495-e94f5463a87a.jpeg",
+      "folderPath": "3. Infosys DSE & SP Role Prep / DSA With C/C++ / 1.1 Basic to Advance - Anshul Sir ( Google) / 1.2  Logic Building by Anshul Sir / Logic Building by Anshul Sir",
+      "parentFolderId": 52553356,
+      "createdAt": "2026-05-13T07:56:06.000Z"
+    },
+    {
+      "id": 162552306,
+      "name": "Live - 5",
+      "duration": "00:58:32",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/vod-thumbnail/f6854770-0514-4e01-a76a-351a07d409de.jpeg",
+      "folderPath": "3. Infosys DSE & SP Role Prep / DSA With C/C++ / 1.1 Basic to Advance - Anshul Sir ( Google) / 1.2  Logic Building by Anshul Sir / Logic Building by Anshul Sir",
+      "parentFolderId": 52553356,
+      "createdAt": "2026-05-13T07:56:06.000Z"
+    },
+    {
+      "id": 162552297,
+      "name": "Live - 6",
+      "duration": "01:20:13",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/vod-thumbnail/cd38cd2f-3ef9-4ff4-bdf7-0a06d0977a96.jpg",
+      "folderPath": "3. Infosys DSE & SP Role Prep / DSA With C/C++ / 1.1 Basic to Advance - Anshul Sir ( Google) / 1.2  Logic Building by Anshul Sir / Logic Building by Anshul Sir",
+      "parentFolderId": 52553356,
+      "createdAt": "2026-05-13T07:56:06.000Z"
+    },
+    {
+      "id": 162552294,
+      "name": "Live - 7",
+      "duration": "01:41:33",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/vod-thumbnail/fb4a0475-aa16-4b5d-a6d8-876a8eb35480.jpg",
+      "folderPath": "3. Infosys DSE & SP Role Prep / DSA With C/C++ / 1.1 Basic to Advance - Anshul Sir ( Google) / 1.2  Logic Building by Anshul Sir / Logic Building by Anshul Sir",
+      "parentFolderId": 52553356,
+      "createdAt": "2026-05-13T07:56:06.000Z"
+    },
+    {
+      "id": 162552299,
+      "name": "Live - 8",
+      "duration": "01:39:05",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/vod-thumbnail/554aca8c-be56-4342-a022-d05c20fc8f83.jpg",
+      "folderPath": "3. Infosys DSE & SP Role Prep / DSA With C/C++ / 1.1 Basic to Advance - Anshul Sir ( Google) / 1.2  Logic Building by Anshul Sir / Logic Building by Anshul Sir",
+      "parentFolderId": 52553356,
+      "createdAt": "2026-05-13T07:56:06.000Z"
+    },
+    {
+      "id": 162552305,
+      "name": "Live - 9",
+      "duration": "01:32:38",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/vod-thumbnail/b9826f90-a600-439f-850a-221851dd8611.jpg",
+      "folderPath": "3. Infosys DSE & SP Role Prep / DSA With C/C++ / 1.1 Basic to Advance - Anshul Sir ( Google) / 1.2  Logic Building by Anshul Sir / Logic Building by Anshul Sir",
+      "parentFolderId": 52553356,
+      "createdAt": "2026-05-13T07:56:06.000Z"
+    },
+    {
+      "id": 162552295,
+      "name": "Live - 10",
+      "duration": "01:32:15",
+      "thumbnailUrl": "https://cdn-cp-assets-public.classplus.co/cams/image-coming-soon.jpg",
+      "folderPath": "3. Infosys DSE & SP Role Prep / DSA With C/C++ / 1.1 Basic to Advance - Anshul Sir ( Google) / 1.2  Logic Building by Anshul Sir / Logic Building by Anshul Sir",
+      "parentFolderId": 52553356,
+      "createdAt": "2026-05-13T07:56:06.000Z"
+    },
+    {
+      "id": 162552303,
+      "name": "Live 11",
+      "duration": "01:22:24",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/vod-thumbnail/3e860f80-5c7e-4ce5-aa3d-02c0c9df5e08.jpg",
+      "folderPath": "3. Infosys DSE & SP Role Prep / DSA With C/C++ / 1.1 Basic to Advance - Anshul Sir ( Google) / 1.2  Logic Building by Anshul Sir / Logic Building by Anshul Sir",
+      "parentFolderId": 52553356,
+      "createdAt": "2026-05-13T07:56:06.000Z"
+    },
+    {
+      "id": 162552296,
+      "name": "Live 12",
+      "duration": "01:22:57",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/vod-thumbnail/d6f8525f-cf83-45cd-a003-8248bb1fe8df.jpg",
+      "folderPath": "3. Infosys DSE & SP Role Prep / DSA With C/C++ / 1.1 Basic to Advance - Anshul Sir ( Google) / 1.2  Logic Building by Anshul Sir / Logic Building by Anshul Sir",
+      "parentFolderId": 52553356,
+      "createdAt": "2026-05-13T07:56:06.000Z"
+    },
+    {
+      "id": 162552301,
+      "name": "Live - 13",
+      "duration": "01:08:36",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/vod-thumbnail/6ffa843c-8dd4-4870-8139-818a315d4ea1.jpg",
+      "folderPath": "3. Infosys DSE & SP Role Prep / DSA With C/C++ / 1.1 Basic to Advance - Anshul Sir ( Google) / 1.2  Logic Building by Anshul Sir / Logic Building by Anshul Sir",
+      "parentFolderId": 52553356,
+      "createdAt": "2026-05-13T07:56:06.000Z"
+    },
+    {
+      "id": 162552304,
+      "name": "Live 14",
+      "duration": "01:44:48",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/vod-thumbnail/4823be20-af30-4a32-9558-04cf85d0c326.jpg",
+      "folderPath": "3. Infosys DSE & SP Role Prep / DSA With C/C++ / 1.1 Basic to Advance - Anshul Sir ( Google) / 1.2  Logic Building by Anshul Sir / Logic Building by Anshul Sir",
+      "parentFolderId": 52553356,
+      "createdAt": "2026-05-13T07:56:06.000Z"
+    },
+    {
+      "id": 162552045,
+      "name": "Infosys DSE & SP _ Hard DSA level questions ( Python & Java)",
+      "duration": "02:14:06",
+      "thumbnailUrl": "https://cdn-wl-assets.classplus.co/production/single/bfwhv/d0a32294-85a7-498b-8343-b5d605a9fab7.png",
+      "folderPath": "3. Infosys DSE & SP Role Prep",
+      "parentFolderId": 52553288,
+      "createdAt": "2026-05-13T07:55:56.000Z"
+    },
+    {
+      "id": 162552363,
+      "name": "1. Full Mock Test Video Solution",
+      "duration": "01:13:05",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa3/media/1128227/drm/wv/68da5cdfb7e30f0289ee19ee/c018cbff115a7f2b6a59d94d515374c9/thumbnail.png",
+      "folderPath": "Infosys Mock Test Series / Day 06 / 1. Full Length Mock I- Based on Infosys PYQ",
+      "parentFolderId": 52553377,
+      "createdAt": "2026-05-13T07:56:14.000Z"
+    }
+  ]
+}

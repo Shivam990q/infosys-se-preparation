@@ -1,0 +1,1948 @@
+{
+  "testId": "68c46848de9ec8240386f790",
+  "title": "Aptitude 02 - All India Mock",
+  "engine": "Testbook SDK",
+  "folderPath": "Infosys Mock Test Series / Day 09 / 4. Full Length Mock IV Based on Infosys PYQ",
+  "totalQuestions": 50,
+  "totalMarks": 52,
+  "durationMinutes": 45.0,
+  "livePortalUrl": "https://testsdk.testbook.com/org-44032-844567/tests/68c46848de9ec8240386f790#auth?page=test&auth=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiI1YjQzMDFmYzdkZTU1NzBjMzFkNTU1NTUiLCJzdWIiOiIxNTkzMDU3NDYiLCJhdWQiOiJDUCIsImV4cEludCI6MTc5MTk1ODYxMSwiaWF0SW50IjoxNzkxODcyMjExLCJvcmdJZCI6IjViNDMwMWZjN2RlNTU3MGMzMWQ1NTU1NSIsInJvbGVzIjoic3R1ZGVudCIsIm5hbWUiOiJIYWNrV2l0aEluZnlQcmVwIn0.O1gAxEtRqU6gRSEiKSfWonKQeYPkXPmZbAB4ff8u6wMd33jPPRtjOUJQ6TcmhjAQD4lAreaMrJbkL4BTS463VKNIieqt85wckQjiUzUIMZ6URVsnI0dlnDNHsmSB7FyoWZxzBsO0r_pfyVsXj5pJxiVyo8J9AEr9bDRmb1h42-qkCJLyjZfzoSmgeLiiIqOewhk-0U9Kua9gyWedKhL0kqzlk8sDbFJ9PfMGl4mL1L9UvU6yaSU2E5_31gFIeLRvNg1uCVcxcfY4KmTYr5IK2f5-Y_Xlzlv1esVck5-LcczA_MTg1EqZbFe-32b96r04BMgLxSgKWUbng21bv3AWaA&hideRank=0&isCPTestBookMarkEnabled=true",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "section": "Quantitative aptitude",
+      "id": "6626125d18085e092135fb13",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "Percentage of Marks obtained by various students in various subjects in an Examination. Q. The marks obtained by E in Geography are what percentage of the marks of the marks obtained by E in Hindi?",
+      "questionHtml": "<p>Percentage of Marks obtained by various students in various subjects in an Examination.</p>\n<p><img src=\"https://cms-cdn.classplus.co/parserImages/26869fdd-08e9-4eb2-8447-4e85ff61d456.png\" alt=\"\" width=\"590\" height=\"248\" /></p>\n<p><br />Q. The marks obtained by E in Geography are what percentage of the marks of the marks obtained by E in Hindi?</p>",
+      "correctOption": "3",
+      "options": [
+        {
+          "order": "1",
+          "text": "45",
+          "html": "<p>45</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "55",
+          "html": "<p>55</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "50",
+          "html": "<p>50</p>",
+          "isCorrect": true
+        },
+        {
+          "order": "4",
+          "text": "60",
+          "html": "<p>60</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "5",
+          "text": "None of these",
+          "html": "<p>None of these</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": [
+        {
+          "original": "https://cms-cdn.classplus.co/parserImages/26869fdd-08e9-4eb2-8447-4e85ff61d456.png",
+          "local": "Aptitude 02 - All India Mock_figures/q1_1.png"
+        }
+      ]
+    },
+    {
+      "questionNumber": 2,
+      "section": "Quantitative aptitude",
+      "id": "6626125d18085e904335fb18",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "Percentage of Marks obtained by various students in various subjects in an Examination. Q. What are the average marks obtained by all the students together in science?",
+      "questionHtml": "<p>Percentage of Marks obtained by various students in various subjects in an Examination.</p>\n<p><img src=\"https://cms-cdn.classplus.co/parserImages/26869fdd-08e9-4eb2-8447-4e85ff61d456.png\" alt=\"\" width=\"590\" height=\"248\" /></p>\n<p></p>\n<p>Q. What are the average marks obtained by all the students together in science?</p>",
+      "correctOption": "5",
+      "options": [
+        {
+          "order": "1",
+          "text": "77.16",
+          "html": "<p>77.16</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "120.50",
+          "html": "<p>120.50</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "118",
+          "html": "<p>118</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "121",
+          "html": "<p>121</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "5",
+          "text": "None of these",
+          "html": "<p>None of these</p>",
+          "isCorrect": true
+        }
+      ],
+      "embeddedImages": [
+        {
+          "original": "https://cms-cdn.classplus.co/parserImages/26869fdd-08e9-4eb2-8447-4e85ff61d456.png",
+          "local": "Aptitude 02 - All India Mock_figures/q2_1.png"
+        }
+      ]
+    },
+    {
+      "questionNumber": 3,
+      "section": "Quantitative aptitude",
+      "id": "6626125d18085e494635fb22",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "Q. In a survey conducted among 120 houses, it was found that 50 read Times of India, 60 read Indian Express and 48 read Hindustan Times; 20 read Times of India and Indian Express, 18 read Times of India and Hindustan. Times and 24 read Indian Express and Hindustan Times. If 10 read all three, how many read only one newspaper?",
+      "questionHtml": "<p>Q. In a survey conducted among 120 houses, it was found that 50 read Times of India, 60 read Indian Express and 48 read Hindustan Times; 20 read Times of India and Indian Express, 18 read Times of India and Hindustan. Times and 24 read Indian Express and Hindustan Times. If 10 read all three, how many read only one newspaper?</p>",
+      "correctOption": "4",
+      "options": [
+        {
+          "order": "1",
+          "text": "61",
+          "html": "<p>61</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "62",
+          "html": "<p>62</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "63",
+          "html": "<p>63</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "64",
+          "html": "<p>64</p>",
+          "isCorrect": true
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 4,
+      "section": "Quantitative aptitude",
+      "id": "6626125d18085e7e6d35fb27",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "Directions for questions: Consider the Venn diagram TCS NQT given below. Q. The number in the Venn diagram indicates the number of persons/ people watching TV programmes. The diagram is drawn after surveying 150 persons in a population of 12,000. How many persons/ people can be expected to watch at least two TV programmes?",
+      "questionHtml": "<p>Directions for questions: Consider the Venn diagram TCS NQT&nbsp;given below.<br /><img src=\"https://cms-cdn.classplus.co/parserImages/f2426277-9cc9-4f37-92c1-df6dc2a43ae9.png\" alt=\"\" width=\"220\" height=\"148\" /></p>\n<p>Q. The number in the Venn diagram indicates the number of persons/ people watching TV programmes. The diagram is drawn after surveying 150 persons in a population of 12,000. How many persons/ people can be expected to watch at least two TV programmes?</p>",
+      "correctOption": "1",
+      "options": [
+        {
+          "order": "1",
+          "text": "4320",
+          "html": "<p>4320</p>",
+          "isCorrect": true
+        },
+        {
+          "order": "2",
+          "text": "4450",
+          "html": "<p>4450</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "4800",
+          "html": "<p>4800</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "4960",
+          "html": "<p>4960</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": [
+        {
+          "original": "https://cms-cdn.classplus.co/parserImages/f2426277-9cc9-4f37-92c1-df6dc2a43ae9.png",
+          "local": "Aptitude 02 - All India Mock_figures/q4_1.png"
+        }
+      ]
+    },
+    {
+      "questionNumber": 5,
+      "section": "Quantitative aptitude",
+      "id": "662210fa7026ff02615c28c3",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "The ratio of the age of Ram and Rahim 10 years ago was 1 : 3. The ratio of their age five years hence will be 2 : 3. Then the ratio of their present age is",
+      "questionHtml": "<p>The ratio of the age of Ram and Rahim 10 years ago was 1 : 3. The ratio of their age five years hence will be</p>\n<p>2 : 3. Then the ratio of their present age is</p>",
+      "correctOption": "2",
+      "options": [
+        {
+          "order": "1",
+          "text": "1 : 2",
+          "html": "<p>1 : 2</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "3 : 5",
+          "html": "<p>3 : 5</p>",
+          "isCorrect": true
+        },
+        {
+          "order": "3",
+          "text": "3 : 4",
+          "html": "<p>3 : 4</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "2 : 5",
+          "html": "<p>2 : 5</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 6,
+      "section": "Quantitative aptitude",
+      "id": "662210fa7026ff30335c28b9",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "Find the missing number in the given seriese. 12, 12, 18, 45, 180, 1170, ?",
+      "questionHtml": "<p><span style=\"font-family: var(--font-family);\">Find the missing number in the given seriese.</span></p>\n<p></p>\n<p>12,&nbsp; &nbsp; &nbsp;12,&nbsp; &nbsp; &nbsp;18,&nbsp; &nbsp; &nbsp;45,&nbsp; &nbsp; &nbsp;180,&nbsp; &nbsp; &nbsp;1170,&nbsp; &nbsp; &nbsp;?</p>",
+      "correctOption": "1",
+      "options": [
+        {
+          "order": "1",
+          "text": "12285",
+          "html": "<p>12285</p>",
+          "isCorrect": true
+        },
+        {
+          "order": "2",
+          "text": "10530",
+          "html": "<p>10530</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "11700",
+          "html": "<p>11700</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "12870",
+          "html": "<p>12870</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "5",
+          "text": "9945",
+          "html": "<p>9945</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 7,
+      "section": "Quantitative aptitude",
+      "id": "662358e5f22609a6d37d5b25",
+      "type": "numerical",
+      "posMarks": 2,
+      "negMarks": 0,
+      "questionText": "A contractor agreed to construct a 6 km road in 200 days. He employed 140 persons for the work. After 60 days, he realized that only 1.5 km road has been completed. How many additional people would he need to employ to finish the work exactly on time?",
+      "questionHtml": "<p class=\"MsoNormal\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 107%; mso-ansi-language: EN-US;\">A contractor agreed to construct a 6 km road in 200 days. He employed 140 persons for the work. After 60 days, he realized that only 1.5 km road has been completed. How many additional people would he need to employ to finish the work exactly on time?</span><o:p></o:p></p>",
+      "correctOption": "",
+      "options": [
+        {
+          "order": "1",
+          "text": "40",
+          "html": "40",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 8,
+      "section": "Quantitative aptitude",
+      "id": "662358e5f226090a267d5b2b",
+      "type": "numerical",
+      "posMarks": 2,
+      "negMarks": 0,
+      "questionText": "Note : Ans in days",
+      "questionHtml": "<p><img src=\"https://cms-cdn.classplus.co/parserImages/7283bbad-dd9f-46ed-8892-09946c1d75b6.png\" alt=\"\" /></p>\n<p>Note : Ans in days&nbsp;</p>",
+      "correctOption": "",
+      "options": [
+        {
+          "order": "1",
+          "text": "6",
+          "html": "6",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": [
+        {
+          "original": "https://cms-cdn.classplus.co/parserImages/7283bbad-dd9f-46ed-8892-09946c1d75b6.png",
+          "local": "Aptitude 02 - All India Mock_figures/q8_1.png"
+        }
+      ]
+    },
+    {
+      "questionNumber": 9,
+      "section": "Quantitative aptitude",
+      "id": "66236036666d620524c0a570",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "",
+      "questionHtml": "<p><img src=\"https://cms-cdn.classplus.co/parserImages/eadcf3ab-978d-437c-b0e3-c5bbfd140368.png\" alt=\"\" /></p>",
+      "correctOption": "1",
+      "options": [
+        {
+          "order": "1",
+          "text": "4,5,9",
+          "html": "<p><span style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Aptos',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Aptos; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">4,5,9</span></p>",
+          "isCorrect": true
+        },
+        {
+          "order": "2",
+          "text": "3,7,8",
+          "html": "<p><span style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Aptos',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Aptos; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">3,7,8</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "3,6,9",
+          "html": "<p><span style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Aptos',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Aptos; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">3,6,9</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "4,7,7",
+          "html": "<p><span style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Aptos',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Aptos; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">4,7,7</span></p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": [
+        {
+          "original": "https://cms-cdn.classplus.co/parserImages/eadcf3ab-978d-437c-b0e3-c5bbfd140368.png",
+          "local": "Aptitude 02 - All India Mock_figures/q9_1.png"
+        }
+      ]
+    },
+    {
+      "questionNumber": 10,
+      "section": "Quantitative aptitude",
+      "id": "66236036666d625995c0a575",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "A shopkeeper earns a profit of 20% by selling an article by giving 25% discount on its marked price. If the cost price of the article increases by 10%, then how much discount percent should he give now on the same marked price to earn the same percentage of profit as earlier?",
+      "questionHtml": "<p class=\"MsoNormal\"><span style=\"font-size: 14.0pt; line-height: 107%;\">A shopkeeper earns a profit of 20% by selling an article by giving 25% discount on its marked price. If the cost price of the article increases by 10%, then how much discount percent should he give now on the same marked price to earn the same percentage of profit as earlier?<o:p></o:p></span></p>",
+      "correctOption": "1",
+      "options": [
+        {
+          "order": "1",
+          "text": "17.5%",
+          "html": "<p class=\"MsoNormal\" style=\"margin-left: 36.0pt; text-indent: -18.0pt; mso-list: l0 level1 lfo1; tab-stops: list 36.0pt;\"><!-- [if !supportLists]--><span style=\"font-size: 14.0pt; line-height: 107%;\">17.5%<o:p></o:p></span></p>",
+          "isCorrect": true
+        },
+        {
+          "order": "2",
+          "text": "16.5%",
+          "html": "<p class=\"MsoNormal\" style=\"margin-left: 36.0pt; text-indent: -18.0pt; mso-list: l0 level1 lfo1; tab-stops: list 36.0pt;\"><!-- [if !supportLists]--><span style=\"font-size: 14.0pt; line-height: 107%;\">16.5%&nbsp;<o:p></o:p></span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "18%",
+          "html": "<p class=\"MsoNormal\" style=\"margin-left: 36.0pt; text-indent: -18.0pt; mso-list: l0 level1 lfo1; tab-stops: list 36.0pt;\"><!-- [if !supportLists]--><span style=\"font-size: 14.0pt; line-height: 107%;\">18%<o:p></o:p></span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "15%",
+          "html": "<p class=\"MsoNormal\" style=\"margin-left: 36.0pt; text-indent: -18.0pt; mso-list: l0 level1 lfo1; tab-stops: list 36.0pt;\"><!-- [if !supportLists]--><span style=\"font-size: 14.0pt; line-height: 107%;\">15%<o:p></o:p></span></p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 11,
+      "section": "Quantitative aptitude",
+      "id": "6151ceb7905535198b5982b9",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0.25,
+      "questionText": "If A =x% of y and B =y%of x, then which of the following is true?",
+      "questionHtml": "<p><span style=\"font-size: 14pt; font-family: Lato;\"><strong style=\"color: #666666;\">If A =x%&nbsp; of y and B =y%of x, then which of the following is true?</strong></span></p>",
+      "correctOption": "1",
+      "options": [
+        {
+          "order": "1",
+          "text": "A is equal to B",
+          "html": "<p><span style=\"color: #666666; font-family: Lato; font-size: 14pt;\">A is equal to B</span></p>",
+          "isCorrect": true
+        },
+        {
+          "order": "2",
+          "text": "A is smaller than B.",
+          "html": "<p><span style=\"color: #666666; font-family: Lato; font-size: 14pt;\">A is smaller than B.</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "A relationship between A and B cannot be determined.",
+          "html": "<p><span style=\"color: #666666; font-family: Lato; font-size: 14pt;\">A relationship between A and B cannot be determined.</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "If x is greater than y, then A is less than B.",
+          "html": "<p><span style=\"color: #666666; font-family: Lato; font-size: 14pt;\">If x is greater than y, then A is less than B.</span></p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 12,
+      "section": "Quantitative aptitude",
+      "id": "6151cf1d3760c4a18252effe",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0.25,
+      "questionText": "A vendor bought mangoes at 6 for a rupee. How many for a rupee must he sell to gain 20%?",
+      "questionHtml": "<p><span style=\"font-size: 14pt; font-family: Lato;\"><strong style=\"color: #666666;\">A vendor bought mangoes at 6 for a rupee. How many for a rupee must he sell to gain 20%?</strong></span></p>",
+      "correctOption": "4",
+      "options": [
+        {
+          "order": "1",
+          "text": "3",
+          "html": "<p><span style=\"font-size: 14pt;\">3</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "6",
+          "html": "<p><span style=\"font-size: 14pt;\">6</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "4",
+          "html": "<p><span style=\"font-size: 14pt;\">4</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "5",
+          "html": "<p><span style=\"font-size: 14pt;\">5</span></p>",
+          "isCorrect": true
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 13,
+      "section": "Quantitative aptitude",
+      "id": "6151cf1e25f4d70845faecb4",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0.25,
+      "questionText": "How many 3-letter words with or without meaning, can be formed out of the letters of the word, 'ADVERTISING', if repetition of letters is not allowed?",
+      "questionHtml": "<p><span style=\"font-size: 14pt; font-family: Lato;\"><strong style=\"color: #666666;\">How many 3-letter words with or without meaning, can be formed out of the letters of the word, 'ADVERTISING', if repetition of letters is not allowed?</strong></span></p>",
+      "correctOption": "1",
+      "options": [
+        {
+          "order": "1",
+          "text": "720",
+          "html": "<p><span style=\"font-size: 14pt;\">720</span></p>",
+          "isCorrect": true
+        },
+        {
+          "order": "2",
+          "text": "420",
+          "html": "<p><span style=\"font-size: 14pt;\">420</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "5040",
+          "html": "<p><span style=\"font-size: 14pt;\">5040</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "None of these",
+          "html": "<p><span style=\"font-size: 14pt;\">None of these</span></p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 14,
+      "section": "Quantitative aptitude",
+      "id": "6151cf213760c45ad152f00d",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0.25,
+      "questionText": "Seats for Mathematics, Physics and Biology in a school are in the ratio 5 :7 :8. There is a proposal to increase these seats by 40%, 50% and 75% respectively. What will be the ratio of increased seats?",
+      "questionHtml": "<p style=\"margin-bottom: 10px; font-size: 16px; line-height: normal; font-stretch: normal; text-align: justify;\"><strong><span style=\"font-size: 14pt;\">Seats for Mathematics, Physics and Biology in a school are in the ratio 5 :7 :8. There is a proposal to increase these seats by 40%, 50% and 75% respectively. What will be the ratio of increased seats?</span></strong></p>",
+      "correctOption": "1",
+      "options": [
+        {
+          "order": "1",
+          "text": "2 : 3 : 4",
+          "html": "<p><span style=\"font-size: 14pt;\">2 : 3 : 4</span></p>",
+          "isCorrect": true
+        },
+        {
+          "order": "2",
+          "text": "6 : 7 : 8",
+          "html": "<p><span style=\"font-size: 14pt;\">6 : 7 : 8</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "6 : 8 : 9",
+          "html": "<p><span style=\"font-size: 14pt;\">6 : 8 : 9</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "7 : 6 : 9",
+          "html": "<p><span style=\"font-size: 14pt;\">7 : 6 : 9</span></p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 15,
+      "section": "Logical Reasoning",
+      "id": "66b3c33917228978493d4311",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "Pointing to a woman in a photograph a man says, \"She is the only daughter of my wife's mother-in-law.\" How is the woman related to the man?",
+      "questionHtml": "<p><strong><span style=\"font-size: 14pt;\">Pointing to a woman in a photograph a man says, \"She is the only daughter of my wife's mother-in-law.\" How is the woman related to the man?</span></strong></p>",
+      "correctOption": "3",
+      "options": [
+        {
+          "order": "1",
+          "text": "Daughter",
+          "html": "<p>Daughter</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "Wife",
+          "html": "<p>Wife </p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "Sister",
+          "html": "<p>Sister </p>",
+          "isCorrect": true
+        },
+        {
+          "order": "4",
+          "text": "Sister-in-law",
+          "html": "<p>Sister-in-law</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 16,
+      "section": "Logical Reasoning",
+      "id": "66b3c3391722895ab13d4316",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "In a certain code language 'ROAD' is written as '152' and 'MAP' is written as '90'. How 'RAIL' be coded in the similar code language?",
+      "questionHtml": "<p><strong><span style=\"font-size: 14pt;\">In a certain code language 'ROAD' is written as '152' and 'MAP' is written as '90'. How 'RAIL' be coded in the similar code language?</span></strong></p>",
+      "correctOption": "4",
+      "options": [
+        {
+          "order": "1",
+          "text": "120",
+          "html": "<p>120</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "140",
+          "html": "<p>140</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "180",
+          "html": "<p>180</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "160",
+          "html": "<p>160</p>",
+          "isCorrect": true
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 17,
+      "section": "Logical Reasoning",
+      "id": "66b3c33917228905213d4320",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "If A + B means A is the sister of B; A x B means A is the wife of B, A % B means A is the father of B and A - B means A is the brother of B. Which of the following means T is the daughter of P?",
+      "questionHtml": "<p><span style=\"font-size: 14pt;\"><strong>If A + B means A is the sister of B; A x B means A is the wife of B, A % B means A is the father of B and A - B means A is the brother of B. Which of the following means T is the daughter of P?</strong></span></p>",
+      "correctOption": "2",
+      "options": [
+        {
+          "order": "1",
+          "text": "P x Q % R + S &ndash; T",
+          "html": "<p>P x Q % R + S &ndash; T</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "P x Q % R - T + S",
+          "html": "<p>P x Q % R - T + S</p>",
+          "isCorrect": true
+        },
+        {
+          "order": "3",
+          "text": "P x Q % R + T &ndash; S",
+          "html": "<p>P x Q % R + T &ndash; S</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "P x Q % R + S + T",
+          "html": "<p>P x Q % R + S + T</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 18,
+      "section": "Logical Reasoning",
+      "id": "66b3c33917228948cb3d4325",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "Viraj is eleventh from the left end in a row of children. Pankaj is twelfth from the right end and seventeenth form the left end. How many children are towards the right of Viraj in that row?",
+      "questionHtml": "<p><strong><span style=\"font-size: 14pt;\">Viraj is eleventh from the left end in a row of children. Pankaj is twelfth from the right end and seventeenth form the left end. How many children are towards the right of Viraj in that row?</span></strong></p>",
+      "correctOption": "3",
+      "options": [
+        {
+          "order": "1",
+          "text": "16",
+          "html": "<p>16</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "18",
+          "html": "<p>18</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "17",
+          "html": "<p>17</p>",
+          "isCorrect": true
+        },
+        {
+          "order": "4",
+          "text": "None of these",
+          "html": "<p>None of these</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 19,
+      "section": "Logical Reasoning",
+      "id": "66b3c3391722896ccf3d435c",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "Statement: The Government has made an appeal to all the citizens to honestly pay income tax and file returns reflecting the true income level to help the Government to carry out developmental activities. Assumptions: I. More people may now start paying taxes in response to the appeal. II. The total income tax collection may considerably increase in the near future.",
+      "questionHtml": "<p><strong><span style=\"font-size: 14pt;\">Statement: </span></strong></p>\n<p><strong><span style=\"font-size: 14pt;\">The Government has made an appeal to all the citizens to honestly pay income tax and file returns reflecting the true income level to help the Government to carry out developmental activities.</span></strong></p>\n<p></p>\n<p><strong><span style=\"font-size: 14pt;\">Assumptions:</span></strong></p>\n<p><strong><span style=\"font-size: 14pt;\">I. More people may now start paying taxes in response to the appeal.</span></strong></p>\n<p><strong><span style=\"font-size: 14pt;\">II. The total income tax collection may considerably increase in the near future.</span></strong></p>",
+      "correctOption": "3",
+      "options": [
+        {
+          "order": "1",
+          "text": "Only I is implicit",
+          "html": "<p>Only I is implicit</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "Only II is implicit",
+          "html": "<p>Only II is implicit</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "Both I and II are implicit",
+          "html": "<p>Both I and II are implicit</p>",
+          "isCorrect": true
+        },
+        {
+          "order": "4",
+          "text": "Neither I nor II are implicit",
+          "html": "<p>Neither I nor II are implicit</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 20,
+      "section": "Logical Reasoning",
+      "id": "66b3c33917228926913d432a",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "Each of the six friends - A, B. C. D, E and F - scored different marks in an examination. C scored more only A and E. D scored less than only B. E did not score the least. The one who scored the third highest marks scored 81 marks. E scored 62 marks. Which of the following could possibly be C's core?",
+      "questionHtml": "<p><strong><span style=\"font-size: 14pt;\">Each of the six friends - A, B. C. D, E and F - scored different marks in an examination. C scored more only A and E. D scored less than only B. E did not score the least. The one who scored the third highest marks scored 81 marks. E scored 62 marks. Which of the following could possibly be C's core?</span></strong></p>",
+      "correctOption": "1",
+      "options": [
+        {
+          "order": "1",
+          "text": "70",
+          "html": "<p>70</p>",
+          "isCorrect": true
+        },
+        {
+          "order": "2",
+          "text": "94",
+          "html": "<p>94</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "86",
+          "html": "<p>86</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "61",
+          "html": "<p>61</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 21,
+      "section": "Logical Reasoning",
+      "id": "66b3c33917228947d33d432f",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "Select the letter/letters that can replace the question mark (?) in the following series. Z, U, Q, ?, L",
+      "questionHtml": "<p><strong><span style=\"font-size: 14pt;\">Select the letter/letters that can replace the question mark (?) in the following series.</span></strong></p>\n<p><strong><span style=\"font-size: 14pt;\">Z, U, Q, ?, L</span></strong></p>",
+      "correctOption": "1",
+      "options": [
+        {
+          "order": "1",
+          "text": "N",
+          "html": "<p>N</p>",
+          "isCorrect": true
+        },
+        {
+          "order": "2",
+          "text": "M",
+          "html": "<p>M</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "K",
+          "html": "<p>K</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "I",
+          "html": "<p>I</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 22,
+      "section": "Logical Reasoning",
+      "id": "66b3c339172289304d3d4366",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "Statement : In a one day cricket match, the total runs made by a team were 200. Out of these 160 runs were made by spinners. Conclusions : I. 80% of the team consists of spinners. II. The opening batsman were spinners.",
+      "questionHtml": "<p><strong><span style=\"font-size: 14pt;\">Statement : </span></strong></p>\n<p><strong><span style=\"font-size: 14pt;\">In a one day cricket match, the total runs made by a team were 200. Out of these 160 runs were made by spinners.</span></strong></p>\n<p></p>\n<p><strong><span style=\"font-size: 14pt;\">Conclusions :</span></strong></p>\n<p><strong><span style=\"font-size: 14pt;\">I. 80% of the team consists of spinners.</span></strong></p>\n<p><strong><span style=\"font-size: 14pt;\">II. The opening batsman were spinners.</span></strong></p>",
+      "correctOption": "4",
+      "options": [
+        {
+          "order": "1",
+          "text": "Only I is implicit",
+          "html": "<p>Only I is implicit</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "Only II is implicit",
+          "html": "<p>Only II is implicit</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "Both I and II are implicit",
+          "html": "<p>Both I and II are implicit</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "Neither I nor II are implicit",
+          "html": "<p>Neither I nor II are implicit</p>",
+          "isCorrect": true
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 23,
+      "section": "Logical Reasoning",
+      "id": "66b3c3391722891f733d4357",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "Statement: A major retail store announced thirty percent reduction on all food items during the weekend. Assumption: I. People may still prefer buying food items from other stores. II. A large number of customers may visit the retail store and buy food items.",
+      "questionHtml": "<p><span style=\"font-size: 14pt;\"><strong>Statement:</strong></span></p>\n<p><span style=\"font-size: 14pt;\"><strong>A major retail store announced thirty percent reduction on all food items during the weekend.</strong></span></p>\n<p></p>\n<p><span style=\"font-size: 14pt;\"><strong>Assumption: </strong></span></p>\n<p><span style=\"font-size: 14pt;\"><strong>I. People may still prefer buying food items from other stores.</strong></span></p>\n<p><span style=\"font-size: 14pt;\"><strong>II. A large number of customers may visit the retail store and buy food items.</strong></span></p>",
+      "correctOption": "2",
+      "options": [
+        {
+          "order": "1",
+          "text": "Only I is implicit",
+          "html": "<p>Only I is implicit</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "Only II is implicit",
+          "html": "<p>Only II is implicit</p>",
+          "isCorrect": true
+        },
+        {
+          "order": "3",
+          "text": "Both I and II are implicit",
+          "html": "<p>Both I and II are implicit</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "Neither I nor II are implicit",
+          "html": "<p>Neither I nor II are implicit</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 24,
+      "section": "Logical Reasoning",
+      "id": "66b3c3391722891f933d431b",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "In a certain code, '786' means 'study very hard', '958' means 'hard work pays' and '645' means 'study and work'. Which of the following is the code 'very'?",
+      "questionHtml": "<p><span style=\"font-size: 14pt;\"><strong>In a certain code, '786' means 'study very hard', '958' means 'hard work pays' and '645' means 'study and work'. Which of the following is the code 'very'?</strong></span></p>",
+      "correctOption": "3",
+      "options": [
+        {
+          "order": "1",
+          "text": "8",
+          "html": "<p>8</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "6",
+          "html": "<p>6</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "7",
+          "html": "<p>7</p>",
+          "isCorrect": true
+        },
+        {
+          "order": "4",
+          "text": "Cannot be determined",
+          "html": "<p>Cannot be determined</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 25,
+      "section": "Logical Reasoning",
+      "id": "66b3c339172289a38f3d4334",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "In the following question, select the number which can be placed at the sign of question mark (?) from the given alternatives.",
+      "questionHtml": "<p><strong><span style=\"font-size: 14pt;\">In the following question, select the number which can be placed at the sign of question mark (?) from the given alternatives.</span></strong></p>\n<p><img src=\"https://cms-cdn.classplus.co/parserImages/c1b0f269-df4d-44e7-a0d3-a6fc319cc59d.png\" alt=\"\" width=\"332\" height=\"188\" /></p>\n<p></p>",
+      "correctOption": "3",
+      "options": [
+        {
+          "order": "1",
+          "text": "42",
+          "html": "<p>42</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "26",
+          "html": "<p>26</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "30",
+          "html": "<p>30</p>",
+          "isCorrect": true
+        },
+        {
+          "order": "4",
+          "text": "36",
+          "html": "<p>36</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": [
+        {
+          "original": "https://cms-cdn.classplus.co/parserImages/c1b0f269-df4d-44e7-a0d3-a6fc319cc59d.png",
+          "local": "Aptitude 02 - All India Mock_figures/q25_1.png"
+        }
+      ]
+    },
+    {
+      "questionNumber": 26,
+      "section": "Logical Reasoning",
+      "id": "66b3c339172289668e3d4339",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "Statements: Some books are tables. Some tables are mirrors. Conclusions: I. Some mirrors are books. II. No book is mirror.",
+      "questionHtml": "<p><strong><span style=\"font-size: 14pt;\">Statements: </span></strong></p>\n<p><strong><span style=\"font-size: 14pt;\">Some books are tables. </span></strong></p>\n<p><strong><span style=\"font-size: 14pt;\">Some tables are mirrors.</span></strong></p>\n<p></p>\n<p><strong><span style=\"font-size: 14pt;\">Conclusions:</span></strong></p>\n<p><strong><span style=\"font-size: 14pt;\">I. Some mirrors are books.</span></strong></p>\n<p><strong><span style=\"font-size: 14pt;\">II. No book is mirror.</span></strong></p>",
+      "correctOption": "3",
+      "options": [
+        {
+          "order": "1",
+          "text": "If only conclusion I follows",
+          "html": "<p>If only conclusion I follows</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "If only conclusion II follows",
+          "html": "<p>If only conclusion II follows</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "If either conclusion I or II follows",
+          "html": "<p>If either conclusion I or II follows</p>",
+          "isCorrect": true
+        },
+        {
+          "order": "4",
+          "text": "If neither conclusion I nor II follows",
+          "html": "<p>If neither conclusion I nor II follows</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 27,
+      "section": "Logical Reasoning",
+      "id": "66b3c339172289674e3d4348",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "Directions: In the following question, select the related letters from the given alternatives. CLDR : YIBQ :: STOP : ?",
+      "questionHtml": "<p><span style=\"font-size: 14pt;\"><strong>Directions: In the following question, select the related letters from the given alternatives.</strong></span></p>\n<p><span style=\"font-size: 14pt;\"><strong>CLDR : YIBQ :: STOP : ?</strong></span></p>",
+      "correctOption": "2",
+      "options": [
+        {
+          "order": "1",
+          "text": "PROM",
+          "html": "<p>PROM</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "OQMO",
+          "html": "<p>OQMO</p>",
+          "isCorrect": true
+        },
+        {
+          "order": "3",
+          "text": "PQNO",
+          "html": "<p>PQNO</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "ORMO",
+          "html": "<p>ORMO</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 28,
+      "section": "Logical Reasoning",
+      "id": "66b3c33917228946c13d4343",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "Statements: All fruits are lions. All lions are foxes. Some foxes are elephants. Conclusions: I. All fruits are foxes. II. Some fruits are elephants.",
+      "questionHtml": "<p><span style=\"font-size: 14pt;\"><strong>Statements:</strong></span></p>\n<p><span style=\"font-size: 14pt;\"><strong>All fruits are lions. All lions are foxes. </strong></span></p>\n<p><span style=\"font-size: 14pt;\"><strong>Some foxes are elephants. </strong></span></p>\n<p></p>\n<p><span style=\"font-size: 14pt;\"><strong>Conclusions:</strong></span></p>\n<p><span style=\"font-size: 14pt;\"><strong>I. All fruits are foxes.</strong></span></p>\n<p><span style=\"font-size: 14pt;\"><strong>II. Some fruits are elephants.</strong></span></p>",
+      "correctOption": "1",
+      "options": [
+        {
+          "order": "1",
+          "text": "If only conclusion I follows",
+          "html": "<p>If only conclusion I follows</p>",
+          "isCorrect": true
+        },
+        {
+          "order": "2",
+          "text": "If only conclusion II follows",
+          "html": "<p>If only conclusion II follows</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "If either conclusion I or II follows",
+          "html": "<p>If either conclusion I or II follows</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "If neither conclusion I nor II follows",
+          "html": "<p>If neither conclusion I nor II follows</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 29,
+      "section": "Logical Reasoning",
+      "id": "66b3c33917228904733d434d",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "Directions: In the following question, select the related word from the given alternatives. Square : Cube :: Circle : ?",
+      "questionHtml": "<p><strong><span style=\"font-size: 14pt;\">Directions: In the following question, select the related word from the given alternatives. </span></strong></p>\n<p><strong><span style=\"font-size: 14pt;\">Square : Cube :: Circle : ?</span></strong></p>",
+      "correctOption": "1",
+      "options": [
+        {
+          "order": "1",
+          "text": "Sphere",
+          "html": "<p>Sphere</p>",
+          "isCorrect": true
+        },
+        {
+          "order": "2",
+          "text": "Circumference",
+          "html": "<p>Circumference</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "Diameter",
+          "html": "<p>Diameter</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "Area",
+          "html": "<p>Area</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 30,
+      "section": "Logical Reasoning",
+      "id": "66b3c339172289343c3d4352",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "A, B, C, D, E, F & G are sitting in line facing the East. C is immediate right of D. B is at an extreme end and has E as his neighbour. G is between E and F. D is sitting third from the South end. Who are the persons sitting at the extreme ends?",
+      "questionHtml": "<p><span style=\"font-size: 14pt;\"><strong>A, B, C, D, E, F &amp; G are sitting in line facing the East. C is immediate right of D. B is at an extreme end and has E as his neighbour. G is between E and F. D is sitting third from the South end. Who are the persons sitting at the extreme ends?</strong></span></p>",
+      "correctOption": "2",
+      "options": [
+        {
+          "order": "1",
+          "text": "A & E",
+          "html": "<p>A &amp; E</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "A & B",
+          "html": "<p>A &amp; B</p>",
+          "isCorrect": true
+        },
+        {
+          "order": "3",
+          "text": "F & B",
+          "html": "<p>F &amp; B</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "C & D",
+          "html": "<p>C &amp; D</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 31,
+      "section": "Logical Reasoning",
+      "id": "66b3c339172289e3403d433e",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "Statements: Some flats are apartments. No apartment is a hall Some halls are rooms Conclusions: I. Atleast some rooms are flats. II. No apartment is room.",
+      "questionHtml": "<p><strong><span style=\"font-size: 14pt;\">Statements:</span></strong></p>\n<p><strong><span style=\"font-size: 14pt;\">Some flats are apartments. </span></strong></p>\n<p><strong><span style=\"font-size: 14pt;\">No apartment is a hall</span></strong></p>\n<p><strong><span style=\"font-size: 14pt;\">Some halls are rooms</span></strong></p>\n<p></p>\n<p><strong><span style=\"font-size: 14pt;\">Conclusions:</span></strong></p>\n<p><strong><span style=\"font-size: 14pt;\">I. Atleast some rooms are flats. </span></strong></p>\n<p><strong><span style=\"font-size: 14pt;\">II. No apartment is room.</span></strong></p>",
+      "correctOption": "4",
+      "options": [
+        {
+          "order": "1",
+          "text": "If only conclusion I follows",
+          "html": "<p>If only conclusion I follows</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "If only conclusion II follows",
+          "html": "<p>If only conclusion II follows</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "If either conclusion I or II follows",
+          "html": "<p>If either conclusion I or II follows</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "If neither conclusion I nor II follows",
+          "html": "<p>If neither conclusion I nor II follows</p>",
+          "isCorrect": true
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 32,
+      "section": "Logical Reasoning",
+      "id": "66b3c339172289a8593d4361",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "Statement: The sale of a particular product has gone down considerably causing great concern to the company. Courses of action: I. The company should make a proper study of rival products in the market. II. The price of the product should be reduced and quality improved.",
+      "questionHtml": "<p><strong><span style=\"font-size: 14pt;\">Statement: </span></strong></p>\n<p><strong><span style=\"font-size: 14pt;\">The sale of a particular product has gone down considerably causing great concern to the company.</span></strong></p>\n<p></p>\n<p><strong><span style=\"font-size: 14pt;\">Courses of action:</span></strong></p>\n<p><strong><span style=\"font-size: 14pt;\">I. The company should make a proper study of rival products in the market.</span></strong></p>\n<p><strong><span style=\"font-size: 14pt;\">II. The price of the product should be reduced and quality improved.</span></strong></p>",
+      "correctOption": "1",
+      "options": [
+        {
+          "order": "1",
+          "text": "Only I is implicit",
+          "html": "<p>Only I is implicit</p>",
+          "isCorrect": true
+        },
+        {
+          "order": "2",
+          "text": "Only II is implicit",
+          "html": "<p>Only II is implicit</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "Both I and II are implicit",
+          "html": "<p>Both I and II are implicit</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "Neither I nor II are implicit",
+          "html": "<p>Neither I nor II are implicit</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 33,
+      "section": "Verbal Ability",
+      "id": "661e257a63ceed18fb6a466e",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "They don&rsquo;t have any _______ to spend on luxuries",
+      "questionHtml": "<p><strong><span style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">They don&rsquo;t have any _______ to spend on luxuries</span></strong></p>",
+      "correctOption": "3",
+      "options": [
+        {
+          "order": "1",
+          "text": "Time",
+          "html": "<p><span style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">Time&nbsp;</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "Balance",
+          "html": "<p><span style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">Balance&nbsp;</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "Money",
+          "html": "<p><span style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">Money&nbsp;</span></p>",
+          "isCorrect": true
+        },
+        {
+          "order": "4",
+          "text": "Ideas",
+          "html": "<p><span style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">Ideas&nbsp;</span></p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 34,
+      "section": "Verbal Ability",
+      "id": "661e257a63ceed5ae96a466f",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "They all laughed as they realized that although they had gone off in different directions from working at home to managing companies they were experiencing _______ feeling",
+      "questionHtml": "<p><strong><span style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">They all laughed as they realized that although they had gone off in different directions from working at home to managing companies they were experiencing _______ feeling</span></strong></p>",
+      "correctOption": "1",
+      "options": [
+        {
+          "order": "1",
+          "text": "Jubilant",
+          "html": "<p><span style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">Jubilant&nbsp;</span></p>",
+          "isCorrect": true
+        },
+        {
+          "order": "2",
+          "text": "Remorseful",
+          "html": "<p class=\"Default\" style=\"margin-bottom: 2.9pt;\"><span style=\"font-size: 14.0pt;\">Remorseful&nbsp;<o:p></o:p></span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "Similar",
+          "html": "<p><span style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">Similar&nbsp;</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "Strange",
+          "html": "<p><span style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">Strange&nbsp;</span></p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 35,
+      "section": "Verbal Ability",
+      "id": "661e257a63ceed587f6a4668",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "DIRECTIONS: Identify the part which contains an error. Mark that part as your answer. Exercise I enjoy doing are (a)/ running marathons, swimming lengths in a pool, (b)/ riding my bicycle in the park (c)/ and walked along the trails in a trail. (d)/",
+      "questionHtml": "<p class=\"Default\"><strong><span style=\"font-size: 14.0pt;\">DIRECTIONS: Identify the part which contains an error. Mark that part as your answer. </span><o:p></o:p></strong></p>\n<p class=\"Default\"><strong><span style=\"font-size: 14.0pt;\">&nbsp;</span><span style=\"font-size: 14.0pt;\">Exercise I enjoy doing are (a)/ running marathons, swimming lengths in a pool, (b)/ riding my bicycle in the park (c)/ and walked along the trails in a trail. (d)/</span></strong></p>\n<p class=\"Default\"><span style=\"font-size: 14.0pt;\">&nbsp;</span></p>\n<p class=\"Default\"></p>\n<p></p>\n<p class=\"Default\"><span style=\"font-size: 14.0pt;\">&nbsp;<o:p></o:p></span></p>",
+      "correctOption": "4",
+      "options": [
+        {
+          "order": "1",
+          "text": "Part a",
+          "html": "<p><span style=\"font-size: 18.6667px;\">Part a</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "Part b",
+          "html": "<p><span style=\"font-size: 18.6667px;\">Part b</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "Part c",
+          "html": "<p><span style=\"font-size: 18.6667px;\">Part c</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "Part d",
+          "html": "<p><span style=\"font-size: 18.6667px;\">Part d</span></p>",
+          "isCorrect": true
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 36,
+      "section": "Verbal Ability",
+      "id": "661e257a63ceeda4926a4667",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "To my horror, (a)/ my wedding dress looked (b)/ strain, torn (c)/ and wrinkled (d)/",
+      "questionHtml": "<p><strong><span style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">To my horror, (a)/ my wedding dress looked (b)/ strain, torn (c)/ and wrinkled (d)/&nbsp;</span></strong></p>",
+      "correctOption": "3",
+      "options": [
+        {
+          "order": "1",
+          "text": "Part a",
+          "html": "<p><span style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">Part a</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "Part b",
+          "html": "<p><span style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">Part b</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "Part c",
+          "html": "<p><span style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">Part c</span></p>",
+          "isCorrect": true
+        },
+        {
+          "order": "4",
+          "text": "Part d",
+          "html": "<p><span style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">Part d</span></p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 37,
+      "section": "Verbal Ability",
+      "id": "661e257a63ceed55746a4670",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "Ram had (a)/ invited few (b)/ friends in the (c)/ party at his lawn (d)/",
+      "questionHtml": "<p class=\"Default\"><span style=\"font-size: 14.0pt;\"><strong>Ram had (a)/ invited few (b)/ friends in the (c)/ party at his lawn </strong><strong>(d)/ <o:p></o:p></strong></span></p>",
+      "correctOption": "2",
+      "options": [
+        {
+          "order": "1",
+          "text": "Part a",
+          "html": "<p><span style=\"font-size: 18.6667px;\">Part a</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "Part b",
+          "html": "<p><span style=\"font-size: 18.6667px;\">Part b</span></p>",
+          "isCorrect": true
+        },
+        {
+          "order": "3",
+          "text": "Part c",
+          "html": "<p><span style=\"font-size: 18.6667px;\">Part c</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "Part d",
+          "html": "<p><span style=\"font-size: 18.6667px;\">Part d</span></p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 38,
+      "section": "Verbal Ability",
+      "id": "661e257a63ceed41426a466b",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "The population density of (a)/ china is (b)/ greater (c)/ than America (d)/",
+      "questionHtml": "<p class=\"Default\"><span style=\"font-size: 14.0pt;\"><strong>The population density of (a)/ china is (b)/ greater (c)/ than America (d)/ </strong><o:p></o:p></span></p>",
+      "correctOption": "4",
+      "options": [
+        {
+          "order": "1",
+          "text": "Part a",
+          "html": "<p><span style=\"font-size: 18.6667px;\">Part a</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "Part b",
+          "html": "<p><span style=\"font-size: 18.6667px;\">Part b</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "Part c",
+          "html": "<p><span style=\"font-size: 18.6667px;\">Part c</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "Part d",
+          "html": "<p><span style=\"font-size: 18.6667px;\">Part d</span></p>",
+          "isCorrect": true
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 39,
+      "section": "Verbal Ability",
+      "id": "661e257a63ceed650f6a4678",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "In each of the questions given below four words are given in bold. These words may or may not be in their correct position. Following each sentence four sequences are provided. Select the sequence of the words which will make the given sentence contextually meaningful. If the words are correct at their current position, then choose option (e) as your answer. India has an advantage (A), as a large origin (B) of semiconductor design engineers globally (C) are either Indian or Indian- portion (D).",
+      "questionHtml": "<p class=\"Default\"><strong><span style=\"font-size: 14.0pt; color: black; mso-themecolor: text1;\">In each of the questions given below four words are given in bold. These words may or may not be in their correct position. Following each sentence four sequences are provided. Select the sequence of the words which will make the given sentence contextually meaningful. If the words are correct at their current position, then choose option (e) as your answer.<o:p></o:p></span></strong></p>\n<p class=\"Default\"></p>\n<p class=\"Default\"><span style=\"font-size: 14.0pt; color: black; mso-themecolor: text1;\"><strong>India has an advantage (A), as a large origin (B) of semiconductor design engineers globally (C) are either Indian or Indian- portion (D).</strong><o:p></o:p></span></p>",
+      "correctOption": "3",
+      "options": [
+        {
+          "order": "1",
+          "text": "DCBA",
+          "html": "<p><span style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">DCBA</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "BADC",
+          "html": "<p><span style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">BADC</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "ADCB",
+          "html": "<p><span style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">ADCB</span></p>",
+          "isCorrect": true
+        },
+        {
+          "order": "4",
+          "text": "CADB",
+          "html": "<p><span style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">CADB</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "5",
+          "text": "No interchange required",
+          "html": "<p><span style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">No interchange required</span></p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 40,
+      "section": "Verbal Ability",
+      "id": "661e257a63ceed74916a4677",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "In each of the questions given below four words are given in bold. These words may or may not be in their correct position. Following each sentence four sequences are provided. Select the sequence of the words which will make the given sentence contextually meaningful. If the words are correct at their current position, then choose option (e) as your answer. Pollution has badly native (A) the fish harvest and has destroyed (B) the breeding grounds (C) of the affected (D) fish.",
+      "questionHtml": "<p class=\"Default\"><strong><span style=\"font-size: 14.0pt; color: black; mso-themecolor: text1;\">In each of the questions given below four words are given in bold. These words may or may not be in their correct position. Following each sentence four sequences are provided. Select the sequence of the words which will make the given sentence contextually meaningful. If the words are correct at their current position, then choose option (e) as your answer.<o:p></o:p></span></strong></p>\n<p class=\"Default\"></p>\n<p class=\"Default\"><span style=\"font-size: 14.0pt; color: black; mso-themecolor: text1;\"><strong>Pollution has badly native (A) the fish harvest and has destroyed (B) the breeding grounds (C) of the affected (D) fish.</strong><o:p></o:p></span></p>",
+      "correctOption": "3",
+      "options": [
+        {
+          "order": "1",
+          "text": "ABDC",
+          "html": "<p><span style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">ABDC</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "CBAD",
+          "html": "<p><span style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">CBAD</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "DBCA",
+          "html": "<p><span style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">DBCA</span></p>",
+          "isCorrect": true
+        },
+        {
+          "order": "4",
+          "text": "BDAC",
+          "html": "<p><span style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">BDAC</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "5",
+          "text": "No interchange required",
+          "html": "<p><span style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; color: black; mso-themecolor: text1; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">No interchange required</span></p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 41,
+      "section": "Verbal Ability",
+      "id": "659e04889b7cbe51de2682b7",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "Directions (11-15): Read each sentence to find out whether there is any grammatical or idiomatic error in it. The error, if any, will be in one part of the sentence. The number of that part is the answer. If there is &lsquo;No error&rsquo;, the answer is (e). (Ignore errors of punctuation, if any.) In spite of our several request (A)/ the owner of the house (B)/did not open (C)/the door of his house. (D)/No Error (E)",
+      "questionHtml": "<p class=\"MsoNormal\"><span lang=\"EN-IN\"><strong><span style=\"font-size: 14pt;\">Directions (11-15): Read each sentence to find out whether there is any grammatical or idiomatic error in it. The error, if any, will be in one part of the sentence. The number of that part is the answer. If there is &lsquo;No error&rsquo;, the answer is (e). (Ignore errors of punctuation, if any.)&nbsp;</span></strong><o:p></o:p></span></p>\n<p class=\"MsoNormal\"></p>\n<p class=\"MsoNormal\"><span lang=\"EN-IN\"><span style=\"font-size: 14pt;\">&nbsp;In spite of our several request (A)/ the owner of the house (B)/did not open (C)/the door of his house. (D)/No Error (E)</span><o:p></o:p></span></p>",
+      "correctOption": "1",
+      "options": [
+        {
+          "order": "1",
+          "text": "A",
+          "html": "<p><span style=\"font-size: 14pt;\">A</span></p>",
+          "isCorrect": true
+        },
+        {
+          "order": "2",
+          "text": "B",
+          "html": "<p><span style=\"font-size: 18.6667px;\">B</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "C",
+          "html": "<p><span style=\"font-size: 18.6667px;\">C</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "D",
+          "html": "<p><span style=\"font-size: 18.6667px;\">D</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "5",
+          "text": "E",
+          "html": "<p><span style=\"font-size: 18.6667px;\">E</span></p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 42,
+      "section": "Verbal Ability",
+      "id": "66b824d84affc04b9b4989d5",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "Directions : In each of the question given below a/an idiom/phrase is given in bold which is then followed by five options which then try to decipher its meaning. Choose the option which gives the correct meaning of the phrases Larger than life",
+      "questionHtml": "<p class=\"MsoNormal\"><span style=\"font-size: 14.0pt; line-height: 107%; mso-ansi-language: EN-US;\"><strong>Directions : In each of the question given below a/an idiom/phrase is given in bold which is then followed by five options which then try to decipher its meaning. Choose the option which gives the correct meaning of the phrases</strong><o:p></o:p></span></p>\n<p class=\"MsoNormal\"></p>\n<p class=\"MsoNormal\"></p>\n<p class=\"MsoNormal\"><span style=\"font-size: 14.0pt; line-height: 107%; mso-ansi-language: EN-US;\">&nbsp;Larger than life<o:p></o:p></span></p>",
+      "correctOption": "3",
+      "options": [
+        {
+          "order": "1",
+          "text": "to be cruel",
+          "html": "<p><span style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">to be cruel</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "to be haughty",
+          "html": "<p><span style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">to be haughty</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "to be impressive and important",
+          "html": "<p><span style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">to be impressive and important</span></p>",
+          "isCorrect": true
+        },
+        {
+          "order": "4",
+          "text": "to be disrespectful",
+          "html": "<p><span style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">to be disrespectful</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "5",
+          "text": "to be happy",
+          "html": "<p><span style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">to be happy</span></p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 43,
+      "section": "Verbal Ability",
+      "id": "659e07c3364c1487a97cb3db",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "He was very tired as he is working since 6 O' clock in the morning.",
+      "questionHtml": "<p class=\"MsoNormal\"><strong><span style=\"font-size: 16.0pt; line-height: 107%; mso-ansi-language: EN-US;\">He was very</span></strong><span style=\"font-size: 16.0pt; line-height: 107%; mso-ansi-language: EN-US;\"> tired as he is working since 6 O' clock in the morning.<o:p></o:p></span></p>",
+      "correctOption": "3",
+      "options": [
+        {
+          "order": "1",
+          "text": "he was working",
+          "html": "<p><span style=\"font-size: 18pt; line-height: 107%; font-family: Calibri, sans-serif;\">he was working</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "he had been working",
+          "html": "<p class=\"MsoNormal\"><span style=\"font-size: 16.0pt; line-height: 107%; mso-ansi-language: EN-US;\"><span style=\"font-size: 14pt;\">he had been working&nbsp;</span><o:p></o:p></span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "he has been working",
+          "html": "<p><span style=\"font-size: 16.0pt; line-height: 107%; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">he has been working&nbsp;&nbsp;</span></p>",
+          "isCorrect": true
+        },
+        {
+          "order": "4",
+          "text": "he will be working",
+          "html": "<p><span style=\"font-size: 18pt; line-height: 107%; font-family: Calibri, sans-serif;\">he will be working&nbsp;</span></p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 44,
+      "section": "Verbal Ability",
+      "id": "66b824e8519ac9fb9673ec5d",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "Directions : out of the four alternatives, choose the one which best expresses the meaning of the given word. Our posterity shall hold us responsible for the devastation of Ozone layer.",
+      "questionHtml": "<p class=\"MsoNormal\"><strong>Directions :&nbsp; out&nbsp; of the four alternatives, choose the one which best expresses the meaning of the given word.<br /></strong><strong><span lang=\"EN-IN\"><br /></span></strong><o:p></o:p></p>\n<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-family: 'Noto Sans', sans-serif; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; font-weight: normal;\">&nbsp;</span></strong><strong><span style=\"font-family: 'Noto Sans', sans-serif; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; font-weight: normal;\">Our <strong>posterity</strong> shall hold us responsible for the devastation of Ozone layer.</span></strong><o:p></o:p></p>",
+      "correctOption": "2",
+      "options": [
+        {
+          "order": "1",
+          "text": "predecessors",
+          "html": "<p>predecessors&nbsp;</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "successors",
+          "html": "<p>successors</p>",
+          "isCorrect": true
+        },
+        {
+          "order": "3",
+          "text": "offsprings",
+          "html": "<p>offsprings&nbsp;</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "followers",
+          "html": "<p>followers</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 45,
+      "section": "Verbal Ability",
+      "id": "66b824f43e2cb80a027550ce",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "Directions : ,out of the four alternatives, choose the one which best expresses the meaning of the given word. The ambition of being an IAS is subdued by the poverty within.",
+      "questionHtml": "<p class=\"MsoNormal\"><strong>Directions : ,out&nbsp; of the four alternatives, choose the one which best expresses the meaning of the given word.<br /></strong><strong><span lang=\"EN-IN\"><br /></span></strong><o:p></o:p></p>\n<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-family: 'Noto Sans', sans-serif; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; font-weight: normal;\">&nbsp;</span></strong><strong><span style=\"font-family: 'Noto Sans', sans-serif; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; font-weight: normal;\">The ambition of being an IAS is <strong>subdued</strong> by the poverty within.</span></strong><o:p></o:p></p>",
+      "correctOption": "4",
+      "options": [
+        {
+          "order": "1",
+          "text": "modified",
+          "html": "<p>modified&nbsp;</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "challenged",
+          "html": "<p>challenged</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "affected",
+          "html": "<p>affected&nbsp;</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "diluted",
+          "html": "<p>diluted</p>",
+          "isCorrect": true
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 46,
+      "section": "Verbal Ability",
+      "id": "66b825034affc0e10d4989eb",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "Direction: In Question a sentence/ a part of the sentence is italicised in bold. Below are given alternatives to the italicised part at (A), (B), (C) which may improve the sentence. Choose the correct alternative. In case no improvement is needed your answer is (D). Mark your answer in the Answer Sheet. Q. Ashutosh singh's new book 'Hopes for no brains' land' is an unique book i have ever read.",
+      "questionHtml": "<p class=\"MsoNormal\"><strong>Direction: In Question&nbsp; a sentence/ a part of the sentence is italicised in bold. Below are given alternatives to the italicised part at (A), (B), (C) which may improve the sentence. Choose the correct alternative. In case no improvement is needed your answer is (D). Mark your answer in the Answer Sheet.</strong><span lang=\"EN-IN\" style=\"font-weight: bold;\"><br /><br /></span><br /><o:p></o:p></p>\n<p class=\"MsoNormal\"></p>\n<p class=\"MsoNormal\">Q. Ashutosh singh's new book 'Hopes for no brains' land' is <strong>an unique</strong> book i have ever read.<o:p></o:p></p>",
+      "correctOption": "3",
+      "options": [
+        {
+          "order": "1",
+          "text": "the most unique",
+          "html": "<p>the most unique</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "a mostly unique",
+          "html": "<p>a mostly unique</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "a unique",
+          "html": "<p>a unique</p>",
+          "isCorrect": true
+        },
+        {
+          "order": "4",
+          "text": "No improvement",
+          "html": "<p>No improvement</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 47,
+      "section": "Verbal Ability",
+      "id": "66b825113e2cb860a57550f1",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "Direction : In these question you have two brief passages with six questions following the passage. Read the passage carefully and choose the best answer to each question out of the four alternatives. Passage &ndash; 1 Education, as Mahatma Gandhi described it, \"is the tool for the development of consciousness and reconstitution of society\". Since Independence, India has stressed reforming and restructuring the educational system as part of state intervention. The National Policy on Education (NPE), 1986, which is hailed as a landmark in the Indian educational system, provided a comprehensive framework to guide the development of education in the country. The NPE and its Programme of Action was again updated in 1992 through similar consensual process involving all the State governments, resource organisations and educationists. What has been worrying the critics and educationists alike is the non- fulfilment of one of the NPE objectives: education of girl. It has been stated in the NPE that the 'Education For All' meet should have a strong gender focus as Education For All by definition is gender inclusive. . The National Policy on Education provided",
+      "questionHtml": "<p class=\"MsoNormal\"><strong>Direction&nbsp; : In these question you have two brief passages with six questions following the passage. Read the passage carefully and choose the best answer to each question out of the four alternatives.<o:p></o:p></strong></p>\n<p class=\"MsoNormal\"><strong>&nbsp;</strong></p>\n<p class=\"MsoNormal\"><strong>Passage &ndash; 1</strong><o:p></o:p></p>\n<p class=\"MsoNormal\"></p>\n<p class=\"MsoNormal\">Education, as Mahatma Gandhi described it, \"is the tool for the development of consciousness and reconstitution of society\". Since Independence, India has stressed reforming and restructuring the educational system as part of state intervention. The National Policy on Education (NPE), 1986, which is hailed as a landmark in the Indian educational system, provided a comprehensive framework to guide the development of education in the country. The NPE and its Programme of Action was again updated in 1992 through similar consensual process involving all the State governments, resource organisations and educationists. What has been worrying the critics and educationists alike is the non- fulfilment of one of the NPE objectives: education of girl. It has been stated in the NPE that the 'Education For All' meet should have a strong gender focus as Education For All by definition is gender inclusive.<o:p></o:p></p>\n<p></p>\n<p class=\"MsoNormal\"><o:p>&nbsp;</o:p></p>\n<p class=\"MsoNormal\"><span lang=\"EN-IN\">. </span>The National Policy on Education provided<o:p></o:p></p>",
+      "correctOption": "3",
+      "options": [
+        {
+          "order": "1",
+          "text": "guidelines for the comprehension of education in the country",
+          "html": "<p>guidelines for the comprehension of education in the country</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "guidance material to develop education in the country",
+          "html": "<p>guidance material to develop education in the country</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "a comprehensive plan for the development of education in the country",
+          "html": "<p>a comprehensive plan for the development of education in the country</p>",
+          "isCorrect": true
+        },
+        {
+          "order": "4",
+          "text": "comprehensive development of education in the country",
+          "html": "<p>comprehensive development of education in the country</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 48,
+      "section": "Verbal Ability",
+      "id": "66b8251b3e2cb8ffc77550fa",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "Direction In these question you have two brief passages with six questions following the passage. Read the passage carefully and choose the best answer to each question out of the four alternatives. Passage &ndash; 1 Education, as Mahatma Gandhi described it, \"is the tool for the development of consciousness and reconstitution of society\". Since Independence, India has stressed reforming and restructuring the educational system as part of state intervention. The National Policy on Education (NPE), 1986, which is hailed as a landmark in the Indian educational system, provided a comprehensive framework to guide the development of education in the country. The NPE and its Programme of Action was again updated in 1992 through similar consensual process involving all the State governments, resource organisations and educationists. What has been worrying the critics and educationists alike is the non- fulfilment of one of the NPE objectives: education of girl. It has been stated in the NPE that the 'Education For All' meet should have a strong gender focus as Education For All by definition is gender inclusive. According to the passage, critics and educationists are worried that",
+      "questionHtml": "<p class=\"MsoNormal\"><strong>Direction&nbsp; In these question you have two brief passages with six questions following the passage. Read the passage carefully and choose the best answer to each question out of the four alternatives.<o:p></o:p></strong></p>\n<p class=\"MsoNormal\"><strong>&nbsp;</strong></p>\n<p class=\"MsoNormal\"><strong>Passage &ndash; 1</strong><o:p></o:p></p>\n<p class=\"MsoNormal\"></p>\n<p class=\"MsoNormal\">Education, as Mahatma Gandhi described it, \"is the tool for the development of consciousness and reconstitution of society\". Since Independence, India has stressed reforming and restructuring the educational system as part of state intervention. The National Policy on Education (NPE), 1986, which is hailed as a landmark in the Indian educational system, provided a comprehensive framework to guide the development of education in the country. The NPE and its Programme of Action was again updated in 1992 through similar consensual process involving all the State governments, resource organisations and educationists. What has been worrying the critics and educationists alike is the non- fulfilment of one of the NPE objectives: education of girl. It has been stated in the NPE that the 'Education For All' meet should have a strong gender focus as Education For All by definition is gender inclusive.<o:p></o:p></p>\n<p></p>\n<p class=\"MsoNormal\"><o:p>&nbsp;</o:p></p>\n<p class=\"MsoNormal\"><span lang=\"EN-IN\">&nbsp;</span>According to the passage, critics and educationists are worried that<o:p></o:p></p>",
+      "correctOption": "4",
+      "options": [
+        {
+          "order": "1",
+          "text": "the education of girls is one of the objectives of NPE.",
+          "html": "<p>the education of girls is one of the objectives of NPE.</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "the objectives of NPE have not been fulfilled.",
+          "html": "<p>the objectives of NPE have not been fulfilled.</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "non-fulfilment of NPE leads to the education of girls.",
+          "html": "<p>non-fulfilment of NPE leads to the education of girls.</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "one of the objectives of NPE has not been fulfilled.",
+          "html": "<p>one of the objectives of NPE has not been fulfilled.</p>",
+          "isCorrect": true
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 49,
+      "section": "Verbal Ability",
+      "id": "66b82527519ac9c1a973ecda",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "Direction In these question you have two brief passages with six questions following the passage. Read the passage carefully and choose the best answer to each question out of the four alternatives. Passage &ndash; 1 Education, as Mahatma Gandhi described it, \"is the tool for the development of consciousness and reconstitution of society\". Since Independence, India has stressed reforming and restructuring the educational system as part of state intervention. The National Policy on Education (NPE), 1986, which is hailed as a landmark in the Indian educational system, provided a comprehensive framework to guide the development of education in the country. The NPE and its Programme of Action was again updated in 1992 through similar consensual process involving all the State governments, resource organisations and educationists. What has been worrying the critics and educationists alike is the non- fulfilment of one of the NPE objectives: education of girl. It has been stated in the NPE that the 'Education For All' meet should have a strong gender focus as Education For All by definition is gender inclusive. According to the passage, 'a strong gender focus' means",
+      "questionHtml": "<p class=\"MsoNormal\"><strong>Direction&nbsp; In these question you have two brief passages with six questions following the passage. Read the passage carefully and choose the best answer to each question out of the four alternatives.<o:p></o:p></strong></p>\n<p class=\"MsoNormal\"><strong>&nbsp;</strong></p>\n<p class=\"MsoNormal\"><strong>Passage &ndash; 1</strong><o:p></o:p></p>\n<p class=\"MsoNormal\"></p>\n<p class=\"MsoNormal\">Education, as Mahatma Gandhi described it, \"is the tool for the development of consciousness and reconstitution of society\". Since Independence, India has stressed reforming and restructuring the educational system as part of state intervention. The National Policy on Education (NPE), 1986, which is hailed as a landmark in the Indian educational system, provided a comprehensive framework to guide the development of education in the country. The NPE and its Programme of Action was again updated in 1992 through similar consensual process involving all the State governments, resource organisations and educationists. What has been worrying the critics and educationists alike is the non- fulfilment of one of the NPE objectives: education of girl. It has been stated in the NPE that the 'Education For All' meet should have a strong gender focus as Education For All by definition is gender inclusive.<o:p></o:p></p>\n<p></p>\n<p class=\"MsoNormal\"><o:p>&nbsp;</o:p></p>\n<p class=\"MsoNormal\"><span lang=\"EN-IN\">&nbsp;</span>According to the passage, 'a strong gender focus' means<o:p></o:p></p>",
+      "correctOption": "3",
+      "options": [
+        {
+          "order": "1",
+          "text": "a focus on the strength of gender",
+          "html": "<p>a focus on the strength of gender</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "a focus on strong gender",
+          "html": "<p>a focus on strong gender</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "a strong focus on gender bias",
+          "html": "<p>a strong focus on gender bias</p>",
+          "isCorrect": true
+        },
+        {
+          "order": "4",
+          "text": "a focus on male-female ratio",
+          "html": "<p>a focus on male-female ratio</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 50,
+      "section": "Verbal Ability",
+      "id": "66b825303e2cb879cd755104",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "Direction In these question you have two brief passages with six questions following the passage. Read the passage carefully and choose the best answer to each question out of the four alternatives. Passage &ndash; 1 Education, as Mahatma Gandhi described it, \"is the tool for the development of consciousness and reconstitution of society\". Since Independence, India has stressed reforming and restructuring the educational system as part of state intervention. The National Policy on Education (NPE), 1986, which is hailed as a landmark in the Indian educational system, provided a comprehensive framework to guide the development of education in the country. The NPE and its Programme of Action was again updated in 1992 through similar consensual process involving all the State governments, resource organisations and educationists. What has been worrying the critics and educationists alike is the non- fulfilment of one of the NPE objectives: education of girl. It has been stated in the NPE that the 'Education For All' meet should have a strong gender focus as Education For All by definition is gender inclusive. . In the passage, the author makes a plea for",
+      "questionHtml": "<p class=\"MsoNormal\"><strong>Direction&nbsp; In these question you have two brief passages with six questions following the passage. Read the passage carefully and choose the best answer to each question out of the four alternatives.<o:p></o:p></strong></p>\n<p class=\"MsoNormal\"><strong>&nbsp;</strong></p>\n<p class=\"MsoNormal\"><strong>Passage &ndash; 1</strong><o:p></o:p></p>\n<p class=\"MsoNormal\"></p>\n<p class=\"MsoNormal\">Education, as Mahatma Gandhi described it, \"is the tool for the development of consciousness and reconstitution of society\". Since Independence, India has stressed reforming and restructuring the educational system as part of state intervention. The National Policy on Education (NPE), 1986, which is hailed as a landmark in the Indian educational system, provided a comprehensive framework to guide the development of education in the country. The NPE and its Programme of Action was again updated in 1992 through similar consensual process involving all the State governments, resource organisations and educationists. What has been worrying the critics and educationists alike is the non- fulfilment of one of the NPE objectives: education of girl. It has been stated in the NPE that the 'Education For All' meet should have a strong gender focus as Education For All by definition is gender inclusive.<o:p></o:p></p>\n<p></p>\n<p class=\"MsoNormal\"><o:p>&nbsp;</o:p></p>\n<p class=\"MsoNormal\"><span lang=\"EN-IN\">. </span>In the passage, the author makes a plea for<o:p></o:p></p>",
+      "correctOption": "4",
+      "options": [
+        {
+          "order": "1",
+          "text": "free education",
+          "html": "<p>free education</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "universal education",
+          "html": "<p>universal education</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "the education of men",
+          "html": "<p>the education of men</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "the education of women",
+          "html": "<p>the education of women</p>",
+          "isCorrect": true
+        }
+      ],
+      "embeddedImages": []
+    }
+  ]
+}

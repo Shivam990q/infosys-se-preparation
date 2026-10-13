@@ -1,0 +1,462 @@
+{
+  "testId": "60e885e28446f7828bcfe940",
+  "title": "DISTANCE AND DIRECTION TEST",
+  "engine": "Classplus CMS",
+  "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section I : Logical Reasoning & Puzzle / 2 : Distance and Direction / Topic Test",
+  "totalQuestions": 10,
+  "totalMarks": 0,
+  "durationMinutes": 0,
+  "livePortalUrl": "https://student-cms.classplusapp.com?token=eyJhbGciOiJIUzM4NCIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjE5MjYwNjExNiwibmFtZSI6IkhhY2tXaXRoSW5meVByZXAiLCJlbWFpbCI6ImhhY2t3aXRoaW5meXByZXBAZ21haWwuY29tIiwibW9iaWxlIjoiOTE3ODk4MDk3Mjk3Iiwic3R1ZGVudElkIjoxNTkzMDU3NDYsImNvbnRlbnRJZCI6Mjk0ODkzNDgsIm9yZ0lkIjo0NDAzMiwiY29udGVudFR5cGUiOjQsImNvdXJzZUlkIjoiODQ0NTY3IiwidGltZXN0YW1wIjoxNzkxODcyMjE0NjUyLCJjb3Vyc2VOYW1lIjoiTkVXIEluZm9zeXMgLVNFICwgRFNFICYgU1AgLVVwZGF0ZWQgUGF0dGVybiArIFBZUSArIEluZm9zeXMgdGVzdCBTZXJpZXMgd2l0aCBWaWRlbyBzb2wiLCJ0ZXN0SWQiOiI2MGU4ODVlMjg0NDZmNzgyOGJjZmU5NDAiLCJudW1iZXJPZkF0dGVtcHRzIjotMSwibWV0YURhdGEiOnsib2NzSWQiOjU4MjA1MTAzLCJvY3NUaW1lIjoxNzg5ODg1MjI4MDAwfSwiaWF0IjoxNzkxODcyMjE0LCJleHAiOjE3OTI0NzcwMTR9.1-H0fVIcKZgHqARTzCfiKgsToN-ziEh09efC5q_vh7TIk7pV-5DqNvvxdywxjcZi&testId=60e885e28446f7828bcfe940&user_email=hackwithinfyprep@gmail.com&user_id=159305746&defaultLanguage=en&isGenericShare=false",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "section": "DISTANCE AND DIRECTION",
+      "id": "60e8377740775d07da23b082",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "Directions (1-5): Study the following information carefully and answer the questions given below:\n \nPayal starts walking from point A, walks 8m in east direction and reach at point B. From point B she takes a left turn and walks 10m to reach at point C, then takes two consecutive right turn and walks 6m and 14m respectively to reach her friend Nisha’s house. Aparna starts walking in south direction from point P and walks 5m to reach at point Q, then takes a right turn and walks 6m to reach at point R. From point R she takes a left turn and walks 7m to reach at point S. From point S she takes a right turn and walks 24m and reach at point T, then finally takes a left turn and walks 7m to reach her friend Nisha’s house.\n \n \nQ1. What is the distance between point C to point R?",
+      "questionHtml": "<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 12pt;\">Directions (1-5): Study the following information carefully and answer the questions given below:</span></strong></p>\n<p class=\"MsoNormal\">&nbsp;</p>\n<p><strong><span style=\"font-family: Calibri, sans-serif; font-size: 12pt;\">Payal starts walking from point A, walks 8m in east direction and reach at point B. From point B she takes a left turn and walks 10m to reach at point C, then takes two consecutive right turn and walks 6m and 14m respectively to reach her friend Nisha&rsquo;s house. Aparna starts walking in south direction from point P and walks 5m to reach at point Q, then takes a right turn and walks 6m to reach at point R. From point R she takes a left turn and walks 7m to reach at point S. From point S she takes a right turn and walks 24m and reach at point T, then finally takes a left turn and walks 7m to reach her friend Nisha&rsquo;s house.</span></strong></p>\n<p class=\"MsoNormal\">&nbsp;</p>\n<p class=\"MsoNormal\">&nbsp;</p>\n<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 12pt;\">Q1. What is the distance between point C to point R?</span></strong></p>",
+      "solutionText": "",
+      "solutionHtml": "<p><img style=\"font-size: 1.4rem;\" src=\"https://cdn-test-assets.classplus.co/production_1625831759363/c68bb56e-418a-4c69-b2f1-c278c9d1e190.png\" alt=\"\" /></p>",
+      "options": [
+        {
+          "order": null,
+          "text": "12m",
+          "html": "<p>12m</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "28m",
+          "html": "<p>28m</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "30m",
+          "html": "<p>30m</p>",
+          "isCorrect": true
+        },
+        {
+          "order": null,
+          "text": "20m",
+          "html": "<p>20m</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "None of these",
+          "html": "<p>None of these</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 2,
+      "section": "DISTANCE AND DIRECTION",
+      "id": "60e8377740775d151c23b087",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": " What is the shortest distance between point S to Nisha’s house?",
+      "questionHtml": "<p><strong><span style=\"font-size: 12pt;\">&nbsp;What is the shortest distance between point S to Nisha&rsquo;s house?</span></strong></p>",
+      "solutionText": "",
+      "solutionHtml": "<p><img style=\"font-size: 1.4rem;\" src=\"https://cdn-test-assets.classplus.co/production_1625832016518/7eac3972-bbf4-4f82-a881-70885b5664fa.png\" alt=\"\" /></p>",
+      "options": [
+        {
+          "order": null,
+          "text": "49m",
+          "html": "<p>49m</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "25m",
+          "html": "<p>25m</p>",
+          "isCorrect": true
+        },
+        {
+          "order": null,
+          "text": "16m",
+          "html": "<p>16m</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "30m",
+          "html": "<p>30m</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": " None of these",
+          "html": "<p class=\"MsoNormal\"><span lang=\"EN-IN\">&nbsp;None of these</span></p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 3,
+      "section": "DISTANCE AND DIRECTION",
+      "id": "60e8377740775d198023b08c",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "Directions (1-5): Study the following information carefully and answer the questions given below:\n \nPayal starts walking from point A, walks 8m in east direction and reach at point B. From point B she takes a left turn and walks 10m to reach at point C, then takes two consecutive right turn and walks 6m and 14m respectively to reach her friend Nisha’s house. Aparna starts walking in south direction from point P and walks 5m to reach at point Q, then takes a right turn and walks 6m to reach at point R. From point R she takes a left turn and walks 7m to reach at point S. From point S she takes a right turn and walks 24m and reach at point T, then finally takes a left turn and walks 7m to reach her friend Nisha’s house\n \nQ3. What is the direction of point P with respect to point B?",
+      "questionHtml": "<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 12pt;\">Directions (1-5): Study the following information carefully and answer the questions given below:</span></strong></p>\n<p class=\"MsoNormal\">&nbsp;</p>\n<p><strong><span style=\"font-family: Calibri, sans-serif; font-size: 12pt;\">Payal starts walking from point A, walks 8m in east direction and reach at point B. From point B she takes a left turn and walks 10m to reach at point C, then takes two consecutive right turn and walks 6m and 14m respectively to reach her friend Nisha&rsquo;s house. Aparna starts walking in south direction from point P and walks 5m to reach at point Q, then takes a right turn and walks 6m to reach at point R. From point R she takes a left turn and walks 7m to reach at point S. From point S she takes a right turn and walks 24m and reach at point T, then finally takes a left turn and walks 7m to reach her friend Nisha&rsquo;s house</span></strong></p>\n<p class=\"MsoNormal\">&nbsp;</p>\n<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 12pt;\">Q3. What is the direction of point P with respect to point B?</span></strong></p>",
+      "solutionText": "",
+      "solutionHtml": "<p><img style=\"font-size: 1.4rem;\" src=\"https://cdn-test-assets.classplus.co/production_1625832222619/39cc4421-a569-4678-b7c8-70110658cd3d.png\" alt=\"\" /></p>",
+      "options": [
+        {
+          "order": null,
+          "text": " South-West",
+          "html": "<p class=\"MsoNormal\"><span lang=\"EN-IN\">&nbsp;South-West</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "North",
+          "html": "<p>North</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "East",
+          "html": "<p>East</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "North-east",
+          "html": "<p>North-east</p>",
+          "isCorrect": true
+        },
+        {
+          "order": null,
+          "text": " None of these",
+          "html": "<p class=\"MsoNormal\"><span lang=\"EN-IN\">&nbsp;None of these</span></p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 4,
+      "section": "DISTANCE AND DIRECTION",
+      "id": "60e8377740775d547223b091",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": " What is the direction and distance between point T with respect to point B?",
+      "questionHtml": "<p><strong><span style=\"font-size: 12pt;\">&nbsp;What is the direction and distance between point T with respect to point B?</span></strong></p>",
+      "solutionText": "",
+      "solutionHtml": "<p><img style=\"font-size: 1.4rem;\" src=\"https://cdn-test-assets.classplus.co/production_1625832720506/58a3a993-6a69-4c2d-93b6-f9861bf430ad.png\" alt=\"\" /></p>",
+      "options": [
+        {
+          "order": null,
+          "text": " 3√5m, south-west",
+          "html": "<p><span lang=\"EN-IN\" style=\"font-size: 11.0pt; line-height: 107%; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">&nbsp;3&radic;5m, south-west</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": " 45m, east",
+          "html": "<p class=\"MsoNormal\"><span lang=\"EN-IN\">&nbsp;45m, east</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": " 3√5m, north-east",
+          "html": "<p class=\"MsoNormal\"><span lang=\"EN-IN\">&nbsp;3&radic;5m, north-east</span></p>",
+          "isCorrect": true
+        },
+        {
+          "order": null,
+          "text": " 35, west",
+          "html": "<p class=\"MsoNormal\"><span lang=\"EN-IN\">&nbsp;35, west</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": " None of these",
+          "html": "<p class=\"MsoNormal\"><span lang=\"EN-IN\">&nbsp;None of these</span></p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 5,
+      "section": "DISTANCE AND DIRECTION",
+      "id": "60e8377740775d680723b096",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": " What is the direction of point T with respect to point P?",
+      "questionHtml": "<p><strong><span style=\"font-size: 12pt;\">&nbsp;What is the direction of point T with respect to point P?</span></strong></p>",
+      "solutionText": "This is the solution",
+      "solutionHtml": "<p>This is the solution</p>",
+      "options": [
+        {
+          "order": null,
+          "text": "South",
+          "html": "<p>South</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "South-west",
+          "html": "<p>South-west</p>",
+          "isCorrect": true
+        },
+        {
+          "order": null,
+          "text": "North-east",
+          "html": "<p>North-east</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "West",
+          "html": "<p>West</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "None of these",
+          "html": "<p>None of these</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 6,
+      "section": "DISTANCE AND DIRECTION",
+      "id": "60e8377740775dde2023b09b",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "Directions (6-9): Study the information carefully and answer the questions given below.\n \nPoint B is 10m north of A. Point C is 24m south of D which is 5m east of E. Point G is 5m west of F. Point C is 15m east of B. point F is 12m south of point E.\n \nQ6. What is the shortest distance between G and B?",
+      "questionHtml": "<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 12pt;\">Directions (6-9): Study the information carefully and answer the questions given below.</span></strong></p>\n<p class=\"MsoNormal\">&nbsp;</p>\n<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 12pt;\">Point B is 10m north of A. Point C is 24m south of D which is 5m east of E. Point G is 5m west of F. Point C is 15m east of B. point F is 12m south of point E.</span></strong></p>\n<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 12pt;\">&nbsp;</span></strong></p>\n<p><strong><span style=\"font-size: 12pt;\">Q6. What is the shortest distance between G and B?</span></strong></p>",
+      "solutionText": "",
+      "solutionHtml": "<p><img style=\"font-size: 1.4rem;\" src=\"https://cdn-test-assets.classplus.co/production_1625833043160/520c858e-6c02-40bd-b2bc-e575998b74fa.png\" alt=\"\" /></p>",
+      "options": [
+        {
+          "order": null,
+          "text": "14m",
+          "html": "<p>14m</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "11m",
+          "html": "<p>11m</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "13m",
+          "html": "<p>13m</p>",
+          "isCorrect": true
+        },
+        {
+          "order": null,
+          "text": "10m",
+          "html": "<p>10m</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "5m",
+          "html": "<p>5m</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 7,
+      "section": "DISTANCE AND DIRECTION",
+      "id": "60e8377740775d639f23b0a0",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "What is the direction of E with respect of G?",
+      "questionHtml": "<p><strong><span style=\"font-family: Calibri, sans-serif; font-size: 12pt;\">What is the direction of E with respect of G?</span></strong></p>",
+      "solutionText": "",
+      "solutionHtml": "<p><img style=\"font-size: 1.4rem;\" src=\"https://cdn-test-assets.classplus.co/production_1625833276310/ac21d598-a0a2-42e4-8a4f-f760aee07bca.png\" alt=\"\" /></p>",
+      "options": [
+        {
+          "order": null,
+          "text": " South-west",
+          "html": "<p class=\"MsoNormal\"><span lang=\"EN-IN\">&nbsp;South-west</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": " North-east",
+          "html": "<p class=\"MsoNormal\"><span lang=\"EN-IN\">&nbsp;North-east</span></p>",
+          "isCorrect": true
+        },
+        {
+          "order": null,
+          "text": "South",
+          "html": "<p>South</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "North",
+          "html": "<p>North</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "North-west",
+          "html": "<p class=\"MsoNormal\"><span lang=\"EN-IN\">North-west</span></p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 8,
+      "section": "DISTANCE AND DIRECTION",
+      "id": "60e8377740775d4fff23b0a5",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "If point H is 8m north of C, what is the direction and distance of Point H with respect to B?",
+      "questionHtml": "<p><strong><span style=\"font-size: 12pt;\">If point H is 8m north of C, what is the direction and distance of Point H with respect to B?</span></strong></p>",
+      "solutionText": "",
+      "solutionHtml": "<p><img style=\"font-size: 1.4rem;\" src=\"https://cdn-test-assets.classplus.co/production_1625833482047/7fd3deb0-a3c9-49dc-a37a-87fc6e503012.png\" alt=\"\" /></p>",
+      "options": [
+        {
+          "order": null,
+          "text": " 12m, North-East",
+          "html": "<p><span lang=\"EN-IN\" style=\"font-size: 11.0pt; line-height: 107%; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">&nbsp;12m, North-East</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": " 7m, North",
+          "html": "<p class=\"MsoNormal\"><span lang=\"EN-IN\">&nbsp;7m, North</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "15m, South-west",
+          "html": "<p class=\"MsoNormal\"><span lang=\"EN-IN\">15m, South-west</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": " 17m, North-East",
+          "html": "<p class=\"MsoNormal\"><span lang=\"EN-IN\">&nbsp;17m, North-East</span></p>",
+          "isCorrect": true
+        },
+        {
+          "order": null,
+          "text": "10m, North-west",
+          "html": "<p class=\"MsoNormal\"><span lang=\"EN-IN\">10m, North-west</span></p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 9,
+      "section": "DISTANCE AND DIRECTION",
+      "id": "60e8377740775dd5f423b0aa",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "What is the direction of A with respect to F?",
+      "questionHtml": "<p><strong><span style=\"font-size: 12pt;\">What is the direction of A with respect to F?</span></strong></p>",
+      "solutionText": "",
+      "solutionHtml": "<p><img style=\"font-size: 1.4rem;\" src=\"https://cdn-test-assets.classplus.co/production_1625833634784/d7efb9f7-1f5e-42e6-b198-de8c2e5a57fd.png\" alt=\"\" /></p>",
+      "options": [
+        {
+          "order": null,
+          "text": " South- East",
+          "html": "<p><span lang=\"EN-IN\" style=\"font-size: 11.0pt; line-height: 107%; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">&nbsp;South- East</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": " North- West",
+          "html": "<p class=\"MsoNormal\"><span lang=\"EN-IN\">&nbsp;North- West</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": " South-West",
+          "html": "<p class=\"MsoNormal\"><span lang=\"EN-IN\">&nbsp;South-West</span></p>",
+          "isCorrect": true
+        },
+        {
+          "order": null,
+          "text": "North",
+          "html": "<p>North</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "South",
+          "html": "<p>South</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 10,
+      "section": "DISTANCE AND DIRECTION",
+      "id": "60e8377740775df33223b0af",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": " \n If A@B means ‘B is west of A’, A#B means ‘A is south of B’, A%B means ‘A is east of B’ and A&B means ‘A is north of B’. Then what is the direction of P with respect of R in the given expression- P % Q # S @ R.",
+      "questionHtml": "<p class=\"MsoNormal\"><strong><span lang=\"EN-IN\" style=\"font-size: 12pt;\">&nbsp;</span></strong></p>\n<p><strong><span style=\"font-size: 12pt;\">&nbsp;If A@B means &lsquo;B is west of A&rsquo;, A#B means &lsquo;A is south of B&rsquo;, A%B means &lsquo;A is east of B&rsquo; and A&amp;B means &lsquo;A is north of B&rsquo;. Then what is the direction of P with respect of R in the given expression- P % Q # S @ R.</span></strong></p>",
+      "solutionText": "",
+      "solutionHtml": "<p><img style=\"font-size: 1.4rem;\" src=\"https://cdn-test-assets.classplus.co/production_1625833792375/531b94a2-8936-491b-8118-9b414da7f87d.png\" alt=\"\" /></p>",
+      "options": [
+        {
+          "order": null,
+          "text": "North",
+          "html": "<p>North</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "South",
+          "html": "<p>South</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": " North- East",
+          "html": "<p class=\"MsoNormal\"><span lang=\"EN-IN\">&nbsp;North- East</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": " South- West",
+          "html": "<p class=\"MsoNormal\"><span lang=\"EN-IN\">&nbsp;South- West</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": " South- East",
+          "html": "<p><span lang=\"EN-IN\" style=\"font-size: 11.0pt; line-height: 107%; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">&nbsp;South- East</span></p>",
+          "isCorrect": true
+        }
+      ],
+      "embeddedImages": []
+    }
+  ]
+}

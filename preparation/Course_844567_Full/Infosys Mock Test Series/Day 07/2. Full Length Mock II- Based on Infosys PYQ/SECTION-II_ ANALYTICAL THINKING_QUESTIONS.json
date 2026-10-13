@@ -1,0 +1,648 @@
+{
+  "testId": "68ce85f06524300fca548c3c",
+  "title": "SECTION-II: ANALYTICAL THINKING",
+  "engine": "Testbook SDK",
+  "folderPath": "Infosys Mock Test Series / Day 07 / 2. Full Length Mock II- Based on Infosys PYQ",
+  "totalQuestions": 15,
+  "totalMarks": 15,
+  "durationMinutes": 20.0,
+  "livePortalUrl": "https://testsdk.testbook.com/org-44032-844567/tests/68ce85f06524300fca548c3c#auth?page=test&auth=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiI1YjQzMDFmYzdkZTU1NzBjMzFkNTU1NTUiLCJzdWIiOiIxNTkzMDU3NDYiLCJhdWQiOiJDUCIsImV4cEludCI6MTc5MTk1ODYwOCwiaWF0SW50IjoxNzkxODcyMjA4LCJvcmdJZCI6IjViNDMwMWZjN2RlNTU3MGMzMWQ1NTU1NSIsInJvbGVzIjoic3R1ZGVudCIsIm5hbWUiOiJIYWNrV2l0aEluZnlQcmVwIn0.afWnlSma4YC72l8-TLvMBHCTkqFWP99_pdBA4P2X3UuyNfr8FOBBjhcztvzEKIResq0onKAHhto9l2GpzkUN10RifQaI7Ynz2ujetOznNuiZY5btu9SPVy-f_Cs27qqUQ44t313j71RhdAaN6Gb0SQWLou8bXENvYgyuVEedu14MXle364Sdf_hWGI4eVhbGpG8-X_2S3OzSVuxUXMPt2j9Bx8gA8X4Tgm_BQOeIHUfjitRDT8Tgw-USB5OjoiqsnQmdscrKwtjzf-AAR-_EG4xtZBeQVGCC-TbkWIcm6fhWjSugB0xvsgco9ZdimDAsITv1p6QpTumYwHvYmZpeVQ&hideRank=0&isCPTestBookMarkEnabled=true",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "section": "Technical Pseudo Codes -01",
+      "id": "68ce85f06524303edb548c3e",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "Directions(1-2): Two statements are followed by four conclusions numbered I, II, III, IV. Take the first two statements to be true even if they are at variance with commonly &ndash; known facts. The statements are followed by conclusions which are themselves followed by answer &ndash; choices. Mark the answer &ndash;choice which correctly points out which of the conclusion follow. Question1 : Statements: 1.All green are blue 2.All blue are white Conclusions: I) some blue are green. II) Some white are green. III) Some green are not white. IV) All white are blue. a) Only I and II follow b) Only II and III follow c)Only I and III follow d) Only I and IV follow",
+      "questionHtml": "<p class=\"MsoNormal\" style=\"margin-bottom: .0001pt; line-height: normal;\"><span style=\"font-size: 14pt;\"><strong><span style=\"font-family: 'Times New Roman','serif'; mso-fareast-font-family: 'Times New Roman'; color: black; mso-font-kerning: 0pt; mso-ligatures: none; mso-fareast-language: EN-GB;\">Directions(1-2):</span></strong><span style=\"font-family: 'Times New Roman','serif'; mso-fareast-font-family: 'Times New Roman'; color: black; mso-font-kerning: 0pt; mso-ligatures: none; mso-fareast-language: EN-GB;\"> Two statements are followed by four conclusions numbered I, II, III, IV. Take the first two statements to be true even if they are at variance with commonly &ndash; known facts. The statements are followed by conclusions which are themselves followed by answer &ndash; choices. Mark the answer &ndash;choice which correctly points out which of the conclusion follow.<o:p></o:p></span></span></p>\n<p class=\"MsoNormal\" style=\"margin-bottom: .0001pt; line-height: normal;\"><span style=\"font-family: 'Times New Roman', 'serif'; color: black; font-size: 14pt;\">&nbsp;</span></p>\n<p class=\"MsoNormal\" style=\"margin-bottom: .0001pt; line-height: normal;\"><span style=\"font-size: 14pt;\"><strong><span style=\"font-family: 'Times New Roman','serif'; mso-fareast-font-family: 'Times New Roman'; color: black; mso-font-kerning: 0pt; mso-ligatures: none; mso-fareast-language: EN-GB;\">Question1 :<o:p></o:p></span></strong></span></p>\n<p class=\"MsoNormal\" style=\"margin-bottom: .0001pt; line-height: normal;\"><span style=\"font-size: 14pt;\"><strong><span style=\"font-family: 'Times New Roman','serif'; mso-fareast-font-family: 'Times New Roman'; color: black; mso-font-kerning: 0pt; mso-ligatures: none; mso-fareast-language: EN-GB;\">Statements: <o:p></o:p></span></strong></span></p>\n<p class=\"MsoNormal\" style=\"margin-bottom: .0001pt; line-height: normal;\"><span style=\"font-family: 'Times New Roman', 'serif'; color: black; font-size: 14pt;\">1.All green are blue <o:p></o:p></span></p>\n<p class=\"MsoNormal\" style=\"margin-bottom: .0001pt; line-height: normal;\"><span style=\"font-family: 'Times New Roman', 'serif'; color: black; font-size: 14pt;\">2.All blue are white<o:p></o:p></span></p>\n<p class=\"MsoNormal\" style=\"margin-bottom: .0001pt; line-height: normal;\"><span style=\"font-family: 'Times New Roman', 'serif'; color: black; font-size: 14pt;\">&nbsp;<o:p></o:p></span></p>\n<p class=\"MsoNormal\" style=\"margin-bottom: .0001pt; line-height: normal;\"><span style=\"font-size: 14pt;\"><strong><span style=\"font-family: 'Times New Roman','serif'; mso-fareast-font-family: 'Times New Roman'; color: black; mso-font-kerning: 0pt; mso-ligatures: none; mso-fareast-language: EN-GB;\">Conclusions: <o:p></o:p></span></strong></span></p>\n<p class=\"MsoNormal\" style=\"margin-bottom: .0001pt; line-height: normal;\"><span style=\"font-family: 'Times New Roman', 'serif'; color: black; font-size: 14pt;\">I) some blue are green.<o:p></o:p></span></p>\n<p class=\"MsoNormal\" style=\"margin-bottom: .0001pt; line-height: normal;\"><span style=\"font-family: 'Times New Roman', 'serif'; color: black; font-size: 14pt;\">II) Some white are green.<o:p></o:p></span></p>\n<p class=\"MsoNormal\" style=\"margin-bottom: .0001pt; line-height: normal;\"><span style=\"font-family: 'Times New Roman', 'serif'; color: black; font-size: 14pt;\">III) Some green are not white.<o:p></o:p></span></p>\n<p class=\"MsoNormal\" style=\"margin-bottom: .0001pt; line-height: normal;\"><span style=\"font-family: 'Times New Roman', 'serif'; color: black; font-size: 14pt;\">IV) All white are blue.<o:p></o:p></span></p>\n<p class=\"MsoNormal\" style=\"margin-bottom: .0001pt; line-height: normal;\"><span style=\"font-family: 'Times New Roman', 'serif'; color: black; font-size: 14pt;\">a) Only I and II follow <o:p></o:p></span></p>\n<p class=\"MsoNormal\" style=\"margin-bottom: .0001pt; line-height: normal;\"><span style=\"font-family: 'Times New Roman', 'serif'; color: black; font-size: 14pt;\">b) Only II and III follow <o:p></o:p></span></p>\n<p class=\"MsoNormal\" style=\"margin-bottom: .0001pt; line-height: normal;\"><span style=\"font-family: 'Times New Roman', 'serif'; color: black; font-size: 14pt;\">c)Only I and III follow <o:p></o:p></span></p>\n<p class=\"MsoNormal\" style=\"margin-bottom: .0001pt; line-height: normal;\"><span style=\"font-family: 'Times New Roman', 'serif'; color: black; font-size: 14pt;\">d) Only I and IV follow<o:p></o:p></span></p>",
+      "correctOption": "1",
+      "options": [
+        {
+          "order": "1",
+          "text": "a) Only I and II follow",
+          "html": "<p class=\"p1\"><span style=\"color: #000000; font-family: 'Times New Roman', 'serif'; font-size: 18.6667px;\">a) Only I and II follow</span></p>",
+          "isCorrect": true
+        },
+        {
+          "order": "2",
+          "text": "b) Only II and III follow",
+          "html": "<p class=\"p1\"><span style=\"font-size: 12.0pt; font-family: 'Times New Roman','serif'; color: black;\"><span style=\"font-size: 18.6667px;\">b) Only II and III follow</span>&nbsp;<o:p></o:p></span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "c)Only I and III follow",
+          "html": "<p><span style=\"color: #000000; font-family: 'Times New Roman', 'serif'; font-size: 18.6667px;\">c)Only I and III follow</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "d) Only I and IV follow",
+          "html": "<p class=\"p1\"><span style=\"color: #000000; font-family: 'Times New Roman', 'serif'; font-size: 18.6667px;\">d) Only I and IV follow</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "5",
+          "text": "None of these",
+          "html": "<p class=\"p1\"><span style=\"font-size: 12.0pt; font-family: 'Times New Roman','serif'; color: black;\">None of these<o:p></o:p></span></p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 2,
+      "section": "Technical Pseudo Codes -01",
+      "id": "68cee7d4db63678263a62855",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "Directions(1-2): Two statements are followed by four conclusions numbered I, II, III, IV. Take the first two statements to be true even if they are at variance with commonly &ndash; known facts. The statements are followed by conclusions which are themselves followed by answer &ndash; choices. Mark the answer &ndash;choice which correctly points out which of the conclusion follow. Question2 : Statements: 1) Some boxes are cars 2) Some cars roads Conclusions: I) some roads are boxes II) Some cars are boxes III) No box is a road IV) Some roads are cars.",
+      "questionHtml": "<p class=\"MsoNormal\" style=\"margin-bottom: .0001pt; line-height: normal;\"><span style=\"font-size: 14pt;\"><strong><span style=\"font-family: 'Times New Roman','serif'; mso-fareast-font-family: 'Times New Roman'; color: black; mso-font-kerning: 0pt; mso-ligatures: none; mso-fareast-language: EN-GB;\">Directions(1-2):</span></strong><span style=\"font-family: 'Times New Roman','serif'; mso-fareast-font-family: 'Times New Roman'; color: black; mso-font-kerning: 0pt; mso-ligatures: none; mso-fareast-language: EN-GB;\"> Two statements are followed by four conclusions numbered I, II, III, IV. Take the first two statements to be true even if they are at variance with commonly &ndash; known facts. The statements are followed by conclusions which are themselves followed by answer &ndash; choices. Mark the answer &ndash;choice which correctly points out which of the conclusion follow.<o:p></o:p></span></span></p>\n<p class=\"MsoNormal\" style=\"margin-bottom: .0001pt; line-height: normal;\"></p>\n<p class=\"MsoNormal\" style=\"margin-bottom: .0001pt; line-height: normal;\"><span style=\"font-size: 14pt;\"><strong><span style=\"font-family: 'Times New Roman','serif'; mso-fareast-font-family: 'Times New Roman'; color: black; mso-font-kerning: 0pt; mso-ligatures: none; mso-fareast-language: EN-GB;\">Question2 :<o:p></o:p></span></strong></span></p>\n<p class=\"MsoNormal\" style=\"margin-bottom: .0001pt; line-height: normal;\"><span style=\"font-size: 14pt;\"><strong><span style=\"font-family: 'Times New Roman','serif'; mso-fareast-font-family: 'Times New Roman'; color: black; mso-font-kerning: 0pt; mso-ligatures: none; mso-fareast-language: EN-GB;\">Statements: <o:p></o:p></span></strong></span></p>\n<p class=\"MsoNormal\" style=\"margin-bottom: .0001pt; line-height: normal;\"><span style=\"font-family: 'Times New Roman', 'serif'; color: black; font-size: 14pt;\">1) Some boxes are cars <o:p></o:p></span></p>\n<p class=\"MsoNormal\" style=\"margin-bottom: .0001pt; line-height: normal;\"><span style=\"font-family: 'Times New Roman', 'serif'; color: black; font-size: 14pt;\">2) Some cars roads<o:p></o:p></span></p>\n<p class=\"MsoNormal\" style=\"margin-bottom: .0001pt; line-height: normal;\"><span style=\"font-family: 'Times New Roman', 'serif'; color: black; font-size: 14pt;\">&nbsp;</span></p>\n<p class=\"MsoNormal\" style=\"margin-bottom: .0001pt; line-height: normal;\"><span style=\"font-size: 14pt;\"><strong><span style=\"font-family: 'Times New Roman','serif'; mso-fareast-font-family: 'Times New Roman'; color: black; mso-font-kerning: 0pt; mso-ligatures: none; mso-fareast-language: EN-GB;\">Conclusions: <o:p></o:p></span></strong></span></p>\n<p class=\"MsoNormal\" style=\"margin-bottom: .0001pt; line-height: normal;\"><span style=\"font-family: 'Times New Roman', 'serif'; color: black; font-size: 14pt;\">I) some roads are boxes<o:p></o:p></span></p>\n<p class=\"MsoNormal\" style=\"margin-bottom: .0001pt; line-height: normal;\"><span style=\"font-family: 'Times New Roman', 'serif'; color: black; font-size: 14pt;\">II) Some cars are boxes<o:p></o:p></span></p>\n<p class=\"MsoNormal\" style=\"margin-bottom: .0001pt; line-height: normal;\"><span style=\"font-family: 'Times New Roman', 'serif'; color: black; font-size: 14pt;\">III) No box is a road<o:p></o:p></span></p>\n<p class=\"MsoNormal\" style=\"margin-bottom: .0001pt; line-height: normal;\"><span style=\"font-family: 'Times New Roman','serif'; mso-fareast-font-family: 'Times New Roman'; color: black; mso-font-kerning: 0pt; mso-ligatures: none; mso-fareast-language: EN-GB;\"><span style=\"font-size: 14pt;\">IV) Some roads are cars.</span><o:p></o:p></span></p>",
+      "correctOption": "3",
+      "options": [
+        {
+          "order": "1",
+          "text": "Only II and III follow",
+          "html": "<p class=\"p1\"><span style=\"font-size: 12.0pt; font-family: 'Times New Roman','serif'; color: black;\">Only II and III follow&nbsp;<o:p></o:p></span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "Only I and IV follow",
+          "html": "<p class=\"p1\"><span style=\"font-size: 12.0pt; font-family: 'Times New Roman','serif'; color: black;\">Only I and IV follow&nbsp;<o:p></o:p></span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "Either I or III ,and II and IV follow",
+          "html": "<p style=\"language: en-IN; margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: left; direction: ltr; unicode-bidi: embed; mso-line-break-override: none; word-break: normal; punctuation-wrap: hanging;\">Either I or III ,and II and IV follow</p>",
+          "isCorrect": true
+        },
+        {
+          "order": "4",
+          "text": "Only II and IV follow",
+          "html": "<p class=\"p1\"><span style=\"font-size: 12.0pt; font-family: 'Times New Roman','serif'; color: black;\">Only II and IV follow&nbsp;<o:p></o:p></span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "5",
+          "text": "None of these",
+          "html": "<p class=\"p1\"><span style=\"font-size: 12.0pt; font-family: 'Times New Roman','serif'; color: black;\">None of these<o:p></o:p></span></p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 3,
+      "section": "Technical Pseudo Codes -01",
+      "id": "68ce85f0652430456d548c3f",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "Directions(3-4): The questions given below have four groups of three statements each. Read the statements in each group carefully and identify the group/groups where the third statement logically follows the first two statements in the group. Question 3 : A) All books are copies. All copies are papers. All books are papers. B) All cubes are squares. All cubes are triangles. All triangles are squares. C) All singers are dancers. All dancers are musicians. All musicians are singers. D) No cock is hen. All hens are chickens. No hen is chicken.",
+      "questionHtml": "<p class=\"MsoNormal\" style=\"margin-bottom: .0001pt; line-height: normal;\"><span style=\"font-size: 14pt;\"><strong><span style=\"font-family: 'Times New Roman','serif'; mso-fareast-font-family: 'Times New Roman'; color: black; mso-font-kerning: 0pt; mso-ligatures: none; mso-fareast-language: EN-GB;\">Directions(3-4):</span></strong><span style=\"font-family: 'Times New Roman','serif'; mso-fareast-font-family: 'Times New Roman'; color: black; mso-font-kerning: 0pt; mso-ligatures: none; mso-fareast-language: EN-GB;\"> The questions given below have four groups of three statements each. Read the statements in each group carefully and identify the group/groups where the third statement logically follows the first two statements in the group.<o:p></o:p></span></span></p>\n<p class=\"MsoNormal\" style=\"margin-bottom: .0001pt; line-height: normal;\"><span style=\"font-size: 14pt;\"><strong><span style=\"font-family: 'Times New Roman','serif'; mso-fareast-font-family: 'Times New Roman'; color: black; mso-font-kerning: 0pt; mso-ligatures: none; mso-fareast-language: EN-GB;\">&nbsp;</span></strong></span></p>\n<p class=\"MsoNormal\" style=\"margin-bottom: .0001pt; line-height: normal;\"><span style=\"font-size: 14pt;\"><strong><span style=\"font-family: 'Times New Roman','serif'; mso-fareast-font-family: 'Times New Roman'; color: black; mso-font-kerning: 0pt; mso-ligatures: none; mso-fareast-language: EN-GB;\">Question 3 :<o:p></o:p></span></strong></span></p>\n<p class=\"MsoNormal\" style=\"margin-bottom: .0001pt; line-height: normal;\"><span style=\"font-family: 'Times New Roman', 'serif'; color: black; font-size: 14pt;\">A) All books are copies. All copies are papers. All books are papers.<o:p></o:p></span></p>\n<p class=\"MsoNormal\" style=\"margin-bottom: .0001pt; line-height: normal;\"><span style=\"font-family: 'Times New Roman', 'serif'; color: black; font-size: 14pt;\">B) All cubes are squares. All cubes are triangles. All triangles are squares.<o:p></o:p></span></p>\n<p class=\"MsoNormal\" style=\"margin-bottom: .0001pt; line-height: normal;\"><span style=\"font-family: 'Times New Roman', 'serif'; color: black; font-size: 14pt;\">C) All singers are dancers. All dancers are musicians. All musicians are singers.<o:p></o:p></span></p>\n<p class=\"MsoNormal\" style=\"margin-bottom: .0001pt; line-height: normal;\"><span style=\"font-family: 'Times New Roman', 'serif'; color: black; font-size: 14pt;\">D) No cock is hen. All hens are chickens. No hen is chicken.<o:p></o:p></span></p>\n<p class=\"MsoNormal\" style=\"margin-bottom: .0001pt; line-height: normal;\"></p>\n<p class=\"MsoNormal\" style=\"margin-bottom: .0001pt; line-height: normal;\"><span style=\"font-family: 'Times New Roman', 'serif'; color: black; font-size: 14pt;\">&nbsp;</span></p>",
+      "correctOption": "2",
+      "options": [
+        {
+          "order": "1",
+          "text": "Only D",
+          "html": "<p><span style=\"color: #000000; font-family: 'Times New Roman', 'serif'; font-size: 18.6667px; text-indent: -24px;\">Only D</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "Only A",
+          "html": "<p><span style=\"color: #000000; font-family: 'Times New Roman', 'serif'; font-size: 18.6667px; text-indent: -24px;\">Only A</span></p>",
+          "isCorrect": true
+        },
+        {
+          "order": "3",
+          "text": "Only B & C",
+          "html": "<p><span style=\"color: #000000; font-family: 'Times New Roman', 'serif'; text-indent: -24px;\">Only B &amp; C</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "Only A and D",
+          "html": "<p><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';\">&nbsp;</span><span style=\"color: #000000; font-family: 'Times New Roman', 'serif'; font-size: 18.6667px;\">Only A and D</span></p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 4,
+      "section": "Technical Pseudo Codes -01",
+      "id": "68cee974cc72e88cec439905",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "Directions(3-4): The questions given below have four groups of three statements each. Read the statements in each group carefully and identify the group/groups where the third statement logically follows the first two statements in the group. Question 4 : A) All elephants are wild. All lions are wild. So all lions are elephant B) All mangoes are red. Some apples are mangoes. So, all apples are red C) All roads are boxes. All foxes are roads. So, all boxes are foxes D) All XYZ can run. All ABC are XYZ. So, all ABC can run.",
+      "questionHtml": "<p class=\"MsoNormal\" style=\"margin-bottom: .0001pt; line-height: normal;\"><span style=\"font-size: 14pt;\"><strong><span style=\"font-family: 'Times New Roman','serif'; mso-fareast-font-family: 'Times New Roman'; color: black; mso-font-kerning: 0pt; mso-ligatures: none; mso-fareast-language: EN-GB;\">Directions(3-4):</span></strong><span style=\"font-family: 'Times New Roman','serif'; mso-fareast-font-family: 'Times New Roman'; color: black; mso-font-kerning: 0pt; mso-ligatures: none; mso-fareast-language: EN-GB;\"> The questions given below have four groups of three statements each. Read the statements in each group carefully and identify the group/groups where the third statement logically follows the first two statements in the group.<o:p></o:p></span></span></p>\n<p class=\"MsoNormal\" style=\"margin-bottom: .0001pt; line-height: normal;\"><span style=\"font-family: 'Times New Roman', 'serif'; color: black; font-size: 14pt;\">&nbsp;</span></p>\n<p class=\"MsoNormal\" style=\"margin-bottom: .0001pt; line-height: normal;\"><span style=\"font-size: 14pt;\"><strong><span style=\"font-family: 'Times New Roman','serif'; mso-fareast-font-family: 'Times New Roman'; color: black; mso-font-kerning: 0pt; mso-ligatures: none; mso-fareast-language: EN-GB;\">Question 4 :<o:p></o:p></span></strong></span></p>\n<p class=\"MsoNormal\" style=\"margin-bottom: .0001pt; line-height: normal;\"><span style=\"font-family: 'Times New Roman', 'serif'; color: black; font-size: 14pt;\">A) All elephants are wild. All lions are wild. So all lions are elephant<o:p></o:p></span></p>\n<p class=\"MsoNormal\" style=\"margin-bottom: .0001pt; line-height: normal;\"><span style=\"font-family: 'Times New Roman', 'serif'; color: black; font-size: 14pt;\">B) All mangoes are red. Some apples are mangoes. So, all apples are red<o:p></o:p></span></p>\n<p class=\"MsoNormal\" style=\"margin-bottom: .0001pt; line-height: normal;\"><span style=\"font-family: 'Times New Roman', 'serif'; color: black; font-size: 14pt;\">C) All roads are boxes. All foxes are roads. So, all boxes are foxes<o:p></o:p></span></p>\n<p class=\"MsoNormal\" style=\"margin-bottom: .0001pt; line-height: normal;\"><span style=\"font-family: 'Times New Roman','serif'; mso-fareast-font-family: 'Times New Roman'; color: black; mso-font-kerning: 0pt; mso-ligatures: none; mso-fareast-language: EN-GB;\"><span style=\"font-size: 14pt;\">D) All XYZ can run. All ABC are XYZ. So, all ABC can run.</span><o:p></o:p></span></p>",
+      "correctOption": "4",
+      "options": [
+        {
+          "order": "1",
+          "text": "A. Only A",
+          "html": "<p class=\"MsoListParagraph\" style=\"text-indent: -.25in; mso-list: l0 level1 lfo1;\"><!-- [if !supportLists]-->A.<span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';\">&nbsp; &nbsp;</span><o:p></o:p><span style=\"color: black; font-family: 'Times New Roman', 'serif'; font-size: 12pt;\">Only A</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "A. Only B",
+          "html": "<p class=\"MsoListParagraph\" style=\"text-indent: -.25in; mso-list: l0 level1 lfo1;\"><!-- [if !supportLists]-->A.<span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';\">&nbsp;&nbsp;</span><o:p></o:p><span style=\"color: black; font-family: 'Times New Roman', 'serif'; font-size: 12pt;\">Only B</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "A. Only C",
+          "html": "<p class=\"MsoListParagraph\" style=\"text-indent: -.25in; mso-list: l0 level1 lfo1;\"><!-- [if !supportLists]-->A.<span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';\">&nbsp; &nbsp;</span><o:p></o:p><span style=\"color: black; font-family: 'Times New Roman', 'serif'; font-size: 12pt;\">Only C</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "A. Only D",
+          "html": "<p class=\"MsoListParagraph\" style=\"text-indent: -.25in; mso-list: l0 level1 lfo1;\"><!-- [if !supportLists]-->A.<span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';\">&nbsp;&nbsp;</span><o:p></o:p><span style=\"color: black; font-family: 'Times New Roman', 'serif'; font-size: 12pt;\">Only D</span></p>",
+          "isCorrect": true
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 5,
+      "section": "Technical Pseudo Codes -01",
+      "id": "68ce85f065243080c7548c45",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "DIRECTIONS for questions : Given below are line graph examples with questions, which show the annual food grain production from 1992 to 1997. Refer to the graph & answer the questions based on line graph as given below. Question 5 : What is an approximate percentage decrease in production from 1993 to 1994?",
+      "questionHtml": "<p class=\"MsoNormal\" style=\"margin-bottom: .0001pt; line-height: normal;\"><span style=\"font-size: 14pt;\"><strong><span style=\"font-family: 'Times New Roman','serif'; mso-fareast-font-family: 'Times New Roman'; color: black; mso-font-kerning: 0pt; mso-ligatures: none; mso-fareast-language: EN-GB;\">DIRECTIONS&nbsp;<em>for questions :</em></span></strong><span style=\"font-family: 'Times New Roman','serif'; mso-fareast-font-family: 'Times New Roman'; color: black; mso-font-kerning: 0pt; mso-ligatures: none; mso-fareast-language: EN-GB;\">&nbsp;Given below are line graph examples with questions, which show the annual food grain production from 1992 to 1997. Refer to the graph &amp; answer the questions based on line graph as given below.<o:p></o:p></span></span></p>\n<p class=\"MsoNormal\" style=\"margin-bottom: .0001pt; line-height: normal;\"><span style=\"font-family: 'Times New Roman', 'serif'; color: black; font-size: 14pt;\">&nbsp;</span></p>\n<p class=\"MsoNormal\" style=\"margin-bottom: .0001pt; line-height: normal;\"><img src=\"https://cms-cdn.classplus.co/parserImages/fd90b9f2-9bf1-4608-9250-e5fbff04b20f.jpg\" alt=\"\" width=\"506\" height=\"221\" /></p>\n<p class=\"MsoNormal\" style=\"line-height: normal;\"><span style=\"font-size: 14pt;\"><strong><span style=\"font-family: 'Times New Roman','serif';\">&nbsp;</span></strong></span></p>\n<p class=\"MsoNormal\" style=\"line-height: normal;\"><span style=\"font-size: 14pt;\"><strong><u><span style=\"font-family: 'Times New Roman','serif';\">Question 5 :<o:p></o:p></span></u></strong></span></p>\n<p class=\"MsoNormal\"></p>\n<p class=\"MsoNormal\" style=\"line-height: normal;\"><strong><span style=\"font-family: 'Times New Roman','serif';\"><span style=\"font-size: 14pt;\">What is an approximate percentage decrease in production from 1993 to 1994?</span><o:p></o:p></span></strong></p>",
+      "correctOption": "3",
+      "options": [
+        {
+          "order": "1",
+          "text": "A. 87.5%",
+          "html": "<p class=\"MsoListParagraph\" style=\"text-indent: -.25in; mso-list: l0 level1 lfo1;\"><!-- [if !supportLists]-->A.<span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';\">&nbsp; &nbsp;</span><o:p></o:p><strong><span style=\"font-family: 'Times New Roman','serif';\">87.5%</span></strong><o:p></o:p></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "37.5%",
+          "html": "<p><strong><span style=\"font-size: 12.0pt; line-height: 115%; font-family: 'Times New Roman','serif'; mso-fareast-font-family: Aptos; mso-fareast-theme-font: minor-latin; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">37.5%</span></strong></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "A. 9.09%",
+          "html": "<p class=\"MsoListParagraph\" style=\"text-indent: -.25in; mso-list: l0 level1 lfo1;\"><!-- [if !supportLists]-->A.<span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';\">&nbsp; &nbsp;</span><o:p></o:p><strong><span style=\"font-size: 12.0pt; line-height: 115%; font-family: 'Times New Roman','serif'; mso-fareast-font-family: Aptos; mso-fareast-theme-font: minor-latin; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">9.09%</span></strong></p>",
+          "isCorrect": true
+        },
+        {
+          "order": "4",
+          "text": "A. None of these",
+          "html": "<p class=\"MsoListParagraph\" style=\"text-indent: -.25in; mso-list: l0 level1 lfo1;\"><!-- [if !supportLists]-->A.<span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';\">&nbsp; &nbsp;</span><o:p></o:p><strong><span style=\"font-size: 12.0pt; line-height: 115%; font-family: 'Times New Roman','serif'; mso-fareast-font-family: Aptos; mso-fareast-theme-font: minor-latin; mso-ansi-language: EN-IN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">None of these</span></strong></p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": [
+        {
+          "original": "https://cms-cdn.classplus.co/parserImages/fd90b9f2-9bf1-4608-9250-e5fbff04b20f.jpg",
+          "local": "SECTION-II_ ANALYTICAL THINKING_figures/q5_1.jpg"
+        }
+      ]
+    },
+    {
+      "questionNumber": 6,
+      "section": "Technical Pseudo Codes -01",
+      "id": "68ce85f06524303bfc548c44",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "The following pie-chart shows the percentage distribution of the expenditure incurred in publishing a book. Study the pie-chart and the answer the questions based on it. Various Expenditures (in percentage) Incurred in Publishing a Book Question 6: If for a certain quantity of books, the publisher has to pay Rs. 30,600 as printing cost, then what will be amount of royalty to be paid for these books?",
+      "questionHtml": "<p class=\"MsoNormal\" style=\"line-height: normal;\"><span style=\"font-family: 'Times New Roman', 'serif'; font-size: 14pt;\">The following pie-chart shows the percentage distribution of the expenditure incurred in publishing a book. Study the pie-chart and the answer the questions based on it.<o:p></o:p></span></p>\n<p></p>\n<p class=\"MsoNormal\" style=\"line-height: normal;\"><span style=\"font-family: 'Times New Roman', 'serif'; font-size: 14pt;\">Various Expenditures (in percentage) Incurred in Publishing a Book</span></p>\n<p class=\"MsoNormal\" style=\"line-height: normal;\"></p>\n<p class=\"MsoNormal\" style=\"line-height: normal;\"><span style=\"font-family: 'Times New Roman', 'serif'; font-size: 14pt;\"><img src=\"https://cms-cdn.classplus.co/parserImages/8c6dd595-1127-43bc-b384-d425a34d39e7.png\" alt=\"\" width=\"438\" height=\"249\" /></span></p>\n<p class=\"MsoNormal\" style=\"line-height: normal;\"><span style=\"font-size: 14pt;\"><strong><span style=\"font-family: 'Times New Roman','serif';\">Question 6:<o:p></o:p></span></strong></span></p>\n<p class=\"MsoNormal\" style=\"line-height: normal;\"><span style=\"font-size: 14pt;\"><strong><span style=\"font-family: 'Times New Roman','serif';\">If for a certain quantity of books, the publisher has to pay Rs. 30,600 as printing cost, then what will be amount of royalty to be paid for these books?<o:p></o:p></span></strong></span></p>\n<p class=\"MsoNormal\" style=\"line-height: normal;\"></p>",
+      "correctOption": "3",
+      "options": [
+        {
+          "order": "1",
+          "text": "Rs. 19,450",
+          "html": "<p><strong style=\"font-size: 18.6667px;\"><span style=\"font-family: 'Times New Roman','serif';\">Rs. 19,450</span></strong></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "Rs. 21,200",
+          "html": "<p><strong style=\"font-size: 18.6667px; text-indent: -24px;\"><span style=\"font-family: 'Times New Roman','serif';\">Rs. 21,200</span></strong></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "A Rs. 22,950",
+          "html": "<p class=\"MsoListParagraph\" style=\"text-indent: -.25in; mso-list: l0 level1 lfo1;\"><!-- [if !supportLists]-->A&nbsp; <o:p></o:p><span style=\"font-size: 14pt;\"><strong><span style=\"font-family: 'Times New Roman','serif';\">Rs. 22,950</span></strong></span></p>",
+          "isCorrect": true
+        },
+        {
+          "order": "4",
+          "text": "Rs. 26,150",
+          "html": "<p><span style=\"font-size: 14pt;\"><strong><span style=\"font-family: 'Times New Roman','serif';\">Rs. 26,150</span></strong></span></p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": [
+        {
+          "original": "https://cms-cdn.classplus.co/parserImages/8c6dd595-1127-43bc-b384-d425a34d39e7.png",
+          "local": "SECTION-II_ ANALYTICAL THINKING_figures/q6_1.png"
+        }
+      ]
+    },
+    {
+      "questionNumber": 7,
+      "section": "Technical Pseudo Codes -01",
+      "id": "68ceea21b025334071e86fb6",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "The following pie-chart shows the percentage distribution of the expenditure incurred in publishing a book. Study the pie-chart and the answer the questions based on it. Various Expenditures (in percentage) Incurred in Publishing a Book Question 7: The price of the book is marked 20% above the C.P. If the marked price of the book is Rs. 180,then what is the cost of the paper used in a single copy of the book?",
+      "questionHtml": "<p class=\"MsoNormal\" style=\"line-height: normal;\"><span style=\"font-family: 'Times New Roman', 'serif'; font-size: 14pt;\">The following pie-chart shows the percentage distribution of the expenditure incurred in publishing a book. Study the pie-chart and the answer the questions based on it.<o:p></o:p></span></p>\n<p></p>\n<p class=\"MsoNormal\" style=\"line-height: normal;\"><span style=\"font-family: 'Times New Roman', 'serif'; font-size: 14pt;\">Various Expenditures (in percentage) Incurred in Publishing a Book</span></p>\n<p class=\"MsoNormal\" style=\"line-height: normal;\"></p>\n<p class=\"MsoNormal\" style=\"line-height: normal;\"><span style=\"font-family: 'Times New Roman', 'serif'; font-size: 14pt;\"><img src=\"https://cms-cdn.classplus.co/parserImages/8c6dd595-1127-43bc-b384-d425a34d39e7.png\" alt=\"\" width=\"438\" height=\"249\" /></span></p>\n<p class=\"MsoNormal\" style=\"line-height: normal;\"><span style=\"font-size: 14pt;\"><strong><span style=\"font-family: 'Times New Roman','serif';\">&nbsp;</span></strong></span></p>\n<p class=\"MsoNormal\" style=\"line-height: normal;\"><span style=\"font-size: 14pt;\"><strong><span style=\"font-family: 'Times New Roman','serif';\">Question 7:<o:p></o:p></span></strong></span></p>\n<p class=\"MsoNormal\" style=\"line-height: normal;\"></p>\n<p class=\"MsoNormal\" style=\"line-height: normal;\"><span style=\"font-size: 14pt;\"><strong><span style=\"font-family: 'Times New Roman','serif';\">The price of the book is marked 20% above the C.P. If the marked price of the book is Rs. 180,then what is the cost of the paper used in a single copy of the book?<o:p></o:p></span></strong></span></p>\n<p class=\"MsoNormal\" style=\"line-height: normal;\"></p>",
+      "correctOption": "3",
+      "options": [
+        {
+          "order": "1",
+          "text": "A. Rs. 36",
+          "html": "<p class=\"MsoListParagraph\" style=\"text-indent: -.25in; mso-list: l0 level1 lfo1;\"><!-- [if !supportLists]-->A.<span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';\">&nbsp; &nbsp;<strong style=\"text-indent: -0.25in; font-size: 16px; font-family: 'Noto Sans';\"><span style=\"font-family: 'Times New Roman','serif';\">Rs. 36</span></strong><br /></span><o:p></o:p></p>\n<p class=\"MsoListParagraph\" style=\"text-indent: -.25in; line-height: normal; mso-list: l0 level1 lfo1;\"><o:p></o:p></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "A Rs. 42",
+          "html": "<p class=\"MsoListParagraph\" style=\"text-indent: -.25in; mso-list: l0 level1 lfo1;\"><!-- [if !supportLists]-->A&nbsp; <strong style=\"text-indent: -0.25in;\"><span style=\"font-family: 'Times New Roman','serif';\">Rs. 42</span></strong></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "A. Rs. 37.50",
+          "html": "<p class=\"MsoListParagraph\" style=\"text-indent: -.25in; mso-list: l0 level1 lfo1;\"><!-- [if !supportLists]-->A.<span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';\">&nbsp; </span><strong style=\"text-indent: -0.25in;\"><span style=\"font-family: 'Times New Roman','serif';\">Rs. 37.50</span></strong><o:p></o:p></p>",
+          "isCorrect": true
+        },
+        {
+          "order": "4",
+          "text": "A Rs. 44.25",
+          "html": "<p class=\"MsoListParagraph\" style=\"text-indent: -.25in; line-height: normal; mso-list: l0 level1 lfo1;\"><!-- [if !supportLists]--><strong><span style=\"font-family: 'Times New Roman','serif'; mso-fareast-font-family: 'Times New Roman';\">A&nbsp; </span></strong><strong><span style=\"font-family: 'Times New Roman','serif';\">Rs. 44.25<o:p></o:p></span></strong></p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": [
+        {
+          "original": "https://cms-cdn.classplus.co/parserImages/8c6dd595-1127-43bc-b384-d425a34d39e7.png",
+          "local": "SECTION-II_ ANALYTICAL THINKING_figures/q7_1.png"
+        }
+      ]
+    },
+    {
+      "questionNumber": 8,
+      "section": "Technical Pseudo Codes -01",
+      "id": "68ce85f0652430355f548c42",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "Question 8: For which of the following years, the percentage rise/fall in production from the previous year is the maximum for Company Y?",
+      "questionHtml": "<p class=\"MsoNormal\" style=\"line-height: normal;\"></p>\n<p class=\"MsoNormal\" style=\"line-height: normal;\"><img src=\"https://cms-cdn.classplus.co/parserImages/1c2068c3-5377-4529-99df-8840e471d5bd.png\" alt=\"\" width=\"718\" height=\"450\" /></p>\n<p class=\"MsoNormal\" style=\"line-height: normal;\"></p>\n<p class=\"MsoNormal\" style=\"line-height: normal;\"><span style=\"font-size: 14pt;\"><strong><span style=\"font-family: 'Times New Roman','serif';\">Question 8:<o:p></o:p></span></strong></span></p>\n<p class=\"MsoNormal\" style=\"margin-bottom: .0001pt; line-height: normal; tab-stops: 28.0pt 56.0pt 84.0pt 112.0pt 140.0pt 168.0pt 196.0pt 224.0pt 3.5in 280.0pt 308.0pt 336.0pt; mso-layout-grid-align: none; text-autospace: none;\"><strong><span style=\"font-family: 'Times New Roman', 'serif'; font-size: 14pt;\">For which of the following years, the percentage rise/fall in production from the previous <o:p></o:p></span></strong><span style=\"font-family: 'Times New Roman', 'serif'; font-size: 14pt;\"><strong>year is the maximum for Company Y?</strong><o:p></o:p></span></p>\n<p class=\"MsoNormal\" style=\"margin-bottom: .0001pt; line-height: normal; tab-stops: 28.0pt 56.0pt 84.0pt 112.0pt 140.0pt 168.0pt 196.0pt 224.0pt 3.5in 280.0pt 308.0pt 336.0pt; mso-layout-grid-align: none; text-autospace: none;\"></p>\n<p class=\"MsoNormal\" style=\"margin-bottom: .0001pt; line-height: normal; tab-stops: 28.0pt 56.0pt 84.0pt 112.0pt 140.0pt 168.0pt 196.0pt 224.0pt 3.5in 280.0pt 308.0pt 336.0pt; mso-layout-grid-align: none; text-autospace: none;\"></p>",
+      "correctOption": "1",
+      "options": [
+        {
+          "order": "1",
+          "text": "1997",
+          "html": "<p>1997</p>",
+          "isCorrect": true
+        },
+        {
+          "order": "2",
+          "text": "1998",
+          "html": "<p>1998</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "1999",
+          "html": "<p>1999</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "2000",
+          "html": "<p>2000</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": [
+        {
+          "original": "https://cms-cdn.classplus.co/parserImages/1c2068c3-5377-4529-99df-8840e471d5bd.png",
+          "local": "SECTION-II_ ANALYTICAL THINKING_figures/q8_1.png"
+        }
+      ]
+    },
+    {
+      "questionNumber": 9,
+      "section": "Technical Pseudo Codes -01",
+      "id": "68ceeb292090714eeb2733ee",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "Question 9: What is the ratio of the average production of Company X in the period 1998-2000 to the average production of Company Y in the same period?",
+      "questionHtml": "<p class=\"MsoNormal\" style=\"line-height: normal;\"></p>\n<p class=\"MsoNormal\" style=\"line-height: normal;\"><img src=\"https://cms-cdn.classplus.co/parserImages/1c2068c3-5377-4529-99df-8840e471d5bd.png\" alt=\"\" width=\"718\" height=\"450\" /></p>\n<p class=\"MsoNormal\" style=\"line-height: normal;\"></p>\n<p class=\"MsoNormal\" style=\"line-height: normal;\"><span style=\"font-size: 14pt;\"><strong><span style=\"font-family: 'Times New Roman','serif';\">Question 9:<o:p></o:p></span></strong></span></p>\n<p class=\"MsoNormal\" style=\"margin: 0cm 0cm 8pt; line-height: normal; font-size: 12pt; font-family: Aptos, sans-serif; color: #000000;\"><span style=\"font-size: 14pt;\"><strong><span style=\"font-family: 'Times New Roman', serif;\">What is the ratio of the average production of Company X in the period 1998-2000 to the&nbsp; <o:p></o:p></span></strong></span><strong><span style=\"font-family: 'Times New Roman', serif;\"><span style=\"font-size: 14pt;\">average production of Company Y in the same period?</span><o:p></o:p></span></strong></p>\n<p class=\"MsoNormal\" style=\"margin-bottom: .0001pt; line-height: normal; tab-stops: 28.0pt 56.0pt 84.0pt 112.0pt 140.0pt 168.0pt 196.0pt 224.0pt 3.5in 280.0pt 308.0pt 336.0pt; mso-layout-grid-align: none; text-autospace: none;\"></p>",
+      "correctOption": "3",
+      "options": [
+        {
+          "order": "1",
+          "text": "1:1",
+          "html": "<p>1:1</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "15:17",
+          "html": "<p>15:17</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "23:25",
+          "html": "<p>23:25</p>",
+          "isCorrect": true
+        },
+        {
+          "order": "4",
+          "text": "27:29",
+          "html": "<p>27:29</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": [
+        {
+          "original": "https://cms-cdn.classplus.co/parserImages/1c2068c3-5377-4529-99df-8840e471d5bd.png",
+          "local": "SECTION-II_ ANALYTICAL THINKING_figures/q9_1.png"
+        }
+      ]
+    },
+    {
+      "questionNumber": 10,
+      "section": "Technical Pseudo Codes -01",
+      "id": "68ce85f065243034ef548c40",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "The question below consists of a question and two statements numbered I and II given. You have to decide whether the data provided in which of the statements are sufficient to answer the question. Choose your answer from the options based on this. Question10 :Among persons S, I, U, V, W and B who is the tallest? I. U is taller than only two persons. T is taller than S but not the tallest. W is taller than only B. II. S is shorter than only two persons. W is taller than B but shorter than U. U is shorter than S. T is shorter than V.",
+      "questionHtml": "<p class=\"MsoNormal\" style=\"margin-bottom: .0001pt; line-height: normal; tab-stops: 28.0pt 56.0pt 84.0pt 112.0pt 140.0pt 168.0pt 196.0pt 224.0pt 3.5in 280.0pt 308.0pt 336.0pt; mso-layout-grid-align: none; text-autospace: none;\"><span lang=\"EN-GB\" style=\"font-family: 'Times New Roman', 'serif'; font-size: 14pt;\">The question below consists of a question and two statements numbered I and II given. You have to decide whether the data provided in which of the statements are sufficient to answer the question. Choose your answer from the options based on this.<o:p></o:p></span></p>\n<p class=\"MsoNormal\" style=\"line-height: normal;\"></p>\n<p class=\"MsoNormal\" style=\"margin-bottom: .0001pt; line-height: normal; tab-stops: 28.0pt 56.0pt 84.0pt 112.0pt 140.0pt 168.0pt 196.0pt 224.0pt 3.5in 280.0pt 308.0pt 336.0pt; mso-layout-grid-align: none; text-autospace: none;\"><span lang=\"EN-GB\" style=\"font-family: 'Times New Roman', 'serif'; font-size: 14pt;\">Question10 :Among persons S, I, U, V, W and B who is the tallest?<o:p></o:p></span></p>\n<p class=\"MsoListParagraphCxSpFirst\" style=\"mso-add-space: auto; text-indent: -.5in; line-height: normal; mso-list: l0 level1 lfo1; tab-stops: 28.0pt 56.0pt 84.0pt 112.0pt 140.0pt 168.0pt 196.0pt 224.0pt 3.5in 280.0pt 308.0pt 336.0pt; mso-layout-grid-align: none; text-autospace: none; margin: 0in 0in .0001pt .75in;\"><span style=\"font-size: 14pt;\"><!-- [if !supportLists]--><span lang=\"EN-GB\" style=\"font-family: 'Times New Roman','serif'; mso-fareast-font-family: 'Times New Roman'; mso-font-kerning: 0pt; mso-ansi-language: EN-GB;\">I. </span><span lang=\"EN-GB\" style=\"font-family: 'Times New Roman','serif'; mso-font-kerning: 0pt; mso-ansi-language: EN-GB;\">U is taller than only two persons. T is taller than S but not the tallest. W is taller than only B.<o:p></o:p></span></span></p>\n<p class=\"MsoListParagraphCxSpMiddle\" style=\"mso-add-space: auto; text-indent: -.5in; line-height: normal; mso-list: l0 level1 lfo1; tab-stops: 28.0pt 56.0pt 84.0pt 112.0pt 140.0pt 168.0pt 196.0pt 224.0pt 3.5in 280.0pt 308.0pt 336.0pt; mso-layout-grid-align: none; text-autospace: none; margin: 0in 0in .0001pt .75in;\"><span style=\"font-size: 14pt;\"><!-- [if !supportLists]--><span lang=\"EN-GB\" style=\"font-family: 'Times New Roman','serif'; mso-fareast-font-family: 'Times New Roman'; mso-font-kerning: 0pt; mso-ansi-language: EN-GB;\">II. </span><span lang=\"EN-GB\" style=\"font-family: 'Times New Roman','serif'; mso-font-kerning: 0pt; mso-ansi-language: EN-GB;\">S is shorter than only two persons. W is taller than B but shorter than U. U is shorter than S. T is shorter than V.<o:p></o:p></span></span></p>",
+      "correctOption": "3",
+      "options": [
+        {
+          "order": "1",
+          "text": "The data in statement II alone are sufficient to answer the question, while the data in statement I alone are not sufficient to answer the question",
+          "html": "<p><span style=\"font-family: 'Times New Roman', 'serif'; font-size: 18.6667px;\">The data in statement II alone are sufficient to answer the question, while the data in statement I alone are not sufficient to answer the question&nbsp;</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "The data even in both statements I and II together are not sufficient to answer the question",
+          "html": "<p><span style=\"font-family: 'Times New Roman', 'serif'; font-size: 18.6667px;\">The data even in both statements I and II together are not sufficient to answer the question&nbsp;</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "The data either in statement I alone or in statement II alone are sufficient to answer the question",
+          "html": "<p><span style=\"font-family: 'Times New Roman', 'serif'; font-size: 18.6667px;\">The data either in statement I alone or in statement II alone are sufficient to answer the question&nbsp;</span></p>",
+          "isCorrect": true
+        },
+        {
+          "order": "4",
+          "text": "The data in statement I alone are sufficient to answer the question, while the data in statement II alone are not sufficient to answer the question",
+          "html": "<p><span style=\"font-family: 'Times New Roman', 'serif'; font-size: 18.6667px;\">The data in statement I alone are sufficient to answer the question, while the data in statement II alone are not sufficient to answer the question&nbsp;</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "5",
+          "text": "The data in both statements I and II together are necessary to answer the question",
+          "html": "<p><span style=\"font-family: 'Times New Roman', 'serif'; font-size: 18.6667px;\">The data in both statements I and II together are necessary to answer the question&nbsp;</span></p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 11,
+      "section": "Technical Pseudo Codes -01",
+      "id": "68ceed6a65243047d454cc62",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "The question below consists of a question and two statements numbered I and II given. You have to decide whether the data provided in which of the statements are sufficient to answer the question. Choose your answer from the options based on this. Question 11 . Is M the mother of L? I. T is the mother of M. M is married to J. K is the son of J. F is the sister of K. L is the sister of F. II. K is the grandson of T. K is the bother of F. F is the sister of L. L is daughter of J. J is the son-in-law of T.",
+      "questionHtml": "<p class=\"MsoNormal\" style=\"margin-bottom: .0001pt; line-height: normal; tab-stops: 28.0pt 56.0pt 84.0pt 112.0pt 140.0pt 168.0pt 196.0pt 224.0pt 3.5in 280.0pt 308.0pt 336.0pt; mso-layout-grid-align: none; text-autospace: none;\"><span lang=\"EN-GB\" style=\"font-family: 'Times New Roman', 'serif'; font-size: 14pt;\">The question below consists of a question and two statements numbered I and II given. You have to decide whether the data provided in which of the statements are sufficient to answer the question. Choose your answer from the options based on this.<o:p></o:p></span><span lang=\"EN-GB\" style=\"font-family: 'Times New Roman', 'serif'; font-size: 14pt;\">&nbsp;</span></p>\n<p class=\"MsoNormal\" style=\"margin-bottom: .0001pt; line-height: normal; tab-stops: 28.0pt 56.0pt 84.0pt 112.0pt 140.0pt 168.0pt 196.0pt 224.0pt 3.5in 280.0pt 308.0pt 336.0pt; mso-layout-grid-align: none; text-autospace: none;\"><span style=\"font-size: 14pt;\"><span lang=\"EN-GB\" style=\"font-family: 'Times New Roman','serif'; mso-font-kerning: 0pt; mso-ansi-language: EN-GB;\">Question 11</span><span style=\"font-family: 'Times New Roman','serif';\">.&nbsp;Is M the mother of L?&nbsp;</span><o:p></o:p></span></p>\n<p class=\"MsoNoSpacing\"><span style=\"font-size: 14pt; font-family: 'Times New Roman', 'serif';\">I.&nbsp;T is the mother of M. M is married to J. K is the son of J. F is the sister of K. L is the sister of F.<o:p></o:p></span></p>\n<p class=\"MsoNoSpacing\"><span style=\"font-size: 14pt; font-family: 'Times New Roman', 'serif';\">II.&nbsp;K is the grandson of T. K is the bother of F. F is the sister of L. L is daughter of J. J is the son-in-law of T.<o:p></o:p></span></p>",
+      "correctOption": "5",
+      "options": [
+        {
+          "order": "1",
+          "text": "The data in statement II alone are sufficient to answer the question, while the data in statement I alone are not sufficient to answer the question",
+          "html": "<p><span style=\"font-family: 'Times New Roman', 'serif'; font-size: 18.6667px;\">The data in statement II alone are sufficient to answer the question, while the data in statement I alone are not sufficient to answer the question&nbsp;</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "The data even in both statements I and II together are not sufficient to answer the question",
+          "html": "<p><span style=\"font-family: 'Times New Roman', 'serif'; font-size: 18.6667px;\">The data even in both statements I and II together are not sufficient to answer the question&nbsp;</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "The data either in statement I alone or in statement II alone are sufficient to answer the question",
+          "html": "<p><span style=\"font-family: 'Times New Roman', 'serif'; font-size: 18.6667px;\">The data either in statement I alone or in statement II alone are sufficient to answer the question&nbsp;</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "The data in statement I alone are sufficient to answer the question, while the data in statement II alone are not sufficient to answer the question",
+          "html": "<p><span style=\"font-family: 'Times New Roman', 'serif'; font-size: 18.6667px;\">The data in statement I alone are sufficient to answer the question, while the data in statement II alone are not sufficient to answer the question&nbsp;</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "5",
+          "text": "The data in both statements I and II together are necessary to answer the question",
+          "html": "<p><span style=\"font-family: 'Times New Roman', 'serif'; font-size: 18.6667px;\">The data in both statements I and II together are necessary to answer the question&nbsp;</span></p>",
+          "isCorrect": true
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 12,
+      "section": "Technical Pseudo Codes -01",
+      "id": "68ceec1fcc72e87961439e31",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "The question below consists of a question and two statements numbered I and II given. You have to decide whether the data provided in which of the statements are sufficient to answer the question. Choose your answer from the options based on this. Question12: By selling a product with 20% profit, how much profit was earned? I. The difference between cost and selling price is Rs. 40. II. The selling price is 120 percent of the cost price.",
+      "questionHtml": "<p class=\"MsoNormal\" style=\"margin-bottom: .0001pt; line-height: normal; tab-stops: 28.0pt 56.0pt 84.0pt 112.0pt 140.0pt 168.0pt 196.0pt 224.0pt 3.5in 280.0pt 308.0pt 336.0pt; mso-layout-grid-align: none; text-autospace: none;\"><span lang=\"EN-GB\" style=\"font-family: 'Times New Roman', 'serif'; font-size: 14pt;\">The question below consists of a question and two statements numbered I and II given. You have to decide whether the data provided in which of the statements are sufficient to answer the question. Choose your answer from the options based on this.<o:p></o:p></span></p>\n<p class=\"MsoListParagraphCxSpLast\" style=\"mso-add-space: auto; line-height: normal; tab-stops: 28.0pt 56.0pt 84.0pt 112.0pt 140.0pt 168.0pt 196.0pt 224.0pt 3.5in 280.0pt 308.0pt 336.0pt; mso-layout-grid-align: none; text-autospace: none; margin: 0in 0in .0001pt .75in;\"></p>\n<p class=\"MsoNormal\" style=\"margin-bottom: .0001pt; line-height: normal; tab-stops: 28.0pt 56.0pt 84.0pt 112.0pt 140.0pt 168.0pt 196.0pt 224.0pt 3.5in 280.0pt 308.0pt 336.0pt; mso-layout-grid-align: none; text-autospace: none;\"><span lang=\"EN-GB\" style=\"font-family: 'Times New Roman', 'serif'; font-size: 14pt;\">Question12: By selling a product with 20% profit, how much profit was earned?<o:p></o:p></span></p>\n<p class=\"MsoNormal\" style=\"margin-bottom: .0001pt; line-height: normal; tab-stops: 28.0pt 56.0pt 84.0pt 112.0pt 140.0pt 168.0pt 196.0pt 224.0pt 3.5in 280.0pt 308.0pt 336.0pt; mso-layout-grid-align: none; text-autospace: none;\"><span lang=\"EN-GB\" style=\"font-family: 'Times New Roman', 'serif'; font-size: 14pt;\">&nbsp;</span></p>\n<p class=\"MsoListParagraphCxSpFirst\" style=\"mso-add-space: auto; text-indent: -.5in; line-height: normal; mso-list: l1 level1 lfo2; tab-stops: 28.0pt 56.0pt 84.0pt 112.0pt 140.0pt 168.0pt 196.0pt 224.0pt 3.5in 280.0pt 308.0pt 336.0pt; mso-layout-grid-align: none; text-autospace: none; margin: 0in 0in .0001pt .75in;\"><span style=\"font-size: 14pt;\"><!-- [if !supportLists]--><span lang=\"EN-GB\" style=\"font-family: 'Times New Roman','serif'; mso-fareast-font-family: 'Times New Roman'; mso-font-kerning: 0pt; mso-ansi-language: EN-GB;\">I.<span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; line-height: normal; font-family: 'Times New Roman';\">&nbsp; </span></span><!--[endif]--><span lang=\"EN-GB\" style=\"font-family: 'Times New Roman','serif'; mso-font-kerning: 0pt; mso-ansi-language: EN-GB;\">The difference between cost and selling price is Rs. 40.<o:p></o:p></span></span></p>\n<p class=\"MsoListParagraphCxSpMiddle\" style=\"mso-add-space: auto; text-indent: -.5in; line-height: normal; mso-list: l1 level1 lfo2; tab-stops: 28.0pt 56.0pt 84.0pt 112.0pt 140.0pt 168.0pt 196.0pt 224.0pt 3.5in 280.0pt 308.0pt 336.0pt; mso-layout-grid-align: none; text-autospace: none; margin: 0in 0in .0001pt .75in;\"><span style=\"font-size: 14pt;\"><!-- [if !supportLists]--><span lang=\"EN-GB\" style=\"font-family: 'Times New Roman','serif'; mso-fareast-font-family: 'Times New Roman'; mso-font-kerning: 0pt; mso-ansi-language: EN-GB;\">II. </span><span lang=\"EN-GB\" style=\"font-family: 'Times New Roman','serif'; mso-font-kerning: 0pt; mso-ansi-language: EN-GB;\">The selling price is 120 percent of the cost price.<o:p></o:p></span></span></p>\n<p class=\"MsoListParagraphCxSpLast\" style=\"mso-add-space: auto; line-height: normal; tab-stops: 28.0pt 56.0pt 84.0pt 112.0pt 140.0pt 168.0pt 196.0pt 224.0pt 3.5in 280.0pt 308.0pt 336.0pt; mso-layout-grid-align: none; text-autospace: none; margin: 0in 0in .0001pt .75in;\"><span lang=\"EN-GB\" style=\"font-family: 'Times New Roman', 'serif'; font-size: 14pt;\">&nbsp;</span></p>",
+      "correctOption": "4",
+      "options": [
+        {
+          "order": "1",
+          "text": "The data in statement II alone are sufficient to answer the question, while the data in statement I alone are not sufficient to answer the question",
+          "html": "<p><span style=\"font-family: 'Times New Roman', 'serif'; font-size: 18.6667px;\">The data in statement II alone are sufficient to answer the question, while the data in statement I alone are not sufficient to answer the question&nbsp;</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "The data even in both statements I and II together are not sufficient to answer the question",
+          "html": "<p><span style=\"font-family: 'Times New Roman', 'serif'; font-size: 18.6667px;\">The data even in both statements I and II together are not sufficient to answer the question&nbsp;</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "The data either in statement I alone or in statement II alone are sufficient to answer the question",
+          "html": "<p><span style=\"font-family: 'Times New Roman', 'serif'; font-size: 18.6667px;\">The data either in statement I alone or in statement II alone are sufficient to answer the question&nbsp;</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "The data in statement I alone are sufficient to answer the question, while the data in statement II alone are not sufficient to answer the question",
+          "html": "<p><span style=\"font-family: 'Times New Roman', 'serif'; font-size: 18.6667px;\">The data in statement I alone are sufficient to answer the question, while the data in statement II alone are not sufficient to answer the question</span></p>",
+          "isCorrect": true
+        },
+        {
+          "order": "5",
+          "text": "The data in both statements I and II together are necessary to answer the question",
+          "html": "<p><span style=\"font-family: 'Times New Roman', 'serif'; font-size: 18.6667px;\">The data in both statements I and II together are necessary to answer the question&nbsp;</span></p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 13,
+      "section": "Technical Pseudo Codes -01",
+      "id": "68ceec25cc72e848c5439e34",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "The question below consists of a question and two statements numbered I and II given. You have to decide whether the data provided in which of the statements are sufficient to answer the question. Choose your answer from the options based on this. I . If b is even II. If a is even",
+      "questionHtml": "<p class=\"MsoNormal\" style=\"margin-bottom: .0001pt; line-height: normal; tab-stops: 28.0pt 56.0pt 84.0pt 112.0pt 140.0pt 168.0pt 196.0pt 224.0pt 3.5in 280.0pt 308.0pt 336.0pt; mso-layout-grid-align: none; text-autospace: none;\"><span lang=\"EN-GB\" style=\"font-family: 'Times New Roman', 'serif'; font-size: 14pt;\">The question below consists of a question and two statements numbered I and II given. You have to decide whether the data provided in which of the statements are sufficient to answer the question. Choose your answer from the options based on this.<o:p></o:p></span></p>\n<p class=\"MsoListParagraphCxSpLast\" style=\"mso-add-space: auto; line-height: normal; tab-stops: 28.0pt 56.0pt 84.0pt 112.0pt 140.0pt 168.0pt 196.0pt 224.0pt 3.5in 280.0pt 308.0pt 336.0pt; mso-layout-grid-align: none; text-autospace: none; margin: 0in 0in .0001pt .75in;\"><span lang=\"EN-GB\" style=\"font-family: 'Times New Roman', 'serif'; font-size: 14pt;\">&nbsp;</span></p>\n<p class=\"MsoNoSpacing\"><img src=\"https://cms-cdn.classplus.co/parserImages/03e2c9fc-5f92-42f1-866c-00b7e2c840d4.png\" alt=\"\" width=\"470\" height=\"37\" /></p>\n<p class=\"MsoNoSpacing\"></p>\n<p class=\"MsoNoSpacing\" style=\"text-indent: 0px;\"><span style=\"text-indent: -0.38in;\">I . If b is even </span></p>\n<p class=\"MsoNoSpacing\" style=\"text-indent: 0px;\"><span style=\"text-indent: -0.38in;\">II. If a is even</span></p>\n<p></p>\n<!--StartFragment-->\n<p></p>\n<!--EndFragment-->",
+      "correctOption": "4",
+      "options": [
+        {
+          "order": "1",
+          "text": "The data in statement II alone are sufficient to answer the question, while the data in statement I alone are not sufficient to answer the question",
+          "html": "<p><span style=\"font-family: 'Times New Roman', 'serif'; font-size: 18.6667px;\">The data in statement II alone are sufficient to answer the question, while the data in statement I alone are not sufficient to answer the question&nbsp;</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "The data even in both statements I and II together are not sufficient to answer the question",
+          "html": "<p><span style=\"font-family: 'Times New Roman', 'serif'; font-size: 18.6667px;\">The data even in both statements I and II together are not sufficient to answer the question&nbsp;</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "The data either in statement I alone or in statement II alone are sufficient to answer the question",
+          "html": "<p><span style=\"font-family: 'Times New Roman', 'serif'; font-size: 18.6667px;\">The data either in statement I alone or in statement II alone are sufficient to answer the question&nbsp;</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "The data in statement I alone are sufficient to answer the question, while the data in statement II alone are not sufficient to answer the question",
+          "html": "<p><span style=\"font-family: 'Times New Roman', 'serif'; font-size: 18.6667px;\">The data in statement I alone are sufficient to answer the question, while the data in statement II alone are not sufficient to answer the question&nbsp;</span></p>",
+          "isCorrect": true
+        },
+        {
+          "order": "5",
+          "text": "The data in both statements I and II together are necessary to answer the question",
+          "html": "<p><span style=\"font-family: 'Times New Roman', 'serif'; font-size: 18.6667px;\">The data in both statements I and II together are necessary to answer the question&nbsp;</span></p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": [
+        {
+          "original": "https://cms-cdn.classplus.co/parserImages/03e2c9fc-5f92-42f1-866c-00b7e2c840d4.png",
+          "local": "SECTION-II_ ANALYTICAL THINKING_figures/q13_1.png"
+        }
+      ]
+    },
+    {
+      "questionNumber": 14,
+      "section": "Technical Pseudo Codes -01",
+      "id": "68ce85f065243042f8548c41",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "A set of football matches is to be organized in a \"round-robin\" fashion, i.e., every participating team plays a match against every other team once and only once. If 21 matches are totally played, how many teams participated?",
+      "questionHtml": "<p class=\"MsoNormal\" style=\"line-height: normal;\"><strong><span style=\"font-family: 'Times New Roman','serif';\"><span style=\"font-size: 14pt;\">A set of football matches is to be organized in a \"round-robin\" fashion, i.e., every participating team plays a match against every other team once and only once. If 21 matches are totally played, how many teams participated?</span><o:p></o:p></span></strong></p>",
+      "correctOption": "2",
+      "options": [
+        {
+          "order": "1",
+          "text": "8",
+          "html": "<p>8</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "7",
+          "html": "<p>7</p>",
+          "isCorrect": true
+        },
+        {
+          "order": "3",
+          "text": "9",
+          "html": "<p>9</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "None of these",
+          "html": "<p>None of these</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 15,
+      "section": "Technical Pseudo Codes -01",
+      "id": "68ce85f065243094a5548c43",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "Find the wrong term in the following number series : 15972 , 15629 , 15840 , 15720 , 15784 , 15757",
+      "questionHtml": "<p class=\"MsoNormal\" style=\"line-height: normal;\"><span style=\"font-size: 14pt;\"><span style=\"font-family: 'Times New Roman','serif';\">Find the wrong term in the following number series :<o:p></o:p></span></span></p>\n<p></p>\n<p class=\"MsoNormal\" style=\"line-height: normal;\"><span style=\"font-family: 'Times New Roman','serif';\"><span style=\"font-size: 14pt;\">15972 , 15629 , 15840 , 15720 , 15784 , 15757&nbsp;</span></span></p>",
+      "correctOption": "1",
+      "options": [
+        {
+          "order": "1",
+          "text": "15840",
+          "html": "<p>15840</p>",
+          "isCorrect": true
+        },
+        {
+          "order": "2",
+          "text": "15757",
+          "html": "<p>15757</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "15720",
+          "html": "<p>15720</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "15972",
+          "html": "<p>15972</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    }
+  ]
+}

@@ -1,0 +1,678 @@
+{
+  "testId": "661a2254bd7e3f586ec896b8",
+  "title": "2. Full length Logical Reasoning (with sol)",
+  "engine": "Classplus CMS",
+  "folderPath": "Infosys Mock Test Series / Day 02",
+  "totalQuestions": 15,
+  "totalMarks": 0,
+  "durationMinutes": 0,
+  "livePortalUrl": null,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "section": "1.4 Pre Assessment (TCS Updated Pattern Mock Test _ PYQ)",
+      "id": "661a3f11b63fa27c00d64b8f",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "Which of the following numbers will replace the question mark (?) in the given series.\n\n32 , 32, 32, 34, ?, 106, 530",
+      "questionHtml": "<p>Which of the following numbers will replace the question mark (?) in the given series.</p>\n<p></p>\n<p>32 , 32, 32, 34, ?, 106, 530</p>",
+      "solutionText": "Ans - C",
+      "solutionHtml": "<p>Ans - C</p>\n<p></p>\n<p><iframe title=\"Logical Reasoning Q1\" src=\"//www.youtube.com/embed/rC1x-sAxN9c\" width=\"659\" height=\"371\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+      "options": [
+        {
+          "order": null,
+          "text": "38",
+          "html": "<p>38</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "106",
+          "html": "<p>106</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "102",
+          "html": "<p>102</p>",
+          "isCorrect": true
+        },
+        {
+          "order": null,
+          "text": "34",
+          "html": "<p>34</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 2,
+      "section": "1.4 Pre Assessment (TCS Updated Pattern Mock Test _ PYQ)",
+      "id": "661a3f11b63fa22c72d64b94",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": ":Select the odd number/ letter/ word from the given alternatives.",
+      "questionHtml": "<p>:Select the odd number/ letter/ word from the given alternatives.</p>",
+      "solutionText": "Ans - C",
+      "solutionHtml": "<p>Ans - C</p>\n<p></p>\n<p><iframe title=\"Logical Reasoning Q2\" src=\"//www.youtube.com/embed/MGGH_qo8Gsg\" width=\"659\" height=\"371\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+      "options": [
+        {
+          "order": null,
+          "text": "ACDF",
+          "html": "<p>ACDF</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "TUOP",
+          "html": "<p>TUOP</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "HIVW",
+          "html": "<p>HIVW</p>",
+          "isCorrect": true
+        },
+        {
+          "order": null,
+          "text": "POKL",
+          "html": "<p>POKL</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 3,
+      "section": "1.4 Pre Assessment (TCS Updated Pattern Mock Test _ PYQ)",
+      "id": "661a3f11b63fa205cad64b99",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "Select the figure that will come next in the following figure series.\n\n",
+      "questionHtml": "<p>Select the figure that will come next in the following figure series.</p>\n<p></p>\n<p><img src=\"https://cms-cdn.classplus.co/parserImages/baab57e6-b391-4961-adba-d3ccfd54cd34.png\" alt=\"\" width=\"421\" height=\"100\" /></p>",
+      "solutionText": "Ans - C",
+      "solutionHtml": "<p>Ans - C</p>\n<p></p>\n<p><iframe title=\"Logical Reasoning Q3\" src=\"//www.youtube.com/embed/Rl28KxqVMSY\" width=\"659\" height=\"371\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+      "options": [
+        {
+          "order": null,
+          "text": "",
+          "html": "<p><img src=\"https://cms-cdn.classplus.co/parserImages/457f322e-992f-47c9-b695-c9824ef38c78.png\" alt=\"\" /></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "",
+          "html": "<p><img src=\"https://cms-cdn.classplus.co/parserImages/c1c7739f-2553-492a-bcc3-d53e878c3a95.png\" alt=\"\" /></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "",
+          "html": "<p><img src=\"https://cms-cdn.classplus.co/parserImages/aa4b66a2-b37a-45c0-a748-f0d68cc61075.png\" alt=\"\" /></p>",
+          "isCorrect": true
+        },
+        {
+          "order": null,
+          "text": "",
+          "html": "<p><img src=\"https://cms-cdn.classplus.co/parserImages/56311f29-4c38-4a8e-9e8a-a4edbebccdd2.png\" alt=\"\" /></p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": [
+        {
+          "original": "https://cms-cdn.classplus.co/parserImages/baab57e6-b391-4961-adba-d3ccfd54cd34.png",
+          "local": "2. Full length Logical Reasoning (with sol)_figures/q3_1.png"
+        },
+        {
+          "original": "https://cms-cdn.classplus.co/parserImages/457f322e-992f-47c9-b695-c9824ef38c78.png",
+          "local": "2. Full length Logical Reasoning (with sol)_figures/q3_2.png"
+        },
+        {
+          "original": "https://cms-cdn.classplus.co/parserImages/c1c7739f-2553-492a-bcc3-d53e878c3a95.png",
+          "local": "2. Full length Logical Reasoning (with sol)_figures/q3_3.png"
+        },
+        {
+          "original": "https://cms-cdn.classplus.co/parserImages/aa4b66a2-b37a-45c0-a748-f0d68cc61075.png",
+          "local": "2. Full length Logical Reasoning (with sol)_figures/q3_4.png"
+        },
+        {
+          "original": "https://cms-cdn.classplus.co/parserImages/56311f29-4c38-4a8e-9e8a-a4edbebccdd2.png",
+          "local": "2. Full length Logical Reasoning (with sol)_figures/q3_5.png"
+        }
+      ]
+    },
+    {
+      "questionNumber": 4,
+      "section": "1.4 Pre Assessment (TCS Updated Pattern Mock Test _ PYQ)",
+      "id": "661a3f11b63fa21a31d64b9e",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "In a certain code language, ‘COUNTRY’ is written as ‘BOWKXLF’. How will ‘DESPAIR’ be written in that Language?",
+      "questionHtml": "<p>In a certain code language, &lsquo;COUNTRY&rsquo; is written as &lsquo;BOWKXLF&rsquo;. How will &lsquo;DESPAIR&rsquo; be written in that Language?</p>",
+      "solutionText": "Ans - C",
+      "solutionHtml": "<p>Ans - C</p>\n<p></p>\n<p><iframe title=\"Logical Reasoning Q4\" src=\"//www.youtube.com/embed/TA9ppPAOyaU\" width=\"659\" height=\"371\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+      "options": [
+        {
+          "order": null,
+          "text": "GBVMDFU",
+          "html": "<p>GBVMDFU</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "GBPSXIO",
+          "html": "<p>GBPSXIO</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "UFDMVBG",
+          "html": "<p>UFDMVBG</p>",
+          "isCorrect": true
+        },
+        {
+          "order": null,
+          "text": "ULDSVHG",
+          "html": "<p>ULDSVHG</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 5,
+      "section": "1.4 Pre Assessment (TCS Updated Pattern Mock Test _ PYQ)",
+      "id": "661a3f11b63fa29de6d64ba3",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "One morning, Chitrashi and Ayaan sit facing each other. If the shadow of Ayaan falls to the left of Chitrashi, then in which direction is Ayaan facing?",
+      "questionHtml": "<p>One morning, Chitrashi and Ayaan sit facing each other. If the shadow of Ayaan falls to the left of Chitrashi, then in which direction is Ayaan facing?</p>",
+      "solutionText": "Ans - C",
+      "solutionHtml": "<p>Ans - C</p>\n<p></p>\n<p><iframe title=\"Logical Reasoning Q5\" src=\"//www.youtube.com/embed/-DlPZvEo1aI\" width=\"659\" height=\"371\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+      "options": [
+        {
+          "order": null,
+          "text": "North",
+          "html": "<p>North</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "East",
+          "html": "<p>East</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "South",
+          "html": "<p>South</p>",
+          "isCorrect": true
+        },
+        {
+          "order": null,
+          "text": "West",
+          "html": "<p>West</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 6,
+      "section": "1.4 Pre Assessment (TCS Updated Pattern Mock Test _ PYQ)",
+      "id": "661a3f11b63fa26181d64ba8",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "How many triangles are there in the given figure?\n\n",
+      "questionHtml": "<p>How many triangles are there in the given figure?</p>\n<p></p>\n<p><img src=\"https://cms-cdn.classplus.co/parserImages/b1b1fddf-43e7-4dda-b7a3-643ed81691b7.png\" alt=\"\" /></p>",
+      "solutionText": "Ans - A",
+      "solutionHtml": "<p>Ans - A</p>\n<p></p>\n<p><iframe title=\"Logical Reasoning Q6\" src=\"//www.youtube.com/embed/2g0Zhnfc6iI\" width=\"659\" height=\"371\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+      "options": [
+        {
+          "order": null,
+          "text": "20",
+          "html": "<p>20</p>",
+          "isCorrect": true
+        },
+        {
+          "order": null,
+          "text": "21",
+          "html": "<p>21</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "22",
+          "html": "<p>22</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "23",
+          "html": "<p>23</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": [
+        {
+          "original": "https://cms-cdn.classplus.co/parserImages/b1b1fddf-43e7-4dda-b7a3-643ed81691b7.png",
+          "local": "2. Full length Logical Reasoning (with sol)_figures/q6_1.png"
+        }
+      ]
+    },
+    {
+      "questionNumber": 7,
+      "section": "1.4 Pre Assessment (TCS Updated Pattern Mock Test _ PYQ)",
+      "id": "661a3f11b63fa2c1d4d64bad",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "• Six personsA,B,C,D,E and Fare sitting in two rows,(facing each other) three persons are sitting in each row\n• E is not at end of any row.\n• D is second to the left of F.\n• C, the neighbor of E, is sitting diagonally opposite to D.\n• B is the neighbor of F.\n• Question 7 : Based on the given information who is sitting opposite to B ?",
+      "questionHtml": "<p><span style=\"font-family: var(--font-family);\">&bull; </span>Six personsA,B,C,D,E and Fare sitting in two rows,(facing each other) three persons are sitting in each row</p>\n<p>&bull; E is not at end of any row.</p>\n<p>&bull; D is second to the left of F.</p>\n<p>&bull; C, the neighbor of E, is sitting diagonally opposite to D.</p>\n<p>&bull; B is the neighbor of F.</p>\n<p>&bull; Question 7 : Based on the given information who is sitting opposite to B ?</p>",
+      "solutionText": "Ans - C",
+      "solutionHtml": "<p>Ans - C</p>\n<p></p>\n<p><iframe title=\"Logical Reasoning Q7\" src=\"//www.youtube.com/embed/zCN2KPUgzBA\" width=\"659\" height=\"371\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+      "options": [
+        {
+          "order": null,
+          "text": "A",
+          "html": "<p>A</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "C",
+          "html": "<p>C</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "E",
+          "html": "<p>E</p>",
+          "isCorrect": true
+        },
+        {
+          "order": null,
+          "text": "G",
+          "html": "<p>G</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 8,
+      "section": "1.4 Pre Assessment (TCS Updated Pattern Mock Test _ PYQ)",
+      "id": "661a3f11b63fa288c3d64bb2",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "Select the correct water image of the given figure.\n\n",
+      "questionHtml": "<p>Select the correct water image of the given figure.</p>\n<p></p>\n<p><img src=\"https://cms-cdn.classplus.co/parserImages/0715984a-5643-4910-8510-48c8eedbfd58.png\" alt=\"\" /></p>",
+      "solutionText": "Ans - D",
+      "solutionHtml": "<p>Ans - D</p>\n<p></p>\n<p><iframe title=\"Logical Reasoning Q8\" src=\"//www.youtube.com/embed/296PBxvfuDc\" width=\"659\" height=\"371\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+      "options": [
+        {
+          "order": null,
+          "text": "",
+          "html": "<p><img src=\"https://cms-cdn.classplus.co/parserImages/73d88b89-b46b-4278-ac8b-4d8528330368.png\" alt=\"\" /></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "",
+          "html": "<p><img src=\"https://cms-cdn.classplus.co/parserImages/5458e45b-4c83-45fa-8e5f-20501db55543.png\" alt=\"\" /></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "",
+          "html": "<p><img src=\"https://cms-cdn.classplus.co/parserImages/6a49e495-4f19-4edf-bb4f-0de1ff8623c6.png\" alt=\"\" /></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "",
+          "html": "<p><img src=\"https://cms-cdn.classplus.co/parserImages/71b0a4e0-dee6-4c33-8692-02fa7a1ba02e.png\" alt=\"\" /></p>",
+          "isCorrect": true
+        }
+      ],
+      "embeddedImages": [
+        {
+          "original": "https://cms-cdn.classplus.co/parserImages/0715984a-5643-4910-8510-48c8eedbfd58.png",
+          "local": "2. Full length Logical Reasoning (with sol)_figures/q8_1.png"
+        },
+        {
+          "original": "https://cms-cdn.classplus.co/parserImages/73d88b89-b46b-4278-ac8b-4d8528330368.png",
+          "local": "2. Full length Logical Reasoning (with sol)_figures/q8_2.png"
+        },
+        {
+          "original": "https://cms-cdn.classplus.co/parserImages/5458e45b-4c83-45fa-8e5f-20501db55543.png",
+          "local": "2. Full length Logical Reasoning (with sol)_figures/q8_3.png"
+        },
+        {
+          "original": "https://cms-cdn.classplus.co/parserImages/6a49e495-4f19-4edf-bb4f-0de1ff8623c6.png",
+          "local": "2. Full length Logical Reasoning (with sol)_figures/q8_4.png"
+        },
+        {
+          "original": "https://cms-cdn.classplus.co/parserImages/71b0a4e0-dee6-4c33-8692-02fa7a1ba02e.png",
+          "local": "2. Full length Logical Reasoning (with sol)_figures/q8_5.png"
+        }
+      ]
+    },
+    {
+      "questionNumber": 9,
+      "section": "1.4 Pre Assessment (TCS Updated Pattern Mock Test _ PYQ)",
+      "id": "661a3f11b63fa2413bd64bb7",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "An enterprising businessman earns an income of Rs 1 on the first day of his business. On every subsequent day, he earns an income which is just double of that made on the previous day. On the 10th day of business, his income is?",
+      "questionHtml": "<p>An enterprising businessman earns an income of Rs 1 on the first day of his business. On every subsequent day, he earns an income which is just double of that made on the previous day. On the 10th day of business, his income is?</p>",
+      "solutionText": "Ans - B",
+      "solutionHtml": "<p>Ans - B</p>\n<p></p>\n<p><iframe title=\"Logical Reasoning Q9\" src=\"//www.youtube.com/embed/ngKl_OsSty0\" width=\"659\" height=\"371\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+      "options": [
+        {
+          "order": null,
+          "text": "",
+          "html": "<p><img src=\"https://cms-cdn.classplus.co/parserImages/009f030d-6c2e-4fac-9451-25e5a8d6bf51.png\" alt=\"\" /></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "",
+          "html": "<p><img src=\"https://cms-cdn.classplus.co/parserImages/46131526-4c50-4f72-8830-e02d53e1efff.png\" alt=\"\" /></p>",
+          "isCorrect": true
+        },
+        {
+          "order": null,
+          "text": "",
+          "html": "<p><img src=\"https://cms-cdn.classplus.co/parserImages/4d942c51-d993-4e55-93b2-ec171c756e8b.png\" alt=\"\" /></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "",
+          "html": "<p><img src=\"https://cms-cdn.classplus.co/parserImages/3d619860-a30d-4992-a7a8-9182192318bf.png\" alt=\"\" /></p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": [
+        {
+          "original": "https://cms-cdn.classplus.co/parserImages/009f030d-6c2e-4fac-9451-25e5a8d6bf51.png",
+          "local": "2. Full length Logical Reasoning (with sol)_figures/q9_1.png"
+        },
+        {
+          "original": "https://cms-cdn.classplus.co/parserImages/46131526-4c50-4f72-8830-e02d53e1efff.png",
+          "local": "2. Full length Logical Reasoning (with sol)_figures/q9_2.png"
+        },
+        {
+          "original": "https://cms-cdn.classplus.co/parserImages/4d942c51-d993-4e55-93b2-ec171c756e8b.png",
+          "local": "2. Full length Logical Reasoning (with sol)_figures/q9_3.png"
+        },
+        {
+          "original": "https://cms-cdn.classplus.co/parserImages/3d619860-a30d-4992-a7a8-9182192318bf.png",
+          "local": "2. Full length Logical Reasoning (with sol)_figures/q9_4.png"
+        }
+      ]
+    },
+    {
+      "questionNumber": 10,
+      "section": "1.4 Pre Assessment (TCS Updated Pattern Mock Test _ PYQ)",
+      "id": "661a3f11b63fa2a50bd64bbc",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "Directions (10-11): Answer the questions based on the information given below:\n\n Six persons Amanat, Badshah, Chirag, Damodar, Elvi & Farooq have different weights. Badshah is heavier than only two people. Elvi is lighter than Chirag but not than Farooq. Neither Farooq nor Amanat is the lightest. Amanat is not heavier than Elvi\n\nQ1. Who among the following is 2nd lightest",
+      "questionHtml": "<p>Directions (10-11): Answer the questions based on the information given below:</p>\n<p></p>\n<p>&nbsp;Six persons Amanat, Badshah, Chirag, Damodar, Elvi &amp; Farooq have different weights. Badshah is heavier than only two people. Elvi is lighter than Chirag but not than Farooq. Neither Farooq nor Amanat is the lightest. Amanat is not heavier than Elvi</p>\n<p></p>\n<p>Q1. Who among the following is 2nd lightest</p>",
+      "solutionText": "Ans - E",
+      "solutionHtml": "<p>Ans - E</p>\n<p></p>\n<p><iframe title=\"Logical Reasoning Q10\" src=\"//www.youtube.com/embed/lXBygpSwn2E\" width=\"659\" height=\"371\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+      "options": [
+        {
+          "order": null,
+          "text": "Amanat",
+          "html": "<p>Amanat</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "Farooq",
+          "html": "<p>Farooq</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "Damodar",
+          "html": "<p>Damodar</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "Elvi",
+          "html": "<p>Elvi</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "Either  Farooq or Amanat",
+          "html": "<p>Either&nbsp; Farooq or Amanat</p>",
+          "isCorrect": true
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 11,
+      "section": "1.4 Pre Assessment (TCS Updated Pattern Mock Test _ PYQ)",
+      "id": "661a3f11b63fa27b28d64bc1",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "In the Venn diagram given below, the 'Circle' represents 'Officers', the 'Triangle' represents 'Married', the 'Rectangle' represents 'Salary above Rs.50,000'and the 'Square' represents 'Post-Graduates'. The numbers given in the diagram represents number of persons of that particular category. How many single officers have salary above Rs.50,000 but do NOT have a post-graduate degree?\n\n",
+      "questionHtml": "<p>In the Venn diagram given below, the 'Circle' represents 'Officers', the 'Triangle' represents 'Married', the 'Rectangle' represents 'Salary above Rs.50,000'and the 'Square' represents 'Post-Graduates'. The numbers given in the diagram represents number of persons of that particular category. How many single officers have salary above Rs.50,000 but do NOT have a post-graduate degree?</p>\n<p></p>\n<p><img src=\"https://cms-cdn.classplus.co/parserImages/00263657-9639-4644-810b-a575612355d5.png\" alt=\"\" /></p>",
+      "solutionText": "Ans - C",
+      "solutionHtml": "<p>Ans - C</p>\n<p></p>\n<p><iframe title=\"Logical Reasoning Q11\" src=\"//www.youtube.com/embed/h6xKFtdwxWY\" width=\"659\" height=\"371\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+      "options": [
+        {
+          "order": null,
+          "text": "4",
+          "html": "<p>4</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "8",
+          "html": "<p>8</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "10",
+          "html": "<p>10</p>",
+          "isCorrect": true
+        },
+        {
+          "order": null,
+          "text": "2",
+          "html": "<p>2</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": [
+        {
+          "original": "https://cms-cdn.classplus.co/parserImages/00263657-9639-4644-810b-a575612355d5.png",
+          "local": "2. Full length Logical Reasoning (with sol)_figures/q11_1.png"
+        }
+      ]
+    },
+    {
+      "questionNumber": 12,
+      "section": "1.4 Pre Assessment (TCS Updated Pattern Mock Test _ PYQ)",
+      "id": "661a3f11b63fa27216d64bc6",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "Select the option that is related to the third term in the same way as the second term is related to the first term.\n\n DOGMATIC : EQHOBVJD :: PRODUCTS: ?",
+      "questionHtml": "<p>Select the option that is related to the third term in the same way as the second term is related to the first term.</p>\n<p></p>\n<p>&nbsp;DOGMATIC : EQHOBVJD :: PRODUCTS: ?</p>",
+      "solutionText": "Ans - A",
+      "solutionHtml": "<p>Ans - A</p>\n<p></p>\n<p><iframe title=\"Logical Reasoning Q12\" src=\"//www.youtube.com/embed/WHXXNM2vEfc\" width=\"659\" height=\"371\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+      "options": [
+        {
+          "order": null,
+          "text": "RTQEWDVU",
+          "html": "<p>RTQEWDVU</p>",
+          "isCorrect": true
+        },
+        {
+          "order": null,
+          "text": "RTSEWDSQ",
+          "html": "<p>RTSEWDSQ</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "RTQFXDVU",
+          "html": "<p>RTQFXDVU</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "RTQEWDWV",
+          "html": "<p>RTQEWDWV</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 13,
+      "section": "1.4 Pre Assessment (TCS Updated Pattern Mock Test _ PYQ)",
+      "id": "661a3f11b63fa23035d64bcb",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "Statements: Some Cats are Rats. All bats are tables. All Rats are Bats\n\n Conclusion:\n\nI. Some Cats are bats\nII. All bats are rats\nIII. All tables are cats\nIV. All bats are cats",
+      "questionHtml": "<p>Statements: Some Cats are Rats. All bats are tables. All Rats are Bats</p>\n<p></p>\n<p>&nbsp;Conclusion:</p>\n<p></p>\n<p>I. Some Cats are bats</p>\n<p>II. All bats are rats</p>\n<p>III. All tables are cats</p>\n<p>IV. All bats are cats</p>",
+      "solutionText": "Ans - D",
+      "solutionHtml": "<p>Ans - D</p>\n<p></p>\n<p><iframe title=\"Logical Reasoning Q13\" src=\"//www.youtube.com/embed/0-1hIw6Y_JQ\" width=\"659\" height=\"371\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+      "options": [
+        {
+          "order": null,
+          "text": "Only I & II follow",
+          "html": "<p>Only I &amp; II follow</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "Only II follows",
+          "html": "<p>Only II follows</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "Only I & IV follow",
+          "html": "<p>Only I &amp; IV follow</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "None of these",
+          "html": "<p>None of these</p>",
+          "isCorrect": true
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 14,
+      "section": "1.4 Pre Assessment (TCS Updated Pattern Mock Test _ PYQ)",
+      "id": "661a3f11b63fa212c3d64bd0",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "Statements:\nMost CPUs are keyboards.\nNo keyboard is a Mouse.\nAll Mouses are CPU.\n\nConclusion\n\n I. Some keyboards are CPU\nII. All CPU’s are Mouse\nIII. No Mouse is a keyboard\nIV. Some Mouse are keyboard",
+      "questionHtml": "<p>Statements:</p>\n<p>Most CPUs are keyboards.</p>\n<p>No keyboard is a Mouse.</p>\n<p>All Mouses are CPU.</p>\n<p></p>\n<p>Conclusion</p>\n<p></p>\n<p>&nbsp;I. Some keyboards are CPU</p>\n<p>II. All CPU&rsquo;s are Mouse</p>\n<p>III. No Mouse is a keyboard</p>\n<p>IV. Some Mouse are keyboard</p>",
+      "solutionText": "Ans - C",
+      "solutionHtml": "<p>Ans - C</p>\n<p></p>\n<p><iframe title=\"Logical Reasoning Q14\" src=\"//www.youtube.com/embed/FhjSxE86Xbw\" width=\"659\" height=\"371\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+      "options": [
+        {
+          "order": null,
+          "text": "Only I follows",
+          "html": "<p>Only I follows</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "Only II and III follow",
+          "html": "<p>Only II and III follow</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "Only I and III follow",
+          "html": "<p>Only I and III follow</p>",
+          "isCorrect": true
+        },
+        {
+          "order": null,
+          "text": "Only II follows",
+          "html": "<p>Only II follows</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 15,
+      "section": "1.4 Pre Assessment (TCS Updated Pattern Mock Test _ PYQ)",
+      "id": "661a3f11b63fa27acad64bd5",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "Statement- Drinking in moderation can help our health, some research has showed. Many doctors recommend a glass of wine or beer a night as part of diet plans such as the Mediterranean diet and the DASH diet, which have been proven to keep your heart and brain healthy. However, a new study suggests that even moderate drinking may not be great for your brain. Which of the following can be deduced from the above statement?\n\n (i) Scientific researches can contradict at times.\n (ii) Moderate intake of wine is less harmful than cigarette.\n (iii) Something which is not good for brain does not mean it cannot be healthy.",
+      "questionHtml": "<p>Statement- Drinking in moderation can help our health, some research has showed. Many doctors recommend a glass of wine or beer a night as part of diet plans such as the Mediterranean diet and the DASH diet, which have been proven to keep your heart and brain healthy. However, a new study suggests that even moderate drinking may not be great for your brain. Which of the following can be deduced from the above statement?</p>\n<p></p>\n<p>&nbsp;(i) Scientific researches can contradict at times.</p>\n<p>&nbsp;(ii) Moderate intake of wine is less harmful than cigarette.</p>\n<p>&nbsp;(iii) Something which is not good for brain does not mean it cannot be healthy.</p>",
+      "solutionText": "Ans - A",
+      "solutionHtml": "<p>Ans - A</p>\n<p></p>\n<p><iframe title=\"Logical Reasoning Q15\" src=\"//www.youtube.com/embed/niIVjcv_SsM\" width=\"659\" height=\"371\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+      "options": [
+        {
+          "order": null,
+          "text": "Only 1",
+          "html": "<p>Only 1</p>",
+          "isCorrect": true
+        },
+        {
+          "order": null,
+          "text": "Only 1 and 2",
+          "html": "<p>Only 1 and 2</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "Only 3",
+          "html": "<p>Only 3</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "Both 2 and 3",
+          "html": "<p>Both 2 and 3</p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "None of these",
+          "html": "<p>None of these</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    }
+  ]
+}

@@ -1,0 +1,597 @@
+{
+  "testId": "60fea572ebdad408d2b263a4",
+  "title": "Partnership",
+  "engine": "Classplus CMS",
+  "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section II : Technical Ability ( Numerical ) / 2. Numerical ability/Quantitative Aptitude / 8 Partnership & Average / 1 Partnership",
+  "totalQuestions": 15,
+  "totalMarks": 0,
+  "durationMinutes": 0,
+  "livePortalUrl": "https://student-cms.classplusapp.com?token=eyJhbGciOiJIUzM4NCIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjE5MjYwNjExNiwibmFtZSI6IkhhY2tXaXRoSW5meVByZXAiLCJlbWFpbCI6ImhhY2t3aXRoaW5meXByZXBAZ21haWwuY29tIiwibW9iaWxlIjoiOTE3ODk4MDk3Mjk3Iiwic3R1ZGVudElkIjoxNTkzMDU3NDYsImNvbnRlbnRJZCI6Mjk0ODkzODMsIm9yZ0lkIjo0NDAzMiwiY29udGVudFR5cGUiOjQsImNvdXJzZUlkIjoiODQ0NTY3IiwidGltZXN0YW1wIjoxNzkxODcyMjEwNjQzLCJjb3Vyc2VOYW1lIjoiTkVXIEluZm9zeXMgLVNFICwgRFNFICYgU1AgLVVwZGF0ZWQgUGF0dGVybiArIFBZUSArIEluZm9zeXMgdGVzdCBTZXJpZXMgd2l0aCBWaWRlbyBzb2wiLCJ0ZXN0SWQiOiI2MGZlYTU3MmViZGFkNDA4ZDJiMjYzYTQiLCJudW1iZXJPZkF0dGVtcHRzIjotMSwibWV0YURhdGEiOnsib2NzSWQiOjU4MjA1MTAzLCJvY3NUaW1lIjoxNzg5ODg1MjI4MDAwfSwiaWF0IjoxNzkxODcyMjEwLCJleHAiOjE3OTI0NzcwMTB9.Ndq5VKG--7z-N-3RvpeZuUaOLw0_VAl7IG_enQX9ByGu8U5yAeM-Drf9c182snTA&testId=60fea572ebdad408d2b263a4&user_email=hackwithinfyprep@gmail.com&user_id=159305746&defaultLanguage=en&isGenericShare=false",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "section": "Quantitative Aptitude",
+      "id": "60fea5fead273c396d9db65b",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "P starts business with Rs.4500 and after 9 months, Q joins with P as his partner. After a year, the profit divided in the 3 : 5. What is Q's contribution in the capital?",
+      "questionHtml": "<p><strong><span style=\"font-size: 14pt;\"><span style=\"color: #222222; font-family: Roboto, sans-serif; text-align: justify;\">P starts business with&nbsp;</span><span style=\"color: #222222; font-family: Roboto, sans-serif; text-align: justify;\">Rs.</span><span style=\"color: #222222; font-family: Roboto, sans-serif; text-align: justify;\">4500 and after 9 months, Q joins with P as his partner. After a year, the profit divided in the 3 : 5. What is Q's contribution in the capital?</span></span></strong></p>",
+      "solutionText": "Correct Option: D Let Q's Capital be Rs. x. Then = 4500 &times;12 3x = 4500 &times; 12 = 3 &rArr; x = 4500 &times; 12 &times; 5 3x 5 3 &times; 3 &rArr; 1500 x 4 x 5 &rArr; Rs. 30,000.",
+      "solutionHtml": "<p><span style=\"font-size: 14pt;\"><label style=\"color: #444444; font-family: Roboto, sans-serif; display: inline-block; max-width: 100%; margin-bottom: 5px;\">Correct Option: </label><span style=\"color: #444444; font-family: Roboto, sans-serif;\">D</span></span></p>\n<div>\n<table style=\"border-spacing: 0px; border-collapse: collapse; background-color: transparent;\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr>\n<td style=\"padding: 0px;\" rowspan=\"2\"><span style=\"font-size: 14pt;\">Let Q's Capital be Rs. x. Then =&nbsp;</span></td>\n<td class=\"divide\" style=\"padding: 0px; border-bottom: 1px solid #000000;\"><span style=\"font-size: 14pt;\">4500 &times;12</span></td>\n</tr>\n<tr>\n<td style=\"padding: 0px;\" align=\"center\"><span style=\"font-size: 14pt;\">3x</span></td>\n</tr>\n</tbody>\n</table>\n</div>\n<p>&nbsp;</p>\n<table style=\"border-spacing: 0px; border-collapse: collapse; color: #444444; font-family: Roboto, sans-serif; font-size: 13px;\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr>\n<td style=\"padding: 0px;\" rowspan=\"2\"><span style=\"font-size: 14pt;\">=&nbsp;</span></td>\n<td class=\"divide\" style=\"padding: 0px; border-bottom: 1px solid #000000;\"><span style=\"font-size: 14pt;\">4500 &times; 12</span></td>\n<td style=\"padding: 0px;\" rowspan=\"2\"><span style=\"font-size: 14pt;\">&nbsp;=&nbsp;</span></td>\n<td class=\"divide\" style=\"padding: 0px; border-bottom: 1px solid #000000;\"><span style=\"font-size: 14pt;\">3</span></td>\n<td style=\"padding: 0px;\" rowspan=\"2\"><span style=\"font-size: 14pt;\">&nbsp; &rArr; x = &nbsp;</span></td>\n<td class=\"divide\" style=\"padding: 0px; border-bottom: 1px solid #000000;\" align=\"center\"><span style=\"font-size: 14pt;\">4500 &times; 12 &times; 5</span></td>\n</tr>\n<tr>\n<td style=\"padding: 0px;\" align=\"center\"><span style=\"font-size: 14pt;\">3x</span></td>\n<td style=\"padding: 0px;\"><span style=\"font-size: 14pt;\">5</span></td>\n<td style=\"padding: 0px;\" align=\"center\"><span style=\"font-size: 14pt;\">3 &times; 3</span></td>\n</tr>\n</tbody>\n</table>\n<p><br style=\"color: #444444; font-family: Roboto, sans-serif; font-size: 13px;\" /><span style=\"color: #444444; font-family: Roboto, sans-serif; font-size: 14pt;\">&rArr; 1500 x 4 x 5 &rArr; Rs. 30,000.</span></p>",
+      "options": [
+        {
+          "order": null,
+          "text": "Rs. 5,000 ",
+          "html": "<div class=\"optionans\"><span style=\"font-size: 14pt;\">Rs. 5,000&nbsp;</span></div>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "Rs. 10,000",
+          "html": "<div class=\"optionans\"><span style=\"font-size: 14pt;\">Rs. 10,000</span></div>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "Rs. 20,000",
+          "html": "<div class=\"optionans\"><span style=\"font-size: 14pt;\">Rs. 20,000</span></div>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "Rs.30,000",
+          "html": "<div class=\"optionans\"><span style=\"font-size: 14pt;\">Rs.30,000</span></div>",
+          "isCorrect": true
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 2,
+      "section": "Quantitative Aptitude",
+      "id": "60fea5fead273c51449db660",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "P and Q started a retail store with initial investments in the ratio 5 : 6 and their annual profits were in the ratio 2 : 3. If P invested the money for 8 months. For how many months did Q invest his money? ",
+      "questionHtml": "<p><strong><span style=\"color: #222222; font-family: Roboto, sans-serif; text-align: justify; font-size: 14pt;\">P and Q started a retail store with initial investments in the ratio 5 : 6 and their annual profits were in the ratio 2 : 3. If P invested the money for 8 months. For how many months did Q invest his money?&nbsp;</span></strong></p>",
+      "solutionText": "Correct Option: D Suppose P invested Rs. 5x for 8 months and Q invested 6x for y months then, 5x &times; 8 = 2 &rArr; y = 40x &times; 3 6x &times; y 3 6x &times; 2 y = 120x &rArr; y = 10. 12x",
+      "solutionHtml": "<div><span style=\"font-size: 14pt;\"><label style=\"display: inline-block; max-width: 100%; margin-bottom: 5px;\">Correct Option:&nbsp;</label>D</span></div>\n<div><span style=\"font-size: 14pt;\">Suppose P invested Rs. 5x for 8 months and Q invested 6x for y months then,</span><br /><span style=\"font-size: 14pt;\">&nbsp;</span></div>\n<table style=\"border-spacing: 0px; border-collapse: collapse; color: #444444; font-family: Roboto, sans-serif; font-size: 13px;\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr>\n<td class=\"divide\" style=\"padding: 0px; border-bottom: 1px solid #000000;\" align=\"center\"><span style=\"font-size: 14pt;\">5x &times; 8</span></td>\n<td style=\"padding: 0px;\" rowspan=\"2\"><span style=\"font-size: 14pt;\">&nbsp;=&nbsp;</span></td>\n<td class=\"divide\" style=\"padding: 0px; border-bottom: 1px solid #000000;\"><span style=\"font-size: 14pt;\">2</span></td>\n<td style=\"padding: 0px;\" rowspan=\"2\"><span style=\"font-size: 14pt;\">&nbsp;&rArr; y =&nbsp;</span></td>\n<td class=\"divide\" style=\"padding: 0px; border-bottom: 1px solid #000000;\" align=\"center\"><span style=\"font-size: 14pt;\">40x &times; 3</span></td>\n</tr>\n<tr>\n<td style=\"padding: 0px;\" align=\"center\"><span style=\"font-size: 14pt;\">6x &times; y</span></td>\n<td style=\"padding: 0px;\"><span style=\"font-size: 14pt;\">3</span></td>\n<td style=\"padding: 0px;\" align=\"center\"><span style=\"font-size: 14pt;\">6x &times; 2</span></td>\n</tr>\n</tbody>\n</table>\n<p>&nbsp;</p>\n<table style=\"border-spacing: 0px; border-collapse: collapse; color: #444444; font-family: Roboto, sans-serif; font-size: 13px;\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr>\n<td style=\"padding: 0px;\" rowspan=\"2\"><span style=\"font-size: 14pt;\">y =&nbsp;</span></td>\n<td class=\"divide\" style=\"padding: 0px; border-bottom: 1px solid #000000;\"><span style=\"font-size: 14pt;\">120x</span></td>\n<td style=\"padding: 0px;\" rowspan=\"2\"><span style=\"font-size: 14pt;\">&nbsp;&rArr; y = 10.</span></td>\n</tr>\n<tr>\n<td style=\"padding: 0px;\" align=\"center\"><span style=\"font-size: 14pt;\">12x</span></td>\n</tr>\n</tbody>\n</table>\n<p>&nbsp;</p>",
+      "options": [
+        {
+          "order": null,
+          "text": "5",
+          "html": "<p><span style=\"font-size: 14pt;\">5</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "6",
+          "html": "<p><span style=\"font-size: 14pt;\">6</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "8",
+          "html": "<p><span style=\"font-size: 14pt;\">8</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "10",
+          "html": "<p><span style=\"font-size: 14pt;\">10</span></p>",
+          "isCorrect": true
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 3,
+      "section": "Quantitative Aptitude",
+      "id": "60fea5fead273c2f1d9db665",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "P and Q enter into partnership. P invests some money at beginning, Q invests double the amount after 4 months and R invests thrice the amount after 8 months. If the annual profit be Rs.32000, R's share is?",
+      "questionHtml": "<p><strong><span style=\"color: #222222; font-family: Roboto, sans-serif; text-align: justify; font-size: 14pt;\">P and Q enter into partnership. P invests some money at beginning, Q invests double the amount after 4 months and R invests thrice the amount after 8 months. If the annual profit be Rs.32000, R's share is?</span></strong></p>",
+      "solutionText": "Correct Option: E Let P's investment be Rs. x. then ratio of capitals = (x &times; 12) : (2x &times; 8) : (3x &times; 4) &rArr; 12x : 16x : 12x &rArr; 3x : 4x : 3x &there4; R's share = Rs [ 32000 &times; 3 ] &rArr; Rs 9600. 10",
+      "solutionHtml": "<div><span style=\"font-size: 14pt;\"><label style=\"display: inline-block; max-width: 100%; margin-bottom: 5px;\">Correct Option:&nbsp;</label>E</span></div>\n<p><span style=\"color: #444444; font-family: Roboto, sans-serif; font-size: 14pt;\">Let P's investment be Rs. x. then ratio of capitals = (x &times; 12) : (2x &times; 8) : (3x &times; 4)</span><br style=\"color: #444444; font-family: Roboto, sans-serif; font-size: 13px;\" /><br style=\"color: #444444; font-family: Roboto, sans-serif; font-size: 13px;\" /><span style=\"color: #444444; font-family: Roboto, sans-serif; font-size: 14pt;\">&rArr; &nbsp;12x : 16x : 12x &nbsp;&rArr; 3x : 4x : 3x</span><br style=\"color: #444444; font-family: Roboto, sans-serif; font-size: 13px;\" /><br style=\"color: #444444; font-family: Roboto, sans-serif; font-size: 13px;\" /></p>\n<table style=\"border-spacing: 0px; border-collapse: collapse; color: #444444; font-family: Roboto, sans-serif; font-size: 13px;\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr>\n<td style=\"padding: 0px;\" rowspan=\"2\"><span style=\"font-weight: bold; font-size: 14pt;\">&there4; &nbsp;</span></td>\n<td style=\"padding: 0px;\" rowspan=\"2\"><span style=\"font-size: 14pt;\">R's share &nbsp;=&nbsp;Rs</span></td>\n<td style=\"padding: 0px;\" rowspan=\"2\"><span style=\"font-size: 14pt;\">[</span></td>\n<td style=\"padding: 0px;\" rowspan=\"2\"><span style=\"font-size: 14pt;\">32000 &times;&nbsp;</span></td>\n<td class=\"divide\" style=\"padding: 0px; border-bottom: 1px solid #000000;\" align=\"center\"><span style=\"font-size: 14pt;\">3</span></td>\n<td style=\"padding: 0px;\" rowspan=\"2\"><span style=\"font-size: 14pt;\">]</span></td>\n<td style=\"padding: 0px;\" rowspan=\"2\"><span style=\"font-size: 14pt;\">&nbsp;&rArr; Rs 9600.</span></td>\n</tr>\n<tr>\n<td style=\"padding: 0px;\"><span style=\"font-size: 14pt;\">10</span><br /><br /></td>\n</tr>\n</tbody>\n</table>",
+      "options": [
+        {
+          "order": null,
+          "text": "Rs 12,000",
+          "html": "<div class=\"optionans\"><span style=\"font-size: 14pt;\">Rs 12,000</span></div>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "Rs 15,000",
+          "html": "<div class=\"optionans\"><span style=\"font-size: 14pt;\">Rs 15,000</span></div>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "Rs 32,000",
+          "html": "<div class=\"optionans\"><span style=\"font-size: 14pt;\">Rs 32,000</span></div>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "None of these",
+          "html": "<div class=\"optionans\"><span style=\"font-size: 14pt;\">None of these</span></div>",
+          "isCorrect": true
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 4,
+      "section": "Quantitative Aptitude",
+      "id": "60fea5fead273c18039db66a",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "P, Q, R hired Taxi for Rs. 680 and used it for 3, 5, 9 hours. respectively hire charges paid by Q are:",
+      "questionHtml": "<p><span style=\"font-size: 14pt;\"><strong><span style=\"color: #222222; font-family: Roboto, sans-serif; text-align: justify;\">P, Q, R hired Taxi for Rs. 680 and used it for 3, 5, 9 hours. respectively hire charges paid by Q are:</span></strong></span></p>",
+      "solutionText": "Correct Option: B P : Q : R = 3 : 5 : 9 Hire charges paid by Q = Rs [ 680 &times; 5 ] &rArr; 40 &times; 5 = Rs 200. 17",
+      "solutionHtml": "<div><span style=\"font-size: 14pt;\"><label style=\"display: inline-block; max-width: 100%; margin-bottom: 5px;\">Correct Option:&nbsp;</label>B</span></div>\n<p><span style=\"color: #444444; font-family: Roboto, sans-serif; font-size: 14pt; text-align: justify;\">P : Q : R = 3 : 5 : 9</span><br style=\"color: #444444; font-family: Roboto, sans-serif; font-size: 13px; text-align: justify;\" /><br style=\"color: #444444; font-family: Roboto, sans-serif; font-size: 13px;\" /><span style=\"color: #444444; font-family: Roboto, sans-serif; font-size: 14pt; text-align: justify;\">Hire charges paid by Q&nbsp;</span><br style=\"color: #444444; font-family: Roboto, sans-serif; font-size: 13px;\" /><br style=\"color: #444444; font-family: Roboto, sans-serif; font-size: 13px; text-align: justify;\" /></p>\n<table style=\"border-spacing: 0px; border-collapse: collapse; color: #444444; font-family: Roboto, sans-serif; font-size: 13px; text-align: justify;\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr>\n<td style=\"padding: 0px;\" rowspan=\"2\"><span style=\"font-size: 14pt;\">=&nbsp;Rs</span></td>\n<td style=\"padding: 0px;\" rowspan=\"2\"><span style=\"font-size: 14pt;\">[</span></td>\n<td style=\"padding: 0px;\" rowspan=\"2\"><span style=\"font-size: 14pt;\">680 &times;&nbsp;</span></td>\n<td class=\"divide\" style=\"padding: 0px; border-bottom: 1px solid #000000;\" align=\"center\"><span style=\"font-size: 14pt;\">5</span></td>\n<td style=\"padding: 0px;\" rowspan=\"2\"><span style=\"font-size: 14pt;\">]</span></td>\n<td style=\"padding: 0px;\" rowspan=\"2\"><span style=\"font-size: 14pt;\">&nbsp;&rArr; 40 &times; 5 = Rs 200.</span></td>\n</tr>\n<tr>\n<td style=\"padding: 0px;\"><span style=\"font-size: 14pt;\">17</span><br /><br /></td>\n</tr>\n</tbody>\n</table>",
+      "options": [
+        {
+          "order": null,
+          "text": "Rs 100",
+          "html": "<p><span style=\"font-size: 14pt;\">Rs 100</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "Rs 200",
+          "html": "<p><span style=\"font-size: 14pt;\">Rs 200</span></p>",
+          "isCorrect": true
+        },
+        {
+          "order": null,
+          "text": "Rs 300",
+          "html": "<p><span style=\"font-size: 14pt;\">Rs 300</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "None of these",
+          "html": "<div class=\"optionans\"><span style=\"font-size: 14pt;\">None of these</span></div>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 5,
+      "section": "Quantitative Aptitude",
+      "id": "60fea5fead273ca7059db66f",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "P & Q entered in to partenership P investing Rs 8000 and Rs 6000 respectively. After 3 months P withdrew Rs 2000 while Q invested Rs 2000 more. After 3 more months, R joins the busines with 11000.Find the difference between Q and R share if profit at the end of year is 35100.",
+      "questionHtml": "<p><strong><span style=\"color: #222222; font-family: Roboto, sans-serif; text-align: justify; font-size: 14pt;\">P &amp; Q entered in to partenership P investing Rs 8000 and Rs 6000 respectively. After 3 months P withdrew Rs 2000 while Q invested Rs 2000 more. After 3 more months, R joins the busines with 11000.Find the difference between Q and R share if profit at the end of year is 35100.</span></strong></p>",
+      "solutionText": "Correct Option: C P : Q : R = (8000 &times; 3 + 6000 &times; 9) : (6000 &times; 3 + 8000 &times; 9) : (11000 &times; 6) &rArr; (24000 + 54000) : (18000 + 72000) : (6600) &rArr; 78000 : 90000 : 66000 &rArr; 26 : 30 : 22 &rArr; 13 : 15 : 11 &there4; Difference of Q's & R's shares = Rs ( 35100 &times; 15 &ndash; 35100 &times; 11 ) 39 39 &rArr; Rs.(900 &times; 15 &ndash; 900 &times; 11) &rArr; 13500 &ndash; 9900 &rArr; Rs 3600.",
+      "solutionHtml": "<div><span style=\"font-size: 14pt;\"><label style=\"display: inline-block; max-width: 100%; margin-bottom: 5px;\">Correct Option: C</label></span></div>\n<p><span style=\"color: #444444; font-family: Roboto, sans-serif; font-size: 14pt;\">P : Q : R = (8000 &times; 3 + 6000 &times; 9) : (6000 &times; 3 + 8000 &times; 9) : (11000 &times; 6)</span></p>\n<p style=\"margin-bottom: 10px; color: #444444; font-family: Roboto, sans-serif; font-size: 13px; text-align: justify;\"><br /><span style=\"font-size: 14pt;\">&rArr; (24000 + 54000) : (18000 + 72000) : (6600)</span></p>\n<p style=\"margin-bottom: 10px; color: #444444; font-family: Roboto, sans-serif; font-size: 13px; text-align: justify;\"><span style=\"font-size: 14pt;\">&rArr; 78000 : 90000 : 66000</span></p>\n<p style=\"margin-bottom: 10px; color: #444444; font-family: Roboto, sans-serif; font-size: 13px; text-align: justify;\"><span style=\"font-size: 14pt;\">&rArr; 26 : 30 : 22</span></p>\n<p style=\"margin-bottom: 10px; color: #444444; font-family: Roboto, sans-serif; font-size: 13px; text-align: justify;\"><span style=\"font-size: 14pt;\">&rArr; 13 : 15 : 11</span><br /><br /><span style=\"font-size: 14pt;\"><span style=\"font-weight: bold;\">&there4;</span>&nbsp;&nbsp; Difference of Q's &amp; R's shares&nbsp;</span></p>\n<table style=\"border-spacing: 0px; border-collapse: collapse; color: #444444; font-family: Roboto, sans-serif; font-size: 13px;\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr>\n<td style=\"padding: 0px;\" rowspan=\"2\"><span style=\"font-size: 14pt;\">= Rs</span></td>\n<td style=\"padding: 0px;\" rowspan=\"2\"><span style=\"font-size: 14pt;\">(</span></td>\n<td style=\"padding: 0px;\" rowspan=\"2\"><span style=\"font-size: 14pt;\">35100 &times;&nbsp;</span></td>\n<td class=\"divide\" style=\"padding: 0px; border-bottom: 1px solid #000000;\"><span style=\"font-size: 14pt;\">15</span></td>\n<td style=\"padding: 0px;\" rowspan=\"2\"><span style=\"font-size: 14pt;\">&nbsp;&ndash; 35100 &times;&nbsp;</span></td>\n<td class=\"divide\" style=\"padding: 0px; border-bottom: 1px solid #000000;\"><span style=\"font-size: 14pt;\">11</span></td>\n<td style=\"padding: 0px;\" rowspan=\"2\"><span style=\"font-size: 14pt;\">)</span></td>\n</tr>\n<tr>\n<td style=\"padding: 0px;\"><span style=\"font-size: 14pt;\">39</span></td>\n<td style=\"padding: 0px;\"><span style=\"font-size: 14pt;\">39</span></td>\n</tr>\n</tbody>\n</table>\n<p><br style=\"color: #444444; font-family: Roboto, sans-serif; font-size: 13px;\" /><span style=\"color: #444444; font-family: Roboto, sans-serif; font-size: 14pt;\">&rArr; &nbsp;Rs.(900 &times; 15 &ndash; 900 &times; 11)&nbsp; &rArr; &nbsp;13500 &ndash; 9900 &nbsp; &rArr; &nbsp;Rs 3600.</span></p>",
+      "options": [
+        {
+          "order": null,
+          "text": "Rs 2300",
+          "html": "<p><span style=\"color: #444444; font-family: Roboto, sans-serif; font-size: 18.6667px;\">Rs 2300</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "Rs 2700",
+          "html": "<p><span style=\"color: #444444; font-family: Roboto, sans-serif; font-size: 18.6667px;\">Rs 2700</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "Rs 3600",
+          "html": "<p><span style=\"color: #444444; font-family: Roboto, sans-serif; font-size: 18.6667px;\">Rs 3600</span></p>",
+          "isCorrect": true
+        },
+        {
+          "order": null,
+          "text": "Rs 4000",
+          "html": "<p><span style=\"color: #444444; font-family: Roboto, sans-serif; font-size: 18.6667px;\">Rs 4000</span></p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 6,
+      "section": "Quantitative Aptitude",
+      "id": "60fea5fead273c7b0b9db674",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "Vibhor started a retail business by investing Rs 50,000. After six months Keisham joined him with a capital of Rs 80,000. After 3 years. They earned a profit of Rs 24,500. What was the Vibhor's share in the profit?",
+      "questionHtml": "<p><strong><span style=\"font-size: 14pt;\"><span style=\"color: #222222; font-family: Roboto, sans-serif; text-align: justify;\">Vibhor started a retail business by investing Rs 50,000. After six months Keisham joined him with a capital of&nbsp;</span><span style=\"color: #222222; font-family: Roboto, sans-serif; text-align: justify;\">Rs&nbsp;</span><span style=\"color: #222222; font-family: Roboto, sans-serif; text-align: justify;\">80,000. After 3 years. They earned a profit of&nbsp;</span><span style=\"color: #222222; font-family: Roboto, sans-serif; text-align: justify;\">Rs&nbsp;</span><span style=\"color: #222222; font-family: Roboto, sans-serif; text-align: justify;\">24,500. What was the Vibhor's share in the profit?</span></span></strong></p>",
+      "solutionText": "Correct Option: C Vibhor : Keisham = (50000 &times; 36) : (80000 &times; 30) &rArr; 3 : 4 &there4; Vibhor's share = Rs [ 24500 &times; 3 ] &rArr; Rs.10500. 7",
+      "solutionHtml": "<div><span style=\"font-size: 14pt;\"><label style=\"display: inline-block; max-width: 100%; margin-bottom: 5px;\">Correct Option:&nbsp;</label>C</span></div>\n<p><span style=\"color: #444444; font-family: Roboto, sans-serif; font-size: 14pt; text-align: justify;\">Vibhor : Keisham = (50000 &times; 36) : (80000 &times; 30) &nbsp;&rArr;&nbsp;3 : 4</span><br style=\"color: #444444; font-family: Roboto, sans-serif; font-size: 13px; text-align: justify;\" /><br style=\"color: #444444; font-family: Roboto, sans-serif; font-size: 13px; text-align: justify;\" /></p>\n<table style=\"border-spacing: 0px; border-collapse: collapse; color: #444444; font-family: Roboto, sans-serif; font-size: 13px; text-align: justify;\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr>\n<td style=\"padding: 0px;\" rowspan=\"2\"><span style=\"font-size: 14pt;\"><span style=\"font-weight: bold;\">&there4;</span>&nbsp;&nbsp; Vibhor's share = &nbsp;Rs</span></td>\n<td style=\"padding: 0px;\" rowspan=\"2\"><span style=\"font-size: 14pt;\">[</span></td>\n<td style=\"padding: 0px;\" rowspan=\"2\"><span style=\"font-size: 14pt;\">24500 &times;&nbsp;</span></td>\n<td class=\"divide\" style=\"padding: 0px; border-bottom: 1px solid #000000;\"><span style=\"font-size: 14pt;\">3</span></td>\n<td style=\"padding: 0px;\" rowspan=\"2\"><span style=\"font-size: 14pt;\">]</span></td>\n<td style=\"padding: 0px;\" rowspan=\"2\"><span style=\"font-size: 14pt;\">&nbsp;&rArr; Rs.10500.</span></td>\n</tr>\n<tr>\n<td style=\"padding: 0px;\"><span style=\"font-size: 14pt;\">7</span><br /><br /></td>\n</tr>\n</tbody>\n</table>",
+      "options": [
+        {
+          "order": null,
+          "text": "Rs 5500",
+          "html": "<div class=\"optionans\"><span style=\"font-size: 14pt;\">Rs 5500</span></div>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "Rs 8500",
+          "html": "<div class=\"optionans\"><span style=\"font-size: 14pt;\">Rs 8500</span></div>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "Rs 10500",
+          "html": "<div class=\"optionans\"><span style=\"font-size: 14pt;\">Rs 10500</span></div>",
+          "isCorrect": true
+        },
+        {
+          "order": null,
+          "text": "Rs 12650",
+          "html": "<div class=\"optionans\"><span style=\"font-size: 14pt;\">Rs 12650</span></div>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 7,
+      "section": "Quantitative Aptitude",
+      "id": "60fea5fead273c09f39db679",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "Alpana started a business investing Rs. 45,000. After 3 months Priyanka joined her with a capital of Rs. 60,000. After another 6 months Kalpana joined them with a capital of Rs. 90,000. At the end of the year, they made a profit of Rs. 16,500. Find the share of Kalpana.",
+      "questionHtml": "<p><strong><span style=\"color: #222222; font-family: Roboto, sans-serif; text-align: justify; font-size: 14pt;\">Alpana started a business investing Rs. 45,000. After 3 months Priyanka joined her with a capital of Rs. 60,000. After another 6 months Kalpana joined them with a capital of Rs. 90,000. At the end of the year, they made a profit of Rs. 16,500. Find the share of Kalpana.</span></strong></p>",
+      "solutionText": "Correct Option: B Cleraly, Alpana invested her capital for 12 months, Priyanka for 9 months and Kalpana for 3 months. So, ratio of their capitals = (45000 &times; 12) : (60000 &times; 9) : (90000 &times; 3) &rArr; 540000 : 540000 : 270000 &rArr; 2 : 2 : 1. &there4; Kalpana's share = Rs [ 16500 &times; 1 ] = Rs.3300. 5",
+      "solutionHtml": "<div><span style=\"font-size: 14pt;\"><label style=\"display: inline-block; max-width: 100%; margin-bottom: 5px;\">Correct Option:&nbsp;</label>B</span></div>\n<p><span style=\"color: #444444; font-family: Roboto, sans-serif; font-size: 14pt;\">Cleraly, Alpana invested her capital for 12 months, Priyanka for 9 months and Kalpana for 3 months.</span><br style=\"color: #444444; font-family: Roboto, sans-serif; font-size: 13px;\" /><br style=\"color: #444444; font-family: Roboto, sans-serif; font-size: 13px;\" /><span style=\"color: #444444; font-family: Roboto, sans-serif; font-size: 14pt;\">So, ratio of their capitals = (45000 &times; 12) : (60000 &times; 9) : (90000 &times; 3)</span><br style=\"color: #444444; font-family: Roboto, sans-serif; font-size: 13px;\" /><br style=\"color: #444444; font-family: Roboto, sans-serif; font-size: 13px;\" /><span style=\"color: #444444; font-family: Roboto, sans-serif; font-size: 14pt;\">&rArr; &nbsp;540000 : 540000 : 270000</span><br style=\"color: #444444; font-family: Roboto, sans-serif; font-size: 13px;\" /><br style=\"color: #444444; font-family: Roboto, sans-serif; font-size: 13px;\" /><span style=\"color: #444444; font-family: Roboto, sans-serif; font-size: 14pt;\">&rArr; &nbsp;2 : 2 : 1.</span><br style=\"color: #444444; font-family: Roboto, sans-serif; font-size: 13px;\" /><br style=\"color: #444444; font-family: Roboto, sans-serif; font-size: 13px;\" /></p>\n<table style=\"border-spacing: 0px; border-collapse: collapse; color: #444444; font-family: Roboto, sans-serif; font-size: 13px;\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr>\n<td style=\"padding: 0px;\" rowspan=\"2\"><span style=\"font-size: 14pt;\"><span style=\"font-weight: bold;\">&there4;&nbsp;</span>&nbsp;Kalpana's share = Rs</span></td>\n<td style=\"padding: 0px;\" rowspan=\"2\"><span style=\"font-size: 14pt;\">[</span></td>\n<td style=\"padding: 0px;\" rowspan=\"2\"><span style=\"font-size: 14pt;\">16500 &times;&nbsp;</span></td>\n<td class=\"divide\" style=\"padding: 0px; border-bottom: 1px solid #000000;\"><span style=\"font-size: 14pt;\">1</span></td>\n<td style=\"padding: 0px;\" rowspan=\"2\"><span style=\"font-size: 14pt;\">]</span></td>\n<td style=\"padding: 0px;\" rowspan=\"2\"><span style=\"font-size: 14pt;\">&nbsp;= Rs.3300.</span></td>\n</tr>\n<tr>\n<td style=\"padding: 0px;\"><span style=\"font-size: 14pt;\">5</span><br /><br /></td>\n</tr>\n</tbody>\n</table>",
+      "options": [
+        {
+          "order": null,
+          "text": "Rs. 2100",
+          "html": "<div class=\"optionans\"><span style=\"font-size: 14pt;\">Rs. 2100</span></div>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "Rs. 3300",
+          "html": "<p><span style=\"font-size: 18.6667px;\">Rs. 3300</span></p>",
+          "isCorrect": true
+        },
+        {
+          "order": null,
+          "text": "Rs. 3500",
+          "html": "<p><span style=\"font-size: 18.6667px;\">Rs. 3500</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "Rs. 3800",
+          "html": "<p><span style=\"font-size: 18.6667px;\">Rs. 3800</span></p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 8,
+      "section": "Quantitative Aptitude",
+      "id": "60fea5fead273c23e29db67e",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "P, Q and R started a online education website by investing Rs.1,20,000, Rs.1,35,000 and Rs.1,50,000 respectively. Find the share of Q's, out of an annual profit of Rs.56,700.",
+      "questionHtml": "<p><strong><span style=\"color: #222222; font-family: Roboto, sans-serif; text-align: justify; font-size: 14pt;\">P, Q and R started a online education website by investing Rs.1,20,000, Rs.1,35,000 and Rs.1,50,000 respectively. Find the share of Q's, out of an annual profit of Rs.56,700.</span></strong></p>",
+      "solutionText": "Correct Option: D Ratio of shares of P, Q and R = Ratio of their investments = 120000 : 135000 : 150000 &rArr; 8 : 9 : 10. &there4; Q's share = Rs. ( 56700 &times; 9 ) &rArr; Rs.18900. 27",
+      "solutionHtml": "<div><span style=\"font-size: 14pt;\"><label style=\"display: inline-block; max-width: 100%; margin-bottom: 5px;\">Correct Option: D</label></span></div>\n<p><span style=\"color: #444444; font-family: Roboto, sans-serif; font-size: 14pt; text-align: justify;\">Ratio of shares of P, Q and R = Ratio of their investments = 120000 : 135000 : 150000</span><br style=\"color: #444444; font-family: Roboto, sans-serif; font-size: 13px; text-align: justify;\" /><br style=\"color: #444444; font-family: Roboto, sans-serif; font-size: 13px; text-align: justify;\" /><span style=\"color: #444444; font-family: Roboto, sans-serif; font-size: 14pt; text-align: justify;\">&rArr; &nbsp;8 : 9 : 10.</span><br style=\"color: #444444; font-family: Roboto, sans-serif; font-size: 13px; text-align: justify;\" /><br style=\"color: #444444; font-family: Roboto, sans-serif; font-size: 13px; text-align: justify;\" /></p>\n<table style=\"border-spacing: 0px; border-collapse: collapse; color: #444444; font-family: Roboto, sans-serif; font-size: 13px; text-align: justify;\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr>\n<td style=\"padding: 0px;\" rowspan=\"2\"><span style=\"font-size: 14pt;\"><span style=\"font-weight: bold;\">&there4;&nbsp;</span>&nbsp;Q's share = Rs.</span></td>\n<td style=\"padding: 0px;\" rowspan=\"2\"><span style=\"font-size: 14pt;\">(</span></td>\n<td style=\"padding: 0px;\" rowspan=\"2\"><span style=\"font-size: 14pt;\">56700 &times;&nbsp;</span></td>\n<td class=\"divide\" style=\"padding: 0px; border-bottom: 1px solid #000000;\" align=\"center\"><span style=\"font-size: 14pt;\">9</span></td>\n<td style=\"padding: 0px;\" rowspan=\"2\"><span style=\"font-size: 14pt;\">)</span></td>\n<td style=\"padding: 0px;\" rowspan=\"2\"><span style=\"font-size: 14pt;\">&nbsp;&rArr; Rs.18900.</span></td>\n</tr>\n<tr>\n<td style=\"padding: 0px;\"><span style=\"font-size: 14pt;\">27</span><br /><br /></td>\n</tr>\n</tbody>\n</table>",
+      "options": [
+        {
+          "order": null,
+          "text": "Rs 12600",
+          "html": "<p><span style=\"font-size: 14pt;\">Rs 12600</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "Rs 15300",
+          "html": "<p><span style=\"font-size: 18.6667px;\">Rs 15300</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "Rs 17900",
+          "html": "<p><span style=\"font-size: 18.6667px;\">Rs 17900</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "Rs 18900",
+          "html": "<div class=\"optionans\"><span style=\"font-size: 14pt;\">Rs 18900</span></div>",
+          "isCorrect": true
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 9,
+      "section": "Quantitative Aptitude",
+      "id": "60fea5fead273cbd9d9db683",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "P, Q and R start a business each investing Rs. 20,000 , after 6 months P withdrew Rs.5000, Q withdrew Rs.4000 and R invests Rs.6000 more. At the end of the year, a total profit of Rs.39,780 was recorded. Find the share of P.",
+      "questionHtml": "<p><strong><span style=\"font-size: 14pt;\"><span style=\"color: #222222; font-family: Roboto, sans-serif; text-align: justify;\">P, Q and R start a business each investing Rs. 20,000 , after 6 months P withdrew&nbsp;</span><span style=\"color: #222222; font-family: Roboto, sans-serif; text-align: justify;\">Rs.</span><span style=\"color: #222222; font-family: Roboto, sans-serif; text-align: justify;\">5000, Q withdrew&nbsp;</span><span style=\"color: #222222; font-family: Roboto, sans-serif; text-align: justify;\">Rs.</span><span style=\"color: #222222; font-family: Roboto, sans-serif; text-align: justify;\">4000 and R invests&nbsp;</span><span style=\"color: #222222; font-family: Roboto, sans-serif; text-align: justify;\">Rs.</span><span style=\"color: #222222; font-family: Roboto, sans-serif; text-align: justify;\">6000 more. At the end of the year, a total profit of&nbsp;</span><span style=\"color: #222222; font-family: Roboto, sans-serif; text-align: justify;\">Rs.</span><span style=\"color: #222222; font-family: Roboto, sans-serif; text-align: justify;\">39,780 was recorded. Find the share of P.</span></span></strong></p>",
+      "solutionText": "Correct Option: A Ratio of the capitals of P, Q and R = 20000 &times; 6 + 15000 &times; 6 : 20000 &times; 6 + 16000 &times; 6 : 20000 &times; 6 + 26000 &times; 6 &rArr; 210000 : 216000 : 276000 = 35 : 36 : 46 &there4; P's share = Rs. ( 39780 &times; 35 ) &rArr; Rs. 11900 117",
+      "solutionHtml": "<div><span style=\"font-size: 14pt;\"><label style=\"display: inline-block; max-width: 100%; margin-bottom: 5px;\">Correct Option: A</label></span></div>\n<p><span style=\"color: #444444; font-family: Roboto, sans-serif; font-size: 14pt;\">Ratio of the capitals of P, Q and R = 20000 &times; 6 + 15000 &times; 6 : 20000 &times; 6 + 16000 &times; 6 : 20000 &times; 6 + 26000 &times; 6</span></p>\n<div><br /><span style=\"font-size: 14pt;\">&rArr; &nbsp;210000 : 216000 : 276000 = 35 : 36 : 46</span><br /><span style=\"font-size: 14pt;\">&nbsp;</span></div>\n<table style=\"border-spacing: 0px; border-collapse: collapse; color: #444444; font-family: Roboto, sans-serif; font-size: 13px;\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr>\n<td style=\"padding: 0px;\" rowspan=\"2\"><span style=\"font-size: 14pt;\"><span style=\"font-weight: bold;\">&there4;</span>&nbsp; &nbsp;P's share = Rs.</span></td>\n<td style=\"padding: 0px;\" rowspan=\"2\"><span style=\"font-size: 14pt;\">(</span></td>\n<td style=\"padding: 0px;\" rowspan=\"2\"><span style=\"font-size: 14pt;\">39780 &times;&nbsp;</span></td>\n<td class=\"divide\" style=\"padding: 0px; border-bottom: 1px solid #000000;\"><span style=\"font-size: 14pt;\">&nbsp;35</span></td>\n<td style=\"padding: 0px;\" rowspan=\"2\"><span style=\"font-size: 14pt;\">)</span></td>\n<td style=\"padding: 0px;\" rowspan=\"2\"><span style=\"font-size: 14pt;\">&nbsp;&rArr;&nbsp;Rs. 11900</span></td>\n</tr>\n<tr>\n<td style=\"padding: 0px;\"><span style=\"font-size: 14pt;\">117</span></td>\n</tr>\n</tbody>\n</table>\n<p>&nbsp;</p>",
+      "options": [
+        {
+          "order": null,
+          "text": "Rs 11900",
+          "html": "<p><span style=\"font-size: 14pt;\">Rs 11900</span></p>",
+          "isCorrect": true
+        },
+        {
+          "order": null,
+          "text": "Rs 20500",
+          "html": "<p><span style=\"font-size: 18.6667px;\">Rs 20500</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "Rs 23500",
+          "html": "<p><span style=\"font-size: 18.6667px;\">Rs 23500</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "None of these",
+          "html": "<p><span style=\"font-size: 14pt;\">None of these</span></p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 10,
+      "section": "Quantitative Aptitude",
+      "id": "60fea5fead273c0bb49db692",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "Amit and Aarnav invest Rs. 30,000 and Rs. 20,000 respectively for a business at the start of a year. In each of the next six months after the first month Amit keeps on adding Rs. 1000 while Aarnav keeps on removing Rs. 1000. In the remaining months Amit keeps on removing Rs. 1000 while Aarnav keeps on adding Rs. 1000 every month. Akhil joined them with Rs. 55,000 three months after the start and continued till the end of the year. What will be the difference in the shares of Akhil and Amit after a year if the total profit at the end of the year is Rs. 219000?",
+      "questionHtml": "<p><strong><span style=\"color: #222222; font-family: Roboto, sans-serif; text-align: justify; font-size: 14pt;\">Amit and Aarnav invest Rs. 30,000 and Rs. 20,000 respectively for a business at the start of a year. In each of the next six months after the first month Amit keeps on adding Rs. 1000 while Aarnav keeps on removing Rs. 1000. In the remaining months Amit keeps on removing Rs. 1000 while Aarnav keeps on adding Rs. 1000 every month. Akhil joined them with Rs. 55,000 three months after the start and continued till the end of the year. What will be the difference in the shares of Akhil and Amit after a year if the total profit at the end of the year is Rs. 219000?</span></strong></p>",
+      "solutionText": "Correct Option: B Amit&rsquo;s investment: 1000 [30 + (31 + 32 + 33 + 34 + 35 + 36) + (35 + 34 + 33 + 32 + 31)] = 1000 [30 + 36 + 2 (31 + 32 + 33 + 34 + 35)] = 1000 [66 + 2 (165)] = 1000 [396] = Rs. 396000 Aarnav&rsquo;s investment: 1000 [20 + (19 + 18 + 17 + 16 + 15 + 14) + (15 + 16 + 17 + 18 + 19)] = 1000 [20 + 14 + 2(15 + 16 + 17 + 18 + 19)] = 1000 [34 + 2 (85)] = 1000 [204] = Rs. 204000 Akhil&rsquo;s investment : 55000 &times; 9 = Rs. 495000 Ratio of Profits: 396000 : 204000 : 495000 = 396 : 204 : 495 Difference in the shares of Akhil and Amit = (495 &ndash; 396) &times; 219000 = 99 &times; 219000 = Rs. 19800 396 + 204 + 495 1095",
+      "solutionHtml": "<div><span style=\"font-size: 14pt;\"><label style=\"display: inline-block; max-width: 100%; margin-bottom: 5px;\">Correct Option:&nbsp;</label>B</span></div>\n<p><span style=\"color: #444444; font-family: Roboto, sans-serif; font-size: 14pt;\">Amit&rsquo;s investment: 1000 [30 + (31 + 32 + 33 + 34 + 35 + 36) + (35 + 34 + 33 + 32 + 31)]</span><br style=\"color: #444444; font-family: Roboto, sans-serif; font-size: 13px;\" /><br style=\"color: #444444; font-family: Roboto, sans-serif; font-size: 13px;\" /><span style=\"color: #444444; font-family: Roboto, sans-serif; font-size: 14pt;\">= 1000 [30 + 36 + 2 (31 + 32 + 33 + 34 + 35)]</span><br style=\"color: #444444; font-family: Roboto, sans-serif; font-size: 13px;\" /><br style=\"color: #444444; font-family: Roboto, sans-serif; font-size: 13px;\" /><span style=\"color: #444444; font-family: Roboto, sans-serif; font-size: 14pt;\">= 1000 [66 + 2 (165)]</span><br style=\"color: #444444; font-family: Roboto, sans-serif; font-size: 13px;\" /><br style=\"color: #444444; font-family: Roboto, sans-serif; font-size: 13px;\" /><span style=\"color: #444444; font-family: Roboto, sans-serif; font-size: 14pt;\">= 1000 [396] = Rs. 396000</span><br style=\"color: #444444; font-family: Roboto, sans-serif; font-size: 13px;\" /><br style=\"color: #444444; font-family: Roboto, sans-serif; font-size: 13px;\" /><span style=\"color: #444444; font-family: Roboto, sans-serif; font-size: 14pt;\">Aarnav&rsquo;s investment: 1000 [20 + (19 + 18 + 17 + 16 + 15 + 14) + (15 + 16 + 17 + 18 + 19)]</span><br style=\"color: #444444; font-family: Roboto, sans-serif; font-size: 13px;\" /><br style=\"color: #444444; font-family: Roboto, sans-serif; font-size: 13px;\" /><span style=\"color: #444444; font-family: Roboto, sans-serif; font-size: 14pt;\">= 1000 [20 + 14 + 2(15 + 16 + 17 + 18 + 19)]</span><br style=\"color: #444444; font-family: Roboto, sans-serif; font-size: 13px;\" /><br style=\"color: #444444; font-family: Roboto, sans-serif; font-size: 13px;\" /><span style=\"color: #444444; font-family: Roboto, sans-serif; font-size: 14pt;\">= 1000 [34 + 2 (85)]</span><br style=\"color: #444444; font-family: Roboto, sans-serif; font-size: 13px;\" /><br style=\"color: #444444; font-family: Roboto, sans-serif; font-size: 13px;\" /><span style=\"color: #444444; font-family: Roboto, sans-serif; font-size: 14pt;\">= 1000 [204] = Rs. 204000</span><br style=\"color: #444444; font-family: Roboto, sans-serif; font-size: 13px;\" /><br style=\"color: #444444; font-family: Roboto, sans-serif; font-size: 13px;\" /><span style=\"color: #444444; font-family: Roboto, sans-serif; font-size: 14pt;\">Akhil&rsquo;s investment : 55000 &times; 9 = Rs. 495000</span><br style=\"color: #444444; font-family: Roboto, sans-serif; font-size: 13px;\" /><br style=\"color: #444444; font-family: Roboto, sans-serif; font-size: 13px;\" /><span style=\"color: #444444; font-family: Roboto, sans-serif; font-size: 14pt;\">Ratio of Profits: 396000 : 204000 : 495000 = 396 : 204 : 495</span><br style=\"color: #444444; font-family: Roboto, sans-serif; font-size: 13px;\" /><br style=\"color: #444444; font-family: Roboto, sans-serif; font-size: 13px;\" /><span style=\"color: #444444; font-family: Roboto, sans-serif; font-size: 14pt;\">Difference in the shares of Akhil and Amit</span><br style=\"color: #444444; font-family: Roboto, sans-serif; font-size: 13px;\" /><br style=\"color: #444444; font-family: Roboto, sans-serif; font-size: 13px;\" /></p>\n<table style=\"border-spacing: 0px; border-collapse: collapse; color: #444444; font-family: Roboto, sans-serif; font-size: 13px;\" border=\"0\" width=\"0\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr>\n<td style=\"padding: 0px;\" rowspan=\"2\"><span style=\"font-size: 14pt;\">=&nbsp;</span></td>\n<td class=\"divide\" style=\"padding: 0px; border-bottom: 1px solid #000000;\"><span style=\"font-size: 14pt;\">(495 &ndash; 396) &times; 219000</span></td>\n<td style=\"padding: 0px;\" rowspan=\"2\"><span style=\"font-size: 14pt;\">&nbsp;=&nbsp;</span></td>\n<td class=\"divide\" style=\"padding: 0px; border-bottom: 1px solid #000000;\"><span style=\"font-size: 14pt;\">99 &times; 219000</span></td>\n<td style=\"padding: 0px;\" rowspan=\"2\"><span style=\"font-size: 14pt;\">&nbsp;= Rs. 19800</span></td>\n</tr>\n<tr>\n<td style=\"padding: 0px;\" align=\"center\"><span style=\"font-size: 14pt;\">396 + 204 + 495</span></td>\n<td style=\"padding: 0px;\" align=\"center\"><span style=\"font-size: 14pt;\">1095</span><br /><br /></td>\n</tr>\n</tbody>\n</table>",
+      "options": [
+        {
+          "order": null,
+          "text": "Rs 18800",
+          "html": "<p><span style=\"font-size: 14pt;\">Rs 18800</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "Rs 19800",
+          "html": "<p><span style=\"font-size: 18.6667px;\">Rs 19800</span></p>",
+          "isCorrect": true
+        },
+        {
+          "order": null,
+          "text": "Rs 19100",
+          "html": "<p><span style=\"font-size: 18.6667px;\">Rs 19100</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "Rs 16800",
+          "html": "<p><span style=\"font-size: 18.6667px;\">Rs 16800</span></p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 11,
+      "section": "Quantitative Aptitude",
+      "id": "60fea5fead273c05739db697",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "Two friends A and B invest in a business in partnership. B borrows 20% of A’s salary, combines it with 60% of his salary and invests with A, who puts all of his remaining salary. One year later the ratio of profit of A and B is 5 : 3 respectively and B returns Rs. 21000 to A which he borrowed from him. What is the difference between salary of A and B?",
+      "questionHtml": "<p><strong><span style=\"color: #222222; font-family: Roboto, sans-serif; text-align: justify; font-size: 14pt;\">Two friends A and B invest in a business in partnership. B borrows 20% of A&rsquo;s salary, combines it with 60% of his salary and invests with A, who puts all of his remaining salary. One year later the ratio of profit of A and B is 5 : 3 respectively and B returns Rs. 21000 to A which he borrowed from him. What is the difference between salary of A and B?</span></strong></p>",
+      "solutionText": "Correct Option: B Let salary of A = Rs. 10a and salary of B = Rs. 10b Investment by B = Rs. (2a + 6b), investment by A = Rs. 8a Ratio of investment = ratio of profit 8a = 5 2a + 6b 3 a = 15 b 7 B returns 21000 to A, so 2a = 21000 Investment of A = 8a = 84000 Salary of A = 10a = Rs.105000 Investment of B = 84000 &times; 3 = Rs. 50400 &rarr; 2a + 6b 5 => 6b = 50400 &ndash; 21000 = 29400 Salary of B = 10b = 29400 &times; 10 = Rs.49000 6 Difference = Rs. (105000 &ndash; 49000) = Rs.56000",
+      "solutionHtml": "<div><span style=\"font-size: 14pt;\"><label style=\"display: inline-block; max-width: 100%; margin-bottom: 5px;\">Correct Option:&nbsp;</label>B</span></div>\n<p><span style=\"color: #444444; font-family: Roboto, sans-serif; font-size: 14pt;\">Let salary of A = Rs. 10a and salary of B = Rs. 10b</span><br style=\"color: #444444; font-family: Roboto, sans-serif; font-size: 13px;\" /><br style=\"color: #444444; font-family: Roboto, sans-serif; font-size: 13px;\" /><span style=\"color: #444444; font-family: Roboto, sans-serif; font-size: 14pt;\">Investment by B = Rs. (2a + 6b), investment by A = Rs. 8a</span><br style=\"color: #444444; font-family: Roboto, sans-serif; font-size: 13px;\" /><br style=\"color: #444444; font-family: Roboto, sans-serif; font-size: 13px;\" /><span style=\"color: #444444; font-family: Roboto, sans-serif; font-size: 14pt;\">Ratio of investment = ratio of profit</span><br style=\"color: #444444; font-family: Roboto, sans-serif; font-size: 13px;\" /><br style=\"color: #444444; font-family: Roboto, sans-serif; font-size: 13px;\" /></p>\n<table style=\"border-spacing: 0px; border-collapse: collapse; color: #444444; font-family: Roboto, sans-serif; font-size: 13px;\" border=\"0\" width=\"0\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr>\n<td class=\"divide\" style=\"padding: 0px; border-bottom: 1px solid #000000;\" align=\"center\"><span style=\"font-size: 14pt;\">8a</span></td>\n<td style=\"padding: 0px;\" rowspan=\"2\"><span style=\"font-size: 14pt;\">&nbsp;=&nbsp;</span></td>\n<td class=\"divide\" style=\"padding: 0px; border-bottom: 1px solid #000000;\"><span style=\"font-size: 14pt;\">5</span></td>\n</tr>\n<tr>\n<td style=\"padding: 0px;\"><span style=\"font-size: 14pt;\">2a + 6b</span></td>\n<td style=\"padding: 0px;\"><span style=\"font-size: 14pt;\">3</span></td>\n</tr>\n</tbody>\n</table>\n<p>&nbsp;</p>\n<table style=\"border-spacing: 0px; border-collapse: collapse; color: #444444; font-family: Roboto, sans-serif; font-size: 13px;\" border=\"0\" width=\"0\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr>\n<td class=\"divide\" style=\"padding: 0px; border-bottom: 1px solid #000000;\"><span style=\"font-size: 14pt;\">a</span></td>\n<td style=\"padding: 0px;\" rowspan=\"2\"><span style=\"font-size: 14pt;\">&nbsp;=&nbsp;</span></td>\n<td class=\"divide\" style=\"padding: 0px; border-bottom: 1px solid #000000;\"><span style=\"font-size: 14pt;\">15</span></td>\n</tr>\n<tr>\n<td style=\"padding: 0px;\"><span style=\"font-size: 14pt;\">b</span></td>\n<td style=\"padding: 0px;\" align=\"center\"><span style=\"font-size: 14pt;\">7</span></td>\n</tr>\n</tbody>\n</table>\n<p><br style=\"color: #444444; font-family: Roboto, sans-serif; font-size: 13px;\" /><span style=\"color: #444444; font-family: Roboto, sans-serif; font-size: 14pt;\">B returns 21000 to A, so 2a = 21000</span><br style=\"color: #444444; font-family: Roboto, sans-serif; font-size: 13px;\" /><br style=\"color: #444444; font-family: Roboto, sans-serif; font-size: 13px;\" /><span style=\"color: #444444; font-family: Roboto, sans-serif; font-size: 14pt;\">Investment of A = 8a = 84000</span><br style=\"color: #444444; font-family: Roboto, sans-serif; font-size: 13px;\" /><br style=\"color: #444444; font-family: Roboto, sans-serif; font-size: 13px;\" /><span style=\"color: #444444; font-family: Roboto, sans-serif; font-size: 14pt;\">Salary of A = 10a = Rs.105000</span><br style=\"color: #444444; font-family: Roboto, sans-serif; font-size: 13px;\" /><br style=\"color: #444444; font-family: Roboto, sans-serif; font-size: 13px;\" /></p>\n<table style=\"border-spacing: 0px; border-collapse: collapse; color: #444444; font-family: Roboto, sans-serif; font-size: 13px;\" border=\"0\" width=\"0\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr>\n<td style=\"padding: 0px;\" rowspan=\"2\"><span style=\"font-size: 14pt;\">Investment of B =&nbsp;</span></td>\n<td class=\"divide\" style=\"padding: 0px; border-bottom: 1px solid #000000;\"><span style=\"font-size: 14pt;\">84000 &times; 3</span></td>\n<td style=\"padding: 0px;\" rowspan=\"2\"><span style=\"font-size: 14pt;\">&nbsp;= Rs. 50400 &rarr; 2a + 6b</span></td>\n</tr>\n<tr>\n<td style=\"padding: 0px;\" align=\"center\"><span style=\"font-size: 14pt;\">5</span></td>\n</tr>\n</tbody>\n</table>\n<p><br style=\"color: #444444; font-family: Roboto, sans-serif; font-size: 13px;\" /><span style=\"color: #444444; font-family: Roboto, sans-serif; font-size: 14pt;\">=&gt; 6b = 50400 &ndash; 21000 = 29400</span><br style=\"color: #444444; font-family: Roboto, sans-serif; font-size: 13px;\" /><br style=\"color: #444444; font-family: Roboto, sans-serif; font-size: 13px;\" /></p>\n<table style=\"border-spacing: 0px; border-collapse: collapse; color: #444444; font-family: Roboto, sans-serif; font-size: 13px;\" border=\"0\" width=\"0\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr>\n<td style=\"padding: 0px;\" rowspan=\"2\"><span style=\"font-size: 14pt;\">Salary of B = 10b =&nbsp;</span></td>\n<td class=\"divide\" style=\"padding: 0px; border-bottom: 1px solid #000000;\"><span style=\"font-size: 14pt;\">29400 &times; 10</span></td>\n<td style=\"padding: 0px;\" rowspan=\"2\"><span style=\"font-size: 14pt;\">&nbsp;= Rs.49000</span></td>\n</tr>\n<tr>\n<td style=\"padding: 0px;\" align=\"center\"><span style=\"font-size: 14pt;\">6</span></td>\n</tr>\n</tbody>\n</table>\n<p><br style=\"color: #444444; font-family: Roboto, sans-serif; font-size: 13px;\" /><span style=\"color: #444444; font-family: Roboto, sans-serif; font-size: 14pt;\">Difference = Rs. (105000 &ndash; 49000) = Rs.56000</span></p>",
+      "options": [
+        {
+          "order": null,
+          "text": "Rs 33000",
+          "html": "<p><span style=\"color: #444444; font-family: Roboto, sans-serif; font-size: 18.6667px;\">Rs 33000</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "Rs 56000",
+          "html": "<p><span style=\"color: #444444; font-family: Roboto, sans-serif; font-size: 18.6667px;\">Rs 56000</span></p>",
+          "isCorrect": true
+        },
+        {
+          "order": null,
+          "text": "Rs 60000",
+          "html": "<p><span style=\"color: #444444; font-family: Roboto, sans-serif; font-size: 18.6667px;\">Rs 60000</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "Rs 65000",
+          "html": "<p><span style=\"color: #444444; font-family: Roboto, sans-serif; font-size: 18.6667px;\">Rs 65000</span></p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 12,
+      "section": "Quantitative Aptitude",
+      "id": "60fea5fead273c006f9db69c",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "Sudhir and Tushar invested Rs. x and Rs. 3x respectively in a business. The time periods of Sudhir and Tushar is in the ratio 2:3. If the profit share of Tushar is Rs. 270000, then find the total profit if they continue the business for 3 more years?",
+      "questionHtml": "<p><strong><span style=\"color: #222222; font-family: Roboto, sans-serif; text-align: justify; font-size: 14pt;\">Sudhir and Tushar invested Rs. x and Rs. 3x respectively in a business. The time periods of Sudhir and Tushar is in the ratio 2:3. If the profit share of Tushar is Rs. 270000, then find the total profit if they continue the business for 3 more years?</span></strong></p>",
+      "solutionText": "Correct Option: C Sudhir Tushar Capital x 3x Time period 2 3 Profit share 2x 9x Profit share of Tushar = Rs. 270000 Given that, 9x = 270000 x = Rs. 30000 total profit = 2x + 9x = 11x total profit = 330000 Total profit for 1 year = 330000 Time period = 1 + 3 = 4 years Total period for 4 years = Rs. 1320000",
+      "solutionHtml": "<div><span style=\"font-size: 14pt;\"><label style=\"display: inline-block; max-width: 100%; margin-bottom: 5px;\">Correct Option:&nbsp;</label>C</span></div>\n<div><span style=\"font-size: 14pt;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Sudhir&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Tushar</span></div>\n<div><span style=\"font-size: 14pt;\">Capital&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; x&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;3x&nbsp; &nbsp; &nbsp;</span><br /><span style=\"font-size: 14pt;\">&nbsp;</span></div>\n<div><span style=\"font-size: 14pt;\">Time period&nbsp; &nbsp; &nbsp; 2&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 3&nbsp;</span><br /><span style=\"font-size: 14pt;\">&nbsp;</span></div>\n<div><span style=\"font-size: 14pt;\">Profit share&nbsp; &nbsp; &nbsp;2x&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 9x</span><br /><span style=\"font-size: 14pt;\">&nbsp;</span></div>\n<div><span style=\"font-size: 14pt;\">Profit share of Tushar = Rs. 270000&nbsp;</span><br /><span style=\"font-size: 14pt;\">&nbsp;</span></div>\n<div><span style=\"font-size: 14pt;\">Given that, 9x = 270000</span><br /><span style=\"font-size: 14pt;\">&nbsp;</span></div>\n<div><span style=\"font-size: 14pt;\">x = Rs. 30000</span><br /><span style=\"font-size: 14pt;\">&nbsp;</span></div>\n<div><span style=\"font-size: 14pt;\">total profit = 2x + 9x = 11x</span><br /><span style=\"font-size: 14pt;\">&nbsp;</span></div>\n<div><span style=\"font-size: 14pt;\">total profit = 330000</span><br /><span style=\"font-size: 14pt;\">&nbsp;</span></div>\n<div><span style=\"font-size: 14pt;\">Total profit for 1 year = 330000</span><br /><span style=\"font-size: 14pt;\">&nbsp;</span></div>\n<div><span style=\"font-size: 14pt;\">Time period = 1 + 3 = 4 years</span><br /><span style=\"font-size: 14pt;\">&nbsp;</span></div>\n<div><span style=\"font-size: 14pt;\">Total period for 4 years = Rs. 1320000</span></div>",
+      "options": [
+        {
+          "order": null,
+          "text": "Rs. 330000",
+          "html": "<div class=\"optionans\"><span style=\"font-size: 14pt;\">Rs. 330000</span></div>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "Rs. 660000",
+          "html": "<div class=\"optionans\"><span style=\"font-size: 14pt;\">Rs. 660000</span></div>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "Rs. 1320000",
+          "html": "<div class=\"optionans\"><span style=\"font-size: 14pt;\">Rs. 1320000</span></div>",
+          "isCorrect": true
+        },
+        {
+          "order": null,
+          "text": "Rs 1640000",
+          "html": "<p><span style=\"font-size: 14pt;\">Rs 1640000</span></p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 13,
+      "section": "Quantitative Aptitude",
+      "id": "60fea5fead273c76229db6a1",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "A, B and C has Rs 40000, Rs 60000 and Rs 42000 with them. B invests half of his money in partnership with A and the remaining amount in partnership with C. 6 months later B withdraws half the amount invested with A and puts that in the partnership with C. Two years later the profit received by A and C are Rs 6400 and Rs 6720, what is the total profit received by B?",
+      "questionHtml": "<p><strong><span style=\"color: #222222; font-family: Roboto, sans-serif; text-align: justify; font-size: 14pt;\">A, B and C has Rs 40000, Rs 60000 and Rs 42000 with them. B invests half of his money in partnership with A and the remaining amount in partnership with C. 6 months later B withdraws half the amount invested with A and puts that in the partnership with C. Two years later the profit received by A and C are Rs 6400 and Rs 6720, what is the total profit received by B?</span></strong></p>",
+      "solutionText": "Correct Option: B A- 40000, B - 60000 and C- 42000 B invests 30000 with A and 6 months later withdraws half amount i.e. 15000 Investment ratio of A and B = 40000 &times; 24 : 30000 &times; 6 + 15000 &times; 18 = 32 : 15 Profit received by A = 6400. So, profit received by B = 15 &times; 6400 = 3000 32 B invests 30000 with C and 6 months later invests 15000 more Investment ratio of B and C = 30000 &times; 6 + 45000 &times; 18 : 42000 &times; 24 = 55 : 56 Profit received by C = 6720. So, profit received by B = 55 &times; 6720 = 6600 56 Total profit received by B = 3000 + 6600 = 9600",
+      "solutionHtml": "<div><span style=\"font-size: 14pt;\"><label style=\"display: inline-block; max-width: 100%; margin-bottom: 5px;\">Correct Option:&nbsp;</label>B</span></div>\n<p><span style=\"color: #444444; font-family: Roboto, sans-serif; font-size: 14pt;\">A- 40000, B - 60000 and C- 42000</span><br style=\"color: #444444; font-family: Roboto, sans-serif; font-size: 13px;\" /><br style=\"color: #444444; font-family: Roboto, sans-serif; font-size: 13px;\" /><span style=\"color: #444444; font-family: Roboto, sans-serif; font-size: 14pt;\">B invests 30000 with A and 6 months later withdraws half amount i.e. 15000</span><br style=\"color: #444444; font-family: Roboto, sans-serif; font-size: 13px;\" /><br style=\"color: #444444; font-family: Roboto, sans-serif; font-size: 13px;\" /><span style=\"color: #444444; font-family: Roboto, sans-serif; font-size: 14pt;\">Investment ratio of A and B = 40000 &times; 24 : 30000 &times; 6 + 15000 &times; 18 = 32 : 15</span><br style=\"color: #444444; font-family: Roboto, sans-serif; font-size: 13px;\" /><br style=\"color: #444444; font-family: Roboto, sans-serif; font-size: 13px;\" /><span style=\"color: #444444; font-family: Roboto, sans-serif; font-size: 14pt;\">Profit received by A = 6400. So, profit received by B</span><br style=\"color: #444444; font-family: Roboto, sans-serif; font-size: 13px;\" /><br style=\"color: #444444; font-family: Roboto, sans-serif; font-size: 13px;\" /></p>\n<table style=\"border-spacing: 0px; border-collapse: collapse; color: #444444; font-family: Roboto, sans-serif; font-size: 13px;\" border=\"0\" width=\"0\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr>\n<td style=\"padding: 0px;\" rowspan=\"2\"><span style=\"font-size: 14pt;\">=&nbsp;</span></td>\n<td class=\"divide\" style=\"padding: 0px; border-bottom: 1px solid #000000;\"><span style=\"font-size: 14pt;\">15</span></td>\n<td style=\"padding: 0px;\" rowspan=\"2\"><span style=\"font-size: 14pt;\">&nbsp;&times; 6400 = 3000</span></td>\n</tr>\n<tr>\n<td style=\"padding: 0px;\"><span style=\"font-size: 14pt;\">32</span></td>\n</tr>\n</tbody>\n</table>\n<p><br style=\"color: #444444; font-family: Roboto, sans-serif; font-size: 13px;\" /><span style=\"color: #444444; font-family: Roboto, sans-serif; font-size: 14pt;\">B invests 30000 with C and 6 months later invests 15000 more</span><br style=\"color: #444444; font-family: Roboto, sans-serif; font-size: 13px;\" /><br style=\"color: #444444; font-family: Roboto, sans-serif; font-size: 13px;\" /><span style=\"color: #444444; font-family: Roboto, sans-serif; font-size: 14pt;\">Investment ratio of B and C = 30000 &times; 6 + 45000 &times; 18 : 42000 &times; 24 = 55 : 56</span><br style=\"color: #444444; font-family: Roboto, sans-serif; font-size: 13px;\" /><br style=\"color: #444444; font-family: Roboto, sans-serif; font-size: 13px;\" /><span style=\"color: #444444; font-family: Roboto, sans-serif; font-size: 14pt;\">Profit received by C = 6720. So, profit received by B</span><br style=\"color: #444444; font-family: Roboto, sans-serif; font-size: 13px;\" /><br style=\"color: #444444; font-family: Roboto, sans-serif; font-size: 13px;\" /></p>\n<table style=\"border-spacing: 0px; border-collapse: collapse; color: #444444; font-family: Roboto, sans-serif; font-size: 13px;\" border=\"0\" width=\"0\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr>\n<td style=\"padding: 0px;\" rowspan=\"2\"><span style=\"font-size: 14pt;\">=&nbsp;</span></td>\n<td class=\"divide\" style=\"padding: 0px; border-bottom: 1px solid #000000;\"><span style=\"font-size: 14pt;\">55</span></td>\n<td style=\"padding: 0px;\" rowspan=\"2\"><span style=\"font-size: 14pt;\">&nbsp;&times; 6720 = 6600</span></td>\n</tr>\n<tr>\n<td style=\"padding: 0px;\"><span style=\"font-size: 14pt;\">56</span></td>\n</tr>\n</tbody>\n</table>\n<p><br style=\"color: #444444; font-family: Roboto, sans-serif; font-size: 13px;\" /><span style=\"color: #444444; font-family: Roboto, sans-serif; font-size: 14pt;\">Total profit received by B = 3000 + 6600 = 9600</span></p>",
+      "options": [
+        {
+          "order": null,
+          "text": "Rs 8800",
+          "html": "<p><span style=\"font-size: 14pt;\">Rs 8800</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "Rs 9600",
+          "html": "<p><span style=\"font-size: 18.6667px;\">Rs 9600</span></p>",
+          "isCorrect": true
+        },
+        {
+          "order": null,
+          "text": "Rs 8500",
+          "html": "<p><span style=\"font-size: 18.6667px;\">Rs 8500</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "None of these",
+          "html": "<p><span style=\"font-size: 18.6667px;\">None of these</span></p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 14,
+      "section": "Quantitative Aptitude",
+      "id": "60feb11db7f735abdbb39fbb",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "R, Q and P start a business together with initial investment of Rs. 20000, Rs. 30000 and Rs. 25000 respectively. After 8 months, R and Q take out Rs. 10000 each from the investment. Total profit earned at the end of the year is Rs. 16400. Find out P’s share of profit.",
+      "questionHtml": "<p><strong><span style=\"color: #222222; font-family: Roboto, sans-serif; text-align: justify; font-size: 14pt;\">R, Q and P start a business together with initial investment of Rs. 20000, Rs. 30000 and Rs. 25000 respectively. After 8 months, R and Q take out Rs. 10000 each from the investment. Total profit earned at the end of the year is Rs. 16400. Find out P&rsquo;s share of profit.</span></strong></p>",
+      "solutionText": "Correct Option: D Ratio of profit earned = Ratio of investment made. Investment made by R = (20000 &times; 8) + (10000 &times; 4) = 200000 Investment made by Q = (30000 &times; 8) + (20000 &times; 4) = 320000 Investment made by P = 25000 &times; 12 = Rs. 300000 Ratio of investment = 200000 : 320000 : 300000 &rArr; 10 : 16 : 15 &there4; P&rsquo;s share of profit = 15 &times; 16400 = Rs. 6000 41",
+      "solutionHtml": "<div><span style=\"font-size: 14pt;\"><label style=\"display: inline-block; max-width: 100%; margin-bottom: 5px;\">Correct Option:&nbsp;</label>D</span></div>\n<div><span style=\"font-size: 14pt;\">Ratio of profit earned = Ratio of investment made.&nbsp;</span><br /><span style=\"font-size: 14pt;\">&nbsp;</span></div>\n<div><span style=\"font-size: 14pt;\">Investment made by R = (20000 &times; 8) + (10000 &times; 4) = 200000&nbsp;</span><br /><span style=\"font-size: 14pt;\">&nbsp;</span></div>\n<div><span style=\"font-size: 14pt;\">Investment made by Q = (30000 &times; 8) + (20000 &times; 4) = 320000&nbsp;</span><br /><span style=\"font-size: 14pt;\">&nbsp;</span></div>\n<div><span style=\"font-size: 14pt;\">Investment made by P = 25000 &times; 12 = Rs. 300000&nbsp;</span><br /><span style=\"font-size: 14pt;\">&nbsp;</span></div>\n<div><span style=\"font-size: 14pt;\">Ratio of investment = 200000 : 320000 : 300000 &rArr; 10 : 16 : 15&nbsp;</span><br /><span style=\"font-size: 14pt;\">&nbsp;</span></div>\n<div>\n<table style=\"border-spacing: 0px; border-collapse: collapse; background-color: transparent;\" border=\"0\" width=\"0\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr>\n<td style=\"padding: 0px;\" rowspan=\"2\"><span style=\"font-size: 14pt;\">&there4; P&rsquo;s share of profit =&nbsp;</span></td>\n<td class=\"divide\" style=\"padding: 0px; border-bottom: 1px solid #000000;\"><span style=\"font-size: 14pt;\">15</span></td>\n<td style=\"padding: 0px;\" rowspan=\"2\"><span style=\"font-size: 14pt;\">&nbsp;&times; 16400 = Rs. 6000</span></td>\n</tr>\n<tr>\n<td style=\"padding: 0px;\" align=\"center\"><span style=\"font-size: 14pt;\">41</span></td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "options": [
+        {
+          "order": null,
+          "text": "Rs 5500",
+          "html": "<p><span style=\"font-size: 14pt;\">Rs 5500</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "Rs 6500",
+          "html": "<p><span style=\"font-size: 18.6667px;\">Rs 6500</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "Rs 5500",
+          "html": "<p><span style=\"font-size: 18.6667px;\">Rs 5500</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "Rs 6000",
+          "html": "<p><span style=\"font-size: 18.6667px;\">Rs 6000</span></p>",
+          "isCorrect": true
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 15,
+      "section": "Quantitative Aptitude",
+      "id": "60feb11db7f735e596b39fc0",
+      "type": "multiple_choice",
+      "posMarks": 0,
+      "negMarks": 0,
+      "questionText": "A and B start a business. A invests Rs ‘X’ and B invests Rs 45000. 9 months later A withdraws half the amount. The profit received by A at the end of 1 year is 22.22% less than that of B. What is the value of ‘X’? ",
+      "questionHtml": "<p><strong><span style=\"color: #222222; font-family: Roboto, sans-serif; text-align: justify; font-size: 14pt;\">A and B start a business. A invests Rs &lsquo;X&rsquo; and B invests Rs 45000. 9 months later A withdraws half the amount. The profit received by A at the end of 1 year is 22.22% less than that of B. What is the value of &lsquo;X&rsquo;?&nbsp;</span></strong></p>",
+      "solutionText": "Correct Option: A A invests Rs &lsquo;X&rsquo; and B invests Rs 45000. 9 months later A withdraws half the amount. Ratio of investment of A : B = X &times; 9 + X &times; 3 : 45000 &times; 12 = 7X : 360000 2 The profit received by A at the end of 1 year is 22.22% less than that of B 7X : 360000 = 7 : 9 X = 40000",
+      "solutionHtml": "<div><span style=\"font-size: 14pt;\"><label style=\"display: inline-block; max-width: 100%; margin-bottom: 5px;\">Correct Option:&nbsp;</label>A</span></div>\n<p><span style=\"color: #444444; font-family: Roboto, sans-serif; font-size: 14pt;\">A invests Rs &lsquo;X&rsquo; and B invests Rs 45000. 9 months later A withdraws half the amount.</span><br style=\"color: #444444; font-family: Roboto, sans-serif; font-size: 13px;\" /><br style=\"color: #444444; font-family: Roboto, sans-serif; font-size: 13px;\" /><span style=\"color: #444444; font-family: Roboto, sans-serif; font-size: 14pt;\">Ratio of investment of A : B</span><br style=\"color: #444444; font-family: Roboto, sans-serif; font-size: 13px;\" /><br style=\"color: #444444; font-family: Roboto, sans-serif; font-size: 13px;\" /></p>\n<table style=\"border-spacing: 0px; border-collapse: collapse; color: #444444; font-family: Roboto, sans-serif; font-size: 13px;\" border=\"0\" width=\"0\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr>\n<td style=\"padding: 0px;\" rowspan=\"2\"><span style=\"font-size: 14pt;\">= X &times; 9 +&nbsp;</span></td>\n<td class=\"divide\" style=\"padding: 0px; border-bottom: 1px solid #000000;\"><span style=\"font-size: 14pt;\">X</span></td>\n<td style=\"padding: 0px;\" rowspan=\"2\"><span style=\"font-size: 14pt;\">&nbsp;&times; 3 : 45000 &times; 12 = 7X : 360000</span></td>\n</tr>\n<tr>\n<td style=\"padding: 0px;\"><span style=\"font-size: 14pt;\">2</span></td>\n</tr>\n</tbody>\n</table>\n<p><br style=\"color: #444444; font-family: Roboto, sans-serif; font-size: 13px;\" /><span style=\"color: #444444; font-family: Roboto, sans-serif; font-size: 14pt;\">The profit received by A at the end of 1 year is 22.22% less than that of B</span><br style=\"color: #444444; font-family: Roboto, sans-serif; font-size: 13px;\" /><br style=\"color: #444444; font-family: Roboto, sans-serif; font-size: 13px;\" /><span style=\"color: #444444; font-family: Roboto, sans-serif; font-size: 14pt;\">7X : 360000 = 7 : 9</span><br style=\"color: #444444; font-family: Roboto, sans-serif; font-size: 13px;\" /><br style=\"color: #444444; font-family: Roboto, sans-serif; font-size: 13px;\" /><span style=\"color: #444444; font-family: Roboto, sans-serif; font-size: 14pt;\">X = 40000</span></p>",
+      "options": [
+        {
+          "order": null,
+          "text": "40000",
+          "html": "<p><span style=\"font-size: 14pt;\">40000</span></p>",
+          "isCorrect": true
+        },
+        {
+          "order": null,
+          "text": "45000",
+          "html": "<p><span style=\"font-size: 18.6667px;\">45000</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "47000",
+          "html": "<p><span style=\"font-size: 18.6667px;\">47000</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": null,
+          "text": "48000",
+          "html": "<p><span style=\"font-size: 18.6667px;\">48000</span></p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    }
+  ]
+}

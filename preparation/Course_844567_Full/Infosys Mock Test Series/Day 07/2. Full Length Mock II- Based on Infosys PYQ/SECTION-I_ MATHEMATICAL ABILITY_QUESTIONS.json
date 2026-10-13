@@ -1,0 +1,430 @@
+{
+  "testId": "68cee7336de15100cf5e7a5c",
+  "title": "SECTION-I: MATHEMATICAL /TECHNICAL ABILITY",
+  "engine": "Testbook SDK",
+  "folderPath": "Infosys Mock Test Series / Day 07 / 2. Full Length Mock II- Based on Infosys PYQ",
+  "totalQuestions": 11,
+  "totalMarks": 11,
+  "durationMinutes": 20.0,
+  "livePortalUrl": "https://testsdk.testbook.com/org-44032-844567/tests/68cee7336de15100cf5e7a5c#auth?page=test&auth=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiI1YjQzMDFmYzdkZTU1NzBjMzFkNTU1NTUiLCJzdWIiOiIxNTkzMDU3NDYiLCJhdWQiOiJDUCIsImV4cEludCI6MTc5MTk1ODYwOCwiaWF0SW50IjoxNzkxODcyMjA4LCJvcmdJZCI6IjViNDMwMWZjN2RlNTU3MGMzMWQ1NTU1NSIsInJvbGVzIjoic3R1ZGVudCIsIm5hbWUiOiJIYWNrV2l0aEluZnlQcmVwIn0.afWnlSma4YC72l8-TLvMBHCTkqFWP99_pdBA4P2X3UuyNfr8FOBBjhcztvzEKIResq0onKAHhto9l2GpzkUN10RifQaI7Ynz2ujetOznNuiZY5btu9SPVy-f_Cs27qqUQ44t313j71RhdAaN6Gb0SQWLou8bXENvYgyuVEedu14MXle364Sdf_hWGI4eVhbGpG8-X_2S3OzSVuxUXMPt2j9Bx8gA8X4Tgm_BQOeIHUfjitRDT8Tgw-USB5OjoiqsnQmdscrKwtjzf-AAR-_EG4xtZBeQVGCC-TbkWIcm6fhWjSugB0xvsgco9ZdimDAsITv1p6QpTumYwHvYmZpeVQ&hideRank=0&isCPTestBookMarkEnabled=true",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "section": "Technical ability/Quantitative Aptitude",
+      "id": "68cee7336de15173585e7a5e",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "A code word is to consist of two distinct English alphabets followed by two distinct numbers from1 and 9 ( both Inclusive ). For example, CA23 is a code word. How many such code words are there?",
+      "questionHtml": "<p class=\"MsoNormal\"><span style=\"font-size: 14pt;\">A code word is to consist of two&nbsp;</span><span style=\"font-size: 18.6667px;\">distinct</span> <span style=\"font-size: 14pt;\">English alphabets followed by two distinct numbers from1 and 9 ( both Inclusive ). For example, CA23 is a code word. How many such code words are there?</span></p>",
+      "correctOption": "2",
+      "options": [
+        {
+          "order": "1",
+          "text": "615800",
+          "html": "<p><span style=\"text-indent: -24px;\">615800&nbsp;</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "46800",
+          "html": "<p><span style=\"text-indent: -24px;\">46800&nbsp;</span></p>",
+          "isCorrect": true
+        },
+        {
+          "order": "3",
+          "text": "719500",
+          "html": "<p><span style=\"font-family: Aptos, 'sans-serif';\">719500</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "410800",
+          "html": "<p><span style=\"text-indent: -24px;\">410800</span></p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 2,
+      "section": "Technical ability/Quantitative Aptitude",
+      "id": "68cee7336de15149be5e7a5f",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "In an entrance exam of 200 objective questions, a student can score 1 point for every correct answer, loss 1/4 points for every wrong answer and loss 1/2 point for every unanswered question. If he attempts only 160 questions and he scores 100 points then the number of questions answered by him correctly is:",
+      "questionHtml": "<p class=\"MsoNormal\"><span style=\"font-size: 14pt;\">In an entrance exam of 200 objective questions, a student can score 1 point for every correct answer, loss 1/4&nbsp;</span><span style=\"font-size: 14pt;\">points for every wrong answer and loss 1/2 </span><span style=\"font-size: 14pt;\">point for every unanswered question. If he attempts only 160 questions and he scores 100 points then the number of questions answered by him correctly is:</span></p>",
+      "correctOption": "4",
+      "options": [
+        {
+          "order": "1",
+          "text": "A. 132",
+          "html": "<p class=\"MsoListParagraph\" style=\"text-indent: -.25in; mso-list: l0 level1 lfo1;\"><!-- [if !supportLists]-->A.<span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';\">&nbsp;&nbsp; </span><!--[endif]-->132&nbsp;<o:p></o:p></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "A. 126",
+          "html": "<p class=\"MsoListParagraph\" style=\"text-indent: -.25in; mso-list: l0 level1 lfo1;\"><!-- [if !supportLists]-->A.<span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';\">&nbsp;&nbsp; </span><!--[endif]-->126&nbsp;<o:p></o:p></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "A. 139",
+          "html": "<p class=\"MsoListParagraph\" style=\"text-indent: -.25in; mso-list: l0 level1 lfo1;\"><!-- [if !supportLists]-->A.<span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';\">&nbsp;&nbsp; </span><!--[endif]-->139&nbsp;<o:p></o:p></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "A. 128",
+          "html": "<p class=\"MsoListParagraph\" style=\"text-indent: -.25in; mso-list: l0 level1 lfo1;\"><!-- [if !supportLists]-->A.<span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';\">&nbsp;&nbsp; </span><!--[endif]-->128<o:p></o:p></p>",
+          "isCorrect": true
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 3,
+      "section": "Technical ability/Quantitative Aptitude",
+      "id": "68cee7336de15140f15e7a65",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "Two containers of milk contain mixtures of water and milk in ratio 5:4 and 7:9. In what ratio they should be mixed so that mixture is of 6:6 ratios?",
+      "questionHtml": "<p class=\"MsoNormal\"><span style=\"font-size: 14pt;\">Two containers of milk contain mixtures of water and milk in ratio 5:4 and 7:9. In what ratio they should be mixed so that mixture is of 6:6 ratios?</span><o:p></o:p></p>",
+      "correctOption": "4",
+      "options": [
+        {
+          "order": "1",
+          "text": "A. 6:5",
+          "html": "<p class=\"MsoListParagraph\" style=\"text-indent: -.25in; mso-list: l0 level1 lfo1;\"><!-- [if !supportLists]-->A.<span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';\">&nbsp;&nbsp; </span><!--[endif]-->6:5&nbsp;<o:p></o:p></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "A. 7:5",
+          "html": "<p class=\"MsoListParagraph\" style=\"text-indent: -.25in; mso-list: l0 level1 lfo1;\"><!-- [if !supportLists]-->A.<span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';\">&nbsp;&nbsp; </span><!--[endif]-->7:5&nbsp;<o:p></o:p></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "A. 8:9",
+          "html": "<p class=\"MsoListParagraph\" style=\"text-indent: -.25in; mso-list: l0 level1 lfo1;\"><!-- [if !supportLists]-->A.<span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';\">&nbsp;&nbsp; </span><!--[endif]-->8:9&nbsp;<o:p></o:p></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "A. 9:8",
+          "html": "<p class=\"MsoListParagraph\" style=\"text-indent: -.25in; mso-list: l0 level1 lfo1;\"><!-- [if !supportLists]-->A.<span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';\">&nbsp;&nbsp; </span><!--[endif]-->9:8<o:p></o:p></p>",
+          "isCorrect": true
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 4,
+      "section": "Technical ability/Quantitative Aptitude",
+      "id": "68cee7336de15127905e7a64",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "There are two pipes in a tank. Pipe A is for filling the tank and pipe b is for emptying the tank. If A can fill the tank in 10 hours and b can empty the tank in 15 hours then find how many hours will it take to completely fill a half empty tank?",
+      "questionHtml": "<p class=\"MsoNormal\"><span style=\"font-size: 14pt;\">There are two pipes in a tank. Pipe A is for filling the tank and pipe b is for emptying the tank. If A can fill the tank in 10 hours and b can empty the tank in 15 hours then find how many hours will it take to completely fill a half empty tank?</span><o:p></o:p></p>",
+      "correctOption": "2",
+      "options": [
+        {
+          "order": "1",
+          "text": "A. 30 hours",
+          "html": "<p class=\"MsoListParagraph\" style=\"text-indent: -.25in; mso-list: l0 level1 lfo1;\"><!-- [if !supportLists]-->A.<span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';\">&nbsp;&nbsp; </span><!--[endif]-->30 hours&nbsp;<o:p></o:p></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "A. 15 hours",
+          "html": "<p class=\"MsoListParagraph\" style=\"text-indent: -.25in; mso-list: l0 level1 lfo1;\"><!-- [if !supportLists]-->A.<span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';\">&nbsp;&nbsp; </span><!--[endif]-->15 hours&nbsp;<o:p></o:p></p>",
+          "isCorrect": true
+        },
+        {
+          "order": "3",
+          "text": "A. 20 hours",
+          "html": "<p class=\"MsoListParagraph\" style=\"text-indent: -.25in; mso-list: l0 level1 lfo1;\"><!-- [if !supportLists]-->A.<span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';\">&nbsp;&nbsp; </span><!--[endif]-->20 hours&nbsp;<o:p></o:p></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "A. 33.33 hours",
+          "html": "<p class=\"MsoListParagraph\" style=\"text-indent: -.25in; mso-list: l0 level1 lfo1;\"><!-- [if !supportLists]-->A.<span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';\">&nbsp;&nbsp; </span><!--[endif]-->33.33 hours<o:p></o:p></p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 5,
+      "section": "Technical ability/Quantitative Aptitude",
+      "id": "68cee7336de151a3595e7a62",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "A good costs Rs 12000/-. A customer can choose either of the pairs of successive discounts. Pair A consists of successive discounts of 20% & 30% and pair B consists of 40% & 10%. Customer X chose A & customer Y choose B. What is the difference between their payments",
+      "questionHtml": "<p class=\"MsoNormal\" style=\"margin-bottom: .0001pt; line-height: normal; tab-stops: 28.0pt 56.0pt 84.0pt 112.0pt 140.0pt 168.0pt 196.0pt 224.0pt 3.5in 280.0pt 308.0pt 336.0pt; mso-layout-grid-align: none; text-autospace: none;\"><span lang=\"EN-GB\" style=\"font-family: 'Helvetica','sans-serif'; mso-font-kerning: 0pt; mso-ansi-language: EN-GB;\"><span style=\"font-size: 14pt;\">A good costs Rs 12000/-. A customer can choose either of the pairs of successive discounts. Pair A consists of successive discounts of 20% &amp; 30% and pair B consists of 40% &amp; 10%. Customer X chose A &amp; customer Y choose B. What is the difference between their payments&nbsp;</span><o:p></o:p></span></p>",
+      "correctOption": "2",
+      "options": [
+        {
+          "order": "1",
+          "text": "A) Rs 120",
+          "html": "<p class=\"MsoListParagraph\" style=\"margin-bottom: .0001pt; mso-add-space: auto; text-indent: -.25in; line-height: normal; mso-list: l0 level1 lfo1; tab-stops: 28.0pt 56.0pt 84.0pt 112.0pt 140.0pt 168.0pt 196.0pt 224.0pt 3.5in 280.0pt 308.0pt 336.0pt; mso-layout-grid-align: none; text-autospace: none;\"><!-- [if !supportLists]--><span lang=\"EN-GB\" style=\"font-family: 'Helvetica','sans-serif'; mso-fareast-font-family: Helvetica; mso-font-kerning: 0pt; mso-ansi-language: EN-GB;\">A)<span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';\">&nbsp;&nbsp; </span></span><!--[endif]--><span lang=\"EN-GB\" style=\"font-family: 'Helvetica','sans-serif'; mso-font-kerning: 0pt; mso-ansi-language: EN-GB;\">Rs 120<o:p></o:p></span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "A) Rs 240",
+          "html": "<p class=\"MsoListParagraph\" style=\"margin-bottom: .0001pt; mso-add-space: auto; text-indent: -.25in; line-height: normal; mso-list: l0 level1 lfo1; tab-stops: 28.0pt 56.0pt 84.0pt 112.0pt 140.0pt 168.0pt 196.0pt 224.0pt 3.5in 280.0pt 308.0pt 336.0pt; mso-layout-grid-align: none; text-autospace: none;\"><!-- [if !supportLists]--><span lang=\"EN-GB\" style=\"font-family: 'Helvetica','sans-serif'; mso-fareast-font-family: Helvetica; mso-font-kerning: 0pt; mso-ansi-language: EN-GB;\">A)<span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';\">&nbsp;&nbsp; </span></span><!--[endif]--><span lang=\"EN-GB\" style=\"font-family: 'Helvetica','sans-serif'; mso-font-kerning: 0pt; mso-ansi-language: EN-GB;\">Rs 240<o:p></o:p></span></p>",
+          "isCorrect": true
+        },
+        {
+          "order": "3",
+          "text": "A) Rs 180",
+          "html": "<p class=\"MsoListParagraph\" style=\"margin-bottom: .0001pt; mso-add-space: auto; text-indent: -.25in; line-height: normal; mso-list: l0 level1 lfo1; tab-stops: 28.0pt 56.0pt 84.0pt 112.0pt 140.0pt 168.0pt 196.0pt 224.0pt 3.5in 280.0pt 308.0pt 336.0pt; mso-layout-grid-align: none; text-autospace: none;\"><!-- [if !supportLists]--><span lang=\"EN-GB\" style=\"font-family: 'Helvetica','sans-serif'; mso-fareast-font-family: Helvetica; mso-font-kerning: 0pt; mso-ansi-language: EN-GB;\">A)<span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';\">&nbsp;&nbsp; </span></span><!--[endif]--><span lang=\"EN-GB\" style=\"font-family: 'Helvetica','sans-serif'; mso-font-kerning: 0pt; mso-ansi-language: EN-GB;\">Rs 180<o:p></o:p></span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "A) Rs 60",
+          "html": "<p class=\"MsoListParagraph\" style=\"text-indent: -.25in; mso-list: l0 level1 lfo1;\"><!-- [if !supportLists]-->A)<span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';\">&nbsp;&nbsp; </span><!--[endif]--><span lang=\"EN-GB\" style=\"font-family: 'Helvetica','sans-serif'; mso-font-kerning: 0pt; mso-ansi-language: EN-GB;\">Rs 60</span><o:p></o:p></p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 6,
+      "section": "Technical ability/Quantitative Aptitude",
+      "id": "68cee7336de151f1d35e7a60",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "A towel was 40 cm broad and 90 cm long. When bleached, it was found to have lost 20% of its length and 10% of its width. The percentage decrease in area is:",
+      "questionHtml": "<p class=\"MsoNormal\" style=\"margin-bottom: .0001pt; line-height: normal; tab-stops: 28.0pt 56.0pt 84.0pt 112.0pt 140.0pt 168.0pt 196.0pt 224.0pt 3.5in 280.0pt 308.0pt 336.0pt; mso-layout-grid-align: none; text-autospace: none;\"><span lang=\"EN-GB\" style=\"font-family: 'Helvetica','sans-serif'; mso-font-kerning: 0pt; mso-ansi-language: EN-GB;\"><span style=\"font-size: 14pt;\">A towel was 40 cm broad and 90 cm long. When bleached, it was found to have lost 20% of its length and 10% of its width. The percentage decrease in area is:</span><o:p></o:p></span></p>",
+      "correctOption": "1",
+      "options": [
+        {
+          "order": "1",
+          "text": "28%",
+          "html": "<p class=\"MsoNormal\" style=\"margin-bottom: .0001pt; line-height: normal; tab-stops: 28.0pt 56.0pt 84.0pt 112.0pt 140.0pt 168.0pt 196.0pt 224.0pt 3.5in 280.0pt 308.0pt 336.0pt; mso-layout-grid-align: none; text-autospace: none;\"><span lang=\"EN-GB\" style=\"font-family: 'Helvetica','sans-serif'; mso-font-kerning: 0pt; mso-ansi-language: EN-GB;\">28%<o:p></o:p></span></p>",
+          "isCorrect": true
+        },
+        {
+          "order": "2",
+          "text": "30%",
+          "html": "<p><span lang=\"EN-GB\" style=\"font-size: 12.0pt; line-height: 115%; font-family: 'Helvetica','sans-serif'; mso-fareast-font-family: Aptos; mso-fareast-theme-font: minor-latin; mso-font-kerning: 0pt; mso-ansi-language: EN-GB; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">30%</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "32%",
+          "html": "<p><span lang=\"EN-GB\" style=\"font-size: 12.0pt; line-height: 115%; font-family: 'Helvetica','sans-serif'; mso-fareast-font-family: Aptos; mso-fareast-theme-font: minor-latin; mso-font-kerning: 0pt; mso-ansi-language: EN-GB; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">32%</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "33%",
+          "html": "<p><span lang=\"EN-GB\" style=\"font-size: 12.0pt; line-height: 115%; font-family: 'Helvetica','sans-serif'; mso-fareast-font-family: Aptos; mso-fareast-theme-font: minor-latin; mso-font-kerning: 0pt; mso-ansi-language: EN-GB; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">33%</span></p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 7,
+      "section": "Technical ability/Quantitative Aptitude",
+      "id": "68cee7336de1517ac45e7a61",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "The total time taken by a boat to cover 'D+25' km downstream and same distance in upstream is 20 hours. If speed of boat is 15 km/hr. in still water and speed of stream is 40% less than speed of boat, then find the value of D",
+      "questionHtml": "<p class=\"MsoNormal\" style=\"margin: 0cm 0cm 8pt; line-height: 24px; font-size: 12pt; font-family: Aptos, sans-serif; color: #000000;\"><span style=\"font-size: 14pt;\"><strong><span lang=\"EN-US\">The total time taken by a boat to cover 'D+25' km downstream and same distance in upstream is 20 hours. If speed of boat is 15 km/hr. in still water and speed of stream is 40% less than speed of boat, then find the value of D</span></strong></span><o:p></o:p></p>",
+      "correctOption": "4",
+      "options": [
+        {
+          "order": "1",
+          "text": "66 km",
+          "html": "<p>66 km</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "78 km",
+          "html": "<p>78 km</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "62km",
+          "html": "<p>62km</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "71 km",
+          "html": "<p>71 km</p>",
+          "isCorrect": true
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 8,
+      "section": "Technical ability/Quantitative Aptitude",
+      "id": "68cee7336de15154a85e7a63",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "Direction : There are seven friends - Brian, Paul, Qasim, Rustam, Sam, Tom and Winston - each of whom likes a different subject among Chemistry, Geography, Physics, Math Sociology, History and Biology. They are ranked 1 to 7 in their final exams, with 1 being the best rank and 7 the worst. With the help of the information given below you have to deduce their respective ranks and the subjects they like. Qasim likes Sociology, and he stands above Tom but below Winston. Tom gets the worst rank, and he likes neither Geography nor History. Sam likes Physics, and he stands above both Qasim and Winston but below Paul Rustam gets Rank 2, and he likes neither Chemistry nor Math. Paul likes Biology, and he hasn't secured the best rank. The student who likes maths gets the best rank. Rustam doesn't like Geography Question8 : Which of the following pairs is correct for Rustam?",
+      "questionHtml": "<p class=\"MsoNormal\"><span style=\"font-size: 14pt;\"><strong><u><span style=\"color: black; mso-themecolor: text1;\">Direction :</span></u></strong>There are seven friends - Brian, Paul, Qasim, Rustam, Sam, Tom and Winston - each of whom likes a different subject among Chemistry, Geography, Physics, Math Sociology, History and Biology. They are ranked 1 to 7 in their final exams, with 1 being the best rank and 7 the worst. With the help of the information given below you have to deduce their respective ranks and the subjects they like.<u><o:p></o:p></u></span></p>\n<ol style=\"margin-top: 0in;\" start=\"1\" type=\"1\">\n<li class=\"MsoNormal\"><span style=\"font-size: 14pt;\">Qasim likes Sociology, and he stands above Tom but below Winston.</span><o:p></o:p></li>\n<li class=\"MsoNormal\"><span style=\"font-size: 14pt;\">Tom gets the worst rank, and he likes neither Geography nor History.</span><o:p></o:p></li>\n<li class=\"MsoNormal\"><span style=\"font-size: 14pt;\">Sam likes Physics, and he stands above both Qasim and Winston but below Paul</span><o:p></o:p></li>\n<li class=\"MsoNormal\"><span style=\"font-size: 14pt;\">Rustam gets Rank 2, and he likes neither Chemistry nor Math.</span><o:p></o:p></li>\n<li class=\"MsoNormal\"><span style=\"font-size: 14pt;\">Paul likes Biology, and he hasn't secured the best rank.</span><o:p></o:p></li>\n<li class=\"MsoNormal\"><span style=\"font-size: 14pt;\">The student who likes maths gets the best rank.</span><o:p></o:p></li>\n<li class=\"MsoNormal\"><span style=\"font-size: 14pt;\">Rustam doesn't like Geography </span><o:p></o:p></li>\n</ol>\n<p class=\"MsoNormal\"><strong><span style=\"font-size: 14pt;\">Question8 : Which of the following pairs is correct for Rustam?</span></strong><o:p></o:p></p>\n<p class=\"MsoNormal\"></p>",
+      "correctOption": "1",
+      "options": [
+        {
+          "order": "1",
+          "text": "Rank 2 &ndash; History",
+          "html": "<p><span style=\"font-size: 18.6667px;\">Rank 2 &ndash; History</span></p>",
+          "isCorrect": true
+        },
+        {
+          "order": "2",
+          "text": "Rank 3 &ndash; Chemistry",
+          "html": "<p><span style=\"font-size: 18.6667px;\">Rank 3 &ndash; Chemistry</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "Rank 4 &ndash; Physics",
+          "html": "<p><span style=\"font-size: 18.6667px;\">Rank 4 &ndash; Physics</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "Rank 5 &ndash; Biology",
+          "html": "<p><span style=\"font-size: 18.6667px;\">Rank 5 &ndash; Biology</span></p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 9,
+      "section": "Technical ability/Quantitative Aptitude",
+      "id": "68cee7336de15136735e7a66",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "Direction : There are seven friends - Brian, Paul, Qasim, Rustam, Sam, Tom and Winston - each of whom likes a different subject among Chemistry, Geography, Physics, Math Sociology, History and Biology. They are ranked 1 to 7 in their final exams, with 1 being the best rank and 7 the worst. With the help of the information given below you have to deduce their respective ranks and the subjects they like. Qasim likes Sociology, and he stands above Tom but below Winston. Tom gets the worst rank, and he likes neither Geography nor History. Sam likes Physics, and he stands above both Qasim and Winston but below Paul Rustam gets Rank 2, and he likes neither Chemistry nor Math. Paul likes Biology, and he hasn't secured the best rank. The student who likes maths gets the best rank. Rustam doesn't like Geography Question 9 : Which subject is liked by the student who got exactly the middle rank (Rank 4)?",
+      "questionHtml": "<p class=\"MsoNormal\"><span style=\"font-size: 14pt;\"><strong><u><span style=\"color: black; mso-themecolor: text1;\">Direction :</span></u></strong>There are seven friends - Brian, Paul, Qasim, Rustam, Sam, Tom and Winston - each of whom likes a different subject among Chemistry, Geography, Physics, Math Sociology, History and Biology. They are ranked 1 to 7 in their final exams, with 1 being the best rank and 7 the worst. With the help of the information given below you have to deduce their respective ranks and the subjects they like.<u><o:p></o:p></u></span></p>\n<ol style=\"margin-top: 0in;\" start=\"1\" type=\"1\">\n<li class=\"MsoNormal\"><span style=\"font-size: 14pt;\">Qasim likes Sociology, and he stands above Tom but below Winston.</span><o:p></o:p></li>\n<li class=\"MsoNormal\"><span style=\"font-size: 14pt;\">Tom gets the worst rank, and he likes neither Geography nor History.</span><o:p></o:p></li>\n<li class=\"MsoNormal\"><span style=\"font-size: 14pt;\">Sam likes Physics, and he stands above both Qasim and Winston but below Paul</span><o:p></o:p></li>\n<li class=\"MsoNormal\"><span style=\"font-size: 14pt;\">Rustam gets Rank 2, and he likes neither Chemistry nor Math.</span><o:p></o:p></li>\n<li class=\"MsoNormal\"><span style=\"font-size: 14pt;\">Paul likes Biology, and he hasn't secured the best rank.</span><o:p></o:p></li>\n<li class=\"MsoNormal\"><span style=\"font-size: 14pt;\">The student who likes maths gets the best rank.</span><o:p></o:p></li>\n<li class=\"MsoNormal\"><span style=\"font-size: 14pt;\">Rustam doesn't like Geography </span><o:p></o:p></li>\n</ol>\n<p class=\"MsoNormal\"></p>\n<p class=\"MsoNormal\"><span style=\"font-size: 14pt;\"><strong>Question 9</strong> : <strong>Which subject is liked by the student who got exactly the middle rank (Rank 4)?</strong></span><o:p></o:p></p>\n<p class=\"MsoNormal\"></p>\n<p class=\"MsoNormal\"></p>",
+      "correctOption": "1",
+      "options": [
+        {
+          "order": "1",
+          "text": "Physics",
+          "html": "<p><span style=\"font-size: 18.6667px;\">Physics</span></p>",
+          "isCorrect": true
+        },
+        {
+          "order": "2",
+          "text": "History",
+          "html": "<p><span style=\"font-size: 18.6667px;\">History</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "Chemistry",
+          "html": "<p><span style=\"font-size: 18.6667px;\">Chemistry</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "Sociology",
+          "html": "<p><span style=\"font-size: 18.6667px;\">Sociology</span></p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 10,
+      "section": "Technical ability/Quantitative Aptitude",
+      "id": "68cee7336de1518d455e7a67",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "Direction : There are seven friends - Brian, Paul, Qasim, Rustam, Sam, Tom and Winston - each of whom likes a different subject among Chemistry, Geography, Physics, Math Sociology, History and Biology. They are ranked 1 to 7 in their final exams, with 1 being the best rank and 7 the worst. With the help of the information given below you have to deduce their respective ranks and the subjects they like. Qasim likes Sociology, and he stands above Tom but below Winston. Tom gets the worst rank, and he likes neither Geography nor History. Sam likes Physics, and he stands above both Qasim and Winston but below Paul Rustam gets Rank 2, and he likes neither Chemistry nor Math. Paul likes Biology, and he hasn't secured the best rank. The student who likes maths gets the best rank. Rustam doesn't like Geography Question 10: Which of the following is the correct sequence of students in consecutive ranks (from higher to lower)?",
+      "questionHtml": "<p class=\"MsoNormal\"><span style=\"font-size: 14pt;\"><strong><u><span style=\"color: black; mso-themecolor: text1;\">Direction :</span></u></strong>There are seven friends - Brian, Paul, Qasim, Rustam, Sam, Tom and Winston - each of whom likes a different subject among Chemistry, Geography, Physics, Math Sociology, History and Biology. They are ranked 1 to 7 in their final exams, with 1 being the best rank and 7 the worst. With the help of the information given below you have to deduce their respective ranks and the subjects they like.<u><o:p></o:p></u></span></p>\n<ol style=\"margin-top: 0in;\" start=\"1\" type=\"1\">\n<li class=\"MsoNormal\"><span style=\"font-size: 14pt;\">Qasim likes Sociology, and he stands above Tom but below Winston.</span><o:p></o:p></li>\n<li class=\"MsoNormal\"><span style=\"font-size: 14pt;\">Tom gets the worst rank, and he likes neither Geography nor History.</span><o:p></o:p></li>\n<li class=\"MsoNormal\"><span style=\"font-size: 14pt;\">Sam likes Physics, and he stands above both Qasim and Winston but below Paul</span><o:p></o:p></li>\n<li class=\"MsoNormal\"><span style=\"font-size: 14pt;\">Rustam gets Rank 2, and he likes neither Chemistry nor Math.</span><o:p></o:p></li>\n<li class=\"MsoNormal\"><span style=\"font-size: 14pt;\">Paul likes Biology, and he hasn't secured the best rank.</span><o:p></o:p></li>\n<li class=\"MsoNormal\"><span style=\"font-size: 14pt;\">The student who likes maths gets the best rank.</span><o:p></o:p></li>\n<li class=\"MsoNormal\"><span style=\"font-size: 14pt;\">Rustam doesn't like Geography </span><o:p></o:p></li>\n</ol>\n<p></p>\n<p class=\"MsoNormal\"><strong><span style=\"font-size: 14pt;\">Question 10: Which of the following is the correct sequence of students in consecutive ranks (from higher to lower)?</span></strong><o:p></o:p></p>",
+      "correctOption": "3",
+      "options": [
+        {
+          "order": "1",
+          "text": "Winston &ndash; Paul &ndash; Sam &ndash; Qasim &ndash; Tom",
+          "html": "<p><span style=\"text-indent: -24px;\">Winston &ndash; Paul &ndash; Sam &ndash; Qasim &ndash; Tom</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "Sam &ndash; Paul &ndash; Winston &ndash; Qasim &ndash; Tom",
+          "html": "<p><span style=\"text-indent: -24px;\">Sam &ndash; Paul &ndash; Winston &ndash; Qasim &ndash; Tom</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "Paul &ndash; Sam &ndash; Winston &ndash; Qasim &ndash; Tom",
+          "html": "<p><span style=\"text-indent: -24px;\">Paul &ndash; Sam &ndash; Winston &ndash; Qasim &ndash; Tom</span></p>",
+          "isCorrect": true
+        },
+        {
+          "order": "4",
+          "text": "Paul &ndash; Winston &ndash; Sam &ndash; Qasim &ndash; Tom",
+          "html": "<p><span style=\"text-indent: -24px;\">Paul &ndash; Winston &ndash; Sam &ndash; Qasim &ndash; Tom</span></p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 11,
+      "section": "Technical ability/Quantitative Aptitude",
+      "id": "68cee7336de15109e25e7a68",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "To solve a crime, police interrogate both Felix and Victor. Felix speaks the truth in 60% of cases, and Victor in 40% of cases. Police can catch the criminal only if at least one of them speaks the truth. What is the probability that the police catch the criminal?",
+      "questionHtml": "<p class=\"MsoNormal\" style=\"margin: 0cm 0cm 8pt; line-height: 18.4px; font-size: 12pt; font-family: Aptos, sans-serif; color: #000000;\"><span style=\"font-size: 14pt;\">To solve a crime, police interrogate both Felix and Victor. Felix speaks the truth in 60% of cases, and Victor in 40% of cases. Police can catch the criminal only if at least one of them speaks the truth.</span><o:p></o:p></p>\n<p class=\"MsoNormal\" style=\"margin: 0cm 0cm 8pt; line-height: 18.4px; font-size: 12pt; font-family: Aptos, sans-serif; color: #000000;\"><span style=\"font-size: 14pt;\">What is the probability that the police catch the criminal?</span><o:p></o:p></p>",
+      "correctOption": "4",
+      "options": [
+        {
+          "order": "1",
+          "text": "13/25",
+          "html": "<p><strong style=\"color: #000000; font-size: medium;\"><span style=\"font-size: 12pt; line-height: 18.4px; font-family: Aptos, sans-serif;\">13/25</span></strong></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "21/25",
+          "html": "<p><strong style=\"color: #000000; font-size: medium;\"><span style=\"font-size: 12pt; line-height: 18.4px; font-family: Aptos, sans-serif;\">21/25</span></strong></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "6/25",
+          "html": "<p><strong style=\"color: #000000; font-size: medium;\"><span style=\"font-size: 12pt; line-height: 18.4px; font-family: Aptos, sans-serif;\">6/25</span></strong></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "19/25",
+          "html": "<p><strong style=\"color: #000000; font-size: medium;\"><span style=\"font-size: 12pt; line-height: 18.4px; font-family: Aptos, sans-serif;\">19/25</span></strong></p>",
+          "isCorrect": true
+        }
+      ],
+      "embeddedImages": []
+    }
+  ]
+}

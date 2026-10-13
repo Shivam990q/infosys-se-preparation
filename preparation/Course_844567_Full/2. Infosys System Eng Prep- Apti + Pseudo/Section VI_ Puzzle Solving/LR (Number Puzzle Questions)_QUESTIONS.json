@@ -1,0 +1,751 @@
+{
+  "testId": "68d527bbf74da035149fd2a3",
+  "title": "LR (Number Puzzle Questions)",
+  "engine": "Testbook SDK",
+  "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section VI: Puzzle Solving",
+  "totalQuestions": 17,
+  "totalMarks": 17,
+  "durationMinutes": 20.0,
+  "livePortalUrl": "https://testsdk.testbook.com/org-44032-844567/tests/68d527bbf74da035149fd2a3#auth?page=test&auth=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiI1YjQzMDFmYzdkZTU1NzBjMzFkNTU1NTUiLCJzdWIiOiIxNTkzMDU3NDYiLCJhdWQiOiJDUCIsImV4cEludCI6MTc5MTk1ODYxNSwiaWF0SW50IjoxNzkxODcyMjE1LCJvcmdJZCI6IjViNDMwMWZjN2RlNTU3MGMzMWQ1NTU1NSIsInJvbGVzIjoic3R1ZGVudCIsIm5hbWUiOiJIYWNrV2l0aEluZnlQcmVwIn0.LhiJHYlmxDDTPk39OY7uvZFXr4waGqfdunbVK7pVYY5o6KbFUHdXdqs0QoZP6h2e5_uAzgYH1ttT8gYowb098XylsFEnqBNVCgOh5gqAtF9OjrRCFmV24RqtzPl8aA4LZJ663hPwIgl95ZvQMdiJvVzBM8eWW7-0qPHibiDKoqQQ-EVWNyDRnmag4Z7n5fNwLyN5CdZ50BZ4a3s4U59V0_IvIv2fOEMJKXo2qGF2LkVwvNA8HYoN0hSaMBEqw2CRA-61gfjvvOx51yAzla-mOY7fCk9hu0OCd_TSeO-kTApI8d0hBnCmotzC1oqZfVi_2CJ8zmIiQEg5wW0MQHIZ3g&hideRank=0&isCPTestBookMarkEnabled=true",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "section": "Percenatge - Assessment -01 - Imp",
+      "id": "68d527bbf74da0cb109fd2a8",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "What will replace the ? Mark in the given pattern?",
+      "questionHtml": "<p><span style=\"font-size: 14pt;\">What will replace the ? <span class=\"citation-458 citation-end-458\">Mark in the given pattern?</span></span></p>\n<p></p>\n<p><span style=\"font-size: 14pt;\"><span class=\"citation-458 citation-end-458\"><img src=\"https://cms-cdn.classplus.co/parserImages/0c049fb3-3146-4216-8e70-ce6689a78596.png\" alt=\"\" /></span></span></p>",
+      "correctOption": "2",
+      "options": [
+        {
+          "order": "1",
+          "text": "8",
+          "html": "<p>8</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "9",
+          "html": "<p>9</p>",
+          "isCorrect": true
+        },
+        {
+          "order": "3",
+          "text": "6",
+          "html": "<p>6</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "5",
+          "html": "<p>5</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": [
+        {
+          "original": "https://cms-cdn.classplus.co/parserImages/0c049fb3-3146-4216-8e70-ce6689a78596.png",
+          "local": "LR (Number Puzzle Questions)_figures/q1_1.png"
+        }
+      ]
+    },
+    {
+      "questionNumber": 2,
+      "section": "Percenatge - Assessment -01 - Imp",
+      "id": "68d527bbf74da00bb19fd2a7",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "What will replace the ? Mark in the given pattern?",
+      "questionHtml": "<p><span style=\"font-size: 14pt;\">What will replace the ? <span class=\"citation-458 citation-end-458\">Mark in the given pattern?</span></span></p>\n<p></p>\n<p><span style=\"font-size: 14pt;\"><span class=\"citation-458 citation-end-458\"><img src=\"https://cms-cdn.classplus.co/parserImages/eadcef64-f5f1-4a2f-9bb3-a429879f8d15.png\" alt=\"\" /><img src=\"https://cms-cdn.classplus.co/parserImages/96dcd095-8019-422a-af24-1f73aaa4f7ce.png\" alt=\"\" width=\"260\" height=\"203\" /></span></span></p>",
+      "correctOption": "2",
+      "options": [
+        {
+          "order": "1",
+          "text": "2",
+          "html": "<p>2</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "6",
+          "html": "<p>6</p>",
+          "isCorrect": true
+        },
+        {
+          "order": "3",
+          "text": "5",
+          "html": "<p>5</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "9",
+          "html": "<p>9</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": [
+        {
+          "original": "https://cms-cdn.classplus.co/parserImages/eadcef64-f5f1-4a2f-9bb3-a429879f8d15.png",
+          "local": "LR (Number Puzzle Questions)_figures/q2_1.png"
+        },
+        {
+          "original": "https://cms-cdn.classplus.co/parserImages/96dcd095-8019-422a-af24-1f73aaa4f7ce.png",
+          "local": "LR (Number Puzzle Questions)_figures/q2_2.png"
+        }
+      ]
+    },
+    {
+      "questionNumber": 3,
+      "section": "Percenatge - Assessment -01 - Imp",
+      "id": "68d527bbf74da021d69fd2a9",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "What will replace the ? Mark in the given pattern?",
+      "questionHtml": "<p><span style=\"font-size: 14pt;\">What will replace the ? <span class=\"citation-458 citation-end-458\">Mark in the given pattern?</span></span></p>\n<p></p>\n<p><span style=\"font-size: 14pt;\"><span class=\"citation-458 citation-end-458\"><img src=\"https://cms-cdn.classplus.co/parserImages/c681fd69-8476-4e2f-a36f-7a4d615b41e4.png\" alt=\"\" width=\"290\" height=\"233\" /></span></span></p>",
+      "correctOption": "1",
+      "options": [
+        {
+          "order": "1",
+          "text": "O",
+          "html": "<p>O</p>",
+          "isCorrect": true
+        },
+        {
+          "order": "2",
+          "text": "L",
+          "html": "<p>L</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "Y",
+          "html": "<p>Y</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "P",
+          "html": "<p>P</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": [
+        {
+          "original": "https://cms-cdn.classplus.co/parserImages/c681fd69-8476-4e2f-a36f-7a4d615b41e4.png",
+          "local": "LR (Number Puzzle Questions)_figures/q3_1.png"
+        }
+      ]
+    },
+    {
+      "questionNumber": 4,
+      "section": "Percenatge - Assessment -01 - Imp",
+      "id": "68d527bbf74da0edbf9fd2a6",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "What will replace the ? Mark in the given pattern?",
+      "questionHtml": "<p><span style=\"font-size: 14pt;\">What will replace the ? <span class=\"citation-458 citation-end-458\">Mark in the given pattern?</span></span></p>\n<p></p>\n<p><span class=\"citation-458 citation-end-458\" style=\"font-size: 14pt;\"><img src=\"https://cms-cdn.classplus.co/parserImages/277054db-d84f-49e9-a943-8e720d3665aa.png\" alt=\"\" width=\"310\" height=\"234\" /></span></p>",
+      "correctOption": "1",
+      "options": [
+        {
+          "order": "1",
+          "text": "1",
+          "html": "<p>1</p>",
+          "isCorrect": true
+        },
+        {
+          "order": "2",
+          "text": "2",
+          "html": "<p>2</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "5",
+          "html": "<p>5</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "9",
+          "html": "<p>9</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": [
+        {
+          "original": "https://cms-cdn.classplus.co/parserImages/277054db-d84f-49e9-a943-8e720d3665aa.png",
+          "local": "LR (Number Puzzle Questions)_figures/q4_1.png"
+        }
+      ]
+    },
+    {
+      "questionNumber": 5,
+      "section": "Percenatge - Assessment -01 - Imp",
+      "id": "68d527bbf74da0010f9fd2a5",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "What will replace the ? Mark in the given pattern?",
+      "questionHtml": "<p><span style=\"font-size: 14pt;\">What will replace the ? <span class=\"citation-458 citation-end-458\">Mark in the given pattern?</span></span></p>\n<p></p>\n<p><span style=\"font-size: 14pt;\"><span class=\"citation-458 citation-end-458\"><img src=\"https://cms-cdn.classplus.co/parserImages/6321977a-10ca-4e31-a804-dae25280eb4a.png\" alt=\"\" width=\"302\" height=\"224\" /></span></span></p>",
+      "correctOption": "4",
+      "options": [
+        {
+          "order": "1",
+          "text": "452",
+          "html": "<p>452</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "250",
+          "html": "<p>250</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "235",
+          "html": "<p>235</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "253",
+          "html": "<p>253</p>",
+          "isCorrect": true
+        }
+      ],
+      "embeddedImages": [
+        {
+          "original": "https://cms-cdn.classplus.co/parserImages/6321977a-10ca-4e31-a804-dae25280eb4a.png",
+          "local": "LR (Number Puzzle Questions)_figures/q5_1.png"
+        }
+      ]
+    },
+    {
+      "questionNumber": 6,
+      "section": "Percenatge - Assessment -01 - Imp",
+      "id": "68d527bbf74da038aa9fd2af",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "What will replace the ? Mark in the given pattern?",
+      "questionHtml": "<p><span style=\"font-size: 14pt;\">What will replace the ? <span class=\"citation-458 citation-end-458\">Mark in the given pattern?</span></span></p>\n<p></p>\n<p><span style=\"font-size: 14pt;\"><span class=\"citation-458 citation-end-458\"><img src=\"https://cms-cdn.classplus.co/parserImages/ea8ac5e8-6968-4711-bb9a-9a5f36c9e521.png\" alt=\"\" width=\"299\" height=\"210\" /></span></span></p>",
+      "correctOption": "3",
+      "options": [
+        {
+          "order": "1",
+          "text": "24",
+          "html": "<p>24</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "4",
+          "html": "<p>4</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "2",
+          "html": "<p>2</p>",
+          "isCorrect": true
+        },
+        {
+          "order": "4",
+          "text": "8",
+          "html": "<p>8</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": [
+        {
+          "original": "https://cms-cdn.classplus.co/parserImages/ea8ac5e8-6968-4711-bb9a-9a5f36c9e521.png",
+          "local": "LR (Number Puzzle Questions)_figures/q6_1.png"
+        }
+      ]
+    },
+    {
+      "questionNumber": 7,
+      "section": "Percenatge - Assessment -01 - Imp",
+      "id": "68d527bbf74da039cf9fd2b0",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "What will replace the ? Mark in the given pattern?",
+      "questionHtml": "<p><span style=\"font-size: 14pt;\">What will replace the ? <span class=\"citation-458 citation-end-458\">Mark in the given pattern?</span></span></p>\n<p></p>\n<p><span style=\"font-size: 14pt;\"><span class=\"citation-458 citation-end-458\"><img src=\"https://cms-cdn.classplus.co/parserImages/98ae18d5-ca29-4ec8-a580-66c564b20295.png\" alt=\"\" width=\"311\" height=\"139\" /></span></span></p>",
+      "correctOption": "2",
+      "options": [
+        {
+          "order": "1",
+          "text": "8",
+          "html": "<p>8</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "10",
+          "html": "<p>10</p>",
+          "isCorrect": true
+        },
+        {
+          "order": "3",
+          "text": "12",
+          "html": "<p>12</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "16",
+          "html": "<p>16</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": [
+        {
+          "original": "https://cms-cdn.classplus.co/parserImages/98ae18d5-ca29-4ec8-a580-66c564b20295.png",
+          "local": "LR (Number Puzzle Questions)_figures/q7_1.png"
+        }
+      ]
+    },
+    {
+      "questionNumber": 8,
+      "section": "Percenatge - Assessment -01 - Imp",
+      "id": "68d527bbf74da02fef9fd2b1",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "What will replace the ? Mark in the given pattern?",
+      "questionHtml": "<p><span style=\"font-size: 14pt;\">What will replace the ? <span class=\"citation-458 citation-end-458\">Mark in the given pattern?</span></span></p>\n<p></p>\n<p><span style=\"font-size: 14pt;\"><span class=\"citation-458 citation-end-458\"><img src=\"https://cms-cdn.classplus.co/parserImages/1391eaee-0dbc-408d-814d-b318ab5fee83.png\" alt=\"\" width=\"282\" height=\"235\" /></span></span></p>",
+      "correctOption": "1",
+      "options": [
+        {
+          "order": "1",
+          "text": "B",
+          "html": "<p>B</p>",
+          "isCorrect": true
+        },
+        {
+          "order": "2",
+          "text": "Y",
+          "html": "<p>Y</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "Z",
+          "html": "<p>Z</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "C",
+          "html": "<p>C</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": [
+        {
+          "original": "https://cms-cdn.classplus.co/parserImages/1391eaee-0dbc-408d-814d-b318ab5fee83.png",
+          "local": "LR (Number Puzzle Questions)_figures/q8_1.png"
+        }
+      ]
+    },
+    {
+      "questionNumber": 9,
+      "section": "Percenatge - Assessment -01 - Imp",
+      "id": "68d527bbf74da070749fd2b2",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "Study the 4&times;3 matrix. Each row follows the same rule relating the first two entries to the third entry. Find the missing number ? that makes the middle row obey the same rule.",
+      "questionHtml": "<p><span style=\"font-size: 14pt;\">Study the 4&times;3 matrix. Each row follows the same rule relating the first two entries to the third entry. <span class=\"citation-443 citation-end-443\">Find the missing number ? that makes the middle row obey the same rule.</span></span></p>\n<p></p>\n<p><img src=\"https://cms-cdn.classplus.co/parserImages/7d02bc10-e8ec-4114-ac44-5d3e578f8d39.png\" alt=\"\" width=\"302\" height=\"164\" /></p>\n<p></p>\n<p class=\"MsoBodyText\">&nbsp;&nbsp;</p>",
+      "correctOption": "3",
+      "options": [
+        {
+          "order": "1",
+          "text": "3",
+          "html": "<p>3</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "4",
+          "html": "<p>4</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "5",
+          "html": "<p>5</p>",
+          "isCorrect": true
+        },
+        {
+          "order": "4",
+          "text": "8",
+          "html": "<p>8</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": [
+        {
+          "original": "https://cms-cdn.classplus.co/parserImages/7d02bc10-e8ec-4114-ac44-5d3e578f8d39.png",
+          "local": "LR (Number Puzzle Questions)_figures/q9_1.png"
+        }
+      ]
+    },
+    {
+      "questionNumber": 10,
+      "section": "Percenatge - Assessment -01 - Imp",
+      "id": "68d527bbf74da0ff2b9fd2b3",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "Study the 3&times;3 matrix. Each row follows the same rule relating the first two entries to the third entry. Find the missing number ? that makes the middle row obey the same rule.",
+      "questionHtml": "<p><span style=\"font-size: 14pt;\">Study the 3&times;3 matrix. Each row follows the same rule relating the first two entries to the third entry. </span><span class=\"citation-438 citation-end-438\"><span style=\"font-size: 14pt;\">Find the missing number ? that makes the middle row obey the same rule.&nbsp;</span><source-footnote ng-version=\"0.0.0-PLACEHOLDER\" _nghost-ng-c3851337308=\"\"></source-footnote></span></p>\n<p></p>\n<p><span class=\"citation-438 citation-end-438\"><span style=\"font-size: 14pt;\"><img src=\"https://cms-cdn.classplus.co/parserImages/7350d20e-54fa-45b1-b735-c53e27f93eec.png\" alt=\"\" width=\"256\" height=\"107\" /></span></span></p>",
+      "correctOption": "4",
+      "options": [
+        {
+          "order": "1",
+          "text": "P",
+          "html": "<p>P</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "Q",
+          "html": "<p>Q</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "S",
+          "html": "<p>S</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "R",
+          "html": "<p>R</p>",
+          "isCorrect": true
+        }
+      ],
+      "embeddedImages": [
+        {
+          "original": "https://cms-cdn.classplus.co/parserImages/7350d20e-54fa-45b1-b735-c53e27f93eec.png",
+          "local": "LR (Number Puzzle Questions)_figures/q10_1.png"
+        }
+      ]
+    },
+    {
+      "questionNumber": 11,
+      "section": "Percenatge - Assessment -01 - Imp",
+      "id": "68d53010653f290e1ce4f216",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "What will replace the ? Mark in the given pattern?",
+      "questionHtml": "<p><span style=\"font-size: 14pt;\">What will replace the ? <span class=\"citation-458 citation-end-458\">Mark in the given pattern?</span></span></p>\n<p></p>\n<p><span style=\"font-size: 14pt;\"><span class=\"citation-458 citation-end-458\"><img src=\"https://cms-cdn.classplus.co/parserImages/72a2f5e8-39d8-4219-ae42-cf92b72fc84f.png\" alt=\"\" width=\"342\" height=\"342\" /></span></span></p>",
+      "correctOption": "4",
+      "options": [
+        {
+          "order": "1",
+          "text": "50",
+          "html": "<p>50</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "110",
+          "html": "<p>110</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "61",
+          "html": "<p>61</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "26",
+          "html": "<p>26</p>",
+          "isCorrect": true
+        }
+      ],
+      "embeddedImages": [
+        {
+          "original": "https://cms-cdn.classplus.co/parserImages/72a2f5e8-39d8-4219-ae42-cf92b72fc84f.png",
+          "local": "LR (Number Puzzle Questions)_figures/q11_1.png"
+        }
+      ]
+    },
+    {
+      "questionNumber": 12,
+      "section": "Percenatge - Assessment -01 - Imp",
+      "id": "68d53010653f2926a9e4f21b",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "What will replace the ? Mark in the given pattern?",
+      "questionHtml": "<p><span style=\"font-size: 14pt;\">What will replace the ? <span class=\"citation-458 citation-end-458\">Mark in the given pattern?</span></span></p>\n<p></p>\n<p><span style=\"font-size: 14pt;\"><span class=\"citation-458 citation-end-458\"><img src=\"https://cms-cdn.classplus.co/parserImages/fdea9657-3922-4aaa-ae53-45040f2775f9.png\" alt=\"\" width=\"325\" height=\"400\" /></span></span></p>",
+      "correctOption": "3",
+      "options": [
+        {
+          "order": "1",
+          "text": "A=9, B=17",
+          "html": "<p>A=9, B=17</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "A=14, B=22",
+          "html": "<p>A=14, B=22</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "A=14, B=28",
+          "html": "<p>A=14, B=28</p>",
+          "isCorrect": true
+        },
+        {
+          "order": "4",
+          "text": "A=18, B=9",
+          "html": "<p>A=18, B=9</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": [
+        {
+          "original": "https://cms-cdn.classplus.co/parserImages/fdea9657-3922-4aaa-ae53-45040f2775f9.png",
+          "local": "LR (Number Puzzle Questions)_figures/q12_1.png"
+        }
+      ]
+    },
+    {
+      "questionNumber": 13,
+      "section": "Percenatge - Assessment -01 - Imp",
+      "id": "68d53010653f294ff6e4f220",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "Study the 4&times;3 matrix. Each row follows the same rule relating the first two entries to the third entry. Find the missing number ? that makes the middle row obey the same rule.",
+      "questionHtml": "<p><span style=\"font-size: 14pt;\">Study the 4&times;3 matrix. Each row follows the same rule relating the first two entries to the third entry. <span class=\"citation-421 citation-end-421\">Find the missing number ? that makes the middle row obey the same rule.</span></span></p>\n<p></p>\n<p><span style=\"font-size: 14pt;\"><span class=\"citation-421 citation-end-421\"><img src=\"https://cms-cdn.classplus.co/parserImages/f65ee71f-5054-406a-b93e-4ccd79c20cca.png\" alt=\"\" width=\"254\" height=\"135\" /></span></span></p>",
+      "correctOption": "2",
+      "options": [
+        {
+          "order": "1",
+          "text": "7",
+          "html": "<p>7</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "9",
+          "html": "<p>9</p>",
+          "isCorrect": true
+        },
+        {
+          "order": "3",
+          "text": "5",
+          "html": "<p>5</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "8",
+          "html": "<p>8</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": [
+        {
+          "original": "https://cms-cdn.classplus.co/parserImages/f65ee71f-5054-406a-b93e-4ccd79c20cca.png",
+          "local": "LR (Number Puzzle Questions)_figures/q13_1.png"
+        }
+      ]
+    },
+    {
+      "questionNumber": 14,
+      "section": "Percenatge - Assessment -01 - Imp",
+      "id": "68d53010653f29a45ae4f225",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "Determine the missing number in the second set. Assume the second set also works in the same way as the first set.",
+      "questionHtml": "<p><span style=\"font-size: 14pt;\">&nbsp;Determine the missing number in the second set. </span><span class=\"citation-416 citation-end-416\"><span style=\"font-size: 14pt;\">Assume the second set also works in the same way as the first set.&nbsp;</span><source-footnote ng-version=\"0.0.0-PLACEHOLDER\" _nghost-ng-c3851337308=\"\"></source-footnote></span></p>\n<p></p>\n<p><span class=\"citation-416 citation-end-416\"><span style=\"font-size: 14pt;\"><img src=\"https://cms-cdn.classplus.co/parserImages/4a9490d2-b2f9-4864-8ff2-99786192ecfe.png\" alt=\"\" width=\"257\" height=\"106\" />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<img src=\"https://cms-cdn.classplus.co/parserImages/8a284715-476c-47c7-91e6-2522cf1a53b5.png\" alt=\"\" width=\"256\" height=\"106\" /></span></span></p>",
+      "correctOption": "3",
+      "options": [
+        {
+          "order": "1",
+          "text": "89",
+          "html": "<p>89</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "79",
+          "html": "<p>79</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "99",
+          "html": "<p>99</p>",
+          "isCorrect": true
+        },
+        {
+          "order": "4",
+          "text": "109",
+          "html": "<p>109</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": [
+        {
+          "original": "https://cms-cdn.classplus.co/parserImages/4a9490d2-b2f9-4864-8ff2-99786192ecfe.png",
+          "local": "LR (Number Puzzle Questions)_figures/q14_1.png"
+        },
+        {
+          "original": "https://cms-cdn.classplus.co/parserImages/8a284715-476c-47c7-91e6-2522cf1a53b5.png",
+          "local": "LR (Number Puzzle Questions)_figures/q14_2.png"
+        }
+      ]
+    },
+    {
+      "questionNumber": 15,
+      "section": "Percenatge - Assessment -01 - Imp",
+      "id": "68d53010653f29f95be4f22a",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "What will replace the ? Mark in the given pattern?",
+      "questionHtml": "<p><span style=\"font-size: 14pt;\">What will replace the ? </span><span class=\"citation-458 citation-end-458\"><span style=\"font-size: 14pt;\">Mark in the given pattern?&nbsp;</span><source-footnote ng-version=\"0.0.0-PLACEHOLDER\" _nghost-ng-c3851337308=\"\"></source-footnote></span></p>\n<p></p>\n<p><span class=\"citation-458 citation-end-458\"><span style=\"font-size: 14pt;\"><img src=\"https://cms-cdn.classplus.co/parserImages/5cc6bc17-85e4-4ba7-a051-829d5dd64d24.png\" alt=\"\" width=\"291\" height=\"232\" /></span></span></p>",
+      "correctOption": "4",
+      "options": [
+        {
+          "order": "1",
+          "text": "7",
+          "html": "<p>7</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "8",
+          "html": "<p>8</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "5",
+          "html": "<p>5</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "9",
+          "html": "<p>9</p>",
+          "isCorrect": true
+        }
+      ],
+      "embeddedImages": [
+        {
+          "original": "https://cms-cdn.classplus.co/parserImages/5cc6bc17-85e4-4ba7-a051-829d5dd64d24.png",
+          "local": "LR (Number Puzzle Questions)_figures/q15_1.png"
+        }
+      ]
+    },
+    {
+      "questionNumber": 16,
+      "section": "Percenatge - Assessment -01 - Imp",
+      "id": "68d533794bccb4319e6840a0",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "What will replace the ? Mark in the given pattern?",
+      "questionHtml": "<p><span style=\"font-size: 14pt;\">What will replace the ? </span><span class=\"citation-458 citation-end-458\"><span style=\"font-size: 14pt;\">Mark in the given pattern?&nbsp;</span><source-footnote ng-version=\"0.0.0-PLACEHOLDER\" _nghost-ng-c3851337308=\"\"></source-footnote></span></p>\n<p></p>\n<p><span class=\"citation-458 citation-end-458\"><span style=\"font-size: 14pt;\"><img src=\"https://cms-cdn.classplus.co/parserImages/8b9551a9-2efa-4624-9447-d8122129346e.png\" alt=\"\" width=\"291\" height=\"190\" /></span></span></p>",
+      "correctOption": "2",
+      "options": [
+        {
+          "order": "1",
+          "text": "2",
+          "html": "<p>2</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "3",
+          "html": "<p>3</p>",
+          "isCorrect": true
+        },
+        {
+          "order": "3",
+          "text": "4",
+          "html": "<p>4</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "7",
+          "html": "<p>7</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": [
+        {
+          "original": "https://cms-cdn.classplus.co/parserImages/8b9551a9-2efa-4624-9447-d8122129346e.png",
+          "local": "LR (Number Puzzle Questions)_figures/q16_1.png"
+        }
+      ]
+    },
+    {
+      "questionNumber": 17,
+      "section": "Percenatge - Assessment -01 - Imp",
+      "id": "68d533bbe14a8e8c78bef58c",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "What will replace the ? Mark in the given pattern?",
+      "questionHtml": "<p><span style=\"font-size: 14pt;\">What will replace the ? </span><span class=\"citation-458 citation-end-458\"><span style=\"font-size: 14pt;\">Mark in the given pattern?&nbsp;</span><source-footnote ng-version=\"0.0.0-PLACEHOLDER\" _nghost-ng-c3851337308=\"\"></source-footnote></span></p>\n<p></p>\n<p><span class=\"citation-458 citation-end-458\"><span style=\"font-size: 14pt;\"><img src=\"https://cms-cdn.classplus.co/parserImages/bbff9c84-b43c-45c9-9df5-b1e1709c94b3.png\" alt=\"\" width=\"257\" height=\"212\" /></span></span></p>",
+      "correctOption": "1",
+      "options": [
+        {
+          "order": "1",
+          "text": "M",
+          "html": "<p>M</p>",
+          "isCorrect": true
+        },
+        {
+          "order": "2",
+          "text": "N",
+          "html": "<p>N</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "O",
+          "html": "<p>O</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "P",
+          "html": "<p>P</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": [
+        {
+          "original": "https://cms-cdn.classplus.co/parserImages/bbff9c84-b43c-45c9-9df5-b1e1709c94b3.png",
+          "local": "LR (Number Puzzle Questions)_figures/q17_1.png"
+        }
+      ]
+    }
+  ]
+}

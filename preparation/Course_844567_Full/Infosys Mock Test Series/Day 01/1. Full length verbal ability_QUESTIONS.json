@@ -1,0 +1,968 @@
+{
+  "testId": "662346920022bc875cd2f30b",
+  "title": "Full length verbal ability - All India",
+  "engine": "Testbook SDK",
+  "folderPath": "Infosys Mock Test Series / Day 01",
+  "totalQuestions": 25,
+  "totalMarks": 25,
+  "durationMinutes": 25.0,
+  "livePortalUrl": "https://testsdk.testbook.com/org-44032-844567/tests/662346920022bc875cd2f30b#auth?page=test&auth=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiI1YjQzMDFmYzdkZTU1NzBjMzFkNTU1NTUiLCJzdWIiOiIxNTkzMDU3NDYiLCJhdWQiOiJDUCIsImV4cEludCI6MTc5MTk1ODYxMywiaWF0SW50IjoxNzkxODcyMjEzLCJvcmdJZCI6IjViNDMwMWZjN2RlNTU3MGMzMWQ1NTU1NSIsInJvbGVzIjoic3R1ZGVudCIsIm5hbWUiOiJIYWNrV2l0aEluZnlQcmVwIn0.dv7ZiOj084dQMJrlCPbktbT75UEi-f5wPKPgCS83hpb_9xPoh0sztk2fP2Hgzs-CWuY3AIAYgnPsil7qidAG6OWNRWEfBOI8sI2yi3OVrmusUD1hLBIN58X47LHJPzoXWJhM8Z7kOK2inSG4juP7a6SQ_TZj9iU-u8FpsxAm9fE6vwA2gfXAly8u8aCxfwE5O7BUpuYHTAVo6d0_KqO7b6rleMCV7dq0-UXYGer0Sj4mf_Yp_mkfs3XBE3SkUGwE0lT0_MTBpI5AbJwYLrbhAJQP0rJQK976Ua_AxSm0swnnTyd6_NsJvCVnQWI2a7S6O8iOb9bd2NzN8M5UXVjaHg&hideRank=0&isCPTestBookMarkEnabled=true",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "section": "Verbal Ability",
+      "id": "662369cf7cb737ee7ae9fa2c",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "Find the Error in the following sentences. Q1. Behave yourself; [1] lest you [2] should not [3] invite the wrath of the old man [4].",
+      "questionHtml": "<p>Find the Error in the following sentences.</p>\n<p>Q1. Behave yourself; [1] lest you [2] should not [3] invite the wrath of the old man [4].</p>",
+      "correctOption": "3",
+      "options": [
+        {
+          "order": "1",
+          "text": "1",
+          "html": "<p>1</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "2",
+          "html": "<p>2</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "3",
+          "html": "<p>3</p>",
+          "isCorrect": true
+        },
+        {
+          "order": "4",
+          "text": "4",
+          "html": "<p>4</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 2,
+      "section": "Verbal Ability",
+      "id": "662369cf7cb7373c59e9fa31",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "Find the Error in the following sentences. Q2. [1] Hardly [2] had 1 [3] climbed the stairs [4] than I was called down again.",
+      "questionHtml": "<p>Find the Error in the following sentences.</p>\n<p>Q2. [1] Hardly [2] had 1 [3] climbed the stairs [4] than I was called down again.</p>",
+      "correctOption": "4",
+      "options": [
+        {
+          "order": "1",
+          "text": "1",
+          "html": "<p>1</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "2",
+          "html": "<p>2</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "3",
+          "html": "<p>3</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "4",
+          "html": "<p>4</p>",
+          "isCorrect": true
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 3,
+      "section": "Verbal Ability",
+      "id": "662369cf7cb7378cbce9fa36",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "SENTENCE CORRECTION Though all competitive exams do not allow using a calculator , but where they are permitted, there are restrictions on the models allowed.",
+      "questionHtml": "<p>SENTENCE CORRECTION</p>\n<p></p>\n<p><span style=\"text-decoration: underline;\"><strong>Though all competitive exams do not allow using a calculator</strong></span>, but where they are permitted, there are restrictions on the models allowed.</p>",
+      "correctOption": "2",
+      "options": [
+        {
+          "order": "1",
+          "text": "Though all competitive exams do not allow using calculators",
+          "html": "<p>Though all competitive exams do not allow using calculators</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "Not all competitive exams allow the use of a calculator",
+          "html": "<p>Not all competitive exams allow the use of a calculator</p>",
+          "isCorrect": true
+        },
+        {
+          "order": "3",
+          "text": "Every competitive exam does not allow using of calculators",
+          "html": "<p>Every competitive exam does not allow using of calculators</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "No correction required",
+          "html": "<p>No correction required</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 4,
+      "section": "Verbal Ability",
+      "id": "662369cf7cb7375760e9fa3b",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "SENTENCE CORRECTION Researchers have recently discovered a bacteria, Ideonella sakaiensis, in a recycling plant that eats one of the most common forms of plastic.",
+      "questionHtml": "<p>SENTENCE CORRECTION</p>\n<p></p>\n<p>Researchers have recently discovered a bacteria, Ideonella sakaiensis, in a recycling plant that eats one of the most common forms of plastic.</p>",
+      "correctOption": "4",
+      "options": [
+        {
+          "order": "1",
+          "text": "a bacteria, Ideonella sakaiensis, that eats one of the most common forms of plastic in a recycling plant.",
+          "html": "<p>a bacteria, Ideonella sakaiensis, that eats one of the most common forms of plastic in a recycling plant.</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "Ideonella sakaiensis, a bacteria that eats one of the most common forms of plastic, in a recycling plant.",
+          "html": "<p>Ideonella sakaiensis, a bacteria that eats one of the most common forms of plastic, in a recycling plant.</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "a bacterium that eats one of the most common forms of plastic, Ideonella sakaiensis, in a recycling plant.",
+          "html": "<p>a bacterium that eats one of the most common forms of plastic, Ideonella sakaiensis, in a recycling plant.</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "Ideonella sakaiensis, a bacterium that eats one of the most common forms of plastic, in a recycling plant.",
+          "html": "<p>Ideonella sakaiensis, a bacterium that eats one of the most common forms of plastic, in a recycling plant.</p>",
+          "isCorrect": true
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 5,
+      "section": "Verbal Ability",
+      "id": "662369cf7cb7374bede9fa40",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "Antonym Q. Laconic",
+      "questionHtml": "<p>Antonym&nbsp;</p>\n<p></p>\n<p>Q. Laconic</p>",
+      "correctOption": "4",
+      "options": [
+        {
+          "order": "1",
+          "text": "Profligate",
+          "html": "<p>Profligate</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "Bucolic",
+          "html": "<p>Bucolic</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "Prolific",
+          "html": "<p>Prolific</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "Prolix",
+          "html": "<p>Prolix</p>",
+          "isCorrect": true
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 6,
+      "section": "Verbal Ability",
+      "id": "662369cf7cb7370b2fe9fa45",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "Antonym Q. Copious",
+      "questionHtml": "<p>Antonym&nbsp;</p>\n<p></p>\n<p>Q. Copious</p>",
+      "correctOption": "1",
+      "options": [
+        {
+          "order": "1",
+          "text": "Inadequate",
+          "html": "<p>Inadequate&nbsp;</p>",
+          "isCorrect": true
+        },
+        {
+          "order": "2",
+          "text": "Abundant",
+          "html": "<p>Abundant&nbsp;</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "Pious",
+          "html": "<p>Pious</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "Nadir",
+          "html": "<p>Nadir</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 7,
+      "section": "Verbal Ability",
+      "id": "662369cf7cb737020be9fa4a",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "Synonym Q. Gusto",
+      "questionHtml": "<p>Synonym</p>\n<p></p>\n<p>Q. Gusto</p>",
+      "correctOption": "1",
+      "options": [
+        {
+          "order": "1",
+          "text": "Fervently",
+          "html": "<p>Fervently</p>",
+          "isCorrect": true
+        },
+        {
+          "order": "2",
+          "text": "Lampooning",
+          "html": "<p>Lampooning</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "Bellicose",
+          "html": "<p>Bellicose&nbsp;</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "Ambush",
+          "html": "<p>Ambush</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 8,
+      "section": "Verbal Ability",
+      "id": "6623b42ce75dd425c3258118",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "Read each sentence to find out whether there is any grammatical or idiomatic error in it. The error, if any, will be in one part of the sentence. The number of that part is the answer. If the sentence is error-free then choose &ldquo;No error&rdquo; as your answer choice. (Ignore errors of punctuation, if any.) He is almost quite competent (A)/ for the post of Manager; (B)/ so when given a chance, (c)/he can lead the company to its goal (D)",
+      "questionHtml": "<p>Read each sentence to find out whether there is any grammatical or idiomatic error in it. The error, if any, will be in one part of the sentence. The number of that part is the answer. If the sentence is error-free then choose &ldquo;No error&rdquo; as your answer choice. (Ignore errors of punctuation, if any.)</p>\n<p></p>\n<p>He is almost quite competent (A)/ for the post of Manager; (B)/ so when given a chance, (c)/he can lead the company to its goal (D)</p>",
+      "correctOption": "1",
+      "options": [
+        {
+          "order": "1",
+          "text": "A",
+          "html": "<p>A</p>",
+          "isCorrect": true
+        },
+        {
+          "order": "2",
+          "text": "B",
+          "html": "<p>B</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "C",
+          "html": "<p>C</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "D",
+          "html": "<p>D</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "5",
+          "text": "No Error",
+          "html": "<p>No Error</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 9,
+      "section": "Verbal Ability",
+      "id": "6623b42ce75dd4285825811d",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "Which of these words is closest in meaning to the word provided? Remote",
+      "questionHtml": "<p>Which of these words is closest in meaning to the word provided?</p>\n<p style=\"text-align: left;\"><strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Remote</strong></p>",
+      "correctOption": "1",
+      "options": [
+        {
+          "order": "1",
+          "text": "Automatic",
+          "html": "<p>Automatic</p>",
+          "isCorrect": true
+        },
+        {
+          "order": "2",
+          "text": "Distant",
+          "html": "<p>&nbsp;Distant</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "Savage",
+          "html": "<p>Savage</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "Mean",
+          "html": "<p>Mean</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 10,
+      "section": "Verbal Ability",
+      "id": "6623b42ce75dd49a67258122",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "Read each sentence to find out whether there is any grammatical or idiomatic error in it. The error, if any, will be in one part of the sentence. The number of that part is the answer. If the sentence is error-free then choose &ldquo;No error&rdquo; as your answer choice. (Ignore errors of punctuation, if any.) The population density of (a)/ China is (b)/ greater (c)/ than America(d)",
+      "questionHtml": "<p>Read each sentence to find out whether there is any grammatical or idiomatic error in it. The error, if any, will be in one part of the sentence. The number of that part is the answer. If the sentence is error-free then choose &ldquo;No error&rdquo; as your answer choice. (Ignore errors of punctuation, if any.)</p>\n<p></p>\n<p>The population density of (a)/ China is (b)/ greater (c)/ than America(d)</p>",
+      "correctOption": "4",
+      "options": [
+        {
+          "order": "1",
+          "text": "a",
+          "html": "<p>a</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "b",
+          "html": "<p>b</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "c",
+          "html": "<p>c</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "d",
+          "html": "<p>d</p>",
+          "isCorrect": true
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 11,
+      "section": "Verbal Ability",
+      "id": "6623b42ce75dd4c7f0258127",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "DIRECTION: Choose the option which represents the best way of writing the Sentence",
+      "questionHtml": "<p>DIRECTION: Choose the option which represents the best way of writing the Sentence</p>",
+      "correctOption": "2",
+      "options": [
+        {
+          "order": "1",
+          "text": "This teacher, along with a few others, play the guitar during the leisure time.",
+          "html": "<p>&nbsp;This teacher, along with a few others, play the guitar during the leisure time.</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "This teacher, along with a few others, plays the guitar during the leisure time.",
+          "html": "<p>This teacher, along with a few others, plays the guitar during the leisure time.</p>",
+          "isCorrect": true
+        },
+        {
+          "order": "3",
+          "text": "This teacher, along with a few others, are playing the guitar during the leisure time.",
+          "html": "<p>This teacher, along with a few others, are playing the guitar during the leisure time.</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "This teacher, along with a few others, were playing the guitar during the leisure time",
+          "html": "<p>This teacher, along with a few others, were playing the guitar during the leisure time</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 12,
+      "section": "Verbal Ability",
+      "id": "6623b42ce75dd42bc925812c",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "DIRECTION: Choose the option which represents the best way of writing the Sentence",
+      "questionHtml": "<p>DIRECTION: Choose the option which represents the best way of writing the Sentence</p>",
+      "correctOption": "4",
+      "options": [
+        {
+          "order": "1",
+          "text": "Two-thirds of the city seem to be in ruins due to covid-19",
+          "html": "<p>Two-thirds of the city seem to be in ruins due to covid-19</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "Two-thirds of the city are in ruins due to covid-19",
+          "html": "<p>Two-thirds of the city are in ruins due to covid-19</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "Two-thirds of the city seeming ruins due to covid-19",
+          "html": "<p>Two-thirds of the city seeming ruins due to covid-19</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "Two-thirds of the city seems to be in ruins due to covid-19",
+          "html": "<p>Two-thirds of the city seems to be in ruins due to covid-19</p>",
+          "isCorrect": true
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 13,
+      "section": "Verbal Ability",
+      "id": "6623b42ce75dd41e92258131",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "The rotten smell was so _______________ that she became unconscious then and there and had to be hospitalized.",
+      "questionHtml": "<p>The rotten smell was so _______________ that she became unconscious then and there and had to be hospitalized.</p>",
+      "correctOption": "1",
+      "options": [
+        {
+          "order": "1",
+          "text": "revolting",
+          "html": "<p>revolting</p>",
+          "isCorrect": true
+        },
+        {
+          "order": "2",
+          "text": "gratifying",
+          "html": "<p>gratifying</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "captivating",
+          "html": "<p>captivating</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "unappealing",
+          "html": "<p>unappealing</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "5",
+          "text": "All of the above",
+          "html": "<p>All of the above</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 14,
+      "section": "Verbal Ability",
+      "id": "6623b42ce75dd413ff258136",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "The government should A. to improve B. introduce policies C. the quality of education D. in government schools",
+      "questionHtml": "<p>The government should</p>\n<p>A. to improve</p>\n<p>B. introduce policies</p>\n<p>C. the quality of education</p>\n<p>D. in government schools</p>",
+      "correctOption": "4",
+      "options": [
+        {
+          "order": "1",
+          "text": "DBAC",
+          "html": "<p>DBAC</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "DBAC",
+          "html": "<p>DBAC</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "ACDB",
+          "html": "<p>ACDB</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "BACD",
+          "html": "<p>BACD</p>",
+          "isCorrect": true
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 15,
+      "section": "Verbal Ability",
+      "id": "6623b42ce75dd434f825813b",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "Directions: In the given statements, a blank has been given. This needs to be filled up using the correct combination of words from the three options mentioned, so that the resulting statement is grammatically and contextually correct. People of different communities should not harbor grudge against each other, rather, they should celebrate fellow-feeling and _______________ amongst each other. I. friendship II. fraternity III. brotherhood",
+      "questionHtml": "<p>Directions: In the given statements, a blank has been given. This needs to be filled up using the correct combination of words from the three options mentioned, so that the resulting statement is grammatically and contextually correct.</p>\n<p></p>\n<p>People of different communities should not harbor grudge against each other, rather, they should celebrate fellow-feeling and _______________ amongst each other.</p>\n<p>I. friendship</p>\n<p>II. fraternity</p>\n<p>III. brotherhood</p>",
+      "correctOption": "5",
+      "options": [
+        {
+          "order": "1",
+          "text": "Only I",
+          "html": "<p>Only I</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "Only I and III",
+          "html": "<p>Only I and III</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "Only II and III",
+          "html": "<p>Only II and III</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "Only I and II",
+          "html": "<p>Only I and II</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "5",
+          "text": "I, II and III",
+          "html": "<p>I, II and III</p>",
+          "isCorrect": true
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 16,
+      "section": "Verbal Ability",
+      "id": "6623ba320022bcafdcd36fc7",
+      "type": "numerical",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "Directions: Rearrange the following six sentences A, B, C, D, E, and F in the proper sequence to form a meaningful paragraph and then answer the question given beside. 1. Children are growing up surrounded by mobile devices and interactive social networking sites. 2. The effects of social networking are two fold. 3. The impact of social networks on them is significant. 4. While on the negative side, the internet is laden with a number of risks associated with online communities. 5. Social media is a term used to describe the interaction between groups or individuals over the internet and in virtual communities. 6. On the positive side, social networks can act as invaluable tools for professionals Which of the following would be the FIRST sentence after rearrangement?",
+      "questionHtml": "<div>Directions: Rearrange the following six sentences A, B, C, D, E, and F in the proper sequence to form a meaningful paragraph and then answer the question given beside.</div>\n<div>1. Children are growing up surrounded by mobile devices and interactive social networking sites.</div>\n<div>2. The effects of social networking are two fold.</div>\n<div>3. The impact of social networks on them is significant.</div>\n<div>4. While on the negative side, the internet is laden with a number of risks associated with online communities.</div>\n<div>5. Social media is a term used to describe the interaction between groups or individuals over the internet and in virtual communities.</div>\n<div>6. On the positive side, social networks can act as invaluable tools for professionals</div>\n<div></div>\n<div><strong>Which of the following would be the FIRST sentence after rearrangement?</strong></div>",
+      "correctOption": "",
+      "options": [
+        {
+          "order": "1",
+          "text": "undefined",
+          "html": "undefined",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 17,
+      "section": "Verbal Ability",
+      "id": "6623ba320022bc939ad36fc9",
+      "type": "numerical",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "Directions: Rearrange the following six sentences A, B, C, D, E, and F in the proper sequence to form a meaningful paragraph and then answer the question given beside. 1. Children are growing up surrounded by mobile devices and interactive social networking sites. 2. The effects of social networking are two fold. 3. The impact of social networks on them is significant. 4. While on the negative side, the internet is laden with a number of risks associated with online communities. 5. Social media is a term used to describe the interaction between groups or individuals over the internet and in virtual communities. 6. On the positive side, social networks can act as invaluable tools for professionals Which of the following would be the THIRD sentence after rearrangement?",
+      "questionHtml": "<div>Directions: Rearrange the following six sentences A, B, C, D, E, and F in the proper sequence to form a meaningful paragraph and then answer the question given beside.</div>\n<div>1. Children are growing up surrounded by mobile devices and interactive social networking sites.</div>\n<div>2. The effects of social networking are two fold.</div>\n<div>3. The impact of social networks on them is significant.</div>\n<div>4. While on the negative side, the internet is laden with a number of risks associated with online communities.</div>\n<div>5. Social media is a term used to describe the interaction between groups or individuals over the internet and in virtual communities.</div>\n<div>6. On the positive side, social networks can act as invaluable tools for professionals</div>\n<div></div>\n<div><strong>Which of the following would be the THIRD sentence after rearrangement?</strong></div>",
+      "correctOption": "",
+      "options": [
+        {
+          "order": "1",
+          "text": "undefined",
+          "html": "undefined",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 18,
+      "section": "Verbal Ability",
+      "id": "6623ba320022bc5f0dd36fcb",
+      "type": "numerical",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "Directions: Rearrange the following six sentences A, B, C, D, E, and F in the proper sequence to form a meaningful paragraph and then answer the question given beside. 1. Children are growing up surrounded by mobile devices and interactive social networking sites. 2. The effects of social networking are two fold. 3. The impact of social networks on them is significant. 4. While on the negative side, the internet is laden with a number of risks associated with online communities. 5. Social media is a term used to describe the interaction between groups or individuals over the internet and in virtual communities. 6. On the positive side, social networks can act as invaluable tools for professionals Which of the following would be the LAST sentence after rearrangement?",
+      "questionHtml": "<div>Directions: Rearrange the following six sentences A, B, C, D, E, and F in the proper sequence to form a meaningful paragraph and then answer the question given beside.</div>\n<div>1. Children are growing up surrounded by mobile devices and interactive social networking sites.</div>\n<div>2. The effects of social networking are two fold.</div>\n<div>3. The impact of social networks on them is significant.</div>\n<div>4. While on the negative side, the internet is laden with a number of risks associated with online communities.</div>\n<div>5. Social media is a term used to describe the interaction between groups or individuals over the internet and in virtual communities.</div>\n<div>6. On the positive side, social networks can act as invaluable tools for professionals</div>\n<div></div>\n<div><strong>Which of the following would be the LAST sentence after rearrangement?</strong></div>",
+      "correctOption": "",
+      "options": [
+        {
+          "order": "1",
+          "text": "undefined",
+          "html": "undefined",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 19,
+      "section": "Verbal Ability",
+      "id": "6623c82995a5d48bf2ce4127",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "Directions: Read the following passage to answer the given questions based on it. Some words/phrases are printed in bold to help you locate them while answering some of the questions. (The passage has been extracted from 'The Hindu' dated June 11, 2014.) Ever since the morning after 26/11, India&rsquo;s strategic community has discussed what the country ought to do when the next 26/11 happens. Prime Minister Narendra Modi may have to answer that question sooner than most people expect. The Lashkar-e-Taiba (LeT) staged its first operation against an Indian target since 26/11 just hours before Mr. Modi took office, attacking India&rsquo;s mission in Herat. Lashkar chief Hafiz Muhammad Saeed blamed Mr. Modi for this week&rsquo;s attacks on Karachi &mdash; and demanded vengeance. From past evidence, we know these threats aren&rsquo;t idle . &ldquo;The only language India understands is that of force,&rdquo; a press release issued by the Lashkar&rsquo;s parent organisation, Jamaat-ud-Dawa recorded Mr. Saeed as saying before 26/11, &ldquo;and that is the language it must be talked to in.&rdquo; From files he will have read since taking office, Mr. Modi will have learned why Dr. Singh did nothing. Indian combat jets could hit training camps across the Line of Control (LoC), Air Chief Marshal Fali Major said at a November 29 meeting called for by the Prime Minister, but precise coordinates and adequate imaging weren&rsquo;t available. Later, General Deepak Kapoor, the chief of Army staff, told Dr. Singh he couldn&rsquo;t promise special forces&rsquo; strikes would be successful either. No one could guarantee missile strikes wouldn&rsquo;t escalate into war, or even a nuclear exchange &mdash; and no one could guarantee war would compel Pakistan&rsquo;s military to change course. Mr. Modi&rsquo;s advisers know five responses are on the table &mdash; but all of them involve great risks. The first is to keep doing nothing. The threat of a major India- Pakistan crisis after 26/11 led the United States to mount intense pressure on Pakistan. In the years since, the LeT hasn&rsquo;t mounted a single major operation on Indian soil. Its affiliate, the Indian Mujahideen, has had restraint thrust upon it by Pakistan&rsquo;s Inter-Services Intelligence (ISI) Directorate. Inaction, though, only succeeds if someone else does the hard work. In 2008, fearing its own war in Afghanistan would be undermined by an India-Pakistan war, the U.S. stepped in. Now, as it prepares to withdraw from Afghanistan, the country&rsquo;s appetite for playing global policeman is diminishing. Doing nothing could thus invite even more punishment. Like Prime Minister Atal Bihari Vajpayee, Mr. Modi&rsquo;s second choice might be coercion. In 2001, after terrorists attacked Parliament, India mobilised troops. Pakistan was forced to respond &mdash; but its smaller economy suffered disproportionately. The stratagem is time-tested. In 1953, Prime Minister Jawaharlal Nehru mobilised troops in Punjab to deter a Pakistani attack into Kashmir. Mr. Vajpayee&rsquo;s strategy worked, forcing Pakistan to dramatically scale down the jihad in Jammu and Kashmir. It only worked, though, because the U.S. played mediator &mdash; much like after 26/11 &mdash; and it was hideously expensive, in money and lives. The third choice is to do what Dr. Singh couldn&rsquo;t: limited strikes on jihadist training camps across the LoC, using air power or missiles. In the five years since 26/11, India&rsquo;s ability to conduct such strikes has been significantly enhanced. However, the tactic hasn&rsquo;t had great success. In August 1998, the United States fired missiles into Afghanistan, seeking to avenge bombings which killed 224 people. In all, 75 missiles, each priced at $1.5 million, killed six minor jihadists. Moreover, Pakistan could hit back, targeting Indian industrial infrastructure, which is much more expensive than tent-and-donkey cart training camps. Fourth, the Prime Minister could tell Indian troops to target the Pakistan Army along the LoC, using artillery and infantry &mdash; a task aided by the fact that its defences along stretches of the Neelam valley have been degraded by troops having to be moved to fight the Tehreek-e-Taliban elsewhere. The fighting that will follow though will make it more difficult to secure the LoC against jihadist infiltration &mdash; leading to heightened violence in Kashmir. Mr. Modi could, finally, authorise the use of covert means, like bomb-for-bomb strikes or targeted assassination of jihadist leaders. Mr. Modi&rsquo;s intelligence services, though, don&rsquo;t have this arrow in their quiver &mdash; and it will be a while, most experts say, before they can acquire it. Every sane person should hope Mr. Modi will never be required to exercise any of his military options &mdash; but thinking through war is just as important as talking peace. 1. What is the major reason according to the passage is for the Lashkar-e-Taiba not mounting a major operation on Indian soil after 26/11?",
+      "questionHtml": "<div class=\"WordSection1\">\n<p class=\"MsoNormal\" style=\"text-align: justify; margin: 0cm 6.05pt .0001pt 5.0pt;\"><strong><span lang=\"EN-US\" style=\"font-size: 14.0pt; mso-bidi-font-size: 11.0pt; color: #404040;\">Directions: Read the following passage to answer the given questions based on it. Some words/phrases are printed in bold to help you locate them while answering some of the questions.</span></strong><o:p></o:p></p>\n<p class=\"MsoBodyText\" style=\"margin-top: .1pt;\"><strong><span lang=\"EN-US\">&nbsp;</span></strong></p>\n<p class=\"MsoBodyText\" style=\"margin-left: 5.0pt; text-align: justify;\"><span lang=\"EN-US\">(The passage has been extracted from 'The Hindu' dated June 11, <span style=\"letter-spacing: -.1pt;\">2014.)</span><o:p></o:p></span></p>\n<p class=\"MsoBodyText\" style=\"text-align: justify; margin: 17.0pt 5.8pt .0001pt 5.0pt;\"><span lang=\"EN-US\">Ever since the morning after 26/11, India&rsquo;s strategic community has discussed what the country ought to do when the next 26/11 happens. Prime Minister Narendra Modi may have to answer that question sooner than most people expect. The Lashkar-e-Taiba (LeT) staged its first operation against an Indian target since 26/11 just hours before Mr. Modi took office, attacking India&rsquo;s mission in Herat. Lashkar chief Hafiz Muhammad Saeed blamed Mr. Modi for this week&rsquo;s attacks on Karachi &mdash; and demanded vengeance.<o:p></o:p></span></p>\n<p class=\"MsoBodyText\" style=\"margin-top: .1pt;\"><span lang=\"EN-US\">&nbsp;</span></p>\n<p class=\"MsoBodyText\" style=\"text-align: justify; margin: 0cm 5.8pt .0001pt 5.0pt;\"><span lang=\"EN-US\">From past evidence, we know these threats aren&rsquo;t <strong>idle</strong>. &ldquo;The only language India understands is that of force,&rdquo; a press release issued by the Lashkar&rsquo;s parent organisation, Jamaat-ud-Dawa recorded Mr. Saeed as saying before 26/11, &ldquo;and that is the language it must be talked to in.&rdquo;<o:p></o:p></span></p>\n<p class=\"MsoBodyText\" style=\"text-align: justify; margin: 17.05pt 5.7pt .0001pt 5.0pt;\"><span lang=\"EN-US\">From files he will have read since taking office, Mr. Modi will have learned why Dr. Singh did nothing. Indian combat jets could hit training camps across the Line of Control (LoC), Air Chief Marshal Fali Major said at a November 29 meeting called for by the Prime Minister, but precise coordinates and <strong>adequate </strong>imaging weren&rsquo;t available. Later, General Deepak Kapoor, the chief of Army staff, told Dr. Singh he couldn&rsquo;t promise special forces&rsquo; strikes would be successful either.<o:p></o:p></span></p>\n<p class=\"MsoBodyText\" style=\"margin-top: .05pt;\"><span lang=\"EN-US\">&nbsp;</span></p>\n<p class=\"MsoBodyText\" style=\"text-align: justify; margin: 0cm 5.8pt .0001pt 5.0pt;\"><span lang=\"EN-US\">No one could guarantee missile strikes wouldn&rsquo;t <strong>escalate </strong>into war, or even a nuclear exchange &mdash; and no one could guarantee war would compel Pakistan&rsquo;s military to change course.<o:p></o:p></span></p>\n</div>\n<p><span lang=\"EN-US\" style=\"font-size: 11.0pt; font-family: 'Calibri',sans-serif; mso-fareast-font-family: Calibri; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">&nbsp;</span></p>\n<div class=\"WordSection2\">\n<p class=\"MsoBodyText\" style=\"text-align: justify; margin: 1.0pt 5.8pt .0001pt 5.0pt;\"><span lang=\"EN-US\">Mr. Modi&rsquo;s advisers know five responses are on the table &mdash; but all of them involve great risks. The first is to keep doing nothing. The threat of a major India- Pakistan crisis after 26/11 led the United States to mount intense pressure on Pakistan. In the years since, the LeT hasn&rsquo;t mounted a single major operation on Indian soil. Its affiliate, the Indian Mujahideen, has had restraint thrust upon it by Pakistan&rsquo;s Inter-Services Intelligence (ISI) Directorate.<o:p></o:p></span></p>\n<p class=\"MsoBodyText\"><span lang=\"EN-US\">&nbsp;</span></p>\n<p class=\"MsoBodyText\" style=\"text-align: justify; margin: 0cm 5.75pt .0001pt 5.0pt;\"><span lang=\"EN-US\">Inaction, though, only succeeds if someone else does the hard work. In 2008, fearing its own war in Afghanistan would be <strong>undermined </strong>by an India-Pakistan war, the U.S. stepped in. Now, as it prepares to withdraw from Afghanistan, the country&rsquo;s appetite for playing global policeman is diminishing. Doing nothing could thus invite even more punishment.<o:p></o:p></span></p>\n<p class=\"MsoBodyText\" style=\"text-align: justify; margin: 17.05pt 5.7pt .0001pt 5.0pt;\"><span lang=\"EN-US\">Like Prime Minister Atal Bihari Vajpayee, Mr. Modi&rsquo;s second choice might be coercion. In 2001, after terrorists attacked Parliament, India mobilised troops. Pakistan was forced to respond &mdash; but its smaller economy suffered disproportionately. The stratagem is time-tested. In 1953, Prime Minister Jawaharlal Nehru mobilised troops in Punjab to deter a Pakistani attack into <span style=\"letter-spacing: -.1pt;\">Kashmir.</span><o:p></o:p></span></p>\n<p class=\"MsoBodyText\" style=\"margin-top: .05pt;\"><span lang=\"EN-US\">&nbsp;</span></p>\n<p class=\"MsoBodyText\" style=\"text-align: justify; margin: 0cm 5.8pt .0001pt 5.0pt;\"><span lang=\"EN-US\">Mr. Vajpayee&rsquo;s strategy worked, forcing Pakistan to dramatically scale down the jihad in Jammu and Kashmir. It only worked, though, because the U.S. played mediator &mdash; much like after 26/11 &mdash; and it was hideously expensive, in money and lives.<o:p></o:p></span></p>\n<p class=\"MsoBodyText\"><span lang=\"EN-US\">&nbsp;</span></p>\n<p class=\"MsoBodyText\" style=\"text-align: justify; margin: 0cm 5.95pt .0001pt 5.0pt;\"><span lang=\"EN-US\">The third choice is to do what Dr. Singh couldn&rsquo;t: limited strikes on jihadist training camps across the LoC, using air power or missiles. In the five years since 26/11, India&rsquo;s ability to conduct such strikes has been significantly enhanced. However, the tactic hasn&rsquo;t had great success. In August 1998, the United States fired missiles into Afghanistan, seeking to avenge bombings which killed 224 people. In all, 75 missiles, each priced at $1.5 million, killed six minor jihadists. Moreover, Pakistan could hit back, targeting Indian industrial infrastructure, which is much more expensive than tent-and-donkey cart training camps.<o:p></o:p></span></p>\n<p class=\"MsoBodyText\" style=\"margin-top: .05pt;\"><span lang=\"EN-US\">&nbsp;</span></p>\n<p class=\"MsoBodyText\" style=\"text-align: justify; margin: 0cm 5.7pt .0001pt 5.0pt;\"><span lang=\"EN-US\">Fourth, the Prime Minister could tell Indian troops to target the Pakistan Army along the LoC, using artillery and infantry &mdash; a task aided by the fact that its defences along stretches of the Neelam valley have been degraded by troops<o:p></o:p></span></p>\n</div>\n<p><span lang=\"EN-US\" style=\"font-size: 11.0pt; font-family: 'Calibri',sans-serif; mso-fareast-font-family: Calibri; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">&nbsp;</span></p>\n<p class=\"MsoBodyText\" style=\"text-align: justify; margin: 1.0pt 5.9pt .0001pt 5.0pt;\"><span lang=\"EN-US\">having to be moved to fight the Tehreek-e-Taliban elsewhere. The fighting that will follow though will make it more difficult to secure the LoC against jihadist infiltration &mdash; leading to heightened violence in Kashmir.<o:p></o:p></span></p>\n<p class=\"MsoBodyText\" style=\"margin-top: .05pt;\"><span lang=\"EN-US\">&nbsp;</span></p>\n<p class=\"MsoBodyText\" style=\"text-align: justify; margin: 0cm 5.6pt .0001pt 5.0pt;\"><span lang=\"EN-US\">Mr. Modi could, finally, authorise the use of covert means, like bomb-for-bomb strikes or targeted assassination of jihadist leaders. Mr. Modi&rsquo;s intelligence services, though, don&rsquo;t have this arrow in their quiver &mdash; and it will be a while, most experts say, before they can acquire it.<o:p></o:p></span></p>\n<p></p>\n<p class=\"MsoBodyText\" style=\"text-align: justify; margin: 17.05pt 5.85pt .0001pt 5.0pt;\"><span lang=\"EN-US\">Every sane person should hope Mr. Modi will never be required to <strong>exercise </strong>any of his military options &mdash; but thinking through war is just as important as talking <span style=\"letter-spacing: -.1pt;\">peace.</span><o:p></o:p></span></p>\n<p class=\"MsoBodyText\" style=\"text-align: justify; margin: 17.05pt 5.85pt .0001pt 5.0pt;\"></p>\n<p class=\"MsoBodyText\" style=\"text-align: justify; margin: 17.05pt 5.85pt .0001pt 5.0pt;\"></p>\n<p class=\"MsoListParagraph\" style=\"text-align: justify; text-indent: -22.6pt; mso-list: l0 level1 lfo1; tab-stops: 27.45pt 27.55pt; margin: 0cm 6.1pt .0001pt 27.55pt;\"><!-- [if !supportLists]--><strong><span lang=\"EN-US\" style=\"font-size: 16.0pt; mso-bidi-font-size: 11.0pt; color: #404040; letter-spacing: -.1pt; mso-font-width: 99%;\">1.<span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-weight: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></strong><!--[endif]--><strong><span lang=\"EN-US\" style=\"font-size: 16.0pt; mso-bidi-font-size: 11.0pt; color: #404040;\">What is the major reason according to the passage is for the Lashkar-e-Taiba not mounting a major operation on Indian soil after 26/11?<o:p></o:p></span></strong></p>",
+      "correctOption": "3",
+      "options": [
+        {
+          "order": "1",
+          "text": "Due to India's enhanced security after 26/11",
+          "html": "<p class=\"MsoListParagraph\" style=\"margin-top: .1pt; line-height: 17.05pt; mso-line-height-rule: exactly; mso-list: l0 level2 lfo1; tab-stops: 40.9pt;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt;\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';\">&nbsp;</span></span><!--[endif]--><span lang=\"EN-US\" style=\"font-size: 14.0pt; mso-bidi-font-size: 11.0pt;\">Due to India's enhanced security after<span style=\"letter-spacing: -.2pt;\"> 26/11</span><o:p></o:p></span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "Due to India's serious dialogue with Pakistan",
+          "html": "<p class=\"MsoListParagraph\" style=\"line-height: 17.05pt; mso-line-height-rule: exactly; mso-list: l0 level2 lfo1; tab-stops: 40.9pt;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt;\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';\">&nbsp;</span></span><!--[endif]--><span lang=\"EN-US\" style=\"font-size: 14.0pt; mso-bidi-font-size: 11.0pt;\">Due to India's serious dialogue with <span style=\"letter-spacing: -.1pt;\">Pakistan</span><o:p></o:p></span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "Due to the pressure Pakistan got from the United States of America",
+          "html": "<p><span lang=\"EN-US\" style=\"font-size: 14.0pt; mso-bidi-font-size: 11.0pt; font-family: 'Calibri',sans-serif; mso-fareast-font-family: Calibri; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">Due to the pressure Pakistan got from the United States of <span style=\"letter-spacing: -.1pt;\">America</span></span></p>",
+          "isCorrect": true
+        },
+        {
+          "order": "4",
+          "text": "Because the outfit lost its Chief in an accident",
+          "html": "<p class=\"MsoListParagraph\" style=\"line-height: 17.05pt; mso-line-height-rule: exactly; mso-list: l0 level2 lfo1; tab-stops: 40.9pt;\"><!-- [if !supportLists]--><span lang=\"EN-US\" style=\"font-size: 14.0pt; mso-bidi-font-size: 11.0pt;\">Because the outfit lost its Chief in an <span style=\"letter-spacing: -.1pt;\">accident</span><o:p></o:p></span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "5",
+          "text": "None of these",
+          "html": "<p class=\"MsoListParagraph\" style=\"margin-top: .1pt; mso-list: l0 level2 lfo1; tab-stops: 40.9pt;\"><!-- [if !supportLists]--><span lang=\"EN-US\" style=\"font-size: 14.0pt; mso-bidi-font-size: 11.0pt;\">None of <span style=\"letter-spacing: -.1pt;\">these</span><o:p></o:p></span></p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 20,
+      "section": "Verbal Ability",
+      "id": "6623c86a06cfa55fc786bfd2",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "Directions: Read the following passage to answer the given questions based on it. Some words/phrases are printed in bold to help you locate them while answering some of the questions. (The passage has been extracted from 'The Hindu' dated June 11, 2014.) Ever since the morning after 26/11, India&rsquo;s strategic community has discussed what the country ought to do when the next 26/11 happens. Prime Minister Narendra Modi may have to answer that question sooner than most people expect. The Lashkar-e-Taiba (LeT) staged its first operation against an Indian target since 26/11 just hours before Mr. Modi took office, attacking India&rsquo;s mission in Herat. Lashkar chief Hafiz Muhammad Saeed blamed Mr. Modi for this week&rsquo;s attacks on Karachi &mdash; and demanded vengeance. From past evidence, we know these threats aren&rsquo;t idle . &ldquo;The only language India understands is that of force,&rdquo; a press release issued by the Lashkar&rsquo;s parent organisation, Jamaat-ud-Dawa recorded Mr. Saeed as saying before 26/11, &ldquo;and that is the language it must be talked to in.&rdquo; From files he will have read since taking office, Mr. Modi will have learned why Dr. Singh did nothing. Indian combat jets could hit training camps across the Line of Control (LoC), Air Chief Marshal Fali Major said at a November 29 meeting called for by the Prime Minister, but precise coordinates and adequate imaging weren&rsquo;t available. Later, General Deepak Kapoor, the chief of Army staff, told Dr. Singh he couldn&rsquo;t promise special forces&rsquo; strikes would be successful either. No one could guarantee missile strikes wouldn&rsquo;t escalate into war, or even a nuclear exchange &mdash; and no one could guarantee war would compel Pakistan&rsquo;s military to change course. Mr. Modi&rsquo;s advisers know five responses are on the table &mdash; but all of them involve great risks. The first is to keep doing nothing. The threat of a major India- Pakistan crisis after 26/11 led the United States to mount intense pressure on Pakistan. In the years since, the LeT hasn&rsquo;t mounted a single major operation on Indian soil. Its affiliate, the Indian Mujahideen, has had restraint thrust upon it by Pakistan&rsquo;s Inter-Services Intelligence (ISI) Directorate. Inaction, though, only succeeds if someone else does the hard work. In 2008, fearing its own war in Afghanistan would be undermined by an India-Pakistan war, the U.S. stepped in. Now, as it prepares to withdraw from Afghanistan, the country&rsquo;s appetite for playing global policeman is diminishing. Doing nothing could thus invite even more punishment. Like Prime Minister Atal Bihari Vajpayee, Mr. Modi&rsquo;s second choice might be coercion. In 2001, after terrorists attacked Parliament, India mobilised troops. Pakistan was forced to respond &mdash; but its smaller economy suffered disproportionately. The stratagem is time-tested. In 1953, Prime Minister Jawaharlal Nehru mobilised troops in Punjab to deter a Pakistani attack into Kashmir. Mr. Vajpayee&rsquo;s strategy worked, forcing Pakistan to dramatically scale down the jihad in Jammu and Kashmir. It only worked, though, because the U.S. played mediator &mdash; much like after 26/11 &mdash; and it was hideously expensive, in money and lives. The third choice is to do what Dr. Singh couldn&rsquo;t: limited strikes on jihadist training camps across the LoC, using air power or missiles. In the five years since 26/11, India&rsquo;s ability to conduct such strikes has been significantly enhanced. However, the tactic hasn&rsquo;t had great success. In August 1998, the United States fired missiles into Afghanistan, seeking to avenge bombings which killed 224 people. In all, 75 missiles, each priced at $1.5 million, killed six minor jihadists. Moreover, Pakistan could hit back, targeting Indian industrial infrastructure, which is much more expensive than tent-and-donkey cart training camps. Fourth, the Prime Minister could tell Indian troops to target the Pakistan Army along the LoC, using artillery and infantry &mdash; a task aided by the fact that its defences along stretches of the Neelam valley have been degraded by troops having to be moved to fight the Tehreek-e-Taliban elsewhere. The fighting that will follow though will make it more difficult to secure the LoC against jihadist infiltration &mdash; leading to heightened violence in Kashmir. Mr. Modi could, finally, authorise the use of covert means, like bomb-for-bomb strikes or targeted assassination of jihadist leaders. Mr. Modi&rsquo;s intelligence services, though, don&rsquo;t have this arrow in their quiver &mdash; and it will be a while, most experts say, before they can acquire it. Every sane person should hope Mr. Modi will never be required to exercise any of his military options &mdash; but thinking through war is just as important as talking peace. 1. Which of the following statements according to the passage is not true?",
+      "questionHtml": "<div class=\"WordSection1\">\n<p class=\"MsoNormal\" style=\"text-align: justify; margin: 0cm 6.05pt .0001pt 5.0pt;\"><strong><span lang=\"EN-US\" style=\"font-size: 14.0pt; mso-bidi-font-size: 11.0pt; color: #404040;\">Directions: Read the following passage to answer the given questions based on it. Some words/phrases are printed in bold to help you locate them while answering some of the questions.</span></strong><o:p></o:p></p>\n<p class=\"MsoBodyText\" style=\"margin-top: .1pt;\"><strong><span lang=\"EN-US\">&nbsp;</span></strong></p>\n<p class=\"MsoBodyText\" style=\"margin-left: 5.0pt; text-align: justify;\"><span lang=\"EN-US\">(The passage has been extracted from 'The Hindu' dated June 11, <span style=\"letter-spacing: -.1pt;\">2014.)</span><o:p></o:p></span></p>\n<p class=\"MsoBodyText\" style=\"text-align: justify; margin: 17.0pt 5.8pt .0001pt 5.0pt;\"><span lang=\"EN-US\">Ever since the morning after 26/11, India&rsquo;s strategic community has discussed what the country ought to do when the next 26/11 happens. Prime Minister Narendra Modi may have to answer that question sooner than most people expect. The Lashkar-e-Taiba (LeT) staged its first operation against an Indian target since 26/11 just hours before Mr. Modi took office, attacking India&rsquo;s mission in Herat. Lashkar chief Hafiz Muhammad Saeed blamed Mr. Modi for this week&rsquo;s attacks on Karachi &mdash; and demanded vengeance.<o:p></o:p></span></p>\n<p class=\"MsoBodyText\" style=\"margin-top: .1pt;\"><span lang=\"EN-US\">&nbsp;</span></p>\n<p class=\"MsoBodyText\" style=\"text-align: justify; margin: 0cm 5.8pt .0001pt 5.0pt;\"><span lang=\"EN-US\">From past evidence, we know these threats aren&rsquo;t <strong>idle</strong>. &ldquo;The only language India understands is that of force,&rdquo; a press release issued by the Lashkar&rsquo;s parent organisation, Jamaat-ud-Dawa recorded Mr. Saeed as saying before 26/11, &ldquo;and that is the language it must be talked to in.&rdquo;<o:p></o:p></span></p>\n<p class=\"MsoBodyText\" style=\"text-align: justify; margin: 17.05pt 5.7pt .0001pt 5.0pt;\"><span lang=\"EN-US\">From files he will have read since taking office, Mr. Modi will have learned why Dr. Singh did nothing. Indian combat jets could hit training camps across the Line of Control (LoC), Air Chief Marshal Fali Major said at a November 29 meeting called for by the Prime Minister, but precise coordinates and <strong>adequate </strong>imaging weren&rsquo;t available. Later, General Deepak Kapoor, the chief of Army staff, told Dr. Singh he couldn&rsquo;t promise special forces&rsquo; strikes would be successful either.<o:p></o:p></span></p>\n<p class=\"MsoBodyText\" style=\"margin-top: .05pt;\"><span lang=\"EN-US\">&nbsp;</span></p>\n<p class=\"MsoBodyText\" style=\"text-align: justify; margin: 0cm 5.8pt .0001pt 5.0pt;\"><span lang=\"EN-US\">No one could guarantee missile strikes wouldn&rsquo;t <strong>escalate </strong>into war, or even a nuclear exchange &mdash; and no one could guarantee war would compel Pakistan&rsquo;s military to change course.<o:p></o:p></span></p>\n</div>\n<p><span lang=\"EN-US\" style=\"font-size: 11.0pt; font-family: 'Calibri',sans-serif; mso-fareast-font-family: Calibri; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">&nbsp;</span></p>\n<div class=\"WordSection2\">\n<p class=\"MsoBodyText\" style=\"text-align: justify; margin: 1.0pt 5.8pt .0001pt 5.0pt;\"><span lang=\"EN-US\">Mr. Modi&rsquo;s advisers know five responses are on the table &mdash; but all of them involve great risks. The first is to keep doing nothing. The threat of a major India- Pakistan crisis after 26/11 led the United States to mount intense pressure on Pakistan. In the years since, the LeT hasn&rsquo;t mounted a single major operation on Indian soil. Its affiliate, the Indian Mujahideen, has had restraint thrust upon it by Pakistan&rsquo;s Inter-Services Intelligence (ISI) Directorate.<o:p></o:p></span></p>\n<p class=\"MsoBodyText\"><span lang=\"EN-US\">&nbsp;</span></p>\n<p class=\"MsoBodyText\" style=\"text-align: justify; margin: 0cm 5.75pt .0001pt 5.0pt;\"><span lang=\"EN-US\">Inaction, though, only succeeds if someone else does the hard work. In 2008, fearing its own war in Afghanistan would be <strong>undermined </strong>by an India-Pakistan war, the U.S. stepped in. Now, as it prepares to withdraw from Afghanistan, the country&rsquo;s appetite for playing global policeman is diminishing. Doing nothing could thus invite even more punishment.<o:p></o:p></span></p>\n<p class=\"MsoBodyText\" style=\"text-align: justify; margin: 17.05pt 5.7pt .0001pt 5.0pt;\"><span lang=\"EN-US\">Like Prime Minister Atal Bihari Vajpayee, Mr. Modi&rsquo;s second choice might be coercion. In 2001, after terrorists attacked Parliament, India mobilised troops. Pakistan was forced to respond &mdash; but its smaller economy suffered disproportionately. The stratagem is time-tested. In 1953, Prime Minister Jawaharlal Nehru mobilised troops in Punjab to deter a Pakistani attack into <span style=\"letter-spacing: -.1pt;\">Kashmir.</span><o:p></o:p></span></p>\n<p class=\"MsoBodyText\" style=\"margin-top: .05pt;\"><span lang=\"EN-US\">&nbsp;</span></p>\n<p class=\"MsoBodyText\" style=\"text-align: justify; margin: 0cm 5.8pt .0001pt 5.0pt;\"><span lang=\"EN-US\">Mr. Vajpayee&rsquo;s strategy worked, forcing Pakistan to dramatically scale down the jihad in Jammu and Kashmir. It only worked, though, because the U.S. played mediator &mdash; much like after 26/11 &mdash; and it was hideously expensive, in money and lives.<o:p></o:p></span></p>\n<p class=\"MsoBodyText\"><span lang=\"EN-US\">&nbsp;</span></p>\n<p class=\"MsoBodyText\" style=\"text-align: justify; margin: 0cm 5.95pt .0001pt 5.0pt;\"><span lang=\"EN-US\">The third choice is to do what Dr. Singh couldn&rsquo;t: limited strikes on jihadist training camps across the LoC, using air power or missiles. In the five years since 26/11, India&rsquo;s ability to conduct such strikes has been significantly enhanced. However, the tactic hasn&rsquo;t had great success. In August 1998, the United States fired missiles into Afghanistan, seeking to avenge bombings which killed 224 people. In all, 75 missiles, each priced at $1.5 million, killed six minor jihadists. Moreover, Pakistan could hit back, targeting Indian industrial infrastructure, which is much more expensive than tent-and-donkey cart training camps.<o:p></o:p></span></p>\n<p class=\"MsoBodyText\" style=\"margin-top: .05pt;\"><span lang=\"EN-US\">&nbsp;</span></p>\n<p class=\"MsoBodyText\" style=\"text-align: justify; margin: 0cm 5.7pt .0001pt 5.0pt;\"><span lang=\"EN-US\">Fourth, the Prime Minister could tell Indian troops to target the Pakistan Army along the LoC, using artillery and infantry &mdash; a task aided by the fact that its defences along stretches of the Neelam valley have been degraded by troops<o:p></o:p></span></p>\n</div>\n<p><span lang=\"EN-US\" style=\"font-size: 11.0pt; font-family: 'Calibri',sans-serif; mso-fareast-font-family: Calibri; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">&nbsp;</span></p>\n<p class=\"MsoBodyText\" style=\"text-align: justify; margin: 1.0pt 5.9pt .0001pt 5.0pt;\"><span lang=\"EN-US\">having to be moved to fight the Tehreek-e-Taliban elsewhere. The fighting that will follow though will make it more difficult to secure the LoC against jihadist infiltration &mdash; leading to heightened violence in Kashmir.<o:p></o:p></span></p>\n<p class=\"MsoBodyText\" style=\"margin-top: .05pt;\"><span lang=\"EN-US\">&nbsp;</span></p>\n<p class=\"MsoBodyText\" style=\"text-align: justify; margin: 0cm 5.6pt .0001pt 5.0pt;\"><span lang=\"EN-US\">Mr. Modi could, finally, authorise the use of covert means, like bomb-for-bomb strikes or targeted assassination of jihadist leaders. Mr. Modi&rsquo;s intelligence services, though, don&rsquo;t have this arrow in their quiver &mdash; and it will be a while, most experts say, before they can acquire it.<o:p></o:p></span></p>\n<p></p>\n<p class=\"MsoBodyText\" style=\"text-align: justify; margin: 17.05pt 5.85pt .0001pt 5.0pt;\"><span lang=\"EN-US\">Every sane person should hope Mr. Modi will never be required to <strong>exercise </strong>any of his military options &mdash; but thinking through war is just as important as talking <span style=\"letter-spacing: -.1pt;\">peace.</span><o:p></o:p></span></p>\n<p class=\"MsoBodyText\" style=\"text-align: justify; margin: 17.05pt 5.85pt .0001pt 5.0pt;\"></p>\n<h1 style=\"margin-right: 6.0pt; text-indent: -22.6pt; mso-list: l0 level1 lfo1; tab-stops: 27.55pt;\"><!-- [if !supportLists]--><span lang=\"EN-US\" style=\"font-size: 14.0pt; color: #404040; letter-spacing: -.1pt; mso-font-width: 99%;\">1.<span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-weight: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><!--[endif]--><span lang=\"EN-US\" style=\"font-size: 14.0pt; color: #404040;\">Which of the following statements according to the passage is not <span style=\"letter-spacing: -.1pt;\">true?</span><o:p></o:p></span></h1>",
+      "correctOption": "1",
+      "options": [
+        {
+          "order": "1",
+          "text": "Coercion tactics to combat Pakistan's cloven hoof have never been successful in the past.",
+          "html": "<p class=\"MsoListParagraph\" style=\"text-indent: -18.0pt; mso-list: l0 level2 lfo1; tab-stops: 40.9pt 41.0pt; margin: .05pt 6.25pt .0001pt 41.0pt;\"><!-- [if !supportLists]--><span lang=\"EN-US\" style=\"font-size: 14.0pt; mso-bidi-font-size: 11.0pt;\">Coercion tactics to combat Pakistan's cloven hoof have never been successful in the past.<o:p></o:p></span></p>",
+          "isCorrect": true
+        },
+        {
+          "order": "2",
+          "text": "Dr M. M. Singh did almost nothing in response to 26/11 attacks.",
+          "html": "<p class=\"MsoListParagraph\" style=\"margin-top: .05pt; mso-list: l0 level2 lfo1; tab-stops: 40.9pt;\"><!-- [if !supportLists]--><span lang=\"EN-US\" style=\"font-size: 14.0pt; mso-bidi-font-size: 11.0pt;\">Dr M. M. Singh did almost nothing in response to 26/11 <span style=\"letter-spacing: -.1pt;\">attacks.</span><o:p></o:p></span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "Fighting the Pakistan Army along the LoC head-on may make it more difficult to secure the LoC against jihadist infiltration.",
+          "html": "<p class=\"MsoListParagraph\" style=\"text-indent: -18.0pt; mso-list: l0 level2 lfo1; tab-stops: 41.0pt; margin: .05pt 5.8pt .0001pt 41.0pt;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt;\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';\">&nbsp;</span></span><!--[endif]--><span lang=\"EN-US\" style=\"font-size: 14.0pt; mso-bidi-font-size: 11.0pt;\">Fighting the Pakistan Army along the LoC head-on may make it more difficult to secure the LoC against jihadist infiltration.<o:p></o:p></span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "A war with Pakistan could not guarantee peace after 26/11.",
+          "html": "<p class=\"MsoListParagraph\" style=\"line-height: 17.0pt; mso-line-height-rule: exactly; mso-list: l0 level2 lfo1; tab-stops: 40.9pt;\"><span lang=\"EN-US\" style=\"font-size: 14.0pt;\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';\">&nbsp; </span></span><!--[endif]--><span lang=\"EN-US\" style=\"font-size: 14.0pt; mso-bidi-font-size: 11.0pt;\">A war with Pakistan could not guarantee peace after <span style=\"letter-spacing: -.1pt;\">26/11.</span><o:p></o:p></span></p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 21,
+      "section": "Verbal Ability",
+      "id": "6623c86e0022bc4359d37691",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "Directions: Read the following passage to answer the given questions based on it. Some words/phrases are printed in bold to help you locate them while answering some of the questions. (The passage has been extracted from 'The Hindu' dated June 11, 2014.) Ever since the morning after 26/11, India&rsquo;s strategic community has discussed what the country ought to do when the next 26/11 happens. Prime Minister Narendra Modi may have to answer that question sooner than most people expect. The Lashkar-e-Taiba (LeT) staged its first operation against an Indian target since 26/11 just hours before Mr. Modi took office, attacking India&rsquo;s mission in Herat. Lashkar chief Hafiz Muhammad Saeed blamed Mr. Modi for this week&rsquo;s attacks on Karachi &mdash; and demanded vengeance. From past evidence, we know these threats aren&rsquo;t idle . &ldquo;The only language India understands is that of force,&rdquo; a press release issued by the Lashkar&rsquo;s parent organisation, Jamaat-ud-Dawa recorded Mr. Saeed as saying before 26/11, &ldquo;and that is the language it must be talked to in.&rdquo; From files he will have read since taking office, Mr. Modi will have learned why Dr. Singh did nothing. Indian combat jets could hit training camps across the Line of Control (LoC), Air Chief Marshal Fali Major said at a November 29 meeting called for by the Prime Minister, but precise coordinates and adequate imaging weren&rsquo;t available. Later, General Deepak Kapoor, the chief of Army staff, told Dr. Singh he couldn&rsquo;t promise special forces&rsquo; strikes would be successful either. No one could guarantee missile strikes wouldn&rsquo;t escalate into war, or even a nuclear exchange &mdash; and no one could guarantee war would compel Pakistan&rsquo;s military to change course. Mr. Modi&rsquo;s advisers know five responses are on the table &mdash; but all of them involve great risks. The first is to keep doing nothing. The threat of a major India- Pakistan crisis after 26/11 led the United States to mount intense pressure on Pakistan. In the years since, the LeT hasn&rsquo;t mounted a single major operation on Indian soil. Its affiliate, the Indian Mujahideen, has had restraint thrust upon it by Pakistan&rsquo;s Inter-Services Intelligence (ISI) Directorate. Inaction, though, only succeeds if someone else does the hard work. In 2008, fearing its own war in Afghanistan would be undermined by an India-Pakistan war, the U.S. stepped in. Now, as it prepares to withdraw from Afghanistan, the country&rsquo;s appetite for playing global policeman is diminishing. Doing nothing could thus invite even more punishment. Like Prime Minister Atal Bihari Vajpayee, Mr. Modi&rsquo;s second choice might be coercion. In 2001, after terrorists attacked Parliament, India mobilised troops. Pakistan was forced to respond &mdash; but its smaller economy suffered disproportionately. The stratagem is time-tested. In 1953, Prime Minister Jawaharlal Nehru mobilised troops in Punjab to deter a Pakistani attack into Kashmir. Mr. Vajpayee&rsquo;s strategy worked, forcing Pakistan to dramatically scale down the jihad in Jammu and Kashmir. It only worked, though, because the U.S. played mediator &mdash; much like after 26/11 &mdash; and it was hideously expensive, in money and lives. The third choice is to do what Dr. Singh couldn&rsquo;t: limited strikes on jihadist training camps across the LoC, using air power or missiles. In the five years since 26/11, India&rsquo;s ability to conduct such strikes has been significantly enhanced. However, the tactic hasn&rsquo;t had great success. In August 1998, the United States fired missiles into Afghanistan, seeking to avenge bombings which killed 224 people. In all, 75 missiles, each priced at $1.5 million, killed six minor jihadists. Moreover, Pakistan could hit back, targeting Indian industrial infrastructure, which is much more expensive than tent-and-donkey cart training camps. Fourth, the Prime Minister could tell Indian troops to target the Pakistan Army along the LoC, using artillery and infantry &mdash; a task aided by the fact that its defences along stretches of the Neelam valley have been degraded by troops having to be moved to fight the Tehreek-e-Taliban elsewhere. The fighting that will follow though will make it more difficult to secure the LoC against jihadist infiltration &mdash; leading to heightened violence in Kashmir. Mr. Modi could, finally, authorise the use of covert means, like bomb-for-bomb strikes or targeted assassination of jihadist leaders. Mr. Modi&rsquo;s intelligence services, though, don&rsquo;t have this arrow in their quiver &mdash; and it will be a while, most experts say, before they can acquire it. Every sane person should hope Mr. Modi will never be required to exercise any of his military options &mdash; but thinking through war is just as important as talking peace. What according to the passage could be a way to respond to Pakistan after 26/11 attacks? I. To persuade Pakistan forcefully to stop the terror acts on India. II. To launch limited strikes on jihadist training camps across the border. III. To target assassination of jihadist leaders.",
+      "questionHtml": "<div class=\"WordSection1\">\n<p class=\"MsoNormal\" style=\"text-align: justify; margin: 0cm 6.05pt .0001pt 5.0pt;\"><strong><span lang=\"EN-US\" style=\"font-size: 14.0pt; mso-bidi-font-size: 11.0pt; color: #404040;\">Directions: Read the following passage to answer the given questions based on it. Some words/phrases are printed in bold to help you locate them while answering some of the questions.</span></strong><o:p></o:p></p>\n<p class=\"MsoBodyText\" style=\"margin-top: .1pt;\"><strong><span lang=\"EN-US\">&nbsp;</span></strong></p>\n<p class=\"MsoBodyText\" style=\"margin-left: 5.0pt; text-align: justify;\"><span lang=\"EN-US\">(The passage has been extracted from 'The Hindu' dated June 11, <span style=\"letter-spacing: -.1pt;\">2014.)</span><o:p></o:p></span></p>\n<p class=\"MsoBodyText\" style=\"text-align: justify; margin: 17.0pt 5.8pt .0001pt 5.0pt;\"><span lang=\"EN-US\">Ever since the morning after 26/11, India&rsquo;s strategic community has discussed what the country ought to do when the next 26/11 happens. Prime Minister Narendra Modi may have to answer that question sooner than most people expect. The Lashkar-e-Taiba (LeT) staged its first operation against an Indian target since 26/11 just hours before Mr. Modi took office, attacking India&rsquo;s mission in Herat. Lashkar chief Hafiz Muhammad Saeed blamed Mr. Modi for this week&rsquo;s attacks on Karachi &mdash; and demanded vengeance.<o:p></o:p></span></p>\n<p class=\"MsoBodyText\" style=\"margin-top: .1pt;\"><span lang=\"EN-US\">&nbsp;</span></p>\n<p class=\"MsoBodyText\" style=\"text-align: justify; margin: 0cm 5.8pt .0001pt 5.0pt;\"><span lang=\"EN-US\">From past evidence, we know these threats aren&rsquo;t <strong>idle</strong>. &ldquo;The only language India understands is that of force,&rdquo; a press release issued by the Lashkar&rsquo;s parent organisation, Jamaat-ud-Dawa recorded Mr. Saeed as saying before 26/11, &ldquo;and that is the language it must be talked to in.&rdquo;<o:p></o:p></span></p>\n<p class=\"MsoBodyText\" style=\"text-align: justify; margin: 17.05pt 5.7pt .0001pt 5.0pt;\"><span lang=\"EN-US\">From files he will have read since taking office, Mr. Modi will have learned why Dr. Singh did nothing. Indian combat jets could hit training camps across the Line of Control (LoC), Air Chief Marshal Fali Major said at a November 29 meeting called for by the Prime Minister, but precise coordinates and <strong>adequate </strong>imaging weren&rsquo;t available. Later, General Deepak Kapoor, the chief of Army staff, told Dr. Singh he couldn&rsquo;t promise special forces&rsquo; strikes would be successful either.<o:p></o:p></span></p>\n<p class=\"MsoBodyText\" style=\"margin-top: .05pt;\"><span lang=\"EN-US\">&nbsp;</span></p>\n<p class=\"MsoBodyText\" style=\"text-align: justify; margin: 0cm 5.8pt .0001pt 5.0pt;\"><span lang=\"EN-US\">No one could guarantee missile strikes wouldn&rsquo;t <strong>escalate </strong>into war, or even a nuclear exchange &mdash; and no one could guarantee war would compel Pakistan&rsquo;s military to change course.<o:p></o:p></span></p>\n</div>\n<p><span lang=\"EN-US\" style=\"font-size: 11.0pt; font-family: 'Calibri',sans-serif; mso-fareast-font-family: Calibri; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">&nbsp;</span></p>\n<div class=\"WordSection2\">\n<p class=\"MsoBodyText\" style=\"text-align: justify; margin: 1.0pt 5.8pt .0001pt 5.0pt;\"><span lang=\"EN-US\">Mr. Modi&rsquo;s advisers know five responses are on the table &mdash; but all of them involve great risks. The first is to keep doing nothing. The threat of a major India- Pakistan crisis after 26/11 led the United States to mount intense pressure on Pakistan. In the years since, the LeT hasn&rsquo;t mounted a single major operation on Indian soil. Its affiliate, the Indian Mujahideen, has had restraint thrust upon it by Pakistan&rsquo;s Inter-Services Intelligence (ISI) Directorate.<o:p></o:p></span></p>\n<p class=\"MsoBodyText\"><span lang=\"EN-US\">&nbsp;</span></p>\n<p class=\"MsoBodyText\" style=\"text-align: justify; margin: 0cm 5.75pt .0001pt 5.0pt;\"><span lang=\"EN-US\">Inaction, though, only succeeds if someone else does the hard work. In 2008, fearing its own war in Afghanistan would be <strong>undermined </strong>by an India-Pakistan war, the U.S. stepped in. Now, as it prepares to withdraw from Afghanistan, the country&rsquo;s appetite for playing global policeman is diminishing. Doing nothing could thus invite even more punishment.<o:p></o:p></span></p>\n<p class=\"MsoBodyText\" style=\"text-align: justify; margin: 17.05pt 5.7pt .0001pt 5.0pt;\"><span lang=\"EN-US\">Like Prime Minister Atal Bihari Vajpayee, Mr. Modi&rsquo;s second choice might be coercion. In 2001, after terrorists attacked Parliament, India mobilised troops. Pakistan was forced to respond &mdash; but its smaller economy suffered disproportionately. The stratagem is time-tested. In 1953, Prime Minister Jawaharlal Nehru mobilised troops in Punjab to deter a Pakistani attack into <span style=\"letter-spacing: -.1pt;\">Kashmir.</span><o:p></o:p></span></p>\n<p class=\"MsoBodyText\" style=\"margin-top: .05pt;\"><span lang=\"EN-US\">&nbsp;</span></p>\n<p class=\"MsoBodyText\" style=\"text-align: justify; margin: 0cm 5.8pt .0001pt 5.0pt;\"><span lang=\"EN-US\">Mr. Vajpayee&rsquo;s strategy worked, forcing Pakistan to dramatically scale down the jihad in Jammu and Kashmir. It only worked, though, because the U.S. played mediator &mdash; much like after 26/11 &mdash; and it was hideously expensive, in money and lives.<o:p></o:p></span></p>\n<p class=\"MsoBodyText\"><span lang=\"EN-US\">&nbsp;</span></p>\n<p class=\"MsoBodyText\" style=\"text-align: justify; margin: 0cm 5.95pt .0001pt 5.0pt;\"><span lang=\"EN-US\">The third choice is to do what Dr. Singh couldn&rsquo;t: limited strikes on jihadist training camps across the LoC, using air power or missiles. In the five years since 26/11, India&rsquo;s ability to conduct such strikes has been significantly enhanced. However, the tactic hasn&rsquo;t had great success. In August 1998, the United States fired missiles into Afghanistan, seeking to avenge bombings which killed 224 people. In all, 75 missiles, each priced at $1.5 million, killed six minor jihadists. Moreover, Pakistan could hit back, targeting Indian industrial infrastructure, which is much more expensive than tent-and-donkey cart training camps.<o:p></o:p></span></p>\n<p class=\"MsoBodyText\" style=\"margin-top: .05pt;\"><span lang=\"EN-US\">&nbsp;</span></p>\n<p class=\"MsoBodyText\" style=\"text-align: justify; margin: 0cm 5.7pt .0001pt 5.0pt;\"><span lang=\"EN-US\">Fourth, the Prime Minister could tell Indian troops to target the Pakistan Army along the LoC, using artillery and infantry &mdash; a task aided by the fact that its defences along stretches of the Neelam valley have been degraded by troops<o:p></o:p></span></p>\n</div>\n<p><span lang=\"EN-US\" style=\"font-size: 11.0pt; font-family: 'Calibri',sans-serif; mso-fareast-font-family: Calibri; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">&nbsp;</span></p>\n<p class=\"MsoBodyText\" style=\"text-align: justify; margin: 1.0pt 5.9pt .0001pt 5.0pt;\"><span lang=\"EN-US\">having to be moved to fight the Tehreek-e-Taliban elsewhere. The fighting that will follow though will make it more difficult to secure the LoC against jihadist infiltration &mdash; leading to heightened violence in Kashmir.<o:p></o:p></span></p>\n<p class=\"MsoBodyText\" style=\"margin-top: .05pt;\"><span lang=\"EN-US\">&nbsp;</span></p>\n<p class=\"MsoBodyText\" style=\"text-align: justify; margin: 0cm 5.6pt .0001pt 5.0pt;\"><span lang=\"EN-US\">Mr. Modi could, finally, authorise the use of covert means, like bomb-for-bomb strikes or targeted assassination of jihadist leaders. Mr. Modi&rsquo;s intelligence services, though, don&rsquo;t have this arrow in their quiver &mdash; and it will be a while, most experts say, before they can acquire it.<o:p></o:p></span></p>\n<p></p>\n<p class=\"MsoBodyText\" style=\"text-align: justify; margin: 17.05pt 5.85pt .0001pt 5.0pt;\"><span lang=\"EN-US\">Every sane person should hope Mr. Modi will never be required to <strong>exercise </strong>any of his military options &mdash; but thinking through war is just as important as talking <span style=\"letter-spacing: -.1pt;\">peace.</span></span></p>\n<p class=\"MsoBodyText\" style=\"text-align: justify; margin: 17.05pt 5.85pt .0001pt 5.0pt;\"><o:p></o:p><strong><span lang=\"EN-US\" style=\"font-size: 16.0pt; mso-bidi-font-size: 11.0pt; letter-spacing: -.1pt; mso-font-width: 99%;\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-weight: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';\">&nbsp; </span></span></strong><!--[endif]--><strong><span lang=\"EN-US\" style=\"font-size: 16.0pt; mso-bidi-font-size: 11.0pt; color: #404040;\">What according to the passage could be a way to respond to Pakistan after 26/11 attacks?</span></strong><o:p></o:p></p>\n<p class=\"MsoListParagraph\" style=\"text-indent: -22.1pt; mso-list: l0 level1 lfo1; tab-stops: 54.55pt; margin: .05pt 5.95pt .0001pt 54.55pt;\"><!-- [if !supportLists]--><strong><span lang=\"EN-US\" style=\"font-size: 16.0pt; color: #404040; letter-spacing: -.1pt; mso-font-width: 99%;\">I.<span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-weight: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></strong><!--[endif]--><strong><span lang=\"EN-US\" style=\"font-size: 16.0pt; mso-bidi-font-size: 11.0pt; color: #404040;\">To persuade Pakistan forcefully to stop the terror acts on <span style=\"letter-spacing: -.1pt;\">India.</span></span></strong><o:p></o:p></p>\n<p class=\"MsoListParagraph\" style=\"text-indent: -26.4pt; mso-list: l0 level1 lfo1; tab-stops: 54.55pt; margin: 0cm 6.15pt .0001pt 54.55pt;\"><!-- [if !supportLists]--><strong><span lang=\"EN-US\" style=\"font-size: 16.0pt; color: #404040; letter-spacing: -.1pt; mso-font-width: 99%;\">II.<span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-weight: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></strong><!--[endif]--><strong><span lang=\"EN-US\" style=\"font-size: 16.0pt; mso-bidi-font-size: 11.0pt; color: #404040;\">To launch limited strikes on jihadist training camps across the <span style=\"letter-spacing: -.1pt;\">border.</span></span></strong><o:p></o:p></p>\n<p class=\"MsoBodyText\" style=\"text-align: justify; margin: 17.05pt 5.85pt .0001pt 5.0pt;\"></p>\n<p class=\"MsoListParagraph\" style=\"margin-left: 54.55pt; text-indent: -30.6pt; mso-list: l0 level1 lfo1; tab-stops: 54.55pt;\"><!-- [if !supportLists]--><strong><span lang=\"EN-US\" style=\"font-size: 16.0pt; color: #404040; letter-spacing: -.1pt; mso-font-width: 99%;\">III.<span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-weight: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></strong><!--[endif]--><strong><span lang=\"EN-US\" style=\"font-size: 16.0pt; mso-bidi-font-size: 11.0pt; color: #404040;\">To target assassination of jihadist <span style=\"letter-spacing: -.1pt;\">leaders.</span></span></strong><o:p></o:p></p>",
+      "correctOption": "5",
+      "options": [
+        {
+          "order": "1",
+          "text": "Only 1",
+          "html": "<p><span lang=\"EN-US\" style=\"font-size: 11.0pt; font-family: 'Calibri',sans-serif; mso-fareast-font-family: Calibri; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">Only <span style=\"letter-spacing: -.5pt;\">1</span></span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "Only 2",
+          "html": "<p><span lang=\"EN-US\" style=\"font-size: 11.0pt; font-family: 'Calibri',sans-serif; mso-fareast-font-family: Calibri; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">Only <span style=\"letter-spacing: -.5pt;\">2</span></span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "Only 1 & 2",
+          "html": "<p><span lang=\"EN-US\" style=\"font-size: 11.0pt; font-family: 'Calibri',sans-serif; mso-fareast-font-family: Calibri; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">Only 1 &amp; <span style=\"letter-spacing: -.5pt;\">2</span></span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "Only 2 & 3",
+          "html": "<p><span lang=\"EN-US\" style=\"font-size: 11.0pt; font-family: 'Calibri',sans-serif; mso-fareast-font-family: Calibri; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">Only 2 &amp; <span style=\"letter-spacing: -.5pt;\">3</span></span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "5",
+          "text": "All the above",
+          "html": "<p><span lang=\"EN-US\" style=\"font-size: 11.0pt; font-family: 'Calibri',sans-serif; mso-fareast-font-family: Calibri; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">All the<span style=\"letter-spacing: -.1pt;\"> above</span></span></p>",
+          "isCorrect": true
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 22,
+      "section": "Verbal Ability",
+      "id": "6623c871c0fc7a9dcdd33363",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "Directions: Read the following passage to answer the given questions based on it. Some words/phrases are printed in bold to help you locate them while answering some of the questions. (The passage has been extracted from 'The Hindu' dated June 11, 2014.) Ever since the morning after 26/11, India&rsquo;s strategic community has discussed what the country ought to do when the next 26/11 happens. Prime Minister Narendra Modi may have to answer that question sooner than most people expect. The Lashkar-e-Taiba (LeT) staged its first operation against an Indian target since 26/11 just hours before Mr. Modi took office, attacking India&rsquo;s mission in Herat. Lashkar chief Hafiz Muhammad Saeed blamed Mr. Modi for this week&rsquo;s attacks on Karachi &mdash; and demanded vengeance. From past evidence, we know these threats aren&rsquo;t idle . &ldquo;The only language India understands is that of force,&rdquo; a press release issued by the Lashkar&rsquo;s parent organisation, Jamaat-ud-Dawa recorded Mr. Saeed as saying before 26/11, &ldquo;and that is the language it must be talked to in.&rdquo; From files he will have read since taking office, Mr. Modi will have learned why Dr. Singh did nothing. Indian combat jets could hit training camps across the Line of Control (LoC), Air Chief Marshal Fali Major said at a November 29 meeting called for by the Prime Minister, but precise coordinates and adequate imaging weren&rsquo;t available. Later, General Deepak Kapoor, the chief of Army staff, told Dr. Singh he couldn&rsquo;t promise special forces&rsquo; strikes would be successful either. No one could guarantee missile strikes wouldn&rsquo;t escalate into war, or even a nuclear exchange &mdash; and no one could guarantee war would compel Pakistan&rsquo;s military to change course. Mr. Modi&rsquo;s advisers know five responses are on the table &mdash; but all of them involve great risks. The first is to keep doing nothing. The threat of a major India- Pakistan crisis after 26/11 led the United States to mount intense pressure on Pakistan. In the years since, the LeT hasn&rsquo;t mounted a single major operation on Indian soil. Its affiliate, the Indian Mujahideen, has had restraint thrust upon it by Pakistan&rsquo;s Inter-Services Intelligence (ISI) Directorate. Inaction, though, only succeeds if someone else does the hard work. In 2008, fearing its own war in Afghanistan would be undermined by an India-Pakistan war, the U.S. stepped in. Now, as it prepares to withdraw from Afghanistan, the country&rsquo;s appetite for playing global policeman is diminishing. Doing nothing could thus invite even more punishment. Like Prime Minister Atal Bihari Vajpayee, Mr. Modi&rsquo;s second choice might be coercion. In 2001, after terrorists attacked Parliament, India mobilised troops. Pakistan was forced to respond &mdash; but its smaller economy suffered disproportionately. The stratagem is time-tested. In 1953, Prime Minister Jawaharlal Nehru mobilised troops in Punjab to deter a Pakistani attack into Kashmir. Mr. Vajpayee&rsquo;s strategy worked, forcing Pakistan to dramatically scale down the jihad in Jammu and Kashmir. It only worked, though, because the U.S. played mediator &mdash; much like after 26/11 &mdash; and it was hideously expensive, in money and lives. The third choice is to do what Dr. Singh couldn&rsquo;t: limited strikes on jihadist training camps across the LoC, using air power or missiles. In the five years since 26/11, India&rsquo;s ability to conduct such strikes has been significantly enhanced. However, the tactic hasn&rsquo;t had great success. In August 1998, the United States fired missiles into Afghanistan, seeking to avenge bombings which killed 224 people. In all, 75 missiles, each priced at $1.5 million, killed six minor jihadists. Moreover, Pakistan could hit back, targeting Indian industrial infrastructure, which is much more expensive than tent-and-donkey cart training camps. Fourth, the Prime Minister could tell Indian troops to target the Pakistan Army along the LoC, using artillery and infantry &mdash; a task aided by the fact that its defences along stretches of the Neelam valley have been degraded by troops having to be moved to fight the Tehreek-e-Taliban elsewhere. The fighting that will follow though will make it more difficult to secure the LoC against jihadist infiltration &mdash; leading to heightened violence in Kashmir. Mr. Modi could, finally, authorise the use of covert means, like bomb-for-bomb strikes or targeted assassination of jihadist leaders. Mr. Modi&rsquo;s intelligence services, though, don&rsquo;t have this arrow in their quiver &mdash; and it will be a while, most experts say, before they can acquire it. Every sane person should hope Mr. Modi will never be required to exercise any of his military options &mdash; but thinking through war is just as important as talking peace. Choose the word most SIMILAR in meaning ( In the context of the passage only ) Idle",
+      "questionHtml": "<div class=\"WordSection1\">\n<p class=\"MsoNormal\" style=\"text-align: justify; margin: 0cm 6.05pt .0001pt 5.0pt;\"><strong><span lang=\"EN-US\" style=\"font-size: 14.0pt; mso-bidi-font-size: 11.0pt; color: #404040;\">Directions: Read the following passage to answer the given questions based on it. Some words/phrases are printed in bold to help you locate them while answering some of the questions.</span></strong><o:p></o:p></p>\n<p class=\"MsoBodyText\" style=\"margin-top: .1pt;\"><strong><span lang=\"EN-US\">&nbsp;</span></strong></p>\n<p class=\"MsoBodyText\" style=\"margin-left: 5.0pt; text-align: justify;\"><span lang=\"EN-US\">(The passage has been extracted from 'The Hindu' dated June 11, <span style=\"letter-spacing: -.1pt;\">2014.)</span><o:p></o:p></span></p>\n<p class=\"MsoBodyText\" style=\"text-align: justify; margin: 17.0pt 5.8pt .0001pt 5.0pt;\"><span lang=\"EN-US\">Ever since the morning after 26/11, India&rsquo;s strategic community has discussed what the country ought to do when the next 26/11 happens. Prime Minister Narendra Modi may have to answer that question sooner than most people expect. The Lashkar-e-Taiba (LeT) staged its first operation against an Indian target since 26/11 just hours before Mr. Modi took office, attacking India&rsquo;s mission in Herat. Lashkar chief Hafiz Muhammad Saeed blamed Mr. Modi for this week&rsquo;s attacks on Karachi &mdash; and demanded vengeance.<o:p></o:p></span></p>\n<p class=\"MsoBodyText\" style=\"margin-top: .1pt;\"><span lang=\"EN-US\">&nbsp;</span></p>\n<p class=\"MsoBodyText\" style=\"text-align: justify; margin: 0cm 5.8pt .0001pt 5.0pt;\"><span lang=\"EN-US\">From past evidence, we know these threats aren&rsquo;t <strong>idle</strong>. &ldquo;The only language India understands is that of force,&rdquo; a press release issued by the Lashkar&rsquo;s parent organisation, Jamaat-ud-Dawa recorded Mr. Saeed as saying before 26/11, &ldquo;and that is the language it must be talked to in.&rdquo;<o:p></o:p></span></p>\n<p class=\"MsoBodyText\" style=\"text-align: justify; margin: 17.05pt 5.7pt .0001pt 5.0pt;\"><span lang=\"EN-US\">From files he will have read since taking office, Mr. Modi will have learned why Dr. Singh did nothing. Indian combat jets could hit training camps across the Line of Control (LoC), Air Chief Marshal Fali Major said at a November 29 meeting called for by the Prime Minister, but precise coordinates and <strong>adequate </strong>imaging weren&rsquo;t available. Later, General Deepak Kapoor, the chief of Army staff, told Dr. Singh he couldn&rsquo;t promise special forces&rsquo; strikes would be successful either.<o:p></o:p></span></p>\n<p class=\"MsoBodyText\" style=\"margin-top: .05pt;\"><span lang=\"EN-US\">&nbsp;</span></p>\n<p class=\"MsoBodyText\" style=\"text-align: justify; margin: 0cm 5.8pt .0001pt 5.0pt;\"><span lang=\"EN-US\">No one could guarantee missile strikes wouldn&rsquo;t <strong>escalate </strong>into war, or even a nuclear exchange &mdash; and no one could guarantee war would compel Pakistan&rsquo;s military to change course.<o:p></o:p></span></p>\n</div>\n<p><span lang=\"EN-US\" style=\"font-size: 11.0pt; font-family: 'Calibri',sans-serif; mso-fareast-font-family: Calibri; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">&nbsp;</span></p>\n<div class=\"WordSection2\">\n<p class=\"MsoBodyText\" style=\"text-align: justify; margin: 1.0pt 5.8pt .0001pt 5.0pt;\"><span lang=\"EN-US\">Mr. Modi&rsquo;s advisers know five responses are on the table &mdash; but all of them involve great risks. The first is to keep doing nothing. The threat of a major India- Pakistan crisis after 26/11 led the United States to mount intense pressure on Pakistan. In the years since, the LeT hasn&rsquo;t mounted a single major operation on Indian soil. Its affiliate, the Indian Mujahideen, has had restraint thrust upon it by Pakistan&rsquo;s Inter-Services Intelligence (ISI) Directorate.<o:p></o:p></span></p>\n<p class=\"MsoBodyText\"><span lang=\"EN-US\">&nbsp;</span></p>\n<p class=\"MsoBodyText\" style=\"text-align: justify; margin: 0cm 5.75pt .0001pt 5.0pt;\"><span lang=\"EN-US\">Inaction, though, only succeeds if someone else does the hard work. In 2008, fearing its own war in Afghanistan would be <strong>undermined </strong>by an India-Pakistan war, the U.S. stepped in. Now, as it prepares to withdraw from Afghanistan, the country&rsquo;s appetite for playing global policeman is diminishing. Doing nothing could thus invite even more punishment.<o:p></o:p></span></p>\n<p class=\"MsoBodyText\" style=\"text-align: justify; margin: 17.05pt 5.7pt .0001pt 5.0pt;\"><span lang=\"EN-US\">Like Prime Minister Atal Bihari Vajpayee, Mr. Modi&rsquo;s second choice might be coercion. In 2001, after terrorists attacked Parliament, India mobilised troops. Pakistan was forced to respond &mdash; but its smaller economy suffered disproportionately. The stratagem is time-tested. In 1953, Prime Minister Jawaharlal Nehru mobilised troops in Punjab to deter a Pakistani attack into <span style=\"letter-spacing: -.1pt;\">Kashmir.</span><o:p></o:p></span></p>\n<p class=\"MsoBodyText\" style=\"margin-top: .05pt;\"><span lang=\"EN-US\">&nbsp;</span></p>\n<p class=\"MsoBodyText\" style=\"text-align: justify; margin: 0cm 5.8pt .0001pt 5.0pt;\"><span lang=\"EN-US\">Mr. Vajpayee&rsquo;s strategy worked, forcing Pakistan to dramatically scale down the jihad in Jammu and Kashmir. It only worked, though, because the U.S. played mediator &mdash; much like after 26/11 &mdash; and it was hideously expensive, in money and lives.<o:p></o:p></span></p>\n<p class=\"MsoBodyText\"><span lang=\"EN-US\">&nbsp;</span></p>\n<p class=\"MsoBodyText\" style=\"text-align: justify; margin: 0cm 5.95pt .0001pt 5.0pt;\"><span lang=\"EN-US\">The third choice is to do what Dr. Singh couldn&rsquo;t: limited strikes on jihadist training camps across the LoC, using air power or missiles. In the five years since 26/11, India&rsquo;s ability to conduct such strikes has been significantly enhanced. However, the tactic hasn&rsquo;t had great success. In August 1998, the United States fired missiles into Afghanistan, seeking to avenge bombings which killed 224 people. In all, 75 missiles, each priced at $1.5 million, killed six minor jihadists. Moreover, Pakistan could hit back, targeting Indian industrial infrastructure, which is much more expensive than tent-and-donkey cart training camps.<o:p></o:p></span></p>\n<p class=\"MsoBodyText\" style=\"margin-top: .05pt;\"><span lang=\"EN-US\">&nbsp;</span></p>\n<p class=\"MsoBodyText\" style=\"text-align: justify; margin: 0cm 5.7pt .0001pt 5.0pt;\"><span lang=\"EN-US\">Fourth, the Prime Minister could tell Indian troops to target the Pakistan Army along the LoC, using artillery and infantry &mdash; a task aided by the fact that its defences along stretches of the Neelam valley have been degraded by troops<o:p></o:p></span></p>\n</div>\n<p><span lang=\"EN-US\" style=\"font-size: 11.0pt; font-family: 'Calibri',sans-serif; mso-fareast-font-family: Calibri; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">&nbsp;</span></p>\n<p class=\"MsoBodyText\" style=\"text-align: justify; margin: 1.0pt 5.9pt .0001pt 5.0pt;\"><span lang=\"EN-US\">having to be moved to fight the Tehreek-e-Taliban elsewhere. The fighting that will follow though will make it more difficult to secure the LoC against jihadist infiltration &mdash; leading to heightened violence in Kashmir.<o:p></o:p></span></p>\n<p class=\"MsoBodyText\" style=\"margin-top: .05pt;\"><span lang=\"EN-US\">&nbsp;</span></p>\n<p class=\"MsoBodyText\" style=\"text-align: justify; margin: 0cm 5.6pt .0001pt 5.0pt;\"><span lang=\"EN-US\">Mr. Modi could, finally, authorise the use of covert means, like bomb-for-bomb strikes or targeted assassination of jihadist leaders. Mr. Modi&rsquo;s intelligence services, though, don&rsquo;t have this arrow in their quiver &mdash; and it will be a while, most experts say, before they can acquire it.<o:p></o:p></span></p>\n<p></p>\n<p class=\"MsoBodyText\" style=\"text-align: justify; margin: 17.05pt 5.85pt .0001pt 5.0pt;\"><span lang=\"EN-US\">Every sane person should hope Mr. Modi will never be required to <strong>exercise </strong>any of his military options &mdash; but thinking through war is just as important as talking <span style=\"letter-spacing: -.1pt;\">peace.</span><o:p></o:p></span></p>\n<p class=\"MsoNormal\"><span lang=\"EN-US\" style=\"font-size: 18.0pt;\">Choose the word most SIMILAR in <span style=\"letter-spacing: -.1pt;\">meaning ( In </span></span><span style=\"font-family: Calibri, sans-serif; font-size: 13.5pt;\">the context of the passage only )&nbsp;</span></p>\n<p class=\"MsoNormal\"><span lang=\"EN-US\" style=\"font-size: 18.0pt; letter-spacing: -.2pt;\">Idle</span><o:p></o:p></p>",
+      "correctOption": "4",
+      "options": [
+        {
+          "order": "1",
+          "text": "Free",
+          "html": "<p><span lang=\"EN-US\" style=\"font-size: 18.0pt; font-family: 'Calibri',sans-serif; mso-fareast-font-family: Calibri; letter-spacing: -.2pt; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">Free</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "Unoccupied",
+          "html": "<p><span lang=\"EN-US\" style=\"font-size: 18.0pt; font-family: 'Calibri',sans-serif; mso-fareast-font-family: Calibri; letter-spacing: -.1pt; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">Unoccupied</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "Forfeiture",
+          "html": "<p><span lang=\"EN-US\" style=\"font-size: 18.0pt; font-family: 'Calibri',sans-serif; mso-fareast-font-family: Calibri; letter-spacing: -.1pt; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">Forfeiture</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "Hollow",
+          "html": "<p><span lang=\"EN-US\" style=\"font-size: 18.0pt; font-family: 'Calibri',sans-serif; mso-fareast-font-family: Calibri; letter-spacing: -.1pt; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">Hollow</span></p>",
+          "isCorrect": true
+        },
+        {
+          "order": "5",
+          "text": "Abandoned",
+          "html": "<p><span lang=\"EN-US\" style=\"font-size: 18.0pt; font-family: 'Calibri',sans-serif; mso-fareast-font-family: Calibri; letter-spacing: -.1pt; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">Abandoned</span></p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 23,
+      "section": "Verbal Ability",
+      "id": "6623c874023a66ace1507c85",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "Directions: Read the following passage to answer the given questions based on it. Some words/phrases are printed in bold to help you locate them while answering some of the questions. (The passage has been extracted from 'The Hindu' dated June 11, 2014.) Ever since the morning after 26/11, India&rsquo;s strategic community has discussed what the country ought to do when the next 26/11 happens. Prime Minister Narendra Modi may have to answer that question sooner than most people expect. The Lashkar-e-Taiba (LeT) staged its first operation against an Indian target since 26/11 just hours before Mr. Modi took office, attacking India&rsquo;s mission in Herat. Lashkar chief Hafiz Muhammad Saeed blamed Mr. Modi for this week&rsquo;s attacks on Karachi &mdash; and demanded vengeance. From past evidence, we know these threats aren&rsquo;t idle . &ldquo;The only language India understands is that of force,&rdquo; a press release issued by the Lashkar&rsquo;s parent organisation, Jamaat-ud-Dawa recorded Mr. Saeed as saying before 26/11, &ldquo;and that is the language it must be talked to in.&rdquo; From files he will have read since taking office, Mr. Modi will have learned why Dr. Singh did nothing. Indian combat jets could hit training camps across the Line of Control (LoC), Air Chief Marshal Fali Major said at a November 29 meeting called for by the Prime Minister, but precise coordinates and adequate imaging weren&rsquo;t available. Later, General Deepak Kapoor, the chief of Army staff, told Dr. Singh he couldn&rsquo;t promise special forces&rsquo; strikes would be successful either. No one could guarantee missile strikes wouldn&rsquo;t escalate into war, or even a nuclear exchange &mdash; and no one could guarantee war would compel Pakistan&rsquo;s military to change course. Mr. Modi&rsquo;s advisers know five responses are on the table &mdash; but all of them involve great risks. The first is to keep doing nothing. The threat of a major India- Pakistan crisis after 26/11 led the United States to mount intense pressure on Pakistan. In the years since, the LeT hasn&rsquo;t mounted a single major operation on Indian soil. Its affiliate, the Indian Mujahideen, has had restraint thrust upon it by Pakistan&rsquo;s Inter-Services Intelligence (ISI) Directorate. Inaction, though, only succeeds if someone else does the hard work. In 2008, fearing its own war in Afghanistan would be undermined by an India-Pakistan war, the U.S. stepped in. Now, as it prepares to withdraw from Afghanistan, the country&rsquo;s appetite for playing global policeman is diminishing. Doing nothing could thus invite even more punishment. Like Prime Minister Atal Bihari Vajpayee, Mr. Modi&rsquo;s second choice might be coercion. In 2001, after terrorists attacked Parliament, India mobilised troops. Pakistan was forced to respond &mdash; but its smaller economy suffered disproportionately. The stratagem is time-tested. In 1953, Prime Minister Jawaharlal Nehru mobilised troops in Punjab to deter a Pakistani attack into Kashmir. Mr. Vajpayee&rsquo;s strategy worked, forcing Pakistan to dramatically scale down the jihad in Jammu and Kashmir. It only worked, though, because the U.S. played mediator &mdash; much like after 26/11 &mdash; and it was hideously expensive, in money and lives. The third choice is to do what Dr. Singh couldn&rsquo;t: limited strikes on jihadist training camps across the LoC, using air power or missiles. In the five years since 26/11, India&rsquo;s ability to conduct such strikes has been significantly enhanced. However, the tactic hasn&rsquo;t had great success. In August 1998, the United States fired missiles into Afghanistan, seeking to avenge bombings which killed 224 people. In all, 75 missiles, each priced at $1.5 million, killed six minor jihadists. Moreover, Pakistan could hit back, targeting Indian industrial infrastructure, which is much more expensive than tent-and-donkey cart training camps. Fourth, the Prime Minister could tell Indian troops to target the Pakistan Army along the LoC, using artillery and infantry &mdash; a task aided by the fact that its defences along stretches of the Neelam valley have been degraded by troops having to be moved to fight the Tehreek-e-Taliban elsewhere. The fighting that will follow though will make it more difficult to secure the LoC against jihadist infiltration &mdash; leading to heightened violence in Kashmir. Mr. Modi could, finally, authorise the use of covert means, like bomb-for-bomb strikes or targeted assassination of jihadist leaders. Mr. Modi&rsquo;s intelligence services, though, don&rsquo;t have this arrow in their quiver &mdash; and it will be a while, most experts say, before they can acquire it. Every sane person should hope Mr. Modi will never be required to exercise any of his military options &mdash; but thinking through war is just as important as talking peace. Choose the word most OPPOSITE in meaning. Undermine",
+      "questionHtml": "<div class=\"WordSection1\">\n<p class=\"MsoNormal\" style=\"text-align: justify; margin: 0cm 6.05pt .0001pt 5.0pt;\"><strong><span lang=\"EN-US\" style=\"font-size: 14.0pt; mso-bidi-font-size: 11.0pt; color: #404040;\">Directions: Read the following passage to answer the given questions based on it. Some words/phrases are printed in bold to help you locate them while answering some of the questions.</span></strong><o:p></o:p></p>\n<p class=\"MsoBodyText\" style=\"margin-top: .1pt;\"><strong><span lang=\"EN-US\">&nbsp;</span></strong></p>\n<p class=\"MsoBodyText\" style=\"margin-left: 5.0pt; text-align: justify;\"><span lang=\"EN-US\">(The passage has been extracted from 'The Hindu' dated June 11, <span style=\"letter-spacing: -.1pt;\">2014.)</span><o:p></o:p></span></p>\n<p class=\"MsoBodyText\" style=\"text-align: justify; margin: 17.0pt 5.8pt .0001pt 5.0pt;\"><span lang=\"EN-US\">Ever since the morning after 26/11, India&rsquo;s strategic community has discussed what the country ought to do when the next 26/11 happens. Prime Minister Narendra Modi may have to answer that question sooner than most people expect. The Lashkar-e-Taiba (LeT) staged its first operation against an Indian target since 26/11 just hours before Mr. Modi took office, attacking India&rsquo;s mission in Herat. Lashkar chief Hafiz Muhammad Saeed blamed Mr. Modi for this week&rsquo;s attacks on Karachi &mdash; and demanded vengeance.<o:p></o:p></span></p>\n<p class=\"MsoBodyText\" style=\"margin-top: .1pt;\"><span lang=\"EN-US\">&nbsp;</span></p>\n<p class=\"MsoBodyText\" style=\"text-align: justify; margin: 0cm 5.8pt .0001pt 5.0pt;\"><span lang=\"EN-US\">From past evidence, we know these threats aren&rsquo;t <strong>idle</strong>. &ldquo;The only language India understands is that of force,&rdquo; a press release issued by the Lashkar&rsquo;s parent organisation, Jamaat-ud-Dawa recorded Mr. Saeed as saying before 26/11, &ldquo;and that is the language it must be talked to in.&rdquo;<o:p></o:p></span></p>\n<p class=\"MsoBodyText\" style=\"text-align: justify; margin: 17.05pt 5.7pt .0001pt 5.0pt;\"><span lang=\"EN-US\">From files he will have read since taking office, Mr. Modi will have learned why Dr. Singh did nothing. Indian combat jets could hit training camps across the Line of Control (LoC), Air Chief Marshal Fali Major said at a November 29 meeting called for by the Prime Minister, but precise coordinates and <strong>adequate </strong>imaging weren&rsquo;t available. Later, General Deepak Kapoor, the chief of Army staff, told Dr. Singh he couldn&rsquo;t promise special forces&rsquo; strikes would be successful either.<o:p></o:p></span></p>\n<p class=\"MsoBodyText\" style=\"margin-top: .05pt;\"><span lang=\"EN-US\">&nbsp;</span></p>\n<p class=\"MsoBodyText\" style=\"text-align: justify; margin: 0cm 5.8pt .0001pt 5.0pt;\"><span lang=\"EN-US\">No one could guarantee missile strikes wouldn&rsquo;t <strong>escalate </strong>into war, or even a nuclear exchange &mdash; and no one could guarantee war would compel Pakistan&rsquo;s military to change course.<o:p></o:p></span></p>\n</div>\n<p><span lang=\"EN-US\" style=\"font-size: 11.0pt; font-family: 'Calibri',sans-serif; mso-fareast-font-family: Calibri; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">&nbsp;</span></p>\n<div class=\"WordSection2\">\n<p class=\"MsoBodyText\" style=\"text-align: justify; margin: 1.0pt 5.8pt .0001pt 5.0pt;\"><span lang=\"EN-US\">Mr. Modi&rsquo;s advisers know five responses are on the table &mdash; but all of them involve great risks. The first is to keep doing nothing. The threat of a major India- Pakistan crisis after 26/11 led the United States to mount intense pressure on Pakistan. In the years since, the LeT hasn&rsquo;t mounted a single major operation on Indian soil. Its affiliate, the Indian Mujahideen, has had restraint thrust upon it by Pakistan&rsquo;s Inter-Services Intelligence (ISI) Directorate.<o:p></o:p></span></p>\n<p class=\"MsoBodyText\"><span lang=\"EN-US\">&nbsp;</span></p>\n<p class=\"MsoBodyText\" style=\"text-align: justify; margin: 0cm 5.75pt .0001pt 5.0pt;\"><span lang=\"EN-US\">Inaction, though, only succeeds if someone else does the hard work. In 2008, fearing its own war in Afghanistan would be <strong>undermined </strong>by an India-Pakistan war, the U.S. stepped in. Now, as it prepares to withdraw from Afghanistan, the country&rsquo;s appetite for playing global policeman is diminishing. Doing nothing could thus invite even more punishment.<o:p></o:p></span></p>\n<p class=\"MsoBodyText\" style=\"text-align: justify; margin: 17.05pt 5.7pt .0001pt 5.0pt;\"><span lang=\"EN-US\">Like Prime Minister Atal Bihari Vajpayee, Mr. Modi&rsquo;s second choice might be coercion. In 2001, after terrorists attacked Parliament, India mobilised troops. Pakistan was forced to respond &mdash; but its smaller economy suffered disproportionately. The stratagem is time-tested. In 1953, Prime Minister Jawaharlal Nehru mobilised troops in Punjab to deter a Pakistani attack into <span style=\"letter-spacing: -.1pt;\">Kashmir.</span><o:p></o:p></span></p>\n<p class=\"MsoBodyText\" style=\"margin-top: .05pt;\"><span lang=\"EN-US\">&nbsp;</span></p>\n<p class=\"MsoBodyText\" style=\"text-align: justify; margin: 0cm 5.8pt .0001pt 5.0pt;\"><span lang=\"EN-US\">Mr. Vajpayee&rsquo;s strategy worked, forcing Pakistan to dramatically scale down the jihad in Jammu and Kashmir. It only worked, though, because the U.S. played mediator &mdash; much like after 26/11 &mdash; and it was hideously expensive, in money and lives.<o:p></o:p></span></p>\n<p class=\"MsoBodyText\"><span lang=\"EN-US\">&nbsp;</span></p>\n<p class=\"MsoBodyText\" style=\"text-align: justify; margin: 0cm 5.95pt .0001pt 5.0pt;\"><span lang=\"EN-US\">The third choice is to do what Dr. Singh couldn&rsquo;t: limited strikes on jihadist training camps across the LoC, using air power or missiles. In the five years since 26/11, India&rsquo;s ability to conduct such strikes has been significantly enhanced. However, the tactic hasn&rsquo;t had great success. In August 1998, the United States fired missiles into Afghanistan, seeking to avenge bombings which killed 224 people. In all, 75 missiles, each priced at $1.5 million, killed six minor jihadists. Moreover, Pakistan could hit back, targeting Indian industrial infrastructure, which is much more expensive than tent-and-donkey cart training camps.<o:p></o:p></span></p>\n<p class=\"MsoBodyText\" style=\"margin-top: .05pt;\"><span lang=\"EN-US\">&nbsp;</span></p>\n<p class=\"MsoBodyText\" style=\"text-align: justify; margin: 0cm 5.7pt .0001pt 5.0pt;\"><span lang=\"EN-US\">Fourth, the Prime Minister could tell Indian troops to target the Pakistan Army along the LoC, using artillery and infantry &mdash; a task aided by the fact that its defences along stretches of the Neelam valley have been degraded by troops<o:p></o:p></span></p>\n</div>\n<p><span lang=\"EN-US\" style=\"font-size: 11.0pt; font-family: 'Calibri',sans-serif; mso-fareast-font-family: Calibri; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">&nbsp;</span></p>\n<p class=\"MsoBodyText\" style=\"text-align: justify; margin: 1.0pt 5.9pt .0001pt 5.0pt;\"><span lang=\"EN-US\">having to be moved to fight the Tehreek-e-Taliban elsewhere. The fighting that will follow though will make it more difficult to secure the LoC against jihadist infiltration &mdash; leading to heightened violence in Kashmir.<o:p></o:p></span></p>\n<p class=\"MsoBodyText\" style=\"margin-top: .05pt;\"><span lang=\"EN-US\">&nbsp;</span></p>\n<p class=\"MsoBodyText\" style=\"text-align: justify; margin: 0cm 5.6pt .0001pt 5.0pt;\"><span lang=\"EN-US\">Mr. Modi could, finally, authorise the use of covert means, like bomb-for-bomb strikes or targeted assassination of jihadist leaders. Mr. Modi&rsquo;s intelligence services, though, don&rsquo;t have this arrow in their quiver &mdash; and it will be a while, most experts say, before they can acquire it.<o:p></o:p></span></p>\n<p></p>\n<p class=\"MsoBodyText\" style=\"text-align: justify; margin: 17.05pt 5.85pt .0001pt 5.0pt;\"><span lang=\"EN-US\">Every sane person should hope Mr. Modi will never be required to <strong>exercise </strong>any of his military options &mdash; but thinking through war is just as important as talking <span style=\"letter-spacing: -.1pt;\">peace.</span><o:p></o:p></span></p>\n<p class=\"MsoNormal\"><span lang=\"EN-US\" style=\"font-size: 16.0pt;\">Choose the word most OPPOSITE in meaning.<o:p></o:p></span></p>\n<p class=\"MsoNormal\"><strong><span lang=\"EN-US\" style=\"font-size: 16.0pt;\">Undermine<o:p></o:p></span></strong></p>",
+      "correctOption": "3",
+      "options": [
+        {
+          "order": "1",
+          "text": "To demean",
+          "html": "<p><span lang=\"EN-US\" style=\"font-size: 11.0pt; font-family: 'Calibri',sans-serif; mso-fareast-font-family: Calibri; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">To<span style=\"letter-spacing: -.1pt;\"> demean</span></span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "To upgrade",
+          "html": "<p><span lang=\"EN-US\" style=\"font-size: 11.0pt; font-family: 'Calibri',sans-serif; mso-fareast-font-family: Calibri; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">To <span style=\"letter-spacing: -.1pt;\">upgrade</span></span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "To make stronger",
+          "html": "<p><span lang=\"EN-US\" style=\"font-size: 11.0pt; font-family: 'Calibri',sans-serif; mso-fareast-font-family: Calibri; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">To make <span style=\"letter-spacing: -.1pt;\">stronger</span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span></p>",
+          "isCorrect": true
+        },
+        {
+          "order": "4",
+          "text": "To weaken",
+          "html": "<p><span lang=\"EN-US\" style=\"font-size: 11.0pt; font-family: 'Calibri',sans-serif; mso-fareast-font-family: Calibri; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">To<span style=\"letter-spacing: -.1pt;\"> weaken</span></span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "5",
+          "text": "To nullify",
+          "html": "<p><span lang=\"EN-US\" style=\"font-size: 11.0pt; font-family: 'Calibri',sans-serif; mso-fareast-font-family: Calibri; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">To <span style=\"letter-spacing: -.1pt;\">nullify</span></span></p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 24,
+      "section": "Verbal Ability",
+      "id": "6623cdedaf75868a14dfbf54",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "Directions : In each of the following questions a grammatically correct and meaningful sentence is given with four words given in bold in each. Which of the following words should replace each other to form a meaningful and grammatically correct sentence? The meaning can be different from the one in question. Ahead of the (A) maiden budget of his second term in office, Prime Minister (B) brainstormed with top bureaucrats of Finance and other Ministries for (C) ideas to reverse a (D) sagging economy and create jobs.",
+      "questionHtml": "<p>Directions : In each of the following questions a grammatically correct and meaningful sentence is given with four words given in bold in each. Which of the following words should replace each other to form a meaningful and grammatically correct sentence? The meaning can be different from the one in question.</p>\n<p></p>\n<p>Ahead of the <strong>(A) maiden</strong> budget of his second term in office, Prime Minister <strong>(B) brainstormed</strong> with top bureaucrats of Finance and other Ministries for <strong>(C) ideas</strong> to reverse a <strong>(D) sagging</strong> economy and create jobs.</p>",
+      "correctOption": "5",
+      "options": [
+        {
+          "order": "1",
+          "text": "A-D",
+          "html": "<p>A-D</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "B-C",
+          "html": "<p>&nbsp;B-C</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "A-B",
+          "html": "<p>A-B</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "A-C",
+          "html": "<p>A-C</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "5",
+          "text": "No interchange possible",
+          "html": "<p>No interchange possible</p>",
+          "isCorrect": true
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 25,
+      "section": "Verbal Ability",
+      "id": "6623ce7b8615ea2afe0df87f",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "While steps to (A) enhance investments in manufacturing would be high on (B) agenda , the Modi 2.0 government would also look at steps to (C) address agriculture distress and (D) improve farm income in the upcoming Budget.",
+      "questionHtml": "<p>While steps to <strong>(A) enhance</strong> investments in manufacturing would be high on <strong>(B) agenda</strong>, the Modi 2.0 government would also look at steps to <strong>(C) address</strong> agriculture distress and <strong>(D) improve</strong> farm income in the upcoming Budget.</p>",
+      "correctOption": "3",
+      "options": [
+        {
+          "order": "1",
+          "text": "A-B",
+          "html": "<p>A-B</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "B-D",
+          "html": "<p>B-D</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "A-D",
+          "html": "<p>A-D</p>",
+          "isCorrect": true
+        },
+        {
+          "order": "4",
+          "text": "C-D",
+          "html": "<p>C-D</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "5",
+          "text": "No interchange possible",
+          "html": "<p>No interchange possible</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "6",
+          "text": "Option 6",
+          "html": "<p>Option 6</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    }
+  ]
+}

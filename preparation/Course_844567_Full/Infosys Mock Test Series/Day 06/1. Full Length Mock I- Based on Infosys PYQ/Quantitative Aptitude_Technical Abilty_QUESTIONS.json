@@ -1,0 +1,402 @@
+{
+  "testId": "68d792eb516b2e6f6a1fe368",
+  "title": "Quantitative Aptitude/Technical Abilty",
+  "engine": "Testbook SDK",
+  "folderPath": "Infosys Mock Test Series / Day 06 / 1. Full Length Mock I- Based on Infosys PYQ",
+  "totalQuestions": 10,
+  "totalMarks": 10,
+  "durationMinutes": 20.0,
+  "livePortalUrl": "https://testsdk.testbook.com/org-44032-844567/tests/68d792eb516b2e6f6a1fe368#auth?page=test&auth=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiI1YjQzMDFmYzdkZTU1NzBjMzFkNTU1NTUiLCJzdWIiOiIxNTkzMDU3NDYiLCJhdWQiOiJDUCIsImV4cEludCI6MTc5MTk1ODYwOCwiaWF0SW50IjoxNzkxODcyMjA4LCJvcmdJZCI6IjViNDMwMWZjN2RlNTU3MGMzMWQ1NTU1NSIsInJvbGVzIjoic3R1ZGVudCIsIm5hbWUiOiJIYWNrV2l0aEluZnlQcmVwIn0.afWnlSma4YC72l8-TLvMBHCTkqFWP99_pdBA4P2X3UuyNfr8FOBBjhcztvzEKIResq0onKAHhto9l2GpzkUN10RifQaI7Ynz2ujetOznNuiZY5btu9SPVy-f_Cs27qqUQ44t313j71RhdAaN6Gb0SQWLou8bXENvYgyuVEedu14MXle364Sdf_hWGI4eVhbGpG8-X_2S3OzSVuxUXMPt2j9Bx8gA8X4Tgm_BQOeIHUfjitRDT8Tgw-USB5OjoiqsnQmdscrKwtjzf-AAR-_EG4xtZBeQVGCC-TbkWIcm6fhWjSugB0xvsgco9ZdimDAsITv1p6QpTumYwHvYmZpeVQ&hideRank=0&isCPTestBookMarkEnabled=true",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "section": "Technical Ability - Mathematics /Quantitative Aptitude",
+      "id": "68d793ceffedee84527bc933",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "An Amount of Rs. 3000 is distributed among A, B and C such that A gets 2/3 rd of what B and C together get and C gets 1/2 of what A and B together get. Find B&rsquo;s sh are.",
+      "questionHtml": "<p class=\"MsoNormal\" style=\"margin: 0cm 0cm 8pt; line-height: 22px; font-size: 11pt; font-family: Calibri, sans-serif; color: #000000;\"><span lang=\"EN-US\" style=\"font-size: 12pt; line-height: 24px; font-family: 'Segoe UI', sans-serif; color: #212529; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\"><span style=\"font-size: 14pt;\">An Amount of &nbsp;Rs. 3000 is distributed among A, B and C such that A gets 2/3 rd of what B and C together get and C gets 1/2 of what A and B together get. Find B&rsquo;s sh</span></span><span lang=\"EN-US\" style=\"font-size: 12pt; line-height: 24px; font-family: 'Segoe UI', sans-serif; color: #212529; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\"><span style=\"font-size: 14pt;\">are.&nbsp;</span></span></p>",
+      "correctOption": "4",
+      "options": [
+        {
+          "order": "1",
+          "text": "650",
+          "html": "<p>650</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "700",
+          "html": "<p>700</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "500",
+          "html": "<p>500</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "800",
+          "html": "<p>800</p>",
+          "isCorrect": true
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 2,
+      "section": "Technical Ability - Mathematics /Quantitative Aptitude",
+      "id": "68d793ceffedee24197bc938",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "",
+      "questionHtml": "<p><img src=\"https://cms-cdn.classplus.co/parserImages/7588ffc0-b716-4bd0-82c9-ffb37b45102f.png\" alt=\"\" width=\"800\" height=\"91\" /></p>",
+      "correctOption": "3",
+      "options": [
+        {
+          "order": "1",
+          "text": "4",
+          "html": "<p>4</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "5",
+          "html": "<p>5</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "6",
+          "html": "<p>6</p>",
+          "isCorrect": true
+        },
+        {
+          "order": "4",
+          "text": "None Of these",
+          "html": "<p>None Of these</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": [
+        {
+          "original": "https://cms-cdn.classplus.co/parserImages/7588ffc0-b716-4bd0-82c9-ffb37b45102f.png",
+          "local": "Quantitative Aptitude_Technical Abilty_figures/q2_1.png"
+        }
+      ]
+    },
+    {
+      "questionNumber": 3,
+      "section": "Technical Ability - Mathematics /Quantitative Aptitude",
+      "id": "68d793ceffedee948c7bc93d",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "An almirah was sold at a profit of 15%. If its cost had been 5% less and it had been sold for Rs 1,470 less, then the profit would have been 10%. What is the cost price of the almirah?",
+      "questionHtml": "<p class=\"MsoNormal\" style=\"margin: 0cm 0cm 6pt; line-height: 22px; font-size: 11pt; font-family: Calibri, sans-serif; color: #000000;\"><span style=\"font-size: 14pt; line-height: 28px; font-family: 'Segoe UI', sans-serif; color: #212529; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">An almirah was sold at a profit of 15%. If its cost had been 5% less and it had been sold for Rs 1,470 less, then the profit would have been 10%. What is the cost price of the almirah?</span><o:p></o:p></p>",
+      "correctOption": "2",
+      "options": [
+        {
+          "order": "1",
+          "text": "14400",
+          "html": "<p>14400</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "14000",
+          "html": "<p>14000</p>",
+          "isCorrect": true
+        },
+        {
+          "order": "3",
+          "text": "16100",
+          "html": "<p>16100</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "15400",
+          "html": "<p>15400</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 4,
+      "section": "Technical Ability - Mathematics /Quantitative Aptitude",
+      "id": "68d793ceffedeec1427bc942",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "Seven years ago, the ratio of the ages of A and B was 2: 3. Three years hence, the ratio of their ages will be 5: 7. The sum of their present ages (in years) is:",
+      "questionHtml": "<p class=\"MsoNormal\" style=\"margin: 0cm 0cm 8pt; line-height: 22px; font-size: 11pt; font-family: Calibri, sans-serif; color: #000000;\"><span lang=\"EN-GB\" style=\"font-size: 14pt; line-height: 24px; font-family: Helvetica;\">Seven years ago, the ratio of the ages of A and B was 2: 3. Three years hence, the ratio of their ages will be 5: 7. The sum of their present ages (in years) is:</span><o:p></o:p></p>",
+      "correctOption": "4",
+      "options": [
+        {
+          "order": "1",
+          "text": "100",
+          "html": "<p>100</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "200",
+          "html": "<p>200</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "112",
+          "html": "<p>112</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "114",
+          "html": "<p>114</p>",
+          "isCorrect": true
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 5,
+      "section": "Technical Ability - Mathematics /Quantitative Aptitude",
+      "id": "68d793ceffedeed5b37bc947",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "Veer buys 200 guavas for Rs.1,800. Some of these guavas are rotten and are thrown away. He sells the remaining guavas at Rs.14 each and makes a profit of Rs.230. The percentage of guavas thrown away is:",
+      "questionHtml": "<p class=\"MsoNormal\" style=\"margin: 0cm 0cm 8pt; line-height: 22px; font-size: 11pt; font-family: Calibri, sans-serif; color: #000000; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\"><span style=\"font-size: 14pt; line-height: 28px; font-family: 'Segoe UI', sans-serif; color: #212529;\">Veer buys 200 guavas for Rs.1,800. Some of these guavas are rotten and are thrown away. He sells the remaining guavas at Rs.14 each and makes a profit of Rs.230. The percentage of guavas thrown away is:</span><o:p></o:p></p>",
+      "correctOption": "4",
+      "options": [
+        {
+          "order": "1",
+          "text": "27%",
+          "html": "<p>27%</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "29%",
+          "html": "<p>29%</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "30%",
+          "html": "<p>30%</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "27.5%",
+          "html": "<p>27.5%</p>",
+          "isCorrect": true
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 6,
+      "section": "Technical Ability - Mathematics /Quantitative Aptitude",
+      "id": "68d793ceffedeeaa9f7bc94c",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "A boy walked along two adjacent sides of a rectangular field. If he had walked along the diagonal, then he would have saved a distance equal to one-fourth of the larger side. The ratio of the smaller to the larger side is:",
+      "questionHtml": "<p class=\"MsoNormal\" style=\"margin: 0cm 0cm 8pt; line-height: 22px; font-size: 11pt; font-family: Calibri, sans-serif; color: #000000;\"><span lang=\"EN-US\" style=\"font-size: 12pt; line-height: 24px; font-family: 'Times New Roman', serif; color: #212529; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\"><span style=\"font-size: 14pt;\">A boy walked along two adjacent sides of a rectangular field. If he had walked along the diagonal, then he would have saved a distance equal to one-fourth of the larger side. The ratio of the smaller to the larger side is:</span></span></p>",
+      "correctOption": "3",
+      "options": [
+        {
+          "order": "1",
+          "text": "11:18",
+          "html": "<p>11:18</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "18:11",
+          "html": "<p>18:11</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "7:24",
+          "html": "<p>7:24</p>",
+          "isCorrect": true
+        },
+        {
+          "order": "4",
+          "text": "5:12",
+          "html": "<p>5:12</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 7,
+      "section": "Technical Ability - Mathematics /Quantitative Aptitude",
+      "id": "68d793ceffedeeaf887bc951",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "",
+      "questionHtml": "<p><img src=\"https://cms-cdn.classplus.co/parserImages/86bede59-436d-4a12-83c4-d47915e30379.png\" alt=\"\" width=\"475\" height=\"270\" /></p>",
+      "correctOption": "3",
+      "options": [
+        {
+          "order": "1",
+          "text": "5",
+          "html": "<p>5</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "0",
+          "html": "<p>0</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "7",
+          "html": "<p>7</p>",
+          "isCorrect": true
+        },
+        {
+          "order": "4",
+          "text": "4",
+          "html": "<p>4</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": [
+        {
+          "original": "https://cms-cdn.classplus.co/parserImages/86bede59-436d-4a12-83c4-d47915e30379.png",
+          "local": "Quantitative Aptitude_Technical Abilty_figures/q7_1.png"
+        }
+      ]
+    },
+    {
+      "questionNumber": 8,
+      "section": "Technical Ability - Mathematics /Quantitative Aptitude",
+      "id": "68d793ceffedee9ac07bc956",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "A team of four players are to be selected from among four girls A,B,C,D and four boys P,Q,R,S such that there would be at least two girls in the team and the team selection should meet the following conditions i. B cannot go with R ii .D and P must go together iii S cannot be put up with A iv. R and C must be together",
+      "questionHtml": "<p class=\"MsoNormal\" style=\"margin: 0cm 0cm 6pt; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif; color: #000000;\"><span style=\"font-family: 'Segoe UI', sans-serif; color: #212529; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; font-size: 14pt;\">&nbsp;A team of four players are to be selected from among four girls A,B,C,D and four boys P,Q,R,S such that there would be at least two girls in the team and the team selection should meet the following conditions<o:p></o:p></span></p>\n<p class=\"MsoNormal\" style=\"margin: 0cm 0cm 6pt; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif; color: #000000;\"><span style=\"font-family: 'Segoe UI', sans-serif; color: #212529; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; font-size: 14pt;\">i. B cannot go with R<o:p></o:p></span></p>\n<p class=\"MsoNormal\" style=\"margin: 0cm 0cm 6pt; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif; color: #000000;\"><span style=\"font-family: 'Segoe UI', sans-serif; color: #212529; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; font-size: 14pt;\">ii .D and P must go together<o:p></o:p></span></p>\n<p class=\"MsoNormal\" style=\"margin: 0cm 0cm 6pt; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif; color: #000000;\"><span style=\"font-family: 'Segoe UI', sans-serif; color: #212529; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; font-size: 14pt;\">iii S cannot be put up with A<o:p></o:p></span></p>\n<p class=\"MsoNormal\" style=\"margin: 0cm 0cm 6pt; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif; color: #000000;\"><span style=\"font-family: 'Segoe UI', sans-serif; color: #212529; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\"><span style=\"font-size: 14pt;\">iv. R and C must be together</span><o:p></o:p></span></p>",
+      "correctOption": "2",
+      "options": [
+        {
+          "order": "1",
+          "text": "QBSC",
+          "html": "<p><span style=\"color: #212529; font-family: 'Segoe UI', sans-serif; font-size: 14.6667px;\">QBSC</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "DAPQ",
+          "html": "<p><span style=\"color: #212529; font-family: 'Segoe UI', sans-serif; font-size: 14.6667px;\">DAPQ</span></p>",
+          "isCorrect": true
+        },
+        {
+          "order": "3",
+          "text": "RCQS",
+          "html": "<p><span style=\"color: #212529; font-family: 'Segoe UI', sans-serif; font-size: 14.6667px;\">RCQS</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "BPRA",
+          "html": "<p><span style=\"color: #212529; font-family: 'Segoe UI', sans-serif; font-size: 14.6667px;\">BPRA</span></p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 9,
+      "section": "Technical Ability - Mathematics /Quantitative Aptitude",
+      "id": "68d793ceffedeec4e87bc95b",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "While Balbir had his back turned, a dog ran into his butcher shop, snatched a piece of meat off the counter and ran off. Balbir was mad when he realised what had happened. He asked three other shopkeepers, who had seen the dog, to describe it. The shopkeepers really didn&rsquo;t want to help Balbir. So each of them made a statement which contained one truth and one lie. A. Shopkeeper Number 1 said: &ldquo;The dog had black hair and a long tail.&rdquo; B. Shopkeeper Number 2 said: &ldquo;The dog had a short tail and wore a collar.&rdquo; C. Shopkeeper Number 3 said: &ldquo;The dog had white hair and no collar.&rdquo; Based on the above statements, which of the following could be a correct description?",
+      "questionHtml": "<p class=\"MsoNormal\" style=\"margin: 0cm 0cm 6pt; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif; color: #000000;\"><span style=\"font-family: 'Segoe UI', sans-serif; color: #212529; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; font-size: 14pt;\">While Balbir had his back turned, a dog ran into his butcher shop, snatched a piece of meat off the counter and ran off. Balbir was mad when he realised what had happened. He asked three other shopkeepers, who had seen the dog, to describe it. The shopkeepers really didn&rsquo;t want to help Balbir. So each of them made a statement which contained one truth and one lie.<o:p></o:p></span></p>\n<p class=\"MsoNormal\" style=\"margin: 0cm 0cm 6pt; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif; color: #000000;\"><span style=\"font-family: 'Segoe UI', sans-serif; color: #212529; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; font-size: 14pt;\">A. Shopkeeper Number 1 said: &ldquo;The dog had black hair and a long tail.&rdquo;<o:p></o:p></span></p>\n<p class=\"MsoNormal\" style=\"margin: 0cm 0cm 6pt; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif; color: #000000;\"><span style=\"font-family: 'Segoe UI', sans-serif; color: #212529; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; font-size: 14pt;\">B. Shopkeeper Number 2 said: &ldquo;The dog had a short tail and wore a collar.&rdquo;<o:p></o:p></span></p>\n<p class=\"MsoNormal\" style=\"margin: 0cm 0cm 6pt; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif; color: #000000;\"><span style=\"font-family: 'Segoe UI', sans-serif; color: #212529; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; font-size: 14pt;\">C. Shopkeeper Number 3 said: &ldquo;The dog had white hair and no collar.&rdquo;<o:p></o:p></span></p>\n<p class=\"MsoNormal\" style=\"margin: 0cm 0cm 6pt; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif; color: #000000;\"><span style=\"font-family: 'Segoe UI', sans-serif; color: #212529; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; font-size: 14pt;\">Based on the above statements, which of the following could be a correct <o:p></o:p></span><span style=\"font-family: 'Segoe UI', sans-serif; color: #212529; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\"><span style=\"font-size: 14pt;\">description?</span><o:p></o:p></span></p>\n<p class=\"MsoNormal\" style=\"margin: 0cm 0cm 6pt; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif; color: #000000;\"></p>",
+      "correctOption": "4",
+      "options": [
+        {
+          "order": "1",
+          "text": "The dog had black hair, long tail and a collar.",
+          "html": "<p><span style=\"font-size: 11pt; line-height: 15.6933px; font-family: 'Segoe UI', sans-serif; color: #212529; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">The dog had black hair, long tail and a collar.</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "The dog had white hair, short tail and no collar.",
+          "html": "<p><span style=\"font-size: 11pt; line-height: 15.6933px; font-family: 'Segoe UI', sans-serif; color: #212529; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">The dog had white hair, short tail and no collar.</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "The dog had black hair, long tail and no collar.",
+          "html": "<p><span style=\"font-size: 11pt; line-height: 15.6933px; font-family: 'Segoe UI', sans-serif; color: #212529; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">The dog had black hair, long tail and no collar.</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "The dog had white hair, long tail and a collar.",
+          "html": "<p><span style=\"font-size: 11pt; line-height: 15.6933px; font-family: 'Segoe UI', sans-serif; color: #212529; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">The dog had white hair, long tail and a collar.</span></p>",
+          "isCorrect": true
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 10,
+      "section": "Technical Ability - Mathematics /Quantitative Aptitude",
+      "id": "68d793ceffedee79227bc960",
+      "type": "mcq",
+      "posMarks": 1,
+      "negMarks": 0,
+      "questionText": "In a bag, there are coins of 25 p, 10 p and 5 p in the ratio of 1 : 2 : 3. If there is Rs. 30 in all, how many 5 p coins are there?",
+      "questionHtml": "<p class=\"MsoNormal\" style=\"margin: 0cm 0cm 8pt; line-height: 22px; font-size: 11pt; font-family: Calibri, sans-serif; color: #000000;\"><span style=\"font-size: 14pt; line-height: 28px; font-family: 'Times New Roman', serif;\">In a bag, there are coins of 25 p, 10 p and 5 p in the ratio of 1 : 2 : 3. If there is Rs. 30 in all, how many 5 p coins are there?</span></p>",
+      "correctOption": "3",
+      "options": [
+        {
+          "order": "1",
+          "text": "50",
+          "html": "<p>50&nbsp;</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "100",
+          "html": "<p>100</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "150",
+          "html": "<p>150</p>",
+          "isCorrect": true
+        },
+        {
+          "order": "4",
+          "text": "200",
+          "html": "<p>200</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    }
+  ]
+}

@@ -1,0 +1,430 @@
+{
+  "testId": "653d535be3fd33caa37e37d6",
+  "title": "Calender _ LR",
+  "engine": "Testbook SDK",
+  "folderPath": "2. Infosys System Eng Prep- Apti + Pseudo / Section I : Logical Reasoning & Puzzle / Module 12: Clocks & Calendar / Calenadar",
+  "totalQuestions": 11,
+  "totalMarks": 22,
+  "durationMinutes": 12.0,
+  "livePortalUrl": "https://testsdk.testbook.com/org-44032-844567/tests/653d535be3fd33caa37e37d6#auth?page=test&auth=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiI1YjQzMDFmYzdkZTU1NzBjMzFkNTU1NTUiLCJzdWIiOiIxNTkzMDU3NDYiLCJhdWQiOiJDUCIsImV4cEludCI6MTc5MTk1ODYxMSwiaWF0SW50IjoxNzkxODcyMjExLCJvcmdJZCI6IjViNDMwMWZjN2RlNTU3MGMzMWQ1NTU1NSIsInJvbGVzIjoic3R1ZGVudCIsIm5hbWUiOiJIYWNrV2l0aEluZnlQcmVwIn0.O1gAxEtRqU6gRSEiKSfWonKQeYPkXPmZbAB4ff8u6wMd33jPPRtjOUJQ6TcmhjAQD4lAreaMrJbkL4BTS463VKNIieqt85wckQjiUzUIMZ6URVsnI0dlnDNHsmSB7FyoWZxzBsO0r_pfyVsXj5pJxiVyo8J9AEr9bDRmb1h42-qkCJLyjZfzoSmgeLiiIqOewhk-0U9Kua9gyWedKhL0kqzlk8sDbFJ9PfMGl4mL1L9UvU6yaSU2E5_31gFIeLRvNg1uCVcxcfY4KmTYr5IK2f5-Y_Xlzlv1esVck5-LcczA_MTg1EqZbFe-32b96r04BMgLxSgKWUbng21bv3AWaA&hideRank=0&isCPTestBookMarkEnabled=true",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "section": "Assessmnet",
+      "id": "653d53b7bc27d5d7fd36938a",
+      "type": "mcq",
+      "posMarks": 2,
+      "negMarks": 1,
+      "questionText": "Which of the following is not a leap year?",
+      "questionHtml": "<p class=\"MsoNormal\"><span lang=\"EN-US\"><span style=\"font-size: 18pt;\">Which of the following is not a leap year?</span><o:p></o:p></span></p>",
+      "correctOption": "1",
+      "options": [
+        {
+          "order": "1",
+          "text": "700",
+          "html": "<p>700</p>",
+          "isCorrect": true
+        },
+        {
+          "order": "2",
+          "text": "800",
+          "html": "<p>800</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "1200",
+          "html": "<p>1200</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "2000",
+          "html": "<p>2000</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 2,
+      "section": "Assessmnet",
+      "id": "653d53b7bc27d5055936938f",
+      "type": "mcq",
+      "posMarks": 2,
+      "negMarks": 1,
+      "questionText": "Today is Monday. After 61 days, it will be:",
+      "questionHtml": "<p><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman',serif; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; color: black; mso-themecolor: text1; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">Today is Monday. After 61 days, it will be:</span></p>",
+      "correctOption": "2",
+      "options": [
+        {
+          "order": "1",
+          "text": "sunday",
+          "html": "<p>sunday</p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "A. Saturday",
+          "html": "<p class=\"MsoListParagraph\" style=\"text-indent: -18.0pt; mso-list: l0 level1 lfo1;\"><!-- [if !supportLists]--><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman'; color: black; mso-themecolor: text1; mso-ansi-language: EN-US;\">A.<span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';\">&nbsp;&nbsp; </span></span><!--[endif]--><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman',serif; color: black; mso-themecolor: text1; mso-ansi-language: EN-US;\">Saturday<o:p></o:p></span></p>",
+          "isCorrect": true
+        },
+        {
+          "order": "3",
+          "text": "A. Tuesday",
+          "html": "<p class=\"MsoListParagraph\" style=\"text-indent: -18.0pt; mso-list: l0 level1 lfo1;\"><!-- [if !supportLists]--><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman'; color: black; mso-themecolor: text1; mso-ansi-language: EN-US;\">A.<span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';\">&nbsp;&nbsp; </span></span><!--[endif]--><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman',serif; color: black; mso-themecolor: text1; mso-ansi-language: EN-US;\">Tuesday<o:p></o:p></span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "A. Thursday",
+          "html": "<p class=\"MsoListParagraph\" style=\"text-indent: -18.0pt; mso-list: l0 level1 lfo1;\"><!-- [if !supportLists]--><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman'; color: black; mso-themecolor: text1; mso-ansi-language: EN-US;\">A.<span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';\">&nbsp;&nbsp; </span></span><!--[endif]--><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman',serif; color: black; mso-themecolor: text1; mso-ansi-language: EN-US;\">Thursday<o:p></o:p></span></p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 3,
+      "section": "Assessmnet",
+      "id": "653d53b7bc27d51120369394",
+      "type": "mcq",
+      "posMarks": 2,
+      "negMarks": 1,
+      "questionText": "If 6th March, 2005 is Monday, what was the day of the week on 6th March, 2004?",
+      "questionHtml": "<p><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman',serif; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; color: black; mso-themecolor: text1; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">If 6th March, 2005 is Monday, what was the day of the week on 6th March, 2004?</span></p>",
+      "correctOption": "1",
+      "options": [
+        {
+          "order": "1",
+          "text": "A. Sunday",
+          "html": "<p class=\"MsoListParagraph\" style=\"text-indent: -18.0pt; mso-list: l0 level1 lfo1;\"><!-- [if !supportLists]--><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman'; color: black; mso-themecolor: text1; mso-ansi-language: EN-US;\">A.<span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';\">&nbsp;&nbsp; </span></span><!--[endif]--><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman',serif; color: black; mso-themecolor: text1; mso-ansi-language: EN-US;\">Sunday<o:p></o:p></span></p>",
+          "isCorrect": true
+        },
+        {
+          "order": "2",
+          "text": "A. Saturday",
+          "html": "<p class=\"MsoListParagraph\" style=\"text-indent: -18.0pt; mso-list: l0 level1 lfo1;\"><!-- [if !supportLists]--><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman'; color: black; mso-themecolor: text1; mso-ansi-language: EN-US;\">A.<span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';\">&nbsp;&nbsp; </span></span><!--[endif]--><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman',serif; color: black; mso-themecolor: text1; mso-ansi-language: EN-US;\">Saturday<o:p></o:p></span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "A. Tuesday",
+          "html": "<p class=\"MsoListParagraph\" style=\"text-indent: -18.0pt; mso-list: l0 level1 lfo1;\"><!-- [if !supportLists]--><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman'; color: black; mso-themecolor: text1; mso-ansi-language: EN-US;\">A.<span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';\">&nbsp;&nbsp; </span></span><!--[endif]--><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman',serif; color: black; mso-themecolor: text1; mso-ansi-language: EN-US;\">Tuesday<o:p></o:p></span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "A. Wednesday",
+          "html": "<p class=\"MsoListParagraph\" style=\"text-indent: -18.0pt; mso-list: l0 level1 lfo1;\"><!-- [if !supportLists]--><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman'; color: black; mso-themecolor: text1; mso-ansi-language: EN-US;\">A.<span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';\">&nbsp;&nbsp; </span></span><!--[endif]--><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman',serif; color: black; mso-themecolor: text1; mso-ansi-language: EN-US;\">Wednesday<o:p></o:p></span></p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 4,
+      "section": "Assessmnet",
+      "id": "653d53b7bc27d5e548369399",
+      "type": "mcq",
+      "posMarks": 2,
+      "negMarks": 1,
+      "questionText": "How many days are there in x weeks x days?",
+      "questionHtml": "<p><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman',serif; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; color: black; mso-themecolor: text1; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">How many days are there in x weeks x days?</span></p>",
+      "correctOption": "1",
+      "options": [
+        {
+          "order": "1",
+          "text": "8x",
+          "html": "<p class=\"MsoNormal\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman',serif; color: black; mso-themecolor: text1; mso-ansi-language: EN-US;\">8x<o:p></o:p></span></p>",
+          "isCorrect": true
+        },
+        {
+          "order": "2",
+          "text": "14x",
+          "html": "<p class=\"MsoNormal\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman',serif; color: black; mso-themecolor: text1; mso-ansi-language: EN-US;\">14x<o:p></o:p></span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "7",
+          "html": "<p class=\"MsoNormal\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman',serif; color: black; mso-themecolor: text1; mso-ansi-language: EN-US;\">7<o:p></o:p></span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "None of these",
+          "html": "<p>None of these</p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 5,
+      "section": "Assessmnet",
+      "id": "653d53b7bc27d5b4d436939e",
+      "type": "mcq",
+      "posMarks": 2,
+      "negMarks": 1,
+      "questionText": "The last day of a century cannot be",
+      "questionHtml": "<p><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman',serif; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; color: black; mso-themecolor: text1; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">The last day of a century cannot be</span></p>",
+      "correctOption": "3",
+      "options": [
+        {
+          "order": "1",
+          "text": "A. Monday",
+          "html": "<p class=\"MsoListParagraph\" style=\"text-indent: -18.0pt; mso-list: l0 level1 lfo1;\"><!-- [if !supportLists]--><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman'; color: black; mso-themecolor: text1; mso-ansi-language: EN-US;\">A.<span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';\">&nbsp;&nbsp; </span></span><!--[endif]--><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman',serif; color: black; mso-themecolor: text1; mso-ansi-language: EN-US;\">Monday<o:p></o:p></span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "A. Wednesday",
+          "html": "<p class=\"MsoListParagraph\" style=\"text-indent: -18.0pt; mso-list: l0 level1 lfo1;\"><!-- [if !supportLists]--><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman'; color: black; mso-themecolor: text1; mso-ansi-language: EN-US;\">A.<span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';\">&nbsp;&nbsp; </span></span><!--[endif]--><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman',serif; color: black; mso-themecolor: text1; mso-ansi-language: EN-US;\">Wednesday<o:p></o:p></span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "A. Tuesday",
+          "html": "<p class=\"MsoListParagraph\" style=\"text-indent: -18.0pt; mso-list: l0 level1 lfo1;\"><!-- [if !supportLists]--><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman'; color: black; mso-themecolor: text1; mso-ansi-language: EN-US;\">A.<span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';\">&nbsp;&nbsp; </span></span><!--[endif]--><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman',serif; color: black; mso-themecolor: text1; mso-ansi-language: EN-US;\">Tuesday<o:p></o:p></span></p>",
+          "isCorrect": true
+        },
+        {
+          "order": "4",
+          "text": "A. Friday",
+          "html": "<p class=\"MsoListParagraph\" style=\"text-indent: -18.0pt; mso-list: l0 level1 lfo1;\"><!-- [if !supportLists]--><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman'; color: black; mso-themecolor: text1; mso-ansi-language: EN-US;\">A.<span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';\">&nbsp;&nbsp; </span></span><!--[endif]--><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman',serif; color: black; mso-themecolor: text1; mso-ansi-language: EN-US;\">Friday<o:p></o:p></span></p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 6,
+      "section": "Assessmnet",
+      "id": "653d53b7bc27d55c0d3693a3",
+      "type": "mcq",
+      "posMarks": 2,
+      "negMarks": 1,
+      "questionText": "On 8th Feb, 2005 it was Tuesday. What was the day of the week on 8th Feb, 2004?",
+      "questionHtml": "<p><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman',serif; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; color: black; mso-themecolor: text1; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">On 8th Feb, 2005 it was Tuesday. What was the day of the week on 8th Feb, 2004?</span></p>",
+      "correctOption": "3",
+      "options": [
+        {
+          "order": "1",
+          "text": "A. Tuesday",
+          "html": "<p class=\"MsoListParagraph\" style=\"text-indent: -18.0pt; mso-list: l0 level1 lfo1;\"><!-- [if !supportLists]--><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman'; color: black; mso-themecolor: text1; mso-ansi-language: EN-US;\">A.<span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';\">&nbsp;&nbsp; </span></span><!--[endif]--><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman',serif; color: black; mso-themecolor: text1; mso-ansi-language: EN-US;\">Tuesday<o:p></o:p></span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "A. Monday",
+          "html": "<p class=\"MsoListParagraph\" style=\"text-indent: -18.0pt; mso-list: l0 level1 lfo1;\"><!-- [if !supportLists]--><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman'; color: black; mso-themecolor: text1; mso-ansi-language: EN-US;\">A.<span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';\">&nbsp;&nbsp; </span></span><!--[endif]--><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman',serif; color: black; mso-themecolor: text1; mso-ansi-language: EN-US;\">Monday<o:p></o:p></span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "A. Sunday",
+          "html": "<p class=\"MsoListParagraph\" style=\"text-indent: -18.0pt; mso-list: l0 level1 lfo1;\"><!-- [if !supportLists]--><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman'; color: black; mso-themecolor: text1; mso-ansi-language: EN-US;\">A.<span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';\">&nbsp;&nbsp; </span></span><!--[endif]--><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman',serif; color: black; mso-themecolor: text1; mso-ansi-language: EN-US;\">Sunday<o:p></o:p></span></p>",
+          "isCorrect": true
+        },
+        {
+          "order": "4",
+          "text": "A. Wednesday",
+          "html": "<p class=\"MsoListParagraph\" style=\"text-indent: -18.0pt; mso-list: l0 level1 lfo1;\"><!-- [if !supportLists]--><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman'; color: black; mso-themecolor: text1; mso-ansi-language: EN-US;\">A.<span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';\">&nbsp;&nbsp; </span></span><!--[endif]--><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman',serif; color: black; mso-themecolor: text1; mso-ansi-language: EN-US;\">Wednesday<o:p></o:p></span></p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 7,
+      "section": "Assessmnet",
+      "id": "653d53b7bc27d5304f3693a8",
+      "type": "mcq",
+      "posMarks": 2,
+      "negMarks": 1,
+      "questionText": "On 8th Dec, 2007 Saturday falls. What day of the week was it on 8th Dec, 2006?",
+      "questionHtml": "<p class=\"MsoNormal\"><span lang=\"EN-US\">On 8th Dec, 2007 Saturday falls. What day of the week was it on 8th Dec, 2006?<o:p></o:p></span></p>",
+      "correctOption": "4",
+      "options": [
+        {
+          "order": "1",
+          "text": "A. Sunday",
+          "html": "<p class=\"MsoListParagraph\" style=\"text-indent: -18.0pt; mso-list: l0 level1 lfo1;\"><!-- [if !supportLists]--><span lang=\"EN-US\">A.<span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><!--[endif]--><span lang=\"EN-US\">Sunday<o:p></o:p></span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "A. Thursday",
+          "html": "<p class=\"MsoListParagraph\" style=\"text-indent: -18.0pt; mso-list: l0 level1 lfo1;\"><!-- [if !supportLists]--><span lang=\"EN-US\">A.<span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><!--[endif]--><span lang=\"EN-US\">Thursday<o:p></o:p></span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "A. Tuesday",
+          "html": "<p class=\"MsoListParagraph\" style=\"text-indent: -18.0pt; mso-list: l0 level1 lfo1;\"><!-- [if !supportLists]--><span lang=\"EN-US\">A.<span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><!--[endif]--><span lang=\"EN-US\">Tuesday<o:p></o:p></span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "A. Friday",
+          "html": "<p class=\"MsoListParagraph\" style=\"text-indent: -18.0pt; mso-list: l0 level1 lfo1;\"><!-- [if !supportLists]--><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman'; color: black; mso-themecolor: text1; mso-ansi-language: EN-US;\">A.<span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';\">&nbsp;&nbsp; </span></span><!--[endif]--><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman',serif; color: black; mso-themecolor: text1; mso-ansi-language: EN-US;\">Friday<o:p></o:p></span></p>",
+          "isCorrect": true
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 8,
+      "section": "Assessmnet",
+      "id": "653d53b7bc27d5a5523693ad",
+      "type": "mcq",
+      "posMarks": 2,
+      "negMarks": 1,
+      "questionText": "January 1, 2008, is Tuesday. What day of the week lies on Jan 1, 2009?",
+      "questionHtml": "<p class=\"MsoNormal\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman',serif; color: black; mso-themecolor: text1; mso-ansi-language: EN-US;\">January 1, 2008, is Tuesday. What day of the week lies on Jan 1, 2009?<o:p></o:p></span></p>",
+      "correctOption": "3",
+      "options": [
+        {
+          "order": "1",
+          "text": "A. Monday",
+          "html": "<p class=\"MsoListParagraph\" style=\"text-indent: -18.0pt; mso-list: l0 level1 lfo1;\"><!-- [if !supportLists]--><span lang=\"EN-US\">A.<span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><!--[endif]--><span lang=\"EN-US\">Monday<o:p></o:p></span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "A. Wednesday",
+          "html": "<p class=\"MsoListParagraph\" style=\"text-indent: -18.0pt; mso-list: l0 level1 lfo1;\"><!-- [if !supportLists]--><span lang=\"EN-US\">A.<span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><!--[endif]--><span lang=\"EN-US\">Wednesday<o:p></o:p></span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "Thursday",
+          "html": "<p class=\"MsoListParagraph\" style=\"text-indent: -18.0pt; mso-list: l0 level1 lfo1;\"><!-- [if !supportLists]--><span lang=\"EN-US\" style=\"text-indent: -18pt; font-size: 14pt; line-height: 107%; font-family: 'Times New Roman', serif; color: black;\">&nbsp; &nbsp; Thursday</span></p>\n<p class=\"MsoListParagraph\" style=\"text-indent: -18.0pt; mso-list: l0 level1 lfo1;\"><o:p></o:p></p>",
+          "isCorrect": true
+        },
+        {
+          "order": "4",
+          "text": "A. Sunday",
+          "html": "<p class=\"MsoListParagraph\" style=\"text-indent: -18.0pt; mso-list: l0 level1 lfo1;\"><!-- [if !supportLists]--><span lang=\"EN-US\">A.<span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><!--[endif]--><span lang=\"EN-US\">Sunday<o:p></o:p></span></p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 9,
+      "section": "Assessmnet",
+      "id": "653d53b7bc27d5ba323693b2",
+      "type": "mcq",
+      "posMarks": 2,
+      "negMarks": 1,
+      "questionText": "January 1, 2007 was Monday. What day of the week lies on Jan. 1, 2008?",
+      "questionHtml": "<p class=\"MsoNormal\"><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman',serif; color: black; mso-themecolor: text1; mso-ansi-language: EN-US;\">January 1, 2007 was Monday. What day of the week lies on Jan. 1, 2008?<o:p></o:p></span></p>",
+      "correctOption": "2",
+      "options": [
+        {
+          "order": "1",
+          "text": "Monday",
+          "html": "<p><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman',serif; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; color: black; mso-themecolor: text1; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">Monday</span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "A. Tuesday",
+          "html": "<p class=\"MsoListParagraph\" style=\"text-indent: -18.0pt; mso-list: l0 level1 lfo1;\"><!-- [if !supportLists]--><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman'; color: black; mso-themecolor: text1; mso-ansi-language: EN-US;\">A.<span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';\">&nbsp;&nbsp; </span></span><!--[endif]--><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman',serif; color: black; mso-themecolor: text1; mso-ansi-language: EN-US;\">Tuesday<o:p></o:p></span></p>",
+          "isCorrect": true
+        },
+        {
+          "order": "3",
+          "text": "A. Wednesday",
+          "html": "<p class=\"MsoListParagraph\" style=\"text-indent: -18.0pt; mso-list: l0 level1 lfo1;\"><!-- [if !supportLists]--><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman'; color: black; mso-themecolor: text1; mso-ansi-language: EN-US;\">A.<span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';\">&nbsp;&nbsp; </span></span><!--[endif]--><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman',serif; color: black; mso-themecolor: text1; mso-ansi-language: EN-US;\">Wednesday<o:p></o:p></span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "A. Sunday",
+          "html": "<p class=\"MsoListParagraph\" style=\"text-indent: -18.0pt; mso-list: l0 level1 lfo1;\"><!-- [if !supportLists]--><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman'; color: black; mso-themecolor: text1; mso-ansi-language: EN-US;\">A.<span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';\">&nbsp;&nbsp; </span></span><!--[endif]--><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman',serif; color: black; mso-themecolor: text1; mso-ansi-language: EN-US;\">Sunday<o:p></o:p></span></p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 10,
+      "section": "Assessmnet",
+      "id": "653d53b7bc27d584ea3693b7",
+      "type": "mcq",
+      "posMarks": 2,
+      "negMarks": 1,
+      "questionText": "It was Sunday on Jan 1, 2006. What was the day of the week Jan 1, 2010?",
+      "questionHtml": "<p><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman',serif; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; color: black; mso-themecolor: text1; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">It was Sunday on Jan 1, 2006. What was the day of the week Jan 1, 2010?</span></p>",
+      "correctOption": "3",
+      "options": [
+        {
+          "order": "1",
+          "text": "A. Sunday",
+          "html": "<p class=\"MsoListParagraph\" style=\"text-indent: -18.0pt; mso-list: l0 level1 lfo1;\"><!-- [if !supportLists]--><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman'; color: black; mso-themecolor: text1; mso-ansi-language: EN-US;\">A.<span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';\">&nbsp;&nbsp; </span></span><!--[endif]--><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman',serif; color: black; mso-themecolor: text1; mso-ansi-language: EN-US;\">Sunday<o:p></o:p></span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "A. Saturday",
+          "html": "<p class=\"MsoListParagraph\" style=\"text-indent: -18.0pt; mso-list: l0 level1 lfo1;\"><!-- [if !supportLists]--><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman'; color: black; mso-themecolor: text1; mso-ansi-language: EN-US;\">A.<span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';\">&nbsp;&nbsp; </span></span><!--[endif]--><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman',serif; color: black; mso-themecolor: text1; mso-ansi-language: EN-US;\">Saturday<o:p></o:p></span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "A. Friday",
+          "html": "<p class=\"MsoListParagraph\" style=\"text-indent: -18.0pt; mso-list: l0 level1 lfo1;\"><!-- [if !supportLists]--><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman'; color: black; mso-themecolor: text1; mso-ansi-language: EN-US;\">A.<span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';\">&nbsp;&nbsp; </span></span><!--[endif]--><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman',serif; color: black; mso-themecolor: text1; mso-ansi-language: EN-US;\">Friday<o:p></o:p></span></p>",
+          "isCorrect": true
+        },
+        {
+          "order": "4",
+          "text": "A. Wednesday",
+          "html": "<p class=\"MsoListParagraph\" style=\"text-indent: -18.0pt; mso-list: l0 level1 lfo1;\"><!-- [if !supportLists]--><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman'; color: black; mso-themecolor: text1; mso-ansi-language: EN-US;\">A.<span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';\">&nbsp;&nbsp; </span></span><!--[endif]--><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman',serif; color: black; mso-themecolor: text1; mso-ansi-language: EN-US;\">Wednesday<o:p></o:p></span></p>",
+          "isCorrect": false
+        }
+      ],
+      "embeddedImages": []
+    },
+    {
+      "questionNumber": 11,
+      "section": "Assessmnet",
+      "id": "653d53b7bc27d5150e3693bc",
+      "type": "mcq",
+      "posMarks": 2,
+      "negMarks": 1,
+      "questionText": "What was the day of the week on 28th May, 2006?",
+      "questionHtml": "<p><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman',serif; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; color: black; mso-themecolor: text1; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">What was the day of the week on 28th May, 2006?</span></p>",
+      "correctOption": "4",
+      "options": [
+        {
+          "order": "1",
+          "text": "A. Thursday",
+          "html": "<p class=\"MsoListParagraph\" style=\"text-indent: -18.0pt; mso-list: l0 level1 lfo1;\"><!-- [if !supportLists]--><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman'; color: black; mso-themecolor: text1; mso-ansi-language: EN-US;\">A.<span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';\">&nbsp;&nbsp; </span></span><!--[endif]--><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman',serif; color: black; mso-themecolor: text1; mso-ansi-language: EN-US;\">Thursday<o:p></o:p></span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "2",
+          "text": "A. Friday",
+          "html": "<p class=\"MsoListParagraph\" style=\"text-indent: -18.0pt; mso-list: l0 level1 lfo1;\"><!-- [if !supportLists]--><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman'; color: black; mso-themecolor: text1; mso-ansi-language: EN-US;\">A.<span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';\">&nbsp;&nbsp; </span></span><!--[endif]--><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman',serif; color: black; mso-themecolor: text1; mso-ansi-language: EN-US;\">Friday<o:p></o:p></span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "3",
+          "text": "A. Saturday",
+          "html": "<p class=\"MsoListParagraph\" style=\"text-indent: -18.0pt; mso-list: l0 level1 lfo1;\"><!-- [if !supportLists]--><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman'; color: black; mso-themecolor: text1; mso-ansi-language: EN-US;\">A.<span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';\">&nbsp;&nbsp; </span></span><!--[endif]--><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman',serif; color: black; mso-themecolor: text1; mso-ansi-language: EN-US;\">Saturday<o:p></o:p></span></p>",
+          "isCorrect": false
+        },
+        {
+          "order": "4",
+          "text": "A. Sunday",
+          "html": "<p class=\"MsoListParagraph\" style=\"text-indent: -18.0pt; mso-list: l0 level1 lfo1;\"><!-- [if !supportLists]--><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman'; color: black; mso-themecolor: text1; mso-ansi-language: EN-US;\">A.<span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';\">&nbsp;&nbsp; </span></span><!--[endif]--><span lang=\"EN-US\" style=\"font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman',serif; color: black; mso-themecolor: text1; mso-ansi-language: EN-US;\">Sunday<o:p></o:p></span></p>",
+          "isCorrect": true
+        }
+      ],
+      "embeddedImages": []
+    }
+  ]
+}
