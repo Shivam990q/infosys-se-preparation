@@ -424,3 +424,34 @@ Conclusions:
   $$14 + 13 = (1 \times 1 - 4 \times 3)^2 = (1 - 12)^2 = (-11)^2 = \mathbf{121}$$
   Conclusion 1 follows perfectly.
 * Conclusion 2 introduces the subtraction operator ($-$), which is undefined and absent from the axiomatic statements. Therefore, only Conclusion 1 follows.
+
+
+---
+
+### Question 21 [Source: `photo_2021-08-22_10-30-54.jpg`]
+**Question:** If 'A' means 'subtraction', 'B' means 'division', 'C' means 'multiplication', and 'D' means 'addition', then what will be the value of following expression?  
+`18 A 15 B 75 C 90 D 23`
+
+**Answer Options:**
+* **(A)** 18
+* **(B)** 33
+* **(C)** 15
+* **(D)** 23
+
+**Correct Answer:** **(D) 23**  
+**Mathematical Proof:**
+1. Given operator substitutions:
+   * $A \to -$
+   * $B \to \div$
+   * $C \to \times$
+   * $D \to +$
+2. Substitute into expression:
+   $$18 - 15 \div 75 \times 90 + 23$$
+3. Apply standard arithmetic precedence (BODMAS / PEMDAS):
+   * **Step 1 (Division):**
+     $$15 \div 75 = \frac{15}{75} = \frac{1}{5} = 0.2$$
+   * **Step 2 (Multiplication):**
+     $$\frac{1}{5} \times 90 = \frac{90}{5} = 18$$
+   * **Step 3 (Addition and Subtraction):**
+     $$18 - 18 + 23 = 0 + 23 = \mathbf{23}$$
+Hence, the value of the expression is **23** (Option D).

@@ -741,3 +741,154 @@ print(a);
   * $a = 23 \% 10 = 3, f = 2$.
   * $a = 2 \% 10 = 2, f = 0$.
 * Loop terminates with $a = \mathbf{2}$. Output: **2** (Option B).
+
+
+---
+
+### Question 23 [Source: `WhatsApp Image 2021-11-21 at 6.04.54 PM (2).jpg`]
+**Question:** What will be the output of the given pseudocode if the elements entered by the user are as follows:  
+`3 5 1 2 6`  
+*Note: Assume value of n is 5* `[2 Marks]`
+
+```pseudocode
+Integer n , i
+Integer array[10000]
+Read n
+for(i=0; i<n; i = i+1)
+{
+    Read array[i]
+}
+for(i=n-1; i>=0; i=i-1)
+    print array[i]
+```
+
+**Answer Options:**
+* **(A)** 1 2 3 5 6
+* **(B)** 1 3 5 2 6
+* **(C)** 6 2 1 5 3
+* **(D)** 2 6 1 3 5
+
+**Correct Answer:** **(C) 6 2 1 5 3**  
+**Execution Trace & Proof:**
+1. **Input Stage:** The user enters $n = 5$. The first `for` loop reads 5 integers into 0-indexed positions:
+   * $	ext{array}[0] = 3$
+   * $	ext{array}[1] = 5$
+   * $	ext{array}[2] = 1$
+   * $	ext{array}[3] = 2$
+   * $	ext{array}[4] = 6$
+2. **Reverse Traversal Stage:** The second `for` loop initializes $i = n - 1 = 4$, decrements $i$ by 1 each step, and continues while $i \ge 0$:
+   * $i = 4$: Prints $\text{array}[4] = \mathbf{6}$
+   * $i = 3$: Prints $\text{array}[3] = \mathbf{2}$
+   * $i = 2$: Prints $\text{array}[2] = \mathbf{1}$
+   * $i = 1$: Prints $\text{array}[1] = \mathbf{5}$
+   * $i = 0$: Prints $\text{array}[0] = \mathbf{3}$
+   * $i = -1$: Condition $i \ge 0$ fails; loop terminates.
+3. **Final Printed Output:** `6 2 1 5 3`.
+Hence, the output is **6 2 1 5 3** (Option C).
+
+---
+
+### Question 24 [Source: `WhatsApp Image 2021-11-21 at 6.04.55 PM.jpg`]
+**Question:** Which of these patterns will the code print? `[2 Marks]`  
+*Note: Assume value of n is 11*
+
+```pseudocode
+integer n;
+Read n from the user
+for(int i=1; i<=n; i++)
+{
+    if(i==((n/2)+1))
+    {
+        for(int j=1; j<=n; j++)
+        {
+            print "+"
+        }
+    }
+    else
+    {
+        for(int j=1; j<=n/2; j++)
+        {
+            print " "
+        }
+        print "+"
+    }
+    print new line
+}
+```
+
+**Answer Options:**
+* **(A)** A diagonal cross pattern ('X')
+* **(B)** A hollow square pattern
+* **(C)** A centered plus sign ('+') pattern
+* **(D)** A right-angled triangle pattern
+
+**Correct Answer:** **(C) A centered plus sign ('+') pattern**  
+**Execution Trace & Proof:**
+1. Given $n = 11$, an odd integer.
+2. In integer arithmetic:
+   $$\frac{n}{2} = \lfloor 11/2 \rfloor = 5 \implies \left(\frac{n}{2} + 1\right) = 6$$
+3. For rows where $i \neq 6$ (i.e. rows $1, 2, 3, 4, 5$ and $7, 8, 9, 10, 11$):
+   * The inner loop prints $n/2 = 5$ whitespace characters: `"     "`.
+   * Followed by a single `"+"` character.
+   * This aligns a single column of plus symbols vertically along column 6 across all rows.
+4. For row $i == 6$:
+   * The condition $i == (n/2 + 1)$ evaluates to `true`.
+   * The inner loop iterates $j = 1$ to $11$, printing $11$ consecutive `"+"` characters without spaces.
+   * This forms a continuous horizontal crossbar across the entire grid width.
+5. **Geometric Synthesis:**
+   * The horizontal crossbar along row 6 bisects the vertical column of plus signs along column 6.
+   * This generates an exact symmetric, centered **Plus Sign ('+') Pattern**.
+Hence, Option C is correct.
+
+---
+
+### Question 25 [Source: `WhatsApp Image 2021-11-21 at 6.04.56 PM (1).jpg`, `WhatsApp Image 2021-11-21 at 6.04.56 PM.jpg`]
+**Question:** What will the given pseudocode print if the user enters 10 as the input? `[2 Marks]`
+
+```pseudocode
+void function(integer n)
+{
+    integer p
+    set p = 1
+    for(integer k=2; k<n; k++){
+        set p = p * (k - 1)
+        if ((p + 1) % k == 0)
+            print k
+    }
+}
+main function
+{
+    Integer n
+    Read n
+    function(n)
+}
+```
+
+**Answer Options:**
+* **(A)** 2 3 5 7
+* **(B)** 2 3
+* **(C)** 2 3, 5
+* **(D)** 7 5 3 2
+
+**Correct Answer:** **(A) 2 3 5 7**  
+**Mathematical Proof (Wilson's Theorem):**
+1. **Algorithmic Invariant:**
+   * Before the test for loop variable $k$, the accumulator $p$ satisfies:
+     $$p = \prod_{j=1}^{k-1} j = (k - 1)!$$
+   * The conditional print condition checks:
+     $$(p + 1) \% k == 0 \iff (k - 1)! + 1 \equiv 0 \pmod k$$
+2. **Wilson's Theorem in Number Theory:**
+   * Wilson's Theorem states that for any integer $k > 1$, $(k - 1)! + 1$ is divisible by $k$ **if and only if $k$ is prime**:
+     $$(k - 1)! \equiv -1 \pmod k \iff k \in \mathbb{P}$$
+3. **Step-by-Step State Trace for $n = 10$ ($k = 2, 3, \dots, 9$):**
+   * $k = 2$: $p = 1 \times (2 - 1) = 1$. $(1 + 1) \% 2 = 0 \implies$ **prints 2**.
+   * $k = 3$: $p = 1 \times (3 - 1) = 2$. $(2 + 1) \% 3 = 0 \implies$ **prints 3**.
+   * $k = 4$: $p = 2 \times (4 - 1) = 6$. $(6 + 1) \% 4 = 7 \% 4 = 3 \neq 0 \implies$ does not print.
+   * $k = 5$: $p = 6 \times (5 - 1) = 24$. $(24 + 1) \% 5 = 25 \% 5 = 0 \implies$ **prints 5**.
+   * $k = 6$: $p = 24 \times (6 - 1) = 120$. $(120 + 1) \% 6 = 121 \% 6 = 1 \neq 0 \implies$ does not print.
+   * $k = 7$: $p = 120 \times (7 - 1) = 720$. $(720 + 1) \% 7 = 721 \% 7 = 0$ ($721 = 7 \times 103$) $\implies$ **prints 7**.
+   * $k = 8$: $p = 720 \times (8 - 1) = 5040$. $(5040 + 1) \% 8 = 1 \neq 0 \implies$ does not print.
+   * $k = 9$: $p = 5040 \times (9 - 1) = 40320$. $(40320 + 1) \% 9 = 1 \neq 0 \implies$ does not print.
+   * $k = 10$: Loop terminates ($k < n$).
+4. **Output:** The printed primes strictly less than 10 are **2 3 5 7**.
+Hence, the output is **2 3 5 7** (Option A).

@@ -173,3 +173,34 @@ $$F3, ?, D9, C12, B15$$
 2. **Number pattern:** Numbers increase by $+3$ in an arithmetic progression:
    $$3 \xrightarrow{+3} \mathbf{6} \xrightarrow{+3} 9 \xrightarrow{+3} 12 \xrightarrow{+3} 15$$
 3. Combining letter and number gives **E6** (Option C).
+
+
+---
+
+### Question 9 [Source: `photo_2021-08-22_11-31-30.jpg`]
+**Question:** What two numbers should replace the question marks :  
+`6, 7, 14, 17, 68, 73, ?, ?` `[3 Marks]`
+
+**Answer Options:**
+* **(A)** 445, 511
+* **(B)** 438, 511
+* **(C)** 445, 452
+* **(D)** 438, 445
+
+**Correct Answer:** **(D) 438, 445**  
+**Mathematical Proof:**
+1. Let the sequence be denoted by $a_1, a_2, \dots, a_8$.
+2. Formulate the inductive progression between successive terms:
+   * $a_1 = 6$
+   * $a_2 = a_1 + 1 = 6 + 1 = 7$ (Operation: $+1$)
+   * $a_3 = a_2 \times 2 = 7 \times 2 = 14$ (Operation: $\times 2$)
+   * $a_4 = a_3 + 3 = 14 + 3 = 17$ (Operation: $+3$)
+   * $a_5 = a_4 \times 4 = 17 \times 4 = 68$ (Operation: $\times 4$)
+   * $a_6 = a_5 + 5 = 68 + 5 = 73$ (Operation: $+5$)
+3. Pattern Invariant: The sequence alternates strictly between addition and multiplication, where the operand increases monotonically by 1 at each transition:
+   * Next operation must be $\mathbf{\times 6}$:
+     $$a_7 = a_6 \times 6 = 73 \times 6 = \mathbf{438}$$
+   * Following operation must be $\mathbf{+7}$:
+     $$a_8 = a_7 + 7 = 438 + 7 = \mathbf{445}$$
+4. The two replacement values are **438, 445**.
+Hence, Option D is correct.

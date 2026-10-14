@@ -2,7 +2,7 @@
 
 > **Target Source:** `Course_58216_OnlineStudy4U_Full/1.2 Infosys PYQ Screenshot/1.2.1Infosys PYQ Screenshots- PART1` & `1.2.2 Infosys PYQ Screenshots- PART2`  
 > **Destination Vault:** `1.2 Infosys PYQ Screenshot/EXTRACTED_STRUCTURED_QUESTIONS`  
-> **Audit Status:** 321 / 321 Screenshots (100% Accounted For & Ground-Truth Verified)  
+> **Audit Status:** 433 / 433 Screenshots (100% Accounted For & Ground-Truth Verified)
 > **Part 1 Count:** 251 Screenshots (100% Extracted & Verified)  
 > **Part 2 Count:** 70 Screenshots (100% Extracted & Verified)  
 > **Zero Guesswork Guarantee:** Every single question stem, options set, and correct solution is verified against screenshot image pixels.  
@@ -18,26 +18,26 @@ EXTRACTED_STRUCTURED_QUESTIONS/
 ├── Section_01_Logical_Reasoning/
 │   ├── Topic_Blood_Relations.md          (5 Questions - Formal Lineage Trees & Coded Symbolic Logic)
 │   ├── Topic_Cause_and_Effect.md         (2 Questions - Formal Causal Chains & Common Causes)
-│   ├── Topic_Data_Sufficiency.md         (28 Questions - Complete Algebraic, Ranking, Clocks & Geometric Proofs)
-│   ├── Topic_Deductive_Reasoning.md      (11 Questions - Transitive Inequalities, Municipal Actions & BITS Pilani Criteria)
-│   ├── Topic_Direction_Sense.md          (3 Questions - Compass Vectors, Angular Rotations & Coded Grid Navigation)
-│   ├── Topic_Letter_Analogy.md           (4 Questions - Positional Ciphers, Alphanumeric Conditions & Artificial Language)
+│   ├── Topic_Data_Sufficiency.md         (41 Questions - Complete Algebraic, Ranking, Clocks & Geometric Proofs)
+│   ├── Topic_Deductive_Reasoning.md      (21 Questions - Transitive Inequalities, Municipal Actions & BODMAS Substitution)
+│   ├── Topic_Direction_Sense.md          (4 Questions - Compass Vectors, Angular Rotations & Twisted Pole Kinematics)
+│   ├── Topic_Letter_Analogy.md           (7 Questions - Positional Ciphers, Alphanumeric Conditions & Semantic Analogies)
 │   ├── Topic_Seating_Arrangement.md      (8 Questions - Linear Swaps & Multi-Attribute Five Brothers Matching)
-│   └── Topic_Syllogism.md                (9 Questions - Formal Venn Subsets & Multi-Premise Deductions)
+│   └── Topic_Syllogism.md                (16 Questions - Formal Venn Subsets, Existential Links & Modern 'Only a few' Syllogisms)
 ├── Section_02_Puzzle_Solving/
-│   ├── Topic_Missing_Number_Grid.md      (16 Questions - Tabular Redraws & Overlapping Ellipses Petal Solvers)
-│   └── Topic_Number_Patterns.md          (3 Questions - Geometric Triads & Multi-Term Progressions)
+│   ├── Topic_Missing_Number_Grid.md      (37 Questions - Tabular Redraws, Outer-Column Ratios & Modular Petal Solvers)
+│   └── Topic_Number_Patterns.md          (5 Questions - Geometric Triads, Divisibility Scanners & Position Place-Value Shifts)
 ├── Section_03_Pseudocode_and_Technical/
 │   ├── Topic_Bitwise_and_Complexity.md   (2 Questions - Longest Palindromic Subsequence DP & Asymptotics)
-│   ├── Topic_Coding_Assessment.md        (1 SP/DSE Problem - 'Emil and Prime Subarrays' C++/Java/Python)
-│   └── Topic_Pseudocode_Execution.md     (10 Questions - Monospace Code Blocks & Variable Trace Tables)
+│   ├── Topic_Coding_Assessment.md        (0 Questions - Reference Repository Placeholder)
+│   └── Topic_Pseudocode_Execution.md     (25 Questions - Reverse Traversal, Pattern Matrix & Wilson's Theorem Prime Filters)
 ├── Section_04_Mathematical_Ability/
-│   ├── Topic_Arithmetic_Word_Problems.md (22 Questions - Work/Time, Age Systems, CI, Statistics, Ratios & Salary Chains)
-│   ├── Topic_Data_Interpretation.md      (22 Questions - Redrawn Tables, Line Charts & 360° Pie Degree Charts)
-│   └── Topic_Number_Series.md            (4 Questions - Cubic Progression, Alternating & Step Decrements)
+│   ├── Topic_Arithmetic_Word_Problems.md (58 Questions - Work/Time, Age Systems, CI, Statistics, Ratios, Probability & Combinatorics)
+│   ├── Topic_Data_Interpretation.md       (27 Questions - Pie Charts, Multi-Bar Diagrams & Financial Breakdown Tables)
+│   └── Topic_Number_Series.md             (9 Questions - Double-Term Alternating Progression & High-Degree Recurrences)
 └── Section_05_Verbal_Ability/
-    ├── Topic_Reading_Comprehension.md    (5 Questions - Complete IELTS Guide Passage & 5 Sub-Questions)
-    └── Topic_Sentence_Correction.md      (10 Questions - Rhetorical Synthesis, Tautologies, Collocations & Idioms)
+    ├── Topic_Reading_Comprehension.md    (5 Questions - Paragraph Inference, Tone Analysis & Contextual Meaning)
+    └── Topic_Sentence_Correction.md      (14 Questions - Subject-Verb Agreement, Parallelism, Dangling Modifiers & Homophones)
 ```
 
 ---
@@ -375,3 +375,138 @@ EXTRACTED_STRUCTURED_QUESTIONS/
 | 320 | `photo_1930@28-10-2024_22-49-56.jpg` | **Mathematical Ability** | Arithmetic Word Problems | Question 12 (Mother 4x daughter, 6 yrs back 5x -> Daughter 24, Mother 96 years) | Extracted & Verified |
 | 321 | `photo_1931@28-10-2024_22-49-56.jpg` | **Logical Reasoning** | Blood Relations | Question 5 (Coded relations: M # P $ O % N indicates N is son-in-law of M) | Extracted & Verified || 252 | photo_1860@28-10-2024_22-49-55.jpg | **Mathematical Ability** | Data Interpretation | Question 9 (5 Friends 3-Year Investment Partnership: Rakesh +60% vs Raghu -> ₹17,500) | Extracted, Redrawn & Verified |
 
+---
+
+## 📑 4. Detailed Image-by-Image Verification Matrix: PART 0 (1.2.4 Infosys PYQ Screenshots - PART0)
+
+> **Folder Path:** `1.2 Infosys PYQ Screenshot\1.2.4 Infosys PYQ Screenshots - PART0`  
+> **Total Files:** 64 Files  
+> **Unique Hashes:** 46 Unique MD5 Hashes  
+> **Status:** 100% Extracted, Deduplicated & Verified
+
+| # | Screenshot Filename | Assigned Section | Assigned Topic | Question Reference / Title | Audit Status |
+|:---:|---|---|---|---|:---:|
+| 322 | `WhatsApp Image 2021-11-21 at 6.04.53 PM (1).jpg` | **Puzzle Solving** | Missing Number Grid | Question 21 (3x4 Grid 3 3 7 5 | 2 7 ? 4 | 2 1 9 7 -> 6) | Extracted & Verified |
+| 323 | `WhatsApp Image 2021-11-21 at 6.04.53 PM (1)_68211934.jpg` | **Puzzle Solving** | Missing Number Grid | Question 21 (3x4 Grid 3 3 7 5 | 2 7 ? 4 | 2 1 9 7 -> 6) | Extracted & Verified |
+| 324 | `WhatsApp Image 2021-11-21 at 6.04.53 PM.jpg` | **Puzzle Solving** | Missing Number Grid | Question 22 (Fraction Grid 2 ? 2 | 3 3/5 27/5 | 4 4/6 32/3 -> 2/4) | Extracted & Verified |
+| 325 | `WhatsApp Image 2021-11-21 at 6.04.53 PM_68211935.jpg` | **Puzzle Solving** | Missing Number Grid | Question 22 (Fraction Grid 2 ? 2 | 3 3/5 27/5 | 4 4/6 32/3 -> 2/4) | Extracted & Verified |
+| 326 | `WhatsApp Image 2021-11-21 at 6.04.54 PM (1).jpg` | **Puzzle Solving** | Missing Number Grid | Question 24 (Ratio Grid 11/2 236 22 | 25/2 889 ? | 7 437 28 -> 50) | Extracted & Verified |
+| 327 | `WhatsApp Image 2021-11-21 at 6.04.54 PM (1)_68211936.jpg` | **Puzzle Solving** | Missing Number Grid | Question 24 (Ratio Grid 11/2 236 22 | 25/2 889 ? | 7 437 28 -> 50) | Extracted & Verified |
+| 328 | `WhatsApp Image 2021-11-21 at 6.04.54 PM (2).jpg` | **Pseudocode & Technical** | Pseudocode Execution | Question 23 (Array Reversal n=5: 3 5 1 2 6 -> 6 2 1 5 3) | Extracted & Verified |
+| 329 | `WhatsApp Image 2021-11-21 at 6.04.54 PM (2)_68211937.jpg` | **Pseudocode & Technical** | Pseudocode Execution | Question 23 (Array Reversal n=5: 3 5 1 2 6 -> 6 2 1 5 3) | Extracted & Verified |
+| 330 | `WhatsApp Image 2021-11-21 at 6.04.54 PM.jpg` | **Puzzle Solving** | Missing Number Grid | Question 23 (Factor Grid 12 24 16 | 36 ? 180 | 54 75 100 -> 60) | Extracted & Verified |
+| 331 | `WhatsApp Image 2021-11-21 at 6.04.54 PM_68211938.jpg` | **Puzzle Solving** | Missing Number Grid | Question 23 (Factor Grid 12 24 16 | 36 ? 180 | 54 75 100 -> 60) | Extracted & Verified |
+| 332 | `WhatsApp Image 2021-11-21 at 6.04.55 PM.jpg` | **Pseudocode & Technical** | Pseudocode Execution | Question 24 (Plus Sign Pattern Generation n=11) | Extracted & Verified |
+| 333 | `WhatsApp Image 2021-11-21 at 6.04.55 PM_68211939.jpg` | **Pseudocode & Technical** | Pseudocode Execution | Question 24 (Plus Sign Pattern Generation n=11) | Extracted & Verified |
+| 334 | `WhatsApp Image 2021-11-21 at 6.04.56 PM (1).jpg` | **Pseudocode & Technical** | Pseudocode Execution | Question 25 (Wilson's Theorem Prime Generator n=10 -> 2 3 5 7) | Extracted & Verified |
+| 335 | `WhatsApp Image 2021-11-21 at 6.04.56 PM (1)_68211940.jpg` | **Pseudocode & Technical** | Pseudocode Execution | Question 25 (Wilson's Theorem Prime Generator n=10 -> 2 3 5 7) | Extracted & Verified |
+| 336 | `WhatsApp Image 2021-11-21 at 6.04.56 PM.jpg` | **Pseudocode & Technical** | Pseudocode Execution | Question 25 (Wilson's Theorem Prime Generator n=10 -> 2 3 5 7) | Extracted & Verified |
+| 337 | `WhatsApp Image 2021-11-21 at 6.04.56 PM_68211941.jpg` | **Pseudocode & Technical** | Pseudocode Execution | Question 25 (Wilson's Theorem Prime Generator n=10 -> 2 3 5 7) | Extracted & Verified |
+| 338 | `WhatsApp Image 2021-11-21 at 6.04.57 PM (1).jpg` | **Logical Reasoning** | Direction Sense | Question 4 (Bob's 90-deg CW Twisted Direction Pole -> West) | Extracted & Verified |
+| 339 | `WhatsApp Image 2021-11-21 at 6.04.57 PM (1)_68211942.jpg` | **Logical Reasoning** | Direction Sense | Question 4 (Bob's 90-deg CW Twisted Direction Pole -> West) | Extracted & Verified |
+| 340 | `WhatsApp Image 2021-11-21 at 6.04.57 PM.jpg` | **Verbal Ability** | Sentence Correction | Question 14 (Homophone error: horse 'maine' -> 'mane') | Extracted & Verified |
+| 341 | `WhatsApp Image 2021-11-21 at 6.04.57 PM_68211943.jpg` | **Verbal Ability** | Sentence Correction | Question 14 (Homophone error: horse 'maine' -> 'mane') | Extracted & Verified |
+| 342 | `WhatsApp Image 2021-11-21 at 6.04.58 PM (1).jpg` | **Mathematical Ability** | Arithmetic Word Problems | Question 44 (Pipes and Cisterns A and B together 6h, A takes t-2h -> 11h) | Extracted & Verified |
+| 343 | `WhatsApp Image 2021-11-21 at 6.04.58 PM (1)_68211944.jpg` | **Mathematical Ability** | Arithmetic Word Problems | Question 44 (Pipes and Cisterns A and B together 6h, A takes t-2h -> 11h) | Extracted & Verified |
+| 344 | `WhatsApp Image 2021-11-21 at 6.04.58 PM.jpg` | **Logical Reasoning** | Letter Analogy | Question 6 (Earth : Geology :: Insect : entomology) | Extracted & Verified |
+| 345 | `WhatsApp Image 2021-11-21 at 6.04.58 PM_68211945.jpg` | **Logical Reasoning** | Letter Analogy | Question 6 (Earth : Geology :: Insect : entomology) | Extracted & Verified |
+| 346 | `WhatsApp Image 2021-11-21 at 6.04.59 PM (1).jpg` | **Logical Reasoning** | Data Sufficiency | Question 35 (Courtyard 500x1200 square tiles: HCF vs LCM -> Stmt I alone) | Extracted & Verified |
+| 347 | `WhatsApp Image 2021-11-21 at 6.04.59 PM (1)_68211946.jpg` | **Logical Reasoning** | Data Sufficiency | Question 35 (Courtyard 500x1200 square tiles: HCF vs LCM -> Stmt I alone) | Extracted & Verified |
+| 348 | `WhatsApp Image 2021-11-21 at 6.04.59 PM.jpg` | **Mathematical Ability** | Arithmetic Word Problems | Question 45 (Conditional Probability P(R)=3/8, P(R|S)=3/5, P(S|R)=2/7 -> P(S)=5/28) | Extracted & Verified |
+| 349 | `WhatsApp Image 2021-11-21 at 6.04.59 PM_68211947.jpg` | **Mathematical Ability** | Arithmetic Word Problems | Question 45 (Conditional Probability P(R)=3/8, P(R|S)=3/5, P(S|R)=2/7 -> P(S)=5/28) | Extracted & Verified |
+| 350 | `WhatsApp Image 2021-11-21 at 6.05.00 PM.jpg` | **Mathematical Ability** | Arithmetic Word Problems | Question 46 (Committee of 6 from 9 men & 5 women with >=4 men -> 1974 ways) | Extracted & Verified |
+| 351 | `WhatsApp Image 2021-11-21 at 6.05.00 PM_68211948.jpg` | **Mathematical Ability** | Arithmetic Word Problems | Question 46 (Committee of 6 from 9 men & 5 women with >=4 men -> 1974 ways) | Extracted & Verified |
+| 352 | `WhatsApp Image 2021-11-21 at 6.05.01 PM.jpg` | **Mathematical Ability** | Arithmetic Word Problems | Question 47 (Triangles from 30 points with 10, 8, 12 collinear -> 30C3 - (10C3+8C3+12C3)) | Extracted & Verified |
+| 353 | `WhatsApp Image 2021-11-21 at 6.05.01 PM_68211949.jpg` | **Mathematical Ability** | Arithmetic Word Problems | Question 47 (Triangles from 30 points with 10, 8, 12 collinear -> 30C3 - (10C3+8C3+12C3)) | Extracted & Verified |
+| 354 | `photo_2021-08-22_10-07-30.jpg` | **Mathematical Ability** | Arithmetic Word Problems | Question 48 (Range of {7, 10, 6, 72, 83, 60, 12, 5} -> 83 - 5 = 78) | Extracted & Verified |
+| 355 | `photo_2021-08-22_10-08-56.jpg` | **Logical Reasoning** | Syllogism | Question 11 (All shoes legs, Some legs pairs, Some pair hands -> Neither I nor II) | Extracted & Verified |
+| 356 | `photo_2021-08-22_10-09-09.jpg` | **Logical Reasoning** | Data Sufficiency | Question 36 (Profit percentage: CP=450 vs SP=500 & profit=50 -> II alone) | Extracted & Verified |
+| 357 | `photo_2021-08-22_10-09-21 (2).jpg` | **Logical Reasoning** | Data Sufficiency | Question 37 (Savings ratio of A and B: A=700-600 vs B=500 -> Neither I nor II) | Extracted & Verified |
+| 358 | `photo_2021-08-22_10-09-21.jpg` | **Logical Reasoning** | Data Sufficiency | Question 37 (Savings ratio of A and B: A=700-600 vs B=500 -> Neither I nor II) | Extracted & Verified |
+| 359 | `photo_2021-08-22_10-11-02.jpg` | **Mathematical Ability** | Arithmetic Word Problems | Question 49 (Class interval 13-23: 23 is Upper class limit) | Extracted & Verified |
+| 360 | `photo_2021-08-22_10-12-18.jpg` | **Logical Reasoning** | Syllogism | Question 12 (Girls, boys, good, bad -> Some girls are boys & Some girls are bad) | Extracted & Verified |
+| 361 | `photo_2021-08-22_10-14-02.jpg` | **Mathematical Ability** | Arithmetic Word Problems | Question 50 (Cricket batsman scoring rate: 4 sixes, 11 boundaries, 22 singles / 60 balls -> 1.50) | Extracted & Verified |
+| 362 | `photo_2021-08-22_10-14-38.jpg` | **Logical Reasoning** | Syllogism | Question 13 (Roses, black, lily, pink -> Some roses are pink & Some lily are roses) | Extracted & Verified |
+| 363 | `photo_2021-08-22_10-15-06.jpg` | **Mathematical Ability** | Arithmetic Word Problems | Question 51 (109 Munch chocolate bars sold for Rs. 545 -> Rs. 5 per bar) | Extracted & Verified |
+| 364 | `photo_2021-08-22_10-18-24.jpg` | **Mathematical Ability** | Arithmetic Word Problems | Question 51 (109 Munch chocolate bars sold for Rs. 545 -> Rs. 5 per bar) | Extracted & Verified |
+| 365 | `photo_2021-08-22_10-18-45.jpg` | **Mathematical Ability** | Arithmetic Word Problems | Question 52 (N=15 sum 2100, yi = 2xi - 10 -> new avg greater than old by 130) | Extracted & Verified |
+| 366 | `photo_2021-08-22_10-19-59.jpg` | **Mathematical Ability** | Arithmetic Word Problems | Question 53 (Weekly store sales: 19600 / 7 -> Rs 2800 daily average) | Extracted & Verified |
+| 367 | `photo_2021-08-22_10-22-48.jpg` | **Logical Reasoning** | Syllogism | Question 14 (Trees, green, leaves, fresh -> Only I and II follows) | Extracted & Verified |
+| 368 | `photo_2021-08-22_10-24-58.jpg` | **Puzzle Solving** | Number Patterns | Question 4 (Even numbers divisible by succeeding number in 6 1 2 7 8... -> 2 matches) | Extracted & Verified |
+| 369 | `photo_2021-08-22_10-25-08.jpg` | **Mathematical Ability** | Arithmetic Word Problems | Question 54 (Farm 45 heads, 130 legs -> 20 cows and 25 owners) | Extracted & Verified |
+| 370 | `photo_2021-08-22_10-25-39.jpg` | **Logical Reasoning** | Data Sufficiency | Question 38 (Direction of Q with respect to A: North/West vs East/North -> Either I or II) | Extracted & Verified |
+| 371 | `photo_2021-08-22_10-26-21 (2).jpg` | **Mathematical Ability** | Arithmetic Word Problems | Question 55 (60% of X = 30% of Y -> X : Y = 1 : 2) | Extracted & Verified |
+| 372 | `photo_2021-08-22_10-26-21.jpg` | **Logical Reasoning** | Data Sufficiency | Question 39 (Direction of Z with respect to T -> North-East, Both I and II necessary) | Extracted & Verified |
+| 373 | `photo_2021-08-22_10-26-23.jpg` | **Logical Reasoning** | Syllogism | Question 12 (Girls, boys, good, bad -> Some girls are boys & Some girls are bad) | Extracted & Verified |
+| 374 | `photo_2021-08-22_10-26-32.jpg` | **Mathematical Ability** | Arithmetic Word Problems | Question 56 (5 bakers 100 cupcakes in 5h -> 10 bakers in 2h make 80 cupcakes) | Extracted & Verified |
+| 375 | `photo_2021-08-22_10-26-33.jpg` | **Logical Reasoning** | Data Sufficiency | Question 40 (Dhruv's age: Yash is 28, Dhruv is Yash-6 -> 22, Stmt II alone) | Extracted & Verified |
+| 376 | `photo_2021-08-22_10-26-36.jpg` | **Logical Reasoning** | Syllogism | Question 15 (Rabbits, cats, dogs, elephants -> Some dogs are cats & Some elephants are dogs) | Extracted & Verified |
+| 377 | `photo_2021-08-22_10-26-40 (2).jpg` | **Logical Reasoning** | Data Sufficiency | Question 41 (Queue count: Jay 15th start & 10th last -> 24; Priya 10th start & 15th last -> 24 -> Either I or II) | Extracted & Verified |
+| 378 | `photo_2021-08-22_10-26-40.jpg` | **Logical Reasoning** | Data Sufficiency | Question 41 (Queue count: Jay 15th start & 10th last -> 24; Priya 10th start & 15th last -> 24 -> Either I or II) | Extracted & Verified |
+| 379 | `photo_2021-08-22_10-27-02.jpg` | **Logical Reasoning** | Syllogism | Question 16 (Modern Syllogism: Only a few A is B, Only a few B is C -> Only conclusion II follows) | Extracted & Verified |
+| 380 | `photo_2021-08-22_10-29-15.jpg` | **Mathematical Ability** | Arithmetic Word Problems | Question 57 (Days between 25 Jan 2020 and 14 May 2020 leap year -> 109 days) | Extracted & Verified |
+| 381 | `photo_2021-08-22_10-30-54.jpg` | **Logical Reasoning** | Deductive Reasoning | Question 21 (BODMAS substitution: 18 - 15 / 75 * 90 + 23 = 23) | Extracted & Verified |
+| 382 | `photo_2021-08-22_10-30-55.jpg` | **Mathematical Ability** | Arithmetic Word Problems | Question 58 (Mangoes: sells 3/5, half remainder to wife, 15 left -> 75 mangoes) | Extracted & Verified |
+| 383 | `photo_2021-08-22_10-30-58.jpg` | **Puzzle Solving** | Number Patterns | Question 5 (Digit transformation of 57645361 -> 76837280, digits 7 and 8 appear twice -> 2) | Extracted & Verified |
+| 384 | `photo_2021-08-22_10-31-48.jpg` | **Logical Reasoning** | Letter Analogy | Question 7 (Letter shift FIZU : HABI :: LICA : NAEO [+2, -8, +2, -12]) | Extracted & Verified |
+| 385 | `photo_2021-08-22_11-31-30.jpg` | **Mathematical Ability** | Number Series | Question 9 (Alternating series: 6, 7, 14, 17, 68, 73, ?(+1, *2, +3, *4, +5, *6, +7) -> 438, 445) | Extracted & Verified |
+
+---
+
+## 📑 5. Detailed Image-by-Image Verification Matrix: PART 4 (1.2.5 Infosys Puzzles Screenshots - PART4)
+
+> **Folder Path:** `1.2 Infosys PYQ Screenshot\1.2.5 Infosys Puzzles Screenshots - PART4`  
+> **Total Files:** 48 Files  
+> **Unique Hashes:** 34 Unique MD5 Hashes (16 common with PART0, 18 exclusive to PART4)  
+> **Status:** 100% Extracted, Deduplicated & Verified
+
+| # | Screenshot Filename | Assigned Section | Assigned Topic | Question Reference / Title | Audit Status |
+|:---:|---|---|---|---|:---:|
+| 386 | `Puzzle1.jpg` | **Puzzle Solving** | Missing Number Grid | Question 25 (Grid: 42 35 6 | 91 35 13 | 120 ? 15 -> (C1/C3)*5 = 40) | Extracted & Verified |
+| 387 | `Puzzle1.jpg_68212283.jpg` | **Puzzle Solving** | Missing Number Grid | Question 25 (Grid: 42 35 6 | 91 35 13 | 120 ? 15 -> (C1/C3)*5 = 40) | Extracted & Verified |
+| 388 | `WhatsApp Image 2021-11-21 at 6.04.53 PM (1)_68212242.jpg` | **Puzzle Solving** | Missing Number Grid | Question 21 (3x4 Grid 3 3 7 5 | 2 7 ? 4 | 2 1 9 7 -> 6) | Extracted & Verified |
+| 389 | `WhatsApp Image 2021-11-21 at 6.04.53 PM.jpg` | **Puzzle Solving** | Missing Number Grid | Question 22 (Fraction Grid 2 ? 2 | 3 3/5 27/5 | 4 4/6 32/3 -> 2/4) | Extracted & Verified |
+| 390 | `WhatsApp Image 2021-11-21 at 6.04.53 PM_68212243.jpg` | **Puzzle Solving** | Missing Number Grid | Question 22 (Fraction Grid 2 ? 2 | 3 3/5 27/5 | 4 4/6 32/3 -> 2/4) | Extracted & Verified |
+| 391 | `WhatsApp Image 2021-11-21 at 6.04.54 PM (1)_68212244.jpg` | **Puzzle Solving** | Missing Number Grid | Question 24 (Ratio Grid 11/2 236 22 | 25/2 889 ? | 7 437 28 -> 50) | Extracted & Verified |
+| 392 | `WhatsApp Image 2021-11-21 at 6.04.54 PM (2)_68212245.jpg` | **Pseudocode & Technical** | Pseudocode Execution | Question 23 (Array Reversal n=5: 3 5 1 2 6 -> 6 2 1 5 3) | Extracted & Verified |
+| 393 | `WhatsApp Image 2021-11-21 at 6.04.54 PM.jpg` | **Puzzle Solving** | Missing Number Grid | Question 23 (Factor Grid 12 24 16 | 36 ? 180 | 54 75 100 -> 60) | Extracted & Verified |
+| 394 | `WhatsApp Image 2021-11-21 at 6.04.54 PM_68212246.jpg` | **Puzzle Solving** | Missing Number Grid | Question 23 (Factor Grid 12 24 16 | 36 ? 180 | 54 75 100 -> 60) | Extracted & Verified |
+| 395 | `WhatsApp Image 2021-11-21 at 6.04.55 PM.jpg` | **Pseudocode & Technical** | Pseudocode Execution | Question 24 (Plus Sign Pattern Generation n=11) | Extracted & Verified |
+| 396 | `WhatsApp Image 2021-11-21 at 6.04.55 PM_68212247.jpg` | **Pseudocode & Technical** | Pseudocode Execution | Question 24 (Plus Sign Pattern Generation n=11) | Extracted & Verified |
+| 397 | `WhatsApp Image 2021-11-21 at 6.04.56 PM (1)_68212248.jpg` | **Pseudocode & Technical** | Pseudocode Execution | Question 25 (Wilson's Theorem Prime Generator n=10 -> 2 3 5 7) | Extracted & Verified |
+| 398 | `WhatsApp Image 2021-11-21 at 6.04.56 PM.jpg` | **Pseudocode & Technical** | Pseudocode Execution | Question 25 (Wilson's Theorem Prime Generator n=10 -> 2 3 5 7) | Extracted & Verified |
+| 399 | `WhatsApp Image 2021-11-21 at 6.04.56 PM_68212249.jpg` | **Pseudocode & Technical** | Pseudocode Execution | Question 25 (Wilson's Theorem Prime Generator n=10 -> 2 3 5 7) | Extracted & Verified |
+| 400 | `WhatsApp Image 2021-11-21 at 6.04.57 PM (1)_68212250.jpg` | **Logical Reasoning** | Direction Sense | Question 4 (Bob's 90-deg CW Twisted Direction Pole -> West) | Extracted & Verified |
+| 401 | `WhatsApp Image 2021-11-21 at 6.04.57 PM.jpg` | **Verbal Ability** | Sentence Correction | Question 14 (Homophone error: horse 'maine' -> 'mane') | Extracted & Verified |
+| 402 | `WhatsApp Image 2021-11-21 at 6.04.57 PM_68212251.jpg` | **Verbal Ability** | Sentence Correction | Question 14 (Homophone error: horse 'maine' -> 'mane') | Extracted & Verified |
+| 403 | `WhatsApp Image 2021-11-21 at 6.04.58 PM (1)_68212252.jpg` | **Mathematical Ability** | Arithmetic Word Problems | Question 44 (Pipes and Cisterns A and B together 6h, A takes t-2h -> 11h) | Extracted & Verified |
+| 404 | `WhatsApp Image 2021-11-21 at 6.04.58 PM.jpg` | **Logical Reasoning** | Letter Analogy | Question 6 (Earth : Geology :: Insect : entomology) | Extracted & Verified |
+| 405 | `WhatsApp Image 2021-11-21 at 6.04.58 PM_68212253.jpg` | **Logical Reasoning** | Letter Analogy | Question 6 (Earth : Geology :: Insect : entomology) | Extracted & Verified |
+| 406 | `WhatsApp Image 2021-11-21 at 6.04.59 PM (1)_68212254.jpg` | **Logical Reasoning** | Data Sufficiency | Question 35 (Courtyard 500x1200 square tiles: HCF vs LCM -> Stmt I alone) | Extracted & Verified |
+| 407 | `WhatsApp Image 2021-11-21 at 6.04.59 PM.jpg` | **Mathematical Ability** | Arithmetic Word Problems | Question 45 (Conditional Probability P(R)=3/8, P(R|S)=3/5, P(S|R)=2/7 -> P(S)=5/28) | Extracted & Verified |
+| 408 | `WhatsApp Image 2021-11-21 at 6.04.59 PM_68212256.jpg` | **Mathematical Ability** | Arithmetic Word Problems | Question 45 (Conditional Probability P(R)=3/8, P(R|S)=3/5, P(S|R)=2/7 -> P(S)=5/28) | Extracted & Verified |
+| 409 | `WhatsApp Image 2021-11-21 at 6.05.00 PM.jpg` | **Mathematical Ability** | Arithmetic Word Problems | Question 46 (Committee of 6 from 9 men & 5 women with >=4 men -> 1974 ways) | Extracted & Verified |
+| 410 | `WhatsApp Image 2021-11-21 at 6.05.00 PM_68212257.jpg` | **Mathematical Ability** | Arithmetic Word Problems | Question 46 (Committee of 6 from 9 men & 5 women with >=4 men -> 1974 ways) | Extracted & Verified |
+| 411 | `WhatsApp Image 2021-11-21 at 6.05.01 PM.jpg` | **Mathematical Ability** | Arithmetic Word Problems | Question 47 (Triangles from 30 points with 10, 8, 12 collinear -> 30C3 - (10C3+8C3+12C3)) | Extracted & Verified |
+| 412 | `WhatsApp Image 2021-11-21 at 6.05.01 PM_68212258.jpg` | **Mathematical Ability** | Arithmetic Word Problems | Question 47 (Triangles from 30 points with 10, 8, 12 collinear -> 30C3 - (10C3+8C3+12C3)) | Extracted & Verified |
+| 413 | `photo_2022-01-23_11-38-19.jpg` | **Puzzle Solving** | Missing Number Grid | Question 26 (Grid: 63 47 51 | 2 6 4 | 57 29 ? -> R1 - R3 = 3*R2 -> 39) | Extracted & Verified |
+| 414 | `photo_2022-01-23_11-38-23 (2).jpg` | **Puzzle Solving** | Missing Number Grid | Question 27 (Grid: 589 6 646 | 329 ? 157 -> |sum(C1) - sum(C3)| = 1) | Extracted & Verified |
+| 415 | `photo_2022-01-23_11-38-23.jpg` | **Puzzle Solving** | Missing Number Grid | Question 27 (Grid: 589 6 646 | 329 ? 157 -> |sum(C1) - sum(C3)| = 1) | Extracted & Verified |
+| 416 | `photo_2022-01-23_11-39-11 (2).jpg` | **Puzzle Solving** | Missing Number Grid | Question 28 (Grid: 8 18 9 | 6 12 8 | 10 ? 14 -> (C1*C3)/4 = 35) | Extracted & Verified |
+| 417 | `photo_2022-01-23_11-39-11.jpg` | **Puzzle Solving** | Missing Number Grid | Question 29 (4x4 Grid with x, y: C2=C1-2, C3=C1+6, C4=C1+16 -> x: 11, y: 25) | Extracted & Verified |
+| 418 | `photo_2022-01-23_11-39-20.jpg` | **Puzzle Solving** | Missing Number Grid | Question 30 (Dual 3x3 Letter Grids: Row steps +3, +4, +5 -> D+5 = I) | Extracted & Verified |
+| 419 | `photo_2022-01-23_11-39-53.jpg` | **Puzzle Solving** | Missing Number Grid | Question 29 (4x4 Grid with x, y: C2=C1-2, C3=C1+6, C4=C1+16 -> x: 11, y: 25) | Extracted & Verified |
+| 420 | `photo_2022-01-23_11-39-54 (2).jpg` | **Puzzle Solving** | Missing Number Grid | Question 31 (Grid: 56 16 7 | 76 38 4 | 88 ? 4 -> (C1/C3)*2 = 44) | Extracted & Verified |
+| 421 | `photo_2022-01-23_11-39-54.jpg` | **Puzzle Solving** | Missing Number Grid | Question 31 (Grid: 56 16 7 | 76 38 4 | 88 ? 4 -> (C1/C3)*2 = 44) | Extracted & Verified |
+| 422 | `photo_2022-01-23_11-40-02 (2).jpg` | **Puzzle Solving** | Missing Number Grid | Question 31 (Grid: 56 16 7 | 76 38 4 | 88 ? 4 -> (C1/C3)*2 = 44) | Extracted & Verified |
+| 423 | `photo_2022-01-23_11-40-02.jpg` | **Puzzle Solving** | Missing Number Grid | Question 32 (Grid: 44 55 66 | 7 11 ? | 33 72 49 -> prod(R1) - prod(R3) -> 0) | Extracted & Verified |
+| 424 | `photo_2022-01-23_11-40-07 (2).jpg` | **Puzzle Solving** | Missing Number Grid | Question 33 (Grid: 43 16 22 | 82 22 32 | 63 39 ? -> prod(C1) + prod(C3) = 39 -> 73) | Extracted & Verified |
+| 425 | `photo_2022-01-23_11-40-07.jpg` | **Puzzle Solving** | Missing Number Grid | Question 33 (Grid: 43 16 22 | 82 22 32 | 63 39 ? -> prod(C1) + prod(C3) = 39 -> 73) | Extracted & Verified |
+| 426 | `photo_2022-01-23_11-40-14.jpg` | **Puzzle Solving** | Missing Number Grid | Question 34 (Grid: 65 81 56 | 91 72 83 | 47 99 ? -> |C1 - C3|*9 = 99 -> 36) | Extracted & Verified |
+| 427 | `photo_2022-01-23_11-40-19.jpg` | **Puzzle Solving** | Missing Number Grid | Question 35 (Letter Matrix: GXH | BVC | E?E -> R1 - R2 = R3 -> X(24) - V(22) = 2 = B) | Extracted & Verified |
+| 428 | `photo_2022-01-23_11-40-28.jpg` | **Puzzle Solving** | Missing Number Grid | Question 36 (Grid: 231 ? 423 | 587 35 654 -> sum(C1) + sum(C3) = 15) | Extracted & Verified |
+| 429 | `photo_2022-01-23_11-40-31 (2).jpg` | **Puzzle Solving** | Missing Number Grid | Question 26 (Grid: 63 47 51 | 2 6 4 | 57 29 ? -> R1 - R3 = 3*R2 -> 39) | Extracted & Verified |
+| 430 | `photo_2022-01-23_11-40-31.jpg` | **Puzzle Solving** | Missing Number Grid | Question 26 (Grid: 63 47 51 | 2 6 4 | 57 29 ? -> R1 - R3 = 3*R2 -> 39) | Extracted & Verified |
+| 431 | `photo_2022-01-23_11-40-37.jpg` | **Puzzle Solving** | Missing Number Grid | Question 34 (Grid: 65 81 56 | 91 72 83 | 47 99 ? -> |C1 - C3|*9 = 99 -> 36) | Extracted & Verified |
+| 432 | `photo_2022-01-23_11-40-50.jpg` | **Puzzle Solving** | Missing Number Grid | Question 37 (Grid: 57 13 88 | 78 12 99 | 55 ? 98 -> Reverse(C3 - C1) -> 34) | Extracted & Verified |
+| 433 | `photo_2022-01-23_11-40-52.jpg` | **Puzzle Solving** | Missing Number Grid | Question 30 (Dual 3x3 Letter Grids: Row steps +3, +4, +5 -> D+5 = I) | Extracted & Verified |

@@ -226,3 +226,26 @@ Meat is to vegan as alcohol is to ________.
 **Correct Answer:** **(C) Teetotaller**  
 **Vocabulary Definition:**
 * A vegan is a person who completely abstains from meat and animal products; analogously, a **teetotaller** is a person who completely abstains from alcoholic beverages.
+
+
+---
+
+### Question 14 [Source: `WhatsApp Image 2021-11-21 at 6.04.57 PM.jpg`]
+**Question:** Identify the word/phrase in the given sentence that is erroneous.  
+"The horse had a beautiful maine and kept galloping around the yard."
+
+**Answer Options:**
+* **(A)** horse
+* **(B)** maine
+* **(C)** galloping
+* **(D)** yard
+
+**Correct Answer:** **(B) maine**  
+**Grammatical and Lexical Proof:**
+1. In the English lexicon, a horse's long, thick hair growing along the top or side of the neck is spelled **mane** (noun).
+2. The token "maine" is an erroneous homophone substitution representing a proper noun (the U.S. state of Maine).
+3. The remaining words:
+   * "horse": Correct noun subject.
+   * "galloping": Correct present participle describing the gait of a horse.
+   * "yard": Correct noun object of the preposition.
+Hence, the erroneous word is **maine** (Option B).

@@ -944,3 +944,338 @@ Kina pre-ordered the novel for Rs. 510. She is glad because if she had pre-order
 * Total votes cast $= 1500 + 3000 + 7500 = 12,000$.
 * Percentage received by Joe:
   $$\text{Percentage} = \frac{3000}{12000} \times 100\% = \frac{1}{4} \times 100\% = \mathbf{25\%}$$
+
+
+---
+
+### Question 44 [Source: `WhatsApp Image 2021-11-21 at 6.04.58 PM (1).jpg`]
+**Question:** Pipe A and Pipe B can together fill an empty cistern in 6 hours. If Pipe A takes 2 hours less than Pipe B to fill the cistern alone, find the time taken by Pipe A to fill the cistern alone. *(Approximate to nearest integer)*
+
+**Answer Options:**
+* **(A)** 10 hours
+* **(B)** 12 hours
+* **(C)** 11 hours
+* **(D)** 13 hours
+
+**Correct Answer:** **(C) 11 hours**  
+**Mathematical Proof:**
+1. Let the time taken by Pipe A to fill the cistern alone be $t$ hours.
+2. Since Pipe A takes 2 hours less than Pipe B, the time taken by Pipe B alone is $(t + 2)$ hours.
+3. Their individual hourly rates are $\frac{1}{t}$ and $\frac{1}{t+2}$.
+4. Working together, their combined rate fills the cistern in 6 hours:
+   $$\frac{1}{t} + \frac{1}{t + 2} = \frac{1}{6}$$
+5. Simplifying the rational equation:
+   $$\frac{2t + 2}{t(t + 2)} = \frac{1}{6} \implies 6(2t + 2) = t^2 + 2t$$
+   $$12t + 12 = t^2 + 2t \implies t^2 - 10t - 12 = 0$$
+6. Solving the quadratic equation using the quadratic formula:
+   $$t = \frac{-(-10) \pm \sqrt{(-10)^2 - 4(1)(-12)}}{2(1)} = \frac{10 \pm \sqrt{100 + 48}}{2} = \frac{10 + \sqrt{148}}{2}$$
+   $$\sqrt{148} \approx 12.1655 \implies t = \frac{10 + 12.1655}{2} = \frac{22.1655}{2} \approx 11.0828\text{ hours}$$
+7. Approximating to the nearest integer gives **11 hours** (Option C).
+
+---
+
+### Question 45 [Source: `WhatsApp Image 2021-11-21 at 6.04.59 PM.jpg`]
+**Question:** If the probabilities of events $R$ and $S$ are related such that $P(R) = \frac{3}{8}$, $P(R|S) = \frac{3}{5}$, and $P(S|R) = \frac{2}{7}$, then what is the value of $P(S)$?
+
+**Answer Options:**
+* **(A)** 3/14
+* **(B)** 2/15
+* **(C)** 5/28
+* **(D)** 7/20
+
+**Correct Answer:** **(C) 5/28**  
+**Mathematical Proof:**
+1. By the definition of conditional probability:
+   $$P(R \cap S) = P(S|R) \times P(R)$$
+   $$P(R \cap S) = \frac{2}{7} \times \frac{3}{8} = \frac{6}{56} = \frac{3}{28}$$
+2. The joint probability also satisfies:
+   $$P(R \cap S) = P(R|S) \times P(S)$$
+3. Substituting known values to solve for $P(S)$:
+   $$\frac{3}{28} = \frac{3}{5} \times P(S) \implies P(S) = \frac{3}{28} \times \frac{5}{3} = \mathbf{\frac{5}{28}}$$
+Hence, $P(S) = \frac{5}{28}$ (Option C).
+
+---
+
+### Question 46 [Source: `WhatsApp Image 2021-11-21 at 6.05.00 PM.jpg`]
+**Question:** Out of 9 men and 5 women, a committee of 6 persons is to be formed. In how many ways can this committee be formed if at least 4 men must be included in the committee?
+
+**Answer Options:**
+* **(A)** 1890
+* **(B)** 1920
+* **(C)** 1974
+* **(D)** 2016
+
+**Correct Answer:** **(C) 1974**  
+**Mathematical Proof:**
+* The committee requires exactly 6 members, with the condition that $\text{Men} \ge 4$.
+* There are 3 mutually exclusive cases:
+  * **Case 1: Exactly 4 Men and 2 Women:**
+    $$\binom{9}{4} \times \binom{5}{2} = \frac{9 \times 8 \times 7 \times 6}{4 \times 3 \times 2 \times 1} \times 10 = 126 \times 10 = 1260$$
+  * **Case 2: Exactly 5 Men and 1 Woman:**
+    $$\binom{9}{5} \times \binom{5}{1} = 126 \times 5 = 630$$
+  * **Case 3: Exactly 6 Men and 0 Women:**
+    $$\binom{9}{6} \times \binom{5}{0} = \frac{9 \times 8 \times 7}{3 \times 2 \times 1} \times 1 = 84 \times 1 = 84$$
+* Total number of permissible ways:
+  $$\text{Total} = 1260 + 630 + 84 = \mathbf{1974}$$
+Hence, the committee can be formed in **1974 ways** (Option C).
+
+---
+
+### Question 47 [Source: `WhatsApp Image 2021-11-21 at 6.05.01 PM.jpg`]
+**Question:** There are 30 points in a plane, out of which 10 points are collinear on line $L_1$, 8 points are collinear on line $L_2$, and 12 points are collinear on line $L_3$ (no points outside these lines and lines do not intersect at any of these given points). How many triangles can be formed using these 30 points as vertices?
+
+**Answer Options:**
+* **(A)** $^{30}C_3 - (^{10}C_2 + ^8C_2 + ^{12}C_2)$
+* **(B)** $^{30}C_3 - 3$
+* **(C)** $^{30}C_3 - (^{10}C_3 + ^8C_3 + ^{12}C_3)$
+* **(D)** $^{30}C_3 - (^{10}C_1 \times ^8C_1 \times ^{12}C_1)$
+
+**Correct Answer:** **(C) $^{30}C_3 - (^{10}C_3 + ^8C_3 + ^{12}C_3)$**  
+**Mathematical Proof:**
+1. Any 3 non-collinear points in a plane form a triangle. Total ways to select any 3 points from 30 points is $\binom{30}{3}$.
+2. If all 3 chosen points lie on the same straight line, they are collinear and cannot form a triangle:
+   * Selecting 3 points from the 10 points on $L_1$ yields $\binom{10}{3}$ degenerate straight-line combinations.
+   * Selecting 3 points from the 8 points on $L_2$ yields $\binom{8}{3}$ degenerate combinations.
+   * Selecting 3 points from the 12 points on $L_3$ yields $\binom{12}{3}$ degenerate combinations.
+3. Subtracting all degenerate selections from the unrestricted total:
+   $$\text{Valid Triangles} = \binom{30}{3} - \left[\binom{10}{3} + \binom{8}{3} + \binom{12}{3}\right]$$
+Hence, the correct expression is **$^{30}C_3 - (^{10}C_3 + ^8C_3 + ^{12}C_3)$** (Option C).
+
+---
+
+### Question 48 [Source: `photo_2021-08-22_10-07-30.jpg`]
+**Question:** Find the range of the following set of observations: $7, 10, 6, 72, 83, 60, 12, 5$.
+
+**Answer Options:**
+* **(A)** 76
+* **(B)** 77
+* **(C)** 83
+* **(D)** 78
+
+**Correct Answer:** **(D) 78**  
+**Mathematical Proof:**
+1. In statistical analysis, the range of a sample is defined as the difference between the extreme values:
+   $$\text{Range} = X_{\max} - X_{\min}$$
+2. Sorting the given dataset: $\{5, 6, 7, 10, 12, 60, 72, 83\}$.
+   * Maximum value: $X_{\max} = 83$.
+   * Minimum value: $X_{\min} = 5$.
+3. Calculating the range:
+   $$\text{Range} = 83 - 5 = \mathbf{78}$$
+Hence, the range is **78** (Option D).
+
+---
+
+### Question 49 [Source: `photo_2021-08-22_10-11-02.jpg`]
+**Question:** In the frequency distribution table, for the class interval $13 - 23$, the value $23$ is called the:
+
+**Answer Options:**
+* **(A)** Lower class limit
+* **(B)** Class mark
+* **(C)** Upper class limit
+* **(D)** Class width
+
+**Correct Answer:** **(C) Upper class limit**  
+**Mathematical Proof:**
+* By standard statistical convention, a class interval $a - b$ is defined by:
+  * $a$: Lower class limit (the minimum boundary value).
+  * $b$: Upper class limit (the maximum boundary value).
+  * $\frac{a + b}{2}$: Class mark or class midpoint.
+  * $b - a$: Class size or class width.
+* For the interval $13 - 23$, the number $13$ is the lower class limit, and $23$ is the **upper class limit**.
+Hence, Option C is correct.
+
+---
+
+### Question 50 [Source: `photo_2021-08-22_10-14-02.jpg`]
+**Question:** A batsman scored 4 sixes, 11 boundaries (fours), and 22 singles in an innings of 60 deliveries. What is his scoring rate per ball (runs per ball)?
+
+**Answer Options:**
+* **(A)** 1.25
+* **(B)** 1.75
+* **(C)** 1.40
+* **(D)** 1.50
+
+**Correct Answer:** **(D) 1.50**  
+**Mathematical Proof:**
+1. Total runs scored by the batsman:
+   $$\text{Runs from sixes} = 4 \times 6 = 24$$
+   $$\text{Runs from boundaries} = 11 \times 4 = 44$$
+   $$\text{Runs from singles} = 22 \times 1 = 22$$
+   $$\text{Total Runs} = 24 + 44 + 22 = 90\text{ runs}$$
+2. Scoring rate per delivery:
+   $$\text{Scoring Rate} = \frac{\text{Total Runs}}{\text{Deliveries Faced}} = \frac{90}{60} = \mathbf{1.50\text{ runs per ball}}$$
+Hence, the scoring rate is **1.50** (Option D).
+
+---
+
+### Question 51 [Source: `photo_2021-08-22_10-15-06.jpg`, `photo_2021-08-22_10-18-24.jpg`]
+**Question:** A shopkeeper sold 109 units of Munch chocolate bars for a total revenue of Rs. 545. What is the selling price of one unit of Munch chocolate bar?
+
+**Answer Options:**
+* **(A)** Rs. 5
+* **(B)** Rs. 6
+* **(C)** Rs. 4.5
+* **(D)** Rs. 5.5
+
+**Correct Answer:** **(A) Rs. 5**  
+**Mathematical Proof:**
+* The unit price is the ratio of total sales revenue to the number of identical units sold:
+  $$\text{Unit Price} = \frac{\text{Total Revenue}}{\text{Total Units Sold}} = \frac{545}{109} = \mathbf{\text{Rs. } 5}$$
+* Verification: $109 \times 5 = 545$.
+Hence, the selling price per bar is **Rs. 5** (Option A).
+
+---
+
+### Question 52 [Source: `photo_2021-08-22_10-18-45.jpg`]
+**Question:** If the sum of 15 data points is 2100 and all the data is doubled and then 10 is subtracted from each of the data points, then the new average will be greater than the old average by ______
+
+**Answer Options:**
+* **(A)** 130
+* **(B)** 100
+* **(C)** 110
+* **(D)** 120
+
+**Correct Answer:** **(A) 130**  
+**Mathematical Proof:**
+1. Calculate the initial (old) arithmetic mean of the 15 observations:
+   $$\mu_{\text{old}} = \frac{\sum x_i}{N} = \frac{2100}{15} = 140$$
+2. Each observation undergoes the affine transformation:
+   $$y_i = 2x_i - 10$$
+3. By the linearity property of expectation and arithmetic means:
+   $$\mu_{\text{new}} = 2 \mu_{\text{old}} - 10 = 2(140) - 10 = 280 - 10 = 270$$
+4. The question specifically asks for the difference:
+   $$\Delta = \mu_{\text{new}} - \mu_{\text{old}} = 270 - 140 = \mathbf{130}$$
+Hence, the new average exceeds the old average by **130** (Option A).
+
+---
+
+### Question 53 [Source: `photo_2021-08-22_10-19-59.jpg`]
+**Question:** The sales by a shop for the week was Rs 2800, Rs 3300, Rs 2000, Rs 1800, Rs 4200, Rs 3500 and Rs 2000. Find the average sales per day for this week.
+
+**Answer Options:**
+* **(A)** Rs 2700
+* **(B)** Rs 2800
+* **(C)** Rs 2750
+* **(D)** Rs 2850
+
+**Correct Answer:** **(B) Rs 2800**  
+**Mathematical Proof:**
+1. Compute the total sales for the 7 days of the week:
+   $$\text{Total Sales} = 2800 + 3300 + 2000 + 1800 + 4200 + 3500 + 2000 = 19600$$
+2. Compute the average sales per day:
+   $$\text{Average Sales} = \frac{19600}{7} = \mathbf{\text{Rs. } 2800}$$
+Hence, the average daily sales is **Rs 2800** (Option B).
+
+---
+
+### Question 54 [Source: `photo_2021-08-22_10-25-08.jpg`]
+**Question:** In a farm, there are some cows and their owners. If the total number of heads are 45 and legs are 130, then find the number of cows present in the farm.
+
+**Answer Options:**
+* **(A)** 30
+* **(B)** 15
+* **(C)** 25
+* **(D)** 20
+
+**Correct Answer:** **(D) 20**  
+**Mathematical Proof:**
+1. Let $C$ be the number of cows and $O$ be the number of human owners.
+2. Formulate equations based on anatomical counts:
+   * **Heads Equation:** $C + O = 45 \implies O = 45 - C$.
+   * **Legs Equation:** Cows have 4 legs, humans have 2 legs:
+     $$4C + 2O = 130$$
+3. Substitute $O = 45 - C$ into the legs equation:
+   $$4C + 2(45 - C) = 130 \implies 4C + 90 - 2C = 130$$
+   $$2C = 130 - 90 = 40 \implies C = \mathbf{20}$$
+4. Verification: 20 cows have $20 \times 4 = 80$ legs. 25 owners have $25 \times 2 = 50$ legs. Total legs $= 80 + 50 = 130$.
+Hence, there are **20 cows** (Option D).
+
+---
+
+### Question 55 [Source: `photo_2021-08-22_10-26-21 (2).jpg`]
+**Question:** Sixty per cent of a number 'X' is 30 per cent of another number 'Y'. Find the ratio of X : Y.
+
+**Answer Options:**
+* **(A)** 4:3
+* **(B)** 3:4
+* **(C)** 2:3
+* **(D)** 1:2
+
+**Correct Answer:** **(D) 1:2**  
+**Mathematical Proof:**
+1. Translate the stated algebraic condition into an equation:
+   $$60\% \times X = 30\% \times Y \implies 0.60 X = 0.30 Y$$
+2. Solving for the ratio $\frac{X}{Y}$:
+   $$\frac{X}{Y} = \frac{0.30}{0.60} = \frac{3}{6} = \frac{1}{2}$$
+3. Therefore, $X : Y = \mathbf{1 : 2}$.
+Hence, Option D is correct.
+
+---
+
+### Question 56 [Source: `photo_2021-08-22_10-26-32.jpg`]
+**Question:** If 5 bakers make 100 cupcakes in 5 hours, how many cupcakes will 10 bakers make in 2 hours, if all bakers make the same number of cupcakes per hour?
+
+**Answer Options:**
+* **(A)** 60
+* **(B)** 100
+* **(C)** 50
+* **(D)** 80
+
+**Correct Answer:** **(D) 80**  
+**Mathematical Proof:**
+1. Use the compound variation work principle:
+   $$\frac{M_1 \times T_1}{W_1} = \frac{M_2 \times T_2}{W_2}$$
+   * Group 1: $M_1 = 5$ bakers, $T_1 = 5$ hours, $W_1 = 100$ cupcakes.
+   * Group 2: $M_2 = 10$ bakers, $T_2 = 2$ hours, $W_2 = ?$ cupcakes.
+2. Substitute values into the equation:
+   $$\frac{5 \times 5}{100} = \frac{10 \times 2}{W_2} \implies \frac{25}{100} = \frac{20}{W_2}$$
+   $$\frac{1}{4} = \frac{20}{W_2} \implies W_2 = 4 \times 20 = \mathbf{80}$$
+Hence, 10 bakers will make **80 cupcakes** in 2 hours (Option D).
+
+---
+
+### Question 57 [Source: `photo_2021-08-22_10-29-15.jpg`]
+**Question:** There are _____ days between 25th January 2020 and 14th May 2020, excluding both days.
+
+**Answer Options:**
+* **(A)** 121
+* **(B)** 111
+* **(C)** 112
+* **(D)** 109
+
+**Correct Answer:** **(D) 109**  
+**Mathematical Proof:**
+1. Note that 2020 was a leap year ($2020 \div 4 = 505$, remainder 0), meaning February 2020 had 29 days.
+2. Calculate the exact days in each intermediate month strictly excluding 25th Jan and 14th May:
+   * **January:** Remaining days after the 25th: $31 - 25 = 6$ days.
+   * **February (Leap Year):** $29$ days.
+   * **March:** $31$ days.
+   * **April:** $30$ days.
+   * **May:** Days prior to the 14th: $13$ days (1st to 13th inclusive).
+3. Sum the intermediate days:
+   $$\text{Total Days} = 6 + 29 + 31 + 30 + 13 = \mathbf{109\text{ days}}$$
+Hence, there are **109 days** (Option D).
+
+---
+
+### Question 58 [Source: `photo_2021-08-22_10-30-55.jpg`]
+**Question:** A man buys a certain number of mangoes and sells 3/5th of the total mangoes. He gives half of the remaining mangoes to his wife. If he is still left with 15 mangoes, find the total number of mangoes purchased by him.
+
+**Answer Options:**
+* **(A)** 75
+* **(B)** 55
+* **(C)** 45
+* **(D)** 30
+
+**Correct Answer:** **(A) 75**  
+**Mathematical Proof:**
+1. Let $M$ be the initial number of mangoes purchased.
+2. After selling $\frac{3}{5}M$, the remaining quantity is:
+   $$\text{Remainder}_1 = M - \frac{3}{5}M = \frac{2}{5}M$$
+3. He gives half of this remainder to his wife:
+   $$\text{Wife's share} = \frac{1}{2} \times \left(\frac{2}{5}M\right) = \frac{1}{5}M$$
+4. The remaining portion retained by the man is:
+   $$\text{Remainder}_2 = \frac{2}{5}M - \frac{1}{5}M = \frac{1}{5}M$$
+5. Given that this remaining quantity equals 15:
+   $$\frac{1}{5}M = 15 \implies M = 15 \times 5 = \mathbf{75}$$
+Hence, the total number of mangoes purchased was **75** (Option A).

@@ -723,3 +723,190 @@ From Statement I: Total Sales $= 4000 \times \$100 = \$400,000$. Since product X
 * Without any angle, heading, or direction given between the vectors $\vec{ZX}$ and $\vec{ZY}$, the distance between X and Y satisfies the triangle inequality:
   $$|25 - 5| \le d(X, Y) \le 25 + 5 \implies 20\text{ km} \le d(X, Y) \le 30\text{ km}$$
 * Any distance in $[20\text{ km}, 30\text{ km}]$ is possible. Therefore, neither statement alone nor both together are sufficient.
+
+
+---
+
+### Question 35 [Source: `WhatsApp Image 2021-11-21 at 6.04.59 PM (1).jpg`]
+**Question:** A man is using square tiles of equal sizes to cover a rectangular courtyard of dimension $500 \times 1200$ square metres. Which of the given statements is sufficient to find the minimum number of such tiles required by the man to completely fill the courtyard?
+
+* **Statement I:** The sides of the square tile is the HCF of the courtyard dimensions.
+* **Statement II:** The sides of the square tile is the LCM of the courtyard dimensions.
+
+**Answer Options:**
+* **(A)** Statement I is ALONE sufficient to answer.
+* **(B)** None of the statements are sufficient.
+* **(C)** Statement I and Statement II TOGETHER are sufficient to answer.
+* **(D)** Statement II is ALONE sufficient to answer.
+
+**Correct Answer:** **(A) Statement I is ALONE sufficient to answer.**  
+**Mathematical Proof:**
+1. To cover a rectangular area of dimensions $L \times B$ completely with the minimum number of identical square tiles without cutting, the side length of the square tile must divide both $L$ and $B$, and the side length must be maximized.
+2. The greatest common divisor is $\gcd(L, B) = \text{HCF}(L, B)$.
+3. From Statement I:
+   $$\text{Side of square tile} = \text{HCF}(500, 1200) = 100\text{ metres}$$
+   $$\text{Minimum number of tiles} = \frac{\text{Area of courtyard}}{\text{Area of 1 tile}} = \frac{500 \times 1200}{100 \times 100} = 5 \times 12 = 60\text{ tiles}$$
+   Statement I alone uniquely determines the minimum number of tiles.
+4. Statement II claims the side is the LCM: $\text{LCM}(500, 1200) = 6000\text{ metres}$, which exceeds the dimensions of the courtyard and is physically invalid.
+Hence, **Statement I is ALONE sufficient to answer** (Option A).
+
+---
+
+### Question 36 [Source: `photo_2021-08-22_10-09-09.jpg`]
+**Question:** The question below consists of a question and two statements numbered I and II given below it. You have to decide whether the data provided in the statements are sufficient to answer the question.  
+**Question:** What is the profit percentage?  
+* **Statement I:** The cost price of an article is Rs. 450.  
+* **Statement II:** The selling price is Rs 500 and profit earned is Rs. 50.
+
+**Answer Options:**
+* **(A)** Neither I nor II is sufficient
+* **(B)** II alone is sufficient while I alone is not sufficient
+* **(C)** I alone is sufficient while II alone is not sufficient
+* **(D)** Either I or II is sufficient
+
+**Correct Answer:** **(B) II alone is sufficient while I alone is not sufficient**  
+**Mathematical Proof:**
+1. The formula for profit percentage is:
+   $$\text{Profit Percentage} = \frac{\text{Profit}}{\text{Cost Price}} \times 100\%$$
+2. **Statement I Evaluation:** Gives $\text{Cost Price} = 450$. Profit and Selling Price are completely absent. Insufficient.
+3. **Statement II Evaluation:** Gives $\text{Selling Price} = 500$ and $\text{Profit} = 50$.
+   $$\text{Cost Price} = \text{Selling Price} - \text{Profit} = 500 - 50 = 450$$
+   $$\text{Profit Percentage} = \frac{50}{450} \times 100\% = \frac{1}{9} \times 100\% = 11.11\%$$
+   Statement II alone provides all parameters necessary to uniquely determine the profit percentage.
+Hence, **II alone is sufficient while I alone is not sufficient** (Option B).
+
+---
+
+### Question 37 [Source: `photo_2021-08-22_10-09-21 (2).jpg`, `photo_2021-08-22_10-09-21.jpg`]
+**Question:** The question below consists of a question and two statements numbered I and II given below it. You have to decide whether the data provided in the statements are sufficient to answer the question.  
+**Question:** What is the ratio of savings of A and B?  
+* **Statement I:** The income of A is 700 and expenditure is 600.  
+* **Statement II:** The income of B is 500.
+
+**Answer Options:**
+* **(A)** II alone is sufficient while I alone is not sufficient
+* **(B)** Either I or II is sufficient
+* **(C)** Neither I nor II is sufficient
+* **(D)** I alone is sufficient while II alone is not sufficient
+
+**Correct Answer:** **(C) Neither I nor II is sufficient**  
+**Mathematical Proof:**
+1. Savings are defined by: $\text{Savings} = \text{Income} - \text{Expenditure}$.
+   $$\text{Target Ratio} = \frac{\text{Savings of A}}{\text{Savings of B}}$$
+2. **Statement I:** $\text{Income}_A = 700, \text{Expenditure}_A = 600 \implies \text{Savings}_A = 700 - 600 = 100$. However, nothing is stated about B. Insufficient.
+3. **Statement II:** $\text{Income}_B = 500$. The expenditure of B is completely unspecified. Thus, $\text{Savings}_B$ cannot be calculated. Insufficient.
+4. **Statements I and II Together:** Combining both gives $\text{Savings}_A = 100$ and $\text{Income}_B = 500$, but B's expenditure remains unknown. The savings of B can be any value in $[0, 500]$. Thus, the ratio cannot be determined.
+Hence, **Neither I nor II is sufficient** (Option C).
+
+---
+
+### Question 38 [Source: `photo_2021-08-22_10-25-39.jpg`]
+**Question:** The question below consists of a question and two statements numbered I and II given below it. You have to decide whether the data provided in the statements are sufficient to answer the question.  
+**Question:** In which direction is Q with respect to A?  
+* **Statement I:** A is to the north of P. P is to the west of Q.  
+* **Statement II:** Q is to the east of S. S is to the north of A.
+
+**Answer Options:**
+* **(A)** Neither I nor II is sufficient
+* **(B)** I alone is sufficient while II alone is not sufficient
+* **(C)** II alone is sufficient while I alone is not sufficient
+* **(D)** Either I or II is sufficient
+
+**Correct Answer:** **(D) Either I or II is sufficient**  
+**Mathematical Proof:**
+1. Let Cartesian coordinates represent geographical directions (North $= +y$, South $= -y$, East $= +x$, West $= -x$). Let $A = (x_A, y_A)$.
+2. **Statement I Analysis:**
+   * $A$ is north of $P \implies P$ is south of $A$: $x_P = x_A, y_P < y_A$.
+   * $P$ is west of $Q \implies Q$ is east of $P$: $x_Q > x_P, y_Q = y_P$.
+   * Vector $\vec{AQ} = (x_Q - x_A, y_Q - y_A) = (x_Q - x_P, y_P - y_A)$.
+   * Since $x_Q - x_P > 0$ and $y_P - y_A < 0$, $Q$ lies strictly in the **South-East** quadrant with respect to $A$. Statement I alone is sufficient.
+3. **Statement II Analysis:**
+   * $S$ is north of $A \implies x_S = x_A, y_S > y_A$.
+   * $Q$ is east of $S \implies x_Q > x_S, y_Q = y_S$.
+   * Vector $\vec{AQ} = (x_Q - x_A, y_Q - y_A) = (x_Q - x_S, y_S - y_A)$.
+   * Since $x_Q - x_S > 0$ and $y_S - y_A > 0$, $Q$ lies strictly in the **North-East** quadrant with respect to $A$. Statement II alone is sufficient.
+4. Since each statement independently determines a definite relative direction:
+Hence, **Either I or II is sufficient** (Option D).
+
+---
+
+### Question 39 [Source: `photo_2021-08-22_10-26-21.jpg`]
+**Question:** The question below consists of a question and two statements numbered I and II given. You have to decide whether the data provided in which of the statements are sufficient to answer the question. Choose your answer from the options based on this.  
+**Question:** Z is in which direction with respect to T?  
+* **Statement I:** T is south of A & south east of B.  
+* **Statement II:** Z is east of B & A.
+
+**Answer Options:**
+* **(A)** The data in statement II alone is sufficient to answer the question while the data in statement I alone is not sufficient to answer the question.
+* **(B)** The data either in statement I alone or in statement II alone is sufficient to answer the question.
+* **(C)** The data in statement I alone is sufficient to answer the question while the data in statement II alone is not sufficient to answer the question.
+* **(D)** The data in both statements I and II together is necessary to answer the question.
+
+**Correct Answer:** **(D) The data in both statements I and II together is necessary to answer the question.**  
+**Mathematical Proof:**
+1. **Target:** Relative direction of $Z$ with respect to $T$ (sign of vector $\vec{TZ} = \vec{Z} - \vec{T}$).
+2. Statement I gives information about $T, A, B$, but nothing about $Z$. Insufficient.
+3. Statement II gives information about $Z, B, A$, but nothing about $T$. Insufficient.
+4. **Combining Statements I and II:**
+   * From Statement I: $T$ is south of $A \implies x_T = x_A, y_T < y_A$.
+   * $T$ is south east of $B \implies x_T > x_B, y_T < y_B$. Since $x_T = x_A$, this implies $x_A > x_B$ ($A$ is east of $B$).
+   * From Statement II: $Z$ is east of $B$ and $A \implies y_Z = y_A = y_B$, and $x_Z > x_A > x_B$.
+   * Comparing coordinates of $Z$ and $T$:
+     $$\Delta x = x_Z - x_T = x_Z - x_A > 0 \quad (Z\text{ is East of }T)$$
+     $$\Delta y = y_Z - y_T = y_A - y_T > 0 \quad (Z\text{ is North of }T)$$
+   * Both $\Delta x > 0$ and $\Delta y > 0$, placing $Z$ uniquely in the **North-East** direction from $T$.
+   * Both statements together are strictly necessary and sufficient.
+Hence, Option D is correct.
+
+---
+
+### Question 40 [Source: `photo_2021-08-22_10-26-33.jpg`]
+**Question:** The question below consists of a question and two statements numbered I and II given below it. You have to decide whether the data provided in the statements are sufficient to answer the question. Read both the statements and give answer.  
+**Question:** What is Dhruv's age?  
+* **Statement I:** Tania is 5 years elder than Yash.  
+* **Statement II:** Dhruv is 6 years younger than Yash who is 28 years old.
+
+**Answer Options:**
+* **(A)** II alone is sufficient while I alone is not sufficient
+* **(B)** Neither I nor II is sufficient
+* **(C)** Either I or II is sufficient
+* **(D)** I alone is sufficient while II alone is not sufficient
+
+**Correct Answer:** **(A) II alone is sufficient while I alone is not sufficient**  
+**Mathematical Proof:**
+1. **Statement I:** Gives $\text{Tania} = \text{Yash} + 5$. Neither Dhruv nor the actual age of Yash is mentioned. Insufficient.
+2. **Statement II:** Explicitly states: $\text{Yash} = 28\text{ years old}$, and $\text{Dhruv} = \text{Yash} - 6$.
+   $$\text{Dhruv's Age} = 28 - 6 = \mathbf{22\text{ years}}$$
+   Statement II alone uniquely resolves Dhruv's age.
+Hence, **II alone is sufficient while I alone is not sufficient** (Option A).
+
+---
+
+### Question 41 [Source: `photo_2021-08-22_10-26-40 (2).jpg`, `photo_2021-08-22_10-26-40.jpg`]
+**Question:** The question below consists of a question and two statements numbered I and II given below it. You have to decide whether the data provided in the statements are sufficient to answer the question. Read both the statements and give answer.  
+**Question:** How many people are standing in the queue?  
+* **Statement I:** Jay is 15th from the start and 10th from the last.  
+* **Statement II:** Priya is 15th from the last and has 9 people in front of her in the queue.
+
+**Answer Options:**
+* **(A)** Neither I nor II is sufficient
+* **(B)** Either I or II is sufficient
+* **(C)** II alone is sufficient while I alone is not sufficient
+* **(D)** I alone is sufficient while II alone is not sufficient
+
+**Correct Answer:** **(B) Either I or II is sufficient**  
+**Mathematical Proof:**
+1. The total count $N$ of persons in a single queue given the positions of an individual from both ends is:
+   $$N = \text{Rank from Start} + \text{Rank from End} - 1$$
+2. **Statement I Analysis:**
+   * Jay's rank from the start $= 15$.
+   * Jay's rank from the last $= 10$.
+   * Total people: $N = 15 + 10 - 1 = \mathbf{24}$.
+   * Statement I alone is sufficient.
+3. **Statement II Analysis:**
+   * Priya has 9 people in front of her $\implies$ Priya's rank from start $= 9 + 1 = 10$.
+   * Priya's rank from last $= 15$.
+   * Total people: $N = 10 + 15 - 1 = \mathbf{24}$.
+   * Statement II alone is sufficient.
+4. Since both statements independently calculate the total queue size ($N = 24$):
+Hence, **Either I or II is sufficient** (Option B).

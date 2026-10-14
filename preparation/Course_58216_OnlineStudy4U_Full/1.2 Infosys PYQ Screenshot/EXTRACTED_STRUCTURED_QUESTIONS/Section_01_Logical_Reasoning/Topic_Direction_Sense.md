@@ -111,3 +111,31 @@ According to the given path, in which direction is $V$ with respect to $Q$? *(No
 * Evaluated displacement vectors along North-South and East-West axes yield that the net lateral offset reduces to zero while the net vertical displacement remains along the positive $y$-axis.
 * Point $V$ lies directly along the **North** axis relative to the initial origin reference.
 * Matches Candidate Verified Selection: Option **(D) North** in `photo_1916`.
+
+
+---
+
+### Question 4 [Source: `WhatsApp Image 2021-11-21 at 6.04.57 PM (1).jpg`]
+**Question:** Bob was backpacking across North-East India and came across a broken direction pole that was twisted 90 degree clockwise. Bob started walking towards the North direction as shown by the direction pole and took a left from there. He then took another left and lost his way.  
+What direction should he have walked according to the direction pole to actually walk towards the North?
+
+**Answer Options:**
+* **(A)** South
+* **(B)** West
+* **(C)** South-West
+* **(D)** South-East
+* **(E)** East
+
+**Correct Answer:** **(B) West**  
+**Kinematic & Angular Proof:**
+1. Let standard geographic coordinates be defined with North at angle $0^\circ$ (or $360^\circ$), East at $90^\circ$, South at $180^\circ$, and West at $270^\circ$.
+2. The direction pole is rotated $90^\circ$ clockwise ($+90^\circ$):
+   * The physical arm labeled "North" is rotated to point East ($0^\circ + 90^\circ = 90^\circ$).
+   * The physical arm labeled "East" is rotated to point South ($90^\circ + 90^\circ = 180^\circ$).
+   * The physical arm labeled "South" is rotated to point West ($180^\circ + 90^\circ = 270^\circ$).
+   * The physical arm labeled "West" is rotated to point North ($270^\circ + 90^\circ = 360^\circ \equiv 0^\circ$).
+3. To physically walk towards True North ($0^\circ$), Bob must walk in the direction currently pointed to by the arm labeled **West**.
+4. Algebraic Verification:
+   $$\theta_{\text{actual}} = \theta_{\text{pole}} + 90^\circ$$
+   $$\text{Target: } \theta_{\text{actual}} = 360^\circ \implies \theta_{\text{pole}} = 360^\circ - 90^\circ = 270^\circ = \mathbf{\text{West}}$$
+Hence, Bob should follow the direction indicated as **West** on the pole (Option B).

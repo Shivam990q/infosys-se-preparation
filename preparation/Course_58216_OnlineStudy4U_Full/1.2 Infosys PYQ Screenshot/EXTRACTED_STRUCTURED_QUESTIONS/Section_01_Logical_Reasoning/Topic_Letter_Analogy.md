@@ -145,3 +145,58 @@ What is the code for **'chair'**?
   $$T (20) + 2 = \mathbf{V (22)}$$
   $$E (5) + 2 = \mathbf{G (7)}$$
 The encoded word is **PQVG** (Option B).
+
+
+---
+
+### Question 6 [Source: `WhatsApp Image 2021-11-21 at 6.04.58 PM.jpg`]
+**Question:** "Earth is to geology as insect is to ......"  
+Which of the words given in choices can be used to complete the above given sentence?
+
+**Answer Options:**
+* **(A)** entomology
+* **(B)** orthology
+* **(C)** anthropology
+* **(D)** ophthalmology
+
+**Correct Answer:** **(A) entomology**  
+**Semantic Derivation:**
+1. The relationship in the primary pair is **Object of Scientific Study : Field of Science**:
+   $$\text{Earth} : \text{Geology} \iff \text{Geology is the scientific study of the Earth}$$
+2. In parallel:
+   $$\text{Insect} : ? \iff ?\text{ is the scientific study of insects}$$
+3. Examining scientific definitions:
+   * **Entomology:** The branch of zoology concerned with the study of insects (from Greek *éntomon*, "insect").
+   * **Anthropology:** The scientific study of humans, human behavior, and societies.
+   * **Ophthalmology:** The branch of medicine and surgery dealing with diagnosis and treatment of disorders of the eye.
+   * **Orthology:** The study of the correct use of words.
+Hence, the matching term is **entomology** (Option A).
+
+---
+
+### Question 7 [Source: `photo_2021-08-22_10-31-48.jpg`]
+**Question:** Select the pair that is related on the same basis to the pair given in the question.  
+`FIZU : HABI :: ?`
+
+**Answer Options:**
+* **(A)** HEPO : FORI
+* **(B)** LICA : NAEO
+* **(C)** MEVO : OOXA
+* **(D)** CATI : EYRU
+
+**Correct Answer:** **(B) LICA : NAEO**  
+**Mathematical Proof:**
+1. Map alphabet characters to modular numerical positions in $\mathbb{Z}_{26}$ ($A=1, B=2, \dots, Z=26$):
+   * For pair $FIZU \to HABI$:
+     $$F(6) \xrightarrow{+2} H(8)$$
+     $$I(9) \xrightarrow{-8 \equiv +18} A(1) \quad (9 - 8 = 1)$$
+     $$Z(26) \xrightarrow{+2} B(2) \quad (26 + 2 = 28 \equiv 2)$$
+     $$U(21) \xrightarrow{-12 \equiv +14} I(9) \quad (21 - 12 = 9)$$
+   * Transformation Vector: $\vec{T} = [+2, -8, +2, -12]$
+2. Testing Option B: $LICA \to NAEO$:
+   * $L(12) + 2 = 14 = N$ (Shift $= +2$)
+   * $I(9) - 8 = 1 = A$ (Shift $= -8$)
+   * $C(3) + 2 = 5 = E$ (Shift $= +2$)
+   * $A(1) - 12 = -11 \equiv 15 = O$ (Shift $= -12$)
+   * Transformation Vector matches $\vec{T} = [+2, -8, +2, -12]$ identically across all 4 characters!
+Hence, the correct pair is **LICA : NAEO** (Option B).

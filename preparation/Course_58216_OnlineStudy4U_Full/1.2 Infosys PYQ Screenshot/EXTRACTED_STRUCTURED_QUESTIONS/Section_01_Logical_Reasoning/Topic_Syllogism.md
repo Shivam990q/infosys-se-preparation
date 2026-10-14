@@ -255,3 +255,194 @@ e \emptyset$). Hence, **"Some pavements are well"** definitely follows.
 * Standard universal affirmative syllogism:
   $$A \subseteq B \quad \text{and} \quad B \subseteq C \implies A \subseteq C$$
 * Therefore, **All Apples are Cookies** definitely follows.
+
+
+---
+
+### Question 11 [Source: `photo_2021-08-22_10-08-56.jpg`]
+**Question:** In the question below, three statements are given, followed by two conclusions, I and II. You have to consider the statement to be true even if it seems to be at variance from commonly known facts. You have to decide which of the given conclusions, if any, follows from the given statements.  
+* **Statements:**  
+  1. All shoes are legs.  
+  2. Some legs are pairs.  
+  3. Some pair are hands.  
+* **Conclusions:**  
+  * I. Some hands are shoes.  
+  * II. Some pairs are shoes.
+
+**Answer Options:**
+* **(A)** Only conclusion I follows.
+* **(B)** Both conclusion I and II follow.
+* **(C)** Neither conclusion I nor II follow.
+* **(D)** Only conclusion II follows.
+
+**Correct Answer:** **(C) Neither conclusion I nor II follow.**  
+**Formal Logic Proof:**
+1. **Formal Predicates & Set Representations:**
+   * $S \subseteq L$ (All shoes are legs).
+   * $L \cap P \neq \emptyset$ (Some legs are pairs).
+   * $P \cap H \neq \emptyset$ (Some pairs are hands).
+2. **Analysis of Conclusion I ($H \cap S \neq \emptyset$):**
+   * The existential intersection between $P$ and $H$ can occur entirely outside $L$, or within $L \setminus S$. There is no statement linking $H$ and $S$. Thus, $H \cap S = \emptyset$ is completely consistent with the premises. Conclusion I does not definitely follow.
+3. **Analysis of Conclusion II ($P \cap S \neq \emptyset$):**
+   * While some elements of $L$ are in $P$, these elements may reside strictly in $L \setminus S$ without intersecting the proper subset $S$. Thus, $P \cap S = \emptyset$ is possible. Conclusion II does not definitely follow.
+Hence, **Neither conclusion I nor II follow** (Option C).
+
+---
+
+### Question 12 [Source: `photo_2021-08-22_10-12-18.jpg`, `photo_2021-08-22_10-26-23.jpg`]
+**Question:** In this question, three statements have been given followed by some conclusions. Assuming that all information in the statements are true, analyse the conclusions together and determine whether any of them logically and definitely follow(s) from the information given in the statements.  
+* **Statements:**  
+  * Statement I: Some girls are good.  
+  * Statement II: Some boys are bad.  
+  * Statement III: All boys are girls.  
+*[Select 2 correct solutions]*
+
+**Answer Options:**
+* **(A)** Some boys are good.
+* **(B)** Some bad are good.
+* **(C)** Some girls are boys.
+* **(D)** Some girls are bad.
+
+**Correct Answer:** **(C) Some girls are boys** and **(D) Some girls are bad**  
+**Formal Logic Proof:**
+1. **Statement III:** "All boys are girls" ($B \subseteq G$).
+   * By universal-to-particular conversion (Aristotelian subalternation): if every member of non-empty set $B$ is in $G$, then the intersection $G \cap B = B \neq \emptyset$.
+   * Therefore, **"Some girls are boys"** is an immediate and necessary truth.
+2. **Statement II:** "Some boys are bad" ($B \cap \text{Bad} \neq \emptyset$).
+   * Since $B \subseteq G$, any element $x \in B \cap \text{Bad}$ must also satisfy $x \in G$.
+   * Therefore, $x \in G \cap \text{Bad} \implies G \cap \text{Bad} \neq \emptyset$.
+   * This proves definitively that **"Some girls are bad"**.
+3. **Evaluating incorrect options:**
+   * "Some boys are good": Statement I ($G \cap \text{Good} \neq \emptyset$) may intersect $G$ only outside $B$.
+   * "Some bad are good": The sets Bad and Good may be mutually disjoint.
+Hence, the two correct solutions are **(C)** and **(D)**.
+
+---
+
+### Question 13 [Source: `photo_2021-08-22_10-14-38.jpg`]
+**Question:** In this question, four statements have been given followed by some conclusions. Assuming that all information in the statements are true, analyse the conclusions together and determine whether any of them logically and definitely follow(s) from the information given in the statements.  
+* **Statements:**  
+  * Statement I: Some roses are black.  
+  * Statement II: Some black are lily.  
+  * Statement III: Some lilies are pink.  
+  * Statement IV: All pink are roses.  
+*[Select 2 correct solutions]*
+
+**Answer Options:**
+* **(A)** Some roses are pink.
+* **(B)** All lily are black.
+* **(C)** All pink are black.
+* **(D)** Some lily are roses.
+
+**Correct Answer:** **(A) Some roses are pink** and **(D) Some lily are roses**  
+**Formal Logic Proof:**
+1. **Statement IV:** "All pink are roses" ($P \subseteq R$).
+   * By standard conversion of universal affirmative propositions (A-type conversion to I-type):
+     $$P \subseteq R \implies R \cap P \neq \emptyset$$
+   * Therefore, **"Some roses are pink"** logically and unconditionally follows.
+2. **Statement III:** "Some lilies are pink" ($L \cap P \neq \emptyset$).
+   * Let $x \in L \cap P$. Since $P \subseteq R$ (from Statement IV), it follows that $x \in R$.
+   * Thus, $x \in L \cap R \implies L \cap R \neq \emptyset$.
+   * Therefore, **"Some lily are roses"** logically and definitely follows.
+3. **Evaluating incorrect options:**
+   * "All lily are black": Statement II only establishes $B \cap L \neq \emptyset$, not $L \subseteq B$.
+   * "All pink are black": No premise establishes a universal relation between Pink and Black.
+Hence, the two correct solutions are **(A)** and **(D)**.
+
+---
+
+### Question 14 [Source: `photo_2021-08-22_10-22-48.jpg`]
+**Question:** In this question, three statements have been given followed by three conclusions. Assuming that all information in the statements are true, analyse the conclusions together and determine whether any of them logically and definitely follow(s) from the information given in the statements.  
+* **Statements:**  
+  * Statement I: All trees are green.  
+  * Statement II: Some green are leaves.  
+  * Statement III: All leaves are fresh.  
+* **Conclusions:**  
+  * Conclusion I: Some green are trees.  
+  * Conclusion II: All fresh being green is a possibility.  
+  * Conclusion III: Some trees are fresh.
+
+**Answer Options:**
+* **(A)** All three follows
+* **(B)** Only II follows
+* **(C)** Only I follows
+* **(D)** Only I and II follows
+
+**Correct Answer:** **(D) Only I and II follows**  
+**Formal Logic Proof:**
+1. **Conclusion I:**
+   * Statement I states: "All trees are green" ($T \subseteq G$).
+   * By subalternation / conversion, $G \cap T = T \neq \emptyset$. Thus, **"Some green are trees"** definitely follows. (Valid)
+2. **Conclusion II (Modal Possibility):**
+   * Premise III states $L \subseteq F$, and Premise II states $G \cap L \neq \emptyset$.
+   * There is no universal negative premise preventing $F \subseteq G$. A model where all Fresh items are Green ($F \subseteq G$) satisfies every single premise without contradiction.
+   * Hence, **"All fresh being green is a possibility"** is logically sound. (Valid)
+3. **Conclusion III:**
+   * $T \subseteq G$ and $L \subseteq F$, with $L$ partially overlapping $G$.
+   * $T$ and $L$ can be completely disjoint within $G$, which implies $T$ and $F$ can be completely disjoint ($T \cap F = \emptyset$). Thus, Conclusion III does not definitely follow.
+Hence, **Only I and II follows** (Option D).
+
+---
+
+### Question 15 [Source: `photo_2021-08-22_10-26-36.jpg`]
+**Question:** In this question, three statements have been given followed by some conclusions. Assuming that all information in the statements are true, analyse the conclusions together and determine whether any of them logically and definitely follow(s) from the information given in the statements.  
+* **Statements:**  
+  * Statement I: Some rabbits are cats.  
+  * Statement II: Some cats are dogs.  
+  * Statement III: Some dogs are elephants.  
+*[Select 2 correct solutions]*
+
+**Answer Options:**
+* **(A)** All rabbits are elephants.
+* **(B)** Some dogs are rabbits.
+* **(C)** Some dogs are cats.
+* **(D)** Some elephants are dogs.
+
+**Correct Answer:** **(C) Some dogs are cats** and **(D) Some elephants are dogs**  
+**Formal Logic Proof:**
+1. **Statement II:** "Some cats are dogs" ($C \cap D \neq \emptyset$).
+   * Set intersection is symmetric: $C \cap D = D \cap C \neq \emptyset$.
+   * Therefore, **"Some dogs are cats"** is an exact logical conversion. (Valid)
+2. **Statement III:** "Some dogs are elephants" ($D \cap E \neq \emptyset$).
+   * By symmetry of existential propositions: $D \cap E = E \cap D \neq \emptyset$.
+   * Therefore, **"Some elephants are dogs"** is an exact logical conversion. (Valid)
+3. **Evaluating invalid options:**
+   * "All rabbits are elephants": No universal relation exists.
+   * "Some dogs are rabbits": Rabbit and Dog are separated by an intermediate existential link with Cat; existential premises do not chain transitively.
+Hence, the two correct solutions are **(C)** and **(D)**.
+
+---
+
+### Question 16 [Source: `photo_2021-08-22_10-27-02.jpg`]
+**Question:** In the question below, two statements are given, followed by two conclusions, I and II. You have to consider the statement to be true even if it seems to be at variance from commonly known facts. You have to decide which of the given conclusions, if any, follows from the given statements.  
+* **Statements:**  
+  * Only a few A is B.  
+  * Only a few B is C.  
+* **Conclusions:**  
+  * I. All A is B is a possibility.  
+  * II. All C is B is a possibility.
+
+**Answer Options:**
+* **(A)** Neither conclusion I nor II follow.
+* **(B)** Both conclusion I and II follow.
+* **(C)** Only conclusion II follows.
+* **(D)** Only conclusion I follows.
+
+**Correct Answer:** **(C) Only conclusion II follows.**  
+**Formal Logic Proof:**
+1. **Semantic Definition of "Only a few":**
+   * The quantificational phrase *"Only a few X is Y"* in modern formal syllogistic reasoning is defined as the conjunction of two conditions:
+     $$\text{"Only a few } X \text{ is } Y\text{"} \iff (X \cap Y \neq \emptyset) \;\land\; (X \setminus Y \neq \emptyset)$$
+   * Crucially, it asserts that some $X$ are $Y$, while **strictly asserting that some $X$ are NOT $Y$**.
+2. **Evaluating Conclusion I ("All A is B is a possibility"):**
+   * Statement 1 states: "Only a few A is B". By definition, this guarantees that there exists at least one element $a \in A$ such that $a \notin B$ ($A \setminus B \neq \emptyset$).
+   * Consequently, the proposition $A \subseteq B$ directly contradicts the premise and is impossible.
+   * Therefore, Conclusion I is **FALSE**.
+3. **Evaluating Conclusion II ("All C is B is a possibility"):**
+   * Statement 2 states: "Only a few B is C". This establishes that some $B$ are $C$ and some $B$ are NOT $C$ ($B \setminus C \neq \emptyset$).
+   * This restricts $B$ from being a subset of $C$ ($B \not\subseteq C$).
+   * However, this restriction is asymmetric: it **does NOT** prevent all elements of $C$ from being contained inside $B$ ($C \subseteq B$).
+   * As long as $C \subset B$ and $B \setminus C \neq \emptyset$, the premise "Only a few B is C" is completely satisfied!
+   * Hence, the state where "All C is B" is a valid, non-contradictory possibility.
+   * Therefore, Conclusion II is **TRUE**.
+Hence, **Only conclusion II follows** (Option C).
