@@ -363,13 +363,13 @@ Identify the correct mirror image of the given problem figure when a vertical mi
 ![Mirror Image Problem and Options](../images/Mirror Image_figures/fig_1_43d5bf10.png)
 
 #### Answer Options:
-- **(A)** Option ![Figure](Mirror Image_figures/fig_1_4ce8ee38.png)
-- **(B)** Option ![Figure](Mirror Image_figures/fig_1_5bc46b57.png)
-- **(C)** Option ![Figure](Mirror Image_figures/fig_1_1ccb9a32.png)
-- **(D)** Option ![Figure](Mirror Image_figures/fig_1_16337a8b.png)
+- **(A)** Option ![Figure](../images/Mirror Image_figures/fig_1_4ce8ee38.png)
+- **(B)** Option ![Figure](../images/Mirror Image_figures/fig_1_5bc46b57.png)
+- **(C)** Option ![Figure](../images/Mirror Image_figures/fig_1_1ccb9a32.png)
+- **(D)** Option ![Figure](../images/Mirror Image_figures/fig_1_16337a8b.png)
 
 #### Official Answer Key:
-**Correct Option:** `(B) Option ![Figure](Mirror Image_figures/fig_1_5bc46b57.png)`
+**Correct Option:** `(B) Option ![Figure](../images/Mirror Image_figures/fig_1_5bc46b57.png)`
 
 #### Formally Verified Solution & Derivation:
 - **Core Concept & Spatial Geometry Laws:**
@@ -381,13 +381,13 @@ Identify the correct mirror image of the given problem figure when a vertical mi
   - **Step 1 (Anchor Point Analysis):** Locate the most distinctive asymmetric feature (e.g. arrow, dot, notch, or shaded sector). In the problem figure, note whether this feature is on the left or right.
   - **Step 2 (Reflection Across Vertical Axis):** In the true reflection, this feature must translate across the vertical axis while retaining its exact vertical height.
   - **Step 3 (Matching with Candidate Options):** Chirality of segmented shading reflects across mirror line. Option 2 (B) is the verified reflection.
-  - **Conclusion:** Candidate Option ![Figure](Mirror Image_figures/fig_1_5bc46b57.png) is the only figure that satisfies both lateral inversion and vertical invariance perfectly.
+  - **Conclusion:** Candidate Option ![Figure](../images/Mirror Image_figures/fig_1_5bc46b57.png) is the only figure that satisfies both lateral inversion and vertical invariance perfectly.
 
 - **Distractor Elimination & Error Proofs:**
-  - *(A) Option ![Figure](Mirror Image_figures/fig_1_4ce8ee38.png):* Invalid. Fails either by introducing an upside-down vertical inversion (water image error), failing to flip asymmetric components laterally, or misplacing shaded quadrants.
-  - *(B) Option ![Figure](Mirror Image_figures/fig_1_5bc46b57.png):* Valid. Exact, geometrically verified mirror image.
-  - *(C) Option ![Figure](Mirror Image_figures/fig_1_1ccb9a32.png):* Invalid. Fails either by introducing an upside-down vertical inversion (water image error), failing to flip asymmetric components laterally, or misplacing shaded quadrants.
-  - *(D) Option ![Figure](Mirror Image_figures/fig_1_16337a8b.png):* Invalid. Fails either by introducing an upside-down vertical inversion (water image error), failing to flip asymmetric components laterally, or misplacing shaded quadrants.
+  - *(A) Option ![Figure](../images/Mirror Image_figures/fig_1_4ce8ee38.png):* Invalid. Fails either by introducing an upside-down vertical inversion (water image error), failing to flip asymmetric components laterally, or misplacing shaded quadrants.
+  - *(B) Option ![Figure](../images/Mirror Image_figures/fig_1_5bc46b57.png):* Valid. Exact, geometrically verified mirror image.
+  - *(C) Option ![Figure](../images/Mirror Image_figures/fig_1_1ccb9a32.png):* Invalid. Fails either by introducing an upside-down vertical inversion (water image error), failing to flip asymmetric components laterally, or misplacing shaded quadrants.
+  - *(D) Option ![Figure](../images/Mirror Image_figures/fig_1_16337a8b.png):* Invalid. Fails either by introducing an upside-down vertical inversion (water image error), failing to flip asymmetric components laterally, or misplacing shaded quadrants.
 
 - **Infosys SE Exam Shortcut & Time-Saving Trick:**
   Always apply the **Extreme Corner Elimination Technique**: Pick ONE unique asymmetric feature in the original figure (e.g., a dot in the top-right corner). In the mirror image, that dot MUST be in the top-left corner! In 90% of Infosys spatial reasoning questions, checking just one corner eliminates 3 out of 4 options in under 5 seconds!
@@ -492,13 +492,13 @@ Identify the correct mirror image of the given problem figure when a vertical mi
 ![Mirror Image Problem and Options](../images/Mirror Image_figures/fig_1_d037e78e.png)
 
 #### Answer Options:
-- **(A)** Option ![Figure](Mirror Image_figures/fig_1_5ddbe1c7.png)
-- **(B)** Option ![Figure](Mirror Image_figures/fig_1_1a3b0d54.png)
-- **(C)** Option ![Figure](Mirror Image_figures/fig_1_895ae03d.png)
-- **(D)** Option ![Figure](Mirror Image_figures/fig_1_6829f544.png)
+- **(A)** Option ![Figure](../images/Mirror Image_figures/fig_1_5ddbe1c7.png)
+- **(B)** Option ![Figure](../images/Mirror Image_figures/fig_1_1a3b0d54.png)
+- **(C)** Option ![Figure](../images/Mirror Image_figures/fig_1_895ae03d.png)
+- **(D)** Option ![Figure](../images/Mirror Image_figures/fig_1_6829f544.png)
 
 #### Official Answer Key:
-**Correct Option:** `(B) Option ![Figure](Mirror Image_figures/fig_1_1a3b0d54.png)`
+**Correct Option:** `(B) Option ![Figure](../images/Mirror Image_figures/fig_1_1a3b0d54.png)`
 
 #### Formally Verified Solution & Derivation:
 - **Core Concept & Spatial Geometry Laws:**
@@ -510,13 +510,13 @@ Identify the correct mirror image of the given problem figure when a vertical mi
   - **Step 1 (Anchor Point Analysis):** Locate the most distinctive asymmetric feature (e.g. arrow, dot, notch, or shaded sector). In the problem figure, note whether this feature is on the left or right.
   - **Step 2 (Reflection Across Vertical Axis):** In the true reflection, this feature must translate across the vertical axis while retaining its exact vertical height.
   - **Step 3 (Matching with Candidate Options):** Diagonal dividing line with slope $+m$ reflects to slope $-m$; dots in opposite corners reflect laterally. Option 2 (B) matches.
-  - **Conclusion:** Candidate Option ![Figure](Mirror Image_figures/fig_1_1a3b0d54.png) is the only figure that satisfies both lateral inversion and vertical invariance perfectly.
+  - **Conclusion:** Candidate Option ![Figure](../images/Mirror Image_figures/fig_1_1a3b0d54.png) is the only figure that satisfies both lateral inversion and vertical invariance perfectly.
 
 - **Distractor Elimination & Error Proofs:**
-  - *(A) Option ![Figure](Mirror Image_figures/fig_1_5ddbe1c7.png):* Invalid. Fails either by introducing an upside-down vertical inversion (water image error), failing to flip asymmetric components laterally, or misplacing shaded quadrants.
-  - *(B) Option ![Figure](Mirror Image_figures/fig_1_1a3b0d54.png):* Valid. Exact, geometrically verified mirror image.
-  - *(C) Option ![Figure](Mirror Image_figures/fig_1_895ae03d.png):* Invalid. Fails either by introducing an upside-down vertical inversion (water image error), failing to flip asymmetric components laterally, or misplacing shaded quadrants.
-  - *(D) Option ![Figure](Mirror Image_figures/fig_1_6829f544.png):* Invalid. Fails either by introducing an upside-down vertical inversion (water image error), failing to flip asymmetric components laterally, or misplacing shaded quadrants.
+  - *(A) Option ![Figure](../images/Mirror Image_figures/fig_1_5ddbe1c7.png):* Invalid. Fails either by introducing an upside-down vertical inversion (water image error), failing to flip asymmetric components laterally, or misplacing shaded quadrants.
+  - *(B) Option ![Figure](../images/Mirror Image_figures/fig_1_1a3b0d54.png):* Valid. Exact, geometrically verified mirror image.
+  - *(C) Option ![Figure](../images/Mirror Image_figures/fig_1_895ae03d.png):* Invalid. Fails either by introducing an upside-down vertical inversion (water image error), failing to flip asymmetric components laterally, or misplacing shaded quadrants.
+  - *(D) Option ![Figure](../images/Mirror Image_figures/fig_1_6829f544.png):* Invalid. Fails either by introducing an upside-down vertical inversion (water image error), failing to flip asymmetric components laterally, or misplacing shaded quadrants.
 
 - **Infosys SE Exam Shortcut & Time-Saving Trick:**
   Always apply the **Extreme Corner Elimination Technique**: Pick ONE unique asymmetric feature in the original figure (e.g., a dot in the top-right corner). In the mirror image, that dot MUST be in the top-left corner! In 90% of Infosys spatial reasoning questions, checking just one corner eliminates 3 out of 4 options in under 5 seconds!

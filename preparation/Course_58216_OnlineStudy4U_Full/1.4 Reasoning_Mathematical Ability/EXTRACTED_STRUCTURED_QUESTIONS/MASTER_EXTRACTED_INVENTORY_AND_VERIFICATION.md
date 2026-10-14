@@ -58,7 +58,7 @@ Every generated file has been hashed using MD5 across both the active working di
 | `Section_01_Logical_Reasoning\Topic_Data_Sufficiency.md` | 37.4 KB | `3b4e66d53091937cee0ec3a04adbfdb2` | 100% BIT-FOR-BIT MATCH |
 | `Section_01_Logical_Reasoning\Topic_Direction_Sense.md` | 37.0 KB | `66cf9be293fc6c6e43d9b306bd38563f` | 100% BIT-FOR-BIT MATCH |
 | `Section_01_Logical_Reasoning\Topic_Inequalities.md` | 37.3 KB | `d9de611d9519261d7c6e3250ac7b3b28` | 100% BIT-FOR-BIT MATCH |
-| `Section_01_Logical_Reasoning\Topic_Mirror_Image_and_Spatial_Reasoning.md` | 69.5 KB | `d7c5fb227026e235927a3a2efe4910a0` | 100% BIT-FOR-BIT MATCH |
+| `Section_01_Logical_Reasoning\Topic_Mirror_Image_and_Spatial_Reasoning.md` | 69.7 KB | `815c7752da063f74a576f8444acbf51b` | 100% BIT-FOR-BIT MATCH |
 | `Section_01_Logical_Reasoning\Topic_Ranking_Test.md` | 28.9 KB | `8a4dfa412fafa97258d1256ed3e0fcb1` | 100% BIT-FOR-BIT MATCH |
 | `Section_01_Logical_Reasoning\Topic_Seating_Arrangement.md` | 35.5 KB | `b183685b2aea77145c3a91097aa15196` | 100% BIT-FOR-BIT MATCH |
 | `Section_01_Logical_Reasoning\Topic_Syllogism.md` | 34.7 KB | `3e91ebeaa56cfdb284a26b5a3b75ff5d` | 100% BIT-FOR-BIT MATCH |
@@ -72,9 +72,9 @@ Every generated file has been hashed using MD5 across both the active working di
 - Total Visual Assets Replicated: **143 Image Files** (`.png`, `.jpg`, `.gif`).
 - Destination Directory: `EXTRACTED_STRUCTURED_QUESTIONS/images/`.
 - Supported Path Schemes:
-  1. **Direct Relative Links:** `![Figure](../images/<figure_path>)` (e.g., `![Figure](../images/Blood Relation_figures/fig_1_c19c86a4.png)`).
-  2. **Flat Relative Links:** `![Figure](../images/<filename>)` (e.g., `![Figure](../images/fig_1_c19c86a4.png)`).
-  3. **Prefixed Relative Links:** `![Figure](../images/<Topic>_<filename>)` (e.g., `![Figure](../images/Blood_Relation_fig_1_c19c86a4.png)`).
+  1. **Direct Relative Links:** Scheme `images/<figure_path>` (e.g. `../images/Blood Relation_figures/fig_1_c19c86a4.png`).
+  2. **Flat Relative Links:** Scheme `images/<filename>` (e.g. `../images/fig_1_c19c86a4.png`).
+  3. **Prefixed Relative Links:** Scheme `images/<Topic>_<filename>` (e.g. `../images/Blood_Relation_fig_1_c19c86a4.png`).
 - All images are guaranteed to render seamlessly in VS Code, Obsidian, GitHub Web Markdown viewers, and offline browsers.
 
 ---
