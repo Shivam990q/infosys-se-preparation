@@ -249,3 +249,159 @@ Meat is to vegan as alcohol is to ________.
    * "galloping": Correct present participle describing the gait of a horse.
    * "yard": Correct noun object of the preposition.
 Hence, the erroneous word is **maine** (Option B).
+
+---
+
+### Question 15 [Source: `IMG_20210613_152227_372.jpg`]
+
+**Question Statement:**
+Fill in the blank with the most appropriate choice:
+"Presently, labelling of GMO content isn't a requirement, and labelling is a complex and controversial issue [that / which] has no bearing on my decision."
+
+**Options:**
+- A) that
+- B) which
+- C) what
+- D) whom
+
+**Correct Answer:** **A) that**
+
+**Grammatical & Linguistic Proof:**
+1. The clause provides a restrictive relative clause essential to defining the nature of the issue being addressed.
+2. In formal English grammar, restrictive defining clauses that modify an inanimate antecedent ("controversial issue") take the relative pronoun **that** without preceding commas.
+3. Hence, **that** correctly completes the sentence.
+
+---
+
+### Question 16 [Source: `IMG_20210613_153817_718.jpg`]
+
+**Question Statement:**
+Select the word segment that substitutes (replaces) the bracketed word segment correctly:
+"He did not know [whether to accept or reject] the offer."
+
+**Options:**
+- A) whether to accept or reject
+- B) weather to accept or reject
+- C) if to accept or reject
+- D) no correction required
+
+**Correct Answer:** **D) no correction required**
+
+**Grammatical & Linguistic Proof:**
+1. The correlative conjunction "whether ... or" followed by infinitive verbs ("to accept or reject") is standard, idiomatic, and grammatically impeccable.
+2. "Weather" refers to atmospheric conditions and is an orthographic error.
+3. "If" cannot be used directly with an infinitive phrase in this indirect question construction.
+4. Hence, **no correction required** (Option D).
+
+---
+
+### Question 17 [Source: `IMG_20210613_153907_673.jpg`]
+
+**Question Statement:**
+Fill in the blank with the most appropriate idiom or phrase:
+"Everyone thought the Olympic stadiums would be ______ after the games concluded, costing millions in maintenance without generating revenue."
+
+**Options:**
+- A) a white elephant
+- B) a dark horse
+- C) a feather in the cap
+- D) a silver lining
+
+**Correct Answer:** **A) a white elephant**
+
+**Grammatical & Linguistic Proof:**
+1. Idiom Definition: "A white elephant" is a universally recognized English idiom referring to a possession that is extremely burdensome, costly to maintain, and yields no useful or profitable purpose relative to its upkeep.
+2. Contextual fit: High maintenance costs for unused post-Olympic stadium venues is the quintessential textbook example of "a white elephant".
+3. Hence, Option **A) a white elephant** is correct.
+
+---
+
+### Question 18 [Source: `IMG_20210613_154507_309.jpg`]
+
+**Question Statement:**
+Select the correct substitution for the bracketed text:
+"Neither the manager nor his assistants [were present at] the meeting."
+
+**Options:**
+- A) was present at
+- B) were present at
+- C) have been present
+- D) no correction required
+
+**Correct Answer:** **D) no correction required**
+
+**Grammatical & Linguistic Proof:**
+1. Rule of Proximity with Correlative Conjunctions ("Neither ... nor"):
+   - When compound subjects are joined by "neither ... nor", the finite verb must agree in grammatical number and person with the closest subject component.
+2. The closest subject to the verb is "his assistants", which is plural.
+3. Therefore, the plural past verb **were** is strictly required:
+   $$\text{Neither the manager nor his assistants [plural]} \implies \text{\textbf{were present at}}$$
+4. Hence, the sentence is grammatically correct as written $\implies$ **no correction required** (Option D).
+
+---
+
+### Question 19 [Source: `IMG_20210613_155125_674.jpg`]
+
+**Question Statement:**
+Fill in the blank with the most appropriate choice:
+"Henry asked for permission to invade Ireland, _______ that it was an uncivilized territory needing reform."
+
+**Options:**
+- A) claiming
+- B) claimed
+- C) to claim
+- D) having claim
+
+**Correct Answer:** **A) claiming**
+
+**Grammatical & Linguistic Proof:**
+1. Syntactic analysis requires a present participle non-finite clause acting as an adverbial modifier describing the contemporaneous rationale for asking permission.
+2. "Claiming that..." functions as a participial phrase complementing the main clause verb "asked".
+3. Hence, **claiming** is the only grammatically coherent form (Option A).
+
+---
+
+### Question 20 [Source: `IMG_20210613_155216_434.jpg`]
+
+**Question Statement:**
+Fill in the blank with the most appropriate choice:
+"Play-acting and bad tempers rose in succession, producing a _______ atmosphere in the rehearsal studio."
+
+**Options:**
+- A) hostile
+- B) hospitable
+- C) harmonious
+- D) tranquil
+
+**Correct Answer:** **A) hostile**
+
+**Grammatical & Linguistic Proof:**
+1. Contextual Semantics: "Play-acting" (insincerity/drama) and "bad tempers" are negative emotional behaviors.
+2. Negative behavior produces an unfriendly, contentious, and antagonizing environment.
+3. "Hostile" directly denotes an antagonistic, unfriendly, and tense atmosphere.
+4. Hence, **hostile** is the correct lexical choice (Option A).
+
+---
+
+### Question 21 [Source: `IMG_20210613_155225_709.jpg`, `IMG_20210613_151758_739.jpg`, `IMG_20210613_151807_261.jpg`, `IMG_20210613_151828_713.jpg`]
+
+**Question Statement:**
+The sentence has been divided into three parts. Select the part of the sentence that contains an error. If the sentence has no error, select 'No Error':
+$$\text{(A) Everyone in her family were so supportive,} \ / \ \text{(B) especially her parents, when they heard about her} \ / \ \text{(C) decision to move to a different country for work.}$$
+
+**Options:**
+- A) Everyone in her family were so supportive,
+- B) especially her parents, when they heard about her
+- C) decision to move to a different country for work
+- D) No Error
+
+**Correct Answer:** **A) Everyone in her family were so supportive,**
+
+**Grammatical & Linguistic Proof:**
+1. Subject-Verb Agreement Rule:
+   - Indefinite pronouns ending in *-one* or *-body* (everyone, someone, anyone, no one, everybody) are grammatically **singular** in formal English.
+2. The subject of part (A) is "Everyone". The prepositional phrase "in her family" modifies the noun but does not alter its singular grammatical number.
+3. Therefore, the verb must be singular ("was"), not plural ("were"):
+   $$\text{\textbf{Incorrect:}} \quad \text{Everyone in her family \textbf{were} so supportive}$$
+   $$\text{\textbf{Correct:}} \quad \text{Everyone in her family \textbf{was} so supportive}$$
+4. Hence, the error is in part **A) Everyone in her family were so supportive,**.

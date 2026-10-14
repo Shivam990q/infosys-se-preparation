@@ -257,3 +257,40 @@ Which book is placed at the top-most position?
 * **Step 4:** Therefore, Sameer cannot visit Hospital.
 * **Step 5:** Thus, Sameer's destination is uniquely and definitively **Multiplex**.
 * Matches Option **(C) Multiplex** *(Note: Screenshot `photo_1919` shows student misclick on Hospital, while `photo_1899` presents the exact 4 radio options: Hospital, Museum, Multiplex, Park)*.
+
+---
+
+### Question 9 [Source: `IMG_20210613_153934_077.jpg`]
+
+**Question Statement:**
+Six friends P, Q, R, S, T, and U are compared according to their ages:
+1. T is only older than P and Q.
+2. U is older than T, but younger than R and S.
+3. R is not the oldest.
+
+Who among the friends is the oldest?
+
+**Options:**
+- A) S
+- B) R
+- C) U
+- D) T
+
+**Correct Answer:** **A) S**
+
+**Mathematical & Logical Proof:**
+1. From Condition 1:
+   - "T is only older than P and Q" means that T is strictly older than exactly two persons (P and Q), and is younger than all the remaining three persons (R, S, U).
+   - Relative ranking from oldest to youngest:
+     $$\{R, S, U\} > T > \{P, Q\}$$
+   - This immediately places T at rank 4, while P and Q occupy ranks 5 and 6.
+2. From Condition 2:
+   - "U is older than T, but younger than R and S":
+     $$\{R, S\} > U > T$$
+   - This fixes U at rank 3:
+     $$\{R, S\} > U (3^{\text{rd}}) > T (4^{\text{th}}) > \{P, Q\} (5^{\text{th}}, 6^{\text{th}})$$
+3. From Condition 3:
+   - "R is not the oldest" means between R and S, R cannot occupy rank 1.
+   - Therefore, S must occupy rank 1 (oldest), and R occupies rank 2:
+     $$S (1^{\text{st}}) > R (2^{\text{nd}}) > U (3^{\text{rd}}) > T (4^{\text{th}}) > \{P, Q\}$$
+4. Hence, the oldest person is **S** (Option A).

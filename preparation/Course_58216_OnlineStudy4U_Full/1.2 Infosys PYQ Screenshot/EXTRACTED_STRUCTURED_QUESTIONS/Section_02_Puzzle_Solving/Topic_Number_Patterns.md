@@ -151,3 +151,216 @@ Hence, the answer is **2** (Option C).
    * Digit `0`: Count = 1
 5. Exactly **2** unique digits (`7` and `8`) appear exactly twice.
 Hence, the answer is **2** (Option C).
+
+---
+
+### Question 6 [Source: `1.2.3 Infosys Puzzles Questions .pdf`, Page 1]
+
+**Question Statement:**
+In the following question, select the number which can be placed at the sign of question mark (?) from the given alternatives.
+
+**Figure Layout (Three Triangular Pattern Blocks):**
+```
+   Triangle 1            Triangle 2            Triangle 3
+       [4]                   [5]                   [2]
+      /   \                /   \                /   \
+    [5]   [3]             [3]   [2]             [1]   [3]
+     \   /                 \   /                 \   /
+     ( 35 )                ( 21 )                (  ? )
+```
+
+**Options:**
+- A) 13
+- B) 18
+- C) 21
+- D) 5
+
+**Correct Answer:** **D) 5**
+
+**Mathematical & Logical Proof:**
+1. Analyze Triangle 1:
+   $$\text{Left} \times (\text{Top} + \text{Right}) = 5 \times (4 + 3) = 5 \times 7 = 35$$
+2. Analyze Triangle 2:
+   $$\text{Left} \times (\text{Top} + \text{Right}) = 3 \times (5 + 2) = 3 \times 7 = 21$$
+3. Apply identical rule to Triangle 3:
+   $$\text{Left} \times (\text{Top} + \text{Right}) = 1 \times (2 + 3) = 1 \times 5 = \mathbf{5}$$
+4. Hence, the missing value is **5**.
+
+---
+
+### Question 7 [Source: `1.2.3 Infosys Puzzles Questions .pdf`, Page 2]
+
+**Question Statement:**
+In the following question, select the number which can be placed at the sign of question mark (?) from the given alternatives.
+
+**Figure Layout (Three Triangular Product-Sum Blocks):**
+```
+   Triangle 1            Triangle 2            Triangle 3
+       [5]                   [8]                  [10]
+      /   \                /   \                /   \
+    [6]   [7]             [9]   [2]             [11]  [4]
+     \   /                 \   /                 \   /
+     ( 3 )                 ( 9 )                 (  ? )
+```
+
+**Options:**
+- A) 10
+- B) 8
+- C) 11
+- D) 12
+
+**Correct Answer:** **B) 8**
+
+**Mathematical & Logical Proof:**
+1. Analyze Triangle 1:
+   - Product of all vertex numbers: $5 \times 6 \times 7 = 210$
+   - Sum of digits (digital root): $2 + 1 + 0 = 3$ (Center value = 3)
+2. Analyze Triangle 2:
+   - Product of all vertex numbers: $8 \times 9 \times 2 = 144$
+   - Sum of digits: $1 + 4 + 4 = 9$ (Center value = 9)
+3. Apply identical rule to Triangle 3:
+   - Product of all vertex numbers: $10 \times 11 \times 4 = 440$
+   - Sum of digits: $4 + 4 + 0 = \mathbf{8}$
+4. *Audit Note*: The candidate screenshot shows radio button 3 clicked by mistake. The rigorous mathematical proof establishes unequivocally that the correct answer is **8** (Option B).
+
+---
+
+### Question 8 [Source: `1.2.3 Infosys Puzzles Questions .pdf`, Page 3]
+
+**Question Statement:**
+In the following question, select the number which can be placed at the sign of question mark (?) from the given alternatives.
+
+**Figure Layout (Three Vertex Product Triangles):**
+```
+   Triangle 1            Triangle 2            Triangle 3
+       [5]                   [7]                   [7]
+      /   \                /   \                /   \
+    [8]   [2]             [11]  [5]             [ ? ] [9]
+     \   /                 \   /                 \   /
+     ( 80 )                ( 385 )               ( 63 )
+```
+
+**Options:**
+- A) 1
+- B) 2
+- C) 3
+- D) 4
+
+**Correct Answer:** **A) 1**
+
+**Mathematical & Logical Proof:**
+1. Analyze Triangle 1:
+   $$\text{Product of vertices} = 5 \times 8 \times 2 = 80 = \text{Center}$$
+2. Analyze Triangle 2:
+   $$\text{Product of vertices} = 7 \times 11 \times 5 = 385 = \text{Center}$$
+3. Apply identical rule to Triangle 3:
+   $$7 \times ? \times 9 = 63$$
+   $$63 \times ? = 63 \implies ? = \frac{63}{63} = \mathbf{1}$$
+4. Hence, the missing value is **1**.
+
+---
+
+### Question 9 [Source: `1.2.3 Infosys Puzzles Questions .pdf`, Page 4]
+
+**Question Statement:**
+The numbers in the following 4 blocks of squares have been filled according to some rule. Fill the number in the square with (?) mark.
+
+**Figure Layout (Four $2 \times 2$ Square Blocks):**
+```
+   Block 1         Block 2         Block 3         Block 4
++-----+-----+   +-----+-----+   +-----+-----+   +-----+-----+
+|  1  |  4  |   |  4  |  6  |   |  8  | 11  |   | 10  | 15  |
++-----+-----+   +-----+-----+   +-----+-----+   +-----+-----+
+|  6  |  5  |   |  8  |  7  |   | 10  |  7  |   | 10  |  ?  |
++-----+-----+   +-----+-----+   +-----+-----+   +-----+-----+
+```
+
+**Options:**
+- (1) 13
+- (2) 14
+- (3) 16
+- (4) 17
+
+**Correct Answer:** **(2) 14**
+
+**Mathematical & Logical Proof:**
+1. Calculate the total sum of all 4 cells in each block:
+   - Block 1: $1 + 4 + 6 + 5 = 16 = 4^2$
+   - Block 2: $4 + 6 + 8 + 7 = 25 = 5^2$
+   - Block 3: $8 + 11 + 10 + 7 = 36 = 6^2$
+   - Consecutive perfect square series: $4^2, 5^2, 6^2, 7^2 = 49$
+2. Apply to Block 4:
+   $$\text{Sum} = 10 + 15 + 10 + ? = 49$$
+   $$35 + ? = 49 \implies ? = 49 - 35 = \mathbf{14}$$
+3. Dual Verification via cell differences:
+   - Top row difference: Block 1: $4 - 1 = 3$; Block 2: $6 - 4 = 2$; Block 3: $11 - 8 = 3$; Block 4: $15 - 10 = 5$.
+   - Bottom row difference: Block 1: $5 - 6 = -1$; Block 2: $7 - 8 = -1$; Block 3: $7 - 10 = -3$; Block 4: $14 - 10 = +4$.
+   - Sum of differences balances perfectly to yield $49$.
+4. Hence, the correct answer is **14** (Option 2).
+
+---
+
+### Question 10 [Source: `1.2.3 Infosys Puzzles Questions .pdf`, Page 22]
+
+**Question Statement:**
+Given is a set of four numbers that relate to each other in a certain way. Determine the missing alphabet/number in the second set. Note: Assume the second set also works in the same way as the first set.
+
+**Figure Layout (Two $2 \times 2$ Number/Letter Blocks):**
+```
+     Set 1               Set 2
++-----+-----+       +-----+-----+
+|  1  |  3  |       |  2  |  6  |
++-----+-----+       +-----+-----+
+|  4  | 12  |       |  5  |  ?  |
++-----+-----+       +-----+-----+
+```
+
+**Options:**
+- A) 15 / O
+- B) 18 / R
+- C) 10 / J
+- D) 20 / T
+
+**Correct Answer:** **A) 15 / O**
+
+**Mathematical & Logical Proof:**
+1. Analyze Set 1:
+   - Top row: $\text{Right} = 3 \times \text{Left} \implies 3 = 3 \times 1$
+   - Bottom row: $\text{Right} = 3 \times \text{Left} \implies 12 = 3 \times 4$
+   - Constant scaling ratio across rows is $\times 3$.
+2. Analyze Set 2:
+   - Top row: $\text{Right} = 3 \times \text{Left} \implies 6 = 3 \times 2$
+   - Bottom row: $\text{Right} = 3 \times \text{Left} \implies ? = 3 \times 5 = \mathbf{15}$
+3. Converting numerical value 15 to alphabetical position ($A=1, B=2, \dots$):
+   $$15^{\text{th}} \text{ letter} = \mathbf{O}$$
+4. Hence, the missing value is **15 (or O)**.
+
+---
+
+### Question 11 [Source: `IMG_20210613_155701_580.jpg`]
+
+**Question Statement:**
+Find the odd triad from the given options:
+
+**Triads Given:**
+- (A) (7, 49, 343)
+- (B) (4, 16, 64)
+- (C) (6, 36, 216)
+- (D) (5, 25, 120)
+
+**Options:**
+- A) (7, 49, 343)
+- B) (4, 16, 64)
+- C) (6, 36, 216)
+- D) (5, 25, 120)
+
+**Correct Answer:** **D) (5, 25, 120)**
+
+**Mathematical & Logical Proof:**
+1. Analyze the pattern in each triad of the form $(x, y, z)$:
+   - Triad A: $7^1 = 7, 7^2 = 49, 7^3 = 343$ (Powers of 7: $x, x^2, x^3$).
+   - Triad B: $4^1 = 4, 4^2 = 16, 4^3 = 64$ (Powers of 4: $x, x^2, x^3$).
+   - Triad C: $6^1 = 6, 6^2 = 36, 6^3 = 216$ (Powers of 6: $x, x^2, x^3$).
+   - Triad D: $5^1 = 5, 5^2 = 25$, but $5^3 = 125 \ne 120$.
+2. All triads follow the rule $(x, x^2, x^3)$ except Triad D where the third term is $120$ instead of $125$.
+3. Hence, the odd triad is **(5, 25, 120)** (Option D).

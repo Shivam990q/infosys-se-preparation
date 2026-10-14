@@ -455,3 +455,126 @@ Conclusions:
    * **Step 3 (Addition and Subtraction):**
      $$18 - 18 + 23 = 0 + 23 = \mathbf{23}$$
 Hence, the value of the expression is **23** (Option D).
+
+---
+
+### Question 22 [Source: `IMG_20210613_155637_218.jpg`]
+
+**Question Statement:**
+In the question below, an Assertion (A) and a Reason (R) are given. Read them carefully and select the correct option:
+- **Assertion (A):** In India, the judiciary is independent of the executive and legislative branches.
+- **Reason (R):** The Constitution of India provides for the separation of powers and guarantees the tenure of judges.
+
+**Options:**
+- A) Both A and R are true, and R is the correct explanation of A.
+- B) Both A and R are true, but R is NOT the correct explanation of A.
+- C) A is true, but R is false.
+- D) A is false, but R is true.
+
+**Correct Answer:** **A) Both A and R are true, and R is the correct explanation of A.**
+
+**Mathematical & Logical Proof:**
+1. Fact Verification:
+   - Assertion (A): The Indian Constitution establishes an independent judiciary as part of the basic structure of the Constitution. Thus, A is true.
+   - Reason (R): Article 50 (Directive Principles) directs separation of the judiciary from the executive. Constitutional safeguards such as security of tenure (Articles 124, 217) and salaries charged on the Consolidated Fund ensure judicial independence. Thus, R is true.
+2. Causality and Explanation:
+   - The constitutional provisions guaranteeing fixed tenure and non-political removal procedures (impeachment) directly explain *why* the judiciary remains independent of executive influence.
+3. Therefore, both A and R are true, and R is the correct explanation of A (Option A).
+
+---
+
+### Question 23 [Source: `IMG_20210613_160043_420.jpg`]
+
+**Question Statement:**
+In this question, a statement is given, followed by two arguments numbered I and II. You have to decide which of the arguments is a 'strong' argument:
+
+**Statement:**
+Should luxury vehicles and high-end consumer goods be taxed at higher rates?
+
+**Arguments:**
+- **Argument I:** Yes, higher taxation on luxury items generates essential revenue for social welfare programs without burdening lower-income households.
+- **Argument II:** No, taxing luxury items reduces consumer spending and discourages foreign investment in premium manufacturing sectors.
+
+**Options:**
+- A) Only argument I is strong
+- B) Only argument II is strong
+- C) Either I or II is strong
+- D) Both I and II are strong
+
+**Correct Answer:** **D) Both I and II are strong**
+
+**Mathematical & Logical Proof:**
+1. Criteria for Strong Arguments in Deductive Reasoning:
+   - A strong argument must be logically sound, directly relevant to the issue, and substantiated by empirical or socioeconomic reality.
+2. Analysis of Argument I:
+   - Progressive taxation on non-essential luxury consumption is an established economic principle designed to mobilize public fiscal resources while maintaining equity. Argument I is robust, relevant, and strong.
+3. Analysis of Argument II:
+   - Excessively high excise and import duties can dampen domestic luxury market demand, contract manufacturing, and deter high-value industrial investments. Argument II presents a valid economic consideration.
+4. Since both arguments present valid, balanced, and substantive socioeconomic rationales from different perspectives, both arguments are strong.
+5. Hence, Option **D) Both I and II are strong** is correct.
+
+---
+
+### Question 24 [Source: `IMG_20210613_160027_721.jpg`]
+
+**Question Statement:**
+In the question below, statements are given followed by two conclusions. Decide which of the conclusions logically follows:
+
+**Statements:**
+- Some creative students are toppers.
+- Some toppers are dancers.
+
+**Conclusions:**
+- I. Some creative students are dancers.
+- II. Some dancers are toppers.
+
+**Options:**
+- A) Only conclusion II follows
+- B) Only conclusion I follows
+- C) Both conclusions I and II follow
+- D) Neither conclusion I nor conclusion II follows
+
+**Correct Answer:** **A) Only conclusion II follows**
+
+**Mathematical & Logical Proof:**
+1. Evaluate Conclusion I:
+   - The premises are two Particular Affirmative statements ($I + I$):
+     $$\text{Creative} \cap \text{Toppers} \ne \emptyset, \quad \text{Toppers} \cap \text{Dancers} \ne \emptyset$$
+   - No universal term exists to link the disjoint subsets of Creative students and Dancers.
+   - Therefore, $\text{Creative} \cap \text{Dancers}$ may or may not be non-empty $\implies$ Conclusion I does not follow.
+2. Evaluate Conclusion II:
+   - Premise 2 states: "Some toppers are dancers".
+   - By the rule of simple conversion for Particular Affirmative propositions ($I \to I$):
+     $$\text{Some } A \text{ are } B \implies \text{Some } B \text{ are } A$$
+   - Thus, "Some toppers are dancers" logically guarantees "Some dancers are toppers" $\implies$ **Conclusion II strictly follows**.
+3. Hence, **Only conclusion II follows** (Option A).
+
+---
+
+### Question 25 [Source: `IMG_20210613_155831_419.jpg`]
+
+**Question Statement:**
+In the question below, a statement is given followed by two assumptions numbered I and II. Decide which of the assumptions is implicit in the statement:
+
+**Statement:**
+"The municipal corporation has appealed to all citizens to conserve water during the summer months to avoid acute drinking water shortages."
+
+**Assumptions:**
+- **Assumption I:** Citizens are capable of reducing their daily water consumption if an appeal is made.
+- **Assumption II:** The municipal corporation may face a water deficit during the summer season.
+
+**Options:**
+- A) Both assumptions I and II are implicit
+- B) Only assumption I is implicit
+- C) Only assumption II is implicit
+- D) Neither assumption I nor II is implicit
+
+**Correct Answer:** **A) Both assumptions I and II are implicit**
+
+**Mathematical & Logical Proof:**
+1. Analysis of Assumption I:
+   - When an authority issues an appeal or public notice, the inherent underlying assumption is that the public has the capacity to respond favorably and modify their behavior. If citizens could not reduce water usage, making the appeal would be futile. Thus, Assumption I is implicit.
+2. Analysis of Assumption II:
+   - The rationale stated for the appeal ("to avoid acute drinking water shortages during summer") directly assumes that there is a risk of a water deficit unless preventive measures are taken. Thus, Assumption II is implicit.
+3. Both assumptions are logically presupposed by the statement.
+4. Hence, **Both assumptions I and II are implicit** (Option A).

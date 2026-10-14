@@ -200,3 +200,270 @@ Hence, the matching term is **entomology** (Option A).
    * $A(1) - 12 = -11 \equiv 15 = O$ (Shift $= -12$)
    * Transformation Vector matches $\vec{T} = [+2, -8, +2, -12]$ identically across all 4 characters!
 Hence, the correct pair is **LICA : NAEO** (Option B).
+
+---
+
+### Question 8 [Source: `IMG_20210613_155724_480.jpg`, `IMG_20210613_155458_163.jpg`, `IMG_20210613_153714_139.jpg`]
+
+**Question Statement:**
+In a certain language, **TRANCH** is coded as **UOBKDE**. How is the word **BURGER** written in that code language?
+
+**Options:**
+- A) CRSDFO
+- B) CRSEFO
+- C) BRSDEN
+- D) CRSDEN
+
+**Correct Answer:** **A) CRSDFO**
+
+**Mathematical & Logical Proof:**
+1. Map letter transitions between TRANCH and UOBKDE:
+   - $T (20) \xrightarrow{+1} U (21)$
+   - $R (18) \xrightarrow{-3} O (15)$
+   - $A (1) \xrightarrow{+1} B (2)$
+   - $N (14) \xrightarrow{-3} K (11)$
+   - $C (3) \xrightarrow{+1} D (4)$
+   - $H (8) \xrightarrow{-3} E (5)$
+   - Encoding rule is alternating: $+1, -3, +1, -3, +1, -3$.
+2. Apply identical rule to **BURGER**:
+   - $B (2) \xrightarrow{+1} \mathbf{C (3)}$
+   - $U (21) \xrightarrow{-3} \mathbf{R (18)}$
+   - $R (18) \xrightarrow{+1} \mathbf{S (19)}$
+   - $G (7) \xrightarrow{-3} \mathbf{D (4)}$
+   - $E (5) \xrightarrow{+1} \mathbf{F (6)}$
+   - $R (18) \xrightarrow{-3} \mathbf{O (15)}$
+3. Combining letters gives: **CRSDFO**.
+4. Hence, the correct answer is **CRSDFO** (Option A).
+
+---
+
+### Question 9 [Source: `IMG_20210613_155452_821.jpg`]
+
+**Question Statement:**
+In a certain language, **BFBI** is coded as **3718**. How is the word **EGCH** written in that code language?
+
+**Options:**
+- A) 6827
+- B) 6849
+- C) 3527
+- D) 5727
+
+**Correct Answer:** **A) 6827**
+
+**Mathematical & Logical Proof:**
+1. Map letters to their alphabetical positions:
+   - $B = 2, F = 6, B = 2, I = 9$.
+2. Compare with code digits "3718":
+   - $2 \xrightarrow{+1} 3$
+   - $6 \xrightarrow{+1} 7$
+   - $2 \xrightarrow{-1} 1$
+   - $9 \xrightarrow{-1} 8$
+   - Transformation pattern is: $+1, +1, -1, -1$.
+3. Apply identical transformation to **EGCH**:
+   - $E = 5 \xrightarrow{+1} \mathbf{6}$
+   - $G = 7 \xrightarrow{+1} \mathbf{8}$
+   - $C = 3 \xrightarrow{-1} \mathbf{2}$
+   - $H = 8 \xrightarrow{-1} \mathbf{7}$
+4. Derived code string is **6827**.
+5. Hence, Option **A) 6827** is correct.
+
+---
+
+### Question 10 [Source: `IMG_20210613_155458_163.jpg`]
+
+**Question Statement:**
+In a certain code, if 'bells are brown' is coded as '723', 'brown and black' is coded as '345', and 'bells ring loud' is coded as '768', which digit represents the word 'brown'?
+
+**Options:**
+- A) 2
+- B) 3
+- C) 7
+- D) 5
+
+**Correct Answer:** **B) 3**
+
+**Mathematical & Logical Proof:**
+1. Compare Sentence 1 ('bells are brown' = '723') and Sentence 2 ('brown and black' = '345'):
+   - Common word: 'brown'.
+   - Common digit: '3'.
+   - Therefore, **'brown' = 3**.
+2. Compare Sentence 1 ('bells are brown' = '723') and Sentence 3 ('bells ring loud' = '768'):
+   - Common word: 'bells'.
+   - Common digit: '7'.
+   - Therefore, **'bells' = 7**, leaving **'are' = 2**.
+3. Hence, 'brown' is represented by **3** (Option B).
+
+---
+
+### Question 11 [Source: `IMG_20210613_155538_606.jpg`]
+
+**Question Statement:**
+In a certain code, if **LAST** is coded as **13** and **TABLE** is coded as **8**, then what will be the code for **FRAUD**?
+
+**Options:**
+- A) 9
+- B) 10
+- C) 12
+- D) 15
+
+**Correct Answer:** **B) 10**
+
+**Mathematical & Logical Proof:**
+1. Analyze the numerical sum of letter positions for **LAST**:
+   $$L(12) + A(1) + S(19) + T(20) = 52$$
+   Number of letters in LAST $= 4$.
+   $$\text{Code} = \frac{52}{4} = 13$$
+   The code is the arithmetic mean of the alphabetical values.
+2. Verify with **TABLE**:
+   $$T(20) + A(1) + B(2) + L(12) + E(5) = 40$$
+   Number of letters in TABLE $= 5$.
+   $$\text{Code} = \frac{40}{5} = 8$$
+   The arithmetic mean rule holds exactly.
+3. Apply identical rule to **FRAUD**:
+   $$F(6) + R(18) + A(1) + U(21) + D(4) = 50$$
+   Number of letters in FRAUD $= 5$.
+   $$\text{Code} = \frac{50}{5} = \mathbf{10}$$
+4. Hence, the code for FRAUD is **10** (Option B).
+
+---
+
+### Question 12 [Source: `IMG_20210613_155650_986.jpg`]
+
+**Question Statement:**
+In a certain language, **GENERAL** is coded as **LJSJWFQ**. How is the word **ACCOUNT** written in that code language?
+
+**Options:**
+- A) FHHTZSY
+- B) FHHTYSZ
+- C) FHHTYRZ
+- D) FGGTYRZ
+
+**Correct Answer:** **A) FHHTZSY**
+
+**Mathematical & Logical Proof:**
+1. Analyze the letter displacement from GENERAL to LJSJWFQ:
+   - $G (7) \xrightarrow{+5} L (12)$
+   - $E (5) \xrightarrow{+5} J (10)$
+   - $N (14) \xrightarrow{+5} S (19)$
+   - $E (5) \xrightarrow{+5} J (10)$
+   - $R (18) \xrightarrow{+5} W (23)$
+   - $A (1) \xrightarrow{+5} F (6)$
+   - $L (12) \xrightarrow{+5} Q (17)$
+   - The cipher uses a constant shift of $+5$ for every letter.
+2. Apply $+5$ shift to **ACCOUNT**:
+   - $A (1) + 5 = \mathbf{F (6)}$
+   - $C (3) + 5 = \mathbf{H (8)}$
+   - $C (3) + 5 = \mathbf{H (8)}$
+   - $O (15) + 5 = \mathbf{T (20)}$
+   - $U (21) + 5 = \mathbf{Z (26)}$
+   - $N (14) + 5 = \mathbf{S (19)}$
+   - $T (20) + 5 = \mathbf{Y (25)}$
+3. Combining letters gives: **FHHTZSY**.
+4. Hence, Option **A) FHHTZSY** is correct.
+
+---
+
+### Question 13 [Source: `IMG_20210613_155728_296.jpg`]
+
+**Question Statement:**
+In a code language:
+- 'Shirt' means 'Shoe',
+- 'Shoe' means 'Wallet',
+- 'Wallet' means 'Spectacle',
+- 'Spectacle' means 'Fan',
+- 'Fan' means 'Cabin',
+- 'Cabin' means 'Card'.
+
+Which of the following do we use when we want some air?
+
+**Options:**
+- A) Fan
+- B) Spectacles
+- C) Cabin
+- D) Card
+
+**Correct Answer:** **C) Cabin**
+
+**Mathematical & Logical Proof:**
+1. Under normal definitions, an object used to provide air is a **Fan**.
+2. In the specified artificial substitution code:
+   $$\text{'Fan' is substituted by / means 'Cabin'}$$
+3. Therefore, according to the coded language, one would use a **Cabin** when wanting air.
+4. Hence, the correct answer is **Cabin** (Option C).
+
+---
+
+### Question 14 [Source: `IMG_20210613_155833_797.jpg`]
+
+**Question Statement:**
+Select the letter pair that is related on the same basis to the pair given in the question:
+$$\text{PZ} : \text{U} :: \text{BJ} : ?$$
+
+**Options:**
+- A) F
+- B) G
+- C) H
+- D) E
+
+**Correct Answer:** **A) F**
+
+**Mathematical & Logical Proof:**
+1. Numerical analysis of PZ:
+   - $P = 16, Z = 26$.
+   - Midpoint / Arithmetic mean: $\frac{16 + 26}{2} = \frac{42}{2} = 21 = \mathbf{U}$.
+2. Apply identical arithmetic mean rule to BJ:
+   - $B = 2, J = 10$.
+   - Midpoint / Arithmetic mean: $\frac{2 + 10}{2} = \frac{12}{2} = 6 = \mathbf{F}$.
+3. Hence, the missing letter is **F** (Option A).
+
+---
+
+### Question 15 [Source: `IMG_20210613_155558_546.jpg`]
+
+**Question Statement:**
+Out of the given options, three are similar in a certain manner. However, one option is NOT like the other three. Select the option which is different:
+
+**Options:**
+- A) BDG
+- B) PRU
+- C) KMP
+- D) HKL
+
+**Correct Answer:** **D) HKL**
+
+**Mathematical & Logical Proof:**
+1. Examine alphabetical differences between consecutive letters:
+   - Option A: $B (2) \xrightarrow{+2} D (4) \xrightarrow{+3} G (7)$ (Pattern: $+2, +3$)
+   - Option B: $P (16) \xrightarrow{+2} R (18) \xrightarrow{+3} U (21)$ (Pattern: $+2, +3$)
+   - Option C: $K (11) \xrightarrow{+2} M (13) \xrightarrow{+3} P (16)$ (Pattern: $+2, +3$)
+   - Option D: $H (8) \xrightarrow{+3} K (11) \xrightarrow{+1} L (12)$ (Pattern: $+3, +1$)
+2. Options A, B, and C strictly adhere to the $+2, +3$ pattern. Option D violates this rule.
+3. Hence, the odd one out is **HKL** (Option D).
+
+---
+
+### Question 16 [Source: `IMG_20210613_155658_758.jpg`]
+
+**Question Statement:**
+Select the pair that is related on the same basis:
+$$\text{ARQ} : \text{EFQ} :: \text{OVU} : ?$$
+
+**Options:**
+- A) SJU
+- B) STU
+- C) TIU
+- D) SKV
+
+**Correct Answer:** **A) SJU**
+
+**Mathematical & Logical Proof:**
+1. Analyze transitions in ARQ $\to$ EFQ:
+   - $A (1) \xrightarrow{+4} E (5)$
+   - $R (18) \xrightarrow{-12} F (6)$
+   - $Q (17) \xrightarrow{+0} Q (17)$
+2. Apply identical transformations to **OVU**:
+   - $O (15) \xrightarrow{+4} \mathbf{S (19)}$
+   - $V (22) \xrightarrow{-12} \mathbf{J (10)}$
+   - $U (21) \xrightarrow{+0} \mathbf{U (21)}$
+3. Combining letters gives: **SJU**.
+4. Hence, the correct answer is **SJU** (Option A).

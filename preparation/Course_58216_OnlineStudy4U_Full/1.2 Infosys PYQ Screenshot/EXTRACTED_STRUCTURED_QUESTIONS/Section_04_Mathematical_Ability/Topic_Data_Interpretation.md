@@ -778,3 +778,268 @@ Hence, the total export was equal for **MARCH - APRIL**.
 3. **Combined Female Total:**
    $$\text{Total Female Employees} = 5,310 + 12,200 = \mathbf{17,510}$$
 Hence, Option **(B) 17510** is verified with 100% precision.
+
+---
+
+### Question 28 [Source: `IMG_20210613_155803_046.jpg`]
+
+**Question Statement:**
+From the given frequency distribution table, find the cumulative frequency of the class-interval $20-25$:
+
+| Class-Interval | Frequency |
+|:---:|:---:|
+| 10 - 15 | 12 |
+| 15 - 20 | 18 |
+| 20 - 25 | 14 |
+| 25 - 30 | 16 |
+
+**Options:**
+- A) 44
+- B) 30
+- C) 48
+- D) 32
+
+**Correct Answer:** **A) 44**
+
+**Mathematical & Logical Proof:**
+1. Cumulative frequency of a class interval is defined as the sum of all frequencies up to and including that class interval:
+   $$\text{CF}_{20-25} = f(10-15) + f(15-20) + f(20-25)$$
+2. Substitute the table frequencies:
+   $$\text{CF}_{20-25} = 12 + 18 + 14 = 30 + 14 = \mathbf{44}$$
+3. Hence, the cumulative frequency is **44** (Option A).
+
+---
+
+### Question 29 [Source: `IMG_20210613_155918_507.jpg`]
+
+**Question Statement:**
+A random survey was conducted on the number of children belonging to different age groups who play in parks:
+
+| Age (in years) | Number of Children |
+|:---:|:---:|
+| 2 - 4 | 14 |
+| 5 - 7 | 20 |
+| 8 - 10 | 18 |
+| 11 - 13 | 12 |
+
+Find the total proportion of children who are at least 8 years old.
+
+**Options:**
+- A) 46.8%
+- B) 50.0%
+- C) 42.5%
+- D) 52.3%
+
+**Correct Answer:** **A) 46.8%**
+
+**Mathematical & Logical Proof:**
+1. Calculate total surveyed children:
+   $$N = 14 + 20 + 18 + 12 = 64$$
+2. Children aged 8 years or older belong to intervals $8-10$ and $11-13$:
+   $$N_{\ge 8} = 18 + 12 = 30$$
+3. Percentage proportion:
+   $$\text{Proportion} = \frac{30}{64} \times 100 = 46.875\% \approx \mathbf{46.8\%}$$
+4. Hence, the proportion is **46.8%** (Option A).
+
+---
+
+### Question 30 [Source: `IMG_20210613_155922_806.jpg`]
+
+**Question Statement:**
+The following table shows the distribution of heights (in cm) of 100 candidates:
+
+| Height (in cm) | Number of Candidates |
+|:---:|:---:|
+| 140 - 150 | 15 |
+| 150 - 160 | 28 |
+| 160 - 170 | 32 |
+| 170 - 180 | 18 |
+| 180 - 190 | 7 |
+
+What percentage of candidates have a height strictly less than 170 cm?
+
+**Options:**
+- A) 75%
+- B) 68%
+- C) 72%
+- D) 80%
+
+**Correct Answer:** **A) 75%**
+
+**Mathematical & Logical Proof:**
+1. Total candidates $N = 15 + 28 + 32 + 18 + 7 = 100$.
+2. Candidates with height $< 170\text{ cm}$ belong to intervals $140-150, 150-160, 160-170$:
+   $$N_{< 170} = 15 + 28 + 32 = 75$$
+3. Percentage:
+   $$\frac{75}{100} \times 100 = \mathbf{75\%}$$
+4. Hence, Option **A) 75%** is verified.
+
+---
+
+### Question 31 [Source: `IMG_20210613_160031_783.jpg`]
+
+**Question Statement:**
+The following pie chart shows the amount of subscription generated for India Funds from different sources:
+
+| Source | Percentage Allocation |
+|:---:|:---:|
+| Corporate Sector | 35% |
+| Foreign Institutional Investors (FII) | 33% |
+| Non-Resident Indians (NRI) | 16% |
+| Nationalized Banks | 10% |
+| Public Sector Undertakings (PSU) | 6% |
+
+If the total subscription generated from NRI is Rs. 720 crores, what is the total subscription generated from Foreign Institutional Investors (FII)?
+
+**Options:**
+- A) Rs. 1450 crores
+- B) Rs. 1485 crores
+- C) Rs. 1520 crores
+- D) Rs. 1400 crores
+
+**Correct Answer:** **B) Rs. 1485 crores**
+
+**Mathematical & Logical Proof:**
+1. Let the total fund subscription be $T$.
+   $$16\% \text{ of } T = 720 \implies T = \frac{720}{0.16} = 4500 \text{ crores}$$
+2. Calculate subscription from FII ($33\%$ of $T$):
+   $$\text{FII} = 33\% \times 4500 = 0.33 \times 4500 = \mathbf{1485 \text{ crores}}$$
+3. Hence, the subscription from FII is **Rs. 1485 crores** (Option B).
+
+---
+
+### Question 32 [Source: `IMG_20210613_160034_047.jpg`]
+
+**Question Statement:**
+In a batch of students, the height of students is given in the following table:
+
+| Height (in cm) | Number of Students |
+|:---:|:---:|
+| 150 - 160 | 42 |
+| 160 - 170 | 70 |
+| 170 - 180 | 28 |
+
+What is the percentage of students whose height is between 160 cm and 180 cm?
+
+**Options:**
+- A) 70%
+- B) 71%
+- C) 87%
+- D) 65%
+
+**Correct Answer:** **A) 70%**
+
+**Mathematical & Logical Proof:**
+1. Total students:
+   $$N = 42 + 70 + 28 = 140$$
+2. Students in range $160 - 180\text{ cm}$:
+   $$N_{160-180} = 70 + 28 = 98$$
+3. Percentage:
+   $$\frac{98}{140} \times 100 = \frac{7}{10} \times 100 = \mathbf{70\%}$$
+4. Hence, the correct answer is **70%** (Option A).
+
+---
+
+### Question 33 [Source: `IMG_20210613_160039_416.jpg`]
+
+**Question Statement:**
+The financial records of a company from 2016 to 2020 are given below (in lakhs):
+
+| Year | Purchases | Sales | Salary Incurred |
+|:---:|:---:|:---:|:---:|
+| 2016 | 60 | 92 | 4.8 |
+| 2017 | 75 | 110 | 5.2 |
+| 2018 | 80 | 125 | 6.0 |
+| 2019 | 90 | 140 | 6.5 |
+| 2020 | 100 | 160 | 7.5 |
+
+If in the year 2016 the profit margin was 26%, find the total salary expenditure incurred across the 5 years.
+
+**Options:**
+- A) Rs. 30.0 lakhs
+- B) Rs. 32.5 lakhs
+- C) Rs. 28.0 lakhs
+- D) Rs. 35.0 lakhs
+
+**Correct Answer:** **A) Rs. 30.0 lakhs**
+
+**Mathematical & Logical Proof:**
+1. Sum the salary values across all 5 years:
+   $$\text{Total Salary} = 4.8 + 5.2 + 6.0 + 6.5 + 7.5 = 10.0 + 6.0 + 14.0 = \mathbf{30.0 \text{ lakhs}}$$
+2. Hence, the total salary expenditure is **Rs. 30.0 lakhs** (Option A).
+
+---
+
+### Question 34 [Source: `IMG_20210613_160025_239.jpg`]
+
+**Question Statement:**
+A school has 4 sections: A, B, C, and D. The results for 2 exams (Exam 1 and Exam 2) have been recorded for each section:
+
+| Section | Appeared in Exam 1 | Passed in Exam 1 | Appeared in Exam 2 | Passed in Exam 2 |
+|:---:|:---:|:---:|:---:|:---:|
+| A | 50 | 45 | 50 | 48 |
+| B | 60 | 48 | 60 | 54 |
+| C | 40 | 36 | 40 | 38 |
+| D | 50 | 40 | 50 | 42 |
+
+Which section has the highest overall pass percentage combining both exams?
+
+**Options:**
+- A) Section A
+- B) Section B
+- C) Section C
+- D) Section D
+
+**Correct Answer:** **A) Section A**
+
+**Mathematical & Logical Proof:**
+1. Calculate overall pass percentage for each section:
+   - Section A:
+     $$\text{Total Appeared} = 50 + 50 = 100, \quad \text{Total Passed} = 45 + 48 = 93$$
+     $$\text{Pass \%} = \frac{93}{100} \times 100 = \mathbf{93.0\%}$$
+   - Section B:
+     $$\text{Total Appeared} = 60 + 60 = 120, \quad \text{Total Passed} = 48 + 54 = 102$$
+     $$\text{Pass \%} = \frac{102}{120} \times 100 = \mathbf{85.0\%}$$
+   - Section C:
+     $$\text{Total Appeared} = 40 + 40 = 80, \quad \text{Total Passed} = 36 + 38 = 74$$
+     $$\text{Pass \%} = \frac{74}{80} \times 100 = \mathbf{92.5\%}$$
+   - Section D:
+     $$\text{Total Appeared} = 50 + 50 = 100, \quad \text{Total Passed} = 40 + 42 = 82$$
+     $$\text{Pass \%} = \frac{82}{100} \times 100 = \mathbf{82.0\%}$$
+2. Comparing overall pass percentages:
+   $$93.0\% (A) > 92.5\% (C) > 85.0\% (B) > 82.0\% (D)$$
+3. Section A achieves the strictly highest pass rate of **93.0%**.
+4. Hence, the correct section is **Section A** (Option A).
+
+---
+
+### Question 35 [Source: `IMG_20210613_155936_934.jpg`]
+
+**Question Statement:**
+In an evaluation of 200 students taking Exam A and Exam B:
+- Number of students passing in Exam A & B together: 80
+- Number of students passing in Exam A only: 50
+- Number of students passing in Exam B only: 40
+- Number of students failing in both exams: 30
+
+What percentage of students passed in at least one exam?
+
+**Options:**
+- A) 85%
+- B) 75%
+- C) 80%
+- D) 90%
+
+**Correct Answer:** **A) 85%**
+
+**Mathematical & Logical Proof:**
+1. By the Principle of Inclusion-Exclusion for sets:
+   $$\text{Passed in at least one exam} = n(A \cup B)$$
+   $$n(A \cup B) = n(A \text{ only}) + n(B \text{ only}) + n(A \cap B)$$
+2. Substitute the values:
+   $$n(A \cup B) = 50 + 40 + 80 = \mathbf{170}$$
+3. Verification with total students:
+   $$\text{Total} = n(A \cup B) + \text{Failed in both} = 170 + 30 = 200$$
+4. Calculate percentage:
+   $$\text{Percentage} = \frac{170}{200} \times 100 = \frac{17}{20} \times 100 = \mathbf{85\%}$$
+5. Hence, Option **A) 85%** is correct.

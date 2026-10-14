@@ -446,3 +446,72 @@ Hence, the two correct solutions are **(C)** and **(D)**.
    * Hence, the state where "All C is B" is a valid, non-contradictory possibility.
    * Therefore, Conclusion II is **TRUE**.
 Hence, **Only conclusion II follows** (Option C).
+
+---
+
+### Question 17 [Source: `IMG_20210613_160026_648.jpg`]
+
+**Question Statement:**
+In the question below, statements are given followed by two conclusions numbered I and II. You have to consider the statements to be true even if they seem to be at variance from commonly known facts, and decide which of the given conclusions logically follows.
+
+**Statements:**
+- Some doctors are followers.
+- Some followers are scientists.
+
+**Conclusions:**
+- I. Some teachers are doctors.
+- II. Some followers are scientists as well as doctors.
+
+**Options:**
+- A) Only conclusion I follows
+- B) Only conclusion II follows
+- C) Both conclusions I and II follow
+- D) Neither conclusion I nor conclusion II follows
+
+**Correct Answer:** **D) Neither conclusion I nor conclusion II follows**
+
+**Mathematical & Logical Proof:**
+1. Categorical Syllogism Analysis:
+   - Statement 1: $\text{Doctors} \cap \text{Followers} \ne \emptyset$ (Particular Affirmative - I-type).
+   - Statement 2: $\text{Followers} \cap \text{Scientists} \ne \emptyset$ (Particular Affirmative - I-type).
+2. Evaluate Conclusion I ("Some teachers are doctors"):
+   - The term "teachers" does not appear in any of the premises. An extraneous term cannot be concluded with certainty $\implies$ Conclusion I does not follow.
+3. Evaluate Conclusion II ("Some followers are scientists as well as doctors"):
+   - From two Particular premises (I + I), no definite conclusion can be drawn.
+   - The elements that are in the intersection of Doctors and Followers are not necessarily the same elements that are in the intersection of Followers and Scientists. The triple intersection $\text{Doctors} \cap \text{Followers} \cap \text{Scientists}$ may be empty.
+   - Thus, Conclusion II is only a possibility, not a definite necessity $\implies$ Conclusion II does not follow.
+4. Hence, **Neither conclusion I nor conclusion II follows** (Option D).
+
+---
+
+### Question 18 [Source: `IMG_20210613_160003_423.jpg`]
+
+**Question Statement:**
+In the question below, statements are given followed by conclusions. Decide which of the conclusions logically follow from the given statements.
+
+**Statements:**
+- All corrupt individuals are contractors.
+- Some contractors are honest.
+
+**Conclusions:**
+- I. Some contractors are corrupt.
+- II. Some honest individuals are contractors.
+
+**Options:**
+- A) Only conclusion I follows
+- B) Only conclusion II follows
+- C) Both conclusions I and II follow
+- D) Neither conclusion I nor conclusion II follows
+
+**Correct Answer:** **C) Both conclusions I and II follow**
+
+**Mathematical & Logical Proof:**
+1. Representation using Predicate Logic:
+   - Statement 1: $\forall x (\text{Corrupt}(x) \implies \text{Contractor}(x))$
+     - By standard subalternation/conversion of Universal Affirmative (A-type): "All A are B" implies "Some B are A".
+     - Thus: $\exists x (\text{Contractor}(x) \land \text{Corrupt}(x))$ $\implies$ **Conclusion I follows**.
+   - Statement 2: $\text{Contractors} \cap \text{Honest} \ne \emptyset$
+     - Simple conversion of Particular Affirmative (I-type): "Some A are B" implies "Some B are A".
+     - Thus: $\text{Honest} \cap \text{Contractors} \ne \emptyset$ $\implies$ **Conclusion II follows**.
+2. Both Conclusion I and Conclusion II follow with 100% deductive validity.
+3. Hence, **Both conclusions I and II follow** (Option C).

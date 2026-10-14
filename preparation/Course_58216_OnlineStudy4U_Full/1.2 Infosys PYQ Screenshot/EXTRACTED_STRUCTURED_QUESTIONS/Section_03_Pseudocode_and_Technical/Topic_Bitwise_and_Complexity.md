@@ -79,3 +79,31 @@ int func(int n)
 * Recurrence relation: $T(n) = 2T(n - 1) + O(1)$.
 * Expanding: $T(n) = 2(2T(n - 2)) = 4T(n - 2) = 2^k T(n - k)$.
 * When $k = n$, $T(n) = 2^n T(0) = O(2^n)$.
+
+---
+
+### Question 3 [Source: `IMG_20210613_155952_963.jpg`]
+
+**Question Statement:**
+Choose the correct option. Akshay has a Heap of 15 elements. He stores this Heap as an Array Arr. The starting index of Arr is 1. Which subarray of this Array stores the leaves of the Heap?
+
+**Options:**
+- A) Arr[8..15]
+- B) Arr[7..15]
+- C) Arr[10..15]
+- D) Data Insufficient
+
+**Correct Answer:** **A) Arr[8..15]**
+
+**Mathematical & Computer Science Proof:**
+1. In a complete binary tree/heap with $n$ elements stored in a 1-based indexing array $Arr[1 \dots n]$:
+   - For any node at index $i$, its left child is located at $2i$ and its right child at $2i + 1$.
+   - A node $i$ has children if and only if $2i \le n$, which implies $i \le \lfloor n/2 \rfloor$.
+   - Thus, internal (non-leaf) nodes occupy indices $1, 2, \dots, \lfloor n/2 \rfloor$.
+2. Leaf nodes have no children and therefore occupy all indices $i > \lfloor n/2 \rfloor$, which corresponds to:
+   $$\left\lfloor \frac{n}{2} \right\rfloor + 1 \le i \le n$$
+3. Substituting $n = 15$:
+   $$\left\lfloor \frac{15}{2} \right\rfloor = 7$$
+   - Internal nodes: $Arr[1..7]$
+   - Leaf nodes: $Arr[7 + 1 .. 15] = \mathbf{Arr[8..15]}$
+4. Hence, the leaves are stored in subarray **Arr[8..15]** (Option A).

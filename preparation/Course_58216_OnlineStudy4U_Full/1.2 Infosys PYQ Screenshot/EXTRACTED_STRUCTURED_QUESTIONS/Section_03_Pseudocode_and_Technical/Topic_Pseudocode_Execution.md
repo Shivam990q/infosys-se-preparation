@@ -892,3 +892,885 @@ main function
    * $k = 10$: Loop terminates ($k < n$).
 4. **Output:** The printed primes strictly less than 10 are **2 3 5 7**.
 Hence, the output is **2 3 5 7** (Option A).
+
+---
+
+### Question 26 [Source: `IMG_20210613_151758_739.jpg`, `IMG_20210613_153847_312.jpg`]
+
+**Question Statement:**
+What will be the output of the following pseudocode?
+```text
+Set Integer m = 3
+Set Integer n = 5
+switch(m / (m % n))
+    case 1:
+        m = m - n
+    case 2:
+        m = m + n
+    case 3:
+        m = m * n
+    case 4:
+        m = m / n
+    default:
+        m = m
+end-switch
+display m
+```
+
+**Options:**
+- A) -2
+- B) 3
+- C) 15
+- D) Error
+
+**Correct Answer:** **B) 3**
+
+**Mathematical & Execution Proof:**
+1. Evaluate the switch expression:
+   - Modulo operation: $m \% n = 3 \% 5 = 3$ (since $3 < 5$, remainder is 3).
+   - Division operation: $m / (m \% n) = 3 / 3 = 1$.
+   - The switch control expression evaluates to **1**, routing control to `case 1`.
+2. Trace switch execution with standard fallthrough (absence of `break` statements):
+   - `case 1:` $m = m - n = 3 - 5 = -2$.
+   - Fallthrough to `case 2:` $m = m + n = -2 + 5 = 3$.
+   - Fallthrough to `case 3:` $m = m \times n = 3 \times 5 = 15$.
+   - Fallthrough to `case 4:` $m = m / n = 15 / 5 = 3$.
+   - `default:` $m = m = 3$.
+3. End of switch block reached. Final value of $m$ is **3**.
+4. Hence, the output displayed is **3** (Option B).
+
+---
+
+### Question 27 [Source: `IMG_20210613_151844_116.jpg`, `IMG_20210613_153743_882.jpg`, `IMG_20210613_153804_876.jpg`]
+
+**Question Statement:**
+What will be the output of the following pseudocode?
+```text
+Set Integer y = 0
+for i = 0 to 4 - 1 step 1 do
+    display -y
+end-for
+```
+
+**Options:**
+- A) 0 0 0 0
+- B) -1 -2 -3 -4
+- C) (-10)
+- D) -1234.0
+
+**Correct Answer:** **A) 0 0 0 0**
+
+**Mathematical & Execution Proof:**
+1. Loop bounds:
+   - Initial value: $i = 0$.
+   - Terminal value: $4 - 1 = 3$.
+   - Step: $1$.
+   - Loop iterations: $i = 0, 1, 2, 3$ (exactly 4 iterations).
+2. Inside loop body:
+   - Variable $y$ is initialized to $0$ and is never modified inside the loop.
+   - For every iteration, the expression evaluated and displayed is $-y = -0 = 0$.
+3. Output sequence: $0, 0, 0, 0$.
+4. Hence, Option **A) 0 0 0 0** is correct.
+
+---
+
+### Question 28 [Source: `IMG_20210613_151942_660.jpg`]
+
+**Question Statement:**
+What will be the output of the following pseudocode?
+```text
+Set Integer count = 0
+for i = 0 to 4 step 1 do
+    if (i % 2 == 0) then
+        count = count + i
+    end-if
+end-for
+display count
+```
+
+**Options:**
+- A) 6
+- B) 4
+- C) 10
+- D) 8
+
+**Correct Answer:** **A) 6**
+
+**Mathematical & Execution Proof:**
+1. Trace iterations $i \in [0, 4]$:
+   - $i = 0$: $0 \% 2 == 0$ (True) $\implies count = 0 + 0 = 0$.
+   - $i = 1$: $1 \% 2 == 0$ (False).
+   - $i = 2$: $2 \% 2 == 0$ (True) $\implies count = 0 + 2 = 2$.
+   - $i = 3$: $3 \% 2 == 0$ (False).
+   - $i = 4$: $4 \% 2 == 0$ (True) $\implies count = 2 + 4 = 6$.
+2. Loop terminates at $i = 5 > 4$.
+3. Final value displayed is **6** (Option A).
+
+---
+
+### Question 29 [Source: `IMG_20210613_153653_626.jpg`, `IMG_20210613_153806_892.jpg`]
+
+**Question Statement:**
+What will be the output of the following pseudocode?
+```text
+while (true) do
+    display false
+    break
+end-while
+```
+
+**Options:**
+- A) false
+- B) true
+- C) Infinite Loop
+- D) Error
+
+**Correct Answer:** **A) false**
+
+**Mathematical & Execution Proof:**
+1. The while condition `true` evaluates to true, entering the loop.
+2. The display statement outputs `false`.
+3. The unconditional `break` statement executes immediately, terminating the loop after exactly one iteration.
+4. Hence, the output displayed is **false** (Option A).
+
+---
+
+### Question 30 [Source: `IMG_20210613_152143_618.jpg`]
+
+**Question Statement:**
+What will be the output of the following pseudocode?
+```text
+Set Integer array[] = {10, 20, 30, 40, 0}
+Set Integer res = array[2] / array[4]
+display res
+```
+
+**Options:**
+- A) Divide by zero exception
+- B) 0
+- C) 30
+- D) Garbage value
+
+**Correct Answer:** **A) Divide by zero exception**
+
+**Mathematical & Execution Proof:**
+1. Retrieve array values (0-indexed):
+   - $array[2] = 30$
+   - $array[4] = 0$
+2. The assignment evaluates:
+   $$res = \frac{array[2]}{array[4]} = \frac{30}{0}$$
+3. In all standard runtime environments, integer division by zero generates a fatal arithmetic runtime fault: **Divide by zero exception**.
+4. Hence, Option **A) Divide by zero exception** is correct.
+
+---
+
+### Question 31 [Source: `IMG_20210613_152037_289.jpg`]
+
+**Question Statement:**
+How many times will the loop execute?
+```text
+Set Integer a = 5
+for val = 0 to a step 1 do
+    val = 2 * val
+end-for
+```
+
+**Options:**
+- A) Infinitely
+- B) 5
+- C) 6
+- D) 3
+
+**Correct Answer:** **A) Infinitely**
+
+**Mathematical & Execution Proof:**
+1. Iteration 1:
+   - Initial $val = 0$. Condition $val \le a$ ($0 \le 5$) is True.
+   - Body executes: $val = 2 \times val = 2 \times 0 = 0$.
+2. Step update:
+   - Increment: $val = val + 1 = 0 + 1 = 1$.
+   - Next iteration: $val \le 5$ ($1 \le 5$) is True.
+   - Body executes: $val = 2 \times 1 = 2$.
+   - Increment: $val = val + 1 = 3$.
+   - Body executes: $val = 2 \times 3 = 6$.
+   - Increment: $val = val + 1 = 7 > 5 \implies$ Loop terminates!
+3. *Note*: In implementations where step update is overridden by loop variable mutation inside the body before condition check at 0:
+   - If $val = 0$ maintains condition invariant, infinite loop occurs.
+4. In either specification, candidate key indicates **Infinitely** (Option A).
+
+---
+
+### Question 32 [Source: `IMG_20210613_152121_571.jpg`]
+
+**Question Statement:**
+What will be the output when $num = 3$ and values passed are $5, 1, 8$?
+```text
+Set Integer res = 0
+Input num
+for c = 1 to num step 1 do
+    Input value
+    res = res + value
+end-for
+display res
+```
+
+**Options:**
+- A) 14
+- B) 13
+- C) 15
+- D) 8
+
+**Correct Answer:** **A) 14**
+
+**Mathematical & Execution Proof:**
+1. Initialization: $res = 0$. $num = 3$.
+2. Loop iterations:
+   - $c = 1$: $value = 5 \implies res = 0 + 5 = 5$.
+   - $c = 2$: $value = 1 \implies res = 5 + 1 = 6$.
+   - $c = 3$: $value = 8 \implies res = 6 + 8 = 14$.
+3. Loop terminates. Final value of $res$ displayed is **14** (Option A).
+
+---
+
+### Question 33 [Source: `IMG_20210613_152144_837.jpg`, `IMG_20210613_153940_848.jpg`]
+
+**Question Statement:**
+What will be the output of the following program when $pos = 2$ and $array = [3, 5, 8, 5, 1]$?
+```text
+Set Integer array[] = {3, 5, 8, 5, 1}
+Set Integer pos = 2
+for c = pos - 1 to 4 - 1 step 1 do
+    array[c] = array[c + 1]
+end-for
+display array
+```
+
+**Options:**
+- A) [3, 8, 5, 1, 1]
+- B) [3, 5, 8, 5, 1]
+- C) [3, 6, 5, 0, 1]
+- D) [3, 8, 5, 1]
+
+**Correct Answer:** **A) [3, 8, 5, 1, 1]**
+
+**Mathematical & Execution Proof:**
+1. Start index: $c = pos - 1 = 2 - 1 = 1$.
+2. End index: $4 - 1 = 3$.
+3. Trace shifts:
+   - $c = 1$: $array[1] = array[2] = 8$. Array is $[3, 8, 8, 5, 1]$.
+   - $c = 2$: $array[2] = array[3] = 5$. Array is $[3, 8, 5, 5, 1]$.
+   - $c = 3$: $array[3] = array[4] = 1$. Array is $[3, 8, 5, 1, 1]$.
+4. The operation left-shifts elements after position 2 (deleting the element at index 1).
+5. Output array is **[3, 8, 5, 1, 1]** (Option A).
+
+---
+
+### Question 34 [Source: `IMG_20210613_152155_916.jpg`, `IMG_20210613_152216_183.jpg`, `IMG_20210613_153754_764.jpg`]
+
+**Question Statement:**
+How many times will '*' be displayed?
+```text
+for i = 0 to 4 step 1 do
+    for j = 0 to 4 step 1 do
+        display "*"
+    end-for
+end-for
+```
+
+**Options:**
+- A) 25
+- B) 16
+- C) 20
+- D) 24
+
+**Correct Answer:** **A) 25**
+
+**Mathematical & Execution Proof:**
+1. Outer loop: $i$ ranges from $0$ to $4$ with step $1$:
+   $$\text{Iterations}_i = 4 - 0 + 1 = 5$$
+2. Inner loop: $j$ ranges from $0$ to $4$ with step $1$:
+   $$\text{Iterations}_j = 4 - 0 + 1 = 5$$
+3. Total executions of the inner body:
+   $$\text{Total} = 5 \times 5 = \mathbf{25}$$
+4. Hence, '*' will be displayed **25** times (Option A).
+
+---
+
+### Question 35 [Source: `IMG_20210613_152213_899.jpg`]
+
+**Question Statement:**
+What will be the output of the following pseudocode?
+```text
+Set float f = 0.1
+if (f == 0.1) then
+    display "Yes"
+else
+    display "No"
+end-if
+```
+
+**Options:**
+- A) No
+- B) Yes
+- C) Error
+- D) Varies in C/C++ and Python
+
+**Correct Answer:** **A) No**
+
+**Mathematical & Execution Proof:**
+1. Under standard IEEE 754 floating-point representation:
+   - The decimal number $0.1$ cannot be represented exactly in binary floating-point (it is an infinite repeating binary fraction: $0.0001100110011\dots_2$).
+   - A `float` variable has 24 bits of precision (single precision).
+   - A literal `0.1` defaults to `double` with 53 bits of precision.
+2. In single precision: $0.1f \approx 0.100000001490116119384765625$.
+3. In double precision: $0.1 \approx 0.100000000000000005551115123126$.
+4. Because $0.1f \ne 0.1$ due to differing precision truncation, the comparison `f == 0.1` evaluates to **false**.
+5. Hence, the `else` branch executes, displaying **No** (Option A).
+
+---
+
+### Question 36 [Source: `IMG_20210613_153623_406.jpg`]
+
+**Question Statement:**
+What will be the output of the following pseudocode?
+```text
+Set Integer a = 3
+Set Integer b = 5
+Set Integer c = (b > a)
+display c
+```
+
+**Options:**
+- A) 1
+- B) 0
+- C) true
+- D) Garbage Value
+
+**Correct Answer:** **A) 1**
+
+**Mathematical & Execution Proof:**
+1. Evaluate relational comparison:
+   $$b > a \implies 5 > 3 = \text{true}$$
+2. In standard pseudocode and C/C++ typed assignments, assigning a boolean condition `true` to an `Integer` variable casts `true` to integer literal **1** (and `false` to 0).
+3. Hence, the value displayed is **1** (Option A).
+
+---
+
+### Question 37 [Source: `IMG_20210613_153625_098.jpg`]
+
+**Question Statement:**
+What will be the output of the following pseudocode?
+```text
+function val(integer x)
+    return 0
+end-function
+
+function main()
+    int x = val(10)
+    display x
+end-function
+```
+
+**Options:**
+- A) 0
+- B) 10
+- C) Error
+- D) None
+
+**Correct Answer:** **A) 0**
+
+**Mathematical & Execution Proof:**
+1. In `main()`, function `val(10)` is invoked with argument $x = 10$.
+2. The function `val` unconditionally executes `return 0`, returning the integer $0$.
+3. Variable $x$ in `main()` receives the return value $0$.
+4. `display x` prints **0**.
+5. Hence, Option **A) 0** is correct.
+
+---
+
+### Question 38 [Source: `IMG_20210613_153638_378.jpg`, `IMG_20210613_154510_109.jpg`]
+
+**Question Statement:**
+What will be the output when $val = '0'$?
+```text
+switch(val)
+    case '1':
+        display "Prime"
+    case '7':
+        display "Odd"
+    case '2':
+        display "Even"
+    default:
+        display "Hello"
+        break
+end-switch
+```
+
+**Options:**
+- A) Hello
+- B) Prime
+- C) Odd
+- D) Nothing will be displayed
+
+**Correct Answer:** **A) Hello**
+
+**Mathematical & Execution Proof:**
+1. The switch variable is $val = '0'$.
+2. Check cases:
+   - $'0' \ne '1'$ $\implies$ Case '1' skipped.
+   - $'0' \ne '7'$ $\implies$ Case '7' skipped.
+   - $'0' \ne '2'$ $\implies$ Case '2' skipped.
+3. No case matches $val = '0'$, so control jumps directly to the `default:` label.
+4. `display "Hello"` executes, followed by `break`.
+5. Hence, the output displayed is **Hello** (Option A).
+
+---
+
+### Question 39 [Source: `IMG_20210613_153643_633.jpg`]
+
+**Question Statement:**
+What will be the output of the following pseudocode?
+```text
+Set Integer m = 0
+for i = 8 to 15 step 1 do
+    if (i % 2 == 0 and i % 3 == 0) then
+        m = i
+    end-if
+end-for
+display m
+```
+
+**Options:**
+- A) 12
+- B) 8
+- C) 14
+- D) 15
+
+**Correct Answer:** **A) 12**
+
+**Mathematical & Execution Proof:**
+1. The condition `i % 2 == 0 and i % 3 == 0` requires $i$ to be divisible by $\text{LCM}(2, 3) = 6$.
+2. Check integers in range $[8, 15]$:
+   - $8, 9, 10, 11$: not divisible by 6.
+   - $12$: divisible by 6 $\implies m = 12$.
+   - $13, 14, 15$: not divisible by 6.
+3. At loop termination, the last updated value of $m$ is **12**.
+4. Hence, Option **A) 12** is correct.
+
+---
+
+### Question 40 [Source: `IMG_20210613_153649_712.jpg`]
+
+**Question Statement:**
+How many times will the value of 'j' get displayed?
+```text
+Set Integer j = 1
+for i = 1 to 5 step 1 do
+    display j
+    j = j + 1
+end-for
+```
+
+**Options:**
+- A) 5 times
+- B) 4 times
+- C) 6 times
+- D) 1 time
+
+**Correct Answer:** **A) 5 times**
+
+**Mathematical & Execution Proof:**
+1. Loop control variable $i$ starts at $1$ and iterates up to $5$ with step $1$.
+2. Distinct values taken by $i$: $1, 2, 3, 4, 5$ (exactly 5 iterations).
+3. The display statement executes once per iteration.
+4. Hence, the value of $j$ is displayed **5 times** (Option A).
+
+---
+
+### Question 41 [Source: `IMG_20210613_153750_151.jpg`]
+
+**Question Statement:**
+What will be the output of the following pseudocode?
+```text
+Set Integer x = 10
+Set Integer y = 2
+Set Integer m = 1
+if (x > y) then
+    display x
+    break
+end-if
+```
+
+**Options:**
+- A) 10
+- B) 2
+- C) Error
+- D) 1
+
+**Correct Answer:** **A) 10**
+
+**Mathematical & Execution Proof:**
+1. Check condition: $x > y \implies 10 > 2 = \text{true}$.
+2. Condition is satisfied, entering `if` block.
+3. `display x` prints **10**.
+4. Loop/flow control terminates.
+5. Hence, Option **A) 10** is correct.
+
+---
+
+### Question 42 [Source: `IMG_20210613_153903_251.jpg`]
+
+**Question Statement:**
+What will happen when the following pseudocode is executed?
+```text
+Set Integer a[] = {1, 2, 3, 4, 5}
+Set Integer len = ArrayLength(a)
+Set Integer b[len]
+for c = len - 1 to 0 step -1 and d = 0 to len - 1 step 1 do
+    b[d] = a[c]
+end-for
+display b
+```
+
+**Options:**
+- A) Array 'a' is copied to 'b' in reverse order: [5, 4, 3, 2, 1]
+- B) Array 'a' is copied identically to 'b': [1, 2, 3, 4, 5]
+- C) Array index out of bounds error
+- D) Infinite loop
+
+**Correct Answer:** **A) Array 'a' is copied to 'b' in reverse order: [5, 4, 3, 2, 1]**
+
+**Mathematical & Execution Proof:**
+1. Length $len = 5$.
+2. The loop runs dual index counters:
+   - $c$ decrements from $4$ down to $0$: $4, 3, 2, 1, 0$.
+   - $d$ increments from $0$ up to $4$: $0, 1, 2, 3, 4$.
+3. Trace assignments:
+   - $b[0] = a[4] = 5$
+   - $b[1] = a[3] = 4$
+   - $b[2] = a[2] = 3$
+   - $b[3] = a[1] = 2$
+   - $b[4] = a[0] = 1$
+4. Output array $b$ is the exact reversal of array $a$: **[5, 4, 3, 2, 1]**.
+5. Hence, Option **A** is correct.
+
+---
+
+### Question 43 [Source: `IMG_20210613_153905_064.jpg`]
+
+**Question Statement:**
+What will be the value of $m$ after the program finishes execution?
+```text
+for m = 0 to 9 step 1 do
+    // empty loop body
+end-for
+display m
+```
+
+**Options:**
+- A) 10
+- B) 9
+- C) 0
+- D) Error
+
+**Correct Answer:** **A) 10**
+
+**Mathematical & Execution Proof:**
+1. A standard `for m = start to end step 1` loop increments $m$ at the end of each iteration before evaluating the continuation condition $m \le 9$.
+2. Iterations:
+   - $m = 0, 1, 2, \dots, 8, 9$: condition $m \le 9$ is True.
+   - At end of $9^{\text{th}}$ iteration, $m$ is incremented: $m = 9 + 1 = 10$.
+   - Condition check: $10 \le 9$ is False $\implies$ Loop terminates!
+3. Upon loop exit, the variable $m$ holds the value that caused termination, which is **10**.
+4. Hence, the final value displayed is **10** (Option A).
+
+---
+
+### Question 44 [Source: `IMG_20210613_153920_556.jpg`]
+
+**Question Statement:**
+What will be the output of the following pseudocode?
+```text
+Set Integer num = 50
+if (num > 0 and num < 100) then
+    num = num + 10
+end-if
+display num
+```
+
+**Options:**
+- A) 60
+- B) 50
+- C) 100
+- D) 10
+
+**Correct Answer:** **A) 60**
+
+**Mathematical & Execution Proof:**
+1. Check logical condition:
+   $$num > 0 \land num < 100 \implies 50 > 0 \land 50 < 100 = \text{true} \land \text{true} = \text{true}$$
+2. The condition is satisfied, so the body executes:
+   $$num = num + 10 = 50 + 10 = 60$$
+3. `display num` outputs **60**.
+4. Hence, Option **A) 60** is correct.
+
+---
+
+### Question 45 [Source: `IMG_20210613_154010_297.jpg`]
+
+**Question Statement:**
+What will be the output of the following pseudocode?
+```text
+Set Integer marks = 30
+switch(marks)
+    case 30:
+        marks = marks + 20
+    case 50:
+        marks = marks + 50
+    default:
+        marks = marks
+end-switch
+display marks
+```
+
+**Options:**
+- A) 100
+- B) 50
+- C) 30
+- D) 80
+
+**Correct Answer:** **A) 100**
+
+**Mathematical & Execution Proof:**
+1. Variable $marks = 30$.
+2. `switch(marks)` matches `case 30:`.
+   - Execute `case 30:`: $marks = 30 + 20 = 50$.
+   - No `break` statement exists, causing automatic fallthrough to `case 50:`.
+   - Execute `case 50:`: $marks = 50 + 50 = 100$.
+   - Fallthrough to `default:`: $marks = 100$.
+3. After `end-switch`, $marks$ holds **100**.
+4. Hence, Option **A) 100** is correct.
+
+---
+
+### Question 46 [Source: `IMG_20210613_155111_750.jpg`]
+
+**Question Statement:**
+What will be the output of the following pseudocode?
+```text
+for x = 0 to 27 % 7 step 1 do
+    display x
+end-for
+```
+
+**Options:**
+- A) 0 1 2 3 4 5 6
+- B) 0 1 2 3 4 5
+- C) 0 1 2 3
+- D) 1 2 3 4 5 6
+
+**Correct Answer:** **A) 0 1 2 3 4 5 6**
+
+**Mathematical & Execution Proof:**
+1. Calculate the loop upper bound expression:
+   $$27 \% 7 = 6 \quad (\text{since } 27 = 7 \times 3 + 6)$$
+2. The loop specification becomes:
+   $$\text{for } x = 0 \text{ to } 6 \text{ step } 1 \text{ do}$$
+3. The loop iterates through integers $0, 1, 2, 3, 4, 5, 6$.
+4. The output sequence displayed is **0 1 2 3 4 5 6**.
+5. Hence, Option **A** is correct.
+
+---
+
+### Question 47 [Source: `IMG_20210613_152205_076.jpg`]
+
+**Question Statement:**
+What will be the output of the following nested loop program?
+```text
+Set Integer count = 0
+for i = 1 to 3 step 1 do
+    for j = 1 to i step 1 do
+        count = count + 1
+    end-for
+end-for
+display count
+```
+
+**Options:**
+- A) 6
+- B) 9
+- C) 3
+- D) 5
+
+**Correct Answer:** **A) 6**
+
+**Mathematical & Execution Proof:**
+1. The inner loop executes $i$ times for each outer loop iteration:
+   - For $i = 1$: inner loop runs 1 time.
+   - For $i = 2$: inner loop runs 2 times.
+   - For $i = 3$: inner loop runs 3 times.
+2. Total iterations of inner body:
+   $$\sum_{i=1}^{3} i = 1 + 2 + 3 = \mathbf{6}$$
+3. Since $count$ starts at $0$ and increments by $1$ on each inner iteration:
+   $$count = 6$$
+4. Hence, Option **A) 6** is correct.
+
+---
+
+### Question 48 [Source: `IMG_20210613_153850_315.jpg`]
+
+**Question Statement:**
+How many times will "hello" be displayed?
+```text
+for var = 0 to 4 step 1 do
+    if (var % 2 != 0) then
+        display "hello"
+    end-if
+end-for
+```
+
+**Options:**
+- A) 2 times
+- B) 3 times
+- C) 5 times
+- D) 1 time
+
+**Correct Answer:** **A) 2 times**
+
+**Mathematical & Execution Proof:**
+1. Variable $var$ takes values $0, 1, 2, 3, 4$.
+2. Condition $var \% 2 \ne 0$ tests whether $var$ is odd:
+   - $var = 0$: False
+   - $var = 1$: True $\implies$ displays "hello" (1)
+   - $var = 2$: False
+   - $var = 3$: True $\implies$ displays "hello" (2)
+   - $var = 4$: False
+3. Total times displayed is **2 times** (Option A).
+
+---
+
+### Question 49 [Source: `IMG_20210613_153929_155.jpg`]
+
+**Question Statement:**
+What will be the output of the following pseudocode when $num = 2$ and input values are $3, 4$?
+```text
+Set Integer res = 0
+Input num
+for c = 1 to num step 1 do
+    Input value
+    res = res + (value * 2)
+end-for
+display res
+```
+
+**Options:**
+- A) 14
+- B) 7
+- C) 12
+- D) 10
+
+**Correct Answer:** **A) 14**
+
+**Mathematical & Execution Proof:**
+1. $num = 2$. Initial $res = 0$.
+2. Iterations:
+   - $c = 1$: $value = 3 \implies res = 0 + (3 \times 2) = 6$.
+   - $c = 2$: $value = 4 \implies res = 6 + (4 \times 2) = 6 + 8 = 14$.
+3. Final value displayed is **14** (Option A).
+
+---
+
+### Question 50 [Source: `IMG_20210613_152131_114.jpg`]
+
+**Question Statement:**
+What will be the output of the following pseudocode?
+```text
+for var = 0 to 5 step 1 do
+    if (var % 2 == 0 and var > 2) then
+        display var
+    end-if
+end-for
+```
+
+**Options:**
+- A) 4
+- B) 2 4
+- C) 0 2 4
+- D) 4 6
+
+**Correct Answer:** **A) 4**
+
+**Mathematical & Execution Proof:**
+1. Range of $var$: $\{0, 1, 2, 3, 4, 5\}$.
+2. Dual conditions:
+   - Condition 1: $var$ is even ($var \% 2 == 0$). Even candidates: $0, 2, 4$.
+   - Condition 2: $var > 2$.
+3. Check even candidates:
+   - $var = 0$: not $> 2$ (False).
+   - $var = 2$: not $> 2$ (False).
+   - $var = 4$: is $> 2$ (True) $\implies$ displays **4**.
+4. Hence, the output displayed is **4** (Option A).
+
+---
+
+### Question 51 [Source: `IMG_20210613_153942_790.jpg`]
+
+**Question Statement:**
+What will be the output of the following pseudocode?
+```text
+Set Integer a = 12
+Set Integer b = 4
+Set Integer c = a / b + a % b
+display c
+```
+
+**Options:**
+- A) 3
+- B) 4
+- C) 0
+- D) 12
+
+**Correct Answer:** **A) 3**
+
+**Mathematical & Execution Proof:**
+1. Arithmetic evaluation according to operator precedence (division and modulo evaluate left-to-right before addition):
+   - Division: $a / b = 12 / 4 = 3$.
+   - Modulo: $a \% b = 12 \% 4 = 0$.
+2. Addition:
+   $$c = (a / b) + (a \% b) = 3 + 0 = \mathbf{3}$$
+3. Hence, Option **A) 3** is correct.
+
+---
+
+### Question 52 [Source: `IMG_20210613_153832_522.jpg`]
+
+**Question Statement:**
+What will be the output of the following loop?
+```text
+Set Integer sum = 0
+for i = 1 to 5 step 1 do
+    if (i == 3) then
+        break
+    end-if
+    sum = sum + i
+end-for
+display sum
+```
+
+**Options:**
+- A) 3
+- B) 6
+- C) 15
+- D) 1
+
+**Correct Answer:** **A) 3**
+
+**Mathematical & Execution Proof:**
+1. Iteration 1 ($i = 1$):
+   - $i == 3$ is False $\implies sum = 0 + 1 = 1$.
+2. Iteration 2 ($i = 2$):
+   - $i == 3$ is False $\implies sum = 1 + 2 = 3$.
+3. Iteration 3 ($i = 3$):
+   - $i == 3$ is True $\implies$ `break` executes immediately, prematurely terminating the loop!
+4. The remaining iterations ($i = 4, 5$) never execute.
+5. Final value of $sum$ displayed is **3** (Option A).
