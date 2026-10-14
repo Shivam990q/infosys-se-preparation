@@ -442,4 +442,4 @@ Clockwise: Right
 Anticlockwise: left 
  
 Blood Relations: 
-Relations of Paternal side: 
+Relations of Paternal side:
