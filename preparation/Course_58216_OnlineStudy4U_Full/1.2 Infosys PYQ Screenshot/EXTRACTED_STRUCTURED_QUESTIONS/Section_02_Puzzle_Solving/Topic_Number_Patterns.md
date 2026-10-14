@@ -27,28 +27,43 @@
 Hence, the missing number is **162**.
 ---
 
-### Question 2 [Source: `photo_967@28-10-2024_22-33-04.jpg`, `photo_986@28-10-2024_22-33-04.jpg`]
-**Question:** Given is a set of four numbers that relate to each other in a certain logic. Assume the third set works just like the first two sets:
-* **Set 1:** $(3, 9, 27, 81)$
-* **Set 2:** $(2, 8, 32, 128)$
-* **Set 3:** $(4, 16, 64, ?)$
+### Question 2 [Source: `photo_986@28-10-2024_22-34-34.jpg`]
+**Question:** Given is a set of four numbers that relate to each other in a certain way. Determine the missing number in the third set.  
+*(Note: Assume the third set also works in the same way as the first and the second set).* `[3 Marks]`
 
-**Answer Options:**
-* **(A)** 216
-* **(B)** 256
-* **(C)** 512
-* **(D)** 1024
+**Sets of 2x2 Grids (Clean Redraw from Screenshot Pixels):**
+```text
+  [ Set 1 (2x2) ]          [ Set 2 (2x2) ]          [ Set 3 (2x2) ]
+  +----+----+              +----+----+              +----+----+
+  |  2 |  6 |              |  3 |  5 |              |  4 |  2 |
+  +----+----+              +----+----+              +----+----+
+  |  7 |  2 |              |  7 |  5 |              |  ? |  6 |
+  +----+----+              +----+----+              +----+----+
+```
 
-**Correct Answer:** **(B) 256**  
-**Mathematical Solution:**
-* **Set 1:** Powers of 3: $3^1 = 3, 3^2 = 9, 3^3 = 27, 3^4 = 81$ (Common ratio $= 3$).
-* **Set 2:** Powers of 2 (shifted): $2 \times 4 = 8, 8 \times 4 = 32, 32 \times 4 = 128$ (Common ratio $= 4$).
-* **Set 3:** Geometric series with initial term $a = 4$ and common ratio $r = 4$:
-  * Term 1: $4$
-  * Term 2: $4 \times 4 = 16$
-  * Term 3: $16 \times 4 = 64$
-  * Term 4: $64 \times 4 = \mathbf{256}$
-Hence, the missing value is **256**.
+**Answer Options (Verified from Screenshot Pixels):**
+* **(A)** 2
+* **(B)** 8
+* **(C)** 1
+* **(D)** 3
+
+**Correct Answer:** **(D) 3**  
+**Mathematical Proof & Column Sum Differential Pattern:**
+* Let each 2x2 matrix have entries:
+  $$\begin{bmatrix} a & b \\ c & d \end{bmatrix}$$
+* Calculate the difference between the left column sum $(a + c)$ and the right column sum $(b + d)$:
+  $$\Delta = (a + c) - (b + d)$$
+* **Evaluating Set 1:**
+  $$\Delta_1 = (2 + 7) - (6 + 2) = 9 - 8 = \mathbf{+1}$$
+* **Evaluating Set 2:**
+  $$\Delta_2 = (3 + 7) - (5 + 5) = 10 - 10 = \mathbf{0}$$
+* **Evaluating Set 3:**
+  The column sum differential progression forms an arithmetic progression $+1, 0, -1$:
+  $$\Delta_3 = (4 + ?) - (2 + 6) = (4 + ?) - 8 = \mathbf{-1}$$
+  $$(4 + ?) - 8 = -1$$
+  $$4 + ? = 7$$
+  $$? = 7 - 4 = \mathbf{3}$$
+* Matches Option **(D) 3** with 100% precision.
 
 ---
 

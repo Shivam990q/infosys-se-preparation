@@ -1,7 +1,7 @@
 # Section - Verbal Ability
 ## Topic - Reading Comprehension
 
-> **Source Vault:** `1.2.1Infosys PYQ Screenshots- PART1` (`photo_1041`, `photo_1046`, `photo_1057`, `photo_1059`, `photo_1062`, `photo_1064`, `photo_1068`, `photo_1071`, `photo_1073`, `photo_1075`, `photo_1078`, `photo_1079`, `photo_1084`)  
+> **Source Vault:** `1.2.1Infosys PYQ Screenshots- PART1` (`photo_1041@28-10-2024_22-34-35.jpg`, `photo_1046@28-10-2024_22-34-35.jpg`, `photo_1057@28-10-2024_22-34-35.jpg`, `photo_1059@28-10-2024_22-34-35.jpg`, `photo_1062@28-10-2024_22-34-35.jpg`, `photo_1064@28-10-2024_22-34-35.jpg`, `photo_1068@28-10-2024_22-34-35.jpg`, `photo_1071@28-10-2024_22-34-35.jpg`, `photo_1073@28-10-2024_22-34-35.jpg`, `photo_1075@28-10-2024_22-34-35.jpg`, `photo_1077@28-10-2024_22-34-35.jpg`, `photo_1078@28-10-2024_22-34-35.jpg`, `photo_1079@28-10-2024_22-34-35.jpg`, `photo_1084@28-10-2024_22-36-28.jpg, photo_1084@28-10-2024_22-36-28(1).jpg`)  
 > **Print Optimization:** Compact 2-column density compatible, structured passage paragraphs, exhaustive question set with forensic answer keys.
 
 ---
@@ -23,7 +23,7 @@
 
 ---
 
-#### Question 1 [Source: `photo_1068@28-10-2024_22-34-35.jpg`, `photo_1071@28-10-2024_22-34-34.jpg`]
+#### Question 1 [Source: `photo_1068@28-10-2024_22-34-35.jpg@28-10-2024_22-34-35.jpg`, `photo_1071@28-10-2024_22-34-35.jpg@28-10-2024_22-34-35.jpg`]
 **Question:** According to the passage, what is the very first step a candidate should take when initiating IELTS preparation?
 
 **Answer Options:**
@@ -37,7 +37,7 @@
 
 ---
 
-#### Question 2 [Source: `photo_1046@28-10-2024_22-34-35.jpg`]
+#### Question 2 [Source: `photo_1046@28-10-2024_22-34-35.jpg@28-10-2024_22-34-35.jpg`]
 **Question:** Why does the author recommend analyzing one's existing knowledge prior to starting practice tests?
 
 **Answer Options:**
@@ -51,7 +51,7 @@
 
 ---
 
-#### Question 3 [Source: `photo_1062@28-10-2024_22-34-34.jpg`]
+#### Question 3 [Source: `photo_1062@28-10-2024_22-34-35.jpg@28-10-2024_22-34-35.jpg`]
 **Question:** Which category of study material is strongly advocated by the author for effective preparation?
 
 **Answer Options:**
@@ -65,7 +65,7 @@
 
 ---
 
-#### Question 4 [Source: `photo_1075@28-10-2024_22-34-34.jpg`]
+#### Question 4 [Source: `photo_1075@28-10-2024_22-34-35.jpg@28-10-2024_22-34-35.jpg`]
 **Question:** How should an applicant structure their study timetable according to the strategic guidelines?
 
 **Answer Options:**
@@ -79,7 +79,7 @@
 
 ---
 
-#### Question 5 [Source: `photo_1079@28-10-2024_22-34-34.jpg`]
+#### Question 5 [Source: `photo_1079@28-10-2024_22-34-35.jpg@28-10-2024_22-34-35.jpg`]
 **Question:** What is the primary advantage of tracking one's progress and maintaining accountability during test preparation?
 
 **Answer Options:**

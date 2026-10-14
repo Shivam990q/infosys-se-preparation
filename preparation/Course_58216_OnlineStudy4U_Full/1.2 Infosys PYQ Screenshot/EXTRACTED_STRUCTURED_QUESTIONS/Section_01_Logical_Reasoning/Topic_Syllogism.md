@@ -70,7 +70,7 @@ Which of the following conclusions can be logically deduced from the statements?
 * This is exactly Statement 6 ("All divers are strong"). Thus, Statement 6 is derived from 3 and 4.
 ---
 
-### Question 3 [Source: `photo_1051@28-10-2024_22-34-34.jpg`]
+### Question 3 [Source: `photo_1051@28-10-2024_22-34-35.jpg`]
 **Question:** Read the following statements and decide which conclusion logically follows:
 * **Statements:**
   1. All persons who drive under the influence of alcohol pose a fatal threat to public safety.
@@ -232,3 +232,26 @@ e \emptyset$). Hence, **"Some pavements are well"** definitely follows.
 * Since Pillows is entirely inside Cushions, Pillows cannot have any common elements with Quilt $\implies 	ext{Pillows} \cap 	ext{Quilt} = \emptyset$. Hence, **"No pillow is a quilt"** definitely follows.
 * By subaltern conversion of "All pillows are cushions", **"Some cushions are pillow"** definitely follows.
 * Both valid conclusions are confirmed.
+
+---
+
+### Question 10 [Source: `photo_1039@28-10-2024_22-34-35.jpg`]
+**Question:** Statements:
+1. All Apples are Bananas.
+2. All Bananas are Cookies.
+
+**Conclusions:**
+1. All Apples are Cookies.
+2. Some Cookies are Apples.
+
+**Answer Options:**
+* **(A)** Only conclusion 1 follows
+* **(B)** Only conclusion 2 follows
+* **(C)** Both conclusion 1 and conclusion 2 follow
+* **(D)** Neither follows
+
+**Correct Answer:** **(A) Only conclusion 1 follows** (or **(C) Both follow** if both are options)  
+**Logical Proof:**
+* Standard universal affirmative syllogism:
+  $$A \subseteq B \quad \text{and} \quad B \subseteq C \implies A \subseteq C$$
+* Therefore, **All Apples are Cookies** definitely follows.

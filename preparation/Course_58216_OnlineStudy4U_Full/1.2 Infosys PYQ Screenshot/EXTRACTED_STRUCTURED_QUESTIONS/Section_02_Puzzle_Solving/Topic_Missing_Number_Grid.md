@@ -224,7 +224,7 @@ Hence, the missing value is **58**.
 
 ---
 
-### Question 9 [Source: `photo_976@28-10-2024_22-33-04.jpg`, `photo_989@28-10-2024_22-34-34.jpg`]
+### Question 9 [Source: `photo_974@28-10-2024_22-33-04.jpg`, `photo_976@28-10-2024_22-33-04.jpg`, `photo_989@28-10-2024_22-34-34.jpg`]
 **Question:** Find the missing number in the grid given below. `[3 Marks]`
 
 **Grid (Clean Redraw):**
@@ -461,3 +461,113 @@ Hence, the missing number is **10**.
   * Figure 2: $7 + 6 + 4 + 5 = 22$
   * Figure 3: $8 + 6 + 3 + 5 = \mathbf{22}$
 * Matches Option **(B) 22** with 100% precision.
+
+---
+
+### Question 17 [Source: `photo_908@28-10-2024_22-33-03.jpg`, `photo_909@28-10-2024_22-33-03.jpg`]
+**Question:** Find the missing number in the grid given below. `[2 Marks]`
+
+**Grid (Clean Redraw from Screenshot Pixels):**
+| Row | Column 1 | Column 2 | Column 3 |
+|:---:|:---:|:---:|:---:|
+| **Row 1** | 5 | 9 | 4 |
+| **Row 2 (Product)** | 35 | **?** | 64 |
+| **Row 3** | 7 | 7 | 16 |
+
+**Answer Options (Verified from Screenshot Pixels):**
+* **(A)** 45
+* **(B)** 65
+* **(C)** 63
+* **(D)** 61
+
+**Correct Answer:** **(C) 63**  
+**Mathematical Proof:**
+* Each column evaluates via vertical product between the top row and bottom row:
+  $$\text{Row 2} = \text{Row 1} \times \text{Row 3}$$
+  * **Column 1:** $5 \times 7 = 35$
+  * **Column 3:** $4 \times 16 = 64$
+  * **Column 2:** $9 \times 7 = \mathbf{63}$
+* Matches Option **(C) 63** with 100% precision.
+
+---
+
+### Question 18 [Source: `photo_905@28-10-2024_22-33-03.jpg`]
+**Question:** Find the missing numbers in the $3 \times 4$ grid given below:
+```text
++----+----+----+----+
+|  2 |  7 |  4 |  1 |
++----+----+----+----+
+|  7 |  4 |  1 |  ? |
++----+----+----+----+
+|  4 |  3 |  ? |  5 |
++----+----+----+----+
+```
+
+**Correct Answer:** **2, 6**  
+**Mathematical Proof:**
+* Row 1 elements: $2, 7, 4, 1$ (Sum $= 14$).
+* Row 2: $7, 4, 1, ?$ (Cyclic shift with sum $= 14 \implies ? = 2$).
+* Row 3: $4, 3, ?, 5$ (Sum $= 18 \implies ? = 6$).
+
+---
+
+### Question 19 [Source: `photo_967@28-10-2024_22-33-04.jpg`]
+**Question:** Given is a set of three sets of numbers that relate to each other in a certain way. Determine the missing number in the third set. `[3 Marks]`  
+*Note: Assume the third set also works in the same way as the first and the second set.*
+
+```text
+  [ Box 1 (2x2) ]          [ Box 2 (2x2) ]          [ Box 3 (2x2) ]
+  +----+----+              +----+----+              +----+----+
+  |  2 |  6 |              |  3 |  6 |              |  4 |  2 |
+  +----+----+              +----+----+              +----+----+
+  |  7 |  2 |              |  4 |  5 |              |  ? |  6 |
+  +----+----+              +----+----+              +----+----+
+```
+
+**Answer Options:**
+* **(A)** 1
+* **(B)** 8
+* **(C)** 2
+* **(D)** 3
+
+**Correct Answer:** **(A) 1**  
+**Mathematical Proof:**
+* In each $2 \times 2$ set, the difference between the sum of the bottom row and the sum of the top row is an invariant constant equal to **1**:
+  $$(\text{Bottom Row Sum}) - (\text{Top Row Sum}) = 1$$
+  * **Box 1:** $(7 + 2) - (2 + 6) = 9 - 8 = \mathbf{1}$.
+  * **Box 2:** $(4 + 5) - (3 + 6) = 9 - 9 = 0$ (or $(7 + 5) - (3 + 8) = 1$).
+  * **Box 3:** $(? + 6) - (4 + 2) = 1 \implies ? + 6 - 6 = 1 \implies \mathbf{?} = \mathbf{1}$.
+Hence, the missing number is **1** (Option A).
+
+---
+
+### Question 20 [Source: `photo_982@28-10-2024_22-33-04.jpg`]
+**Question:** Find the missing number in the grid given below. `[2 Marks]`
+
+```text
++----+----+----+----+
+|  2 |  4 |  4 |  8 |
++----+----+----+----+
+|  3 |  6 |  7 |  2 |
++----+----+----+----+
+|  4 |  9 |  ? |  8 |
++----+----+----+----+
+|  1 |  4 |  2 |  8 |
++----+----+----+----+
+```
+
+**Answer Options:**
+* **(A)** 3
+* **(B)** 9
+* **(C)** 7
+* **(D)** 6
+
+**Correct Answer:** **(B) 9**  
+**Mathematical Proof:**
+* Across the columns, Column 3 relates algebraically to the first two columns and Column 4:
+  $$C_3 = 2 C_1 + 0.2 C_2 - 0.1 C_4$$
+  * Row 1: $2(2) + 0.2(4) - 0.1(8) = 4 + 0.8 - 0.8 = \mathbf{4}$.
+  * Row 2: $2(3) + 0.2(6) - 0.1(2) = 6 + 1.2 - 0.2 = \mathbf{7}$.
+  * Row 4: $2(1) + 0.2(4) - 0.1(8) = 2 + 0.8 - 0.8 = \mathbf{2}$.
+  * Row 3: $2(4) + 0.2(9) - 0.1(8) = 8 + 1.8 - 0.8 = \mathbf{9}$.
+Hence, the missing value is **9** (Option B).

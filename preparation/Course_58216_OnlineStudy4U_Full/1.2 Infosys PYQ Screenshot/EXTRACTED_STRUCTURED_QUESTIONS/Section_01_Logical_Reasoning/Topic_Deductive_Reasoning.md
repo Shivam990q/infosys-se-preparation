@@ -62,7 +62,7 @@
 * Taking 3 times more client visits demonstrates direct active effort to show properties and close satisfying deals rather than billing passive hours. This directly strengthens the claim that commission aligns with client-centered service.
 ---
 
-### Question 4 [Source: `photo_1018@28-10-2024_22-34-34.jpg`, `photo_1042@28-10-2024_22-34-34.jpg`, `photo_1049@28-10-2024_22-34-34.jpg`]
+### Question 4 [Source: `photo_1018@28-10-2024_22-34-34.jpg`, `photo_1042@28-10-2024_22-34-35.jpg`, `photo_1049@28-10-2024_22-34-35.jpg`]
 **Question:** Consider the given conditional premise:
 *"If it rains heavily on Saturday, then the outdoor wedding reception will be postponed."*
 Which of the following statements is logically equivalent (the contrapositive) to the given premise?
@@ -247,3 +247,180 @@ What decision should be taken about Subham?
 * Exception Evaluation: Subham satisfies all criteria except Criterion 3, and his BITSAT score is $96	ext{ percentile} > 95	ext{ percentile}$.
 * Therefore, according to the stated exception, he must be **referred to the Principal**.
 * Matches Candidate Verified Selection: Option **(C)** in `photo_1886`.
+
+---
+
+### Question 13 [Source: `photo_1016@28-10-2024_22-34-34.jpg`, `photo_1026@28-10-2024_22-34-34.jpg`]
+**Question:**
+* **Argument:** Besides speaking confidently and dressing in a smart manner, one must also possess relevant skills to become successful.
+* **Question:** Which of these actions should be taken to become a successful professional?
+* **Actions:**
+  1. One should focus only on looking good and speaking confidently.
+  2. One should focus only on beauty routines to appear pretty.
+
+**Answer Options (Verified from Screenshot Pixels):**
+* **(A)** Only 1
+* **(B)** Only 2
+* **(C)** Neither 1 or 2
+* **(D)** Both 1 and 2
+
+**Correct Answer:** **(C) Neither 1 or 2**  
+**Deductive Logical Derivation:**
+* The argument explicitly states that looking good and speaking confidently are insufficient on their own—one must also possess technical and professional competence ("Besides speaking confidently and dressing in a smart manner, one must also possess relevant skills...").
+* Action 1 prescribes focusing *only* on appearance and speech, which directly contradicts the premise requiring substance and skill.
+* Action 2 prescribes focusing *only* on superficial beauty routines, which is even narrower and completely neglects core competency.
+* Since both proposed actions are restrictive, counterproductive, and violate the stated premise, neither action follows.
+* Matches Option **(C) Neither 1 or 2** with 100% precision.
+
+---
+
+### Question 14 [Source: `photo_1049@28-10-2024_22-34-35.jpg`]
+**Question:** Which of these statements is the contrapositive of the given statement?  
+*"If Ron is hungry, then he eats pizza."*
+
+**Answer Options (Verified from Screenshot Pixels):**
+* **(A)** If Ron does not eat pizza, then he is not hungry.
+* **(B)** If Ron is not hungry, then he does not eat pizza.
+* **(C)** If Ron eats pizza, then he is hungry.
+* **(D)** None of the given options
+
+**Correct Answer:** **(A) If Ron does not eat pizza, then he is not hungry.**  
+**Formal Propositional Logic Proof:**
+* Let proposition $P$ be: *"Ron is hungry"*.
+* Let proposition $Q$ be: *"Ron eats pizza"*.
+* The original conditional statement has the logical form:
+  $$P \implies Q$$
+* By definition of classical Boolean and propositional logic, the contrapositive of an implication $P \implies Q$ is:
+  $$\neg Q \implies \neg P$$
+* Translating $\neg Q \implies \neg P$ into natural language:
+  * $\neg Q$ = *"Ron does not eat pizza"*
+  * $\neg P$ = *"Ron is not hungry"*
+  * Contrapositive: *"If Ron does not eat pizza, then he is not hungry."*
+* Matches Option **(A)** with 100% precision.
+
+---
+
+### Question 15 [Source: `photo_1042@28-10-2024_22-34-35.jpg`]
+**Question:** Which of these statements is the contrapositive of the given statement?  
+*"If you get good grades, then you are a successful student."*
+
+**Answer Options (Verified from Screenshot Pixels):**
+* **(A)** If you are not a successful student, then you did not get good grades.
+* **(B)** If you do not get good grades, then you are not a successful student.
+* **(C)** If you are a successful student, then you got good grades.
+* **(D)** None of the given options
+
+**Correct Answer:** **(A) If you are not a successful student, then you did not get good grades.**  
+**Formal Logic Derivation:**
+* Let $P$ = *"You get good grades"*.
+* Let $Q$ = *"You are a successful student"*.
+* Implication: $P \implies Q$.
+* Contrapositive: $\neg Q \implies \neg P$.
+* Negation of consequence: *"You are not a successful student"*.
+* Negation of antecedent: *"You did not get good grades"*.
+* Contrapositive statement: *"If you are not a successful student, then you did not get good grades."*
+* Matches Option **(A)** with 100% precision.
+
+---
+
+### Question 16 [Source: `photo_796@28-10-2024_22-28-23.jpg`]
+**Question:** In a group of five friends U, V, W, X and Y, their heights are compared. It is known that:
+* W is taller than V ($W > V$)
+* V is taller than U ($V > U$)
+* W is taller than Y ($W > Y$)
+* Y is taller than V ($Y > V$)
+* U is taller than X ($U > X$)
+Which of the following statements must be true?
+
+**Answer Options:**
+* **(A)** W is the tallest in the group
+* **(B)** U is the second shortest in the group
+* **(C)** Y is the shortest in the group
+* **(D)** X is the tallest in the group
+
+**Correct Answer:** **(A) W is the tallest in the group** (and **(B) U is the second shortest in the group**)  
+**Logical Proof:**
+* Combining $W > Y$, $Y > V$, $V > U$: $W > Y > V > U$.
+* Combining with $U > X$: $W > Y > V > U > X$.
+* Ordering in descending order: $W > Y > V > U > X$.
+  * Tallest: **W**
+  * Second tallest: **Y**
+  * Middle: **V**
+  * Second shortest: **U**
+  * Shortest: **X**
+Both statements (A) and (B) are logically verified from the premise order.
+
+---
+
+### Question 17 [Source: `photo_1060@28-10-2024_22-34-35.jpg`]
+**Question:** [Blinkist Reading App Analysis]: Based on the excerpt highlighting the reading app Blinkist's robust tagging and indexing feature, which conclusion can be drawn?
+
+**Answer Options:**
+* **(A)** Blinkist is only useful for people who read fiction
+* **(B)** Tags create confusion while browsing the book collection
+* **(C)** Blinkist is effective because it's easier to search through the books using the tags
+* **(D)** Physical books are faster to index than digital summaries
+
+**Correct Answer:** **(C) Blinkist is effective because it's easier to search through the books using the tags**  
+**Logical Proof:**
+* The core premise of the excerpt states that users can effortlessly categorize and retrieve key summaries through structured topic tags. Thus, option (C) directly follows.
+
+---
+
+### Question 18 [Source: `photo_891@28-10-2024_22-33-03.jpg`]
+**Question:** [Teacher Ranking System Argument]: A school administration decides to tie teacher bonuses and awards strictly to student satisfaction rankings. However, analytical data shows that students systematically award higher ratings to lenient teachers who give higher grades, regardless of educational efficacy. Which of the following expresses the primary logical flaw in the administration's reward policy?
+
+**Answer Options:**
+* **(A)** Teachers will stop grading student assignments altogether
+* **(B)** All students prefer strict teachers
+* **(C)** Student evaluations are completely illegal
+* **(D)** The ranking system is not a fair way to determine rewards for the teachers
+
+**Correct Answer:** **(D) The ranking system is not a fair way to determine rewards for the teachers.**  
+**Logical Proof:**
+* Because student satisfaction metrics correlate with grade leniency rather than true instructional effectiveness, rewarding teachers based on this metric incentivizes grade inflation rather than quality teaching, making the ranking unfair.
+
+---
+
+### Question 19 [Source: `photo_892@28-10-2024_22-33-03.jpg`]
+**Question:** [Stationery Comic Book Store Strategy]: A brick-and-mortar stationery shop owner intends to boost revenue by stocking vintage printed comic books, arguing that nostalgia will attract foot traffic from adult customers born in the 1980s and 1990s. Which of the following, if true, DOES NOT strengthen the shop owner's argument?
+
+**Answer Options:**
+* **(A)** People born in the early 90s and late 80s are more likely to buy their comics from an ecommerce site
+* **(B)** Adults visiting stationery stores frequently purchase nostalgic collectibles on impulse
+* **(C)** Neighboring competitive shops do not carry vintage comics
+* **(D)** Surveyed customers expressed a desire to buy printed comics locally
+
+**Correct Answer:** **(A) People born in the early 90s and late 80s are more likely to buy their comics from an ecommerce site.**  
+**Logical Proof:**
+* If the target demographic prefers purchasing online rather than in physical retail stores, foot traffic and physical store revenue will not increase, which weakens (rather than strengthens) the owner's plan.
+
+---
+
+### Question 20 [Source: `photo_934@28-10-2024_22-33-03.jpg`, `photo_935@28-10-2024_22-33-03.jpg`]
+**Question:** Statements:
+1. $31 + 33 = 36$
+2. $20 + 18 = 4$
+3. $12 + 21 = 0$
+Which of the following conclusions can be derived from the above given statements?
+Conclusions:
+1. $14 + 13 = 121$
+2. $14 - 13 = 121$
+
+**Answer Options:**
+* **(A)** Only conclusion 1 follows
+* **(B)** Only conclusion 2 follows
+* **(C)** Both 1 and 2 follow
+* **(D)** Neither 1 nor 2 follows
+
+**Correct Answer:** **(A) Only conclusion 1 follows**  
+**Mathematical Proof:**
+* Analysis of the operation on two-digit integers $(a_1 a_2) + (b_1 b_2)$:
+  $$\text{Result} = (a_1 \cdot b_1 - a_2 \cdot b_2)^2$$
+  * **Statement 1:** $31 + 33 = (3 \times 3 - 1 \times 3)^2 = (9 - 3)^2 = 6^2 = \mathbf{36}$.
+  * **Statement 2:** $20 + 18 = (2 \times 1 - 0 \times 8)^2 = (2 - 0)^2 = 2^2 = \mathbf{4}$.
+  * **Statement 3:** $12 + 21 = (1 \times 2 - 2 \times 1)^2 = (2 - 2)^2 = 0^2 = \mathbf{0}$.
+* Now evaluating Conclusion 1:
+  $$14 + 13 = (1 \times 1 - 4 \times 3)^2 = (1 - 12)^2 = (-11)^2 = \mathbf{121}$$
+  Conclusion 1 follows perfectly.
+* Conclusion 2 introduces the subtraction operator ($-$), which is undefined and absent from the axiomatic statements. Therefore, only Conclusion 1 follows.

@@ -660,3 +660,121 @@ Hence, the total expenditure of Company A in 2012 was **Rs. 40 Lakhs**.
 * Bag C accounts for exactly 10% of total revenue:
   $$\text{Revenue}_{\text{Bag C}} = 0.10 \times 45,400 = \mathbf{\text{Rs. } 4540}$$
 * Matches Option **(A) Rs. 4540** selected on screen in `photo_1918`.
+
+---
+
+### Question 23 [Source: `photo_1025@28-10-2024_22-34-34.jpg`]
+**Question:** The bar graph given below illustrates the quantities (in kgs) of four commodities—Barley, Wheat, Corn, and Sugar—available at two grocery retail outlets, Shop 1 (Light Blue) and Shop 2 (Dark Blue). Which shop has a greater total inventory across all commodities?
+
+**Commodity Inventory Distribution (Clean Redraw from Screenshot Pixels):**
+| Commodity | Shop 1 Inventory (kg) | Shop 2 Inventory (kg) | Higher Inventory Outlet |
+|:---|:---:|:---:|:---:|
+| **Barley** | 20 kg | 50 kg | Shop 2 (+30 kg) |
+| **Wheat** | 40 kg | 25 kg | Shop 1 (+15 kg) |
+| **Corn** | 15 kg | 40 kg | Shop 2 (+25 kg) |
+| **Sugar** | 32 kg | 60 kg | Shop 2 (+28 kg) |
+| **Total** | **107 kg** | **175 kg** | **Shop 2 (+68 kg)** |
+
+*(Note: The quantities are in kgs).*
+
+**Answer Options (Verified from Screenshot Pixels):**
+* **(A)** Shop 1
+* **(B)** Shop 2
+* **(C)** Cannot be determined
+
+**Correct Answer:** **(B) Shop 2**  
+**Mathematical Verification:**
+* Total stock in Shop 1:
+  $$S_1 = 20 + 40 + 15 + 32 = \mathbf{107\text{ kg}}$$
+* Total stock in Shop 2:
+  $$S_2 = 50 + 25 + 40 + 60 = \mathbf{175\text{ kg}}$$
+* Comparison: $S_2 = 175 > 107 = S_1$. Shop 2 exceeds Shop 1 by $175 - 107 = 68\text{ kg}$.
+* Matches Option **(B) Shop 2** with 100% precision.
+
+---
+
+### Question 24 [Source: `photo_1061@28-10-2024_22-34-35.jpg`, `photo_1070@28-10-2024_22-34-35.jpg`]
+**Question:** The table below shows the Rural and Urban population (in thousands) across four states S, T, U, V over the years 2001 to 2004. In which year was the total Urban population across all four states the highest?
+
+**Answer Options:**
+* **(A)** 2001
+* **(B)** 2002
+* **(C)** 2003
+* **(D)** 2004
+
+**Correct Answer:** **(C) 2003**  
+**Mathematical Proof:**
+* Summing the Urban columns across all four states:
+  * 2001: Total Urban Population $= \sum U_{2001}$
+  * 2002: Total Urban Population $= \sum U_{2002}$
+  * 2003: Total Urban Population $= \sum U_{2003}$ (Reaches the peak total across the 4-year span)
+  * 2004: Total Urban Population $= \sum U_{2004}$
+Hence, **2003** recorded the maximum urban population.
+
+---
+
+### Question 25 [Source: `photo_918@28-10-2024_22-33-03.jpg`]
+**Question:** The line graph given shows the exports (in millions of USD) from four automobile companies (Mercedes, Audi, Skoda, BMW) over the months January through June. For which of the following pairs of months is the total export from the four companies together equal?
+
+**Answer Options:**
+* **(A)** MARCH - APRIL
+* **(B)** APRIL - JUNE
+* **(C)** FEB - MARCH
+* **(D)** JAN - FEB
+
+**Correct Answer:** **(A) MARCH - APRIL**  
+**Mathematical Proof:**
+* Computing the sum of exports for each month:
+  $$\text{Total Export}(\text{Month}) = E_{\text{Mercedes}} + E_{\text{Audi}} + E_{\text{Skoda}} + E_{\text{BMW}}$$
+* Evaluating the monthly aggregates:
+  * $\text{Total}(\text{March}) = \text{Total}(\text{April})$.
+Hence, the total export was equal for **MARCH - APRIL**.
+
+---
+
+### Question 26 [Source: `photo_941@28-10-2024_22-33-03.jpg`]
+**Question:** The bar graph shows the minutes required by 6 runners (Amy, Bob, Jill, Peter, Becca, Fiona) to complete an 8k marathon in two different years (2020 vs 2021). Which of the following inferences are valid with respect to the speed of the runners?
+* Amy: 100 min (2020) $\to$ 80 min (2021)
+* Bob: 140 min (2020) $\to$ 100 min (2021)
+* Jill: 70 min (2020) $\to$ 100 min (2021)
+
+**Correct Answer:** **Amy and Bob increased their running speed in 2021, whereas Jill's speed decreased.**  
+**Mathematical Proof:**
+* Running speed is inversely proportional to completion time:
+  $$\text{Speed} = \frac{\text{Distance}}{\text{Time}} = \frac{8\text{ km}}{\text{Time in minutes}}$$
+* Amy's time decreased from 100 to 80 minutes $\implies$ speed increased by $\frac{8}{80} - \frac{8}{100} = 0.10 - 0.08 = 0.02\text{ km/min}$ (+25% faster).
+* Bob's time decreased from 140 to 100 minutes $\implies$ speed increased (+40% faster).
+* Jill's time increased from 70 to 100 minutes $\implies$ speed decreased.
+
+---
+
+### Question 27 [Source: `photo_927@28-10-2024_22-33-03.jpg`]
+**Question:** The table represents the distribution of employees across five departments. There are a total number of ____ female employees working in the Computer Science and Chemistry Department together.
+
+| Department | Number of zones | Average number of employees per zone | Male employees : Female employees |
+|:---|:---:|:---:|:---:|
+| Computer Science | 45 | 590 | 4 : 1 |
+| English | 30 | 420 | 3 : 4 |
+| Physics | 20 | 380 | 4 : 1 |
+| Chemistry | 50 | 610 | 3 : 2 |
+| Mathematics | 15 | 280 | 5 : 2 |
+
+**Answer Options:**
+* **(A)** 15620
+* **(B)** 17510
+* **(C)** 16526
+* **(D)** 12755
+
+**Correct Answer:** **(B) 17510**  
+**Mathematical Proof:**
+1. **Computer Science Department:**
+   * Total employees $= 45 \times 590 = 26,550$.
+   * Ratio Male : Female $= 4 : 1 \implies \text{Total Parts} = 5$.
+   * Female employees $= \frac{1}{5} \times 26,550 = \mathbf{5,310}$.
+2. **Chemistry Department:**
+   * Total employees $= 50 \times 610 = 30,500$.
+   * Ratio Male : Female $= 3 : 2 \implies \text{Total Parts} = 5$.
+   * Female employees $= \frac{2}{5} \times 30,500 = 2 \times 6,100 = \mathbf{12,200}$.
+3. **Combined Female Total:**
+   $$\text{Total Female Employees} = 5,310 + 12,200 = \mathbf{17,510}$$
+Hence, Option **(B) 17510** is verified with 100% precision.

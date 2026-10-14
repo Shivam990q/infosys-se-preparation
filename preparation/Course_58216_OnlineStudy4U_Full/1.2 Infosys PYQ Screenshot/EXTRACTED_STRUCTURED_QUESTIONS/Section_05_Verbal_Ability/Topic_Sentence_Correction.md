@@ -42,7 +42,7 @@ Which of the following statements, if true, most strongly strengthens Lee's coun
 
 ---
 
-### Question 3 [Source: `photo_1067@28-10-2024_22-34-34.jpg`]
+### Question 3 [Source: `photo_1067@28-10-2024_22-34-35.jpg`]
 **Question:** Complete the sentence with the most appropriate word:
 *"He is an individual of admirable integrity, distinguished intellect, and ______ disposition."*
 
@@ -61,7 +61,7 @@ Which of the following statements, if true, most strongly strengthens Lee's coun
 
 ---
 
-### Question 4 [Source: `photo_1069@28-10-2024_22-34-34.jpg`, `photo_1080@28-10-2024_22-34-34.jpg`]
+### Question 4 [Source: `photo_1069@28-10-2024_22-34-35.jpg`, `photo_1080@28-10-2024_22-34-35.jpg`]
 **Question:** Complete the sentence with the most appropriate noun:
 *"Ambition is one of those driving ______ that never fully subside in high-achieving individuals."*
 
@@ -78,7 +78,7 @@ Which of the following statements, if true, most strongly strengthens Lee's coun
 
 ---
 
-### Question 5 [Source: `photo_1081@28-10-2024_22-34-34.jpg`]
+### Question 5 [Source: `photo_1081@28-10-2024_22-34-35.jpg`]
 **Question:** Complete the sentence with the most appropriate collocated phrase:
 *"As they drove further north, they were greeted by an expansive ______ of green countryside."*
 
@@ -94,7 +94,7 @@ Which of the following statements, if true, most strongly strengthens Lee's coun
 
 ---
 
-### Question 6 [Source: `photo_1083@28-10-2024_22-34-34.jpg`, `photo_1083@28-10-2024_22-34-35(1).jpg`]
+### Question 6 [Source: `photo_1083@28-10-2024_22-34-35.jpg`, `photo_1083@28-10-2024_22-34-35(1).jpg`]
 **Question:** Complete the sentence with the most appropriate figurative verb:
 *"Upon reading the confirmation that she had cleared the prestigious examination, Tina's heart ______ with joy."*
 
@@ -163,7 +163,7 @@ Which of the following statements, if true, most strongly strengthens Lee's coun
 
 ---
 
-### Question 10 [Source: `photo_963@28-10-2024_22-33-03.jpg`, `photo_966@28-10-2024_22-33-03.jpg`]
+### Question 10 [Source: `photo_963@28-10-2024_22-33-03.jpg`, `photo_966@28-10-2024_22-33-04.jpg`]
 **Question:** Identify the grammatical error in the following sentence:
 *"It started pouring (A) / while I was returning (B) / back from office (C) / yesterday evening (D)."*
 
@@ -178,3 +178,51 @@ Which of the following statements, if true, most strongly strengthens Lee's coun
 * The verb **"return"** inherently means to come or go *back*.
 * Using the word **"back"** immediately after "return" constitutes a redundant tautology.
 * The correct sentence should read: *"It started pouring while I was returning from office yesterday evening."*
+
+---
+
+### Question 11 [Source: `photo_890@28-10-2024_22-33-03.jpg`]
+**Question:** In the following sentence, identify the grammatically correct replacement for the underlined segment:  
+"To achieving the heights of success, one should work hard enough."
+
+**Answer Options:**
+* **(A)** For achieve the heights of success
+* **(B)** In achieving the heights of success
+* **(C)** To achieve the heights of success
+* **(D)** To have achieved the heights of success
+
+**Correct Answer:** **(C) To achieve the heights of success**  
+**Grammar Rule:**
+* The infinitive marker "to" is followed by the base form of the verb (bare infinitive `achieve`), not the gerund (`achieving`). Correct phrasing: *"To achieve the heights of success..."*
+
+---
+
+### Question 12 [Source: `photo_893@28-10-2024_22-33-03.jpg`]
+**Question:** Complete the sentence with the appropriate choice:  
+"Jules ________ buy shampoo from the store. He'll have to go back tomorrow to buy some."
+
+**Answer Options:**
+* **(A)** had forgot
+* **(B)** forgotten to
+* **(C)** forgetting
+* **(D)** forgot to
+
+**Correct Answer:** **(D) forgot to**  
+**Grammar Rule:**
+* The simple past tense "forgot to" correctly indicates a completed omission in past time requiring future remedy.
+
+---
+
+### Question 13 [Source: `photo_1055@28-10-2024_22-34-35.jpg`]
+**Question:** Complete the analogy:  
+Meat is to vegan as alcohol is to ________.
+
+**Answer Options:**
+* **(A)** Sommelier
+* **(B)** Oenophile
+* **(C)** Teetotaller
+* **(D)** Mixologist
+
+**Correct Answer:** **(C) Teetotaller**  
+**Vocabulary Definition:**
+* A vegan is a person who completely abstains from meat and animal products; analogously, a **teetotaller** is a person who completely abstains from alcoholic beverages.

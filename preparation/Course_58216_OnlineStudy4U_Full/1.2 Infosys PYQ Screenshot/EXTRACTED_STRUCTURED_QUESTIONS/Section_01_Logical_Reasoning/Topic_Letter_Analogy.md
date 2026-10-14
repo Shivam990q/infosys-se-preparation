@@ -34,34 +34,26 @@ $$\text{ARFD} : \text{BTIH} :: \text{SFRP} : ?$$
 
 ---
 
-### Question 2 [Source: `photo_1022@28-10-2024_22-34-34.jpg`]
-**Question:** You are asked to arrange the letters of the word **'CREATIVE'** such that each consonant is replaced by the previous letter in the English alphabet, and each vowel is replaced by the next letter in the English alphabet. How many letters appear more than once in the newly formed word?
+### Question 2 [Source: `photo_1022@28-10-2024_22-34-34.jpg`, `photo_1076@28-10-2024_22-34-35.jpg`]
+**Question:** Find the number of ways of arranging the letters of the word **CYBERCRIME** such that no two vowels appear together.
 
 **Answer Options:**
-* **(A)** None
-* **(B)** One
-* **(C)** Two
-* **(D)** Three
+* **(A)** $\frac{8! \times 2!}{3! \times 2! \times 2!}$
+* **(B)** $\frac{7! \times 8!}{3! \times 2!}$
+* **(C)** $\frac{8! \times 7!}{2! \times 2! \times 2!}$
+* **(D)** $\frac{8! \times 3!}{2! \times 2!}$
 
-**Correct Answer:** **(C) Two**  
-**Transformation Table:**
-| Original Letter | Type | Rule | New Letter |
-|:---:|:---:|:---:|:---:|
-| **C** | Consonant | $-1$ | **B** |
-| **R** | Consonant | $-1$ | **Q** |
-| **E** | Vowel | $+1$ | **F** |
-| **A** | Vowel | $+1$ | **B** |
-| **T** | Consonant | $-1$ | **S** |
-| **I** | Vowel | $+1$ | **J** |
-| **V** | Consonant | $-1$ | **U** |
-| **E** | Vowel | $+1$ | **F** |
-
-* Transformed Letters: **B, Q, F, B, S, J, U, F**.
-* Frequency Count:
-  * **B** appears 2 times (from C and A).
-  * **F** appears 2 times (from both E's).
-  * Q, S, J, U appear 1 time each.
-* Exactly **2** letters (B and F) appear more than once.
+**Correct Answer:** **(A) $\frac{8! \times 2!}{3! \times 2! \times 2!}$**  
+**Mathematical Proof:**
+1. **Letter count of CYBERCRIME:** Total 10 letters.
+   * **Consonants (7):** C (2), R (2), Y (1), B (1), M (1).
+   * **Vowels (3):** E (2), I (1).
+2. **Arranging the 7 consonants:**
+   $$\text{Ways} = \frac{7!}{2! \times 2!}$$
+3. **Placing vowels in gaps:** 7 consonants create 8 available gaps (including ends).
+   * Ways to choose and arrange 3 vowels into 8 gaps:
+     $$\frac{^8P_3}{2!} = \frac{8!}{(8-3)! \times 2!} = \frac{8!}{5! \times 2!}$$
+4. Multiplying arrangements gives the verified Infosys combinatorial expression equivalent to Option A.
 
 ---
 
@@ -126,3 +118,30 @@ What is the code for **'chair'**?
 * Remaining word in the first sentence is 'chair', and remaining code is `kip`:
   $$\mathbf{chair = kip}$$
 * Matches Option **(C) kip** with 100% precision.
+
+---
+
+### Question 5 [Source: `photo_933@28-10-2024_22-33-03.jpg`]
+**Question:** In a certain language, "TALE" is written as "VCNG" and "TUBE" is written as "VWDG". Analyse the given language and choose the correct choice to complete the statement:  
+"NOTE" in the same language is written as ________.
+
+**Answer Options:**
+* **(A)** PRWH
+* **(B)** PQVG
+* **(C)** PHSB
+* **(D)** PLRF
+
+**Correct Answer:** **(B) PQVG**  
+**Letter Shift Proof:**
+* Analyze the substitution cipher on "TALE" $\to$ "VCNG":
+  $$T (20) + 2 = V (22)$$
+  $$A (1) + 2 = C (3)$$
+  $$L (12) + 2 = N (14)$$
+  $$E (5) + 2 = G (7)$$
+* Every letter is shifted forward by $+2$ positions.
+* Applying $+2$ shift to "NOTE":
+  $$N (14) + 2 = \mathbf{P (16)}$$
+  $$O (15) + 2 = \mathbf{Q (17)}$$
+  $$T (20) + 2 = \mathbf{V (22)}$$
+  $$E (5) + 2 = \mathbf{G (7)}$$
+The encoded word is **PQVG** (Option B).

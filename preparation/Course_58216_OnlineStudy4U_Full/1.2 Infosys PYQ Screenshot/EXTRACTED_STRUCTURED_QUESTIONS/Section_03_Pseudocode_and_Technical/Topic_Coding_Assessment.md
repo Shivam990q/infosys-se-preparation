@@ -7,7 +7,7 @@
 
 ---
 
-### Problem 1: Emil and Prime Subarrays [Source: `photo_824`, `photo_825`, `photo_826`, `photo_827`]
+### Problem 1: Emil and Prime Subarrays [Source: `photo_824`, `photo_825@28-10-2024_22-28-23.jpg`, `photo_826@28-10-2024_22-28-23.jpg`, `photo_827`]
 
 #### Problem Statement
 Emil is given an array $A$ of $N$ integers indexed from $1$ to $N$.

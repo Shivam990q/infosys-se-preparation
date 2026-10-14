@@ -375,7 +375,7 @@ From Statement I: Total Sales $= 4000 \times \$100 = \$400,000$. Since product X
 
 ---
 
-### Question 19 [Source: `photo_1052@28-10-2024_22-34-34.jpg`, `photo_1054@28-10-2024_22-34-34.jpg`]
+### Question 19 [Source: `photo_1052@28-10-2024_22-34-35.jpg`, `photo_1054@28-10-2024_22-34-35.jpg`]
 **Question:** Among three friends $P, Q,$ and $R$, who is the oldest?
 * **Statement (1):** The average age of $P$ and $Q$ is greater than the average age of $Q$ and $R$.
 * **Statement (2):** $Q$ is younger than $P$, and $R$ is younger than $Q$.
@@ -593,3 +593,133 @@ From Statement I: Total Sales $= 4000 \times \$100 = \$400,000$. Since product X
 * Downstream speed $u + v = 50 / 5 = 10	ext{ km/hr}$.
 * Upstream speed $u - v = 25 / 5 = 5	ext{ km/hr}$.
 * Adding both equations: $2u = 15 \implies u = 7.5	ext{ km/hr}$. Both statements together are sufficient.
+
+---
+
+### Question 29 [Source: `photo_1024@28-10-2024_22-34-34.jpg`]
+**Question:** Which of these statements would be sufficient to determine whether Pam is eligible for the corporate retirement gratuity benefit?  
+* **Statement (1):** Pam will complete 10 years of continuous service at his job next month.  
+* **Statement (2):** As per company rules, an employee has to complete at least 10 years of service to become eligible for retirement gratuity.
+
+**Answer Options (Verified from Screenshot Pixels):**
+* **(A)** Statement (1) alone is sufficient while Statement (2) alone is not sufficient
+* **(B)** Statement (2) alone is sufficient while Statement (1) alone is not sufficient
+* **(C)** Both Statement (1) and Statement (2) together are sufficient
+* **(D)** Neither Statement (1) nor Statement (2) is sufficient
+
+**Correct Answer:** **(C) Both Statement (1) and Statement (2) together are sufficient**  
+**Data Sufficiency Logical Proof:**
+* The core question requires determining whether Pam qualifies for the retirement gratuity benefit.
+* **Evaluating Statement (1) alone:** States Pam's tenure will reach 10 years. Without knowing the corporate policy threshold, this tenure figure is indeterminate of eligibility. Statement (1) alone is NOT sufficient.
+* **Evaluating Statement (2) alone:** Establishes that the eligibility threshold is 10 years. Without knowing Pam's actual years of service, eligibility cannot be decided. Statement (2) alone is NOT sufficient.
+* **Evaluating Statements (1) and (2) together:** Statement (1) gives Pam's tenure ($T = 10\text{ years}$) and Statement (2) establishes the required condition ($T \ge 10\text{ years}$). Combining both definitively confirms Pam's eligibility.
+* Therefore, both statements together are required and sufficient.
+* Matches Option **(C)** with 100% precision.
+
+---
+
+### Question 30 [Source: `photo_1052@28-10-2024_22-34-35.jpg`, `photo_1054@28-10-2024_22-34-35.jpg`]
+**Question:** P, Q, and R are three friends. In this context, consider the following statements and determine their height ordering:  
+1. R is taller than Q.  
+2. R and Q are not the shortest.  
+3. Q is not the tallest.
+
+**Answer Options (Verified from Screenshot Pixels):**
+* **(A)** R is the tallest and P is the shortest
+* **(B)** P is the tallest and R is the shortest
+* **(C)** R is taller than Q but shorter than P
+* **(D)** P is taller than Q but shorter than R
+
+**Correct Answer:** **(A) R is the tallest and P is the shortest**  
+**Strict Analytical Deduction Proof:**
+* The set of three friends is $\{P, Q, R\}$.
+* **From Statement 2:** Neither R nor Q is the shortest person. Since exactly one individual among $\{P, Q, R\}$ must occupy the strictly shortest position, by elimination **P must be the shortest** ($P < Q, P < R$).
+* **From Statement 1:** R is strictly taller than Q ($R > Q$).
+* Combining the two deductions:
+  $$R > Q > P$$
+* **From Statement 3:** Q is not the tallest. In the ordering $R > Q > P$, the tallest person is R and the shortest is P, perfectly satisfying Statement 3.
+* Therefore, the unique unambiguous conclusion is: **R is the tallest and P is the shortest**.
+* Matches Option **(A)** with 100% precision.
+
+---
+
+### Question 31 [Source: `photo_994@28-10-2024_22-34-34.jpg`]
+**Question:** Which of the given statements is sufficient to determine whether Abby arrived at her destination within the scheduled transit window?  
+* **Statement (1):** The bus comes to the stop every 10 minutes.  
+* **Statement (2):** Abby was late to the office and did not reach on time.
+
+**Answer Options (Verified from Screenshot Pixels):**
+* **(A)** I alone is sufficient while II alone is not sufficient
+* **(B)** II alone is sufficient while I alone is not sufficient
+* **(C)** Both I and II are sufficient
+* **(D)** Neither I nor II is sufficient
+
+**Correct Answer:** **(B) II alone is sufficient while I alone is not sufficient**  
+**Data Sufficiency Evaluation:**
+* The objective is to determine whether Abby reached her destination on time.
+* **Statement (1):** Merely states the scheduled frequency of bus arrivals (headway of 10 minutes). It provides zero information regarding whether Abby boarded, when she left, or her arrival status. Thus, Statement (1) alone is insufficient.
+* **Statement (2):** Explicitly states that Abby was late and failed to reach on time. This statement directly, independently, and definitively answers the core question.
+* Hence, Statement (2) alone is sufficient while Statement (1) alone is not sufficient.
+* Matches Option **(B)** with 100% precision.
+
+---
+
+### Question 32 [Source: `photo_834@28-10-2024_22-28-23.jpg`]
+**Question:** Five students A, B, C, D and E participated in a race. Who reached the finish line last?
+* **Statement I:** B and C reached the finish line together.
+* **Statement II:** Only A and D reached ahead of B.
+
+**Answer Options:**
+* **(A)** Statement I alone is sufficient while Statement II alone is not sufficient
+* **(B)** Statement I and Statement II TOGETHER are sufficient
+* **(C)** Statement II alone is sufficient while Statement I alone is not sufficient
+* **(D)** Neither Statement I nor Statement II is sufficient
+
+**Correct Answer:** **(B) Statement I and Statement II TOGETHER are sufficient**  
+**Logical Proof:**
+* From Statement II: Only A and D reached ahead of B, meaning positions 1 and 2 are filled by A and D in some order.
+* From Statement I: B and C reached the finish line at the same time, occupying positions 3 and 4 tied.
+* Consequently, four students (A, D, B, C) completed the race before the last finisher. Thus, student **E** must have reached the finish line last. Both statements combined are required and sufficient.
+
+---
+
+### Question 33 [Source: `photo_920@28-10-2024_22-33-03.jpg`]
+**Question:** Four people Fred, Harry, Miley and Nick are sitting in the same row during a concert. Which of the following statements is sufficient to determine who is sitting at the extreme right?
+* **Statement I:** Harry and Miley are not sitting together and Fred is sitting beside Harry.
+* **Statement II:** Miley is not sitting at the extreme left.
+
+**Answer Options:**
+* **(A)** None of the statements are sufficient
+* **(B)** Statement I is ALONE sufficient to answer
+* **(C)** Statement II is ALONE sufficient to answer
+* **(D)** Statement I and Statement II TOGETHER are sufficient to answer
+
+**Correct Answer:** **(A) None of the statements are sufficient**  
+**Logical Proof:**
+* From Statement I: {Fred, Harry} are adjacent, and Harry is not adjacent to Miley. Multiple valid seating arrangements exist: (F, H, N, M), (M, N, H, F), (N, H, F, M).
+* From Statement II: Miley is not at position 1 ($M \ne 1$).
+* Combining Statements I & II:
+  * Arrangement (F, H, N, M) satisfies all conditions with extreme right = Miley.
+  * Arrangement (N, M, F, H) satisfies all conditions with extreme right = Harry.
+* Because multiple conflicting configurations remain valid, neither statement alone nor together is sufficient.
+
+---
+
+### Question 34 [Source: `photo_998@28-10-2024_22-34-34.jpg`]
+**Question:** Which of these statements would be sufficient to determine the shortest distance between X and Y?
+* **Statement (1):** X is 5 kms away from Z.
+* **Statement (2):** Y is 25 kms away from Z.
+
+**Answer Options:**
+* **(A)** I alone is sufficient while II alone is not sufficient
+* **(B)** II alone is sufficient while I alone is not sufficient
+* **(C)** Neither I nor II is sufficient
+* **(D)** Both I and II are sufficient
+
+**Correct Answer:** **(C) Neither I nor II is sufficient**  
+**Mathematical Proof:**
+* Statement (1) establishes that $d(X, Z) = 5\text{ km}$, placing X on a circle of radius 5 km centered at Z.
+* Statement (2) establishes that $d(Y, Z) = 25\text{ km}$, placing Y on a circle of radius 25 km centered at Z.
+* Without any angle, heading, or direction given between the vectors $\vec{ZX}$ and $\vec{ZY}$, the distance between X and Y satisfies the triangle inequality:
+  $$|25 - 5| \le d(X, Y) \le 25 + 5 \implies 20\text{ km} \le d(X, Y) \le 30\text{ km}$$
+* Any distance in $[20\text{ km}, 30\text{ km}]$ is possible. Therefore, neither statement alone nor both together are sufficient.
