@@ -8,6 +8,15 @@
 
 ---
 
+## 📌 Topic-Wise Modules Index
+The 50 questions are also modularized into dedicated topic compendiums for targeted revision:
+1. [**Topic 01: Quantitative Aptitude (22 Questions)**](Topic_01_Quantitative_Aptitude.md) — Arithmetic, Proportions, Percentages, Time & Work, Speed & Distance, Probability, Statistics
+2. [**Topic 02: Logical Reasoning & Deductions (19 Questions)**](Topic_02_Logical_Reasoning_and_Deductions.md) — Syllogisms, Venn Diagrams, Seating Arrangements, Coding-Decoding, Series, Blood Relations
+3. [**Topic 03: Data Sufficiency (6 Questions)**](Topic_03_Data_Sufficiency.md) — Compound Interest, Profit %, Savings Ratios, Direction Coordinates, Age Problems, Queue Ranking
+4. [**Topic 04: Data Interpretation (3 Questions)**](Topic_04_Data_Interpretation.md) — Causes of Death Pie Charts, Athlete Participation Tables, Multi-Year Statistics
+
+---
+
 ### Question 01: Arithmetic & Commercial Math (Page 01)
 **Authentic Slide Figure**: [`INFOSYS_TOP_50_page_01.png`](images/INFOSYS_TOP_50_page_01.png)
 

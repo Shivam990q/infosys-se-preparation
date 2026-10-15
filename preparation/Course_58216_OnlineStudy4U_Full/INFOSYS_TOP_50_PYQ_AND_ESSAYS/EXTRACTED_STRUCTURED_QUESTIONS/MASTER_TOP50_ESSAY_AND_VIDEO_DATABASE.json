@@ -24,7 +24,8 @@
       },
       "correct_option": "B",
       "correct_answer": "Rs. 5",
-      "solution": "1. Identify Total Revenue from Munch = Rs. 545.\n2. Total units of Munch sold = 109.\n3. Unit Price = Total Revenue / Units Sold = 545 / 109 = Rs. 5 per Munch chocolate."
+      "solution": "1. Identify Total Revenue from Munch = Rs. 545.\n2. Total units of Munch sold = 109.\n3. Unit Price = Total Revenue / Units Sold = 545 / 109 = Rs. 5 per Munch chocolate.",
+      "major_category": "Quantitative Aptitude"
     },
     {
       "id": 2,
@@ -38,7 +39,8 @@
       },
       "correct_option": "A",
       "correct_answer": "37",
-      "solution": "1. Progression rule: Modulo difference sequence evaluates to 37.\n2. Verification against student exam options confirms 37."
+      "solution": "1. Progression rule: Modulo difference sequence evaluates to 37.\n2. Verification against student exam options confirms 37.",
+      "major_category": "Logical Reasoning & Deduction"
     },
     {
       "id": 3,
@@ -52,7 +54,8 @@
       },
       "correct_option": "B",
       "correct_answer": "15",
-      "solution": "1. Formulate proportion: Scale factor matches verified answer 15."
+      "solution": "1. Formulate proportion: Scale factor matches verified answer 15.",
+      "major_category": "Quantitative Aptitude"
     },
     {
       "id": 4,
@@ -66,7 +69,8 @@
       },
       "correct_option": "C",
       "correct_answer": "35",
-      "solution": "1. Successive interval difference analysis confirms term 35."
+      "solution": "1. Successive interval difference analysis confirms term 35.",
+      "major_category": "Logical Reasoning & Deduction"
     },
     {
       "id": 5,
@@ -80,7 +84,8 @@
       },
       "correct_option": "B",
       "correct_answer": "25%",
-      "solution": "1. Percentage formula: (Change / Original) * 100 = 25%."
+      "solution": "1. Percentage formula: (Change / Original) * 100 = 25%.",
+      "major_category": "Quantitative Aptitude"
     },
     {
       "id": 6,
@@ -94,7 +99,8 @@
       },
       "correct_option": "A",
       "correct_answer": "True",
-      "solution": "1. Predicate evaluation yields valid logical consistency."
+      "solution": "1. Predicate evaluation yields valid logical consistency.",
+      "major_category": "Logical Reasoning & Deduction"
     },
     {
       "id": 7,
@@ -108,7 +114,8 @@
       },
       "correct_option": "C",
       "correct_answer": "60 km/h",
-      "solution": "1. Relative Speed = S1 - S2 = 60 km/h."
+      "solution": "1. Relative Speed = S1 - S2 = 60 km/h.",
+      "major_category": "Quantitative Aptitude"
     },
     {
       "id": 8,
@@ -122,7 +129,8 @@
       },
       "correct_option": "B",
       "correct_answer": "QLN",
-      "solution": "1. +1, +2, +3 forward alphabetical shift yields QLN."
+      "solution": "1. +1, +2, +3 forward alphabetical shift yields QLN.",
+      "major_category": "Logical Reasoning & Deduction"
     },
     {
       "id": 9,
@@ -136,7 +144,8 @@
       },
       "correct_option": "C",
       "correct_answer": "20",
-      "solution": "1. n(A ∩ B) = n(A) + n(B) - n(A ∪ B) = 20."
+      "solution": "1. n(A ∩ B) = n(A) + n(B) - n(A ∪ B) = 20.",
+      "major_category": "Logical Reasoning & Deduction"
     },
     {
       "id": 10,
@@ -150,7 +159,8 @@
       },
       "correct_option": "B",
       "correct_answer": "6",
-      "solution": "1. Euclidean algorithm yields GCD = 6."
+      "solution": "1. Euclidean algorithm yields GCD = 6.",
+      "major_category": "Quantitative Aptitude"
     },
     {
       "id": 11,
@@ -164,7 +174,8 @@
       },
       "correct_option": "D",
       "correct_answer": "20%",
-      "solution": "1. Profit % = (SP - CP)/CP * 100 = 20%."
+      "solution": "1. Profit % = (SP - CP)/CP * 100 = 20%.",
+      "major_category": "Quantitative Aptitude"
     },
     {
       "id": 12,
@@ -178,7 +189,8 @@
       },
       "correct_option": "B",
       "correct_answer": "15m East",
-      "solution": "1. North and South cancels out. Net displacement is 15m East."
+      "solution": "1. North and South cancels out. Net displacement is 15m East.",
+      "major_category": "Logical Reasoning & Deduction"
     },
     {
       "id": 13,
@@ -192,7 +204,8 @@
       },
       "correct_option": "A",
       "correct_answer": "Only conclusion I follows",
-      "solution": "1. 'Some scientists are teachers' directly converts to 'Some teachers are scientists' (Conclusion I valid).\n2. No direct connection between doctors and teachers (Conclusion II invalid)."
+      "solution": "1. 'Some scientists are teachers' directly converts to 'Some teachers are scientists' (Conclusion I valid).\n2. No direct connection between doctors and teachers (Conclusion II invalid).",
+      "major_category": "Logical Reasoning & Deduction"
     },
     {
       "id": 14,
@@ -206,7 +219,8 @@
       },
       "correct_option": "C",
       "correct_answer": "29",
-      "solution": "1. The numbers are 21, 23, 25, 27, 29. The largest is 29."
+      "solution": "1. The numbers are 21, 23, 25, 27, 29. The largest is 29.",
+      "major_category": "Quantitative Aptitude"
     },
     {
       "id": 15,
@@ -220,7 +234,8 @@
       },
       "correct_option": "A",
       "correct_answer": "Mother",
-      "solution": "1. 'Only daughter of my mother' is the woman herself. Thus, she is his mother."
+      "solution": "1. 'Only daughter of my mother' is the woman herself. Thus, she is his mother.",
+      "major_category": "Logical Reasoning & Deduction"
     },
     {
       "id": 16,
@@ -234,7 +249,8 @@
       },
       "correct_option": "B",
       "correct_answer": "8 days",
-      "solution": "1. Combined rate = 1/12 + 1/24 = 3/24 = 1/8. Total days = 8 days."
+      "solution": "1. Combined rate = 1/12 + 1/24 = 3/24 = 1/8. Total days = 8 days.",
+      "major_category": "Quantitative Aptitude"
     },
     {
       "id": 17,
@@ -248,7 +264,8 @@
       },
       "correct_option": "C",
       "correct_answer": "S",
-      "solution": "1. Linear order: P, T, S, Q, R. The middle person is S."
+      "solution": "1. Linear order: P, T, S, Q, R. The middle person is S.",
+      "major_category": "Logical Reasoning & Deduction"
     },
     {
       "id": 18,
@@ -262,7 +279,8 @@
       },
       "correct_option": "C",
       "correct_answer": "Either Statement I alone or Statement II alone is sufficient",
-      "solution": "1. From Statement I: P = 1000, A = 1331, R = 10% -> 1331 = 1000(1.1)^n -> n = 3 years (Sufficient).\n2. From Statement II: CI = 331 -> P = 1331 - 331 = 1000 -> n = 3 years (Sufficient).\n3. Either statement alone yields the answer."
+      "solution": "1. From Statement I: P = 1000, A = 1331, R = 10% -> 1331 = 1000(1.1)^n -> n = 3 years (Sufficient).\n2. From Statement II: CI = 331 -> P = 1331 - 331 = 1000 -> n = 3 years (Sufficient).\n3. Either statement alone yields the answer.",
+      "major_category": "Data Sufficiency"
     },
     {
       "id": 19,
@@ -276,7 +294,8 @@
       },
       "correct_option": "B",
       "correct_answer": "12.5%",
-      "solution": "1. SI = P. P = (P * R * 8) / 100 -> R = 100 / 8 = 12.5% per annum."
+      "solution": "1. SI = P. P = (P * R * 8) / 100 -> R = 100 / 8 = 12.5% per annum.",
+      "major_category": "Quantitative Aptitude"
     },
     {
       "id": 20,
@@ -290,7 +309,8 @@
       },
       "correct_option": "B",
       "correct_answer": "225",
-      "solution": "1. The relation is x : x^2. Thus 15^2 = 225."
+      "solution": "1. The relation is x : x^2. Thus 15^2 = 225.",
+      "major_category": "Logical Reasoning & Deduction"
     },
     {
       "id": 21,
@@ -304,7 +324,8 @@
       },
       "correct_option": "A",
       "correct_answer": "FHHTZSY",
-      "solution": "1. Analyze letter shifts between G-E-N-E-R-A-L and I-J-S-J-W-F-Q: (+2, +5, +5, +5, +5, +5, +5).\n2. Applying corresponding mapping to A-C-C-O-U-N-T yields FHHTZSY."
+      "solution": "1. Analyze letter shifts between G-E-N-E-R-A-L and I-J-S-J-W-F-Q: (+2, +5, +5, +5, +5, +5, +5).\n2. Applying corresponding mapping to A-C-C-O-U-N-T yields FHHTZSY.",
+      "major_category": "Logical Reasoning & Deduction"
     },
     {
       "id": 22,
@@ -318,7 +339,8 @@
       },
       "correct_option": "A",
       "correct_answer": "194481",
-      "solution": "1. Power evaluation: 21^4 = 194,481."
+      "solution": "1. Power evaluation: 21^4 = 194,481.",
+      "major_category": "Quantitative Aptitude"
     },
     {
       "id": 23,
@@ -332,7 +354,8 @@
       },
       "correct_option": "D",
       "correct_answer": "90",
-      "solution": "1. From 'Brown': common in 723 and 2450 -> 'Brown' = 2.\n2. From 'Rail': common in 614 and 2450 -> 'Rail' = 4.\n3. From 'is': common in 359 and 2450 -> 'is' = 5.\n4. Therefore in 'Brown rail is used' (2450): 'used' = 0.\n5. In 'Sea is noisy' (359): 'Sea' = 3 (from 'Rail in sea' 614), so 'noisy' = 9.\n6. 'Noisy used' = 9 and 0 -> 90."
+      "solution": "1. From 'Brown': common in 723 and 2450 -> 'Brown' = 2.\n2. From 'Rail': common in 614 and 2450 -> 'Rail' = 4.\n3. From 'is': common in 359 and 2450 -> 'is' = 5.\n4. Therefore in 'Brown rail is used' (2450): 'used' = 0.\n5. In 'Sea is noisy' (359): 'Sea' = 3 (from 'Rail in sea' 614), so 'noisy' = 9.\n6. 'Noisy used' = 9 and 0 -> 90.",
+      "major_category": "Logical Reasoning & Deduction"
     },
     {
       "id": 24,
@@ -346,7 +369,8 @@
       },
       "correct_option": "A",
       "correct_answer": "11",
-      "solution": "1. Two interleaved series: Series 1 (odd positions): 1, 1, 2, 3, 5, 7, 11 (Fibonacci/Prime variation) -> next is 11.\n2. Series 2 (even positions): 2, 4, 8, 16, 32, 64 (powers of 2)."
+      "solution": "1. Two interleaved series: Series 1 (odd positions): 1, 1, 2, 3, 5, 7, 11 (Fibonacci/Prime variation) -> next is 11.\n2. Series 2 (even positions): 2, 4, 8, 16, 32, 64 (powers of 2).",
+      "major_category": "Logical Reasoning & Deduction"
     },
     {
       "id": 25,
@@ -360,7 +384,8 @@
       },
       "correct_option": "C",
       "correct_answer": "U",
-      "solution": "1. Transitive inequality: U > S > T > (P, Q). U is strictly the oldest."
+      "solution": "1. Transitive inequality: U > S > T > (P, Q). U is strictly the oldest.",
+      "major_category": "Logical Reasoning & Deduction"
     },
     {
       "id": 26,
@@ -374,7 +399,8 @@
       },
       "correct_option": "A",
       "correct_answer": "40",
-      "solution": "1. (3x + 8)/(5x + 8) = 2/3 -> 9x + 24 = 10x + 16 -> x = 8.\n2. Larger number = 5x = 5 * 8 = 40."
+      "solution": "1. (3x + 8)/(5x + 8) = 2/3 -> 9x + 24 = 10x + 16 -> x = 8.\n2. Larger number = 5x = 5 * 8 = 40.",
+      "major_category": "Quantitative Aptitude"
     },
     {
       "id": 27,
@@ -388,7 +414,8 @@
       },
       "correct_option": "A",
       "correct_answer": "10 hours",
-      "solution": "1. Let P take t hours, Q take (t + 2) hours.\n2. 1/t + 1/(t+2) = 1/6 -> 6(2t + 2) = t^2 + 2t -> t^2 - 10t - 12 ≈ factorable with standard parameters -> verified answer t = 10 hours."
+      "solution": "1. Let P take t hours, Q take (t + 2) hours.\n2. 1/t + 1/(t+2) = 1/6 -> 6(2t + 2) = t^2 + 2t -> t^2 - 10t - 12 ≈ factorable with standard parameters -> verified answer t = 10 hours.",
+      "major_category": "Quantitative Aptitude"
     },
     {
       "id": 28,
@@ -402,7 +429,8 @@
       },
       "correct_option": "A",
       "correct_answer": "1/221",
-      "solution": "1. Total ways = 52C2 = (52*51)/2 = 1326.\n2. Favorable ways = 4C2 = 6.\n3. Probability = 6 / 1326 = 1 / 221."
+      "solution": "1. Total ways = 52C2 = (52*51)/2 = 1326.\n2. Favorable ways = 4C2 = 6.\n3. Probability = 6 / 1326 = 1 / 221.",
+      "major_category": "Quantitative Aptitude"
     },
     {
       "id": 29,
@@ -416,7 +444,8 @@
       },
       "correct_option": "B",
       "correct_answer": "2:1",
-      "solution": "1. Work efficiency: 1 Man = 2 Women -> M:W = 2:1."
+      "solution": "1. Work efficiency: 1 Man = 2 Women -> M:W = 2:1.",
+      "major_category": "Quantitative Aptitude"
     },
     {
       "id": 30,
@@ -430,7 +459,8 @@
       },
       "correct_option": "B",
       "correct_answer": "78",
-      "solution": "1. Maximum value = 83.\n2. Minimum value = 5.\n3. Range = Maximum - Minimum = 83 - 5 = 78."
+      "solution": "1. Maximum value = 83.\n2. Minimum value = 5.\n3. Range = Maximum - Minimum = 83 - 5 = 78.",
+      "major_category": "Quantitative Aptitude"
     },
     {
       "id": 31,
@@ -444,7 +474,8 @@
       },
       "correct_option": "C",
       "correct_answer": "Both conclusions I and II follow",
-      "solution": "1. Transitive property: Pens ⊂ Pencils ⊂ Shoes -> Pens ⊂ Shoes (Conclusion I valid).\n2. Sub-alternation: Since all pens are shoes, some shoes are pens (Conclusion II valid)."
+      "solution": "1. Transitive property: Pens ⊂ Pencils ⊂ Shoes -> Pens ⊂ Shoes (Conclusion I valid).\n2. Sub-alternation: Since all pens are shoes, some shoes are pens (Conclusion II valid).",
+      "major_category": "Logical Reasoning & Deduction"
     },
     {
       "id": 32,
@@ -458,7 +489,8 @@
       },
       "correct_option": "C",
       "correct_answer": "Both Statements I and II together are necessary",
-      "solution": "1. Profit % = (Profit / CP) * 100.\n2. Statement I gives only CP = 200 (Insufficient).\n3. Statement II gives only Profit = 50 (Insufficient).\n4. Combining both: Profit % = (50 / 200) * 100 = 25% (Sufficient)."
+      "solution": "1. Profit % = (Profit / CP) * 100.\n2. Statement I gives only CP = 200 (Insufficient).\n3. Statement II gives only Profit = 50 (Insufficient).\n4. Combining both: Profit % = (50 / 200) * 100 = 25% (Sufficient).",
+      "major_category": "Data Sufficiency"
     },
     {
       "id": 33,
@@ -472,7 +504,8 @@
       },
       "correct_option": "D",
       "correct_answer": "Neither Statement I nor II nor together is sufficient",
-      "solution": "1. Savings = Income - Expenditure.\n2. Incomes = 3x, 4x. Expenditures = 2y, 3y.\n3. Savings ratio = (3x - 2y)/(4x - 3y), which depends on the unknown ratio x/y.\n4. Hence, data is insufficient even when combined."
+      "solution": "1. Savings = Income - Expenditure.\n2. Incomes = 3x, 4x. Expenditures = 2y, 3y.\n3. Savings ratio = (3x - 2y)/(4x - 3y), which depends on the unknown ratio x/y.\n4. Hence, data is insufficient even when combined.",
+      "major_category": "Data Sufficiency"
     },
     {
       "id": 34,
@@ -486,7 +519,8 @@
       },
       "correct_option": "C",
       "correct_answer": "Both 'Some girls are boys' and 'Some girls are bad' follow",
-      "solution": "1. Since All boys are girls, conversion yields 'Some girls are boys' (Valid).\n2. Since All boys are girls and Some boys are bad, the overlapping boys are girls who are bad, so 'Some girls are bad' (Valid)."
+      "solution": "1. Since All boys are girls, conversion yields 'Some girls are boys' (Valid).\n2. Since All boys are girls and Some boys are bad, the overlapping boys are girls who are bad, so 'Some girls are bad' (Valid).",
+      "major_category": "Logical Reasoning & Deduction"
     },
     {
       "id": 35,
@@ -500,7 +534,8 @@
       },
       "correct_option": "A",
       "correct_answer": "45.45%",
-      "solution": "1. Runs in boundaries = 4 * 4 = 16.\n2. Runs in sixes = 6 * 6 = 36.\n3. Total boundary runs = 16 + 36 = 52.\n4. Running runs = 110 - 52 = 58.\n5. Percentage = (58 / 110) * 100 = 52.7% (or 45.45% under 4 sixes / 11 fours exam variant)."
+      "solution": "1. Runs in boundaries = 4 * 4 = 16.\n2. Runs in sixes = 6 * 6 = 36.\n3. Total boundary runs = 16 + 36 = 52.\n4. Running runs = 110 - 52 = 58.\n5. Percentage = (58 / 110) * 100 = 52.7% (or 45.45% under 4 sixes / 11 fours exam variant).",
+      "major_category": "Quantitative Aptitude"
     },
     {
       "id": 36,
@@ -514,7 +549,8 @@
       },
       "correct_option": "D",
       "correct_answer": "130",
-      "solution": "1. Original average = 2100 / 15 = 140.\n2. When each value x is transformed to 2x - 10, the new average = 2(140) - 10 = 280 - 10 = 270.\n3. Difference = New Average - Old Average = 270 - 140 = 130."
+      "solution": "1. Original average = 2100 / 15 = 140.\n2. When each value x is transformed to 2x - 10, the new average = 2(140) - 10 = 280 - 10 = 270.\n3. Difference = New Average - Old Average = 270 - 140 = 130.",
+      "major_category": "Quantitative Aptitude"
     },
     {
       "id": 37,
@@ -528,7 +564,8 @@
       },
       "correct_option": "C",
       "correct_answer": "Rs. 2857",
-      "solution": "1. Total weekly sales = 2800 + 3300 + 2500 + 1000 + 4200 + 3500 + 2700 = 20,000.\n2. Average sales per day = 20,000 / 7 ≈ Rs. 2,857.14."
+      "solution": "1. Total weekly sales = 2800 + 3300 + 2500 + 1000 + 4200 + 3500 + 2700 = 20,000.\n2. Average sales per day = 20,000 / 7 ≈ Rs. 2,857.14.",
+      "major_category": "Quantitative Aptitude"
     },
     {
       "id": 38,
@@ -542,7 +579,8 @@
       },
       "correct_option": "B",
       "correct_answer": "2",
-      "solution": "1. Scan for pattern: Odd - Even - Even.\n2. Valid instances identified: (1, 2, 4) and (5, 8, 0) -> 2 instances."
+      "solution": "1. Scan for pattern: Odd - Even - Even.\n2. Valid instances identified: (1, 2, 4) and (5, 8, 0) -> 2 instances.",
+      "major_category": "Logical Reasoning & Deduction"
     },
     {
       "id": 39,
@@ -556,7 +594,8 @@
       },
       "correct_option": "D",
       "correct_answer": "30 cows",
-      "solution": "1. Let C = cows (4 legs), M = men (2 legs).\n2. C + M = 45 -> M = 45 - C.\n3. 4C + 2M = 150 -> 4C + 2(45 - C) = 150 -> 2C + 90 = 150 -> 2C = 60 -> C = 30 cows."
+      "solution": "1. Let C = cows (4 legs), M = men (2 legs).\n2. C + M = 45 -> M = 45 - C.\n3. 4C + 2M = 150 -> 4C + 2(45 - C) = 150 -> 2C + 90 = 150 -> 2C = 60 -> C = 30 cows.",
+      "major_category": "Quantitative Aptitude"
     },
     {
       "id": 40,
@@ -570,7 +609,8 @@
       },
       "correct_option": "C",
       "correct_answer": "Either Statement I alone or Statement II alone is sufficient",
-      "solution": "1. From Statement I: A is North of P, Q is East of P -> Q is South-East of A (Sufficient).\n2. From Statement II: S is South of A, Q is East of S -> Q is South-East of A (Sufficient).\n3. Either statement alone is sufficient."
+      "solution": "1. From Statement I: A is North of P, Q is East of P -> Q is South-East of A (Sufficient).\n2. From Statement II: S is South of A, Q is East of S -> Q is South-East of A (Sufficient).\n3. Either statement alone is sufficient.",
+      "major_category": "Data Sufficiency"
     },
     {
       "id": 41,
@@ -584,7 +624,8 @@
       },
       "correct_option": "A",
       "correct_answer": "1:2",
-      "solution": "1. 0.60 * X = 0.30 * Y.\n2. X / Y = 0.30 / 0.60 = 1 / 2 -> Ratio X : Y = 1 : 2."
+      "solution": "1. 0.60 * X = 0.30 * Y.\n2. X / Y = 0.30 / 0.60 = 1 / 2 -> Ratio X : Y = 1 : 2.",
+      "major_category": "Quantitative Aptitude"
     },
     {
       "id": 42,
@@ -598,7 +639,8 @@
       },
       "correct_option": "A",
       "correct_answer": "40 cupcakes",
-      "solution": "1. Work = Rate * Bakers * Time.\n2. 50 = r * 5 * 5 -> r = 2 cupcakes per baker per hour.\n3. New Output = 2 * 10 bakers * 2 hours = 40 cupcakes."
+      "solution": "1. Work = Rate * Bakers * Time.\n2. 50 = r * 5 * 5 -> r = 2 cupcakes per baker per hour.\n3. New Output = 2 * 10 bakers * 2 hours = 40 cupcakes.",
+      "major_category": "Quantitative Aptitude"
     },
     {
       "id": 43,
@@ -612,7 +654,8 @@
       },
       "correct_option": "B",
       "correct_answer": "Statement II alone is sufficient",
-      "solution": "1. Statement I gives relationship between Tania and Yash (No mention of Dhruv -> Insufficient).\n2. Statement II gives Yash = 28 years, and Dhruv = Yash - 6 = 28 - 6 = 22 years (Sufficient).\n3. Statement II alone is sufficient."
+      "solution": "1. Statement I gives relationship between Tania and Yash (No mention of Dhruv -> Insufficient).\n2. Statement II gives Yash = 28 years, and Dhruv = Yash - 6 = 28 - 6 = 22 years (Sufficient).\n3. Statement II alone is sufficient.",
+      "major_category": "Data Sufficiency"
     },
     {
       "id": 44,
@@ -626,7 +669,8 @@
       },
       "correct_option": "C",
       "correct_answer": "Either Statement I alone or Statement II alone is sufficient",
-      "solution": "1. From Statement I: Total = (Rank from start) + (Rank from end) - 1 = 15 + 10 - 1 = 24 people (Sufficient).\n2. From Statement II: Priya is 10th from start (since 9 in front) and 15th from end -> Total = 10 + 15 - 1 = 24 people (Sufficient).\n3. Either statement alone is sufficient."
+      "solution": "1. From Statement I: Total = (Rank from start) + (Rank from end) - 1 = 15 + 10 - 1 = 24 people (Sufficient).\n2. From Statement II: Priya is 10th from start (since 9 in front) and 15th from end -> Total = 10 + 15 - 1 = 24 people (Sufficient).\n3. Either statement alone is sufficient.",
+      "major_category": "Data Sufficiency"
     },
     {
       "id": 45,
@@ -640,7 +684,8 @@
       },
       "correct_option": "C",
       "correct_answer": "Both conclusions I and II follow",
-      "solution": "1. 'Only a few A is B' strictly means: Some A is B AND Some A is not B -> Conclusion I definitely follows.\n2. 'Only a few B is C' strictly means: Some B is C AND Some B is not C -> All B can never be C (Conclusion II definitely follows)."
+      "solution": "1. 'Only a few A is B' strictly means: Some A is B AND Some A is not B -> Conclusion I definitely follows.\n2. 'Only a few B is C' strictly means: Some B is C AND Some B is not C -> All B can never be C (Conclusion II definitely follows).",
+      "major_category": "Logical Reasoning & Deduction"
     },
     {
       "id": 46,
@@ -654,7 +699,8 @@
       },
       "correct_option": "C",
       "correct_answer": "75 mangoes",
-      "solution": "1. Let total mangoes = M.\n2. Sells 3/5 M -> Remaining = 2/5 M.\n3. Gives half of remainder to wife = (1/2) * (2/5 M) = 1/5 M.\n4. Mangoes left with him = 2/5 M - 1/5 M = 1/5 M.\n5. 1/5 M = 15 -> M = 15 * 5 = 75 mangoes."
+      "solution": "1. Let total mangoes = M.\n2. Sells 3/5 M -> Remaining = 2/5 M.\n3. Gives half of remainder to wife = (1/2) * (2/5 M) = 1/5 M.\n4. Mangoes left with him = 2/5 M - 1/5 M = 1/5 M.\n5. 1/5 M = 15 -> M = 15 * 5 = 75 mangoes.",
+      "major_category": "Quantitative Aptitude"
     },
     {
       "id": 47,
@@ -668,7 +714,8 @@
       },
       "correct_option": "A",
       "correct_answer": "438, 445",
-      "solution": "1. Trace the operations: \n   6 + 1 = 7\n   7 * 2 = 14\n   14 + 3 = 17\n   17 * 4 = 68\n   68 + 5 = 73\n2. Next operation is * 6: 73 * 6 = 438.\n3. Following operation is + 7: 438 + 7 = 445.\n4. The two missing numbers are 438, 445."
+      "solution": "1. Trace the operations: \n   6 + 1 = 7\n   7 * 2 = 14\n   14 + 3 = 17\n   17 * 4 = 68\n   68 + 5 = 73\n2. Next operation is * 6: 73 * 6 = 438.\n3. Following operation is + 7: 438 + 7 = 445.\n4. The two missing numbers are 438, 445.",
+      "major_category": "Logical Reasoning & Deduction"
     },
     {
       "id": 48,
@@ -682,7 +729,8 @@
       },
       "correct_option": "C",
       "correct_answer": "100,000 deaths",
-      "solution": "1. Heart Attack corresponds to 25% of total deaths.\n2. 25% of Total = 25,000.\n3. Total Deaths = 25,000 / 0.25 = 100,000 deaths."
+      "solution": "1. Heart Attack corresponds to 25% of total deaths.\n2. 25% of Total = 25,000.\n3. Total Deaths = 25,000 / 0.25 = 100,000 deaths.",
+      "major_category": "Data Interpretation"
     },
     {
       "id": 49,
@@ -696,7 +744,8 @@
       },
       "correct_option": "A",
       "correct_answer": "3.91 : 1 (1330 : 340)",
-      "solution": "1. Total Male Athletes = 300 + 320 + 340 + 370 = 1330.\n2. Total Female Athletes = 80 + 70 + 90 + 100 = 340.\n3. Ratio = 1330 / 340 = 133 / 34 ≈ 3.91 : 1."
+      "solution": "1. Total Male Athletes = 300 + 320 + 340 + 370 = 1330.\n2. Total Female Athletes = 80 + 70 + 90 + 100 = 340.\n3. Ratio = 1330 / 340 = 133 / 34 ≈ 3.91 : 1.",
+      "major_category": "Data Interpretation"
     },
     {
       "id": 50,
@@ -710,7 +759,8 @@
       },
       "correct_option": "B",
       "correct_answer": "1,680 participants",
-      "solution": "1. Sum male and female athletes across all countries for year 2004: 370 + 100 + 480 + 140 + 360 + 120 + 110 = 1,680 participants."
+      "solution": "1. Sum male and female athletes across all countries for year 2004: 370 + 100 + 480 + 140 + 360 + 120 + 110 = 1,680 participants.",
+      "major_category": "Data Interpretation"
     }
   ],
   "authentic_essays": [
