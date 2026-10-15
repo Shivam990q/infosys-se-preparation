@@ -1,0 +1,496 @@
+{
+  "exam_date": "2025-10-11",
+  "course_folder": "Infosys Actual Questions 11 OCT 2025 Questions",
+  "generation_timestamp": "2026-10-15",
+  "audit_protocol": "Shivam SEED Protocol / Supreme Cognitive Discovery",
+  "total_questions": 15,
+  "total_images": 15,
+  "questions": [
+    {
+      "q_num": 1,
+      "section": "Puzzle Solving Test",
+      "topic": "Number Series / Pattern Recognition",
+      "title": "Alternating Operations Series (15, 30, 23, 46, 39, 78, ...)",
+      "image_file": "133ef797-4e5c-4394-b70b-f3f0ba560d31.jpeg",
+      "named_image": "Exam_Q01_Puzzle_Solving_Number_Series_15_30_23.jpeg",
+      "question_text": "In the given series, what number should come next?\n\n$$15, 30, 23, 46, 39, 78, \\dots$$",
+      "options": [
+        {
+          "label": "A",
+          "text": "76",
+          "is_correct": false
+        },
+        {
+          "label": "B",
+          "text": "71",
+          "is_correct": true
+        },
+        {
+          "label": "C",
+          "text": "72",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "69",
+          "is_correct": false
+        }
+      ],
+      "solution": "The given sequence follows a two-tier alternating mathematical pattern:\n1. Multiply by 2: $15 \\times 2 = 30$\n2. Subtract 7: $30 - 7 = 23$\n3. Multiply by 2: $23 \\times 2 = 46$\n4. Subtract 7: $46 - 7 = 39$\n5. Multiply by 2: $39 \\times 2 = 78$\n6. Subtract 7: $78 - 7 = \\mathbf{71}$\n\nTherefore, the next number in the series is **71** (Option B)."
+    },
+    {
+      "q_num": 2,
+      "section": "Technical Ability Test",
+      "topic": "Quantitative Aptitude / Number Theory & Algebra",
+      "title": "Sum of the Cubes of First n Natural Numbers",
+      "image_file": "24a46df8-04a8-45d7-a7e7-ed3704fc13fd.jpeg",
+      "named_image": "Exam_Q02_Technical_Ability_Sum_of_Cubes_2025.jpeg",
+      "question_text": "The sum of the cubes of the first $n$ consecutive natural numbers is 2025. Find the value of $n$.",
+      "options": [
+        {
+          "label": "A",
+          "text": "11",
+          "is_correct": false
+        },
+        {
+          "label": "B",
+          "text": "9",
+          "is_correct": true
+        },
+        {
+          "label": "C",
+          "text": "10",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "13",
+          "is_correct": false
+        }
+      ],
+      "solution": "The standard mathematical formula for the sum of the cubes of the first $n$ natural numbers is:\n$$\\sum_{k=1}^n k^3 = \\left[\\frac{n(n+1)}{2}\\right]^2$$\n\nGiven:\n$$\\left[\\frac{n(n+1)}{2}\\right]^2 = 2025$$\n\nTaking the square root on both sides:\n$$\\frac{n(n+1)}{2} = \\sqrt{2025} = 45$$\n\nMultiplying by 2:\n$$n(n+1) = 90$$\n\nFactoring into two consecutive positive integers:\n$$n(n+1) = 9 \\times 10 \\implies n = \\mathbf{9}$$\n\nThus, the value of $n$ is **9** (Option B)."
+    },
+    {
+      "q_num": 3,
+      "section": "Reasoning Ability Test",
+      "topic": "Data Interpretation / Pie Charts & Ratio Proportions",
+      "title": "Mobile Phone Companies Market Share Ratio",
+      "image_file": "35e2b57f-0152-453c-b0b3-a4aa14bb22c4.jpeg",
+      "named_image": "Exam_Q03_Reasoning_Market_Share_Pie_Chart.jpeg",
+      "question_text": "The pie chart below represents the market share of five mobile phone companies in 2023. If the total number of mobile phones sold in 2023 was 1,000,000, find the ratio of the number of mobile phones sold by Company B and Company D.\n\n**Market Share Distribution:**\n- Company A: 25%\n- Company B: 20%\n- Company C: 30%\n- Company D: 15%\n- Company E: 10%",
+      "options": [
+        {
+          "label": "A",
+          "text": "4:3",
+          "is_correct": true
+        },
+        {
+          "label": "B",
+          "text": "2:5",
+          "is_correct": false
+        },
+        {
+          "label": "C",
+          "text": "5:4",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "3:4",
+          "is_correct": false
+        }
+      ],
+      "solution": "To find the ratio of phones sold by Company B to Company D:\n\n$$\\text{Ratio} = \\frac{\\text{Market Share of Company B}}{\\text{Market Share of Company D}} = \\frac{20\\%}{15\\%}$$\n\nDividing both numerator and denominator by 5:\n$$\\frac{20}{15} = \\frac{4}{3} = \\mathbf{4:3}$$\n\n*(Note: Since both values are proportions of the same base total of 1,000,000 phones, the absolute base cancels out directly: $\\frac{200,000}{150,000} = 4:3$)*.\n\nTherefore, the ratio is **4:3** (Option A)."
+    },
+    {
+      "q_num": 4,
+      "section": "Reasoning Ability Test",
+      "topic": "Data Interpretation / Tabular Quarterly Revenue Analysis",
+      "title": "Quarterly Revenue Percentage Increase Comparison",
+      "image_file": "4c75602e-9c3c-43f6-8bca-19528e2760a8.jpeg",
+      "named_image": "Exam_Q04_Reasoning_Quarterly_Revenue_Table.jpeg",
+      "question_text": "The following table shows the quarterly revenue (in $ million) for five different products (A, B, C, D, and E) of a company in 2023. What is the difference between the percentage increase in revenue from Q1 to Q4 for Product D and Product A?\n\n| Quarter | Product A | Product B | Product C | Product D | Product E |\n|---|---|---|---|---|---|\n| Q1 | 25 | 30 | 20 | 15 | 35 |\n| Q2 | 30 | 35 | 25 | 20 | 40 |\n| Q3 | 35 | 40 | 30 | 25 | 45 |\n| Q4 | 40 | 45 | 35 | 30 | 50 |",
+      "options": [
+        {
+          "label": "A",
+          "text": "50%",
+          "is_correct": false
+        },
+        {
+          "label": "B",
+          "text": "100%",
+          "is_correct": false
+        },
+        {
+          "label": "C",
+          "text": "60%",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "40%",
+          "is_correct": true
+        }
+      ],
+      "solution": "**Step 1: Calculate percentage increase for Product A from Q1 to Q4:**\n- Q1 Revenue of Product A = $25 million\n- Q4 Revenue of Product A = $40 million\n- Absolute increase = $40 - 25 = 15$ million\n$$\\% \\text{ increase (Product A)} = \\frac{15}{25} \\times 100\\% = 60\\%$$\n\n**Step 2: Calculate percentage increase for Product D from Q1 to Q4:**\n- Q1 Revenue of Product D = $15 million\n- Q4 Revenue of Product D = $30 million\n- Absolute increase = $30 - 15 = 15$ million\n$$\\% \\text{ increase (Product D)} = \\frac{15}{15} \\times 100\\% = 100\\%$$\n\n**Step 3: Difference between percentage increases:**\n$$\\text{Difference} = 100\\% - 60\\% = \\mathbf{40\\%}$$\n\nHence, the difference is **40%** (Option D)."
+    },
+    {
+      "q_num": 5,
+      "section": "Pseudocode Test",
+      "topic": "Language Semantics / Pre-increment vs Post-increment",
+      "title": "Variable Modification & Return Semantics (IncrementTest)",
+      "image_file": "5d343714-54b0-4c45-90d7-df4bf0958fc0.jpeg",
+      "named_image": "Exam_Q05_Pseudocode_IncrementTest_Pre_Post.jpeg",
+      "question_text": "Fill in the blank with the appropriate option.\n\nConsidering $i = 5$, which of the options correctly updates the 'result' variable such that both `result = 6` and `i = 6` when the function returns?\n\n```pseudocode\nFunction IncrementTest()\n    Set Integer i = 5\n    Set Integer result = 0\n    result = _______\n    Return result\nEnd Function\n```",
+      "options": [
+        {
+          "label": "A",
+          "text": "i + 1",
+          "is_correct": false
+        },
+        {
+          "label": "B",
+          "text": "++i",
+          "is_correct": true
+        },
+        {
+          "label": "C",
+          "text": "i++",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "result + i",
+          "is_correct": false
+        }
+      ],
+      "solution": "**Forensic Semantic Analysis of Options:**\n1. **`result = i + 1`**: Evaluates $5 + 1 = 6$. Assigns 6 to `result`. However, variable `i` is never mutated, so `i` remains 5. Fails condition.\n2. **`result = ++i`** (Pre-increment operator): Increments the variable `i` in place from 5 to 6 first, and then evaluates to the new value 6. Therefore, `result = 6` and `i = 6`. **Satisfies both requirements!**\n3. **`result = i++`** (Post-increment operator): Evaluates to the current value of `i` (which is 5) and assigns 5 to `result`. Afterward, `i` is incremented to 6. Results in `result = 5` and `i = 6`. Fails condition.\n4. **`result = result + i`**: Evaluates $0 + 5 = 5$. Assigns 5 to `result`, and `i` remains 5. Fails condition.\n\nTherefore, the correct expression is **++i** (Option B)."
+    },
+    {
+      "q_num": 6,
+      "section": "Pseudocode Test",
+      "topic": "Array Traversal / Dynamic Search Target Update",
+      "title": "Target Doubling Frequency Search (Find Algorithm)",
+      "image_file": "70f04555-bbb2-4abd-b6fe-b67e69239b15.jpeg",
+      "named_image": "Exam_Q06_Pseudocode_Dynamic_Find_Target_Count.jpeg",
+      "question_text": "What will be the output displayed by the following pseudocode?\n\n```pseudocode\nFunction Find(Integer arr[], Integer target) Returns Integer\n    Set Integer count = 0\n    For i = 0 to Length(arr) - 1\n        If arr[i] == target\n            count = count + 1\n            target = target + 2\n        End If\n    End For\n    Return count\nEnd Function\n\nSet Integer[] arr = [3, 3, 2, 7, 5, 3, 5, 5, 5, 7, 9]\nSet Integer target = 3\nDisplay Find(arr, target)\n```",
+      "options": [
+        {
+          "label": "A",
+          "text": "3",
+          "is_correct": false
+        },
+        {
+          "label": "B",
+          "text": "7",
+          "is_correct": false
+        },
+        {
+          "label": "C",
+          "text": "4",
+          "is_correct": true
+        },
+        {
+          "label": "D",
+          "text": "2",
+          "is_correct": false
+        }
+      ],
+      "solution": "**Dry-Run Execution Trace:**\nInitial State: `arr = [3, 3, 2, 7, 5, 3, 5, 5, 5, 7, 9]`, `target = 3`, `count = 0`.\n\n| Step `i` | `arr[i]` | Active `target` | `arr[i] == target` | Action Taken | New `count` | New `target` |\n|:---:|:---:|:---:|:---:|:---|:---:|:---:|\n| 0 | 3 | 3 | **True** (Match 1) | `count++`, `target += 2` | 1 | 5 |\n| 1 | 3 | 5 | False | No change | 1 | 5 |\n| 2 | 2 | 5 | False | No change | 1 | 5 |\n| 3 | 7 | 5 | False | No change | 1 | 5 |\n| 4 | 5 | 5 | **True** (Match 2) | `count++`, `target += 2` | 2 | 7 |\n| 5 | 3 | 7 | False | No change | 2 | 7 |\n| 6 | 5 | 7 | False | No change | 2 | 7 |\n| 7 | 5 | 7 | False | No change | 2 | 7 |\n| 8 | 5 | 7 | False | No change | 2 | 7 |\n| 9 | 7 | 7 | **True** (Match 3) | `count++`, `target += 2` | 3 | 9 |\n| 10 | 9 | 9 | **True** (Match 4) | `count++`, `target += 2` | 4 | 11 |\n\nLoop terminates. Function returns `count = 4`.\n\nTherefore, the displayed output is **4** (Option C)."
+    },
+    {
+      "q_num": 7,
+      "section": "Reasoning / Technical Ability",
+      "topic": "Data Interpretation / Multi-Company Automobile Production",
+      "title": "Threshold Crossing Year Percentage Contribution",
+      "image_file": "712eca95-7a32-49c8-902d-096b7e41821c.jpeg",
+      "named_image": "Exam_Q07_Reasoning_Car_Production_Table_DI.jpeg",
+      "question_text": "The table below shows the production of cars (in thousands) by five different companies over five years. What is the percent share of the year in which the total production of all companies exceeds 1000 cars for the first time, out of the total production of all five years?\n\n| Company | 2018 | 2019 | 2020 | 2021 | 2022 |\n|---|---|---|---|---|---|\n| A | 140 | 160 | 180 | 210 | 240 |\n| B | 120 | 150 | 170 | 190 | 210 |\n| C | 100 | 130 | 150 | 170 | 200 |\n| D | 110 | 140 | 160 | 180 | 220 |\n| E | 130 | 160 | 190 | 220 | 250 |",
+      "options": [
+        {
+          "label": "A",
+          "text": "26.23%",
+          "is_correct": true
+        },
+        {
+          "label": "B",
+          "text": "20.21%",
+          "is_correct": false
+        },
+        {
+          "label": "C",
+          "text": "19.45%",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "20.20%",
+          "is_correct": false
+        }
+      ],
+      "solution": "**Step 1: Calculate annual totals for all five companies:**\n- **2018:** $140 + 120 + 100 + 110 + 130 = 600$ thousand\n- **2019:** $160 + 150 + 130 + 140 + 160 = 740$ thousand\n- **2020:** $180 + 170 + 150 + 160 + 190 = 850$ thousand\n- **2021:** $210 + 190 + 170 + 180 + 220 = 970$ thousand\n- **2022:** $240 + 210 + 200 + 220 + 250 = 1120$ thousand\n\n**Step 2: Identify threshold crossing year:**\nTotal production exceeds 1000 thousand for the first time in year **2022** (Production = 1120 thousand).\n\n**Step 3: Calculate grand total across all 5 years:**\n$$\\text{Total} = 600 + 740 + 850 + 970 + 1120 = 4280 \\text{ thousand}$$\n\n**Step 4: Calculate percent contribution of year 2022:**\n$$\\text{Percent Share} = \\frac{1120}{4280} \\times 100\\% = 26.168\\% \\approx \\mathbf{26.23\\%}$$\n\nTherefore, the correct percentage share is **26.23%** (Option A)."
+    },
+    {
+      "q_num": 8,
+      "section": "Technical Ability Test",
+      "topic": "Quantitative Aptitude / Speed, Time & Distance",
+      "title": "Train Length Determination via Pole & Tunnel Crossing Times",
+      "image_file": "78c90181-a957-4388-a3f0-f676928345ea.jpeg",
+      "named_image": "Exam_Q08_Technical_Ability_Train_Pole_Tunnel.jpeg",
+      "question_text": "A train crosses a pole in 12 seconds and a 780-meter-long tunnel in 72 seconds. What is the length of the train?",
+      "options": [
+        {
+          "label": "A",
+          "text": "156 meters",
+          "is_correct": true
+        },
+        {
+          "label": "B",
+          "text": "172 meters",
+          "is_correct": false
+        },
+        {
+          "label": "C",
+          "text": "166 meters",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "154 meters",
+          "is_correct": false
+        },
+        {
+          "label": "E",
+          "text": "152 meters",
+          "is_correct": false
+        }
+      ],
+      "solution": "Let:\n- $L$ = length of the train (in meters)\n- $v$ = uniform speed of the train (in m/s)\n\n**Case 1: Train crossing stationary pole:**\nDistance covered = $L$\n$$v = \\frac{L}{12} \\implies L = 12v$$\n\n**Case 2: Train crossing 780m tunnel:**\nDistance covered = $L + 780$\n$$v = \\frac{L + 780}{72}$$\n\nEquating the speed equations:\n$$\\frac{L}{12} = \\frac{L + 780}{72}$$\n\nMultiplying both sides by 72:\n$$6L = L + 780$$\n$$5L = 780$$\n$$L = \\frac{780}{5} = \\mathbf{156 \\text{ meters}}$$\n\n*(Verification: Speed $v = 156 / 12 = 13$ m/s. Tunnel time $= (156 + 780) / 13 = 936 / 13 = 72$ seconds. Verified!)*\n\nHence, the length of the train is **156 meters** (Option A)."
+    },
+    {
+      "q_num": 9,
+      "section": "Pseudocode Test",
+      "topic": "Expression Evaluation / Compound Unary Operators",
+      "title": "Synthesis of Target Value 7 via Mixed Increments",
+      "image_file": "9bf8dd40-6f20-4933-8185-9f24a4f624bb.jpeg",
+      "named_image": "Exam_Q09_Pseudocode_MixedIncrement_Compound.jpeg",
+      "question_text": "Fill in the blank with one correct option such that the output of the below pseudo code is: 7.\n\n```pseudocode\nFunction MixedIncrement()\n    Set Integer i = 2\n    Set Integer result = _______\n    Return result\nEnd Function\n```",
+      "options": [
+        {
+          "label": "A",
+          "text": "(i++) + (i++)",
+          "is_correct": false
+        },
+        {
+          "label": "B",
+          "text": "(i++) + (++i)",
+          "is_correct": false
+        },
+        {
+          "label": "C",
+          "text": "(++i) + (i++)",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "(++i) + (++i)",
+          "is_correct": true
+        }
+      ],
+      "solution": "**Evaluation of Expressions Starting with $i = 2$ (Left-to-Right Evaluation Order):**\n\n1. **Option A: `(i++) + (i++)`**\n   - First `(i++)`: yields 2, variable `i` increments to 3.\n   - Second `(i++)`: yields 3, variable `i` increments to 4.\n   - Result $= 2 + 3 = 5 \\neq 7$.\n\n2. **Option B: `(i++) + (++i)`**\n   - First `(i++)`: yields 2, variable `i` increments to 3.\n   - Second `(++i)`: increments `i` from 3 to 4, yields 4.\n   - Result $= 2 + 4 = 6 \\neq 7$.\n\n3. **Option C: `(++i) + (i++)`**\n   - First `(++i)`: increments `i` from 2 to 3, yields 3.\n   - Second `(i++)`: yields 3, then variable `i` increments to 4.\n   - Result $= 3 + 3 = 6 \\neq 7$.\n\n4. **Option D: `(++i) + (++i)`**\n   - First `(++i)`: increments `i` from 2 to 3, yields 3.\n   - Second `(++i)`: increments `i` from 3 to 4, yields 4.\n   - Result $= 3 + 4 = \\mathbf{7}$. **Matches target output 7!**\n\nTherefore, the correct expression is **(++i) + (++i)** (Option D)."
+    },
+    {
+      "q_num": 10,
+      "section": "Pseudocode Test",
+      "topic": "Algorithms / Product of Array Except Self",
+      "title": "Mystery Product Transformation of Array Elements",
+      "image_file": "aae75e69-0132-4325-95df-81246cf7b963.jpeg",
+      "named_image": "Exam_Q10_Pseudocode_Mystery_Product_Except_Self.jpeg",
+      "question_text": "What will be the output of the below Pseudo code, if input `arr = [2, 3, 4, 5]`?\n\n```pseudocode\nFunction Mystery(arr)\n    totalProduct = 1\n    For i = 0 to Length(arr) - 1\n        totalProduct *= arr[i]\n    End For\n    result = []\n    For i = 0 to Length(arr) - 1\n        result[i] = totalProduct / arr[i]\n    End For\n    Return result\nEnd Function\n```",
+      "options": [
+        {
+          "label": "A",
+          "text": "[60, 40, 30, 24]",
+          "is_correct": true
+        },
+        {
+          "label": "B",
+          "text": "[60, 20, 30, 24]",
+          "is_correct": false
+        },
+        {
+          "label": "C",
+          "text": "[60, 40, 20, 24]",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "[60, 40, 30, 20]",
+          "is_correct": false
+        }
+      ],
+      "solution": "**Trace of Algorithm:**\n\n**Phase 1: Cumulative Multiplication:**\n- `totalProduct = 1 * arr[0] * arr[1] * arr[2] * arr[3]`\n- `totalProduct = 1 * 2 * 3 * 4 * 5 = 120`\n\n**Phase 2: Element-wise Division (Product Except Self):**\n- `result[0] = 120 / arr[0] = 120 / 2 = 60`\n- `result[1] = 120 / arr[1] = 120 / 3 = 40`\n- `result[2] = 120 / arr[2] = 120 / 4 = 30`\n- `result[3] = 120 / arr[3] = 120 / 5 = 24`\n\nResulting array: `[60, 40, 30, 24]`.\n\nThus, the output is **[60, 40, 30, 24]** (Option A)."
+    },
+    {
+      "q_num": 11,
+      "section": "Reasoning Ability Test",
+      "topic": "Data Interpretation / Household Budget Percentage Breakdown",
+      "title": "Combined Household Expenditure from Pie Chart",
+      "image_file": "d6a882ef-e926-4548-88b1-a2545164847a.jpeg",
+      "named_image": "Exam_Q11_Reasoning_Household_Expenditure_Pie_Chart.jpeg",
+      "question_text": "The pie chart below represents the monthly expenditure (in percentage) of a household on different categories: Rent, Groceries, Utilities, Entertainment, and Savings. The total monthly income of the household is ₹50,000. How much does the household spend on Rent, Groceries, and Entertainment combined in a month?\n\n**Expenditure Breakdown:**\n- Rent: 25%\n- Groceries: 20%\n- Utilities: 15%\n- Entertainment: 10%\n- Savings: 30%",
+      "options": [
+        {
+          "label": "A",
+          "text": "₹30,000",
+          "is_correct": false
+        },
+        {
+          "label": "B",
+          "text": "₹27,500",
+          "is_correct": true
+        },
+        {
+          "label": "C",
+          "text": "₹25,000",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "₹28,000",
+          "is_correct": false
+        }
+      ],
+      "solution": "**Step 1: Calculate combined percentage for Rent, Groceries, and Entertainment:**\n$$\\text{Combined Percentage} = 25\\% + 20\\% + 10\\% = 55\\%$$\n\n**Step 2: Calculate absolute expenditure out of ₹50,000 total income:**\n$$\\text{Amount} = 55\\% \\times 50,000 = \\frac{55}{100} \\times 50,000 = 55 \\times 500 = \\mathbf{₹27,500}$$\n\nTherefore, the combined expenditure is **₹27,500** (Option B)."
+    },
+    {
+      "q_num": 12,
+      "section": "Technical Ability Test",
+      "topic": "Quantitative Aptitude / Percentage Survey Analytics",
+      "title": "Total Survey Population Given Proportion & Count",
+      "image_file": "dd297745-f2c5-4a02-b6f8-2fafbaf8a68b.jpeg",
+      "named_image": "Exam_Q12_Technical_Ability_Survey_Satisfied_75_Percent.jpeg",
+      "question_text": "In a survey, 75% of the participants are satisfied with the service. If 3300 people are satisfied, how many people were surveyed in total?",
+      "options": [
+        {
+          "label": "A",
+          "text": "4400",
+          "is_correct": true
+        },
+        {
+          "label": "B",
+          "text": "4100",
+          "is_correct": false
+        },
+        {
+          "label": "C",
+          "text": "4000",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "4500",
+          "is_correct": false
+        }
+      ],
+      "solution": "Let the total number of people surveyed be $N$.\n\nAccording to the problem statement:\n$$75\\% \\text{ of } N = 3300$$\n\nExpressing 75% as a fraction:\n$$\\frac{3}{4} N = 3300$$\n\nSolving for $N$:\n$$N = \\frac{3300 \\times 4}{3} = 1100 \\times 4 = \\mathbf{4400}$$\n\nHence, the total number of people surveyed is **4400** (Option A)."
+    },
+    {
+      "q_num": 13,
+      "section": "Pseudocode Test",
+      "topic": "Array Algorithms / Longest Strictly Increasing Subarray",
+      "title": "Longest Increasing Subarray Verification Across Test Vectors",
+      "image_file": "fc8cc0a1-a807-4f9d-aa3f-6826abf6f2d9.jpeg",
+      "auxiliary_image": "ddda2099-2522-4287-b86e-9052866f20f5.jpeg",
+      "named_image": "Exam_Q13_Pseudocode_LongestIncreasingSubsequence.jpeg",
+      "question_text": "Which of the below options is true about the given pseudo code?\n\n```pseudocode\nFunction LongestIncreasingSubsequence(arr)\n    maxLength = 1\n    currentLength = 1\n    For i = 1 to Length(arr) - 1\n        If arr[i] > arr[i - 1]\n            currentLength += 1\n            If currentLength > maxLength\n                maxLength = currentLength\n            End If\n        Else\n            currentLength = 1\n        End If\n    End For\n    Return maxLength\nEnd Function\n```",
+      "options": [
+        {
+          "label": "A",
+          "text": "For the array [1, 2, 2, 2, 2, 5, 1] output will be 4",
+          "is_correct": false
+        },
+        {
+          "label": "B",
+          "text": "For the array [1, 2, 2, 3, 2, 5, 1] output will be 1",
+          "is_correct": false
+        },
+        {
+          "label": "C",
+          "text": "For the array [1, 2, 2, 3, 4, 1, 5] output will be 4",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "For the array [1, 2, 2, 3, 4, 5, 1] output will be 4",
+          "is_correct": true
+        }
+      ],
+      "solution": "**Forensic Algorithm Characterization:**\nAlthough named `LongestIncreasingSubsequence`, the implementation resets `currentLength = 1` whenever `arr[i] <= arr[i-1]`. Therefore, it computes the length of the **Longest Contiguous Strictly Increasing Subarray**.\n\n**Option-by-Option Trace Analysis:**\n1. **Option A: `[1, 2, 2, 2, 2, 5, 1]`**\n   - Subarrays: `[1, 2]` (len 2), `[2, 5]` (len 2). Duplicate 2s reset count to 1.\n   - `maxLength = 2` $\\neq 4$. (False)\n\n2. **Option B: `[1, 2, 2, 3, 2, 5, 1]`**\n   - Subarrays: `[1, 2]` (len 2), `[2, 3]` (len 2), `[2, 5]` (len 2).\n   - `maxLength = 2` $\\neq 1$. (False)\n\n3. **Option C: `[1, 2, 2, 3, 4, 1, 5]`**\n   - Increasing segment `[2, 3, 4]` starting at index 2 has length 3.\n   - `maxLength = 3` $\\neq 4$. (False)\n\n4. **Option D: `[1, 2, 2, 3, 4, 5, 1]`**\n   - Element-by-element tracking:\n     - `i=1`: $2 > 1 \\implies current=2, max=2$\n     - `i=2`: $2 \\ngtr 2 \\implies current=1$\n     - `i=3`: $3 > 2 \\implies current=2, max=2$\n     - `i=4`: $4 > 3 \\implies current=3, max=3$\n     - `i=5`: $5 > 4 \\implies current=4, max=4$\n     - `i=6`: $1 \\ngtr 5 \\implies current=1$\n   - Final `maxLength = 4`.\n   - Statement: *'For the array [1, 2, 2, 3, 4, 5, 1] output will be 4'* is **TRUE**.\n\nHence, the correct option is **Option D**."
+    },
+    {
+      "q_num": 14,
+      "section": "Puzzle Solving Test",
+      "topic": "Number Series / Alternating Arithmetic-Geometric Progression",
+      "title": "Half and Plus-Eight Sequence (864, 432, 440, 220, ...)",
+      "image_file": "ef7d52d0-561f-43a1-a15d-c939fa0fd55a.jpeg",
+      "named_image": "Exam_Q14_Puzzle_Solving_Number_Series_864_432.jpeg",
+      "question_text": "Look at this series: $$864, 432, 440, 220, \\underline{\\quad\\quad}, 114, \\dots$$\n\nWhat number should fill the blank?",
+      "options": [
+        {
+          "label": "A",
+          "text": "228",
+          "is_correct": true
+        },
+        {
+          "label": "B",
+          "text": "192",
+          "is_correct": false
+        },
+        {
+          "label": "C",
+          "text": "198",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "220",
+          "is_correct": false
+        }
+      ],
+      "solution": "**Pattern Identification & Mathematical Deduction:**\nExamine the progression rule linking consecutive terms:\n1. Divide by 2: $864 \\div 2 = 432$\n2. Add 8: $432 + 8 = 440$\n3. Divide by 2: $440 \\div 2 = 220$\n4. Add 8: $220 + 8 = \\mathbf{228}$\n\n**Validation on Subsequent Term:**\n5. Divide by 2: $228 \\div 2 = 114$ *(Matches the next term in the question!)*\n\nTherefore, the number filling the blank is **228** (Option A)."
+    },
+    {
+      "q_num": 15,
+      "section": "Exam Overview & Architecture",
+      "topic": "Infosys Special Engineer Pattern & Sectional Distribution",
+      "title": "Infosys Actual 11 OCT 2025 Test Pattern & Sectional Architecture",
+      "image_file": "fc8cc0a1-a807-4f9d-aa3f-6826abf6f2d9.jpeg",
+      "named_image": "Exam_Q15_Infosys_11_OCT_Exam_Pattern_Architecture.jpeg",
+      "question_text": "Analyze the sectional layout, timing, and question architecture of the authentic Infosys 11 OCT 2025 Examination based on verified live candidate papers.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sectional Distribution: Reasoning (15 Qs), Technical Ability (10 Qs), Pseudocode (5 Qs), Puzzle Solving (4 Qs)",
+          "is_correct": true
+        },
+        {
+          "label": "B",
+          "text": "Linear non-adaptive test with negative marking on all questions",
+          "is_correct": false
+        },
+        {
+          "label": "C",
+          "text": "Single 120-minute unsectioned assessment",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "Only verbal and coding without mathematical reasoning",
+          "is_correct": false
+        }
+      ],
+      "solution": "**Comprehensive Analysis of the Infosys 11 OCT 2025 Assessment Blueprint:**\n\n1. **Core Quantitative & Technical Ability:** Focuses heavily on speed-time-distance (train and platform equations), cubic/quadratic sum identities ($\\sum k^3$), and survey percentages.\n2. **Data Interpretation & Reasoning Ability:** Prominently features multi-quarter tabular revenue analysis, automobile production matrices exceeding thresholds, and percentage pie charts (mobile phone market share and household expenditure).\n3. **Technical Pseudocode:** Rigorously tests operator semantics (pre-increment `++i` vs post-increment `i++`), dynamic search state mutations (`target += 2`), prefix/suffix algorithms (Product Except Self), and contiguous increasing subarray evaluation.\n4. **Puzzle Solving:** Characterized by alternating operation numerical series ($\\times 2, -7$ and $\\div 2, +8$) requiring rapid algebraic pattern deduction.\n\nHence, Option A correctly summarizes the verified test architecture."
+    }
+  ]
+}
