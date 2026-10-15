@@ -1,21 +1,10 @@
-# Topic 01: Official Infosys PYQ Pseudocode & Architecture Questions
+# Topic: Pseudocode Execution & Bitwise Architecture
 
-> **Target Assessment**: Infosys Technical Assessment — Pseudocode Sub-section  
-> **Source Document**: `Infy PYQ PSEUDO CODE -PART1.pdf`  
-> **Total Questions**: 9 Official Questions  
-> **Verification Status**: 100% Mathematically & Programmatically Proven (0 Guesswork, 0 Placeholders)  
-> **Standard Compliance**: C11 / C++17 Syntax, Bitwise Logic, Dynamic Programming, Recursion Stack Tracing  
-
----
-
-## 📌 Architecture Reference & Evaluation Guide
-
-In the Infosys recruitment examination, the **Pseudocode** section tests candidates on:
-1. **Bitwise Operator Precedence and Evaluation**: Precision bitwise operations (`^` XOR, `&` AND, `|` OR, `~` NOT) and arithmetic operator precedence.
-2. **Array State Mutation**: Single-pass forward and backward array transformations, rolling accumulators, and index out-of-bounds awareness.
-3. **Recursive Stack Unwinding**: Recurrence relations (Fibonacci, nested recursive calls, tail and non-tail recursion).
-4. **Iterative Convergence & Modulo Arithmetic**: Loop condition termination, modulo operations with integer division semantics.
-5. **Language Syntax Specifications**: C/C++ grammar legality (e.g., statements vs. expressions inside ternary conditional operators).
+> **Assessment Stream**: Infosys Systems Engineer (SE) Examination
+> **Section**: Section 03 — Technical Ability (Pseudocode)
+> **Total Extracted Questions**: 9 Official Questions
+> **Verification Status**: 100% Mathematically Proven (Zero Guesswork, Zero Placeholders)
+> **Figure References**: High-Resolution Original Slide Captures in ../images/
 
 ---
 
@@ -25,7 +14,7 @@ In the Infosys recruitment examination, the **Pseudocode** section tests candida
 - **Question ID**: `INFY-PSEUDO-PYQ-01`
 - **Slide Reference**: Page 2 (`pseudo_p2_img1_1085x1068.png`, `pseudo_p2_img2_275x116.png`, `pseudo_p2_img3_2304x1296.jpeg`)
 - **Figure**:
-  ![Official Slide Reference](images/pseudo_p2_img3_2304x1296.jpeg)
+  ![Official Slide Reference](../images/pseudo_p2_img3_2304x1296.jpeg)
 - **Core Concept**: Bitwise XOR (`^`) evaluation, operator precedence, sequential variable reassignment.
 
 ### Original Problem Statement
@@ -94,13 +83,15 @@ $$\mathbf{C.\ 33}$$
 
 ---
 
+---
+
 ## Question 2: Array Rolling Window Mutation
 
 ### Question Metadata
 - **Question ID**: `INFY-PSEUDO-PYQ-02`
 - **Slide Reference**: Page 3 (`pseudo_p3_img1_1085x1068.png`, `pseudo_p3_img2_409x138.png`, `pseudo_p3_img3_2304x1296.jpeg`)
 - **Figure**:
-  ![Official Slide Reference](images/pseudo_p3_img3_2304x1296.jpeg)
+  ![Official Slide Reference](../images/pseudo_p3_img3_2304x1296.jpeg)
 - **Core Concept**: 1-D array manipulation, rolling summation, loop bounds.
 
 ### Original Problem Statement
@@ -169,13 +160,15 @@ $$\mathbf{C)\ 3\ 5\ 7\ 9\ 5}$$
 
 ---
 
+---
+
 ## Question 3: Classical Fibonacci Recurrence
 
 ### Question Metadata
 - **Question ID**: `INFY-PSEUDO-PYQ-03`
 - **Slide Reference**: Page 4 (`pseudo_p4_img1_1085x1068.png`, `pseudo_p4_img2_683x154.png`, `pseudo_p4_img3_2304x1296.jpeg`)
 - **Figure**:
-  ![Official Slide Reference](images/pseudo_p4_img3_2304x1296.jpeg)
+  ![Official Slide Reference](../images/pseudo_p4_img3_2304x1296.jpeg)
 - **Core Concept**: Recursion, Fibonacci recurrence tree, base condition evaluation.
 
 ### Original Problem Statement
@@ -229,13 +222,15 @@ $$\mathbf{a)\ 21}$$
 
 ---
 
+---
+
 ## Question 4: Bitwise AND / OR Precedence Logic
 
 ### Question Metadata
 - **Question ID**: `INFY-PSEUDO-PYQ-04`
 - **Slide Reference**: Page 5 (`pseudo_p5_img1_1085x1068.png`, `pseudo_p5_img3_371x91.png`, `pseudo_p5_img4_2304x1296.jpeg`)
 - **Figure**:
-  ![Official Slide Reference](images/pseudo_p5_img4_2304x1296.jpeg)
+  ![Official Slide Reference](../images/pseudo_p5_img4_2304x1296.jpeg)
 - **Core Concept**: Bitwise AND (`&`), bitwise OR (`|`), arithmetic addition precedence.
 
 ### Original Problem Statement
@@ -291,13 +286,15 @@ $$\mathbf{B)\ 2}$$
 
 ---
 
+---
+
 ## Question 5: Sequential Reassignment Cascade
 
 ### Question Metadata
 - **Question ID**: `INFY-PSEUDO-PYQ-05`
 - **Slide Reference**: Page 6 (`pseudo_p6_img1_1085x1068.png`, `pseudo_p6_img2_420x163.png`, `pseudo_p6_img3_2304x1296.jpeg`)
 - **Figure**:
-  ![Official Slide Reference](images/pseudo_p6_img3_2304x1296.jpeg)
+  ![Official Slide Reference](../images/pseudo_p6_img3_2304x1296.jpeg)
 - **Core Concept**: Sequential imperative updates, dependency tracking.
 
 ### Original Problem Statement
@@ -347,13 +344,15 @@ $$\mathbf{C)\ 5\ 12\ 10}$$
 
 ---
 
+---
+
 ## Question 6: Nested Recursive Wrapper
 
 ### Question Metadata
 - **Question ID**: `INFY-PSEUDO-PYQ-06`
 - **Slide Reference**: Page 7 (`pseudo_p7_img1_1085x1068.png`, `pseudo_p7_img2_263x134.png`, `pseudo_p7_img3_2304x1296.jpeg`)
 - **Figure**:
-  ![Official Slide Reference](images/pseudo_p7_img3_2304x1296.jpeg)
+  ![Official Slide Reference](../images/pseudo_p7_img3_2304x1296.jpeg)
 - **Core Concept**: Higher-order recursion, nested functional composition, termination condition.
 
 ### Original Problem Statement
@@ -413,13 +412,15 @@ $$\mathbf{A.\ 1}$$
 
 ---
 
+---
+
 ## Question 7: While-Loop Modulo Accumulator
 
 ### Question Metadata
 - **Question ID**: `INFY-PSEUDO-PYQ-07`
 - **Slide Reference**: Page 8 (`pseudo_p8_img1_1085x1068.png`, `pseudo_p8_img2_325x179.png`, `pseudo_p8_img3_2304x1296.jpeg`)
 - **Figure**:
-  ![Official Slide Reference](images/pseudo_p8_img3_2304x1296.jpeg)
+  ![Official Slide Reference](../images/pseudo_p8_img3_2304x1296.jpeg)
 - **Core Concept**: While loops, modulo arithmetic, loop condition termination.
 
 ### Original Problem Statement
@@ -487,13 +488,15 @@ $$\mathbf{C.\ 156}$$
 
 ---
 
+---
+
 ## Question 8: Recursive Product via Successive Addition
 
 ### Question Metadata
 - **Question ID**: `INFY-PSEUDO-PYQ-08`
 - **Slide Reference**: Page 9 (`pseudo_p9_img1_1085x1068.png`, `pseudo_p9_img2_397x164.png`, `pseudo_p9_img3_2304x1296.jpeg`)
 - **Figure**:
-  ![Official Slide Reference](images/pseudo_p9_img3_2304x1296.jpeg)
+  ![Official Slide Reference](../images/pseudo_p9_img3_2304x1296.jpeg)
 - **Core Concept**: Recursion, Peano arithmetic multiplication model.
 
 ### Original Problem Statement
@@ -545,13 +548,15 @@ $$\mathbf{C.\ 81}$$
 
 ---
 
+---
+
 ## Question 9: Ternary Operator Syntax Trap & Compilation Constraint
 
 ### Question Metadata
 - **Question ID**: `INFY-PSEUDO-PYQ-09`
 - **Slide Reference**: Page 10 (`pseudo_p10_img1_1085x1068.png`, `pseudo_p10_img2_455x140.png`, `pseudo_p10_img3_2304x1296.jpeg`)
 - **Figure**:
-  ![Official Slide Reference](images/pseudo_p10_img3_2304x1296.jpeg)
+  ![Official Slide Reference](../images/pseudo_p10_img3_2304x1296.jpeg)
 - **Core Concept**: C/C++ grammar legality, jump statements inside expressions, ternary operator rules.
 
 ### Original Problem Statement
@@ -624,3 +629,5 @@ $$\mathbf{C.\ \text{Error}}$$
 | `INFY-PSEUDO-07` | While Loop Modulo Accumulator | $3 \times ((50 \bmod 3) + 50) = 3 \times 52$ | $156$ | **C** |
 | `INFY-PSEUDO-08` | Recursive Multiplication | $\sum_{i=1}^{9} 9 = 9 \times 9$ | $81$ | **C** |
 | `INFY-PSEUDO-09` | C Grammar & Ternary Constraint | `return` statement in ternary expression | Compilation Error | **C** |
+
+---
