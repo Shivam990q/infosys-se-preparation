@@ -33,6 +33,8 @@ Set 2 explores advanced syntactic and logical patterns:
 
 ### Question 1: Central Thesis / Main Idea Identification
 **Question ID**: `INFY-SET2-01`  
+- **Figure**:
+  ![Original Question Slide](images/mock2_slide_p16.png)  
 The main idea of the passage is:
 
 #### Options
@@ -53,6 +55,8 @@ $$\mathbf{\text{Verified Answer: (b) Climate change is a global challenge requir
 
 ### Question 2: Negative Fact / Exclusion Search
 **Question ID**: `INFY-SET2-02`  
+- **Figure**:
+  ![Original Question Slide](images/mock2_slide_p16.png)  
 Which of the following is NOT mentioned as an individual effort?
 
 #### Options
@@ -78,6 +82,8 @@ $$\mathbf{\text{Verified Answer: (c) Planting trees}}$$
 
 ### Question 3: Subject-Verb Agreement with "As well as"
 **Question ID**: `INFY-SET2-03`  
+- **Figure**:
+  ![Original Question Slide](images/mock2_slide_p17.png)  
 She, as well as her friends, ___ invited to the party.
 
 #### Options
@@ -100,6 +106,8 @@ $$\mathbf{\text{Verified Answer: (c) is}}$$
 
 ### Question 4: Verbs Followed Strictly by Gerunds
 **Question ID**: `INFY-SET2-04`  
+- **Figure**:
+  ![Original Question Slide](images/mock2_slide_p17.png)  
 He enjoys to play football in the evening.
 
 #### Options
@@ -122,6 +130,8 @@ $$\mathbf{\text{Verified Answer: (b) He enjoys playing football in the evening.}
 
 ### Question 5: Correlative Conjunctions & The Proximity Rule
 **Question ID**: `INFY-SET2-05`  
+- **Figure**:
+  ![Original Question Slide](images/mock2_slide_p17.png)  
 Neither the teacher nor the students ___ present in the hall.
 
 #### Options
@@ -146,6 +156,8 @@ $$\mathbf{\text{Verified Answer: (b) were}}$$
 
 ### Question 6: Elimination of Modal Redundancy ("Can able to")
 **Question ID**: `INFY-SET2-06`  
+- **Figure**:
+  ![Original Question Slide](images/mock2_slide_p18.png)  
 Choose the correct sentence:
 
 #### Options
@@ -170,6 +182,8 @@ $$\mathbf{\text{Verified Answer: (c) I am able to solve the problem.}}$$
 
 ### Question 7: Comparative Degree of Latin Adjectives
 **Question ID**: `INFY-SET2-07`  
+- **Figure**:
+  ![Original Question Slide](images/mock2_slide_p18.png)  
 Pick the grammatically correct option:
 
 #### Options
@@ -192,6 +206,8 @@ $$\mathbf{\text{Verified Answer: (a) He is junior to me in service.}}$$
 
 ### Question 8: Future Perfect Tense Mechanics
 **Question ID**: `INFY-SET2-08`  
+- **Figure**:
+  ![Original Question Slide](images/mock2_slide_p19.png)  
 By the time we reach the station, the train ___ .
 
 #### Options
@@ -213,6 +229,8 @@ $$\mathbf{\text{Verified Answer: (c) will have left}}$$
 
 ### Question 9: Prepositional Complementation with "Insist"
 **Question ID**: `INFY-SET2-09`  
+- **Figure**:
+  ![Original Question Slide](images/mock2_slide_p19.png)  
 The manager insisted ___ the report immediately.
 
 #### Options
@@ -236,6 +254,8 @@ $$\mathbf{\text{Verified Answer: (b) on submitting}}$$
 
 ### Question 10: Agricultural Commerce Sequence
 **Question ID**: `INFY-SET2-10`  
+- **Figure**:
+  ![Original Question Slide](images/mock2_slide_p20.png)  
 Arrange the sentences to form a coherent paragraph:
 - **A.** The farmer went to the market to sell his goods.
 - **B.** He loaded the cart with vegetables.
@@ -258,6 +278,8 @@ $$\mathbf{\text{Verified Answer: B – A – C – D}}$$
 
 ### Question 11: Speech Without Prior Preparation
 **Question ID**: `INFY-SET2-11`  
+- **Figure**:
+  ![Original Question Slide](images/mock2_slide_p21.png)  
 A speech delivered without any preparation:
 
 #### Options
@@ -281,6 +303,8 @@ $$\mathbf{\text{Verified Answer: (c) Extempore}}$$
 
 ### Question 12: Prepositions of Proficiency ("Good at")
 **Question ID**: `INFY-SET2-12`  
+- **Figure**:
+  ![Original Question Slide](images/mock2_slide_p22.png)  
 She is good in dancing.
 
 #### Options
@@ -303,6 +327,8 @@ $$\mathbf{\text{Verified Answer: (b) good in \quad [Correct Form: good at]}}$$
 
 ### Question 13: Collective Noun Agreement ("The Police")
 **Question ID**: `INFY-SET2-13`  
+- **Figure**:
+  ![Original Question Slide](images/mock2_slide_p22.png)  
 The police has arrested the thief.
 
 #### Options
@@ -327,6 +353,8 @@ $$\mathbf{\text{Verified Answer: (a) The police has \quad [Correct Form: The pol
 
 ### Question 14: Protective Garment to Anatomy
 **Question ID**: `INFY-SET2-14`  
+- **Figure**:
+  ![Original Question Slide](images/mock2_slide_p23.png)  
 Hand : Glove :: Foot : ?
 
 #### Options
@@ -346,6 +374,8 @@ $$\mathbf{\text{Verified Answer: (a) Shoe}}$$
 
 ### Question 15: Literary Creator to Masterpiece
 **Question ID**: `INFY-SET2-15`  
+- **Figure**:
+  ![Original Question Slide](images/mock2_slide_p23.png)  
 Poet : Poem :: Novelist : ?
 
 #### Options
@@ -367,6 +397,8 @@ $$\mathbf{\text{Verified Answer: (b) Novel}}$$
 
 ### Question 16: Legal & Administrative Phrasal Idiom
 **Question ID**: `INFY-SET2-16`  
+- **Figure**:
+  ![Original Question Slide](images/mock2_slide_p24.png)  
 The new policy will come ___ effect next week.
 
 #### Options
@@ -386,6 +418,8 @@ $$\mathbf{\text{Verified Answer: (b) into}}$$
 
 ### Question 17: Matrimonial Prepositional Collocation
 **Question ID**: `INFY-SET2-17`  
+- **Figure**:
+  ![Original Question Slide](images/mock2_slide_p24.png)  
 She is married ___ a businessman.
 
 #### Options
@@ -414,6 +448,8 @@ $$\mathbf{\text{Verified Answer: (b) to}}$$
 
 ### Question 18: Identifying Deductive Inferences
 **Question ID**: `INFY-SET2-18`  
+- **Figure**:
+  ![Original Question Slide](images/mock2_slide_p25.png)  
 Which of the following can be inferred?
 
 #### Options
@@ -434,6 +470,8 @@ $$\mathbf{\text{Verified Answer: (b) Online education can be accessed from anywh
 
 ### Question 19: Pragmatic Course of Action
 **Question ID**: `INFY-SET2-19`  
+- **Figure**:
+  ![Original Question Slide](images/mock2_slide_p26.png)  
 Which is the most logical course of action?
 
 #### Options
@@ -454,6 +492,8 @@ $$\mathbf{\text{Verified Answer: (b) Combine online and traditional learning for
 
 ### Question 20: Implicit Urban Transit Assumptions
 **Question ID**: `INFY-SET2-20`  
+- **Figure**:
+  ![Original Question Slide](images/mock2_slide_p26.png)  
 **Statement**: *“More public transport facilities should be introduced to reduce traffic congestion.”*  
 **Assumption**:
 
@@ -472,6 +512,11 @@ $$\mathbf{\text{Verified Answer: (b) Combine online and traditional learning for
 $$\mathbf{\text{Verified Answer: (a) People use private vehicles because public transport is insufficient.}}$$
 
 ---
+
+
+
+### Official Answer Key Slide Verification
+![Official Answer Key Slide](images/mock2_slide_p27.png)
 
 ## 📊 Summary Assessment Matrix (Topic 03 - Set 2)
 

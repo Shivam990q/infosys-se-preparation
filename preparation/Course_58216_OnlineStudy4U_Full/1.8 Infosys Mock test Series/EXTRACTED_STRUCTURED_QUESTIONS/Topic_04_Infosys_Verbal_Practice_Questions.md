@@ -33,6 +33,8 @@ The 15 practice questions target crucial high-frequency error traps frequently t
 
 ### Question 1: Sentence Correction — Collective Noun Unified Action
 **Question ID**: `INFY-PRAC-01`  
+- **Figure**:
+  ![Original Question Slide](images/mock2_slide_p28.png)  
 The committee ___ not yet reached a decision.
 
 #### Options
@@ -54,6 +56,8 @@ $$\mathbf{\text{Verified Answer: (b) has}}$$
 
 ### Question 2: Fill in the Blanks — Prepositions of Interest
 **Question ID**: `INFY-PRAC-02`  
+- **Figure**:
+  ![Original Question Slide](images/mock2_slide_p29.png)  
 She is not interested ___ going to the party.
 
 #### Options
@@ -74,6 +78,8 @@ $$\mathbf{\text{Verified Answer: (c) in}}$$
 
 ### Question 3: Reading Comprehension — Mini Passage
 **Question ID**: `INFY-PRAC-03`  
+- **Figure**:
+  ![Original Question Slide](images/mock2_slide_p30.png)  
 
 **Passage**:
 > *"Social media has changed the way people interact. While it allows instant communication, it has also been linked with reduced productivity at work."*
@@ -97,6 +103,8 @@ $$\mathbf{\text{Verified Answer: (b) Reduced productivity}}$$
 
 ### Question 4: Verbal Analogy — Object to Primary Function
 **Question ID**: `INFY-PRAC-04`  
+- **Figure**:
+  ![Original Question Slide](images/mock2_slide_p31.png)  
 Book : Reading :: Fork : ?
 
 #### Options
@@ -117,6 +125,8 @@ $$\mathbf{\text{Verified Answer: (b) Eating}}$$
 
 ### Question 5: Spotting Error — Distributive Subject Number
 **Question ID**: `INFY-PRAC-05`  
+- **Figure**:
+  ![Original Question Slide](images/mock2_slide_p32.png)  
 Each of the girls have submitted their homework.
 
 #### Options
@@ -139,6 +149,8 @@ $$\mathbf{\text{Verified Answer: (a) Each of the girls \quad [Predicate Error: h
 
 ### Question 6: One Word Substitution — Deceptive Pretender
 **Question ID**: `INFY-PRAC-06`  
+- **Figure**:
+  ![Original Question Slide](images/mock2_slide_p33.png)  
 A person who pretends to have knowledge he does not have:
 
 #### Options
@@ -160,6 +172,8 @@ $$\mathbf{\text{Verified Answer: (b) Imposter}}$$
 
 ### Question 7: Para Jumbles — Natural Chronological Sunset Cycle
 **Question ID**: `INFY-PRAC-07`  
+- **Figure**:
+  ![Original Question Slide](images/mock2_slide_p34.png)  
 Arrange the sentences to form a coherent paragraph:
 - **A.** The sun sets in the west.
 - **B.** Birds return to their nests.
@@ -180,6 +194,8 @@ $$\mathbf{\text{Verified Answer: A – C – D – B}}$$
 
 ### Question 8: Sentence Completion — Past Perfect Priority
 **Question ID**: `INFY-PRAC-08`  
+- **Figure**:
+  ![Original Question Slide](images/mock2_slide_p35.png)  
 By the time the police arrived, the thief ___ .
 
 #### Options
@@ -201,6 +217,8 @@ $$\mathbf{\text{Verified Answer: (c) had escaped}}$$
 
 ### Question 9: Sentence Selection — Auxiliary Negation Invariant
 **Question ID**: `INFY-PRAC-09`  
+- **Figure**:
+  ![Original Question Slide](images/mock2_slide_p36.png)  
 Pick the correct sentence:
 
 #### Options
@@ -222,6 +240,8 @@ $$\mathbf{\text{Verified Answer: (b) She doesn’t like pizza.}}$$
 
 ### Question 10: Idioms & Phrases — "Burn the Midnight Oil"
 **Question ID**: `INFY-PRAC-10`  
+- **Figure**:
+  ![Original Question Slide](images/mock2_slide_p37.png)  
 “To burn the midnight oil” means:
 
 #### Options
@@ -241,6 +261,8 @@ $$\mathbf{\text{Verified Answer: (b) To work late into the night}}$$
 
 ### Question 11: Critical Reasoning — Policy Assumptions
 **Question ID**: `INFY-PRAC-11`  
+- **Figure**:
+  ![Original Question Slide](images/mock2_slide_p38.png)  
 **Statement**: *“The government should invest more in renewable energy.”*  
 **Assumption**:
 
@@ -262,6 +284,8 @@ $$\mathbf{\text{Verified Answer: (b) Renewable energy is a sustainable alternati
 
 ### Question 12: Punctuation — Contraction vs. Possessive
 **Question ID**: `INFY-PRAC-12`  
+- **Figure**:
+  ![Original Question Slide](images/mock2_slide_p39.png)  
 Which is punctuated correctly?
 
 #### Options
@@ -283,6 +307,8 @@ $$\mathbf{\text{Verified Answer: (b) It’s raining heavily.}}$$
 
 ### Question 13: Reflexive Pronoun Invariants
 **Question ID**: `INFY-PRAC-13`  
+- **Figure**:
+  ![Original Question Slide](images/mock2_slide_p40.png)  
 He cut ___ while chopping vegetables.
 
 #### Options
@@ -303,6 +329,8 @@ $$\mathbf{\text{Verified Answer: (b) himself}}$$
 
 ### Question 14: Orthography — Spelling Invariants
 **Question ID**: `INFY-PRAC-14`  
+- **Figure**:
+  ![Original Question Slide](images/mock2_slide_p41.png)  
 Choose the correctly spelled word:
 
 #### Options
@@ -324,6 +352,8 @@ $$\mathbf{\text{Verified Answer: (b) Receive}}$$
 
 ### Question 15: Confusable Words — "Affect" vs. "Effect"
 **Question ID**: `INFY-PRAC-15`  
+- **Figure**:
+  ![Original Question Slide](images/mock2_slide_p42.png)  
 Choose the correct usage of the word “Affect”:
 
 #### Options
@@ -343,6 +373,11 @@ Choose the correct usage of the word “Affect”:
 $$\mathbf{\text{Verified Answer: (a) The new law will affect many businesses.}}$$
 
 ---
+
+
+
+### Official Answer Key Slide Verification
+![Official Answer Key Slide](images/mock2_slide_p43.png)
 
 ## 📊 Summary Assessment Matrix (Topic 04 - Practice Questions)
 

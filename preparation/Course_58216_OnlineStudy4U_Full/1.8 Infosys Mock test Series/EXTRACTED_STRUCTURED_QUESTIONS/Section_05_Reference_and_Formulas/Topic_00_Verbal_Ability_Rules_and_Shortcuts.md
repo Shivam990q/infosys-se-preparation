@@ -208,6 +208,17 @@ $$\text{Active Formula}: \text{Subject} + \text{Verb} + \text{Object} \implies \
 
 ## 7. Para Jumble Algorithmic Solver (Official Strategy)
 
+### Official Strategy Slide References (Mock Test 2 Guide)
+- **Slide 44 — Sentence Rearrangement Core Algorithm**:
+  ![Official Slide 44 Strategy](../images/mock2_slide_p44.png)
+- **Slide 45 — Pronoun & Connective Clues**:
+  ![Official Slide 45 Strategy](../images/mock2_slide_p45.png)
+- **Slide 46 — Transition Words & Chronology**:
+  ![Official Slide 46 Strategy](../images/mock2_slide_p46.png)
+- **Slide 47 — Coherence & Final Verification Sweep**:
+  ![Official Slide 47 Strategy](../images/mock2_slide_p47.png)
+
+
 ```mermaid
 graph TD
     Start["Scan All Sentences Rapidly"] --> S1["1. Identify the Opening Sentence"]

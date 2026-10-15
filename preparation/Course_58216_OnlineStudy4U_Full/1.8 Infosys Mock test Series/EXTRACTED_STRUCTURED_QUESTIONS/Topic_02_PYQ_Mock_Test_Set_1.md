@@ -33,6 +33,8 @@ Set 1 models the exact composition of the 20-question Infosys Verbal Ability sec
 
 ### Question 1: Explicit Factual Drawback Identification
 **Question ID**: `INFY-SET1-01`  
+- **Figure**:
+  ![Original Question Slide](images/mock2_slide_p3.png)  
 According to the passage, one drawback of digital communication is:
 
 #### Options
@@ -55,6 +57,8 @@ $$\mathbf{\text{Verified Answer: (b) It reduces face-to-face communication}}$$
 
 ### Question 2: Tone of the Passage
 **Question ID**: `INFY-SET1-02`  
+- **Figure**:
+  ![Original Question Slide](images/mock2_slide_p3.png)  
 The author’s tone in the passage can be best described as:
 
 #### Options
@@ -77,6 +81,8 @@ $$\mathbf{\text{Verified Answer: (b) Balanced}}$$
 
 ### Question 3: Subject-Verb Agreement with "Each of"
 **Question ID**: `INFY-SET1-03`  
+- **Figure**:
+  ![Original Question Slide](images/mock2_slide_p4.png)  
 Each of the players ___ given a certificate.
 
 #### Options
@@ -98,6 +104,8 @@ $$\mathbf{\text{Verified Answer: (c) is}}$$
 
 ### Question 4: Third-Person Singular Auxiliary Negation
 **Question ID**: `INFY-SET1-04`  
+- **Figure**:
+  ![Original Question Slide](images/mock2_slide_p4.png)  
 He don’t like coffee.
 
 #### Options
@@ -119,6 +127,8 @@ $$\mathbf{\text{Verified Answer: (a) He doesn’t like coffee}}$$
 
 ### Question 5: Intervening Parenthetical Prepositional Phrases
 **Question ID**: `INFY-SET1-05`  
+- **Figure**:
+  ![Original Question Slide](images/mock2_slide_p4.png)  
 The report along with the documents ___ submitted yesterday.
 
 #### Options
@@ -142,6 +152,8 @@ $$\mathbf{\text{Verified Answer: (b) was}}$$
 
 ### Question 6: Simple Past Tense Marker Alignment
 **Question ID**: `INFY-SET1-06`  
+- **Figure**:
+  ![Original Question Slide](images/mock2_slide_p5.png)  
 Identify the grammatically correct sentence:
 
 #### Options
@@ -164,6 +176,8 @@ $$\mathbf{\text{Verified Answer: (b) She went to the market yesterday.}}$$
 
 ### Question 7: Agreement with Distributive Pronoun "Neither"
 **Question ID**: `INFY-SET1-07`  
+- **Figure**:
+  ![Original Question Slide](images/mock2_slide_p5.png)  
 Pick the correct sentence:
 
 #### Options
@@ -188,6 +202,8 @@ $$\mathbf{\text{Verified Answer: (b) Neither of the answers is correct.}}$$
 
 ### Question 8: Conditional Clause Structure
 **Question ID**: `INFY-SET1-08`  
+- **Figure**:
+  ![Original Question Slide](images/mock2_slide_p6.png)  
 If I ___ harder, I would have passed the exam.
 
 #### Options
@@ -209,6 +225,8 @@ $$\mathbf{\text{Verified Answer: (a) studied}}$$
 
 ### Question 9: Preposition of Purpose / Cause
 **Question ID**: `INFY-SET1-09`  
+- **Figure**:
+  ![Original Question Slide](images/mock2_slide_p6.png)  
 The soldiers fought bravely ___ their lives.
 
 #### Options
@@ -231,6 +249,8 @@ $$\mathbf{\text{Verified Answer: (c) for}}$$
 
 ### Question 10: Narrative Logical Chronology
 **Question ID**: `INFY-SET1-10`  
+- **Figure**:
+  ![Original Question Slide](images/mock2_slide_p7.png)  
 Arrange the sentences to form a coherent paragraph:
 - **A.** He returned home empty-handed.
 - **B.** Ramesh went to the market to buy vegetables.
@@ -253,6 +273,8 @@ $$\mathbf{\text{Verified Answer: B – D – C – A}}$$
 
 ### Question 11: Polyglot vs. Linguist
 **Question ID**: `INFY-SET1-11`  
+- **Figure**:
+  ![Original Question Slide](images/mock2_slide_p8.png)  
 A person who speaks many languages:
 
 #### Options
@@ -276,6 +298,8 @@ $$\mathbf{\text{Verified Answer: (c) Polyglot}}$$
 
 ### Question 12: Latin Comparatives Followed by "To"
 **Question ID**: `INFY-SET1-12`  
+- **Figure**:
+  ![Original Question Slide](images/mock2_slide_p9.png)  
 She is senior than me by two years.
 
 #### Options
@@ -296,6 +320,8 @@ $$\mathbf{\text{Verified Answer: (b) senior than \quad [Correct Form: senior to]
 
 ### Question 13: Subject-Verb Agreement with "Neither of the"
 **Question ID**: `INFY-SET1-13`  
+- **Figure**:
+  ![Original Question Slide](images/mock2_slide_p9.png)  
 Neither of the two brothers have arrived.
 
 #### Options
@@ -319,6 +345,8 @@ $$\mathbf{\text{Verified Answer: (c) brothers have \quad [Correct Form: brothers
 
 ### Question 14: Instrument to Creator
 **Question ID**: `INFY-SET1-14`  
+- **Figure**:
+  ![Original Question Slide](images/mock2_slide_p10.png)  
 Pen : Writer :: Brush : ?
 
 #### Options
@@ -339,6 +367,8 @@ $$\mathbf{\text{Verified Answer: (a) Artist}}$$
 
 ### Question 15: Profession to Primary Workplace
 **Question ID**: `INFY-SET1-15`  
+- **Figure**:
+  ![Original Question Slide](images/mock2_slide_p10.png)  
 Doctor : Hospital :: Teacher : ?
 
 #### Options
@@ -360,6 +390,8 @@ $$\mathbf{\text{Verified Answer: (b) School}}$$
 
 ### Question 16: Preposition of Preference
 **Question ID**: `INFY-SET1-16`  
+- **Figure**:
+  ![Original Question Slide](images/mock2_slide_p11.png)  
 She prefers tea ___ coffee.
 
 #### Options
@@ -380,6 +412,8 @@ $$\mathbf{\text{Verified Answer: (b) to}}$$
 
 ### Question 17: Collocation with "Reach" (Nominalization)
 **Question ID**: `INFY-SET1-17`  
+- **Figure**:
+  ![Original Question Slide](images/mock2_slide_p11.png)  
 The committee has reached a ___ on the issue.
 
 #### Options
@@ -409,6 +443,8 @@ $$\mathbf{\text{Verified Answer: (a) decision}}$$
 
 ### Question 18: Identifying Logical Inferences
 **Question ID**: `INFY-SET1-18`  
+- **Figure**:
+  ![Original Question Slide](images/mock2_slide_p12.png)  
 Which of the following can be inferred?
 
 #### Options
@@ -430,6 +466,8 @@ $$\mathbf{\text{Verified Answer: (b) Plastic contributes to pollution.}}$$
 
 ### Question 19: Logical Course of Action
 **Question ID**: `INFY-SET1-19`  
+- **Figure**:
+  ![Original Question Slide](images/mock2_slide_p13.png)  
 Which is the best course of action?
 
 #### Options
@@ -450,6 +488,8 @@ $$\mathbf{\text{Verified Answer: (a) Encourage use of eco-friendly alternatives.
 
 ### Question 20: Identifying Implicit Assumptions
 **Question ID**: `INFY-SET1-20`  
+- **Figure**:
+  ![Original Question Slide](images/mock2_slide_p13.png)  
 **Statement**: *“Students should not be allowed to use mobile phones in classrooms.”*  
 **Assumption**:
 
@@ -468,6 +508,11 @@ $$\mathbf{\text{Verified Answer: (a) Encourage use of eco-friendly alternatives.
 $$\mathbf{\text{Verified Answer: (a) Mobile phones distract students.}}$$
 
 ---
+
+
+
+### Official Answer Key Slide Verification
+![Official Answer Key Slide](images/mock2_slide_p14.png)
 
 ## 📊 Summary Assessment Matrix (Topic 02 - Set 1)
 

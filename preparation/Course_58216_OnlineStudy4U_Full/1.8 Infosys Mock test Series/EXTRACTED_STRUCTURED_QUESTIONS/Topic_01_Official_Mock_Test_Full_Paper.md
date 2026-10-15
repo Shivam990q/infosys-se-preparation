@@ -26,6 +26,9 @@ The official Infosys Verbal Ability assessment evaluates candidate competence ac
 ### Question Metadata
 - **Question ID**: `INFY-MOCK1-01`
 - **Slide Reference**: Page 2 (`mock_pptx_p2_img1_Image9.jp2`)
+
+- **Figure**:
+  ![Official Slide Reference](images/mock_slide_p2.png)
 - **Category**: Spotting Error / Prepositions
 
 ### Problem Statement
@@ -63,6 +66,9 @@ $$\mathbf{(A)\ \text{After staying at few weeks in Delhi}}$$
 ### Question Metadata
 - **Question ID**: `INFY-MOCK1-02`
 - **Slide Reference**: Page 3 (`mock_pptx_p3_img1_Image9.jp2`)
+
+- **Figure**:
+  ![Official Slide Reference](images/mock_slide_p3.png)
 - **Category**: Spotting Error / Adverbs
 
 ### Problem Statement
@@ -100,6 +106,9 @@ $$\mathbf{(B)\ \text{as he was serious ill \quad [Correct Form: seriously ill]}}
 ### Question Metadata
 - **Question ID**: `INFY-MOCK1-03`
 - **Slide Reference**: Page 4 (`mock_pptx_p4_img1_Image9.jp2`)
+
+- **Figure**:
+  ![Official Slide Reference](images/mock_slide_p4.png)
 - **Category**: Spotting Error / Tense Alignment
 
 ### Problem Statement
@@ -135,6 +144,9 @@ $$\mathbf{(B)\ \text{is a fertile plain \quad [Tense alignment for enduring geog
 ### Question Metadata
 - **Question ID**: `INFY-MOCK1-04`
 - **Slide Reference**: Page 5 (`mock_pptx_p5_img1_Image9.jp2`)
+
+- **Figure**:
+  ![Official Slide Reference](images/mock_slide_p5.png)
 - **Category**: Sentence Completion / Quantifiers
 
 ### Problem Statement
@@ -169,6 +181,9 @@ $$\mathbf{(C)\ \text{for a few minutes}}$$
 ### Question Metadata
 - **Question ID**: `INFY-MOCK1-05`
 - **Slide Reference**: Page 6 (`mock_pptx_p6_img1_Image9.jp2`)
+
+- **Figure**:
+  ![Official Slide Reference](images/mock_slide_p6.png)
 - **Category**: Fill in the Blanks / Lexical Precision
 
 ### Problem Statement
@@ -203,6 +218,9 @@ $$\mathbf{(C)\ \text{Images}}$$
 ### Question Metadata
 - **Question ID**: `INFY-MOCK1-06`
 - **Slide Reference**: Page 7 (`mock_pptx_p7_img1_Image9.jp2`)
+
+- **Figure**:
+  ![Official Slide Reference](images/mock_slide_p7.png)
 - **Category**: Sentence Completion / Degree of Comparison
 
 ### Problem Statement
@@ -238,6 +256,9 @@ $$\mathbf{(B)\ \text{one of the finest natural harbors}}$$
 ### Question Metadata
 - **Question ID**: `INFY-MOCK1-07`
 - **Slide Reference**: Page 8 (`mock_pptx_p8_img1_Image9.jp2`)
+
+- **Figure**:
+  ![Official Slide Reference](images/mock_slide_p8.png)
 - **Category**: Fill in the Blanks / Phrasal Verbs
 
 ### Problem Statement
@@ -272,6 +293,9 @@ $$\mathbf{(D)\ \text{called upon}}$$
 ### Question Metadata
 - **Question ID**: `INFY-MOCK1-08`
 - **Slide Reference**: Page 9 (`mock_pptx_p9_img1_Image9.jp2`)
+
+- **Figure**:
+  ![Official Slide Reference](images/mock_slide_p9.png)
 - **Category**: Vocabulary / Antonyms
 
 ### Problem Statement
@@ -307,6 +331,9 @@ $$\mathbf{(C)\ \text{Possess}}$$
 ### Question Metadata
 - **Question ID**: `INFY-MOCK1-09`
 - **Slide Reference**: Page 10 (`mock_pptx_p10_img1_Image9.jp2`)
+
+- **Figure**:
+  ![Official Slide Reference](images/mock_slide_p10.png)
 - **Category**: Vocabulary / Antonyms
 
 ### Problem Statement
@@ -342,6 +369,9 @@ $$\mathbf{(C)\ \text{Slovenly}}$$
 ### Question Metadata
 - **Question ID**: `INFY-MOCK1-10`
 - **Slide Reference**: Page 11 (`mock_pptx_p11_img1_Image11.jp2`)
+
+- **Figure**:
+  ![Official Slide Reference](images/mock_slide_p11.png)
 - **Category**: Vocabulary / Synonyms
 
 ### Problem Statement
@@ -376,6 +406,9 @@ $$\mathbf{(C)\ \text{Boldness / Audacity}}$$
 ### Question Metadata
 - **Question ID**: `INFY-MOCK1-11`
 - **Slide Reference**: Page 12 (`mock_pptx_p12_img1_Image11.jp2`)
+
+- **Figure**:
+  ![Official Slide Reference](images/mock_slide_p12.png)
 - **Category**: Para Jumbles / Sentence Rearrangement
 
 ### Problem Statement
@@ -430,6 +463,9 @@ $$\mathbf{(A)\ R\ P\ Q\ S}$$
 ### Question Metadata
 - **Question ID**: `INFY-MOCK1-12`
 - **Slide Reference**: Page 13 (`mock_pptx_p13_img1_Image11.jp2`)
+
+- **Figure**:
+  ![Official Slide Reference](images/mock_slide_p13.png)
 - **Category**: Para Jumbles / Positional Identification
 
 ### Problem Statement
@@ -482,6 +518,9 @@ $$\mathbf{(D)\ S}$$
 ### Question Metadata
 - **Question ID**: `INFY-MOCK1-13`
 - **Slide Reference**: Page 14 (`mock_pptx_p14_img1_Image11.jp2`)
+
+- **Figure**:
+  ![Official Slide Reference](images/mock_slide_p14.png)
 - **Category**: Fill in the Blanks / Pronoun Agreement
 
 ### Problem Statement
@@ -519,6 +558,9 @@ $$\mathbf{(C)\ \text{they}}$$
 ### Question Metadata
 - **Question ID**: `INFY-MOCK1-14`
 - **Slide Reference**: Page 15 (`mock_pptx_p15_img1_Image11.jp2`)
+
+- **Figure**:
+  ![Official Slide Reference](images/mock_slide_p15.png)
 - **Category**: Fill in the Blanks / Articles
 
 ### Problem Statement
@@ -552,6 +594,9 @@ $$\mathbf{(C)\ \text{an}}$$
 ### Question Metadata
 - **Question ID**: `INFY-MOCK1-15`
 - **Slide Reference**: Page 16 (`mock_pptx_p16_img1_Image11.jp2`)
+
+- **Figure**:
+  ![Official Slide Reference](images/mock_slide_p16.png)
 - **Category**: Sentence Transformation / Active to Passive Voice
 
 ### Problem Statement
@@ -596,6 +641,9 @@ $$\mathbf{(B)\ \text{The walls of the classroom are being painted.}}$$
 ### Question Metadata
 - **Question ID**: `INFY-MOCK1-16`
 - **Slide Reference**: Page 17 (`mock_pptx_p17_img1_Image11.jp2`)
+
+- **Figure**:
+  ![Official Slide Reference](images/mock_slide_p17.png)
 - **Category**: Sentence Transformation / Reported Speech
 
 ### Problem Statement
@@ -639,6 +687,9 @@ $$\mathbf{(C)\ \text{He said that he would call me the next day.}}$$
 ### Question Metadata
 - **Question ID**: `INFY-MOCK1-17`
 - **Slide Reference**: Page 18 (`mock_pptx_p18_img1_Image11.jp2`)
+
+- **Figure**:
+  ![Official Slide Reference](images/mock_slide_p18.png)
 - **Category**: Fill in the Blanks / Prepositional Collocations
 
 ### Problem Statement
@@ -675,6 +726,9 @@ $$\mathbf{(B)\ \text{on}}$$
 ### Question Metadata
 - **Question ID**: `INFY-MOCK1-18`
 - **Slide Reference**: Page 19 (`mock_pptx_p19_img1_Image11.jp2`)
+
+- **Figure**:
+  ![Official Slide Reference](images/mock_slide_p19.png)
 - **Category**: Fill in the Blanks / Subject-Verb Agreement
 
 ### Problem Statement
@@ -780,6 +834,9 @@ $$\mathbf{(A)\ \text{Is}}$$
 ### Question Metadata
 - **Question ID**: `INFY-MOCK1-20`
 - **Slide Reference**: Page 24
+
+- **Figure**:
+  ![Official WAT Slide Prompt](images/mock_slide_p24.png)
 - **Category**: Descriptive English / Written Ability Test (WAT)
 
 ### Problem Statement

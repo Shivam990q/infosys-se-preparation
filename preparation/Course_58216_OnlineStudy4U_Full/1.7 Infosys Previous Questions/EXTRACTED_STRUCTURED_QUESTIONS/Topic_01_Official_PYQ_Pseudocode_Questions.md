@@ -24,6 +24,8 @@ In the Infosys recruitment examination, the **Pseudocode** section tests candida
 ### Question Metadata
 - **Question ID**: `INFY-PSEUDO-PYQ-01`
 - **Slide Reference**: Page 2 (`pseudo_p2_img1_1085x1068.png`, `pseudo_p2_img2_275x116.png`, `pseudo_p2_img3_2304x1296.jpeg`)
+- **Figure**:
+  ![Official Slide Reference](images/pseudo_p2_img3_2304x1296.jpeg)
 - **Core Concept**: Bitwise XOR (`^`) evaluation, operator precedence, sequential variable reassignment.
 
 ### Original Problem Statement
@@ -97,6 +99,8 @@ $$\mathbf{C.\ 33}$$
 ### Question Metadata
 - **Question ID**: `INFY-PSEUDO-PYQ-02`
 - **Slide Reference**: Page 3 (`pseudo_p3_img1_1085x1068.png`, `pseudo_p3_img2_409x138.png`, `pseudo_p3_img3_2304x1296.jpeg`)
+- **Figure**:
+  ![Official Slide Reference](images/pseudo_p3_img3_2304x1296.jpeg)
 - **Core Concept**: 1-D array manipulation, rolling summation, loop bounds.
 
 ### Original Problem Statement
@@ -170,6 +174,8 @@ $$\mathbf{C)\ 3\ 5\ 7\ 9\ 5}$$
 ### Question Metadata
 - **Question ID**: `INFY-PSEUDO-PYQ-03`
 - **Slide Reference**: Page 4 (`pseudo_p4_img1_1085x1068.png`, `pseudo_p4_img2_683x154.png`, `pseudo_p4_img3_2304x1296.jpeg`)
+- **Figure**:
+  ![Official Slide Reference](images/pseudo_p4_img3_2304x1296.jpeg)
 - **Core Concept**: Recursion, Fibonacci recurrence tree, base condition evaluation.
 
 ### Original Problem Statement
@@ -228,6 +234,8 @@ $$\mathbf{a)\ 21}$$
 ### Question Metadata
 - **Question ID**: `INFY-PSEUDO-PYQ-04`
 - **Slide Reference**: Page 5 (`pseudo_p5_img1_1085x1068.png`, `pseudo_p5_img3_371x91.png`, `pseudo_p5_img4_2304x1296.jpeg`)
+- **Figure**:
+  ![Official Slide Reference](images/pseudo_p5_img4_2304x1296.jpeg)
 - **Core Concept**: Bitwise AND (`&`), bitwise OR (`|`), arithmetic addition precedence.
 
 ### Original Problem Statement
@@ -288,6 +296,8 @@ $$\mathbf{B)\ 2}$$
 ### Question Metadata
 - **Question ID**: `INFY-PSEUDO-PYQ-05`
 - **Slide Reference**: Page 6 (`pseudo_p6_img1_1085x1068.png`, `pseudo_p6_img2_420x163.png`, `pseudo_p6_img3_2304x1296.jpeg`)
+- **Figure**:
+  ![Official Slide Reference](images/pseudo_p6_img3_2304x1296.jpeg)
 - **Core Concept**: Sequential imperative updates, dependency tracking.
 
 ### Original Problem Statement
@@ -342,6 +352,8 @@ $$\mathbf{C)\ 5\ 12\ 10}$$
 ### Question Metadata
 - **Question ID**: `INFY-PSEUDO-PYQ-06`
 - **Slide Reference**: Page 7 (`pseudo_p7_img1_1085x1068.png`, `pseudo_p7_img2_263x134.png`, `pseudo_p7_img3_2304x1296.jpeg`)
+- **Figure**:
+  ![Official Slide Reference](images/pseudo_p7_img3_2304x1296.jpeg)
 - **Core Concept**: Higher-order recursion, nested functional composition, termination condition.
 
 ### Original Problem Statement
@@ -406,6 +418,8 @@ $$\mathbf{A.\ 1}$$
 ### Question Metadata
 - **Question ID**: `INFY-PSEUDO-PYQ-07`
 - **Slide Reference**: Page 8 (`pseudo_p8_img1_1085x1068.png`, `pseudo_p8_img2_325x179.png`, `pseudo_p8_img3_2304x1296.jpeg`)
+- **Figure**:
+  ![Official Slide Reference](images/pseudo_p8_img3_2304x1296.jpeg)
 - **Core Concept**: While loops, modulo arithmetic, loop condition termination.
 
 ### Original Problem Statement
@@ -478,6 +492,8 @@ $$\mathbf{C.\ 156}$$
 ### Question Metadata
 - **Question ID**: `INFY-PSEUDO-PYQ-08`
 - **Slide Reference**: Page 9 (`pseudo_p9_img1_1085x1068.png`, `pseudo_p9_img2_397x164.png`, `pseudo_p9_img3_2304x1296.jpeg`)
+- **Figure**:
+  ![Official Slide Reference](images/pseudo_p9_img3_2304x1296.jpeg)
 - **Core Concept**: Recursion, Peano arithmetic multiplication model.
 
 ### Original Problem Statement
@@ -534,6 +550,8 @@ $$\mathbf{C.\ 81}$$
 ### Question Metadata
 - **Question ID**: `INFY-PSEUDO-PYQ-09`
 - **Slide Reference**: Page 10 (`pseudo_p10_img1_1085x1068.png`, `pseudo_p10_img2_455x140.png`, `pseudo_p10_img3_2304x1296.jpeg`)
+- **Figure**:
+  ![Official Slide Reference](images/pseudo_p10_img3_2304x1296.jpeg)
 - **Core Concept**: C/C++ grammar legality, jump statements inside expressions, ternary operator rules.
 
 ### Original Problem Statement
