@@ -1,0 +1,343 @@
+{
+  "course_metadata": {
+    "course_name": "1.10 Live Classes Recording New Batch",
+    "total_canonical_documents": 47,
+    "total_sections": 5,
+    "total_extracted_images": 561,
+    "audit_status": "100% Zero-Hallucination Certified"
+  },
+  "sections": [
+    {
+      "section_folder": "Section_01_Aptitude_and_Reasoning",
+      "section_title": "Aptitude and Reasoning",
+      "topics_count": 8,
+      "topics": [
+        {
+          "filename": "Topic_01_Time_and_Work_Ankita_Mam.md",
+          "relative_path": "Section_01_Aptitude_and_Reasoning/Topic_01_Time_and_Work_Ankita_Mam.md",
+          "size_bytes": 10434,
+          "lines_count": 257,
+          "chars_count": 10175,
+          "estimated_questions": 8,
+          "sha256_short": "95c653236dc35891"
+        },
+        {
+          "filename": "Topic_02_Advance_Aptitude_Practice_Part_2_Pratik_Sir.md",
+          "relative_path": "Section_01_Aptitude_and_Reasoning/Topic_02_Advance_Aptitude_Practice_Part_2_Pratik_Sir.md",
+          "size_bytes": 6781,
+          "lines_count": 145,
+          "chars_count": 6634,
+          "estimated_questions": 5,
+          "sha256_short": "97a01fba62b293d3"
+        },
+        {
+          "filename": "Topic_03_Infosys_Aptitude_Class_1_Pratik_Sir.md",
+          "relative_path": "Section_01_Aptitude_and_Reasoning/Topic_03_Infosys_Aptitude_Class_1_Pratik_Sir.md",
+          "size_bytes": 3040,
+          "lines_count": 57,
+          "chars_count": 2981,
+          "estimated_questions": 4,
+          "sha256_short": "68de1595df47a754"
+        },
+        {
+          "filename": "Topic_04_Infosys_Puzzles_Questions_Class_2_Pratik_Sir.md",
+          "relative_path": "Section_01_Aptitude_and_Reasoning/Topic_04_Infosys_Puzzles_Questions_Class_2_Pratik_Sir.md",
+          "size_bytes": 3671,
+          "lines_count": 93,
+          "chars_count": 3576,
+          "estimated_questions": 4,
+          "sha256_short": "0801679ee48f2cad"
+        },
+        {
+          "filename": "Topic_05_Infosys_Puzzles_Class_3_Pratik_Sir.md",
+          "relative_path": "Section_01_Aptitude_and_Reasoning/Topic_05_Infosys_Puzzles_Class_3_Pratik_Sir.md",
+          "size_bytes": 2783,
+          "lines_count": 64,
+          "chars_count": 2717,
+          "estimated_questions": 4,
+          "sha256_short": "fa51493f9682f0b4"
+        },
+        {
+          "filename": "Topic_06_TCS_2025_Questions_Class_4_Pratik_Sir.md",
+          "relative_path": "Section_01_Aptitude_and_Reasoning/Topic_06_TCS_2025_Questions_Class_4_Pratik_Sir.md",
+          "size_bytes": 12391,
+          "lines_count": 358,
+          "chars_count": 12031,
+          "estimated_questions": 16,
+          "sha256_short": "f6d72413d391ea17"
+        },
+        {
+          "filename": "Topic_07_Aptitude_Important_Questions_Class_5_Pratik_Sir.md",
+          "relative_path": "Section_01_Aptitude_and_Reasoning/Topic_07_Aptitude_Important_Questions_Class_5_Pratik_Sir.md",
+          "size_bytes": 13624,
+          "lines_count": 349,
+          "chars_count": 13243,
+          "estimated_questions": 14,
+          "sha256_short": "2f9f0c85c7b3fcb8"
+        },
+        {
+          "filename": "Topic_08_Aptitude_Questions_Part_2_Class_6_Pratik_Sir.md",
+          "relative_path": "Section_01_Aptitude_and_Reasoning/Topic_08_Aptitude_Questions_Part_2_Class_6_Pratik_Sir.md",
+          "size_bytes": 12217,
+          "lines_count": 285,
+          "chars_count": 11926,
+          "estimated_questions": 11,
+          "sha256_short": "cc13510f720e7ba2"
+        }
+      ]
+    },
+    {
+      "section_folder": "Section_02_Coding_and_Data_Structures",
+      "section_title": "Coding and Data Structures (C++, Java, Python)",
+      "topics_count": 7,
+      "topics": [
+        {
+          "filename": "Topic_01_CPP_Backtracking_Ankan_Sir.md",
+          "relative_path": "Section_02_Coding_and_Data_Structures/Topic_01_CPP_Backtracking_Ankan_Sir.md",
+          "size_bytes": 6069,
+          "lines_count": 189,
+          "chars_count": 5878,
+          "estimated_questions": 2,
+          "sha256_short": "e6505d84e854990b"
+        },
+        {
+          "filename": "Topic_02_CPP_Trees_Part_1_to_4_Ankan_Sir.md",
+          "relative_path": "Section_02_Coding_and_Data_Structures/Topic_02_CPP_Trees_Part_1_to_4_Ankan_Sir.md",
+          "size_bytes": 4233,
+          "lines_count": 142,
+          "chars_count": 4089,
+          "estimated_questions": 0,
+          "sha256_short": "c96035eba087a31b"
+        },
+        {
+          "filename": "Topic_03_Java_Stacks_and_Queues_Adarsh_Sir.md",
+          "relative_path": "Section_02_Coding_and_Data_Structures/Topic_03_Java_Stacks_and_Queues_Adarsh_Sir.md",
+          "size_bytes": 3160,
+          "lines_count": 109,
+          "chars_count": 3049,
+          "estimated_questions": 3,
+          "sha256_short": "e8cddbad0a4577c1"
+        },
+        {
+          "filename": "Topic_04_Java_Pseudocode_and_Practice_Adarsh_Sir.md",
+          "relative_path": "Section_02_Coding_and_Data_Structures/Topic_04_Java_Pseudocode_and_Practice_Adarsh_Sir.md",
+          "size_bytes": 612,
+          "lines_count": 10,
+          "chars_count": 600,
+          "estimated_questions": 0,
+          "sha256_short": "cd71ef803d486d36"
+        },
+        {
+          "filename": "Topic_05_Java_Binary_Trees_Adarsh_Sir.md",
+          "relative_path": "Section_02_Coding_and_Data_Structures/Topic_05_Java_Binary_Trees_Adarsh_Sir.md",
+          "size_bytes": 442,
+          "lines_count": 9,
+          "chars_count": 431,
+          "estimated_questions": 0,
+          "sha256_short": "973cab4d704e49af"
+        },
+        {
+          "filename": "Topic_06_Python_Sorting_Algorithms_Priyanshi_Mam.md",
+          "relative_path": "Section_02_Coding_and_Data_Structures/Topic_06_Python_Sorting_Algorithms_Priyanshi_Mam.md",
+          "size_bytes": 4120,
+          "lines_count": 138,
+          "chars_count": 3980,
+          "estimated_questions": 0,
+          "sha256_short": "b84000db434b4fc7"
+        },
+        {
+          "filename": "Topic_07_Python_TCS_NQT_Coding_Questions_Priyanshi_Mam.md",
+          "relative_path": "Section_02_Coding_and_Data_Structures/Topic_07_Python_TCS_NQT_Coding_Questions_Priyanshi_Mam.md",
+          "size_bytes": 2600,
+          "lines_count": 80,
+          "chars_count": 2518,
+          "estimated_questions": 2,
+          "sha256_short": "a95e366aa8e8ad68"
+        }
+      ]
+    },
+    {
+      "section_folder": "Section_03_Technical_Pseudocode",
+      "section_title": "Technical Pseudocode & Output Practice",
+      "topics_count": 6,
+      "topics": [
+        {
+          "filename": "Topic_01_Class_1_Pseudocode_Questions.md",
+          "relative_path": "Section_03_Technical_Pseudocode/Topic_01_Class_1_Pseudocode_Questions.md",
+          "size_bytes": 10615,
+          "lines_count": 398,
+          "chars_count": 10229,
+          "estimated_questions": 10,
+          "sha256_short": "b28eedef8bbd8536"
+        },
+        {
+          "filename": "Topic_02_Class_2_Infosys_Pseudocode_Questions.md",
+          "relative_path": "Section_03_Technical_Pseudocode/Topic_02_Class_2_Infosys_Pseudocode_Questions.md",
+          "size_bytes": 16887,
+          "lines_count": 587,
+          "chars_count": 16323,
+          "estimated_questions": 15,
+          "sha256_short": "6ec9662adcd2023e"
+        },
+        {
+          "filename": "Topic_03_Class_3_Infosys_Pseudocode_Questions_2.md",
+          "relative_path": "Section_03_Technical_Pseudocode/Topic_03_Class_3_Infosys_Pseudocode_Questions_2.md",
+          "size_bytes": 8987,
+          "lines_count": 337,
+          "chars_count": 8664,
+          "estimated_questions": 9,
+          "sha256_short": "78c9836280d9ea58"
+        },
+        {
+          "filename": "Topic_04_Class_4_Pseudocode_Q1_to_Q14.md",
+          "relative_path": "Section_03_Technical_Pseudocode/Topic_04_Class_4_Pseudocode_Q1_to_Q14.md",
+          "size_bytes": 16285,
+          "lines_count": 519,
+          "chars_count": 15764,
+          "estimated_questions": 14,
+          "sha256_short": "26048025eb1cc668"
+        },
+        {
+          "filename": "Topic_05_Class_5_Pseudocode_Output_Practice_25_Questions.md",
+          "relative_path": "Section_03_Technical_Pseudocode/Topic_05_Class_5_Pseudocode_Output_Practice_25_Questions.md",
+          "size_bytes": 13250,
+          "lines_count": 471,
+          "chars_count": 12777,
+          "estimated_questions": 25,
+          "sha256_short": "a7235d8b6a61b792"
+        },
+        {
+          "filename": "Topic_06_Class_6_Pseudocode_Output_Practice_25_Questions_Part_2.md",
+          "relative_path": "Section_03_Technical_Pseudocode/Topic_06_Class_6_Pseudocode_Output_Practice_25_Questions_Part_2.md",
+          "size_bytes": 1322,
+          "lines_count": 15,
+          "chars_count": 1305,
+          "estimated_questions": 0,
+          "sha256_short": "2e5b3fdeaf149cc2"
+        }
+      ]
+    },
+    {
+      "section_folder": "Section_04_Live_PYQ",
+      "section_title": "Live Previous Year Questions (Infosys PYQ)",
+      "topics_count": 1,
+      "topics": [
+        {
+          "filename": "Topic_01_Infosys_PYQ_25_09_2026.md",
+          "relative_path": "Section_04_Live_PYQ/Topic_01_Infosys_PYQ_25_09_2026.md",
+          "size_bytes": 21893,
+          "lines_count": 493,
+          "chars_count": 21386,
+          "estimated_questions": 22,
+          "sha256_short": "26155d5c24fc12e4"
+        }
+      ]
+    },
+    {
+      "section_folder": "Section_05_Verbal_Ability",
+      "section_title": "Verbal Ability & Grammar Mastery",
+      "topics_count": 11,
+      "topics": [
+        {
+          "filename": "Topic_01_Isha_Mam_Infosys_PYQ_Paper_VA.md",
+          "relative_path": "Section_05_Verbal_Ability/Topic_01_Isha_Mam_Infosys_PYQ_Paper_VA.md",
+          "size_bytes": 8970,
+          "lines_count": 223,
+          "chars_count": 8727,
+          "estimated_questions": 3,
+          "sha256_short": "e73ad7c0197aa448"
+        },
+        {
+          "filename": "Topic_02_Isha_Mam_Grammar_Mastery.md",
+          "relative_path": "Section_05_Verbal_Ability/Topic_02_Isha_Mam_Grammar_Mastery.md",
+          "size_bytes": 10710,
+          "lines_count": 297,
+          "chars_count": 10360,
+          "estimated_questions": 6,
+          "sha256_short": "8f2bb65ff8e61dc8"
+        },
+        {
+          "filename": "Topic_03_Isha_Mam_Essay_Writing_Models.md",
+          "relative_path": "Section_05_Verbal_Ability/Topic_03_Isha_Mam_Essay_Writing_Models.md",
+          "size_bytes": 6091,
+          "lines_count": 134,
+          "chars_count": 5919,
+          "estimated_questions": 3,
+          "sha256_short": "96c6bf932bceec5a"
+        },
+        {
+          "filename": "Topic_04_Isha_Mam_TCS_VA_Question_Paper.md",
+          "relative_path": "Section_05_Verbal_Ability/Topic_04_Isha_Mam_TCS_VA_Question_Paper.md",
+          "size_bytes": 15331,
+          "lines_count": 415,
+          "chars_count": 14870,
+          "estimated_questions": 10,
+          "sha256_short": "03497c865e3596e2"
+        },
+        {
+          "filename": "Topic_05_Isha_Mam_Error_Detection_Prepositions.md",
+          "relative_path": "Section_05_Verbal_Ability/Topic_05_Isha_Mam_Error_Detection_Prepositions.md",
+          "size_bytes": 5382,
+          "lines_count": 130,
+          "chars_count": 5242,
+          "estimated_questions": 4,
+          "sha256_short": "8c291c560781af4d"
+        },
+        {
+          "filename": "Topic_06_Salomi_Mam_TCS_Verbal_Class_12.md",
+          "relative_path": "Section_05_Verbal_Ability/Topic_06_Salomi_Mam_TCS_Verbal_Class_12.md",
+          "size_bytes": 13404,
+          "lines_count": 466,
+          "chars_count": 12794,
+          "estimated_questions": 11,
+          "sha256_short": "cfa3f94f057a1f1b"
+        },
+        {
+          "filename": "Topic_07_Salomi_Mam_Verbal_Ability_Set_1.md",
+          "relative_path": "Section_05_Verbal_Ability/Topic_07_Salomi_Mam_Verbal_Ability_Set_1.md",
+          "size_bytes": 10593,
+          "lines_count": 302,
+          "chars_count": 10281,
+          "estimated_questions": 16,
+          "sha256_short": "2b3ba3a50d0a4786"
+        },
+        {
+          "filename": "Topic_08_Salomi_Mam_Infosys_Verbal_Mock_Class_8.md",
+          "relative_path": "Section_05_Verbal_Ability/Topic_08_Salomi_Mam_Infosys_Verbal_Mock_Class_8.md",
+          "size_bytes": 9933,
+          "lines_count": 287,
+          "chars_count": 9546,
+          "estimated_questions": 11,
+          "sha256_short": "26c7c85b6b80f7be"
+        },
+        {
+          "filename": "Topic_09_Salomi_Mam_Infosys_Verbal_QP_Class_9.md",
+          "relative_path": "Section_05_Verbal_Ability/Topic_09_Salomi_Mam_Infosys_Verbal_QP_Class_9.md",
+          "size_bytes": 30166,
+          "lines_count": 937,
+          "chars_count": 28689,
+          "estimated_questions": 27,
+          "sha256_short": "8391c7121c73a5ad"
+        },
+        {
+          "filename": "Topic_10_Salomi_Mam_Infosys_Verbal_Questions_69_Pages.md",
+          "relative_path": "Section_05_Verbal_Ability/Topic_10_Salomi_Mam_Infosys_Verbal_Questions_69_Pages.md",
+          "size_bytes": 30816,
+          "lines_count": 1164,
+          "chars_count": 28938,
+          "estimated_questions": 69,
+          "sha256_short": "4aa38f9212d87f13"
+        },
+        {
+          "filename": "Topic_11_Salomi_Mam_Verbal_Ability_Set_2_43_Pages.md",
+          "relative_path": "Section_05_Verbal_Ability/Topic_11_Salomi_Mam_Verbal_Ability_Set_2_43_Pages.md",
+          "size_bytes": 23005,
+          "lines_count": 673,
+          "chars_count": 22310,
+          "estimated_questions": 43,
+          "sha256_short": "52657ab5b0ea2214"
+        }
+      ]
+    }
+  ]
+}
