@@ -36,6 +36,20 @@ Eight positions around the circle (1 to 8 clockwise):
 7. Remaining position 3 is occupied by H.
 Full clockwise circle from pos 1 to 8: M (1), N (2), H (3), P (4), R (5), T (6), W (7), F (8).
 To the immediate right of P (counter-clockwise, towards pos 3) is H.
+
+**Native Circular Seating Layout:**
+```
+                     [M] (1)
+                   ▲         ▲
+          (8) [F]               [N] (2)
+               │      ⚪        │
+          (7) [W]   (Center)    [H] (3)
+                   ▼         ▼
+             (6) [T]           [P] (4)
+                     [R] (5)
+   Clockwise Ring: M(1) -> N(2) -> H(3) -> P(4) -> R(5) -> T(6) -> W(7) -> F(8)
+   Facing Centre: Right of P is counter-clockwise -> H (pos 3).
+```
 Therefore, option 1 (H) is the correct answer.
 
 **Reference High-Resolution Figure / Slide:**

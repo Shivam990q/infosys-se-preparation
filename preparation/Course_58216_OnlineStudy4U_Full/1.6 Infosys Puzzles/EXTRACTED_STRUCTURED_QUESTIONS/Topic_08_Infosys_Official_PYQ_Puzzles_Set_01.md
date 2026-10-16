@@ -25,7 +25,20 @@ This module contains 25 original Infosys exam screenshot questions extracted dir
 ![Question Figure](images/pyq_puzzles_p1_img1_1080x1194.jpeg)
 
 #### Problem Statement
-Three triangles are given with vertex numbers and a central resulting number. Determine the missing central number in the third triangle.
+Three triangles are given with vertex numbers and a central resulting number. Determine the missing central number in the third triangle:
+
+**Native Triangle Puzzle Schematic:**
+```
+       Triangle 1             Triangle 2             Triangle 3
+          [ 3 ]                  [ 4 ]                  [ 2 ]
+          /   \                  /   \                  /   \
+         /     \                /     \                /     \
+        / [20]  \              / [21]  \              /  [?]  \
+       /_________\            /_________\            /_________\
+     [4]         [2]        [3]         [3]        [1]         [3]
+   Rule: Center = (Top + Bottom-Right) × Bottom-Left
+   Triangle 3: (2 + 3) × 1 = 5. Missing number = 5.
+```
 
 #### Options
 - [ ] **A)** 6

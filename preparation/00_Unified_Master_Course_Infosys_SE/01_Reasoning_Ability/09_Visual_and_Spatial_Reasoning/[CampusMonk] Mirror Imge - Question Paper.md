@@ -6,233 +6,223 @@
 
 ### Question 1
 
-<p><span style="font-size: 14pt;"><strong><span style="color: #666666; font-family: Verdana, Tahoma, Arial, sans-serif;">Looking into a mirror, the clock shows 9 : 30 as the time. The actual time is ________&nbsp;</span></strong></span></p>
-<p>&nbsp;</p>
+Looking into a mirror, the clock shows 9 : 30 as the time. The actual time is ________
+
+**Native Clock Mirror Schematic:**
+```
+       Clock Image in Mirror (9:30)        Actual Clock Face (2:30)
+                 12                                  12
+             11  ▲   1                           11  ▲   1
+           10    │    2                        10    │    2
+          9 ◄────┼───── 3                    9 ──────┼────► 3
+           8     │    4                        8     │    4
+             7   ▼   5                           7   ▼   5
+                 6                                   6
+                   ║ Mirror Plane: Reflection across Vertical Axis ║
+                   Formula: Actual Time = 11:60 - Mirror Time
+                           = 11:60 - 9:30 = 2:30.
+``` 
 
 **Options:**
 
-- **(A)** <p><span style="font-size: 14pt;">2:30</span></p>
-- **(B)** <p><span style="font-size: 18.6667px;">3:30</span></p>
-- **(C)** <p><span style="font-size: 18.6667px;">4:30</span></p>
-- **(D)** <p><span style="font-size: 18.6667px;">5:30</span></p>
+- **(A)** 2:30
+- **(B)** 3:30
+- **(C)** 4:30
+- **(D)** 5:30
 
 ---
 
 ### Question 2
 
-<p><strong><span style="color: #666666; font-family: Verdana, Tahoma, Arial, sans-serif; font-size: 14pt;">When seen through a mirror, a clock shows 8 : 30. The correct time is ________</span></strong></p>
+When seen through a mirror, a clock shows 8 : 30. The correct time is ________
 
 **Options:**
 
-- **(A)** <p><span style="font-size: 14pt;">2:30</span></p>
-- **(B)** <p><span style="font-size: 18.6667px;">3:30</span></p>
-- **(C)** <p><span style="font-size: 18.6667px;">4:30</span></p>
-- **(D)** <p><span style="font-size: 18.6667px;">5:30</span></p>
+- **(A)** 2:30
+- **(B)** 3:30
+- **(C)** 4:30
+- **(D)** 5:30
 
 ---
 
 ### Question 3
 
-<p><strong><span style="color: #666666; font-family: Verdana, Tahoma, Arial, sans-serif; font-size: 14pt;">By looking in a mirror, it appears that it is 6 : 30 in the clock. What is the real time?</span></strong></p>
+By looking in a mirror, it appears that it is 6 : 30 in the clock. What is the real time?
 
 **Options:**
 
-- **(A)** <p><span style="font-size: 14pt;">6:30</span></p>
-- **(B)** <p><span style="font-size: 18.6667px;">5:30</span></p>
-- **(C)** <p><span style="font-size: 14pt;">4:30</span></p>
-- **(D)** <p><span style="font-size: 18.6667px;">3:30</span></p>
+- **(A)** 6:30
+- **(B)** 5:30
+- **(C)** 4:30
+- **(D)** 3:30
 
 ---
 
 ### Question 4
 
-<p><strong><span style="color: #666666; font-family: Verdana, Tahoma, Arial, sans-serif; font-size: 14pt;">When seen through a mirror, a watch shows 12 : 15. The correct time is</span></strong></p>
+When seen through a mirror, a watch shows 12 : 15. The correct time is
 
 **Options:**
 
-- **(A)** <p><span style="color: #666666; font-family: Verdana, Tahoma; font-size: 14pt;">12 : 30</span></p>
-- **(B)** <p><span style="color: #666666; font-family: Verdana, Tahoma; font-size: 14pt;">1 : 15</span></p>
-- **(C)** <p><span style="color: #666666; font-family: Verdana, Tahoma; font-size: 14pt;">12 : 45</span></p>
-- **(D)** <p><span style="color: #666666; font-family: Verdana, Tahoma; font-size: 14pt;">11 : 45</span></p>
+- **(A)** 12 : 30
+- **(B)** 1 : 15
+- **(C)** 12 : 45
+- **(D)** 11 : 45
 
 ---
 
 ### Question 5
 
-<p>&nbsp;</p>
-<table class="frenzy-tbl-container" style="border-spacing: 0px; border-collapse: collapse; color: #666666; font-family: 'Open Sans', sans-serif; font-size: 13px;" border="0" width="100%" cellspacing="0" cellpadding="0">
-<tbody>
-<tr>
-<td class="frenzy-td-qtxt" style="padding: 0px; font-family: Verdana, Arial, Tahoma; font-size: 14px;" valign="top">
-<p style="margin-bottom: 15px; font-family: Verdana, Tahoma, Arial, sans-serif; line-height: 1.5;"><strong><span style="font-size: 14pt;">Which of the answer figure is exactly the mirror image of the given figure, when mirror is placed on the line AB?</span></strong></p>
-<strong><span style="font-size: 14pt;"><img style="border: 0px; vertical-align: middle; max-width: 100%; height: auto;" src="images/img_dfb4b9d37200.png" alt="based-on-vertical-mirror---mirror-images-problems" /></span></strong></td>
-</tr>
-</tbody>
-</table>
+Which of the answer figure is exactly the mirror image of the given figure, when mirror is placed on the line AB?
+![Figure](images/img_dfb4b9d37200.png)
 
 **Options:**
 
-- **(A)** <p><span style="font-size: 14pt;">1</span></p>
-- **(B)** <p><span style="font-size: 14pt;">2</span></p>
-- **(C)** <p><span style="font-size: 14pt;">3</span></p>
-- **(D)** <p><span style="font-size: 14pt;">4</span></p>
+- **(A)** 1
+- **(B)** 2
+- **(C)** 3
+- **(D)** 4
 
 ---
 
 ### Question 6
 
-<p>&nbsp;</p>
-<table class="frenzy-tbl-container" style="border-spacing: 0px; border-collapse: collapse; color: #666666; font-family: 'Open Sans', sans-serif; font-size: 13px;" border="0" width="100%" cellspacing="0" cellpadding="0">
-<tbody>
-<tr>
-<td class="frenzy-td-qtxt" style="padding: 0px; font-family: Verdana, Arial, Tahoma; font-size: 14px;" valign="top">
-<p style="margin-bottom: 15px; font-family: Verdana, Tahoma, Arial, sans-serif; line-height: 1.5;"><strong><span style="font-size: 14pt;">Which of the answer figure is exactly the mirror image of the given figure, when mirror is placed on the line AB?</span></strong></p>
-<strong><span style="font-size: 14pt;"><img style="border: 0px; vertical-align: middle; max-width: 100%; height: auto;" src="images/img_856173649f91.png" alt="based-on-vertical-mirror---mirror-images-problems" /></span></strong></td>
-</tr>
-</tbody>
-</table>
+Which of the answer figure is exactly the mirror image of the given figure, when mirror is placed on the line AB?
+![Figure](images/img_856173649f91.png)
 
 **Options:**
 
-- **(A)** <p><span style="font-size: 14pt;">1</span></p>
-- **(B)** <p><span style="font-size: 14pt;">2</span></p>
-- **(C)** <p><span style="font-size: 14pt;">3</span></p>
-- **(D)** <p><span style="font-size: 14pt;">4</span></p>
+- **(A)** 1
+- **(B)** 2
+- **(C)** 3
+- **(D)** 4
 
 ---
 
 ### Question 7
 
-<p style="margin-bottom: 15px; font-family: Verdana, Tahoma, Arial, sans-serif; line-height: 1.5; color: #666666;"><strong><span style="font-size: 14pt;">Which of the answer figure is exactly the mirror image of the given figure, when mirror is placed on the line AB?</span></strong></p>
-<p><strong><span style="font-size: 14pt;"><img style="border: 0px; max-width: 100%; height: auto; color: #666666; font-family: Verdana, Arial, Tahoma;" src="images/img_f6e25d7608c7.png" alt="based-on-vertical-mirror---mirror-images-problems" /></span></strong></p>
+Which of the answer figure is exactly the mirror image of the given figure, when mirror is placed on the line AB?
+![Figure](images/img_f6e25d7608c7.png)
 
 **Options:**
 
-- **(A)** <p><span style="font-size: 14pt;">1</span></p>
-- **(B)** <p><span style="font-size: 14pt;">2</span></p>
-- **(C)** <p><span style="font-size: 14pt;">3</span></p>
-- **(D)** <p><span style="font-size: 14pt;">4</span></p>
+- **(A)** 1
+- **(B)** 2
+- **(C)** 3
+- **(D)** 4
 
 ---
 
 ### Question 8
 
-<p>&nbsp;</p>
-<table class="frenzy-tbl-container" style="border-spacing: 0px; border-collapse: collapse; color: #666666; font-family: 'Open Sans', sans-serif; font-size: 13px;" border="0" width="100%" cellspacing="0" cellpadding="0">
-<tbody>
-<tr>
-<td class="frenzy-td-qtxt" style="padding: 0px; font-family: Verdana, Arial, Tahoma; font-size: 14px;" valign="top">
-<p style="margin-bottom: 15px; font-family: Verdana, Tahoma, Arial, sans-serif; line-height: 1.5;"><strong><span style="font-size: 14pt;">Which of the answer figure is exactly the mirror image of the given figure, when mirror is placed on the line AB?</span></strong></p>
-<strong><span style="font-size: 14pt;"><img style="border: 0px; vertical-align: middle; max-width: 100%; height: auto;" src="images/img_010651093302.png" alt="based-on-vertical-mirror---mirror-images-problems" /></span></strong></td>
-</tr>
-</tbody>
-</table>
+Which of the answer figure is exactly the mirror image of the given figure, when mirror is placed on the line AB?
+![Figure](images/img_010651093302.png)
 
 **Options:**
 
-- **(A)** <p><span style="font-size: 14pt;">1</span></p>
-- **(B)** <p><span style="font-size: 14pt;">2</span></p>
-- **(C)** <p><span style="font-size: 14pt;">3</span></p>
-- **(D)** <p><span style="font-size: 14pt;">4</span></p>
+- **(A)** 1
+- **(B)** 2
+- **(C)** 3
+- **(D)** 4
 
 ---
 
 ### Question 9
 
-<p style="margin-bottom: 15px; font-family: Verdana, Tahoma, Arial, sans-serif; line-height: 1.5; color: #666666;"><strong><span style="font-size: 14pt;">Which of the answer figure is exactly the mirror image of the given figure, when mirror is placed on the line AB?</span></strong></p>
-<p><strong><span style="font-size: 14pt;"><img style="border: 0px; max-width: 100%; height: auto; color: #666666; font-family: Verdana, Arial, Tahoma;" src="images/img_81fa307facb5.png" alt="based-on-vertical-mirror---mirror-images-problems" /></span></strong></p>
+Which of the answer figure is exactly the mirror image of the given figure, when mirror is placed on the line AB?
+![Figure](images/img_81fa307facb5.png)
 
 **Options:**
 
-- **(A)** <p><span style="font-size: 14pt;">1</span></p>
-- **(B)** <p><span style="font-size: 14pt;">2</span></p>
-- **(C)** <p><span style="font-size: 14pt;">3</span></p>
-- **(D)** <p><span style="font-size: 14pt;">4</span></p>
+- **(A)** 1
+- **(B)** 2
+- **(C)** 3
+- **(D)** 4
 
 ---
 
 ### Question 10
 
-<p><strong><span style="color: #050002; font-family: Verdana, Geneva, Tahoma, Arial, Helvetica, sans-serif; letter-spacing: 1px; text-align: justify; font-size: 14pt;">Which of the answer figures is exactly the mirror image of the given question figure when the mirror is held at XY?</span></strong></p>
-<p>&nbsp;</p>
-<p><img class="img-responsive" style="border: 0px; margin: 0px; padding: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; line-height: inherit; font-family: Verdana, Geneva, Tahoma, Arial, Helvetica, sans-serif; pointer-events: none; display: block; max-width: 100%; height: 300px; color: #050002; letter-spacing: 1px; text-align: justify;" src="images/img_9b17efce4e5b.png" alt="Solved mirror image questions, concept of Mirror images, general aptitude, Mirror image questin answers, Previous solved papers, clock based Mirror image, figure based Mirror image, alpha numeric Mirror image, alphabet Mirror image,number based Mirror image, mirror reflections, mirror inversion" width="435" /></p>
+Which of the answer figures is exactly the mirror image of the given question figure when the mirror is held at XY?
+ 
+![Figure](images/img_9b17efce4e5b.png)
 
 **Options:**
 
-- **(A)** <p><span style="font-size: 14pt;">2</span></p>
-- **(B)** <p><span style="font-size: 14pt;">4</span></p>
-- **(C)** <p><span style="font-size: 14pt;">3</span></p>
-- **(D)** <p><span style="font-size: 14pt;">1</span></p>
+- **(A)** 2
+- **(B)** 4
+- **(C)** 3
+- **(D)** 1
 
 ---
 
 ### Question 11
 
-<p style="margin-bottom: 15px; font-family: Verdana, Tahoma, Arial, sans-serif; line-height: 1.5; color: #666666;"><strong><span style="font-size: 14pt;">Choose the alternative which is closely resembles the mirror image of the given combination.</span></strong></p>
-<p><strong><span style="font-size: 14pt;"><img style="border: 0px; max-width: 100%; height: 157px; color: #666666; font-family: Verdana, Arial, Tahoma;" src="images/img_239aad1f2c3d.png" alt="mirror-image-of-letters-and-numbers---mirror-images-problems" width="509" /></span></strong></p>
+Choose the alternative which is closely resembles the mirror image of the given combination.
+![Figure](images/img_239aad1f2c3d.png)
 
 **Options:**
 
-- **(A)** <p><span style="font-size: 14pt;">1</span></p>
-- **(B)** <p><span style="font-size: 14pt;">2</span></p>
-- **(C)** <p><span style="font-size: 14pt;">3</span></p>
-- **(D)** <p><span style="font-size: 14pt;">4</span></p>
+- **(A)** 1
+- **(B)** 2
+- **(C)** 3
+- **(D)** 4
 
 ---
 
 ### Question 12
 
-<p style="margin-bottom: 15px; font-family: Verdana, Tahoma, Arial, sans-serif; line-height: 1.5; color: #666666;"><strong><span style="font-size: 14pt;">Choose the alternative which is closely resembles the mirror image of the given combination.</span></strong></p>
-<p><strong><span style="font-size: 14pt;"><img style="border: 0px; max-width: 100%; height: 140px; color: #666666; font-family: Verdana, Arial, Tahoma;" src="images/img_d4cd53c49924.png" alt="mirror-image-of-letters-and-numbers---mirror-images-problems" width="478" /></span></strong></p>
+Choose the alternative which is closely resembles the mirror image of the given combination.
+![Figure](images/img_d4cd53c49924.png)
 
 **Options:**
 
-- **(A)** <p><span style="font-size: 14pt;">1</span></p>
-- **(B)** <p><span style="font-size: 14pt;">2</span></p>
-- **(C)** <p><span style="font-size: 14pt;">3</span></p>
-- **(D)** <p><span style="font-size: 14pt;">4</span></p>
+- **(A)** 1
+- **(B)** 2
+- **(C)** 3
+- **(D)** 4
 
 ---
 
 ### Question 13
 
-<p style="margin-bottom: 15px; font-family: Verdana, Tahoma, Arial, sans-serif; line-height: 1.5; color: #666666;"><strong><span style="font-size: 14pt;">Choose the alternative which is closely resembles the mirror image of the given combination.</span></strong></p>
-<p><strong><span style="font-size: 14pt;"><img style="border: 0px; max-width: 100%; height: 132px; color: #666666; font-family: Verdana, Arial, Tahoma;" src="images/img_c52518d19369.png" alt="mirror-image-of-letters-and-numbers---mirror-images-problems" width="566" /></span></strong></p>
+Choose the alternative which is closely resembles the mirror image of the given combination.
+![Figure](images/img_c52518d19369.png)
 
 **Options:**
 
-- **(A)** <p><span style="font-size: 14pt;">1</span></p>
-- **(B)** <p><span style="font-size: 14pt;">2</span></p>
-- **(C)** <p><span style="font-size: 14pt;">3</span></p>
-- **(D)** <p><span style="font-size: 14pt;">4</span></p>
+- **(A)** 1
+- **(B)** 2
+- **(C)** 3
+- **(D)** 4
 
 ---
 
 ### Question 14
 
-<p style="margin-bottom: 15px; font-family: Verdana, Tahoma, Arial, sans-serif; line-height: 1.5; color: #666666;"><strong><span style="font-size: 14pt;">Choose the alternative which is closely resembles the mirror image of the given combination.</span></strong></p>
-<p><strong><span style="font-size: 14pt;"><img style="border: 0px; max-width: 100%; height: 117px; color: #666666; font-family: Verdana, Arial, Tahoma;" src="images/img_d974307bd16a.png" alt="mirror-image-of-letters-and-numbers---mirror-images-problems" width="532" /></span></strong></p>
+Choose the alternative which is closely resembles the mirror image of the given combination.
+![Figure](images/img_d974307bd16a.png)
 
 **Options:**
 
-- **(A)** <p><span style="font-size: 14pt;">1</span></p>
-- **(B)** <p><span style="font-size: 14pt;">2</span></p>
-- **(C)** <p><span style="font-size: 14pt;">3</span></p>
-- **(D)** <p><span style="font-size: 14pt;">4</span></p>
+- **(A)** 1
+- **(B)** 2
+- **(C)** 3
+- **(D)** 4
 
 ---
 
 ### Question 15
 
-<p><strong><span style="font-size: 14pt;"><span style="color: #666666; font-family: Verdana, Tahoma, Arial, sans-serif;">Choose the alternative which is closely resembles the mirror image of the given combination.</span></span></strong></p>
-<p><strong><span style="font-size: 14pt;"><img style="border: 0px; vertical-align: middle; max-width: 100%; height: 123px; color: #666666; font-family: Verdana, Arial, Tahoma;" src="images/img_ce46b67dd1ed.png" alt="mirror-image-of-letters-and-numbers---mirror-images-problems" width="429" /></span></strong></p>
+Choose the alternative which is closely resembles the mirror image of the given combination.
+![Figure](images/img_ce46b67dd1ed.png)
 
 **Options:**
 
-- **(A)** <p><span style="font-size: 14pt;">1</span></p>
-- **(B)** <p><span style="font-size: 14pt;">2</span></p>
-- **(C)** <p><span style="font-size: 14pt;">3</span></p>
-- **(D)** <p><span style="font-size: 14pt;">4</span></p>
+- **(A)** 1
+- **(B)** 2
+- **(C)** 3
+- **(D)** 4
 
 ---
 

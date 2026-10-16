@@ -14,7 +14,22 @@
 Ankush went to the market to visit eight shops – Shop-1 to Shop-8. He starts from Shop-1 and walks towards Shop-3 which is at distance of 24 m towards east. He then turns left and walks 16 m to reach Shop-5. Then he walks 57 m southwest to visit Shop-2, which is towards the south of Shop-1. What is the direction of Shop-1 with respect to Shop-2 and the distance between them?
 ```
 
-**Option Set:**
+****Native 8-Point Compass & Vector Schematic:**
+```
+                  N (North)
+                  ▲
+        NW        │        NE
+          \       │       /
+           \      │      /
+     W ─────┼─────┼─────┼─────► E (East)
+  (West)     \    │    /
+              \   │   /
+        SW     \  │  /     SE
+                  ▼
+                  S (South)
+```
+
+**Option Set:****
 - A. Northeast, 7√10 m
 - B. North, 35 m
 - C. Northwest, 7√10 m

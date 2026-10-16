@@ -926,7 +926,21 @@ Hence, the minimum number of weight checks required is 2 (Option B).
 ![Figure](file:///C:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/preparation/Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section VI_ Puzzle Solving/EXTRACTED_STRUCTURED_QUESTIONS/images/number_puzzles_ebook_page_14.png)
 
 **Question:**
-1. Find the missing number (?) from the given matrix: [Grid: 18 | 16 | 34 | 16 | 20 | 36]
+1. Find the missing number (?) from the given matrix: **Native Grid Table:**
+```
+┌──────┬──────┬──────┬──────┬──────┬──────┐
+│  18  │  16  │  34  │  16  │  20  │  36  │
+└──────┴──────┴──────┴──────┴──────┴──────┘
+```
+
+**Native Grid Table:**
+```
+┌──────┬──────┬──────┬──────┬──────┬──────┐
+│  18  │  16  │  34  │  16  │  20  │  36  │
+└──────┴──────┴──────┴──────┴──────┴──────┘
+```
+
+[Grid: 18 | 16 | 34 | 16 | 20 | 36]
 
 **Options:**
 - A) 6
@@ -949,7 +963,21 @@ Conclusion confirms answer D.
 ![Figure](file:///C:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/preparation/Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section VI_ Puzzle Solving/EXTRACTED_STRUCTURED_QUESTIONS/images/number_puzzles_ebook_page_14.png)
 
 **Question:**
-2. Find the missing number (?) from the given matrix: [Grid: 7 | 8 | 15 | 21 | 12 | 33]
+2. Find the missing number (?) from the given matrix: **Native Grid Table:**
+```
+┌──────┬──────┬──────┬──────┬──────┬──────┐
+│  7   │  8   │  15  │  21  │  12  │  33  │
+└──────┴──────┴──────┴──────┴──────┴──────┘
+```
+
+**Native Grid Table:**
+```
+┌──────┬──────┬──────┬──────┬──────┬──────┐
+│  7   │  8   │  15  │  21  │  12  │  33  │
+└──────┴──────┴──────┴──────┴──────┴──────┘
+```
+
+[Grid: 7 | 8 | 15 | 21 | 12 | 33]
 
 **Options:**
 - A) 34
@@ -972,7 +1000,21 @@ Conclusion confirms answer B.
 ![Figure](file:///C:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/preparation/Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section VI_ Puzzle Solving/EXTRACTED_STRUCTURED_QUESTIONS/images/number_puzzles_ebook_page_14.png)
 
 **Question:**
-3. Find the missing number (?) from the given matrix: [Grid: 16 | 4 | 20 | 13 | 17 | 30]
+3. Find the missing number (?) from the given matrix: **Native Grid Table:**
+```
+┌──────┬──────┬──────┬──────┬──────┬──────┐
+│  16  │  4   │  20  │  13  │  17  │  30  │
+└──────┴──────┴──────┴──────┴──────┴──────┘
+```
+
+**Native Grid Table:**
+```
+┌──────┬──────┬──────┬──────┬──────┬──────┐
+│  16  │  4   │  20  │  13  │  17  │  30  │
+└──────┴──────┴──────┴──────┴──────┴──────┘
+```
+
+[Grid: 16 | 4 | 20 | 13 | 17 | 30]
 
 **Options:**
 - A) 32
@@ -995,7 +1037,21 @@ Conclusion confirms answer B.
 ![Figure](file:///C:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/preparation/Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section VI_ Puzzle Solving/EXTRACTED_STRUCTURED_QUESTIONS/images/number_puzzles_ebook_page_14.png)
 
 **Question:**
-4. Find the missing number (?) from the given matrix: [Grid: 16 | 9 | 25 | 13 | 15 | 28]
+4. Find the missing number (?) from the given matrix: **Native Grid Table:**
+```
+┌──────┬──────┬──────┬──────┬──────┬──────┐
+│  16  │  9   │  25  │  13  │  15  │  28  │
+└──────┴──────┴──────┴──────┴──────┴──────┘
+```
+
+**Native Grid Table:**
+```
+┌──────┬──────┬──────┬──────┬──────┬──────┐
+│  16  │  9   │  25  │  13  │  15  │  28  │
+└──────┴──────┴──────┴──────┴──────┴──────┘
+```
+
+[Grid: 16 | 9 | 25 | 13 | 15 | 28]
 
 **Options:**
 - A) 42
@@ -1018,7 +1074,21 @@ Conclusion confirms answer B.
 ![Figure](file:///C:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/preparation/Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section VI_ Puzzle Solving/EXTRACTED_STRUCTURED_QUESTIONS/images/number_puzzles_ebook_page_14.png)
 
 **Question:**
-5. Find the missing number (?) from the given matrix: [Grid: 8 | 15 | 23 | 18 | 5 | 23]
+5. Find the missing number (?) from the given matrix: **Native Grid Table:**
+```
+┌──────┬──────┬──────┬──────┬──────┬──────┐
+│  8   │  15  │  23  │  18  │  5   │  23  │
+└──────┴──────┴──────┴──────┴──────┴──────┘
+```
+
+**Native Grid Table:**
+```
+┌──────┬──────┬──────┬──────┬──────┬──────┐
+│  8   │  15  │  23  │  18  │  5   │  23  │
+└──────┴──────┴──────┴──────┴──────┴──────┘
+```
+
+[Grid: 8 | 15 | 23 | 18 | 5 | 23]
 
 **Options:**
 - A) 37
@@ -1041,7 +1111,21 @@ Conclusion confirms answer A.
 ![Figure](file:///C:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/preparation/Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section VI_ Puzzle Solving/EXTRACTED_STRUCTURED_QUESTIONS/images/number_puzzles_ebook_page_14.png)
 
 **Question:**
-6. Find the missing number (?) from the given matrix: [Grid: 25 | 15 | 10 | 33 | 11 | 22]
+6. Find the missing number (?) from the given matrix: **Native Grid Table:**
+```
+┌──────┬──────┬──────┬──────┬──────┬──────┐
+│  25  │  15  │  10  │  33  │  11  │  22  │
+└──────┴──────┴──────┴──────┴──────┴──────┘
+```
+
+**Native Grid Table:**
+```
+┌──────┬──────┬──────┬──────┬──────┬──────┐
+│  25  │  15  │  10  │  33  │  11  │  22  │
+└──────┴──────┴──────┴──────┴──────┴──────┘
+```
+
+[Grid: 25 | 15 | 10 | 33 | 11 | 22]
 
 **Options:**
 - A) 4
@@ -1064,7 +1148,21 @@ Conclusion confirms answer D.
 ![Figure](file:///C:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/preparation/Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section VI_ Puzzle Solving/EXTRACTED_STRUCTURED_QUESTIONS/images/number_puzzles_ebook_page_14.png)
 
 **Question:**
-7. Find the missing number (?) from the given matrix: [Grid: 11 | 4 | 7 | 34 | 9 | 25]
+7. Find the missing number (?) from the given matrix: **Native Grid Table:**
+```
+┌──────┬──────┬──────┬──────┬──────┬──────┐
+│  11  │  4   │  7   │  34  │  9   │  25  │
+└──────┴──────┴──────┴──────┴──────┴──────┘
+```
+
+**Native Grid Table:**
+```
+┌──────┬──────┬──────┬──────┬──────┬──────┐
+│  11  │  4   │  7   │  34  │  9   │  25  │
+└──────┴──────┴──────┴──────┴──────┴──────┘
+```
+
+[Grid: 11 | 4 | 7 | 34 | 9 | 25]
 
 **Options:**
 - A) 2
@@ -1087,7 +1185,21 @@ Conclusion confirms answer D.
 ![Figure](file:///C:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/preparation/Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section VI_ Puzzle Solving/EXTRACTED_STRUCTURED_QUESTIONS/images/number_puzzles_ebook_page_14.png)
 
 **Question:**
-8. Find the missing number (?) from the given matrix: [Grid: 30 | 8 | 22 | 25 | 5 | 20]
+8. Find the missing number (?) from the given matrix: **Native Grid Table:**
+```
+┌──────┬──────┬──────┬──────┬──────┬──────┐
+│  30  │  8   │  22  │  25  │  5   │  20  │
+└──────┴──────┴──────┴──────┴──────┴──────┘
+```
+
+**Native Grid Table:**
+```
+┌──────┬──────┬──────┬──────┬──────┬──────┐
+│  30  │  8   │  22  │  25  │  5   │  20  │
+└──────┴──────┴──────┴──────┴──────┴──────┘
+```
+
+[Grid: 30 | 8 | 22 | 25 | 5 | 20]
 
 **Options:**
 - A) 23
@@ -1110,7 +1222,21 @@ Conclusion confirms answer D.
 ![Figure](file:///C:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/preparation/Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section VI_ Puzzle Solving/EXTRACTED_STRUCTURED_QUESTIONS/images/number_puzzles_ebook_page_14.png)
 
 **Question:**
-9. Find the missing number (?) from the given matrix: [Grid: 23 | 9 | 14 | 31 | 9 | 22]
+9. Find the missing number (?) from the given matrix: **Native Grid Table:**
+```
+┌──────┬──────┬──────┬──────┬──────┬──────┐
+│  23  │  9   │  14  │  31  │  9   │  22  │
+└──────┴──────┴──────┴──────┴──────┴──────┘
+```
+
+**Native Grid Table:**
+```
+┌──────┬──────┬──────┬──────┬──────┬──────┐
+│  23  │  9   │  14  │  31  │  9   │  22  │
+└──────┴──────┴──────┴──────┴──────┴──────┘
+```
+
+[Grid: 23 | 9 | 14 | 31 | 9 | 22]
 
 **Options:**
 - A) 18
@@ -1133,7 +1259,21 @@ Conclusion confirms answer D.
 ![Figure](file:///C:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/preparation/Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section VI_ Puzzle Solving/EXTRACTED_STRUCTURED_QUESTIONS/images/number_puzzles_ebook_page_14.png)
 
 **Question:**
-10. Find the missing number (?) from the given matrix: [Grid: 15 | 5 | 10 | 22 | 9 | 13]
+10. Find the missing number (?) from the given matrix: **Native Grid Table:**
+```
+┌──────┬──────┬──────┬──────┬──────┬──────┐
+│  15  │  5   │  10  │  22  │  9   │  13  │
+└──────┴──────┴──────┴──────┴──────┴──────┘
+```
+
+**Native Grid Table:**
+```
+┌──────┬──────┬──────┬──────┬──────┬──────┐
+│  15  │  5   │  10  │  22  │  9   │  13  │
+└──────┴──────┴──────┴──────┴──────┴──────┘
+```
+
+[Grid: 15 | 5 | 10 | 22 | 9 | 13]
 
 **Options:**
 - A) 29
@@ -1156,7 +1296,21 @@ Conclusion confirms answer D.
 ![Figure](file:///C:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/preparation/Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section VI_ Puzzle Solving/EXTRACTED_STRUCTURED_QUESTIONS/images/number_puzzles_ebook_page_14.png)
 
 **Question:**
-11. Find the missing number (?) from the given matrix: [Grid: 7 | 5 | 35 | 4 | 3 | 12]
+11. Find the missing number (?) from the given matrix: **Native Grid Table:**
+```
+┌──────┬──────┬──────┬──────┬──────┬──────┐
+│  7   │  5   │  35  │  4   │  3   │  12  │
+└──────┴──────┴──────┴──────┴──────┴──────┘
+```
+
+**Native Grid Table:**
+```
+┌──────┬──────┬──────┬──────┬──────┬──────┐
+│  7   │  5   │  35  │  4   │  3   │  12  │
+└──────┴──────┴──────┴──────┴──────┴──────┘
+```
+
+[Grid: 7 | 5 | 35 | 4 | 3 | 12]
 
 **Options:**
 - A) 66
@@ -1179,7 +1333,21 @@ Conclusion confirms answer C.
 ![Figure](file:///C:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/preparation/Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section VI_ Puzzle Solving/EXTRACTED_STRUCTURED_QUESTIONS/images/number_puzzles_ebook_page_14.png)
 
 **Question:**
-12. Find the missing number (?) from the given matrix: [Grid: 9 | 3 | 27 | 4 | 8 | 32]
+12. Find the missing number (?) from the given matrix: **Native Grid Table:**
+```
+┌──────┬──────┬──────┬──────┬──────┬──────┐
+│  9   │  3   │  27  │  4   │  8   │  32  │
+└──────┴──────┴──────┴──────┴──────┴──────┘
+```
+
+**Native Grid Table:**
+```
+┌──────┬──────┬──────┬──────┬──────┬──────┐
+│  9   │  3   │  27  │  4   │  8   │  32  │
+└──────┴──────┴──────┴──────┴──────┴──────┘
+```
+
+[Grid: 9 | 3 | 27 | 4 | 8 | 32]
 
 **Options:**
 - A) 12
@@ -1202,7 +1370,21 @@ Conclusion confirms answer A.
 ![Figure](file:///C:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/preparation/Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section VI_ Puzzle Solving/EXTRACTED_STRUCTURED_QUESTIONS/images/number_puzzles_ebook_page_14.png)
 
 **Question:**
-13. Find the missing number (?) from the given matrix: [Grid: 9 | 4 | 36 | 9 | 8 | 72]
+13. Find the missing number (?) from the given matrix: **Native Grid Table:**
+```
+┌──────┬──────┬──────┬──────┬──────┬──────┐
+│  9   │  4   │  36  │  9   │  8   │  72  │
+└──────┴──────┴──────┴──────┴──────┴──────┘
+```
+
+**Native Grid Table:**
+```
+┌──────┬──────┬──────┬──────┬──────┬──────┐
+│  9   │  4   │  36  │  9   │  8   │  72  │
+└──────┴──────┴──────┴──────┴──────┴──────┘
+```
+
+[Grid: 9 | 4 | 36 | 9 | 8 | 72]
 
 **Options:**
 - A) 38
@@ -1225,7 +1407,21 @@ Conclusion confirms answer D.
 ![Figure](file:///C:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/preparation/Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section VI_ Puzzle Solving/EXTRACTED_STRUCTURED_QUESTIONS/images/number_puzzles_ebook_page_14.png)
 
 **Question:**
-14. Find the missing number (?) from the given matrix: [Grid: 2 | 4 | 8 | 6 | 6 | 36]
+14. Find the missing number (?) from the given matrix: **Native Grid Table:**
+```
+┌──────┬──────┬──────┬──────┬──────┬──────┐
+│  2   │  4   │  8   │  6   │  6   │  36  │
+└──────┴──────┴──────┴──────┴──────┴──────┘
+```
+
+**Native Grid Table:**
+```
+┌──────┬──────┬──────┬──────┬──────┬──────┐
+│  2   │  4   │  8   │  6   │  6   │  36  │
+└──────┴──────┴──────┴──────┴──────┴──────┘
+```
+
+[Grid: 2 | 4 | 8 | 6 | 6 | 36]
 
 **Options:**
 - A) 54
@@ -1248,7 +1444,21 @@ Conclusion confirms answer B.
 ![Figure](file:///C:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/preparation/Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section VI_ Puzzle Solving/EXTRACTED_STRUCTURED_QUESTIONS/images/number_puzzles_ebook_page_14.png)
 
 **Question:**
-15. Find the missing number (?) from the given matrix: [Grid: 5 | 6 | 30 | 3 | 3 | 9]
+15. Find the missing number (?) from the given matrix: **Native Grid Table:**
+```
+┌──────┬──────┬──────┬──────┬──────┬──────┐
+│  5   │  6   │  30  │  3   │  3   │  9   │
+└──────┴──────┴──────┴──────┴──────┴──────┘
+```
+
+**Native Grid Table:**
+```
+┌──────┬──────┬──────┬──────┬──────┬──────┐
+│  5   │  6   │  30  │  3   │  3   │  9   │
+└──────┴──────┴──────┴──────┴──────┴──────┘
+```
+
+[Grid: 5 | 6 | 30 | 3 | 3 | 9]
 
 **Options:**
 - A) 18
@@ -1271,7 +1481,21 @@ Conclusion confirms answer A.
 ![Figure](file:///C:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/preparation/Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section VI_ Puzzle Solving/EXTRACTED_STRUCTURED_QUESTIONS/images/number_puzzles_ebook_page_14.png)
 
 **Question:**
-16. Find the missing number (?) from the given matrix: [Grid: 6 | 3 | 2 | 64 | 8 | 8]
+16. Find the missing number (?) from the given matrix: **Native Grid Table:**
+```
+┌──────┬──────┬──────┬──────┬──────┬──────┐
+│  6   │  3   │  2   │  64  │  8   │  8   │
+└──────┴──────┴──────┴──────┴──────┴──────┘
+```
+
+**Native Grid Table:**
+```
+┌──────┬──────┬──────┬──────┬──────┬──────┐
+│  6   │  3   │  2   │  64  │  8   │  8   │
+└──────┴──────┴──────┴──────┴──────┴──────┘
+```
+
+[Grid: 6 | 3 | 2 | 64 | 8 | 8]
 
 **Options:**
 - A) 17
@@ -1294,7 +1518,21 @@ Conclusion confirms answer C.
 ![Figure](file:///C:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/preparation/Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section VI_ Puzzle Solving/EXTRACTED_STRUCTURED_QUESTIONS/images/number_puzzles_ebook_page_14.png)
 
 **Question:**
-17. Find the missing number (?) from the given matrix: [Grid: 15 | 3 | 5 | 36 | 6 | 6]
+17. Find the missing number (?) from the given matrix: **Native Grid Table:**
+```
+┌──────┬──────┬──────┬──────┬──────┬──────┐
+│  15  │  3   │  5   │  36  │  6   │  6   │
+└──────┴──────┴──────┴──────┴──────┴──────┘
+```
+
+**Native Grid Table:**
+```
+┌──────┬──────┬──────┬──────┬──────┬──────┐
+│  15  │  3   │  5   │  36  │  6   │  6   │
+└──────┴──────┴──────┴──────┴──────┴──────┘
+```
+
+[Grid: 15 | 3 | 5 | 36 | 6 | 6]
 
 **Options:**
 - A) 12
@@ -1317,7 +1555,21 @@ Conclusion confirms answer D.
 ![Figure](file:///C:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/preparation/Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section VI_ Puzzle Solving/EXTRACTED_STRUCTURED_QUESTIONS/images/number_puzzles_ebook_page_14.png)
 
 **Question:**
-18. Find the missing number (?) from the given matrix: [Grid: 6 | 2 | 3 | 8 | 4 | 2]
+18. Find the missing number (?) from the given matrix: **Native Grid Table:**
+```
+┌──────┬──────┬──────┬──────┬──────┬──────┐
+│  6   │  2   │  3   │  8   │  4   │  2   │
+└──────┴──────┴──────┴──────┴──────┴──────┘
+```
+
+**Native Grid Table:**
+```
+┌──────┬──────┬──────┬──────┬──────┬──────┐
+│  6   │  2   │  3   │  8   │  4   │  2   │
+└──────┴──────┴──────┴──────┴──────┴──────┘
+```
+
+[Grid: 6 | 2 | 3 | 8 | 4 | 2]
 
 **Options:**
 - A) 6
@@ -1340,7 +1592,21 @@ Conclusion confirms answer C.
 ![Figure](file:///C:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/preparation/Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section VI_ Puzzle Solving/EXTRACTED_STRUCTURED_QUESTIONS/images/number_puzzles_ebook_page_14.png)
 
 **Question:**
-19. Find the missing number (?) from the given matrix: [Grid: 12 | 6 | 2 | 36 | 6 | 6]
+19. Find the missing number (?) from the given matrix: **Native Grid Table:**
+```
+┌──────┬──────┬──────┬──────┬──────┬──────┐
+│  12  │  6   │  2   │  36  │  6   │  6   │
+└──────┴──────┴──────┴──────┴──────┴──────┘
+```
+
+**Native Grid Table:**
+```
+┌──────┬──────┬──────┬──────┬──────┬──────┐
+│  12  │  6   │  2   │  36  │  6   │  6   │
+└──────┴──────┴──────┴──────┴──────┴──────┘
+```
+
+[Grid: 12 | 6 | 2 | 36 | 6 | 6]
 
 **Options:**
 - A) 2
@@ -1363,7 +1629,21 @@ Conclusion confirms answer A.
 ![Figure](file:///C:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/preparation/Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section VI_ Puzzle Solving/EXTRACTED_STRUCTURED_QUESTIONS/images/number_puzzles_ebook_page_14.png)
 
 **Question:**
-20. Find the missing number (?) from the given matrix: [Grid: 15 | 5 | 3 | 49 | 7 | 7]
+20. Find the missing number (?) from the given matrix: **Native Grid Table:**
+```
+┌──────┬──────┬──────┬──────┬──────┬──────┐
+│  15  │  5   │  3   │  49  │  7   │  7   │
+└──────┴──────┴──────┴──────┴──────┴──────┘
+```
+
+**Native Grid Table:**
+```
+┌──────┬──────┬──────┬──────┬──────┬──────┐
+│  15  │  5   │  3   │  49  │  7   │  7   │
+└──────┴──────┴──────┴──────┴──────┴──────┘
+```
+
+[Grid: 15 | 5 | 3 | 49 | 7 | 7]
 
 **Options:**
 - A) 22
@@ -1386,7 +1666,21 @@ Conclusion confirms answer B.
 ![Figure](file:///C:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/preparation/Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section VI_ Puzzle Solving/EXTRACTED_STRUCTURED_QUESTIONS/images/number_puzzles_ebook_page_14.png)
 
 **Question:**
-21. Find the missing number (?) from the given matrix: [Grid: 5 | 3 | 28 | 5 | 1 | 26]
+21. Find the missing number (?) from the given matrix: **Native Grid Table:**
+```
+┌──────┬──────┬──────┬──────┬──────┬──────┐
+│  5   │  3   │  28  │  5   │  1   │  26  │
+└──────┴──────┴──────┴──────┴──────┴──────┘
+```
+
+**Native Grid Table:**
+```
+┌──────┬──────┬──────┬──────┬──────┬──────┐
+│  5   │  3   │  28  │  5   │  1   │  26  │
+└──────┴──────┴──────┴──────┴──────┴──────┘
+```
+
+[Grid: 5 | 3 | 28 | 5 | 1 | 26]
 
 **Options:**
 - A) 8
@@ -1409,7 +1703,21 @@ Conclusion confirms answer A.
 ![Figure](file:///C:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/preparation/Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section VI_ Puzzle Solving/EXTRACTED_STRUCTURED_QUESTIONS/images/number_puzzles_ebook_page_14.png)
 
 **Question:**
-22. Find the missing number (?) from the given matrix: [Grid: 7 | 5 | 54 | 6 | 10 | 46]
+22. Find the missing number (?) from the given matrix: **Native Grid Table:**
+```
+┌──────┬──────┬──────┬──────┬──────┬──────┐
+│  7   │  5   │  54  │  6   │  10  │  46  │
+└──────┴──────┴──────┴──────┴──────┴──────┘
+```
+
+**Native Grid Table:**
+```
+┌──────┬──────┬──────┬──────┬──────┬──────┐
+│  7   │  5   │  54  │  6   │  10  │  46  │
+└──────┴──────┴──────┴──────┴──────┴──────┘
+```
+
+[Grid: 7 | 5 | 54 | 6 | 10 | 46]
 
 **Options:**
 - A) 49
@@ -1432,7 +1740,21 @@ Conclusion confirms answer C.
 ![Figure](file:///C:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/preparation/Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section VI_ Puzzle Solving/EXTRACTED_STRUCTURED_QUESTIONS/images/number_puzzles_ebook_page_14.png)
 
 **Question:**
-23. Find the missing number (?) from the given matrix: [Grid: 6 | 5 | 41 | 6 | 1 | 37]
+23. Find the missing number (?) from the given matrix: **Native Grid Table:**
+```
+┌──────┬──────┬──────┬──────┬──────┬──────┐
+│  6   │  5   │  41  │  6   │  1   │  37  │
+└──────┴──────┴──────┴──────┴──────┴──────┘
+```
+
+**Native Grid Table:**
+```
+┌──────┬──────┬──────┬──────┬──────┬──────┐
+│  6   │  5   │  41  │  6   │  1   │  37  │
+└──────┴──────┴──────┴──────┴──────┴──────┘
+```
+
+[Grid: 6 | 5 | 41 | 6 | 1 | 37]
 
 **Options:**
 - A) 37
@@ -1455,7 +1777,21 @@ Conclusion confirms answer C.
 ![Figure](file:///C:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/preparation/Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section VI_ Puzzle Solving/EXTRACTED_STRUCTURED_QUESTIONS/images/number_puzzles_ebook_page_14.png)
 
 **Question:**
-24. Find the missing number (?) from the given matrix: [Grid: 3 | 5 | 14 | 5 | 4 | 29]
+24. Find the missing number (?) from the given matrix: **Native Grid Table:**
+```
+┌──────┬──────┬──────┬──────┬──────┬──────┐
+│  3   │  5   │  14  │  5   │  4   │  29  │
+└──────┴──────┴──────┴──────┴──────┴──────┘
+```
+
+**Native Grid Table:**
+```
+┌──────┬──────┬──────┬──────┬──────┬──────┐
+│  3   │  5   │  14  │  5   │  4   │  29  │
+└──────┴──────┴──────┴──────┴──────┴──────┘
+```
+
+[Grid: 3 | 5 | 14 | 5 | 4 | 29]
 
 **Options:**
 - A) 15
@@ -1478,7 +1814,21 @@ Conclusion confirms answer B.
 ![Figure](file:///C:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/preparation/Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section VI_ Puzzle Solving/EXTRACTED_STRUCTURED_QUESTIONS/images/number_puzzles_ebook_page_14.png)
 
 **Question:**
-25. Find the missing number (?) from the given matrix: [Grid: 1 | 2 | 3 | 6 | 5 | 41]
+25. Find the missing number (?) from the given matrix: **Native Grid Table:**
+```
+┌──────┬──────┬──────┬──────┬──────┬──────┐
+│  1   │  2   │  3   │  6   │  5   │  41  │
+└──────┴──────┴──────┴──────┴──────┴──────┘
+```
+
+**Native Grid Table:**
+```
+┌──────┬──────┬──────┬──────┬──────┬──────┐
+│  1   │  2   │  3   │  6   │  5   │  41  │
+└──────┴──────┴──────┴──────┴──────┴──────┘
+```
+
+[Grid: 1 | 2 | 3 | 6 | 5 | 41]
 
 **Options:**
 - A) 66
@@ -1501,7 +1851,21 @@ Conclusion confirms answer B.
 ![Figure](file:///C:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/preparation/Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section VI_ Puzzle Solving/EXTRACTED_STRUCTURED_QUESTIONS/images/number_puzzles_ebook_page_14.png)
 
 **Question:**
-26. Find the missing number (?) from the given matrix: [Grid: 8 | 36 | 28 | 9 | 59 | 22]
+26. Find the missing number (?) from the given matrix: **Native Grid Table:**
+```
+┌──────┬──────┬──────┬──────┬──────┬──────┐
+│  8   │  36  │  28  │  9   │  59  │  22  │
+└──────┴──────┴──────┴──────┴──────┴──────┘
+```
+
+**Native Grid Table:**
+```
+┌──────┬──────┬──────┬──────┬──────┬──────┐
+│  8   │  36  │  28  │  9   │  59  │  22  │
+└──────┴──────┴──────┴──────┴──────┴──────┘
+```
+
+[Grid: 8 | 36 | 28 | 9 | 59 | 22]
 
 **Options:**
 - A) 31
@@ -1524,7 +1888,21 @@ Conclusion confirms answer C.
 ![Figure](file:///C:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/preparation/Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section VI_ Puzzle Solving/EXTRACTED_STRUCTURED_QUESTIONS/images/number_puzzles_ebook_page_14.png)
 
 **Question:**
-27. Find the missing number (?) from the given matrix: [Grid: 6 | 16 | 20 | 6 | 9 | 27]
+27. Find the missing number (?) from the given matrix: **Native Grid Table:**
+```
+┌──────┬──────┬──────┬──────┬──────┬──────┐
+│  6   │  16  │  20  │  6   │  9   │  27  │
+└──────┴──────┴──────┴──────┴──────┴──────┘
+```
+
+**Native Grid Table:**
+```
+┌──────┬──────┬──────┬──────┬──────┬──────┐
+│  6   │  16  │  20  │  6   │  9   │  27  │
+└──────┴──────┴──────┴──────┴──────┴──────┘
+```
+
+[Grid: 6 | 16 | 20 | 6 | 9 | 27]
 
 **Options:**
 - A) 45
@@ -1547,7 +1925,21 @@ Conclusion confirms answer C.
 ![Figure](file:///C:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/preparation/Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section VI_ Puzzle Solving/EXTRACTED_STRUCTURED_QUESTIONS/images/number_puzzles_ebook_page_14.png)
 
 **Question:**
-28. Find the missing number (?) from the given matrix: [Grid: 4 | 3 | 13 | 4 | 7 | 9]
+28. Find the missing number (?) from the given matrix: **Native Grid Table:**
+```
+┌──────┬──────┬──────┬──────┬──────┬──────┐
+│  4   │  3   │  13  │  4   │  7   │  9   │
+└──────┴──────┴──────┴──────┴──────┴──────┘
+```
+
+**Native Grid Table:**
+```
+┌──────┬──────┬──────┬──────┬──────┬──────┐
+│  4   │  3   │  13  │  4   │  7   │  9   │
+└──────┴──────┴──────┴──────┴──────┴──────┘
+```
+
+[Grid: 4 | 3 | 13 | 4 | 7 | 9]
 
 **Options:**
 - A) 15
@@ -1570,7 +1962,21 @@ Conclusion confirms answer A.
 ![Figure](file:///C:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/preparation/Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section VI_ Puzzle Solving/EXTRACTED_STRUCTURED_QUESTIONS/images/number_puzzles_ebook_page_14.png)
 
 **Question:**
-29. Find the missing number (?) from the given matrix: [Grid: 10 | 11 | 89 | 9 | 63 | 18]
+29. Find the missing number (?) from the given matrix: **Native Grid Table:**
+```
+┌──────┬──────┬──────┬──────┬──────┬──────┐
+│  10  │  11  │  89  │  9   │  63  │  18  │
+└──────┴──────┴──────┴──────┴──────┴──────┘
+```
+
+**Native Grid Table:**
+```
+┌──────┬──────┬──────┬──────┬──────┬──────┐
+│  10  │  11  │  89  │  9   │  63  │  18  │
+└──────┴──────┴──────┴──────┴──────┴──────┘
+```
+
+[Grid: 10 | 11 | 89 | 9 | 63 | 18]
 
 **Options:**
 - A) 27
@@ -1593,7 +1999,21 @@ Conclusion confirms answer D.
 ![Figure](file:///C:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/preparation/Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section VI_ Puzzle Solving/EXTRACTED_STRUCTURED_QUESTIONS/images/number_puzzles_ebook_page_14.png)
 
 **Question:**
-30. Find the missing number (?) from the given matrix: [Grid: 7 | 47 | 2 | 6 | 34 | 2]
+30. Find the missing number (?) from the given matrix: **Native Grid Table:**
+```
+┌──────┬──────┬──────┬──────┬──────┬──────┐
+│  7   │  47  │  2   │  6   │  34  │  2   │
+└──────┴──────┴──────┴──────┴──────┴──────┘
+```
+
+**Native Grid Table:**
+```
+┌──────┬──────┬──────┬──────┬──────┬──────┐
+│  7   │  47  │  2   │  6   │  34  │  2   │
+└──────┴──────┴──────┴──────┴──────┴──────┘
+```
+
+[Grid: 7 | 47 | 2 | 6 | 34 | 2]
 
 **Options:**
 - A) 4

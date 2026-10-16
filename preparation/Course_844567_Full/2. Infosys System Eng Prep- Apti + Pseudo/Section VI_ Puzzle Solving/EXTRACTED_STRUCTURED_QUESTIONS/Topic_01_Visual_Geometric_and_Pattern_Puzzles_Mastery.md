@@ -20,6 +20,34 @@ Study the relationship between the three outer numbers (Top, Bottom-Left, Bottom
 - Triangle 2: Top = 1, Bottom-Left = 8, Bottom-Right = 4, Center = 33
 - Triangle 3: Top = 5, Bottom-Left = 2, Bottom-Right = ?, Center = 23
 
+
+**Visual Geometric Diagram:**
+```
+       Triangle 1             Triangle 2             Triangle 3
+          [ 7 ]                  [ 1 ]                  [ 5 ]
+          /   \                  /   \                  /   \
+         /     \                /     \                /     \
+        / [19]  \              / [33]  \              / [23]  \
+       /_________\            /_________\            /_________\
+     [6]         [2]        [8]         [4]        [2]         [?]
+   Rule: Center = (Bottom-Left × Bottom-Right) + Top
+   Triangle 3: (2 × ?) + 5 = 23 => ? = 9.
+```
+
+
+**Visual Geometric Diagram:**
+```
+       Triangle 1             Triangle 2             Triangle 3
+          [ 7 ]                  [ 1 ]                  [ 5 ]
+          /   \                  /   \                  /   \
+         /     \                /     \                /     \
+        / [19]  \              / [33]  \              / [23]  \
+       /_________\            /_________\            /_________\
+     [6]         [2]        [8]         [4]        [2]         [?]
+   Rule: Center = (Bottom-Left × Bottom-Right) + Top
+   Triangle 3: (2 × ?) + 5 = 23 => ? = 9.
+```
+
 **Options:**
 - A. 8
 - B. 9
@@ -61,6 +89,32 @@ Grid layout across 5 horizontal levels:
 - Level 3: 6, 1, 2, 8, 3, 3, 1
 - Level 4: 7, 2, 8, 4, 3
 - Level 5: 9, ?, 3
+
+
+**Visual Geometric Diagram:**
+```
+                 [ 4 ]
+                 /   \
+           [ 8 ]       [ 2 ]
+             │   ( ? )   │
+           [ 6 ]       [ 1 ]
+                 \   /
+                 [ 3 ]
+   Concentric hexagonal grid with radial spoke average rule.
+```
+
+
+**Visual Geometric Diagram:**
+```
+                 [ 4 ]
+                 /   \
+           [ 8 ]       [ 2 ]
+             │   ( ? )   │
+           [ 6 ]       [ 1 ]
+                 \   /
+                 [ 3 ]
+   Concentric hexagonal grid with radial spoke average rule.
+```
 
 **Options:**
 - A. 2
@@ -278,6 +332,32 @@ Which number replaces the question mark (?) in the center of the third 5-pointed
 - Star 2: Top = 3, Left = 3, Right = 5, Bottom-Left = 4, Bottom-Right = 2, Center = 5
 - Star 3: Top = 9, Left = 6, Right = 2, Bottom-Left = 4, Bottom-Right = 3, Center = ?
 
+
+**Visual Geometric Diagram:**
+```
+                   [ 8 ]
+                    / \
+             [ 4 ] /   \ [ 6 ]
+             \    / ( ? ) \   /
+              \  /_________\ /
+               \             /
+               [ 2 ]     [ 5 ]
+   5-pointed star: Upper apex nodes vs Lower foundation balance.
+```
+
+
+**Visual Geometric Diagram:**
+```
+                   [ 8 ]
+                    / \
+             [ 4 ] /   \ [ 6 ]
+             \    / ( ? ) \   /
+              \  /_________\ /
+               \             /
+               [ 2 ]     [ 5 ]
+   5-pointed star: Upper apex nodes vs Lower foundation balance.
+```
+
 **Options:**
 - A. 8
 - B. 10
@@ -358,6 +438,28 @@ Divided Circles:
 - Circle 2: Top-Left = 3, Top-Right = 9, Bottom = 90
 - Circle 3: Top-Left = 1, Top-Right = 5, Bottom = ?
 
+
+**Visual Geometric Diagram:**
+```
+   ┌─────┬─────┐
+   │  7  │  4  │
+   ├─────┼─────┤
+   │  6  │  5  │
+   └─────┴─────┘
+   Four-square quadrant segment with constant perimeter sum = 22.
+```
+
+
+**Visual Geometric Diagram:**
+```
+   ┌─────┬─────┐
+   │  7  │  4  │
+   ├─────┼─────┤
+   │  6  │  5  │
+   └─────┴─────┘
+   Four-square quadrant segment with constant perimeter sum = 22.
+```
+
 **Options:**
 - A. 50
 - B. 110
@@ -394,6 +496,32 @@ Block figures:
 - Block 1: Top-Left = 14, Top-Right = 11, Bottom = 22
 - Block 2: Top-Left = 12, Top-Right = 10, Bottom = 20
 - Block 3: Top-Left = 20, Top-Right = A, Bottom = B
+
+
+**Visual Geometric Diagram:**
+```
+        ┌─────┬─────┬─────┐
+        │  6  │  8  │  4  │  <-- Horizontal bar
+        └─────┼─────┼─────┘
+              │  6  │        <-- Vertical stem
+              ├─────┤
+              │  ?  │
+              └─────┘
+   T-shaped block: Vertical stem equals mean average of horizontal nodes.
+```
+
+
+**Visual Geometric Diagram:**
+```
+        ┌─────┬─────┬─────┐
+        │  6  │  8  │  4  │  <-- Horizontal bar
+        └─────┼─────┼─────┘
+              │  6  │        <-- Vertical stem
+              ├─────┤
+              │  ?  │
+              └─────┘
+   T-shaped block: Vertical stem equals mean average of horizontal nodes.
+```
 
 **Options:**
 - A. A=9, B=17

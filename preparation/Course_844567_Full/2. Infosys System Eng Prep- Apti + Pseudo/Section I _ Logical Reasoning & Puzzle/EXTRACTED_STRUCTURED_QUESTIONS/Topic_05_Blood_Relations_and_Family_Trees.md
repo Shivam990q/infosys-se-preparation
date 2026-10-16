@@ -21,7 +21,19 @@ Ques 1: Aditya is Bhavi's brother, Bharat is Jayant's father. Ella is Bhavi's mo
 - (d) Wife
 - (e) None of these
 
-**Exact Answer:** `(d) Wife`
+****Native Family Pedigree Chart:**
+```
+          [Grandfather] (+) ═════ [Grandmother] (-)
+                                │
+                        [Father] (+) ═════ [Mother] (-)
+                                       │
+                              ┌────────┴────────┐
+                              │                 │
+                         [Self / Son] (+)   [Sister] (-)
+   Legend: (+) Male, (-) Female, (══) Marriage, (──) Sibling/Parentage
+```
+
+**Exact Answer:**** `(d) Wife`
 
 **Complete Mathematical / Logical Deduction:**
 

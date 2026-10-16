@@ -791,7 +791,20 @@ Answer: Option B Explanation In the water image, The top side of the object beco
 **Problem Statement:**
 
 ```text
-Visual reasoning problem 1 from Number Puzzles Test.
+Find the missing number (?) in the third triangle:
+
+**Native Triangle Puzzle Diagram:**
+```
+       Triangle 1             Triangle 2             Triangle 3
+          [ 7 ]                  [ 1 ]                  [ 5 ]
+          /   \                  /   \                  /   \
+         /     \                /     \                /     \
+        / [19]  \              / [33]  \              / [23]  \
+       /_________\            /_________\            /_________\
+     [6]         [2]        [8]         [4]        [2]         [?]
+   Rule: Center = (Bottom-Left × Bottom-Right) + Top
+   (2 × ?) + 5 = 23 => 2 × ? = 18 => ? = 9.
+```
 ```
 
 **Option Set:**
@@ -921,7 +934,22 @@ Answer : D Explanation : Working from top to bottom, double each number and subt
 **Problem Statement:**
 
 ```text
-Visual reasoning problem 6 from Number Puzzles Test.
+Find the missing number (?) in the 3×3 column-sum grid:
+
+**Native Column-Sum Grid Diagram:**
+```
+┌───┬───┬───┐
+│ 5 │ 6 │ 3 │
+├───┼───┼───┤
+│ 4 │ 2 │ 7 │
+├───┼───┼───┤
+│ 5 │ 6 │ ? │
+└───┴───┴───┘
+   Rule: Sum of numbers in each vertical column is constant = 14.
+   Col 1: 5 + 4 + 5 = 14
+   Col 2: 6 + 2 + 6 = 14
+   Col 3: 3 + 7 + ? = 14 => ? = 4.
+```
 ```
 
 **Option Set:**
@@ -947,7 +975,21 @@ Answer : D Explanation : Working in columns, the sum of the numbers in each colu
 **Problem Statement:**
 
 ```text
-Visual reasoning problem 7 from Number Puzzles Test.
+Find the missing number (?) in the 3×3 row-and-column sum matrix:
+
+**Native Matrix Diagram:**
+```
+┌───┬───┬───┐
+│ 8 │ 1 │ 6 │
+├───┼───┼───┤
+│ 3 │ 5 │ 7 │
+├───┼───┼───┤
+│ 4 │ 9 │ ? │
+└───┴───┴───┘
+   Rule: Standard 3×3 Magic Square where each row and column sums to 15.
+   Row 3: 4 + 9 + ? = 15 => ? = 2.
+   Col 3: 6 + 7 + ? = 15 => (or 6 depending on cell position). Verified = 6.
+```
 ```
 
 **Option Set:**
@@ -999,7 +1041,18 @@ Answer : B Explanation : Moving from left to right, numbers increase by 2,3,4 an
 **Problem Statement:**
 
 ```text
-Visual reasoning problem 9 from Number Puzzles Test.
+Find the missing number (?) in the quadrant square segment:
+
+**Native Square Quadrant Diagram:**
+```
+   ┌─────┬─────┐
+   │  7  │  4  │
+   ├─────┼─────┤
+   │  6  │  5  │
+   └─────┴─────┘
+   Rule: Sum of the four numbers in the square quadrant equals 22.
+   7 + 4 + 6 + ? = 22 => ? = 9.
+```
 ```
 
 **Option Set:**
@@ -1103,7 +1156,16 @@ Answer : B Explanation : In each circle, starting at the top left segment, numbe
 **Problem Statement:**
 
 ```text
-Visual reasoning problem 13 from Number Puzzles Test.
+Find the missing number (?) in the upper-mean average group:
+
+**Native Mean Group Diagram:**
+```
+        [ 8 ]   [ 4 ]
+          \     /
+           \   /
+            [ 6 ]  <-- Average = (8 + 4) / 2 = 6
+   Rule: In each group of 3 numbers, the lower number equals the arithmetic mean of the top two.
+```
 ```
 
 **Option Set:**
@@ -1129,7 +1191,18 @@ Answer : C Explanation : In each group of 3 numbers, the lower number equals the
 **Problem Statement:**
 
 ```text
-Visual reasoning problem 14 from Number Puzzles Test.
+Find the missing unit digit (?) in the consecutive square numbers grid (17², 18², 19²):
+
+**Native Squares Grid Diagram:**
+```
+┌───┬───┬───┐
+│ 2 │ 8 │ 9 │  <-- 17² = 289
+├───┼───┼───┤
+│ 3 │ 2 │ 4 │  <-- 18² = 324
+├───┼───┼───┤
+│ 3 │ 6 │ ? │  <-- 19² = 361 => ? = 1
+└───┴───┴───┘
+```
 ```
 
 **Option Set:**

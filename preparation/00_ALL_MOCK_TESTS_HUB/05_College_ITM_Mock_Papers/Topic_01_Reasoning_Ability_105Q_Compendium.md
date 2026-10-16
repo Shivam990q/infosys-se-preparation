@@ -16,6 +16,66 @@
 Statements: All engineers are coders. Some coders are testers. No tester is a manager. 
 Conclusions: I. Some coders are not managers. II. Some engineers are testers. III. No engineer is a manager.
 
+
+**Visual Schematic / Logical Deduction Diagram:**
+```
+       ┌──────────────────────────────┐
+       │           CODERS             │
+       │   ┌──────────┐   ┌─────────┐ │       ┌──────────┐
+       │   │Engineers │   │ Testers ┼─┼───────┤ Managers │ (No overlap: ❌)
+       │   └──────────┘   └────┬────┘ │       └──────────┘
+       │                       │      │
+       └───────────────────────┼──────┘
+                               ▼
+               These Coders CANNOT be Managers
+                 => "Some Coders are NOT Managers" [TRUE]
+```
+
+
+**Visual Schematic / Logical Deduction Diagram:**
+```
+       ┌──────────────────────────────┐
+       │           CODERS             │
+       │   ┌──────────┐   ┌─────────┐ │       ┌──────────┐
+       │   │Engineers │   │ Testers ┼─┼───────┤ Managers │ (No overlap: ❌)
+       │   └──────────┘   └────┬────┘ │       └──────────┘
+       │                       │      │
+       └───────────────────────┼──────┘
+                               ▼
+               These Coders CANNOT be Managers
+                 => "Some Coders are NOT Managers" [TRUE]
+```
+
+
+**Visual Schematic / Logical Deduction Diagram:**
+```
+       ┌──────────────────────────────┐
+       │           CODERS             │
+       │   ┌──────────┐   ┌─────────┐ │       ┌──────────┐
+       │   │Engineers │   │ Testers ┼─┼───────┤ Managers │ (No overlap: ❌)
+       │   └──────────┘   └────┬────┘ │       └──────────┘
+       │                       │      │
+       └───────────────────────┼──────┘
+                               ▼
+               These Coders CANNOT be Managers
+                 => "Some Coders are NOT Managers" [TRUE]
+```
+
+
+**Visual Schematic / Logical Deduction Diagram:**
+```
+       ┌──────────────────────────────┐
+       │           CODERS             │
+       │   ┌──────────┐   ┌─────────┐ │       ┌──────────┐
+       │   │Engineers │   │ Testers ┼─┼───────┤ Managers │ (No overlap: ❌)
+       │   └──────────┘   └────┬────┘ │       └──────────┘
+       │                       │      │
+       └───────────────────────┼──────┘
+                               ▼
+               These Coders CANNOT be Managers
+                 => "Some Coders are NOT Managers" [TRUE]
+```
+
 **Options:**
 - **(A)** Only I follows
 - **(B)** I and II follow
@@ -37,6 +97,74 @@ Statement I: All engineers are coders, Some coders are testers, No tester is a m
 Statements: Some pens are books. All books are chairs. No chair is a table. 
 Conclusions: I. Some pens are chairs. II. No book is a table. III. Some pens are not tables. IV. Some tables are 
 pens.
+
+
+**Visual Schematic / Logical Deduction Diagram:**
+```
+       ┌──────────────────────────────┐
+       │            CHAIRS            │
+       │   ┌──────────────┐           │       ┌──────────┐
+       │   │    BOOKS     │           │       │  TABLES  │
+       │   │  ┌─────────┐ │           │       │          │
+       │   │  │  Pens   │ │           │       │          │
+       │   │  └────┬────┘ │           │       │          │
+       │   └───────┼──────┴───────────┘       └────┬─────┘
+       │           │                               │
+       └───────────┼───────────────────────────────┘
+                   ▼                               ▲
+           All Books are Chairs. No Chair is Table ┼ (Disjoint)
+```
+
+
+**Visual Schematic / Logical Deduction Diagram:**
+```
+       ┌──────────────────────────────┐
+       │            CHAIRS            │
+       │   ┌──────────────┐           │       ┌──────────┐
+       │   │    BOOKS     │           │       │  TABLES  │
+       │   │  ┌─────────┐ │           │       │          │
+       │   │  │  Pens   │ │           │       │          │
+       │   │  └────┬────┘ │           │       │          │
+       │   └───────┼──────┴───────────┘       └────┬─────┘
+       │           │                               │
+       └───────────┼───────────────────────────────┘
+                   ▼                               ▲
+           All Books are Chairs. No Chair is Table ┼ (Disjoint)
+```
+
+
+**Visual Schematic / Logical Deduction Diagram:**
+```
+       ┌──────────────────────────────┐
+       │            CHAIRS            │
+       │   ┌──────────────┐           │       ┌──────────┐
+       │   │    BOOKS     │           │       │  TABLES  │
+       │   │  ┌─────────┐ │           │       │          │
+       │   │  │  Pens   │ │           │       │          │
+       │   │  └────┬────┘ │           │       │          │
+       │   └───────┼──────┴───────────┘       └────┬─────┘
+       │           │                               │
+       └───────────┼───────────────────────────────┘
+                   ▼                               ▲
+           All Books are Chairs. No Chair is Table ┼ (Disjoint)
+```
+
+
+**Visual Schematic / Logical Deduction Diagram:**
+```
+       ┌──────────────────────────────┐
+       │            CHAIRS            │
+       │   ┌──────────────┐           │       ┌──────────┐
+       │   │    BOOKS     │           │       │  TABLES  │
+       │   │  ┌─────────┐ │           │       │          │
+       │   │  │  Pens   │ │           │       │          │
+       │   │  └────┬────┘ │           │       │          │
+       │   └───────┼──────┴───────────┘       └────┬─────┘
+       │           │                               │
+       └───────────┼───────────────────────────────┘
+                   ▼                               ▲
+           All Books are Chairs. No Chair is Table ┼ (Disjoint)
+```
 
 **Options:**
 - **(A)** I and II only
@@ -171,6 +299,110 @@ Target: 'rises bird light' = 'mo ra du'.
 A solid cube painted red on all faces is cut into 64 identical small cubes (4 × 4 × 4). How many small 
 cubes have exactly two faces painted?
 
+
+**Visual Schematic / Logical Deduction Diagram:**
+```
+         +-------+-------+-------+-------+
+        /       /       /       /       /|
+       +-------+-------+-------+-------+ |
+      /       /       /       /       /| |
+     +-------+-------+-------+-------+ | +
+    /       /       /       /       /| |/|
+   +-------+-------+-------+-------+ | + |
+  /       /       /       /       /| |/| |
+ +-------+-------+-------+-------+ | + | +
+ |       |       |       |       | |/| |/|   4×4×4 Cube (64 unit cubes)
+ |       |       |       |       | + | + |   Painted RED on all faces.
+ |       |       |       |       |/| |/| |
+ +-------+-------+-------+-------+ | + | +   Exactly 2 faces painted:
+ |       |       |       |       | |/| |/    12 edges × (4 - 2) = 24 cubes
+ |       |       |       |       | + | +
+ |       |       |       |       |/| |/
+ +-------+-------+-------+-------+ | +
+ |       |       |       |       | |/
+ |       |       |       |       | +
+ |       |       |       |       |/
+ +-------+-------+-------+-------+
+```
+
+
+**Visual Schematic / Logical Deduction Diagram:**
+```
+         +-------+-------+-------+-------+
+        /       /       /       /       /|
+       +-------+-------+-------+-------+ |
+      /       /       /       /       /| |
+     +-------+-------+-------+-------+ | +
+    /       /       /       /       /| |/|
+   +-------+-------+-------+-------+ | + |
+  /       /       /       /       /| |/| |
+ +-------+-------+-------+-------+ | + | +
+ |       |       |       |       | |/| |/|   4×4×4 Cube (64 unit cubes)
+ |       |       |       |       | + | + |   Painted RED on all faces.
+ |       |       |       |       |/| |/| |
+ +-------+-------+-------+-------+ | + | +   Exactly 2 faces painted:
+ |       |       |       |       | |/| |/    12 edges × (4 - 2) = 24 cubes
+ |       |       |       |       | + | +
+ |       |       |       |       |/| |/
+ +-------+-------+-------+-------+ | +
+ |       |       |       |       | |/
+ |       |       |       |       | +
+ |       |       |       |       |/
+ +-------+-------+-------+-------+
+```
+
+
+**Visual Schematic / Logical Deduction Diagram:**
+```
+         +-------+-------+-------+-------+
+        /       /       /       /       /|
+       +-------+-------+-------+-------+ |
+      /       /       /       /       /| |
+     +-------+-------+-------+-------+ | +
+    /       /       /       /       /| |/|
+   +-------+-------+-------+-------+ | + |
+  /       /       /       /       /| |/| |
+ +-------+-------+-------+-------+ | + | +
+ |       |       |       |       | |/| |/|   4×4×4 Cube (64 unit cubes)
+ |       |       |       |       | + | + |   Painted RED on all faces.
+ |       |       |       |       |/| |/| |
+ +-------+-------+-------+-------+ | + | +   Exactly 2 faces painted:
+ |       |       |       |       | |/| |/    12 edges × (4 - 2) = 24 cubes
+ |       |       |       |       | + | +
+ |       |       |       |       |/| |/
+ +-------+-------+-------+-------+ | +
+ |       |       |       |       | |/
+ |       |       |       |       | +
+ |       |       |       |       |/
+ +-------+-------+-------+-------+
+```
+
+
+**Visual Schematic / Logical Deduction Diagram:**
+```
+         +-------+-------+-------+-------+
+        /       /       /       /       /|
+       +-------+-------+-------+-------+ |
+      /       /       /       /       /| |
+     +-------+-------+-------+-------+ | +
+    /       /       /       /       /| |/|
+   +-------+-------+-------+-------+ | + |
+  /       /       /       /       /| |/| |
+ +-------+-------+-------+-------+ | + | +
+ |       |       |       |       | |/| |/|   4×4×4 Cube (64 unit cubes)
+ |       |       |       |       | + | + |   Painted RED on all faces.
+ |       |       |       |       |/| |/| |
+ +-------+-------+-------+-------+ | + | +   Exactly 2 faces painted:
+ |       |       |       |       | |/| |/    12 edges × (4 - 2) = 24 cubes
+ |       |       |       |       | + | +
+ |       |       |       |       |/| |/
+ +-------+-------+-------+-------+ | +
+ |       |       |       |       | |/
+ |       |       |       |       | +
+ |       |       |       |       |/
+ +-------+-------+-------+-------+
+```
+
 **Options:**
 - **(A)** 12
 - **(B)** 24
@@ -193,6 +425,54 @@ Number = 12 × (n - 2) = 12 × (4 - 2) = 12 × 2 = 24.
 **Question Text:**
 In triangle ABC, the medians AD, BE and CF are drawn and meet at G. How many triangles are there in 
 the figure in total?
+
+
+**Visual Schematic / Logical Deduction Diagram:**
+```
+                   A
+                  /                  /                   /                    /   |                 F    |    E
+             / \   |   / \      Medians AD, BE, CF meet at centroid G.
+            /   \  |  /   \     Divides ABC into 6 small triangles of
+           /     \ | /     \    equal area:
+          /       \G/       \   Total distinct triangles = 16.
+         /_______/_|_|_______        B          D          C
+```
+
+
+**Visual Schematic / Logical Deduction Diagram:**
+```
+                   A
+                  /                  /                   /                    /   |                 F    |    E
+             / \   |   / \      Medians AD, BE, CF meet at centroid G.
+            /   \  |  /   \     Divides ABC into 6 small triangles of
+           /     \ | /     \    equal area:
+          /       \G/       \   Total distinct triangles = 16.
+         /_______/_|_|_______        B          D          C
+```
+
+
+**Visual Schematic / Logical Deduction Diagram:**
+```
+                   A
+                  /                  /                   /                    /   |                 F    |    E
+             / \   |   / \      Medians AD, BE, CF meet at centroid G.
+            /   \  |  /   \     Divides ABC into 6 small triangles of
+           /     \ | /     \    equal area:
+          /       \G/       \   Total distinct triangles = 16.
+         /_______/_|_|_______        B          D          C
+```
+
+
+**Visual Schematic / Logical Deduction Diagram:**
+```
+                   A
+                  /                  /                   /                    /   |                 F    |    E
+             / \   |   / \      Medians AD, BE, CF meet at centroid G.
+            /   \  |  /   \     Divides ABC into 6 small triangles of
+           /     \ | /     \    equal area:
+          /       \G/       \   Total distinct triangles = 16.
+         /_______/_|_|_______        B          D          C
+```
 
 **Options:**
 - **(A)** 12
@@ -220,6 +500,54 @@ Total = 6 + 3 + 6 + 1 = 16 triangles.
 **Question Text:**
 Pointing to a man, Meera said, "His mother is the only daughter of my mother." How is Meera related to 
 the man?
+
+
+**Visual Schematic / Logical Deduction Diagram:**
+```
+             [Grandmother]
+                  │
+          [Mother (Meera)]
+                  │
+             [Son (Man)]
+   "His mother is the only daughter of my mother."
+   => Meera is the mother of the man.
+```
+
+
+**Visual Schematic / Logical Deduction Diagram:**
+```
+             [Grandmother]
+                  │
+          [Mother (Meera)]
+                  │
+             [Son (Man)]
+   "His mother is the only daughter of my mother."
+   => Meera is the mother of the man.
+```
+
+
+**Visual Schematic / Logical Deduction Diagram:**
+```
+             [Grandmother]
+                  │
+          [Mother (Meera)]
+                  │
+             [Son (Man)]
+   "His mother is the only daughter of my mother."
+   => Meera is the mother of the man.
+```
+
+
+**Visual Schematic / Logical Deduction Diagram:**
+```
+             [Grandmother]
+                  │
+          [Mother (Meera)]
+                  │
+             [Son (Man)]
+   "His mother is the only daughter of my mother."
+   => Meera is the mother of the man.
+```
 
 **Options:**
 - **(A)** Mother
@@ -269,6 +597,74 @@ Combining them: P - Q + R means P is the brother of Q (who is the mother of R), 
 Ravi walks 10 m north, turns right and walks 6 m, turns right and walks 14 m, turns left and walks 3 m, 
 then turns left and walks 4 m. Where is he now relative to the starting point?
 
+
+**Visual Schematic / Logical Deduction Diagram:**
+```
+                 [Turn Right]
+            (10m) ┌────────► (6m)
+                  │          │
+                  │          │ (14m)
+                  ▲ [North]  │
+                  │          ▼
+                [START]      │
+                             │
+                             └────────► [FINISH]
+                                (3m)
+   Net displacement: Δy = 10 - 14 = -4m (South); Δx = 6 + 3 = 9m (East)
+   Distance = √(4² + 9²) = √(16 + 81) = √97 ≈ 9.85 m
+```
+
+
+**Visual Schematic / Logical Deduction Diagram:**
+```
+                 [Turn Right]
+            (10m) ┌────────► (6m)
+                  │          │
+                  │          │ (14m)
+                  ▲ [North]  │
+                  │          ▼
+                [START]      │
+                             │
+                             └────────► [FINISH]
+                                (3m)
+   Net displacement: Δy = 10 - 14 = -4m (South); Δx = 6 + 3 = 9m (East)
+   Distance = √(4² + 9²) = √(16 + 81) = √97 ≈ 9.85 m
+```
+
+
+**Visual Schematic / Logical Deduction Diagram:**
+```
+                 [Turn Right]
+            (10m) ┌────────► (6m)
+                  │          │
+                  │          │ (14m)
+                  ▲ [North]  │
+                  │          ▼
+                [START]      │
+                             │
+                             └────────► [FINISH]
+                                (3m)
+   Net displacement: Δy = 10 - 14 = -4m (South); Δx = 6 + 3 = 9m (East)
+   Distance = √(4² + 9²) = √(16 + 81) = √97 ≈ 9.85 m
+```
+
+
+**Visual Schematic / Logical Deduction Diagram:**
+```
+                 [Turn Right]
+            (10m) ┌────────► (6m)
+                  │          │
+                  │          │ (14m)
+                  ▲ [North]  │
+                  │          ▼
+                [START]      │
+                             │
+                             └────────► [FINISH]
+                                (3m)
+   Net displacement: Δy = 10 - 14 = -4m (South); Δx = 6 + 3 = 9m (East)
+   Distance = √(4² + 9²) = √(16 + 81) = √97 ≈ 9.85 m
+```
+
 **Options:**
 - **(A)** 9 m East
 - **(B)** 9 m West
@@ -295,6 +691,78 @@ Final position is (9, 0), which is exactly 9 m East of the starting point.
 **Question Text:**
 A person facing North-East turns 90° clockwise, then 135° anticlockwise, then 180° clockwise. Which 
 direction is he facing now?
+
+
+**Visual Schematic / Logical Deduction Diagram:**
+```
+               N (000°)
+               ▲
+      NW       │       NE (045°) [START]
+        \      │      /
+         \     │     /
+   W ─────┼────┼────┼─────► E (090°)
+ (270°)    \   │   /
+            \  │  /
+      SW     \ │ /     SE
+               ▼
+               S (180°)
+   Net angle = +90° - 135° + 180° = +135° clockwise.
+   From NE (45°) + 135° = 180° = South.
+```
+
+
+**Visual Schematic / Logical Deduction Diagram:**
+```
+               N (000°)
+               ▲
+      NW       │       NE (045°) [START]
+        \      │      /
+         \     │     /
+   W ─────┼────┼────┼─────► E (090°)
+ (270°)    \   │   /
+            \  │  /
+      SW     \ │ /     SE
+               ▼
+               S (180°)
+   Net angle = +90° - 135° + 180° = +135° clockwise.
+   From NE (45°) + 135° = 180° = South.
+```
+
+
+**Visual Schematic / Logical Deduction Diagram:**
+```
+               N (000°)
+               ▲
+      NW       │       NE (045°) [START]
+        \      │      /
+         \     │     /
+   W ─────┼────┼────┼─────► E (090°)
+ (270°)    \   │   /
+            \  │  /
+      SW     \ │ /     SE
+               ▼
+               S (180°)
+   Net angle = +90° - 135° + 180° = +135° clockwise.
+   From NE (45°) + 135° = 180° = South.
+```
+
+
+**Visual Schematic / Logical Deduction Diagram:**
+```
+               N (000°)
+               ▲
+      NW       │       NE (045°) [START]
+        \      │      /
+         \     │     /
+   W ─────┼────┼────┼─────► E (090°)
+ (270°)    \   │   /
+            \  │  /
+      SW     \ │ /     SE
+               ▼
+               S (180°)
+   Net angle = +90° - 135° + 180° = +135° clockwise.
+   From NE (45°) + 135° = 180° = South.
+```
 
 **Options:**
 - **(A)** North
@@ -425,6 +893,62 @@ Nothing links servers specifically to laptops or to portability, so II and III d
 Statements: All circles are squares. No square is a triangle. Some triangles are rectangles.
 Conclusions: I. No circle is a triangle. II. Some rectangles are not squares. III. Some squares are not triangles.
 
+
+**Visual Schematic / Logical Deduction Diagram:**
+```
+       ┌──────────────────────────────┐
+       │           SQUARES            │
+       │   ┌──────────────┐           │       ┌───────────┐
+       │   │   Circles    │           │       │ Triangles │
+       │   └──────────────┘           │       └─────┬─────┘
+       │                              │             │
+       └──────────────────────────────┘             ▼
+                                             Some Triangles
+                                             are Rectangles
+```
+
+
+**Visual Schematic / Logical Deduction Diagram:**
+```
+       ┌──────────────────────────────┐
+       │           SQUARES            │
+       │   ┌──────────────┐           │       ┌───────────┐
+       │   │   Circles    │           │       │ Triangles │
+       │   └──────────────┘           │       └─────┬─────┘
+       │                              │             │
+       └──────────────────────────────┘             ▼
+                                             Some Triangles
+                                             are Rectangles
+```
+
+
+**Visual Schematic / Logical Deduction Diagram:**
+```
+       ┌──────────────────────────────┐
+       │           SQUARES            │
+       │   ┌──────────────┐           │       ┌───────────┐
+       │   │   Circles    │           │       │ Triangles │
+       │   └──────────────┘           │       └─────┬─────┘
+       │                              │             │
+       └──────────────────────────────┘             ▼
+                                             Some Triangles
+                                             are Rectangles
+```
+
+
+**Visual Schematic / Logical Deduction Diagram:**
+```
+       ┌──────────────────────────────┐
+       │           SQUARES            │
+       │   ┌──────────────┐           │       ┌───────────┐
+       │   │   Circles    │           │       │ Triangles │
+       │   └──────────────┘           │       └─────┬─────┘
+       │                              │             │
+       └──────────────────────────────┘             ▼
+                                             Some Triangles
+                                             are Rectangles
+```
+
 **Options:**
 - **(A)** I and III only
 - **(B)** I only
@@ -540,6 +1064,46 @@ zu.
 A cube is painted red on one pair of opposite faces, blue on another pair, and green on the last pair. It is 
 then cut into 27 identical small cubes. How many small cubes have exactly one face painted?
 
+
+**Visual Schematic / Logical Deduction Diagram:**
+```
+          Top/Bottom: Green
+          Front/Back: Red
+          Left/Right: Blue
+          4×4×4 Cube (64 unit cubes)
+   At least two different colors = (Corners: 8) + (Edges: 24) = 32 cubes.
+```
+
+
+**Visual Schematic / Logical Deduction Diagram:**
+```
+          Top/Bottom: Green
+          Front/Back: Red
+          Left/Right: Blue
+          4×4×4 Cube (64 unit cubes)
+   At least two different colors = (Corners: 8) + (Edges: 24) = 32 cubes.
+```
+
+
+**Visual Schematic / Logical Deduction Diagram:**
+```
+          Top/Bottom: Green
+          Front/Back: Red
+          Left/Right: Blue
+          4×4×4 Cube (64 unit cubes)
+   At least two different colors = (Corners: 8) + (Edges: 24) = 32 cubes.
+```
+
+
+**Visual Schematic / Logical Deduction Diagram:**
+```
+          Top/Bottom: Green
+          Front/Back: Red
+          Left/Right: Blue
+          4×4×4 Cube (64 unit cubes)
+   At least two different colors = (Corners: 8) + (Edges: 24) = 32 cubes.
+```
+
 **Options:**
 - **(A)** 6
 - **(B)** 8
@@ -584,6 +1148,58 @@ Rectangles = C(4,2) × C(4,2) = 6 × 6 = 36.
 Pointing to a photograph, a man says, "She is the daughter of my grandfather's only son." How is the 
 woman in the photograph related to the man?
 
+
+**Visual Schematic / Logical Deduction Diagram:**
+```
+             [Grandfather]
+                  │
+             [Only Son] (Father)
+                  │
+         ┌────────┴────────┐
+         │                 │
+       [Man]        [Daughter] (Sister)
+   => "She is the daughter of my grandfather's only son" = Sister.
+```
+
+
+**Visual Schematic / Logical Deduction Diagram:**
+```
+             [Grandfather]
+                  │
+             [Only Son] (Father)
+                  │
+         ┌────────┴────────┐
+         │                 │
+       [Man]        [Daughter] (Sister)
+   => "She is the daughter of my grandfather's only son" = Sister.
+```
+
+
+**Visual Schematic / Logical Deduction Diagram:**
+```
+             [Grandfather]
+                  │
+             [Only Son] (Father)
+                  │
+         ┌────────┴────────┐
+         │                 │
+       [Man]        [Daughter] (Sister)
+   => "She is the daughter of my grandfather's only son" = Sister.
+```
+
+
+**Visual Schematic / Logical Deduction Diagram:**
+```
+             [Grandfather]
+                  │
+             [Only Son] (Father)
+                  │
+         ┌────────┴────────┐
+         │                 │
+       [Man]        [Daughter] (Sister)
+   => "She is the daughter of my grandfather's only son" = Sister.
+```
+
 **Options:**
 - **(A)** Sister
 - **(B)** Daughter
@@ -626,6 +1242,70 @@ granddaughter.
 **Question Text:**
 Priya starts at a point, faces south and walks 8 m. She turns left and walks 5 m, turns left again and 
 walks 8 m, then turns right and walks 3 m. How far is she from the starting point, and in which direction?
+
+
+**Visual Schematic / Logical Deduction Diagram:**
+```
+            [START]
+               │
+               ▼ (8m South)
+               │
+       (5m) ◄──┘ [Turn Left = East]
+        ▲
+        │ (12m North)
+        │
+     [FINISH]
+   Net displacement: Δy = 12 - 8 = 4m North; Δx = 5m East
+   Distance = √(4² + 5²) = √(16 + 25) = √41 m
+```
+
+
+**Visual Schematic / Logical Deduction Diagram:**
+```
+            [START]
+               │
+               ▼ (8m South)
+               │
+       (5m) ◄──┘ [Turn Left = East]
+        ▲
+        │ (12m North)
+        │
+     [FINISH]
+   Net displacement: Δy = 12 - 8 = 4m North; Δx = 5m East
+   Distance = √(4² + 5²) = √(16 + 25) = √41 m
+```
+
+
+**Visual Schematic / Logical Deduction Diagram:**
+```
+            [START]
+               │
+               ▼ (8m South)
+               │
+       (5m) ◄──┘ [Turn Left = East]
+        ▲
+        │ (12m North)
+        │
+     [FINISH]
+   Net displacement: Δy = 12 - 8 = 4m North; Δx = 5m East
+   Distance = √(4² + 5²) = √(16 + 25) = √41 m
+```
+
+
+**Visual Schematic / Logical Deduction Diagram:**
+```
+            [START]
+               │
+               ▼ (8m South)
+               │
+       (5m) ◄──┘ [Turn Left = East]
+        ▲
+        │ (12m North)
+        │
+     [FINISH]
+   Net displacement: Δy = 12 - 8 = 4m North; Δx = 5m East
+   Distance = √(4² + 5²) = √(16 + 25) = √41 m
+```
 
 **Options:**
 - **(A)** 8 m East
@@ -877,6 +1557,42 @@ zu.
 A cuboid measuring 5 × 4 × 3 units is painted on all its outer surfaces and then cut into unit cubes. How 
 many unit cubes have exactly 2 painted faces?
 
+
+**Visual Schematic / Logical Deduction Diagram:**
+```
+          5 × 4 × 3 Cuboid (60 unit cubes)
+          Total Painted Surface Cubes:
+          No face painted = (5-2) × (4-2) × (3-2) = 3 × 2 × 1 = 6 cubes.
+          Painted cubes = 60 - 6 = 54 cubes.
+```
+
+
+**Visual Schematic / Logical Deduction Diagram:**
+```
+          5 × 4 × 3 Cuboid (60 unit cubes)
+          Total Painted Surface Cubes:
+          No face painted = (5-2) × (4-2) × (3-2) = 3 × 2 × 1 = 6 cubes.
+          Painted cubes = 60 - 6 = 54 cubes.
+```
+
+
+**Visual Schematic / Logical Deduction Diagram:**
+```
+          5 × 4 × 3 Cuboid (60 unit cubes)
+          Total Painted Surface Cubes:
+          No face painted = (5-2) × (4-2) × (3-2) = 3 × 2 × 1 = 6 cubes.
+          Painted cubes = 60 - 6 = 54 cubes.
+```
+
+
+**Visual Schematic / Logical Deduction Diagram:**
+```
+          5 × 4 × 3 Cuboid (60 unit cubes)
+          Total Painted Surface Cubes:
+          No face painted = (5-2) × (4-2) × (3-2) = 3 × 2 × 1 = 6 cubes.
+          Painted cubes = 60 - 6 = 54 cubes.
+```
+
 **Options:**
 - **(A)** 24
 - **(B)** 22
@@ -965,6 +1681,58 @@ grandmother.
 **Question Text:**
 A man walks 12 m North, then 9 m East, then 8 m South, then 6 m West. How far is he from the starting 
 point, and in which general direction?
+
+
+**Visual Schematic / Logical Deduction Diagram:**
+```
+                 (12m North)
+            ┌─────────────────► (9m East)
+            │                 │
+            ▲                 ▼ (8m South)
+         [START] ◄────────────┘
+                   (6m West)
+   Net displacement: Δy = 12 - 8 = 4m North; Δx = 9 - 6 = 3m East
+   Shortest distance = √(3² + 4²) = 5 m.
+```
+
+
+**Visual Schematic / Logical Deduction Diagram:**
+```
+                 (12m North)
+            ┌─────────────────► (9m East)
+            │                 │
+            ▲                 ▼ (8m South)
+         [START] ◄────────────┘
+                   (6m West)
+   Net displacement: Δy = 12 - 8 = 4m North; Δx = 9 - 6 = 3m East
+   Shortest distance = √(3² + 4²) = 5 m.
+```
+
+
+**Visual Schematic / Logical Deduction Diagram:**
+```
+                 (12m North)
+            ┌─────────────────► (9m East)
+            │                 │
+            ▲                 ▼ (8m South)
+         [START] ◄────────────┘
+                   (6m West)
+   Net displacement: Δy = 12 - 8 = 4m North; Δx = 9 - 6 = 3m East
+   Shortest distance = √(3² + 4²) = 5 m.
+```
+
+
+**Visual Schematic / Logical Deduction Diagram:**
+```
+                 (12m North)
+            ┌─────────────────► (9m East)
+            │                 │
+            ▲                 ▼ (8m South)
+         [START] ◄────────────┘
+                   (6m West)
+   Net displacement: Δy = 12 - 8 = 4m North; Δx = 9 - 6 = 3m East
+   Shortest distance = √(3² + 4²) = 5 m.
+```
 
 **Options:**
 - **(A)** 5 m, North-East
@@ -1219,6 +1987,42 @@ epsilon=vw, eta=yz, alpha=zx, theta=op. So "theta beta zeta" = op qr tu.
 A cube of side 6 units is painted red on all faces and then cut into 1-unit cubes. How many of the small 
 cubes have at least 2 painted faces?
 
+
+**Visual Schematic / Logical Deduction Diagram:**
+```
+          6 × 6 × 6 Cube (216 unit cubes)
+          Painted RED on all faces.
+          Cubes with NO paint = (6 - 2)³ = 4³ = 64 cubes.
+          Cubes with at least 1 face painted = 216 - 64 = 152 cubes.
+```
+
+
+**Visual Schematic / Logical Deduction Diagram:**
+```
+          6 × 6 × 6 Cube (216 unit cubes)
+          Painted RED on all faces.
+          Cubes with NO paint = (6 - 2)³ = 4³ = 64 cubes.
+          Cubes with at least 1 face painted = 216 - 64 = 152 cubes.
+```
+
+
+**Visual Schematic / Logical Deduction Diagram:**
+```
+          6 × 6 × 6 Cube (216 unit cubes)
+          Painted RED on all faces.
+          Cubes with NO paint = (6 - 2)³ = 4³ = 64 cubes.
+          Cubes with at least 1 face painted = 216 - 64 = 152 cubes.
+```
+
+
+**Visual Schematic / Logical Deduction Diagram:**
+```
+          6 × 6 × 6 Cube (216 unit cubes)
+          Painted RED on all faces.
+          Cubes with NO paint = (6 - 2)³ = 4³ = 64 cubes.
+          Cubes with at least 1 face painted = 216 - 64 = 152 cubes.
+```
+
 **Options:**
 - **(A)** 56
 - **(B)** 48
@@ -1305,6 +2109,58 @@ maternal grandfather.
 **Question Text:**
 A man walks 14 m East, then 20 m North, then 5 m West, then 8 m South. How far is he from the 
 starting point, and in which direction?
+
+
+**Visual Schematic / Logical Deduction Diagram:**
+```
+                          (20m North)
+                     ┌───────────────────► [FINISH]
+                     │                   ▲
+                     │                   │
+         [START] ────┴───────────────────┘ (14m East - 5m West = 9m)
+                   (14m East)  (8m South)
+   Net displacement: Δy = 20 - 8 = 12m North; Δx = 14 - 5 = 9m East
+   Shortest distance = √(9² + 12²) = √(81 + 144) = √225 = 15 m.
+```
+
+
+**Visual Schematic / Logical Deduction Diagram:**
+```
+                          (20m North)
+                     ┌───────────────────► [FINISH]
+                     │                   ▲
+                     │                   │
+         [START] ────┴───────────────────┘ (14m East - 5m West = 9m)
+                   (14m East)  (8m South)
+   Net displacement: Δy = 20 - 8 = 12m North; Δx = 14 - 5 = 9m East
+   Shortest distance = √(9² + 12²) = √(81 + 144) = √225 = 15 m.
+```
+
+
+**Visual Schematic / Logical Deduction Diagram:**
+```
+                          (20m North)
+                     ┌───────────────────► [FINISH]
+                     │                   ▲
+                     │                   │
+         [START] ────┴───────────────────┘ (14m East - 5m West = 9m)
+                   (14m East)  (8m South)
+   Net displacement: Δy = 20 - 8 = 12m North; Δx = 14 - 5 = 9m East
+   Shortest distance = √(9² + 12²) = √(81 + 144) = √225 = 15 m.
+```
+
+
+**Visual Schematic / Logical Deduction Diagram:**
+```
+                          (20m North)
+                     ┌───────────────────► [FINISH]
+                     │                   ▲
+                     │                   │
+         [START] ────┴───────────────────┘ (14m East - 5m West = 9m)
+                   (14m East)  (8m South)
+   Net displacement: Δy = 20 - 8 = 12m North; Δx = 14 - 5 = 9m East
+   Shortest distance = √(9² + 12²) = √(81 + 144) = √225 = 15 m.
+```
 
 **Options:**
 - **(A)** 15 m, North-East
@@ -1647,6 +2503,54 @@ M+Q: M is father of Q. Q÷N: Q is wife of N. So M is father of N's wife — M is
 A man starts from point O and walks 10 m North-East, then 10 m North-West, then 10 m South-West. 
 How far is he from O, and in which direction?
 
+
+**Visual Schematic / Logical Deduction Diagram:**
+```
+                     (10m NW)
+                 ┌──────────────► [Point 2]
+                 │              /
+      (10m NE)   ▲             / (10m SW)
+                 │            ▼
+              [Point O] ──► [FINISH]
+   Net position: returns to baseline axis at distance 10 m from O.
+```
+
+
+**Visual Schematic / Logical Deduction Diagram:**
+```
+                     (10m NW)
+                 ┌──────────────► [Point 2]
+                 │              /
+      (10m NE)   ▲             / (10m SW)
+                 │            ▼
+              [Point O] ──► [FINISH]
+   Net position: returns to baseline axis at distance 10 m from O.
+```
+
+
+**Visual Schematic / Logical Deduction Diagram:**
+```
+                     (10m NW)
+                 ┌──────────────► [Point 2]
+                 │              /
+      (10m NE)   ▲             / (10m SW)
+                 │            ▼
+              [Point O] ──► [FINISH]
+   Net position: returns to baseline axis at distance 10 m from O.
+```
+
+
+**Visual Schematic / Logical Deduction Diagram:**
+```
+                     (10m NW)
+                 ┌──────────────► [Point 2]
+                 │              /
+      (10m NE)   ▲             / (10m SW)
+                 │            ▼
+              [Point O] ──► [FINISH]
+   Net position: returns to baseline axis at distance 10 m from O.
+```
+
 **Options:**
 - **(A)** 10 m, North-West
 - **(B)** 10 m, South-West
@@ -1873,6 +2777,38 @@ DIGIT: positions 4+9+7+9+20 = 49; 49×5 = 245; vowels (I, I) = 2; 245−2 = 243 
 A solid cube of side 7 units is painted on all faces and cut into 1-unit cubes. How many small cubes have 
 at most 1 painted face?
 
+
+**Visual Schematic / Logical Deduction Diagram:**
+```
+          7 × 7 × 7 Cube (343 unit cubes)
+          Painted on all faces.
+          Exactly 1 face painted = 6 faces × (7 - 2)² = 6 × 25 = 150 cubes.
+```
+
+
+**Visual Schematic / Logical Deduction Diagram:**
+```
+          7 × 7 × 7 Cube (343 unit cubes)
+          Painted on all faces.
+          Exactly 1 face painted = 6 faces × (7 - 2)² = 6 × 25 = 150 cubes.
+```
+
+
+**Visual Schematic / Logical Deduction Diagram:**
+```
+          7 × 7 × 7 Cube (343 unit cubes)
+          Painted on all faces.
+          Exactly 1 face painted = 6 faces × (7 - 2)² = 6 × 25 = 150 cubes.
+```
+
+
+**Visual Schematic / Logical Deduction Diagram:**
+```
+          7 × 7 × 7 Cube (343 unit cubes)
+          Painted on all faces.
+          Exactly 1 face painted = 6 faces × (7 - 2)² = 6 × 25 = 150 cubes.
+```
+
 **Options:**
 - **(A)** 275
 - **(B)** 125
@@ -1936,6 +2872,58 @@ wife's maternal uncle — an uncle-in-law.
 **Question Text:**
 A is 20 km due North of B. C is 15 km due East of B. What is the bearing of A from C (measured clockwise 
 from North, to the nearest degree)?
+
+
+**Visual Schematic / Logical Deduction Diagram:**
+```
+                      A (North)
+                      ▲
+                      │ (20 km)
+                      │
+                      B ────────► C (East, 15 km)
+   Triangle ABC is a right-angled triangle at B.
+   tan(∠ACB) = AB / BC = 20 / 15 = 4/3 => ∠ACB ≈ 53.13°
+   Bearing of A from C = 360° - (90° + 53.13°) = 307° (or N 53° W).
+```
+
+
+**Visual Schematic / Logical Deduction Diagram:**
+```
+                      A (North)
+                      ▲
+                      │ (20 km)
+                      │
+                      B ────────► C (East, 15 km)
+   Triangle ABC is a right-angled triangle at B.
+   tan(∠ACB) = AB / BC = 20 / 15 = 4/3 => ∠ACB ≈ 53.13°
+   Bearing of A from C = 360° - (90° + 53.13°) = 307° (or N 53° W).
+```
+
+
+**Visual Schematic / Logical Deduction Diagram:**
+```
+                      A (North)
+                      ▲
+                      │ (20 km)
+                      │
+                      B ────────► C (East, 15 km)
+   Triangle ABC is a right-angled triangle at B.
+   tan(∠ACB) = AB / BC = 20 / 15 = 4/3 => ∠ACB ≈ 53.13°
+   Bearing of A from C = 360° - (90° + 53.13°) = 307° (or N 53° W).
+```
+
+
+**Visual Schematic / Logical Deduction Diagram:**
+```
+                      A (North)
+                      ▲
+                      │ (20 km)
+                      │
+                      B ────────► C (East, 15 km)
+   Triangle ABC is a right-angled triangle at B.
+   tan(∠ACB) = AB / BC = 20 / 15 = 4/3 => ∠ACB ≈ 53.13°
+   Bearing of A from C = 360° - (90° + 53.13°) = 307° (or N 53° W).
+```
 
 **Options:**
 - **(A)** 323°

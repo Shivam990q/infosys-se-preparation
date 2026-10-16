@@ -25,7 +25,20 @@ This module contains 9 original Infosys test terminal screenshot questions extra
 ![Question Figure](images/part7_p1_img1_884x908.jpeg)
 
 #### Problem Statement
-Find the missing number (?) in the 3x3 matrix grid.
+Find the missing number (?) in the 3x3 matrix grid:
+
+**Native Matrix Grid Table:**
+```
+┌────┬────┬────┐
+│  4 │  5 │ 21 │
+├────┼────┼────┤
+│  6 │  7 │ 43 │
+├────┼────┼────┤
+│  8 │  9 │  ? │
+└────┴────┴────┘
+   Rule: Row 3 = (Col 1 × Col 2) + 1.
+   (8 × 9) + 1 = 72 + 1 = 73.
+```
 
 #### Options
 - [ ] **A)** 7

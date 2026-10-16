@@ -14,7 +14,15 @@
 SET 01: Seven girls A, B, C, D, E, F and G are sitting in a row facing North. E is sitting at one of the extreme ends. D is sitting at the second position from the right. A is to the right of B and E. A and C are sitting together. In which position is A sitting?
 ```
 
-**Option Set:**
+****Native Linear / Parallel Row Schematic:**
+```
+   Row 1 (Facing South, Down):  [ P ]  [ Q ]  [ R ]  [ S ]  [ T ]
+                                  ▼      ▼      ▼      ▼      ▼
+                                  ▲      ▲      ▲      ▲      ▲
+   Row 2 (Facing North, Up):    [ A ]  [ B ]  [ C ]  [ D ]  [ E ]
+```
+
+**Option Set:****
 - A. Third from the left
 - B. Fourth from the left
 - C. Second from the left

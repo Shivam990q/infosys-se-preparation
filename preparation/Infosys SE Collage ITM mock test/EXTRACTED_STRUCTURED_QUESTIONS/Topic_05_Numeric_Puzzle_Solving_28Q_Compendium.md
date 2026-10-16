@@ -20,6 +20,50 @@
 Matchstick. A 2 × 2 grid of squares is made using 12 matchsticks (giving 4 small squares and 1 large 
 square). What is the minimum number of sticks to remove so that no square of any size remains?
 
+
+**Visual Schematic / Puzzle Diagram:**
+```
+   +---+---+
+   |   |   |
+   +---+---+
+   |   |   |
+   +---+---+
+   12 matchsticks forming four 1×1 squares and one 2×2 square.
+```
+
+
+**Visual Schematic / Puzzle Diagram:**
+```
+   +---+---+
+   |   |   |
+   +---+---+
+   |   |   |
+   +---+---+
+   12 matchsticks forming four 1×1 squares and one 2×2 square.
+```
+
+
+**Visual Schematic / Puzzle Diagram:**
+```
+   +---+---+
+   |   |   |
+   +---+---+
+   |   |   |
+   +---+---+
+   12 matchsticks forming four 1×1 squares and one 2×2 square.
+```
+
+
+**Visual Schematic / Puzzle Diagram:**
+```
+   +---+---+
+   |   |   |
+   +---+---+
+   |   |   |
+   +---+---+
+   12 matchsticks forming four 1×1 squares and one 2×2 square.
+```
+
 **Options:**
 - **(A)** 2
 - **(B)** 3
@@ -45,6 +89,50 @@ the same rule.
 Wheel 1: T = 3, R = 5, B = 4, L = 7, Centre = 14 
 Wheel 2: T = 2, R = 6, B = 5, L = 3, Centre = 7 
 Wheel 3: T = 4, R = 3, B = 6, L = 9, Centre = ?
+
+
+**Visual Schematic / Puzzle Diagram:**
+```
+      Wheel 1              Wheel 2              Wheel 3
+        [ 3 ]                [ 2 ]                [ 4 ]
+          │                    │                    │
+  [ 7 ]─( 14 )─[ 5 ]   [ 3 ]─(  7  )─[ 6 ]   [ 9 ]─(  ?  )─[ 3 ]
+          │                    │                    │
+        [ 4 ]                [ 5 ]                [ 6 ]
+```
+
+
+**Visual Schematic / Puzzle Diagram:**
+```
+      Wheel 1              Wheel 2              Wheel 3
+        [ 3 ]                [ 2 ]                [ 4 ]
+          │                    │                    │
+  [ 7 ]─( 14 )─[ 5 ]   [ 3 ]─(  7  )─[ 6 ]   [ 9 ]─(  ?  )─[ 3 ]
+          │                    │                    │
+        [ 4 ]                [ 5 ]                [ 6 ]
+```
+
+
+**Visual Schematic / Puzzle Diagram:**
+```
+      Wheel 1              Wheel 2              Wheel 3
+        [ 3 ]                [ 2 ]                [ 4 ]
+          │                    │                    │
+  [ 7 ]─( 14 )─[ 5 ]   [ 3 ]─(  7  )─[ 6 ]   [ 9 ]─(  ?  )─[ 3 ]
+          │                    │                    │
+        [ 4 ]                [ 5 ]                [ 6 ]
+```
+
+
+**Visual Schematic / Puzzle Diagram:**
+```
+      Wheel 1              Wheel 2              Wheel 3
+        [ 3 ]                [ 2 ]                [ 4 ]
+          │                    │                    │
+  [ 7 ]─( 14 )─[ 5 ]   [ 3 ]─(  7  )─[ 6 ]   [ 9 ]─(  ?  )─[ 3 ]
+          │                    │                    │
+        [ 4 ]                [ 5 ]                [ 6 ]
+```
 
 **Options:**
 - **(A)** 21
@@ -81,6 +169,54 @@ Matrix logic. Find the missing number.
 8 
 ?
 
+
+**Visual Schematic / Puzzle Diagram:**
+```
+┌────┬────┬─────┐
+│  3 │  4 │  25 │
+├────┼────┼─────┤
+│  5 │ 12 │ 169 │
+├────┼────┼─────┤
+│  6 │  8 │   ? │
+└────┴────┴─────┘
+```
+
+
+**Visual Schematic / Puzzle Diagram:**
+```
+┌────┬────┬─────┐
+│  3 │  4 │  25 │
+├────┼────┼─────┤
+│  5 │ 12 │ 169 │
+├────┼────┼─────┤
+│  6 │  8 │   ? │
+└────┴────┴─────┘
+```
+
+
+**Visual Schematic / Puzzle Diagram:**
+```
+┌────┬────┬─────┐
+│  3 │  4 │  25 │
+├────┼────┼─────┤
+│  5 │ 12 │ 169 │
+├────┼────┼─────┤
+│  6 │  8 │   ? │
+└────┴────┴─────┘
+```
+
+
+**Visual Schematic / Puzzle Diagram:**
+```
+┌────┬────┬─────┐
+│  3 │  4 │  25 │
+├────┼────┼─────┤
+│  5 │ 12 │ 169 │
+├────┼────┼─────┤
+│  6 │  8 │   ? │
+└────┴────┴─────┘
+```
+
 **Options:**
 - **(A)** 64
 - **(B)** 100
@@ -104,6 +240,42 @@ Missing number = 100.
 
 **Puzzle Statement:**
 Pattern. Find the next term: 2, 12, 36, 80, 150, ?
+
+
+**Visual Schematic / Puzzle Diagram:**
+```
+Terms:         2       12       36       80       150       [ 252 ]
+               │        │        │        │        │           │
+Formula:     1³+1²    2³+2²    3³+3²    4³+4²    5³+5²       6³+6²
+             1 + 1    8 + 4   27 + 9   64 + 16  125 + 25   216 + 36
+```
+
+
+**Visual Schematic / Puzzle Diagram:**
+```
+Terms:         2       12       36       80       150       [ 252 ]
+               │        │        │        │        │           │
+Formula:     1³+1²    2³+2²    3³+3²    4³+4²    5³+5²       6³+6²
+             1 + 1    8 + 4   27 + 9   64 + 16  125 + 25   216 + 36
+```
+
+
+**Visual Schematic / Puzzle Diagram:**
+```
+Terms:         2       12       36       80       150       [ 252 ]
+               │        │        │        │        │           │
+Formula:     1³+1²    2³+2²    3³+3²    4³+4²    5³+5²       6³+6²
+             1 + 1    8 + 4   27 + 9   64 + 16  125 + 25   216 + 36
+```
+
+
+**Visual Schematic / Puzzle Diagram:**
+```
+Terms:         2       12       36       80       150       [ 252 ]
+               │        │        │        │        │           │
+Formula:     1³+1²    2³+2²    3³+3²    4³+4²    5³+5²       6³+6²
+             1 + 1    8 + 4   27 + 9   64 + 16  125 + 25   216 + 36
+```
 
 **Options:**
 - **(A)** 216
@@ -134,6 +306,42 @@ Matchstick. Five identical unit squares are arranged in a row sharing sides, usi
 total. What is the minimum number of sticks that must be removed so that exactly 3 complete unit squares 
 remain?
 
+
+**Visual Schematic / Puzzle Diagram:**
+```
+   +---+---+---+---+---+
+   | 1 | 2 | 3 | 4 | 5 |
+   +---+---+---+---+---+
+   5 unit squares in a line built from 16 matchsticks.
+```
+
+
+**Visual Schematic / Puzzle Diagram:**
+```
+   +---+---+---+---+---+
+   | 1 | 2 | 3 | 4 | 5 |
+   +---+---+---+---+---+
+   5 unit squares in a line built from 16 matchsticks.
+```
+
+
+**Visual Schematic / Puzzle Diagram:**
+```
+   +---+---+---+---+---+
+   | 1 | 2 | 3 | 4 | 5 |
+   +---+---+---+---+---+
+   5 unit squares in a line built from 16 matchsticks.
+```
+
+
+**Visual Schematic / Puzzle Diagram:**
+```
+   +---+---+---+---+---+
+   | 1 | 2 | 3 | 4 | 5 |
+   +---+---+---+---+---+
+   5 unit squares in a line built from 16 matchsticks.
+```
+
 **Options:**
 - **(A)** 1
 - **(B)** 2
@@ -159,6 +367,50 @@ same rule.
 Wheel 1: T = 6, R = 2, B = 4, L = 3, Centre = 30
 Wheel 2: T = 5, R = 3, B = 8, L = 2, Centre = 46
 Wheel 3: T = 7, R = 4, B = 3, L = 6, Centre = ?
+
+
+**Visual Schematic / Puzzle Diagram:**
+```
+      Wheel 1              Wheel 2              Wheel 3
+        [ 6 ]                [ 5 ]                [ 7 ]
+          │                    │                    │
+  [ 3 ]─( 30 )─[ 2 ]   [ 2 ]─( 46 )─[ 3 ]   [ 6 ]─(  ?  )─[ 4 ]
+          │                    │                    │
+        [ 4 ]                [ 8 ]                [ 3 ]
+```
+
+
+**Visual Schematic / Puzzle Diagram:**
+```
+      Wheel 1              Wheel 2              Wheel 3
+        [ 6 ]                [ 5 ]                [ 7 ]
+          │                    │                    │
+  [ 3 ]─( 30 )─[ 2 ]   [ 2 ]─( 46 )─[ 3 ]   [ 6 ]─(  ?  )─[ 4 ]
+          │                    │                    │
+        [ 4 ]                [ 8 ]                [ 3 ]
+```
+
+
+**Visual Schematic / Puzzle Diagram:**
+```
+      Wheel 1              Wheel 2              Wheel 3
+        [ 6 ]                [ 5 ]                [ 7 ]
+          │                    │                    │
+  [ 3 ]─( 30 )─[ 2 ]   [ 2 ]─( 46 )─[ 3 ]   [ 6 ]─(  ?  )─[ 4 ]
+          │                    │                    │
+        [ 4 ]                [ 8 ]                [ 3 ]
+```
+
+
+**Visual Schematic / Puzzle Diagram:**
+```
+      Wheel 1              Wheel 2              Wheel 3
+        [ 6 ]                [ 5 ]                [ 7 ]
+          │                    │                    │
+  [ 3 ]─( 30 )─[ 2 ]   [ 2 ]─( 46 )─[ 3 ]   [ 6 ]─(  ?  )─[ 4 ]
+          │                    │                    │
+        [ 4 ]                [ 8 ]                [ 3 ]
+```
 
 **Options:**
 - **(A)** 39
@@ -196,6 +448,54 @@ Matrix logic. Find the missing number.
 5
 ?
 
+
+**Visual Schematic / Puzzle Diagram:**
+```
+┌───┬───┬────┐
+│ 2 │ 3 │ 11 │
+├───┼───┼────┤
+│ 3 │ 4 │ 19 │
+├───┼───┼────┤
+│ 4 │ 5 │  ? │
+└───┴───┴────┘
+```
+
+
+**Visual Schematic / Puzzle Diagram:**
+```
+┌───┬───┬────┐
+│ 2 │ 3 │ 11 │
+├───┼───┼────┤
+│ 3 │ 4 │ 19 │
+├───┼───┼────┤
+│ 4 │ 5 │  ? │
+└───┴───┴────┘
+```
+
+
+**Visual Schematic / Puzzle Diagram:**
+```
+┌───┬───┬────┐
+│ 2 │ 3 │ 11 │
+├───┼───┼────┤
+│ 3 │ 4 │ 19 │
+├───┼───┼────┤
+│ 4 │ 5 │  ? │
+└───┴───┴────┘
+```
+
+
+**Visual Schematic / Puzzle Diagram:**
+```
+┌───┬───┬────┐
+│ 2 │ 3 │ 11 │
+├───┼───┼────┤
+│ 3 │ 4 │ 19 │
+├───┼───┼────┤
+│ 4 │ 5 │  ? │
+└───┴───┴────┘
+```
+
 **Options:**
 - **(A)** 27
 - **(B)** 29
@@ -221,6 +521,38 @@ Matrix logic. Find the missing number.
 **Puzzle Statement:**
 Pattern. Find the next term: 1, 4, 10, 20, 35, ?
 
+
+**Visual Schematic / Puzzle Diagram:**
+```
+Terms:         1        4       10       20       35       [ 56 ]
+1st Diff:          +3       +6      +10      +15      [ +21 ]
+2nd Diff:              +3       +4       +5       [ +6 ]
+```
+
+
+**Visual Schematic / Puzzle Diagram:**
+```
+Terms:         1        4       10       20       35       [ 56 ]
+1st Diff:          +3       +6      +10      +15      [ +21 ]
+2nd Diff:              +3       +4       +5       [ +6 ]
+```
+
+
+**Visual Schematic / Puzzle Diagram:**
+```
+Terms:         1        4       10       20       35       [ 56 ]
+1st Diff:          +3       +6      +10      +15      [ +21 ]
+2nd Diff:              +3       +4       +5       [ +6 ]
+```
+
+
+**Visual Schematic / Puzzle Diagram:**
+```
+Terms:         1        4       10       20       35       [ 56 ]
+1st Diff:          +3       +6      +10      +15      [ +21 ]
+2nd Diff:              +3       +4       +5       [ +6 ]
+```
+
 **Options:**
 - **(A)** 52
 - **(B)** 56
@@ -243,6 +575,50 @@ Section 6: Grammar
 Matchstick. A figure is made of 3 unit squares arranged in an L-shape (one square with a second 
 attached to its right, and a third attached below the first), using 10 matchsticks in total. What is the 
 minimum number of sticks to remove so that no complete square remains?
+
+
+**Visual Schematic / Puzzle Diagram:**
+```
+   +---+---+
+   | 1 | 2 |
+   +---+---+
+   | 3 |
+   +---+
+   L-shaped figure of 3 squares made of 10 matchsticks.
+```
+
+
+**Visual Schematic / Puzzle Diagram:**
+```
+   +---+---+
+   | 1 | 2 |
+   +---+---+
+   | 3 |
+   +---+
+   L-shaped figure of 3 squares made of 10 matchsticks.
+```
+
+
+**Visual Schematic / Puzzle Diagram:**
+```
+   +---+---+
+   | 1 | 2 |
+   +---+---+
+   | 3 |
+   +---+
+   L-shaped figure of 3 squares made of 10 matchsticks.
+```
+
+
+**Visual Schematic / Puzzle Diagram:**
+```
+   +---+---+
+   | 1 | 2 |
+   +---+---+
+   | 3 |
+   +---+
+   L-shaped figure of 3 squares made of 10 matchsticks.
+```
 
 **Options:**
 - **(A)** 1
@@ -269,6 +645,50 @@ same rule.
 Wheel 1: T = 5, R = 3, B = 7, L = 2, Centre = 19 
 Wheel 2: T = 4, R = 6, B = 9, L = 3, Centre = 63 
 Wheel 3: T = 8, R = 5, B = 6, L = 4, Centre = ?
+
+
+**Visual Schematic / Puzzle Diagram:**
+```
+      Wheel 1              Wheel 2              Wheel 3
+        [ 5 ]                [ 4 ]                [ 8 ]
+          │                    │                    │
+  [ 2 ]─( 19 )─[ 3 ]   [ 3 ]─( 63 )─[ 6 ]   [ 4 ]─(  ?  )─[ 5 ]
+          │                    │                    │
+        [ 7 ]                [ 9 ]                [ 6 ]
+```
+
+
+**Visual Schematic / Puzzle Diagram:**
+```
+      Wheel 1              Wheel 2              Wheel 3
+        [ 5 ]                [ 4 ]                [ 8 ]
+          │                    │                    │
+  [ 2 ]─( 19 )─[ 3 ]   [ 3 ]─( 63 )─[ 6 ]   [ 4 ]─(  ?  )─[ 5 ]
+          │                    │                    │
+        [ 7 ]                [ 9 ]                [ 6 ]
+```
+
+
+**Visual Schematic / Puzzle Diagram:**
+```
+      Wheel 1              Wheel 2              Wheel 3
+        [ 5 ]                [ 4 ]                [ 8 ]
+          │                    │                    │
+  [ 2 ]─( 19 )─[ 3 ]   [ 3 ]─( 63 )─[ 6 ]   [ 4 ]─(  ?  )─[ 5 ]
+          │                    │                    │
+        [ 7 ]                [ 9 ]                [ 6 ]
+```
+
+
+**Visual Schematic / Puzzle Diagram:**
+```
+      Wheel 1              Wheel 2              Wheel 3
+        [ 5 ]                [ 4 ]                [ 8 ]
+          │                    │                    │
+  [ 2 ]─( 19 )─[ 3 ]   [ 3 ]─( 63 )─[ 6 ]   [ 4 ]─(  ?  )─[ 5 ]
+          │                    │                    │
+        [ 7 ]                [ 9 ]                [ 6 ]
+```
 
 **Options:**
 - **(A)** 54
@@ -301,6 +721,54 @@ Matrix logic. Find the missing number.
 49 
 ?
 
+
+**Visual Schematic / Puzzle Diagram:**
+```
+┌────┬────┬────┐
+│  4 │  9 │ 25 │
+├────┼────┼────┤
+│  9 │ 25 │ 49 │
+├────┼────┼────┤
+│ 25 │ 49 │  ? │
+└────┴────┴────┘
+```
+
+
+**Visual Schematic / Puzzle Diagram:**
+```
+┌────┬────┬────┐
+│  4 │  9 │ 25 │
+├────┼────┼────┤
+│  9 │ 25 │ 49 │
+├────┼────┼────┤
+│ 25 │ 49 │  ? │
+└────┴────┴────┘
+```
+
+
+**Visual Schematic / Puzzle Diagram:**
+```
+┌────┬────┬────┐
+│  4 │  9 │ 25 │
+├────┼────┼────┤
+│  9 │ 25 │ 49 │
+├────┼────┼────┤
+│ 25 │ 49 │  ? │
+└────┴────┴────┘
+```
+
+
+**Visual Schematic / Puzzle Diagram:**
+```
+┌────┬────┬────┐
+│  4 │  9 │ 25 │
+├────┼────┼────┤
+│  9 │ 25 │ 49 │
+├────┼────┼────┤
+│ 25 │ 49 │  ? │
+└────┴────┴────┘
+```
+
 **Options:**
 - **(A)** 100
 - **(B)** 121
@@ -321,6 +789,42 @@ consecutive primes: 2²,3²,5²,7²,11². The missing cell is 11² = 121.
 
 **Puzzle Statement:**
 Pattern. Find the next term: 6, 24, 60, 120, 210, ?
+
+
+**Visual Schematic / Puzzle Diagram:**
+```
+Terms:         6       24       60       120       210       [ 336 ]
+               │        │        │        │         │           │
+Formula:     1·2·3    2·3·4    3·4·5    4·5·6     5·6·7       6·7·8
+             1³ - 1   2³ - 2   3³ - 3   4³ - 4    5³ - 5      6³ - 6
+```
+
+
+**Visual Schematic / Puzzle Diagram:**
+```
+Terms:         6       24       60       120       210       [ 336 ]
+               │        │        │        │         │           │
+Formula:     1·2·3    2·3·4    3·4·5    4·5·6     5·6·7       6·7·8
+             1³ - 1   2³ - 2   3³ - 3   4³ - 4    5³ - 5      6³ - 6
+```
+
+
+**Visual Schematic / Puzzle Diagram:**
+```
+Terms:         6       24       60       120       210       [ 336 ]
+               │        │        │        │         │           │
+Formula:     1·2·3    2·3·4    3·4·5    4·5·6     5·6·7       6·7·8
+             1³ - 1   2³ - 2   3³ - 3   4³ - 4    5³ - 5      6³ - 6
+```
+
+
+**Visual Schematic / Puzzle Diagram:**
+```
+Terms:         6       24       60       120       210       [ 336 ]
+               │        │        │        │         │           │
+Formula:     1·2·3    2·3·4    3·4·5    4·5·6     5·6·7       6·7·8
+             1³ - 1   2³ - 2   3³ - 3   4³ - 4    5³ - 5      6³ - 6
+```
 
 **Options:**
 - **(A)** 320
@@ -345,6 +849,58 @@ Section 6: Grammar
 Matchstick. A 3×3 grid of unit squares (9 small squares) is built using 24 matchsticks. Counting squares 
 of every size (1×1, 2×2 and 3×3 — 14 squares in total), what is the minimum number of matchsticks that 
 must be removed so that no complete square of any size remains?
+
+
+**Visual Schematic / Puzzle Diagram:**
+```
+   +---+---+---+
+   | 1 | 2 | 3 |
+   +---+---+---+
+   | 4 | 5 | 6 |
+   +---+---+---+
+   | 7 | 8 | 9 |
+   +---+---+---+
+   3×3 grid of 9 small squares made of 24 matchsticks.
+```
+
+
+**Visual Schematic / Puzzle Diagram:**
+```
+   +---+---+---+
+   | 1 | 2 | 3 |
+   +---+---+---+
+   | 4 | 5 | 6 |
+   +---+---+---+
+   | 7 | 8 | 9 |
+   +---+---+---+
+   3×3 grid of 9 small squares made of 24 matchsticks.
+```
+
+
+**Visual Schematic / Puzzle Diagram:**
+```
+   +---+---+---+
+   | 1 | 2 | 3 |
+   +---+---+---+
+   | 4 | 5 | 6 |
+   +---+---+---+
+   | 7 | 8 | 9 |
+   +---+---+---+
+   3×3 grid of 9 small squares made of 24 matchsticks.
+```
+
+
+**Visual Schematic / Puzzle Diagram:**
+```
+   +---+---+---+
+   | 1 | 2 | 3 |
+   +---+---+---+
+   | 4 | 5 | 6 |
+   +---+---+---+
+   | 7 | 8 | 9 |
+   +---+---+---+
+   3×3 grid of 9 small squares made of 24 matchsticks.
+```
 
 **Options:**
 - **(A)** 4
@@ -372,6 +928,50 @@ the same rule.
 Wheel 1: T = 4, R = 5, B = 6, L = 3, Centre = 39 
 Wheel 2: T = 7, R = 2, B = 8, L = 5, Centre = 66 
 Wheel 3: T = 6, R = 4, B = 9, L = 2, Centre = ?
+
+
+**Visual Schematic / Puzzle Diagram:**
+```
+      Wheel 1              Wheel 2              Wheel 3
+        [ 4 ]                [ 7 ]                [ 6 ]
+          │                    │                    │
+  [ 3 ]─( 39 )─[ 5 ]   [ 5 ]─( 66 )─[ 2 ]   [ 2 ]─(  ?  )─[ 4 ]
+          │                    │                    │
+        [ 6 ]                [ 8 ]                [ 9 ]
+```
+
+
+**Visual Schematic / Puzzle Diagram:**
+```
+      Wheel 1              Wheel 2              Wheel 3
+        [ 4 ]                [ 7 ]                [ 6 ]
+          │                    │                    │
+  [ 3 ]─( 39 )─[ 5 ]   [ 5 ]─( 66 )─[ 2 ]   [ 2 ]─(  ?  )─[ 4 ]
+          │                    │                    │
+        [ 6 ]                [ 8 ]                [ 9 ]
+```
+
+
+**Visual Schematic / Puzzle Diagram:**
+```
+      Wheel 1              Wheel 2              Wheel 3
+        [ 4 ]                [ 7 ]                [ 6 ]
+          │                    │                    │
+  [ 3 ]─( 39 )─[ 5 ]   [ 5 ]─( 66 )─[ 2 ]   [ 2 ]─(  ?  )─[ 4 ]
+          │                    │                    │
+        [ 6 ]                [ 8 ]                [ 9 ]
+```
+
+
+**Visual Schematic / Puzzle Diagram:**
+```
+      Wheel 1              Wheel 2              Wheel 3
+        [ 4 ]                [ 7 ]                [ 6 ]
+          │                    │                    │
+  [ 3 ]─( 39 )─[ 5 ]   [ 5 ]─( 66 )─[ 2 ]   [ 2 ]─(  ?  )─[ 4 ]
+          │                    │                    │
+        [ 6 ]                [ 8 ]                [ 9 ]
+```
 
 **Options:**
 - **(A)** 58
@@ -403,6 +1003,54 @@ Matrix logic. Find the missing number.
 15 
 ?
 
+
+**Visual Schematic / Puzzle Diagram:**
+```
+┌────┬────┬────┐
+│  2 │  3 │  4 │
+├────┼────┼────┤
+│  6 │  8 │ 10 │
+├────┼────┼────┤
+│ 12 │ 15 │  ? │
+└────┴────┴────┘
+```
+
+
+**Visual Schematic / Puzzle Diagram:**
+```
+┌────┬────┬────┐
+│  2 │  3 │  4 │
+├────┼────┼────┤
+│  6 │  8 │ 10 │
+├────┼────┼────┤
+│ 12 │ 15 │  ? │
+└────┴────┴────┘
+```
+
+
+**Visual Schematic / Puzzle Diagram:**
+```
+┌────┬────┬────┐
+│  2 │  3 │  4 │
+├────┼────┼────┤
+│  6 │  8 │ 10 │
+├────┼────┼────┤
+│ 12 │ 15 │  ? │
+└────┴────┴────┘
+```
+
+
+**Visual Schematic / Puzzle Diagram:**
+```
+┌────┬────┬────┐
+│  2 │  3 │  4 │
+├────┼────┼────┤
+│  6 │  8 │ 10 │
+├────┼────┼────┤
+│ 12 │ 15 │  ? │
+└────┴────┴────┘
+```
+
 **Options:**
 - **(A)** 16
 - **(B)** 18
@@ -423,6 +1071,42 @@ Matrix logic. Find the missing number.
 
 **Puzzle Statement:**
 Pattern. Find the next term: 1, 5, 14, 30, 55, ?
+
+
+**Visual Schematic / Puzzle Diagram:**
+```
+Terms:         1        5       14       30       55       [ 91 ]
+               │        │        │        │        │          │
+Sum:          1²      1²+2²   1²+2²+3² 1²+..+4² 1²+..+5²   1²+..+6²
+Addends:      +1       +4       +9      +16      +25        +36
+```
+
+
+**Visual Schematic / Puzzle Diagram:**
+```
+Terms:         1        5       14       30       55       [ 91 ]
+               │        │        │        │        │          │
+Sum:          1²      1²+2²   1²+2²+3² 1²+..+4² 1²+..+5²   1²+..+6²
+Addends:      +1       +4       +9      +16      +25        +36
+```
+
+
+**Visual Schematic / Puzzle Diagram:**
+```
+Terms:         1        5       14       30       55       [ 91 ]
+               │        │        │        │        │          │
+Sum:          1²      1²+2²   1²+2²+3² 1²+..+4² 1²+..+5²   1²+..+6²
+Addends:      +1       +4       +9      +16      +25        +36
+```
+
+
+**Visual Schematic / Puzzle Diagram:**
+```
+Terms:         1        5       14       30       55       [ 91 ]
+               │        │        │        │        │          │
+Sum:          1²      1²+2²   1²+2²+3² 1²+..+4² 1²+..+5²   1²+..+6²
+Addends:      +1       +4       +9      +16      +25        +36
+```
 
 **Options:**
 - **(A)** 91
@@ -446,6 +1130,58 @@ Section 6: Grammar
 Matchstick. Five unit squares are arranged in a plus/cross pattern (one centre square with one square 
 attached to each of its four sides), using 16 matchsticks in total. What is the minimum number of sticks that 
 must be removed so that no complete square remains?
+
+
+**Visual Schematic / Puzzle Diagram:**
+```
+       +---+
+       | 1 |
+   +---+---+---+
+   | 2 | 3 | 4 |
+   +---+---+---+
+       | 5 |
+       +---+
+   Plus / cross pattern of 5 squares made of 16 matchsticks.
+```
+
+
+**Visual Schematic / Puzzle Diagram:**
+```
+       +---+
+       | 1 |
+   +---+---+---+
+   | 2 | 3 | 4 |
+   +---+---+---+
+       | 5 |
+       +---+
+   Plus / cross pattern of 5 squares made of 16 matchsticks.
+```
+
+
+**Visual Schematic / Puzzle Diagram:**
+```
+       +---+
+       | 1 |
+   +---+---+---+
+   | 2 | 3 | 4 |
+   +---+---+---+
+       | 5 |
+       +---+
+   Plus / cross pattern of 5 squares made of 16 matchsticks.
+```
+
+
+**Visual Schematic / Puzzle Diagram:**
+```
+       +---+
+       | 1 |
+   +---+---+---+
+   | 2 | 3 | 4 |
+   +---+---+---+
+       | 5 |
+       +---+
+   Plus / cross pattern of 5 squares made of 16 matchsticks.
+```
 
 **Options:**
 - **(A)** 3
@@ -474,6 +1210,50 @@ the same rule.
 Wheel 1: T = 8, R = 2, B = 6, L = 3, Centre = 41 
 Wheel 2: T = 10, R = 4, B = 5, L = 2, Centre = 65 
 Wheel 3: T = 12, R = 3, B = 9, L = 5, Centre = ?
+
+
+**Visual Schematic / Puzzle Diagram:**
+```
+      Wheel 1              Wheel 2              Wheel 3
+        [ 8 ]                [ 10 ]               [ 12 ]
+          │                    │                    │
+  [ 3 ]─( 41 )─[ 2 ]   [ 2 ]─( 65 )─[ 4 ]   [ 5 ]─(  ?  )─[ 3 ]
+          │                    │                    │
+        [ 6 ]                [ 5 ]                [ 9 ]
+```
+
+
+**Visual Schematic / Puzzle Diagram:**
+```
+      Wheel 1              Wheel 2              Wheel 3
+        [ 8 ]                [ 10 ]               [ 12 ]
+          │                    │                    │
+  [ 3 ]─( 41 )─[ 2 ]   [ 2 ]─( 65 )─[ 4 ]   [ 5 ]─(  ?  )─[ 3 ]
+          │                    │                    │
+        [ 6 ]                [ 5 ]                [ 9 ]
+```
+
+
+**Visual Schematic / Puzzle Diagram:**
+```
+      Wheel 1              Wheel 2              Wheel 3
+        [ 8 ]                [ 10 ]               [ 12 ]
+          │                    │                    │
+  [ 3 ]─( 41 )─[ 2 ]   [ 2 ]─( 65 )─[ 4 ]   [ 5 ]─(  ?  )─[ 3 ]
+          │                    │                    │
+        [ 6 ]                [ 5 ]                [ 9 ]
+```
+
+
+**Visual Schematic / Puzzle Diagram:**
+```
+      Wheel 1              Wheel 2              Wheel 3
+        [ 8 ]                [ 10 ]               [ 12 ]
+          │                    │                    │
+  [ 3 ]─( 41 )─[ 2 ]   [ 2 ]─( 65 )─[ 4 ]   [ 5 ]─(  ?  )─[ 3 ]
+          │                    │                    │
+        [ 6 ]                [ 5 ]                [ 9 ]
+```
 
 **Options:**
 - **(A)** 85
@@ -505,6 +1285,54 @@ Matrix logic. Find the missing number.
 19 
 ?
 
+
+**Visual Schematic / Puzzle Diagram:**
+```
+┌────┬────┬────┐
+│  3 │  7 │ 13 │
+├────┼────┼────┤
+│  7 │ 12 │ 19 │
+├────┼────┼────┤
+│ 13 │ 19 │  ? │
+└────┴────┴────┘
+```
+
+
+**Visual Schematic / Puzzle Diagram:**
+```
+┌────┬────┬────┐
+│  3 │  7 │ 13 │
+├────┼────┼────┤
+│  7 │ 12 │ 19 │
+├────┼────┼────┤
+│ 13 │ 19 │  ? │
+└────┴────┴────┘
+```
+
+
+**Visual Schematic / Puzzle Diagram:**
+```
+┌────┬────┬────┐
+│  3 │  7 │ 13 │
+├────┼────┼────┤
+│  7 │ 12 │ 19 │
+├────┼────┼────┤
+│ 13 │ 19 │  ? │
+└────┴────┴────┘
+```
+
+
+**Visual Schematic / Puzzle Diagram:**
+```
+┌────┬────┬────┐
+│  3 │  7 │ 13 │
+├────┼────┼────┤
+│  7 │ 12 │ 19 │
+├────┼────┼────┤
+│ 13 │ 19 │  ? │
+└────┴────┴────┘
+```
+
 **Options:**
 - **(A)** 25
 - **(B)** 27
@@ -525,6 +1353,38 @@ Matrix logic. Find the missing number.
 
 **Puzzle Statement:**
 Pattern. Find the next term: 3, 9, 19, 33, 51, ?
+
+
+**Visual Schematic / Puzzle Diagram:**
+```
+Terms:         3        9       19       33       51       [ 73 ]
+1st Diff:          +6      +10      +14      +18      [ +22 ]
+2nd Diff:              +4       +4       +4       [ +4 ]
+```
+
+
+**Visual Schematic / Puzzle Diagram:**
+```
+Terms:         3        9       19       33       51       [ 73 ]
+1st Diff:          +6      +10      +14      +18      [ +22 ]
+2nd Diff:              +4       +4       +4       [ +4 ]
+```
+
+
+**Visual Schematic / Puzzle Diagram:**
+```
+Terms:         3        9       19       33       51       [ 73 ]
+1st Diff:          +6      +10      +14      +18      [ +22 ]
+2nd Diff:              +4       +4       +4       [ +4 ]
+```
+
+
+**Visual Schematic / Puzzle Diagram:**
+```
+Terms:         3        9       19       33       51       [ 73 ]
+1st Diff:          +6      +10      +14      +18      [ +22 ]
+2nd Diff:              +4       +4       +4       [ +4 ]
+```
 
 **Options:**
 - **(A)** 73
@@ -548,6 +1408,50 @@ Section 6: Grammar
 Matchstick. A 2 × 3 grid of unit squares (2 rows, 3 columns) is built from 17 matchsticks and contains 8 
 squares in total (six 1×1 and two 2×2). What is the minimum number of sticks that must be removed so that 
 no complete square of any size remains?
+
+
+**Visual Schematic / Puzzle Diagram:**
+```
+   +---+---+---+
+   | 1 | 2 | 3 |
+   +---+---+---+
+   | 4 | 5 | 6 |
+   +---+---+---+
+   2×3 grid of 6 squares made of 17 matchsticks.
+```
+
+
+**Visual Schematic / Puzzle Diagram:**
+```
+   +---+---+---+
+   | 1 | 2 | 3 |
+   +---+---+---+
+   | 4 | 5 | 6 |
+   +---+---+---+
+   2×3 grid of 6 squares made of 17 matchsticks.
+```
+
+
+**Visual Schematic / Puzzle Diagram:**
+```
+   +---+---+---+
+   | 1 | 2 | 3 |
+   +---+---+---+
+   | 4 | 5 | 6 |
+   +---+---+---+
+   2×3 grid of 6 squares made of 17 matchsticks.
+```
+
+
+**Visual Schematic / Puzzle Diagram:**
+```
+   +---+---+---+
+   | 1 | 2 | 3 |
+   +---+---+---+
+   | 4 | 5 | 6 |
+   +---+---+---+
+   2×3 grid of 6 squares made of 17 matchsticks.
+```
 
 **Options:**
 - **(A)** 3
@@ -573,6 +1477,50 @@ the same rule.
 Wheel 1: T = 4, R = 1, B = 3, L = 2, Centre = 40 
 Wheel 2: T = 6, R = 2, B = 2, L = 3, Centre = 39 
 Wheel 3: T = 5, R = 3, B = 4, L = 1, Centre = ?
+
+
+**Visual Schematic / Puzzle Diagram:**
+```
+      Wheel 1              Wheel 2              Wheel 3
+        [ 4 ]                [ 6 ]                [ 5 ]
+          │                    │                    │
+  [ 2 ]─( 40 )─[ 1 ]   [ 3 ]─( 39 )─[ 2 ]   [ 1 ]─(  ?  )─[ 3 ]
+          │                    │                    │
+        [ 3 ]                [ 2 ]                [ 4 ]
+```
+
+
+**Visual Schematic / Puzzle Diagram:**
+```
+      Wheel 1              Wheel 2              Wheel 3
+        [ 4 ]                [ 6 ]                [ 5 ]
+          │                    │                    │
+  [ 2 ]─( 40 )─[ 1 ]   [ 3 ]─( 39 )─[ 2 ]   [ 1 ]─(  ?  )─[ 3 ]
+          │                    │                    │
+        [ 3 ]                [ 2 ]                [ 4 ]
+```
+
+
+**Visual Schematic / Puzzle Diagram:**
+```
+      Wheel 1              Wheel 2              Wheel 3
+        [ 4 ]                [ 6 ]                [ 5 ]
+          │                    │                    │
+  [ 2 ]─( 40 )─[ 1 ]   [ 3 ]─( 39 )─[ 2 ]   [ 1 ]─(  ?  )─[ 3 ]
+          │                    │                    │
+        [ 3 ]                [ 2 ]                [ 4 ]
+```
+
+
+**Visual Schematic / Puzzle Diagram:**
+```
+      Wheel 1              Wheel 2              Wheel 3
+        [ 4 ]                [ 6 ]                [ 5 ]
+          │                    │                    │
+  [ 2 ]─( 40 )─[ 1 ]   [ 3 ]─( 39 )─[ 2 ]   [ 1 ]─(  ?  )─[ 3 ]
+          │                    │                    │
+        [ 3 ]                [ 2 ]                [ 4 ]
+```
 
 **Options:**
 - **(A)** 65
@@ -604,6 +1552,54 @@ Matrix logic. Find the missing number.
 9 
 ?
 
+
+**Visual Schematic / Puzzle Diagram:**
+```
+┌───┬────┬────┐
+│ 5 │  7 │ 18 │
+├───┼────┼────┤
+│ 6 │ 11 │ 25 │
+├───┼────┼────┤
+│ 8 │  9 │  ? │
+└───┴────┴────┘
+```
+
+
+**Visual Schematic / Puzzle Diagram:**
+```
+┌───┬────┬────┐
+│ 5 │  7 │ 18 │
+├───┼────┼────┤
+│ 6 │ 11 │ 25 │
+├───┼────┼────┤
+│ 8 │  9 │  ? │
+└───┴────┴────┘
+```
+
+
+**Visual Schematic / Puzzle Diagram:**
+```
+┌───┬────┬────┐
+│ 5 │  7 │ 18 │
+├───┼────┼────┤
+│ 6 │ 11 │ 25 │
+├───┼────┼────┤
+│ 8 │  9 │  ? │
+└───┴────┴────┘
+```
+
+
+**Visual Schematic / Puzzle Diagram:**
+```
+┌───┬────┬────┐
+│ 5 │  7 │ 18 │
+├───┼────┼────┤
+│ 6 │ 11 │ 25 │
+├───┼────┼────┤
+│ 8 │  9 │  ? │
+└───┴────┴────┘
+```
+
 **Options:**
 - **(A)** 55
 - **(B)** 73
@@ -624,6 +1620,42 @@ Matrix logic. Find the missing number.
 
 **Puzzle Statement:**
 Pattern. Find the next term: 2, 10, 30, 68, 130, ?
+
+
+**Visual Schematic / Puzzle Diagram:**
+```
+Terms:         2       10       30       68       130       [ 222 ]
+               │        │        │        │         │           │
+Formula:     1³+1     2³+2     3³+3     4³+4      5³+5        6³+6
+             1 + 1    8 + 2   27 + 3   64 + 4   125 + 5     216 + 6
+```
+
+
+**Visual Schematic / Puzzle Diagram:**
+```
+Terms:         2       10       30       68       130       [ 222 ]
+               │        │        │        │         │           │
+Formula:     1³+1     2³+2     3³+3     4³+4      5³+5        6³+6
+             1 + 1    8 + 2   27 + 3   64 + 4   125 + 5     216 + 6
+```
+
+
+**Visual Schematic / Puzzle Diagram:**
+```
+Terms:         2       10       30       68       130       [ 222 ]
+               │        │        │        │         │           │
+Formula:     1³+1     2³+2     3³+3     4³+4      5³+5        6³+6
+             1 + 1    8 + 2   27 + 3   64 + 4   125 + 5     216 + 6
+```
+
+
+**Visual Schematic / Puzzle Diagram:**
+```
+Terms:         2       10       30       68       130       [ 222 ]
+               │        │        │        │         │           │
+Formula:     1³+1     2³+2     3³+3     4³+4      5³+5        6³+6
+             1 + 1    8 + 2   27 + 3   64 + 4   125 + 5     216 + 6
+```
 
 **Options:**
 - **(A)** 222
@@ -647,6 +1679,58 @@ Section 6: Grammar
 Matchstick. A 3 × 3 grid of unit squares is built from 24 matchsticks and contains 14 squares in total 
 (nine 1×1, four 2×2 and one 3×3). What is the minimum number of sticks that must be removed so that 
 exactly 2 complete squares remain?
+
+
+**Visual Schematic / Puzzle Diagram:**
+```
+   +---+---+---+
+   | 1 | 2 | 3 |
+   +---+---+---+
+   | 4 | 5 | 6 |
+   +---+---+---+
+   | 7 | 8 | 9 |
+   +---+---+---+
+   3×3 grid of 9 unit squares made of 24 matchsticks.
+```
+
+
+**Visual Schematic / Puzzle Diagram:**
+```
+   +---+---+---+
+   | 1 | 2 | 3 |
+   +---+---+---+
+   | 4 | 5 | 6 |
+   +---+---+---+
+   | 7 | 8 | 9 |
+   +---+---+---+
+   3×3 grid of 9 unit squares made of 24 matchsticks.
+```
+
+
+**Visual Schematic / Puzzle Diagram:**
+```
+   +---+---+---+
+   | 1 | 2 | 3 |
+   +---+---+---+
+   | 4 | 5 | 6 |
+   +---+---+---+
+   | 7 | 8 | 9 |
+   +---+---+---+
+   3×3 grid of 9 unit squares made of 24 matchsticks.
+```
+
+
+**Visual Schematic / Puzzle Diagram:**
+```
+   +---+---+---+
+   | 1 | 2 | 3 |
+   +---+---+---+
+   | 4 | 5 | 6 |
+   +---+---+---+
+   | 7 | 8 | 9 |
+   +---+---+---+
+   3×3 grid of 9 unit squares made of 24 matchsticks.
+```
 
 **Options:**
 - **(A)** 4
@@ -673,6 +1757,50 @@ Wheel 1: T = 3, R = 4, B = 5, L = 2, Centre = 9
 Wheel 2: T = 6, R = 2, B = 4, L = 5, Centre = 17 
 Wheel 3: T = 7, R = 3, B = 2, L = 6, Centre = ?
 
+
+**Visual Schematic / Puzzle Diagram:**
+```
+      Wheel 1              Wheel 2              Wheel 3
+        [ 3 ]                [ 6 ]                [ 7 ]
+          │                    │                    │
+  [ 2 ]─(  9  )─[ 4 ]   [ 5 ]─( 17 )─[ 2 ]   [ 6 ]─(  ?  )─[ 3 ]
+          │                    │                    │
+        [ 5 ]                [ 4 ]                [ 2 ]
+```
+
+
+**Visual Schematic / Puzzle Diagram:**
+```
+      Wheel 1              Wheel 2              Wheel 3
+        [ 3 ]                [ 6 ]                [ 7 ]
+          │                    │                    │
+  [ 2 ]─(  9  )─[ 4 ]   [ 5 ]─( 17 )─[ 2 ]   [ 6 ]─(  ?  )─[ 3 ]
+          │                    │                    │
+        [ 5 ]                [ 4 ]                [ 2 ]
+```
+
+
+**Visual Schematic / Puzzle Diagram:**
+```
+      Wheel 1              Wheel 2              Wheel 3
+        [ 3 ]                [ 6 ]                [ 7 ]
+          │                    │                    │
+  [ 2 ]─(  9  )─[ 4 ]   [ 5 ]─( 17 )─[ 2 ]   [ 6 ]─(  ?  )─[ 3 ]
+          │                    │                    │
+        [ 5 ]                [ 4 ]                [ 2 ]
+```
+
+
+**Visual Schematic / Puzzle Diagram:**
+```
+      Wheel 1              Wheel 2              Wheel 3
+        [ 3 ]                [ 6 ]                [ 7 ]
+          │                    │                    │
+  [ 2 ]─(  9  )─[ 4 ]   [ 5 ]─( 17 )─[ 2 ]   [ 6 ]─(  ?  )─[ 3 ]
+          │                    │                    │
+        [ 5 ]                [ 4 ]                [ 2 ]
+```
+
 **Options:**
 - **(A)** 14
 - **(B)** 18
@@ -694,6 +1822,42 @@ Wheel 3: T = 7, R = 3, B = 2, L = 6, Centre = ?
 **Puzzle Statement:**
 Number combination. In the addition SEND + MORE = MONEY, each letter stands for a different digit 
 (0–9), and S and M are not zero. What is the value of D + E + Y?
+
+
+**Visual Schematic / Puzzle Diagram:**
+```
+      S  E  N  D         9  5  6  7
+   +  M  O  R  E      +  1  0  8  5
+   ─────────────      ─────────────
+   M  O  N  E  Y      1  0  6  5  2
+```
+
+
+**Visual Schematic / Puzzle Diagram:**
+```
+      S  E  N  D         9  5  6  7
+   +  M  O  R  E      +  1  0  8  5
+   ─────────────      ─────────────
+   M  O  N  E  Y      1  0  6  5  2
+```
+
+
+**Visual Schematic / Puzzle Diagram:**
+```
+      S  E  N  D         9  5  6  7
+   +  M  O  R  E      +  1  0  8  5
+   ─────────────      ─────────────
+   M  O  N  E  Y      1  0  6  5  2
+```
+
+
+**Visual Schematic / Puzzle Diagram:**
+```
+      S  E  N  D         9  5  6  7
+   +  M  O  R  E      +  1  0  8  5
+   ─────────────      ─────────────
+   M  O  N  E  Y      1  0  6  5  2
+```
 
 **Options:**
 - **(A)** 14
@@ -724,6 +1888,54 @@ Matrix logic. Find the missing number.
 7 
 8 
 ?
+
+
+**Visual Schematic / Puzzle Diagram:**
+```
+┌───┬───┬────┐
+│ 3 │ 4 │  5 │
+├───┼───┼────┤
+│ 5 │ 6 │ 19 │
+├───┼───┼────┤
+│ 7 │ 8 │  ? │
+└───┴───┴────┘
+```
+
+
+**Visual Schematic / Puzzle Diagram:**
+```
+┌───┬───┬────┐
+│ 3 │ 4 │  5 │
+├───┼───┼────┤
+│ 5 │ 6 │ 19 │
+├───┼───┼────┤
+│ 7 │ 8 │  ? │
+└───┴───┴────┘
+```
+
+
+**Visual Schematic / Puzzle Diagram:**
+```
+┌───┬───┬────┐
+│ 3 │ 4 │  5 │
+├───┼───┼────┤
+│ 5 │ 6 │ 19 │
+├───┼───┼────┤
+│ 7 │ 8 │  ? │
+└───┴───┴────┘
+```
+
+
+**Visual Schematic / Puzzle Diagram:**
+```
+┌───┬───┬────┐
+│ 3 │ 4 │  5 │
+├───┼───┼────┤
+│ 5 │ 6 │ 19 │
+├───┼───┼────┤
+│ 7 │ 8 │  ? │
+└───┴───┴────┘
+```
 
 **Options:**
 - **(A)** 41
