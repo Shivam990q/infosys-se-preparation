@@ -75,3 +75,16 @@
 | 4 | **Infosys SE Mock Paper 4** | 11 | [Infosys_SE_Mock_Paper_4.pdf](05_College_ITM_Mock_Papers/Infosys_SE_Mock_Paper_4.pdf) |
 | 5 | **Infosys SE Mock Paper 5** | 11 | [Infosys_SE_Mock_Paper_5.pdf](05_College_ITM_Mock_Papers/Infosys_SE_Mock_Paper_5.pdf) |
 | 6 | **Infosys SE Mock Paper 6** | 11 | [Infosys_SE_Mock_Paper_6.pdf](05_College_ITM_Mock_Papers/Infosys_SE_Mock_Paper_6.pdf) |
+| 7 | **Infosys SE Mock Paper 7** | 11 | [Infosys_SE_Mock_Paper_7.pdf](05_College_ITM_Mock_Papers/Infosys_SE_Mock_Paper_7.pdf) |
+
+### 🎯 5.1 Extracted Topic Compendiums & Master Simulation
+- [Master 420Q Database (JSON)](05_College_ITM_Mock_Papers/MASTER_INFOSYS_ITM_MOCK_PAPERS_420Q_DATABASE.json)
+- [Master ITM Papers 01-07 Full Exam Simulations](05_College_ITM_Mock_Papers/Topic_08_Master_ITM_Papers_01_to_07_Full_Exam_Simulations.md)
+- [Section I: Reasoning Ability (105 Qs)](05_College_ITM_Mock_Papers/Topic_01_Reasoning_Ability_105Q_Compendium.md)
+- [Section II: Quantitative Aptitude (70 Qs)](05_College_ITM_Mock_Papers/Topic_02_Quantitative_Aptitude_70Q_Compendium.md)
+- [Section III: Verbal Ability (140 Qs)](05_College_ITM_Mock_Papers/Topic_03_Verbal_Ability_140Q_Compendium.md)
+- [Section IV: Pseudo Code (35 Qs)](05_College_ITM_Mock_Papers/Topic_04_Pseudo_Code_35Q_Compendium.md)
+- [Section V: Numeric Puzzle Solving (28 Qs)](05_College_ITM_Mock_Papers/Topic_05_Numeric_Puzzle_Solving_28Q_Compendium.md)
+- [Section VI: English Grammar (35 Qs)](05_College_ITM_Mock_Papers/Topic_06_English_Grammar_35Q_Compendium.md)
+- [Section VII: English Writing (7 Model Essays/Emails)](05_College_ITM_Mock_Papers/Topic_07_English_Writing_7_Model_Essays_and_Emails.md)
+- [Master Curriculum Overview & Pacing Guide](05_College_ITM_Mock_Papers/Topic_09_Master_ITM_Curriculum_Overview_and_Pacing_Guide.md)
