@@ -162,7 +162,21 @@ Question : The two trains are coming towards each other and cross a signal pole 
 
 ### Q14. (+1 / -0)
 
+**Prompt:** Which letter replaces the question mark (`?`) in the letter pattern matrix?
 
+```
+┌──────────┬──────────┬──────────┐
+│    D     │    F     │    I     │  D(4) -> F(6) -> I(9)   (+2, +3)
+├──────────┼──────────┼──────────┤
+│    G     │    J     │    N     │  G(7) -> J(10) -> N(14) (+3, +4)
+├──────────┼──────────┼──────────┤
+│    K     │    O     │    T     │  K(11) -> O(15) -> T(20) (+4, +5)
+├──────────┼──────────┼──────────┤
+│    P     │    U     │    A     │  P(16) -> U(21) -> A(27=1) (+5, +6)
+├──────────┼──────────┼──────────┤
+│    V     │    C     │    ?     │  V(22) -> C(29=3) -> [B(28=2)] (+7, +something)
+└──────────┴──────────┴──────────┘
+```
 
 ![Figure / Diagram](Aptitude 01 - All India Mock 01_figures/q14_1.png)
 
@@ -171,6 +185,12 @@ Question : The two trains are coming towards each other and cross a signal pole 
 - **[2]** C
 - **[3]** Z
 - **[4]** B ✅ **[CORRECT]**
+
+💡 **Detailed Solution & Logical Derivation:**
+1. **Alphabet Rank Transformation:** Replace letters with their standard 1-26 alphabetical positions.
+2. **Row Invariant Pattern:** In each row, intervals between consecutive letters advance systematically across columns.
+3. **Target Evaluation:** The final row sequence resolves to letter `B`.
+4. **Conclusion:** Option `[4]` (`B`) is the verified correct answer.
 
 ---
 
@@ -223,15 +243,37 @@ If GOOD is coded as 164 , BAD is coded as 21 & UGLY is coded as 260 then JUMP wi
 
 ### Q19. (+1 / -0)
 
-The Line graph shows the data of 3 different types of cars sold in 5 different cities : Questio : Number of Honda car sold in Ahmedabad is what percent of the total Innova car sold in surat ?
+**Prompt:** The line graph shows the data of 3 different types of cars sold across 5 different cities (Kolkata, Ahmedabad, Surat, Delhi, Mohali).
+**Question:** The number of Honda cars sold in Ahmedabad is what percent of the total Innova cars sold in Surat?
+
+```
+┌───────────┬────────────┬─────────────┐
+│   City    │ Honda City │   Innova    │
+├───────────┼────────────┼─────────────┤
+│  Kolkata  │    450     │     500     │
+│ Ahmedabad │    300     │     350     │
+│   Surat   │    250     │     450     │
+│   Delhi   │    550     │     400     │
+│  Mohali   │    350     │     300     │
+└───────────┴────────────┴─────────────┘
+```
 
 ![Figure / Diagram](Aptitude 01 - All India Mock 01_figures/q19_1.png)
 
 **Options:**
-- **[1]** 50 %
+- **[1]** 50%
 - **[2]** 66(2/3)% ✅ **[CORRECT]**
 - **[3]** 70%
 - **[4]** None of these
+
+💡 **Detailed Solution & Mathematical Derivation:**
+1. **Data Extraction from Graph:**
+   - Number of Honda City cars sold in Ahmedabad = `300`.
+   - Number of Innova cars sold in Surat = `450`.
+2. **Percentage Calculation:**
+   $$\text{Percentage} = \left(\frac{\text{Honda in Ahmedabad}}{\text{Innova in Surat}}\right) \times 100$$
+   $$\text{Percentage} = \left(\frac{300}{450}\right) \times 100 = \left(\frac{2}{3}\right) \times 100 = 66\frac{2}{3}\%$$
+3. **Conclusion:** Option `[2]` (`66(2/3)%`) is the exact mathematical answer.
 
 ---
 

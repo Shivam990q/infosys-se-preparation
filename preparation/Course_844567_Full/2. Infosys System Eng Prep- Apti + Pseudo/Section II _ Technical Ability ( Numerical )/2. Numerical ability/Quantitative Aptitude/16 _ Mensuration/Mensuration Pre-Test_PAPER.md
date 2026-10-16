@@ -40,12 +40,31 @@ The length and breadth ratio of an auditorium is 3: 2. If the roof area is 216 s
 
 ### Q4. (+4 / -0)
 
-
+**Prompt:** The area of the four walls of a room is $108\text{ m}^2$. If the height and length of the room are in the ratio of $2 : 5$ and the height and breadth are in the ratio $4 : 5$, then the area, in $\text{m}^2$, of the floor of the room is:
 
 ![Figure / Diagram](Mensuration Pre-Test_figures/q4_1.png)
 
 **Options:**
-- **[1]** undefined
+- **[1]** 40
+- **[2]** 45 ✅ **[CORRECT]**
+- **[3]** 50
+- **[4]** 54
+
+💡 **Detailed Solution & Mathematical Derivation:**
+1. **Four Walls Area Formula:**
+   $$\text{Area of 4 walls} = 2h(l + b) = 108\text{ m}^2$$
+2. **Dimension Ratios in terms of Height ($h$):**
+   - $h : l = 2 : 5 \implies l = \frac{5}{2}h$
+   - $h : b = 4 : 5 \implies b = \frac{5}{4}h$
+3. **Substitute into Area Formula:**
+   $$2h\left(\frac{5}{2}h + \frac{5}{4}h\right) = 108$$
+   $$2h\left(\frac{10 + 5}{4}h\right) = 108$$
+   $$2h\left(\frac{15}{4}h\right) = 108 \implies \frac{15}{2}h^2 = 108$$
+   $$h^2 = \frac{108 \times 2}{15} = \frac{216}{15} = 14.4$$
+4. **Area of the Floor ($l \times b$):**
+   $$\text{Area of floor} = l \times b = \left(\frac{5}{2}h\right) \times \left(\frac{5}{4}h\right) = \frac{25}{8}h^2$$
+   $$\text{Area of floor} = \frac{25}{8} \times 14.4 = 25 \times 1.8 = 45\text{ m}^2$$
+5. **Conclusion:** Option `[2]` (`45`) is the verified mathematical answer.
 
 ---
 

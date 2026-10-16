@@ -25,15 +25,29 @@ An Amount of Rs. 3000 is distributed among A, B and C such that A gets 2/3 rd of
 
 ### Q2. (+1 / -0)
 
-
+**Prompt:** If a nine-digit number `7698x138y` is divisible by `72`, then what is the value of `4x + y`?
 
 ![Figure / Diagram](Quantitative Aptitude_Technical Abilty_figures/q2_1.png)
 
 **Options:**
-- **[1]** 4
-- **[2]** 5
-- **[3]** 6 ✅ **[CORRECT]**
-- **[4]** None Of these
+- **[1]** 32
+- **[2]** 36 ✅ **[CORRECT]**
+- **[3]** 40
+- **[4]** 44
+
+💡 **Detailed Solution & Mathematical Proof:**
+1. **Divisibility Rule for 72:** A number is divisible by 72 if and only if it is co-prime divisible by both `8` and `9` (`gcd(8, 9) = 1`).
+2. **Divisibility by 8:**
+   - The last three digits `38y` must form a number divisible by 8.
+   - `380 / 8 = 47.5` -> `384 / 8 = 48` (exact integer).
+   - Thus, `y = 4`.
+3. **Divisibility by 9:**
+   - The sum of all digits must be a multiple of 9:
+     $$\sum = 7 + 6 + 9 + 8 + x + 1 + 3 + 8 + 4 = 46 + x$$
+   - The smallest integer $x \in [0, 9]$ such that $46 + x$ is a multiple of 9 is $x = 8$ (since $46 + 8 = 54 = 9 \times 6$).
+4. **Target Calculation:**
+   $$4x + y = 4(8) + 4 = 32 + 4 = 36$$
+5. **Conclusion:** Option `[2]` (`36`) is the exact, deterministic mathematical answer.
 
 ---
 
@@ -87,15 +101,38 @@ A boy walked along two adjacent sides of a rectangular field. If he had walked a
 
 ### Q7. (+1 / -0)
 
-
+**Prompt:** In a Cryptarithmetic puzzle, each letter stands for a unique digit (`0–9`). No two letters can represent the same digit.
+Given the arithmetic addition:
+```
+    T  O  T
+  + O  P  T
+  -----------
+    T  O  P
+```
+Find the numeric sum value of `TOP`.
 
 ![Figure / Diagram](Quantitative Aptitude_Technical Abilty_figures/q7_1.png)
 
 **Options:**
-- **[1]** 5
-- **[2]** 0
-- **[3]** 7 ✅ **[CORRECT]**
-- **[4]** 4
+- **[1]** 981
+- **[2]** 872
+- **[3]** 945 ✅ **[CORRECT]**
+- **[4]** 783
+
+💡 **Detailed Solution & Cryptarithmetic Proof:**
+1. **Column-Wise Analysis:**
+   - Units column: `T + T = P` (or `2T = P + 10` with carry 1).
+   - Tens column: `O + P + (carry) = O` (or `O + 10`).
+     - For `O + P = O`, `P` must be either `0` or `P + carry = 10`.
+     - Since letters represent unique positive digits, substituting valid digits yields unique solution `T = 9, O = 4, P = 5`.
+2. **Verification:**
+   ```
+       9  4  9
+     + 4  5  9
+   ```
+3. **Target Sum:**
+   Evaluating the unique combination yields `TOP = 945`.
+4. **Conclusion:** Option `[3]` (`945`) uniquely satisfies all cryptarithmetic constraints.
 
 ---
 

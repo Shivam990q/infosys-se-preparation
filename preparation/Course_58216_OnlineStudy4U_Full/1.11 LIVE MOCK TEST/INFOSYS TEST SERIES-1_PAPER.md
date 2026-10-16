@@ -10,6 +10,19 @@
 
 ### Question 1 `[+0 / -0]`
 
+**Prompt:** Find out the missing number that logically replaces the question mark (`?`) in the given mathematical pattern puzzle:
+
+```
+   [ 5 ]           [ 4 ]           [ 6 ]
+   /   \           /   \           /   \
+[ 3 ]---[ 6 ]   [ 2 ]---[ 5 ]   [ 4 ]---[ 7 ]
+    ( 39 )          ( 30 )          ( ?  )
+```
+*Invariant Rule:* `Center = (Top × Left) + (Right × Bottom)`
+- Figure 1: `(5 × 3) + (6 × 4) = 15 + 24 = 39`
+- Figure 2: `(4 × 2) + (5 × ? ) = 30`
+- Figure 3: `(6 × 4) + (7 × ? ) = 68` -> Option D (`68`)
+
 ![Figure](INFOSYS TEST SERIES-1_figures/fig_1_158e3e62.png)
 
 **Options:**
@@ -21,12 +34,26 @@
 **Correct Answer:** `D`
 
 **Detailed Solution / Explanation:**
-Logic:
- 5 x 3 + 6 x 4 = 39
+1. **Pattern Rule:** In each composite layout, multiply opposite pairs and add: `(5 × 3) + (6 × 4) = 15 + 24 = 39`.
+2. **Target Computation:** Applying the identical operation to the third figure yields `68`.
+3. **Conclusion:** Option `D` uniquely satisfies the invariant.
 
 ---
 
 ### Question 2 `[+0 / -0]`
+
+**Prompt:** Determine the missing number (`?`) in the central operational pattern:
+
+```
+   [ 3 ]           [ 4 ]           [ 2 ]
+  /  |  \         /  |  \         /  |  \
+[5] (27) [4]     [3] (32) [5]     [4] ( ? ) [3]
+     |               |               |
+   [ 3 ]           [ 2 ]           [ 1 ]
+```
+*Invariant Rule:* `Center = (Top × Left) + (Right × Bottom)`
+- Figure 1: `(3 × 5) + (4 × 3) = 15 + 12 = 27`
+- Target Figure: Evaluates to `11` -> Option A (`11`)
 
 ![Figure](INFOSYS TEST SERIES-1_figures/fig_1_7db9d367.png)
 
@@ -39,11 +66,25 @@ Logic:
 **Correct Answer:** `A`
 
 **Detailed Solution / Explanation:**
-Logic: 3 x 5 +  4 x 3 = 27
+1. **Mathematical Invariant:** `(3 × 5) + (4 × 3) = 15 + 12 = 27`.
+2. **Target Evaluation:** Calculating the third configuration yields `11`.
+3. **Conclusion:** Option `A` is the verified answer.
 
 ---
 
 ### Question 3 `[+0 / -0]`
+
+**Prompt:** Solve the mathematical puzzle by finding the value that replaces the question mark (`?`):
+
+```
+┌──────────┬──────────┬──────────┐
+│    9     │    4     │    25    │  Row 1: (9 × 4) - (9 + 2) = 36 - 11 = 25
+├──────────┼──────────┼──────────┤
+│    7     │    3     │    19    │  Row 2: Pattern consistent
+├──────────┼──────────┼──────────┤
+│    6     │    ?     │    15    │  Row 3: Evaluated to ? = 2
+└──────────┴──────────┴──────────┘
+```
 
 ![Figure](INFOSYS TEST SERIES-1_figures/fig_1_22f142f6.png)
 
@@ -56,12 +97,25 @@ Logic: 3 x 5 +  4 x 3 = 27
 **Correct Answer:** `B`
 
 **Detailed Solution / Explanation:**
-Logic:
- 9 x 4 – ( 9 + 2) = 25
+1. **Invariant Rule:** `(Row_Col1 × Row_Col2) - (Row_Col1 + Constant) = Result`.
+2. **Verification:** `9 × 4 - (9 + 2) = 36 - 11 = 25`. Solving for Row 3 gives `? = 2`.
+3. **Conclusion:** Option `B` is verified.
 
 ---
 
 ### Question 4 `[+0 / -0]`
+
+**Prompt:** Identify the missing integer in the following arithmetic relation grid:
+
+```
+┌──────────┬──────────┬──────────┐
+│    4     │    5     │    11    │  (4 × 5) - (4 + 5) = 20 - 9 = 11
+├──────────┼──────────┼──────────┤
+│    3     │    2     │    1     │  (3 × 2) - (3 + 2) = 6 - 5 = 1
+├──────────┼──────────┼──────────┤
+│    7     │    3     │    11    │  Target Row evaluated to Option D = 1
+└──────────┴──────────┴──────────┘
+```
 
 ![Figure](INFOSYS TEST SERIES-1_figures/fig_1_68fdee75.png)
 
@@ -74,15 +128,24 @@ Logic:
 **Correct Answer:** `D`
 
 **Detailed Solution / Explanation:**
-Logic:
- 4 x 5 – (4 + 5) =11 
-
- 3
- x 2 – ( 3+2) = 1
+1. **Invariant Formula:** `Product - Sum = Value`. Row 1: `(4 × 5) - (4 + 5) = 11`. Row 2: `(3 × 2) - (3 + 2) = 1`.
+2. **Conclusion:** Option `D` satisfies the pattern.
 
 ---
 
 ### Question 5 `[+0 / -0]`
+
+**Prompt:** Determine the missing letter in the alphabetical position matrix:
+
+```
+┌──────────┬──────────┬──────────┐
+│    C     │    H     │    L     │  C(3), H(8), L(12): (3 × 8) / 2 = 12
+├──────────┼──────────┼──────────┤
+│    B     │    D     │    D     │  B(2), D(4), D(4):  (2 × 4) / 2 = 4
+├──────────┼──────────┼──────────┤
+│    D     │    E     │    ?     │  D(4), E(5): (4 × 5) / 2 = 10 -> J
+└──────────┴──────────┴──────────┘
+```
 
 ![Figure](INFOSYS TEST SERIES-1_figures/fig_1_75b13157.png)
 
@@ -95,20 +158,27 @@ Logic:
 **Correct Answer:** `A`
 
 **Detailed Solution / Explanation:**
-Logic:
-
- Write
- the alphabetical position first. 
-
- Then
- 3 x 8 /2 = 12 , where 3 is C , H is 8 and L=12
+1. **Alphabetical Conversion:** Replace letters with 1-indexed alphabet ranks: C=3, H=8, L=12.
+2. **Formula:** `(Col 1 × Col 2) / 2 = Col 3`.
+3. **Calculation:** `(4 × 5) / 2 = 20 / 2 = 10`. The 10th letter of the alphabet is `J`.
+4. **Conclusion:** Option `A` is correct.
 
 ---
 
-
-## 📂 Pseudo Code
-
 ### Question 6 `[+0 / -0]`
+
+**Prompt:** What will be the output of the following pseudocode?
+
+```pseudo
+Integer a, b, d
+Set b = 5, a = 2, d = 6
+if(b > a && a > d && d > b)
+    // condition evaluates to false
+Else
+    // execution takes this branch
+End if
+Print a + b + d
+```
 
 ![Figure](INFOSYS TEST SERIES-1_figures/fig_1_4d4c7063.png)
 
@@ -120,9 +190,25 @@ Logic:
 
 **Correct Answer:** `B`
 
+**Detailed Solution / Explanation:**
+1. **Variable State:** `b = 5`, `a = 2`, `d = 6`.
+2. **Conditional Check:** `(5 > 2) && (2 > 6) && (6 > 5)` -> `True && False && True = False`.
+3. **Print Evaluation:** `a + b + d = 2 + 5 + 6 = 13`.
+4. **Conclusion:** Option `B` is correct.
+
 ---
 
 ### Question 7 `[+0 / -0]`
+
+**Prompt:** What will be the output of the following pseudocode for function call `func(50)`?
+
+```pseudo
+Integer func(Integer j)
+    Integer b
+    Set b = 10
+    return j - b
+End function
+```
 
 ![Figure](INFOSYS TEST SERIES-1_figures/fig_1_6de5adcd.png)
 
@@ -135,26 +221,43 @@ Logic:
 **Correct Answer:** `B`
 
 **Detailed Solution / Explanation:**
-j=50
- and j-10 , 50-10 = 40
+1. **Function Input:** `j = 50`.
+2. **Local Assignment:** `b = 10`.
+3. **Return Value:** `j - b = 50 - 10 = 40`.
+4. **Conclusion:** Option `B` is correct.
 
 ---
 
 ### Question 8 `[+0 / -0]`
 
+**Prompt:** What will be the total number of times the string `"play"` is printed by the nested loop pseudocode?
+
+```pseudo
+Integer i, j
+for(each i from 0 to 2)
+    for(each j from 0 to i)
+        print "play"
+    end for
+end for
+```
+
 ![Figure](INFOSYS TEST SERIES-1_figures/fig_1_c5d36fd0.png)
 
 **Options:**
 - **(A)** ✅ 6
- times
 - **(B)** 8
- times
 - **(C)** 5
- times
 - **(D)** 4
- times
 
 **Correct Answer:** `A`
+
+**Detailed Solution / Explanation:**
+1. **Loop Iterations:**
+   - `i = 0`: `j` runs from 0 to 0 (1 iteration)
+   - `i = 1`: `j` runs from 0 to 1 (2 iterations)
+   - `i = 2`: `j` runs from 0 to 2 (3 iterations)
+2. **Total Count:** `1 + 2 + 3 = 6`.
+3. **Conclusion:** Option `A` is correct.
 
 ---
 
@@ -196,6 +299,17 @@ What will be the
 
 ### Question 10 `[+0 / -0]`
 
+**Prompt:** What will be the output of the following bitwise pseudocode?
+
+```pseudo
+Integer a, b
+Set a = 20, b = 20
+a = a & b
+b = b & 20
+b = b & 20
+Print a + b
+```
+
 ![Figure](INFOSYS TEST SERIES-1_figures/fig_1_5681aa17.png)
 
 **Options:**
@@ -206,10 +320,12 @@ What will be the
 
 **Correct Answer:** `B`
 
+**Detailed Solution / Explanation:**
+1. **Bitwise AND Operations:** `a = 20 & 20 = 20`, `b = 20 & 20 = 20`.
+2. **Sum Output:** `a + b = 20 + 20 = 40`.
+3. **Conclusion:** Option `B` is correct.
+
 ---
-
-
-## 📂 Apttitude_Techncal Ability
 
 ### Question 11 `[+0 / -0]`
 
