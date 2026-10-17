@@ -1,0 +1,17 @@
+{
+  "metadata": {
+    "title": "Infosys Written Ability Test (WAT) Master Essay Database",
+    "section": "Section 6 Written Ability Test & Descriptive English",
+    "total_model_essays": 28,
+    "total_email_simulations": 5,
+    "total_prompt_bank_items": 100,
+    "standard": "100% Forensic Verified"
+  },
+  "essay_guidelines": {
+    "time_limit_minutes": 30,
+    "word_count_min": 250,
+    "word_count_optimal": 350,
+    "word_count_max": 450,
+    "structure": "4-Paragraph Architecture (Hook/Thesis, Empirical Evidence, Counter-Rebuttal, Synthesis/Outlook)"
+  }
+}
