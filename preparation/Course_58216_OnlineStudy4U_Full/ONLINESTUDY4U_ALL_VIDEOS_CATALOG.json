@@ -1,5 +1,5 @@
 {
-  "totalVideos": 379,
+  "totalVideos": 380,
   "videos": [
     {
       "id": 179369074,
@@ -523,12 +523,12 @@
     },
     {
       "id": 104651795,
-      "name": "Topic 22.1:🔥TCS Quadratic Equation - Zero to Hero _ _ Score 2-3 Marks in TCS _ 🔥",
+      "name": "Topic 22.1:\ud83d\udd25TCS Quadratic Equation - Zero to Hero _ _ Score 2-3 Marks in TCS _ \ud83d\udd25",
       "duration": "01:09:50",
       "folderPath": "1.3 Aptitude/Numerical Ability / Aptitude Videos",
       "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/78392/cc/d2c9a1b1262549abadbf8883fa25f291-vd/thumbnail.png",
       "localThumbnail": "Video_Thumbnails/video_104651795.png",
-      "description": "🔥TCS Quadratic Equation - Zero to Hero _ _ Score 2-3 Marks in TCS _ 🔥",
+      "description": "\ud83d\udd25TCS Quadratic Equation - Zero to Hero _ _ Score 2-3 Marks in TCS _ \ud83d\udd25",
       "createdAt": "2025-01-03T10:07:15.000Z"
     },
     {
@@ -3243,7 +3243,7 @@
     },
     {
       "id": 146665951,
-      "name": "Class 5: Aptitude – Important Questions",
+      "name": "Class 5: Aptitude \u2013 Important Questions",
       "duration": "00:43:38",
       "folderPath": "1.10 Live Classes Recording New Batch / Aptitude_Reasoning_Classes / Aptitude_Classes_By_PratikSir",
       "thumbnailUrl": "https://akamai-cdn.classplusapp.com/azure/sa2/media/78392/cc/a0e0c430a5754fe194d4d20d6f80c8c7-9p/thumbnail.png",
@@ -3790,6 +3790,16 @@
       "localThumbnail": "Video_Thumbnails/video_18478352.jpeg",
       "description": "",
       "createdAt": "2022-03-04T15:36:12.000Z"
+    },
+    {
+      "id": 179728639,
+      "name": "Class 3: DS PYQ",
+      "duration": "00:54:22",
+      "folderPath": "1.10 Live Classes Recording New Batch/Aptitude_Reasoning_Classes/Aptitude_Reasoning_Classes_By_Ankitamam/Reasoning_Classes_By_Ankitamam",
+      "thumbnailUrl": "https://akamai-cdn.classplusapp.com/media/78392/cc/6dcf0623049c44c98afda6d5fb8401dd-8s/thumbnail.png",
+      "localThumbnail": "Video_Thumbnails/video_179728639.png",
+      "description": "",
+      "createdAt": "2026-10-13T22:01:23.000Z"
     }
   ]
 }

@@ -17,8 +17,8 @@
 | **Mock Tests Harvested** | **23** | **23** | 100% Extracted | [`ONLINESTUDY4U_ALL_MOCK_TESTS_MASTER_INDEX.json`](ONLINESTUDY4U_ALL_MOCK_TESTS_MASTER_INDEX.json) |
 | **Questions (with Solutions)** | **906** | **906** | 100% Parsed | 23 `_PAPER.md` & 23 `_QUESTIONS.json` files |
 | **Question Figures / Diagrams** | **172** | **172** | 100% Saved | Local `<TestName>_figures/` folders |
-| **Video Lectures** | **379** | **379** | 100% Cataloged | [`ONLINESTUDY4U_ALL_VIDEOS_CATALOG.json`](ONLINESTUDY4U_ALL_VIDEOS_CATALOG.json) |
-| **Video Thumbnails** | **379** | **379** | 100% Downloaded | `Video_Thumbnails/` |
+| **Video Lectures** | **380** | **380** | 100% Cataloged | [`ONLINESTUDY4U_ALL_VIDEOS_CATALOG.json`](ONLINESTUDY4U_ALL_VIDEOS_CATALOG.json) |
+| **Video Thumbnails** | **380** | **380** | 100% Downloaded | `Video_Thumbnails/` |
 | **Complete Directory Tree** | **1** | **1** | Complete | [`ONLINESTUDY4U_COMPLETE_MASTER_DIRECTORY_TREE.md`](ONLINESTUDY4U_COMPLETE_MASTER_DIRECTORY_TREE.md) |
 
 ---

@@ -2,7 +2,7 @@
 
 > **Course Name:** INFOSYS CRACKER COURSE Based on Latest New Pattern + LIVE CLASS
 > **Platform:** OnlineStudy4U (Org 78392 / Classplus)
-> **Total Catalog Assets:** 1,642 | **Folders:** 54 | **Documents & Screenshots:** 1,186 | **Mock Tests:** 23 | **Videos:** 379
+> **Total Catalog Assets:** 1,643 | **Folders:** 54 | **Documents & Screenshots:** 1,186 | **Mock Tests:** 23 | **Videos:** 380
 
 ---
 
@@ -1542,6 +1542,7 @@
       * 📁 **Reasoning_Classes_By_Ankitamam** `[Folder ID: 58279291]`
         - 🎥 **[VIDEO]** **Class 1: PYQ** | Duration: `01:01:52` | ID: `178946394` | [Local Thumbnail](Video_Thumbnails/video_178946394.png)
         - 🎥 **[VIDEO]** **Class 2: DI_PYQ** | Duration: `01:00:23` | ID: `179507891` | [Local Thumbnail](Video_Thumbnails/video_179507891.png)
+        - 🎥 **[VIDEO]** **Class 3: DS PYQ** | Duration: `00:54:22` | ID: `179728639` | [Local Thumbnail](Video_Thumbnails/video_179728639.png)
   * 📁 **Coding_Classes_C++_Java_Python** `[Folder ID: 46358107]`
     * 📁 **CodingClass_in_Python_PriyanshiMam** `[Folder ID: 46358140]`
       - 🎥 **[VIDEO]** **Class 1: Sorting Algo** | Duration: `01:02:34` | ID: `146665984` | [Local Thumbnail](Video_Thumbnails/video_146665984.png)
@@ -1656,4 +1657,4 @@
 * Total Folders Rendered: **54** (Expected: 54)
 * Total Documents/Screenshots Rendered: **1186** (Expected: 1,186)
 * Total Mock Tests Rendered: **23** (Expected: 23)
-* Total Videos Rendered: **379** (Expected: 379)
+* Total Videos Rendered: **380** (Expected: 380)
