@@ -1,0 +1,55 @@
+{
+  "module": "02_Sectional_Mock_Tests",
+  "total_sections": 7,
+  "papers": [
+    {
+      "section": 1,
+      "title": "Reasoning Ability",
+      "questions": 15,
+      "time_mins": 25,
+      "file": "01_Section_1_Reasoning_Ability_Timed_Sectional_Mocks_15Q.md"
+    },
+    {
+      "section": 2,
+      "title": "Mathematical Ability",
+      "questions": 10,
+      "time_mins": 35,
+      "file": "02_Section_2_Mathematical_Ability_Timed_Sectional_Mocks_10Q.md"
+    },
+    {
+      "section": 3,
+      "title": "Verbal Ability",
+      "questions": 20,
+      "time_mins": 20,
+      "file": "03_Section_3_Verbal_Ability_Timed_Sectional_Mocks_20Q.md"
+    },
+    {
+      "section": 4,
+      "title": "Pseudo Code",
+      "questions": 5,
+      "time_mins": 10,
+      "file": "04_Section_4_Pseudo_Code_Timed_Sectional_Mocks_5Q.md"
+    },
+    {
+      "section": 5,
+      "title": "Puzzle Solving",
+      "questions": 4,
+      "time_mins": 10,
+      "file": "05_Section_5_Puzzle_Solving_Timed_Sectional_Mocks_4Q.md"
+    },
+    {
+      "section": 6,
+      "title": "English Grammar",
+      "questions": 5,
+      "time_mins": 10,
+      "file": "06_Section_6_English_Grammar_Timed_Sectional_Mocks_5Q.md"
+    },
+    {
+      "section": 7,
+      "title": "Written Ability Test",
+      "questions": 1,
+      "time_mins": 15,
+      "file": "07_Section_7_Written_Ability_WAT_Timed_Prompts.md"
+    }
+  ]
+}
