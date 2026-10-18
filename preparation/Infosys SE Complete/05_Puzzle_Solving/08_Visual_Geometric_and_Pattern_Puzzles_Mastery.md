@@ -10,7 +10,7 @@ This compendium contains complete, exhaustive extractions of all visual, geometr
 
 **ID:** `SEC06_PUZ_Q01` | **Topic:** Visual Number Patterns & Geometric Puzzles
 
-![Diagram](file:///C:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/preparation/Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section VI_ Puzzle Solving/EXTRACTED_STRUCTURED_QUESTIONS/images/q1_1.png)
+![Diagram](images/q1_1.png)
 
 **Problem Statement:**
 What will replace the question mark (?) in the third triangle?
@@ -78,7 +78,7 @@ Hence, the missing number is 9 (Option B).
 
 **ID:** `SEC06_PUZ_Q02` | **Topic:** Visual Number Patterns & Geometric Puzzles
 
-![Diagram](file:///C:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/preparation/Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section VI_ Puzzle Solving/EXTRACTED_STRUCTURED_QUESTIONS/images/q2_1.png)
+![Diagram](images/q2_1.png)
 
 **Problem Statement:**
 What number comes inside the circle marked with a question mark (?) in the concentric grid?
@@ -147,7 +147,7 @@ Hence, the missing number is 6 (Option B).
 
 **ID:** `SEC06_PUZ_Q03` | **Topic:** Visual Number Patterns & Geometric Puzzles
 
-![Diagram](file:///C:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/preparation/Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section VI_ Puzzle Solving/EXTRACTED_STRUCTURED_QUESTIONS/images/q3_1.png)
+![Diagram](images/q3_1.png)
 
 **Problem Statement:**
 Which letter replaces the question mark (?) in the octagonal concentric ring?
@@ -189,7 +189,7 @@ Hence, the missing letter is O (Option A).
 
 **ID:** `SEC06_PUZ_Q04` | **Topic:** Visual Number Patterns & Geometric Puzzles
 
-![Diagram](file:///C:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/preparation/Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section VI_ Puzzle Solving/EXTRACTED_STRUCTURED_QUESTIONS/images/q4_1.png)
+![Diagram](images/q4_1.png)
 
 **Problem Statement:**
 Which number replaces the question mark (?) in the paired octagon series?
@@ -229,7 +229,7 @@ Hence, the missing number is 1 (Option A).
 
 **ID:** `SEC06_PUZ_Q05` | **Topic:** Visual Number Patterns & Geometric Puzzles
 
-![Diagram](file:///C:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/preparation/Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section VI_ Puzzle Solving/EXTRACTED_STRUCTURED_QUESTIONS/images/q5_1.png)
+![Diagram](images/q5_1.png)
 
 **Problem Statement:**
 Which number replaces the question mark (?) in the radial tree structure?
@@ -279,7 +279,7 @@ Hence, the missing number is 253 (Option D).
 
 **ID:** `SEC06_PUZ_Q06` | **Topic:** Visual Number Patterns & Geometric Puzzles
 
-![Diagram](file:///C:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/preparation/Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section VI_ Puzzle Solving/EXTRACTED_STRUCTURED_QUESTIONS/images/q6_1.png)
+![Diagram](images/q6_1.png)
 
 **Problem Statement:**
 Which number replaces the question mark (?) in the 2-column segmented ladder?
@@ -323,7 +323,7 @@ Hence, the missing number is 2 (Option C).
 
 **ID:** `SEC06_PUZ_Q07` | **Topic:** Visual Number Patterns & Geometric Puzzles
 
-![Diagram](file:///C:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/preparation/Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section VI_ Puzzle Solving/EXTRACTED_STRUCTURED_QUESTIONS/images/q7_1.png)
+![Diagram](images/q7_1.png)
 
 **Problem Statement:**
 Which number replaces the question mark (?) in the center of the third 5-pointed star?
@@ -385,7 +385,7 @@ Hence, the missing number is 10 (Option B).
 
 **ID:** `SEC06_PUZ_Q08` | **Topic:** Visual Number Patterns & Geometric Puzzles
 
-![Diagram](file:///C:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/preparation/Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section VI_ Puzzle Solving/EXTRACTED_STRUCTURED_QUESTIONS/images/q8_1.png)
+![Diagram](images/q8_1.png)
 
 **Problem Statement:**
 Which letter replaces the question mark (?) in the 5×3 grid of boxes?
@@ -428,7 +428,7 @@ Hence, the missing letter is B (Option A).
 
 **ID:** `SEC06_PUZ_Q11` | **Topic:** Visual Number Patterns & Geometric Puzzles
 
-![Diagram](file:///C:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/preparation/Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section VI_ Puzzle Solving/EXTRACTED_STRUCTURED_QUESTIONS/images/q11_1.png)
+![Diagram](images/q11_1.png)
 
 **Problem Statement:**
 Find the missing term (?) in the third figure. Assume the third figure works in the same way as the other two.
@@ -487,7 +487,7 @@ Hence, the missing number is 26 (Option D).
 
 **ID:** `SEC06_PUZ_Q12` | **Topic:** Visual Number Patterns & Geometric Puzzles
 
-![Diagram](file:///C:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/preparation/Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section VI_ Puzzle Solving/EXTRACTED_STRUCTURED_QUESTIONS/images/q12_1.png)
+![Diagram](images/q12_1.png)
 
 **Problem Statement:**
 Find the missing terms (A and B) in the third figure. Assume the third figure works in the same way as the other two.
@@ -556,7 +556,7 @@ Hence, the correct pair is A = 14, B = 28 (Option C).
 
 **ID:** `SEC06_PUZ_Q15` | **Topic:** Visual Number Patterns & Geometric Puzzles
 
-![Diagram](file:///C:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/preparation/Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section VI_ Puzzle Solving/EXTRACTED_STRUCTURED_QUESTIONS/images/q15_1.png)
+![Diagram](images/q15_1.png)
 
 **Problem Statement:**
 Which number replaces the question mark (?) in the segmented four-square ring?
@@ -596,7 +596,7 @@ Hence, the missing number is 9 (Option D).
 
 **ID:** `SEC06_PUZ_Q16` | **Topic:** Visual Number Patterns & Geometric Puzzles
 
-![Diagram](file:///C:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/preparation/Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section VI_ Puzzle Solving/EXTRACTED_STRUCTURED_QUESTIONS/images/q16_1.png)
+![Diagram](images/q16_1.png)
 
 **Problem Statement:**
 Which number replaces the question mark (?) in the fourth T-shaped block?
@@ -634,7 +634,7 @@ Hence, the missing number is 3 (Option B).
 
 **ID:** `SEC06_PUZ_Q17` | **Topic:** Visual Number Patterns & Geometric Puzzles
 
-![Diagram](file:///C:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/preparation/Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section VI_ Puzzle Solving/EXTRACTED_STRUCTURED_QUESTIONS/images/q17_1.png)
+![Diagram](images/q17_1.png)
 
 **Problem Statement:**
 Which letter replaces the question mark (?) in the bottom row of hexagons?

@@ -6,57 +6,57 @@ Total Verified Questions in Vault: **51**
 
 | Question ID | Question Number | Topic Category | Verified Answer | Visual Diagram Link |
 | :--- | :---: | :--- | :---: | :--- |
-| `SEC06_PUZ_Q01` | Q1 | Visual Number Patterns & Geometric Puzzles | `B. 9` | [q1_1.png](file:///C:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/preparation/Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section VI_ Puzzle Solving/EXTRACTED_STRUCTURED_QUESTIONS/images/q1_1.png) |
-| `SEC06_PUZ_Q02` | Q2 | Visual Number Patterns & Geometric Puzzles | `B. 6` | [q2_1.png](file:///C:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/preparation/Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section VI_ Puzzle Solving/EXTRACTED_STRUCTURED_QUESTIONS/images/q2_1.png) |
-| `SEC06_PUZ_Q03` | Q3 | Visual Number Patterns & Geometric Puzzles | `A. O` | [q3_1.png](file:///C:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/preparation/Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section VI_ Puzzle Solving/EXTRACTED_STRUCTURED_QUESTIONS/images/q3_1.png) |
-| `SEC06_PUZ_Q04` | Q4 | Visual Number Patterns & Geometric Puzzles | `A. 1` | [q4_1.png](file:///C:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/preparation/Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section VI_ Puzzle Solving/EXTRACTED_STRUCTURED_QUESTIONS/images/q4_1.png) |
-| `SEC06_PUZ_Q05` | Q5 | Visual Number Patterns & Geometric Puzzles | `D. 253` | [q5_1.png](file:///C:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/preparation/Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section VI_ Puzzle Solving/EXTRACTED_STRUCTURED_QUESTIONS/images/q5_1.png) |
-| `SEC06_PUZ_Q06` | Q6 | Visual Number Patterns & Geometric Puzzles | `C. 2` | [q6_1.png](file:///C:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/preparation/Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section VI_ Puzzle Solving/EXTRACTED_STRUCTURED_QUESTIONS/images/q6_1.png) |
-| `SEC06_PUZ_Q07` | Q7 | Visual Number Patterns & Geometric Puzzles | `B. 10` | [q7_1.png](file:///C:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/preparation/Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section VI_ Puzzle Solving/EXTRACTED_STRUCTURED_QUESTIONS/images/q7_1.png) |
-| `SEC06_PUZ_Q08` | Q8 | Visual Number Patterns & Geometric Puzzles | `A. B` | [q8_1.png](file:///C:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/preparation/Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section VI_ Puzzle Solving/EXTRACTED_STRUCTURED_QUESTIONS/images/q8_1.png) |
-| `SEC06_PUZ_Q09` | Q9 | Matrix Grid & Algebraic Pattern Deductions | `C. 5` | [q9_1.png](file:///C:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/preparation/Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section VI_ Puzzle Solving/EXTRACTED_STRUCTURED_QUESTIONS/images/q9_1.png) |
-| `SEC06_PUZ_Q10` | Q10 | Matrix Grid & Algebraic Pattern Deductions | `D. R` | [q10_1.png](file:///C:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/preparation/Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section VI_ Puzzle Solving/EXTRACTED_STRUCTURED_QUESTIONS/images/q10_1.png) |
-| `SEC06_PUZ_Q11` | Q11 | Visual Number Patterns & Geometric Puzzles | `D. 26` | [q11_1.png](file:///C:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/preparation/Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section VI_ Puzzle Solving/EXTRACTED_STRUCTURED_QUESTIONS/images/q11_1.png) |
-| `SEC06_PUZ_Q12` | Q12 | Visual Number Patterns & Geometric Puzzles | `C. A=14, B=28` | [q12_1.png](file:///C:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/preparation/Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section VI_ Puzzle Solving/EXTRACTED_STRUCTURED_QUESTIONS/images/q12_1.png) |
-| `SEC06_PUZ_Q13` | Q13 | Matrix Grid & Algebraic Pattern Deductions | `B. 9` | [q13_1.png](file:///C:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/preparation/Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section VI_ Puzzle Solving/EXTRACTED_STRUCTURED_QUESTIONS/images/q13_1.png) |
-| `SEC06_PUZ_Q14` | Q14 | Matrix Grid & Algebraic Pattern Deductions | `C. 99` | [q14_1.png](file:///C:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/preparation/Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section VI_ Puzzle Solving/EXTRACTED_STRUCTURED_QUESTIONS/images/q14_1.png) |
-| `SEC06_PUZ_Q15` | Q15 | Visual Number Patterns & Geometric Puzzles | `D. 9` | [q15_1.png](file:///C:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/preparation/Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section VI_ Puzzle Solving/EXTRACTED_STRUCTURED_QUESTIONS/images/q15_1.png) |
-| `SEC06_PUZ_Q16` | Q16 | Visual Number Patterns & Geometric Puzzles | `B. 3` | [q16_1.png](file:///C:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/preparation/Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section VI_ Puzzle Solving/EXTRACTED_STRUCTURED_QUESTIONS/images/q16_1.png) |
-| `SEC06_PUZ_Q17` | Q17 | Visual Number Patterns & Geometric Puzzles | `A. M` | [q17_1.png](file:///C:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/preparation/Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section VI_ Puzzle Solving/EXTRACTED_STRUCTURED_QUESTIONS/images/q17_1.png) |
-| `SEC06_LOGIC_Q01` | Q18 | Constraint Satisfaction & Team Selection Logic | `B. DAPQ` | [number_puzzles_ebook_page_24.png](file:///C:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/preparation/Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section VI_ Puzzle Solving/EXTRACTED_STRUCTURED_QUESTIONS/images/number_puzzles_ebook_page_24.png) |
-| `SEC06_LOGIC_Q02` | Q19 | Truth, Lie & Classic Brain Teasers | `D. The dog had white hair, long tail and a collar.` | [number_puzzles_ebook_page_25.png](file:///C:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/preparation/Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section VI_ Puzzle Solving/EXTRACTED_STRUCTURED_QUESTIONS/images/number_puzzles_ebook_page_25.png) |
-| `SEC06_LOGIC_Q03` | Q20 | Truth, Lie & Classic Brain Teasers | `B. Possible in 7 pours: [12, 0, 0] -> [6, 6, 0]` | [number_puzzles_ebook_page_26.png](file:///C:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/preparation/Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section VI_ Puzzle Solving/EXTRACTED_STRUCTURED_QUESTIONS/images/number_puzzles_ebook_page_26.png) |
-| `SEC06_LOGIC_Q04` | Q21 | Truth, Lie & Classic Brain Teasers | `B. 2` | [number_puzzles_ebook_page_27.png](file:///C:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/preparation/Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section VI_ Puzzle Solving/EXTRACTED_STRUCTURED_QUESTIONS/images/number_puzzles_ebook_page_27.png) |
-| `SEC06_MAT_022` | Q22 | Matrix Grid & Algebraic Pattern Deductions | `D` | [number_puzzles_ebook_page_14.png](file:///C:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/preparation/Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section VI_ Puzzle Solving/EXTRACTED_STRUCTURED_QUESTIONS/images/number_puzzles_ebook_page_14.png) |
-| `SEC06_MAT_023` | Q23 | Matrix Grid & Algebraic Pattern Deductions | `B` | [number_puzzles_ebook_page_14.png](file:///C:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/preparation/Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section VI_ Puzzle Solving/EXTRACTED_STRUCTURED_QUESTIONS/images/number_puzzles_ebook_page_14.png) |
-| `SEC06_MAT_024` | Q24 | Matrix Grid & Algebraic Pattern Deductions | `B` | [number_puzzles_ebook_page_14.png](file:///C:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/preparation/Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section VI_ Puzzle Solving/EXTRACTED_STRUCTURED_QUESTIONS/images/number_puzzles_ebook_page_14.png) |
-| `SEC06_MAT_025` | Q25 | Matrix Grid & Algebraic Pattern Deductions | `B` | [number_puzzles_ebook_page_14.png](file:///C:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/preparation/Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section VI_ Puzzle Solving/EXTRACTED_STRUCTURED_QUESTIONS/images/number_puzzles_ebook_page_14.png) |
-| `SEC06_MAT_026` | Q26 | Matrix Grid & Algebraic Pattern Deductions | `A` | [number_puzzles_ebook_page_14.png](file:///C:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/preparation/Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section VI_ Puzzle Solving/EXTRACTED_STRUCTURED_QUESTIONS/images/number_puzzles_ebook_page_14.png) |
-| `SEC06_MAT_027` | Q27 | Matrix Grid & Algebraic Pattern Deductions | `D` | [number_puzzles_ebook_page_14.png](file:///C:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/preparation/Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section VI_ Puzzle Solving/EXTRACTED_STRUCTURED_QUESTIONS/images/number_puzzles_ebook_page_14.png) |
-| `SEC06_MAT_028` | Q28 | Matrix Grid & Algebraic Pattern Deductions | `D` | [number_puzzles_ebook_page_14.png](file:///C:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/preparation/Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section VI_ Puzzle Solving/EXTRACTED_STRUCTURED_QUESTIONS/images/number_puzzles_ebook_page_14.png) |
-| `SEC06_MAT_029` | Q29 | Matrix Grid & Algebraic Pattern Deductions | `D` | [number_puzzles_ebook_page_14.png](file:///C:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/preparation/Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section VI_ Puzzle Solving/EXTRACTED_STRUCTURED_QUESTIONS/images/number_puzzles_ebook_page_14.png) |
-| `SEC06_MAT_030` | Q30 | Matrix Grid & Algebraic Pattern Deductions | `D` | [number_puzzles_ebook_page_14.png](file:///C:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/preparation/Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section VI_ Puzzle Solving/EXTRACTED_STRUCTURED_QUESTIONS/images/number_puzzles_ebook_page_14.png) |
-| `SEC06_MAT_031` | Q31 | Matrix Grid & Algebraic Pattern Deductions | `D` | [number_puzzles_ebook_page_14.png](file:///C:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/preparation/Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section VI_ Puzzle Solving/EXTRACTED_STRUCTURED_QUESTIONS/images/number_puzzles_ebook_page_14.png) |
-| `SEC06_MAT_032` | Q32 | Matrix Grid & Algebraic Pattern Deductions | `C` | [number_puzzles_ebook_page_14.png](file:///C:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/preparation/Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section VI_ Puzzle Solving/EXTRACTED_STRUCTURED_QUESTIONS/images/number_puzzles_ebook_page_14.png) |
-| `SEC06_MAT_033` | Q33 | Matrix Grid & Algebraic Pattern Deductions | `A` | [number_puzzles_ebook_page_14.png](file:///C:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/preparation/Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section VI_ Puzzle Solving/EXTRACTED_STRUCTURED_QUESTIONS/images/number_puzzles_ebook_page_14.png) |
-| `SEC06_MAT_034` | Q34 | Matrix Grid & Algebraic Pattern Deductions | `D` | [number_puzzles_ebook_page_14.png](file:///C:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/preparation/Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section VI_ Puzzle Solving/EXTRACTED_STRUCTURED_QUESTIONS/images/number_puzzles_ebook_page_14.png) |
-| `SEC06_MAT_035` | Q35 | Matrix Grid & Algebraic Pattern Deductions | `B` | [number_puzzles_ebook_page_14.png](file:///C:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/preparation/Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section VI_ Puzzle Solving/EXTRACTED_STRUCTURED_QUESTIONS/images/number_puzzles_ebook_page_14.png) |
-| `SEC06_MAT_036` | Q36 | Matrix Grid & Algebraic Pattern Deductions | `A` | [number_puzzles_ebook_page_14.png](file:///C:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/preparation/Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section VI_ Puzzle Solving/EXTRACTED_STRUCTURED_QUESTIONS/images/number_puzzles_ebook_page_14.png) |
-| `SEC06_MAT_037` | Q37 | Matrix Grid & Algebraic Pattern Deductions | `C` | [number_puzzles_ebook_page_14.png](file:///C:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/preparation/Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section VI_ Puzzle Solving/EXTRACTED_STRUCTURED_QUESTIONS/images/number_puzzles_ebook_page_14.png) |
-| `SEC06_MAT_038` | Q38 | Matrix Grid & Algebraic Pattern Deductions | `D` | [number_puzzles_ebook_page_14.png](file:///C:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/preparation/Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section VI_ Puzzle Solving/EXTRACTED_STRUCTURED_QUESTIONS/images/number_puzzles_ebook_page_14.png) |
-| `SEC06_MAT_039` | Q39 | Matrix Grid & Algebraic Pattern Deductions | `C` | [number_puzzles_ebook_page_14.png](file:///C:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/preparation/Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section VI_ Puzzle Solving/EXTRACTED_STRUCTURED_QUESTIONS/images/number_puzzles_ebook_page_14.png) |
-| `SEC06_MAT_040` | Q40 | Matrix Grid & Algebraic Pattern Deductions | `A` | [number_puzzles_ebook_page_14.png](file:///C:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/preparation/Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section VI_ Puzzle Solving/EXTRACTED_STRUCTURED_QUESTIONS/images/number_puzzles_ebook_page_14.png) |
-| `SEC06_MAT_041` | Q41 | Matrix Grid & Algebraic Pattern Deductions | `B` | [number_puzzles_ebook_page_14.png](file:///C:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/preparation/Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section VI_ Puzzle Solving/EXTRACTED_STRUCTURED_QUESTIONS/images/number_puzzles_ebook_page_14.png) |
-| `SEC06_MAT_042` | Q42 | Matrix Grid & Algebraic Pattern Deductions | `A` | [number_puzzles_ebook_page_14.png](file:///C:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/preparation/Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section VI_ Puzzle Solving/EXTRACTED_STRUCTURED_QUESTIONS/images/number_puzzles_ebook_page_14.png) |
-| `SEC06_MAT_043` | Q43 | Matrix Grid & Algebraic Pattern Deductions | `C` | [number_puzzles_ebook_page_14.png](file:///C:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/preparation/Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section VI_ Puzzle Solving/EXTRACTED_STRUCTURED_QUESTIONS/images/number_puzzles_ebook_page_14.png) |
-| `SEC06_MAT_044` | Q44 | Matrix Grid & Algebraic Pattern Deductions | `C` | [number_puzzles_ebook_page_14.png](file:///C:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/preparation/Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section VI_ Puzzle Solving/EXTRACTED_STRUCTURED_QUESTIONS/images/number_puzzles_ebook_page_14.png) |
-| `SEC06_MAT_045` | Q45 | Matrix Grid & Algebraic Pattern Deductions | `B` | [number_puzzles_ebook_page_14.png](file:///C:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/preparation/Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section VI_ Puzzle Solving/EXTRACTED_STRUCTURED_QUESTIONS/images/number_puzzles_ebook_page_14.png) |
-| `SEC06_MAT_046` | Q46 | Matrix Grid & Algebraic Pattern Deductions | `B` | [number_puzzles_ebook_page_14.png](file:///C:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/preparation/Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section VI_ Puzzle Solving/EXTRACTED_STRUCTURED_QUESTIONS/images/number_puzzles_ebook_page_14.png) |
-| `SEC06_MAT_047` | Q47 | Matrix Grid & Algebraic Pattern Deductions | `C` | [number_puzzles_ebook_page_14.png](file:///C:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/preparation/Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section VI_ Puzzle Solving/EXTRACTED_STRUCTURED_QUESTIONS/images/number_puzzles_ebook_page_14.png) |
-| `SEC06_MAT_048` | Q48 | Matrix Grid & Algebraic Pattern Deductions | `C` | [number_puzzles_ebook_page_14.png](file:///C:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/preparation/Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section VI_ Puzzle Solving/EXTRACTED_STRUCTURED_QUESTIONS/images/number_puzzles_ebook_page_14.png) |
-| `SEC06_MAT_049` | Q49 | Matrix Grid & Algebraic Pattern Deductions | `A` | [number_puzzles_ebook_page_14.png](file:///C:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/preparation/Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section VI_ Puzzle Solving/EXTRACTED_STRUCTURED_QUESTIONS/images/number_puzzles_ebook_page_14.png) |
-| `SEC06_MAT_050` | Q50 | Matrix Grid & Algebraic Pattern Deductions | `D` | [number_puzzles_ebook_page_14.png](file:///C:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/preparation/Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section VI_ Puzzle Solving/EXTRACTED_STRUCTURED_QUESTIONS/images/number_puzzles_ebook_page_14.png) |
-| `SEC06_MAT_051` | Q51 | Matrix Grid & Algebraic Pattern Deductions | `B` | [number_puzzles_ebook_page_14.png](file:///C:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/preparation/Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section VI_ Puzzle Solving/EXTRACTED_STRUCTURED_QUESTIONS/images/number_puzzles_ebook_page_14.png) |
+| `SEC06_PUZ_Q01` | Q1 | Visual Number Patterns & Geometric Puzzles | `B. 9` | [q1_1.png](images/q1_1.png) |
+| `SEC06_PUZ_Q02` | Q2 | Visual Number Patterns & Geometric Puzzles | `B. 6` | [q2_1.png](images/q2_1.png) |
+| `SEC06_PUZ_Q03` | Q3 | Visual Number Patterns & Geometric Puzzles | `A. O` | [q3_1.png](images/q3_1.png) |
+| `SEC06_PUZ_Q04` | Q4 | Visual Number Patterns & Geometric Puzzles | `A. 1` | [q4_1.png](images/q4_1.png) |
+| `SEC06_PUZ_Q05` | Q5 | Visual Number Patterns & Geometric Puzzles | `D. 253` | [q5_1.png](images/q5_1.png) |
+| `SEC06_PUZ_Q06` | Q6 | Visual Number Patterns & Geometric Puzzles | `C. 2` | [q6_1.png](images/q6_1.png) |
+| `SEC06_PUZ_Q07` | Q7 | Visual Number Patterns & Geometric Puzzles | `B. 10` | [q7_1.png](images/q7_1.png) |
+| `SEC06_PUZ_Q08` | Q8 | Visual Number Patterns & Geometric Puzzles | `A. B` | [q8_1.png](images/q8_1.png) |
+| `SEC06_PUZ_Q09` | Q9 | Matrix Grid & Algebraic Pattern Deductions | `C. 5` | [q9_1.png](images/q9_1.png) |
+| `SEC06_PUZ_Q10` | Q10 | Matrix Grid & Algebraic Pattern Deductions | `D. R` | [q10_1.png](images/q10_1.png) |
+| `SEC06_PUZ_Q11` | Q11 | Visual Number Patterns & Geometric Puzzles | `D. 26` | [q11_1.png](images/q11_1.png) |
+| `SEC06_PUZ_Q12` | Q12 | Visual Number Patterns & Geometric Puzzles | `C. A=14, B=28` | [q12_1.png](images/q12_1.png) |
+| `SEC06_PUZ_Q13` | Q13 | Matrix Grid & Algebraic Pattern Deductions | `B. 9` | [q13_1.png](images/q13_1.png) |
+| `SEC06_PUZ_Q14` | Q14 | Matrix Grid & Algebraic Pattern Deductions | `C. 99` | [q14_1.png](images/q14_1.png) |
+| `SEC06_PUZ_Q15` | Q15 | Visual Number Patterns & Geometric Puzzles | `D. 9` | [q15_1.png](images/q15_1.png) |
+| `SEC06_PUZ_Q16` | Q16 | Visual Number Patterns & Geometric Puzzles | `B. 3` | [q16_1.png](images/q16_1.png) |
+| `SEC06_PUZ_Q17` | Q17 | Visual Number Patterns & Geometric Puzzles | `A. M` | [q17_1.png](images/q17_1.png) |
+| `SEC06_LOGIC_Q01` | Q18 | Constraint Satisfaction & Team Selection Logic | `B. DAPQ` | [number_puzzles_ebook_page_24.png](images/number_puzzles_ebook_page_24.png) |
+| `SEC06_LOGIC_Q02` | Q19 | Truth, Lie & Classic Brain Teasers | `D. The dog had white hair, long tail and a collar.` | [number_puzzles_ebook_page_25.png](images/number_puzzles_ebook_page_25.png) |
+| `SEC06_LOGIC_Q03` | Q20 | Truth, Lie & Classic Brain Teasers | `B. Possible in 7 pours: [12, 0, 0] -> [6, 6, 0]` | [number_puzzles_ebook_page_26.png](images/number_puzzles_ebook_page_26.png) |
+| `SEC06_LOGIC_Q04` | Q21 | Truth, Lie & Classic Brain Teasers | `B. 2` | [number_puzzles_ebook_page_27.png](images/number_puzzles_ebook_page_27.png) |
+| `SEC06_MAT_022` | Q22 | Matrix Grid & Algebraic Pattern Deductions | `D` | [number_puzzles_ebook_page_14.png](images/number_puzzles_ebook_page_14.png) |
+| `SEC06_MAT_023` | Q23 | Matrix Grid & Algebraic Pattern Deductions | `B` | [number_puzzles_ebook_page_14.png](images/number_puzzles_ebook_page_14.png) |
+| `SEC06_MAT_024` | Q24 | Matrix Grid & Algebraic Pattern Deductions | `B` | [number_puzzles_ebook_page_14.png](images/number_puzzles_ebook_page_14.png) |
+| `SEC06_MAT_025` | Q25 | Matrix Grid & Algebraic Pattern Deductions | `B` | [number_puzzles_ebook_page_14.png](images/number_puzzles_ebook_page_14.png) |
+| `SEC06_MAT_026` | Q26 | Matrix Grid & Algebraic Pattern Deductions | `A` | [number_puzzles_ebook_page_14.png](images/number_puzzles_ebook_page_14.png) |
+| `SEC06_MAT_027` | Q27 | Matrix Grid & Algebraic Pattern Deductions | `D` | [number_puzzles_ebook_page_14.png](images/number_puzzles_ebook_page_14.png) |
+| `SEC06_MAT_028` | Q28 | Matrix Grid & Algebraic Pattern Deductions | `D` | [number_puzzles_ebook_page_14.png](images/number_puzzles_ebook_page_14.png) |
+| `SEC06_MAT_029` | Q29 | Matrix Grid & Algebraic Pattern Deductions | `D` | [number_puzzles_ebook_page_14.png](images/number_puzzles_ebook_page_14.png) |
+| `SEC06_MAT_030` | Q30 | Matrix Grid & Algebraic Pattern Deductions | `D` | [number_puzzles_ebook_page_14.png](images/number_puzzles_ebook_page_14.png) |
+| `SEC06_MAT_031` | Q31 | Matrix Grid & Algebraic Pattern Deductions | `D` | [number_puzzles_ebook_page_14.png](images/number_puzzles_ebook_page_14.png) |
+| `SEC06_MAT_032` | Q32 | Matrix Grid & Algebraic Pattern Deductions | `C` | [number_puzzles_ebook_page_14.png](images/number_puzzles_ebook_page_14.png) |
+| `SEC06_MAT_033` | Q33 | Matrix Grid & Algebraic Pattern Deductions | `A` | [number_puzzles_ebook_page_14.png](images/number_puzzles_ebook_page_14.png) |
+| `SEC06_MAT_034` | Q34 | Matrix Grid & Algebraic Pattern Deductions | `D` | [number_puzzles_ebook_page_14.png](images/number_puzzles_ebook_page_14.png) |
+| `SEC06_MAT_035` | Q35 | Matrix Grid & Algebraic Pattern Deductions | `B` | [number_puzzles_ebook_page_14.png](images/number_puzzles_ebook_page_14.png) |
+| `SEC06_MAT_036` | Q36 | Matrix Grid & Algebraic Pattern Deductions | `A` | [number_puzzles_ebook_page_14.png](images/number_puzzles_ebook_page_14.png) |
+| `SEC06_MAT_037` | Q37 | Matrix Grid & Algebraic Pattern Deductions | `C` | [number_puzzles_ebook_page_14.png](images/number_puzzles_ebook_page_14.png) |
+| `SEC06_MAT_038` | Q38 | Matrix Grid & Algebraic Pattern Deductions | `D` | [number_puzzles_ebook_page_14.png](images/number_puzzles_ebook_page_14.png) |
+| `SEC06_MAT_039` | Q39 | Matrix Grid & Algebraic Pattern Deductions | `C` | [number_puzzles_ebook_page_14.png](images/number_puzzles_ebook_page_14.png) |
+| `SEC06_MAT_040` | Q40 | Matrix Grid & Algebraic Pattern Deductions | `A` | [number_puzzles_ebook_page_14.png](images/number_puzzles_ebook_page_14.png) |
+| `SEC06_MAT_041` | Q41 | Matrix Grid & Algebraic Pattern Deductions | `B` | [number_puzzles_ebook_page_14.png](images/number_puzzles_ebook_page_14.png) |
+| `SEC06_MAT_042` | Q42 | Matrix Grid & Algebraic Pattern Deductions | `A` | [number_puzzles_ebook_page_14.png](images/number_puzzles_ebook_page_14.png) |
+| `SEC06_MAT_043` | Q43 | Matrix Grid & Algebraic Pattern Deductions | `C` | [number_puzzles_ebook_page_14.png](images/number_puzzles_ebook_page_14.png) |
+| `SEC06_MAT_044` | Q44 | Matrix Grid & Algebraic Pattern Deductions | `C` | [number_puzzles_ebook_page_14.png](images/number_puzzles_ebook_page_14.png) |
+| `SEC06_MAT_045` | Q45 | Matrix Grid & Algebraic Pattern Deductions | `B` | [number_puzzles_ebook_page_14.png](images/number_puzzles_ebook_page_14.png) |
+| `SEC06_MAT_046` | Q46 | Matrix Grid & Algebraic Pattern Deductions | `B` | [number_puzzles_ebook_page_14.png](images/number_puzzles_ebook_page_14.png) |
+| `SEC06_MAT_047` | Q47 | Matrix Grid & Algebraic Pattern Deductions | `C` | [number_puzzles_ebook_page_14.png](images/number_puzzles_ebook_page_14.png) |
+| `SEC06_MAT_048` | Q48 | Matrix Grid & Algebraic Pattern Deductions | `C` | [number_puzzles_ebook_page_14.png](images/number_puzzles_ebook_page_14.png) |
+| `SEC06_MAT_049` | Q49 | Matrix Grid & Algebraic Pattern Deductions | `A` | [number_puzzles_ebook_page_14.png](images/number_puzzles_ebook_page_14.png) |
+| `SEC06_MAT_050` | Q50 | Matrix Grid & Algebraic Pattern Deductions | `D` | [number_puzzles_ebook_page_14.png](images/number_puzzles_ebook_page_14.png) |
+| `SEC06_MAT_051` | Q51 | Matrix Grid & Algebraic Pattern Deductions | `B` | [number_puzzles_ebook_page_14.png](images/number_puzzles_ebook_page_14.png) |
 
 ---
 
@@ -64,7 +64,7 @@ Total Verified Questions in Vault: **51**
 
 ### Problem 1: Triangle Product and Top Addition Pattern (`SEC06_PUZ_Q01`)
 
-![Figure](file:///C:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/preparation/Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section VI_ Puzzle Solving/EXTRACTED_STRUCTURED_QUESTIONS/images/q1_1.png)
+![Figure](images/q1_1.png)
 
 **Question:**
 What will replace the question mark (?) in the third triangle?
@@ -102,7 +102,7 @@ Hence, the missing number is 9 (Option B).
 
 ### Problem 2: Concentric Hexagonal Circle Grid End-Average Pattern (`SEC06_PUZ_Q02`)
 
-![Figure](file:///C:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/preparation/Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section VI_ Puzzle Solving/EXTRACTED_STRUCTURED_QUESTIONS/images/q2_1.png)
+![Figure](images/q2_1.png)
 
 **Question:**
 What number comes inside the circle marked with a question mark (?) in the concentric grid?
@@ -143,7 +143,7 @@ Hence, the missing number is 6 (Option B).
 
 ### Problem 3: Octagonal Ring Reverse Alphabet Complement Pattern (`SEC06_PUZ_Q03`)
 
-![Figure](file:///C:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/preparation/Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section VI_ Puzzle Solving/EXTRACTED_STRUCTURED_QUESTIONS/images/q3_1.png)
+![Figure](images/q3_1.png)
 
 **Question:**
 Which letter replaces the question mark (?) in the octagonal concentric ring?
@@ -183,7 +183,7 @@ Hence, the missing letter is O (Option A).
 
 ### Problem 4: Sequential Square Two-Digit Concatenation Pattern (`SEC06_PUZ_Q04`)
 
-![Figure](file:///C:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/preparation/Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section VI_ Puzzle Solving/EXTRACTED_STRUCTURED_QUESTIONS/images/q4_1.png)
+![Figure](images/q4_1.png)
 
 **Question:**
 Which number replaces the question mark (?) in the paired octagon series?
@@ -221,7 +221,7 @@ Hence, the missing number is 1 (Option A).
 
 ### Problem 5: Recursive Progression Tree Pattern (2x + 3) (`SEC06_PUZ_Q05`)
 
-![Figure](file:///C:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/preparation/Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section VI_ Puzzle Solving/EXTRACTED_STRUCTURED_QUESTIONS/images/q5_1.png)
+![Figure](images/q5_1.png)
 
 **Question:**
 Which number replaces the question mark (?) in the radial tree structure?
@@ -269,7 +269,7 @@ Hence, the missing number is 253 (Option D).
 
 ### Problem 6: Two-Column Ladder Incremental Row Sum Pattern (`SEC06_PUZ_Q06`)
 
-![Figure](file:///C:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/preparation/Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section VI_ Puzzle Solving/EXTRACTED_STRUCTURED_QUESTIONS/images/q6_1.png)
+![Figure](images/q6_1.png)
 
 **Question:**
 Which number replaces the question mark (?) in the 2-column segmented ladder?
@@ -311,7 +311,7 @@ Hence, the missing number is 2 (Option C).
 
 ### Problem 7: Five-Pointed Star Upper Minus Lower Balance Pattern (`SEC06_PUZ_Q07`)
 
-![Figure](file:///C:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/preparation/Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section VI_ Puzzle Solving/EXTRACTED_STRUCTURED_QUESTIONS/images/q7_1.png)
+![Figure](images/q7_1.png)
 
 **Question:**
 Which number replaces the question mark (?) in the center of the third 5-pointed star?
@@ -345,7 +345,7 @@ Hence, the missing number is 10 (Option B).
 
 ### Problem 8: Reverse Alphabetical Positional Sum Box Pattern (`SEC06_PUZ_Q08`)
 
-![Figure](file:///C:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/preparation/Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section VI_ Puzzle Solving/EXTRACTED_STRUCTURED_QUESTIONS/images/q8_1.png)
+![Figure](images/q8_1.png)
 
 **Question:**
 Which letter replaces the question mark (?) in the 5×3 grid of boxes?
@@ -386,7 +386,7 @@ Hence, the missing letter is B (Option A).
 
 ### Problem 9: 4×3 Quadratic Sum Matrix Pattern (A² + B² - 2 = C) (`SEC06_PUZ_Q09`)
 
-![Figure](file:///C:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/preparation/Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section VI_ Puzzle Solving/EXTRACTED_STRUCTURED_QUESTIONS/images/q9_1.png)
+![Figure](images/q9_1.png)
 
 **Question:**
 Study the 4×3 matrix. Each row follows the same rule relating the first two entries to the third entry. Find the missing number (?) that makes the fourth row obey the same rule.
@@ -427,7 +427,7 @@ Hence, the missing number is 5 (Option C).
 
 ### Problem 10: 3×3 Letter-Number Product Matrix Pattern (`SEC06_PUZ_Q10`)
 
-![Figure](file:///C:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/preparation/Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section VI_ Puzzle Solving/EXTRACTED_STRUCTURED_QUESTIONS/images/q10_1.png)
+![Figure](images/q10_1.png)
 
 **Question:**
 Study the 3×3 matrix. Each column follows the same rule relating the top and bottom numerical entries to the middle letter entry. Find the missing letter (?) that makes the middle column obey the same rule.
@@ -466,7 +466,7 @@ Hence, the missing letter is R (Option D).
 
 ### Problem 11: Divided Circles Sum of Squares Pattern (`SEC06_PUZ_Q11`)
 
-![Figure](file:///C:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/preparation/Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section VI_ Puzzle Solving/EXTRACTED_STRUCTURED_QUESTIONS/images/q11_1.png)
+![Figure](images/q11_1.png)
 
 **Question:**
 Find the missing term (?) in the third figure. Assume the third figure works in the same way as the other two.
@@ -501,7 +501,7 @@ Hence, the missing number is 26 (Option D).
 
 ### Problem 12: Dual-Variable Block Proportionality Pattern (`SEC06_PUZ_Q12`)
 
-![Figure](file:///C:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/preparation/Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section VI_ Puzzle Solving/EXTRACTED_STRUCTURED_QUESTIONS/images/q12_1.png)
+![Figure](images/q12_1.png)
 
 **Question:**
 Find the missing terms (A and B) in the third figure. Assume the third figure works in the same way as the other two.
@@ -542,7 +542,7 @@ Hence, the correct pair is A = 14, B = 28 (Option C).
 
 ### Problem 13: 4×4 Column Linear Product Matrix Pattern (`SEC06_PUZ_Q13`)
 
-![Figure](file:///C:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/preparation/Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section VI_ Puzzle Solving/EXTRACTED_STRUCTURED_QUESTIONS/images/q13_1.png)
+![Figure](images/q13_1.png)
 
 **Question:**
 Study the 4×4 matrix. Each column follows the same rule relating the entries. Find the missing number (?) in the second row of the third column.
@@ -581,7 +581,7 @@ Hence, the missing number is 9 (Option B).
 
 ### Problem 14: Dual-Set Exponential Square Grid Pattern (`SEC06_PUZ_Q14`)
 
-![Figure](file:///C:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/preparation/Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section VI_ Puzzle Solving/EXTRACTED_STRUCTURED_QUESTIONS/images/q14_1.png)
+![Figure](images/q14_1.png)
 
 **Question:**
 Determine the missing number (?) in the second set. Assume the second set also works in the same way as the first set.
@@ -621,7 +621,7 @@ Hence, the missing number in the second set is 99 (Option C).
 
 ### Problem 15: Segmented Four-Square Constant Sum (22) Pattern (`SEC06_PUZ_Q15`)
 
-![Figure](file:///C:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/preparation/Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section VI_ Puzzle Solving/EXTRACTED_STRUCTURED_QUESTIONS/images/q15_1.png)
+![Figure](images/q15_1.png)
 
 **Question:**
 Which number replaces the question mark (?) in the segmented four-square ring?
@@ -659,7 +659,7 @@ Hence, the missing number is 9 (Option D).
 
 ### Problem 16: T-Shaped Block Upper Mean Average Pattern (`SEC06_PUZ_Q16`)
 
-![Figure](file:///C:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/preparation/Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section VI_ Puzzle Solving/EXTRACTED_STRUCTURED_QUESTIONS/images/q16_1.png)
+![Figure](images/q16_1.png)
 
 **Question:**
 Which number replaces the question mark (?) in the fourth T-shaped block?
@@ -695,7 +695,7 @@ Hence, the missing number is 3 (Option B).
 
 ### Problem 17: Hexagonal Letter Positional Addition Pattern (`SEC06_PUZ_Q17`)
 
-![Figure](file:///C:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/preparation/Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section VI_ Puzzle Solving/EXTRACTED_STRUCTURED_QUESTIONS/images/q17_1.png)
+![Figure](images/q17_1.png)
 
 **Question:**
 Which letter replaces the question mark (?) in the bottom row of hexagons?
@@ -734,7 +734,7 @@ Hence, the missing letter is M (Option A).
 
 ### Problem 18: Team Selection Constraint Satisfaction Puzzle (`SEC06_LOGIC_Q01`)
 
-![Figure](file:///C:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/preparation/Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section VI_ Puzzle Solving/EXTRACTED_STRUCTURED_QUESTIONS/images/number_puzzles_ebook_page_24.png)
+![Figure](images/number_puzzles_ebook_page_24.png)
 
 **Question:**
 A team of four players are to be selected from among four girls A, B, C, D and four boys P, Q, R, S such that there would be at least two girls in the team and the team selection should meet the following conditions:
@@ -774,7 +774,7 @@ Hence, the only valid team selection is DAPQ (Option B).
 
 ### Problem 19: Balbir Butcher Shop Dog Theft (Truth and Lie Logic) (`SEC06_LOGIC_Q02`)
 
-![Figure](file:///C:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/preparation/Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section VI_ Puzzle Solving/EXTRACTED_STRUCTURED_QUESTIONS/images/number_puzzles_ebook_page_25.png)
+![Figure](images/number_puzzles_ebook_page_25.png)
 
 **Question:**
 While Balbir had his back turned, a dog ran into his butcher shop, snatched a piece of meat off the counter and ran off. Balbir was mad when he realised what had happened. He asked three other shopkeepers, who had seen the dog, to describe it. The shopkeepers really didn't want to help Balbir. So each of them made a statement which contained exactly one truth and one lie:
@@ -838,7 +838,7 @@ Hence, Option D is 100% mathematically proven.
 
 ### Problem 20: The 3 Jug Water Riddle (12L, 8L, 5L State Transition) (`SEC06_LOGIC_Q03`)
 
-![Figure](file:///C:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/preparation/Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section VI_ Puzzle Solving/EXTRACTED_STRUCTURED_QUESTIONS/images/number_puzzles_ebook_page_26.png)
+![Figure](images/number_puzzles_ebook_page_26.png)
 
 **Question:**
 A milkman carries a full 12-liter container of milk. He needs to deliver exactly 6 liters to a customer who only has an 8-liter container and a 5-liter container. Neither container has any measurement markings. Can he measure exactly 6 liters without spilling or wasting any milk, and what is the minimum sequence of pours?
@@ -884,7 +884,7 @@ Hence, Option B is correct.
 
 ### Problem 21: The 8 Balls Balance Scale Puzzle (`SEC06_LOGIC_Q04`)
 
-![Figure](file:///C:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/preparation/Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section VI_ Puzzle Solving/EXTRACTED_STRUCTURED_QUESTIONS/images/number_puzzles_ebook_page_27.png)
+![Figure](images/number_puzzles_ebook_page_27.png)
 
 **Question:**
 You have a two-pan balance weighing scale and 8 identical-looking balls. Except for one defective ball which is slightly heavier than the others, all other 7 balls have identical weights. What is the minimum number of weighings required on the balance scale to guarantee finding the defective ball in all cases?
@@ -923,7 +923,7 @@ Hence, the minimum number of weight checks required is 2 (Option B).
 
 ### Problem 22: Infosys PYQ Matrix Deduction Problem 22 (`SEC06_MAT_022`)
 
-![Figure](file:///C:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/preparation/Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section VI_ Puzzle Solving/EXTRACTED_STRUCTURED_QUESTIONS/images/number_puzzles_ebook_page_14.png)
+![Figure](images/number_puzzles_ebook_page_14.png)
 
 **Question:**
 1. Find the missing number (?) from the given matrix: **Native Grid Table:**
@@ -960,7 +960,7 @@ Conclusion confirms answer D.
 
 ### Problem 23: Infosys PYQ Matrix Deduction Problem 23 (`SEC06_MAT_023`)
 
-![Figure](file:///C:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/preparation/Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section VI_ Puzzle Solving/EXTRACTED_STRUCTURED_QUESTIONS/images/number_puzzles_ebook_page_14.png)
+![Figure](images/number_puzzles_ebook_page_14.png)
 
 **Question:**
 2. Find the missing number (?) from the given matrix: **Native Grid Table:**
@@ -997,7 +997,7 @@ Conclusion confirms answer B.
 
 ### Problem 24: Infosys PYQ Matrix Deduction Problem 24 (`SEC06_MAT_024`)
 
-![Figure](file:///C:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/preparation/Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section VI_ Puzzle Solving/EXTRACTED_STRUCTURED_QUESTIONS/images/number_puzzles_ebook_page_14.png)
+![Figure](images/number_puzzles_ebook_page_14.png)
 
 **Question:**
 3. Find the missing number (?) from the given matrix: **Native Grid Table:**
@@ -1034,7 +1034,7 @@ Conclusion confirms answer B.
 
 ### Problem 25: Infosys PYQ Matrix Deduction Problem 25 (`SEC06_MAT_025`)
 
-![Figure](file:///C:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/preparation/Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section VI_ Puzzle Solving/EXTRACTED_STRUCTURED_QUESTIONS/images/number_puzzles_ebook_page_14.png)
+![Figure](images/number_puzzles_ebook_page_14.png)
 
 **Question:**
 4. Find the missing number (?) from the given matrix: **Native Grid Table:**
@@ -1071,7 +1071,7 @@ Conclusion confirms answer B.
 
 ### Problem 26: Infosys PYQ Matrix Deduction Problem 26 (`SEC06_MAT_026`)
 
-![Figure](file:///C:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/preparation/Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section VI_ Puzzle Solving/EXTRACTED_STRUCTURED_QUESTIONS/images/number_puzzles_ebook_page_14.png)
+![Figure](images/number_puzzles_ebook_page_14.png)
 
 **Question:**
 5. Find the missing number (?) from the given matrix: **Native Grid Table:**
@@ -1108,7 +1108,7 @@ Conclusion confirms answer A.
 
 ### Problem 27: Infosys PYQ Matrix Deduction Problem 27 (`SEC06_MAT_027`)
 
-![Figure](file:///C:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/preparation/Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section VI_ Puzzle Solving/EXTRACTED_STRUCTURED_QUESTIONS/images/number_puzzles_ebook_page_14.png)
+![Figure](images/number_puzzles_ebook_page_14.png)
 
 **Question:**
 6. Find the missing number (?) from the given matrix: **Native Grid Table:**
@@ -1145,7 +1145,7 @@ Conclusion confirms answer D.
 
 ### Problem 28: Infosys PYQ Matrix Deduction Problem 28 (`SEC06_MAT_028`)
 
-![Figure](file:///C:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/preparation/Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section VI_ Puzzle Solving/EXTRACTED_STRUCTURED_QUESTIONS/images/number_puzzles_ebook_page_14.png)
+![Figure](images/number_puzzles_ebook_page_14.png)
 
 **Question:**
 7. Find the missing number (?) from the given matrix: **Native Grid Table:**
@@ -1182,7 +1182,7 @@ Conclusion confirms answer D.
 
 ### Problem 29: Infosys PYQ Matrix Deduction Problem 29 (`SEC06_MAT_029`)
 
-![Figure](file:///C:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/preparation/Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section VI_ Puzzle Solving/EXTRACTED_STRUCTURED_QUESTIONS/images/number_puzzles_ebook_page_14.png)
+![Figure](images/number_puzzles_ebook_page_14.png)
 
 **Question:**
 8. Find the missing number (?) from the given matrix: **Native Grid Table:**
@@ -1219,7 +1219,7 @@ Conclusion confirms answer D.
 
 ### Problem 30: Infosys PYQ Matrix Deduction Problem 30 (`SEC06_MAT_030`)
 
-![Figure](file:///C:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/preparation/Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section VI_ Puzzle Solving/EXTRACTED_STRUCTURED_QUESTIONS/images/number_puzzles_ebook_page_14.png)
+![Figure](images/number_puzzles_ebook_page_14.png)
 
 **Question:**
 9. Find the missing number (?) from the given matrix: **Native Grid Table:**
@@ -1256,7 +1256,7 @@ Conclusion confirms answer D.
 
 ### Problem 31: Infosys PYQ Matrix Deduction Problem 31 (`SEC06_MAT_031`)
 
-![Figure](file:///C:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/preparation/Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section VI_ Puzzle Solving/EXTRACTED_STRUCTURED_QUESTIONS/images/number_puzzles_ebook_page_14.png)
+![Figure](images/number_puzzles_ebook_page_14.png)
 
 **Question:**
 10. Find the missing number (?) from the given matrix: **Native Grid Table:**
@@ -1293,7 +1293,7 @@ Conclusion confirms answer D.
 
 ### Problem 32: Infosys PYQ Matrix Deduction Problem 32 (`SEC06_MAT_032`)
 
-![Figure](file:///C:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/preparation/Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section VI_ Puzzle Solving/EXTRACTED_STRUCTURED_QUESTIONS/images/number_puzzles_ebook_page_14.png)
+![Figure](images/number_puzzles_ebook_page_14.png)
 
 **Question:**
 11. Find the missing number (?) from the given matrix: **Native Grid Table:**
@@ -1330,7 +1330,7 @@ Conclusion confirms answer C.
 
 ### Problem 33: Infosys PYQ Matrix Deduction Problem 33 (`SEC06_MAT_033`)
 
-![Figure](file:///C:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/preparation/Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section VI_ Puzzle Solving/EXTRACTED_STRUCTURED_QUESTIONS/images/number_puzzles_ebook_page_14.png)
+![Figure](images/number_puzzles_ebook_page_14.png)
 
 **Question:**
 12. Find the missing number (?) from the given matrix: **Native Grid Table:**
@@ -1367,7 +1367,7 @@ Conclusion confirms answer A.
 
 ### Problem 34: Infosys PYQ Matrix Deduction Problem 34 (`SEC06_MAT_034`)
 
-![Figure](file:///C:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/preparation/Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section VI_ Puzzle Solving/EXTRACTED_STRUCTURED_QUESTIONS/images/number_puzzles_ebook_page_14.png)
+![Figure](images/number_puzzles_ebook_page_14.png)
 
 **Question:**
 13. Find the missing number (?) from the given matrix: **Native Grid Table:**
@@ -1404,7 +1404,7 @@ Conclusion confirms answer D.
 
 ### Problem 35: Infosys PYQ Matrix Deduction Problem 35 (`SEC06_MAT_035`)
 
-![Figure](file:///C:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/preparation/Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section VI_ Puzzle Solving/EXTRACTED_STRUCTURED_QUESTIONS/images/number_puzzles_ebook_page_14.png)
+![Figure](images/number_puzzles_ebook_page_14.png)
 
 **Question:**
 14. Find the missing number (?) from the given matrix: **Native Grid Table:**
@@ -1441,7 +1441,7 @@ Conclusion confirms answer B.
 
 ### Problem 36: Infosys PYQ Matrix Deduction Problem 36 (`SEC06_MAT_036`)
 
-![Figure](file:///C:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/preparation/Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section VI_ Puzzle Solving/EXTRACTED_STRUCTURED_QUESTIONS/images/number_puzzles_ebook_page_14.png)
+![Figure](images/number_puzzles_ebook_page_14.png)
 
 **Question:**
 15. Find the missing number (?) from the given matrix: **Native Grid Table:**
@@ -1478,7 +1478,7 @@ Conclusion confirms answer A.
 
 ### Problem 37: Infosys PYQ Matrix Deduction Problem 37 (`SEC06_MAT_037`)
 
-![Figure](file:///C:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/preparation/Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section VI_ Puzzle Solving/EXTRACTED_STRUCTURED_QUESTIONS/images/number_puzzles_ebook_page_14.png)
+![Figure](images/number_puzzles_ebook_page_14.png)
 
 **Question:**
 16. Find the missing number (?) from the given matrix: **Native Grid Table:**
@@ -1515,7 +1515,7 @@ Conclusion confirms answer C.
 
 ### Problem 38: Infosys PYQ Matrix Deduction Problem 38 (`SEC06_MAT_038`)
 
-![Figure](file:///C:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/preparation/Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section VI_ Puzzle Solving/EXTRACTED_STRUCTURED_QUESTIONS/images/number_puzzles_ebook_page_14.png)
+![Figure](images/number_puzzles_ebook_page_14.png)
 
 **Question:**
 17. Find the missing number (?) from the given matrix: **Native Grid Table:**
@@ -1552,7 +1552,7 @@ Conclusion confirms answer D.
 
 ### Problem 39: Infosys PYQ Matrix Deduction Problem 39 (`SEC06_MAT_039`)
 
-![Figure](file:///C:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/preparation/Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section VI_ Puzzle Solving/EXTRACTED_STRUCTURED_QUESTIONS/images/number_puzzles_ebook_page_14.png)
+![Figure](images/number_puzzles_ebook_page_14.png)
 
 **Question:**
 18. Find the missing number (?) from the given matrix: **Native Grid Table:**
@@ -1589,7 +1589,7 @@ Conclusion confirms answer C.
 
 ### Problem 40: Infosys PYQ Matrix Deduction Problem 40 (`SEC06_MAT_040`)
 
-![Figure](file:///C:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/preparation/Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section VI_ Puzzle Solving/EXTRACTED_STRUCTURED_QUESTIONS/images/number_puzzles_ebook_page_14.png)
+![Figure](images/number_puzzles_ebook_page_14.png)
 
 **Question:**
 19. Find the missing number (?) from the given matrix: **Native Grid Table:**
@@ -1626,7 +1626,7 @@ Conclusion confirms answer A.
 
 ### Problem 41: Infosys PYQ Matrix Deduction Problem 41 (`SEC06_MAT_041`)
 
-![Figure](file:///C:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/preparation/Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section VI_ Puzzle Solving/EXTRACTED_STRUCTURED_QUESTIONS/images/number_puzzles_ebook_page_14.png)
+![Figure](images/number_puzzles_ebook_page_14.png)
 
 **Question:**
 20. Find the missing number (?) from the given matrix: **Native Grid Table:**
@@ -1663,7 +1663,7 @@ Conclusion confirms answer B.
 
 ### Problem 42: Infosys PYQ Matrix Deduction Problem 42 (`SEC06_MAT_042`)
 
-![Figure](file:///C:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/preparation/Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section VI_ Puzzle Solving/EXTRACTED_STRUCTURED_QUESTIONS/images/number_puzzles_ebook_page_14.png)
+![Figure](images/number_puzzles_ebook_page_14.png)
 
 **Question:**
 21. Find the missing number (?) from the given matrix: **Native Grid Table:**
@@ -1700,7 +1700,7 @@ Conclusion confirms answer A.
 
 ### Problem 43: Infosys PYQ Matrix Deduction Problem 43 (`SEC06_MAT_043`)
 
-![Figure](file:///C:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/preparation/Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section VI_ Puzzle Solving/EXTRACTED_STRUCTURED_QUESTIONS/images/number_puzzles_ebook_page_14.png)
+![Figure](images/number_puzzles_ebook_page_14.png)
 
 **Question:**
 22. Find the missing number (?) from the given matrix: **Native Grid Table:**
@@ -1737,7 +1737,7 @@ Conclusion confirms answer C.
 
 ### Problem 44: Infosys PYQ Matrix Deduction Problem 44 (`SEC06_MAT_044`)
 
-![Figure](file:///C:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/preparation/Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section VI_ Puzzle Solving/EXTRACTED_STRUCTURED_QUESTIONS/images/number_puzzles_ebook_page_14.png)
+![Figure](images/number_puzzles_ebook_page_14.png)
 
 **Question:**
 23. Find the missing number (?) from the given matrix: **Native Grid Table:**
@@ -1774,7 +1774,7 @@ Conclusion confirms answer C.
 
 ### Problem 45: Infosys PYQ Matrix Deduction Problem 45 (`SEC06_MAT_045`)
 
-![Figure](file:///C:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/preparation/Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section VI_ Puzzle Solving/EXTRACTED_STRUCTURED_QUESTIONS/images/number_puzzles_ebook_page_14.png)
+![Figure](images/number_puzzles_ebook_page_14.png)
 
 **Question:**
 24. Find the missing number (?) from the given matrix: **Native Grid Table:**
@@ -1811,7 +1811,7 @@ Conclusion confirms answer B.
 
 ### Problem 46: Infosys PYQ Matrix Deduction Problem 46 (`SEC06_MAT_046`)
 
-![Figure](file:///C:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/preparation/Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section VI_ Puzzle Solving/EXTRACTED_STRUCTURED_QUESTIONS/images/number_puzzles_ebook_page_14.png)
+![Figure](images/number_puzzles_ebook_page_14.png)
 
 **Question:**
 25. Find the missing number (?) from the given matrix: **Native Grid Table:**
@@ -1848,7 +1848,7 @@ Conclusion confirms answer B.
 
 ### Problem 47: Infosys PYQ Matrix Deduction Problem 47 (`SEC06_MAT_047`)
 
-![Figure](file:///C:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/preparation/Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section VI_ Puzzle Solving/EXTRACTED_STRUCTURED_QUESTIONS/images/number_puzzles_ebook_page_14.png)
+![Figure](images/number_puzzles_ebook_page_14.png)
 
 **Question:**
 26. Find the missing number (?) from the given matrix: **Native Grid Table:**
@@ -1885,7 +1885,7 @@ Conclusion confirms answer C.
 
 ### Problem 48: Infosys PYQ Matrix Deduction Problem 48 (`SEC06_MAT_048`)
 
-![Figure](file:///C:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/preparation/Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section VI_ Puzzle Solving/EXTRACTED_STRUCTURED_QUESTIONS/images/number_puzzles_ebook_page_14.png)
+![Figure](images/number_puzzles_ebook_page_14.png)
 
 **Question:**
 27. Find the missing number (?) from the given matrix: **Native Grid Table:**
@@ -1922,7 +1922,7 @@ Conclusion confirms answer C.
 
 ### Problem 49: Infosys PYQ Matrix Deduction Problem 49 (`SEC06_MAT_049`)
 
-![Figure](file:///C:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/preparation/Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section VI_ Puzzle Solving/EXTRACTED_STRUCTURED_QUESTIONS/images/number_puzzles_ebook_page_14.png)
+![Figure](images/number_puzzles_ebook_page_14.png)
 
 **Question:**
 28. Find the missing number (?) from the given matrix: **Native Grid Table:**
@@ -1959,7 +1959,7 @@ Conclusion confirms answer A.
 
 ### Problem 50: Infosys PYQ Matrix Deduction Problem 50 (`SEC06_MAT_050`)
 
-![Figure](file:///C:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/preparation/Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section VI_ Puzzle Solving/EXTRACTED_STRUCTURED_QUESTIONS/images/number_puzzles_ebook_page_14.png)
+![Figure](images/number_puzzles_ebook_page_14.png)
 
 **Question:**
 29. Find the missing number (?) from the given matrix: **Native Grid Table:**
@@ -1996,7 +1996,7 @@ Conclusion confirms answer D.
 
 ### Problem 51: Infosys PYQ Matrix Deduction Problem 51 (`SEC06_MAT_051`)
 
-![Figure](file:///C:/Users/Rose/.gemini/antigravity-ide/brain/c94c898d-a265-48e6-96c4-82b81795f2d9/preparation/Course_844567_Full/2. Infosys System Eng Prep- Apti + Pseudo/Section VI_ Puzzle Solving/EXTRACTED_STRUCTURED_QUESTIONS/images/number_puzzles_ebook_page_14.png)
+![Figure](images/number_puzzles_ebook_page_14.png)
 
 **Question:**
 30. Find the missing number (?) from the given matrix: **Native Grid Table:**
