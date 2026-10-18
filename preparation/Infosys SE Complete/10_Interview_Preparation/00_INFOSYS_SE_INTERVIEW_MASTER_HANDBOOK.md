@@ -1,0 +1,13 @@
+# 🎯 Master Infosys SE Interview Preparation Handbook
+**Complete Unified Guide across 10 Distinct Domains**
+
+1. `01_OOPs_Concepts_Java_and_Cpp/01_OOPs_Pillars_Concepts_and_Code_Implementations.md`
+2. `02_DBMS_SQL_and_Database_Queries/01_DBMS_Architecture_and_Top_SQL_Queries.md`
+3. `03_Operating_Systems_and_Networking/01_Operating_Systems_and_Networking_Core_Concepts.md`
+4. `04_Data_Structures_and_Basic_Algorithms/01_Data_Structures_and_Algorithms_Foundations.md`
+5. `05_Final_Year_Project_and_Technical_Resume/01_Final_Year_Project_Defense_and_Resume_Strategy.md`
+6. `06_Live_Coding_and_Technical_Problem_Solving/01_Live_Interview_Coding_Protocols_and_Problems.md`
+7. `07_HR_Behavioral_and_STAR_Method_Questions/01_HR_Behavioral_and_STAR_Method_Mastery.md`
+8. `08_Why_Infosys_Company_Research_and_Values/01_Infosys_Company_Research_and_Values.md`
+9. `09_Service_Agreement_Bond_Relocation_and_Shifts/01_Service_Agreement_and_HR_Policies.md`
+10. `10_Infosys_Real_Candidate_Interview_Experiences/01_Real_Candidate_Interview_Transcripts_and_Experiences.md`

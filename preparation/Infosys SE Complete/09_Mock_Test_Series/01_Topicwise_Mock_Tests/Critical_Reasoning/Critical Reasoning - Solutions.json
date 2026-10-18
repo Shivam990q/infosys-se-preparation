@@ -1,0 +1,1306 @@
+{
+  "test": {
+    "name": "Critical Reasoning",
+    "testTotalDuration": 1500000,
+    "settings": {
+      "fonts": {
+        "fonts": [
+          {
+            "face": "Calibri",
+            "supported": true
+          },
+          {
+            "face": "serif",
+            "supported": true
+          },
+          {
+            "face": "Cambria",
+            "supported": true
+          }
+        ],
+        "include": "https://cms-gcp.classplusapp.com/parser/v3/css/combined?face=Calibri,serif,Cambria"
+      },
+      "isSectionSwitchingEnabled": true
+    },
+    "practiceTestUrls": [],
+    "testFormat": "DEFAULT"
+  },
+  "filters": {
+    "incorrect": 0,
+    "correct": 0,
+    "partiallyMarked": 0,
+    "unattempted": 1,
+    "markForReview": 0,
+    "graceMarked": 0,
+    "revaluated": 0
+  },
+  "timeTaken": 0,
+  "courseId": "58216",
+  "showReportQuestion": true,
+  "sectionWiseStats": [
+    {
+      "marksScored": 0,
+      "sectionMarks": 80,
+      "accuracy": 0,
+      "_id": "6aca7a304a82dc1995e517bd",
+      "totalQuestions": 20,
+      "attemptDuration": 0,
+      "correctAnswers": 0,
+      "inCorrectAnswers": 0,
+      "partiallyCorrectAnswers": 0,
+      "unAttempted": 20,
+      "name": "Critical Reasoning",
+      "order": 1,
+      "sectionDuration": 0,
+      "sectionId": "67c0107e27b4a104ace44003"
+    }
+  ],
+  "sections": [
+    {
+      "sectionDuration": 0,
+      "sectionMarks": 80,
+      "isActive": true,
+      "draftMode": false,
+      "sectionInstructions": " ",
+      "_id": "67c0107e27b4a104ace44003",
+      "hasOptionalQuestions": false,
+      "name": "Critical Reasoning",
+      "order": 1,
+      "createdAt": "2025-02-27T14:03:29.383Z",
+      "updatedAt": "2025-02-27T14:03:29.383Z",
+      "questions": [
+        {
+          "_id": "67c0108f13f13e4c8c53062c",
+          "name": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statement:\n Should school uniforms be made compulsory for students?</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Arguments:</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I.\n Yes, uniforms create equality among students and remove\n discrimination based on clothing.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II.\n No, students should have the freedom to wear what they want.</span></span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n Statement:\n Should school uniforms be made compulsory for students?\n \n Arguments:\n \n I.\n Yes, uniforms create equality among students and remove\n discrimination based on clothing.\n II.\n No, students should have the freedom to wear what they want.\n ",
+          "sectionId": "67c0107e27b4a104ace44003",
+          "order": 1,
+          "questionSubmitOrder": 1,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n Argument I is strong</span></span></span></span></p>\n ",
+              "nameText": "\n Only\n Argument I is strong\n ",
+              "isCorrect": true,
+              "_id": "67c010aa5f6bc40883668c67",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n Argument II is strong</span></span></span></span></p>\n ",
+              "nameText": "\n Only\n Argument II is strong\n ",
+              "isCorrect": false,
+              "_id": "67c010aa5f6bc4668f668c68",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Both\n I and II are strong</span></span></span></span></p>\n ",
+              "nameText": "\n Both\n I and II are strong\n ",
+              "isCorrect": false,
+              "_id": "67c010aa5f6bc4e72e668c69",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Neither\n I nor II is strong</span></span></span></span></p>\n ",
+              "nameText": "\n Neither\n I nor II is strong\n ",
+              "isCorrect": false,
+              "_id": "67c010aa5f6bc47f7f668c6a",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Argument\n I is strong as it supports discipline and equality. Argument II is\n weak as it focuses only on personal freedom without considering\n the benefits of uniforms.</span></span></span></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a30e568df4893f2d10d",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "67c0108f13f13eda97530659",
+          "name": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statements:</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">1.\n The electricity demand has sharply increased, leading to frequent\n power outages.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">2.\n The city has experienced its hottest summer in the last 50 years.</span></span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n Statements:\n \n 1.\n The electricity demand has sharply increased, leading to frequent\n power outages.\n 2.\n The city has experienced its hottest summer in the last 50 years.\n ",
+          "sectionId": "67c0107e27b4a104ace44003",
+          "order": 2,
+          "questionSubmitOrder": 2,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statement\n 1 is the cause, and Statement 2 is its effect.</span></span></span></span></p>\n ",
+              "nameText": "\n Statement\n 1 is the cause, and Statement 2 is its effect.\n ",
+              "isCorrect": false,
+              "_id": "67c010aa5f6bc40c38668c7b",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statement\n 2 is the cause, and Statement 1 is its effect.</span></span></span></span></p>\n ",
+              "nameText": "\n Statement\n 2 is the cause, and Statement 1 is its effect.\n ",
+              "isCorrect": true,
+              "_id": "67c010aa5f6bc4545d668c7c",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Both\n statements are independent causes.</span></span></span></span></p>\n ",
+              "nameText": "\n Both\n statements are independent causes.\n ",
+              "isCorrect": false,
+              "_id": "67c010aa5f6bc42e20668c7d",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Both\n statements are effects of a common cause.</span></span></span></span></p>\n ",
+              "nameText": "\n Both\n statements are effects of a common cause.\n ",
+              "isCorrect": false,
+              "_id": "67c010aa5f6bc445ce668c7e",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p lang=\"en-US\" class=\"western\">\n <span style=\"color: #000000\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\"><span lang=\"en-IN\"><span style=\"text-decoration: none\">The\n extreme heat (Statement 2) caused an increase in electricity usage\n (Statement 1), leading to power outages.</span></span></span></span></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a30e568df17b4f2d10e",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "67c0108f13f13ecf39530640",
+          "name": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statements:</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">1.\n Many areas in the city are facing severe water shortages.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">2.\n The monsoon rainfall this year was significantly lower than\n expected.</span></span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n Statements:\n \n 1.\n Many areas in the city are facing severe water shortages.\n 2.\n The monsoon rainfall this year was significantly lower than\n expected.\n ",
+          "sectionId": "67c0107e27b4a104ace44003",
+          "order": 3,
+          "questionSubmitOrder": 3,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statement\n 1 is the cause, and Statement 2 is its effect.</span></span></span></span></p>\n ",
+              "nameText": "\n Statement\n 1 is the cause, and Statement 2 is its effect.\n ",
+              "isCorrect": false,
+              "_id": "67c010aa5f6bc4b2f8668c77",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statement\n 2 is the cause, and Statement 1 is its effect.</span></span></span></span></p>\n ",
+              "nameText": "\n Statement\n 2 is the cause, and Statement 1 is its effect.\n ",
+              "isCorrect": true,
+              "_id": "67c010aa5f6bc472da668c78",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Both\n statements are independent causes.</span></span></span></span></p>\n ",
+              "nameText": "\n Both\n statements are independent causes.\n ",
+              "isCorrect": false,
+              "_id": "67c010aa5f6bc4587b668c79",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Both\n statements are effects of a common cause.</span></span></span></span></p>\n ",
+              "nameText": "\n Both\n statements are effects of a common cause.\n ",
+              "isCorrect": false,
+              "_id": "67c010aa5f6bc4394a668c7a",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Low\n monsoon rainfall (Statement 2) has led to severe water shortages\n (Statement 1), making Statement 2 the cause and Statement 1 the\n effect.</span></span></span></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a30e568df737ff2d10f",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "67c0108f13f13e4064530622",
+          "name": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statement:\n Should social media platforms be held legally responsible for\n spreading fake news?</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Arguments:</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I.\n Yes, because social media plays a significant role in shaping\n public opinion and should be accountable.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II.\n No, because it is impossible to monitor and control every piece of\n information shared by users.</span></span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n Statement:\n Should social media platforms be held legally responsible for\n spreading fake news?\n \n Arguments:\n \n I.\n Yes, because social media plays a significant role in shaping\n public opinion and should be accountable.\n II.\n No, because it is impossible to monitor and control every piece of\n information shared by users.\n ",
+          "sectionId": "67c0107e27b4a104ace44003",
+          "order": 4,
+          "questionSubmitOrder": 4,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n Argument I is strong</span></span></span></span></p>\n ",
+              "nameText": "\n Only\n Argument I is strong\n ",
+              "isCorrect": false,
+              "_id": "67c010aa5f6bc465ac668c47",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n Argument II is strong</span></span></span></span></p>\n ",
+              "nameText": "\n Only\n Argument II is strong\n ",
+              "isCorrect": false,
+              "_id": "67c010aa5f6bc41255668c48",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Both\n I and II are strong</span></span></span></span></p>\n ",
+              "nameText": "\n Both\n I and II are strong\n ",
+              "isCorrect": true,
+              "_id": "67c010aa5f6bc4ad60668c49",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Neither\n I nor II is strong</span></span></span></span></p>\n ",
+              "nameText": "\n Neither\n I nor II is strong\n ",
+              "isCorrect": false,
+              "_id": "67c010aa5f6bc44c01668c4a",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Both\n arguments are strong. Social media influences public perception\n (I), but monitoring all content is impractical (II).</span></span></span></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a30e568df4a02f2d110",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "67c0108f13f13e807453064f",
+          "name": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statement:\n \"Employees who do not complete their training within three\n months will be terminated from their jobs.\" – A\n company's HR policy.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Conclusions:</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I.\n Completing training is necessary to continue employment in this\n company.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II.\n Some employees fail to complete their training within three\n months.</span></span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n Statement:\n \"Employees who do not complete their training within three\n months will be terminated from their jobs.\" – A\n company's HR policy.\n \n Conclusions:\n \n I.\n Completing training is necessary to continue employment in this\n company.\n II.\n Some employees fail to complete their training within three\n months.\n ",
+          "sectionId": "67c0107e27b4a104ace44003",
+          "order": 5,
+          "questionSubmitOrder": 5,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n Conclusion I follows</span></span></span></span></p>\n ",
+              "nameText": "\n Only\n Conclusion I follows\n ",
+              "isCorrect": true,
+              "_id": "67c010aa5f6bc439d2668c8b",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n Conclusion II follows</span></span></span></span></p>\n ",
+              "nameText": "\n Only\n Conclusion II follows\n ",
+              "isCorrect": false,
+              "_id": "67c010aa5f6bc439f5668c8c",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Both\n I and II follow</span></span></span></span></p>\n ",
+              "nameText": "\n Both\n I and II follow\n ",
+              "isCorrect": false,
+              "_id": "67c010aa5f6bc45c92668c8d",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Neither\n I nor II follows</span></span></span></span></p>\n ",
+              "nameText": "\n Neither\n I nor II follows\n ",
+              "isCorrect": false,
+              "_id": "67c010aa5f6bc4cc04668c8e",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p lang=\"en-US\" class=\"western\">\n <span style=\"color: #000000\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\"><span lang=\"en-IN\"><span style=\"text-decoration: none\">I\n follows because the statement makes training mandatory. II does\n not follow since the statement does not confirm that employees\n have failed the training, only that they will be terminated if\n they do.</span></span></span></span></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a30e568dfcbfff2d111",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "67c0108f13f13ecad4530627",
+          "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Argument:\n Wearing a seatbelt while driving reduces the risk of injury in\n accidents.</span></span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n Argument:\n Wearing a seatbelt while driving reduces the risk of injury in\n accidents.\n ",
+          "sectionId": "67c0107e27b4a104ace44003",
+          "order": 6,
+          "questionSubmitOrder": 6,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Many\n people find seatbelts uncomfortable.</span></span></span></span></p>\n ",
+              "nameText": "\n Many\n people find seatbelts uncomfortable.\n ",
+              "isCorrect": false,
+              "_id": "67c010aa5f6bc424ed668c73",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Seatbelts\n are mandatory in many countries.</span></span></span></span></p>\n ",
+              "nameText": "\n Seatbelts\n are mandatory in many countries.\n ",
+              "isCorrect": false,
+              "_id": "67c010aa5f6bc4039c668c74",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Seatbelts\n prevent passengers from being thrown forward in case of a sudden\n stop or crash.</span></span></span></span></p>\n ",
+              "nameText": "\n Seatbelts\n prevent passengers from being thrown forward in case of a sudden\n stop or crash.\n ",
+              "isCorrect": true,
+              "_id": "67c010aa5f6bc4f133668c75",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Accidents\n can also be caused by reckless driving.</span></span></span></span></p>\n ",
+              "nameText": "\n Accidents\n can also be caused by reckless driving.\n ",
+              "isCorrect": false,
+              "_id": "67c010aa5f6bc41d1a668c76",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Seatbelts\n prevent passengers from being thrown forward, which directly\n supports the argument that they reduce the risk of injury in\n accidents.</span></span></span></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a30e568df39ebf2d112",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "67c0108f13f13e8035530645",
+          "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Argument:\n Reading books enhances knowledge and improves vocabulary.</span></span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n Argument:\n Reading books enhances knowledge and improves vocabulary.\n ",
+          "sectionId": "67c0107e27b4a104ace44003",
+          "order": 7,
+          "questionSubmitOrder": 7,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Watching\n movies is a good way to relax.</span></span></span></span></p>\n ",
+              "nameText": "\n Watching\n movies is a good way to relax.\n ",
+              "isCorrect": false,
+              "_id": "67c010aa5f6bc41c27668c6b",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Many\n people do not enjoy reading.</span></span></span></span></p>\n ",
+              "nameText": "\n Many\n people do not enjoy reading.\n ",
+              "isCorrect": false,
+              "_id": "67c010aa5f6bc406a6668c6c",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Reading\n books takes a lot of time.</span></span></span></span></p>\n ",
+              "nameText": "\n Reading\n books takes a lot of time.\n ",
+              "isCorrect": false,
+              "_id": "67c010aa5f6bc4fe74668c6d",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Books\n contain information that helps people learn new words and\n concepts.</span></span></span></span></p>\n ",
+              "nameText": "\n Books\n contain information that helps people learn new words and\n concepts.\n ",
+              "isCorrect": true,
+              "_id": "67c010aa5f6bc4703f668c6e",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Books\n provide knowledge and introduce new vocabulary, which directly\n strengthens the argument.</span></span></span></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a30e568dfd0cef2d113",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "67c0108f13f13e8558530613",
+          "name": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statement:\n Many factories have been dumping industrial waste into a major\n river, causing severe pollution.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Courses\n of Action:</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I.\n The government should shut down all factories near the river.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II.\n Strict penalties should be imposed on factories violating\n pollution norms.</span></span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n Statement:\n Many factories have been dumping industrial waste into a major\n river, causing severe pollution.\n \n Courses\n of Action:\n \n I.\n The government should shut down all factories near the river.\n II.\n Strict penalties should be imposed on factories violating\n pollution norms.\n ",
+          "sectionId": "67c0107e27b4a104ace44003",
+          "order": 8,
+          "questionSubmitOrder": 8,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n Course of Action I follows</span></span></span></span></p>\n ",
+              "nameText": "\n Only\n Course of Action I follows\n ",
+              "isCorrect": false,
+              "_id": "67c010aa5f6bc4fc12668c63",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n Course of Action II follows</span></span></span></span></p>\n ",
+              "nameText": "\n Only\n Course of Action II follows\n ",
+              "isCorrect": false,
+              "_id": "67c010aa5f6bc46159668c64",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Both\n I and II follow</span></span></span></span></p>\n ",
+              "nameText": "\n Both\n I and II follow\n ",
+              "isCorrect": false,
+              "_id": "67c010aa5f6bc432bf668c65",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Neither\n I nor II follows</span></span></span></span></p>\n ",
+              "nameText": "\n Neither\n I nor II follows\n ",
+              "isCorrect": true,
+              "_id": "67c010aa5f6bc4a841668c66",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Shutting\n down all factories (Course I) is an extreme measure that could\n harm the economy. Simply imposing penalties (Course II) may not be\n enough without proper enforcement. A better solution would be\n stricter monitoring and implementation of waste treatment systems.</span></span></span></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a30e568df623ef2d114",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "67c0108f13f13eae6a53063b",
+          "name": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statement:\n Many students in a school are failing in mathematics.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Courses\n of Action:</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I.\n The school should introduce extra coaching classes for\n mathematics.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II.\n The teaching methods for mathematics should be reviewed and\n improved.</span></span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n Statement:\n Many students in a school are failing in mathematics.\n \n Courses\n of Action:\n \n I.\n The school should introduce extra coaching classes for\n mathematics.\n II.\n The teaching methods for mathematics should be reviewed and\n improved.\n ",
+          "sectionId": "67c0107e27b4a104ace44003",
+          "order": 9,
+          "questionSubmitOrder": 9,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n Course of Action I follows</span></span></span></span></p>\n ",
+              "nameText": "\n Only\n Course of Action I follows\n ",
+              "isCorrect": false,
+              "_id": "67c010aa5f6bc49a61668c4b",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n Course of Action II follows</span></span></span></span></p>\n ",
+              "nameText": "\n Only\n Course of Action II follows\n ",
+              "isCorrect": false,
+              "_id": "67c010aa5f6bc4141f668c4c",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Both\n I and II follow</span></span></span></span></p>\n ",
+              "nameText": "\n Both\n I and II follow\n ",
+              "isCorrect": true,
+              "_id": "67c010aa5f6bc45ddb668c4d",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Neither\n I nor II follows</span></span></span></span></p>\n ",
+              "nameText": "\n Neither\n I nor II follows\n ",
+              "isCorrect": false,
+              "_id": "67c010aa5f6bc48437668c4e",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Both\n actions are reasonable. Extra coaching will provide immediate\n support, while improving teaching methods will have long-term\n benefits.</span></span></span></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a30e568df8af8f2d115",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "67c0108f13f13e1169530636",
+          "name": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statement:\n \"Many people are shifting to electric vehicles due to rising\n fuel prices.\"</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Conclusion:</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I.\n Rising fuel prices is not affecting people's choice of\n transportation.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II.\n All people will eventually switch to electric vehicles.</span></span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n Statement:\n \"Many people are shifting to electric vehicles due to rising\n fuel prices.\"\n \n Conclusion:\n \n I.\n Rising fuel prices is not affecting people's choice of\n transportation.\n II.\n All people will eventually switch to electric vehicles.\n ",
+          "sectionId": "67c0107e27b4a104ace44003",
+          "order": 10,
+          "questionSubmitOrder": 10,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n Conclusion I follows</span></span></span></span></p>\n ",
+              "nameText": "\n Only\n Conclusion I follows\n ",
+              "isCorrect": false,
+              "_id": "67c010aa5f6bc44f4d668c87",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n Conclusion II follows</span></span></span></span></p>\n ",
+              "nameText": "\n Only\n Conclusion II follows\n ",
+              "isCorrect": false,
+              "_id": "67c010aa5f6bc4be20668c88",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Both\n I and II follow</span></span></span></span></p>\n ",
+              "nameText": "\n Both\n I and II follow\n ",
+              "isCorrect": false,
+              "_id": "67c010aa5f6bc42483668c89",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Neither\n I nor II follows</span></span></span></span></p>\n ",
+              "nameText": "\n Neither\n I nor II follows\n ",
+              "isCorrect": true,
+              "_id": "67c010aa5f6bc430d4668c8a",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Conclusion\n I do not follow because the statement does not establish a\n cause-effect relationship. Conclusion II does not follow as it is\n an extreme generalization.</span></span></span></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a30e568dfca7df2d116",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "67c0108f13f13e223d5305fa",
+          "name": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statement:\n Should the government implement a strict ban on plastic bags?</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Arguments:</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I.\n Yes, plastic bags contribute to environmental pollution and should\n be banned.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II.\n No, banning plastic bags will cause inconvenience to consumers and\n businesses.</span></span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n Statement:\n Should the government implement a strict ban on plastic bags?\n \n Arguments:\n \n I.\n Yes, plastic bags contribute to environmental pollution and should\n be banned.\n II.\n No, banning plastic bags will cause inconvenience to consumers and\n businesses.\n ",
+          "sectionId": "67c0107e27b4a104ace44003",
+          "order": 11,
+          "questionSubmitOrder": 11,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n Argument I is strong</span></span></span></span></p>\n ",
+              "nameText": "\n Only\n Argument I is strong\n ",
+              "isCorrect": true,
+              "_id": "67c010aa5f6bc43e12668c3f",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n Argument II is strong</span></span></span></span></p>\n ",
+              "nameText": "\n Only\n Argument II is strong\n ",
+              "isCorrect": false,
+              "_id": "67c010aa5f6bc477da668c40",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Both\n I and II are strong</span></span></span></span></p>\n ",
+              "nameText": "\n Both\n I and II are strong\n ",
+              "isCorrect": false,
+              "_id": "67c010aa5f6bc484fe668c41",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Neither\n I nor II is strong</span></span></span></span></p>\n ",
+              "nameText": "\n Neither\n I nor II is strong\n ",
+              "isCorrect": false,
+              "_id": "67c010aa5f6bc45cc0668c42",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Argument\n I is strong because it presents an environmental concern. Argument\n II is weak because inconvenience alone is not a strong enough\n reason to ignore environmental damage.</span></span></span></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a30e568df52b2f2d117",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "67c0108f13f13e35ec530609",
+          "name": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Read\n the following argument and mark which of the following assumptions\n is made in the argument.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">More\n than one billion years’ worth of rocks have gone missing\n from the geologic record of Grand Canyon.</span></span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n Read\n the following argument and mark which of the following assumptions\n is made in the argument.\n More\n than one billion years’ worth of rocks have gone missing\n from the geologic record of Grand Canyon.\n ",
+          "sectionId": "67c0107e27b4a104ace44003",
+          "order": 12,
+          "questionSubmitOrder": 12,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Earth\n has transitioned from an older setting to the modern one during\n these one billion years.</span></span></span></span></p>\n ",
+              "nameText": "\n Earth\n has transitioned from an older setting to the modern one during\n these one billion years.\n ",
+              "isCorrect": false,
+              "_id": "67c010aa5f6bc4da8c668c7f",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">The\n western half of the Grand Canyon has gone through a very different\n geologic contortion compared to the eastern half.</span></span></span></span></p>\n ",
+              "nameText": "\n The\n western half of the Grand Canyon has gone through a very different\n geologic contortion compared to the eastern half.\n ",
+              "isCorrect": false,
+              "_id": "67c010aa5f6bc4508f668c80",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Series\n of Faulting events in that region possibly tore up the earth\n around the Canyon causing rocks and sediments to wash away in the\n ocean.</span></span></span></span></p>\n ",
+              "nameText": "\n Series\n of Faulting events in that region possibly tore up the earth\n around the Canyon causing rocks and sediments to wash away in the\n ocean.\n ",
+              "isCorrect": true,
+              "_id": "67c010aa5f6bc4387a668c81",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">None\n of the mentioned options.</span></span></span></span></p>\n ",
+              "nameText": "\n None\n of the mentioned options.\n ",
+              "isCorrect": false,
+              "_id": "67c010aa5f6bc47669668c82",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">In\n a new study, researchers led by Peak identify a likely cause for\n the missing rocks: the breakup of Earth's ancient supercontinent\n Rodina approximately 700 million years ago. The upheaval was so\n violent it likely washed rocks and sediment into the ocean —\n one billion years’ worth, in the case of the Grand Canyon.</span></span></span></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a30e568df1ee4f2d118",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "67c0108f13f13efe6353064a",
+          "name": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statement:\n Fluency in spoken English is a must have in today's job market,\n where every firm wants to compete</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">at\n the international level.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Inferences:</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I.\n The imposition of language is unfair.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II.\n English is the language that bridges the gap between countries.</span></span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n Statement:\n Fluency in spoken English is a must have in today's job market,\n where every firm wants to compete\n \n at\n the international level.\n \n Inferences:\n \n I.\n The imposition of language is unfair.\n II.\n English is the language that bridges the gap between countries.\n ",
+          "sectionId": "67c0107e27b4a104ace44003",
+          "order": 13,
+          "questionSubmitOrder": 13,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n Conclusion I follows</span></span></span></span></p>\n ",
+              "nameText": "\n Only\n Conclusion I follows\n ",
+              "isCorrect": false,
+              "_id": "67c010aa5f6bc47671668c5f",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n Conclusion II follows</span></span></span></span></p>\n ",
+              "nameText": "\n Only\n Conclusion II follows\n ",
+              "isCorrect": true,
+              "_id": "67c010aa5f6bc43f05668c60",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Both\n I and II follow</span></span></span></span></p>\n ",
+              "nameText": "\n Both\n I and II follow\n ",
+              "isCorrect": false,
+              "_id": "67c010aa5f6bc4c562668c61",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Neither\n I nor II follows</span></span></span></span></p>\n ",
+              "nameText": "\n Neither\n I nor II follows\n ",
+              "isCorrect": false,
+              "_id": "67c010aa5f6bc41601668c62",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Conclusion\n I: \"The imposition of language is unfair\" does not\n follow because the statement does not discuss fairness or\n imposition; it simply states a requirement in the job market.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Conclusion\n II: \"English is the language that bridges the gap between\n countries\" follows because the statement implies that fluency\n in English is important for firms competing internationally.</span></span></span></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a30e568df0668f2d119",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "67c0108f13f13e464853060e",
+          "name": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statements:</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">1.\n The company has launched a new marketing campaign with attractive\n discounts.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">2.\n The sales of the company have significantly increased in the past\n month.</span></span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n Statements:\n \n 1.\n The company has launched a new marketing campaign with attractive\n discounts.\n 2.\n The sales of the company have significantly increased in the past\n month.\n ",
+          "sectionId": "67c0107e27b4a104ace44003",
+          "order": 14,
+          "questionSubmitOrder": 14,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statement\n 1 is the cause, and Statement 2 is its effect.</span></span></span></span></p>\n ",
+              "nameText": "\n Statement\n 1 is the cause, and Statement 2 is its effect.\n ",
+              "isCorrect": true,
+              "_id": "67c010aa5f6bc47020668c6f",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statement\n 2 is the cause, and Statement 1 is its effect.</span></span></span></span></p>\n ",
+              "nameText": "\n Statement\n 2 is the cause, and Statement 1 is its effect.\n ",
+              "isCorrect": false,
+              "_id": "67c010aa5f6bc43856668c70",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Both\n statements are independent causes.</span></span></span></span></p>\n ",
+              "nameText": "\n Both\n statements are independent causes.\n ",
+              "isCorrect": false,
+              "_id": "67c010aa5f6bc4473b668c71",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Both\n statements are effects of a common cause.</span></span></span></span></p>\n ",
+              "nameText": "\n Both\n statements are effects of a common cause.\n ",
+              "isCorrect": false,
+              "_id": "67c010aa5f6bc4c2e3668c72",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">The\n launch of a new marketing campaign (Statement 1) likely led to an\n increase in sales (Statement 2), making it a cause-and-effect\n relationship.</span></span></span></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a30e568df683cf2d11a",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "67c0108f13f13e4b3d530654",
+          "name": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Directions:\n In the question below, a statement and assumptions numbered I and\n II are given. An</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">assumption\n is something supposed or taken for granted. You have to consider\n the following assumption</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">and\n decide which of the assumption is implicit in the statement.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statement:\n “Tomorrow morning the daily review meeting will happen at 1\n pm instead of 11 am” said the boss.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Assumptions:</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I.\n That day boss will arrive at the office only at 1 pm.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II.\n Some of the employees will not be available at 11 am.</span></span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n Directions:\n In the question below, a statement and assumptions numbered I and\n II are given. An\n \n assumption\n is something supposed or taken for granted. You have to consider\n the following assumption\n \n and\n decide which of the assumption is implicit in the statement.\n \n Statement:\n “Tomorrow morning the daily review meeting will happen at 1\n pm instead of 11 am” said the boss.\n \n Assumptions:\n \n I.\n That day boss will arrive at the office only at 1 pm.\n II.\n Some of the employees will not be available at 11 am.\n ",
+          "sectionId": "67c0107e27b4a104ace44003",
+          "order": 15,
+          "questionSubmitOrder": 15,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n Assumption I is implicit</span></span></span></span></p>\n ",
+              "nameText": "\n Only\n Assumption I is implicit\n ",
+              "isCorrect": false,
+              "_id": "67c010aa5f6bc4e7e8668c4f",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n Assumption II is implicit</span></span></span></span></p>\n ",
+              "nameText": "\n Only\n Assumption II is implicit\n ",
+              "isCorrect": false,
+              "_id": "67c010aa5f6bc47b76668c50",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Both\n I and II are implicit</span></span></span></span></p>\n ",
+              "nameText": "\n Both\n I and II are implicit\n ",
+              "isCorrect": false,
+              "_id": "67c010aa5f6bc40bb0668c51",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Neither\n I nor II is implicit</span></span></span></span></p>\n ",
+              "nameText": "\n Neither\n I nor II is implicit\n ",
+              "isCorrect": true,
+              "_id": "67c010aa5f6bc4bd9c668c52",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">The\n statement does not mention when the boss will arrive (I is not\n implicit).</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">The\n reason for rescheduling is unclear, so employee unavailability is\n not necessarily assumed (II is not implicit).</span></span></span></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a30e568df249ff2d11b",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "67c0108f13f13e838a53061d",
+          "name": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statement:</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Mother\n scolding the child said, “If you continue doing naughty\n things, I will slap you.”</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Assumptions:</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I.\n All children are naughty.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II.\n With this warning, child may stop doing mischievous acts.</span></span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n Statement:\n \n Mother\n scolding the child said, “If you continue doing naughty\n things, I will slap you.”\n \n Assumptions:\n \n I.\n All children are naughty.\n II.\n With this warning, child may stop doing mischievous acts.\n ",
+          "sectionId": "67c0107e27b4a104ace44003",
+          "order": 16,
+          "questionSubmitOrder": 16,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n Assumption I is implicit</span></span></span></span></p>\n ",
+              "nameText": "\n Only\n Assumption I is implicit\n ",
+              "isCorrect": false,
+              "_id": "67c010aa5f6bc470b6668c83",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n Assumption II is implicit</span></span></span></span></p>\n ",
+              "nameText": "\n Only\n Assumption II is implicit\n ",
+              "isCorrect": true,
+              "_id": "67c010aa5f6bc447a4668c84",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Both\n I and II are implicit</span></span></span></span></p>\n ",
+              "nameText": "\n Both\n I and II are implicit\n ",
+              "isCorrect": false,
+              "_id": "67c010aa5f6bc44c04668c85",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Neither\n I nor II is implicit</span></span></span></span></p>\n ",
+              "nameText": "\n Neither\n I nor II is implicit\n ",
+              "isCorrect": false,
+              "_id": "67c010aa5f6bc46df3668c86",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Assumption\n I: \"All children are naughty\" is not implicit because\n the statement talks about one specific child, not all children in\n general.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Assumption\n II: \"With this warning, the child may stop doing mischievous\n acts\" is implicit because the mother’s warning suggests\n that she believes it will have an effect on the child's behavior.</span></span></span></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a30e568dff8e4f2d11c",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "67c0108f13f13e7dae530618",
+          "name": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Social\n gatherings could turn into COVID super spreader events if safety\n norms are flouted.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Conclusions\n :</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I.\n The coming festive season could be dangerous if safety norms are\n flouted and lead to a surge in COVID cases.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II.\n Vaccine provides over 95% protection against severe disease and\n hospitalisation.</span></span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n Social\n gatherings could turn into COVID super spreader events if safety\n norms are flouted.\n \n Conclusions\n :\n \n I.\n The coming festive season could be dangerous if safety norms are\n flouted and lead to a surge in COVID cases.\n II.\n Vaccine provides over 95% protection against severe disease and\n hospitalisation.\n ",
+          "sectionId": "67c0107e27b4a104ace44003",
+          "order": 17,
+          "questionSubmitOrder": 17,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n Conclusion I follows</span></span></span></span></p>\n ",
+              "nameText": "\n Only\n Conclusion I follows\n ",
+              "isCorrect": true,
+              "_id": "67c010aa5f6bc4d9db668c57",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n Conclusion II follows</span></span></span></span></p>\n ",
+              "nameText": "\n Only\n Conclusion II follows\n ",
+              "isCorrect": false,
+              "_id": "67c010aa5f6bc41990668c58",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Both\n I and II follow</span></span></span></span></p>\n ",
+              "nameText": "\n Both\n I and II follow\n ",
+              "isCorrect": false,
+              "_id": "67c010aa5f6bc48f9e668c59",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Neither\n I nor II follows</span></span></span></span></p>\n ",
+              "nameText": "\n Neither\n I nor II follows\n ",
+              "isCorrect": false,
+              "_id": "67c010aa5f6bc44144668c5a",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">As\n per the statement gatherings could turn  in to COVID super spread\n , so only Conclusion I follows, decision on Conclusion II can’t\n be taken as the statement doesn’t discuss about vaccination.</span></span></span></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a30e568df260df2d11d",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "67c0108f13f13e0cdd5305ff",
+          "name": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statement:\n \"People who exercise regularly are healthier than those who\n don’t.\"</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Assumption:</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I.\n Regular exercise improves health.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II.\n Some people do not exercise regularly.</span></span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n Statement:\n \"People who exercise regularly are healthier than those who\n don’t.\"\n \n Assumption:\n \n I.\n Regular exercise improves health.\n II.\n Some people do not exercise regularly.\n ",
+          "sectionId": "67c0107e27b4a104ace44003",
+          "order": 18,
+          "questionSubmitOrder": 18,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n Assumption I is implicit</span></span></span></span></p>\n ",
+              "nameText": "\n Only\n Assumption I is implicit\n ",
+              "isCorrect": false,
+              "_id": "67c010aa5f6bc440fc668c53",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n Assumption II is implicit</span></span></span></span></p>\n ",
+              "nameText": "\n Only\n Assumption II is implicit\n ",
+              "isCorrect": false,
+              "_id": "67c010aa5f6bc4205d668c54",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Both\n I and II are implicit</span></span></span></span></p>\n ",
+              "nameText": "\n Both\n I and II are implicit\n ",
+              "isCorrect": true,
+              "_id": "67c010aa5f6bc468bc668c55",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Neither\n I nor II is implicit</span></span></span></span></p>\n ",
+              "nameText": "\n Neither\n I nor II is implicit\n ",
+              "isCorrect": false,
+              "_id": "67c010aa5f6bc4558d668c56",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Assumption\n I is implicit because the statement claims a direct relationship\n between exercise and health. Assumption II is also implicit as the\n comparison suggests the existence of people who do not exercise.</span></span></span></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a30e568df90e7f2d11e",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "67c0108f13f13ee5e0530604",
+          "name": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statement:\n \"All cats are mammals. Some mammals are not domestic\n animals.\"</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Conclusion:</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I.\n Some domestic animals are mammals.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II.\n All mammals are cats.</span></span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n Statement:\n \"All cats are mammals. Some mammals are not domestic\n animals.\"\n \n Conclusion:\n \n I.\n Some domestic animals are mammals.\n II.\n All mammals are cats.\n ",
+          "sectionId": "67c0107e27b4a104ace44003",
+          "order": 19,
+          "questionSubmitOrder": 19,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n Conclusion I follows</span></span></span></span></p>\n ",
+              "nameText": "\n Only\n Conclusion I follows\n ",
+              "isCorrect": true,
+              "_id": "67c010aa5f6bc45a7d668c43",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n Conclusion II follows</span></span></span></span></p>\n ",
+              "nameText": "\n Only\n Conclusion II follows\n ",
+              "isCorrect": false,
+              "_id": "67c010aa5f6bc42ee7668c44",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Both\n I and II follow</span></span></span></span></p>\n ",
+              "nameText": "\n Both\n I and II follow\n ",
+              "isCorrect": false,
+              "_id": "67c010aa5f6bc4691e668c45",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Neither\n I nor II follows</span></span></span></span></p>\n ",
+              "nameText": "\n Neither\n I nor II follows\n ",
+              "isCorrect": false,
+              "_id": "67c010aa5f6bc40bd0668c46",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p lang=\"en-US\" class=\"western\">\n <span style=\"color: #000000\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\"><span lang=\"en-IN\"><span style=\"text-decoration: none\">Conclusion\n I logically follows, as some mammals can be domestic. Conclusion\n II is incorrect because all mammals are not necessarily cats.</span></span></span></span></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a30e568df88c2f2d11f",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "67c0108f13f13e10d7530631",
+          "name": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statement:\n \"To get a driving license, you must pass a driving test.\"</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Assumption:</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I.\n Driving tests help in identifying competent drivers.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II.\n Some people fail the driving test.</span></span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n Statement:\n \"To get a driving license, you must pass a driving test.\"\n \n Assumption:\n \n I.\n Driving tests help in identifying competent drivers.\n II.\n Some people fail the driving test.\n ",
+          "sectionId": "67c0107e27b4a104ace44003",
+          "order": 20,
+          "questionSubmitOrder": 20,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n Assumption I is implicit</span></span></span></span></p>\n ",
+              "nameText": "\n Only\n Assumption I is implicit\n ",
+              "isCorrect": false,
+              "_id": "67c010aa5f6bc41c9b668c5b",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n Assumption II is implicit</span></span></span></span></p>\n ",
+              "nameText": "\n Only\n Assumption II is implicit\n ",
+              "isCorrect": false,
+              "_id": "67c010aa5f6bc48074668c5c",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Both\n I and II are implicit</span></span></span></span></p>\n ",
+              "nameText": "\n Both\n I and II are implicit\n ",
+              "isCorrect": true,
+              "_id": "67c010aa5f6bc4c2e8668c5d",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Neither\n I nor II is implicit</span></span></span></span></p>\n ",
+              "nameText": "\n Neither\n I nor II is implicit\n ",
+              "isCorrect": false,
+              "_id": "67c010aa5f6bc40a0c668c5e",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Assumption\n I is implicit because the requirement of the test suggests its\n importance. Assumption II is implicit because if everyone passed,\n there would be no need for a test.</span></span></span></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a30e568dfc41bf2d120",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        }
+      ],
+      "numberOfQuestions": 20
+    }
+  ],
+  "userDetails": {
+    "name": "Shivam Gupta",
+    "userId": 193594164,
+    "orgId": 78392
+  },
+  "sts": 1791654448713,
+  "region": {
+    "timeFormat": "hh:mm a",
+    "dateTimeStamp": "yyyy/MM/dd"
+  }
+}

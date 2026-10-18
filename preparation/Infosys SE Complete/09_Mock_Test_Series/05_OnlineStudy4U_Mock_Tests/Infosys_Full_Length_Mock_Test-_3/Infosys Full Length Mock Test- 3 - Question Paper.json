@@ -1,0 +1,3000 @@
+{
+  "_id": "6ab15647d57fc8564e35e5a0",
+  "settings": {
+    "fonts": {
+      "include": "https://cms-gcp.classplusapp.com/parser/v3/css/combined?face=Consolas,serif,Consolas,serif",
+      "fonts": [
+        {
+          "face": "Consolas",
+          "supported": true
+        },
+        {
+          "face": "serif",
+          "supported": true
+        },
+        {
+          "face": "Consolas",
+          "supported": true
+        },
+        {
+          "face": "serif",
+          "supported": true
+        }
+      ]
+    },
+    "grades": {
+      "A": {
+        "max": 100,
+        "min": 70
+      },
+      "B": {
+        "max": 69,
+        "min": 50
+      },
+      "C": {
+        "max": 49,
+        "min": 35
+      },
+      "D": {
+        "max": 34,
+        "min": 20
+      },
+      "E": {
+        "max": 19,
+        "min": 10
+      },
+      "F": {
+        "max": 9,
+        "min": 0
+      }
+    },
+    "hasOptionalQuestions": false,
+    "settingsForRTG": {},
+    "generateBatchRank": true,
+    "defaultFont": null,
+    "generateInstitutionalRank": true,
+    "generatePercentile": true,
+    "showQuestionWiseTime": true,
+    "allowResultSharing": true,
+    "showQuestionTimer": true,
+    "calculatorType": "sci",
+    "enableLetterGrading": true,
+    "generateRandomTest": false,
+    "isSectionSwitchingEnabled": false,
+    "isSectionalSubmit": false,
+    "shuffleQuestions": true,
+    "showAnswers": true,
+    "isSolutionMultipleViewEnabled": true,
+    "shuffleOptions": false,
+    "revealCorrectAnswers": "all",
+    "revealAnswersTime": "now",
+    "parseMathJax": false
+  },
+  "isReadyToLink": true,
+  "isLinked": true,
+  "instructions": "",
+  "isSectionEnable": true,
+  "isReloadRequired": false,
+  "totalNumberOfQuestions": 60,
+  "totalMarks": 76,
+  "isAttempted": true,
+  "testFormat": "DEFAULT",
+  "isTemplateSelected": true,
+  "isCdnUpdated": false,
+  "languageList": [],
+  "lastAttemptedAt": "2026-10-09T20:43:10.123Z",
+  "name": "Infosys Full Length Mock Test- 3",
+  "duration": 7200000,
+  "createdBy": "5fddea8f5322c45a088d6898",
+  "parentFolder": "68de1aa07a4e3e23832138d1",
+  "sections": [
+    {
+      "draftMode": false,
+      "isActive": true,
+      "sectionDuration": 1500000,
+      "sectionMarks": 15,
+      "sectionInstructions": " ",
+      "hasOptionalQuestions": false,
+      "_id": "6ab15647d57fc8ca1835e599",
+      "name": "Reasoning",
+      "order": 1,
+      "numberOfQuestions": 15,
+      "questions": [
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">BOBMPH</span></p>",
+              "nameText": "BOBMPH",
+              "order": 1,
+              "_id": "6ab15b2c25e4494744ff1f39"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">ZMZKNF</span></p>\n ",
+              "nameText": "\n ZMZKNF\n ",
+              "order": 2,
+              "_id": "6ab15b2c25e4499d85ff1f3a"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">BOBNPH</span></p>\n ",
+              "nameText": "\n BOBNPH\n ",
+              "order": 3,
+              "_id": "6ab15b2c25e449869aff1f3b"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">BMBMPH</span></p>\n ",
+              "nameText": "\n BMBMPH\n ",
+              "order": 4,
+              "_id": "6ab15b2c25e4495c55ff1f3c"
+            }
+          ],
+          "_id": "6ab15b2c25e449308dff1f3d",
+          "isGlobal": false,
+          "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">If DIGITAL is coded as EJHJUBM, how is\n ANALOG coded?</span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n If DIGITAL is coded as EJHJUBM, how is\n ANALOG coded?\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 10,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Only I follows</span></p>\n ",
+              "nameText": "\n Only I follows\n ",
+              "order": 1,
+              "_id": "6ab15b2c25e449244aff1f34"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Only II follows</span></p>\n ",
+              "nameText": "\n Only II follows\n ",
+              "order": 2,
+              "_id": "6ab15b2c25e4496bc2ff1f35"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Both follow</span></p>\n ",
+              "nameText": "\n Both follow\n ",
+              "order": 3,
+              "_id": "6ab15b2c25e449f328ff1f36"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">Neither follows</span></p>",
+              "nameText": "Neither follows",
+              "order": 4,
+              "_id": "6ab15b2c25e4495dbbff1f37"
+            }
+          ],
+          "_id": "6ab15b2c25e449b6edff1f38",
+          "isGlobal": false,
+          "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Statements: All routers are devices. Some\n devices are sensors. Conclusions: I. Some routers are sensors. II.\n All sensors are routers.</span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n Statements: All routers are devices. Some\n devices are sensors. Conclusions: I. Some routers are sensors. II.\n All sensors are routers.\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 9,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">The company will close the website.</span></p>\n ",
+              "nameText": "\n The company will close the website.\n ",
+              "order": 1,
+              "_id": "6ab15b2c25e44960b8ff1f3e"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">Applicants may want to check status on a phone.</span></p>",
+              "nameText": "Applicants may want to check status on a phone.",
+              "order": 2,
+              "_id": "6ab15b2c25e449973dff1f3f"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Only graduates use phones.</span></p>\n ",
+              "nameText": "\n Only graduates use phones.\n ",
+              "order": 3,
+              "_id": "6ab15b2c25e4494bdbff1f40"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Tracking is impossible on a computer.</span></p>\n ",
+              "nameText": "\n Tracking is impossible on a computer.\n ",
+              "order": 4,
+              "_id": "6ab15b2c25e449aabdff1f41"
+            }
+          ],
+          "_id": "6ab15b2c25e4493f41ff1f42",
+          "isGlobal": false,
+          "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Statement: “Download the official app\n to track your application status.” Which assumption is\n implicit?</span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n Statement: “Download the official app\n to track your application status.” Which assumption is\n implicit?\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 11,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">20&deg;</span></p>",
+              "nameText": "20°",
+              "order": 1,
+              "_id": "6ab15b2c25e449110dff1f25"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">25°</span></p>\n ",
+              "nameText": "\n 25°\n ",
+              "order": 2,
+              "_id": "6ab15b2c25e4490aecff1f26"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">30°</span></p>\n ",
+              "nameText": "\n 30°\n ",
+              "order": 3,
+              "_id": "6ab15b2c25e449f5b9ff1f27"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">35°</span></p>\n ",
+              "nameText": "\n 35°\n ",
+              "order": 4,
+              "_id": "6ab15b2c25e4494b4cff1f28"
+            }
+          ],
+          "_id": "6ab15b2c25e4491ed9ff1f29",
+          "isGlobal": false,
+          "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">What is the angle between the hour and\n minute hands at 3:20?</span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n What is the angle between the hour and\n minute hands at 3:20?\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 6,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">Red</span></p>",
+              "nameText": "Red",
+              "order": 1,
+              "_id": "6ab15b2c25e4498850ff1f4d"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Blue</span></p>\n ",
+              "nameText": "\n Blue\n ",
+              "order": 2,
+              "_id": "6ab15b2c25e4497949ff1f4e"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Yellow</span></p>\n ",
+              "nameText": "\n Yellow\n ",
+              "order": 3,
+              "_id": "6ab15b2c25e4492e1fff1f4f"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Green</span></p>\n ",
+              "nameText": "\n Green\n ",
+              "order": 4,
+              "_id": "6ab15b2c25e4490951ff1f50"
+            }
+          ],
+          "_id": "6ab15b2c25e4499a29ff1f51",
+          "isGlobal": false,
+          "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Four cars finish a race in this order of\n constraints: Red is immediately before Blue. Green is last. Yellow\n is not first. Which car finishes first?</span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n Four cars finish a race in this order of\n constraints: Red is immediately before Blue. Green is last. Yellow\n is not first. Which car finishes first?\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 14,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">week next held exam</span></p>",
+              "nameText": "week next held exam",
+              "order": 1,
+              "_id": "6ab15b2c25e4490ef5ff1f52"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">week held next exam</span></p>\n ",
+              "nameText": "\n week held next exam\n ",
+              "order": 2,
+              "_id": "6ab15b2c25e449ef84ff1f53"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">next week exam held</span></p>\n ",
+              "nameText": "\n next week exam held\n ",
+              "order": 3,
+              "_id": "6ab15b2c25e449d668ff1f54"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">week exam next held</span></p>\n ",
+              "nameText": "\n week exam next held\n ",
+              "order": 4,
+              "_id": "6ab15b2c25e4490fb8ff1f55"
+            }
+          ],
+          "_id": "6ab15b2c25e449337cff1f56",
+          "isGlobal": false,
+          "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">A machine rearranges words: Input: “exam\n held next week”. Step I: “week exam held next”.\n Step II: “week next exam held”. What is Step III?</span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n A machine rearranges words: Input: “exam\n held next week”. Step I: “week exam held next”.\n Step II: “week next exam held”. What is Step III?\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 15,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Father</span></p>\n ",
+              "nameText": "\n Father\n ",
+              "order": 1,
+              "_id": "6ab15b2c25e4492126ff1f0c"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">Cousin</span></p>",
+              "nameText": "Cousin",
+              "order": 2,
+              "_id": "6ab15b2c25e449b808ff1f0d"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Brother</span></p>\n ",
+              "nameText": "\n Brother\n ",
+              "order": 3,
+              "_id": "6ab15b2c25e4498bbbff1f0e"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Uncle</span></p>\n ",
+              "nameText": "\n Uncle\n ",
+              "order": 4,
+              "_id": "6ab15b2c25e4492c73ff1f0f"
+            }
+          ],
+          "_id": "6ab15b2c25e4495e5cff1f10",
+          "isGlobal": false,
+          "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Pointing to a photograph, Kavya says, “He\n is the only son of my mother’s only brother.” How is\n the person in the photograph related to Kavya?</span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n Pointing to a photograph, Kavya says, “He\n is the only son of my mother’s only brother.” How is\n the person in the photograph related to Kavya?\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 1,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">10 m east</span></p>\n ",
+              "nameText": "\n 10 m east\n ",
+              "order": 1,
+              "_id": "6ab15b2c25e449b511ff1f11"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">6 m north</span></p>\n ",
+              "nameText": "\n 6 m north\n ",
+              "order": 2,
+              "_id": "6ab15b2c25e4498da1ff1f12"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">6 m east</span></p>",
+              "nameText": "6 m east",
+              "order": 3,
+              "_id": "6ab15b2c25e4492919ff1f13"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">16 m east</span></p>\n ",
+              "nameText": "\n 16 m east\n ",
+              "order": 4,
+              "_id": "6ab15b2c25e4498653ff1f14"
+            }
+          ],
+          "_id": "6ab15b2c25e4495cbcff1f15",
+          "isGlobal": false,
+          "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Amit walks 10 m north, then 6 m east, then\n 10 m south. How far is he from the starting point, and in which\n direction?</span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n Amit walks 10 m north, then 6 m east, then\n 10 m south. How far is he from the starting point, and in which\n direction?\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 2,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Monday</span></p>\n ",
+              "nameText": "\n Monday\n ",
+              "order": 1,
+              "_id": "6ab15b2c25e4494024ff1f20"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Wednesday</span></p>\n ",
+              "nameText": "\n Wednesday\n ",
+              "order": 2,
+              "_id": "6ab15b2c25e4498418ff1f21"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">Friday</span></p>",
+              "nameText": "Friday",
+              "order": 3,
+              "_id": "6ab15b2c25e4493380ff1f22"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Saturday</span></p>\n ",
+              "nameText": "\n Saturday\n ",
+              "order": 4,
+              "_id": "6ab15b2c25e449740eff1f23"
+            }
+          ],
+          "_id": "6ab15b2c25e4498baeff1f24",
+          "isGlobal": false,
+          "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">If 1 January 2024 was a Monday, what day was\n 1 March 2024?</span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n If 1 January 2024 was a Monday, what day was\n 1 March 2024?\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 5,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Instrument</span></p>\n ",
+              "nameText": "\n Instrument\n ",
+              "order": 1,
+              "_id": "6ab15b2c25e449a8cbff1f2f"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">Composer</span></p>",
+              "nameText": "Composer",
+              "order": 2,
+              "_id": "6ab15b2c25e449036fff1f30"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Orchestra</span></p>\n ",
+              "nameText": "\n Orchestra\n ",
+              "order": 3,
+              "_id": "6ab15b2c25e4491caaff1f31"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Stage</span></p>\n ",
+              "nameText": "\n Stage\n ",
+              "order": 4,
+              "_id": "6ab15b2c25e449068cff1f32"
+            }
+          ],
+          "_id": "6ab15b2c25e4495619ff1f33",
+          "isGlobal": false,
+          "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Choose the pair that matches the relation:\n Book : Author :: Symphony : ?</span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n Choose the pair that matches the relation:\n Book : Author :: Symphony : ?\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 8,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">88</span></p>\n ",
+              "nameText": "\n 88\n ",
+              "order": 1,
+              "_id": "6ab15b2c25e4491f1fff1f2a"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">94</span></p>\n ",
+              "nameText": "\n 94\n ",
+              "order": 2,
+              "_id": "6ab15b2c25e449b844ff1f2b"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">100</span></p>",
+              "nameText": "100",
+              "order": 3,
+              "_id": "6ab15b2c25e4496b82ff1f2c"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">108</span></p>\n ",
+              "nameText": "\n 108\n ",
+              "order": 4,
+              "_id": "6ab15b2c25e449e97dff1f2d"
+            }
+          ],
+          "_id": "6ab15b2c25e4493c4bff1f2e",
+          "isGlobal": false,
+          "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Find the next term: 7, 10, 16, 28, 52, ?</span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n Find the next term: 7, 10, 16, 28, 52, ?\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 7,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">121</span></p>\n ",
+              "nameText": "\n 121\n ",
+              "order": 1,
+              "_id": "6ab15b2c25e4490f60ff1f48"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">144</span></p>\n ",
+              "nameText": "\n 144\n ",
+              "order": 2,
+              "_id": "6ab15b2c25e4491cd5ff1f49"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">169</span></p>\n ",
+              "nameText": "\n 169\n ",
+              "order": 3,
+              "_id": "6ab15b2c25e449c218ff1f4a"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">222</span></p>",
+              "nameText": "222",
+              "order": 4,
+              "_id": "6ab15b2c25e44928b7ff1f4b"
+            }
+          ],
+          "_id": "6ab15b2c25e449c5d2ff1f4c",
+          "isGlobal": false,
+          "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Choose the odd one out: 121, 144, 169, 196,\n 222</span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n Choose the odd one out: 121, 144, 169, 196,\n 222\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 13,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">P &gt; S</span></p>",
+              "nameText": "P > S",
+              "order": 1,
+              "_id": "6ab15b2c25e4493cb0ff1f43"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Q &lt; T</span></p>\n ",
+              "nameText": "\n Q &lt; T\n ",
+              "order": 2,
+              "_id": "6ab15b2c25e449849aff1f44"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">P = T</span></p>\n ",
+              "nameText": "\n P = T\n ",
+              "order": 3,
+              "_id": "6ab15b2c25e449e771ff1f45"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">R &gt; T</span></p>\n ",
+              "nameText": "\n R &gt; T\n ",
+              "order": 4,
+              "_id": "6ab15b2c25e449c4c3ff1f46"
+            }
+          ],
+          "_id": "6ab15b2c25e4497befff1f47",
+          "isGlobal": false,
+          "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">If P &gt; Q = R ≥ S &lt; T, which\n conclusion is definitely true?</span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n If P &gt; Q = R ≥ S &lt; T, which\n conclusion is definitely true?\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 12,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">23rd</span></p>\n ",
+              "nameText": "\n 23rd\n ",
+              "order": 1,
+              "_id": "6ab15b2c25e449af5fff1f1b"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">24th</span></p>",
+              "nameText": "24th",
+              "order": 2,
+              "_id": "6ab15b2c25e44934d5ff1f1c"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">25th</span></p>\n ",
+              "nameText": "\n 25th\n ",
+              "order": 3,
+              "_id": "6ab15b2c25e449bb6eff1f1d"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">22nd</span></p>\n ",
+              "nameText": "\n 22nd\n ",
+              "order": 4,
+              "_id": "6ab15b2c25e449c008ff1f1e"
+            }
+          ],
+          "_id": "6ab15b2c25e4491580ff1f1f",
+          "isGlobal": false,
+          "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">In a queue of 35 people, Neha is 12th from\n the front. What is her position from the rear?</span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n In a queue of 35 people, Neha is 12th from\n the front. What is her position from the rear?\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 4,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Q</span></p>\n ",
+              "nameText": "\n Q\n ",
+              "order": 1,
+              "_id": "6ab15b2c25e449d7d2ff1f16"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">R</span></p>\n ",
+              "nameText": "\n R\n ",
+              "order": 2,
+              "_id": "6ab15b2c25e44958cfff1f17"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">T</span></p>",
+              "nameText": "T",
+              "order": 3,
+              "_id": "6ab15b2c25e449330eff1f18"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">S</span></p>\n ",
+              "nameText": "\n S\n ",
+              "order": 4,
+              "_id": "6ab15b2c25e4495309ff1f19"
+            }
+          ],
+          "_id": "6ab15b2c25e449c045ff1f1a",
+          "isGlobal": false,
+          "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Five friends P, Q, R, S and T sit in a row\n facing north. P sits at one end. Q sits second to the right of P.\n T sits between Q and R. S sits at the other end. Who sits in the\n middle?</span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n Five friends P, Q, R, S and T sit in a row\n facing north. P sits at one end. Q sits second to the right of P.\n T sits between Q and R. S sits at the other end. Who sits in the\n middle?\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 3,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        }
+      ]
+    },
+    {
+      "draftMode": false,
+      "isActive": true,
+      "sectionDuration": 2100000,
+      "sectionMarks": 10,
+      "sectionInstructions": " ",
+      "hasOptionalQuestions": false,
+      "_id": "6ab15647d57fc87c8535e59a",
+      "name": "Aptitude (Technical Ability)",
+      "order": 2,
+      "numberOfQuestions": 10,
+      "questions": [
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">140</span></p>\n ",
+              "nameText": "\n 140\n ",
+              "order": 1,
+              "_id": "6ab15b9336be793813412f71"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">150</span></p>\n ",
+              "nameText": "\n 150\n ",
+              "order": 2,
+              "_id": "6ab15b9336be792470412f72"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">160</span></p>",
+              "nameText": "160",
+              "order": 3,
+              "_id": "6ab15b9336be797b73412f73"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">170</span></p>\n ",
+              "nameText": "\n 170\n ",
+              "order": 4,
+              "_id": "6ab15b9336be794eee412f74"
+            }
+          ],
+          "_id": "6ab15b9336be79093a412f75",
+          "isGlobal": false,
+          "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">The value of 40% of 250 + 15% of 400 is</span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n The value of 40% of 250 + 15% of 400 is\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 10,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">20 hours</span></p>\n ",
+              "nameText": "\n 20 hours\n ",
+              "order": 1,
+              "_id": "6ab15b9336be7928ae412f62"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">25 hours</span></p>\n ",
+              "nameText": "\n 25 hours\n ",
+              "order": 2,
+              "_id": "6ab15b9336be792ad0412f63"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">30 hours</span></p>",
+              "nameText": "30 hours",
+              "order": 3,
+              "_id": "6ab15b9336be795c6d412f64"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">6 hours</span></p>\n ",
+              "nameText": "\n 6 hours\n ",
+              "order": 4,
+              "_id": "6ab15b9336be79770a412f65"
+            }
+          ],
+          "_id": "6ab15b9336be79ee94412f66",
+          "isGlobal": false,
+          "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Pipe A fills a tank in 10 hours and pipe B\n empties it in 15 hours. If both are opened together, the tank\n fills in</span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n Pipe A fills a tank in 10 hours and pipe B\n empties it in 15 hours. If both are opened together, the tank\n fills in\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 7,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">16</span></p>",
+              "nameText": "16",
+              "order": 1,
+              "_id": "6ab15b9336be798c93412f53"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">17</span></p>\n ",
+              "nameText": "\n 17\n ",
+              "order": 2,
+              "_id": "6ab15b9336be796df1412f54"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">15</span></p>\n ",
+              "nameText": "\n 15\n ",
+              "order": 3,
+              "_id": "6ab15b9336be79a985412f55"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">14</span></p>\n ",
+              "nameText": "\n 14\n ",
+              "order": 4,
+              "_id": "6ab15b9336be79acab412f56"
+            }
+          ],
+          "_id": "6ab15b9336be790c6c412f57",
+          "isGlobal": false,
+          "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">The average of five numbers is 18. If one\n number 22 is replaced by 12, the new average is</span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n The average of five numbers is 18. If one\n number 22 is replaced by 12, the new average is\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 4,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">10 years</span></p>\n ",
+              "nameText": "\n 10 years\n ",
+              "order": 1,
+              "_id": "6ab15b9336be79aeb9412f67"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">12 years</span></p>",
+              "nameText": "12 years",
+              "order": 2,
+              "_id": "6ab15b9336be79fdcb412f68"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">14 years</span></p>\n ",
+              "nameText": "\n 14 years\n ",
+              "order": 3,
+              "_id": "6ab15b9336be797c47412f69"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">16 years</span></p>\n ",
+              "nameText": "\n 16 years\n ",
+              "order": 4,
+              "_id": "6ab15b9336be79726d412f6a"
+            }
+          ],
+          "_id": "6ab15b9336be7923a6412f6b",
+          "isGlobal": false,
+          "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">The present ages of a father and son are in\n the ratio 7 : 2. After 6 years the ratio will be 8 : 3. The son’s\n present age is</span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n The present ages of a father and son are in\n the ratio 7 : 2. After 6 years the ratio will be 8 : 3. The son’s\n present age is\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 8,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">₹2,750</span></p>",
+              "nameText": "₹2,750",
+              "order": 1,
+              "_id": "6ab15b9336be79f561412f6c"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">₹2,200</span></p>\n ",
+              "nameText": "\n ₹2,200\n ",
+              "order": 2,
+              "_id": "6ab15b9336be790115412f6d"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">₹3,000</span></p>\n ",
+              "nameText": "\n ₹3,000\n ",
+              "order": 3,
+              "_id": "6ab15b9336be792717412f6e"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">₹3,300</span></p>\n ",
+              "nameText": "\n ₹3,300\n ",
+              "order": 4,
+              "_id": "6ab15b9336be7949f6412f6f"
+            }
+          ],
+          "_id": "6ab15b9336be7968ed412f70",
+          "isGlobal": false,
+          "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">A invests ₹30,000 for 8 months and B\n invests ₹40,000 for 6 months. If the profit is ₹5,500,\n A’s share is</span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n A invests ₹30,000 for 8 months and B\n invests ₹40,000 for 6 months. If the profit is ₹5,500,\n A’s share is\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 9,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">₹800</span></p>\n ",
+              "nameText": "\n ₹800\n ",
+              "order": 1,
+              "_id": "6ab15b9336be7939db412f58"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">₹1,000</span></p>\n ",
+              "nameText": "\n ₹1,000\n ",
+              "order": 2,
+              "_id": "6ab15b9336be79e616412f59"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">₹1,200</span></p>",
+              "nameText": "₹1,200",
+              "order": 3,
+              "_id": "6ab15b9336be797bf2412f5a"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">₹1,500</span></p>\n ",
+              "nameText": "\n ₹1,500\n ",
+              "order": 4,
+              "_id": "6ab15b9336be79b779412f5b"
+            }
+          ],
+          "_id": "6ab15b9336be79d8bb412f5c",
+          "isGlobal": false,
+          "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">₹5,000 is lent at 8% simple interest\n per year. What is the interest after 3 years?</span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n ₹5,000 is lent at 8% simple interest\n per year. What is the interest after 3 years?\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 5,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">3 : 4 : 7</span></p>\n ",
+              "nameText": "\n 3 : 4 : 7\n ",
+              "order": 1,
+              "_id": "6ab15b9336be79bc2d412f4e"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">9 : 12 : 14</span></p>",
+              "nameText": "9 : 12 : 14",
+              "order": 2,
+              "_id": "6ab15b9336be793495412f4f"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">18 : 24 : 14</span></p>\n ",
+              "nameText": "\n 18 : 24 : 14\n ",
+              "order": 3,
+              "_id": "6ab15b9336be792330412f50"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">3 : 6 : 7</span></p>\n ",
+              "nameText": "\n 3 : 6 : 7\n ",
+              "order": 4,
+              "_id": "6ab15b9336be792421412f51"
+            }
+          ],
+          "_id": "6ab15b9336be793a9a412f52",
+          "isGlobal": false,
+          "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">If A : B = 3 : 4 and B : C = 6 : 7, then A :\n B : C is</span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n If A : B = 3 : 4 and B : C = 6 : 7, then A :\n B : C is\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 3,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">5% increase</span></p>\n ",
+              "nameText": "\n 5% increase\n ",
+              "order": 1,
+              "_id": "6ab15b9336be79945f412f49"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">5% decrease</span></p>\n ",
+              "nameText": "\n 5% decrease\n ",
+              "order": 2,
+              "_id": "6ab15b9336be795624412f4a"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">no change</span></p>",
+              "nameText": "no change",
+              "order": 3,
+              "_id": "6ab15b9336be797372412f4b"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">2.5% decrease</span></p>\n ",
+              "nameText": "\n 2.5% decrease\n ",
+              "order": 4,
+              "_id": "6ab15b9336be798862412f4c"
+            }
+          ],
+          "_id": "6ab15b9336be7917b7412f4d",
+          "isGlobal": false,
+          "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">A number is increased by 25% and then\n decreased by 20%. The net change is</span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n A number is increased by 25% and then\n decreased by 20%. The net change is\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 2,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">1</span></p>\n ",
+              "nameText": "\n 1\n ",
+              "order": 1,
+              "_id": "6ab15b9336be794318412f44"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">2</span></p>",
+              "nameText": "2",
+              "order": 2,
+              "_id": "6ab15b9336be796f67412f45"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">3</span></p>\n ",
+              "nameText": "\n 3\n ",
+              "order": 3,
+              "_id": "6ab15b9336be7902e6412f46"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">4</span></p>\n ",
+              "nameText": "\n 4\n ",
+              "order": 4,
+              "_id": "6ab15b9336be79ad33412f47"
+            }
+          ],
+          "_id": "6ab15b9336be79d99c412f48",
+          "isGlobal": false,
+          "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">What is the remainder when 2^10 is divided\n by 7?</span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n What is the remainder when 2^10 is divided\n by 7?\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 1,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">10 s</span></p>\n ",
+              "nameText": "\n 10 s\n ",
+              "order": 1,
+              "_id": "6ab15b9336be791de6412f5d"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">12 s</span></p>",
+              "nameText": "12 s",
+              "order": 2,
+              "_id": "6ab15b9336be790654412f5e"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">15 s</span></p>\n ",
+              "nameText": "\n 15 s\n ",
+              "order": 3,
+              "_id": "6ab15b9336be79493c412f5f"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">18 s</span></p>\n ",
+              "nameText": "\n 18 s\n ",
+              "order": 4,
+              "_id": "6ab15b9336be79aa6e412f60"
+            }
+          ],
+          "_id": "6ab15b9336be791ea6412f61",
+          "isGlobal": false,
+          "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">A train 180 m long runs at 54 km/h. How many\n seconds does it take to pass a pole?</span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n A train 180 m long runs at 54 km/h. How many\n seconds does it take to pass a pole?\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 6,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        }
+      ]
+    },
+    {
+      "draftMode": false,
+      "isActive": true,
+      "sectionDuration": 1200000,
+      "sectionMarks": 20,
+      "sectionInstructions": " ",
+      "hasOptionalQuestions": false,
+      "_id": "6ab15647d57fc813af35e59b",
+      "name": "Verbal Ability",
+      "order": 3,
+      "numberOfQuestions": 20,
+      "questions": [
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">conclusive</span></p>\n ",
+              "nameText": "\n conclusive\n ",
+              "order": 1,
+              "_id": "6ab15bf139869f640f5e75fe"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">scanty</span></p>",
+              "nameText": "scanty",
+              "order": 2,
+              "_id": "6ab15bf139869ff6575e75ff"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">ample</span></p>\n ",
+              "nameText": "\n ample\n ",
+              "order": 3,
+              "_id": "6ab15bf139869fe3f65e7600"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">decisive</span></p>\n ",
+              "nameText": "\n decisive\n ",
+              "order": 4,
+              "_id": "6ab15bf139869f27125e7601"
+            }
+          ],
+          "_id": "6ab15bf139869f366f5e7602",
+          "isGlobal": false,
+          "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Fill in the blank: The evidence was too\n _____ to support a firm conclusion.</span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n Fill in the blank: The evidence was too\n _____ to support a firm conclusion.\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 20,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">The team as well as the lead have agreed.</span></p>\n ",
+              "nameText": "\n The team as well as the lead have agreed.\n ",
+              "order": 1,
+              "_id": "6ab15bf139869f07235e75cc"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">The team as well as the lead are agreed.</span></p>\n ",
+              "nameText": "\n The team as well as the lead are agreed.\n ",
+              "order": 2,
+              "_id": "6ab15bf139869fdccf5e75cd"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">The team as well as the lead has agreed.</span></p>",
+              "nameText": "The team as well as the lead has agreed.",
+              "order": 3,
+              "_id": "6ab15bf139869fb4b45e75ce"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">The team as well as the lead have agree.</span></p>\n ",
+              "nameText": "\n The team as well as the lead have agree.\n ",
+              "order": 4,
+              "_id": "6ab15bf139869f744e5e75cf"
+            }
+          ],
+          "_id": "6ab15bf139869f87df5e75d0",
+          "isGlobal": false,
+          "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Choose the grammatically correct sentence.</span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n Choose the grammatically correct sentence.\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 10,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Enlarge</span></p>\n ",
+              "nameText": "\n Enlarge\n ",
+              "order": 1,
+              "_id": "6ab15bf139869f785c5e75ef"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Widen</span></p>\n ",
+              "nameText": "\n Widen\n ",
+              "order": 2,
+              "_id": "6ab15bf139869f25ae5e75f0"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">Contract</span></p>",
+              "nameText": "Contract",
+              "order": 3,
+              "_id": "6ab15bf139869f63455e75f1"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Grow</span></p>\n ",
+              "nameText": "\n Grow\n ",
+              "order": 4,
+              "_id": "6ab15bf139869f56ca5e75f2"
+            }
+          ],
+          "_id": "6ab15bf139869fb5d25e75f3",
+          "isGlobal": false,
+          "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Choose the word most opposite in meaning to\n “expand.”</span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n Choose the word most opposite in meaning to\n “expand.”\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 17,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">pay a yearly fee only</span></p>\n ",
+              "nameText": "\n pay a yearly fee only\n ",
+              "order": 1,
+              "_id": "6ab15bf139869ff9b35e75a4"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">rename the library</span></p>\n ",
+              "nameText": "\n rename the library\n ",
+              "order": 2,
+              "_id": "6ab15bf139869f3f8c5e75a5"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">publish its own source if the library is mixed into a shipped product</span></p>",
+              "nameText": "publish its own source if the library is mixed into a shipped product",
+              "order": 3,
+              "_id": "6ab15bf139869f456b5e75a6"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">delete all comments</span></p>\n ",
+              "nameText": "\n delete all comments\n ",
+              "order": 4,
+              "_id": "6ab15bf139869fe3355e75a7"
+            }
+          ],
+          "_id": "6ab15bf139869f17485e75a8",
+          "isGlobal": false,
+          "name": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px;\"><span style=\"color: #111827;\"><span style=\"font-size: 13px;\"><strong>Passage</strong></span></span></p>\n<p style=\"margin-top: 0.288px;\"></p>\n<p style=\"margin-top: 0.288px; margin-bottom: 0.480px;\"><span style=\"color: #111827;\"><span style=\"font-size: 13px;\">Open-source licences let companies use shared libraries without writing every component from scratch. That speed has a condition: teams must track which licence each library carries. A copyleft licence can require the company to publish its own source if the library is mixed into a shipped product. Permissive licences are lighter, but they still ask for credit. Legal reviews that happen only a week before release often find a blocked component and force a rewrite. Groups that keep a licence inventory from the first sprint avoid that scramble.</span></span></p>\n<p style=\"margin-top: 0.288px;\"><strong><span style=\"color: #111827;\">A copyleft licence may require a company to</span></strong></p>",
+          "paragraph": null,
+          "nameText": "Passage\n\nOpen-source licences let companies use shared libraries without writing every component from scratch. That speed has a condition: teams must track which licence each library carries. A copyleft licence can require the company to publish its own source if the library is mixed into a shipped product. Permissive licences are lighter, but they still ask for credit. Legal reviews that happen only a week before release often find a blocked component and force a rewrite. Groups that keep a licence inventory from the first sprint avoid that scramble.\nA copyleft licence may require a company to",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 2,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Open-source software should be banned in\n companies.</span></p>\n ",
+              "nameText": "\n Open-source software should be banned in\n companies.\n ",
+              "order": 1,
+              "_id": "6ab15bf139869f3a8a5e759f"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">Shared libraries save time only if licences are tracked early.</span></p>",
+              "nameText": "Shared libraries save time only if licences are tracked early.",
+              "order": 2,
+              "_id": "6ab15bf139869f5b645e75a0"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Copyleft licences never require published\n source.</span></p>\n ",
+              "nameText": "\n Copyleft licences never require published\n source.\n ",
+              "order": 3,
+              "_id": "6ab15bf139869f4e6c5e75a1"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Legal reviews should be delayed until\n release week.</span></p>\n ",
+              "nameText": "\n Legal reviews should be delayed until\n release week.\n ",
+              "order": 4,
+              "_id": "6ab15bf139869f5dcb5e75a2"
+            }
+          ],
+          "_id": "6ab15bf139869fa56f5e75a3",
+          "isGlobal": false,
+          "name": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px;\"><span style=\"color: #111827;\"><span style=\"font-size: 13px;\"><strong>Passage</strong></span></span></p>\n<p style=\"margin-top: 0.288px; margin-bottom: 0.480px;\"><span style=\"color: #111827;\"><span style=\"font-size: 13px;\">Open-source licences let companies use shared libraries without writing every component from scratch. That speed has a condition: teams must track which licence each library carries. A copyleft licence can require the company to publish its own source if the library is mixed into a shipped product. Permissive licences are lighter, but they still ask for credit. Legal reviews that happen only a week before release often find a blocked component and force a rewrite. Groups that keep a licence inventory from the first sprint avoid that scramble.</span></span></p>\n<p style=\"margin-top: 0.288px;\"><strong><span style=\"color: #111827;\">What is the main idea of the passage?</span></strong></p>",
+          "paragraph": null,
+          "nameText": "Passage\nOpen-source licences let companies use shared libraries without writing every component from scratch. That speed has a condition: teams must track which licence each library carries. A copyleft licence can require the company to publish its own source if the library is mixed into a shipped product. Permissive licences are lighter, but they still ask for credit. Legal reviews that happen only a week before release often find a blocked component and force a rewrite. Groups that keep a licence inventory from the first sprint avoid that scramble.\nWhat is the main idea of the passage?",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 1,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">The data was collected last year and are\n reliable.</span></p>\n ",
+              "nameText": "\n The data was collected last year and are\n reliable.\n ",
+              "order": 1,
+              "_id": "6ab15bf139869fd6635e75b8"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">The data collected last year are reliable.</span></p>",
+              "nameText": "The data collected last year are reliable.",
+              "order": 2,
+              "_id": "6ab15bf139869fa2255e75b9"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">The data collected last year is being\n reliable.</span></p>\n ",
+              "nameText": "\n The data collected last year is being\n reliable.\n ",
+              "order": 3,
+              "_id": "6ab15bf139869f3b2f5e75ba"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">The datas collected last year are reliable.</span></p>\n ",
+              "nameText": "\n The datas collected last year are reliable.\n ",
+              "order": 4,
+              "_id": "6ab15bf139869f2da25e75bb"
+            }
+          ],
+          "_id": "6ab15bf139869f2ce15e75bc",
+          "isGlobal": false,
+          "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Choose the grammatically correct sentence.</span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n Choose the grammatically correct sentence.\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 6,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">often find a blocked component and force a rewrite</span></p>",
+              "nameText": "often find a blocked component and force a rewrite",
+              "order": 1,
+              "_id": "6ab15bf139869f4ae35e75a9"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">always cancel the product</span></p>\n ",
+              "nameText": "\n always cancel the product\n ",
+              "order": 2,
+              "_id": "6ab15bf139869f77655e75aa"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">remove the need for credit</span></p>\n ",
+              "nameText": "\n remove the need for credit\n ",
+              "order": 3,
+              "_id": "6ab15bf139869f47965e75ab"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">make permissive licences heavier</span></p>\n ",
+              "nameText": "\n make permissive licences heavier\n ",
+              "order": 4,
+              "_id": "6ab15bf139869f13ab5e75ac"
+            }
+          ],
+          "_id": "6ab15bf139869f00185e75ad",
+          "isGlobal": false,
+          "name": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px;\"><span style=\"color: #111827;\"><span style=\"font-size: 13px;\"><strong>Passage</strong></span></span></p>\n<p style=\"margin-top: 0.288px;\"></p>\n<p style=\"margin-top: 0.288px; margin-bottom: 0.480px;\"><span style=\"color: #111827;\"><span style=\"font-size: 13px;\">Open-source licences let companies use shared libraries without writing every component from scratch. That speed has a condition: teams must track which licence each library carries. A copyleft licence can require the company to publish its own source if the library is mixed into a shipped product. Permissive licences are lighter, but they still ask for credit. Legal reviews that happen only a week before release often find a blocked component and force a rewrite. Groups that keep a licence inventory from the first sprint avoid that scramble.</span></span></p>\n<p style=\"margin-top: 0.288px;\"><strong><span style=\"color: #111827;\">Late legal reviews are a problem because they</span></strong></p>",
+          "paragraph": null,
+          "nameText": "Passage\n\nOpen-source licences let companies use shared libraries without writing every component from scratch. That speed has a condition: teams must track which licence each library carries. A copyleft licence can require the company to publish its own source if the library is mixed into a shipped product. Permissive licences are lighter, but they still ask for credit. Legal reviews that happen only a week before release often find a blocked component and force a rewrite. Groups that keep a licence inventory from the first sprint avoid that scramble.\nLate legal reviews are a problem because they",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 3,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">full source publication</span></p>\n ",
+              "nameText": "\n full source publication\n ",
+              "order": 1,
+              "_id": "6ab15bf139869faa985e75ae"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">credit</span></p>",
+              "nameText": "credit",
+              "order": 2,
+              "_id": "6ab15bf139869f38235e75af"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">a one-week delay</span></p>\n ",
+              "nameText": "\n a one-week delay\n ",
+              "order": 3,
+              "_id": "6ab15bf139869f61075e75b0"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">a rewrite of every module</span></p>\n ",
+              "nameText": "\n a rewrite of every module\n ",
+              "order": 4,
+              "_id": "6ab15bf139869f0ae05e75b1"
+            }
+          ],
+          "_id": "6ab15bf139869ff92c5e75b2",
+          "isGlobal": false,
+          "name": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px;\"><span style=\"color: #111827;\"><span style=\"font-size: 13px;\"><strong>Passage</strong></span></span></p>\n<p style=\"margin-top: 0.288px;\"></p>\n<p style=\"margin-top: 0.288px; margin-bottom: 0.480px;\"><span style=\"color: #111827;\"><span style=\"font-size: 13px;\">Open-source licences let companies use shared libraries without writing every component from scratch. That speed has a condition: teams must track which licence each library carries. A copyleft licence can require the company to publish its own source if the library is mixed into a shipped product. Permissive licences are lighter, but they still ask for credit. Legal reviews that happen only a week before release often find a blocked component and force a rewrite. Groups that keep a licence inventory from the first sprint avoid that scramble.</span></span></p>\n<p style=\"margin-top: 0.288px;\"><strong><span style=\"color: #111827;\">Permissive licences still require</span></strong></p>",
+          "paragraph": null,
+          "nameText": "Passage\n\nOpen-source licences let companies use shared libraries without writing every component from scratch. That speed has a condition: teams must track which licence each library carries. A copyleft licence can require the company to publish its own source if the library is mixed into a shipped product. Permissive licences are lighter, but they still ask for credit. Legal reviews that happen only a week before release often find a blocked component and force a rewrite. Groups that keep a licence inventory from the first sprint avoid that scramble.\nPermissive licences still require",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 4,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">ignoring copyleft libraries</span></p>\n ",
+              "nameText": "\n ignoring copyleft libraries\n ",
+              "order": 1,
+              "_id": "6ab15bf139869f0c4b5e75b3"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">hiring more testers in the last week</span></p>\n ",
+              "nameText": "\n hiring more testers in the last week\n ",
+              "order": 2,
+              "_id": "6ab15bf139869fc94f5e75b4"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">keeping a licence inventory from the first sprint</span></p>",
+              "nameText": "keeping a licence inventory from the first sprint",
+              "order": 3,
+              "_id": "6ab15bf139869f446e5e75b5"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">shipping without review</span></p>\n ",
+              "nameText": "\n shipping without review\n ",
+              "order": 4,
+              "_id": "6ab15bf139869f58a05e75b6"
+            }
+          ],
+          "_id": "6ab15bf139869f4ab85e75b7",
+          "isGlobal": false,
+          "name": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px;\"><span style=\"color: #111827;\"><span style=\"font-size: 13px;\"><strong>Passage</strong></span></span></p>\n<p style=\"margin-top: 0.288px;\"></p>\n<p style=\"margin-top: 0.288px; margin-bottom: 0.480px;\"><span style=\"color: #111827;\"><span style=\"font-size: 13px;\">Open-source licences let companies use shared libraries without writing every component from scratch. That speed has a condition: teams must track which licence each library carries. A copyleft licence can require the company to publish its own source if the library is mixed into a shipped product. Permissive licences are lighter, but they still ask for credit. Legal reviews that happen only a week before release often find a blocked component and force a rewrite. Groups that keep a licence inventory from the first sprint avoid that scramble.</span></span></p>\n<p style=\"margin-top: 0.288px;\"><strong><span style=\"color: #111827;\">Teams avoid last-minute scramble by</span></strong></p>",
+          "paragraph": null,
+          "nameText": "Passage\n\nOpen-source licences let companies use shared libraries without writing every component from scratch. That speed has a condition: teams must track which licence each library carries. A copyleft licence can require the company to publish its own source if the library is mixed into a shipped product. Permissive licences are lighter, but they still ask for credit. Legal reviews that happen only a week before release often find a blocked component and force a rewrite. Groups that keep a licence inventory from the first sprint avoid that scramble.\nTeams avoid last-minute scramble by",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 5,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Idealistic</span></p>\n ",
+              "nameText": "\n Idealistic\n ",
+              "order": 1,
+              "_id": "6ab15bf139869f41c15e75ea"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">Practical</span></p>",
+              "nameText": "Practical",
+              "order": 2,
+              "_id": "6ab15bf139869f7cea5e75eb"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Careless</span></p>\n ",
+              "nameText": "\n Careless\n ",
+              "order": 3,
+              "_id": "6ab15bf139869f86f85e75ec"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Vague</span></p>\n ",
+              "nameText": "\n Vague\n ",
+              "order": 4,
+              "_id": "6ab15bf139869f89795e75ed"
+            }
+          ],
+          "_id": "6ab15bf139869fb0f25e75ee",
+          "isGlobal": false,
+          "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Choose the word most similar in meaning to\n “pragmatic.”</span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n Choose the word most similar in meaning to\n “pragmatic.”\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 16,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">Hardly had the server restarted when the alerts stopped.</span></p>",
+              "nameText": "Hardly had the server restarted when the alerts stopped.",
+              "order": 1,
+              "_id": "6ab15bf139869f00005e75bd"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Hardly the server had restarted than the\n alerts stopped.</span></p>\n ",
+              "nameText": "\n Hardly the server had restarted than the\n alerts stopped.\n ",
+              "order": 2,
+              "_id": "6ab15bf139869f53445e75be"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Hardly had the server restarted then the\n alerts stopped.</span></p>\n ",
+              "nameText": "\n Hardly had the server restarted then the\n alerts stopped.\n ",
+              "order": 3,
+              "_id": "6ab15bf139869fefea5e75bf"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Hardly the server restarted when the alerts\n stopped.</span></p>\n ",
+              "nameText": "\n Hardly the server restarted when the alerts\n stopped.\n ",
+              "order": 4,
+              "_id": "6ab15bf139869f23cb5e75c0"
+            }
+          ],
+          "_id": "6ab15bf139869f90135e75c1",
+          "isGlobal": false,
+          "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Choose the grammatically correct sentence.</span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n Choose the grammatically correct sentence.\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 7,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Q S P R</span></p>\n ",
+              "nameText": "\n Q S P R\n ",
+              "order": 1,
+              "_id": "6ab15bf139869f2dc25e75d6"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">Q P R S</span></p>",
+              "nameText": "Q P R S",
+              "order": 2,
+              "_id": "6ab15bf139869fcecb5e75d7"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">P Q R S</span></p>\n ",
+              "nameText": "\n P Q R S\n ",
+              "order": 3,
+              "_id": "6ab15bf139869f0a3f5e75d8"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">S Q P R</span></p>\n ",
+              "nameText": "\n S Q P R\n ",
+              "order": 4,
+              "_id": "6ab15bf139869f4bfa5e75d9"
+            }
+          ],
+          "_id": "6ab15bf139869fea085e75da",
+          "isGlobal": false,
+          "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Arrange: P: Pair reviews catch those slips\n before merge. Q: Tired authors miss their own typos in a long\n patch. R: Many teams therefore require a second name on every\n change. S: Style guides alone do not replace a second pair of\n eyes.</span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n Arrange: P: Pair reviews catch those slips\n before merge. Q: Tired authors miss their own typos in a long\n patch. R: Many teams therefore require a second name on every\n change. S: Style guides alone do not replace a second pair of\n eyes.\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 12,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">R P Q S</span></p>\n ",
+              "nameText": "\n R P Q S\n ",
+              "order": 1,
+              "_id": "6ab15bf139869fe0c35e75db"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Q R P S</span></p>\n ",
+              "nameText": "\n Q R P S\n ",
+              "order": 2,
+              "_id": "6ab15bf139869fbd3e5e75dc"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">R Q P S</span></p>",
+              "nameText": "R Q P S",
+              "order": 3,
+              "_id": "6ab15bf139869ff8e95e75dd"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">R Q S P</span></p>\n ",
+              "nameText": "\n R Q S P\n ",
+              "order": 4,
+              "_id": "6ab15bf139869f36e25e75de"
+            }
+          ],
+          "_id": "6ab15bf139869f75705e75df",
+          "isGlobal": false,
+          "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Arrange: P: The spare unit then takes over\n within seconds. Q: Critical servers run in pairs for this reason.\n R: A single disk failure should not stop a payments site. S:\n Health checks decide when the switch must happen.</span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n Arrange: P: The spare unit then takes over\n within seconds. Q: Critical servers run in pairs for this reason.\n R: A single disk failure should not stop a payments site. S:\n Health checks decide when the switch must happen.\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 13,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">She congratulated me for my promotion.</span></p>\n ",
+              "nameText": "\n She congratulated me for my promotion.\n ",
+              "order": 1,
+              "_id": "6ab15bf139869f1e485e75c2"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">She congratulated me on my promotion.</span></p>",
+              "nameText": "She congratulated me on my promotion.",
+              "order": 2,
+              "_id": "6ab15bf139869f19f95e75c3"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">She congratulated me to my promotion.</span></p>\n ",
+              "nameText": "\n She congratulated me to my promotion.\n ",
+              "order": 3,
+              "_id": "6ab15bf139869f85575e75c4"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">She congratulated me with my promotion.</span></p>\n ",
+              "nameText": "\n She congratulated me with my promotion.\n ",
+              "order": 4,
+              "_id": "6ab15bf139869f3ce05e75c5"
+            }
+          ],
+          "_id": "6ab15bf139869f0ce25e75c6",
+          "isGlobal": false,
+          "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Choose the grammatically correct sentence.</span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n Choose the grammatically correct sentence.\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 8,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">Do something in the cheapest or quickest way, leaving out steps</span></p>",
+              "nameText": "Do something in the cheapest or quickest way, leaving out steps",
+              "order": 1,
+              "_id": "6ab15bf139869f54995e75f4"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Turn sharply while driving</span></p>\n ",
+              "nameText": "\n Turn sharply while driving\n ",
+              "order": 2,
+              "_id": "6ab15bf139869fe95c5e75f5"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Finish extra work</span></p>\n ",
+              "nameText": "\n Finish extra work\n ",
+              "order": 3,
+              "_id": "6ab15bf139869f3b735e75f6"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Share credit equally</span></p>\n ",
+              "nameText": "\n Share credit equally\n ",
+              "order": 4,
+              "_id": "6ab15bf139869f72215e75f7"
+            }
+          ],
+          "_id": "6ab15bf139869f1c3e5e75f8",
+          "isGlobal": false,
+          "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">What does the idiom “cut corners”\n mean?</span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n What does the idiom “cut corners”\n mean?\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 18,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">Fewer errors were logged after the patch.</span></p>",
+              "nameText": "Fewer errors were logged after the patch.",
+              "order": 1,
+              "_id": "6ab15bf139869f31da5e75c7"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Less errors were logged after the patch.</span></p>\n ",
+              "nameText": "\n Less errors were logged after the patch.\n ",
+              "order": 2,
+              "_id": "6ab15bf139869f52955e75c8"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Fewer error was logged after the patch.</span></p>\n ",
+              "nameText": "\n Fewer error was logged after the patch.\n ",
+              "order": 3,
+              "_id": "6ab15bf139869fb9db5e75c9"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Less number of errors was logged after the\n patch.</span></p>\n ",
+              "nameText": "\n Less number of errors was logged after the\n patch.\n ",
+              "order": 4,
+              "_id": "6ab15bf139869f0f395e75ca"
+            }
+          ],
+          "_id": "6ab15bf139869f3fd35e75cb",
+          "isGlobal": false,
+          "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Choose the grammatically correct sentence.</span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n Choose the grammatically correct sentence.\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 9,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">Q P R S</span></p>",
+              "nameText": "Q P R S",
+              "order": 1,
+              "_id": "6ab15bf139869fad045e75d1"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">P Q S R</span></p>\n ",
+              "nameText": "\n P Q S R\n ",
+              "order": 2,
+              "_id": "6ab15bf139869f66715e75d2"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Q R P S</span></p>\n ",
+              "nameText": "\n Q R P S\n ",
+              "order": 3,
+              "_id": "6ab15bf139869f02355e75d3"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">R Q S P</span></p>\n ",
+              "nameText": "\n R Q S P\n ",
+              "order": 4,
+              "_id": "6ab15bf139869fbfdb5e75d4"
+            }
+          ],
+          "_id": "6ab15bf139869f67285e75d5",
+          "isGlobal": false,
+          "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Arrange: P: Cached results then go stale and\n mislead the next user. Q: A search index must be refreshed when\n the source pages change. R: That is why crawlers revisit important\n URLs on a schedule. S: Skipping those visits looks cheaper until a\n client complains.</span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n Arrange: P: Cached results then go stale and\n mislead the next user. Q: A search index must be refreshed when\n the source pages change. R: That is why crawlers revisit important\n URLs on a schedule. S: Skipping those visits looks cheaper until a\n client complains.\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 11,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">P Q R S</span></p>\n ",
+              "nameText": "\n P Q R S\n ",
+              "order": 1,
+              "_id": "6ab15bf139869f3a045e75e5"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">Q R S P</span></p>",
+              "nameText": "Q R S P",
+              "order": 2,
+              "_id": "6ab15bf139869f8f0b5e75e6"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">P R Q S</span></p>\n ",
+              "nameText": "\n P R Q S\n ",
+              "order": 3,
+              "_id": "6ab15bf139869fc6575e75e7"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Q P S R</span></p>\n ",
+              "nameText": "\n Q P S R\n ",
+              "order": 4,
+              "_id": "6ab15bf139869fa9d85e75e8"
+            }
+          ],
+          "_id": "6ab15bf139869f5d6b5e75e9",
+          "isGlobal": false,
+          "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Arrange: P: Stand-ups that run past fifteen\n minutes usually lose the room. Q: The aim is to surface blockers,\n not to redesign the sprint. R: A written board already holds the\n task detail. S: Speaking to the board keeps each update short.</span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n Arrange: P: Stand-ups that run past fifteen\n minutes usually lose the room. Q: The aim is to surface blockers,\n not to redesign the sprint. R: A written board already holds the\n task detail. S: Speaking to the board keeps each update short.\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 15,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Manual</span></p>\n ",
+              "nameText": "\n Manual\n ",
+              "order": 1,
+              "_id": "6ab15bf139869f89845e75f9"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Journal</span></p>\n ",
+              "nameText": "\n Journal\n ",
+              "order": 2,
+              "_id": "6ab15bf139869f120b5e75fa"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">Almanac</span></p>",
+              "nameText": "Almanac",
+              "order": 3,
+              "_id": "6ab15bf139869f82455e75fb"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Memoir</span></p>\n ",
+              "nameText": "\n Memoir\n ",
+              "order": 4,
+              "_id": "6ab15bf139869f46f65e75fc"
+            }
+          ],
+          "_id": "6ab15bf139869fa6e85e75fd",
+          "isGlobal": false,
+          "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">One-word substitute: A book issued each year\n with updated facts.</span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n One-word substitute: A book issued each year\n with updated facts.\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 19,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">Q S P R</span></p>",
+              "nameText": "Q S P R",
+              "order": 1,
+              "_id": "6ab15bf139869fd62c5e75e0"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Q P S R</span></p>\n ",
+              "nameText": "\n Q P S R\n ",
+              "order": 2,
+              "_id": "6ab15bf139869ff6725e75e1"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">S Q P R</span></p>\n ",
+              "nameText": "\n S Q P R\n ",
+              "order": 3,
+              "_id": "6ab15bf139869fc9485e75e2"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">P Q R S</span></p>\n ",
+              "nameText": "\n P Q R S\n ",
+              "order": 4,
+              "_id": "6ab15bf139869ff8ac5e75e3"
+            }
+          ],
+          "_id": "6ab15bf139869f2aa55e75e4",
+          "isGlobal": false,
+          "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Arrange: P: Clear labels on axes prevent\n that mistake. Q: A chart with no units can be read as growth when\n it is only a change of scale. R: Reviewers should reject figures\n that hide the scale. S: Readers then leave the meeting with the\n wrong story.</span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n Arrange: P: Clear labels on axes prevent\n that mistake. Q: A chart with no units can be read as growth when\n it is only a change of scale. R: Reviewers should reject figures\n that hide the scale. S: Readers then leave the meeting with the\n wrong story.\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 14,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        }
+      ]
+    },
+    {
+      "draftMode": false,
+      "isActive": true,
+      "sectionDuration": 600000,
+      "sectionMarks": 10,
+      "sectionInstructions": " ",
+      "hasOptionalQuestions": false,
+      "_id": "6ab15647d57fc8781535e59c",
+      "name": "Pseudo Code",
+      "order": 4,
+      "numberOfQuestions": 5,
+      "questions": [
+        {
+          "marks": {
+            "positive": 2,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">3</span></p>\n ",
+              "nameText": "\n 3\n ",
+              "order": 1,
+              "_id": "6ab17171642a8ae3e8d7f782"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">4</span></p>\n ",
+              "nameText": "\n 4\n ",
+              "order": 2,
+              "_id": "6ab17171642a8a9c41d7f783"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">5</span></p>",
+              "nameText": "5",
+              "order": 3,
+              "_id": "6ab17171642a8ac806d7f784"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">6</span></p>\n ",
+              "nameText": "\n 6\n ",
+              "order": 4,
+              "_id": "6ab17171642a8a685fd7f785"
+            }
+          ],
+          "_id": "6ab15cb351951a2871456a67",
+          "isGlobal": false,
+          "name": "<p style=\"margin-top: 0.288px; margin-bottom: 0.480px\">\n <span style=\"color: #111827\">What is printed?</span></p>\n <p style=\"margin-top: 0.288px; margin-bottom: 0.96px\"><span style=\"color: #111827\"><span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\">Integer\n n, d</span></span></span></p>\n <p style=\"margin-top: 0.96px; margin-bottom: 0.96px\"><span style=\"color: #111827\"><span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\">Set\n n = 48, d = 0</span></span></span></p>\n <p style=\"margin-top: 0.96px; margin-bottom: 0.96px\"><span style=\"color: #111827\"><span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\">while\n n &gt; 1 do</span></span></span></p>\n <p style=\"margin-top: 0.96px; margin-bottom: 0.96px\"><span style=\"color: #111827\">\n    <span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\">n\n = n / 2</span></span></span></p>\n <p style=\"margin-top: 0.96px; margin-bottom: 0.96px\"><span style=\"color: #111827\">\n    <span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\">d\n = d + 1</span></span></span></p>\n <p style=\"margin-top: 0.96px; margin-bottom: 0.96px\"><span style=\"color: #111827\"><span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\">end\n while</span></span></span></p>\n <p style=\"margin-top: 0.96px\"><span style=\"color: #111827\"><span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\">Print\n d</span></span></span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n What is printed?\n Integer\n n, d\n Set\n n = 48, d = 0\n while\n n &gt; 1 do\n \n    n\n = n / 2\n \n    d\n = d + 1\n end\n while\n Print\n d\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 4,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 2,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">12</span></p>",
+              "nameText": "12",
+              "order": 1,
+              "_id": "6ab17171642a8a3020d7f776"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">18</span></p>\n ",
+              "nameText": "\n 18\n ",
+              "order": 2,
+              "_id": "6ab17171642a8ad147d7f777"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">24</span></p>\n ",
+              "nameText": "\n 24\n ",
+              "order": 3,
+              "_id": "6ab17171642a8ab141d7f778"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">30</span></p>\n ",
+              "nameText": "\n 30\n ",
+              "order": 4,
+              "_id": "6ab17171642a8a4bdbd7f779"
+            }
+          ],
+          "_id": "6ab15cb351951a4c6c456a58",
+          "isGlobal": false,
+          "name": "<p style=\"margin-top: 0.288px; margin-bottom: 0.480px\">\n <span style=\"color: #111827\">What is printed?</span></p>\n <p style=\"margin-top: 0.288px; margin-bottom: 0.96px\"><span style=\"color: #111827\"><span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\">Integer\n A[5] = {2, 4, 6, 8, 10}</span></span></span></p>\n <p style=\"margin-top: 0.96px; margin-bottom: 0.96px\"><span style=\"color: #111827\"><span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\">Integer\n i, s</span></span></span></p>\n <p style=\"margin-top: 0.96px; margin-bottom: 0.96px\"><span style=\"color: #111827\"><span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\">Set\n s = 0</span></span></span></p>\n <p style=\"margin-top: 0.96px; margin-bottom: 0.96px\"><span style=\"color: #111827\"><span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\">for\n i = 0 to 4 do</span></span></span></p>\n <p style=\"margin-top: 0.96px; margin-bottom: 0.96px\"><span style=\"color: #111827\">\n    <span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\">if\n A[i] % 4 == 0 then s = s + A[i]</span></span></span></p>\n <p style=\"margin-top: 0.96px; margin-bottom: 0.96px\"><span style=\"color: #111827\"><span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\">end\n for</span></span></span></p>\n <p style=\"margin-top: 0.96px\"><span style=\"color: #111827\"><span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\">Print\n s</span></span></span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n What is printed?\n Integer\n A[5] = {2, 4, 6, 8, 10}\n Integer\n i, s\n Set\n s = 0\n for\n i = 0 to 4 do\n \n    if\n A[i] % 4 == 0 then s = s + A[i]\n end\n for\n Print\n s\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 1,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 2,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">1</span></p>\n ",
+              "nameText": "\n 1\n ",
+              "order": 1,
+              "_id": "6ab17171642a8a1760d7f79a"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">2</span></p>",
+              "nameText": "2",
+              "order": 2,
+              "_id": "6ab17171642a8aa0f8d7f79b"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">3</span></p>\n ",
+              "nameText": "\n 3\n ",
+              "order": 3,
+              "_id": "6ab17171642a8aa605d7f79c"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">8</span></p>\n ",
+              "nameText": "\n 8\n ",
+              "order": 4,
+              "_id": "6ab17171642a8a583bd7f79d"
+            }
+          ],
+          "_id": "6ab15cb351951a7c25456a62",
+          "isGlobal": false,
+          "name": "<p style=\"margin-top: 0.288px; margin-bottom: 0.480px\">\n <span style=\"color: #111827\">What is printed?</span></p>\n <p style=\"margin-top: 0.288px; margin-bottom: 0.96px\"><span style=\"color: #111827\"><span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\">Integer\n x</span></span></span></p>\n <p style=\"margin-top: 0.96px; margin-bottom: 0.96px\"><span style=\"color: #111827\"><span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\">Set\n x = 10</span></span></span></p>\n <p style=\"margin-top: 0.96px\"><span style=\"color: #111827\"><span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\">Print\n x &amp; 3</span></span></span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n What is printed?\n Integer\n x\n Set\n x = 10\n Print\n x &amp; 3\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 3,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 2,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">1</span></p>",
+              "nameText": "1",
+              "order": 1,
+              "_id": "6ab17171642a8a4081d7f772"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">4</span></p>\n ",
+              "nameText": "\n 4\n ",
+              "order": 2,
+              "_id": "6ab17171642a8a60efd7f773"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">9</span></p>\n ",
+              "nameText": "\n 9\n ",
+              "order": 3,
+              "_id": "6ab17171642a8a6a9dd7f774"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Empty</span></p>\n ",
+              "nameText": "\n Empty\n ",
+              "order": 4,
+              "_id": "6ab17171642a8af2e1d7f775"
+            }
+          ],
+          "_id": "6ab15cb351951ab729456a6c",
+          "isGlobal": false,
+          "name": "<p style=\"margin-top: 0.288px; margin-bottom: 0.480px\">\n <span style=\"color: #111827\">What is printed?</span></p>\n <p style=\"margin-top: 0.288px; margin-bottom: 0.96px\"><span style=\"color: #111827\"><span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\">Stack\n S</span></span></span></p>\n <p style=\"margin-top: 0.96px; margin-bottom: 0.96px\"><span style=\"color: #111827\"><span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\">push(S,\n 1)</span></span></span></p>\n <p style=\"margin-top: 0.96px; margin-bottom: 0.96px\"><span style=\"color: #111827\"><span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\">push(S,\n 4)</span></span></span></p>\n <p style=\"margin-top: 0.96px; margin-bottom: 0.96px\"><span style=\"color: #111827\"><span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\">push(S,\n 9)</span></span></span></p>\n <p style=\"margin-top: 0.96px; margin-bottom: 0.96px\"><span style=\"color: #111827\"><span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\">pop(S)</span></span></span></p>\n <p style=\"margin-top: 0.96px; margin-bottom: 0.96px\"><span style=\"color: #111827\"><span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\">pop(S)</span></span></span></p>\n <p style=\"margin-top: 0.96px\"><span style=\"color: #111827\"><span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\">Print\n peek(S)</span></span></span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n What is printed?\n Stack\n S\n push(S,\n 1)\n push(S,\n 4)\n push(S,\n 9)\n pop(S)\n pop(S)\n Print\n peek(S)\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 5,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 2,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">10</span></p>\n ",
+              "nameText": "\n 10\n ",
+              "order": 1,
+              "_id": "6ab17171642a8ab120d7f78e"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">16</span></p>\n ",
+              "nameText": "\n 16\n ",
+              "order": 2,
+              "_id": "6ab17171642a8a4fefd7f78f"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">24</span></p>",
+              "nameText": "24",
+              "order": 3,
+              "_id": "6ab17171642a8aa25dd7f790"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">64</span></p>\n ",
+              "nameText": "\n 64\n ",
+              "order": 4,
+              "_id": "6ab17171642a8a8843d7f791"
+            }
+          ],
+          "_id": "6ab15cb351951ad12a456a5d",
+          "isGlobal": false,
+          "name": "<p style=\"margin-top: 0.288px; margin-bottom: 0.480px\">\n <span style=\"color: #111827\">What does G(4) return?</span></p>\n <p style=\"margin-top: 0.288px; margin-bottom: 0.96px\"><span style=\"color: #111827\"><span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\">Function\n G(n)</span></span></span></p>\n <p style=\"margin-top: 0.96px; margin-bottom: 0.96px\"><span style=\"color: #111827\">\n    <span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\">if\n n &lt;= 1 then return 1</span></span></span></p>\n <p style=\"margin-top: 0.96px; margin-bottom: 0.96px\"><span style=\"color: #111827\">\n    <span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\">return\n n * G(n - 1)</span></span></span></p>\n <p style=\"margin-top: 0.96px; margin-bottom: 0.96px\"><span style=\"color: #111827\"><span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\">End\n Function</span></span></span></p>\n <p style=\"margin-top: 0.96px\"><span style=\"color: #111827\"><span style=\"font-family: Consolas,serif\"><span style=\"font-size: 13px\">Print\n G(4)</span></span></span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n What does G(4) return?\n Function\n G(n)\n \n    if\n n &lt;= 1 then return 1\n \n    return\n n * G(n - 1)\n End\n Function\n Print\n G(4)\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 2,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        }
+      ]
+    },
+    {
+      "draftMode": false,
+      "isActive": true,
+      "sectionDuration": 600000,
+      "sectionMarks": 10,
+      "sectionInstructions": " ",
+      "hasOptionalQuestions": false,
+      "_id": "6ab15647d57fc86fcc35e59d",
+      "name": "Numerical Puzzles",
+      "order": 5,
+      "numberOfQuestions": 4,
+      "questions": [
+        {
+          "marks": {
+            "positive": 3,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 115%\">\n <span style=\"color: #111827\">8</span></p>\n ",
+              "nameText": "\n 8\n ",
+              "order": 1,
+              "_id": "6ab17171642a8af529d7f77a"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 115%;\"><span style=\"color: #111827;\">9</span></p>",
+              "nameText": "9",
+              "order": 2,
+              "_id": "6ab17171642a8a71cbd7f77b"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 115%\">\n <span style=\"color: #111827\">10</span></p>\n ",
+              "nameText": "\n 10\n ",
+              "order": 3,
+              "_id": "6ab17171642a8af952d7f77c"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 115%\">\n <span style=\"color: #111827\">12</span></p>\n ",
+              "nameText": "\n 12\n ",
+              "order": 4,
+              "_id": "6ab17171642a8a5701d7f77d"
+            }
+          ],
+          "_id": "6ab15dfad57fc8559035ead8",
+          "isGlobal": false,
+          "name": "<p style=\"margin-top: 0.288px; margin-bottom: 0.480px;\"><span style=\"color: #111827;\">In each wheel the centre equals the sum of an opposite pair. Find the missing centre.</span></p>\n<p style=\"margin-top: 0.288px; margin-bottom: 0.192px;\"><span style=\"color: #4b5563;\"><span style=\"font-size: 12px;\"><em>Wheel A</em></span></span></p>\n<table class=\"MsoNormalTable\" style=\"width: 102pt; border-collapse: collapse; border: none; mso-border-alt: solid windowtext .5pt; mso-padding-alt: 0cm .5pt 0cm .5pt; mso-border-insideh: .5pt solid windowtext; mso-border-insidev: .5pt solid windowtext;\" border=\"1\" width=\"102pt\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr style=\"mso-yfti-irow: 0; mso-yfti-firstrow: yes; page-break-inside: avoid;\">\n<td style=\"width: 34pt; border: 1pt white; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.3pt 1.5pt;\" width=\"45\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .6pt 0cm .6pt 0cm;\"><span style=\"font-size: 10.0pt; color: #111827;\">&nbsp;</span><o:p></o:p></p>\n</td>\n<td style=\"width: 34pt; border-width: 1pt 1pt 1pt medium; border-style: inset; border-color: #4b5563 #4b5563 #4b5563 currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.3pt 1.5pt;\" width=\"45\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .6pt 0cm .6pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #111827;\">5</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 34pt; border-width: 1pt 1pt 1pt medium; border-style: none; border-color: white white white currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.3pt 1.5pt;\" width=\"45\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .6pt 0cm .6pt 0cm;\"><span style=\"font-size: 10.0pt; color: #111827;\">&nbsp;</span><o:p></o:p></p>\n</td>\n</tr>\n<tr style=\"mso-yfti-irow: 1; page-break-inside: avoid;\">\n<td style=\"width: 34pt; border-width: medium 1pt 1pt; border-color: currentcolor #4b5563 #4b5563; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.3pt 1.5pt;\" scope=\"col\" width=\"45\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .6pt 0cm .6pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #111827;\">4</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 34pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: currentcolor #4b5563 #4b5563 currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.3pt 1.5pt;\" width=\"45\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .6pt 0cm .6pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #111827;\">9</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 34pt; border-width: medium 1pt 1pt medium; border-color: currentcolor #4b5563 #4b5563 currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.3pt 1.5pt;\" scope=\"col\" width=\"45\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .6pt 0cm .6pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #111827;\">5</span></strong><o:p></o:p></p>\n</td>\n</tr>\n<tr style=\"mso-yfti-irow: 2; mso-yfti-lastrow: yes; page-break-inside: avoid;\">\n<td style=\"width: 34pt; border-width: medium 1pt 1pt; border-style: none; border-color: currentcolor white white; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.3pt 1.5pt;\" width=\"45\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .6pt 0cm .6pt 0cm;\"><span style=\"font-size: 10.0pt; color: #111827;\">&nbsp;</span><o:p></o:p></p>\n</td>\n<td style=\"width: 34pt; border-width: medium 1pt 1pt medium; border-color: currentcolor #4b5563 #4b5563 currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.3pt 1.5pt;\" scope=\"col\" width=\"45\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .6pt 0cm .6pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #111827;\">4</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 34pt; border-bottom: 1pt white; border-right: 1pt white; border-top-style: none; border-left-style: none; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.3pt 1.5pt;\" width=\"45\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .6pt 0cm .6pt 0cm;\"><span style=\"font-size: 10.0pt; color: #111827;\">&nbsp;</span><o:p></o:p></p>\n</td>\n</tr>\n</tbody>\n</table>\n<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 115%;\"><em style=\"color: #4b5563; font-size: 12px;\">Wheel B</em></p>\n<table class=\"MsoNormalTable\" style=\"width: 102.0pt; border-collapse: collapse; border: none; mso-border-alt: solid windowtext .5pt; mso-padding-alt: 0cm .5pt 0cm .5pt; mso-border-insideh: .5pt solid windowtext; mso-border-insidev: .5pt solid windowtext;\" border=\"1\" width=\"136\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr style=\"mso-yfti-irow: 0; mso-yfti-firstrow: yes; page-break-inside: avoid;\">\n<td style=\"width: 34pt; border: 1pt white; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.3pt 1.5pt;\" width=\"45\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .6pt 0cm .6pt 0cm;\"><span style=\"font-size: 10.0pt; color: #111827;\">&nbsp;</span><o:p></o:p></p>\n</td>\n<th style=\"width: 34pt; border-width: 1pt 1pt 1pt medium; border-color: #4b5563 #4b5563 #4b5563 currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.3pt 1.5pt;\" width=\"45\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .6pt 0cm .6pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #111827;\">7</span></strong><o:p></o:p></p>\n</th>\n<td style=\"width: 34pt; border-width: 1pt 1pt 1pt medium; border-style: none; border-color: white white white currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.3pt 1.5pt;\" width=\"45\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .6pt 0cm .6pt 0cm;\"><span style=\"font-size: 10.0pt; color: #111827;\">&nbsp;</span><o:p></o:p></p>\n</td>\n</tr>\n<tr style=\"mso-yfti-irow: 1; page-break-inside: avoid;\">\n<td style=\"width: 34pt; border-width: medium 1pt 1pt; border-color: currentcolor #4b5563 #4b5563; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.3pt 1.5pt;\" scope=\"row\" width=\"45\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .6pt 0cm .6pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #111827;\">2</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 34.0pt; border-top: none; border-left: none; border-bottom: solid #4B5563 1.0pt; border-right: solid #4B5563 1.0pt; mso-border-top-alt: solid #4B5563 1.0pt; mso-border-left-alt: solid #4B5563 1.0pt; background: #FEF3C7; padding: 2.3pt 1.5pt 2.3pt 1.5pt;\" width=\"45\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .6pt 0cm .6pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #b45309;\">?</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 34pt; border-width: medium 1pt 1pt medium; border-color: currentcolor #4b5563 #4b5563 currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.3pt 1.5pt;\" scope=\"col\" width=\"45\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .6pt 0cm .6pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #111827;\">6</span></strong><o:p></o:p></p>\n</td>\n</tr>\n<tr style=\"mso-yfti-irow: 2; mso-yfti-lastrow: yes; page-break-inside: avoid;\">\n<td style=\"width: 34pt; border-width: medium 1pt 1pt; border-style: none; border-color: currentcolor white white; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.3pt 1.5pt;\" width=\"45\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .6pt 0cm .6pt 0cm;\"><span style=\"font-size: 10.0pt; color: #111827;\">&nbsp;</span><o:p></o:p></p>\n</td>\n<td style=\"width: 34pt; border-width: medium 1pt 1pt medium; border-color: currentcolor #4b5563 #4b5563 currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.3pt 1.5pt;\" scope=\"row\" width=\"45\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .6pt 0cm .6pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #111827;\">3</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 34pt; border-bottom: 1pt white; border-right: 1pt white; border-top-style: none; border-left-style: none; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.3pt 1.5pt;\" width=\"45\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .6pt 0cm .6pt 0cm;\"><span style=\"font-size: 10.0pt; color: #111827;\">&nbsp;</span><o:p></o:p></p>\n</td>\n</tr>\n</tbody>\n</table>",
+          "paragraph": null,
+          "nameText": "In each wheel the centre equals the sum of an opposite pair. Find the missing centre.\nWheel A\n\n\n\n\n \n\n\n5\n\n\n \n\n\n\n\n4\n\n\n9\n\n\n5\n\n\n\n\n \n\n\n4\n\n\n \n\n\n\n\nWheel B\n\n\n\n\n \n\n\n7\n\n\n \n\n\n\n\n2\n\n\n?\n\n\n6\n\n\n\n\n \n\n\n3\n\n\n \n\n\n\n",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 1,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 3,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 115%\">\n <span style=\"color: #111827\">149</span></p>\n ",
+              "nameText": "\n 149\n ",
+              "order": 1,
+              "_id": "6ab17171642a8a3f82d7f79e"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 115%\">\n <span style=\"color: #111827\">157</span></p>\n ",
+              "nameText": "\n 157\n ",
+              "order": 2,
+              "_id": "6ab17171642a8a0966d7f79f"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 115%;\"><span style=\"color: #111827;\">159</span></p>",
+              "nameText": "159",
+              "order": 3,
+              "_id": "6ab17171642a8aa609d7f7a0"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 115%\">\n <span style=\"color: #111827\">169</span></p>\n ",
+              "nameText": "\n 169\n ",
+              "order": 4,
+              "_id": "6ab17171642a8a4713d7f7a1"
+            }
+          ],
+          "_id": "6ab15dfad57fc8299d35eae2",
+          "isGlobal": false,
+          "name": "<p style=\"margin-top: 0.288px; margin-bottom: 0.480px;\"><span style=\"color: #111827;\">Find the next number: 4, 9, 19, 39, 79, ?</span></p>\n<table class=\"MsoNormalTable\" style=\"width: 216.0pt; border-collapse: collapse; border: none; mso-border-alt: solid windowtext .5pt; mso-padding-alt: 0cm .5pt 0cm .5pt; mso-border-insideh: .5pt solid windowtext; mso-border-insidev: .5pt solid windowtext;\" border=\"1\" width=\"288\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr style=\"mso-yfti-irow: 0; mso-yfti-firstrow: yes; mso-yfti-lastrow: yes; page-break-inside: avoid;\">\n<td style=\"width: 36pt; border: 1pt solid #4b5563; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 2pt;\" width=\"48\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #111827;\">4</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 36pt; border-width: 1pt 1pt 1pt medium; border-style: solid solid solid none; border-color: #4b5563 #4b5563 #4b5563 currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 2pt;\" width=\"48\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #111827;\">9</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 36pt; border-width: 1pt 1pt 1pt medium; border-style: solid solid solid none; border-color: #4b5563 #4b5563 #4b5563 currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 2pt;\" width=\"48\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #111827;\">19</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 36pt; border-width: 1pt 1pt 1pt medium; border-style: solid solid solid none; border-color: #4b5563 #4b5563 #4b5563 currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 2pt;\" width=\"48\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #111827;\">39</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 36pt; border-width: 1pt 1pt 1pt medium; border-style: solid solid solid none; border-color: #4b5563 #4b5563 #4b5563 currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 2pt;\" width=\"48\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #111827;\">79</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 36.0pt; border: solid #4B5563 1.0pt; border-left: none; mso-border-left-alt: solid #4B5563 1.0pt; background: #FEF3C7; padding: 2.5pt 2.0pt 2.5pt 2.0pt;\" width=\"48\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #b45309;\">?</span></strong><o:p></o:p></p>\n</td>\n</tr>\n</tbody>\n</table>\n<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 115%;\"></p>",
+          "paragraph": null,
+          "nameText": "Find the next number: 4, 9, 19, 39, 79, ?\n\n\n\n\n4\n\n\n9\n\n\n19\n\n\n39\n\n\n79\n\n\n?\n\n\n\n\n",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 3,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 2,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 115%\">\n <span style=\"color: #111827\">22</span></p>\n ",
+              "nameText": "\n 22\n ",
+              "order": 1,
+              "_id": "6ab17171642a8ada29d7f792"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 115%;\"><span style=\"color: #111827;\">24</span></p>",
+              "nameText": "24",
+              "order": 2,
+              "_id": "6ab17171642a8a2fd2d7f793"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 115%\">\n <span style=\"color: #111827\">26</span></p>\n ",
+              "nameText": "\n 26\n ",
+              "order": 3,
+              "_id": "6ab17171642a8a36f8d7f794"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 115%\">\n <span style=\"color: #111827\">30</span></p>\n ",
+              "nameText": "\n 30\n ",
+              "order": 4,
+              "_id": "6ab17171642a8a2a08d7f795"
+            }
+          ],
+          "_id": "6ab15dfad57fc86d7535eadd",
+          "isGlobal": false,
+          "name": "<p style=\"margin-top: 0.288px; margin-bottom: 0.480px;\"><span style=\"color: #111827;\">Find the missing number.</span></p>\n<table class=\"MsoNormalTable\" style=\"width: 117.0pt; border-collapse: collapse; border: none; mso-border-alt: solid windowtext .5pt; mso-padding-alt: 0cm .5pt 0cm .5pt; mso-border-insideh: .5pt solid windowtext; mso-border-insidev: .5pt solid windowtext;\" border=\"1\" width=\"156\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr style=\"mso-yfti-irow: 0; mso-yfti-firstrow: yes; page-break-inside: avoid;\">\n<td style=\"width: 39pt; border: 1pt solid #4b5563; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 2pt;\" width=\"52\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #111827;\">2</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 39pt; border-width: 1pt 1pt 1pt medium; border-style: solid solid solid none; border-color: #4b5563 #4b5563 #4b5563 currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 2pt;\" width=\"52\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #111827;\">3</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 39pt; border-width: 1pt 1pt 1pt medium; border-style: solid solid solid none; border-color: #4b5563 #4b5563 #4b5563 currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 2pt;\" width=\"52\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #111827;\">8</span></strong><o:p></o:p></p>\n</td>\n</tr>\n<tr style=\"mso-yfti-irow: 1; page-break-inside: avoid;\">\n<td style=\"width: 39pt; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: currentcolor #4b5563 #4b5563; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 2pt;\" width=\"52\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #111827;\">3</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 39pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: currentcolor #4b5563 #4b5563 currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 2pt;\" width=\"52\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #111827;\">4</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 39pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: currentcolor #4b5563 #4b5563 currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 2pt;\" width=\"52\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #111827;\">15</span></strong><o:p></o:p></p>\n</td>\n</tr>\n<tr style=\"mso-yfti-irow: 2; mso-yfti-lastrow: yes; page-break-inside: avoid;\">\n<td style=\"width: 39pt; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: currentcolor #4b5563 #4b5563; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 2pt;\" width=\"52\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #111827;\">4</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 39pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: currentcolor #4b5563 #4b5563 currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 2pt;\" width=\"52\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #111827;\">5</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 39.0pt; border-top: none; border-left: none; border-bottom: solid #4B5563 1.0pt; border-right: solid #4B5563 1.0pt; mso-border-top-alt: solid #4B5563 1.0pt; mso-border-left-alt: solid #4B5563 1.0pt; background: #FEF3C7; padding: 2.5pt 2.0pt 2.5pt 2.0pt;\" width=\"52\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #b45309;\">?</span></strong><o:p></o:p></p>\n</td>\n</tr>\n</tbody>\n</table>\n<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 115%;\"></p>",
+          "paragraph": null,
+          "nameText": "Find the missing number.\n\n\n\n\n2\n\n\n3\n\n\n8\n\n\n\n\n3\n\n\n4\n\n\n15\n\n\n\n\n4\n\n\n5\n\n\n?\n\n\n\n\n",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 2,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 2,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 115%;\"><span style=\"color: #111827;\">14</span></p>",
+              "nameText": "14",
+              "order": 1,
+              "_id": "6ab17171642a8a2c12d7f786"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 115%\">\n <span style=\"color: #111827\">13</span></p>\n ",
+              "nameText": "\n 13\n ",
+              "order": 2,
+              "_id": "6ab17171642a8acfc1d7f787"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 115%\">\n <span style=\"color: #111827\">12</span></p>\n ",
+              "nameText": "\n 12\n ",
+              "order": 3,
+              "_id": "6ab17171642a8a8bc9d7f788"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 115%\">\n <span style=\"color: #111827\">10</span></p>\n ",
+              "nameText": "\n 10\n ",
+              "order": 4,
+              "_id": "6ab17171642a8a04ebd7f789"
+            }
+          ],
+          "_id": "6ab15dfad57fc8239c35eae7",
+          "isGlobal": false,
+          "name": "<p style=\"margin-top: 0.288px; margin-bottom: 0.480px;\"><span style=\"color: #111827;\">Find the missing number.</span></p>\n<table class=\"MsoNormalTable\" style=\"width: 117.0pt; border-collapse: collapse; border: none; mso-border-alt: solid windowtext .5pt; mso-padding-alt: 0cm .5pt 0cm .5pt; mso-border-insideh: .5pt solid windowtext; mso-border-insidev: .5pt solid windowtext;\" border=\"1\" width=\"156\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr style=\"mso-yfti-irow: 0; mso-yfti-firstrow: yes; page-break-inside: avoid;\">\n<td style=\"width: 39pt; border: 1pt solid #4b5563; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 2pt;\" width=\"52\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #111827;\">11</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 39pt; border-width: 1pt 1pt 1pt medium; border-style: solid solid solid none; border-color: #4b5563 #4b5563 #4b5563 currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 2pt;\" width=\"52\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #111827;\">6</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 39pt; border-width: 1pt 1pt 1pt medium; border-style: solid solid solid none; border-color: #4b5563 #4b5563 #4b5563 currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 2pt;\" width=\"52\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #111827;\">5</span></strong><o:p></o:p></p>\n</td>\n</tr>\n<tr style=\"mso-yfti-irow: 1; page-break-inside: avoid;\">\n<td style=\"width: 39pt; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: currentcolor #4b5563 #4b5563; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 2pt;\" width=\"52\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #111827;\">17</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 39pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: currentcolor #4b5563 #4b5563 currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 2pt;\" width=\"52\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #111827;\">8</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 39pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: currentcolor #4b5563 #4b5563 currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 2pt;\" width=\"52\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #111827;\">9</span></strong><o:p></o:p></p>\n</td>\n</tr>\n<tr style=\"mso-yfti-irow: 2; mso-yfti-lastrow: yes; page-break-inside: avoid;\">\n<td style=\"width: 39pt; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: currentcolor #4b5563 #4b5563; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 2pt;\" width=\"52\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #111827;\">23</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 39pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: currentcolor #4b5563 #4b5563 currentcolor; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding: 2.5pt 2pt;\" width=\"52\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #111827;\">9</span></strong><o:p></o:p></p>\n</td>\n<td style=\"width: 39.0pt; border-top: none; border-left: none; border-bottom: solid #4B5563 1.0pt; border-right: solid #4B5563 1.0pt; mso-border-top-alt: solid #4B5563 1.0pt; mso-border-left-alt: solid #4B5563 1.0pt; background: #FEF3C7; padding: 2.5pt 2.0pt 2.5pt 2.0pt;\" width=\"52\">\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center; margin: .8pt 0cm .8pt 0cm;\"><strong><span style=\"font-size: 10.0pt; color: #b45309;\">?</span></strong><o:p></o:p></p>\n</td>\n</tr>\n</tbody>\n</table>\n<p style=\"margin-top: 0.288px; margin-bottom: 0.288px; line-height: 115%;\"></p>",
+          "paragraph": null,
+          "nameText": "Find the missing number.\n\n\n\n\n11\n\n\n6\n\n\n5\n\n\n\n\n17\n\n\n8\n\n\n9\n\n\n\n\n23\n\n\n9\n\n\n?\n\n\n\n\n",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 4,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        }
+      ]
+    },
+    {
+      "draftMode": false,
+      "isActive": true,
+      "sectionDuration": 600000,
+      "sectionMarks": 10,
+      "sectionInstructions": " ",
+      "hasOptionalQuestions": false,
+      "_id": "6ab15647d57fc8cbfa35e59e",
+      "name": "English Grammar",
+      "order": 6,
+      "numberOfQuestions": 5,
+      "questions": [
+        {
+          "marks": {
+            "positive": 2,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Ten kilometres</span></p>\n ",
+              "nameText": "\n Ten kilometres\n ",
+              "order": 1,
+              "_id": "6ab17171642a8af00bd7f78a"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">are a long walk</span></p>",
+              "nameText": "are a long walk",
+              "order": 2,
+              "_id": "6ab17171642a8aac39d7f78b"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">in this heat</span></p>\n ",
+              "nameText": "\n in this heat\n ",
+              "order": 3,
+              "_id": "6ab17171642a8ad35dd7f78c"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">No error</span></p>\n ",
+              "nameText": "\n No error\n ",
+              "order": 4,
+              "_id": "6ab17171642a8a6988d7f78d"
+            }
+          ],
+          "_id": "6ab15d394dc9ef9d1ead06e4",
+          "isGlobal": false,
+          "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Identify the error: Ten kilometres are a\n long walk in this heat.</span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n Identify the error: Ten kilometres are a\n long walk in this heat.\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 5,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 2,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">starts</span></p>\n ",
+              "nameText": "\n starts\n ",
+              "order": 1,
+              "_id": "6ab17171642a8a3db6d7f77e"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">has started</span></p>\n ",
+              "nameText": "\n has started\n ",
+              "order": 2,
+              "_id": "6ab17171642a8a8f6cd7f77f"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">had started</span></p>",
+              "nameText": "had started",
+              "order": 3,
+              "_id": "6ab17171642a8a268ad7f780"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">will start</span></p>\n ",
+              "nameText": "\n will start\n ",
+              "order": 4,
+              "_id": "6ab17171642a8abd85d7f781"
+            }
+          ],
+          "_id": "6ab15d394dc9ef6466ad06d5",
+          "isGlobal": false,
+          "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">When we reached the hall, the talk _____\n already.</span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n When we reached the hall, the talk _____\n already.\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 2,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 2,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">She has been working</span></p>\n ",
+              "nameText": "\n She has been working\n ",
+              "order": 1,
+              "_id": "6ab17171642a8a1860d7f7a2"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">since three years</span></p>",
+              "nameText": "since three years",
+              "order": 2,
+              "_id": "6ab17171642a8a589ad7f7a3"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">here</span></p>\n ",
+              "nameText": "\n here\n ",
+              "order": 3,
+              "_id": "6ab17171642a8abbbed7f7a4"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">No error</span></p>\n ",
+              "nameText": "\n No error\n ",
+              "order": 4,
+              "_id": "6ab17171642a8a2ea0d7f7a5"
+            }
+          ],
+          "_id": "6ab15d394dc9eff2b2ad06df",
+          "isGlobal": false,
+          "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">Identify the error: She has been working\n here since three years.</span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n Identify the error: She has been working\n here since three years.\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 4,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 2,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">are</span></p>\n ",
+              "nameText": "\n are\n ",
+              "order": 1,
+              "_id": "6ab17171642a8a263fd7f7a6"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">is</span></p>",
+              "nameText": "is",
+              "order": 2,
+              "_id": "6ab17171642a8a3e34d7f7a7"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">were</span></p>\n ",
+              "nameText": "\n were\n ",
+              "order": 3,
+              "_id": "6ab17171642a8aec12d7f7a8"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">have</span></p>\n ",
+              "nameText": "\n have\n ",
+              "order": 4,
+              "_id": "6ab17171642a8a3ebfd7f7a9"
+            }
+          ],
+          "_id": "6ab15d394dc9ef6dddad06d0",
+          "isGlobal": false,
+          "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">The pair of shoes _____ on the rack.</span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n The pair of shoes _____ on the rack.\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 1,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 2,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">between</span></p>\n ",
+              "nameText": "\n between\n ",
+              "order": 1,
+              "_id": "6ab17171642a8ab955d7f796"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px;\"><span style=\"color: #111827;\">among</span></p>",
+              "nameText": "among",
+              "order": 2,
+              "_id": "6ab17171642a8a4fd3d7f797"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">with</span></p>\n ",
+              "nameText": "\n with\n ",
+              "order": 3,
+              "_id": "6ab17171642a8ad48bd7f798"
+            },
+            {
+              "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">into</span></p>\n ",
+              "nameText": "\n into\n ",
+              "order": 4,
+              "_id": "6ab17171642a8a5ecbd7f799"
+            }
+          ],
+          "_id": "6ab15d394dc9efaa4fad06da",
+          "isGlobal": false,
+          "name": "<p style=\"margin-top: 0.288px\">\n <span style=\"color: #111827\">He divided the tasks _____ the three\n interns.</span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n He divided the tasks _____ the three\n interns.\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 3,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        }
+      ]
+    },
+    {
+      "draftMode": false,
+      "isActive": true,
+      "sectionDuration": 600000,
+      "sectionMarks": 1,
+      "sectionInstructions": " ",
+      "hasOptionalQuestions": false,
+      "_id": "6ab15647d57fc80d0735e59f",
+      "name": "Essay Writting",
+      "order": 7,
+      "numberOfQuestions": 1,
+      "questions": [
+        {
+          "marks": {
+            "positive": 1,
+            "negative": 0,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "order": 1,
+              "solution": [
+                "Type your option"
+              ],
+              "type": "constants",
+              "_id": "6aaebc29b76f448a03662927"
+            }
+          ],
+          "_id": "6ab15647d57fc8713635e5a8",
+          "isGlobal": false,
+          "name": "<p>The Importance of Time Management in Student Life <img id=\"3\" src=\"images/img_7c5be902b402.jpeg\" /></p>",
+          "nameText": "The Importance of Time Management in Student Life ",
+          "paragraph": null,
+          "type": "fill_ups",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 1,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isGpscType": false,
+          "isBookmark": false
+        }
+      ]
+    }
+  ],
+  "practiceTestUrls": [],
+  "answerSheetAttachments": [],
+  "updateAfterSync": {},
+  "currentSection": "6ab15647d57fc8ca1835e599",
+  "testTotalDuration": 7200000,
+  "examStartDate": "2026-10-10T17:47:53.424Z"
+}

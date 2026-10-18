@@ -1,0 +1,1046 @@
+{
+  "_id": "67bc768df307941d4a7d8011",
+  "settings": {
+    "fonts": {
+      "fonts": [
+        {
+          "face": "Calibri",
+          "supported": true
+        },
+        {
+          "face": "serif",
+          "supported": true
+        },
+        {
+          "face": "Cambria",
+          "supported": true
+        }
+      ],
+      "include": "https://cms-gcp.classplusapp.com/parser/v3/css/combined?face=Calibri,serif,Cambria"
+    },
+    "grades": {
+      "A": {
+        "max": 100,
+        "min": 70
+      },
+      "B": {
+        "max": 69,
+        "min": 50
+      },
+      "C": {
+        "max": 49,
+        "min": 35
+      },
+      "D": {
+        "max": 34,
+        "min": 20
+      },
+      "E": {
+        "max": 19,
+        "min": 10
+      },
+      "F": {
+        "max": 9,
+        "min": 0
+      }
+    },
+    "hasOptionalQuestions": false,
+    "settingsForRTG": {},
+    "generateBatchRank": true,
+    "defaultFont": null,
+    "generateInstitutionalRank": true,
+    "generatePercentile": true,
+    "showQuestionWiseTime": true,
+    "allowResultSharing": true,
+    "showQuestionTimer": true,
+    "calculatorType": "sci",
+    "enableLetterGrading": true,
+    "generateRandomTest": false,
+    "isSectionSwitchingEnabled": true,
+    "isSectionalSubmit": false,
+    "shuffleQuestions": true,
+    "showAnswers": true,
+    "isSolutionMultipleViewEnabled": true,
+    "shuffleOptions": false,
+    "revealCorrectAnswers": "all",
+    "revealAnswersTime": "now",
+    "parseMathJax": false
+  },
+  "isReadyToLink": true,
+  "isLinked": true,
+  "instructions": "",
+  "isSectionEnable": false,
+  "isReloadRequired": true,
+  "totalNumberOfQuestions": 20,
+  "totalMarks": 80,
+  "isAttempted": true,
+  "isTemplateSelected": true,
+  "isCdnUpdated": false,
+  "languageList": [],
+  "lastAttemptedAt": "2026-10-08T06:02:27.400Z",
+  "name": "Ranking Test",
+  "duration": 1500000,
+  "createdBy": "5fddea8f5322c45a088d6898",
+  "parentFolder": "67cef100a58729ff3ede456f",
+  "sections": [
+    {
+      "sectionDuration": 0,
+      "sectionMarks": 80,
+      "isActive": true,
+      "draftMode": false,
+      "sectionInstructions": " ",
+      "_id": "67bc7693e5e00e865224dddf",
+      "hasOptionalQuestions": false,
+      "name": "Ranking Test",
+      "order": 1,
+      "numberOfQuestions": 20,
+      "questions": [
+        {
+          "marks": {
+            "positive": 4,
+            "negative": 1,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">5</span></span></span></span></p>\n ",
+              "nameText": "\n 5\n ",
+              "order": 1,
+              "_id": "67bc77000e9629d8cc90f97d"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">7</span></span></span></span></p>\n ",
+              "nameText": "\n 7\n ",
+              "order": 2,
+              "_id": "67bc77000e9629163790f97e"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none;\"><span style=\"color: #000000;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-family: Cambria,serif;\"><span style=\"font-size: 19px;\">0</span></span></span></span></p>",
+              "nameText": "0",
+              "order": 3,
+              "_id": "67bc77000e96295f7990f97f"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">9</span></span></span></span></p>\n ",
+              "nameText": "\n 9\n ",
+              "order": 4,
+              "_id": "67bc77000e9629713e90f980"
+            }
+          ],
+          "_id": "67bc76a5acf1f6d6f142703e",
+          "isGlobal": false,
+          "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">In\n a line of people, Rohit is ranked 12th from the top, and Ankit is\n ranked 20th from the bottom. If there are 30 people in the line,\n how many people are between Rohit and Ankit?</span></span></span></span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n In\n a line of people, Rohit is ranked 12th from the top, and Ankit is\n ranked 20th from the bottom. If there are 30 people in the line,\n how many people are between Rohit and Ankit?\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 5,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 4,
+            "negative": 1,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Sumit</span></span></span></span></p>\n ",
+              "nameText": "\n Sumit\n ",
+              "order": 1,
+              "_id": "67bc77000e9629369890f999"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Arjun</span></span></span></span></p>\n ",
+              "nameText": "\n Arjun\n ",
+              "order": 2,
+              "_id": "67bc77000e962909f990f99a"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Rahul</span></span></span></span></p>\n ",
+              "nameText": "\n Rahul\n ",
+              "order": 3,
+              "_id": "67bc77000e96298d0690f99b"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Vikas</span></span></span></span></p>\n ",
+              "nameText": "\n Vikas\n ",
+              "order": 4,
+              "_id": "67bc77000e962933a290f99c"
+            }
+          ],
+          "_id": "67bc76a5acf1f6b207427075",
+          "isGlobal": false,
+          "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Arjun\n is older than Sumit but younger than Rahul. Vikas is younger than\n Rahul but older than Arjun. Ramesh is the oldest among them. Who\n is the third oldest?</span></span></span></span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n Arjun\n is older than Sumit but younger than Rahul. Vikas is younger than\n Rahul but older than Arjun. Ramesh is the oldest among them. Who\n is the third oldest?\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 16,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 4,
+            "negative": 1,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">P</span></span></span></span></p>\n ",
+              "nameText": "\n P\n ",
+              "order": 1,
+              "_id": "67bc77000e9629330a90f989"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Q</span></span></span></span></p>\n ",
+              "nameText": "\n Q\n ",
+              "order": 2,
+              "_id": "67bc77000e9629bf3b90f98a"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">R</span></span></span></span></p>\n ",
+              "nameText": "\n R\n ",
+              "order": 3,
+              "_id": "67bc77000e9629180d90f98b"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">S</span></span></span></span></p>\n ",
+              "nameText": "\n S\n ",
+              "order": 4,
+              "_id": "67bc77000e96299ce390f98c"
+            }
+          ],
+          "_id": "67bc76a5acf1f69e8e427084",
+          "isGlobal": false,
+          "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Six\n people—P, Q, R, S, T, and U—are standing in a line\n from left to right. P is taller than S but shorter than Q. R is\n taller than Q but shorter than U. T is the tallest. Who is the\n fourth tallest?</span></span></span></span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n Six\n people—P, Q, R, S, T, and U—are standing in a line\n from left to right. P is taller than S but shorter than Q. R is\n taller than Q but shorter than U. T is the tallest. Who is the\n fourth tallest?\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 19,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 4,
+            "negative": 1,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Shreya</span></span></span></span></p>\n ",
+              "nameText": "\n Shreya\n ",
+              "order": 1,
+              "_id": "67bc77000e96296b3090f9a9"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Ritu</span></span></span></span></p>\n ",
+              "nameText": "\n Ritu\n ",
+              "order": 2,
+              "_id": "67bc77000e9629280e90f9aa"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Meena</span></span></span></span></p>\n ",
+              "nameText": "\n Meena\n ",
+              "order": 3,
+              "_id": "67bc77000e9629561d90f9ab"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Kajal</span></span></span></span></p>\n ",
+              "nameText": "\n Kajal\n ",
+              "order": 4,
+              "_id": "67bc77000e9629849490f9ac"
+            }
+          ],
+          "_id": "67bc76a5acf1f6867642707f",
+          "isGlobal": false,
+          "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Shreya\n is taller than Meena but shorter than Ritu. Kajal is shorter than\n Ritu but taller than Meena. Payal is the shortest among all. Who\n is the third tallest?</span></span></span></span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n Shreya\n is taller than Meena but shorter than Ritu. Kajal is shorter than\n Ritu but taller than Meena. Payal is the shortest among all. Who\n is the third tallest?\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 18,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 4,
+            "negative": 1,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">26</span></span></span></span></p>\n ",
+              "nameText": "\n 26\n ",
+              "order": 1,
+              "_id": "67bc77000e96297d2a90f95d"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">28</span></span></span></span></p>\n ",
+              "nameText": "\n 28\n ",
+              "order": 2,
+              "_id": "67bc77000e96299de690f95e"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">25</span></span></span></span></p>\n ",
+              "nameText": "\n 25\n ",
+              "order": 3,
+              "_id": "67bc77000e9629761090f95f"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">30</span></span></span></span></p>\n ",
+              "nameText": "\n 30\n ",
+              "order": 4,
+              "_id": "67bc77000e9629e4f690f960"
+            }
+          ],
+          "_id": "67bc76a5acf1f63985427039",
+          "isGlobal": false,
+          "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">In\n a row of students, Raj is 15th from the left end and 12th from the\n right end. How many students are there in the row?</span></span></span></span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n In\n a row of students, Raj is 15th from the left end and 12th from the\n right end. How many students are there in the row?\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 4,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 4,
+            "negative": 1,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">30</span></span></span></span></p>\n ",
+              "nameText": "\n 30\n ",
+              "order": 1,
+              "_id": "67bc77000e9629137190f98d"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">40</span></span></span></span></p>\n ",
+              "nameText": "\n 40\n ",
+              "order": 2,
+              "_id": "67bc77000e9629645a90f98e"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">31</span></span></span></span></p>\n ",
+              "nameText": "\n 31\n ",
+              "order": 3,
+              "_id": "67bc77000e9629897090f98f"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">41</span></span></span></span></p>\n ",
+              "nameText": "\n 41\n ",
+              "order": 4,
+              "_id": "67bc77000e96293b8690f990"
+            }
+          ],
+          "_id": "67bc76a5acf1f62df142702a",
+          "isGlobal": false,
+          "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">During\n assembly the students are standing in a line. Salman Khan is 21st\n in order from both the ends. How many boys are there in the class?</span></span></span></span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n During\n assembly the students are standing in a line. Salman Khan is 21st\n in order from both the ends. How many boys are there in the class?\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 1,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 4,
+            "negative": 1,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">45</span></span></span></span></p>\n ",
+              "nameText": "\n 45\n ",
+              "order": 1,
+              "_id": "67bc77000e9629685c90f981"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">47</span></span></span></span></p>\n ",
+              "nameText": "\n 47\n ",
+              "order": 2,
+              "_id": "67bc77000e96290adf90f982"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">50</span></span></span></span></p>\n ",
+              "nameText": "\n 50\n ",
+              "order": 3,
+              "_id": "67bc77000e962935fc90f983"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">53</span></span></span></span></p>\n ",
+              "nameText": "\n 53\n ",
+              "order": 4,
+              "_id": "67bc77000e9629dfd990f984"
+            }
+          ],
+          "_id": "67bc76a5acf1f60276427052",
+          "isGlobal": false,
+          "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">In\n a row of 45 students, Aditi is ranked 18th from the left. Priya is\n 24th from the right. If there are 5 students between Aditi and\n Priya, how many students are there in the row?</span></span></span></span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n In\n a row of 45 students, Aditi is ranked 18th from the left. Priya is\n 24th from the right. If there are 5 students between Aditi and\n Priya, how many students are there in the row?\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 9,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 4,
+            "negative": 1,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Rahul</span></span></span></span></p>\n ",
+              "nameText": "\n Rahul\n ",
+              "order": 1,
+              "_id": "67bc77000e962957f190f965"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Kunal</span></span></span></span></p>\n ",
+              "nameText": "\n Kunal\n ",
+              "order": 2,
+              "_id": "67bc77000e96291a3590f966"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Suresh</span></span></span></span></p>\n ",
+              "nameText": "\n Suresh\n ",
+              "order": 3,
+              "_id": "67bc77000e96296cb290f967"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Mohan</span></span></span></span></p>\n ",
+              "nameText": "\n Mohan\n ",
+              "order": 4,
+              "_id": "67bc77000e962917f390f968"
+            }
+          ],
+          "_id": "67bc76a5acf1f62ad0427070",
+          "isGlobal": false,
+          "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Rahul\n is heavier than Suresh but lighter than Mohan. Kunal is lighter\n than Rahul but heavier than Suresh. Deepak is heavier than all\n except Mohan. Who is the second lightest?</span></span></span></span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n Rahul\n is heavier than Suresh but lighter than Mohan. Kunal is lighter\n than Rahul but heavier than Suresh. Deepak is heavier than all\n except Mohan. Who is the second lightest?\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 15,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 4,
+            "negative": 1,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">25</span></span></span></span></p>\n ",
+              "nameText": "\n 25\n ",
+              "order": 1,
+              "_id": "67bc77000e9629722790f9a5"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none;\"><span style=\"color: #000000;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-family: Cambria,serif;\"><span style=\"font-size: 19px;\">20</span></span></span></span></p>",
+              "nameText": "20",
+              "order": 2,
+              "_id": "67bc77000e9629eeb590f9a6"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">30</span></span></span></span></p>\n ",
+              "nameText": "\n 30\n ",
+              "order": 3,
+              "_id": "67bc77000e96293f4b90f9a7"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">32</span></span></span></span></p>\n ",
+              "nameText": "\n 32\n ",
+              "order": 4,
+              "_id": "67bc77000e96290e3a90f9a8"
+            }
+          ],
+          "_id": "67bc76a5acf1f6814a427066",
+          "isGlobal": false,
+          "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">In\n a north-facing row of 45 students, Neha is 13th from the left, and\n Priya is 15th from the right. There are 4 students between Priya\n and Rani, who is equidistant to Neha. What is Rani’s\n position from the right?</span></span></span></span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n In\n a north-facing row of 45 students, Neha is 13th from the left, and\n Priya is 15th from the right. There are 4 students between Priya\n and Rani, who is equidistant to Neha. What is Rani’s\n position from the right?\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 13,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 4,
+            "negative": 1,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Dinesh</span></span></span></span></p>\n ",
+              "nameText": "\n Dinesh\n ",
+              "order": 1,
+              "_id": "67bc77000e962947a190f979"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Chetan</span></span></span></span></p>\n ",
+              "nameText": "\n Chetan\n ",
+              "order": 2,
+              "_id": "67bc77000e9629c33e90f97a"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Amit</span></span></span></span></p>\n ",
+              "nameText": "\n Amit\n ",
+              "order": 3,
+              "_id": "67bc77000e962960ed90f97b"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Esha</span></span></span></span></p>\n ",
+              "nameText": "\n Esha\n ",
+              "order": 4,
+              "_id": "67bc77000e9629430490f97c"
+            }
+          ],
+          "_id": "67bc76a5acf1f62a0442707a",
+          "isGlobal": false,
+          "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Five\n students—Amit, Bhavesh, Chetan, Dinesh, and Esha—took\n an exam. Amit scored higher than Chetan but lower than Bhavesh.\n Dinesh scored more than Amit but less than Esha. Esha scored the\n highest. Who got the second highest marks?</span></span></span></span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n Five\n students—Amit, Bhavesh, Chetan, Dinesh, and Esha—took\n an exam. Amit scored higher than Chetan but lower than Bhavesh.\n Dinesh scored more than Amit but less than Esha. Esha scored the\n highest. Who got the second highest marks?\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 17,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 4,
+            "negative": 1,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">35</span></span></span></span></p>\n ",
+              "nameText": "\n 35\n ",
+              "order": 1,
+              "_id": "67bc77000e9629749590f971"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">37</span></span></span></span></p>\n ",
+              "nameText": "\n 37\n ",
+              "order": 2,
+              "_id": "67bc77000e96295a0890f972"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">40</span></span></span></span></p>\n ",
+              "nameText": "\n 40\n ",
+              "order": 3,
+              "_id": "67bc77000e96297b9290f973"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">45</span></span></span></span></p>\n ",
+              "nameText": "\n 45\n ",
+              "order": 4,
+              "_id": "67bc77000e962920bd90f974"
+            }
+          ],
+          "_id": "67bc76a5acf1f6985e427048",
+          "isGlobal": false,
+          "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">In\n a class of 50 students, Priya ranks 14th from the top. What is her\n rank from the bottom?</span></span></span></span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n In\n a class of 50 students, Priya ranks 14th from the top. What is her\n rank from the bottom?\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 7,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 4,
+            "negative": 1,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">44</span></span></span></span></p>\n ",
+              "nameText": "\n 44\n ",
+              "order": 1,
+              "_id": "67bc77000e96295dff90f985"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">45</span></span></span></span></p>\n ",
+              "nameText": "\n 45\n ",
+              "order": 2,
+              "_id": "67bc77000e96290e2590f986"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">46</span></span></span></span></p>\n ",
+              "nameText": "\n 46\n ",
+              "order": 3,
+              "_id": "67bc77000e9629d92d90f987"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">48</span></span></span></span></p>\n ",
+              "nameText": "\n 48\n ",
+              "order": 4,
+              "_id": "67bc77000e96290bb590f988"
+            }
+          ],
+          "_id": "67bc76a5acf1f6afdc42706b",
+          "isGlobal": false,
+          "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n the rank of Rohan is 7th from the top in a group of 50 candidates\n and 2 new candidates are added just before and after him, what\n will be his new rank from bottom?</span></span></span></span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n If\n the rank of Rohan is 7th from the top in a group of 50 candidates\n and 2 new candidates are added just before and after him, what\n will be his new rank from bottom?\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 14,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 4,
+            "negative": 1,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Rina</span></span></span></span></p>\n ",
+              "nameText": "\n Rina\n ",
+              "order": 1,
+              "_id": "67bc77000e96291ffc90f969"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Simran</span></span></span></span></p>\n ",
+              "nameText": "\n Simran\n ",
+              "order": 2,
+              "_id": "67bc77000e9629aea390f96a"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Neha</span></span></span></span></p>\n ",
+              "nameText": "\n Neha\n ",
+              "order": 3,
+              "_id": "67bc77000e9629059590f96b"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Jaya</span></span></span></span></p>\n ",
+              "nameText": "\n Jaya\n ",
+              "order": 4,
+              "_id": "67bc77000e962934d290f96c"
+            }
+          ],
+          "_id": "67bc76a5acf1f61400427089",
+          "isGlobal": false,
+          "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Neha\n is heavier than Rina but lighter than Simran. Aisha is lighter\n than Neha but heavier than Rina. Jaya is heavier than all except\n Simran. Who is the third heaviest?</span></span></span></span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n Neha\n is heavier than Rina but lighter than Simran. Aisha is lighter\n than Neha but heavier than Rina. Jaya is heavier than all except\n Simran. Who is the third heaviest?\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 20,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 4,
+            "negative": 1,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">1</span></span></span></span></p>\n ",
+              "nameText": "\n 1\n ",
+              "order": 1,
+              "_id": "67bc77000e9629a9d790f991"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">2</span></span></span></span></p>\n ",
+              "nameText": "\n 2\n ",
+              "order": 2,
+              "_id": "67bc77000e96294bfc90f992"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">3</span></span></span></span></p>\n ",
+              "nameText": "\n 3\n ",
+              "order": 3,
+              "_id": "67bc77000e96294ea390f993"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">More\n than 3</span></span></span></span></p>\n ",
+              "nameText": "\n More\n than 3\n ",
+              "order": 4,
+              "_id": "67bc77000e96292f8190f994"
+            }
+          ],
+          "_id": "67bc76a5acf1f66d58427043",
+          "isGlobal": false,
+          "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Six\n persons – Sumer, Anant, Parth, Rajat, Karan and Gaurav,\n played in a cricket match and scored different number of runs.\n Sumer scored more runs than only Parth and Gaurav. Anant scored\n less runs than Karan, who was not highest scorer. The Second\n highest person scored 78 runs. How many person(s) scored more runs\n than Parth?</span></span></span></span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n Six\n persons – Sumer, Anant, Parth, Rajat, Karan and Gaurav,\n played in a cricket match and scored different number of runs.\n Sumer scored more runs than only Parth and Gaurav. Anant scored\n less runs than Karan, who was not highest scorer. The Second\n highest person scored 78 runs. How many person(s) scored more runs\n than Parth?\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 6,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 4,
+            "negative": 1,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">20,\n 39</span></span></span></span></p>\n ",
+              "nameText": "\n 20,\n 39\n ",
+              "order": 1,
+              "_id": "67bc77000e9629669790f995"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">20,40</span></span></span></span></p>\n ",
+              "nameText": "\n 20,40\n ",
+              "order": 2,
+              "_id": "67bc77000e962929ea90f996"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">22,39</span></span></span></span></p>\n ",
+              "nameText": "\n 22,39\n ",
+              "order": 3,
+              "_id": "67bc77000e9629378390f997"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">22,40</span></span></span></span></p>\n ",
+              "nameText": "\n 22,40\n ",
+              "order": 4,
+              "_id": "67bc77000e9629b47f90f998"
+            }
+          ],
+          "_id": "67bc76a5acf1f6279a42705c",
+          "isGlobal": false,
+          "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">In\n a line of 60 people, Sam is ranked 21st from the top. How many\n people are ahead of him and how many are behind him?</span></span></span></span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n In\n a line of 60 people, Sam is ranked 21st from the top. How many\n people are ahead of him and how many are behind him?\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 11,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 4,
+            "negative": 1,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">21</span></span></span></span></p>\n ",
+              "nameText": "\n 21\n ",
+              "order": 1,
+              "_id": "67bc77000e96296d8490f961"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">25</span></span></span></span></p>\n ",
+              "nameText": "\n 25\n ",
+              "order": 2,
+              "_id": "67bc77000e9629e22790f962"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">32</span></span></span></span></p>\n ",
+              "nameText": "\n 32\n ",
+              "order": 3,
+              "_id": "67bc77000e96291e1f90f963"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">23</span></span></span></span></p>\n ",
+              "nameText": "\n 23\n ",
+              "order": 4,
+              "_id": "67bc77000e9629c4f890f964"
+            }
+          ],
+          "_id": "67bc76a5acf1f6bfdd427057",
+          "isGlobal": false,
+          "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">In\n a nursery, I saw a group of small rose trees arranged in a row.\n However, one rose tree caught my attention very much. I started\n counting its rank from the left hand side and found out to be 12.\n When I started counting from right hand side, it was again 12!!\n What is the total number of rose trees that were arranged in that\n row?</span></span></span></span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n In\n a nursery, I saw a group of small rose trees arranged in a row.\n However, one rose tree caught my attention very much. I started\n counting its rank from the left hand side and found out to be 12.\n When I started counting from right hand side, it was again 12!!\n What is the total number of rose trees that were arranged in that\n row?\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 10,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 4,
+            "negative": 1,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">34</span></span></span></span></p>\n ",
+              "nameText": "\n 34\n ",
+              "order": 1,
+              "_id": "67bc77000e96291f9c90f96d"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">31</span></span></span></span></p>\n ",
+              "nameText": "\n 31\n ",
+              "order": 2,
+              "_id": "67bc77000e9629717690f96e"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">32</span></span></span></span></p>\n ",
+              "nameText": "\n 32\n ",
+              "order": 3,
+              "_id": "67bc77000e9629660b90f96f"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">33</span></span></span></span></p>\n ",
+              "nameText": "\n 33\n ",
+              "order": 4,
+              "_id": "67bc77000e9629250d90f970"
+            }
+          ],
+          "_id": "67bc76a5acf1f6166a427034",
+          "isGlobal": false,
+          "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">In\n a north facing row of NCC Cadets, Trisha is 9th from the left end\n and Tina is 12th from the right end. There are 5 cadets between\n Trisha and Tanya who is equidstant to Tina. Find how many cadets\n are there in the row?</span></span></span></span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n In\n a north facing row of NCC Cadets, Trisha is 9th from the left end\n and Tina is 12th from the right end. There are 5 cadets between\n Trisha and Tanya who is equidstant to Tina. Find how many cadets\n are there in the row?\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 3,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 4,
+            "negative": 1,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">40</span></span></span></span></p>\n ",
+              "nameText": "\n 40\n ",
+              "order": 1,
+              "_id": "67bc77000e962970e890f975"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">45</span></span></span></span></p>\n ",
+              "nameText": "\n 45\n ",
+              "order": 2,
+              "_id": "67bc77000e96294e1b90f976"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">50</span></span></span></span></p>\n ",
+              "nameText": "\n 50\n ",
+              "order": 3,
+              "_id": "67bc77000e9629273290f977"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">55</span></span></span></span></p>\n ",
+              "nameText": "\n 55\n ",
+              "order": 4,
+              "_id": "67bc77000e9629b92a90f978"
+            }
+          ],
+          "_id": "67bc76a5acf1f66901427061",
+          "isGlobal": false,
+          "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">In\n a north-facing row of students, Ajay is 18th from the left and\n Vijay is 22nd from the right. If there are 10 students between\n them, find the total number of students in the row.</span></span></span></span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n In\n a north-facing row of students, Ajay is 18th from the left and\n Vijay is 22nd from the right. If there are 10 students between\n them, find the total number of students in the row.\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 12,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 4,
+            "negative": 1,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">30</span></span></span></span></p>\n ",
+              "nameText": "\n 30\n ",
+              "order": 1,
+              "_id": "67bc77000e9629332a90f9a1"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">75</span></span></span></span></p>\n ",
+              "nameText": "\n 75\n ",
+              "order": 2,
+              "_id": "67bc77000e9629f2d890f9a2"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">50</span></span></span></span></p>\n ",
+              "nameText": "\n 50\n ",
+              "order": 3,
+              "_id": "67bc77000e96295fd490f9a3"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">24</span></span></span></span></p>\n ",
+              "nameText": "\n 24\n ",
+              "order": 4,
+              "_id": "67bc77000e9629a30d90f9a4"
+            }
+          ],
+          "_id": "67bc76a5acf1f6104b42704d",
+          "isGlobal": false,
+          "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Aman\n is standing in a queue at the 10th position from the front. If he\n is 15th from the back, how many people are in the queue?</span></span></span></span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n Aman\n is standing in a queue at the 10th position from the front. If he\n is 15th from the back, how many people are in the queue?\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 8,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        },
+        {
+          "marks": {
+            "positive": 4,
+            "negative": 1,
+            "negativeUnattempted": 0
+          },
+          "isComprehension": false,
+          "hasMultipleAnswers": false,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">10</span></span></span></span></p>\n ",
+              "nameText": "\n 10\n ",
+              "order": 1,
+              "_id": "67bc77000e9629657590f99d"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">15</span></span></span></span></p>\n ",
+              "nameText": "\n 15\n ",
+              "order": 2,
+              "_id": "67bc77000e9629157790f99e"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">19</span></span></span></span></p>\n ",
+              "nameText": "\n 19\n ",
+              "order": 3,
+              "_id": "67bc77000e96297fe090f99f"
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">21</span></span></span></span></p>\n ",
+              "nameText": "\n 21\n ",
+              "order": 4,
+              "_id": "67bc77000e96297efb90f9a0"
+            }
+          ],
+          "_id": "67bc76a5acf1f6fea442702f",
+          "isGlobal": false,
+          "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">In\n a class of 35 students, Ziya is placed 7th from the bottom where\n as Sofia is placed 9th from the top. Shahruk is placed in between\n the two. What is Ziya's position from Shahruk?</span></span></span></span></p>\n ",
+          "paragraph": null,
+          "nameText": "\n In\n a class of 35 students, Ziya is placed 7th from the bottom where\n as Sofia is placed 9th from the top. Shahruk is placed in between\n the two. What is Ziya's position from Shahruk?\n ",
+          "type": "multiple_choice",
+          "createdBy": "5fddea8f5322c45a088d6898",
+          "order": 2,
+          "isGpscType": false,
+          "__v": 0,
+          "isPartialMarkingEnabled": false,
+          "isBookmark": false
+        }
+      ]
+    }
+  ],
+  "practiceTestUrls": [],
+  "updateAfterSync": {},
+  "currentSection": "67bc7693e5e00e865224dddf",
+  "testTotalDuration": 1500000,
+  "examStartDate": "2026-10-10T17:47:18.205Z"
+}

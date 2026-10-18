@@ -1,0 +1,1310 @@
+{
+  "test": {
+    "name": "Syllogism",
+    "testTotalDuration": 1500000,
+    "settings": {
+      "fonts": {
+        "fonts": [
+          {
+            "face": "Calibri",
+            "supported": true
+          },
+          {
+            "face": "serif",
+            "supported": true
+          },
+          {
+            "face": "Cambria",
+            "supported": true
+          },
+          {
+            "face": "Cambria Math",
+            "supported": true
+          }
+        ],
+        "include": "https://cms-gcp.classplusapp.com/parser/v3/css/combined?face=Calibri,serif,Cambria,Cambria%20Math"
+      },
+      "isSectionSwitchingEnabled": true
+    },
+    "practiceTestUrls": [],
+    "testFormat": "DEFAULT"
+  },
+  "filters": {
+    "incorrect": 0,
+    "correct": 0,
+    "partiallyMarked": 0,
+    "unattempted": 1,
+    "markForReview": 0,
+    "graceMarked": 0,
+    "revaluated": 0
+  },
+  "timeTaken": 0,
+  "courseId": "58216",
+  "showReportQuestion": true,
+  "sectionWiseStats": [
+    {
+      "marksScored": 0,
+      "sectionMarks": 80,
+      "accuracy": 0,
+      "_id": "6aca7a1fac816d9df620322f",
+      "totalQuestions": 20,
+      "attemptDuration": 0,
+      "correctAnswers": 0,
+      "inCorrectAnswers": 0,
+      "partiallyCorrectAnswers": 0,
+      "unAttempted": 20,
+      "name": "Syllogism",
+      "order": 1,
+      "sectionDuration": 0,
+      "sectionId": "67b992507cd98400a0d79636"
+    }
+  ],
+  "sections": [
+    {
+      "sectionDuration": 0,
+      "sectionMarks": 80,
+      "isActive": true,
+      "draftMode": false,
+      "sectionInstructions": " ",
+      "_id": "67b992507cd98400a0d79636",
+      "hasOptionalQuestions": false,
+      "name": "Syllogism",
+      "order": 1,
+      "createdAt": "2025-02-22T09:15:14.372Z",
+      "updatedAt": "2025-02-22T09:15:14.372Z",
+      "questions": [
+        {
+          "_id": "67b99282977270dcc143b9d9",
+          "name": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statements:\n </span></span></span></span>\n </p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">A\n few Ostriches are Peacocks.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">All\n Peacocks are Swans.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Some\n Swans are Ducks.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Conclusions:\n </span></span></span></span>\n </p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I.\n A few Swans are Ostriches.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II.\n Some Ducks are Peacocks.</span></span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n Statements:\n \n \n \n A\n few Ostriches are Peacocks.\n \n All\n Peacocks are Swans.\n \n Some\n Swans are Ducks.\n \n Conclusions:\n \n \n \n I.\n A few Swans are Ostriches.\n II.\n Some Ducks are Peacocks.\n ",
+          "sectionId": "67b992507cd98400a0d79636",
+          "order": 1,
+          "questionSubmitOrder": 1,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n only conclusion I follows</span></span></span></span></p>\n ",
+              "nameText": "\n If\n only conclusion I follows\n ",
+              "isCorrect": true,
+              "_id": "67b992944d6f860807d81478",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n only conclusion II follows</span></span></span></span></p>\n ",
+              "nameText": "\n If\n only conclusion II follows\n ",
+              "isCorrect": false,
+              "_id": "67b992944d6f86011dd81479",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n either conclusion I or II follows</span></span></span></span></p>\n ",
+              "nameText": "\n If\n either conclusion I or II follows\n ",
+              "isCorrect": false,
+              "_id": "67b992944d6f86c874d8147a",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n neither conclusion I nor II follows</span></span></span></span></p>\n ",
+              "nameText": "\n If\n neither conclusion I nor II follows\n ",
+              "isCorrect": false,
+              "_id": "67b992944d6f86de1fd8147b",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"images/img_2edcdd4f7f38.png\" name=\"Picture 16\" align=\"bottom\" width=\"394\" height=\"99\" border=\"0\">\n</img></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a1fffaf50f4f55a5fd4",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "67b99282977270fc1343b9c0",
+          "name": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statements:\n </span></span></span></span>\n </p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">A\n few parrots are not pigeons.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">All\n pigeons are white.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">No\n white is green.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Conclusions:\n </span></span></span></span>\n </p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I.\n No green is a pigeon.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II.\n No parrot is green.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">III.\n Some pigeons are not parrots.</span></span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n Statements:\n \n \n \n A\n few parrots are not pigeons.\n \n All\n pigeons are white.\n \n No\n white is green.\n \n Conclusions:\n \n \n \n I.\n No green is a pigeon.\n \n II.\n No parrot is green.\n III.\n Some pigeons are not parrots.\n ",
+          "sectionId": "67b992507cd98400a0d79636",
+          "order": 2,
+          "questionSubmitOrder": 2,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n only conclusion I follows</span></span></span></span></p>\n ",
+              "nameText": "\n If\n only conclusion I follows\n ",
+              "isCorrect": true,
+              "_id": "67b992944d6f86f2f0d81474",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n either conclusion I or II follows</span></span></span></span></p>\n ",
+              "nameText": "\n If\n either conclusion I or II follows\n ",
+              "isCorrect": false,
+              "_id": "67b992944d6f86b461d81475",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n conclusion II or III follows</span></span></span></span></p>\n ",
+              "nameText": "\n If\n conclusion II or III follows\n ",
+              "isCorrect": false,
+              "_id": "67b992944d6f86ea75d81476",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">All\n follows</span></span></span></span></p>\n ",
+              "nameText": "\n All\n follows\n ",
+              "isCorrect": false,
+              "_id": "67b992944d6f86693bd81477",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"images/img_e59b577050a7.png\" name=\"Picture 11\" align=\"bottom\" width=\"426\" height=\"116\" border=\"0\">\n</img></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a1fffaf5035a45a5fd5",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "67b99282977270528543b9c5",
+          "name": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statements:\n </span></span></span></span>\n </p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">No\n crab is star fish.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">No\n octopus is crab.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Conclusions:\n </span></span></span></span>\n </p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I.\n No star fish is octopus.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II.\n All octopus are star fish.</span></span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n Statements:\n \n \n \n No\n crab is star fish.\n \n No\n octopus is crab.\n \n Conclusions:\n \n \n \n I.\n No star fish is octopus.\n II.\n All octopus are star fish.\n ",
+          "sectionId": "67b992507cd98400a0d79636",
+          "order": 3,
+          "questionSubmitOrder": 3,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n only conclusion I follows</span></span></span></span></p>\n ",
+              "nameText": "\n If\n only conclusion I follows\n ",
+              "isCorrect": false,
+              "_id": "67b992944d6f861840d814a4",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n only conclusion II follows</span></span></span></span></p>\n ",
+              "nameText": "\n If\n only conclusion II follows\n ",
+              "isCorrect": false,
+              "_id": "67b992944d6f865193d814a5",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n either conclusion I or II follows</span></span></span></span></p>\n ",
+              "nameText": "\n If\n either conclusion I or II follows\n ",
+              "isCorrect": false,
+              "_id": "67b992944d6f8669ddd814a6",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n neither conclusion I nor II follows</span></span></span></span></p>\n ",
+              "nameText": "\n If\n neither conclusion I nor II follows\n ",
+              "isCorrect": true,
+              "_id": "67b992944d6f86b59ad814a7",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"images/img_76e43b522d39.png\" name=\"Picture 12\" align=\"bottom\" width=\"362\" height=\"65\" border=\"0\">\n</img></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a1fffaf502c375a5fd6",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "67b99282977270ccd943b9ac",
+          "name": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statements:</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">No\n bike is a bus.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">All\n buses are trucks.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">All\n trucks are cars.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Conclusions:</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I.\n All buses are cars.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II.\n At least some cars are trucks.</span></span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n Statements:\n \n No\n bike is a bus.\n \n All\n buses are trucks.\n \n All\n trucks are cars.\n \n Conclusions:\n \n I.\n All buses are cars.\n II.\n At least some cars are trucks.\n ",
+          "sectionId": "67b992507cd98400a0d79636",
+          "order": 4,
+          "questionSubmitOrder": 4,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n only conclusion I follows</span></span></span></span></p>\n ",
+              "nameText": "\n If\n only conclusion I follows\n ",
+              "isCorrect": false,
+              "_id": "67b992944d6f867a97d814a0",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n only conclusion II follows</span></span></span></span></p>\n ",
+              "nameText": "\n If\n only conclusion II follows\n ",
+              "isCorrect": false,
+              "_id": "67b992944d6f86d71cd814a1",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n either conclusion I or II follows</span></span></span></span></p>\n ",
+              "nameText": "\n If\n either conclusion I or II follows\n ",
+              "isCorrect": false,
+              "_id": "67b992944d6f8666f8d814a2",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n both conclusion I and II follows</span></span></span></span></p>\n ",
+              "nameText": "\n If\n both conclusion I and II follows\n ",
+              "isCorrect": true,
+              "_id": "67b992944d6f86751ad814a3",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"images/img_186e56376d02.png\" name=\"Picture 7\" align=\"bottom\" width=\"290\" height=\"97\" border=\"0\">\n</img></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a1fffaf50af0c5a5fd7",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "67b992829772708b9e43b9e8",
+          "name": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statements:\n </span></span></span></span>\n </p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n a few spoons are bottles.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">All\n bottles are clocks.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">No\n clock is a stool.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Conclusions:\n </span></span></span></span>\n </p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I.\n At least some spoons are clocks.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II.\n All spoons can never be stools</span></span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n Statements:\n \n \n \n Only\n a few spoons are bottles.\n \n All\n bottles are clocks.\n \n No\n clock is a stool.\n \n Conclusions:\n \n \n \n I.\n At least some spoons are clocks.\n II.\n All spoons can never be stools\n ",
+          "sectionId": "67b992507cd98400a0d79636",
+          "order": 5,
+          "questionSubmitOrder": 5,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n only conclusion I follows</span></span></span></span></p>\n ",
+              "nameText": "\n If\n only conclusion I follows\n ",
+              "isCorrect": false,
+              "_id": "67b992944d6f862933d81498",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n only conclusion II follows</span></span></span></span></p>\n ",
+              "nameText": "\n If\n only conclusion II follows\n ",
+              "isCorrect": false,
+              "_id": "67b992944d6f86184dd81499",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n either conclusion I or II follows</span></span></span></span></p>\n ",
+              "nameText": "\n If\n either conclusion I or II follows\n ",
+              "isCorrect": false,
+              "_id": "67b992944d6f865c17d8149a",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n both conclusion I and II follows</span></span></span></span></p>\n ",
+              "nameText": "\n If\n both conclusion I and II follows\n ",
+              "isCorrect": true,
+              "_id": "67b992944d6f862cead8149b",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n a few spoons are bottles (I) + All Bottles are clocks (A)</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I\n + A = I</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Some\n spoons are clocks (I).</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Hence\n conclusion I follows.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Again,\n some spoons are clock (I) + No clock is a stool (E)</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I\n + E = O</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Some\n spoons are not stools.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Hence\n conclusion II follows</span></span></span></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a1fffaf50adee5a5fd8",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "67b99282977270590c43b998",
+          "name": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statements:\n </span></span></span></span>\n </p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Some\n girls are young.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">No\n young is a woman.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Conclusions:\n </span></span></span></span>\n </p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I.\n Some women are not girls.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II.\n All women being girls is a possibility.</span></span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n Statements:\n \n \n \n Some\n girls are young.\n \n No\n young is a woman.\n \n Conclusions:\n \n \n \n I.\n Some women are not girls.\n II.\n All women being girls is a possibility.\n ",
+          "sectionId": "67b992507cd98400a0d79636",
+          "order": 6,
+          "questionSubmitOrder": 6,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n only conclusion I follows</span></span></span></span></p>\n ",
+              "nameText": "\n If\n only conclusion I follows\n ",
+              "isCorrect": false,
+              "_id": "67b992944d6f866333d8147c",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n only conclusion II follows</span></span></span></span></p>\n ",
+              "nameText": "\n If\n only conclusion II follows\n ",
+              "isCorrect": true,
+              "_id": "67b992944d6f867476d8147d",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n either conclusion I or II follows</span></span></span></span></p>\n ",
+              "nameText": "\n If\n either conclusion I or II follows\n ",
+              "isCorrect": false,
+              "_id": "67b992944d6f860d3fd8147e",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n neither conclusion I nor II follows</span></span></span></span></p>\n ",
+              "nameText": "\n If\n neither conclusion I nor II follows\n ",
+              "isCorrect": false,
+              "_id": "67b992944d6f865d3ad8147f",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"images/img_bfd752d3bea1.png\" name=\"Picture 3\" align=\"bottom\" width=\"287\" height=\"61\" border=\"0\">\n</img></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a1fffaf5071605a5fd9",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "67b99282977270e7e843b9ed",
+          "name": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statements:\n </span></span></span></span>\n </p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">A\n graduate is a man.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">This\n thief is a graduate.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Conclusions:\n </span></span></span></span>\n </p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I.\n This thief is a man.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II.\n Some men are thieves.</span></span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n Statements:\n \n \n \n A\n graduate is a man.\n \n This\n thief is a graduate.\n \n Conclusions:\n \n \n \n I.\n This thief is a man.\n II.\n Some men are thieves.\n ",
+          "sectionId": "67b992507cd98400a0d79636",
+          "order": 7,
+          "questionSubmitOrder": 7,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n only conclusion I follows</span></span></span></span></p>\n ",
+              "nameText": "\n If\n only conclusion I follows\n ",
+              "isCorrect": false,
+              "_id": "67b992944d6f86600fd814b0",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n only conclusion II follows</span></span></span></span></p>\n ",
+              "nameText": "\n If\n only conclusion II follows\n ",
+              "isCorrect": false,
+              "_id": "67b992944d6f8631d2d814b1",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n either conclusion I or II follows</span></span></span></span></p>\n ",
+              "nameText": "\n If\n either conclusion I or II follows\n ",
+              "isCorrect": true,
+              "_id": "67b992944d6f8652fcd814b2",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n both conclusion I and II follows</span></span></span></span></p>\n ",
+              "nameText": "\n If\n both conclusion I and II follows\n ",
+              "isCorrect": false,
+              "_id": "67b992944d6f86e5e6d814b3",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Checking\n I: This thief is a man.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Using\n S2 and S1, we get</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">This\n thief is a graduate (A) + A graduate is a man (A) </span></span><span style=\"font-family: 'Cambria Math',serif\"><span style=\"font-size: 19px\">⇒</span></span><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">\n This thief is a man. Hence, C1 follows.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Checking\n II: Some men are thieves.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Converse\n of the conclusion derived above </span></span><span style=\"font-family: 'Cambria Math',serif\"><span style=\"font-size: 19px\">⇒</span></span><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">\n Some men are thieves. Hence, C2 follows as well.</span></span></span></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a1fffaf50ab095a5fda",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "67b9928297727068e643b9b6",
+          "name": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none;\"><span style=\"color: #000000;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-family: Cambria,serif;\"><span style=\"font-size: 19px;\">Statements:</span></span></span></span></p>\n<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none;\"><span style=\"color: #000000;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-family: Cambria,serif;\"><span style=\"font-size: 19px;\">Some chairs are desks.</span></span></span></span></p>\n<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none;\"><span style=\"color: #000000;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-family: Cambria,serif;\"><span style=\"font-size: 19px;\">No desk is a bench.</span></span></span></span></p>\n<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none;\"><span style=\"color: #000000;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-family: Cambria,serif;\"><span style=\"font-size: 19px;\">Some Tables are Chairs.</span></span></span></span></p>\n<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none;\"><span style=\"color: #000000;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-family: Cambria,serif;\"><span style=\"font-size: 19px;\">Conclusions:</span></span></span></span></p>\n<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none;\"><span style=\"color: #000000;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-family: Cambria,serif;\"><span style=\"font-size: 19px;\">I. All benches being tables possibility.</span></span></span></span></p>\n<p align=\"justify\" style=\"text-decoration: none;\"><span style=\"color: #000000;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-family: Cambria,serif;\"><span style=\"font-size: 19px;\">II. At least some desks are tables</span></span></span></span></p>",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "Statements:\nSome chairs are desks.\nNo desk is a bench.\nSome Tables are Chairs.\nConclusions:\nI. All benches being tables possibility.\nII. At least some desks are tables",
+          "sectionId": "67b992507cd98400a0d79636",
+          "order": 8,
+          "questionSubmitOrder": 8,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n only conclusion I follows</span></span></span></span></p>\n ",
+              "nameText": "\n If\n only conclusion I follows\n ",
+              "isCorrect": false,
+              "_id": "67b992944d6f866cdcd81490",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n only conclusion II follows</span></span></span></span></p>\n ",
+              "nameText": "\n If\n only conclusion II follows\n ",
+              "isCorrect": false,
+              "_id": "67b992944d6f860e8cd81491",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n either conclusion I or II follows</span></span></span></span></p>\n ",
+              "nameText": "\n If\n either conclusion I or II follows\n ",
+              "isCorrect": false,
+              "_id": "67b992944d6f86261ed81492",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n neither conclusion I nor II follows</span></span></span></span></p>\n ",
+              "nameText": "\n If\n neither conclusion I nor II follows\n ",
+              "isCorrect": true,
+              "_id": "67b992944d6f864c06d81493",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"images/img_3b34e329d761.png\" name=\"Picture 9\" align=\"bottom\" width=\"394\" height=\"79\" border=\"0\">\n</img></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a1fffaf5089ec5a5fdb",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "67b99282977270881a43b98e",
+          "name": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statements:</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Some\n trees are plants.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">All\n bushes are plants.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Conclusions:</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I.\n At least some trees are bushes.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II.\n Some trees are definitely not bushes.</span></span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n Statements:\n \n Some\n trees are plants.\n \n All\n bushes are plants.\n \n Conclusions:\n \n I.\n At least some trees are bushes.\n II.\n Some trees are definitely not bushes.\n ",
+          "sectionId": "67b992507cd98400a0d79636",
+          "order": 9,
+          "questionSubmitOrder": 9,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n only conclusion I follows</span></span></span></span></p>\n ",
+              "nameText": "\n If\n only conclusion I follows\n ",
+              "isCorrect": false,
+              "_id": "67b992944d6f8601ecd8146c",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n only conclusion II follows</span></span></span></span></p>\n ",
+              "nameText": "\n If\n only conclusion II follows\n ",
+              "isCorrect": false,
+              "_id": "67b992944d6f862637d8146d",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n either conclusion I or II follows</span></span></span></span></p>\n ",
+              "nameText": "\n If\n either conclusion I or II follows\n ",
+              "isCorrect": true,
+              "_id": "67b992944d6f86874ed8146e",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n neither conclusion I nor II follows</span></span></span></span></p>\n ",
+              "nameText": "\n If\n neither conclusion I nor II follows\n ",
+              "isCorrect": false,
+              "_id": "67b992944d6f8675ffd8146f",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"images/img_e8a87fd044bb.png\" name=\"Picture 1\" align=\"bottom\" width=\"276\" height=\"97\" border=\"0\">\n</img></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a1fffaf5004eb5a5fdc",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "67b9928297727018f443b9ca",
+          "name": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statements:</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Roshni\n is a teacher.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Roshni\n is a student.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">No\n student is a scholar.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Conclusions:</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I.\n Some students are teachers.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II.\n Roshni is not a scholar</span></span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n Statements:\n \n Roshni\n is a teacher.\n \n Roshni\n is a student.\n \n No\n student is a scholar.\n \n Conclusions:\n \n I.\n Some students are teachers.\n II.\n Roshni is not a scholar\n ",
+          "sectionId": "67b992507cd98400a0d79636",
+          "order": 10,
+          "questionSubmitOrder": 10,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n only conclusion I follows</span></span></span></span></p>\n ",
+              "nameText": "\n If\n only conclusion I follows\n ",
+              "isCorrect": false,
+              "_id": "67b992944d6f869951d81484",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n only conclusion II follows</span></span></span></span></p>\n ",
+              "nameText": "\n If\n only conclusion II follows\n ",
+              "isCorrect": false,
+              "_id": "67b992944d6f86cff5d81485",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n either conclusion I or II follows</span></span></span></span></p>\n ",
+              "nameText": "\n If\n either conclusion I or II follows\n ",
+              "isCorrect": false,
+              "_id": "67b992944d6f862e45d81486",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Both\n conclusion I and II follows</span></span></span></span></p>\n ",
+              "nameText": "\n Both\n conclusion I and II follows\n ",
+              "isCorrect": true,
+              "_id": "67b992944d6f863aecd81487",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"images/img_5258f9c417d6.png\" name=\"Picture 13\" align=\"bottom\" width=\"398\" height=\"103\" border=\"0\">\n</img></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a1fffaf503d305a5fdd",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "67b9928297727054d143b9bb",
+          "name": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statements:</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Some\n questions are answers.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Some\n answers are explanations.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">All\n explanations are lengthy.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">No\n lengthy is a summary.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Conclusions:</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I.\n No explanation is summary.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II.\n Some lengthy are answers.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">III.\n Some answers are not summary.</span></span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n Statements:\n \n Some\n questions are answers.\n \n Some\n answers are explanations.\n \n All\n explanations are lengthy.\n \n No\n lengthy is a summary.\n \n Conclusions:\n \n I.\n No explanation is summary.\n \n II.\n Some lengthy are answers.\n III.\n Some answers are not summary.\n ",
+          "sectionId": "67b992507cd98400a0d79636",
+          "order": 11,
+          "questionSubmitOrder": 11,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n only conclusion I follows</span></span></span></span></p>\n ",
+              "nameText": "\n If\n only conclusion I follows\n ",
+              "isCorrect": false,
+              "_id": "67b992944d6f86aa38d81468",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n only conclusion II follows</span></span></span></span></p>\n ",
+              "nameText": "\n If\n only conclusion II follows\n ",
+              "isCorrect": false,
+              "_id": "67b992944d6f865ce3d81469",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n either conclusion I or II follows</span></span></span></span></p>\n ",
+              "nameText": "\n If\n either conclusion I or II follows\n ",
+              "isCorrect": false,
+              "_id": "67b992944d6f8605d4d8146a",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">All\n conclusion follows</span></span></span></span></p>\n ",
+              "nameText": "\n All\n conclusion follows\n ",
+              "isCorrect": true,
+              "_id": "67b992944d6f8630f1d8146b",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"images/img_b77145125e33.png\" name=\"Picture 10\" align=\"bottom\" width=\"515\" height=\"67\" border=\"0\">\n</img></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a1fffaf50b5d85a5fde",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "67b992829772700ae443b9a7",
+          "name": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statements:</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">All\n letters are envelopes.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">No\n envelope is post office.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Some\n post offices are postmen.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Conclusions:</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I.\n Some postmen are letters.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II.\n No postman is letter.</span></span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n Statements:\n \n All\n letters are envelopes.\n \n No\n envelope is post office.\n \n Some\n post offices are postmen.\n \n Conclusions:\n \n I.\n Some postmen are letters.\n II.\n No postman is letter.\n ",
+          "sectionId": "67b992507cd98400a0d79636",
+          "order": 12,
+          "questionSubmitOrder": 12,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n only conclusion I follows</span></span></span></span></p>\n ",
+              "nameText": "\n If\n only conclusion I follows\n ",
+              "isCorrect": false,
+              "_id": "67b992944d6f86b23ad81470",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n only conclusion II follows</span></span></span></span></p>\n ",
+              "nameText": "\n If\n only conclusion II follows\n ",
+              "isCorrect": false,
+              "_id": "67b992944d6f868551d81471",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n either conclusion I or II follows</span></span></span></span></p>\n ",
+              "nameText": "\n If\n either conclusion I or II follows\n ",
+              "isCorrect": true,
+              "_id": "67b992944d6f865ed1d81472",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n neither conclusion I nor II follows</span></span></span></span></p>\n ",
+              "nameText": "\n If\n neither conclusion I nor II follows\n ",
+              "isCorrect": false,
+              "_id": "67b992944d6f86527ad81473",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"images/img_9c82e451762c.png\" name=\"Picture 6\" align=\"bottom\" width=\"441\" height=\"95\" border=\"0\">\n</img></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a1fffaf5086105a5fdf",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "67b99282977270c44643b9e3",
+          "name": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statements:\n </span></span></span></span>\n </p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Only\n a few teachers are doctors.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">0%\n teachers are lawyers.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Conclusions:\n </span></span></span></span>\n </p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I.\n All lawyers are teachers.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II.\n Some doctors are not lawyers.</span></span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n Statements:\n \n \n \n Only\n a few teachers are doctors.\n \n 0%\n teachers are lawyers.\n \n Conclusions:\n \n \n \n I.\n All lawyers are teachers.\n II.\n Some doctors are not lawyers.\n ",
+          "sectionId": "67b992507cd98400a0d79636",
+          "order": 13,
+          "questionSubmitOrder": 13,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n only conclusion I follows</span></span></span></span></p>\n ",
+              "nameText": "\n If\n only conclusion I follows\n ",
+              "isCorrect": false,
+              "_id": "67b992944d6f8616f4d81488",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n only conclusion II follows</span></span></span></span></p>\n ",
+              "nameText": "\n If\n only conclusion II follows\n ",
+              "isCorrect": true,
+              "_id": "67b992944d6f86f05dd81489",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n either conclusion I or II follows</span></span></span></span></p>\n ",
+              "nameText": "\n If\n either conclusion I or II follows\n ",
+              "isCorrect": false,
+              "_id": "67b992944d6f86e4f5d8148a",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n neither conclusion I nor II follows</span></span></span></span></p>\n ",
+              "nameText": "\n If\n neither conclusion I nor II follows\n ",
+              "isCorrect": false,
+              "_id": "67b992944d6f860915d8148b",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"images/img_7327cd7c5eb7.png\" name=\"Picture 18\" align=\"bottom\" width=\"340\" height=\"96\" border=\"0\">\n</img></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a1fffaf503ac45a5fe0",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "67b99282977270a8b443b9cf",
+          "name": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statements:\n All clerks are professors.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">No\n professor is a doctor.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">All\n doctors are managers.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Conclusions:\n I. No manager is a clerk.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II.\n All professors being managers is a possibility.</span></span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n Statements:\n All clerks are professors.\n \n No\n professor is a doctor.\n \n All\n doctors are managers.\n \n Conclusions:\n I. No manager is a clerk.\n II.\n All professors being managers is a possibility.\n ",
+          "sectionId": "67b992507cd98400a0d79636",
+          "order": 14,
+          "questionSubmitOrder": 14,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n only conclusion I follows</span></span></span></span></p>\n ",
+              "nameText": "\n If\n only conclusion I follows\n ",
+              "isCorrect": false,
+              "_id": "67b992944d6f86215dd81494",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n only conclusion II follows</span></span></span></span></p>\n ",
+              "nameText": "\n If\n only conclusion II follows\n ",
+              "isCorrect": false,
+              "_id": "67b992944d6f866b4fd81495",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n either conclusion I or II follows</span></span></span></span></p>\n ",
+              "nameText": "\n If\n either conclusion I or II follows\n ",
+              "isCorrect": false,
+              "_id": "67b992944d6f868aa4d81496",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n neither conclusion I nor II follows</span></span></span></span></p>\n ",
+              "nameText": "\n If\n neither conclusion I nor II follows\n ",
+              "isCorrect": true,
+              "_id": "67b992944d6f86c269d81497",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"images/img_61d7464c325a.png\" name=\"Picture 14\" align=\"bottom\" width=\"448\" height=\"92\" border=\"0\">\n</img></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a1fffaf50014f5a5fe1",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "67b99282977270614643b993",
+          "name": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statements:</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">All\n planets are stars.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">All\n meteors are planets.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">No\n orbit is a star.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Conclusions:</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I.\n All meteors are stars.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II.\n No planet is an orbit.</span></span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n Statements:\n \n All\n planets are stars.\n \n All\n meteors are planets.\n \n No\n orbit is a star.\n \n Conclusions:\n \n I.\n All meteors are stars.\n II.\n No planet is an orbit.\n ",
+          "sectionId": "67b992507cd98400a0d79636",
+          "order": 15,
+          "questionSubmitOrder": 15,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n only conclusion I follows</span></span></span></span></p>\n ",
+              "nameText": "\n If\n only conclusion I follows\n ",
+              "isCorrect": false,
+              "_id": "67b992944d6f86515ed81464",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n only conclusion II follows</span></span></span></span></p>\n ",
+              "nameText": "\n If\n only conclusion II follows\n ",
+              "isCorrect": false,
+              "_id": "67b992944d6f86fe9ad81465",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n either conclusion I or II follows</span></span></span></span></p>\n ",
+              "nameText": "\n If\n either conclusion I or II follows\n ",
+              "isCorrect": false,
+              "_id": "67b992944d6f867fb2d81466",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Both\n conclusion I and  II follows</span></span></span></span></p>\n ",
+              "nameText": "\n Both\n conclusion I and  II follows\n ",
+              "isCorrect": true,
+              "_id": "67b992944d6f864037d81467",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"images/img_57a703e2ab47.png\" name=\"Picture 2\" align=\"bottom\" width=\"371\" height=\"105\" border=\"0\">\n</img></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a1fffaf502eb95a5fe2",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "67b99282977270e2ee43b9d4",
+          "name": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statements:\n </span></span></span></span>\n </p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Varun\n likes Ice-creams.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">All\n ice-creams are sweet in taste.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Conclusions:\n </span></span></span></span>\n </p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I.\n All sweet in taste things being ice-creams is a possibility.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II.\n Varun doesn't like things that are sour in taste.</span></span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n Statements:\n \n \n \n Varun\n likes Ice-creams.\n \n All\n ice-creams are sweet in taste.\n \n Conclusions:\n \n \n \n I.\n All sweet in taste things being ice-creams is a possibility.\n II.\n Varun doesn't like things that are sour in taste.\n ",
+          "sectionId": "67b992507cd98400a0d79636",
+          "order": 16,
+          "questionSubmitOrder": 16,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n only conclusion I follows</span></span></span></span></p>\n ",
+              "nameText": "\n If\n only conclusion I follows\n ",
+              "isCorrect": true,
+              "_id": "67b992944d6f86301ed814ac",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n only conclusion II follows</span></span></span></span></p>\n ",
+              "nameText": "\n If\n only conclusion II follows\n ",
+              "isCorrect": false,
+              "_id": "67b992944d6f864421d814ad",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n either conclusion I or II follows</span></span></span></span></p>\n ",
+              "nameText": "\n If\n either conclusion I or II follows\n ",
+              "isCorrect": false,
+              "_id": "67b992944d6f86d46dd814ae",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n neither conclusion I nor II follows</span></span></span></span></p>\n ",
+              "nameText": "\n If\n neither conclusion I nor II follows\n ",
+              "isCorrect": false,
+              "_id": "67b992944d6f866a03d814af",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"images/img_0d69280ffea1.png\" name=\"Picture 15\" align=\"bottom\" width=\"277\" height=\"99\" border=\"0\">\n</img></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a1fffaf5077bd5a5fe3",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "67b9928297727059e043b9de",
+          "name": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statements:\n No tea is sugar.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">No\n milk is tea.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Conclusions:\n I. No sugar is milk.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II.\n All milk are sugar.</span></span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n Statements:\n No tea is sugar.\n \n No\n milk is tea.\n \n Conclusions:\n I. No sugar is milk.\n II.\n All milk are sugar.\n ",
+          "sectionId": "67b992507cd98400a0d79636",
+          "order": 17,
+          "questionSubmitOrder": 17,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n only conclusion I follows</span></span></span></span></p>\n ",
+              "nameText": "\n If\n only conclusion I follows\n ",
+              "isCorrect": false,
+              "_id": "67b992944d6f86cb03d814a8",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n only conclusion II follows</span></span></span></span></p>\n ",
+              "nameText": "\n If\n only conclusion II follows\n ",
+              "isCorrect": false,
+              "_id": "67b992944d6f868f61d814a9",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n either conclusion I or II follows</span></span></span></span></p>\n ",
+              "nameText": "\n If\n either conclusion I or II follows\n ",
+              "isCorrect": false,
+              "_id": "67b992944d6f860362d814aa",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n neither conclusion I nor II follows</span></span></span></span></p>\n ",
+              "nameText": "\n If\n neither conclusion I nor II follows\n ",
+              "isCorrect": true,
+              "_id": "67b992944d6f866961d814ab",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"images/img_270a61875e36.png\" name=\"Picture 17\" align=\"bottom\" width=\"278\" height=\"64\" border=\"0\">\n</img></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a1fffaf506da95a5fe4",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "67b9928297727087f643b99d",
+          "name": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statement:\n </span></span></span></span>\n </p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Some\n pizzas are pasta.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">All\n pastas are macaronis.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Some\n macaronis are pastries.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Conclusions:\n </span></span></span></span>\n </p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I.\n All pizzas being macaronis is a possibility.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II.\n All pastas are pizzas.</span></span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n Statement:\n \n \n \n Some\n pizzas are pasta.\n \n All\n pastas are macaronis.\n \n Some\n macaronis are pastries.\n \n Conclusions:\n \n \n \n I.\n All pizzas being macaronis is a possibility.\n II.\n All pastas are pizzas.\n ",
+          "sectionId": "67b992507cd98400a0d79636",
+          "order": 18,
+          "questionSubmitOrder": 18,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n only conclusion I follows</span></span></span></span></p>\n ",
+              "nameText": "\n If\n only conclusion I follows\n ",
+              "isCorrect": true,
+              "_id": "67b992944d6f860529d8149c",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n only conclusion II follows</span></span></span></span></p>\n ",
+              "nameText": "\n If\n only conclusion II follows\n ",
+              "isCorrect": false,
+              "_id": "67b992944d6f867cdcd8149d",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n either conclusion I or II follows</span></span></span></span></p>\n ",
+              "nameText": "\n If\n either conclusion I or II follows\n ",
+              "isCorrect": false,
+              "_id": "67b992944d6f861cacd8149e",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n neither conclusion I nor II follows</span></span></span></span></p>\n ",
+              "nameText": "\n If\n neither conclusion I nor II follows\n ",
+              "isCorrect": false,
+              "_id": "67b992944d6f860109d8149f",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"images/img_91a0b8416261.png\" name=\"Picture 4\" align=\"bottom\" width=\"367\" height=\"93\" border=\"0\">\n</img></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a1fffaf50731c5a5fe5",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "67b992829772707c1243b9a2",
+          "name": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statements:</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">All\n animals are mammals.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">No\n mammal is reptile.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">All\n reptiles are amphibians.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Conclusions:</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">I.\n All animals are amphibians.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">II.\n Some amphibians are mammals</span></span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n Statements:\n \n All\n animals are mammals.\n \n No\n mammal is reptile.\n \n All\n reptiles are amphibians.\n \n Conclusions:\n \n I.\n All animals are amphibians.\n II.\n Some amphibians are mammals\n ",
+          "sectionId": "67b992507cd98400a0d79636",
+          "order": 19,
+          "questionSubmitOrder": 19,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n only conclusion I follows</span></span></span></span></p>\n ",
+              "nameText": "\n If\n only conclusion I follows\n ",
+              "isCorrect": false,
+              "_id": "67b992944d6f86075ed8148c",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n only conclusion II follows</span></span></span></span></p>\n ",
+              "nameText": "\n If\n only conclusion II follows\n ",
+              "isCorrect": false,
+              "_id": "67b992944d6f861854d8148d",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n either conclusion I or II follows</span></span></span></span></p>\n ",
+              "nameText": "\n If\n either conclusion I or II follows\n ",
+              "isCorrect": false,
+              "_id": "67b992944d6f862545d8148e",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n neither conclusion I nor II follows</span></span></span></span></p>\n ",
+              "nameText": "\n If\n neither conclusion I nor II follows\n ",
+              "isCorrect": true,
+              "_id": "67b992944d6f860f48d8148f",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"images/img_6cfff7c034cd.png\" name=\"Picture 5\" align=\"bottom\" width=\"408\" height=\"104\" border=\"0\">\n</img></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a1fffaf50c62e5a5fe6",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "67b992829772703d6b43b9b1",
+          "name": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Statements:</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">At\n least some Europeans are British.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Every\n European is an American.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">No\n American is an African.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Conclusions:</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">All\n Americans being British is a possibility.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Some\n Europeans can be Africans as well.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">No\n African is a British.</span></span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n Statements:\n \n At\n least some Europeans are British.\n \n Every\n European is an American.\n \n No\n American is an African.\n \n Conclusions:\n \n All\n Americans being British is a possibility.\n \n Some\n Europeans can be Africans as well.\n No\n African is a British.\n ",
+          "sectionId": "67b992507cd98400a0d79636",
+          "order": 20,
+          "questionSubmitOrder": 20,
+          "options": [
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n only conclusion I follows</span></span></span></span></p>\n ",
+              "nameText": "\n If\n only conclusion I follows\n ",
+              "isCorrect": false,
+              "_id": "67b992944d6f867f64d81480",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n conclusion I and III follows</span></span></span></span></p>\n ",
+              "nameText": "\n If\n conclusion I and III follows\n ",
+              "isCorrect": false,
+              "_id": "67b992944d6f865e57d81481",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n conclusion I or II follows</span></span></span></span></p>\n ",
+              "nameText": "\n If\n conclusion I or II follows\n ",
+              "isCorrect": false,
+              "_id": "67b992944d6f862d1ed81482",
+              "isMarked": false
+            },
+            {
+              "name": "<p align=\"justify\" style=\"text-decoration: none;\"><span style=\"color: #000000;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-family: Cambria,serif;\"><span style=\"font-size: 19px;\">None follows</span></span></span></span></p>",
+              "nameText": "None follows",
+              "isCorrect": true,
+              "_id": "67b992944d6f862f35d81483",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"images/img_9d75281b3246.png\" name=\"Picture 8\" align=\"bottom\" width=\"443\" height=\"93\" border=\"0\">\n</img></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a1fffaf5082375a5fe7",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        }
+      ],
+      "numberOfQuestions": 20
+    }
+  ],
+  "userDetails": {
+    "name": "Shivam Gupta",
+    "userId": 193594164,
+    "orgId": 78392
+  },
+  "sts": 1791654431702,
+  "region": {
+    "timeFormat": "hh:mm a",
+    "dateTimeStamp": "yyyy/MM/dd"
+  }
+}

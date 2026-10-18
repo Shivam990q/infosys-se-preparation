@@ -1,0 +1,1310 @@
+{
+  "test": {
+    "name": "Direction Sense",
+    "testTotalDuration": 1500000,
+    "settings": {
+      "fonts": {
+        "fonts": [
+          {
+            "face": "Calibri",
+            "supported": true
+          },
+          {
+            "face": "serif",
+            "supported": true
+          },
+          {
+            "face": "Cambria",
+            "supported": true
+          },
+          {
+            "face": "Arial",
+            "supported": true
+          }
+        ],
+        "include": "https://cms-gcp.classplusapp.com/parser/v3/css/combined?face=Calibri,serif,Cambria,Arial"
+      },
+      "isSectionSwitchingEnabled": true
+    },
+    "practiceTestUrls": [],
+    "testFormat": "DEFAULT"
+  },
+  "filters": {
+    "incorrect": 0,
+    "correct": 0,
+    "partiallyMarked": 0,
+    "unattempted": 1,
+    "markForReview": 0,
+    "graceMarked": 0,
+    "revaluated": 0
+  },
+  "timeTaken": 0,
+  "courseId": "58216",
+  "showReportQuestion": true,
+  "sectionWiseStats": [
+    {
+      "marksScored": 0,
+      "sectionMarks": 80,
+      "accuracy": 0,
+      "_id": "6aca7a0be535cb7306c1679f",
+      "totalQuestions": 20,
+      "attemptDuration": 0,
+      "correctAnswers": 0,
+      "inCorrectAnswers": 0,
+      "partiallyCorrectAnswers": 0,
+      "unAttempted": 20,
+      "name": "Direction Sense",
+      "order": 1,
+      "sectionDuration": 0,
+      "sectionId": "67b037c05af5f9a56baa9ab4"
+    }
+  ],
+  "sections": [
+    {
+      "sectionDuration": 0,
+      "sectionMarks": 80,
+      "isActive": true,
+      "draftMode": false,
+      "sectionInstructions": " ",
+      "_id": "67b037c05af5f9a56baa9ab4",
+      "hasOptionalQuestions": false,
+      "name": "Direction Sense",
+      "order": 1,
+      "createdAt": "2025-02-15T11:20:17.064Z",
+      "updatedAt": "2025-02-15T11:20:17.064Z",
+      "questions": [
+        {
+          "_id": "67b037d4e6cb5b6c736f9042",
+          "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">A\n located to the West of B. C is located at North in between A and\n B. D is exactly to the South of B and also in line with B. In\n which direction of C is D located?</span></span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n A\n located to the West of B. C is located at North in between A and\n B. D is exactly to the South of B and also in line with B. In\n which direction of C is D located?\n ",
+          "sectionId": "67b037c05af5f9a56baa9ab4",
+          "order": 1,
+          "questionSubmitOrder": 1,
+          "options": [
+            {
+              "name": "<p style=\"text-decoration: none;\"><span style=\"color: #000000;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-family: Cambria,serif;\"><span style=\"font-size: 19px;\">North and South</span></span></span></span></p>",
+              "nameText": "North and South",
+              "isCorrect": false,
+              "_id": "67b037ec40c9ec70ced5a78f",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none;\"><span style=\"color: #000000;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-family: Cambria,serif;\"><span style=\"font-size: 19px;\">South and East</span></span></span></span></p>",
+              "nameText": "South and East",
+              "isCorrect": true,
+              "_id": "67b037ec40c9ec3cbcd5a790",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none;\"><span style=\"color: #000000;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-family: Cambria,serif;\"><span style=\"font-size: 19px;\">North and West</span></span></span></span></p>",
+              "nameText": "North and West",
+              "isCorrect": false,
+              "_id": "67b037ec40c9ecac6ed5a791",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none;\"><span style=\"color: #000000;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-family: Cambria,serif;\"><span style=\"font-size: 19px;\">South and West</span></span></span></span></p>",
+              "nameText": "South and West",
+              "isCorrect": false,
+              "_id": "67b037ec40c9ec0f4ed5a792",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"images/img_4f1f0187378b.png\" name=\"Picture 1\" align=\"bottom\" width=\"389\" height=\"167\" border=\"0\">\n</img></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a0b465ad59f7c5407df",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "67b037d4e6cb5b0e7b6f908d",
+          "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Point\n B is 7 km to the west of Point A. Point C is 12 km to the south of\n Point E. Point A is 5km to the east of Point C. Point D is 8 km to\n the north of Point C. Point G is 6 km to the west of Point D.\n Point H is 14 km to the south of Point G. If Siya is standing 6 km\n to the east of Point H and takes 1 hour to complete 9km distance\n then in what possible time she would reach Point E, if taken the\n shortest route?</span></span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n Point\n B is 7 km to the west of Point A. Point C is 12 km to the south of\n Point E. Point A is 5km to the east of Point C. Point D is 8 km to\n the north of Point C. Point G is 6 km to the west of Point D.\n Point H is 14 km to the south of Point G. If Siya is standing 6 km\n to the east of Point H and takes 1 hour to complete 9km distance\n then in what possible time she would reach Point E, if taken the\n shortest route?\n ",
+          "sectionId": "67b037c05af5f9a56baa9ab4",
+          "order": 2,
+          "questionSubmitOrder": 2,
+          "options": [
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">35\n min</span></span></span></span></p>\n ",
+              "nameText": "\n 35\n min\n ",
+              "isCorrect": false,
+              "_id": "67b037ec40c9ec1321d5a79b",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">60\n min</span></span></span></span></p>\n ",
+              "nameText": "\n 60\n min\n ",
+              "isCorrect": false,
+              "_id": "67b037ec40c9ec11aad5a79c",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">180\n min</span></span></span></span></p>\n ",
+              "nameText": "\n 180\n min\n ",
+              "isCorrect": false,
+              "_id": "67b037ec40c9ec20edd5a79d",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">120\n min</span></span></span></span></p>\n ",
+              "nameText": "\n 120\n min\n ",
+              "isCorrect": true,
+              "_id": "67b037ec40c9ec6bc0d5a79e",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"images/img_36038d13baf3.png\" name=\"Picture 8\" align=\"bottom\" width=\"268\" height=\"314\" border=\"0\">\n</img></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">In\n such a case, the minimum distance between Siya and Point E is 18\n km, so SIya will take 2 hours or 120 minutes to reach point E.</span></span></span></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a0b465ad543055407e0",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "67b037d4e6cb5b69696f909c",
+          "name": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Virendra’s\n house is 30 m to the left of the Shani Dev Temple, which is 40 m\n to the north of the Church. One day, Virendra takes the road which\n is parallel to the temple-Church road and walks for 50 m before\n turning to his right. He further walks for 20 m and reaches the\n Gym.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n Virendra reaches the church taking the temple-church road and then\n turns 45 degrees thrice in the clock-wise direction, which\n direction would he be facing?</span></span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n Virendra’s\n house is 30 m to the left of the Shani Dev Temple, which is 40 m\n to the north of the Church. One day, Virendra takes the road which\n is parallel to the temple-Church road and walks for 50 m before\n turning to his right. He further walks for 20 m and reaches the\n Gym.\n If\n Virendra reaches the church taking the temple-church road and then\n turns 45 degrees thrice in the clock-wise direction, which\n direction would he be facing?\n ",
+          "sectionId": "67b037c05af5f9a56baa9ab4",
+          "order": 3,
+          "questionSubmitOrder": 3,
+          "options": [
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Towards\n the Gym</span></span></span></span></p>\n ",
+              "nameText": "\n Towards\n the Gym\n ",
+              "isCorrect": false,
+              "_id": "67b037ec40c9ec8b87d5a78b",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Towards\n to the House</span></span></span></span></p>\n ",
+              "nameText": "\n Towards\n to the House\n ",
+              "isCorrect": true,
+              "_id": "67b037ec40c9ec1b84d5a78c",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Towards\n the Temple</span></span></span></span></p>\n ",
+              "nameText": "\n Towards\n the Temple\n ",
+              "isCorrect": false,
+              "_id": "67b037ec40c9ecd431d5a78d",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">North-East\n direction</span></span></span></span></p>\n ",
+              "nameText": "\n North-East\n direction\n ",
+              "isCorrect": false,
+              "_id": "67b037ec40c9ec5339d5a78e",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"images/img_9a6401050994.png\" name=\"Picture 15\" align=\"bottom\" width=\"229\" height=\"187\" border=\"0\">\n</img></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">From\n the final figure we can deduce the fact that Virendra must be\n facing his house.</span></span></span></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a0b465ad532d15407e1",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "67b037d4e6cb5b25096f9092",
+          "name": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Read\n the given information carefully and answer the questions given\n beside.</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">P\n + Q states that P is 2 m East Of Q</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">P\n ^ Q states that P is 2 m South Of Q</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">P\n &amp; Q states that P is 4 m East Of Q</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">P\n - Q states that P is 2 m West Of Q</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">P\n / Q states that P is 2 m North Of Q</span></span></span></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">A\n – B ^ C &amp; D + E, F + B</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">F\n is in which direction with respect to E?</span></span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n Read\n the given information carefully and answer the questions given\n beside.\n \n P\n + Q states that P is 2 m East Of Q\n \n P\n ^ Q states that P is 2 m South Of Q\n \n P\n &amp; Q states that P is 4 m East Of Q\n \n P\n - Q states that P is 2 m West Of Q\n \n P\n / Q states that P is 2 m North Of Q\n \n A\n – B ^ C &amp; D + E, F + B\n F\n is in which direction with respect to E?\n ",
+          "sectionId": "67b037c05af5f9a56baa9ab4",
+          "order": 4,
+          "questionSubmitOrder": 4,
+          "options": [
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">North</span></span></span></span></p>\n ",
+              "nameText": "\n North\n ",
+              "isCorrect": false,
+              "_id": "67b037ec40c9ec19cbd5a7bb",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">South</span></span></span></span></p>\n ",
+              "nameText": "\n South\n ",
+              "isCorrect": false,
+              "_id": "67b037ec40c9ec20d2d5a7bc",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Northwest</span></span></span></span></p>\n ",
+              "nameText": "\n Northwest\n ",
+              "isCorrect": false,
+              "_id": "67b037ec40c9ec439fd5a7bd",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Southeast</span></span></span></span></p>\n ",
+              "nameText": "\n Southeast\n ",
+              "isCorrect": true,
+              "_id": "67b037ec40c9ec3f7fd5a7be",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"images/img_e58e759d745f.png\" name=\"Picture 9\" align=\"bottom\" width=\"381\" height=\"160\" border=\"0\">\n</img></span></p>\n <p style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">We\n can see from the figure that F is in South East of E.</span></span></span></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a0b465ad564d85407e2",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "67b037d4e6cb5b29556f9083",
+          "name": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Some\n chairs were placed in a park as per the manner described here.\n Chair B was 24m to the west of Chair A, which is 12m to the south\n of Chair E. Chair D was 10m to the east of Chair H. Chair C was 7m\n to the north of Chair H. Chair L was 15m to the north of Chair B,\n which is towards the south of Chair D. Chair F was 7m to the north\n of Chair E. Chair D and Chair E were placed in a straight\n horizontal line.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Chair\n C is how much far (shortest) and in which direction from Chair F?</span></span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n Some\n chairs were placed in a park as per the manner described here.\n Chair B was 24m to the west of Chair A, which is 12m to the south\n of Chair E. Chair D was 10m to the east of Chair H. Chair C was 7m\n to the north of Chair H. Chair L was 15m to the north of Chair B,\n which is towards the south of Chair D. Chair F was 7m to the north\n of Chair E. Chair D and Chair E were placed in a straight\n horizontal line.\n Chair\n C is how much far (shortest) and in which direction from Chair F?\n ",
+          "sectionId": "67b037c05af5f9a56baa9ab4",
+          "order": 5,
+          "questionSubmitOrder": 5,
+          "options": [
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">30m,\n North-West</span></span></span></span></p>\n ",
+              "nameText": "\n 30m,\n North-West\n ",
+              "isCorrect": false,
+              "_id": "67b037ec40c9ec0855d5a787",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">27m,\n East</span></span></span></span></p>\n ",
+              "nameText": "\n 27m,\n East\n ",
+              "isCorrect": false,
+              "_id": "67b037ec40c9ec4b14d5a788",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">34m,\n West </span></span></span></span>\n </p>\n ",
+              "nameText": "\n 34m,\n West \n \n ",
+              "isCorrect": true,
+              "_id": "67b037ec40c9ec8842d5a789",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">24m,\n East</span></span></span></span></p>\n ",
+              "nameText": "\n 24m,\n East\n ",
+              "isCorrect": false,
+              "_id": "67b037ec40c9ec56fbd5a78a",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"images/img_57e69d4ef324.png\" name=\"Picture 18\" align=\"bottom\" width=\"343\" height=\"207\" border=\"0\">\n</img></span></p>\n <p style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Chair\n C is 34m to the west of Chair F.</span></span></span></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a0b465ad5a1405407e3",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "67b037d4e6cb5b602c6f907e",
+          "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Car\n X starts from point A and travels in a straight line towards north\n for 8 km and takes a right turn and travels for 12 km then turns\n towards left and travels for 6 km before taking a right turn it\n travels for 10 km and takes a right turn and travels for 15 km and\n reaches a point B which is 8 km towards west of the point C where\n car Y stands. What is the position of Car Y with respect to\n initial position of car X?</span></span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n Car\n X starts from point A and travels in a straight line towards north\n for 8 km and takes a right turn and travels for 12 km then turns\n towards left and travels for 6 km before taking a right turn it\n travels for 10 km and takes a right turn and travels for 15 km and\n reaches a point B which is 8 km towards west of the point C where\n car Y stands. What is the position of Car Y with respect to\n initial position of car X?\n ",
+          "sectionId": "67b037c05af5f9a56baa9ab4",
+          "order": 6,
+          "questionSubmitOrder": 6,
+          "options": [
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">East</span></span></span></span></p>\n ",
+              "nameText": "\n East\n ",
+              "isCorrect": false,
+              "_id": "67b037ec40c9ec136ed5a7c7",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Southwest</span></span></span></span></p>\n ",
+              "nameText": "\n Southwest\n ",
+              "isCorrect": false,
+              "_id": "67b037ec40c9ec5ecdd5a7c8",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Southeast</span></span></span></span></p>\n ",
+              "nameText": "\n Southeast\n ",
+              "isCorrect": true,
+              "_id": "67b037ec40c9ec4fa4d5a7c9",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">South</span></span></span></span></p>\n ",
+              "nameText": "\n South\n ",
+              "isCorrect": false,
+              "_id": "67b037ec40c9ecbd72d5a7ca",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"images/img_7df2f80df07b.png\" name=\"Picture 17\" align=\"bottom\" width=\"285\" height=\"160\" border=\"0\">\n</img></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Following\n the final solution, we can say that Car Y is southeast direction\n with respect to initial position of car X.</span></span></span></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a0b465ad559375407e4",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "67b037d4e6cb5b38316f906f",
+          "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Rudra\n started walking from his home in east direction and after walking\n for 80 m he took a turn of 135° towards his left and walked 22\n m after that took a turn of 90° towards his right and walked\n 30 m and stopped. In which direction Ram is facing now?</span></span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n Rudra\n started walking from his home in east direction and after walking\n for 80 m he took a turn of 135° towards his left and walked 22\n m after that took a turn of 90° towards his right and walked\n 30 m and stopped. In which direction Ram is facing now?\n ",
+          "sectionId": "67b037c05af5f9a56baa9ab4",
+          "order": 7,
+          "questionSubmitOrder": 7,
+          "options": [
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">North</span></span></span></span></p>\n ",
+              "nameText": "\n North\n ",
+              "isCorrect": false,
+              "_id": "67b037ec40c9ec461bd5a7a3",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none;\"><span style=\"color: #000000;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-family: Cambria,serif;\"><span style=\"font-size: 19px;\">Northeast</span></span></span></span></p>",
+              "nameText": "Northeast",
+              "isCorrect": true,
+              "_id": "67b037ec40c9ec2b42d5a7a4",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Southwest</span></span></span></span></p>\n ",
+              "nameText": "\n Southwest\n ",
+              "isCorrect": false,
+              "_id": "67b037ec40c9ec49b6d5a7a5",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">East</span></span></span></span></p>\n ",
+              "nameText": "\n East\n ",
+              "isCorrect": false,
+              "_id": "67b037ec40c9ec55e6d5a7a6",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"images/img_08fcdf78a8a6.png\" name=\"Picture 12\" align=\"bottom\" width=\"354\" height=\"136\" border=\"0\">\n</img></span></p>\n <p style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Here\n we can say that ram is facing in Northeast direction.</span></span></span></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a0b465ad584a15407e5",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "67b037d4e6cb5b02ba6f9079",
+          "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Bonny\n moves 30 meters towards south then turns to his right and starts\n moving straight till he completes another 30 meters. Then turning\n to his left he moves for 20 meters. He again then turns to his\n left and moves for 30 meters. How far is he from his initial\n position?</span></span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n Bonny\n moves 30 meters towards south then turns to his right and starts\n moving straight till he completes another 30 meters. Then turning\n to his left he moves for 20 meters. He again then turns to his\n left and moves for 30 meters. How far is he from his initial\n position?\n ",
+          "sectionId": "67b037c05af5f9a56baa9ab4",
+          "order": 8,
+          "questionSubmitOrder": 8,
+          "options": [
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">30\n m</span></span></span></span></p>\n ",
+              "nameText": "\n 30\n m\n ",
+              "isCorrect": false,
+              "_id": "67b037ec40c9eca19fd5a7b7",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">50\n m</span></span></span></span></p>\n ",
+              "nameText": "\n 50\n m\n ",
+              "isCorrect": true,
+              "_id": "67b037ec40c9ec9115d5a7b8",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">60\n m</span></span></span></span></p>\n ",
+              "nameText": "\n 60\n m\n ",
+              "isCorrect": false,
+              "_id": "67b037ec40c9ecacc9d5a7b9",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">10\n m</span></span></span></span></p>\n ",
+              "nameText": "\n 10\n m\n ",
+              "isCorrect": false,
+              "_id": "67b037ec40c9ec2896d5a7ba",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"images/img_cb1f511f2b13.png\" name=\"Picture 16\" align=\"bottom\" width=\"168\" height=\"149\" border=\"0\">\n</img></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a0b465ad5f8875407e6",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "67b037d4e6cb5bd1f76f9065",
+          "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Point\n L is 2m towards north of point C. Point N is 7m towards east of\n point L. Point O is 8m towards south of point N. Point T is 12m\n towards west of point O. What is the direction of point C with\n respect to point T?</span></span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n Point\n L is 2m towards north of point C. Point N is 7m towards east of\n point L. Point O is 8m towards south of point N. Point T is 12m\n towards west of point O. What is the direction of point C with\n respect to point T?\n ",
+          "sectionId": "67b037c05af5f9a56baa9ab4",
+          "order": 9,
+          "questionSubmitOrder": 9,
+          "options": [
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Northeast</span></span></span></span></p>\n ",
+              "nameText": "\n Northeast\n ",
+              "isCorrect": true,
+              "_id": "67b037ec40c9eceb4dd5a7c3",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Southwest</span></span></span></span></p>\n ",
+              "nameText": "\n Southwest\n ",
+              "isCorrect": false,
+              "_id": "67b037ec40c9ec7148d5a7c4",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">North</span></span></span></span></p>\n ",
+              "nameText": "\n North\n ",
+              "isCorrect": false,
+              "_id": "67b037ec40c9ec56e3d5a7c5",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Southeast</span></span></span></span></p>\n ",
+              "nameText": "\n Southeast\n ",
+              "isCorrect": false,
+              "_id": "67b037ec40c9ec1ff2d5a7c6",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"images/img_382fc0512094.png\" name=\"Picture 10\" align=\"bottom\" width=\"193\" height=\"139\" border=\"0\">\n</img></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">After\n observing the above figure, we can say that point C is in\n northeast direction with respect to point T.</span></span></span></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a0b465ad5010b5407e7",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "67b037d4e6cb5bf7366f9074",
+          "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Box\n B is in the north of Box C, which is in the north-east of Box D.\n Box E is in the east of Box D. Box A is in the west of Box F,\n which is in the northeast of Box B. Box E is in the middle of Box\n F and Box G. Find Box A is in which direction from Box D?</span></span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n Box\n B is in the north of Box C, which is in the north-east of Box D.\n Box E is in the east of Box D. Box A is in the west of Box F,\n which is in the northeast of Box B. Box E is in the middle of Box\n F and Box G. Find Box A is in which direction from Box D?\n ",
+          "sectionId": "67b037c05af5f9a56baa9ab4",
+          "order": 10,
+          "questionSubmitOrder": 10,
+          "options": [
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">North</span></span></span></span></p>\n ",
+              "nameText": "\n North\n ",
+              "isCorrect": false,
+              "_id": "67b037ec40c9ec9c20d5a797",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Northeast</span></span></span></span></p>\n ",
+              "nameText": "\n Northeast\n ",
+              "isCorrect": false,
+              "_id": "67b037ec40c9ecac8bd5a798",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">South</span></span></span></span></p>\n ",
+              "nameText": "\n South\n ",
+              "isCorrect": false,
+              "_id": "67b037ec40c9ec4ab6d5a799",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Can’t\n determine</span></span></span></span></p>\n ",
+              "nameText": "\n Can’t\n determine\n ",
+              "isCorrect": true,
+              "_id": "67b037ec40c9ec3161d5a79a",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"images/img_2f071f7bc897.png\" name=\"Picture 14\" align=\"bottom\" width=\"510\" height=\"173\" border=\"0\">\n</img></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">We\n cannot determine whether A is in north or north-east or north-west\n of D.</span></span></span></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a0b465ad54e245407e8",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "67b037d4e6cb5b56896f904c",
+          "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">The\n distance between N and P is 50 m and that between Q and R is 40m.\n Q is to the west of R, which is to the east of N at a distance of\n 70m. P is to the west or northwest or north of Q. If Q is to the\n south of P, what is the distance between P and Q?</span></span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n The\n distance between N and P is 50 m and that between Q and R is 40m.\n Q is to the west of R, which is to the east of N at a distance of\n 70m. P is to the west or northwest or north of Q. If Q is to the\n south of P, what is the distance between P and Q?\n ",
+          "sectionId": "67b037c05af5f9a56baa9ab4",
+          "order": 11,
+          "questionSubmitOrder": 11,
+          "options": [
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">40\n m</span></span></span></span></p>\n ",
+              "nameText": "\n 40\n m\n ",
+              "isCorrect": true,
+              "_id": "67b037ec40c9ec5b8dd5a79f",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">35\n m</span></span></span></span></p>\n ",
+              "nameText": "\n 35\n m\n ",
+              "isCorrect": false,
+              "_id": "67b037ec40c9ec5383d5a7a0",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">80\n m</span></span></span></span></p>\n ",
+              "nameText": "\n 80\n m\n ",
+              "isCorrect": false,
+              "_id": "67b037ec40c9ec4b82d5a7a1",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">20\n m</span></span></span></span></p>\n ",
+              "nameText": "\n 20\n m\n ",
+              "isCorrect": false,
+              "_id": "67b037ec40c9ecce1fd5a7a2",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"images/img_f32c62b3da1a.png\" name=\"Picture 3\" align=\"bottom\" width=\"223\" height=\"178\" border=\"0\">\n<span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\"><br>\nFrom\n Formula</span></span></span></img></span></p>\n <p style=\"margin-bottom: 0px; text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">NP</span></span><sup><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">2</span></span></sup><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">\n = NQ + PQ2</span></span></span></span></p>\n <p style=\"margin-bottom: 0px; text-decoration: none\"><span style=\"color: #000000\">∴\n <span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">NP\n = NP</span></span><sup><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">2</span></span></sup><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">\n – NQ</span></span><sup><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">2</span></span></sup></span></span></p>\n <p style=\"margin-bottom: 0px; text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">=\n </span></span><span style=\"color: #001d35\"><span style=\"font-family: Arial,serif\"><span style=\"font-size: 17px\"><span style=\"background: #ffffff\">√</span></span></span></span><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">\n (50)2 – (30)2</span></span></span></span></p>\n <p style=\"margin-bottom: 0px; text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">=\n </span></span><span style=\"color: #001d35\"><span style=\"font-family: Arial,serif\"><span style=\"font-size: 17px\"><span style=\"background: #ffffff\">√</span></span></span></span><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">2500\n – 900</span></span></span></span></p>\n <p style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">=\n </span></span><span style=\"color: #001d35\"><span style=\"font-family: Arial,serif\"><span style=\"font-size: 17px\"><span style=\"background: #ffffff\">√</span></span></span></span><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">1600\n = 40m</span></span></span></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a0b465ad54a795407e9",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "67b037d4e6cb5b86c36f90a1",
+          "name": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">The\n door of B’s house faces east. From the back side of his\n house, B walks straight 50 m. Again he walks 25m after turning to\n his left, then he turns to his right and walks 50m. Finally he\n turns towards north and walks 25m and stops.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Which\n directions does B stand in at the end with respect to his house?</span></span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n The\n door of B’s house faces east. From the back side of his\n house, B walks straight 50 m. Again he walks 25m after turning to\n his left, then he turns to his right and walks 50m. Finally he\n turns towards north and walks 25m and stops.\n Which\n directions does B stand in at the end with respect to his house?\n ",
+          "sectionId": "67b037c05af5f9a56baa9ab4",
+          "order": 12,
+          "questionSubmitOrder": 12,
+          "options": [
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">North</span></span></span></span></p>\n ",
+              "nameText": "\n North\n ",
+              "isCorrect": false,
+              "_id": "67b037ec40c9ec39bdd5a7ab",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">South</span></span></span></span></p>\n ",
+              "nameText": "\n South\n ",
+              "isCorrect": false,
+              "_id": "67b037ec40c9ecab18d5a7ac",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">West</span></span></span></span></p>\n ",
+              "nameText": "\n West\n ",
+              "isCorrect": true,
+              "_id": "67b037ec40c9ec4bdad5a7ad",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">East</span></span></span></span></p>\n ",
+              "nameText": "\n East\n ",
+              "isCorrect": false,
+              "_id": "67b037ec40c9ec6408d5a7ae",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"images/img_1a182f2810ad.png\" name=\"Picture 20\" align=\"bottom\" width=\"248\" height=\"136\" border=\"0\">\n</img></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">We\n can clearly observe from the figure that at the end point B stand\n in the west direction with respect to starting point.</span></span></span></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a0b465ad581075407ea",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "67b037d4e6cb5b2e036f9088",
+          "name": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Some\n chairs were placed in a park as per the manner described here.\n Chair B was 24m to the west of Chair A, which is 12m to the south\n of Chair E. Chair D was 10m to the east of Chair H. Chair C was 7m\n to the north of Chair H. Chair L was 15m to the north of Chair B,\n which is towards the south of Chair D. Chair F was 7m to the north\n of Chair E. Chair D and Chair E were placed in a straight\n horizontal line.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Find\n the odd one out?</span></span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n Some\n chairs were placed in a park as per the manner described here.\n Chair B was 24m to the west of Chair A, which is 12m to the south\n of Chair E. Chair D was 10m to the east of Chair H. Chair C was 7m\n to the north of Chair H. Chair L was 15m to the north of Chair B,\n which is towards the south of Chair D. Chair F was 7m to the north\n of Chair E. Chair D and Chair E were placed in a straight\n horizontal line.\n Find\n the odd one out?\n ",
+          "sectionId": "67b037c05af5f9a56baa9ab4",
+          "order": 13,
+          "questionSubmitOrder": 13,
+          "options": [
+            {
+              "name": "<p style=\"text-decoration: none;\"><span style=\"color: #000000;\"><span style=\"font-family: Calibri,serif;\"><span style=\"font-family: Cambria,serif;\"><span style=\"font-size: 19px;\">F-B</span></span></span></span></p>",
+              "nameText": "F-B",
+              "isCorrect": true,
+              "_id": "67b037ec40c9ec48c9d5a7a7",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">B-D</span></span></span></span></p>\n ",
+              "nameText": "\n B-D\n ",
+              "isCorrect": false,
+              "_id": "67b037ec40c9ec366cd5a7a8",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">D-L</span></span></span></span></p>\n ",
+              "nameText": "\n D-L\n ",
+              "isCorrect": false,
+              "_id": "67b037ec40c9ece23dd5a7a9",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">H-C</span></span></span></span></p>\n ",
+              "nameText": "\n H-C\n ",
+              "isCorrect": false,
+              "_id": "67b037ec40c9ecf2c5d5a7aa",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"images/img_89cfea27c510.png\" name=\"Picture 19\" align=\"bottom\" width=\"327\" height=\"197\" border=\"0\">\n</img></span></p>\n <p style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">F-B\n is the odd one out because the common thing among rest chairs is\n that the second chair is in the North of the first chair.</span></span></span></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a0b465ad51d5c5407eb",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "67b037d4e6cb5b9f636f9056",
+          "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Falyaz\n is standing to the north of Hiran. Hiran is standing 15m to the\n west of Mitul. Sahil is 15m to the north of Mitul and forms a\n straight horizontal line with Falyaz. Vihaan is equidistant from\n all of them. Vihaan is in which direction with respect to Mitul?</span></span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n Falyaz\n is standing to the north of Hiran. Hiran is standing 15m to the\n west of Mitul. Sahil is 15m to the north of Mitul and forms a\n straight horizontal line with Falyaz. Vihaan is equidistant from\n all of them. Vihaan is in which direction with respect to Mitul?\n ",
+          "sectionId": "67b037c05af5f9a56baa9ab4",
+          "order": 14,
+          "questionSubmitOrder": 14,
+          "options": [
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">North-West</span></span></span></span></p>\n ",
+              "nameText": "\n North-West\n ",
+              "isCorrect": true,
+              "_id": "67b037ec40c9ec61cad5a77f",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">North-East</span></span></span></span></p>\n ",
+              "nameText": "\n North-East\n ",
+              "isCorrect": false,
+              "_id": "67b037ec40c9ecc84bd5a780",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">South-West</span></span></span></span></p>\n ",
+              "nameText": "\n South-West\n ",
+              "isCorrect": false,
+              "_id": "67b037ec40c9ec0b2ad5a781",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">South-East</span></span></span></span></p>\n ",
+              "nameText": "\n South-East\n ",
+              "isCorrect": false,
+              "_id": "67b037ec40c9ec75cfd5a782",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"images/img_db286c84e706.png\" name=\"Picture 5\" align=\"bottom\" width=\"174\" height=\"161\" border=\"0\">\n</img></span></p>\n <ul>\n <li><p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Hiran\n is standing 15m to the west of Mitul.</span></span></span></span></p>\n </li><li><p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Sahil\n is 15m to the north of Mitul and forms a straight horizontal line\n with Falyaz.</span></span></span></span></p>\n </li><li><p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Falyaz\n is standing to the north of Hiran.</span></span></span></span></p>\n </li><li><p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Vihaan\n is equidistant from all of them.</span></span></span></span></p>\n </li></ul>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Note:\n As per statement, Vihaan is exactly in the mid-point of all 4 of\n them. To make exact midpoint, then the distance between Falyaz and\n Hiran should be 15m and also the distance between Falyaz and Sahil\n is 15m as shown in diagram.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Vihaan\n is in North-West direction with respect to Mitul.</span></span></span></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a0b465ad506865407ec",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "67b037d4e6cb5beda16f905b",
+          "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Kundan\n travels 15 km towards south and then takes a left turn and travels\n 10 km further again he takes a left turn and travels 15 km\n further. How far is he from his original position?</span></span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n Kundan\n travels 15 km towards south and then takes a left turn and travels\n 10 km further again he takes a left turn and travels 15 km\n further. How far is he from his original position?\n ",
+          "sectionId": "67b037c05af5f9a56baa9ab4",
+          "order": 15,
+          "questionSubmitOrder": 15,
+          "options": [
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">40km</span></span></span></span></p>\n ",
+              "nameText": "\n 40km\n ",
+              "isCorrect": false,
+              "_id": "67b037ec40c9ecbf18d5a793",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">25km</span></span></span></span></p>\n ",
+              "nameText": "\n 25km\n ",
+              "isCorrect": false,
+              "_id": "67b037ec40c9ec4a6cd5a794",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">10km</span></span></span></span></p>\n ",
+              "nameText": "\n 10km\n ",
+              "isCorrect": true,
+              "_id": "67b037ec40c9ec7f19d5a795",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">15km</span></span></span></span></p>\n ",
+              "nameText": "\n 15km\n ",
+              "isCorrect": false,
+              "_id": "67b037ec40c9ecb3fcd5a796",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"images/img_833774807991.png\" name=\"Picture 6\" align=\"bottom\" width=\"187\" height=\"140\" border=\"0\">\n</img></span></p>\n <p style=\"margin-bottom: 0px; text-decoration: none\"><span style=\"color: #000000\">∵\n <span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">AD\n = BC = 10 Km</span></span></span></span></p>\n <p style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Therefore\n he is 10 km away from the original position.</span></span></span></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a0b465ad56a665407ed",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "67b037d4e6cb5b5b736f9047",
+          "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Shahrukh\n starts driving from point A and drives 12 km towards north. He\n takes a right turn and drive 20 km. He now drives 8 km after\n taking a left turn. Finally he takes a left turn; and drives 20 km\n and stops at point B. How far is point A with respect to point B?</span></span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n Shahrukh\n starts driving from point A and drives 12 km towards north. He\n takes a right turn and drive 20 km. He now drives 8 km after\n taking a left turn. Finally he takes a left turn; and drives 20 km\n and stops at point B. How far is point A with respect to point B?\n ",
+          "sectionId": "67b037c05af5f9a56baa9ab4",
+          "order": 16,
+          "questionSubmitOrder": 16,
+          "options": [
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">18\n km</span></span></span></span></p>\n ",
+              "nameText": "\n 18\n km\n ",
+              "isCorrect": false,
+              "_id": "67b037ec40c9ec7f3cd5a7bf",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">20\n km</span></span></span></span></p>\n ",
+              "nameText": "\n 20\n km\n ",
+              "isCorrect": true,
+              "_id": "67b037ec40c9ecab84d5a7c0",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">35\n km</span></span></span></span></p>\n ",
+              "nameText": "\n 35\n km\n ",
+              "isCorrect": false,
+              "_id": "67b037ec40c9ec7f24d5a7c1",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">25\n km</span></span></span></span></p>\n ",
+              "nameText": "\n 25\n km\n ",
+              "isCorrect": false,
+              "_id": "67b037ec40c9ec4506d5a7c2",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"images/img_3c1b8cb6af33.png\" name=\"Picture 2\" align=\"bottom\" width=\"200\" height=\"168\" border=\"0\">\n</img></span></p>\n <p style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">AB\n = AP + PB = 12 + 8 = 20 km</span></span></span></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a0b465ad535af5407ee",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "67b037d4e6cb5b1b496f9051",
+          "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Abhay\n walks 20 m south from Point A to reach Point B. Then he turns to\n his right and walks 14 m to reach Point C. Again, he turns to his\n right and walks 20 m to reach Point D. Finally he turns to his\n left and walks 14 m to reach Point E. What is the distance between\n A and E and in which direction is Point E from Point A.</span></span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n Abhay\n walks 20 m south from Point A to reach Point B. Then he turns to\n his right and walks 14 m to reach Point C. Again, he turns to his\n right and walks 20 m to reach Point D. Finally he turns to his\n left and walks 14 m to reach Point E. What is the distance between\n A and E and in which direction is Point E from Point A.\n ",
+          "sectionId": "67b037c05af5f9a56baa9ab4",
+          "order": 17,
+          "questionSubmitOrder": 17,
+          "options": [
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">20\n m, South</span></span></span></span></p>\n ",
+              "nameText": "\n 20\n m, South\n ",
+              "isCorrect": false,
+              "_id": "67b037ec40c9ec1292d5a7af",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">26\n m, North</span></span></span></span></p>\n ",
+              "nameText": "\n 26\n m, North\n ",
+              "isCorrect": false,
+              "_id": "67b037ec40c9ecb491d5a7b0",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">28\n m, West</span></span></span></span></p>\n ",
+              "nameText": "\n 28\n m, West\n ",
+              "isCorrect": true,
+              "_id": "67b037ec40c9ec49c6d5a7b1",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">34\n m, East</span></span></span></span></p>\n ",
+              "nameText": "\n 34\n m, East\n ",
+              "isCorrect": false,
+              "_id": "67b037ec40c9ec182cd5a7b2",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"images/img_0896ba815046.png\" name=\"Picture 4\" align=\"bottom\" width=\"259\" height=\"157\" border=\"0\">\n</img></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">The\n distance between Point A and Point E = 14 + 14 = 28 m</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Following\n the image we can say that Point E is in west direction with\n respect to A</span></span></span></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a0b465ad5f44a5407ef",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "67b037d4e6cb5be2576f9060",
+          "name": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Point\n B is 25 m south of point A. Point C is 30 m east of point B. Point\n D is 15 m north of point C. Point E is 10 m west of point D.</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">If\n point X is 30 m east of Point A, then Point D is how far and in\n which direction from point X?</span></span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n Point\n B is 25 m south of point A. Point C is 30 m east of point B. Point\n D is 15 m north of point C. Point E is 10 m west of point D.\n If\n point X is 30 m east of Point A, then Point D is how far and in\n which direction from point X?\n ",
+          "sectionId": "67b037c05af5f9a56baa9ab4",
+          "order": 18,
+          "questionSubmitOrder": 18,
+          "options": [
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">10\n m, North</span></span></span></span></p>\n ",
+              "nameText": "\n 10\n m, North\n ",
+              "isCorrect": false,
+              "_id": "67b037ec40c9ec6841d5a7b3",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">5\n m, North</span></span></span></span></p>\n ",
+              "nameText": "\n 5\n m, North\n ",
+              "isCorrect": false,
+              "_id": "67b037ec40c9ec58bed5a7b4",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">15\n m, South</span></span></span></span></p>\n ",
+              "nameText": "\n 15\n m, South\n ",
+              "isCorrect": false,
+              "_id": "67b037ec40c9ec122fd5a7b5",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">10\n m, South</span></span></span></span></p>\n ",
+              "nameText": "\n 10\n m, South\n ",
+              "isCorrect": true,
+              "_id": "67b037ec40c9ec3b5ad5a7b6",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"images/img_81b96504334d.png\" name=\"Picture 7\" align=\"bottom\" width=\"172\" height=\"140\" border=\"0\">\n</img></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Following\n the common explanation we can say point D is 10 m away and towards\n south of point X.</span></span></span></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a0b465ad5685a5407f0",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "67b037d4e6cb5b02116f906a",
+          "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Lihaan\n walks 8m towards south from his office to reach park. Then take\n left and walks 15m to reach traffic signal. Then he turns 90\n degree anti-clock wise direction and walks 8m to reach coffee\n shop. From the coffee shop he takes left and walks 8m to reach\n home. What is the shortest distance between Lihaan's office and\n Traffic signal?</span></span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n Lihaan\n walks 8m towards south from his office to reach park. Then take\n left and walks 15m to reach traffic signal. Then he turns 90\n degree anti-clock wise direction and walks 8m to reach coffee\n shop. From the coffee shop he takes left and walks 8m to reach\n home. What is the shortest distance between Lihaan's office and\n Traffic signal?\n ",
+          "sectionId": "67b037c05af5f9a56baa9ab4",
+          "order": 19,
+          "questionSubmitOrder": 19,
+          "options": [
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">30\n m</span></span></span></span></p>\n ",
+              "nameText": "\n 30\n m\n ",
+              "isCorrect": false,
+              "_id": "67b037ec40c9ec70bad5a783",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">25\n m</span></span></span></span></p>\n ",
+              "nameText": "\n 25\n m\n ",
+              "isCorrect": false,
+              "_id": "67b037ec40c9ec7b32d5a784",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">17\n m</span></span></span></span></p>\n ",
+              "nameText": "\n 17\n m\n ",
+              "isCorrect": true,
+              "_id": "67b037ec40c9ec4460d5a785",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">15\n m</span></span></span></span></p>\n ",
+              "nameText": "\n 15\n m\n ",
+              "isCorrect": false,
+              "_id": "67b037ec40c9ec23cad5a786",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"images/img_6fdf0def74ff.png\" name=\"Picture 11\" align=\"bottom\" width=\"211\" height=\"148\" border=\"0\">\n</img></span></p>\n <p align=\"justify\" style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Shortest\n distance between Lihaan's office and Traffic signal =</span></span></span></span></p>\n <p align=\"justify\" style=\"text-decoration: none\"><span style=\"color: #000000\">√<span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">8</span></span><sup><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">2</span></span></sup><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">\n + 15</span></span><sup><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">2</span></span></sup><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">\n = √64+225 = √289 =17m</span></span></span></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a0b465ad56bca5407f1",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        },
+        {
+          "_id": "67b037d4e6cb5b567b6f9097",
+          "name": "<p align=\"justify\" style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">Point\n A is 10m to the south of Point B, which is 8m to the west of Point\n C. Point D is 14m to the north of Point C. Point E is 4m to the\n east of Point F, which is 5m to the south of Point D. Point E is\n 8m to the west of Point G. Point H is 19m to the south of Point G.\n Point H is 12m to the east of Point I. Find the shortest distance\n between Points D and G?</span></span></span></span></p>\n ",
+          "isComprehension": false,
+          "paragraph": null,
+          "paragraphText": null,
+          "fillUpsAnswers": [],
+          "nameText": "\n Point\n A is 10m to the south of Point B, which is 8m to the west of Point\n C. Point D is 14m to the north of Point C. Point E is 4m to the\n east of Point F, which is 5m to the south of Point D. Point E is\n 8m to the west of Point G. Point H is 19m to the south of Point G.\n Point H is 12m to the east of Point I. Find the shortest distance\n between Points D and G?\n ",
+          "sectionId": "67b037c05af5f9a56baa9ab4",
+          "order": 20,
+          "questionSubmitOrder": 20,
+          "options": [
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">10\n m</span></span></span></span></p>\n ",
+              "nameText": "\n 10\n m\n ",
+              "isCorrect": true,
+              "_id": "67b037ec40c9ec1363d5a7cb",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">13\n m</span></span></span></span></p>\n ",
+              "nameText": "\n 13\n m\n ",
+              "isCorrect": false,
+              "_id": "67b037ec40c9ec2fdad5a7cc",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">12\n m</span></span></span></span></p>\n ",
+              "nameText": "\n 12\n m\n ",
+              "isCorrect": false,
+              "_id": "67b037ec40c9ec6820d5a7cd",
+              "isMarked": false
+            },
+            {
+              "name": "<p style=\"text-decoration: none\">\n <span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">20\n m</span></span></span></span></p>\n ",
+              "nameText": "\n 20\n m\n ",
+              "isCorrect": false,
+              "_id": "67b037ec40c9ece6add5a7ce",
+              "isMarked": false
+            }
+          ],
+          "solution": "<p style=\"margin-bottom: 0px; text-decoration: none\">\n <span style=\"color: #000000\"><img src=\"images/img_5fa0fb81de2d.png\" name=\"Picture 13\" align=\"bottom\" width=\"194\" height=\"218\" border=\"0\">\n</img></span></p>\n <p style=\"text-decoration: none\"><span style=\"color: #000000\"><span style=\"font-family: Calibri,serif\"><span style=\"font-family: Cambria,serif\"><span style=\"font-size: 19px\">The\n shortest distance between D and G is 13m.</span></span></span></span></p>\n ",
+          "hasMultipleAnswers": false,
+          "type": "multiple_choice",
+          "isAttempted": false,
+          "isPartiallyCorrect": false,
+          "isCorrect": false,
+          "isGraceMarked": false,
+          "isReevaluated": false,
+          "isBookmark": false,
+          "studentQuestionId": "6aca7a0b465ad5487e5407f2",
+          "marks": {
+            "positive": 0,
+            "negative": 0
+          },
+          "timeTaken": 0,
+          "markForReview": false,
+          "isGpscType": false,
+          "isSurrendered": false,
+          "difficultyLevel": null
+        }
+      ],
+      "numberOfQuestions": 20
+    }
+  ],
+  "userDetails": {
+    "name": "Shivam Gupta",
+    "userId": 193594164,
+    "orgId": 78392
+  },
+  "sts": 1791654411579,
+  "region": {
+    "timeFormat": "hh:mm a",
+    "dateTimeStamp": "yyyy/MM/dd"
+  }
+}

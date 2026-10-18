@@ -1,0 +1,25 @@
+{
+  "module": "00_Roadmap_Exam_Pattern_and_Strategy",
+  "updated_at": "2026-10-18",
+  "topics_covered": [
+    "Official Exam Pattern & Syllabus Blueprint",
+    "Sectionwise Time Management & Cut-Off Benchmarks",
+    "30-Day Master Study Plan & Daily Schedule",
+    "Eligibility Criteria, Selection Pipeline & Offer Progression",
+    "Infosys Mysore Global Education Centre (GEC) Induction & Training"
+  ],
+  "exam_parameters": {
+    "total_questions": 60,
+    "total_essays": 1,
+    "total_time_minutes": 125,
+    "marking_scheme": "+1 mark per MCQ (+2/+3 for puzzles), 0 negative marking",
+    "sectional_cutoff_percent": 65
+  },
+  "documents": [
+    "01_Official_Exam_Pattern_and_Syllabus.md",
+    "02_Sectionwise_Time_Management_and_Cutoffs.md",
+    "03_Preparation_Master_Study_Plan_and_Daily_Schedule.md",
+    "04_Eligibility_Criteria_and_Hiring_Process.md",
+    "05_Infosys_Mysore_Training_Roadmap_and_Induction.md"
+  ]
+}
