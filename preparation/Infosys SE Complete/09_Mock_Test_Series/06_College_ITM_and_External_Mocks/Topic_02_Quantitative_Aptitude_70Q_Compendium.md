@@ -274,18 +274,6 @@ years the total interest is ₹2,270. How much was invested at simple interest?
 - **(B)** ₹5,000
 - **(C)** ₹6,000
 - **(D)** ₹7,000 
-Read the passage and answer Q26–30. 
-In software organisations, "technical debt" is often treated as a purely engineering concern, a messy 
-residue of hurried decisions that developers will eventually tidy up. This framing is misleading. Debt, in 
-the financial sense, is not inherently harmful; a company that borrows to seize a market opportunity may 
-be acting shrewdly. The problem arises when the interest, meaning the extra effort every future change 
-demands, is never acknowledged on the balance sheet. Teams then find that features which once took 
-days now take weeks, yet managers, seeing only the delivered functionality, attribute the slowdown to 
-declining developer productivity. Proponents of disciplined refactoring argue that a fixed share of every 
-sprint should be reserved for repayment. Critics counter that such quotas are arbitrary and encourage 
-cosmetic rewrites that leave real risks untouched. A more defensible approach, some suggest, is to make 
-debt visible by tracking how often particular modules cause delays or defects, and to repay only where 
-the interest is demonstrably high.
 
 **Correct Answer:** Option **(B)** — `₹5,000`
 
@@ -517,25 +505,12 @@ interest as ₹18,000 invested for 2 years at 10% simple interest. Find the rate
 - **(B)** 10.5%
 - **(C)** 11.5%
 - **(D)** 12.5%
-Read the passage and answer Q26–30.
-Automation in enterprise software is frequently sold on the promise of eliminating human error, yet the 
-more interesting effect is often a redistribution of error rather than its removal. When a system 
-automates data entry, the mistakes that once occurred at the point of typing largely disappear, but new 
-failure modes emerge upstream, in the design of the rules the automation follows, and downstream, in 
-the operators' declining vigilance once they trust the system implicitly. A well-documented pattern in 
-aviation and, increasingly, in IT operations is that highly reliable automation breeds complacency: 
-engineers stop cross-checking outputs precisely because the system rarely errs, so on the rare occasion it 
-does, the mistake propagates further before anyone notices. This does not argue against automation; it 
-argues for designing monitoring and escalation processes that assume the automation will occasionally 
-fail silently, rather than processes that assume a human will always catch what the machine misses.
 
 **Correct Answer:** Option **(B)** — `10.5%`
 
 **Detailed Step-by-Step Solution & Mathematical Derivation:**
 SI on ₹18,000 at 10% for 2 years = ₹3,600. Setting CI on ₹16,000 equal: 16,000×((1+r)² − 1) = 3,600 
 gives (1+r)² = 1.225, so r ≈ 10.5%.
-Section 3: Verbal
-
 ---
 
 ### Question ITM-P03-Q16 (Infosys System Engineer ITM Mock Paper 3 - Q16)
@@ -771,14 +746,11 @@ In what time will ₹8,000 amount to ₹9,261 at 5% per annum, compounded annual
 - **(C)** 4 years
 - **(D)** 3.5 years 
  
-Read the passage and answer Q26–30.
 
 **Correct Answer:** Option **(B)** — `3 years`
 
 **Detailed Step-by-Step Solution & Mathematical Derivation:**
 9,261/8,000 = 1.157625 = 1.05³ (since 1.05²=1.1025, ×1.05=1.157625). So the time is 3 years. 
-Section 3: Verbal
-
 ---
 
 ### Question ITM-P04-Q16 (Infosys System Engineer ITM Mock Paper 4 - Q16)
@@ -996,21 +968,6 @@ per annum.
 - **(B)** 12%
 - **(C)** 8%
 - **(D)** 15% 
-Read the passage and answer Q26–30. 
-Distributed systems theory offers a deceptively simple trilemma: a system cannot simultaneously 
-guarantee consistency, availability and partition tolerance, and must therefore sacrifice one when a 
-network partition occurs. In practice, however, the theorem is more often invoked than correctly applied, 
-because partition tolerance is not actually optional for any system whose nodes communicate over an 
-unreliable network, which is to say nearly all distributed systems built today. The real choice, once 
-partition tolerance is accepted as a structural necessity rather than a design preference, is between 
-consistency and availability during the partition itself, and this choice need not be uniform across an 
-entire system. A payment ledger might reasonably refuse writes during a partition to preserve 
-consistency, accepting temporary unavailability as the lesser cost, while a product catalogue serving read 
-traffic might instead continue answering requests with potentially stale data, judging availability the 
-more valuable property for that workload. Treating the CAP theorem as prescribing a single, system-wide 
-
-choice, rather than a per-operation or per-service one, is therefore a common and consequential 
-misreading.
 
 **Correct Answer:** Option **(A)** — `10%`
 
@@ -1018,8 +975,6 @@ misreading.
 3rd-year interest = 1655−1050 = ₹605 — but more directly: CI₂−SI₂ = Pr² = 1050−1000 = 50, and SI₂ = 
 2Pr = 1000 so Pr=500. Dividing, r = 50/500 = 0.10 = 10% (and P=₹5,000, verified: 5000×1.1³=6,655, CI₃=1,655 
 ✓). 
-Section 3: Verbal
-
 ---
 
 ### Question ITM-P05-Q16 (Infosys System Engineer ITM Mock Paper 5 - Q16)
@@ -1236,29 +1191,12 @@ the end of year 1. What amount must be paid at the end of year 2 to clear the en
 - **(B)** ₹12,000
 - **(C)** ₹11,500
 - **(D)** ₹13,200 
-Read the passage and answer Q26–30. 
-Rate limiting is often presented as a purely defensive mechanism, a way to shield backend services from 
-abusive or accidental traffic spikes, but this framing understates its role as a tool for communicating 
-capacity contracts between services. A token-bucket limiter that rejects requests once a quota is 
-exhausted is, in effect, declaring an explicit promise about how much load a downstream service can 
-absorb, and client-side code written against that promise can make informed decisions about retry 
-timing, backoff, and degraded functionality rather than failing unpredictably. The trouble arises when 
-limits are set reactively, in response to an incident, rather than derived from actual capacity testing; a 
-
-limit chosen under pressure to stop an ongoing outage often reflects the conditions of that specific 
-incident rather than the service's true sustainable throughput, and may be far too conservative once 
-normal operation resumes, quietly capping legitimate growth long after the original emergency has been 
-forgotten. Treating rate limits as living documentation of measured capacity, revisited whenever the 
-underlying service's performance characteristics change, avoids both failure modes: the limiter protects 
-the service without becoming an invisible ceiling on its own success.
 
 **Correct Answer:** Option **(A)** — `₹12,100`
 
 **Detailed Step-by-Step Solution & Mathematical Derivation:**
 End of year 1: 20000×1.10=22,000; after repaying 11,000, remaining debt = 11,000. End of year 2: 
 11000×1.10 = ₹12,100. 
-Section 3: Verbal
-
 ---
 
 ### Question ITM-P06-Q16 (Infosys System Engineer ITM Mock Paper 6 - Q16)
@@ -1471,26 +1409,12 @@ mixture of strength 2:1?
 - **(B)** 2:5
 - **(C)** 3:2
 - **(D)** 1:3 
-Read the passage and answer Q26–30. 
-When a measure becomes a target, it ceases to be a good measure — a maxim known as Goodhart's law 
-that engineering organisations rediscover with remarkable regularity. A team told that its performance 
-will be judged by the number of closed tickets quickly learns to split large tasks into many trivial ones; a 
-group rewarded for code coverage writes tests that execute lines without asserting anything meaningful. 
-In neither case is the behaviour necessarily cynical. People respond rationally to the incentives they 
-perceive, and the metric, once elevated to a goal, simply redirects that rationality away from the outcome 
-it was intended to track. The remedy is not to abandon measurement, which would leave managers 
-navigating by anecdote, but to treat any single metric as a symptom rather than a verdict, to pair it with 
-a counter-metric that penalises its obvious abuse, and to revisit the pairing as teams learn how to game 
-it. Even then, the arrangement is only ever provisionally sound, since every safeguard becomes, in time, 
-another target.
 
 **Correct Answer:** Option **(A)** — `5:2`
 
 **Detailed Step-by-Step Solution & Mathematical Derivation:**
 Milk fractions: 3/5, 5/6, target 2/3. By alligation, the amounts are in the ratio (5/6−2/3) : (2/3−3/5) = 
 1/6 : 1/15 = 5:2. 
-Section 3: Verbal
-
 ---
 
 ### Question ITM-P07-Q16 (Infosys System Engineer ITM Mock Paper 7 - Q16)
@@ -1699,24 +1623,11 @@ times in all (including 9:00 AM) will they ring together between 9:00 AM and 3:0
 - **(B)** 6
 - **(C)** 8
 - **(D)** 5 
-Read the passage and answer Q26–30. 
-In distributed systems, a network call that times out leaves the caller in genuine ignorance: the request 
-may have been lost before reaching the server, executed successfully with the reply lost on the way back, 
-or still be in flight. Retrying is the natural response, but retrying a non-idempotent operation — charging 
-a card, say — risks performing it twice. The standard remedy is to make the operation idempotent by 
-attaching a unique request identifier, so that the server can recognise a duplicate and return the original 
-result instead of re-executing. This shifts the burden rather than removing it: the server must now durably 
-remember identifiers, and must decide how long to remember them, since storing them forever is costly 
-while discarding them too early reopens the window for duplicates. Engineers who treat idempotency as 
-a mere implementation detail therefore tend to discover it as an incident, whereas those who treat it as 
-part of an operation's contract design it in from the start.
 
 **Correct Answer:** Option **(A)** — `7`
 
 **Detailed Step-by-Step Solution & Mathematical Derivation:**
 LCM(12, 15, 20) = 60 minutes. In 6 hours (360 minutes) the bells ring together at 0, 60, 120, 180, 240, 
 300 and 360 minutes: 7 times. 
-Section 3: Verbal
-
 ---
 

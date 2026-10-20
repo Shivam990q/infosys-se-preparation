@@ -1401,10 +1401,6 @@ Find the next letter-pair: CE, FI, IM, LQ, ?
 **Detailed Step-by-Step Solution & Logical Derivation:**
 First letters C, F, I, L rise by 3 each time → next is O. Second letters E, I, M, Q rise by 4 each time → 
 next is U. Answer: OU.
-Page 8 of 10
-
-Infosys System Engineer | Hard-Level Mock Test
-Section 2: Quant
 
 ---
 
@@ -1829,11 +1825,6 @@ Find the next term: B, D, G, K, P, ?
 Differences between consecutive letters (by position) increase by 1 each time: +2,+3,+4,+5, next +6: 
 P(16)+6 = 22 = V. 
 
-Page 10 of 11 
- 
- 
-Section 2: Quant
-
 ---
 
 ### Question ITM-P04-Q01 (Infosys System Engineer ITM Mock Paper 4 - Q01)
@@ -2257,10 +2248,6 @@ Find the next term: Y, V, R, M, ?
 **Detailed Step-by-Step Solution & Logical Derivation:**
 Gaps between letters increase by 1 each time: −3, −4, −5, next −6. M(13)−6 = 7 = G. 
 
-Infosys System Engineer |Mock Test 
-Page 10 of 11 
-Section 2: Quant
-
 ---
 
 ### Question ITM-P05-Q01 (Infosys System Engineer ITM Mock Paper 5 - Q01)
@@ -2647,10 +2634,6 @@ Find the next term: D, H, M, S, Z, ?
 **Detailed Step-by-Step Solution & Logical Derivation:**
 Gaps increase by 1 each time: +4,+5,+6,+7; next gap +8. Z(26)+8=34, which wraps around (34−26=8) 
 to H. 
-
-Infosys System Engineer | Mock Test 
-Page 10 of 11 
-Section 2: Quant
 
 ---
 
@@ -3066,10 +3049,6 @@ II. R's brother is Q's father.
 I alone gives only P's parent; II alone links R and Q's father without involving P. Together: P is the 
 daughter of R, and R is the sibling of Q's father, so P and Q are cousins. 
 
-Infosys System Engineer | Mock Test 
-Page 10 of 11 
-Section 2: Quant
-
 ---
 
 ### Question ITM-P07-Q01 (Infosys System Engineer ITM Mock Paper 7 - Q01)
@@ -3423,10 +3402,6 @@ between A and B?
 **Detailed Step-by-Step Solution & Logical Derivation:**
 B is 18th from the right, so B is 40−18+1 = 23rd from the left. Students between A (15th) and B (23rd) 
 = 23−15−1 = 7. 
-
-Infosys System Engineer |Mock Test 
-Page 11 of 12 
-Section 2: Quant
 
 ---
 

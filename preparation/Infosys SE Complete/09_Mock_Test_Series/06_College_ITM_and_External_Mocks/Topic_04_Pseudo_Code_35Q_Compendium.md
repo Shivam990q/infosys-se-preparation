@@ -322,10 +322,6 @@ arr[1] = temp
 **Step-by-Step Dry-Run Execution Trace & Analysis:**
 temp=1. arr[0]=arr[4]=5 → [5,2,3,4,5]. arr[4]=arr[2]=3 → [5,2,3,4,3]. arr[2]=arr[1]=2 → [5,2,2,4,3]. 
 arr[1]=temp=1 → final [5,1,2,4,3].
-Page 9 of 10
-
-Infosys System Engineer | Hard-Level Mock Test
-Section 5: Numeric Puzzles
 
 ---
 
@@ -491,11 +487,6 @@ What is the final content of arr? (0-indexed; each statement uses the array's st
 i=0,j=5: swap arr[0],arr[5] → [60,20,30,40,50,10]; i=1,j=3. i<j (1<3): swap arr[1],arr[3] → 
 [60,40,30,20,50,10]; i=2,j=1. Now i<j fails (2<1), loop ends. Final: [60,40,30,20,50,10]. 
 
-Page 11 of 11 
- 
- 
-Section 5: Numeric Puzzles
-
 ---
 
 ### Question ITM-P04-Q46 (Infosys System Engineer ITM Mock Paper 4 - Q46)
@@ -660,7 +651,6 @@ print(arr)
 **Step-by-Step Dry-Run Execution Trace & Analysis:**
 Non-zero elements (3,4,5,2) are copied to the front in order, giving positions 0–3; the while loop then 
 zeroes out positions 4,5,6. Final: [3,4,5,2,0,0,0]. 
-Section 5: Numeric Puzzles
 
 ---
 
@@ -823,10 +813,6 @@ progress to 3, 2→3, 7, 4→7, 8, 6→8, 12→12 (the subarray [5,−3,4,−2,6
 similarly the running trace peaks at 12 via maxEndingHere reaching 12 at the last element — confirmed by 
 direct code execution). 
 
-Infosys System Engineer | Mock Test 
-Page 11 of 11 
-Section 5: Numeric Puzzles
-
 ---
 
 ### Question ITM-P06-Q46 (Infosys System Engineer ITM Mock Paper 6 - Q46)
@@ -981,10 +967,6 @@ print(dp[6])
 **Step-by-Step Dry-Run Execution Trace & Analysis:**
 2. dp = [0, 1, 2, 1, 1, 2, 2], so dp[6] = 2 (3+3). A greedy approach (4+1+1) would give 3, which is why 
 the DP matters. 
-
-Infosys System Engineer | Mock Test 
-Page 11 of 11 
-Section 5: Numeric Puzzles
 
 ---
 
@@ -1152,7 +1134,6 @@ print(dp[W])
 **Step-by-Step Dry-Run Execution Trace & Analysis:**
 7. The best choice for capacity 5 is items of weight 2 and 3, worth 3 + 4 = 7. The loop runs w 
 downwards, so each item is used at most once. 
-Section 5: Numeric Puzzles
 
 ---
 

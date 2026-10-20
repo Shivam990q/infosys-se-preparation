@@ -980,7 +980,6 @@ Antonym of DILIGENT:
 **Correct Answer:** Option **(C)** — `lazy`
 
 **Detailed Explanation & Grammatical / Textual Justification:**
-Section 4: Pseudo Code
 
 ---
 
@@ -1406,7 +1405,6 @@ Antonym of EPHEMERAL:
 **Correct Answer:** Option **(B)** — `permanent`
 
 **Detailed Explanation & Grammatical / Textual Justification:**
-Section 4: Pseudo Code
 
 ---
 
@@ -1835,9 +1833,6 @@ Antonym of GARRULOUS:
 **Correct Answer:** Option **(C)** — `taciturn`
 
 **Detailed Explanation & Grammatical / Textual Justification:**
-Infosys System Engineer |Mock Test 
-Page 11 of 11 
-Section 4: Pseudo Code
 
 ---
 
@@ -2263,7 +2258,6 @@ Antonym of VINDICATE:
 **Correct Answer:** Option **(C)** — `incriminate`
 
 **Detailed Explanation & Grammatical / Textual Justification:**
-Section 4: Pseudo Code
 
 ---
 
@@ -2684,7 +2678,6 @@ Antonym of EXACERBATE:
 **Correct Answer:** Option **(C)** — `alleviate`
 
 **Detailed Explanation & Grammatical / Textual Justification:**
-Section 4: Pseudo Code
 
 ---
 
@@ -3111,9 +3104,6 @@ Antonym of OBSEQUIOUS:
 **Correct Answer:** Option **(C)** — `assertive`
 
 **Detailed Explanation & Grammatical / Textual Justification:**
-Infosys System Engineer |Mock Test 
-Page 12 of 12 
-Section 4: Pseudo Code
 
 ---
 
