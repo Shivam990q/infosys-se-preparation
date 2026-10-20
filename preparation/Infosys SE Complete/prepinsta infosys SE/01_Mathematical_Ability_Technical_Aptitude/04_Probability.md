@@ -44,7 +44,7 @@ In a horse racing competition, there were 18 numbered 1 to 18. The organizers as
 - **(C)** `\frac {23}{56}`
 - **(D)** `\frac {231}{561}`
 
-**Correct Answer:** **(C)** `\frac {23}{56}`
+**Correct Answer:** **(C)** `rac {23}{56}`
 
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
@@ -170,7 +170,7 @@ Two dice are thrown simultaneously. What is the probability that the sum of the 
 - **(C)** `15/36`
 - **(D)** `7/18`
 
-**Correct Answer:** **(A)** `80/1001`
+**Correct Answer:** **(C)** `15/36`
 
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
@@ -201,7 +201,7 @@ There are 4 baskets. The first basket has 3 apples and 4 oranges, the second one
 - **(C)** `45/69`
 - **(D)** `28/69`
 
-**Correct Answer:** **(C)** `15/36`
+**Correct Answer:** **(D)** `28/69`
 
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
@@ -256,7 +256,7 @@ P(2|A)=P(A|2)xP(2)/P(A)
 - **(C)** `1/4`
 - **(D)** `3/4`
 
-**Correct Answer:** **(D)** `28/69`
+**Correct Answer:** **(D)** `3/4`
 
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
@@ -299,7 +299,7 @@ There is a school were 60% are girls and 35% of the girls are poor. Students are
 - **(C)** `21/100`
 - **(D)** `22/45`
 
-**Correct Answer:** **(D)** `3/4`
+**Correct Answer:** **(C)** `21/100`
 
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
@@ -331,7 +331,7 @@ What is the probability of drawn an ace or a space or both from a dew of cards.
 - **(C)** `16/52`
 - **(D)** `16/50`
 
-**Correct Answer:** **(C)** `21/100`
+**Correct Answer:** **(C)** `16/52`
 
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
@@ -365,7 +365,7 @@ You are given three coins: one has heads on both faces, the second has tails on 
 - **(C)** `1/2`
 - **(D)** `2/3`
 
-**Correct Answer:** **(C)** `16/52`
+**Correct Answer:** **(B)** `1/3`
 
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text

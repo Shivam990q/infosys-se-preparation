@@ -189,83 +189,38 @@ int main()
 
 ### Question 4 (PrepInsta quiz-1 - Q4)
 **Question Stem:**
-for (i = 1; i &lt;= 6; i++) 
-
-for (j = i; j &lt; 6; j++) 
-
-Print blank space 
-
-for (k = 1; k &lt; (i * 2); k++) 
-
-Print * 
-
-End for 
-
-Line break 
-
+for (i = 1; i <= 6; i++) 
+    for (j = i; j < 6; j++) 
+        Print blank space 
+    for (k = 1; k < (i * 2); k++) 
+        Print * 
+    End for 
+    Line break 
 End for
 
 **Options:**
-- **(A)** `*`
+- **(A)** `* / *** / ***** / ****** / *******` (5 rows)
+- **(B)** `* / ** / *** / ***** / ******* / *********` (6 rows non-uniform)
+- **(C)** `* / *** / ***** / ******* / ********* / ***********` (6 rows with odd stars: 1, 3, 5, 7, 9, 11)
+- **(D)** `None of the above`
 
-**Correct Answer:** **(C)** `*
-***
-*****
-*******
-*********
-***********`
+**Correct Answer:** **(C)** `* / *** / ***** / ******* / ********* / ***********` (6 rows with odd stars: 1, 3, 5, 7, 9, 11)
 
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
-Refer this code for the given pseudo code for better understanding, this pseudo code will print a pyramid of * with six rows each row having an odd number of * from 1 to 11 i.e the first row will have 1st star and the 6th row will have 11 starts
-
-
-#include&lt;stdio.h&gt;
-
-
-int main ()
-
-
-{
-
-
-int i, j, k;
-
-
-for (i = 1; i &lt;= 6; i++)
-
-
-{
-
-
-for (j = i; j &lt; 6; j++)
-
-
-{
-
-
-printf (" ");
-
-
-}
-
-
-for (k = 1; k &lt; (i * 2); k++)
-
-
-{
-
-
-printf ("*");
-
-
-}
-
-
-printf ("\n");
-
-
-}}
+The outer loop runs for i = 1 to 6 (representing 6 rows).
+In each row i:
+1. The first inner loop prints (6 - i) leading blank spaces.
+2. The second inner loop prints * for k = 1 to (i * 2 - 1), which generates exactly (2i - 1) stars (the odd numbers):
+   - Row 1 (i=1): 2(1)-1 = 1 star
+   - Row 2 (i=2): 2(2)-1 = 3 stars
+   - Row 3 (i=3): 2(3)-1 = 5 stars
+   - Row 4 (i=4): 2(4)-1 = 7 stars
+   - Row 5 (i=5): 2(5)-1 = 9 stars
+   - Row 6 (i=6): 2(6)-1 = 11 stars
+3. A line break is printed at the end of each row.
+Thus, this prints a centered pyramid of 6 rows with odd star counts from 1 to 11.
+Option (C) is the exact output.
 ```
 
 ---
