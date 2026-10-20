@@ -6,7 +6,7 @@
 
 ---
 
-## 📋 Section 1: Rules to Keep in Mind
+## 📌 Section 1: Rules & Core Concepts to Keep in Mind
 These rules and fundamental principles govern all Infosys questions on this topic:
 
 - Arithmetic Progression (AP): nth term Tn = a + (n - 1)d; Sum Sn = (n/2) * [2a + (n - 1)d] = (n/2) * (first + last).
@@ -15,7 +15,7 @@ These rules and fundamental principles govern all Infosys questions on this topi
 
 ---
 
-## ⚡ Section 2: How to Solve Quickly
+## ⚡ Section 2: How to Solve Quickly (Exam Elimination Strategies)
 Proven time-saving strategies recommended by PrepInsta for Infosys 2026 examination:
 
 1. **Option Elimination via Unit Digits & Multiples:** Before doing full calculations, inspect the options to see if last digits or divisibility by 3, 7, 9, 11 can eliminate 2 to 3 wrong choices.
@@ -24,7 +24,7 @@ Proven time-saving strategies recommended by PrepInsta for Infosys 2026 examinat
 
 ---
 
-## 🚀 Section 3: Tricks & Shortcuts
+## 🎯 Section 3: High-Yield Tricks & Shortcuts
 Key mathematical formulas, mental-math shortcuts, and speed axioms:
 
 - Sum of first n natural numbers = n(n + 1) / 2.
@@ -34,7 +34,7 @@ Key mathematical formulas, mental-math shortcuts, and speed axioms:
 
 ---
 
-## 📚 Section 4: Practice Questions, Options & Step-by-Step Solutions
+## 📝 Section 4: Comprehensive PrepInsta Practice Question Bank (All Quizzes)
 Contains **10** verbatim questions with options, verified answer keys, and complete derivations:
 
 ### Question 1 (PrepInsta quiz-1 - Q1)
@@ -49,12 +49,20 @@ Find the missing term in the following series?
 - **(C)** `27`
 - **(D)** `36`
 
+**Correct Answer:** **(B)** `24`
+
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
 Ans: 24.
 
 
+
+
+
 0 ,2, 9, ?, 50, 90, 147.
+
+
+
 
 
 0,2,9,24,50,90,147 --&gt;
@@ -81,6 +89,9 @@ diff b/w two terms
 147-90=57,
 
 
+
+
+
 The new series : 2,7, 15, 26, 40, 57
 
 
@@ -104,39 +115,74 @@ The aggregate number of whole numbers somewhere around
 - **(C)** `7`
 - **(D)** `8`
 
+**Correct Answer:** **(A)** `5`
+
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
 LCM of 6 and 9: 18
 
 
+
+
+
 &gt;6=2*3
+
+
+
 
 
 &gt;9=3*3
 
 
+
+
+
 What is the highest multiple of 18 under 100?
+
+
+
 
 
 &gt;200-100=100
 
 
+
+
+
 90 = 18*5
+
+
+
 
 
 Calculate the first starting position, 108
 
 
+
+
+
 &gt;108=18*6
+
+
+
 
 
 If 108 + 90 &lt; 200 AND 200–(108+90) &lt; 18
 
 
+
+
+
 then 90/18 is the answer.
 
 
+
+
+
 The answer is 5
+
+
+
 
 
 &nbsp;
@@ -161,6 +207,8 @@ acquired by her in the first years?
 - **(B)** `Rs 4400`
 - **(C)** `Rs 4500`
 - **(D)** `Rs 4600`
+
+**Correct Answer:** **(D)** `Rs 4600`
 
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
@@ -188,18 +236,28 @@ Which term of the G.P. 5,10,20,40 ...is 1280?
 - **(C)** `tenth`
 - **(D)** `eleventh`
 
+**Correct Answer:** **(B)** `ninth`
+
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
 Let, it be the n-th term of this GP series.
 
 
+
+
 a = 5; r = 2.
+
+
 
 
 1280 = 5*{2^(n - 1)}
 
 
+
+
 {2^(n - 1)} = 256 = (2^8)
+
+
 
 
 So, (n- 1) = 8; therefore, n = 9.
@@ -217,18 +275,28 @@ The total of every single common number from 75 to 97 is:
 - **(C)** `1958`
 - **(D)** `1978`
 
+**Correct Answer:** **(D)** `1978`
+
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
 The sum of an arithmetic series is the average of the first and last terms, times the number of terms.
 
 
+
+
 For this series, the average of the first and last terms is (97+75)/2=86(97+75)/2=86
+
+
 
 
 For any arithmetic series with a common difference of 1, the number of terms is the largest term minus the smallest term plus 1.
 
 
+
+
 For this series, that is 97−75+1=2397−75+1=23
+
+
 
 
 Therefore, the sum of this arithmetic series is 86⋅23=1978
@@ -250,18 +318,28 @@ from 1000 to 512000 microbes?
 - **(C)** `14`
 - **(D)** `18`
 
+**Correct Answer:** **(D)** `18`
+
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
 Let us assume it take n time units to reach 512000 microbes, where each time unit = 2 minutes
 
 
+
+
 Number of microbes in nth time unit=1000∗2n=1000∗2n
+
+
 
 
 1000∗2n=5120001000∗2n=512000
 
 
+
+
 n=9n=9
+
+
 
 
 Thus, total time taken = 9*2 = 18 minutes
@@ -279,9 +357,14 @@ Discover three numbers in A.P. whose sum is 15 and item is 80.
 - **(C)** `3,6 and 9 or 9,6, and 3`
 - **(D)** `2,5 and 8 or 8,5, and 2`
 
+**Correct Answer:** **(D)** `2,5 and 8 or 8,5, and 2`
+
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
 Let the numbers be (a-d), an and (a+d). At that point, 
+
+
+
 
 
 (a-d) +a+ (a+d) = 15 ⇒ 3a = 15 ⇒ a = 5 
@@ -310,6 +393,8 @@ Locate its first term, normal contrast and sixteenth term.
 - **(C)** `63`
 - **(D)** `64`
 
+**Correct Answer:** **(B)** `62`
+
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
 Let, first term = a and normal contrast =d. 
@@ -322,6 +407,9 @@ T8= 22 ⇒ a+7d = 22 … (ii)
 
 
 On subtracting (i) from (ii), we get 2d = 10 ⇒ d = 5 
+
+
+
 
 
 Putting d= 5 in (i), we get a+5*5 = 12 ⇒ a= (12-25) =-13 
@@ -351,6 +439,8 @@ respectively 39 and 59.
 - **(D)** `6`
 - **(E)** `7`
 
+**Correct Answer:** **(B)** `4`
+
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
 1st Method:
@@ -363,6 +453,9 @@ respectively 39 and 59.
 
 
 (i)-(ii);
+
+
+
 
 
 Or, a+7d-a-11d = 39-59; Or, 4d = 20;
@@ -409,9 +502,14 @@ What will be unit’s digit in the result of the expression
 - **(C)** `3`
 - **(D)** `7`
 
+**Correct Answer:** **(B)** `2`
+
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
 4.72
+
+
+
 
 
 unit is 2

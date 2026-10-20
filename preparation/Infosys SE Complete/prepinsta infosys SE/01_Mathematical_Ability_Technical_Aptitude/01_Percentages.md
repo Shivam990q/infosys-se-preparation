@@ -45,6 +45,8 @@ A batsman scored 110 runs which included 3 boundaries and 8 sixes. What percent 
 - **(C)** `54 ( 6/11)	%`
 - **(D)** `55%`
 
+**Correct Answer:** **(B)** `45 ( 5/11) %`
+
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
 Number of runs made by running = 110 - (3 x 4 + 8 x 6)
@@ -70,6 +72,8 @@ Two students appeared at an examination. One of them secured 9 marks more than t
 - **(B)** `41, 32`
 - **(C)** `42, 33`
 - **(D)** `43, 34`
+
+**Correct Answer:** **(C)** `42, 33`
 
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
@@ -102,6 +106,8 @@ A fruit seller had some apples. He sells 40% apples and still has 420 apples. Or
 - **(B)** `600 apples`
 - **(C)** `672 apples`
 - **(D)** `700 apples`
+
+**Correct Answer:** **(D)** `700 apples`
 
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
@@ -136,6 +142,8 @@ If A = x% of y and B = y% of x, then which of the following is true?
 - **(D)** `If x is smaller than y, then A is greater than B.`
 - **(E)** `None of these`
 
+**Correct Answer:** **(E)** `None of these`
+
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
 X % of Y = (X/100 * y)
@@ -161,6 +169,8 @@ If 20% of a = b, then b% of 20 is the same as:
 - **(B)** `5% of a`
 - **(C)** `20% of a`
 - **(D)** `None of these`
+
+**Correct Answer:** **(A)** `4% of a`
 
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
@@ -190,6 +200,8 @@ Two numbers A and B are such that the sum of 5% of A and 4% of B is two-third of
 - **(B)** `1 : 1`
 - **(C)** `3 : 4`
 - **(D)** `4 : 3`
+
+**Correct Answer:** **(D)** `4 : 3`
 
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
@@ -226,6 +238,8 @@ How much 60% of 50 is greater than 40% of 30?
 - **(C)** `15`
 - **(D)** `20`
 
+**Correct Answer:** **(A)** `18`
+
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
 Explanation:
@@ -249,6 +263,8 @@ The tax on a commodity is diminished by 20% and its consumption increased by 15%
 - **(C)** `No change in revenue`
 - **(D)** `It increases by 10%`
 - **(E)** `None`
+
+**Correct Answer:** **(B)** `It decreases by 8%`
 
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
@@ -290,6 +306,8 @@ At an examination in which full marks were 500. A got 10% less than B, B got 25%
 - **(B)** `90%`
 - **(C)** `71.2%`
 - **(D)** `75%`
+
+**Correct Answer:** **(C)** `71.2%`
 
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text

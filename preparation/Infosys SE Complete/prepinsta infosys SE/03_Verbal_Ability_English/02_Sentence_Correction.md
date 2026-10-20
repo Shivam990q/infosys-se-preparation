@@ -217,6 +217,8 @@ Denouncing it as anti-democratic,  the Lobbying Act was slammed by critics, impo
 - **(C)** `critics slammed the Lobbying Act, which imposes draconian limits on the activities of trade unions.`
 - **(D)** `no mistakes`
 
+**Correct Answer:** **(C)** `critics slammed the Lobbying Act, which imposes draconian limits on the activities of trade unions.`
+
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
 As the sentence starts off with "Denouncing it...", the clause that follows has to first refer to who denounced it- in this case, it is the critics.
@@ -244,6 +246,8 @@ Being worked for a whole day, you should have taken some rest and started workin
 - **(C)** `working for`
 - **(D)** `after being worked for`
 
+**Correct Answer:** **(B)** `having worked for the`
+
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
 Having worked for the whole day, you should have taken some rest and started working tomorrow.
@@ -260,6 +264,8 @@ Find out which part of the sentence below has an error and mark the option accor
 - **(B)** `to cool drinks`
 - **(C)** `I would`
 - **(D)** `I am well`
+
+**Correct Answer:** **(B)** `to cool drinks`
 
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
@@ -281,6 +287,8 @@ Fill in the blank(s) with the most suitable option. There________ four excellent
 - **(C)** `being`
 - **(D)** `is`
 
+**Correct Answer:** **(B)** `are`
+
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
 With there always use are.
@@ -299,6 +307,8 @@ Among the options given, choose the one that is grammatically correct for the bo
 - **(B)** `there is no more space`
 - **(C)** `there is no more accommodation`
 - **(D)** `No error`
+
+**Correct Answer:** **(D)** `No error`
 
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
@@ -323,6 +333,8 @@ Which of phrases given below each sentence should replace the phrase printed in 
 - **(C)** `If you had told`
 - **(D)** `Had you told`
 
+**Correct Answer:** **(C)** `If you had told`
+
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
 We cannot use 'would' twice in a sentence.
@@ -343,6 +355,8 @@ Which of phrases given below each sentence should replace the phrase printed in 
 - **(C)** `had left`
 - **(D)** `would leave`
 
+**Correct Answer:** **(C)** `had left`
+
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
 The orator had left the auditorium before the audience stood up.
@@ -362,6 +376,8 @@ Which of the phrases given below each sentence should replace the phrase printed
 - **(B)** `hesitated listen to`
 - **(C)** `hesitates to listening`
 - **(D)** `No correction required`
+
+**Correct Answer:** **(D)** `No correction required`
 
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
@@ -384,6 +400,8 @@ When she /is asked/ to walk /all the way
 - **(C)** `to walk`
 - **(D)** `all the way`
 
+**Correct Answer:** **(A)** `When she`
+
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
 'was' asked would be right.
@@ -401,6 +419,8 @@ Having logged thousands of hours watching felines from  tigers to cheetahs, tige
 - **(C)** `Dr. Stinson has now the belief that far from being natural-born killers, tigers and other felines`
 - **(D)** `tigers and other felines are not longer thought to be natural-born killers by Dr. Stinson, they`
 - **(E)** `tigers and other felines are no more thought to be natural-born killers by Dr. Stinson, they`
+
+**Correct Answer:** **(A)** `Dr. Stinson has come to believe that far from being natural-born killers, tigers and other felines`
 
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text

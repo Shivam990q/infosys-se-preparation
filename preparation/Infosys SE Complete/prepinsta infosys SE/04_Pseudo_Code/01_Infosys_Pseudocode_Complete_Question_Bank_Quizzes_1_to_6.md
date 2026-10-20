@@ -61,6 +61,8 @@ End function fun()
 - **(C)** `3`
 - **(D)** `Error`
 
+**Correct Answer:** **(A)** `1`
+
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
 Explanation:
@@ -93,6 +95,8 @@ x&gt;y ?( printf("%d", z)):( return z);
 - **(B)** `3`
 - **(C)** `Error`
 - **(D)** `11`
+
+**Correct Answer:** **(C)** `Error`
 
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
@@ -131,6 +135,8 @@ Print e
 - **(B)** `160`
 - **(C)** `170`
 - **(D)** `Error`
+
+**Correct Answer:** **(B)** `160`
 
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
@@ -200,38 +206,14 @@ Line break
 End for
 
 **Options:**
-- **(A)** `*
+- **(A)** `*`
 
-***
-
-*****
-
-******
-
-*******`
-- **(B)** `*
-
-**
-
-***
-
-*****
-
-*******
-
-*********`
-- **(C)** `*
-
-***
-
-*****
-
-*******
-
-*********
-
+**Correct Answer:** **(C)** `*
+***
+*****
+*******
+*********
 ***********`
-- **(D)** `None`
 
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
@@ -320,6 +302,8 @@ print a
 - **(C)** `Hello3`
 - **(D)** `Error`
 
+**Correct Answer:** **(A)** `Hello4`
+
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
 Explanation:
@@ -390,6 +374,8 @@ int main ()
 - **(C)** `16`
 - **(D)** `Error`
 
+**Correct Answer:** **(B)** `18`
+
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
 Explanation:
@@ -427,6 +413,8 @@ end if
 - **(B)** `15, 5`
 - **(C)** `25, 5`
 - **(D)** `Compiler Error`
+
+**Correct Answer:** **(A)** `5, 15`
 
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
@@ -503,6 +491,8 @@ End while
 - **(B)** `4 9 2`
 - **(C)** `8 18 4`
 - **(D)** `Error`
+
+**Correct Answer:** **(A)** `2 9 4`
 
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
@@ -612,6 +602,8 @@ End for
 - **(C)** `3 4 12 13`
 - **(D)** `None of the mentioned`
 
+**Correct Answer:** **(A)** `2 3 56 34`
+
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
 #include&lt;iostream&gt;
@@ -706,6 +698,8 @@ Write c
 - **(B)** `6 33 9`
 - **(C)** `9 33 6`
 - **(D)** `None of the mentioned`
+
+**Correct Answer:** **(C)** `9 33 6`
 
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text

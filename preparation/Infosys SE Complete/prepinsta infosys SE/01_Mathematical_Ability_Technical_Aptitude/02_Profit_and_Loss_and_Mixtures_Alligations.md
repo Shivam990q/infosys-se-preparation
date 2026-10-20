@@ -44,6 +44,8 @@ If the list price of a book is reduced by Rs. 5, then a person can buy 5 more bo
 - **(C)** `Rs. 25`
 - **(D)** `Rs. 30`
 
+**Correct Answer:** **(B)** `Rs. 20`
+
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
 If x is earlier price, then
@@ -66,6 +68,8 @@ A shopkeeper sells 18 mangoes for the purchase price of 20 mangoes. The percent 
 - **(B)** `11.11%`
 - **(C)** `9.09%`
 - **(D)** `12%`
+
+**Correct Answer:** **(B)** `11.11%`
 
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
@@ -105,6 +109,8 @@ A merchant marks his goods up by 75% above his cost price. What is the maximum %
 - **(C)** `300%`
 - **(D)** `42.85%`
 
+**Correct Answer:** **(D)** `42.85%`
+
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
 Let’s say the C.P. of the goods is 100.
@@ -143,6 +149,8 @@ Profit and loss problem: I bought a book for Rs 60 , I sold off to a friend for 
 - **(C)** `20`
 - **(D)** `10`
 
+**Correct Answer:** **(D)** `10`
+
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
 cp of book=60
@@ -171,6 +179,8 @@ Lucia is a wonderful grandmother.Her age is b/w 50 to 70. Each of her sons have 
 - **(B)** `b)55`
 - **(C)** `c)84`
 - **(D)** `d)64`
+
+**Correct Answer:** **(D)** `d)64`
 
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
@@ -203,6 +213,8 @@ If a 10 lit. mixture contains milk and water in the ratio 2:1 then, how much mor
 - **(B)** `9`
 - **(C)** `10`
 - **(D)** `11`
+
+**Correct Answer:** **(C)** `10`
 
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
@@ -248,6 +260,8 @@ Suresh invested a sum of Rs. 15000 at 9 percent per annum Simple interest and Rs
 - **(C)** `4893`
 - **(D)** `4696.8`
 
+**Correct Answer:** **(D)** `4696.8`
+
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
 S.I = PTR/100
@@ -292,6 +306,8 @@ Tea worth Rs. 126 per kg and Rs. 135 per kg are mixed with a third variety in th
 - **(C)** `Rs. 175.50`
 - **(D)** `Rs. 180`
 
+**Correct Answer:** **(C)** `Rs. 175.50`
+
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
 Then (126*1+135*1+2*x)/(1+1+2)= 153
@@ -323,6 +339,8 @@ A milk vendor has 2 cans of milk. The first contains 25% water and the rest milk
 - **(B)** `6 litres, 6 litres`
 - **(C)** `5 litres, 7 litres`
 - **(D)** `7 litres, 5 litres`
+
+**Correct Answer:** **(B)** `6 litres, 6 litres`
 
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
@@ -370,6 +388,8 @@ In what ratio must a grocer mix two varieties of tea worth Rs. 60 a kg and Rs. 6
 - **(B)** `3 : 4`
 - **(C)** `3 : 5`
 - **(D)** `4 : 5`
+
+**Correct Answer:** **(A)** `3 : 2`
 
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text

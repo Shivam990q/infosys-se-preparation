@@ -43,12 +43,12 @@ Contains **9** verbatim questions with options, verified answer keys, and comple
 There is a escalator and 2 persons move down it. A takes 50 steps and B takes 75 steps while the escalator is moving down. Given that the time taken by A to take 1 step is equal to time taken by B to take 3 steps. Find the no. of steps in the escalator while it is stationary?
 
 **Options:**
-- `100 steps`
-- `101 steps`
-- `75 steps`
-- `41 steps`
+- **(A)** `100 steps`
+- **(B)** `101 steps`
+- **(C)** `75 steps`
+- **(D)** `41 steps`
 
-**Correct Answer:** `100 steps`
+**Correct Answer:** **(A)** `100 steps`
 
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
@@ -75,12 +75,12 @@ Total stationary escalator steps = 50 + 50(1) = 100 steps.
 Shahrukh speaks truth only in the morning and lies in the afternoon, whereas Salman speaks truth only in the afternoon. A says that B is Shahrukh. Is it morning or afternoon and who is A - Shahrukh or Salman?
 
 **Options:**
-- `Afternoon. A is either Salman or Shahrukh`
-- `Afternoon. A is Salman.`
-- `Afternoon. A is Shahrukh`
-- `none`
+- **(A)** `Afternoon. A is either Salman or Shahrukh`
+- **(B)** `Afternoon. A is Salman.`
+- **(C)** `Afternoon. A is Shahrukh`
+- **(D)** `none`
 
-**Correct Answer:** `Afternoon. A is either Salman or Shahrukh`
+**Correct Answer:** **(A)** `Afternoon. A is either Salman or Shahrukh`
 
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
@@ -103,12 +103,12 @@ Therefore, it is definitely Afternoon, and A can be either Shahrukh or Salman.
 I bought a car with a peculiar 5 digit numbered licence plate which on inverting could still be read. On reversing value is increased by 78633. Whats the original number if all digits were different?
 
 **Options:**
-- `968`
-- `10968`
-- `10963`
-- `11968`
+- **(A)** `968`
+- **(B)** `10968`
+- **(C)** `10963`
+- **(D)** `11968`
 
-**Correct Answer:** `10968`
+**Correct Answer:** **(B)** `10968`
 
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
@@ -135,13 +135,15 @@ Exact match. Original number is 10968.
 **Question Stem:**
 The shape in the sketch below is that of a square attached to half of a similar square. How many equal triangles can it be divided into?
 
-**Options:**
-- `12`
-- `14`
-- `5`
-- `16`
+![Square and Half-Square Triangles](../figures/puzzle_square_triangles.png)
 
-**Correct Answer:** `12`
+**Options:**
+- **(A)** `12`
+- **(B)** `14`
+- **(C)** `5`
+- **(D)** `16`
+
+**Correct Answer:** **(A)** `12`
 
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
@@ -162,12 +164,12 @@ P : L and N said that they have money.
 All are liars. Who has money?
 
 **Options:**
-- `M`
-- `N`
-- `L`
-- `P`
+- **(A)** `M`
+- **(B)** `N`
+- **(C)** `L`
+- **(D)** `P`
 
-**Correct Answer:** `L`
+**Correct Answer:** **(C)** `L`
 
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
@@ -184,12 +186,12 @@ Therefore, L has the money.
 There are 5 burglars and once went to a bakery to rob it. The first guy ate 1/2 of the total bread and 1/2 of the bread. The second guy ate 1/2 of the remaining and 1/2 of the bread. The third guy, fourth guy and fifth guy did the same. After fifth guy there is no bread left out. How many bread are there?
 
 **Options:**
-- `36`
-- `42`
-- `28`
-- `31`
+- **(A)** `36`
+- **(B)** `42`
+- **(C)** `28`
+- **(D)** `31`
 
-**Correct Answer:** `31`
+**Correct Answer:** **(D)** `31`
 
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
@@ -211,12 +213,12 @@ So Remaining_before = (Remaining_after + 0.5) * 2 = 2 * Remaining_after + 1.
 A says either Democratic or liberal wins the elections. B says Democratic wins. C says neither democratic nor liberal wins the election. Of these only one is wrong. Who wins the election?
 
 **Options:**
-- `Democratic`
-- `Liberal`
-- `Both democratic and liberal`
-- `None of them`
+- **(A)** `Democratic`
+- **(B)** `Liberal`
+- **(C)** `Both democratic and liberal`
+- **(D)** `None of them`
 
-**Correct Answer:** `Democratic`
+**Correct Answer:** **(A)** `Democratic`
 
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
@@ -238,12 +240,12 @@ Therefore, Democratic wins the election.
 There are 6561 number of balls in a bag. Out of which one is heavy ball. In how many minimum number of weighing can you find the heavy ball?
 
 **Options:**
-- `9`
-- `8`
-- `2`
-- `7`
+- **(A)** `9`
+- **(B)** `8`
+- **(C)** `2`
+- **(D)** `7`
 
-**Correct Answer:** `8`
+**Correct Answer:** **(B)** `8`
 
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
@@ -268,12 +270,12 @@ Thus, exactly n = 8 minimum weighings are required.
 A frog jumps 3 ft comes back 2 ft in a day. In how many day it will come out of 30 ft deep well?
 
 **Options:**
-- `28 days`
-- `29 days`
-- `35 days`
-- `36 days`
+- **(A)** `28 days`
+- **(B)** `29 days`
+- **(C)** `35 days`
+- **(D)** `36 days`
 
-**Correct Answer:** `28 days`
+**Correct Answer:** **(A)** `28 days`
 
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text

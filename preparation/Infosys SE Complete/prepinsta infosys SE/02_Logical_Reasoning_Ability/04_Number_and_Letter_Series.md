@@ -45,6 +45,8 @@ Contains **10** verbatim questions with options, verified answer keys, and compl
 - **(C)** `14`
 - **(D)** `15`
 
+**Correct Answer:** **(C)** `14`
+
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
 The given pattern is (Prime number - consecutive numbers
@@ -93,6 +95,8 @@ starting with 1).
 - **(D)** `24 21`
 - **(E)** `22 26`
 
+**Correct Answer:** **(B)** `25 21`
+
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
 This is an alternating addition series, with a random number, 21, interpolated as every third number. The addition series alternates between adding 3 and adding 4. The number 21 appears after each number arrived at by adding 3.
@@ -109,6 +113,8 @@ What is the 8th term in the series 1, 4, 9, 18, 35, 68, . . .
 - **(B)** `148`
 - **(C)** `342`
 - **(D)** `112`
+
+**Correct Answer:** **(A)** `262`
 
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
@@ -178,6 +184,8 @@ Look at this series: 2, 6, 18, 54, ... What number should come next?
 - **(C)** `162`
 - **(D)** `216`
 
+**Correct Answer:** **(C)** `162`
+
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
 Since 2*3=6, 6*3=18, 18*3=54 so 54*3=162. Therefore next number is 162
@@ -194,6 +202,8 @@ Look at this series: F2, __, D8, C16, B32, ... What number should fill the blank
 - **(B)** `G4`
 - **(C)** `E4`
 - **(D)** `E3`
+
+**Correct Answer:** **(C)** `E4`
 
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
@@ -215,6 +225,8 @@ Look at this series: V, VIII, XI, XIV, __, XX, ... What number should fill the b
 - **(C)** `XV`
 - **(D)** `XVII`
 
+**Correct Answer:** **(D)** `XVII`
+
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
 This is a simple addition series; each number is 3 more than the previous number.
@@ -231,6 +243,8 @@ Look at this series: 4, 7, 25, 10, __, 20, 16, 19, ... What number should fill t
 - **(B)** `15`
 - **(C)** `20`
 - **(D)** `28`
+
+**Correct Answer:** **(A)** `13`
 
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
@@ -250,6 +264,8 @@ Two series alternate here, with every third number following a different pattern
 - **(D)** `34 36`
 - **(E)** `34 38`
 
+**Correct Answer:** **(E)** `34 38`
+
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
 This simple addition series adds 4 to each number to arrive at the next.
@@ -266,6 +282,8 @@ This simple addition series adds 4 to each number to arrive at the next.
 - **(B)** `28`
 - **(C)** `31`
 - **(D)** `23`
+
+**Correct Answer:** **(B)** `28`
 
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
@@ -316,6 +334,8 @@ So, 0+2 = 2
 - **(B)** `15 &amp; 21`
 - **(C)** `27 &amp; 81`
 - **(D)** `25 and 67`
+
+**Correct Answer:** **(D)** `25 and 67`
 
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text

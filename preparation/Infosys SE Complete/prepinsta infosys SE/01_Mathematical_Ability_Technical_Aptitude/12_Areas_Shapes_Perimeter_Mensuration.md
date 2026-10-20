@@ -6,7 +6,7 @@
 
 ---
 
-## 📋 Section 1: Rules to Keep in Mind
+## 📌 Section 1: Rules & Core Concepts to Keep in Mind
 These rules and fundamental principles govern all Infosys questions on this topic:
 
 - Triangle: Area = 1/2 * base * height; Heron's formula = sqrt(s(s-a)(s-b)(s-c)) where s = (a+b+c)/2.
@@ -15,8 +15,94 @@ These rules and fundamental principles govern all Infosys questions on this topi
 - Cylinder: Volume = pi * r^2 * h; Curved Surface Area = 2 * pi * r * h; Total Surface Area = 2 * pi * r * (r + h).
 - Cone: Volume = (1/3) * pi * r^2 * h; Slant height l = sqrt(r^2 + h^2); Curved Surface Area = pi * r * l.
 - Sphere: Volume = (4/3) * pi * r^3; Surface Area = 4 * pi * r^2.
+- HCF and LCM 
 
-## ⚡ Section 2: How to Solve Quickly
+																								
+																													Questions
+																															Formulas
+																															How to Solve Quickly
+																															Shortcuts, Tips & Tricks
+- Number System 
+
+																								
+																													Questions
+																															Formulas
+																															How to Solve Quickly
+																															Shortcuts, Tips & Tricks
+- Number Decimals & Fractions 
+
+																								
+																													Questions
+																															Formulas
+																															How to Solve Quickly
+																															Shortcuts, Tips & Tricks
+- Surds and Indices 
+
+																								
+																													Questions
+																															Formulas
+																															How to Solve Quickly
+																															Shortcuts, Tips & Tricks
+- Divisibility 
+
+																								
+																													Questions
+																															Formulas
+																															How to Solve Quickly
+																															Shortcuts, Tips & Tricks
+- Ages 
+
+																								
+																													Questions
+																															Formulas
+																															How To Solve Quickly
+																															Shortcut, tips, and tricks
+- LCM 
+
+																								
+																													Questions
+																															Formulas
+																															How To Solve Quickly
+																															Shortcut, tips, and tricks
+- HCF 
+
+																								
+																													Questions
+																															Formulas
+																															How To Solve Quickly
+																															Shortcut, tips, and tricks
+- Inverse 
+
+																								
+																													Questions
+																															Formulas
+																															How To Solve Quickly
+																															Shortcut, tips, and tricks
+- Speed Time and Distance 
+
+																								
+																													Questions
+																															Formulas
+																															How To Solve Quickly
+																															Shortcut, tips, and tricks
+- Work and Time 
+
+																								
+																													Questions
+																															Formulas
+																															How To Solve Quickly
+																															Shortcut, tips, and tricks
+- Boats and Streams 
+
+																								
+																													Questions
+																															Formulas
+																															How To Solve Quickly
+																															Shortcut, tips, and tricks
+
+---
+
+## ⚡ Section 2: How to Solve Quickly (Exam Elimination Strategies)
 Proven time-saving strategies recommended by PrepInsta for Infosys 2026 examination:
 
 1. **Option Elimination via Unit Digits & Multiples:** Before doing full calculations, inspect the options to see if last digits or divisibility by 3, 7, 9, 11 can eliminate 2 to 3 wrong choices.
@@ -25,13 +111,99 @@ Proven time-saving strategies recommended by PrepInsta for Infosys 2026 examinat
 
 ---
 
-## 🚀 Section 3: Tricks & Shortcuts
+## 🎯 Section 3: High-Yield Tricks & Shortcuts
 Key mathematical formulas, mental-math shortcuts, and speed axioms:
 
 - Percentage change in area when dimensions change: If radius increases by r%, area increases by [2r + (r^2/100)]%.
 - If ratio of radii of two circles is a:b, ratio of their areas is a^2 : b^2.
+- HCF and LCM 
 
-## 📚 Section 4: Practice Questions, Options & Step-by-Step Solutions
+																								
+																													Questions
+																															Formulas
+																															How to Solve Quickly
+																															Shortcuts, Tips & Tricks
+- Number System 
+
+																								
+																													Questions
+																															Formulas
+																															How to Solve Quickly
+																															Shortcuts, Tips & Tricks
+- Number Decimals & Fractions 
+
+																								
+																													Questions
+																															Formulas
+																															How to Solve Quickly
+																															Shortcuts, Tips & Tricks
+- Surds and Indices 
+
+																								
+																													Questions
+																															Formulas
+																															How to Solve Quickly
+																															Shortcuts, Tips & Tricks
+- Divisibility 
+
+																								
+																													Questions
+																															Formulas
+																															How to Solve Quickly
+																															Shortcuts, Tips & Tricks
+- Ages 
+
+																								
+																													Questions
+																															Formulas
+																															How To Solve Quickly
+																															Shortcut, tips, and tricks
+- LCM 
+
+																								
+																													Questions
+																															Formulas
+																															How To Solve Quickly
+																															Shortcut, tips, and tricks
+- HCF 
+
+																								
+																													Questions
+																															Formulas
+																															How To Solve Quickly
+																															Shortcut, tips, and tricks
+- Inverse 
+
+																								
+																													Questions
+																															Formulas
+																															How To Solve Quickly
+																															Shortcut, tips, and tricks
+- Speed Time and Distance 
+
+																								
+																													Questions
+																															Formulas
+																															How To Solve Quickly
+																															Shortcut, tips, and tricks
+- Work and Time 
+
+																								
+																													Questions
+																															Formulas
+																															How To Solve Quickly
+																															Shortcut, tips, and tricks
+- Boats and Streams 
+
+																								
+																													Questions
+																															Formulas
+																															How To Solve Quickly
+																															Shortcut, tips, and tricks
+
+---
+
+## 📝 Section 4: Comprehensive PrepInsta Practice Question Bank (All Quizzes)
 Contains **10** verbatim questions with options, verified answer keys, and complete derivations:
 
 ### Question 1 (PrepInsta quiz-1 - Q1)
@@ -45,27 +217,50 @@ The length of a rectangular plot is 20 meters more than its breadth. If the cost
 - **(D)** `Data inadequate`
 - **(E)** `None of these`
 
+**Correct Answer:** **(E)** `None of these`
+
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
 Let breadth = x metres.
 
 
+
+
+
 Then, length = (x + 20) metres.
+
+
+
 
 
 Perimeter = ( 5300/26.50 ) m = 200 m.
 
 
+
+
+
 2[(x + 20) + x] = 200
+
+
+
 
 
 2x + 20 = 100
 
 
+
+
+
 2x = 80
 
 
+
+
+
 x = 40.
+
+
+
 
 
 Hence, length = x + 20 = 60 m.
@@ -83,12 +278,20 @@ A rectangular field is to be fenced on three sides leaving a side of 20 feet unc
 - **(C)** `68`
 - **(D)** `88`
 
+**Correct Answer:** **(D)** `88`
+
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
 We have: l = 20 ft and lb = 680 sq. ft.
 
 
+
+
+
 So, b = 34 ft.
+
+
+
 
 
 Length of fencing = (l + 2b) = (20 + 68) ft = 88 ft.
@@ -106,18 +309,32 @@ A tank is 25 m long, 12 m wide and 6 m deep. The cost of plastering its walls an
 - **(C)** `Rs. 558`
 - **(D)** `Rs. 568`
 
+**Correct Answer:** **(C)** `Rs. 558`
+
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
 Area to be plastered =
 
 
+
+
+
 [2(l+b)×h]+(l×b)
+
+
+
 
 
 =[2(25+12)×6]+(25×12)
 
 
+
+
+
 =744sq.m
+
+
+
 
 
 Cost of plastering = 744×75100 = Rs.558
@@ -135,30 +352,56 @@ A rectangular park 60 m long and 40 m wide has two concrete crossroads running i
 - **(C)** `5.82 m`
 - **(D)** `None of these`
 
+**Correct Answer:** **(B)** `3 m`
+
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
 Area of the park = (60 x 40) m2 = 2400 m2.
 
 
+
+
+
 Area of the lawn = 2109 m2.
+
+
+
 
 
 Area of the crossroads = (2400 - 2109) m2 = 291 m2.
 
 
+
+
+
 Let the width of the road be x metres. Then,
+
+
+
 
 
 60x + 40x - x2 = 291
 
 
+
+
+
 =&gt;x2 - 100x + 291 = 0
+
+
+
 
 
 =&gt;(x - 97)(x - 3) = 0
 
 
+
+
+
 As, the width of the road cannot exceed the length of rectangular park,
+
+
+
 
 
 So, x = 3.
@@ -175,6 +418,8 @@ A rabbit is tied to one end of an equilateral triangle of side 5 m with a rope l
 - **(B)** `190.24 m2`
 - **(C)** `190.44 m2`
 - **(D)** `190 m2`
+
+**Correct Answer:** **(B)** `190.24 m2`
 
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
@@ -209,6 +454,8 @@ No. of triangles formed in a polygon having 15 sides is?
 - **(C)** `353`
 - **(D)** `455`
 
+**Correct Answer:** **(D)** `455`
+
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
 total no. of points=15
@@ -232,57 +479,110 @@ A GOLF BALL HAS DIAMETER EQUAL TO 4.1CM. ITS SURFACE HAS 150 DIMPLES EACH OF RAD
 - **(C)** `71.62 cm2`
 - **(D)** `45.62 cm2`
 
+**Correct Answer:** **(C)** `71.62 cm2`
+
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
 Given the diameter of golf ball = 4.1 cm
 
 
+
+
+
 =&gt; the radius of golf ball
+
+
+
 
 
 = diameter/2 = 4.1/2cm
 
 
+
+
+
 Now surface area of a golf ball without dimples
+
+
+
 
 
 4 *π r2 = 4 * π * (4.1/2)2 = 16.81 π cm2
 
 
+
+
+
 It is given that the shape of dimples is hemispherical and radius of each dimple = 2mm = 0.2 cm
+
+
+
 
 
 Area of each dimple =
 
 
+
+
+
 = 2 πr2 = 2 * π * (0.2)2 = 0.08 π cm2
+
+
+
 
 
 So area of 150 dimples = 150 x area of each dimple = 150 x 0.8π = 12π cm square
 
 
+
+
+
 Area of flat surface removed to make 1 dimple
+
+
+
 
 
 =  πr2 = π * (0.2 )2 = 0.04 π cm2
 
 
+
+
+
 Area of flat surface removed to make 150 dimples
+
+
+
 
 
 = 150 * 0.04 π = 6 π cm2
 
 
+
+
+
 Now total surface area of golf ball exposed to surroundings = surface area of golf ball without dimples + area of 150 dimples – area of flat surface removed to make 150 dimples
+
+
+
 
 
 = 16.81 π + 12π - 6π
 
 
+
+
+
 = 22.81π
 
 
+
+
+
 = 22.81 x 3.14
+
+
+
 
 
 = 71.62 cm2
@@ -299,6 +599,8 @@ If a goat is tied to a pole at Point A with a rope 12 m long such that it can no
 - **(B)** `(ii) more than 132 π`
 - **(C)** `(iii) equal to 132 π`
 - **(D)** `(iv) none`
+
+**Correct Answer:** **(B)** `(ii) more than 132 π`
 
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
@@ -323,6 +625,8 @@ The right-angled triangle PQR is to be constructed in the xy-plane so that the r
 - **(C)** `C. 10,000`
 - **(D)** `D. 9,900`
 
+**Correct Answer:** **(D)** `D. 9,900`
+
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
 We have the rectangle with dimensions 10*11
@@ -334,10 +638,19 @@ We have the rectangle with dimensions 10*11
 is parallel to x-axis.
 
 
+
+
+
 Choose the (x,y) coordinates for vertex P (right angle):
 
 
+
+
+
 ^{10}C_{1}\times ^{11}C_{1};
+
+
+
 
 
 Choose the x coordinate for vertex R (as y coordinate is fixed
@@ -346,7 +659,13 @@ Choose the x coordinate for vertex R (as y coordinate is fixed
 by
 
 
+
+
+
 A): ^{9}C_{1}, (10-1=9 as 1 horizontal dot is already occupied by A);
+
+
+
 
 
 Choose the Y coordinate for vertex Q (as x coordinate is
@@ -355,10 +674,16 @@ Choose the Y coordinate for vertex Q (as x coordinate is
 fixed by A):
 
 
+
+
+
 10C1, (11-1=10 as 1 vertical dot is already
 
 
 occupied by A).
+
+
+
 
 
 ^{10}C_{1}\times ^{11}C_{1}\times ^{9}C_{1}\times ^{10}C_{1}=9900.
@@ -375,6 +700,8 @@ If PQRST is a parallelogram what it the ratio of triangle PQS &amp; parallelogra
 - **(B)** `2:1`
 - **(C)** `1:3`
 - **(D)** `3:1`
+
+**Correct Answer:** **(A)** `1:2`
 
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text

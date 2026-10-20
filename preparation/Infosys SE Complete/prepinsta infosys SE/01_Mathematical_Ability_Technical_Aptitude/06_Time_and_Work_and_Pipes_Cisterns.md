@@ -45,6 +45,8 @@ If Rita spends every day 40 minutes for watering the plants how much time does R
 - **(D)** `15.5hours`
 - **(E)** `14.33hours`
 
+**Correct Answer:** **(B)** `13.33hours`
+
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
 sita 1 day sepend time =40 min
@@ -75,6 +77,8 @@ If a pipe A can fill a tank in 40 minutes and pipe B fill the same tank in 30 mi
 - **(D)** `120/7`
 - **(E)** `13`
 
+**Correct Answer:** **(D)** `120/7`
+
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
 Time taken by both pipes together to fill the tank = 1/(1/40 +1/30) = 120/7 min
@@ -91,6 +95,8 @@ Time taken by both pipes together to fill the tank = 1/(1/40 +1/30) = 120/7 min
 - **(B)** `3 3⁄5  days`
 - **(C)** `9 2⁄5 days`
 - **(D)** `12 12⁄13 days`
+
+**Correct Answer:** **(D)** `12 12⁄13 days`
 
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
@@ -127,6 +133,8 @@ If A and B can do a piece of work in 7.5 days. If B works 1/2 of work and remain
 - **(C)** `20`
 - **(D)** `8`
 
+**Correct Answer:** **(B)** `10`
+
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
 10 days
@@ -158,6 +166,8 @@ An inlet pipe fill a tank in 5 hrs and outlet pipe empty same tank in 36 hrs wor
 - **(B)** `8`
 - **(C)** `7`
 - **(D)** `10`
+
+**Correct Answer:** **(C)** `7`
 
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
@@ -193,6 +203,8 @@ Shanti's school normally FINISHES AT 4 PM. her mom drives from home to pick her 
 - **(B)** `3:9`
 - **(C)** `7:10`
 - **(D)** `3:5`
+
+**Correct Answer:** **(A)** `1:5`
 
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
@@ -240,6 +252,8 @@ In a grass field if 40 cows could eat for 40 days.The same grass field can feed 
 - **(B)** `85`
 - **(C)** `70`
 - **(D)** `60`
+
+**Correct Answer:** **(A)** `80`
 
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
@@ -293,6 +307,8 @@ ans:80
 - **(B)** `15`
 - **(C)** `14`
 - **(D)** `18`
+
+**Correct Answer:** **(B)** `15`
 
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
@@ -349,6 +365,8 @@ Rajesh can finish 1/5 of his home work in one hour. Seema can finish 3/7 of her 
 - **(B)** `6:30 pm`
 - **(C)** `5:30 pm`
 - **(D)** `5:45 pm`
+
+**Correct Answer:** **(C)** `5:30 pm`
 
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
@@ -423,6 +441,8 @@ to play at 5:30 PM. That  the only time they all will meet
 - **(B)** `250`
 - **(C)** `200`
 - **(D)** `180`
+
+**Correct Answer:** **(A)** `230`
 
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text

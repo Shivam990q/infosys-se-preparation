@@ -60,6 +60,9 @@ O R E G O N
 - **(D)** `18`
 - **(E)** `10`
 
+
+**Correct Answer:** **(A)** `11`
+
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
 KANSAS+OHIO=OREGON
@@ -292,6 +295,9 @@ H E R E
 - **(C)** `157`
 - **(D)** `149`
 
+
+**Correct Answer:** **(C)** `157`
+
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
 T H I S
@@ -424,6 +430,9 @@ GO+TO=OUT, O+U+T=?
 - **(B)** `8`
 - **(C)** `5`
 - **(D)** `3`
+
+
+**Correct Answer:** **(A)** `10`
 
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
@@ -561,6 +570,9 @@ TEE + LET= ALL where E=5 find A+L+L
 - **(C)** `11`
 - **(D)** `12`
 
+
+**Correct Answer:** **(C)** `11`
+
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
 After replacing the value E = 5
@@ -644,6 +656,9 @@ USA+USSR=PEACE FIND P+E+A+C+E
 - **(B)** `14`
 - **(C)** `25`
 - **(D)** `12`
+
+
+**Correct Answer:** **(A)** `10`
 
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
@@ -775,6 +790,9 @@ Find the value of T+E+N ?
 - **(C)** `19`
 - **(D)** `25`
 
+
+**Correct Answer:** **(A)** `17`
+
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
 O N E
@@ -887,6 +905,9 @@ B E E T
 - **(B)** `077`
 - **(C)** `066`
 - **(D)** `055`
+
+
+**Correct Answer:** **(A)** `088`
 
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
@@ -1047,6 +1068,9 @@ D A N G E R
 - **(B)** `21`
 - **(C)** `11`
 - **(D)** `16`
+
+
+**Correct Answer:** **(A)** `31`
 
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
@@ -1385,6 +1409,9 @@ W I V E S
 - **(C)** `33`
 - **(D)** `37`
 
+
+**Correct Answer:** **(A)** `22`
+
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
 F I V E
@@ -1647,6 +1674,9 @@ D A R W I N
 - **(C)** `34`
 - **(D)** `16`
 
+
+**Correct Answer:** **(A)** `23`
+
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
 E V E R
@@ -1772,6 +1802,9 @@ If (HE)^H=SHE, where the alphabets take the values from (0-9) &amp; all the alph
 - **(C)** `13`
 - **(D)** `15`
 
+
+**Correct Answer:** **(C)** `13`
+
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
 Since, SHE is a 3 digit number.
@@ -1832,6 +1865,9 @@ C E N T E R
 - **(B)** `24`
 - **(C)** `12`
 - **(D)** `19`
+
+
+**Correct Answer:** **(C)** `12`
 
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text

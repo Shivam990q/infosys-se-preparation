@@ -229,6 +229,8 @@ E)No error
 - **(D)** `D`
 - **(E)** `E`
 
+**Correct Answer:** **(C)** `C`
+
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
 When the construction of 'neither .. nor' exists, the verb number agrees with the number of the subject closest to it. Here, the subject closest to the verb is 'recent critics' of a plural nature, so we need a plural verb to agree with the 'recent critics' plural subject. That makes option C the right option, as it suggests the sentencing error. The remaining part of the sentence is correct.
@@ -245,6 +247,8 @@ The bus could not(A) / ascend the steep hill(B) / because it was in the wrong ge
 - **(B)** `B`
 - **(C)** `C`
 - **(D)** `D`
+
+**Correct Answer:** **(C)** `C`
 
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
@@ -265,6 +269,8 @@ No stronger(A) / a figure than his(B) / is prescribed in the history(C) / No err
 - **(B)** `B`
 - **(C)** `C`
 - **(D)** `D`
+
+**Correct Answer:** **(C)** `C`
 
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
@@ -287,6 +293,8 @@ Most people would have(A) /attended the union meeting(B) / if they had(C) / long
 - **(D)** `D`
 - **(E)** `E`
 
+**Correct Answer:** **(D)** `D`
+
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
 Explanation:
@@ -307,6 +315,8 @@ And though one did not(A) / quite believe his claim(B) / one saw no harm(C) / in
 - **(C)** `C`
 - **(D)** `D`
 - **(E)** `E`
+
+**Correct Answer:** **(E)** `E`
 
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
@@ -349,6 +359,8 @@ Directions :  Identify which part of the sentence has error and mark it as answe
 - **(D)** `4`
 - **(E)** `5`
 
+**Correct Answer:** **(E)** `5`
+
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
 Explanation:
@@ -390,6 +402,8 @@ Directions :  Identify which part of the sentence has error and mark it as answe
 - **(D)** `4`
 - **(E)** `5`
 
+**Correct Answer:** **(B)** `2`
+
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
 Explanation:
@@ -426,6 +440,8 @@ Either requires a singular verb in 2 changes ''are'' with ''is''.
 - **(C)** `3`
 - **(D)** `4`
 - **(E)** `5`
+
+**Correct Answer:** **(E)** `5`
 
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
@@ -464,6 +480,8 @@ The sentence is grammatically correct. No error.
 - **(D)** `4`
 - **(E)** `5`
 
+**Correct Answer:** **(B)** `2`
+
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
 Explanation:
@@ -500,6 +518,8 @@ In option 2: Change the comma to a semicolon. (There are two complete sentences.
 - **(C)** `3`
 - **(D)** `4`
 - **(E)** `5`
+
+**Correct Answer:** **(A)** `1`
 
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text

@@ -43,6 +43,8 @@ Which digit should come in the place of * and # if the number 62684*# is divisib
 - **(C)** `5 and 0`
 - **(D)** `2 and 0`
 
+**Correct Answer:** **(A)** `4 and 0`
+
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
 Since the given number is divible by 5,So 0 or 5 must come in place of * .But a number ending with 5 is never divisible by 8.Therefore 0 will be in units place
@@ -62,6 +64,8 @@ Find the total number of prime factors in the expression 4 11 ×7 5 ×11 2
 - **(B)** `31`
 - **(C)** `29`
 - **(D)** `20`
+
+**Correct Answer:** **(C)** `29`
 
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
@@ -83,6 +87,8 @@ If an integer n is divisible by 3, 5 and 12, what is the next larger integer div
 - **(C)** `n + 12`
 - **(D)** `n + 60`
 - **(E)** `n + 15`
+
+**Correct Answer:** **(D)** `n + 60`
 
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
@@ -112,6 +118,8 @@ When the integer n is divided by 8, the remainder is 3. What is the remainder if
 - **(B)** `2`
 - **(C)** `3`
 - **(D)** `4`
+
+**Correct Answer:** **(B)** `2`
 
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
@@ -154,6 +162,8 @@ If n is an integer, when (2n + 2) 2  is divided by 4 the remainder is
 - **(C)** `3`
 - **(D)** `4`
 
+**Correct Answer:** **(A)** `Zero`
+
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
 We first expand (2n + 2)2
@@ -182,6 +192,8 @@ If a positive integer n is divided by 5, the remainder is 3. Which of the number
 - **(B)** `n + 2`
 - **(C)** `n - 1`
 - **(D)** `n - 2`
+
+**Correct Answer:** **(B)** `n + 2`
 
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
@@ -215,6 +227,8 @@ The integers 34041 and 32506 when divided by a three-digit integer n leave the s
 - **(C)** `453`
 - **(D)** `307`
 
+**Correct Answer:** **(D)** `307`
+
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
 The difference of the numbers = 34041 – 32506 = 1535
@@ -241,6 +255,8 @@ How many even integers n, where 100≤n≤200 , are divisible neither by seven n
 - **(C)** `39`
 - **(D)** `38`
 
+**Correct Answer:** **(C)** `39`
+
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
 Between 100 and 200 both included there are 51 even nos. There are 7 even nos which are divisible by 7 and 6 nos which are divisible by 9 and 1 no divisible by both. hence in total 51 – (7+6)-1 = 39...
@@ -258,6 +274,8 @@ Let N = 1421 * 1423 * 1425. What is the remainder when N is divided by 12?
 - **(C)** `3`
 - **(D)** `6`
 
+**Correct Answer:** **(C)** `3`
+
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
 The numbers 1421, 1423 and 1425 when divided by 12 give remainder 5, 7 and 9 respectively. 5*7*9 mod 12 = 11 * 9 mod 12 = 99 mod 12 = 3
@@ -274,6 +292,8 @@ The rightmost non-zero digit of the number 30 2720 is...
 - **(B)** `3`
 - **(C)** `7`
 - **(D)** `9`
+
+**Correct Answer:** **(A)** `1`
 
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text

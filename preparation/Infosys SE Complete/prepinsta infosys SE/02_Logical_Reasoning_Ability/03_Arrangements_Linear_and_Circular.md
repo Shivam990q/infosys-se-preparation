@@ -136,6 +136,8 @@ Which of the following is True?
 - **(C)** `Rohith is the neighbour of Sandhya and Lakshman`
 - **(D)** `Lakshman is the neighbour of Prakash and Madan`
 
+**Correct Answer:** **(A)** `Dhanumjaya is the neighbour of Sandhya and Lakshman`
+
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
 Explanation
@@ -182,6 +184,8 @@ Which of the following pairs has the second person sitting second to the right f
 - **(C)** `Dhanumjaya, Sandhya`
 - **(D)** `None of these`
 
+**Correct Answer:** **(D)** `None of these`
+
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
 &nbsp;
@@ -219,6 +223,8 @@ Which of the following pairs has the first person sitting third to the left of t
 - **(C)** `Sandhya, Rohith`
 - **(D)** `Naresh, Lakshman`
 
+**Correct Answer:** **(C)** `Sandhya, Rohith`
+
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 *[Step-by-step logic directly follows from above axioms]*
 
@@ -253,6 +259,8 @@ What is the position of Lakshman?
 - **(B)** `Second to the left of Madan`
 - **(C)** `To the immediate left of Dhanumjaya`
 - **(D)** `Only between Madan and Rohith`
+
+**Correct Answer:** **(A)** `To the immediate right of Dhanumjaya`
 
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 *[Step-by-step logic directly follows from above axioms]*
@@ -289,6 +297,8 @@ Who are the immediate neighbors of F?
 - **(C)** `DG`
 - **(D)** `GB`
 
+**Correct Answer:** **(D)** `GB`
+
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 *[Step-by-step logic directly follows from above axioms]*
 
@@ -323,6 +333,8 @@ Who are the immediate neighbours of A?
 - **(B)** `CD`
 - **(C)** `GD`
 - **(D)** `EF`
+
+**Correct Answer:** **(B)** `CD`
 
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
@@ -370,6 +382,8 @@ Which of the following is the item sold by Anita?
 - **(B)** `peanut`
 - **(C)** `soda`
 - **(D)** `candy`
+
+**Correct Answer:** **(B)** `peanut`
 
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
@@ -428,6 +442,8 @@ who sell popcorn?
 - **(C)** `snega`
 - **(D)** `sonia`
 
+**Correct Answer:** **(C)** `snega`
+
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
 anita - satish - peanuts
@@ -485,6 +501,8 @@ Who sell ice cream?
 - **(C)** `snega`
 - **(D)** `sonia`
 
+**Correct Answer:** **(B)** `chitra`
+
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
 anita - satish - peanuts
@@ -537,6 +555,8 @@ What is the profession of A?
 - **(B)** `B. Doctor`
 - **(C)** `C. Teacher`
 - **(D)** `D. Lawyer`
+
+**Correct Answer:** **(C)** `C. Teacher`
 
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
@@ -603,6 +623,8 @@ Which of the following is one of the couples?
 - **(C)** `E and A`
 - **(D)** `None of the mentioned options`
 
+**Correct Answer:** **(D)** `None of the mentioned options`
+
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
 Correct Option is D
@@ -658,6 +680,8 @@ How is D related to F?
 - **(B)** `Uncle`
 - **(C)** `Father`
 - **(D)** `Brother`
+
+**Correct Answer:** **(A)** `Grandfather`
 
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text

@@ -79,6 +79,8 @@ Is the product of  x  and  y  greater than 60?
 - **(D)** `D`
 - **(E)** `E`
 
+**Correct Answer:** **(C)** `C`
+
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
 (1)---&gt;
@@ -147,6 +149,8 @@ What is the value of  y ?
 - **(D)** `2`
 - **(E)** `1`
 
+**Correct Answer:** **(B)** `5`
+
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
 Explanation:
@@ -188,6 +192,8 @@ What was the percent increase of Company A's stock between June 1 and June 30, 2
 - **(D)** `D`
 - **(E)** `E`
 
+**Correct Answer:** **(E)** `E`
+
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
 Explanation:
@@ -216,6 +222,8 @@ Is x a prime number?
 - **(C)** `Both the statements are correct`
 - **(D)** `Statement 2 follows 1`
 - **(E)** `Both the statements are not sufficient`
+
+**Correct Answer:** **(E)** `Both the statements are not sufficient`
 
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
@@ -248,6 +256,8 @@ If the average size of 3 accounts is $1 million, is the smallest account less th
 - **(C)** `C`
 - **(D)** `D`
 - **(E)** `E`
+
+**Correct Answer:** **(C)** `C`
 
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
@@ -338,6 +348,8 @@ Is X a prime number, given that X is a positive integer?
 - **(D)** `D`
 - **(E)** `E`
 
+**Correct Answer:** **(C)** `C`
+
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
 Explanation:
@@ -372,6 +384,8 @@ What is the value of X, if X and Y are two distinct integers and their product i
 - **(C)** `C`
 - **(D)** `D`
 - **(E)** `E`
+
+**Correct Answer:** **(E)** `E`
 
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
@@ -432,6 +446,8 @@ Is m divisible by 6?
 - **(D)** `D`
 - **(E)** `E`
 
+**Correct Answer:** **(C)** `C`
+
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
 Note: in order to divide a number by 6 , that number has to be divisible by both 2 and 3.
@@ -473,6 +489,8 @@ A, B, C, D have to stand in a queue in descending order of their heights. Who st
 - **(D)** `D`
 - **(E)** `E`
 
+**Correct Answer:** **(C)** `C`
+
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
 Explanation:
@@ -501,6 +519,8 @@ What are the speeds two trains travels with 80 yards and 85 yards long respectiv
 - **(C)** `C`
 - **(D)** `D`
 - **(E)** `E`
+
+**Correct Answer:** **(C)** `C`
 
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text

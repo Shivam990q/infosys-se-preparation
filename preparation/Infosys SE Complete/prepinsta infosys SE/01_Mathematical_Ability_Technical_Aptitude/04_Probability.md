@@ -44,6 +44,8 @@ In a horse racing competition, there were 18 numbered 1 to 18. The organizers as
 - **(C)** `\frac {23}{56}`
 - **(D)** `\frac {231}{561}`
 
+**Correct Answer:** **(C)** `\frac {23}{56}`
+
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
 CORRECT ANSWER IS\frac {23}{56}
@@ -82,6 +84,8 @@ There are 19 red balls and one black ball. Ten balls are put in one jar and the 
 - **(C)** `2/3`
 - **(D)** `1/4`
 
+**Correct Answer:** **(B)** `1/2`
+
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 *[Step-by-step logic directly follows from above axioms]*
 
@@ -100,6 +104,8 @@ There are 1000 junior and 800 senior students in a class. And there are 60 sibli
 - **(B)** `8450/800000`
 - **(C)** `7455/800000`
 - **(D)** `8230/800000`
+
+**Correct Answer:** **(A)** `7140/800000`
 
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
@@ -139,6 +145,8 @@ A bag contains 5 red caps, 4 blue caps, 3 yellow caps and 2 green caps. If four 
 - **(C)** `60/1001`
 - **(D)** `50/1001`
 
+**Correct Answer:** **(A)** `80/1001`
+
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
 Total no of caps= 5+4+3+2= 14
@@ -161,6 +169,8 @@ Two dice are thrown simultaneously. What is the probability that the sum of the 
 - **(B)** `1/2`
 - **(C)** `15/36`
 - **(D)** `7/18`
+
+**Correct Answer:** **(A)** `80/1001`
 
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
@@ -190,6 +200,8 @@ There are 4 baskets. The first basket has 3 apples and 4 oranges, the second one
 - **(B)** `28/41`
 - **(C)** `45/69`
 - **(D)** `28/69`
+
+**Correct Answer:** **(C)** `15/36`
 
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
@@ -244,6 +256,8 @@ P(2|A)=P(A|2)xP(2)/P(A)
 - **(C)** `1/4`
 - **(D)** `3/4`
 
+**Correct Answer:** **(D)** `28/69`
+
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
 answer will be 3/4 as total no. of cases of possible moves=8
@@ -285,6 +299,8 @@ There is a school were 60% are girls and 35% of the girls are poor. Students are
 - **(C)** `21/100`
 - **(D)** `22/45`
 
+**Correct Answer:** **(D)** `3/4`
+
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
 Let take 100 students
@@ -314,6 +330,8 @@ What is the probability of drawn an ace or a space or both from a dew of cards.
 - **(B)** `26/52`
 - **(C)** `16/52`
 - **(D)** `16/50`
+
+**Correct Answer:** **(C)** `21/100`
 
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
@@ -346,6 +364,8 @@ You are given three coins: one has heads on both faces, the second has tails on 
 - **(B)** `1/3`
 - **(C)** `1/2`
 - **(D)** `2/3`
+
+**Correct Answer:** **(C)** `16/52`
 
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text

@@ -245,6 +245,8 @@ India has taken tentative steps to remedy its skills famine—the current govern
 - **(C)** `Wages in the Developing countries are same as wages in the developed countries`
 - **(D)** `None of these`
 
+**Correct Answer:** **(A)** `Wages in the Developing countries are less as compared to wages in the developed countries.`
+
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
 According to the passage it inferred that -  Wages in the Developing countries are less as compared to wages in the developed countries
@@ -289,6 +291,8 @@ What does American jobs  in the last line of the first paragraph of the passage
 - **(B)** `Jobs held (or to be held) by American people`
 - **(C)** `Jobs open to only American citizens`
 - **(D)** `Jobs provided by the American government`
+
+**Correct Answer:** **(B)** `Jobs held (or to be held) by American people`
 
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
@@ -335,6 +339,8 @@ According to the passage, why India does not have enough skilled labour?
 - **(C)** `Students do not want to study`
 - **(D)** `Maximum universities and colleges do not match global standards.`
 
+**Correct Answer:** **(D)** `Maximum universities and colleges do not match global standards.`
+
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
 As in India Maximum universities and colleges do not match global standards.
@@ -375,6 +381,8 @@ What can you infer as the meaning of stifling from the passage?
 - **(B)** `Liberal`
 - **(C)** `Impeding`
 - **(D)** `Undemocratic`
+
+**Correct Answer:** **(C)** `Impeding`
 
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
@@ -421,6 +429,8 @@ What is an appropriate title to the passage?
 - **(C)** `India's Skill Shortage`
 - **(D)** `Entrepreneurship in India`
 
+**Correct Answer:** **(C)** `India's Skill Shortage`
+
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
 As per the facts of passage the best title will be - India's Skill Shortage.
@@ -466,6 +476,8 @@ In the third sentence of the third paragraph of the passage, the phrase closer t
 - **(C)** `Close association to community colleges`
 - **(D)** `None of these`
 
+**Correct Answer:** **(B)** `Like community colleges`
+
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
 It implies that - Like community colleges.
@@ -506,6 +518,8 @@ According to the passage, what is the paradox of the Indian economy today?
 - **(B)** `The economic progress is impressive disallowing the government to take tough decisions.`
 - **(C)** `There is not enough skilled workforce and the government does not realize this.`
 - **(D)** `Government is not ready to invest in setting up new universities.`
+
+**Correct Answer:** **(B)** `The economic progress is impressive disallowing the government to take tough decisions.`
 
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
@@ -552,6 +566,8 @@ Why are salaries for skilled workers rising?
 - **(C)** `Entrepreneurship is growing in India.`
 - **(D)** `There is not enough skilled workers, while the demand for them is high.`
 
+**Correct Answer:** **(D)** `There is not enough skilled workers, while the demand for them is high.`
+
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
 The reason for this is there is not enough skilled workers, while the demand for them is high.
@@ -577,6 +593,8 @@ If a person suddenly encounters any terrible danger, the change of nature one un
 - **(C)** `The Change of Nature`
 - **(D)** `Courage and Panic`
 
+**Correct Answer:** **(B)** `The Miracle of Confronting Danger`
+
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
 The best title for given passage is - The Miracle of Confronting Danger.
@@ -601,6 +619,8 @@ If a person suddenly encounters any terrible danger, the change of nature one un
 - **(B)** `He may be paralyzed with fear, seized with panic or act like an inferior animal.`
 - **(C)** `He may be paralyzed with fear, or seized with panic, or as if by miracle, become possessed of the necessary courage, and face the danger.`
 - **(D)** `He may be paralyzed with fear, run away or fight.`
+
+**Correct Answer:** **(C)** `He may be paralyzed with fear, or seized with panic, or as if by miracle, become possessed of the necessary courage, and face the danger.`
 
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text

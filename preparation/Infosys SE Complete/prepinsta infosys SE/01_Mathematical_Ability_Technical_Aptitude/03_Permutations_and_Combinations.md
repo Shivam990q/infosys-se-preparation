@@ -46,6 +46,9 @@ So that in how many number of ways can make M always before N?
 - **(C)** `24`
 - **(D)** `720`
 
+
+**Correct Answer:** **(A)** `60`
+
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
 Say M came first. The remaining 4 positions can be filled in 4! = 24 ways.
@@ -76,6 +79,9 @@ Total ways are 24 + 18 + 12 + 6 = 60.
 - **(D)** `25`
 - **(E)** `168000`
 
+
+**Correct Answer:** **(E)** `168000`
+
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
 10C1*5C1*8C1*2C1*21C2=168000
@@ -99,6 +105,9 @@ IN EVERY FIELD ONE MEMBER IS SELECTED AND IN REMAINING 21 WE SELECT 2 MEMBER.
 - **(B)** `31`
 - **(C)** `14`
 - **(D)** `22`
+
+
+**Correct Answer:** **(A)** `19`
 
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
@@ -132,6 +141,9 @@ In how many different ways can 5 girls and 5 boys form a circle such that the bo
 - **(C)** `1200`
 - **(D)** `32`
 
+
+**Correct Answer:** **(A)** `2880`
+
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
 five girls can be seated in circle in (5-1)! ways=4!=24
@@ -157,6 +169,9 @@ total ways =120*24=2880
 - **(B)** `12_{C_{7}}`
 - **(C)** `12_{C_{6}}\times3_{C_{1}}`
 - **(D)** `None`
+
+
+**Correct Answer:** **(A)** `12_{C_{6}}\times3_{C_{1}}+12_{C_{7}}`
 
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
@@ -193,6 +208,9 @@ In how ways were team of four can be formed from four boys and three girls such 
 - **(C)** `20`
 - **(D)** `34`
 
+
+**Correct Answer:** **(D)** `34`
+
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
 34 ways
@@ -219,6 +237,9 @@ In how many ways can 4 men and 3 women can arrange with a condition that each me
 - **(C)** `c) 120`
 - **(D)** `d) none of these`
 - **(E)** `Answer either None of these or 210(a)`
+
+
+**Correct Answer:** **(D)** `d) none of these`
 
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
@@ -289,6 +310,9 @@ we need to carve out 125 identical cubes from a cube . what is the minimum numbe
 - **(C)** `5`
 - **(D)** `12`
 
+
+**Correct Answer:** **(B)** `25`
+
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
 as Cube has 3 dimensions i.e L,B,H
@@ -324,6 +348,9 @@ Find the number of different meals of 4 items that you can get from the given me
 - **(C)** `c) 5040`
 - **(D)** `d) 15`
 
+
+**Correct Answer:** **(D)** `d) 15`
+
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
 total item : 6
@@ -353,6 +380,9 @@ If a die has 1 6 and 3 4 and 2 5 opposite each other how many such dies can be m
 - **(B)** `24`
 - **(C)** `18`
 - **(D)** `36`
+
+
+**Correct Answer:** **(A)** `12`
 
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text

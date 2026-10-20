@@ -44,6 +44,8 @@ If in a code language, COULD is written as BNTKC and MARGIN is written as LZQFHM
 - **(D)** `NITKHCMF`
 - **(E)** `None of these`
 
+**Correct Answer:** **(C)** `LNTKCHMF`
+
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
 C   O   U   L   D
@@ -83,6 +85,8 @@ In a certain code, COMPUTER is written as RFUVQNPC. How is MEDICINE written in t
 - **(D)** `MFEDJJOE`
 - **(E)** `None of these`
 
+**Correct Answer:** **(A)** `EOJDJEFM`
+
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
 COMPUTER - &gt; Reverse ( RETUPMOC )
@@ -118,6 +122,8 @@ If in a certain code, TWENTY is written as 863985 and ELEVEN is written as 32303
 - **(C)** `863903`
 - **(D)** `863063`
 
+**Correct Answer:** **(A)** `863203`
+
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
 T W E N T Y      &amp;      E  L  E  V  E  N
@@ -140,6 +146,8 @@ If in a certain language if ENTRY is coded as 12345 and STEADY is coded as 93178
 - **(B)** `21732199`
 - **(C)** `21362199`
 - **(D)** `21823698`
+
+**Correct Answer:** **(B)** `21732199`
 
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
@@ -173,6 +181,8 @@ In a certain code, a number 13479 is written as AQFJL and 5268 is written as DMP
 - **(C)** `QLPMNF`
 - **(D)** `QLPNDF`
 - **(E)** `None of these`
+
+**Correct Answer:** **(B)** `QLPNMF`
 
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
@@ -210,6 +220,8 @@ In a certain code, 15789 is written as AXBTC, 2346 is written as MPDU. How is 23
 - **(D)** `MPXDC`
 - **(E)** `None of these`
 
+**Correct Answer:** **(D)** `MPXDC`
+
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
 1  5  7 8  9
@@ -246,6 +258,8 @@ Similarly,
 - **(C)** `169`
 - **(D)** `None`
 
+**Correct Answer:** **(C)** `169`
+
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
 13^2= 169 because follow sequence of square of the prime numbers
@@ -262,6 +276,8 @@ Similarly,
 - **(B)** `155`
 - **(C)** `121`
 - **(D)** `1255`
+
+**Correct Answer:** **(C)** `121`
 
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
@@ -297,6 +313,8 @@ What is the next number in the series? 2,4,7,10,15,18,....
 - **(B)** `25`
 - **(C)** `26`
 - **(D)** `27`
+
+**Correct Answer:** **(A)** `23`
 
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
@@ -342,6 +360,8 @@ if HAT = 58, then KEEP = ?
 - **(B)** `64`
 - **(C)** `74`
 - **(D)** `78`
+
+**Correct Answer:** **(C)** `74`
 
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text

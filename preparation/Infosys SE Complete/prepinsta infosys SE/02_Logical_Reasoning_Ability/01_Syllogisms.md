@@ -72,6 +72,8 @@ Directions: In the following question two statements are given and these stateme
 - **(D)** `Either (1) or (2) follows`
 - **(E)** `Neither (1) nor (2) follows`
 
+**Correct Answer:** **(C)** `Both (1) and (2) follow`
+
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
 Tick &amp; cross Method :
@@ -131,6 +133,8 @@ All birds are animals.
 - **(D)** `only d`
 - **(E)** `None is true`
 
+**Correct Answer:** **(C)** `only b`
+
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
 From the given conditions we draw the following least possible venn diagram:
@@ -177,6 +181,8 @@ Directions: Based on the statement in the question, mark the most logical pair o
 - **(D)** `d, c`
 - **(E)** `None of these`
 
+**Correct Answer:** **(A)** `a, c and b,d`
+
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
 If one gets lucky. One will win the prize. ⇒ All lucky win the prize.
@@ -220,6 +226,8 @@ B.  One did not make merry.
 - **(C)** `a, b`
 - **(D)** `a, c`
 - **(E)** `None of these`
+
+**Correct Answer:** **(B)** `a,b and c, d`
 
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
@@ -272,6 +280,8 @@ Directions: In the question given below, statements 1 and 2 are followed by conc
 - **(C)** `Both I and II follow.`
 - **(D)** `Neither I nor II follows.`
 - **(E)** `Either I or II follows.`
+
+**Correct Answer:** **(C)** `Both I and II follow.`
 
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
@@ -331,6 +341,8 @@ II. All pearls are shells.
 - **(C)** `Both I and II follow.`
 - **(D)** `Neither I nor II follows.`
 - **(E)** `Either I or II follows`
+
+**Correct Answer:** **(A)** `Only conclusion I follows.`
 
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
@@ -401,6 +413,8 @@ II. Some leaves are not buds.
 - **(D)** `Only conclusion II follows.`
 - **(E)** `Either I or II follows.`
 
+**Correct Answer:** **(D)** `Only conclusion II follows.`
+
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
 Note: Here, a conclusion is definite if it can be shown in a diagram drawn with least-possibilities. If a conclusion can’t be shown in the least-possibilities diagram then the conclusion is possible but not definite.
@@ -457,6 +471,8 @@ II. All hands are wheels.
 - **(C)** `Both I and II follow.`
 - **(D)** `Neither I nor II follows.`
 - **(E)** `Either I or II follows.`
+
+**Correct Answer:** **(B)** `Only conclusion II follows.`
 
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
@@ -545,6 +561,8 @@ d) Some of the HMT watches of high standard are sold in that shop.
 - **(D)** `Both (a) and (c) are true`
 - **(E)** `Both (b) and (d) are true`
 
+**Correct Answer:** **(E)** `Both (b) and (d) are true`
+
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
 From the given statements we draw the following least possible Venn diagram:
@@ -585,6 +603,8 @@ Which of the following conclusions given in the options are drawn from the above
 - **(C)** `Some vertebrates are mammals.`
 - **(D)** `All are correct`
 - **(E)** `None of these`
+
+**Correct Answer:** **(C)** `Some vertebrates are mammals.`
 
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text

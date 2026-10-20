@@ -229,6 +229,8 @@ Contains **10** verbatim questions with options, verified answer keys, and compl
 - **(C)** `32451`
 - **(D)** `13524`
 
+**Correct Answer:** **(B)** `13425`
+
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
 The above 1 statements are describing Volkswagen shares trade at a discount to peers due to bad reputation among investors, Statement 1 is the opening statement, as it gives us intro about  A disastrous capital hike, Statement 3 will be the second statement as it is showing the main problem with Volkswagen is the past. Statement 4,2 and Statement 5 will be followed respectively, as they are describing that Volkswagen shares trade at about nine times the 2002 estimated earnings, compared to BMW's 19 and are the second cheapest in the sector.
@@ -257,6 +259,8 @@ The above 1 statements are describing Volkswagen shares trade at a discount to p
 - **(B)** `4132`
 - **(C)** `4213`
 - **(D)** `4312`
+
+**Correct Answer:** **(B)** `4132`
 
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
@@ -295,6 +299,8 @@ The above 4 statements are describing the effect of an increase in cargo shippin
 - **(C)** `14253`
 - **(D)** `14235`
 
+**Correct Answer:** **(C)** `14253`
+
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
 The above 1 statements are describing the independence, every political party in India, Statement 1 is the opening statement, as it gives us intro about every political party has played communal card whenever election time draws near, Statement 4 will be the second statement as it is showing each party carefully selects political candidates on the basis of religion or caste Statement 2,5 and Statement 3 will be followed respectively.
@@ -323,6 +329,8 @@ D) Officials in America have indirectly accused Najib Razak (pictured), the prim
 - **(B)** `CABD`
 - **(C)** `BDCA`
 - **(D)** `BADC`
+
+**Correct Answer:** **(B)** `CABD`
 
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
@@ -370,6 +378,8 @@ E. The breadth of that information is great, extending over the major domains of
 - **(C)** `ACBED`
 - **(D)** `DBCAE`
 
+**Correct Answer:** **(A)** `AECBD`
+
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
 An E C is the key. The passage must begin with A which tells what is it to be ‘culturally literate.’ B, C, D or E cannot begin the passage with their ‘Nor,’ ‘It is,’ ‘cultural literacy constitutes’ and ‘The breadth of that information’ respectively. E should obviously follow A with ‘The breadth of information’ etc. C should follow E talking of ‘culture narrowly understood,’ B should follow C telling ‘culture is not confined,’ ‘to one social class,’ D should follow B and conclude the passage with ‘cultural literacy constitutes’ etc. Options (b) and (d): Passage wrongly begins with D in both the options whereas D should follow B and conclude the passage telling what ‘constitutes’ ‘cultural literacy’ etc. Option (c): Passage correctly begins with A but C wrongly follows A whereas C should follow E telling that ‘culture’ is ‘narrowly understood.’ Except (a) other options are wrong.
@@ -402,6 +412,8 @@ D. The hump is alive with worker termites and soldier termites going about their
 - **(B)** `DBAC`
 - **(C)** `ADCB`
 - **(D)** `BDCA`
+
+**Correct Answer:** **(B)** `DBAC`
 
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
@@ -440,6 +452,8 @@ D. This, of course, has been subject to severe criticism and is virtually everyw
 - **(C)** `BACD`
 - **(D)** `DACB`
 
+**Correct Answer:** **(A)** `DBAC`
+
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
 The above D statements are describing the subject to severe criticism and are virtually everywhere a fiction, Statement D is the opening statement, as it gives us intro about criticism, Statement B will be the second statement as it is showing the people living in particular states, Statement A and Statement C will be followed respectively, as they are describing that members of national collectives who live in other countries, making a mockery of the concept.
@@ -472,6 +486,8 @@ E. Intelligence can be measured by tests.
 - **(B)** `DECAB`
 - **(C)** `EDACB`
 - **(D)** `CBADE`
+
+**Correct Answer:** **(C)** `EDACB`
 
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
@@ -522,6 +538,8 @@ E. Male children were examined at birth by the city council and those deemed too
 - **(C)** `BCDAE`
 - **(D)** `ECDAB`
 
+**Correct Answer:** **(A)** `BECDA`
+
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
 In above B statements are describing the life for military expertise, Statement B is the opening statement, as it gives us intro about the bellicose Spartans sacrificed, Statement E will be the second statement as it is showing the male children were examined at birth by the city council Statement C, D and Statement A will be followed respectively and complete the sense of the paragraph.
@@ -558,6 +576,8 @@ E. As she was falling asleep she would recite a math problem or a paper topic to
 - **(B)** `DACEB`
 - **(C)** `ADBCE`
 - **(D)** `AECBD`
+
+**Correct Answer:** **(C)** `ADBCE`
 
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text

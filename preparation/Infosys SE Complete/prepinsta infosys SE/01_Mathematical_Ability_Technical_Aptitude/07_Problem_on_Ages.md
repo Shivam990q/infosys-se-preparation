@@ -43,6 +43,9 @@ Father is four times the age of his daughter. If after 5 years, he would be thre
 - **(C)** `2.5 times`
 - **(D)** `3 times`
 
+
+**Correct Answer:** **(C)** `2.5 times`
+
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
 Let the daughter  age be x and father  age be 4x.
@@ -71,6 +74,9 @@ Rahul is 15 years elder than Rohan. If 5 years ago, Rahul was 3 times as old as 
 - **(B)** `27.5 years`
 - **(C)** `25 years`
 - **(D)** `24.9 years`
+
+
+**Correct Answer:** **(B)** `27.5 years`
 
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
@@ -119,6 +125,9 @@ Ten years ago, the age of mother was three times the age of her son. After ten y
 - **(C)** `7 : 4`
 - **(D)** `7 : 3`
 
+
+**Correct Answer:** **(D)** `7 : 3`
+
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
 10 years ago, age of mother was three times the age of her son. Say, the age of son was x and mother\'s age was 3x.
@@ -153,6 +162,9 @@ One year ago, ratio of Harry and Peter age’s was 5 : 6 respectively. After 4 y
 - **(B)** `26 years`
 - **(C)** `31 years`
 - **(D)** `35 years`
+
+
+**Correct Answer:** **(B)** `26 years`
 
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
@@ -211,6 +223,9 @@ Sharad is 60 years old and Santosh is 80 years old. How many years ago was the r
 - **(C)** `20 years`
 - **(D)** `25 years`
 
+
+**Correct Answer:** **(C)** `20 years`
+
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
 Let us assume x years ago
@@ -251,6 +266,9 @@ Therefore, 20 years ago, the ratio of their ages was 4 : 6
 - **(B)** `13.5 years`
 - **(C)** `15 years`
 - **(D)** `20 years`
+
+
+**Correct Answer:** **(C)** `15 years`
 
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
@@ -297,6 +315,9 @@ Father is 3 times more aged than his daughter. If after 5 years, he would be 3 t
 - **(C)** `2.5 times`
 - **(D)** `3 times`
 
+
+**Correct Answer:** **(C)** `2.5 times`
+
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
 Let daughter’s age be x and father’s age be 3x.
@@ -341,6 +362,9 @@ The sum of ages of      5      children born at the intervals of      3      yea
 - **(C)** `4 years`
 - **(D)** `3 years`
 
+
+**Correct Answer:** **(C)** `4 years`
+
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
 Let the age of the youngest child =x
@@ -367,6 +391,9 @@ The average age of a class of      22      students is      21      years. The a
 - **(C)** `43`
 - **(D)** `44`
 
+
+**Correct Answer:** **(D)** `44`
+
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
 Total age of all students =22×21
@@ -392,6 +419,9 @@ A father said to his son, I was as old as you are at the present at the time of 
 - **(B)** `14 years`
 - **(C)** `18 years`
 - **(D)** `22 years`
+
+
+**Correct Answer:** **(B)** `14 years`
 
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text

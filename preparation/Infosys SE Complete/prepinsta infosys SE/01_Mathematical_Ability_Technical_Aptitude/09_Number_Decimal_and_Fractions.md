@@ -41,6 +41,8 @@ A tailor has 37.5 metres of cloth and he has to make 8 pieces out of a metre of 
 - **(C)** `400`
 - **(D)** `450`
 
+**Correct Answer:** **(A)** `300`
+
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
 Length of each piece = (1/8) m = 0.125 m
@@ -64,6 +66,8 @@ then the value of 5*A + 3*B + 6*C + D + 3*E is :
 - **(B)** `53.603`
 - **(C)** `153.6003`
 - **(D)** `213.003`
+
+**Correct Answer:** **(C)** `153.6003`
 
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
@@ -100,6 +104,8 @@ Therefore:- A = 10, B = 1, C = 0.1, D = 100, E = 0.0001.
 - **(C)** `47.943`
 - **(D)** `47.95`
 
+**Correct Answer:** **(D)** `47.95`
+
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
 Explanation:
@@ -129,6 +135,8 @@ Then x = (3889 + 12.952) - 3854.002
 - **(C)** `33.38208`
 - **(D)** `35.152284`
 
+**Correct Answer:** **(C)** `33.38208`
+
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
 Given expression is, 83.04 x 2.01 x 2.1
@@ -157,6 +165,8 @@ By how much does 7/(8/9) exceeds (7/8)/9?
 - **(B)** `7 (7/9)`
 - **(C)** `3 (1/9)`
 - **(D)** `9 (1/7)`
+
+**Correct Answer:** **(B)** `7 (7/9)`
 
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
@@ -189,6 +199,8 @@ The sum of the numerator and denominator of a fraction is 13. If we add 3 and 9 
 - **(B)** `8/5`
 - **(C)** `6/7`
 - **(D)** `7/6`
+
+**Correct Answer:** **(D)** `7/6`
 
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
@@ -250,6 +262,8 @@ What smallest fraction should be added to
 - **(C)** `7/12`
 - **(D)** `5/12`
 
+**Correct Answer:** **(D)** `5/12`
+
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
 3\frac{2}{3} + 6\frac{7}{12} + 4\frac{9}{36} + 5 + 7\frac{1}{12}
@@ -275,6 +289,8 @@ In the CAPF Personality Interview a question was asked from a group of appearing
 - **(B)** `35,35`
 - **(C)** `39,31`
 - **(D)** `None of the above`
+
+**Correct Answer:** **(A)** `33,37`
 
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
@@ -320,6 +336,8 @@ One day in Rahul’s class their mathematics teacher challenged the whole class 
 - **(C)** `44`
 - **(D)** `45`
 
+**Correct Answer:** **(D)** `45`
+
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
 The sum five consecutive integers can be written as n + (n + 1) + (n + 2)+(n+3)+(n+4) = 5n + 10
@@ -348,6 +366,8 @@ If the sum and difference of two numbers are 15 and 3 respectively. Then the dif
 - **(B)** `216`
 - **(C)** `176`
 - **(D)** `188`
+
+**Correct Answer:** **(B)** `216`
 
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text

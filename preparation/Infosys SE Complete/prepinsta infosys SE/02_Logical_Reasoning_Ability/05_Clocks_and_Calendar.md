@@ -45,6 +45,8 @@ In a particular year, the month of january had exactly 4 thursdays, and 4 sunday
 - **(C)** `Wednesday`
 - **(D)** `Thursday`
 
+**Correct Answer:** **(A)** `Monday`
+
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
 If a month has 31 days, and it starts with sunday, Then Sundays,
@@ -71,6 +73,8 @@ What is the angle between two hands when time is 5:30?
 - **(C)** `160 Degrees`
 - **(D)** `15 Degrees`
 
+**Correct Answer:** **(D)** `15 Degrees`
+
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
 &nbsp;
@@ -93,6 +97,8 @@ The famous church in the city of Kumbakonam has a big clock tower and is said to
 - **(B)** `1.40 am.`
 - **(C)** `12.10 am.`
 - **(D)** `12.10 pm.`
+
+**Correct Answer:** **(A)** `1.06 am.`
 
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
@@ -122,6 +128,8 @@ How many times do the hands of a clock coincide in 5 hours?
 - **(B)** `4`
 - **(C)** `6`
 - **(D)** `3`
+
+**Correct Answer:** **(B)** `4`
 
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
@@ -161,6 +169,8 @@ What is the chance that a leap year selected at random contains 53 Fridays?
 - **(C)** `2/7`
 - **(D)** `2/13`
 
+**Correct Answer:** **(C)** `2/7`
+
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
 ans- 2/7
@@ -193,6 +203,8 @@ Between 9 a.m and 9 p.m of a particular day for how many times are the minute an
 - **(C)** `13`
 - **(D)** `9`
 
+**Correct Answer:** **(A)** `11`
+
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
 &nbsp;
@@ -212,6 +224,8 @@ How many palindromes are there in a clock from noon to midnight ( For Example 5.
 - **(B)** `51`
 - **(C)** `57`
 - **(D)** `58`
+
+**Correct Answer:** **(C)** `57`
 
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
@@ -248,6 +262,8 @@ One quarter of the time till now from midnight and half of the time remaining fr
 - **(C)** `9:36`
 - **(D)** `9:16`
 
+**Correct Answer:** **(C)** `9:36`
+
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
 x is present time
@@ -270,6 +286,8 @@ A clock loses 1% time during first week and then gains 2% time during the next o
 - **(B)** `1 : 40 : 48 P.M.`
 - **(C)** `1 : 40 : 38 P.M.`
 - **(D)** `1 : 30 : 48 A.M.`
+
+**Correct Answer:** **(B)** `1 : 40 : 48 P.M.`
 
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
@@ -302,6 +320,8 @@ In a clock the long hand is of 8cm and the short hand is of 7cm. if the clock ru
 - **(B)** `1380 pie`
 - **(C)** `84 pie`
 - **(D)** `1648 pie`
+
+**Correct Answer:** **(D)** `1648 pie`
 
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text

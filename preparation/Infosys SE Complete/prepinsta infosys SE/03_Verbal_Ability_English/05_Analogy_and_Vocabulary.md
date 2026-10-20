@@ -47,6 +47,8 @@ Fear : Panic :: Provocation : ?
 - **(C)** `Angry`
 - **(D)** `Tension`
 
+**Correct Answer:** **(C)** `Angry`
+
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
 As angry action is arise from provocation, logic here is first arises from second.
@@ -63,6 +65,8 @@ Ornithologist : Bird :: Archealogist : ?
 - **(B)** `Mediators`
 - **(C)** `Archeology`
 - **(D)** `Aquatic`
+
+**Correct Answer:** **(C)** `Archeology`
 
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
@@ -81,6 +85,8 @@ BDF : GIK : : PRT :
 - **(C)** `UWY`
 - **(D)** `UWX`
 
+**Correct Answer:** **(C)** `UWY`
+
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
 BDF forms a sequence of alternate letters and after continuing F and G the GIK and PRT follow a sequence of alternate letters and the answer is UWY.
@@ -97,6 +103,8 @@ BDF : HIL : : MOQ : ……….
 - **(B)** `TVX`
 - **(C)** `VTX`
 - **(D)** `TUX`
+
+**Correct Answer:** **(D)** `TUX`
 
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
@@ -115,6 +123,8 @@ LOGIC : BHFNK : : CLERK : ………….
 - **(C)** `LPRTU`
 - **(D)** `JQDKB`
 
+**Correct Answer:** **(D)** `JQDKB`
+
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
 The order of the letters of the first group is reversed and each letter is moved one step backward to obtain the correspondin letters of the second group.
@@ -131,6 +141,8 @@ Good : Bad : : Roof : ?
 - **(B)** `Floor`
 - **(C)** `Walls`
 - **(D)** `Pillars`
+
+**Correct Answer:** **(B)** `Floor`
 
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
@@ -149,6 +161,8 @@ Quartz : Clocks :: Gypsum : ?
 - **(C)** `Cement`
 - **(D)** `Powder`
 
+**Correct Answer:** **(C)** `Cement`
+
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
 The first is used to make the second.
@@ -166,6 +180,8 @@ Lively : Dull :: _____ : _______
 - **(C)** `Factory : Labour`
 - **(D)** `Happy : Gay`
 
+**Correct Answer:** **(A)** `Employed : Jobless`
+
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
 The First word is the opposite of the second word.
@@ -182,6 +198,8 @@ MO : 13 11 :: HJ : ?
 - **(B)** `18 16`
 - **(C)** `8 10`
 - **(D)** `16 18`
+
+**Correct Answer:** **(B)** `18 16`
 
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
@@ -214,6 +232,8 @@ ZRYQ : KCJB :: PWOV : ?
 - **(B)** `ISJT`
 - **(C)** `ELDK`
 - **(D)** `EOFP`
+
+**Correct Answer:** **(C)** `ELDK`
 
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text

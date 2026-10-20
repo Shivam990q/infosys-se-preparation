@@ -45,6 +45,8 @@ A motorboat, whose speed in 15 km/hr in still water goes 30 km downstream and co
 - **(C)** `4 km/hr`
 - **(D)** `5 km/hr`
 
+**Correct Answer:** **(D)** `5 km/hr`
+
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
 Let the speed of stream be x km/hr,
@@ -80,6 +82,8 @@ If Rahul rows 15 km upstream in 3 hours and 21 km downstream in 3 hours, then th
 - **(C)** `2 km/hr`
 - **(D)** `1 km/hr`
 
+**Correct Answer:** **(D)** `1 km/hr`
+
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
 Rate upstream = (15/3) kmph
@@ -102,6 +106,8 @@ A man rows 750 m in 675 seconds against the stream and returns in 7 and half min
 - **(B)** `5 kmph`
 - **(C)** `6 kmph`
 - **(D)** `7 kmph`
+
+**Correct Answer:** **(B)** `5 kmph`
 
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
@@ -134,6 +140,8 @@ A boat can travel with a speed of 16 km/hr in still water. If the rate of the st
 - **(B)** `5 hours`
 - **(C)** `6 hours`
 - **(D)** `7 hours`
+
+**Correct Answer:** **(A)** `4 hours`
 
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
@@ -170,6 +178,8 @@ One gear pulley rotates at a speed of 3 rev/sec another gear roates at 5 rev/sec
 - **(C)** `15 sec`
 - **(D)** `5 sec`
 
+**Correct Answer:** **(C)** `15 sec`
+
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
 3 rotates 3,6,9,12,15
@@ -192,6 +202,8 @@ A train leaves Meerut at 5 a.m. and reaches Delhi at 9 a.m. Another train leaves
 - **(B)** `07:25`
 - **(C)** `07:56`
 - **(D)** `none`
+
+**Correct Answer:** **(C)** `07:56`
 
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
@@ -227,6 +239,8 @@ An express A starts at 2.30 pm from nampali station and travels towards vizag st
 - **(B)** `B.700 km`
 - **(C)** `C.750 km`
 - **(D)** `D. 800 km`
+
+**Correct Answer:** **(D)** `D. 800 km`
 
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
@@ -272,6 +286,8 @@ A journey of 600 km, Due to some problem in Vehicle speed was reduced to 200 kmp
 - **(C)** `2 hour 40 mins`
 - **(D)** `45 mins`
 
+**Correct Answer:** **(A)** `1 hour`
+
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
 Here the Distance is constant. So, let the actual time is x.
@@ -300,6 +316,8 @@ Two men start from opposite banks of a river . They meet 340 meters away from on
 - **(B)** `400 m`
 - **(C)** `1 km`
 - **(D)** `850 m`
+
+**Correct Answer:** **(D)** `850 m`
 
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
@@ -429,6 +447,8 @@ When a train travels at a speed of 60kmph,it reaches the destination on time.whe
 - **(C)** `60km`
 - **(D)** `85km`
 
+**Correct Answer:** **(A)** `75km`
+
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
 Let d be the length of the journey,
@@ -472,6 +492,8 @@ A girl goes to her office for work which is 50 miles. She goes to her office few
 - **(B)** `2 hr 20 min`
 - **(C)** `2 hr 30 min`
 - **(D)** `2 hr 50 min`
+
+**Correct Answer:** **(B)** `2 hr 20 min`
 
 **PrepInsta Detailed Explanation & Mathematical Derivation:**
 ```text
