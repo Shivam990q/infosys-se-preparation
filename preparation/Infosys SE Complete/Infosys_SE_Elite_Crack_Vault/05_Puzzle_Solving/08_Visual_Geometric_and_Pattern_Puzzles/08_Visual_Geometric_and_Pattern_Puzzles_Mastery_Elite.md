@@ -1,8 +1,8 @@
 # 🏆 Infosys SE Elite Crack Vault — 08 Visual Geometric and Pattern Puzzles Mastery Elite
-> **Target Role:** Infosys Systems Engineer (SE) / Specialist Programmer (SP)  
-> **Curation Standard:** **High-Yield & Core Exam Questions ONLY** (All Redundant Variants Purged)  
-> **Total Curated Questions in Topic:** **10 Questions**  
-> **Question Breakdown:** 🔴 `3 Must-Solve` | 🟡 `6 Core SE` | 🔵 `1 Advanced SP/DSE`  
+> **Target Role:** **Infosys Systems Engineer (SE)** (3.6 – 4.0 LPA Recruitment Drive)  
+> **Curation Standard:** **100% Pure SE Role Specific** (All SP/DSE Upper-Level & Practice Variants Purged)  
+> **Total Curated Questions in Topic:** **9 Questions**  
+> **Question Breakdown:** 🔴 `3 Must-Solve` | 🟡 `6 Core SE Level`  
 > **Verification Score:** 100% Mathematically & Deductively Proven with Zero Hallucination  
 
 ---
@@ -534,81 +534,6 @@ Step-by-step verification:
 3. Circle 3: 1² + 5² = 1 + 25 = 26.
 
 Hence, the missing number is 26 (Option D).
-
----
-
-
-### Question 10: Dual-Variable Block Proportionality Pattern  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
-> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
-> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
-> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
-
-
-
-**ID:** `SEC06_PUZ_Q12` | **Topic:** Visual Number Patterns & Geometric Puzzles
-
-![Diagram](../../../images/q12_1.png)
-
-**Problem Statement:**
-Find the missing terms (A and B) in the third figure. Assume the third figure works in the same way as the other two.
-
-Block figures:
-- Block 1: Top-Left = 14, Top-Right = 11, Bottom = 22
-- Block 2: Top-Left = 12, Top-Right = 10, Bottom = 20
-- Block 3: Top-Left = 20, Top-Right = A, Bottom = B
-
-
-**Visual Geometric Diagram:**
-```
-        ┌─────┬─────┬─────┐
-        │  6  │  8  │  4  │  <-- Horizontal bar
-        └─────┼─────┼─────┘
-              │  6  │        <-- Vertical stem
-              ├─────┤
-              │  ?  │
-              └─────┘
-   T-shaped block: Vertical stem equals mean average of horizontal nodes.
-```
-
-
-**Visual Geometric Diagram:**
-```
-        ┌─────┬─────┬─────┐
-        │  6  │  8  │  4  │  <-- Horizontal bar
-        └─────┼─────┼─────┘
-              │  6  │        <-- Vertical stem
-              ├─────┤
-              │  ?  │
-              └─────┘
-   T-shaped block: Vertical stem equals mean average of horizontal nodes.
-```
-
-**Options:**
-- A. A=9, B=17
-- B. A=14, B=22
-- C. A=14, B=28
-- D. A=18, B=9
-
-**Correct Answer:** `C. A=14, B=28`
-
-**Step-by-Step Mathematical Solution:**
-Pattern Rule: In each block, the bottom number equals exactly twice the top-right number (Bottom = 2 × Top-Right). Furthermore, the difference between Top-Left and Top-Right relates proportionally across blocks.
-
-Mathematical Formulation:
-  Bottom = 2 × Top-Right
-
-Step-by-step verification:
-1. Block 1: Top-Right = 11 => Bottom = 11 × 2 = 22 [Verified]
-2. Block 2: Top-Right = 10 => Bottom = 10 × 2 = 20 [Verified]
-3. Block 3: Bottom (B) must equal 2 × Top-Right (A), meaning B = 2A.
-
-Testing the options for B = 2A:
-- Option A: A = 9, B = 17 => 17 ≠ 2 × 9 (18) [Invalid]
-- Option B: A = 14, B = 22 => 22 ≠ 2 × 14 (28) [Invalid]
-- Option C: A = 14, B = 28 => 28 = 2 × 14 [Valid!]
-- Option D: A = 18, B = 9 => 9 ≠ 2 × 18 [Invalid]
-
-Hence, the correct pair is A = 14, B = 28 (Option C).
 
 ---
 

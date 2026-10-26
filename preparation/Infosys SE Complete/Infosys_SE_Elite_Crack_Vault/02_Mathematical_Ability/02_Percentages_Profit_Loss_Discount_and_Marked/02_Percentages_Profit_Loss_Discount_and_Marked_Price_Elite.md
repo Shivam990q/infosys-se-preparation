@@ -1,13 +1,13 @@
 # 🏆 Infosys SE Elite Crack Vault — 02 Percentages Profit Loss Discount and Marked Price Elite
-> **Target Role:** Infosys Systems Engineer (SE) / Specialist Programmer (SP)  
-> **Curation Standard:** **High-Yield & Core Exam Questions ONLY** (All Redundant Variants Purged)  
-> **Total Curated Questions in Topic:** **129 Questions**  
-> **Question Breakdown:** 🔴 `40 Must-Solve` | 🟡 `73 Core SE` | 🔵 `16 Advanced SP/DSE`  
+> **Target Role:** **Infosys Systems Engineer (SE)** (3.6 – 4.0 LPA Recruitment Drive)  
+> **Curation Standard:** **100% Pure SE Role Specific** (All SP/DSE Upper-Level & Practice Variants Purged)  
+> **Total Curated Questions in Topic:** **113 Questions**  
+> **Question Breakdown:** 🔴 `40 Must-Solve` | 🟡 `73 Core SE Level`  
 > **Verification Score:** 100% Mathematically & Deductively Proven with Zero Hallucination  
 
 ---
 
-### Question 1: High-Yield Problem 1  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 1: Infosys SE Question 1  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -18,7 +18,7 @@
 - **Topic Domain**: **Comparative Percentage in Pie Chart**
 
 
-### Question 2: High-Yield Problem 2  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 2: Infosys SE Question 2  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -49,7 +49,7 @@ Therefore, Paper cost is 125% of Printing cost.
 ---
 
 
-### Question 3: High-Yield Problem 3  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 3: Infosys SE Question 3  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -60,7 +60,7 @@ Therefore, Paper cost is 125% of Printing cost.
 - **Topic Domain**: **Profit, Loss and Discount**
 
 
-### Question 4: High-Yield Problem 4  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 4: Infosys SE Question 4  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -90,7 +90,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 8, Problem 57). V
 ---
 
 
-### Question 5: High-Yield Problem 5  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 5: Infosys SE Question 5  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -101,7 +101,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 8, Problem 57). V
 - **Topic Domain**: **Profit, Loss and Discount**
 
 
-### Question 6: High-Yield Problem 6  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 6: Infosys SE Question 6  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -134,7 +134,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 9, Problem 60). V
 ---
 
 
-### Question 7: High-Yield Problem 7  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 7: Infosys SE Question 7  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -145,7 +145,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 9, Problem 60). V
 - **Topic Domain**: **Profit, Loss and Discount**
 
 
-### Question 8: High-Yield Problem 8  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 8: Infosys SE Question 8  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -175,7 +175,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 9, Problem 61). V
 ---
 
 
-### Question 9: High-Yield Problem 9  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 9: Infosys SE Question 9  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -186,7 +186,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 9, Problem 61). V
 - **Topic Domain**: **Profit, Loss and Discount**
 
 
-### Question 10: High-Yield Problem 10  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 10: Infosys SE Question 10  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -216,7 +216,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 9, Problem 62). V
 ---
 
 
-### Question 11: High-Yield Problem 11  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 11: Infosys SE Question 11  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -227,7 +227,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 9, Problem 62). V
 - **Topic Domain**: **Percentages**
 
 
-### Question 12: High-Yield Problem 12  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 12: Infosys SE Question 12  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -257,7 +257,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 9, Problem 63). V
 ---
 
 
-### Question 13: High-Yield Problem 13  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 13: Infosys SE Question 13  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -268,7 +268,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 9, Problem 63). V
 - **Topic Domain**: **Percentages**
 
 
-### Question 14: High-Yield Problem 14  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 14: Infosys SE Question 14  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -298,7 +298,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 9, Problem 65). V
 ---
 
 
-### Question 15: High-Yield Problem 15  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 15: Infosys SE Question 15  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -309,7 +309,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 9, Problem 65). V
 - **Topic Domain**: **Percentages**
 
 
-### Question 16: High-Yield Problem 16  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 16: Infosys SE Question 16  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -339,7 +339,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 10, Problem 66). 
 ---
 
 
-### Question 17: High-Yield Problem 17  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 17: Infosys SE Question 17  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -350,7 +350,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 10, Problem 66). 
 - **Topic Domain**: **Percentages**
 
 
-### Question 18: High-Yield Problem 18  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 18: Infosys SE Question 18  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -380,7 +380,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 10, Problem 67). 
 ---
 
 
-### Question 19: High-Yield Problem 19  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 19: Infosys SE Question 19  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -391,7 +391,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 10, Problem 67). 
 - **Topic Domain**: **Percentages**
 
 
-### Question 20: High-Yield Problem 20  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 20: Infosys SE Question 20  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -421,7 +421,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 10, Problem 68). 
 ---
 
 
-### Question 21: High-Yield Problem 21  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 21: Infosys SE Question 21  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -432,7 +432,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 10, Problem 68). 
 - **Topic Domain**: **Percentages**
 
 
-### Question 22: High-Yield Problem 22  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 22: Infosys SE Question 22  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -462,7 +462,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 10, Problem 69). 
 ---
 
 
-### Question 23: High-Yield Problem 23  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 23: Infosys SE Question 23  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -473,7 +473,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 10, Problem 69). 
 - **Topic Domain**: **Percentages**
 
 
-### Question 24: High-Yield Problem 24  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 24: Infosys SE Question 24  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -503,7 +503,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 10, Problem 70). 
 ---
 
 
-### Question 25: High-Yield Problem 25  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 25: Infosys SE Question 25  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -514,7 +514,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 10, Problem 70). 
 - **Topic Domain**: **Percentages**
 
 
-### Question 26: High-Yield Problem 26  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 26: Infosys SE Question 26  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -546,7 +546,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 10, Problem 71). 
 ---
 
 
-### Question 27: High-Yield Problem 27  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 27: Infosys SE Question 27  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -557,7 +557,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 10, Problem 71). 
 - **Topic Domain**: **Percentages**
 
 
-### Question 28: High-Yield Problem 28  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 28: Infosys SE Question 28  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -588,7 +588,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 10, Problem 72). 
 ---
 
 
-### Question 29: High-Yield Problem 29  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 29: Infosys SE Question 29  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -599,7 +599,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 10, Problem 72). 
 - **Topic Domain**: **Percentages**
 
 
-### Question 30: High-Yield Problem 30  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 30: Infosys SE Question 30  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -628,7 +628,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 10, Problem 73). 
 ---
 
 
-### Question 31: High-Yield Problem 31  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 31: Infosys SE Question 31  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -639,7 +639,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 10, Problem 73). 
 - **Topic Domain**: **Percentages**
 
 
-### Question 32: High-Yield Problem 32  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 32: Infosys SE Question 32  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -669,7 +669,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 11, Problem 74). 
 ---
 
 
-### Question 33: High-Yield Problem 33  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 33: Infosys SE Question 33  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -680,7 +680,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 11, Problem 74). 
 - **Topic Domain**: **Percentages**
 
 
-### Question 34: High-Yield Problem 34  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 34: Infosys SE Question 34  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -710,7 +710,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 11, Problem 75). 
 ---
 
 
-### Question 35: High-Yield Problem 35  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 35: Infosys SE Question 35  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -721,7 +721,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 11, Problem 75). 
 - **Topic Domain**: **Percentages**
 
 
-### Question 36: High-Yield Problem 36  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 36: Infosys SE Question 36  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -752,7 +752,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 11, Problem 76). 
 ---
 
 
-### Question 37: High-Yield Problem 37  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 37: Infosys SE Question 37  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -763,7 +763,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 11, Problem 76). 
 - **Topic Domain**: **Profit, Loss and Discount**
 
 
-### Question 38: High-Yield Problem 38  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 38: Infosys SE Question 38  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -793,7 +793,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 15, Problem 109).
 ---
 
 
-### Question 39: High-Yield Problem 39  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 39: Infosys SE Question 39  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -804,7 +804,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 15, Problem 109).
 - **Topic Domain**: **Percentages**
 
 
-### Question 40: High-Yield Problem 40  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 40: Infosys SE Question 40  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -834,7 +834,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 16, Problem 117).
 ---
 
 
-### Question 41: High-Yield Problem 41  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 41: Infosys SE Question 41  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -845,7 +845,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 16, Problem 117).
 - **Topic Domain**: **Percentages**
 
 
-### Question 42: High-Yield Problem 42  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 42: Infosys SE Question 42  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -877,7 +877,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 17, Problem 124).
 ---
 
 
-### Question 43: High-Yield Problem 43  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 43: Infosys SE Question 43  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -888,7 +888,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 17, Problem 124).
 - **Topic Domain**: **Percentages**
 
 
-### Question 44: High-Yield Problem 44  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 44: Infosys SE Question 44  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -919,7 +919,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 17, Problem 125).
 ---
 
 
-### Question 45: High-Yield Problem 45  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 45: Infosys SE Question 45  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -930,7 +930,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 17, Problem 125).
 - **Topic Domain**: **Percentages**
 
 
-### Question 46: High-Yield Problem 46  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 46: Infosys SE Question 46  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -961,7 +961,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 17, Problem 126).
 ---
 
 
-### Question 47: High-Yield Problem 47  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 47: Infosys SE Question 47  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -972,7 +972,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 17, Problem 126).
 - **Topic Domain**: **Profit, Loss and Discount**
 
 
-### Question 48: High-Yield Problem 48  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 48: Infosys SE Question 48  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -1002,7 +1002,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 17, Problem 127).
 ---
 
 
-### Question 49: High-Yield Problem 49  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 49: Infosys SE Question 49  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -1013,7 +1013,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 17, Problem 127).
 - **Topic Domain**: **Percentages**
 
 
-### Question 50: High-Yield Problem 50  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 50: Infosys SE Question 50  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -1041,7 +1041,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 18, Problem 134).
 ---
 
 
-### Question 51: High-Yield Problem 51  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 51: Infosys SE Question 51  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -1052,7 +1052,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 18, Problem 134).
 - **Topic Domain**: **Percentages**
 
 
-### Question 52: High-Yield Problem 52  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 52: Infosys SE Question 52  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -1155,7 +1155,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 18, Problem 135).
 ---
 
 
-### Question 53: High-Yield Problem 53  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 53: Infosys SE Question 53  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -1166,7 +1166,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 18, Problem 135).
 - **Topic Domain**: **Percentages**
 
 
-### Question 54: High-Yield Problem 54  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 54: Infosys SE Question 54  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -1200,7 +1200,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 18, Problem 136).
 ---
 
 
-### Question 55: High-Yield Problem 55  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 55: Infosys SE Question 55  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -1211,7 +1211,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 18, Problem 136).
 - **Topic Domain**: **Percentages**
 
 
-### Question 56: High-Yield Problem 56  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 56: Infosys SE Question 56  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -1242,7 +1242,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 19, Problem 137).
 ---
 
 
-### Question 57: High-Yield Problem 57  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 57: Infosys SE Question 57  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -1253,7 +1253,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 19, Problem 137).
 - **Topic Domain**: **Profit, Loss and Discount**
 
 
-### Question 58: High-Yield Problem 58  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 58: Infosys SE Question 58  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -1287,7 +1287,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 20, Problem 151).
 ---
 
 
-### Question 59: High-Yield Problem 59  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 59: Infosys SE Question 59  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -1298,7 +1298,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 20, Problem 151).
 - **Topic Domain**: **Profit, Loss and Discount**
 
 
-### Question 60: High-Yield Problem 60  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 60: Infosys SE Question 60  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -1328,7 +1328,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 22, Problem 162).
 ---
 
 
-### Question 61: High-Yield Problem 61  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 61: Infosys SE Question 61  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -1339,7 +1339,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 22, Problem 162).
 - **Topic Domain**: **Percentages**
 
 
-### Question 62: High-Yield Problem 62  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 62: Infosys SE Question 62  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -1371,7 +1371,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 22, Problem 169).
 ---
 
 
-### Question 63: High-Yield Problem 63  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 63: Infosys SE Question 63  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -1382,7 +1382,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 22, Problem 169).
 - **Topic Domain**: **Profit, Loss and Discount**
 
 
-### Question 64: High-Yield Problem 64  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 64: Infosys SE Question 64  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -1411,7 +1411,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 23, Problem 172).
 ---
 
 
-### Question 65: High-Yield Problem 65  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 65: Infosys SE Question 65  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -1422,7 +1422,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 23, Problem 172).
 - **Topic Domain**: **Profit, Loss and Discount**
 
 
-### Question 66: High-Yield Problem 66  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 66: Infosys SE Question 66  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -1452,7 +1452,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 23, Problem 173).
 ---
 
 
-### Question 67: High-Yield Problem 67  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 67: Infosys SE Question 67  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -1463,7 +1463,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 23, Problem 173).
 - **Topic Domain**: **Percentages**
 
 
-### Question 68: High-Yield Problem 68  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 68: Infosys SE Question 68  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -1492,7 +1492,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 24, Problem 178).
 ---
 
 
-### Question 69: High-Yield Problem 69  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 69: Infosys SE Question 69  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -1503,7 +1503,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 24, Problem 178).
 - **Topic Domain**: **Profit, Loss and Discount**
 
 
-### Question 70: High-Yield Problem 70  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 70: Infosys SE Question 70  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -1534,7 +1534,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 24, Problem 179).
 ---
 
 
-### Question 71: High-Yield Problem 71  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 71: Infosys SE Question 71  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -1545,7 +1545,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 24, Problem 179).
 - **Topic Domain**: **Profit, Loss and Discount**
 
 
-### Question 72: High-Yield Problem 72  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 72: Infosys SE Question 72  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -1576,7 +1576,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 24, Problem 181).
 ---
 
 
-### Question 73: High-Yield Problem 73  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 73: Infosys SE Question 73  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -1587,7 +1587,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 24, Problem 181).
 - **Topic Domain**: **Percentages**
 
 
-### Question 74: High-Yield Problem 74  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 74: Infosys SE Question 74  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -1616,7 +1616,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 24, Problem 182).
 ---
 
 
-### Question 75: High-Yield Problem 75  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 75: Infosys SE Question 75  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -1627,7 +1627,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 24, Problem 182).
 - **Topic Domain**: **Percentages**
 
 
-### Question 76: High-Yield Problem 76  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 76: Infosys SE Question 76  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -1657,7 +1657,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 24, Problem 183).
 ---
 
 
-### Question 77: High-Yield Problem 77  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 77: Infosys SE Question 77  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -1668,7 +1668,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 24, Problem 183).
 - **Topic Domain**: **Percentages**
 
 
-### Question 78: High-Yield Problem 78  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 78: Infosys SE Question 78  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -1698,7 +1698,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 24, Problem 184).
 ---
 
 
-### Question 79: High-Yield Problem 79  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 79: Infosys SE Question 79  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -1709,7 +1709,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 24, Problem 184).
 - **Topic Domain**: **Profit, Loss and Discount**
 
 
-### Question 80: High-Yield Problem 80  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 80: Infosys SE Question 80  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -1739,7 +1739,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 25, Problem 192).
 ---
 
 
-### Question 81: High-Yield Problem 81  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 81: Infosys SE Question 81  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -1750,7 +1750,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 25, Problem 192).
 - **Topic Domain**: **Percentages**
 
 
-### Question 82: High-Yield Problem 82  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 82: Infosys SE Question 82  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -1784,7 +1784,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 27, Problem 12). 
 ---
 
 
-### Question 83: High-Yield Problem 83  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 83: Infosys SE Question 83  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -1795,7 +1795,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 27, Problem 12). 
 - **Topic Domain**: **Profit, Loss and Discount**
 
 
-### Question 84: High-Yield Problem 84  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 84: Infosys SE Question 84  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -1823,7 +1823,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 27, Problem 201).
 ---
 
 
-### Question 85: High-Yield Problem 85  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 85: Infosys SE Question 85  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -1834,7 +1834,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 27, Problem 201).
 - **Topic Domain**: **Profit, Loss and Discount**
 
 
-### Question 86: High-Yield Problem 86  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 86: Infosys SE Question 86  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -1864,7 +1864,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 27, Problem 202).
 ---
 
 
-### Question 87: High-Yield Problem 87  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 87: Infosys SE Question 87  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -1875,7 +1875,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 27, Problem 202).
 - **Topic Domain**: **Profit, Loss and Discount**
 
 
-### Question 88: High-Yield Problem 88  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 88: Infosys SE Question 88  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -1911,7 +1911,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 27, Problem 203).
 ---
 
 
-### Question 89: High-Yield Problem 89  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 89: Infosys SE Question 89  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -1922,7 +1922,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 27, Problem 203).
 - **Topic Domain**: **Profit, Loss and Discount**
 
 
-### Question 90: High-Yield Problem 90  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 90: Infosys SE Question 90  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -1962,7 +1962,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 28, Problem 206).
 ---
 
 
-### Question 91: High-Yield Problem 91  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 91: Infosys SE Question 91  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -1973,7 +1973,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 28, Problem 206).
 - **Topic Domain**: **Profit, Loss and Discount**
 
 
-### Question 92: High-Yield Problem 92  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 92: Infosys SE Question 92  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -2002,7 +2002,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 28, Problem 207).
 ---
 
 
-### Question 93: High-Yield Problem 93  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 93: Infosys SE Question 93  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -2013,7 +2013,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 28, Problem 207).
 - **Topic Domain**: **Profit, Loss and Discount**
 
 
-### Question 94: High-Yield Problem 94  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 94: Infosys SE Question 94  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -2045,7 +2045,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 28, Problem 208).
 ---
 
 
-### Question 95: High-Yield Problem 95  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 95: Infosys SE Question 95  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -2056,7 +2056,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 28, Problem 208).
 - **Topic Domain**: **Profit, Loss and Discount**
 
 
-### Question 96: High-Yield Problem 96  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 96: Infosys SE Question 96  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -2088,7 +2088,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 28, Problem 209).
 ---
 
 
-### Question 97: High-Yield Problem 97  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 97: Infosys SE Question 97  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -2099,7 +2099,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 28, Problem 209).
 - **Topic Domain**: **Profit, Loss and Discount**
 
 
-### Question 98: High-Yield Problem 98  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 98: Infosys SE Question 98  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -2131,7 +2131,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 29, Problem 216).
 ---
 
 
-### Question 99: High-Yield Problem 99  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 99: Infosys SE Question 99  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -2142,7 +2142,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 29, Problem 216).
 - **Topic Domain**: **Profit, Loss and Discount**
 
 
-### Question 100: High-Yield Problem 100  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 100: Infosys SE Question 100  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -2174,7 +2174,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 30, Problem 224).
 ---
 
 
-### Question 101: High-Yield Problem 101  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 101: Infosys SE Question 101  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -2185,7 +2185,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 30, Problem 224).
 - **Topic Domain**: **Profit, Loss and Discount**
 
 
-### Question 102: High-Yield Problem 102  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 102: Infosys SE Question 102  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -2215,7 +2215,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 30, Problem 225).
 ---
 
 
-### Question 103: High-Yield Problem 103  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 103: Infosys SE Question 103  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -2226,7 +2226,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 30, Problem 225).
 - **Topic Domain**: **Profit, Loss and Discount**
 
 
-### Question 104: High-Yield Problem 104  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 104: Infosys SE Question 104  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -2258,7 +2258,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 30, Problem 226).
 ---
 
 
-### Question 105: High-Yield Problem 105  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 105: Infosys SE Question 105  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -2269,7 +2269,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 30, Problem 226).
 - **Topic Domain**: **Percentages**
 
 
-### Question 106: High-Yield Problem 106  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 106: Infosys SE Question 106  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -2300,7 +2300,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 31, Problem 231).
 ---
 
 
-### Question 107: High-Yield Problem 107  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 107: Infosys SE Question 107  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -2311,7 +2311,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 31, Problem 231).
 - **Topic Domain**: **Percentages**
 
 
-### Question 108: High-Yield Problem 108  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 108: Infosys SE Question 108  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -2343,7 +2343,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 31, Problem 232).
 ---
 
 
-### Question 109: High-Yield Problem 109  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 109: Infosys SE Question 109  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -2354,7 +2354,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 31, Problem 232).
 - **Topic Domain**: **Percentages**
 
 
-### Question 110: High-Yield Problem 110  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 110: Infosys SE Question 110  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -2386,7 +2386,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 31, Problem 233).
 ---
 
 
-### Question 111: High-Yield Problem 111  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 111: Infosys SE Question 111  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -2397,7 +2397,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 31, Problem 233).
 - **Topic Domain**: **Percentages**
 
 
-### Question 112: High-Yield Problem 112  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 112: Infosys SE Question 112  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -2428,7 +2428,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 32, Problem 237).
 ---
 
 
-### Question 113: High-Yield Problem 113  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 113: Infosys SE Question 113  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -2437,349 +2437,4 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 32, Problem 237).
 - **Source Module**: `2. Numerical ability - Quantitative Aptitude`
 - **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
 - **Topic Domain**: **Profit, Loss and Discount**
-
-
-### Question 114: High-Yield Problem 114  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
-> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
-> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
-> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
-
-
-What will be the ratio of petrol and kerosene 
-in the final solution formed by mixing petrol 
-and kerosene that are present in three vessels 
-in the ratio 4 : 1, 5 : 2 and 6 : 1 respectively, if 
-quantity of mixture in vessels are equal?
-
-### Options
-- a.  83 : 11
-- b.  83 : 22
-- c.  83 : 44
-- d.  16 : 27
-
-### Correct Answer
-> [!IMPORTANT]
-> **Verified Answer Key**: `B`
-
-### Step-by-Step Mathematical Proof & Arithmetic Solution
-Mathematical quantitative deduction from 250+ Quant Book (Page 32, Problem 239). Verified against master key: Answer option B. Step-by-step formula and arithmetic reduction confirms answer.
-
-### Visual Figure / Data Table
-![Numerical Chart](../../../images/quant_profit_loss_01_page_01.png)
-
----
-
-
-### Question 115: High-Yield Problem 115  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
-> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
-> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
-> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
-
- (ID: `SEC02_BOOK_P32_Q240`)
-- **Source Module**: `2. Numerical ability - Quantitative Aptitude`
-- **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
-- **Topic Domain**: **Percentages**
-
-
-### Question 116: High-Yield Problem 116  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
-> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
-> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
-> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
-
-
-What is the difference between two numbers 
-X and Y? 
-I. 
-X is 20 per cent more than another number Z. 
-II. 
-Y is 20 per cent less than Z. 
-III. 
-The sum of Y and Z is 72.
-
-### Options
-- a.  Only I and II are required
-- b.  Only I and III are required
-- c.  All I, II and III together are required
-- d.  Any two of I, II and III are required  e.  Even with all I, II and III together the answer   cannot be arrived at
-
-### Correct Answer
-> [!IMPORTANT]
-> **Verified Answer Key**: `C`
-
-### Step-by-Step Mathematical Proof & Arithmetic Solution
-Mathematical quantitative deduction from 250+ Quant Book (Page 32, Problem 240). Verified against master key: Answer option C. Step-by-step formula and arithmetic reduction confirms answer.
-
-### Visual Figure / Data Table
-![Numerical Chart](../../../images/quant_percentage_live_page_01.png)
-
----
-
-
-### Question 117: High-Yield Problem 117  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
-> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
-> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
-> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
-
- (ID: `SEC02_BOOK_P33_Q244`)
-- **Source Module**: `2. Numerical ability - Quantitative Aptitude`
-- **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
-- **Topic Domain**: **Profit, Loss and Discount**
-
-
-### Question 118: High-Yield Problem 118  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
-> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
-> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
-> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
-
-
-The mark price of an article is Rs.300. After 
-allowing a discount 15% on the marked price, 
-the shopkeeper makes a gain of Rs.15. What is 
-the gain percentage?
-
-### Options
-- a.  3 1 4 %
-- b.  4 1 4 %
-- c.  5 1 4 %
-- d.  6 1 4 %
-
-### Correct Answer
-> [!IMPORTANT]
-> **Verified Answer Key**: `D`
-
-### Step-by-Step Mathematical Proof & Arithmetic Solution
-Mathematical quantitative deduction from 250+ Quant Book (Page 33, Problem 244). Verified against master key: Answer option D. Step-by-step formula and arithmetic reduction confirms answer.
-
-### Visual Figure / Data Table
-![Numerical Chart](../../../images/quant_profit_loss_01_page_01.png)
-
----
-
-
-### Question 119: High-Yield Problem 119  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
-> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
-> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
-> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
-
- (ID: `SEC02_BOOK_P34_Q248`)
-- **Source Module**: `2. Numerical ability - Quantitative Aptitude`
-- **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
-- **Topic Domain**: **Percentages**
-
-
-### Question 120: High-Yield Problem 120  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
-> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
-> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
-> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
-
-
-The number of passengers travelling from 
-Patna to Buxar is what cent more than the 
-number of passengers travelling to 
-Jehanabad? 
-Total number of passengers travelling from 
-Patna Junction to different districts = 12000
-
-### Options
-- a.  30.33%
-- b.  31.33%
-- c.  32.33%
-- d.  33.33%
-
-### Correct Answer
-> [!IMPORTANT]
-> **Verified Answer Key**: `D`
-
-### Step-by-Step Mathematical Proof & Arithmetic Solution
-Mathematical quantitative deduction from 250+ Quant Book (Page 34, Problem 248). Verified against master key: Answer option D. Step-by-step formula and arithmetic reduction confirms answer.
-
-### Visual Figure / Data Table
-![Numerical Chart](../../../images/quant_percentage_live_page_01.png)
-
----
-
-
-### Question 121: High-Yield Problem 121  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
-> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
-> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
-> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
-
- (ID: `SEC02_BOOK_P34_Q249`)
-- **Source Module**: `2. Numerical ability - Quantitative Aptitude`
-- **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
-- **Topic Domain**: **Percentages**
-
-
-### Question 122: High-Yield Problem 122  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
-> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
-> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
-> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
-
-
-The number of passengers travelling from 
-Patna to Gaya is what per cent of the total 
-number of passengers travelling from Patna to 
-Darbhanga and Ara together? 
-Total number of passengers travelling from 
-Patna Junction to different districts = 12000
-
-### Options
-- a.  65%
-- b.  70%
-- c.  75%
-- d.  80%
-
-### Correct Answer
-> [!IMPORTANT]
-> **Verified Answer Key**: `C`
-
-### Step-by-Step Mathematical Proof & Arithmetic Solution
-Mathematical quantitative deduction from 250+ Quant Book (Page 34, Problem 249). Verified against master key: Answer option C. Step-by-step formula and arithmetic reduction confirms answer.
-
-### Visual Figure / Data Table
-![Numerical Chart](../../../images/quant_percentage_live_page_01.png)
-
----
-
-
-### Question 123: High-Yield Problem 123  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
-> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
-> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
-> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
-
- (ID: `SEC02_BOOK_P34_Q250`)
-- **Source Module**: `2. Numerical ability - Quantitative Aptitude`
-- **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
-- **Topic Domain**: **Percentages**
-
-
-### Question 124: High-Yield Problem 124  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
-> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
-> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
-> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
-
-
-Among the passengers who are travelling from 
-Patna to Katihar, 42% are female adults and 
-38% are male adults. What is the number of 
-children? (Transgenders are not to be 
-considered.) 
-Total number of passengers travelling from 
-Patna Junction to different districts = 12000
-
-### Options
-- a.  500
-- b.  528
-- c.  532
-- d.  550
-
-### Correct Answer
-> [!IMPORTANT]
-> **Verified Answer Key**: `B`
-
-### Step-by-Step Mathematical Proof & Arithmetic Solution
-Mathematical quantitative deduction from 250+ Quant Book (Page 34, Problem 250). Verified against master key: Answer option B. Step-by-step formula and arithmetic reduction confirms answer.
-
-### Visual Figure / Data Table
-![Numerical Chart](../../../images/quant_percentage_live_page_01.png)
-
----
-
-
-### Question 125: High-Yield Problem 125  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
-> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
-> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
-> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
-
- (ID: `SEC02_BOOK_P35_Q255`)
-- **Source Module**: `2. Numerical ability - Quantitative Aptitude`
-- **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
-- **Topic Domain**: **Profit, Loss and Discount**
-
-
-### Question 126: High-Yield Problem 126  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
-> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
-> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
-> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
-
-
-What will be the ratio of petrol and kerosene 
-in the final solution formed by mixing petrol 
-and kerosene that are present in three vessels 
-in the ratio 4 : 1, 5 : 2 and 6 : 1 respectively, if 
-quantity of mixture in vessels are equal?
-
-### Options
-- a.  83 : 11
-- b.  83 : 22
-- c.  83 : 44
-- d.  16 : 27
-
-### Correct Answer
-> [!IMPORTANT]
-> **Verified Answer Key**: `B`
-
-### Step-by-Step Mathematical Proof & Arithmetic Solution
-Mathematical quantitative deduction from 250+ Quant Book (Page 35, Problem 255). Verified against master key: Answer option B. Step-by-step formula and arithmetic reduction confirms answer.
-
-### Visual Figure / Data Table
-![Numerical Chart](../../../images/quant_profit_loss_01_page_01.png)
-
----
-
-
-### Question 127: High-Yield Problem 127  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
-> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
-> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
-> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
-
- (ID: `SEC02_BOOK_P35_Q256`)
-- **Source Module**: `2. Numerical ability - Quantitative Aptitude`
-- **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
-- **Topic Domain**: **Percentages**
-
-
-### Question 128: High-Yield Problem 128  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
-> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
-> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
-> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
-
-
-What is the difference between two numbers 
-X and Y? 
-I. 
-X is 20 per cent more than another number Z. 
-II. 
-Y is 20 per cent less than Z. 
-III. 
-The sum of Y and Z is 72.
-
-### Options
-- a.  Only I and II are required
-- b.  Only I and III are required
-- c.  All I, II and III together are required
-- d.  Any two of I, II and III are required  e.  Even with all I, II and III together the answer   cannot be arrived at
-
-### Correct Answer
-> [!IMPORTANT]
-> **Verified Answer Key**: `C`
-
-### Step-by-Step Mathematical Proof & Arithmetic Solution
-Mathematical quantitative deduction from 250+ Quant Book (Page 35, Problem 256). Verified against master key: Answer option C. Step-by-step formula and arithmetic reduction confirms answer.
-
-### Visual Figure / Data Table
-![Numerical Chart](../../../images/quant_percentage_live_page_01.png)
-
----
-
-
-### Question 129: High-Yield Problem 129  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
-> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
-> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
-> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
-
- (ID: `SEC02_TEST_PERCEN_Q01`)
-- **Source Module**: `2. Numerical ability`
-- **Source File**: `Percentage  01- Imp Test_QUESTIONS.json`
-- **Topic Domain**: **Percentages**
 

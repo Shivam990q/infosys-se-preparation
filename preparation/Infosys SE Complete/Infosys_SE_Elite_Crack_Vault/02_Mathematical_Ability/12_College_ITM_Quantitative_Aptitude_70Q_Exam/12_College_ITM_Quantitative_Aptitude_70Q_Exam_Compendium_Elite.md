@@ -1,13 +1,13 @@
 # 🏆 Infosys SE Elite Crack Vault — 12 College ITM Quantitative Aptitude 70Q Exam Compendium Elite
-> **Target Role:** Infosys Systems Engineer (SE) / Specialist Programmer (SP)  
-> **Curation Standard:** **High-Yield & Core Exam Questions ONLY** (All Redundant Variants Purged)  
-> **Total Curated Questions in Topic:** **56 Questions**  
-> **Question Breakdown:** 🔴 `17 Must-Solve` | 🟡 `32 Core SE` | 🔵 `7 Advanced SP/DSE`  
+> **Target Role:** **Infosys Systems Engineer (SE)** (3.6 – 4.0 LPA Recruitment Drive)  
+> **Curation Standard:** **100% Pure SE Role Specific** (All SP/DSE Upper-Level & Practice Variants Purged)  
+> **Total Curated Questions in Topic:** **49 Questions**  
+> **Question Breakdown:** 🔴 `17 Must-Solve` | 🟡 `32 Core SE Level`  
 > **Verification Score:** 100% Mathematically & Deductively Proven with Zero Hallucination  
 
 ---
 
-### Question 1: High-Yield Problem 1  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 1: Infosys SE Question 1  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -43,7 +43,7 @@ Total arrangements = 30 × 15 × 12 = 5,400.
 ---
 
 
-### Question 2: High-Yield Problem 2  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 2: Infosys SE Question 2  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -74,7 +74,7 @@ Total possible ways = 40 + 60 = 100 ways.
 ---
 
 
-### Question 3: High-Yield Problem 3  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 3: Infosys SE Question 3  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -116,7 +116,7 @@ Probability = 4 / 11.
 ---
 
 
-### Question 4: High-Yield Problem 4  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 4: Infosys SE Question 4  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -147,7 +147,7 @@ Probability = 60 / 220 = 3 / 11.
 ---
 
 
-### Question 5: High-Yield Problem 5  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 5: Infosys SE Question 5  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -178,7 +178,7 @@ Net profit = 107.1 - 100 = 7.1%.
 ---
 
 
-### Question 6: High-Yield Problem 6  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 6: Infosys SE Question 6  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -216,7 +216,7 @@ Therefore, the job is completed on the 17th day.
 ---
 
 
-### Question 7: High-Yield Problem 7  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 7: Infosys SE Question 7  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -249,7 +249,7 @@ Converting to km/h: 30 × (18 / 5) = 108 km/h.
 ---
 
 
-### Question 8: High-Yield Problem 8  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 8: Infosys SE Question 8  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -282,7 +282,7 @@ Winning margin = 0.10 × 15,200 = 1,520 votes.
 ---
 
 
-### Question 9: High-Yield Problem 9  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 9: Infosys SE Question 9  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -314,7 +314,7 @@ P = 310 / 0.031 = ₹10,000.
 ---
 
 
-### Question 10: High-Yield Problem 10  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 10: Infosys SE Question 10  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -350,7 +350,7 @@ x = 250 / 0.05 = ₹5,000.
 ---
 
 
-### Question 11: High-Yield Problem 11  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 11: Infosys SE Question 11  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -379,7 +379,7 @@ arrangements = 4!/(2!2!) = 6. Treating the block as one unit alongside the 6 con
 ---
 
 
-### Question 12: High-Yield Problem 12  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 12: Infosys SE Question 12  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -407,7 +407,7 @@ women. In how many ways can this be done?
 ---
 
 
-### Question 13: High-Yield Problem 13  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 13: Infosys SE Question 13  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -435,7 +435,7 @@ Probability = 3/7.
 ---
 
 
-### Question 14: High-Yield Problem 14  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 14: Infosys SE Question 14  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -462,7 +462,7 @@ P(no defective) = (14×13)/(20×19) = 91/190. P(at least one defective) = 1 − 
 ---
 
 
-### Question 15: High-Yield Problem 15  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 15: Infosys SE Question 15  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -492,7 +492,7 @@ Take CP = 100 per unit weight, so marked price = 125 (25% intended profit). Afte
 ---
 
 
-### Question 16: High-Yield Problem 16  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 16: Infosys SE Question 16  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -522,7 +522,7 @@ A alone also takes 30 days.
 ---
 
 
-### Question 17: High-Yield Problem 17  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 17: Infosys SE Question 17  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -549,7 +549,7 @@ starting point, taking a total of 9 hours. Find the speed of the stream.
 ---
 
 
-### Question 18: High-Yield Problem 18  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 18: Infosys SE Question 18  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -576,7 +576,7 @@ P × 1.10 × 0.92 = 27,324, so P × 1.012 = 27,324, giving P = 27,000.
 ---
 
 
-### Question 19: High-Yield Problem 19  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 19: Infosys SE Question 19  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -604,7 +604,7 @@ Interest for 2 years (year 5 − year 3) = 15,000 − 13,000 = 2,000, so 1 year'
 ---
 
 
-### Question 20: High-Yield Problem 20  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 20: Infosys SE Question 20  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -632,7 +632,7 @@ gives (1+r)² = 1.225, so r ≈ 10.5%.
 ---
 
 
-### Question 21: High-Yield Problem 21  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 21: Infosys SE Question 21  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -660,7 +660,7 @@ the remaining 4 books between the other two specific students, 2 each: C(4,2)=6.
 ---
 
 
-### Question 22: High-Yield Problem 22  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 22: Infosys SE Question 22  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -689,7 +689,7 @@ equal split (3,3)=700 and women>men splits=358 gives 658+700+358=1,716=C(13,6), 
 ---
 
 
-### Question 23: High-Yield Problem 23  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 23: Infosys SE Question 23  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -717,7 +717,7 @@ By Bayes' theorem, P(A|Red) = (½×0.4)/0.55 = 0.2/0.55 = 4/11.
 ---
 
 
-### Question 24: High-Yield Problem 24  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 24: Infosys SE Question 24  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -760,7 +760,7 @@ Favourable = C(5,2)×C(4,2) = 10×6 = 60. Total ways = C(12,4) = 495. Probabilit
 ---
 
 
-### Question 25: High-Yield Problem 25  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 25: Infosys SE Question 25  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -789,7 +789,7 @@ Marked-up SP for a claimed 1 kg = 48×1.25 = ₹60. True cost of the 900 g actua
 ---
 
 
-### Question 26: High-Yield Problem 26  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 26: Infosys SE Question 26  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -819,7 +819,7 @@ remaining 3/5 = (3/5)÷(3/20) = 4 hours.
 ---
 
 
-### Question 27: High-Yield Problem 27  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 27: Infosys SE Question 27  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -849,7 +849,7 @@ Speed ratio A:B = 1000:900 = 10:9 (A beats B by 100 m in 1000 m). Similarly B:C 
 ---
 
 
-### Question 28: High-Yield Problem 28  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 28: Infosys SE Question 28  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -877,7 +877,7 @@ copper (25% zinc): 8 = 0.25×(20+x), so 20+x = 32, x = 12 kg.
 ---
 
 
-### Question 29: High-Yield Problem 29  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 29: Infosys SE Question 29  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -906,7 +906,7 @@ Half-yearly compounding: 2 periods at 5% each. Amount = 8000×1.05×1.05 = 8,820
 ---
 
 
-### Question 30: High-Yield Problem 30  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 30: Infosys SE Question 30  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -932,7 +932,7 @@ In what time will ₹8,000 amount to ₹9,261 at 5% per annum, compounded annual
 ---
 
 
-### Question 31: High-Yield Problem 31  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 31: Infosys SE Question 31  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -960,7 +960,7 @@ these 6 distinct gaps: P(6,4) = 6×5×4×3 = 360. Total = 120×360 = 43,200.
 ---
 
 
-### Question 32: High-Yield Problem 32  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 32: Infosys SE Question 32  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -988,7 +988,7 @@ exactly. Vowels in odd positions: 3! = 6. Consonants in even positions: 3! = 6. 
 ---
 
 
-### Question 33: High-Yield Problem 33  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 33: Infosys SE Question 33  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -1017,7 +1017,7 @@ P(D) = 0.25×0.05 + 0.35×0.04 + 0.40×0.02 = 0.0125+0.014+0.008 = 0.0345. P(C|D
 ---
 
 
-### Question 34: High-Yield Problem 34  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 34: Infosys SE Question 34  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -1045,7 +1045,7 @@ arrangements = 8! = 40,320. Probability = 4320/40320 = 3/28.
 ---
 
 
-### Question 35: High-Yield Problem 35  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 35: Infosys SE Question 35  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -1073,7 +1073,7 @@ at 20% profit) = ₹1,500. Remaining SP needed = 2300−1500 = ₹800 for 30 kg 
 ---
 
 
-### Question 36: High-Yield Problem 36  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 36: Infosys SE Question 36  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -1103,7 +1103,7 @@ days (A+C only): 3×4/60=12/60 done — total 36/60=3/5 done, 2/5=24/60 remains.
 ---
 
 
-### Question 37: High-Yield Problem 37  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 37: Infosys SE Question 37  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -1131,7 +1131,7 @@ km/h; time = 270/150 = 1.8 hr = 1 hr 48 min. Meeting time = 8:30 AM + 1:48 = 10:
 ---
 
 
-### Question 38: High-Yield Problem 38  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 38: Infosys SE Question 38  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -1159,7 +1159,7 @@ is 80% of registered voters: registered = 24000/0.80 = 30,000.
 ---
 
 
-### Question 39: High-Yield Problem 39  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 39: Infosys SE Question 39  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -1187,7 +1187,7 @@ Year 1: 12000×1.10 = 13,200 (CI so far = 1,200). For the next half-year, SI on 
 ---
 
 
-### Question 40: High-Yield Problem 40  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 40: Infosys SE Question 40  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -1216,7 +1216,7 @@ per annum.
 ---
 
 
-### Question 41: High-Yield Problem 41  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 41: Infosys SE Question 41  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -1246,7 +1246,7 @@ more members are chosen: C(9,4)=126. Subtract the invalid case where all 4 addit
 ---
 
 
-### Question 42: High-Yield Problem 42  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 42: Infosys SE Question 42  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -1274,7 +1274,7 @@ total. The remaining 6 distinct letters fill the remaining 6 positions in 6!=720
 ---
 
 
-### Question 43: High-Yield Problem 43  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 43: Infosys SE Question 43  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -1303,7 +1303,7 @@ exceeds the first. Probability = 1/2 (confirmed via direct count: 45 favourable 
 ---
 
 
-### Question 44: High-Yield Problem 44  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 44: Infosys SE Question 44  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -1331,7 +1331,7 @@ P(all 4 different suits) = (4×4×4×4)/C(16,4) = 256/1820 = 64/455. P(at least 
 ---
 
 
-### Question 45: High-Yield Problem 45  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 45: Infosys SE Question 45  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -1360,7 +1360,7 @@ cost of ₹480, giving 120/480×100 = 25%.
 ---
 
 
-### Question 46: High-Yield Problem 46  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 46: Infosys SE Question 46  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -1388,7 +1388,7 @@ Rates in the ratio 1/15:1/20:1/30 = 4:3:2 (over LCM 60). C's share = (2/9)×9000
 ---
 
 
-### Question 47: High-Yield Problem 47  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 47: Infosys SE Question 47  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -1417,7 +1417,7 @@ LCM(75,60) = 300 s.
 ---
 
 
-### Question 48: High-Yield Problem 48  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 48: Infosys SE Question 48  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -1444,7 +1444,7 @@ Using the repeated-dilution formula: Final = 80×(1−20/80)² = 80×(3/4)² = 8
 ---
 
 
-### Question 49: High-Yield Problem 49  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 49: Infosys SE Question 49  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -1467,201 +1467,6 @@ become 8 times itself, at the same rate?
 
 **Detailed Step-by-Step Solution & Mathematical Derivation:**
 (1+r)⁵=2 (doubling). For 8×: (1+r)ⁿ=8=2³=[(1+r)⁵]³=(1+r)¹⁵, so n=15 years.
-
----
-
-
-### Question 50: High-Yield Problem 50  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
-> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
-> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
-> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
-
- (Infosys System Engineer ITM Mock Paper 5 - Q25)
-**Section:** Section 2: Technical Ability (Quantitative) | **Page:** 3  
-**Visual Reference Plate:** [paper_05_page_03.png](images/paper_05_page_03.png)
-
-**Question Text:**
-₹20,000 is borrowed at 10% per annum compound interest (annual compounding). ₹11,000 is repaid at 
-the end of year 1. What amount must be paid at the end of year 2 to clear the entire debt?
-
-**Options:**
-- **(A)** ₹12,100
-- **(B)** ₹12,000
-- **(C)** ₹11,500
-- **(D)** ₹13,200 
-
-**Correct Answer:** Option **(A)** — `₹12,100`
-
-**Detailed Step-by-Step Solution & Mathematical Derivation:**
-End of year 1: 20000×1.10=22,000; after repaying 11,000, remaining debt = 11,000. End of year 2: 
-11000×1.10 = ₹12,100. 
----
-
-
-### Question 51: High-Yield Problem 51  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
-> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
-> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
-> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
-
- (Infosys System Engineer ITM Mock Paper 6 - Q16)
-**Section:** Section 2: Technical Ability (Quantitative) | **Page:** 2  
-**Visual Reference Plate:** [paper_06_page_02.png](images/paper_06_page_02.png)
-
-**Question Text:**
-In how many ways can 8 people be seated around a circular table so that two particular people are 
-NOT seated next to each other?
-
-**Options:**
-- **(A)** 3600
-- **(B)** 5040
-- **(C)** 1440
-- **(D)** 4320
-
-**Correct Answer:** Option **(A)** — `3600`
-
-**Detailed Step-by-Step Solution & Mathematical Derivation:**
-Total circular arrangements = 7! = 5040. Arrangements with the two people adjacent = 2×6! = 1440. 
-Not adjacent = 5040−1440 = 3600.
-
----
-
-
-### Question 52: High-Yield Problem 52  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
-> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
-> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
-> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
-
- (Infosys System Engineer ITM Mock Paper 6 - Q17)
-**Section:** Section 2: Technical Ability (Quantitative) | **Page:** 2  
-**Visual Reference Plate:** [paper_06_page_02.png](images/paper_06_page_02.png)
-
-**Question Text:**
-How many 4-digit numbers (1000–9999) with all distinct digits are divisible by 5?
-
-**Options:**
-- **(A)** 952
-- **(B)** 1008
-- **(C)** 896
-- **(D)** 504
-
-**Correct Answer:** Option **(A)** — `952`
-
-**Detailed Step-by-Step Solution & Mathematical Derivation:**
-Last digit 0: 9×8×7 = 504. Last digit 5: the first digit has 8 choices (not 0 or 5), then 8 and 7 for the 
-middle: 8×8×7 = 448. Total = 504+448 = 952.
-
----
-
-
-### Question 53: High-Yield Problem 53  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
-> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
-> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
-> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
-
- (Infosys System Engineer ITM Mock Paper 6 - Q18)
-**Section:** Section 2: Technical Ability (Quantitative) | **Page:** 3  
-**Visual Reference Plate:** [paper_06_page_03.png](images/paper_06_page_03.png)
-
-**Question Text:**
-Three fair dice are rolled. Given that at least one die shows a 6, what is the probability that the sum of 
-the three dice is 12?
-
-**Options:**
-- **(A)** 15/91
-- **(B)** 25/216
-- **(C)** 1/8
-- **(D)** 10/91
-
-**Correct Answer:** Option **(A)** — `15/91`
-
-**Detailed Step-by-Step Solution & Mathematical Derivation:**
-Outcomes with at least one 6: 6³−5³ = 91. Of these, the sum is 12 in 15 outcomes (permutations of 
-{6,5,1}: 6; {6,4,2}: 6; {6,3,3}: 3). Probability = 15/91.
-
----
-
-
-### Question 54: High-Yield Problem 54  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
-> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
-> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
-> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
-
- (Infosys System Engineer ITM Mock Paper 6 - Q19)
-**Section:** Section 2: Technical Ability (Quantitative) | **Page:** 3  
-**Visual Reference Plate:** [paper_06_page_03.png](images/paper_06_page_03.png)
-
-**Question Text:**
-A disease affects 1% of a population. A test detects the disease in 95% of those who have it, but also 
-gives a false positive for 10% of those who do not. If a randomly chosen person tests positive, what is the 
-probability that they actually have the disease?
-
-**Options:**
-- **(A)** 19/217
-- **(B)** 19/100
-- **(C)** 95/1000
-- **(D)** 1/11
-
-**Correct Answer:** Option **(A)** — `19/217`
-
-**Detailed Step-by-Step Solution & Mathematical Derivation:**
-P(disease and positive) = 0.01×0.95 = 0.0095; P(no disease and positive) = 0.99×0.10 = 0.099. 
-P(disease | positive) = 0.0095/0.1085 = 19/217 (≈ 8.8%).
-
----
-
-
-### Question 55: High-Yield Problem 55  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
-> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
-> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
-> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
-
- (Infosys System Engineer ITM Mock Paper 6 - Q20)
-**Section:** Section 2: Technical Ability (Quantitative) | **Page:** 3  
-**Visual Reference Plate:** [paper_06_page_03.png](images/paper_06_page_03.png)
-
-**Question Text:**
-A merchant sells two articles at ₹1,200 each. On one he gains 25%, on the other he loses 20%. What is 
-his overall result (approximately)?
-
-**Options:**
-- **(A)** 2.4% loss
-- **(B)** 2.4% profit
-- **(C)** No gain, no loss
-- **(D)** 5% loss
-
-**Correct Answer:** Option **(A)** — `2.4% loss`
-
-**Detailed Step-by-Step Solution & Mathematical Derivation:**
-CP₁ = 1200/1.25 = 960; CP₂ = 1200/0.80 = 1500. Total CP = 2460, total SP = 2400, loss = 60. Loss % = 
-60/2460 ≈ 2.4% loss.
-
----
-
-
-### Question 56: High-Yield Problem 56  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
-> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
-> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
-> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
-
- (Infosys System Engineer ITM Mock Paper 6 - Q21)
-**Section:** Section 2: Technical Ability (Quantitative) | **Page:** 3  
-**Visual Reference Plate:** [paper_06_page_03.png](images/paper_06_page_03.png)
-
-**Question Text:**
-A is twice as efficient as B, and B is three times as efficient as C. Working together, all three complete a 
-job in 9 days. In how many days can C alone complete it?
-
-**Options:**
-- **(A)** 90 days
-- **(B)** 81 days
-- **(C)** 60 days
-- **(D)** 72 days
-
-**Correct Answer:** Option **(A)** — `90 days`
-
-**Detailed Step-by-Step Solution & Mathematical Derivation:**
-Let C = 1 unit/day, B = 3, A = 6, so together 10 units/day. In 9 days the work is 90 units, so C alone 
-needs 90/1 = 90 days.
 
 ---
 

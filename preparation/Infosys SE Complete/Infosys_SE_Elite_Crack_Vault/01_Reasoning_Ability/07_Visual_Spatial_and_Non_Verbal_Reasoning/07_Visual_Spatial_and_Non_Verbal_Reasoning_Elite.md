@@ -1,8 +1,8 @@
 # 🏆 Infosys SE Elite Crack Vault — 07 Visual Spatial and Non Verbal Reasoning Elite
-> **Target Role:** Infosys Systems Engineer (SE) / Specialist Programmer (SP)  
-> **Curation Standard:** **High-Yield & Core Exam Questions ONLY** (All Redundant Variants Purged)  
+> **Target Role:** **Infosys Systems Engineer (SE)** (3.6 – 4.0 LPA Recruitment Drive)  
+> **Curation Standard:** **100% Pure SE Role Specific** (All SP/DSE Upper-Level & Practice Variants Purged)  
 > **Total Curated Questions in Topic:** **42 Questions**  
-> **Question Breakdown:** 🔴 `10 Must-Solve` | 🟡 `32 Core SE` | 🔵 `0 Advanced SP/DSE`  
+> **Question Breakdown:** 🔴 `10 Must-Solve` | 🟡 `32 Core SE Level`  
 > **Verification Score:** 100% Mathematically & Deductively Proven with Zero Hallucination  
 
 ---

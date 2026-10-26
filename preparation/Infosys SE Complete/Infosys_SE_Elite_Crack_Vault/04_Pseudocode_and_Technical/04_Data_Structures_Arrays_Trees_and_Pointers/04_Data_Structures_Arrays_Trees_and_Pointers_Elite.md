@@ -1,13 +1,13 @@
 # 🏆 Infosys SE Elite Crack Vault — 04 Data Structures Arrays Trees and Pointers Elite
-> **Target Role:** Infosys Systems Engineer (SE) / Specialist Programmer (SP)  
-> **Curation Standard:** **High-Yield & Core Exam Questions ONLY** (All Redundant Variants Purged)  
-> **Total Curated Questions in Topic:** **91 Questions**  
-> **Question Breakdown:** 🔴 `28 Must-Solve` | 🟡 `51 Core SE` | 🔵 `12 Advanced SP/DSE`  
+> **Target Role:** **Infosys Systems Engineer (SE)** (3.6 – 4.0 LPA Recruitment Drive)  
+> **Curation Standard:** **100% Pure SE Role Specific** (All SP/DSE Upper-Level & Practice Variants Purged)  
+> **Total Curated Questions in Topic:** **79 Questions**  
+> **Question Breakdown:** 🔴 `28 Must-Solve` | 🟡 `51 Core SE Level`  
 > **Verification Score:** 100% Mathematically & Deductively Proven with Zero Hallucination  
 
 ---
 
-### Question 1: High-Yield Problem 1  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 1: Infosys SE Question 1  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -18,7 +18,7 @@
 - **Topic Domain**: **Data Structures, Trees & Pointers**
 
 
-### Question 2: High-Yield Problem 2  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 2: Infosys SE Question 2  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -49,7 +49,7 @@ In operating systems, the processes that are in the ready state, prepared for ex
 ---
 
 
-### Question 3: High-Yield Problem 3  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 3: Infosys SE Question 3  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -60,7 +60,7 @@ In operating systems, the processes that are in the ready state, prepared for ex
 - **Topic Domain**: **Recursion & Function Call Stacks**
 
 
-### Question 4: High-Yield Problem 4  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 4: Infosys SE Question 4  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -90,7 +90,7 @@ In Java, floating-point arithmetic follows IEEE 754 standards. Dividing a non-ze
 ---
 
 
-### Question 5: High-Yield Problem 5  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 5: Infosys SE Question 5  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -101,7 +101,7 @@ In Java, floating-point arithmetic follows IEEE 754 standards. Dividing a non-ze
 - **Topic Domain**: **Data Structures, Trees & Pointers**
 
 
-### Question 6: High-Yield Problem 6  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 6: Infosys SE Question 6  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -150,7 +150,7 @@ Given Traversals:
 ---
 
 
-### Question 7: High-Yield Problem 7  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 7: Infosys SE Question 7  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -161,7 +161,7 @@ Given Traversals:
 - **Topic Domain**: **Recursion & Function Call Stacks**
 
 
-### Question 8: High-Yield Problem 8  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 8: Infosys SE Question 8  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -200,7 +200,7 @@ return 0;
 ---
 
 
-### Question 9: High-Yield Problem 9  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 9: Infosys SE Question 9  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -211,7 +211,7 @@ return 0;
 - **Topic Domain**: **Recursion & Function Call Stacks**
 
 
-### Question 10: High-Yield Problem 10  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 10: Infosys SE Question 10  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -254,7 +254,7 @@ main()
 ---
 
 
-### Question 11: High-Yield Problem 11  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 11: Infosys SE Question 11  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -265,7 +265,7 @@ main()
 - **Topic Domain**: **Data Structures, Trees & Pointers**
 
 
-### Question 12: High-Yield Problem 12  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 12: Infosys SE Question 12  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -301,7 +301,7 @@ Push(2), Pop().
 ---
 
 
-### Question 13: High-Yield Problem 13  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 13: Infosys SE Question 13  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -312,7 +312,7 @@ Push(2), Pop().
 - **Topic Domain**: **Data Structures, Trees & Pointers**
 
 
-### Question 14: High-Yield Problem 14  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 14: Infosys SE Question 14  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -346,7 +346,7 @@ list should be used?
 ---
 
 
-### Question 15: High-Yield Problem 15  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 15: Infosys SE Question 15  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -357,7 +357,7 @@ list should be used?
 - **Topic Domain**: **Data Structures, Trees & Pointers**
 
 
-### Question 16: High-Yield Problem 16  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 16: Infosys SE Question 16  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -396,7 +396,7 @@ sequence 1,2,3,4,5 order?
 ---
 
 
-### Question 17: High-Yield Problem 17  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 17: Infosys SE Question 17  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -407,7 +407,7 @@ sequence 1,2,3,4,5 order?
 - **Topic Domain**: **Recursion & Function Call Stacks**
 
 
-### Question 18: High-Yield Problem 18  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 18: Infosys SE Question 18  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -450,7 +450,7 @@ end for
 ---
 
 
-### Question 19: High-Yield Problem 19  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 19: Infosys SE Question 19  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -461,7 +461,7 @@ end for
 - **Topic Domain**: **Recursion & Function Call Stacks**
 
 
-### Question 20: High-Yield Problem 20  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 20: Infosys SE Question 20  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -512,7 +512,7 @@ Z= X+Y+Z
 ---
 
 
-### Question 21: High-Yield Problem 21  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 21: Infosys SE Question 21  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -523,7 +523,7 @@ Z= X+Y+Z
 - **Topic Domain**: **Recursion & Function Call Stacks**
 
 
-### Question 22: High-Yield Problem 22  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 22: Infosys SE Question 22  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -564,7 +564,7 @@ return f(n);
 ---
 
 
-### Question 23: High-Yield Problem 23  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 23: Infosys SE Question 23  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -575,7 +575,7 @@ return f(n);
 - **Topic Domain**: **Data Structures, Trees & Pointers**
 
 
-### Question 24: High-Yield Problem 24  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 24: Infosys SE Question 24  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -609,7 +609,7 @@ vertices will occupy positions 2 and
 ---
 
 
-### Question 25: High-Yield Problem 25  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 25: Infosys SE Question 25  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -620,7 +620,7 @@ vertices will occupy positions 2 and
 - **Topic Domain**: **Data Structures, Trees & Pointers**
 
 
-### Question 26: High-Yield Problem 26  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 26: Infosys SE Question 26  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -652,7 +652,7 @@ vertices in a full binary tree?
 ---
 
 
-### Question 27: High-Yield Problem 27  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 27: Infosys SE Question 27  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -663,7 +663,7 @@ vertices in a full binary tree?
 - **Topic Domain**: **Data Structures, Trees & Pointers**
 
 
-### Question 28: High-Yield Problem 28  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 28: Infosys SE Question 28  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -697,7 +697,7 @@ sorting technique used.
 ---
 
 
-### Question 29: High-Yield Problem 29  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 29: Infosys SE Question 29  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -708,7 +708,7 @@ sorting technique used.
 - **Topic Domain**: **Data Structures, Trees & Pointers**
 
 
-### Question 30: High-Yield Problem 30  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 30: Infosys SE Question 30  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -756,7 +756,7 @@ or underflow situation occurs:
 ---
 
 
-### Question 31: High-Yield Problem 31  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 31: Infosys SE Question 31  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -767,7 +767,7 @@ or underflow situation occurs:
 - **Topic Domain**: **Recursion & Function Call Stacks**
 
 
-### Question 32: High-Yield Problem 32  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 32: Infosys SE Question 32  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -812,7 +812,7 @@ End function fun()
 ---
 
 
-### Question 33: High-Yield Problem 33  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 33: Infosys SE Question 33  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -823,7 +823,7 @@ End function fun()
 - **Topic Domain**: **Recursion & Function Call Stacks**
 
 
-### Question 34: High-Yield Problem 34  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 34: Infosys SE Question 34  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -863,7 +863,7 @@ return 0;
 ---
 
 
-### Question 35: High-Yield Problem 35  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 35: Infosys SE Question 35  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -874,7 +874,7 @@ return 0;
 - **Topic Domain**: **Data Structures, Trees & Pointers**
 
 
-### Question 36: High-Yield Problem 36  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 36: Infosys SE Question 36  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -908,7 +908,7 @@ Non empty Children?
 ---
 
 
-### Question 37: High-Yield Problem 37  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 37: Infosys SE Question 37  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -919,7 +919,7 @@ Non empty Children?
 - **Topic Domain**: **Data Structures, Trees & Pointers**
 
 
-### Question 38: High-Yield Problem 38  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 38: Infosys SE Question 38  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -957,7 +957,7 @@ Resulting array: `10, 15, 25, 40, 50, 100, 30` (Option B).
 ---
 
 
-### Question 39: High-Yield Problem 39  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 39: Infosys SE Question 39  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -968,7 +968,7 @@ Resulting array: `10, 15, 25, 40, 50, 100, 30` (Option B).
 - **Topic Domain**: **Data Structures, Trees & Pointers**
 
 
-### Question 40: High-Yield Problem 40  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 40: Infosys SE Question 40  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -1003,7 +1003,7 @@ array representation of max heap?
 ---
 
 
-### Question 41: High-Yield Problem 41  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 41: Infosys SE Question 41  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -1014,7 +1014,7 @@ array representation of max heap?
 - **Topic Domain**: **Recursion & Function Call Stacks**
 
 
-### Question 42: High-Yield Problem 42  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 42: Infosys SE Question 42  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -1054,7 +1054,7 @@ end-function
 ---
 
 
-### Question 43: High-Yield Problem 43  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 43: Infosys SE Question 43  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -1065,7 +1065,7 @@ end-function
 - **Topic Domain**: **Data Structures, Trees & Pointers**
 
 
-### Question 44: High-Yield Problem 44  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 44: Infosys SE Question 44  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -1100,7 +1100,7 @@ display res
 ---
 
 
-### Question 45: High-Yield Problem 45  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 45: Infosys SE Question 45  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -1111,7 +1111,7 @@ display res
 - **Topic Domain**: **Recursion & Function Call Stacks**
 
 
-### Question 46: High-Yield Problem 46  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 46: Infosys SE Question 46  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -1151,7 +1151,7 @@ Print a+b+c
 ---
 
 
-### Question 47: High-Yield Problem 47  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 47: Infosys SE Question 47  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -1162,7 +1162,7 @@ Print a+b+c
 - **Topic Domain**: **Data Structures, Trees & Pointers**
 
 
-### Question 48: High-Yield Problem 48  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 48: Infosys SE Question 48  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -1196,7 +1196,7 @@ another?
 ---
 
 
-### Question 49: High-Yield Problem 49  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 49: Infosys SE Question 49  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -1207,7 +1207,7 @@ another?
 - **Topic Domain**: **Data Structures, Trees & Pointers**
 
 
-### Question 50: High-Yield Problem 50  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 50: Infosys SE Question 50  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -1248,7 +1248,7 @@ Traversal order: `ABDEHCFIG` (Option A).
 ---
 
 
-### Question 51: High-Yield Problem 51  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 51: Infosys SE Question 51  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -1259,7 +1259,7 @@ Traversal order: `ABDEHCFIG` (Option A).
 - **Topic Domain**: **Recursion & Function Call Stacks**
 
 
-### Question 52: High-Yield Problem 52  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 52: Infosys SE Question 52  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -1300,7 +1300,7 @@ return 0;
 ---
 
 
-### Question 53: High-Yield Problem 53  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 53: Infosys SE Question 53  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -1311,7 +1311,7 @@ return 0;
 - **Topic Domain**: **Recursion & Function Call Stacks**
 
 
-### Question 54: High-Yield Problem 54  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 54: Infosys SE Question 54  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -1352,7 +1352,7 @@ return 0;
 ---
 
 
-### Question 55: High-Yield Problem 55  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 55: Infosys SE Question 55  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -1363,7 +1363,7 @@ return 0;
 - **Topic Domain**: **Recursion & Function Call Stacks**
 
 
-### Question 56: High-Yield Problem 56  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 56: Infosys SE Question 56  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -1405,7 +1405,7 @@ return 0;
 ---
 
 
-### Question 57: High-Yield Problem 57  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 57: Infosys SE Question 57  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -1416,7 +1416,7 @@ return 0;
 - **Topic Domain**: **Data Structures, Trees & Pointers**
 
 
-### Question 58: High-Yield Problem 58  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 58: Infosys SE Question 58  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -1452,7 +1452,7 @@ Pop().
 ---
 
 
-### Question 59: High-Yield Problem 59  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 59: Infosys SE Question 59  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -1463,7 +1463,7 @@ Pop().
 - **Topic Domain**: **Data Structures, Trees & Pointers**
 
 
-### Question 60: High-Yield Problem 60  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 60: Infosys SE Question 60  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -1499,7 +1499,7 @@ following statements is correct?
 ---
 
 
-### Question 61: High-Yield Problem 61  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 61: Infosys SE Question 61  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -1510,7 +1510,7 @@ following statements is correct?
 - **Topic Domain**: **Data Structures, Trees & Pointers**
 
 
-### Question 62: High-Yield Problem 62  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 62: Infosys SE Question 62  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -1543,7 +1543,7 @@ the nodes 1 to 7 will be?2
 ---
 
 
-### Question 63: High-Yield Problem 63  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 63: Infosys SE Question 63  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -1554,7 +1554,7 @@ the nodes 1 to 7 will be?2
 - **Topic Domain**: **Data Structures, Trees & Pointers**
 
 
-### Question 64: High-Yield Problem 64  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 64: Infosys SE Question 64  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -1587,7 +1587,7 @@ search tree?
 ---
 
 
-### Question 65: High-Yield Problem 65  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 65: Infosys SE Question 65  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -1598,7 +1598,7 @@ search tree?
 - **Topic Domain**: **Recursion & Function Call Stacks**
 
 
-### Question 66: High-Yield Problem 66  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 66: Infosys SE Question 66  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -1640,7 +1640,7 @@ End function funn()
 ---
 
 
-### Question 67: High-Yield Problem 67  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 67: Infosys SE Question 67  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -1651,7 +1651,7 @@ End function funn()
 - **Topic Domain**: **Recursion & Function Call Stacks**
 
 
-### Question 68: High-Yield Problem 68  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 68: Infosys SE Question 68  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -1692,7 +1692,7 @@ return 0;
 ---
 
 
-### Question 69: High-Yield Problem 69  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 69: Infosys SE Question 69  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -1703,7 +1703,7 @@ return 0;
 - **Topic Domain**: **Recursion & Function Call Stacks**
 
 
-### Question 70: High-Yield Problem 70  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 70: Infosys SE Question 70  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -1742,7 +1742,7 @@ return 0;
 ---
 
 
-### Question 71: High-Yield Problem 71  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 71: Infosys SE Question 71  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -1753,7 +1753,7 @@ return 0;
 - **Topic Domain**: **Recursion & Function Call Stacks**
 
 
-### Question 72: High-Yield Problem 72  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 72: Infosys SE Question 72  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -1795,7 +1795,7 @@ return 0;
 ---
 
 
-### Question 73: High-Yield Problem 73  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 73: Infosys SE Question 73  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -1806,7 +1806,7 @@ return 0;
 - **Topic Domain**: **Recursion & Function Call Stacks**
 
 
-### Question 74: High-Yield Problem 74  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 74: Infosys SE Question 74  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -1857,7 +1857,7 @@ return 0;
 ---
 
 
-### Question 75: High-Yield Problem 75  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 75: Infosys SE Question 75  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -1868,7 +1868,7 @@ return 0;
 - **Topic Domain**: **Recursion & Function Call Stacks**
 
 
-### Question 76: High-Yield Problem 76  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 76: Infosys SE Question 76  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -1910,7 +1910,7 @@ return 0;
 ---
 
 
-### Question 77: High-Yield Problem 77  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 77: Infosys SE Question 77  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -1921,7 +1921,7 @@ return 0;
 - **Topic Domain**: **Recursion & Function Call Stacks**
 
 
-### Question 78: High-Yield Problem 78  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 78: Infosys SE Question 78  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -1962,7 +1962,7 @@ return 0;
 ---
 
 
-### Question 79: High-Yield Problem 79  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 79: Infosys SE Question 79  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -1971,277 +1971,4 @@ return 0;
 - **Source Module**: `Section III _ Pseudo Codes`
 - **Source File**: `1. Pseudo Codes Technical ebook.pdf`
 - **Topic Domain**: **Recursion & Function Call Stacks**
-
-
-### Question 80: High-Yield Problem 80  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
-> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
-> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
-> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
-
- / Code Snippet
-```pseudocode
-find the output of the 
-following code. 
-#include<stdio.h> 
-void main() 
-{ 
-int x; 
-printf(“%d\n, 4%3); 
-printf(“%d\n, 4%-3); 
-printf(“%d\n, -4%3); 
-printf(“%d\n, -4%-3); 
-return 0; 
-}
-```
-
-### Options
-- a. 1 1 -1 -1
-- b. 1 -1 1 -1
-- c. 1 -1 -1 1
-- d. 1 -1 -1 -1
-
-### Correct Answer
-> [!IMPORTANT]
-> **Verified Answer Key**: `Option A`
-
-### Step-by-Step Code Execution Trace & Proof
-**Execution Analysis & Formal Proof for Question 138**:
-1. Identify the base case and recurrence relation of the function.
-2. Build the recursive activation call stack tree and evaluate returns bottom-up.
-3. Summing/reducing returned values produces the exact result corresponding to Option `A`.
-
-### Visual Page Reference / Diagram
-![Ebook Page Reference](../../../images/pseudocode_ebook_page_24.png)
-
----
-
-
-### Question 81: High-Yield Problem 81  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
-> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
-> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
-> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
-
- (ID: `SEC03_MOCK_Day04_Q10`)
-- **Source Module**: `Infosys Mock Test Series`
-- **Source File**: `Day 04 - Technical MCQ - Pseudo Codes Based on PYQ With Video Sol_QUESTIONS.json`
-- **Topic Domain**: **Recursion & Function Call Stacks**
-
-
-### Question 82: High-Yield Problem 82  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
-> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
-> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
-> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
-
- / Code Snippet
-```pseudocode
-1.     What does the expression float a = 35 / 0 return?
-```
-
-### Options
-- 0
-- Not a Number
-- Infinity
-- Run time exception
-
-### Correct Answer
-> [!IMPORTANT]
-> **Verified Answer Key**: `Infinity`
-
-### Step-by-Step Code Execution Trace & Proof
-Official Video Solution from Day 04 Video Solutions Mock. Full execution trace and operator evaluation confirms Option `Infinity`.
-
-### Visual Page Reference / Diagram
-![Ebook Page Reference](../../../images/pseudocode_ebook_page_02.png)
-
----
-
-
-### Question 83: High-Yield Problem 83  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
-> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
-> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
-> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
-
- (ID: `SEC03_MOCK_Day04_Q12`)
-- **Source Module**: `Infosys Mock Test Series`
-- **Source File**: `Day 04 - Technical MCQ - Pseudo Codes Based on PYQ With Video Sol_QUESTIONS.json`
-- **Topic Domain**: **Data Structures, Arrays & Pointers**
-
-
-### Question 84: High-Yield Problem 84  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
-> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
-> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
-> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
-
- / Code Snippet
-```pseudocode
-1.    Construct post order Transversal for the constructed tree with the given In-Order and Preorder Traversals:
-In-Order: 9 7 10 6 8
-Pre-Order: 6 7 9 10 8
-```
-
-### Options
-- 9 10 7 8 6
-- 9 7 6 10 8
-- 8 9 10 7 6
-- 9 8 10 7 6
-
-### Correct Answer
-> [!IMPORTANT]
-> **Verified Answer Key**: `9 10 7 8 6`
-
-### Step-by-Step Code Execution Trace & Proof
-Official Video Solution from Day 04 Video Solutions Mock. Full execution trace and operator evaluation confirms Option `9 10 7 8 6`.
-
-### Visual Page Reference / Diagram
-![Ebook Page Reference](../../../images/pseudocode_ebook_page_02.png)
-
----
-
-
-### Question 85: High-Yield Problem 85  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
-> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
-> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
-> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
-
- (ID: `SEC03_MOCK_Day04_Q15`)
-- **Source Module**: `Infosys Mock Test Series`
-- **Source File**: `Day 04 - Technical MCQ - Pseudo Codes Based on PYQ With Video Sol_QUESTIONS.json`
-- **Topic Domain**: **Recursion & Function Call Stacks**
-
-
-### Question 86: High-Yield Problem 86  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
-> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
-> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
-> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
-
- / Code Snippet
-```pseudocode
-1.     What will be the output of this program?
-#include
-int main() {
-int i = 5;
-printf(“%d”, i = ++i == 6);
-return 0;
-}
-```
-
-### Options
-- 2
-- 6
-- 4
-- 1
-
-### Correct Answer
-> [!IMPORTANT]
-> **Verified Answer Key**: `1`
-
-### Step-by-Step Code Execution Trace & Proof
-Official Video Solution from Day 04 Video Solutions Mock. Full execution trace and operator evaluation confirms Option `1`.
-
-### Visual Page Reference / Diagram
-![Ebook Page Reference](../../../images/pseudocode_ebook_page_02.png)
-
----
-
-
-### Question 87: High-Yield Problem 87  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
-> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
-> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
-> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
-
- (ID: `SEC03_MOCK_Day04_Q17`)
-- **Source Module**: `Infosys Mock Test Series`
-- **Source File**: `Day 04 - Technical MCQ - Pseudo Codes Based on PYQ With Video Sol_QUESTIONS.json`
-- **Topic Domain**: **Recursion & Function Call Stacks**
-
-
-### Question 88: High-Yield Problem 88  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
-> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
-> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
-> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
-
- / Code Snippet
-```pseudocode
-1.     What will be the output of this program?
-#include
-enum flg{a, b, c};
-enum glf{c, e, f};
-main()
-{
-enum flg h;
-h = b;
-printf(“%d”, h);
-return 0;
-}
-```
-
-### Options
-- 1
-- error: redeclaration of an enumerator
-- h
-- 3
-
-### Correct Answer
-> [!IMPORTANT]
-> **Verified Answer Key**: `error: redeclaration of an enumerator`
-
-### Step-by-Step Code Execution Trace & Proof
-Official Video Solution from Day 04 Video Solutions Mock. Full execution trace and operator evaluation confirms Option `error: redeclaration of an enumerator`.
-
-### Visual Page Reference / Diagram
-![Ebook Page Reference](../../../images/pseudocode_ebook_page_02.png)
-
----
-
-
-### Question 89: High-Yield Problem 89  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
-> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
-> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
-> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
-
- (ID: `SEC03_MOCK_Day04_Q21`)
-- **Source Module**: `Infosys Mock Test Series`
-- **Source File**: `Day 04 - Technical MCQ - Pseudo Codes Based on PYQ With Video Sol_QUESTIONS.json`
-- **Topic Domain**: **Data Structures, Arrays & Pointers**
-
-
-### Question 90: High-Yield Problem 90  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
-> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
-> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
-> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
-
- / Code Snippet
-```pseudocode
-1.     If the sequence of operations are performed on a stack, the sequence of pop will be?
-Push(1), Push(2), Pop(), Push(1), Push(2), Pop(), Pop(), Pop(), Push(2), Pop().
-```
-
-### Options
-- 2 2 1 1 2
-- 2 2 1 2 2
-- 2 1 2 2 1
-- 2 1 2 2 2
-
-### Correct Answer
-> [!IMPORTANT]
-> **Verified Answer Key**: `2 2 1 1 2`
-
-### Step-by-Step Code Execution Trace & Proof
-Official Video Solution from Day 04 Video Solutions Mock. Full execution trace and operator evaluation confirms Option `2 2 1 1 2`.
-
-### Visual Page Reference / Diagram
-![Ebook Page Reference](../../../images/pseudocode_ebook_page_02.png)
-
----
-
-
-### Question 91: High-Yield Problem 91  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
-> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
-> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
-> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
-
- (ID: `SEC03_MOCK_Day04_Q24`)
-- **Source Module**: `Infosys Mock Test Series`
-- **Source File**: `Day 04 - Technical MCQ - Pseudo Codes Based on PYQ With Video Sol_QUESTIONS.json`
-- **Topic Domain**: **Data Structures, Arrays & Pointers**
 

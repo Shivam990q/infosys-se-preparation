@@ -1,8 +1,8 @@
 # 🏆 Infosys SE Elite Crack Vault — 09 Topmate Logical Reasoning 131Q Master Collection Elite
-> **Target Role:** Infosys Systems Engineer (SE) / Specialist Programmer (SP)  
-> **Curation Standard:** **High-Yield & Core Exam Questions ONLY** (All Redundant Variants Purged)  
+> **Target Role:** **Infosys Systems Engineer (SE)** (3.6 – 4.0 LPA Recruitment Drive)  
+> **Curation Standard:** **100% Pure SE Role Specific** (All SP/DSE Upper-Level & Practice Variants Purged)  
 > **Total Curated Questions in Topic:** **91 Questions**  
-> **Question Breakdown:** 🔴 `32 Must-Solve` | 🟡 `59 Core SE` | 🔵 `0 Advanced SP/DSE`  
+> **Question Breakdown:** 🔴 `32 Must-Solve` | 🟡 `59 Core SE Level`  
 > **Verification Score:** 100% Mathematically & Deductively Proven with Zero Hallucination  
 
 ---

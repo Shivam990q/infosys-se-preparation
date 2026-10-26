@@ -1,13 +1,13 @@
 # 🏆 Infosys SE Elite Crack Vault — 02 Spotting Errors and Sentence Correction Master Compendium Elite
-> **Target Role:** Infosys Systems Engineer (SE) / Specialist Programmer (SP)  
-> **Curation Standard:** **High-Yield & Core Exam Questions ONLY** (All Redundant Variants Purged)  
+> **Target Role:** **Infosys Systems Engineer (SE)** (3.6 – 4.0 LPA Recruitment Drive)  
+> **Curation Standard:** **100% Pure SE Role Specific** (All SP/DSE Upper-Level & Practice Variants Purged)  
 > **Total Curated Questions in Topic:** **558 Questions**  
-> **Question Breakdown:** 🔴 `260 Must-Solve` | 🟡 `298 Core SE` | 🔵 `0 Advanced SP/DSE`  
+> **Question Breakdown:** 🔴 `260 Must-Solve` | 🟡 `298 Core SE Level`  
 > **Verification Score:** 100% Mathematically & Deductively Proven with Zero Hallucination  
 
 ---
 
-### Question 1: High-Yield Problem 1  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 1: Infosys SE Question 1  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -18,7 +18,7 @@
 - **Visual Reference Plate**: `images/eng_sva_level_1_page_01.png`
 
 
-### Question 2: High-Yield Problem 2  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 2: Infosys SE Question 2  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -41,7 +41,7 @@ Rule: 'Many a' is followed by a singular countable noun ('student') and strictly
 ---
 
 
-### Question 3: High-Yield Problem 3  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 3: Infosys SE Question 3  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -52,7 +52,7 @@ Rule: 'Many a' is followed by a singular countable noun ('student') and strictly
 - **Visual Reference Plate**: `images/eng_sva_level_1_page_01.png`
 
 
-### Question 4: High-Yield Problem 4  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 4: Infosys SE Question 4  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -75,7 +75,7 @@ Rule: When 'statistics' refers to numerical data, facts, or figures collected, i
 ---
 
 
-### Question 5: High-Yield Problem 5  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 5: Infosys SE Question 5  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -86,7 +86,7 @@ Rule: When 'statistics' refers to numerical data, facts, or figures collected, i
 - **Visual Reference Plate**: `images/eng_sva_level_1_page_01.png`
 
 
-### Question 6: High-Yield Problem 6  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 6: Infosys SE Question 6  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -109,7 +109,7 @@ Rule: When two subjects are joined by parenthetical expressions like 'as well as
 ---
 
 
-### Question 7: High-Yield Problem 7  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 7: Infosys SE Question 7  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -120,7 +120,7 @@ Rule: When two subjects are joined by parenthetical expressions like 'as well as
 - **Visual Reference Plate**: `images/eng_sva_level_1_page_01.png`
 
 
-### Question 8: High-Yield Problem 8  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 8: Infosys SE Question 8  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -143,7 +143,7 @@ Rule: Collective noun phrase 'A body of volunteers' acts as a single unified col
 ---
 
 
-### Question 9: High-Yield Problem 9  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 9: Infosys SE Question 9  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -154,7 +154,7 @@ Rule: Collective noun phrase 'A body of volunteers' acts as a single unified col
 - **Visual Reference Plate**: `images/eng_sva_level_1_page_01.png`
 
 
-### Question 10: High-Yield Problem 10  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 10: Infosys SE Question 10  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -177,7 +177,7 @@ Rule: 'News' is an uncountable noun that is always treated as grammatically sing
 ---
 
 
-### Question 11: High-Yield Problem 11  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 11: Infosys SE Question 11  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -188,7 +188,7 @@ Rule: 'News' is an uncountable noun that is always treated as grammatically sing
 - **Visual Reference Plate**: `images/eng_sva_level_1_page_01.png`
 
 
-### Question 12: High-Yield Problem 12  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 12: Infosys SE Question 12  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -211,7 +211,7 @@ Rule: In 'Not only... but also' correlative constructions, the verb agrees in nu
 ---
 
 
-### Question 13: High-Yield Problem 13  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 13: Infosys SE Question 13  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -222,7 +222,7 @@ Rule: In 'Not only... but also' correlative constructions, the verb agrees in nu
 - **Visual Reference Plate**: `images/eng_sva_level_1_page_01.png`
 
 
-### Question 14: High-Yield Problem 14  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 14: Infosys SE Question 14  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -245,7 +245,7 @@ Rule: 'United Nations' is a single sovereign international organization/entity, 
 ---
 
 
-### Question 15: High-Yield Problem 15  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 15: Infosys SE Question 15  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -256,7 +256,7 @@ Rule: 'United Nations' is a single sovereign international organization/entity, 
 - **Visual Reference Plate**: `images/eng_sva_level_1_page_01.png`
 
 
-### Question 16: High-Yield Problem 16  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 16: Infosys SE Question 16  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -279,7 +279,7 @@ Rule: When two nouns are joined by 'and' but preceded by only one definite artic
 ---
 
 
-### Question 17: High-Yield Problem 17  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 17: Infosys SE Question 17  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -290,7 +290,7 @@ Rule: When two nouns are joined by 'and' but preceded by only one definite artic
 - **Visual Reference Plate**: `images/eng_sva_level_1_page_01.png`
 
 
-### Question 18: High-Yield Problem 18  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 18: Infosys SE Question 18  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -313,7 +313,7 @@ Rule: With 'Neither... nor', the verb agrees with the subject closest to it ('th
 ---
 
 
-### Question 19: High-Yield Problem 19  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 19: Infosys SE Question 19  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -324,7 +324,7 @@ Rule: With 'Neither... nor', the verb agrees with the subject closest to it ('th
 - **Visual Reference Plate**: `images/eng_sva_level_1_page_01.png`
 
 
-### Question 20: High-Yield Problem 20  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 20: Infosys SE Question 20  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -347,7 +347,7 @@ Rule: 'A number of' is an idiomatic quantifier meaning 'several/many' and takes 
 ---
 
 
-### Question 21: High-Yield Problem 21  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 21: Infosys SE Question 21  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -358,7 +358,7 @@ Rule: 'A number of' is an idiomatic quantifier meaning 'several/many' and takes 
 - **Visual Reference Plate**: `images/eng_sva_level_1_page_02.png`
 
 
-### Question 22: High-Yield Problem 22  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 22: Infosys SE Question 22  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -381,7 +381,7 @@ Rule: 'The number of' denotes a specific count/figure and always takes a singula
 ---
 
 
-### Question 23: High-Yield Problem 23  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 23: Infosys SE Question 23  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -392,7 +392,7 @@ Rule: 'The number of' denotes a specific count/figure and always takes a singula
 - **Visual Reference Plate**: `images/eng_sva_level_1_page_02.png`
 
 
-### Question 24: High-Yield Problem 24  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 24: Infosys SE Question 24  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -415,7 +415,7 @@ Rule: When two items joined by 'and' express a single compound idea or essential
 ---
 
 
-### Question 25: High-Yield Problem 25  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 25: Infosys SE Question 25  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -426,7 +426,7 @@ Rule: When two items joined by 'and' express a single compound idea or essential
 - **Visual Reference Plate**: `images/eng_sva_level_1_page_02.png`
 
 
-### Question 26: High-Yield Problem 26  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 26: Infosys SE Question 26  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -449,7 +449,7 @@ Rule: Expressions of distance, time, weight, and monetary amounts are considered
 ---
 
 
-### Question 27: High-Yield Problem 27  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 27: Infosys SE Question 27  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -460,7 +460,7 @@ Rule: Expressions of distance, time, weight, and monetary amounts are considered
 - **Visual Reference Plate**: `images/eng_sva_level_1_page_02.png`
 
 
-### Question 28: High-Yield Problem 28  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 28: Infosys SE Question 28  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -483,7 +483,7 @@ Rule: Indefinite pronoun 'Each' is grammatically singular and takes a singular v
 ---
 
 
-### Question 29: High-Yield Problem 29  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 29: Infosys SE Question 29  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -494,7 +494,7 @@ Rule: Indefinite pronoun 'Each' is grammatically singular and takes a singular v
 - **Visual Reference Plate**: `images/eng_sva_level_1_page_02.png`
 
 
-### Question 30: High-Yield Problem 30  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 30: Infosys SE Question 30  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -517,7 +517,7 @@ Rule: Names of academic subjects ending in -s (Physics, Mathematics, Economics) 
 ---
 
 
-### Question 31: High-Yield Problem 31  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 31: Infosys SE Question 31  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -528,7 +528,7 @@ Rule: Names of academic subjects ending in -s (Physics, Mathematics, Economics) 
 - **Visual Reference Plate**: `images/eng_sva_level_1_page_02.png`
 
 
-### Question 32: High-Yield Problem 32  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 32: Infosys SE Question 32  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -551,7 +551,7 @@ Rule: 'Either' of two alternatives is singular and requires a singular verb ('is
 ---
 
 
-### Question 33: High-Yield Problem 33  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 33: Infosys SE Question 33  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -562,7 +562,7 @@ Rule: 'Either' of two alternatives is singular and requires a singular verb ('is
 - **Visual Reference Plate**: `images/eng_sva_level_1_page_02.png`
 
 
-### Question 34: High-Yield Problem 34  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 34: Infosys SE Question 34  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -585,7 +585,7 @@ Rule: The true head subject of the sentence is 'The quality' (singular), not the
 ---
 
 
-### Question 35: High-Yield Problem 35  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 35: Infosys SE Question 35  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -596,7 +596,7 @@ Rule: The true head subject of the sentence is 'The quality' (singular), not the
 - **Visual Reference Plate**: `images/eng_sva_level_1_page_02.png`
 
 
-### Question 36: High-Yield Problem 36  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 36: Infosys SE Question 36  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -619,7 +619,7 @@ Rule: 'Slow and steady' represents a singular philosophical maxim / unified trai
 ---
 
 
-### Question 37: High-Yield Problem 37  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 37: Infosys SE Question 37  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -630,7 +630,7 @@ Rule: 'Slow and steady' represents a singular philosophical maxim / unified trai
 - **Visual Reference Plate**: `images/eng_sva_level_1_page_02.png`
 
 
-### Question 38: High-Yield Problem 38  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 38: Infosys SE Question 38  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -653,7 +653,7 @@ Rule: The title of a single book, movie, or literary work is singular even if th
 ---
 
 
-### Question 39: High-Yield Problem 39  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 39: Infosys SE Question 39  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -664,7 +664,7 @@ Rule: The title of a single book, movie, or literary work is singular even if th
 - **Visual Reference Plate**: `images/eng_sva_level_1_page_02.png`
 
 
-### Question 40: High-Yield Problem 40  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 40: Infosys SE Question 40  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -687,7 +687,7 @@ Rule: 'Information' is an uncountable noun. When 'None of' refers to an uncounta
 ---
 
 
-### Question 41: High-Yield Problem 41  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 41: Infosys SE Question 41  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -698,7 +698,7 @@ Rule: 'Information' is an uncountable noun. When 'None of' refers to an uncounta
 - **Visual Reference Plate**: `images/eng_sva_level_1_page_03.png`
 
 
-### Question 42: High-Yield Problem 42  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 42: Infosys SE Question 42  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -721,7 +721,7 @@ Rule: When subjects are preceded by 'Every' or 'Each', the verb is strictly sing
 ---
 
 
-### Question 43: High-Yield Problem 43  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 43: Infosys SE Question 43  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -732,7 +732,7 @@ Rule: When subjects are preceded by 'Every' or 'Each', the verb is strictly sing
 - **Visual Reference Plate**: `images/eng_sva_level_1_page_03.png`
 
 
-### Question 44: High-Yield Problem 44  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 44: Infosys SE Question 44  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -755,7 +755,7 @@ Rule: 'Neither' used as a pronoun is singular and takes a singular verb ('is').
 ---
 
 
-### Question 45: High-Yield Problem 45  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 45: Infosys SE Question 45  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -766,7 +766,7 @@ Rule: 'Neither' used as a pronoun is singular and takes a singular verb ('is').
 - **Visual Reference Plate**: `images/eng_sva_level_1_page_03.png`
 
 
-### Question 46: High-Yield Problem 46  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 46: Infosys SE Question 46  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -789,7 +789,7 @@ Rule: In 'One of + plural noun', the subject is 'One' (singular), requiring a si
 ---
 
 
-### Question 47: High-Yield Problem 47  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 47: Infosys SE Question 47  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -800,7 +800,7 @@ Rule: In 'One of + plural noun', the subject is 'One' (singular), requiring a si
 - **Visual Reference Plate**: `images/eng_sva_level_1_page_03.png`
 
 
-### Question 48: High-Yield Problem 48  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 48: Infosys SE Question 48  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -823,7 +823,7 @@ Rule: When members of a collective noun ('The committee') act individually or ho
 ---
 
 
-### Question 49: High-Yield Problem 49  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 49: Infosys SE Question 49  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -834,7 +834,7 @@ Rule: When members of a collective noun ('The committee') act individually or ho
 - **Visual Reference Plate**: `images/eng_sva_level_1_page_03.png`
 
 
-### Question 50: High-Yield Problem 50  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 50: Infosys SE Question 50  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -857,7 +857,7 @@ Rule: 'Riches' (meaning wealth/possessions) is an inherently plural noun that ta
 ---
 
 
-### Question 51: High-Yield Problem 51  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 51: Infosys SE Question 51  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -868,7 +868,7 @@ Rule: 'Riches' (meaning wealth/possessions) is an inherently plural noun that ta
 - **Visual Reference Plate**: `images/eng_sva_level_2_page_01.png`
 
 
-### Question 52: High-Yield Problem 52  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 52: Infosys SE Question 52  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -893,7 +893,7 @@ Error in Part (b): When singular subjects are preceded by distributive 'Every', 
 ---
 
 
-### Question 53: High-Yield Problem 53  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 53: Infosys SE Question 53  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -904,7 +904,7 @@ Error in Part (b): When singular subjects are preceded by distributive 'Every', 
 - **Visual Reference Plate**: `images/eng_sva_level_2_page_01.png`
 
 
-### Question 54: High-Yield Problem 54  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 54: Infosys SE Question 54  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -929,7 +929,7 @@ Error in Part (b): Intervening phrase 'along with Tisha' does not affect the num
 ---
 
 
-### Question 55: High-Yield Problem 55  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 55: Infosys SE Question 55  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -940,7 +940,7 @@ Error in Part (b): Intervening phrase 'along with Tisha' does not affect the num
 - **Visual Reference Plate**: `images/eng_sva_level_2_page_01.png`
 
 
-### Question 56: High-Yield Problem 56  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 56: Infosys SE Question 56  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -965,7 +965,7 @@ Error in Part (b): In 'subject1 and not subject2', the verb agrees with subject1
 ---
 
 
-### Question 57: High-Yield Problem 57  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 57: Infosys SE Question 57  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -976,7 +976,7 @@ Error in Part (b): In 'subject1 and not subject2', the verb agrees with subject1
 - **Visual Reference Plate**: `images/eng_sva_level_2_page_01.png`
 
 
-### Question 58: High-Yield Problem 58  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 58: Infosys SE Question 58  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -1001,7 +1001,7 @@ Error in Part (c): Corporate names and brand entities ('General Motors') are sin
 ---
 
 
-### Question 59: High-Yield Problem 59  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 59: Infosys SE Question 59  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -1012,7 +1012,7 @@ Error in Part (c): Corporate names and brand entities ('General Motors') are sin
 - **Visual Reference Plate**: `images/eng_sva_level_2_page_01.png`
 
 
-### Question 60: High-Yield Problem 60  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 60: Infosys SE Question 60  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -1037,7 +1037,7 @@ Error in Part (b): Parenthetical phrase 'together with Buster the cat' is ignore
 ---
 
 
-### Question 61: High-Yield Problem 61  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 61: Infosys SE Question 61  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -1048,7 +1048,7 @@ Error in Part (b): Parenthetical phrase 'together with Buster the cat' is ignore
 - **Visual Reference Plate**: `images/eng_sva_level_2_page_01.png`
 
 
-### Question 62: High-Yield Problem 62  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 62: Infosys SE Question 62  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -1073,7 +1073,7 @@ No error (d): An amount of money ('fourteen dollars') functioning as a total sum
 ---
 
 
-### Question 63: High-Yield Problem 63  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 63: Infosys SE Question 63  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -1084,7 +1084,7 @@ No error (d): An amount of money ('fourteen dollars') functioning as a total sum
 - **Visual Reference Plate**: `images/eng_sva_level_2_page_02.png`
 
 
-### Question 64: High-Yield Problem 64  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 64: Infosys SE Question 64  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -1109,7 +1109,7 @@ Error in Part (a): 'Johnson and Johnson' is a single business enterprise (singul
 ---
 
 
-### Question 65: High-Yield Problem 65  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 65: Infosys SE Question 65  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -1120,7 +1120,7 @@ Error in Part (a): 'Johnson and Johnson' is a single business enterprise (singul
 - **Visual Reference Plate**: `images/eng_sva_level_2_page_02.png`
 
 
-### Question 66: High-Yield Problem 66  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 66: Infosys SE Question 66  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -1145,7 +1145,7 @@ Error in Part (b): The pronoun 'Neither' is singular and requires a singular ver
 ---
 
 
-### Question 67: High-Yield Problem 67  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 67: Infosys SE Question 67  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -1156,7 +1156,7 @@ Error in Part (b): The pronoun 'Neither' is singular and requires a singular ver
 - **Visual Reference Plate**: `images/eng_sva_level_2_page_02.png`
 
 
-### Question 68: High-Yield Problem 68  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 68: Infosys SE Question 68  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -1181,7 +1181,7 @@ Error in Part (b): The true subject is the singular head noun 'The bouquet', not
 ---
 
 
-### Question 69: High-Yield Problem 69  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 69: Infosys SE Question 69  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -1192,7 +1192,7 @@ Error in Part (b): The true subject is the singular head noun 'The bouquet', not
 - **Visual Reference Plate**: `images/eng_sva_level_2_page_02.png`
 
 
-### Question 70: High-Yield Problem 70  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 70: Infosys SE Question 70  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -1217,7 +1217,7 @@ Error in Part (b): The standard rule dictates that 'More than one + singular nou
 ---
 
 
-### Question 71: High-Yield Problem 71  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 71: Infosys SE Question 71  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -1228,7 +1228,7 @@ Error in Part (b): The standard rule dictates that 'More than one + singular nou
 - **Visual Reference Plate**: `images/eng_adv_sentence_correction_1_page_01.png`
 
 
-### Question 72: High-Yield Problem 72  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 72: Infosys SE Question 72  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -1253,7 +1253,7 @@ Rule: Parallel structure requires that elements in a series share the same gramm
 ---
 
 
-### Question 73: High-Yield Problem 73  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 73: Infosys SE Question 73  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -1264,7 +1264,7 @@ Rule: Parallel structure requires that elements in a series share the same gramm
 - **Visual Reference Plate**: `images/eng_adv_sentence_correction_1_page_01.png`
 
 
-### Question 74: High-Yield Problem 74  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 74: Infosys SE Question 74  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -1289,7 +1289,7 @@ Rule: 'The fact of the matter' and 'The truth of the matter' are verbose, clich�
 ---
 
 
-### Question 75: High-Yield Problem 75  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 75: Infosys SE Question 75  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -1300,7 +1300,7 @@ Rule: 'The fact of the matter' and 'The truth of the matter' are verbose, clich�
 - **Visual Reference Plate**: `images/eng_adv_sentence_correction_1_page_02.png`
 
 
-### Question 76: High-Yield Problem 76  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 76: Infosys SE Question 76  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -1325,7 +1325,7 @@ Rule: In Option 1, the introductory participial phrase 'Covered in melted cheese
 ---
 
 
-### Question 77: High-Yield Problem 77  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 77: Infosys SE Question 77  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -1336,7 +1336,7 @@ Rule: In Option 1, the introductory participial phrase 'Covered in melted cheese
 - **Visual Reference Plate**: `images/eng_adv_sentence_correction_1_page_02.png`
 
 
-### Question 78: High-Yield Problem 78  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 78: Infosys SE Question 78  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -1361,7 +1361,7 @@ Rule: 'He likes chocolate more than his wife' is ambiguous—it could mean he pr
 ---
 
 
-### Question 79: High-Yield Problem 79  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 79: Infosys SE Question 79  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -1372,7 +1372,7 @@ Rule: 'He likes chocolate more than his wife' is ambiguous—it could mean he pr
 - **Visual Reference Plate**: `images/eng_adv_sentence_correction_1_page_03.png`
 
 
-### Question 80: High-Yield Problem 80  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 80: Infosys SE Question 80  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -1397,7 +1397,7 @@ Rule: Correlative conjunctions must connect parallel grammatical structures. In 
 ---
 
 
-### Question 81: High-Yield Problem 81  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 81: Infosys SE Question 81  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -1408,7 +1408,7 @@ Rule: Correlative conjunctions must connect parallel grammatical structures. In 
 - **Visual Reference Plate**: `images/eng_adv_sentence_correction_1_page_03.png`
 
 
-### Question 82: High-Yield Problem 82  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 82: Infosys SE Question 82  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -1433,7 +1433,7 @@ Rule: In hypothetical, contrary-to-fact conditional clauses (the subjunctive moo
 ---
 
 
-### Question 83: High-Yield Problem 83  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 83: Infosys SE Question 83  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -1444,7 +1444,7 @@ Rule: In hypothetical, contrary-to-fact conditional clauses (the subjunctive moo
 - **Visual Reference Plate**: `images/eng_adv_sentence_correction_1_page_04.png`
 
 
-### Question 84: High-Yield Problem 84  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 84: Infosys SE Question 84  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -1469,7 +1469,7 @@ Rule: When two events occurred in the past, the earlier event must be expressed 
 ---
 
 
-### Question 85: High-Yield Problem 85  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 85: Infosys SE Question 85  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -1480,7 +1480,7 @@ Rule: When two events occurred in the past, the earlier event must be expressed 
 - **Visual Reference Plate**: `images/eng_adv_sentence_correction_1_page_04.png`
 
 
-### Question 86: High-Yield Problem 86  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 86: Infosys SE Question 86  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -1505,7 +1505,7 @@ Rule: The adjective 'capable' idiomatically takes the preposition 'of' followed 
 ---
 
 
-### Question 87: High-Yield Problem 87  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 87: Infosys SE Question 87  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -1516,7 +1516,7 @@ Rule: The adjective 'capable' idiomatically takes the preposition 'of' followed 
 - **Visual Reference Plate**: `images/eng_adv_sentence_correction_1_page_05.png`
 
 
-### Question 88: High-Yield Problem 88  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 88: Infosys SE Question 88  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -1541,7 +1541,7 @@ Rule: In the construction 'one of those [plural noun] who...', the relative pron
 ---
 
 
-### Question 89: High-Yield Problem 89  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 89: Infosys SE Question 89  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -1552,7 +1552,7 @@ Rule: In the construction 'one of those [plural noun] who...', the relative pron
 - **Visual Reference Plate**: `images/eng_adv_sentence_correction_1_page_05.png`
 
 
-### Question 90: High-Yield Problem 90  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 90: Infosys SE Question 90  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -1577,7 +1577,7 @@ Rule: In formal written English, 'than' functions as a comparative conjunction i
 ---
 
 
-### Question 91: High-Yield Problem 91  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 91: Infosys SE Question 91  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -1588,7 +1588,7 @@ Rule: In formal written English, 'than' functions as a comparative conjunction i
 - **Visual Reference Plate**: `images/eng_adv_sentence_correction_1_page_06.png`
 
 
-### Question 92: High-Yield Problem 92  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 92: Infosys SE Question 92  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -1613,7 +1613,7 @@ Rule: 'Hardly', 'scarcely', and 'barely' are inherently negative adverbs. Combin
 ---
 
 
-### Question 93: High-Yield Problem 93  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 93: Infosys SE Question 93  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -1624,7 +1624,7 @@ Rule: 'Hardly', 'scarcely', and 'barely' are inherently negative adverbs. Combin
 - **Visual Reference Plate**: `images/eng_adv_sentence_correction_1_page_06.png`
 
 
-### Question 94: High-Yield Problem 94  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 94: Infosys SE Question 94  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -1649,7 +1649,7 @@ Rule: 'The purpose is because' is a classic error of faulty predication. A purpo
 ---
 
 
-### Question 95: High-Yield Problem 95  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 95: Infosys SE Question 95  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -1660,7 +1660,7 @@ Rule: 'The purpose is because' is a classic error of faulty predication. A purpo
 - **Visual Reference Plate**: `images/eng_adv_sentence_correction_1_page_07.png`
 
 
-### Question 96: High-Yield Problem 96  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 96: Infosys SE Question 96  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -1685,7 +1685,7 @@ Rule: In Option 1, 'Walking into the forest' illogically modifies 'the trees'. O
 ---
 
 
-### Question 97: High-Yield Problem 97  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 97: Infosys SE Question 97  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -1696,7 +1696,7 @@ Rule: In Option 1, 'Walking into the forest' illogically modifies 'the trees'. O
 - **Visual Reference Plate**: `images/eng_adv_sentence_correction_1_page_07.png`
 
 
-### Question 98: High-Yield Problem 98  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 98: Infosys SE Question 98  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -1721,7 +1721,7 @@ Rule: While traditional prescriptive grammar discouraged split infinitives, mode
 ---
 
 
-### Question 99: High-Yield Problem 99  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 99: Infosys SE Question 99  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -1732,7 +1732,7 @@ Rule: While traditional prescriptive grammar discouraged split infinitives, mode
 - **Visual Reference Plate**: `images/eng_adv_sentence_correction_1_page_07.png`
 
 
-### Question 100: High-Yield Problem 100  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 100: Infosys SE Question 100  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -1757,7 +1757,7 @@ Rule: A predicate pronoun following the linking verb 'to be' ('was') takes the s
 ---
 
 
-### Question 101: High-Yield Problem 101  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 101: Infosys SE Question 101  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -1768,7 +1768,7 @@ Rule: A predicate pronoun following the linking verb 'to be' ('was') takes the s
 - **Visual Reference Plate**: `images/eng_adv_sentence_correction_2_page_01.png`
 
 
-### Question 102: High-Yield Problem 102  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 102: Infosys SE Question 102  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -1793,7 +1793,7 @@ Rule: 'Committed to' is followed by gerunds (-ing forms). All three coordinate i
 ---
 
 
-### Question 103: High-Yield Problem 103  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 103: Infosys SE Question 103  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -1804,7 +1804,7 @@ Rule: 'Committed to' is followed by gerunds (-ing forms). All three coordinate i
 - **Visual Reference Plate**: `images/eng_adv_sentence_correction_2_page_01.png`
 
 
-### Question 104: High-Yield Problem 104  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 104: Infosys SE Question 104  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -1829,7 +1829,7 @@ Rule: 'The reason why... is because' contains redundant repetition of cause. Sta
 ---
 
 
-### Question 105: High-Yield Problem 105  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 105: Infosys SE Question 105  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -1840,7 +1840,7 @@ Rule: 'The reason why... is because' contains redundant repetition of cause. Sta
 - **Visual Reference Plate**: `images/eng_adv_sentence_correction_2_page_02.png`
 
 
-### Question 106: High-Yield Problem 106  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 106: Infosys SE Question 106  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -1865,7 +1865,7 @@ Rule: The limiting adverb 'only' must immediately precede the word it modifies. 
 ---
 
 
-### Question 107: High-Yield Problem 107  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 107: Infosys SE Question 107  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -1876,7 +1876,7 @@ Rule: The limiting adverb 'only' must immediately precede the word it modifies. 
 - **Visual Reference Plate**: `images/eng_adv_sentence_correction_2_page_02.png`
 
 
-### Question 108: High-Yield Problem 108  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 108: Infosys SE Question 108  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -1901,7 +1901,7 @@ Rule: Option 1 uses a valid nominative absolute phrase ('The meeting having conc
 ---
 
 
-### Question 109: High-Yield Problem 109  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 109: Infosys SE Question 109  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -1912,7 +1912,7 @@ Rule: Option 1 uses a valid nominative absolute phrase ('The meeting having conc
 - **Visual Reference Plate**: `images/eng_adv_sentence_correction_2_page_03.png`
 
 
-### Question 110: High-Yield Problem 110  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 110: Infosys SE Question 110  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -1937,7 +1937,7 @@ Rule: In formal grammar, 'like' is a preposition followed by a noun/pronoun, whi
 ---
 
 
-### Question 111: High-Yield Problem 111  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 111: Infosys SE Question 111  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -1948,7 +1948,7 @@ Rule: In formal grammar, 'like' is a preposition followed by a noun/pronoun, whi
 - **Visual Reference Plate**: `images/eng_adv_sentence_correction_2_page_03.png`
 
 
-### Question 112: High-Yield Problem 112  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 112: Infosys SE Question 112  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -1973,7 +1973,7 @@ Rule: When a negative or restrictive adverbial ('Seldom', 'Rarely', 'Scarcely') 
 ---
 
 
-### Question 113: High-Yield Problem 113  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 113: Infosys SE Question 113  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -1984,7 +1984,7 @@ Rule: When a negative or restrictive adverbial ('Seldom', 'Rarely', 'Scarcely') 
 - **Visual Reference Plate**: `images/eng_adv_sentence_correction_2_page_04.png`
 
 
-### Question 114: High-Yield Problem 114  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 114: Infosys SE Question 114  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -2009,7 +2009,7 @@ Rule: Third conditional with inversion requires 'Had + subject + past participle
 ---
 
 
-### Question 115: High-Yield Problem 115  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 115: Infosys SE Question 115  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -2020,7 +2020,7 @@ Rule: Third conditional with inversion requires 'Had + subject + past participle
 - **Visual Reference Plate**: `images/eng_adv_sentence_correction_2_page_04.png`
 
 
-### Question 116: High-Yield Problem 116  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 116: Infosys SE Question 116  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -2045,7 +2045,7 @@ Rule: The verb 'prefer' idiomatically takes the preposition 'to' when comparing 
 ---
 
 
-### Question 117: High-Yield Problem 117  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 117: Infosys SE Question 117  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -2056,7 +2056,7 @@ Rule: The verb 'prefer' idiomatically takes the preposition 'to' when comparing 
 - **Visual Reference Plate**: `images/eng_adv_sentence_correction_2_page_05.png`
 
 
-### Question 118: High-Yield Problem 118  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 118: Infosys SE Question 118  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -2081,7 +2081,7 @@ Rule: In Option 1, 'While traveling...' illogically implies that 'his camera' wa
 ---
 
 
-### Question 119: High-Yield Problem 119  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 119: Infosys SE Question 119  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -2092,7 +2092,7 @@ Rule: In Option 1, 'While traveling...' illogically implies that 'his camera' wa
 - **Visual Reference Plate**: `images/eng_adv_sentence_correction_2_page_05.png`
 
 
-### Question 120: High-Yield Problem 120  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 120: Infosys SE Question 120  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -2117,7 +2117,7 @@ Rule: When a collective noun acts as a unified single body delivering a single a
 ---
 
 
-### Question 121: High-Yield Problem 121  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 121: Infosys SE Question 121  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -2128,7 +2128,7 @@ Rule: When a collective noun acts as a unified single body delivering a single a
 - **Visual Reference Plate**: `images/eng_verbal_ability_pyq_50_page_06.png`
 
 
-### Question 122: High-Yield Problem 122  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 122: Infosys SE Question 122  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -2152,7 +2152,7 @@ Parallelism rule: series of activities must be in parallel gerund form (-ing).
 ---
 
 
-### Question 123: High-Yield Problem 123  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 123: Infosys SE Question 123  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -2163,7 +2163,7 @@ Parallelism rule: series of activities must be in parallel gerund form (-ing).
 - **Visual Reference Plate**: `images/eng_verbal_ability_pyq_50_page_06.png`
 
 
-### Question 124: High-Yield Problem 124  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 124: Infosys SE Question 124  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -2187,7 +2187,7 @@ The indefinite pronoun 'Neither' is singular and requires a singular verb 'is'.
 ---
 
 
-### Question 125: High-Yield Problem 125  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 125: Infosys SE Question 125  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -2198,7 +2198,7 @@ The indefinite pronoun 'Neither' is singular and requires a singular verb 'is'.
 - **Visual Reference Plate**: `images/eng_verbal_ability_pyq_50_page_06.png`
 
 
-### Question 126: High-Yield Problem 126  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 126: Infosys SE Question 126  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -2221,7 +2221,7 @@ Compound sentence correctly punctuated with coordinating conjunction 'but' and a
 ---
 
 
-### Question 127: High-Yield Problem 127  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 127: Infosys SE Question 127  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -2232,7 +2232,7 @@ Compound sentence correctly punctuated with coordinating conjunction 'but' and a
 - **Visual Reference Plate**: `images/eng_verbal_ability_pyq_50_page_06.png`
 
 
-### Question 128: High-Yield Problem 128  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 128: Infosys SE Question 128  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -2256,7 +2256,7 @@ Indefinite pronoun 'Each' takes singular verb 'has'.
 ---
 
 
-### Question 129: High-Yield Problem 129  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 129: Infosys SE Question 129  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -2267,7 +2267,7 @@ Indefinite pronoun 'Each' takes singular verb 'has'.
 - **Visual Reference Plate**: `images/eng_verbal_ability_pyq_50_page_06.png`
 
 
-### Question 130: High-Yield Problem 130  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 130: Infosys SE Question 130  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -2291,7 +2291,7 @@ Subjunctive mood contrary-to-fact condition requires 'were' regardless of subjec
 ---
 
 
-### Question 131: High-Yield Problem 131  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 131: Infosys SE Question 131  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -2302,7 +2302,7 @@ Subjunctive mood contrary-to-fact condition requires 'were' regardless of subjec
 - **Visual Reference Plate**: `images/eng_verbal_ability_pyq_50_page_06.png`
 
 
-### Question 132: High-Yield Problem 132  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 132: Infosys SE Question 132  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -2326,7 +2326,7 @@ Superlative degree requires 'the most intelligent', not double superlative 'most
 ---
 
 
-### Question 133: High-Yield Problem 133  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 133: Infosys SE Question 133  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -2337,7 +2337,7 @@ Superlative degree requires 'the most intelligent', not double superlative 'most
 - **Visual Reference Plate**: `images/eng_verbal_ability_pyq_50_page_06.png`
 
 
-### Question 134: High-Yield Problem 134  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 134: Infosys SE Question 134  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -2361,7 +2361,7 @@ Comparison of an item within its own group requires 'any other' to avoid illogic
 ---
 
 
-### Question 135: High-Yield Problem 135  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 135: Infosys SE Question 135  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -2372,7 +2372,7 @@ Comparison of an item within its own group requires 'any other' to avoid illogic
 - **Visual Reference Plate**: `images/eng_verbal_ability_pyq_50_page_06.png`
 
 
-### Question 136: High-Yield Problem 136  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 136: Infosys SE Question 136  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -2396,7 +2396,7 @@ examination. / (D) No error.
 ---
 
 
-### Question 137: High-Yield Problem 137  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 137: Infosys SE Question 137  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -2407,7 +2407,7 @@ examination. / (D) No error.
 - **Visual Reference Plate**: `images/eng_verbal_ability_pyq_50_page_06.png`
 
 
-### Question 138: High-Yield Problem 138  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 138: Infosys SE Question 138  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -2431,7 +2431,7 @@ Clear, idiomatic infinitive placement conveying instruction without ambiguity.
 ---
 
 
-### Question 139: High-Yield Problem 139  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 139: Infosys SE Question 139  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -2442,7 +2442,7 @@ Clear, idiomatic infinitive placement conveying instruction without ambiguity.
 - **Visual Reference Plate**: `images/eng_verbal_ability_pyq_50_page_06.png`
 
 
-### Question 140: High-Yield Problem 140  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 140: Infosys SE Question 140  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -2472,7 +2472,7 @@ alternative to the underlined part to improve the sentence.
 ---
 
 
-### Question 141: High-Yield Problem 141  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 141: Infosys SE Question 141  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -2482,7 +2482,7 @@ alternative to the underlined part to improve the sentence.
 - **Sub-Domain Focus**: Spotting Errors
 
 
-### Question 142: High-Yield Problem 142  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 142: Infosys SE Question 142  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -2507,7 +2507,7 @@ alternative to the underlined part to improve the sentence.
 ---
 
 
-### Question 143: High-Yield Problem 143  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 143: Infosys SE Question 143  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -2517,7 +2517,7 @@ alternative to the underlined part to improve the sentence.
 - **Sub-Domain Focus**: Spotting Errors
 
 
-### Question 144: High-Yield Problem 144  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 144: Infosys SE Question 144  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -2542,7 +2542,7 @@ alternative to the underlined part to improve the sentence.
 ---
 
 
-### Question 145: High-Yield Problem 145  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 145: Infosys SE Question 145  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -2552,7 +2552,7 @@ alternative to the underlined part to improve the sentence.
 - **Sub-Domain Focus**: Spotting Errors
 
 
-### Question 146: High-Yield Problem 146  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 146: Infosys SE Question 146  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -2577,7 +2577,7 @@ alternative to the underlined part to improve the sentence.
 ---
 
 
-### Question 147: High-Yield Problem 147  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 147: Infosys SE Question 147  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -2587,7 +2587,7 @@ alternative to the underlined part to improve the sentence.
 - **Sub-Domain Focus**: Spotting Errors
 
 
-### Question 148: High-Yield Problem 148  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 148: Infosys SE Question 148  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -2612,7 +2612,7 @@ alternative to the underlined part to improve the sentence.
 ---
 
 
-### Question 149: High-Yield Problem 149  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 149: Infosys SE Question 149  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -2622,7 +2622,7 @@ alternative to the underlined part to improve the sentence.
 - **Sub-Domain Focus**: Spotting Errors
 
 
-### Question 150: High-Yield Problem 150  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 150: Infosys SE Question 150  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -2647,7 +2647,7 @@ alternative to the underlined part to improve the sentence.
 ---
 
 
-### Question 151: High-Yield Problem 151  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 151: Infosys SE Question 151  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -2657,7 +2657,7 @@ alternative to the underlined part to improve the sentence.
 - **Sub-Domain Focus**: Spotting Errors
 
 
-### Question 152: High-Yield Problem 152  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 152: Infosys SE Question 152  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -2682,7 +2682,7 @@ alternative to the underlined part to improve the sentence.
 ---
 
 
-### Question 153: High-Yield Problem 153  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 153: Infosys SE Question 153  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -2692,7 +2692,7 @@ alternative to the underlined part to improve the sentence.
 - **Sub-Domain Focus**: Spotting Errors
 
 
-### Question 154: High-Yield Problem 154  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 154: Infosys SE Question 154  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -2717,7 +2717,7 @@ alternative to the underlined part to improve the sentence.
 ---
 
 
-### Question 155: High-Yield Problem 155  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 155: Infosys SE Question 155  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -2727,7 +2727,7 @@ alternative to the underlined part to improve the sentence.
 - **Sub-Domain Focus**: Spotting Errors
 
 
-### Question 156: High-Yield Problem 156  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 156: Infosys SE Question 156  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -2752,7 +2752,7 @@ alternative to the underlined part to improve the sentence.
 ---
 
 
-### Question 157: High-Yield Problem 157  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 157: Infosys SE Question 157  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -2762,7 +2762,7 @@ alternative to the underlined part to improve the sentence.
 - **Sub-Domain Focus**: Spotting Errors
 
 
-### Question 158: High-Yield Problem 158  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 158: Infosys SE Question 158  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -2787,7 +2787,7 @@ alternative to the underlined part to improve the sentence.
 ---
 
 
-### Question 159: High-Yield Problem 159  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 159: Infosys SE Question 159  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -2797,7 +2797,7 @@ alternative to the underlined part to improve the sentence.
 - **Sub-Domain Focus**: Spotting Errors
 
 
-### Question 160: High-Yield Problem 160  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 160: Infosys SE Question 160  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -2822,7 +2822,7 @@ alternative to the underlined part to improve the sentence.
 ---
 
 
-### Question 161: High-Yield Problem 161  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 161: Infosys SE Question 161  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -2832,7 +2832,7 @@ alternative to the underlined part to improve the sentence.
 - **Sub-Domain Focus**: Spotting Errors
 
 
-### Question 162: High-Yield Problem 162  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 162: Infosys SE Question 162  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -2857,7 +2857,7 @@ alternative to the underlined part to improve the sentence.
 ---
 
 
-### Question 163: High-Yield Problem 163  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 163: Infosys SE Question 163  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -2867,7 +2867,7 @@ alternative to the underlined part to improve the sentence.
 - **Sub-Domain Focus**: Spotting Errors
 
 
-### Question 164: High-Yield Problem 164  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 164: Infosys SE Question 164  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -2892,7 +2892,7 @@ alternative to the underlined part to improve the sentence.
 ---
 
 
-### Question 165: High-Yield Problem 165  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 165: Infosys SE Question 165  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -2902,7 +2902,7 @@ alternative to the underlined part to improve the sentence.
 - **Sub-Domain Focus**: Spotting Errors
 
 
-### Question 166: High-Yield Problem 166  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 166: Infosys SE Question 166  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -2927,7 +2927,7 @@ alternative to the underlined part to improve the sentence.
 ---
 
 
-### Question 167: High-Yield Problem 167  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 167: Infosys SE Question 167  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -2937,7 +2937,7 @@ alternative to the underlined part to improve the sentence.
 - **Sub-Domain Focus**: Spotting Errors
 
 
-### Question 168: High-Yield Problem 168  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 168: Infosys SE Question 168  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -2962,7 +2962,7 @@ alternative to the underlined part to improve the sentence.
 ---
 
 
-### Question 169: High-Yield Problem 169  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 169: Infosys SE Question 169  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -2972,7 +2972,7 @@ alternative to the underlined part to improve the sentence.
 - **Sub-Domain Focus**: Spotting Errors
 
 
-### Question 170: High-Yield Problem 170  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 170: Infosys SE Question 170  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -2997,7 +2997,7 @@ alternative to the underlined part to improve the sentence.
 ---
 
 
-### Question 171: High-Yield Problem 171  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 171: Infosys SE Question 171  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -3007,7 +3007,7 @@ alternative to the underlined part to improve the sentence.
 - **Sub-Domain Focus**: Spotting Errors
 
 
-### Question 172: High-Yield Problem 172  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 172: Infosys SE Question 172  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -3032,7 +3032,7 @@ alternative to the underlined part to improve the sentence.
 ---
 
 
-### Question 173: High-Yield Problem 173  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 173: Infosys SE Question 173  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -3042,7 +3042,7 @@ alternative to the underlined part to improve the sentence.
 - **Sub-Domain Focus**: Spotting Errors
 
 
-### Question 174: High-Yield Problem 174  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 174: Infosys SE Question 174  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -3067,7 +3067,7 @@ alternative to the underlined part to improve the sentence.
 ---
 
 
-### Question 175: High-Yield Problem 175  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 175: Infosys SE Question 175  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -3077,7 +3077,7 @@ alternative to the underlined part to improve the sentence.
 - **Sub-Domain Focus**: Spotting Errors
 
 
-### Question 176: High-Yield Problem 176  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 176: Infosys SE Question 176  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -3102,7 +3102,7 @@ alternative to the underlined part to improve the sentence.
 ---
 
 
-### Question 177: High-Yield Problem 177  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 177: Infosys SE Question 177  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -3112,7 +3112,7 @@ alternative to the underlined part to improve the sentence.
 - **Sub-Domain Focus**: Spotting Errors
 
 
-### Question 178: High-Yield Problem 178  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 178: Infosys SE Question 178  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -3137,7 +3137,7 @@ alternative to the underlined part to improve the sentence.
 ---
 
 
-### Question 179: High-Yield Problem 179  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 179: Infosys SE Question 179  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -3147,7 +3147,7 @@ alternative to the underlined part to improve the sentence.
 - **Sub-Domain Focus**: Spotting Errors
 
 
-### Question 180: High-Yield Problem 180  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 180: Infosys SE Question 180  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -3172,7 +3172,7 @@ alternative to the underlined part to improve the sentence.
 ---
 
 
-### Question 181: High-Yield Problem 181  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 181: Infosys SE Question 181  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -3182,7 +3182,7 @@ alternative to the underlined part to improve the sentence.
 - **Sub-Domain Focus**: Spotting Errors
 
 
-### Question 182: High-Yield Problem 182  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 182: Infosys SE Question 182  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -3207,7 +3207,7 @@ alternative to the underlined part to improve the sentence.
 ---
 
 
-### Question 183: High-Yield Problem 183  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 183: Infosys SE Question 183  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -3217,7 +3217,7 @@ alternative to the underlined part to improve the sentence.
 - **Sub-Domain Focus**: Spotting Errors
 
 
-### Question 184: High-Yield Problem 184  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 184: Infosys SE Question 184  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -3242,7 +3242,7 @@ alternative to the underlined part to improve the sentence.
 ---
 
 
-### Question 185: High-Yield Problem 185  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 185: Infosys SE Question 185  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -3252,7 +3252,7 @@ alternative to the underlined part to improve the sentence.
 - **Sub-Domain Focus**: Spotting Errors
 
 
-### Question 186: High-Yield Problem 186  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 186: Infosys SE Question 186  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -3277,7 +3277,7 @@ alternative to the underlined part to improve the sentence.
 ---
 
 
-### Question 187: High-Yield Problem 187  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 187: Infosys SE Question 187  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -3287,7 +3287,7 @@ alternative to the underlined part to improve the sentence.
 - **Sub-Domain Focus**: Spotting Errors
 
 
-### Question 188: High-Yield Problem 188  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 188: Infosys SE Question 188  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -3312,7 +3312,7 @@ alternative to the underlined part to improve the sentence.
 ---
 
 
-### Question 189: High-Yield Problem 189  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 189: Infosys SE Question 189  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -3322,7 +3322,7 @@ alternative to the underlined part to improve the sentence.
 - **Sub-Domain Focus**: Spotting Errors
 
 
-### Question 190: High-Yield Problem 190  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 190: Infosys SE Question 190  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -3347,7 +3347,7 @@ alternative to the underlined part to improve the sentence.
 ---
 
 
-### Question 191: High-Yield Problem 191  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 191: Infosys SE Question 191  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -3357,7 +3357,7 @@ alternative to the underlined part to improve the sentence.
 - **Sub-Domain Focus**: Spotting Errors
 
 
-### Question 192: High-Yield Problem 192  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 192: Infosys SE Question 192  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -3382,7 +3382,7 @@ alternative to the underlined part to improve the sentence.
 ---
 
 
-### Question 193: High-Yield Problem 193  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 193: Infosys SE Question 193  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -3392,7 +3392,7 @@ alternative to the underlined part to improve the sentence.
 - **Sub-Domain Focus**: Spotting Errors
 
 
-### Question 194: High-Yield Problem 194  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 194: Infosys SE Question 194  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -3417,7 +3417,7 @@ alternative to the underlined part to improve the sentence.
 ---
 
 
-### Question 195: High-Yield Problem 195  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 195: Infosys SE Question 195  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -3427,7 +3427,7 @@ alternative to the underlined part to improve the sentence.
 - **Sub-Domain Focus**: Spotting Errors
 
 
-### Question 196: High-Yield Problem 196  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 196: Infosys SE Question 196  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -3452,7 +3452,7 @@ alternative to the underlined part to improve the sentence.
 ---
 
 
-### Question 197: High-Yield Problem 197  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 197: Infosys SE Question 197  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -3462,7 +3462,7 @@ alternative to the underlined part to improve the sentence.
 - **Sub-Domain Focus**: Spotting Errors
 
 
-### Question 198: High-Yield Problem 198  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 198: Infosys SE Question 198  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -3487,7 +3487,7 @@ alternative to the underlined part to improve the sentence.
 ---
 
 
-### Question 199: High-Yield Problem 199  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 199: Infosys SE Question 199  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -3497,7 +3497,7 @@ alternative to the underlined part to improve the sentence.
 - **Sub-Domain Focus**: Spotting Errors
 
 
-### Question 200: High-Yield Problem 200  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 200: Infosys SE Question 200  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -3522,7 +3522,7 @@ alternative to the underlined part to improve the sentence.
 ---
 
 
-### Question 201: High-Yield Problem 201  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 201: Infosys SE Question 201  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -3532,7 +3532,7 @@ alternative to the underlined part to improve the sentence.
 - **Sub-Domain Focus**: Spotting Errors
 
 
-### Question 202: High-Yield Problem 202  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 202: Infosys SE Question 202  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -3557,7 +3557,7 @@ alternative to the underlined part to improve the sentence.
 ---
 
 
-### Question 203: High-Yield Problem 203  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 203: Infosys SE Question 203  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -3567,7 +3567,7 @@ alternative to the underlined part to improve the sentence.
 - **Sub-Domain Focus**: Spotting Errors
 
 
-### Question 204: High-Yield Problem 204  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 204: Infosys SE Question 204  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -3592,7 +3592,7 @@ alternative to the underlined part to improve the sentence.
 ---
 
 
-### Question 205: High-Yield Problem 205  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 205: Infosys SE Question 205  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -3602,7 +3602,7 @@ alternative to the underlined part to improve the sentence.
 - **Sub-Domain Focus**: Spotting Errors
 
 
-### Question 206: High-Yield Problem 206  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 206: Infosys SE Question 206  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -3627,7 +3627,7 @@ alternative to the underlined part to improve the sentence.
 ---
 
 
-### Question 207: High-Yield Problem 207  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 207: Infosys SE Question 207  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -3637,7 +3637,7 @@ alternative to the underlined part to improve the sentence.
 - **Sub-Domain Focus**: Spotting Errors
 
 
-### Question 208: High-Yield Problem 208  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 208: Infosys SE Question 208  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -3662,7 +3662,7 @@ alternative to the underlined part to improve the sentence.
 ---
 
 
-### Question 209: High-Yield Problem 209  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 209: Infosys SE Question 209  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -3672,7 +3672,7 @@ alternative to the underlined part to improve the sentence.
 - **Sub-Domain Focus**: Spotting Errors
 
 
-### Question 210: High-Yield Problem 210  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 210: Infosys SE Question 210  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -3697,7 +3697,7 @@ alternative to the underlined part to improve the sentence.
 ---
 
 
-### Question 211: High-Yield Problem 211  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 211: Infosys SE Question 211  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -3707,7 +3707,7 @@ alternative to the underlined part to improve the sentence.
 - **Sub-Domain Focus**: Spotting Errors
 
 
-### Question 212: High-Yield Problem 212  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 212: Infosys SE Question 212  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -3732,7 +3732,7 @@ alternative to the underlined part to improve the sentence.
 ---
 
 
-### Question 213: High-Yield Problem 213  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 213: Infosys SE Question 213  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -3742,7 +3742,7 @@ alternative to the underlined part to improve the sentence.
 - **Sub-Domain Focus**: Spotting Errors
 
 
-### Question 214: High-Yield Problem 214  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 214: Infosys SE Question 214  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -3767,7 +3767,7 @@ alternative to the underlined part to improve the sentence.
 ---
 
 
-### Question 215: High-Yield Problem 215  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 215: Infosys SE Question 215  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -3777,7 +3777,7 @@ alternative to the underlined part to improve the sentence.
 - **Sub-Domain Focus**: Spotting Errors
 
 
-### Question 216: High-Yield Problem 216  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 216: Infosys SE Question 216  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -3802,7 +3802,7 @@ alternative to the underlined part to improve the sentence.
 ---
 
 
-### Question 217: High-Yield Problem 217  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 217: Infosys SE Question 217  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -3812,7 +3812,7 @@ alternative to the underlined part to improve the sentence.
 - **Sub-Domain Focus**: Spotting Errors
 
 
-### Question 218: High-Yield Problem 218  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 218: Infosys SE Question 218  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -3837,7 +3837,7 @@ alternative to the underlined part to improve the sentence.
 ---
 
 
-### Question 219: High-Yield Problem 219  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 219: Infosys SE Question 219  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -3847,7 +3847,7 @@ alternative to the underlined part to improve the sentence.
 - **Sub-Domain Focus**: Spotting Errors
 
 
-### Question 220: High-Yield Problem 220  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 220: Infosys SE Question 220  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -3872,7 +3872,7 @@ alternative to the underlined part to improve the sentence.
 ---
 
 
-### Question 221: High-Yield Problem 221  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 221: Infosys SE Question 221  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -3882,7 +3882,7 @@ alternative to the underlined part to improve the sentence.
 - **Sub-Domain Focus**: Spotting Errors
 
 
-### Question 222: High-Yield Problem 222  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 222: Infosys SE Question 222  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -3907,7 +3907,7 @@ alternative to the underlined part to improve the sentence.
 ---
 
 
-### Question 223: High-Yield Problem 223  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 223: Infosys SE Question 223  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -3917,7 +3917,7 @@ alternative to the underlined part to improve the sentence.
 - **Sub-Domain Focus**: Spotting Errors
 
 
-### Question 224: High-Yield Problem 224  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 224: Infosys SE Question 224  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -3942,7 +3942,7 @@ alternative to the underlined part to improve the sentence.
 ---
 
 
-### Question 225: High-Yield Problem 225  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 225: Infosys SE Question 225  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -3952,7 +3952,7 @@ alternative to the underlined part to improve the sentence.
 - **Sub-Domain Focus**: Spotting Errors
 
 
-### Question 226: High-Yield Problem 226  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 226: Infosys SE Question 226  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -3977,7 +3977,7 @@ alternative to the underlined part to improve the sentence.
 ---
 
 
-### Question 227: High-Yield Problem 227  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 227: Infosys SE Question 227  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -3987,7 +3987,7 @@ alternative to the underlined part to improve the sentence.
 - **Sub-Domain Focus**: Spotting Errors
 
 
-### Question 228: High-Yield Problem 228  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 228: Infosys SE Question 228  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -4012,7 +4012,7 @@ alternative to the underlined part to improve the sentence.
 ---
 
 
-### Question 229: High-Yield Problem 229  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 229: Infosys SE Question 229  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -4022,7 +4022,7 @@ alternative to the underlined part to improve the sentence.
 - **Sub-Domain Focus**: Spotting Errors
 
 
-### Question 230: High-Yield Problem 230  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 230: Infosys SE Question 230  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -4047,7 +4047,7 @@ alternative to the underlined part to improve the sentence.
 ---
 
 
-### Question 231: High-Yield Problem 231  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 231: Infosys SE Question 231  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -4057,7 +4057,7 @@ alternative to the underlined part to improve the sentence.
 - **Sub-Domain Focus**: Spotting Errors
 
 
-### Question 232: High-Yield Problem 232  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 232: Infosys SE Question 232  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -4082,7 +4082,7 @@ alternative to the underlined part to improve the sentence.
 ---
 
 
-### Question 233: High-Yield Problem 233  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 233: Infosys SE Question 233  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -4092,7 +4092,7 @@ alternative to the underlined part to improve the sentence.
 - **Sub-Domain Focus**: Spotting Errors
 
 
-### Question 234: High-Yield Problem 234  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 234: Infosys SE Question 234  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -4117,7 +4117,7 @@ alternative to the underlined part to improve the sentence.
 ---
 
 
-### Question 235: High-Yield Problem 235  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 235: Infosys SE Question 235  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -4127,7 +4127,7 @@ alternative to the underlined part to improve the sentence.
 - **Sub-Domain Focus**: Spotting Errors
 
 
-### Question 236: High-Yield Problem 236  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 236: Infosys SE Question 236  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -4152,7 +4152,7 @@ alternative to the underlined part to improve the sentence.
 ---
 
 
-### Question 237: High-Yield Problem 237  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 237: Infosys SE Question 237  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -4162,7 +4162,7 @@ alternative to the underlined part to improve the sentence.
 - **Sub-Domain Focus**: Spotting Errors
 
 
-### Question 238: High-Yield Problem 238  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 238: Infosys SE Question 238  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -4187,7 +4187,7 @@ alternative to the underlined part to improve the sentence.
 ---
 
 
-### Question 239: High-Yield Problem 239  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 239: Infosys SE Question 239  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -4197,7 +4197,7 @@ alternative to the underlined part to improve the sentence.
 - **Sub-Domain Focus**: Spotting Errors
 
 
-### Question 240: High-Yield Problem 240  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 240: Infosys SE Question 240  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -4222,7 +4222,7 @@ alternative to the underlined part to improve the sentence.
 ---
 
 
-### Question 241: High-Yield Problem 241  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 241: Infosys SE Question 241  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -4232,7 +4232,7 @@ alternative to the underlined part to improve the sentence.
 - **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
 
 
-### Question 242: High-Yield Problem 242  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 242: Infosys SE Question 242  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -4255,7 +4255,7 @@ Verified grammatical solution.
 ---
 
 
-### Question 243: High-Yield Problem 243  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 243: Infosys SE Question 243  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -4265,7 +4265,7 @@ Verified grammatical solution.
 - **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
 
 
-### Question 244: High-Yield Problem 244  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 244: Infosys SE Question 244  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -4288,7 +4288,7 @@ Verified grammatical solution.
 ---
 
 
-### Question 245: High-Yield Problem 245  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 245: Infosys SE Question 245  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -4298,7 +4298,7 @@ Verified grammatical solution.
 - **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
 
 
-### Question 246: High-Yield Problem 246  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 246: Infosys SE Question 246  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -4321,7 +4321,7 @@ Verified grammatical solution.
 ---
 
 
-### Question 247: High-Yield Problem 247  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 247: Infosys SE Question 247  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -4331,7 +4331,7 @@ Verified grammatical solution.
 - **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
 
 
-### Question 248: High-Yield Problem 248  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 248: Infosys SE Question 248  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -4354,7 +4354,7 @@ Verified grammatical solution.
 ---
 
 
-### Question 249: High-Yield Problem 249  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 249: Infosys SE Question 249  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -4364,7 +4364,7 @@ Verified grammatical solution.
 - **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
 
 
-### Question 250: High-Yield Problem 250  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 250: Infosys SE Question 250  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -4387,7 +4387,7 @@ Verified grammatical solution.
 ---
 
 
-### Question 251: High-Yield Problem 251  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 251: Infosys SE Question 251  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -4397,7 +4397,7 @@ Verified grammatical solution.
 - **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
 
 
-### Question 252: High-Yield Problem 252  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 252: Infosys SE Question 252  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -4420,7 +4420,7 @@ Verified grammatical solution.
 ---
 
 
-### Question 253: High-Yield Problem 253  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 253: Infosys SE Question 253  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -4430,7 +4430,7 @@ Verified grammatical solution.
 - **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
 
 
-### Question 254: High-Yield Problem 254  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 254: Infosys SE Question 254  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -4453,7 +4453,7 @@ Verified grammatical solution.
 ---
 
 
-### Question 255: High-Yield Problem 255  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 255: Infosys SE Question 255  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -4463,7 +4463,7 @@ Verified grammatical solution.
 - **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
 
 
-### Question 256: High-Yield Problem 256  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 256: Infosys SE Question 256  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -4486,7 +4486,7 @@ Verified grammatical solution.
 ---
 
 
-### Question 257: High-Yield Problem 257  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 257: Infosys SE Question 257  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -4496,7 +4496,7 @@ Verified grammatical solution.
 - **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
 
 
-### Question 258: High-Yield Problem 258  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 258: Infosys SE Question 258  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -4519,7 +4519,7 @@ Verified grammatical solution.
 ---
 
 
-### Question 259: High-Yield Problem 259  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 259: Infosys SE Question 259  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -4529,7 +4529,7 @@ Verified grammatical solution.
 - **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
 
 
-### Question 260: High-Yield Problem 260  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 260: Infosys SE Question 260  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -4552,7 +4552,7 @@ Verified grammatical solution.
 ---
 
 
-### Question 261: High-Yield Problem 261  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 261: Infosys SE Question 261  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -4562,7 +4562,7 @@ Verified grammatical solution.
 - **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
 
 
-### Question 262: High-Yield Problem 262  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 262: Infosys SE Question 262  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -4585,7 +4585,7 @@ Verified grammatical solution.
 ---
 
 
-### Question 263: High-Yield Problem 263  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 263: Infosys SE Question 263  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -4595,7 +4595,7 @@ Verified grammatical solution.
 - **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
 
 
-### Question 264: High-Yield Problem 264  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 264: Infosys SE Question 264  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -4618,7 +4618,7 @@ Verified grammatical solution.
 ---
 
 
-### Question 265: High-Yield Problem 265  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 265: Infosys SE Question 265  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -4628,7 +4628,7 @@ Verified grammatical solution.
 - **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
 
 
-### Question 266: High-Yield Problem 266  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 266: Infosys SE Question 266  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -4651,7 +4651,7 @@ Verified grammatical solution.
 ---
 
 
-### Question 267: High-Yield Problem 267  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 267: Infosys SE Question 267  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -4661,7 +4661,7 @@ Verified grammatical solution.
 - **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
 
 
-### Question 268: High-Yield Problem 268  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 268: Infosys SE Question 268  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -4684,7 +4684,7 @@ Verified grammatical solution.
 ---
 
 
-### Question 269: High-Yield Problem 269  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 269: Infosys SE Question 269  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -4694,7 +4694,7 @@ Verified grammatical solution.
 - **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
 
 
-### Question 270: High-Yield Problem 270  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 270: Infosys SE Question 270  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -4717,7 +4717,7 @@ Verified grammatical solution.
 ---
 
 
-### Question 271: High-Yield Problem 271  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 271: Infosys SE Question 271  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -4727,7 +4727,7 @@ Verified grammatical solution.
 - **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
 
 
-### Question 272: High-Yield Problem 272  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 272: Infosys SE Question 272  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -4750,7 +4750,7 @@ Verified grammatical solution.
 ---
 
 
-### Question 273: High-Yield Problem 273  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 273: Infosys SE Question 273  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -4760,7 +4760,7 @@ Verified grammatical solution.
 - **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
 
 
-### Question 274: High-Yield Problem 274  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 274: Infosys SE Question 274  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -4783,7 +4783,7 @@ Verified grammatical solution.
 ---
 
 
-### Question 275: High-Yield Problem 275  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 275: Infosys SE Question 275  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -4793,7 +4793,7 @@ Verified grammatical solution.
 - **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
 
 
-### Question 276: High-Yield Problem 276  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 276: Infosys SE Question 276  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -4816,7 +4816,7 @@ Verified grammatical solution.
 ---
 
 
-### Question 277: High-Yield Problem 277  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 277: Infosys SE Question 277  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -4826,7 +4826,7 @@ Verified grammatical solution.
 - **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
 
 
-### Question 278: High-Yield Problem 278  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 278: Infosys SE Question 278  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -4849,7 +4849,7 @@ Verified grammatical solution.
 ---
 
 
-### Question 279: High-Yield Problem 279  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 279: Infosys SE Question 279  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -4859,7 +4859,7 @@ Verified grammatical solution.
 - **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
 
 
-### Question 280: High-Yield Problem 280  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 280: Infosys SE Question 280  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -4882,7 +4882,7 @@ Verified grammatical solution.
 ---
 
 
-### Question 281: High-Yield Problem 281  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 281: Infosys SE Question 281  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -4892,7 +4892,7 @@ Verified grammatical solution.
 - **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
 
 
-### Question 282: High-Yield Problem 282  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 282: Infosys SE Question 282  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -4915,7 +4915,7 @@ Verified grammatical solution.
 ---
 
 
-### Question 283: High-Yield Problem 283  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 283: Infosys SE Question 283  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -4925,7 +4925,7 @@ Verified grammatical solution.
 - **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
 
 
-### Question 284: High-Yield Problem 284  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 284: Infosys SE Question 284  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -4948,7 +4948,7 @@ Verified grammatical solution.
 ---
 
 
-### Question 285: High-Yield Problem 285  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 285: Infosys SE Question 285  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -4958,7 +4958,7 @@ Verified grammatical solution.
 - **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
 
 
-### Question 286: High-Yield Problem 286  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 286: Infosys SE Question 286  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -4981,7 +4981,7 @@ Verified grammatical solution.
 ---
 
 
-### Question 287: High-Yield Problem 287  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 287: Infosys SE Question 287  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -4991,7 +4991,7 @@ Verified grammatical solution.
 - **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
 
 
-### Question 288: High-Yield Problem 288  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 288: Infosys SE Question 288  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -5014,7 +5014,7 @@ Verified grammatical solution.
 ---
 
 
-### Question 289: High-Yield Problem 289  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 289: Infosys SE Question 289  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -5024,7 +5024,7 @@ Verified grammatical solution.
 - **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
 
 
-### Question 290: High-Yield Problem 290  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 290: Infosys SE Question 290  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -5047,7 +5047,7 @@ Verified grammatical solution.
 ---
 
 
-### Question 291: High-Yield Problem 291  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 291: Infosys SE Question 291  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -5057,7 +5057,7 @@ Verified grammatical solution.
 - **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
 
 
-### Question 292: High-Yield Problem 292  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 292: Infosys SE Question 292  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -5080,7 +5080,7 @@ Verified grammatical solution.
 ---
 
 
-### Question 293: High-Yield Problem 293  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 293: Infosys SE Question 293  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -5090,7 +5090,7 @@ Verified grammatical solution.
 - **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
 
 
-### Question 294: High-Yield Problem 294  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 294: Infosys SE Question 294  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -5113,7 +5113,7 @@ Verified grammatical solution.
 ---
 
 
-### Question 295: High-Yield Problem 295  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 295: Infosys SE Question 295  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -5123,7 +5123,7 @@ Verified grammatical solution.
 - **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
 
 
-### Question 296: High-Yield Problem 296  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 296: Infosys SE Question 296  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -5146,7 +5146,7 @@ Verified grammatical solution.
 ---
 
 
-### Question 297: High-Yield Problem 297  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 297: Infosys SE Question 297  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -5156,7 +5156,7 @@ Verified grammatical solution.
 - **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
 
 
-### Question 298: High-Yield Problem 298  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 298: Infosys SE Question 298  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -5179,7 +5179,7 @@ Verified grammatical solution.
 ---
 
 
-### Question 299: High-Yield Problem 299  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 299: Infosys SE Question 299  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -5189,7 +5189,7 @@ Verified grammatical solution.
 - **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
 
 
-### Question 300: High-Yield Problem 300  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 300: Infosys SE Question 300  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -5212,7 +5212,7 @@ Verified grammatical solution.
 ---
 
 
-### Question 301: High-Yield Problem 301  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 301: Infosys SE Question 301  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -5222,7 +5222,7 @@ Verified grammatical solution.
 - **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
 
 
-### Question 302: High-Yield Problem 302  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 302: Infosys SE Question 302  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -5245,7 +5245,7 @@ Verified grammatical solution.
 ---
 
 
-### Question 303: High-Yield Problem 303  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 303: Infosys SE Question 303  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -5255,7 +5255,7 @@ Verified grammatical solution.
 - **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
 
 
-### Question 304: High-Yield Problem 304  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 304: Infosys SE Question 304  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -5278,7 +5278,7 @@ Verified grammatical solution.
 ---
 
 
-### Question 305: High-Yield Problem 305  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 305: Infosys SE Question 305  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -5288,7 +5288,7 @@ Verified grammatical solution.
 - **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
 
 
-### Question 306: High-Yield Problem 306  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 306: Infosys SE Question 306  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -5311,7 +5311,7 @@ Verified grammatical solution.
 ---
 
 
-### Question 307: High-Yield Problem 307  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 307: Infosys SE Question 307  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -5321,7 +5321,7 @@ Verified grammatical solution.
 - **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
 
 
-### Question 308: High-Yield Problem 308  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 308: Infosys SE Question 308  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -5344,7 +5344,7 @@ Verified grammatical solution.
 ---
 
 
-### Question 309: High-Yield Problem 309  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 309: Infosys SE Question 309  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -5354,7 +5354,7 @@ Verified grammatical solution.
 - **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
 
 
-### Question 310: High-Yield Problem 310  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 310: Infosys SE Question 310  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -5377,7 +5377,7 @@ Verified grammatical solution.
 ---
 
 
-### Question 311: High-Yield Problem 311  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 311: Infosys SE Question 311  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -5387,7 +5387,7 @@ Verified grammatical solution.
 - **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
 
 
-### Question 312: High-Yield Problem 312  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 312: Infosys SE Question 312  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -5410,7 +5410,7 @@ Verified grammatical solution.
 ---
 
 
-### Question 313: High-Yield Problem 313  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 313: Infosys SE Question 313  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -5420,7 +5420,7 @@ Verified grammatical solution.
 - **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
 
 
-### Question 314: High-Yield Problem 314  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 314: Infosys SE Question 314  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -5443,7 +5443,7 @@ Verified grammatical solution.
 ---
 
 
-### Question 315: High-Yield Problem 315  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 315: Infosys SE Question 315  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -5453,7 +5453,7 @@ Verified grammatical solution.
 - **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
 
 
-### Question 316: High-Yield Problem 316  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 316: Infosys SE Question 316  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -5476,7 +5476,7 @@ Verified grammatical solution.
 ---
 
 
-### Question 317: High-Yield Problem 317  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 317: Infosys SE Question 317  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -5486,7 +5486,7 @@ Verified grammatical solution.
 - **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
 
 
-### Question 318: High-Yield Problem 318  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 318: Infosys SE Question 318  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -5509,7 +5509,7 @@ Verified grammatical solution.
 ---
 
 
-### Question 319: High-Yield Problem 319  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 319: Infosys SE Question 319  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -5519,7 +5519,7 @@ Verified grammatical solution.
 - **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
 
 
-### Question 320: High-Yield Problem 320  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 320: Infosys SE Question 320  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -5542,7 +5542,7 @@ Verified grammatical solution.
 ---
 
 
-### Question 321: High-Yield Problem 321  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 321: Infosys SE Question 321  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -5552,7 +5552,7 @@ Verified grammatical solution.
 - **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
 
 
-### Question 322: High-Yield Problem 322  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 322: Infosys SE Question 322  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -5575,7 +5575,7 @@ Verified grammatical solution.
 ---
 
 
-### Question 323: High-Yield Problem 323  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 323: Infosys SE Question 323  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -5585,7 +5585,7 @@ Verified grammatical solution.
 - **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
 
 
-### Question 324: High-Yield Problem 324  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 324: Infosys SE Question 324  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -5608,7 +5608,7 @@ Verified grammatical solution.
 ---
 
 
-### Question 325: High-Yield Problem 325  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 325: Infosys SE Question 325  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -5618,7 +5618,7 @@ Verified grammatical solution.
 - **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
 
 
-### Question 326: High-Yield Problem 326  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 326: Infosys SE Question 326  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -5641,7 +5641,7 @@ Verified grammatical solution.
 ---
 
 
-### Question 327: High-Yield Problem 327  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 327: Infosys SE Question 327  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -5651,7 +5651,7 @@ Verified grammatical solution.
 - **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
 
 
-### Question 328: High-Yield Problem 328  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 328: Infosys SE Question 328  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -5674,7 +5674,7 @@ Verified grammatical solution.
 ---
 
 
-### Question 329: High-Yield Problem 329  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 329: Infosys SE Question 329  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -5684,7 +5684,7 @@ Verified grammatical solution.
 - **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
 
 
-### Question 330: High-Yield Problem 330  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 330: Infosys SE Question 330  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -5707,7 +5707,7 @@ Verified grammatical solution.
 ---
 
 
-### Question 331: High-Yield Problem 331  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 331: Infosys SE Question 331  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -5717,7 +5717,7 @@ Verified grammatical solution.
 - **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
 
 
-### Question 332: High-Yield Problem 332  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 332: Infosys SE Question 332  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -5740,7 +5740,7 @@ Verified grammatical solution.
 ---
 
 
-### Question 333: High-Yield Problem 333  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 333: Infosys SE Question 333  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -5750,7 +5750,7 @@ Verified grammatical solution.
 - **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
 
 
-### Question 334: High-Yield Problem 334  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 334: Infosys SE Question 334  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -5773,7 +5773,7 @@ Verified grammatical solution.
 ---
 
 
-### Question 335: High-Yield Problem 335  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 335: Infosys SE Question 335  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -5783,7 +5783,7 @@ Verified grammatical solution.
 - **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
 
 
-### Question 336: High-Yield Problem 336  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 336: Infosys SE Question 336  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -5806,7 +5806,7 @@ Verified grammatical solution.
 ---
 
 
-### Question 337: High-Yield Problem 337  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 337: Infosys SE Question 337  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -5816,7 +5816,7 @@ Verified grammatical solution.
 - **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
 
 
-### Question 338: High-Yield Problem 338  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 338: Infosys SE Question 338  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -5839,7 +5839,7 @@ Verified grammatical solution.
 ---
 
 
-### Question 339: High-Yield Problem 339  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 339: Infosys SE Question 339  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -5849,7 +5849,7 @@ Verified grammatical solution.
 - **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
 
 
-### Question 340: High-Yield Problem 340  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 340: Infosys SE Question 340  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -5872,7 +5872,7 @@ Verified grammatical solution.
 ---
 
 
-### Question 341: High-Yield Problem 341  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 341: Infosys SE Question 341  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -5882,7 +5882,7 @@ Verified grammatical solution.
 - **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
 
 
-### Question 342: High-Yield Problem 342  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 342: Infosys SE Question 342  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -5905,7 +5905,7 @@ Verified grammatical solution.
 ---
 
 
-### Question 343: High-Yield Problem 343  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 343: Infosys SE Question 343  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -5915,7 +5915,7 @@ Verified grammatical solution.
 - **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
 
 
-### Question 344: High-Yield Problem 344  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 344: Infosys SE Question 344  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -5938,7 +5938,7 @@ Verified grammatical solution.
 ---
 
 
-### Question 345: High-Yield Problem 345  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 345: Infosys SE Question 345  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -5948,7 +5948,7 @@ Verified grammatical solution.
 - **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
 
 
-### Question 346: High-Yield Problem 346  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 346: Infosys SE Question 346  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -5971,7 +5971,7 @@ Verified grammatical solution.
 ---
 
 
-### Question 347: High-Yield Problem 347  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 347: Infosys SE Question 347  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -5981,7 +5981,7 @@ Verified grammatical solution.
 - **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
 
 
-### Question 348: High-Yield Problem 348  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 348: Infosys SE Question 348  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -6004,7 +6004,7 @@ Verified grammatical solution.
 ---
 
 
-### Question 349: High-Yield Problem 349  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 349: Infosys SE Question 349  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -6014,7 +6014,7 @@ Verified grammatical solution.
 - **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
 
 
-### Question 350: High-Yield Problem 350  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 350: Infosys SE Question 350  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -6037,7 +6037,7 @@ Verified grammatical solution.
 ---
 
 
-### Question 351: High-Yield Problem 351  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 351: Infosys SE Question 351  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -6047,7 +6047,7 @@ Verified grammatical solution.
 - **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
 
 
-### Question 352: High-Yield Problem 352  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 352: Infosys SE Question 352  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -6070,7 +6070,7 @@ Verified grammatical solution.
 ---
 
 
-### Question 353: High-Yield Problem 353  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 353: Infosys SE Question 353  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -6080,7 +6080,7 @@ Verified grammatical solution.
 - **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
 
 
-### Question 354: High-Yield Problem 354  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 354: Infosys SE Question 354  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -6103,7 +6103,7 @@ Verified grammatical solution.
 ---
 
 
-### Question 355: High-Yield Problem 355  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 355: Infosys SE Question 355  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -6113,7 +6113,7 @@ Verified grammatical solution.
 - **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
 
 
-### Question 356: High-Yield Problem 356  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 356: Infosys SE Question 356  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -6136,7 +6136,7 @@ Verified grammatical solution.
 ---
 
 
-### Question 357: High-Yield Problem 357  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 357: Infosys SE Question 357  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -6146,7 +6146,7 @@ Verified grammatical solution.
 - **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
 
 
-### Question 358: High-Yield Problem 358  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 358: Infosys SE Question 358  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -6169,7 +6169,7 @@ Verified grammatical solution.
 ---
 
 
-### Question 359: High-Yield Problem 359  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 359: Infosys SE Question 359  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -6179,7 +6179,7 @@ Verified grammatical solution.
 - **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
 
 
-### Question 360: High-Yield Problem 360  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 360: Infosys SE Question 360  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -6202,7 +6202,7 @@ Verified grammatical solution.
 ---
 
 
-### Question 361: High-Yield Problem 361  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 361: Infosys SE Question 361  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -6212,7 +6212,7 @@ Verified grammatical solution.
 - **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
 
 
-### Question 362: High-Yield Problem 362  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 362: Infosys SE Question 362  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -6235,7 +6235,7 @@ Verified grammatical solution.
 ---
 
 
-### Question 363: High-Yield Problem 363  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 363: Infosys SE Question 363  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -6245,7 +6245,7 @@ Verified grammatical solution.
 - **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
 
 
-### Question 364: High-Yield Problem 364  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 364: Infosys SE Question 364  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -6268,7 +6268,7 @@ Verified grammatical solution.
 ---
 
 
-### Question 365: High-Yield Problem 365  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 365: Infosys SE Question 365  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -6278,7 +6278,7 @@ Verified grammatical solution.
 - **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
 
 
-### Question 366: High-Yield Problem 366  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 366: Infosys SE Question 366  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -6301,7 +6301,7 @@ Verified grammatical solution.
 ---
 
 
-### Question 367: High-Yield Problem 367  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 367: Infosys SE Question 367  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -6311,7 +6311,7 @@ Verified grammatical solution.
 - **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
 
 
-### Question 368: High-Yield Problem 368  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 368: Infosys SE Question 368  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -6334,7 +6334,7 @@ Verified grammatical solution.
 ---
 
 
-### Question 369: High-Yield Problem 369  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 369: Infosys SE Question 369  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -6344,7 +6344,7 @@ Verified grammatical solution.
 - **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
 
 
-### Question 370: High-Yield Problem 370  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 370: Infosys SE Question 370  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -6367,7 +6367,7 @@ Verified grammatical solution.
 ---
 
 
-### Question 371: High-Yield Problem 371  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 371: Infosys SE Question 371  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -6377,7 +6377,7 @@ Verified grammatical solution.
 - **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
 
 
-### Question 372: High-Yield Problem 372  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 372: Infosys SE Question 372  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -6400,7 +6400,7 @@ Verified grammatical solution.
 ---
 
 
-### Question 373: High-Yield Problem 373  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 373: Infosys SE Question 373  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -6410,7 +6410,7 @@ Verified grammatical solution.
 - **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
 
 
-### Question 374: High-Yield Problem 374  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 374: Infosys SE Question 374  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -6433,7 +6433,7 @@ Verified grammatical solution.
 ---
 
 
-### Question 375: High-Yield Problem 375  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 375: Infosys SE Question 375  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -6443,7 +6443,7 @@ Verified grammatical solution.
 - **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
 
 
-### Question 376: High-Yield Problem 376  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 376: Infosys SE Question 376  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -6466,7 +6466,7 @@ Verified grammatical solution.
 ---
 
 
-### Question 377: High-Yield Problem 377  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 377: Infosys SE Question 377  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -6476,7 +6476,7 @@ Verified grammatical solution.
 - **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
 
 
-### Question 378: High-Yield Problem 378  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 378: Infosys SE Question 378  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -6499,7 +6499,7 @@ Verified grammatical solution.
 ---
 
 
-### Question 379: High-Yield Problem 379  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 379: Infosys SE Question 379  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -6509,7 +6509,7 @@ Verified grammatical solution.
 - **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
 
 
-### Question 380: High-Yield Problem 380  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 380: Infosys SE Question 380  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -6532,7 +6532,7 @@ Verified grammatical solution.
 ---
 
 
-### Question 381: High-Yield Problem 381  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 381: Infosys SE Question 381  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -6542,7 +6542,7 @@ Verified grammatical solution.
 - **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
 
 
-### Question 382: High-Yield Problem 382  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 382: Infosys SE Question 382  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -6565,7 +6565,7 @@ Verified grammatical solution.
 ---
 
 
-### Question 383: High-Yield Problem 383  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 383: Infosys SE Question 383  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -6575,7 +6575,7 @@ Verified grammatical solution.
 - **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
 
 
-### Question 384: High-Yield Problem 384  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 384: Infosys SE Question 384  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -6598,7 +6598,7 @@ Verified grammatical solution.
 ---
 
 
-### Question 385: High-Yield Problem 385  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 385: Infosys SE Question 385  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -6608,7 +6608,7 @@ Verified grammatical solution.
 - **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
 
 
-### Question 386: High-Yield Problem 386  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 386: Infosys SE Question 386  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -6631,7 +6631,7 @@ Verified grammatical solution.
 ---
 
 
-### Question 387: High-Yield Problem 387  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 387: Infosys SE Question 387  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -6641,7 +6641,7 @@ Verified grammatical solution.
 - **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
 
 
-### Question 388: High-Yield Problem 388  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 388: Infosys SE Question 388  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -6664,7 +6664,7 @@ Verified grammatical solution.
 ---
 
 
-### Question 389: High-Yield Problem 389  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 389: Infosys SE Question 389  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -6674,7 +6674,7 @@ Verified grammatical solution.
 - **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
 
 
-### Question 390: High-Yield Problem 390  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 390: Infosys SE Question 390  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -6697,7 +6697,7 @@ Verified grammatical solution.
 ---
 
 
-### Question 391: High-Yield Problem 391  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 391: Infosys SE Question 391  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -6707,7 +6707,7 @@ Verified grammatical solution.
 - **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
 
 
-### Question 392: High-Yield Problem 392  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 392: Infosys SE Question 392  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -6730,7 +6730,7 @@ Verified grammatical solution.
 ---
 
 
-### Question 393: High-Yield Problem 393  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 393: Infosys SE Question 393  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -6740,7 +6740,7 @@ Verified grammatical solution.
 - **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
 
 
-### Question 394: High-Yield Problem 394  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 394: Infosys SE Question 394  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -6763,7 +6763,7 @@ Verified grammatical solution.
 ---
 
 
-### Question 395: High-Yield Problem 395  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 395: Infosys SE Question 395  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -6773,7 +6773,7 @@ Verified grammatical solution.
 - **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
 
 
-### Question 396: High-Yield Problem 396  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 396: Infosys SE Question 396  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -6796,7 +6796,7 @@ Verified grammatical solution.
 ---
 
 
-### Question 397: High-Yield Problem 397  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 397: Infosys SE Question 397  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -6806,7 +6806,7 @@ Verified grammatical solution.
 - **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
 
 
-### Question 398: High-Yield Problem 398  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 398: Infosys SE Question 398  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -6829,7 +6829,7 @@ Verified grammatical solution.
 ---
 
 
-### Question 399: High-Yield Problem 399  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 399: Infosys SE Question 399  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -6839,7 +6839,7 @@ Verified grammatical solution.
 - **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
 
 
-### Question 400: High-Yield Problem 400  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 400: Infosys SE Question 400  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -6862,7 +6862,7 @@ Verified grammatical solution.
 ---
 
 
-### Question 401: High-Yield Problem 401  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 401: Infosys SE Question 401  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -6872,7 +6872,7 @@ Verified grammatical solution.
 - **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
 
 
-### Question 402: High-Yield Problem 402  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 402: Infosys SE Question 402  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -6895,7 +6895,7 @@ Verified grammatical solution.
 ---
 
 
-### Question 403: High-Yield Problem 403  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 403: Infosys SE Question 403  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -6905,7 +6905,7 @@ Verified grammatical solution.
 - **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
 
 
-### Question 404: High-Yield Problem 404  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 404: Infosys SE Question 404  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -6928,7 +6928,7 @@ Verified grammatical solution.
 ---
 
 
-### Question 405: High-Yield Problem 405  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 405: Infosys SE Question 405  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -6938,7 +6938,7 @@ Verified grammatical solution.
 - **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
 
 
-### Question 406: High-Yield Problem 406  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 406: Infosys SE Question 406  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -6961,7 +6961,7 @@ Verified grammatical solution.
 ---
 
 
-### Question 407: High-Yield Problem 407  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 407: Infosys SE Question 407  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -6971,7 +6971,7 @@ Verified grammatical solution.
 - **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
 
 
-### Question 408: High-Yield Problem 408  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 408: Infosys SE Question 408  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -6994,7 +6994,7 @@ Verified grammatical solution.
 ---
 
 
-### Question 409: High-Yield Problem 409  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 409: Infosys SE Question 409  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -7004,7 +7004,7 @@ Verified grammatical solution.
 - **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
 
 
-### Question 410: High-Yield Problem 410  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 410: Infosys SE Question 410  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -7027,7 +7027,7 @@ Verified grammatical solution.
 ---
 
 
-### Question 411: High-Yield Problem 411  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 411: Infosys SE Question 411  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -7037,7 +7037,7 @@ Verified grammatical solution.
 - **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
 
 
-### Question 412: High-Yield Problem 412  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 412: Infosys SE Question 412  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -7060,7 +7060,7 @@ Verified grammatical solution.
 ---
 
 
-### Question 413: High-Yield Problem 413  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 413: Infosys SE Question 413  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -7070,7 +7070,7 @@ Verified grammatical solution.
 - **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
 
 
-### Question 414: High-Yield Problem 414  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 414: Infosys SE Question 414  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -7093,7 +7093,7 @@ Verified grammatical solution.
 ---
 
 
-### Question 415: High-Yield Problem 415  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 415: Infosys SE Question 415  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -7103,7 +7103,7 @@ Verified grammatical solution.
 - **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
 
 
-### Question 416: High-Yield Problem 416  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 416: Infosys SE Question 416  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -7126,7 +7126,7 @@ Verified grammatical solution.
 ---
 
 
-### Question 417: High-Yield Problem 417  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 417: Infosys SE Question 417  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -7136,7 +7136,7 @@ Verified grammatical solution.
 - **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
 
 
-### Question 418: High-Yield Problem 418  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 418: Infosys SE Question 418  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -7159,7 +7159,7 @@ Verified grammatical solution.
 ---
 
 
-### Question 419: High-Yield Problem 419  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 419: Infosys SE Question 419  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -7169,7 +7169,7 @@ Verified grammatical solution.
 - **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
 
 
-### Question 420: High-Yield Problem 420  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 420: Infosys SE Question 420  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -7192,7 +7192,7 @@ Verified grammatical solution.
 ---
 
 
-### Question 421: High-Yield Problem 421  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 421: Infosys SE Question 421  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -7202,7 +7202,7 @@ Verified grammatical solution.
 - **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
 
 
-### Question 422: High-Yield Problem 422  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 422: Infosys SE Question 422  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -7225,7 +7225,7 @@ Verified grammatical solution.
 ---
 
 
-### Question 423: High-Yield Problem 423  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 423: Infosys SE Question 423  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -7235,7 +7235,7 @@ Verified grammatical solution.
 - **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
 
 
-### Question 424: High-Yield Problem 424  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 424: Infosys SE Question 424  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -7258,7 +7258,7 @@ Verified grammatical solution.
 ---
 
 
-### Question 425: High-Yield Problem 425  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 425: Infosys SE Question 425  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -7268,7 +7268,7 @@ Verified grammatical solution.
 - **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
 
 
-### Question 426: High-Yield Problem 426  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 426: Infosys SE Question 426  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -7291,7 +7291,7 @@ Verified grammatical solution.
 ---
 
 
-### Question 427: High-Yield Problem 427  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 427: Infosys SE Question 427  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -7301,7 +7301,7 @@ Verified grammatical solution.
 - **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
 
 
-### Question 428: High-Yield Problem 428  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 428: Infosys SE Question 428  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -7324,7 +7324,7 @@ Verified grammatical solution.
 ---
 
 
-### Question 429: High-Yield Problem 429  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 429: Infosys SE Question 429  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -7334,7 +7334,7 @@ Verified grammatical solution.
 - **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
 
 
-### Question 430: High-Yield Problem 430  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 430: Infosys SE Question 430  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -7357,7 +7357,7 @@ Verified grammatical solution.
 ---
 
 
-### Question 431: High-Yield Problem 431  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 431: Infosys SE Question 431  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -7367,7 +7367,7 @@ Verified grammatical solution.
 - **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
 
 
-### Question 432: High-Yield Problem 432  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 432: Infosys SE Question 432  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -7390,7 +7390,7 @@ Verified grammatical solution.
 ---
 
 
-### Question 433: High-Yield Problem 433  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 433: Infosys SE Question 433  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -7400,7 +7400,7 @@ Verified grammatical solution.
 - **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
 
 
-### Question 434: High-Yield Problem 434  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 434: Infosys SE Question 434  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -7423,7 +7423,7 @@ Verified grammatical solution.
 ---
 
 
-### Question 435: High-Yield Problem 435  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 435: Infosys SE Question 435  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -7433,7 +7433,7 @@ Verified grammatical solution.
 - **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
 
 
-### Question 436: High-Yield Problem 436  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 436: Infosys SE Question 436  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -7456,7 +7456,7 @@ Verified grammatical solution.
 ---
 
 
-### Question 437: High-Yield Problem 437  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 437: Infosys SE Question 437  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -7466,7 +7466,7 @@ Verified grammatical solution.
 - **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
 
 
-### Question 438: High-Yield Problem 438  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 438: Infosys SE Question 438  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -7489,7 +7489,7 @@ Verified grammatical solution.
 ---
 
 
-### Question 439: High-Yield Problem 439  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 439: Infosys SE Question 439  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -7499,7 +7499,7 @@ Verified grammatical solution.
 - **Sub-Domain Focus**: Sentence Correction 100 Advanced MCQs
 
 
-### Question 440: High-Yield Problem 440  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 440: Infosys SE Question 440  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -7522,7 +7522,7 @@ Verified grammatical solution.
 ---
 
 
-### Question 441: High-Yield Problem 441  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 441: Infosys SE Question 441  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -7532,7 +7532,7 @@ Verified grammatical solution.
 - **Sub-Domain Focus**: Master Grammar Rules & Practice Tests
 
 
-### Question 442: High-Yield Problem 442  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 442: Infosys SE Question 442  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -7556,7 +7556,7 @@ Verified grammatical solution.
 ---
 
 
-### Question 443: High-Yield Problem 443  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 443: Infosys SE Question 443  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -7566,7 +7566,7 @@ Verified grammatical solution.
 - **Sub-Domain Focus**: Master Grammar Rules & Practice Tests
 
 
-### Question 444: High-Yield Problem 444  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 444: Infosys SE Question 444  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -7590,7 +7590,7 @@ Verified grammatical solution.
 ---
 
 
-### Question 445: High-Yield Problem 445  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 445: Infosys SE Question 445  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -7600,7 +7600,7 @@ Verified grammatical solution.
 - **Sub-Domain Focus**: Master Grammar Rules & Practice Tests
 
 
-### Question 446: High-Yield Problem 446  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 446: Infosys SE Question 446  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -7624,7 +7624,7 @@ Verified grammatical solution.
 ---
 
 
-### Question 447: High-Yield Problem 447  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 447: Infosys SE Question 447  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -7634,7 +7634,7 @@ Verified grammatical solution.
 - **Sub-Domain Focus**: Master Grammar Rules & Practice Tests
 
 
-### Question 448: High-Yield Problem 448  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 448: Infosys SE Question 448  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -7658,7 +7658,7 @@ Verified grammatical solution.
 ---
 
 
-### Question 449: High-Yield Problem 449  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 449: Infosys SE Question 449  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -7668,7 +7668,7 @@ Verified grammatical solution.
 - **Sub-Domain Focus**: Master Grammar Rules & Practice Tests
 
 
-### Question 450: High-Yield Problem 450  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 450: Infosys SE Question 450  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -7692,7 +7692,7 @@ Verified grammatical solution.
 ---
 
 
-### Question 451: High-Yield Problem 451  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 451: Infosys SE Question 451  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -7702,7 +7702,7 @@ Verified grammatical solution.
 - **Sub-Domain Focus**: Master Grammar Rules & Practice Tests
 
 
-### Question 452: High-Yield Problem 452  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 452: Infosys SE Question 452  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -7726,7 +7726,7 @@ Verified grammatical solution.
 ---
 
 
-### Question 453: High-Yield Problem 453  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 453: Infosys SE Question 453  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -7736,7 +7736,7 @@ Verified grammatical solution.
 - **Sub-Domain Focus**: Master Grammar Rules & Practice Tests
 
 
-### Question 454: High-Yield Problem 454  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 454: Infosys SE Question 454  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -7760,7 +7760,7 @@ Verified grammatical solution.
 ---
 
 
-### Question 455: High-Yield Problem 455  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 455: Infosys SE Question 455  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -7770,7 +7770,7 @@ Verified grammatical solution.
 - **Sub-Domain Focus**: Master Grammar Rules & Practice Tests
 
 
-### Question 456: High-Yield Problem 456  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 456: Infosys SE Question 456  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -7794,7 +7794,7 @@ Verified grammatical solution.
 ---
 
 
-### Question 457: High-Yield Problem 457  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 457: Infosys SE Question 457  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -7804,7 +7804,7 @@ Verified grammatical solution.
 - **Sub-Domain Focus**: Master Grammar Rules & Practice Tests
 
 
-### Question 458: High-Yield Problem 458  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 458: Infosys SE Question 458  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -7828,7 +7828,7 @@ Verified grammatical solution.
 ---
 
 
-### Question 459: High-Yield Problem 459  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 459: Infosys SE Question 459  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -7838,7 +7838,7 @@ Verified grammatical solution.
 - **Sub-Domain Focus**: Master Grammar Rules & Practice Tests
 
 
-### Question 460: High-Yield Problem 460  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 460: Infosys SE Question 460  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -7862,7 +7862,7 @@ Verified grammatical solution.
 ---
 
 
-### Question 461: High-Yield Problem 461  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 461: Infosys SE Question 461  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -7872,7 +7872,7 @@ Verified grammatical solution.
 - **Sub-Domain Focus**: Master Grammar Rules & Practice Tests
 
 
-### Question 462: High-Yield Problem 462  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 462: Infosys SE Question 462  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -7896,7 +7896,7 @@ Verified grammatical solution.
 ---
 
 
-### Question 463: High-Yield Problem 463  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 463: Infosys SE Question 463  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -7906,7 +7906,7 @@ Verified grammatical solution.
 - **Sub-Domain Focus**: Master Grammar Rules & Practice Tests
 
 
-### Question 464: High-Yield Problem 464  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 464: Infosys SE Question 464  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -7930,7 +7930,7 @@ Verified grammatical solution.
 ---
 
 
-### Question 465: High-Yield Problem 465  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 465: Infosys SE Question 465  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -7940,7 +7940,7 @@ Verified grammatical solution.
 - **Sub-Domain Focus**: Master Grammar Rules & Practice Tests
 
 
-### Question 466: High-Yield Problem 466  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 466: Infosys SE Question 466  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -7964,7 +7964,7 @@ Verified grammatical solution.
 ---
 
 
-### Question 467: High-Yield Problem 467  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 467: Infosys SE Question 467  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -7974,7 +7974,7 @@ Verified grammatical solution.
 - **Sub-Domain Focus**: Master Grammar Rules & Practice Tests
 
 
-### Question 468: High-Yield Problem 468  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 468: Infosys SE Question 468  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -7998,7 +7998,7 @@ Verified grammatical solution.
 ---
 
 
-### Question 469: High-Yield Problem 469  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 469: Infosys SE Question 469  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -8008,7 +8008,7 @@ Verified grammatical solution.
 - **Sub-Domain Focus**: Master Grammar Rules & Practice Tests
 
 
-### Question 470: High-Yield Problem 470  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 470: Infosys SE Question 470  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -8032,7 +8032,7 @@ Verified grammatical solution.
 ---
 
 
-### Question 471: High-Yield Problem 471  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 471: Infosys SE Question 471  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -8042,7 +8042,7 @@ Verified grammatical solution.
 - **Sub-Domain Focus**: Master Grammar Rules & Practice Tests
 
 
-### Question 472: High-Yield Problem 472  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 472: Infosys SE Question 472  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -8066,7 +8066,7 @@ Verified grammatical solution.
 ---
 
 
-### Question 473: High-Yield Problem 473  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 473: Infosys SE Question 473  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -8076,7 +8076,7 @@ Verified grammatical solution.
 - **Sub-Domain Focus**: Master Grammar Rules & Practice Tests
 
 
-### Question 474: High-Yield Problem 474  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 474: Infosys SE Question 474  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -8100,7 +8100,7 @@ Verified grammatical solution.
 ---
 
 
-### Question 475: High-Yield Problem 475  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 475: Infosys SE Question 475  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -8110,7 +8110,7 @@ Verified grammatical solution.
 - **Sub-Domain Focus**: Master Grammar Rules & Practice Tests
 
 
-### Question 476: High-Yield Problem 476  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 476: Infosys SE Question 476  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -8134,7 +8134,7 @@ Verified grammatical solution.
 ---
 
 
-### Question 477: High-Yield Problem 477  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 477: Infosys SE Question 477  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -8144,7 +8144,7 @@ Verified grammatical solution.
 - **Sub-Domain Focus**: Master Grammar Rules & Practice Tests
 
 
-### Question 478: High-Yield Problem 478  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 478: Infosys SE Question 478  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -8168,7 +8168,7 @@ Verified grammatical solution.
 ---
 
 
-### Question 479: High-Yield Problem 479  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 479: Infosys SE Question 479  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -8178,7 +8178,7 @@ Verified grammatical solution.
 - **Sub-Domain Focus**: Master Grammar Rules & Practice Tests
 
 
-### Question 480: High-Yield Problem 480  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 480: Infosys SE Question 480  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -8202,7 +8202,7 @@ Verified grammatical solution.
 ---
 
 
-### Question 481: High-Yield Problem 481  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 481: Infosys SE Question 481  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -8212,7 +8212,7 @@ Verified grammatical solution.
 - **Sub-Domain Focus**: Master Grammar Rules & Practice Tests
 
 
-### Question 482: High-Yield Problem 482  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 482: Infosys SE Question 482  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -8236,7 +8236,7 @@ Verified grammatical solution.
 ---
 
 
-### Question 483: High-Yield Problem 483  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 483: Infosys SE Question 483  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -8246,7 +8246,7 @@ Verified grammatical solution.
 - **Sub-Domain Focus**: Master Grammar Rules & Practice Tests
 
 
-### Question 484: High-Yield Problem 484  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 484: Infosys SE Question 484  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -8270,7 +8270,7 @@ Verified grammatical solution.
 ---
 
 
-### Question 485: High-Yield Problem 485  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 485: Infosys SE Question 485  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -8280,7 +8280,7 @@ Verified grammatical solution.
 - **Sub-Domain Focus**: Master Grammar Rules & Practice Tests
 
 
-### Question 486: High-Yield Problem 486  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 486: Infosys SE Question 486  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -8304,7 +8304,7 @@ Verified grammatical solution.
 ---
 
 
-### Question 487: High-Yield Problem 487  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 487: Infosys SE Question 487  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -8314,7 +8314,7 @@ Verified grammatical solution.
 - **Sub-Domain Focus**: Master Grammar Rules & Practice Tests
 
 
-### Question 488: High-Yield Problem 488  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 488: Infosys SE Question 488  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -8338,7 +8338,7 @@ Verified grammatical solution.
 ---
 
 
-### Question 489: High-Yield Problem 489  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 489: Infosys SE Question 489  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -8348,7 +8348,7 @@ Verified grammatical solution.
 - **Sub-Domain Focus**: Master Grammar Rules & Practice Tests
 
 
-### Question 490: High-Yield Problem 490  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 490: Infosys SE Question 490  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -8372,7 +8372,7 @@ Verified grammatical solution.
 ---
 
 
-### Question 491: High-Yield Problem 491  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 491: Infosys SE Question 491  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -8382,7 +8382,7 @@ Verified grammatical solution.
 - **Sub-Domain Focus**: Master Grammar Rules & Practice Tests
 
 
-### Question 492: High-Yield Problem 492  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 492: Infosys SE Question 492  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -8406,7 +8406,7 @@ Verified grammatical solution.
 ---
 
 
-### Question 493: High-Yield Problem 493  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 493: Infosys SE Question 493  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -8416,7 +8416,7 @@ Verified grammatical solution.
 - **Sub-Domain Focus**: Master Grammar Rules & Practice Tests
 
 
-### Question 494: High-Yield Problem 494  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 494: Infosys SE Question 494  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -8440,7 +8440,7 @@ Verified grammatical solution.
 ---
 
 
-### Question 495: High-Yield Problem 495  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 495: Infosys SE Question 495  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -8450,7 +8450,7 @@ Verified grammatical solution.
 - **Sub-Domain Focus**: Master Grammar Rules & Practice Tests
 
 
-### Question 496: High-Yield Problem 496  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 496: Infosys SE Question 496  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -8474,7 +8474,7 @@ Verified grammatical solution.
 ---
 
 
-### Question 497: High-Yield Problem 497  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 497: Infosys SE Question 497  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -8484,7 +8484,7 @@ Verified grammatical solution.
 - **Sub-Domain Focus**: Master Grammar Rules & Practice Tests
 
 
-### Question 498: High-Yield Problem 498  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 498: Infosys SE Question 498  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -8508,7 +8508,7 @@ Verified grammatical solution.
 ---
 
 
-### Question 499: High-Yield Problem 499  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 499: Infosys SE Question 499  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -8518,7 +8518,7 @@ Verified grammatical solution.
 - **Sub-Domain Focus**: Master Grammar Rules & Practice Tests
 
 
-### Question 500: High-Yield Problem 500  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 500: Infosys SE Question 500  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -8542,7 +8542,7 @@ Verified grammatical solution.
 ---
 
 
-### Question 501: High-Yield Problem 501  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 501: Infosys SE Question 501  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -8553,7 +8553,7 @@ Verified grammatical solution.
 - **Visual Reference Plate**: `images/slot1_page_009.png`
 
 
-### Question 502: High-Yield Problem 502  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 502: Infosys SE Question 502  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -8576,7 +8576,7 @@ The verb 'want' followed by an object takes a full infinitive: 'want [someone] t
 ---
 
 
-### Question 503: High-Yield Problem 503  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 503: Infosys SE Question 503  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -8587,7 +8587,7 @@ The verb 'want' followed by an object takes a full infinitive: 'want [someone] t
 - **Visual Reference Plate**: `images/slot2_page_009.png`
 
 
-### Question 504: High-Yield Problem 504  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 504: Infosys SE Question 504  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -8610,7 +8610,7 @@ Official Exam Key: `C) is`. Systematic step-by-step verification confirms this r
 ---
 
 
-### Question 505: High-Yield Problem 505  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 505: Infosys SE Question 505  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -8621,7 +8621,7 @@ Official Exam Key: `C) is`. Systematic step-by-step verification confirms this r
 - **Visual Reference Plate**: `images/grammar_page_001.png`
 
 
-### Question 506: High-Yield Problem 506  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 506: Infosys SE Question 506  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -8644,7 +8644,7 @@ The correct phrase is "has been called" instead of "have been called."
 ---
 
 
-### Question 507: High-Yield Problem 507  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 507: Infosys SE Question 507  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -8655,7 +8655,7 @@ The correct phrase is "has been called" instead of "have been called."
 - **Visual Reference Plate**: `images/grammar_page_001.png`
 
 
-### Question 508: High-Yield Problem 508  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 508: Infosys SE Question 508  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -8678,7 +8678,7 @@ Choose the correct sentence:
 ---
 
 
-### Question 509: High-Yield Problem 509  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 509: Infosys SE Question 509  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -8689,7 +8689,7 @@ Choose the correct sentence:
 - **Visual Reference Plate**: `images/grammar_page_001.png`
 
 
-### Question 510: High-Yield Problem 510  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 510: Infosys SE Question 510  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -8712,7 +8712,7 @@ The correct phrase is "by accident."
 ---
 
 
-### Question 511: High-Yield Problem 511  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 511: Infosys SE Question 511  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -8723,7 +8723,7 @@ The correct phrase is "by accident."
 - **Visual Reference Plate**: `images/grammar_page_002.png`
 
 
-### Question 512: High-Yield Problem 512  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 512: Infosys SE Question 512  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -8746,7 +8746,7 @@ Grammar rule application confirms `A` is the strictly standard and syntactically
 ---
 
 
-### Question 513: High-Yield Problem 513  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 513: Infosys SE Question 513  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -8757,7 +8757,7 @@ Grammar rule application confirms `A` is the strictly standard and syntactically
 - **Visual Reference Plate**: `images/grammar_page_002.png`
 
 
-### Question 514: High-Yield Problem 514  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 514: Infosys SE Question 514  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -8780,7 +8780,7 @@ Grammar rule application confirms `B` is the strictly standard and syntactically
 ---
 
 
-### Question 515: High-Yield Problem 515  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 515: Infosys SE Question 515  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -8791,7 +8791,7 @@ Grammar rule application confirms `B` is the strictly standard and syntactically
 - **Visual Reference Plate**: `images/grammar_page_002.png`
 
 
-### Question 516: High-Yield Problem 516  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 516: Infosys SE Question 516  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -8814,7 +8814,7 @@ Grammar rule application confirms `B` is the strictly standard and syntactically
 ---
 
 
-### Question 517: High-Yield Problem 517  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 517: Infosys SE Question 517  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -8825,7 +8825,7 @@ Grammar rule application confirms `B` is the strictly standard and syntactically
 - **Visual Reference Plate**: `images/grammar_page_002.png`
 
 
-### Question 518: High-Yield Problem 518  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 518: Infosys SE Question 518  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -8848,7 +8848,7 @@ Grammar rule application confirms `B` is the strictly standard and syntactically
 ---
 
 
-### Question 519: High-Yield Problem 519  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 519: Infosys SE Question 519  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -8859,7 +8859,7 @@ Grammar rule application confirms `B` is the strictly standard and syntactically
 - **Visual Reference Plate**: `images/grammar_page_003.png`
 
 
-### Question 520: High-Yield Problem 520  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 520: Infosys SE Question 520  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -8882,7 +8882,7 @@ Grammar rule application confirms `A` is the strictly standard and syntactically
 ---
 
 
-### Question 521: High-Yield Problem 521  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 521: Infosys SE Question 521  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -8893,7 +8893,7 @@ Grammar rule application confirms `A` is the strictly standard and syntactically
 - **Visual Reference Plate**: `images/grammar_page_003.png`
 
 
-### Question 522: High-Yield Problem 522  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 522: Infosys SE Question 522  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -8916,7 +8916,7 @@ Identify the error in the sentence: The committee was divided in their opinion r
 ---
 
 
-### Question 523: High-Yield Problem 523  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 523: Infosys SE Question 523  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -8927,7 +8927,7 @@ Identify the error in the sentence: The committee was divided in their opinion r
 - **Visual Reference Plate**: `images/grammar_page_003.png`
 
 
-### Question 524: High-Yield Problem 524  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 524: Infosys SE Question 524  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -8950,7 +8950,7 @@ Grammar rule application confirms `C` is the strictly standard and syntactically
 ---
 
 
-### Question 525: High-Yield Problem 525  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 525: Infosys SE Question 525  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -8961,7 +8961,7 @@ Grammar rule application confirms `C` is the strictly standard and syntactically
 - **Visual Reference Plate**: `images/grammar_page_004.png`
 
 
-### Question 526: High-Yield Problem 526  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 526: Infosys SE Question 526  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -8984,7 +8984,7 @@ Grammar rule application confirms `B` is the strictly standard and syntactically
 ---
 
 
-### Question 527: High-Yield Problem 527  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 527: Infosys SE Question 527  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -8995,7 +8995,7 @@ Grammar rule application confirms `B` is the strictly standard and syntactically
 - **Visual Reference Plate**: `images/grammar_page_004.png`
 
 
-### Question 528: High-Yield Problem 528  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 528: Infosys SE Question 528  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -9018,7 +9018,7 @@ Grammar rule application confirms `B` is the strictly standard and syntactically
 ---
 
 
-### Question 529: High-Yield Problem 529  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 529: Infosys SE Question 529  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -9029,7 +9029,7 @@ Grammar rule application confirms `B` is the strictly standard and syntactically
 - **Visual Reference Plate**: `images/grammar_page_004.png`
 
 
-### Question 530: High-Yield Problem 530  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 530: Infosys SE Question 530  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -9052,7 +9052,7 @@ Grammar rule application confirms `A` is the strictly standard and syntactically
 ---
 
 
-### Question 531: High-Yield Problem 531  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 531: Infosys SE Question 531  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -9063,7 +9063,7 @@ Grammar rule application confirms `A` is the strictly standard and syntactically
 - **Visual Reference Plate**: `images/grammar_page_005.png`
 
 
-### Question 532: High-Yield Problem 532  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 532: Infosys SE Question 532  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -9086,7 +9086,7 @@ Grammar rule application confirms `A` is the strictly standard and syntactically
 ---
 
 
-### Question 533: High-Yield Problem 533  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 533: Infosys SE Question 533  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -9097,7 +9097,7 @@ Grammar rule application confirms `A` is the strictly standard and syntactically
 - **Visual Reference Plate**: `images/grammar_page_005.png`
 
 
-### Question 534: High-Yield Problem 534  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 534: Infosys SE Question 534  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -9120,7 +9120,7 @@ Grammar rule application confirms `C` is the strictly standard and syntactically
 ---
 
 
-### Question 535: High-Yield Problem 535  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 535: Infosys SE Question 535  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -9131,7 +9131,7 @@ Grammar rule application confirms `C` is the strictly standard and syntactically
 - **Visual Reference Plate**: `images/grammar_page_005.png`
 
 
-### Question 536: High-Yield Problem 536  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 536: Infosys SE Question 536  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -9154,7 +9154,7 @@ Grammar rule application confirms `B` is the strictly standard and syntactically
 ---
 
 
-### Question 537: High-Yield Problem 537  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 537: Infosys SE Question 537  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -9165,7 +9165,7 @@ Grammar rule application confirms `B` is the strictly standard and syntactically
 - **Visual Reference Plate**: `images/grammar_page_005.png`
 
 
-### Question 538: High-Yield Problem 538  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 538: Infosys SE Question 538  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -9188,7 +9188,7 @@ Grammar rule application confirms `A` is the strictly standard and syntactically
 ---
 
 
-### Question 539: High-Yield Problem 539  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 539: Infosys SE Question 539  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -9199,7 +9199,7 @@ Grammar rule application confirms `A` is the strictly standard and syntactically
 - **Visual Reference Plate**: `images/grammar_page_006.png`
 
 
-### Question 540: High-Yield Problem 540  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 540: Infosys SE Question 540  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -9222,7 +9222,7 @@ Grammar rule application confirms `A` is the strictly standard and syntactically
 ---
 
 
-### Question 541: High-Yield Problem 541  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 541: Infosys SE Question 541  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -9233,7 +9233,7 @@ Grammar rule application confirms `A` is the strictly standard and syntactically
 - **Visual Reference Plate**: `images/grammar_page_006.png`
 
 
-### Question 542: High-Yield Problem 542  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 542: Infosys SE Question 542  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -9256,7 +9256,7 @@ Find the error in the sentence: She has returned back to her hometown.
 ---
 
 
-### Question 543: High-Yield Problem 543  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 543: Infosys SE Question 543  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -9267,7 +9267,7 @@ Find the error in the sentence: She has returned back to her hometown.
 - **Visual Reference Plate**: `images/grammar_page_006.png`
 
 
-### Question 544: High-Yield Problem 544  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 544: Infosys SE Question 544  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -9290,7 +9290,7 @@ Grammar rule application confirms `B` is the strictly standard and syntactically
 ---
 
 
-### Question 545: High-Yield Problem 545  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 545: Infosys SE Question 545  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -9301,7 +9301,7 @@ Grammar rule application confirms `B` is the strictly standard and syntactically
 - **Visual Reference Plate**: `images/grammar_page_007.png`
 
 
-### Question 546: High-Yield Problem 546  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 546: Infosys SE Question 546  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -9324,7 +9324,7 @@ The following sentence has an error. Identify the part that contains the error: 
 ---
 
 
-### Question 547: High-Yield Problem 547  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 547: Infosys SE Question 547  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -9335,7 +9335,7 @@ The following sentence has an error. Identify the part that contains the error: 
 - **Visual Reference Plate**: `images/grammar_page_007.png`
 
 
-### Question 548: High-Yield Problem 548  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 548: Infosys SE Question 548  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -9358,7 +9358,7 @@ Fill in the blanks with the most appropriate option: The research findings were 
 ---
 
 
-### Question 549: High-Yield Problem 549  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 549: Infosys SE Question 549  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -9369,7 +9369,7 @@ Fill in the blanks with the most appropriate option: The research findings were 
 - **Visual Reference Plate**: `images/grammar_page_007.png`
 
 
-### Question 550: High-Yield Problem 550  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 550: Infosys SE Question 550  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -9392,7 +9392,7 @@ The correct form of the verb is "has taken."
 ---
 
 
-### Question 551: High-Yield Problem 551  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 551: Infosys SE Question 551  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -9403,7 +9403,7 @@ The correct form of the verb is "has taken."
 - **Visual Reference Plate**: `images/grammar_page_008.png`
 
 
-### Question 552: High-Yield Problem 552  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 552: Infosys SE Question 552  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -9426,7 +9426,7 @@ Grammar rule application confirms `D` is the strictly standard and syntactically
 ---
 
 
-### Question 553: High-Yield Problem 553  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 553: Infosys SE Question 553  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -9437,7 +9437,7 @@ Grammar rule application confirms `D` is the strictly standard and syntactically
 - **Visual Reference Plate**: `images/grammar_page_008.png`
 
 
-### Question 554: High-Yield Problem 554  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 554: Infosys SE Question 554  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -9460,7 +9460,7 @@ The sentence uses the third conditional structure.
 ---
 
 
-### Question 555: High-Yield Problem 555  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 555: Infosys SE Question 555  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -9471,7 +9471,7 @@ The sentence uses the third conditional structure.
 - **Visual Reference Plate**: `images/grammar_page_009.png`
 
 
-### Question 556: High-Yield Problem 556  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 556: Infosys SE Question 556  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -9494,7 +9494,7 @@ In the following passage, one sentence is grammatically incorrect. Identify the 
 ---
 
 
-### Question 557: High-Yield Problem 557  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 557: Infosys SE Question 557  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -9505,7 +9505,7 @@ In the following passage, one sentence is grammatically incorrect. Identify the 
 - **Visual Reference Plate**: `images/grammar_page_009.png`
 
 
-### Question 558: High-Yield Problem 558  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 558: Infosys SE Question 558  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.

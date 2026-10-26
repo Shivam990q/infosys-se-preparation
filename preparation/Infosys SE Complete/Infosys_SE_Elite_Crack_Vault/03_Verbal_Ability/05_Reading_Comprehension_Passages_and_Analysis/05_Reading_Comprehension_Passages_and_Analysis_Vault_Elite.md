@@ -1,13 +1,13 @@
 # 🏆 Infosys SE Elite Crack Vault — 05 Reading Comprehension Passages and Analysis Vault Elite
-> **Target Role:** Infosys Systems Engineer (SE) / Specialist Programmer (SP)  
-> **Curation Standard:** **High-Yield & Core Exam Questions ONLY** (All Redundant Variants Purged)  
+> **Target Role:** **Infosys Systems Engineer (SE)** (3.6 – 4.0 LPA Recruitment Drive)  
+> **Curation Standard:** **100% Pure SE Role Specific** (All SP/DSE Upper-Level & Practice Variants Purged)  
 > **Total Curated Questions in Topic:** **162 Questions**  
-> **Question Breakdown:** 🔴 `75 Must-Solve` | 🟡 `87 Core SE` | 🔵 `0 Advanced SP/DSE`  
+> **Question Breakdown:** 🔴 `75 Must-Solve` | 🟡 `87 Core SE Level`  
 > **Verification Score:** 100% Mathematically & Deductively Proven with Zero Hallucination  
 
 ---
 
-### Question 1: High-Yield Problem 1  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 1: Infosys SE Question 1  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -18,7 +18,7 @@
 - **Topic Domain**: **Reading Comprehension: AI & Workforce Transformation**
 
 
-### Question 2: High-Yield Problem 2  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 2: Infosys SE Question 2  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -51,7 +51,7 @@ Paragraph Reference: The passage explicitly explores both dimensions: benefits (
 ---
 
 
-### Question 3: High-Yield Problem 3  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 3: Infosys SE Question 3  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -62,7 +62,7 @@ Paragraph Reference: The passage explicitly explores both dimensions: benefits (
 - **Topic Domain**: **Reading Comprehension: AI & Workforce Transformation**
 
 
-### Question 4: High-Yield Problem 4  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 4: Infosys SE Question 4  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -95,7 +95,7 @@ Paragraph Reference: 'Proponents, however, contend that AI augments human capabi
 ---
 
 
-### Question 5: High-Yield Problem 5  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 5: Infosys SE Question 5  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -106,7 +106,7 @@ Paragraph Reference: 'Proponents, however, contend that AI augments human capabi
 - **Topic Domain**: **Reading Comprehension: AI & Workforce Transformation**
 
 
-### Question 6: High-Yield Problem 6  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 6: Infosys SE Question 6  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -139,7 +139,7 @@ Paragraph Reference: 'Critics argue that AI can inadvertently perpetuate biases 
 ---
 
 
-### Question 7: High-Yield Problem 7  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 7: Infosys SE Question 7  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -150,7 +150,7 @@ Paragraph Reference: 'Critics argue that AI can inadvertently perpetuate biases 
 - **Topic Domain**: **Reading Comprehension: AI & Workforce Transformation**
 
 
-### Question 8: High-Yield Problem 8  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 8: Infosys SE Question 8  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -183,7 +183,7 @@ Vocabulary in Context: 'render certain job roles obsolete' means that automation
 ---
 
 
-### Question 9: High-Yield Problem 9  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 9: Infosys SE Question 9  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -194,7 +194,7 @@ Vocabulary in Context: 'render certain job roles obsolete' means that automation
 - **Topic Domain**: **Reading Comprehension: AI & Workforce Transformation**
 
 
-### Question 10: High-Yield Problem 10  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 10: Infosys SE Question 10  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -227,7 +227,7 @@ Paragraph Reference: 'Organizations that successfully implement AI balance techn
 ---
 
 
-### Question 11: High-Yield Problem 11  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 11: Infosys SE Question 11  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -238,7 +238,7 @@ Paragraph Reference: 'Organizations that successfully implement AI balance techn
 - **Topic Domain**: **Reading Comprehension: Passage Analysis & Contextual Inference**
 
 
-### Question 12: High-Yield Problem 12  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 12: Infosys SE Question 12  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -274,7 +274,7 @@ Refer the last few lines of first paragraph "But stifling your imagination is th
 ---
 
 
-### Question 13: High-Yield Problem 13  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 13: Infosys SE Question 13  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -285,7 +285,7 @@ Refer the last few lines of first paragraph "But stifling your imagination is th
 - **Topic Domain**: **Reading Comprehension: Passage Analysis & Contextual Inference**
 
 
-### Question 14: High-Yield Problem 14  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 14: Infosys SE Question 14  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -318,7 +318,7 @@ Refer second paragraph of the passage " The creative individual does not see the
 ---
 
 
-### Question 15: High-Yield Problem 15  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 15: Infosys SE Question 15  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -329,7 +329,7 @@ Refer second paragraph of the passage " The creative individual does not see the
 - **Topic Domain**: **Reading Comprehension: Passage Analysis & Contextual Inference**
 
 
-### Question 16: High-Yield Problem 16  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 16: Infosys SE Question 16  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -363,7 +363,7 @@ Refer the third paragraph of the passage "our imagination may leave you in a goo
 ---
 
 
-### Question 17: High-Yield Problem 17  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 17: Infosys SE Question 17  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -374,7 +374,7 @@ Refer the third paragraph of the passage "our imagination may leave you in a goo
 - **Topic Domain**: **Reading Comprehension: Passage Analysis & Contextual Inference**
 
 
-### Question 18: High-Yield Problem 18  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 18: Infosys SE Question 18  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -406,7 +406,7 @@ Q4. Which of the following is an appropriate title of the passage?
 ---
 
 
-### Question 19: High-Yield Problem 19  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 19: Infosys SE Question 19  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -417,7 +417,7 @@ Q4. Which of the following is an appropriate title of the passage?
 - **Topic Domain**: **Reading Comprehension: Passage Analysis & Contextual Inference**
 
 
-### Question 20: High-Yield Problem 20  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 20: Infosys SE Question 20  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -449,7 +449,7 @@ The passage is about about using imagination for different purposes. All the giv
 ---
 
 
-### Question 21: High-Yield Problem 21  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 21: Infosys SE Question 21  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -460,7 +460,7 @@ The passage is about about using imagination for different purposes. All the giv
 - **Topic Domain**: **Reading Comprehension: Passage Analysis & Contextual Inference**
 
 
-### Question 22: High-Yield Problem 22  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 22: Infosys SE Question 22  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -493,7 +493,7 @@ Refer the last paragraph of the passage "On the other hand, someone who uses the
 ---
 
 
-### Question 23: High-Yield Problem 23  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 23: Infosys SE Question 23  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -504,7 +504,7 @@ Refer the last paragraph of the passage "On the other hand, someone who uses the
 - **Topic Domain**: **Reading Comprehension: Passage Analysis & Contextual Inference**
 
 
-### Question 24: High-Yield Problem 24  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 24: Infosys SE Question 24  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -538,7 +538,7 @@ Conjure means implore (someone) to do something. Hence it has same meaning as ad
 ---
 
 
-### Question 25: High-Yield Problem 25  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 25: Infosys SE Question 25  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -549,7 +549,7 @@ Conjure means implore (someone) to do something. Hence it has same meaning as ad
 - **Topic Domain**: **Reading Comprehension: Passage Analysis & Contextual Inference**
 
 
-### Question 26: High-Yield Problem 26  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 26: Infosys SE Question 26  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -583,7 +583,7 @@ Quantified means express or measure the quantity of. Hence it has same meaning a
 ---
 
 
-### Question 27: High-Yield Problem 27  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 27: Infosys SE Question 27  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -594,7 +594,7 @@ Quantified means express or measure the quantity of. Hence it has same meaning a
 - **Topic Domain**: **Reading Comprehension: Passage Analysis & Contextual Inference**
 
 
-### Question 28: High-Yield Problem 28  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 28: Infosys SE Question 28  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -628,7 +628,7 @@ Meticulous means in a way that shows great attention to detail, very thoroughly.
 ---
 
 
-### Question 29: High-Yield Problem 29  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 29: Infosys SE Question 29  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -639,7 +639,7 @@ Meticulous means in a way that shows great attention to detail, very thoroughly.
 - **Topic Domain**: **Reading Comprehension: Passage Analysis & Contextual Inference**
 
 
-### Question 30: High-Yield Problem 30  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 30: Infosys SE Question 30  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -673,7 +673,7 @@ Envision means imagine as a future possibility, visualize.. Hence it has opposit
 ---
 
 
-### Question 31: High-Yield Problem 31  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 31: Infosys SE Question 31  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -684,7 +684,7 @@ Envision means imagine as a future possibility, visualize.. Hence it has opposit
 - **Topic Domain**: **Reading Comprehension: Passage Analysis & Contextual Inference**
 
 
-### Question 32: High-Yield Problem 32  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 32: Infosys SE Question 32  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -713,7 +713,7 @@ Q11. As soon as we (A)/enter the hotel the (B)/Manager welcomes us and (C)/took 
 ---
 
 
-### Question 33: High-Yield Problem 33  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 33: Infosys SE Question 33  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -724,7 +724,7 @@ Q11. As soon as we (A)/enter the hotel the (B)/Manager welcomes us and (C)/took 
 - **Topic Domain**: **Reading Comprehension: Passage Analysis & Contextual Inference**
 
 
-### Question 34: High-Yield Problem 34  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 34: Infosys SE Question 34  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -752,7 +752,7 @@ requests&rsquo; will be used in place of &lsquo;request&rsquo; because &lsquo;se
 ---
 
 
-### Question 35: High-Yield Problem 35  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 35: Infosys SE Question 35  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -763,7 +763,7 @@ requests&rsquo; will be used in place of &lsquo;request&rsquo; because &lsquo;se
 - **Topic Domain**: **Reading Comprehension: Passage Analysis & Contextual Inference**
 
 
-### Question 36: High-Yield Problem 36  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 36: Infosys SE Question 36  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -791,7 +791,7 @@ was&rsquo; will be used in place of &lsquo;were&rsquo; as if &lsquo;either&helli
 ---
 
 
-### Question 37: High-Yield Problem 37  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 37: Infosys SE Question 37  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -802,7 +802,7 @@ was&rsquo; will be used in place of &lsquo;were&rsquo; as if &lsquo;either&helli
 - **Topic Domain**: **Reading Comprehension: Passage Analysis & Contextual Inference**
 
 
-### Question 38: High-Yield Problem 38  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 38: Infosys SE Question 38  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -830,7 +830,7 @@ This is the solution
 ---
 
 
-### Question 39: High-Yield Problem 39  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 39: Infosys SE Question 39  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -841,7 +841,7 @@ This is the solution
 - **Topic Domain**: **Reading Comprehension: Passage Analysis & Contextual Inference**
 
 
-### Question 40: High-Yield Problem 40  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 40: Infosys SE Question 40  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -869,7 +869,7 @@ In today meeting (A)/we must first discuss (B)/and thrash out the problem (C)/on
 ---
 
 
-### Question 41: High-Yield Problem 41  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 41: Infosys SE Question 41  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -880,7 +880,7 @@ In today meeting (A)/we must first discuss (B)/and thrash out the problem (C)/on
 - **Topic Domain**: **Reading Comprehension: Passage Analysis & Contextual Inference**
 
 
-### Question 42: High-Yield Problem 42  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 42: Infosys SE Question 42  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -914,7 +914,7 @@ Refer to the last and second last paragraph of this passage, it states that cris
 ---
 
 
-### Question 43: High-Yield Problem 43  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 43: Infosys SE Question 43  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -925,7 +925,7 @@ Refer to the last and second last paragraph of this passage, it states that cris
 - **Topic Domain**: **Reading Comprehension: Passage Analysis & Contextual Inference**
 
 
-### Question 44: High-Yield Problem 44  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 44: Infosys SE Question 44  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -959,7 +959,7 @@ Refer to the fourth paragraph of the passage, it states that the main challenge 
 ---
 
 
-### Question 45: High-Yield Problem 45  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 45: Infosys SE Question 45  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -970,7 +970,7 @@ Refer to the fourth paragraph of the passage, it states that the main challenge 
 - **Topic Domain**: **Reading Comprehension: Passage Analysis & Contextual Inference**
 
 
-### Question 46: High-Yield Problem 46  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 46: Infosys SE Question 46  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -1004,7 +1004,7 @@ Refer to the, third, fourth and fifth paragraph of the above passage, the steps 
 ---
 
 
-### Question 47: High-Yield Problem 47  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 47: Infosys SE Question 47  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -1015,7 +1015,7 @@ Refer to the, third, fourth and fifth paragraph of the above passage, the steps 
 - **Topic Domain**: **Reading Comprehension: Passage Analysis & Contextual Inference**
 
 
-### Question 48: High-Yield Problem 48  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 48: Infosys SE Question 48  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -1049,7 +1049,7 @@ With the given information about water governance strategies, all the options ar
 ---
 
 
-### Question 49: High-Yield Problem 49  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 49: Infosys SE Question 49  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -1060,7 +1060,7 @@ With the given information about water governance strategies, all the options ar
 - **Topic Domain**: **Reading Comprehension: Passage Analysis & Contextual Inference**
 
 
-### Question 50: High-Yield Problem 50  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 50: Infosys SE Question 50  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -1094,7 +1094,7 @@ Option (c) , &lsquo;Strengthen&rsquo; is the most suitable word to fit in the bl
 ---
 
 
-### Question 51: High-Yield Problem 51  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 51: Infosys SE Question 51  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -1105,7 +1105,7 @@ Option (c) , &lsquo;Strengthen&rsquo; is the most suitable word to fit in the bl
 - **Topic Domain**: **Reading Comprehension: Passage Analysis & Contextual Inference**
 
 
-### Question 52: High-Yield Problem 52  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 52: Infosys SE Question 52  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -1142,7 +1142,7 @@ Option (a) is the most suitable answer choice. It fits as the title of the passa
 ---
 
 
-### Question 53: High-Yield Problem 53  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 53: Infosys SE Question 53  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -1153,7 +1153,7 @@ Option (a) is the most suitable answer choice. It fits as the title of the passa
 - **Topic Domain**: **Reading Comprehension: Passage Analysis & Contextual Inference**
 
 
-### Question 54: High-Yield Problem 54  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 54: Infosys SE Question 54  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -1190,7 +1190,7 @@ Refer to the introductory paragraph of this passage. The elements are mentioned 
 ---
 
 
-### Question 55: High-Yield Problem 55  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 55: Infosys SE Question 55  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -1201,7 +1201,7 @@ Refer to the introductory paragraph of this passage. The elements are mentioned 
 - **Topic Domain**: **Reading Comprehension: Passage Analysis & Contextual Inference**
 
 
-### Question 56: High-Yield Problem 56  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 56: Infosys SE Question 56  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -1238,7 +1238,7 @@ Refer to the third paragraph of this passage, where it elaborates the statement 
 ---
 
 
-### Question 57: High-Yield Problem 57  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 57: Infosys SE Question 57  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -1249,7 +1249,7 @@ Refer to the third paragraph of this passage, where it elaborates the statement 
 - **Topic Domain**: **Reading Comprehension: Passage Analysis & Contextual Inference**
 
 
-### Question 58: High-Yield Problem 58  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 58: Infosys SE Question 58  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -1286,7 +1286,7 @@ Statement given in option (c) is not true because death penalty it is introduced
 ---
 
 
-### Question 59: High-Yield Problem 59  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 59: Infosys SE Question 59  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -1297,7 +1297,7 @@ Statement given in option (c) is not true because death penalty it is introduced
 - **Topic Domain**: **Reading Comprehension: Passage Analysis & Contextual Inference**
 
 
-### Question 60: High-Yield Problem 60  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 60: Infosys SE Question 60  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -1334,7 +1334,7 @@ Ramification- Complex or unwelcomed consequences of an action of event (a)Acumen
 ---
 
 
-### Question 61: High-Yield Problem 61  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 61: Infosys SE Question 61  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -1345,7 +1345,7 @@ Ramification- Complex or unwelcomed consequences of an action of event (a)Acumen
 - **Topic Domain**: **Reading Comprehension: Passage Analysis & Contextual Inference**
 
 
-### Question 62: High-Yield Problem 62  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 62: Infosys SE Question 62  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -1384,7 +1384,7 @@ As it is mentioned in paragraph second, due to amalgamation of banks, the job se
 ---
 
 
-### Question 63: High-Yield Problem 63  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 63: Infosys SE Question 63  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -1395,7 +1395,7 @@ As it is mentioned in paragraph second, due to amalgamation of banks, the job se
 - **Topic Domain**: **Reading Comprehension: Passage Analysis & Contextual Inference**
 
 
-### Question 64: High-Yield Problem 64  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 64: Infosys SE Question 64  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -1434,7 +1434,7 @@ Referring to the paragraph fifth, the provisions in the section 5 of banking reg
 ---
 
 
-### Question 65: High-Yield Problem 65  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 65: Infosys SE Question 65  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -1445,7 +1445,7 @@ Referring to the paragraph fifth, the provisions in the section 5 of banking reg
 - **Topic Domain**: **Reading Comprehension: Passage Analysis & Contextual Inference**
 
 
-### Question 66: High-Yield Problem 66  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 66: Infosys SE Question 66  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -1484,7 +1484,7 @@ Paragraph third and fourth of this passage contains the reasons behind the traum
 ---
 
 
-### Question 67: High-Yield Problem 67  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 67: Infosys SE Question 67  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -1495,7 +1495,7 @@ Paragraph third and fourth of this passage contains the reasons behind the traum
 - **Topic Domain**: **Reading Comprehension: Passage Analysis & Contextual Inference**
 
 
-### Question 68: High-Yield Problem 68  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 68: Infosys SE Question 68  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -1534,7 +1534,7 @@ As mentioned in paragraph 5th, we can conclude that all these acts of bankers sh
 ---
 
 
-### Question 69: High-Yield Problem 69  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 69: Infosys SE Question 69  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -1545,7 +1545,7 @@ As mentioned in paragraph 5th, we can conclude that all these acts of bankers sh
 - **Topic Domain**: **Reading Comprehension: Passage Analysis & Contextual Inference**
 
 
-### Question 70: High-Yield Problem 70  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 70: Infosys SE Question 70  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -1584,7 +1584,7 @@ Here, In the third paragraph of the passage, KP Jyothi is stating the measures h
 ---
 
 
-### Question 71: High-Yield Problem 71  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 71: Infosys SE Question 71  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -1595,7 +1595,7 @@ Here, In the third paragraph of the passage, KP Jyothi is stating the measures h
 - **Topic Domain**: **English Grammar & Verbal Comprehension Session**
 
 
-### Question 72: High-Yield Problem 72  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 72: Infosys SE Question 72  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -1629,7 +1629,7 @@ To validate the answer, refer to the first paragraph of the passage given above,
 ---
 
 
-### Question 73: High-Yield Problem 73  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 73: Infosys SE Question 73  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -1640,7 +1640,7 @@ To validate the answer, refer to the first paragraph of the passage given above,
 - **Topic Domain**: **English Grammar & Verbal Comprehension Session**
 
 
-### Question 74: High-Yield Problem 74  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 74: Infosys SE Question 74  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -1668,7 +1668,7 @@ To validate the answer, refer to the last few lines of the first paragraph of th
 ---
 
 
-### Question 75: High-Yield Problem 75  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 75: Infosys SE Question 75  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -1679,7 +1679,7 @@ To validate the answer, refer to the last few lines of the first paragraph of th
 - **Topic Domain**: **English Grammar & Verbal Comprehension Session**
 
 
-### Question 76: High-Yield Problem 76  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 76: Infosys SE Question 76  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -1707,7 +1707,7 @@ In the italicized statement indicates contradiction. Hence, option (c) is the mo
 ---
 
 
-### Question 77: High-Yield Problem 77  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 77: Infosys SE Question 77  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -1718,7 +1718,7 @@ In the italicized statement indicates contradiction. Hence, option (c) is the mo
 - **Topic Domain**: **English Grammar & Verbal Comprehension Session**
 
 
-### Question 78: High-Yield Problem 78  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 78: Infosys SE Question 78  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -1746,7 +1746,7 @@ To validate the answer, refer to the first paragraph of the passage given above,
 ---
 
 
-### Question 79: High-Yield Problem 79  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 79: Infosys SE Question 79  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -1757,7 +1757,7 @@ To validate the answer, refer to the first paragraph of the passage given above,
 - **Topic Domain**: **English Grammar & Verbal Comprehension Session**
 
 
-### Question 80: High-Yield Problem 80  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 80: Infosys SE Question 80  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -1785,7 +1785,7 @@ Among the given options, most appropriate choice for the title of the passage is
 ---
 
 
-### Question 81: High-Yield Problem 81  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 81: Infosys SE Question 81  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -1796,7 +1796,7 @@ Among the given options, most appropriate choice for the title of the passage is
 - **Topic Domain**: **English Grammar & Verbal Comprehension Session**
 
 
-### Question 82: High-Yield Problem 82  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 82: Infosys SE Question 82  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -1824,7 +1824,7 @@ Among the given words, "apposite" is synonymous with "adequate". All other words
 ---
 
 
-### Question 83: High-Yield Problem 83  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 83: Infosys SE Question 83  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -1835,7 +1835,7 @@ Among the given words, "apposite" is synonymous with "adequate". All other words
 - **Topic Domain**: **Reading Comprehension: Central Idea**
 
 
-### Question 84: High-Yield Problem 84  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 84: Infosys SE Question 84  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -1861,7 +1861,7 @@ Passage analysis confirms that AI is presented as a 'double-edged sword' bringin
 ---
 
 
-### Question 85: High-Yield Problem 85  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 85: Infosys SE Question 85  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -1872,7 +1872,7 @@ Passage analysis confirms that AI is presented as a 'double-edged sword' bringin
 - **Topic Domain**: **Reading Comprehension: Detail Recall**
 
 
-### Question 86: High-Yield Problem 86  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 86: Infosys SE Question 86  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -1900,7 +1900,7 @@ Paragraph text highlights job displacement and privacy/algorithmic bias as criti
 ---
 
 
-### Question 87: High-Yield Problem 87  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 87: Infosys SE Question 87  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -1911,7 +1911,7 @@ Paragraph text highlights job displacement and privacy/algorithmic bias as criti
 - **Topic Domain**: **Reading Comprehension: Inference**
 
 
-### Question 88: High-Yield Problem 88  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 88: Infosys SE Question 88  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -1938,7 +1938,7 @@ Passage directly states: 'An AI system trained on biased data will perpetuate an
 ---
 
 
-### Question 89: High-Yield Problem 89  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 89: Infosys SE Question 89  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -1949,7 +1949,7 @@ Passage directly states: 'An AI system trained on biased data will perpetuate an
 - **Topic Domain**: **Reading Comprehension: Direct Factual**
 
 
-### Question 90: High-Yield Problem 90  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 90: Infosys SE Question 90  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -1976,7 +1976,7 @@ Direct phrase quote from paragraph 1.
 ---
 
 
-### Question 91: High-Yield Problem 91  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 91: Infosys SE Question 91  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -1987,7 +1987,7 @@ Direct phrase quote from paragraph 1.
 - **Topic Domain**: **Reading Comprehension: Author's Tone**
 
 
-### Question 92: High-Yield Problem 92  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 92: Infosys SE Question 92  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -2015,7 +2015,7 @@ Author maintains an objective, balanced tone discussing both pros and cons.
 ---
 
 
-### Question 93: High-Yield Problem 93  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 93: Infosys SE Question 93  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -2026,7 +2026,7 @@ Author maintains an objective, balanced tone discussing both pros and cons.
 - **Topic Domain**: **Reading Comprehension: Main Theme**
 
 
-### Question 94: High-Yield Problem 94  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 94: Infosys SE Question 94  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -2053,7 +2053,7 @@ Passage 2 focuses on clean sustainable energy transition.
 ---
 
 
-### Question 95: High-Yield Problem 95  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 95: Infosys SE Question 95  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -2064,7 +2064,7 @@ Passage 2 focuses on clean sustainable energy transition.
 - **Topic Domain**: **Reading Comprehension: Factual Recall**
 
 
-### Question 96: High-Yield Problem 96  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 96: Infosys SE Question 96  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -2091,7 +2091,7 @@ Text explicitly cites storage and intermittency as major hurdles.
 ---
 
 
-### Question 97: High-Yield Problem 97  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 97: Infosys SE Question 97  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -2102,7 +2102,7 @@ Text explicitly cites storage and intermittency as major hurdles.
 - **Topic Domain**: **Reading Comprehension: Inference**
 
 
-### Question 98: High-Yield Problem 98  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 98: Infosys SE Question 98  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -2130,7 +2130,7 @@ Passage states grid modernization is essential for renewable integration.
 ---
 
 
-### Question 99: High-Yield Problem 99  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 99: Infosys SE Question 99  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -2141,7 +2141,7 @@ Passage states grid modernization is essential for renewable integration.
 - **Topic Domain**: **Reading Comprehension: Vocabulary in Context**
 
 
-### Question 100: High-Yield Problem 100  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 100: Infosys SE Question 100  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -2169,7 +2169,7 @@ Contextual replacement for shift / changeover.
 ---
 
 
-### Question 101: High-Yield Problem 101  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 101: Infosys SE Question 101  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -2180,7 +2180,7 @@ Contextual replacement for shift / changeover.
 - **Topic Domain**: **Reading Comprehension: Tone Analysis**
 
 
-### Question 102: High-Yield Problem 102  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 102: Infosys SE Question 102  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -2235,7 +2235,7 @@ Author provides informative factual overview with positive forward-looking stanc
 > *"In the world of science, data serves as the foundation of progress. Researchers collect,  analyze, and interpret data to understand natural phenomena. With the advancements in  technology, large-scale data collection has become more feasible, allowing scientists to  develop models that predict future trends. However, the sheer volume of data can sometimes  overwhelm, leading to challenges in sorting relevant information from irrelevant noise."*
 
 
-### Question 103: High-Yield Problem 103  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 103: Infosys SE Question 103  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -2260,7 +2260,7 @@ Author provides informative factual overview with positive forward-looking stanc
 ---
 
 
-### Question 104: High-Yield Problem 104  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 104: Infosys SE Question 104  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -2285,7 +2285,7 @@ Author provides informative factual overview with positive forward-looking stanc
 ---
 
 
-### Question 105: High-Yield Problem 105  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 105: Infosys SE Question 105  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -2315,7 +2315,7 @@ Author provides informative factual overview with positive forward-looking stanc
 > *"Global warming refers to the long-term rise in the average temperature of the Earth's climate  system. It is primarily caused by increased concentrations of greenhouse gases, which trap  heat in the atmosphere. Human activities, such as deforestation and burning fossil fuels, have  significantly contributed to this phenomenon. While the impacts of global warming can be  felt globally, some regions experience more extreme effects, such as rising sea levels and  more frequent natural disasters."*
 
 
-### Question 106: High-Yield Problem 106  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 106: Infosys SE Question 106  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -2340,7 +2340,7 @@ Author provides informative factual overview with positive forward-looking stanc
 ---
 
 
-### Question 107: High-Yield Problem 107  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 107: Infosys SE Question 107  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -2365,7 +2365,7 @@ Author provides informative factual overview with positive forward-looking stanc
 ---
 
 
-### Question 108: High-Yield Problem 108  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 108: Infosys SE Question 108  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -2395,7 +2395,7 @@ Author provides informative factual overview with positive forward-looking stanc
 > *"Communication is an essential skill in today’s fast-paced world. With the rise of digital  platforms, people now have more ways to communicate than ever before. However, despite  the abundance of tools, effective communication still depends on the ability to convey ideas  clearly and listen actively. Miscommunication often occurs when messages are not carefully  crafted or when individuals fail to understand the perspectives of others."*
 
 
-### Question 109: High-Yield Problem 109  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 109: Infosys SE Question 109  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -2420,7 +2420,7 @@ Author provides informative factual overview with positive forward-looking stanc
 ---
 
 
-### Question 110: High-Yield Problem 110  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 110: Infosys SE Question 110  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -2445,7 +2445,7 @@ Author provides informative factual overview with positive forward-looking stanc
 ---
 
 
-### Question 111: High-Yield Problem 111  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 111: Infosys SE Question 111  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -2475,7 +2475,7 @@ Author provides informative factual overview with positive forward-looking stanc
 > *"Nutrition plays a critical role in maintaining health and well-being. A balanced diet, rich in  vitamins and minerals, helps the body function properly and protects against diseases. While  some individuals follow strict diets for personal or cultural reasons, it is important to ensure  that all essential nutrients are consumed. Skipping meals or eliminating major food groups  can lead to nutrient deficiencies, which may affect overall health."*
 
 
-### Question 112: High-Yield Problem 112  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 112: Infosys SE Question 112  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -2500,7 +2500,7 @@ Author provides informative factual overview with positive forward-looking stanc
 ---
 
 
-### Question 113: High-Yield Problem 113  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 113: Infosys SE Question 113  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -2525,7 +2525,7 @@ Author provides informative factual overview with positive forward-looking stanc
 ---
 
 
-### Question 114: High-Yield Problem 114  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 114: Infosys SE Question 114  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -2555,7 +2555,7 @@ Author provides informative factual overview with positive forward-looking stanc
 > *"The Industrial Revolution, which began in the late 18th century, transformed societies from  agrarian economies to industrial powerhouses. Factories sprung up, and mass production  became the norm. This shift led to significant economic growth and urbanization, but also  brought about challenges such as poor working conditions and environmental degradation.  Over time, labor reforms and technological advancements have helped mitigate some of  these issues."*
 
 
-### Question 115: High-Yield Problem 115  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 115: Infosys SE Question 115  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -2580,7 +2580,7 @@ Author provides informative factual overview with positive forward-looking stanc
 ---
 
 
-### Question 116: High-Yield Problem 116  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 116: Infosys SE Question 116  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -2605,7 +2605,7 @@ Author provides informative factual overview with positive forward-looking stanc
 ---
 
 
-### Question 117: High-Yield Problem 117  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 117: Infosys SE Question 117  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -2635,7 +2635,7 @@ Author provides informative factual overview with positive forward-looking stanc
 > *"Artificial intelligence (AI) is transforming industries by enabling machines to perform tasks  that typically require human intelligence. From healthcare to finance, AI is being used to  analyze data, recognize patterns, and make predictions. However, as AI becomes more  integrated into daily life, concerns about job displacement and ethical implications continue  to grow. Striking a balance between innovation and societal impact remains a key challenge."*
 
 
-### Question 118: High-Yield Problem 118  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 118: Infosys SE Question 118  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -2660,7 +2660,7 @@ Author provides informative factual overview with positive forward-looking stanc
 ---
 
 
-### Question 119: High-Yield Problem 119  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 119: Infosys SE Question 119  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -2685,7 +2685,7 @@ Author provides informative factual overview with positive forward-looking stanc
 ---
 
 
-### Question 120: High-Yield Problem 120  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 120: Infosys SE Question 120  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -2710,7 +2710,7 @@ Author provides informative factual overview with positive forward-looking stanc
 ---
 
 
-### Question 121: High-Yield Problem 121  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 121: Infosys SE Question 121  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -2735,7 +2735,7 @@ Author provides informative factual overview with positive forward-looking stanc
 ---
 
 
-### Question 122: High-Yield Problem 122  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 122: Infosys SE Question 122  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -2765,7 +2765,7 @@ Author provides informative factual overview with positive forward-looking stanc
 > *"The advancement of technology has brought about significant changes in various fields. The  educational sector, in particular, has seen a shift from traditional methods of learning to  digital platforms. With the introduction of e-learning, students are now able to access  resources from anywhere, thereby enhancing their learning experience. However, this shift  also brings challenges, such as the lack of personal interaction between teachers and  students, which some argue is crucial for effective learning."*
 
 
-### Question 123: High-Yield Problem 123  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 123: Infosys SE Question 123  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -2790,7 +2790,7 @@ Author provides informative factual overview with positive forward-looking stanc
 ---
 
 
-### Question 124: High-Yield Problem 124  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 124: Infosys SE Question 124  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -2815,7 +2815,7 @@ Author provides informative factual overview with positive forward-looking stanc
 ---
 
 
-### Question 125: High-Yield Problem 125  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 125: Infosys SE Question 125  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -2845,7 +2845,7 @@ Author provides informative factual overview with positive forward-looking stanc
 > *"Climate change has become one of the most pressing issues of our time. Global temperatures  are rising at an unprecedented rate, largely due to human activities such as deforestation and  the burning of fossil fuels. While some progress has been made in addressing this issue,  more needs to be done to prevent irreversible damage to our planet. Governments, industries,  and individuals must work together to implement sustainable practices."*
 
 
-### Question 126: High-Yield Problem 126  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 126: Infosys SE Question 126  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -2870,7 +2870,7 @@ Author provides informative factual overview with positive forward-looking stanc
 ---
 
 
-### Question 127: High-Yield Problem 127  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 127: Infosys SE Question 127  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -2895,7 +2895,7 @@ Author provides informative factual overview with positive forward-looking stanc
 ---
 
 
-### Question 128: High-Yield Problem 128  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 128: Infosys SE Question 128  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -2925,7 +2925,7 @@ Author provides informative factual overview with positive forward-looking stanc
 > *"In ancient times, the art of storytelling was a key form of entertainment. Stories were passed  down orally from generation to generation, with each storyteller adding their own personal  touch to the tale. This tradition has slowly faded with the advent of the written word and  modern technology. Yet, storytelling remains a powerful tool for communication, allowing  individuals to connect with one another through shared experiences and values."*
 
 
-### Question 129: High-Yield Problem 129  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 129: Infosys SE Question 129  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -2950,7 +2950,7 @@ Author provides informative factual overview with positive forward-looking stanc
 ---
 
 
-### Question 130: High-Yield Problem 130  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 130: Infosys SE Question 130  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -2975,7 +2975,7 @@ Author provides informative factual overview with positive forward-looking stanc
 ---
 
 
-### Question 131: High-Yield Problem 131  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 131: Infosys SE Question 131  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -3005,7 +3005,7 @@ Author provides informative factual overview with positive forward-looking stanc
 > *"In recent years, the concept of remote work has gained traction as more companies realize its  benefits. Employees, especially in the tech industry, can now work from home or any  location with internet access. This flexibility has improved work-life balance for many,  though some argue that it blurs the lines between personal and professional time."*
 
 
-### Question 132: High-Yield Problem 132  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 132: Infosys SE Question 132  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -3030,7 +3030,7 @@ Author provides informative factual overview with positive forward-looking stanc
 ---
 
 
-### Question 133: High-Yield Problem 133  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 133: Infosys SE Question 133  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -3055,7 +3055,7 @@ Author provides informative factual overview with positive forward-looking stanc
 ---
 
 
-### Question 134: High-Yield Problem 134  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 134: Infosys SE Question 134  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -3085,7 +3085,7 @@ Author provides informative factual overview with positive forward-looking stanc
 > *"The field of artificial intelligence (AI) is advancing rapidly, with new applications being  developed in healthcare, education, and even creative industries. However, as AI becomes  more powerful, concerns about its ethical implications grow. Many experts believe that  proper regulations are needed to ensure that AI is used responsibly, particularly when it  comes to privacy and security."*
 
 
-### Question 135: High-Yield Problem 135  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 135: Infosys SE Question 135  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -3110,7 +3110,7 @@ Author provides informative factual overview with positive forward-looking stanc
 ---
 
 
-### Question 136: High-Yield Problem 136  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 136: Infosys SE Question 136  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -3135,7 +3135,7 @@ Author provides informative factual overview with positive forward-looking stanc
 ---
 
 
-### Question 137: High-Yield Problem 137  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 137: Infosys SE Question 137  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -3165,7 +3165,7 @@ Author provides informative factual overview with positive forward-looking stanc
 > *"Over the years, travel has evolved from a necessity for trade and exploration to a leisure  activity enjoyed by many. With the advent of affordable air travel, people can now explore  different parts of the world with relative ease. This has given rise to global tourism, which  has both positive and negative effects on local economies and cultures."*
 
 
-### Question 138: High-Yield Problem 138  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 138: Infosys SE Question 138  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -3190,7 +3190,7 @@ Author provides informative factual overview with positive forward-looking stanc
 ---
 
 
-### Question 139: High-Yield Problem 139  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 139: Infosys SE Question 139  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -3215,7 +3215,7 @@ Author provides informative factual overview with positive forward-looking stanc
 ---
 
 
-### Question 140: High-Yield Problem 140  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 140: Infosys SE Question 140  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -3245,7 +3245,7 @@ Author provides informative factual overview with positive forward-looking stanc
 > *"Many researchers believe that music can have a profound effect on our emotions. Studies  have shown that listening to certain types of music can improve mood, reduce stress, and                                                                                                                                                                                                                    even boost cognitive function. However, not all music has the same impact on everyone, as  personal preferences play a significant role in how we respond to different genres."*
 
 
-### Question 141: High-Yield Problem 141  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 141: Infosys SE Question 141  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -3270,7 +3270,7 @@ Author provides informative factual overview with positive forward-looking stanc
 ---
 
 
-### Question 142: High-Yield Problem 142  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 142: Infosys SE Question 142  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -3300,7 +3300,7 @@ Author provides informative factual overview with positive forward-looking stanc
 > *"The concept of sustainable development emphasizes meeting the needs of the present  without compromising the ability of future generations to meet their own needs. This  requires a balance between economic growth, environmental protection, and social equity.  However, achieving sustainability is a complex challenge, as it demands significant changes  in policy, consumption patterns, and the way industries operate."*
 
 
-### Question 143: High-Yield Problem 143  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 143: Infosys SE Question 143  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -3325,7 +3325,7 @@ Author provides informative factual overview with positive forward-looking stanc
 ---
 
 
-### Question 144: High-Yield Problem 144  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 144: Infosys SE Question 144  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -3350,7 +3350,7 @@ Author provides informative factual overview with positive forward-looking stanc
 ---
 
 
-### Question 145: High-Yield Problem 145  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 145: Infosys SE Question 145  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -3380,7 +3380,7 @@ Author provides informative factual overview with positive forward-looking stanc
 > *"As urban populations continue to grow, cities face the challenge of providing adequate  infrastructure and services to meet the needs of their residents. One solution that many urban  planners are exploring is the concept of "smart cities." These cities use advanced  technologies, such as data analytics and IoT devices, to improve efficiency in areas such as  transportation, energy usage, and waste management."*
 
 
-### Question 146: High-Yield Problem 146  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 146: Infosys SE Question 146  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -3405,7 +3405,7 @@ Author provides informative factual overview with positive forward-looking stanc
 ---
 
 
-### Question 147: High-Yield Problem 147  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 147: Infosys SE Question 147  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -3430,7 +3430,7 @@ Author provides informative factual overview with positive forward-looking stanc
 ---
 
 
-### Question 148: High-Yield Problem 148  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 148: Infosys SE Question 148  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -3460,7 +3460,7 @@ Author provides informative factual overview with positive forward-looking stanc
 > *"The study of marine life has revealed that oceans play a vital role in regulating the Earth's  climate. Marine organisms, such as phytoplankton, absorb carbon dioxide from the  atmosphere, helping to reduce the greenhouse effect. However, rising sea temperatures and  pollution are threatening marine ecosystems, which could disrupt this natural balance."*
 
 
-### Question 149: High-Yield Problem 149  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 149: Infosys SE Question 149  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -3485,7 +3485,7 @@ Author provides informative factual overview with positive forward-looking stanc
 ---
 
 
-### Question 150: High-Yield Problem 150  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 150: Infosys SE Question 150  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -3510,7 +3510,7 @@ Author provides informative factual overview with positive forward-looking stanc
 ---
 
 
-### Question 151: High-Yield Problem 151  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 151: Infosys SE Question 151  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -3540,7 +3540,7 @@ Author provides informative factual overview with positive forward-looking stanc
 > *"Human history is marked by migrations of people in search of better opportunities. Whether  driven by economic necessity, conflict, or environmental factors, these migrations have  shaped the demographic and cultural landscapes of nations. Today, global migration  continues, influenced by factors such as climate change and political instability."*
 
 
-### Question 152: High-Yield Problem 152  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 152: Infosys SE Question 152  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -3721,7 +3721,7 @@ part of an operation's contract design it in from the start.
 ## Part 2: Verbal Ability Questions and Explanations (Q26 to Q45)
 
 
-### Question 153: High-Yield Problem 153  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 153: Infosys SE Question 153  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -3747,7 +3747,7 @@ The passage argues that technical debt is analogous to financial debt: not inher
 ---
 
 
-### Question 154: High-Yield Problem 154  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 154: Infosys SE Question 154  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -3773,7 +3773,7 @@ The passage states explicitly: 'yet managers, seeing only the delivered function
 ---
 
 
-### Question 155: High-Yield Problem 155  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 155: Infosys SE Question 155  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -3799,7 +3799,7 @@ Critics argue that fixed quotas 'are arbitrary and encourage cosmetic rewrites t
 ---
 
 
-### Question 156: High-Yield Problem 156  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 156: Infosys SE Question 156  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -3825,7 +3825,7 @@ The passage defines interest directly: 'the interest, meaning the extra effort e
 ---
 
 
-### Question 157: High-Yield Problem 157  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 157: Infosys SE Question 157  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -3852,7 +3852,7 @@ The passage explicitly notes that a delivery slowdown is often caused by accumul
 ---
 
 
-### Question 158: High-Yield Problem 158  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 158: Infosys SE Question 158  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -3878,7 +3878,7 @@ With correlative conjunctions 'neither... nor', the verb agrees in number with t
 ---
 
 
-### Question 159: High-Yield Problem 159  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 159: Infosys SE Question 159  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -3904,7 +3904,7 @@ Inverted third conditional structure uses 'Had + subject + past participle'. The
 ---
 
 
-### Question 160: High-Yield Problem 160  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 160: Infosys SE Question 160  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -3931,7 +3931,7 @@ Negative adverbial 'Hardly' placed at the beginning of a clause triggers negativ
 ---
 
 
-### Question 161: High-Yield Problem 161  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 161: Infosys SE Question 161  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -3957,7 +3957,7 @@ The number of applicants are increasing, but a large number of them lacks the re
 ---
 
 
-### Question 162: High-Yield Problem 162  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 162: Infosys SE Question 162  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.

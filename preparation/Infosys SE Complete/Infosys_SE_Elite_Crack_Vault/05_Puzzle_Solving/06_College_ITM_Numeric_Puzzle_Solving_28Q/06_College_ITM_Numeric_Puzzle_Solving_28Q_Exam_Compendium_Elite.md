@@ -1,13 +1,13 @@
 # 🏆 Infosys SE Elite Crack Vault — 06 College ITM Numeric Puzzle Solving 28Q Exam Compendium Elite
-> **Target Role:** Infosys Systems Engineer (SE) / Specialist Programmer (SP)  
-> **Curation Standard:** **High-Yield & Core Exam Questions ONLY** (All Redundant Variants Purged)  
-> **Total Curated Questions in Topic:** **22 Questions**  
-> **Question Breakdown:** 🔴 `7 Must-Solve` | 🟡 `12 Core SE` | 🔵 `3 Advanced SP/DSE`  
+> **Target Role:** **Infosys Systems Engineer (SE)** (3.6 – 4.0 LPA Recruitment Drive)  
+> **Curation Standard:** **100% Pure SE Role Specific** (All SP/DSE Upper-Level & Practice Variants Purged)  
+> **Total Curated Questions in Topic:** **19 Questions**  
+> **Question Breakdown:** 🔴 `7 Must-Solve` | 🟡 `12 Core SE Level`  
 > **Verification Score:** 100% Mathematically & Deductively Proven with Zero Hallucination  
 
 ---
 
-### Question 1: High-Yield Problem 1  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 1: Infosys SE Question 1  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -80,7 +80,7 @@ Removing 2 sticks can at most destroy four 1×1 squares (by removing the two int
 ---
 
 
-### Question 2: High-Yield Problem 2  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 2: Infosys SE Question 2  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -160,7 +160,7 @@ Determining the circular wheel formula:
 ---
 
 
-### Question 3: High-Yield Problem 3  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 3: Infosys SE Question 3  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -247,7 +247,7 @@ Missing number = 100.
 ---
 
 
-### Question 4: High-Yield Problem 4  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 4: Infosys SE Question 4  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -316,7 +316,7 @@ Pattern: n³ + n² for n = 1, 2, 3, 4, 5, ...
 ---
 
 
-### Question 5: High-Yield Problem 5  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 5: Infosys SE Question 5  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -382,7 +382,7 @@ only 1 stick removed.
 ---
 
 
-### Question 6: High-Yield Problem 6  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 6: Infosys SE Question 6  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -463,7 +463,7 @@ Wheel 3: T = 7, R = 4, B = 3, L = 6, Centre = ?
 ---
 
 
-### Question 7: High-Yield Problem 7  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 7: Infosys SE Question 7  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -551,7 +551,7 @@ Matrix logic. Find the missing number.
 ---
 
 
-### Question 8: High-Yield Problem 8  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 8: Infosys SE Question 8  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -610,7 +610,7 @@ Section 6: Grammar
 ---
 
 
-### Question 9: High-Yield Problem 9  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 9: Infosys SE Question 9  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -684,7 +684,7 @@ breaks the third — 2 sticks minimum.
 ---
 
 
-### Question 10: High-Yield Problem 10  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 10: Infosys SE Question 10  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -759,7 +759,7 @@ Wheel 3: T = 8, R = 5, B = 6, L = 4, Centre = ?
 ---
 
 
-### Question 11: High-Yield Problem 11  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 11: Infosys SE Question 11  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -844,7 +844,7 @@ consecutive primes: 2²,3²,5²,7²,11². The missing cell is 11² = 121.
 ---
 
 
-### Question 12: High-Yield Problem 12  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 12: Infosys SE Question 12  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -908,7 +908,7 @@ Section 6: Grammar
 ---
 
 
-### Question 13: High-Yield Problem 13  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 13: Infosys SE Question 13  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -991,7 +991,7 @@ squares). Minimum = 6.
 ---
 
 
-### Question 14: High-Yield Problem 14  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 14: Infosys SE Question 14  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -1066,7 +1066,7 @@ Wheel 3: T = 6, R = 4, B = 9, L = 2, Centre = ?
 ---
 
 
-### Question 15: High-Yield Problem 15  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 15: Infosys SE Question 15  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -1150,7 +1150,7 @@ Matrix logic. Find the missing number.
 ---
 
 
-### Question 16: High-Yield Problem 16  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 16: Infosys SE Question 16  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -1213,7 +1213,7 @@ Section 6: Grammar
 ---
 
 
-### Question 17: High-Yield Problem 17  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 17: Infosys SE Question 17  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -1297,7 +1297,7 @@ suffice (remove all 4 centre-arm shared sticks). Verified by exhaustive computer
 ---
 
 
-### Question 18: High-Yield Problem 18  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 18: Infosys SE Question 18  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -1372,7 +1372,7 @@ Wheel 3: T = 12, R = 3, B = 9, L = 5, Centre = ?
 ---
 
 
-### Question 19: High-Yield Problem 19  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 19: Infosys SE Question 19  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -1452,213 +1452,6 @@ Matrix logic. Find the missing number.
 **Detailed Solution & Formula Deduction:**
 27. Rule: cell(r,c) = r²+c²+r×c (symmetric in r and c, so the matrix itself is symmetric about its diagonal 
 — note how cell(1,2)=cell(2,1)=7). Row 3, column 3: 3²+3²+3×3 = 9+9+9 = 27.
-
----
-
-
-### Question 20: High-Yield Problem 20  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
-> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
-> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
-> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
-
- (Infosys System Engineer ITM Mock Paper 5 - Q54)
-**Section:** Section 5: Numeric Puzzle Solving | **Page:** 7  
-**Visual Reference Plate:** [paper_05_page_07.png](images/paper_05_page_07.png)
-
-**Puzzle Statement:**
-Pattern. Find the next term: 3, 9, 19, 33, 51, ?
-
-
-**Visual Schematic / Puzzle Diagram:**
-```
-Terms:         3        9       19       33       51       [ 73 ]
-1st Diff:          +6      +10      +14      +18      [ +22 ]
-2nd Diff:              +4       +4       +4       [ +4 ]
-```
-
-
-**Visual Schematic / Puzzle Diagram:**
-```
-Terms:         3        9       19       33       51       [ 73 ]
-1st Diff:          +6      +10      +14      +18      [ +22 ]
-2nd Diff:              +4       +4       +4       [ +4 ]
-```
-
-
-**Visual Schematic / Puzzle Diagram:**
-```
-Terms:         3        9       19       33       51       [ 73 ]
-1st Diff:          +6      +10      +14      +18      [ +22 ]
-2nd Diff:              +4       +4       +4       [ +4 ]
-```
-
-
-**Visual Schematic / Puzzle Diagram:**
-```
-Terms:         3        9       19       33       51       [ 73 ]
-1st Diff:          +6      +10      +14      +18      [ +22 ]
-2nd Diff:              +4       +4       +4       [ +4 ]
-```
-
-**Options:**
-- **(A)** 73
-- **(B)** 69
-- **(C)** 77
-- **(D)** 71
-
-**Correct Answer:** Option **(A)** — `73`
-
-**Detailed Solution & Formula Deduction:**
-73. Each term equals 2n²+1 for n=1,2,3,...: 3,9,19,33,51; next (n=6): 2(36)+1 = 73. 
-Section 6: Grammar
-
----
-
-
-### Question 21: High-Yield Problem 21  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
-> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
-> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
-> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
-
- (Infosys System Engineer ITM Mock Paper 6 - Q51)
-**Section:** Section 5: Numeric Puzzle Solving | **Page:** 7  
-**Visual Reference Plate:** [paper_06_page_07.png](images/paper_06_page_07.png)
-
-**Puzzle Statement:**
-Matchstick. A 2 × 3 grid of unit squares (2 rows, 3 columns) is built from 17 matchsticks and contains 8 
-squares in total (six 1×1 and two 2×2). What is the minimum number of sticks that must be removed so that 
-no complete square of any size remains?
-
-
-**Visual Schematic / Puzzle Diagram:**
-```
-   +---+---+---+
-   | 1 | 2 | 3 |
-   +---+---+---+
-   | 4 | 5 | 6 |
-   +---+---+---+
-   2×3 grid of 6 squares made of 17 matchsticks.
-```
-
-
-**Visual Schematic / Puzzle Diagram:**
-```
-   +---+---+---+
-   | 1 | 2 | 3 |
-   +---+---+---+
-   | 4 | 5 | 6 |
-   +---+---+---+
-   2×3 grid of 6 squares made of 17 matchsticks.
-```
-
-
-**Visual Schematic / Puzzle Diagram:**
-```
-   +---+---+---+
-   | 1 | 2 | 3 |
-   +---+---+---+
-   | 4 | 5 | 6 |
-   +---+---+---+
-   2×3 grid of 6 squares made of 17 matchsticks.
-```
-
-
-**Visual Schematic / Puzzle Diagram:**
-```
-   +---+---+---+
-   | 1 | 2 | 3 |
-   +---+---+---+
-   | 4 | 5 | 6 |
-   +---+---+---+
-   2×3 grid of 6 squares made of 17 matchsticks.
-```
-
-**Options:**
-- **(A)** 3
-- **(B)** 4
-- **(C)** 5
-- **(D)** 6
-
-**Correct Answer:** Option **(B)** — `4`
-
-**Detailed Solution & Formula Deduction:**
-4. Exhaustive computer search over all 17 sticks and all 8 squares shows that no set of 3 sticks breaks 
-every square, while a set of 4 does. Minimum = 4.
-
----
-
-
-### Question 22: High-Yield Problem 22  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
-> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
-> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
-> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
-
- (Infosys System Engineer ITM Mock Paper 6 - Q52)
-**Section:** Section 5: Numeric Puzzle Solving | **Page:** 7  
-**Visual Reference Plate:** [paper_06_page_07.png](images/paper_06_page_07.png)
-
-**Puzzle Statement:**
-Circular wheel. Each wheel has numbers at Top, Right, Bottom, Left and a Centre number formed by 
-the same rule. 
-Wheel 1: T = 4, R = 1, B = 3, L = 2, Centre = 40 
-Wheel 2: T = 6, R = 2, B = 2, L = 3, Centre = 39 
-Wheel 3: T = 5, R = 3, B = 4, L = 1, Centre = ?
-
-
-**Visual Schematic / Puzzle Diagram:**
-```
-      Wheel 1              Wheel 2              Wheel 3
-        [ 4 ]                [ 6 ]                [ 5 ]
-          │                    │                    │
-  [ 2 ]─( 40 )─[ 1 ]   [ 3 ]─( 39 )─[ 2 ]   [ 1 ]─(  ?  )─[ 3 ]
-          │                    │                    │
-        [ 3 ]                [ 2 ]                [ 4 ]
-```
-
-
-**Visual Schematic / Puzzle Diagram:**
-```
-      Wheel 1              Wheel 2              Wheel 3
-        [ 4 ]                [ 6 ]                [ 5 ]
-          │                    │                    │
-  [ 2 ]─( 40 )─[ 1 ]   [ 3 ]─( 39 )─[ 2 ]   [ 1 ]─(  ?  )─[ 3 ]
-          │                    │                    │
-        [ 3 ]                [ 2 ]                [ 4 ]
-```
-
-
-**Visual Schematic / Puzzle Diagram:**
-```
-      Wheel 1              Wheel 2              Wheel 3
-        [ 4 ]                [ 6 ]                [ 5 ]
-          │                    │                    │
-  [ 2 ]─( 40 )─[ 1 ]   [ 3 ]─( 39 )─[ 2 ]   [ 1 ]─(  ?  )─[ 3 ]
-          │                    │                    │
-        [ 3 ]                [ 2 ]                [ 4 ]
-```
-
-
-**Visual Schematic / Puzzle Diagram:**
-```
-      Wheel 1              Wheel 2              Wheel 3
-        [ 4 ]                [ 6 ]                [ 5 ]
-          │                    │                    │
-  [ 2 ]─( 40 )─[ 1 ]   [ 3 ]─( 39 )─[ 2 ]   [ 1 ]─(  ?  )─[ 3 ]
-          │                    │                    │
-        [ 3 ]                [ 2 ]                [ 4 ]
-```
-
-**Options:**
-- **(A)** 65
-- **(B)** 61
-- **(C)** 69
-- **(D)** 57
-
-**Correct Answer:** Option **(A)** — `65`
-
-**Detailed Solution & Formula Deduction:**
-65. Rule: Centre = (T+B)² − (R+L)². Wheel 1: 7²−3² = 40 ✓. Wheel 2: 8²−5² = 39 ✓. Wheel 3: 9²−4² = 
-81−16 = 65.
 
 ---
 

@@ -1,13 +1,13 @@
 # 🏆 Infosys SE Elite Crack Vault — 05 Time and Work Pipes and Cisterns Mastery Elite
-> **Target Role:** Infosys Systems Engineer (SE) / Specialist Programmer (SP)  
-> **Curation Standard:** **High-Yield & Core Exam Questions ONLY** (All Redundant Variants Purged)  
-> **Total Curated Questions in Topic:** **39 Questions**  
-> **Question Breakdown:** 🔴 `16 Must-Solve` | 🟡 `18 Core SE` | 🔵 `5 Advanced SP/DSE`  
+> **Target Role:** **Infosys Systems Engineer (SE)** (3.6 – 4.0 LPA Recruitment Drive)  
+> **Curation Standard:** **100% Pure SE Role Specific** (All SP/DSE Upper-Level & Practice Variants Purged)  
+> **Total Curated Questions in Topic:** **34 Questions**  
+> **Question Breakdown:** 🔴 `16 Must-Solve` | 🟡 `18 Core SE Level`  
 > **Verification Score:** 100% Mathematically & Deductively Proven with Zero Hallucination  
 
 ---
 
-### Question 1: High-Yield Problem 1  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 1: Infosys SE Question 1  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -18,7 +18,7 @@
 - **Topic Domain**: **Time and Work & Pipes**
 
 
-### Question 2: High-Yield Problem 2  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 2: Infosys SE Question 2  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -48,7 +48,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 11, Problem 77). 
 ---
 
 
-### Question 3: High-Yield Problem 3  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 3: Infosys SE Question 3  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -59,7 +59,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 11, Problem 77). 
 - **Topic Domain**: **Time and Work & Pipes**
 
 
-### Question 4: High-Yield Problem 4  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 4: Infosys SE Question 4  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -90,7 +90,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 11, Problem 79). 
 ---
 
 
-### Question 5: High-Yield Problem 5  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 5: Infosys SE Question 5  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -101,7 +101,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 11, Problem 79). 
 - **Topic Domain**: **Time and Work & Pipes**
 
 
-### Question 6: High-Yield Problem 6  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 6: Infosys SE Question 6  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -132,7 +132,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 11, Problem 80). 
 ---
 
 
-### Question 7: High-Yield Problem 7  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 7: Infosys SE Question 7  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -143,7 +143,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 11, Problem 80). 
 - **Topic Domain**: **Time and Work & Pipes**
 
 
-### Question 8: High-Yield Problem 8  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 8: Infosys SE Question 8  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -172,7 +172,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 11, Problem 81). 
 ---
 
 
-### Question 9: High-Yield Problem 9  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 9: Infosys SE Question 9  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -183,7 +183,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 11, Problem 81). 
 - **Topic Domain**: **Time and Work & Pipes**
 
 
-### Question 10: High-Yield Problem 10  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 10: Infosys SE Question 10  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -213,7 +213,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 12, Problem 82). 
 ---
 
 
-### Question 11: High-Yield Problem 11  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 11: Infosys SE Question 11  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -224,7 +224,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 12, Problem 82). 
 - **Topic Domain**: **Time and Work & Pipes**
 
 
-### Question 12: High-Yield Problem 12  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 12: Infosys SE Question 12  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -253,7 +253,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 12, Problem 83). 
 ---
 
 
-### Question 13: High-Yield Problem 13  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 13: Infosys SE Question 13  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -264,7 +264,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 12, Problem 83). 
 - **Topic Domain**: **Time and Work & Pipes**
 
 
-### Question 14: High-Yield Problem 14  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 14: Infosys SE Question 14  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -294,7 +294,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 12, Problem 84). 
 ---
 
 
-### Question 15: High-Yield Problem 15  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 15: Infosys SE Question 15  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -305,7 +305,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 12, Problem 84). 
 - **Topic Domain**: **Time and Work & Pipes**
 
 
-### Question 16: High-Yield Problem 16  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 16: Infosys SE Question 16  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -335,7 +335,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 12, Problem 85). 
 ---
 
 
-### Question 17: High-Yield Problem 17  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 17: Infosys SE Question 17  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -346,7 +346,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 12, Problem 85). 
 - **Topic Domain**: **Time and Work & Pipes**
 
 
-### Question 18: High-Yield Problem 18  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 18: Infosys SE Question 18  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -376,7 +376,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 12, Problem 86). 
 ---
 
 
-### Question 19: High-Yield Problem 19  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 19: Infosys SE Question 19  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -387,7 +387,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 12, Problem 86). 
 - **Topic Domain**: **Time and Work & Pipes**
 
 
-### Question 20: High-Yield Problem 20  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 20: Infosys SE Question 20  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -417,7 +417,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 12, Problem 87). 
 ---
 
 
-### Question 21: High-Yield Problem 21  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 21: Infosys SE Question 21  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -428,7 +428,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 12, Problem 87). 
 - **Topic Domain**: **Time and Work & Pipes**
 
 
-### Question 22: High-Yield Problem 22  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 22: Infosys SE Question 22  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -460,7 +460,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 12, Problem 88). 
 ---
 
 
-### Question 23: High-Yield Problem 23  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 23: Infosys SE Question 23  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -471,7 +471,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 12, Problem 88). 
 - **Topic Domain**: **Time and Work & Pipes**
 
 
-### Question 24: High-Yield Problem 24  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 24: Infosys SE Question 24  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -501,7 +501,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 12, Problem 89). 
 ---
 
 
-### Question 25: High-Yield Problem 25  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 25: Infosys SE Question 25  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -512,7 +512,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 12, Problem 89). 
 - **Topic Domain**: **Time and Work & Pipes**
 
 
-### Question 26: High-Yield Problem 26  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 26: Infosys SE Question 26  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -542,7 +542,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 13, Problem 91). 
 ---
 
 
-### Question 27: High-Yield Problem 27  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 27: Infosys SE Question 27  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -553,7 +553,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 13, Problem 91). 
 - **Topic Domain**: **Time and Work & Pipes**
 
 
-### Question 28: High-Yield Problem 28  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 28: Infosys SE Question 28  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -584,7 +584,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 13, Problem 92). 
 ---
 
 
-### Question 29: High-Yield Problem 29  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 29: Infosys SE Question 29  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -595,7 +595,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 13, Problem 92). 
 - **Topic Domain**: **Time and Work & Pipes**
 
 
-### Question 30: High-Yield Problem 30  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 30: Infosys SE Question 30  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -626,7 +626,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 13, Problem 93). 
 ---
 
 
-### Question 31: High-Yield Problem 31  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 31: Infosys SE Question 31  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -637,7 +637,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 13, Problem 93). 
 - **Topic Domain**: **Time and Work & Pipes**
 
 
-### Question 32: High-Yield Problem 32  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 32: Infosys SE Question 32  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -668,7 +668,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 13, Problem 94). 
 ---
 
 
-### Question 33: High-Yield Problem 33  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 33: Infosys SE Question 33  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -679,7 +679,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 13, Problem 94). 
 - **Topic Domain**: **Time and Work & Pipes**
 
 
-### Question 34: High-Yield Problem 34  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 34: Infosys SE Question 34  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -718,101 +718,4 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 17, Problem 129).
 ![Numerical Chart](../../../images/quant_time_work_page_01.png)
 
 ---
-
-
-### Question 35: High-Yield Problem 35  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
-> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
-> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
-> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
-
- (ID: `SEC02_BOOK_P23_Q175`)
-- **Source Module**: `2. Numerical ability - Quantitative Aptitude`
-- **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
-- **Topic Domain**: **Time and Work & Pipes**
-
-
-### Question 36: High-Yield Problem 36  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
-> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
-> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
-> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
-
-
-The difference between the outer and inner 
-surfaces of a right circular metallic pipe, 14cm 
-long is 176cm2. If the pipe is made of 396cm2 
-metal, the sum of outer and inner radii (in cm) 
-is (Take 𝜋 =
-22
-7 )
-
-### Options
-- a.  5
-- b.  5.5
-- c.  6
-- d.  4.5
-
-### Correct Answer
-> [!IMPORTANT]
-> **Verified Answer Key**: `Link`
-
-### Step-by-Step Mathematical Proof & Arithmetic Solution
-Mathematical quantitative deduction from 250+ Quant Book (Page 23, Problem 175). Verified against master key: Answer option Link. Step-by-step formula and arithmetic reduction confirms answer.
-
-### Visual Figure / Data Table
-![Numerical Chart](../../../images/quant_time_work_page_01.png)
-
----
-
-
-### Question 37: High-Yield Problem 37  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
-> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
-> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
-> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
-
- (ID: `SEC02_BOOK_P29_Q219`)
-- **Source Module**: `2. Numerical ability - Quantitative Aptitude`
-- **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
-- **Topic Domain**: **Time and Work & Pipes**
-
-
-### Question 38: High-Yield Problem 38  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
-> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
-> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
-> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
-
-
-A and B together can do a work in 10 days, B 
-and C together can do the same work in 
-15days. A, B and C together can do the same 
-work in 8 days. In how many days can B alone 
-do this work
-
-### Options
-- a.  20
-- b.  24
-- c.  10
-- d.  30
-
-### Correct Answer
-> [!IMPORTANT]
-> **Verified Answer Key**: `B`
-
-### Step-by-Step Mathematical Proof & Arithmetic Solution
-Mathematical quantitative deduction from 250+ Quant Book (Page 29, Problem 219). Verified against master key: Answer option B. Step-by-step formula and arithmetic reduction confirms answer.
-
-### Visual Figure / Data Table
-![Numerical Chart](../../../images/quant_time_work_page_01.png)
-
----
-
-
-### Question 39: High-Yield Problem 39  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
-> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
-> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
-> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
-
- (ID: `SEC02_BOOK_P33_Q243`)
-- **Source Module**: `2. Numerical ability - Quantitative Aptitude`
-- **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
-- **Topic Domain**: **Time and Work & Pipes**
 

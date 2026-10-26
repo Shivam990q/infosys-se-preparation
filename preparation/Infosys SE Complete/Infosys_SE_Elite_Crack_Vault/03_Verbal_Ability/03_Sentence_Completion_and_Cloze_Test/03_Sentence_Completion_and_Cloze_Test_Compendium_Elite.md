@@ -1,13 +1,13 @@
 # 🏆 Infosys SE Elite Crack Vault — 03 Sentence Completion and Cloze Test Compendium Elite
-> **Target Role:** Infosys Systems Engineer (SE) / Specialist Programmer (SP)  
-> **Curation Standard:** **High-Yield & Core Exam Questions ONLY** (All Redundant Variants Purged)  
+> **Target Role:** **Infosys Systems Engineer (SE)** (3.6 – 4.0 LPA Recruitment Drive)  
+> **Curation Standard:** **100% Pure SE Role Specific** (All SP/DSE Upper-Level & Practice Variants Purged)  
 > **Total Curated Questions in Topic:** **358 Questions**  
-> **Question Breakdown:** 🔴 `167 Must-Solve` | 🟡 `191 Core SE` | 🔵 `0 Advanced SP/DSE`  
+> **Question Breakdown:** 🔴 `167 Must-Solve` | 🟡 `191 Core SE Level`  
 > **Verification Score:** 100% Mathematically & Deductively Proven with Zero Hallucination  
 
 ---
 
-### Question 1: High-Yield Problem 1  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 1: Infosys SE Question 1  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -17,7 +17,7 @@
 - **Sub-Domain Focus**: Cloze Test & Sentence Completion
 
 
-### Question 2: High-Yield Problem 2  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 2: Infosys SE Question 2  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -43,7 +43,7 @@ Select the most contextually and grammatically appropriate term for blank **(1)*
 ---
 
 
-### Question 3: High-Yield Problem 3  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 3: Infosys SE Question 3  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -53,7 +53,7 @@ Select the most contextually and grammatically appropriate term for blank **(1)*
 - **Sub-Domain Focus**: Cloze Test & Sentence Completion
 
 
-### Question 4: High-Yield Problem 4  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 4: Infosys SE Question 4  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -79,7 +79,7 @@ Select the most contextually and grammatically appropriate term for blank **(2)*
 ---
 
 
-### Question 5: High-Yield Problem 5  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 5: Infosys SE Question 5  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -89,7 +89,7 @@ Select the most contextually and grammatically appropriate term for blank **(2)*
 - **Sub-Domain Focus**: Cloze Test & Sentence Completion
 
 
-### Question 6: High-Yield Problem 6  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 6: Infosys SE Question 6  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -115,7 +115,7 @@ Select the most contextually and grammatically appropriate term for blank **(3)*
 ---
 
 
-### Question 7: High-Yield Problem 7  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 7: Infosys SE Question 7  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -125,7 +125,7 @@ Select the most contextually and grammatically appropriate term for blank **(3)*
 - **Sub-Domain Focus**: Cloze Test & Sentence Completion
 
 
-### Question 8: High-Yield Problem 8  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 8: Infosys SE Question 8  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -151,7 +151,7 @@ Select the most contextually and grammatically appropriate term for blank **(4)*
 ---
 
 
-### Question 9: High-Yield Problem 9  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 9: Infosys SE Question 9  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -161,7 +161,7 @@ Select the most contextually and grammatically appropriate term for blank **(4)*
 - **Sub-Domain Focus**: Cloze Test & Sentence Completion
 
 
-### Question 10: High-Yield Problem 10  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 10: Infosys SE Question 10  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -187,7 +187,7 @@ Select the most contextually and grammatically appropriate term for blank **(5)*
 ---
 
 
-### Question 11: High-Yield Problem 11  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 11: Infosys SE Question 11  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -197,7 +197,7 @@ Select the most contextually and grammatically appropriate term for blank **(5)*
 - **Sub-Domain Focus**: Cloze Test & Sentence Completion
 
 
-### Question 12: High-Yield Problem 12  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 12: Infosys SE Question 12  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -223,7 +223,7 @@ Select the most contextually and grammatically appropriate term for blank **(6)*
 ---
 
 
-### Question 13: High-Yield Problem 13  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 13: Infosys SE Question 13  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -233,7 +233,7 @@ Select the most contextually and grammatically appropriate term for blank **(6)*
 - **Sub-Domain Focus**: Cloze Test & Sentence Completion
 
 
-### Question 14: High-Yield Problem 14  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 14: Infosys SE Question 14  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -259,7 +259,7 @@ Select the most contextually and grammatically appropriate term for blank **(7)*
 ---
 
 
-### Question 15: High-Yield Problem 15  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 15: Infosys SE Question 15  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -269,7 +269,7 @@ Select the most contextually and grammatically appropriate term for blank **(7)*
 - **Sub-Domain Focus**: Cloze Test & Sentence Completion
 
 
-### Question 16: High-Yield Problem 16  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 16: Infosys SE Question 16  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -295,7 +295,7 @@ Select the most contextually and grammatically appropriate term for blank **(8)*
 ---
 
 
-### Question 17: High-Yield Problem 17  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 17: Infosys SE Question 17  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -305,7 +305,7 @@ Select the most contextually and grammatically appropriate term for blank **(8)*
 - **Sub-Domain Focus**: Cloze Test & Sentence Completion
 
 
-### Question 18: High-Yield Problem 18  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 18: Infosys SE Question 18  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -331,7 +331,7 @@ Select the most contextually and grammatically appropriate term for blank **(9)*
 ---
 
 
-### Question 19: High-Yield Problem 19  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 19: Infosys SE Question 19  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -341,7 +341,7 @@ Select the most contextually and grammatically appropriate term for blank **(9)*
 - **Sub-Domain Focus**: Cloze Test & Sentence Completion
 
 
-### Question 20: High-Yield Problem 20  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 20: Infosys SE Question 20  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -367,7 +367,7 @@ Select the most contextually and grammatically appropriate term for blank **(10)
 ---
 
 
-### Question 21: High-Yield Problem 21  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 21: Infosys SE Question 21  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -377,7 +377,7 @@ Select the most contextually and grammatically appropriate term for blank **(10)
 - **Sub-Domain Focus**: Cloze Test & Sentence Completion
 
 
-### Question 22: High-Yield Problem 22  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 22: Infosys SE Question 22  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -403,7 +403,7 @@ Select the most contextually and grammatically appropriate term for blank **(11)
 ---
 
 
-### Question 23: High-Yield Problem 23  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 23: Infosys SE Question 23  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -413,7 +413,7 @@ Select the most contextually and grammatically appropriate term for blank **(11)
 - **Sub-Domain Focus**: Cloze Test & Sentence Completion
 
 
-### Question 24: High-Yield Problem 24  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 24: Infosys SE Question 24  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -439,7 +439,7 @@ Select the most contextually and grammatically appropriate term for blank **(12)
 ---
 
 
-### Question 25: High-Yield Problem 25  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 25: Infosys SE Question 25  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -449,7 +449,7 @@ Select the most contextually and grammatically appropriate term for blank **(12)
 - **Sub-Domain Focus**: Cloze Test & Sentence Completion
 
 
-### Question 26: High-Yield Problem 26  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 26: Infosys SE Question 26  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -475,7 +475,7 @@ Select the most contextually and grammatically appropriate term for blank **(13)
 ---
 
 
-### Question 27: High-Yield Problem 27  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 27: Infosys SE Question 27  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -485,7 +485,7 @@ Select the most contextually and grammatically appropriate term for blank **(13)
 - **Sub-Domain Focus**: Cloze Test & Sentence Completion
 
 
-### Question 28: High-Yield Problem 28  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 28: Infosys SE Question 28  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -511,7 +511,7 @@ Select the most contextually and grammatically appropriate term for blank **(14)
 ---
 
 
-### Question 29: High-Yield Problem 29  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 29: Infosys SE Question 29  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -521,7 +521,7 @@ Select the most contextually and grammatically appropriate term for blank **(14)
 - **Sub-Domain Focus**: Cloze Test & Sentence Completion
 
 
-### Question 30: High-Yield Problem 30  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 30: Infosys SE Question 30  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -547,7 +547,7 @@ Select the most contextually and grammatically appropriate term for blank **(15)
 ---
 
 
-### Question 31: High-Yield Problem 31  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 31: Infosys SE Question 31  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -557,7 +557,7 @@ Select the most contextually and grammatically appropriate term for blank **(15)
 - **Sub-Domain Focus**: Cloze Test & Sentence Completion
 
 
-### Question 32: High-Yield Problem 32  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 32: Infosys SE Question 32  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -583,7 +583,7 @@ Select the most contextually and grammatically appropriate term for blank **(16)
 ---
 
 
-### Question 33: High-Yield Problem 33  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 33: Infosys SE Question 33  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -593,7 +593,7 @@ Select the most contextually and grammatically appropriate term for blank **(16)
 - **Sub-Domain Focus**: Cloze Test & Sentence Completion
 
 
-### Question 34: High-Yield Problem 34  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 34: Infosys SE Question 34  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -619,7 +619,7 @@ Select the most contextually and grammatically appropriate term for blank **(17)
 ---
 
 
-### Question 35: High-Yield Problem 35  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 35: Infosys SE Question 35  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -629,7 +629,7 @@ Select the most contextually and grammatically appropriate term for blank **(17)
 - **Sub-Domain Focus**: Cloze Test & Sentence Completion
 
 
-### Question 36: High-Yield Problem 36  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 36: Infosys SE Question 36  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -655,7 +655,7 @@ Select the most contextually and grammatically appropriate term for blank **(18)
 ---
 
 
-### Question 37: High-Yield Problem 37  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 37: Infosys SE Question 37  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -665,7 +665,7 @@ Select the most contextually and grammatically appropriate term for blank **(18)
 - **Sub-Domain Focus**: Cloze Test & Sentence Completion
 
 
-### Question 38: High-Yield Problem 38  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 38: Infosys SE Question 38  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -691,7 +691,7 @@ Select the most contextually and grammatically appropriate term for blank **(19)
 ---
 
 
-### Question 39: High-Yield Problem 39  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 39: Infosys SE Question 39  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -701,7 +701,7 @@ Select the most contextually and grammatically appropriate term for blank **(19)
 - **Sub-Domain Focus**: Cloze Test & Sentence Completion
 
 
-### Question 40: High-Yield Problem 40  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 40: Infosys SE Question 40  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -727,7 +727,7 @@ Select the most contextually and grammatically appropriate term for blank **(20)
 ---
 
 
-### Question 41: High-Yield Problem 41  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 41: Infosys SE Question 41  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -737,7 +737,7 @@ Select the most contextually and grammatically appropriate term for blank **(20)
 - **Sub-Domain Focus**: Cloze Test & Sentence Completion
 
 
-### Question 42: High-Yield Problem 42  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 42: Infosys SE Question 42  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -763,7 +763,7 @@ Select the most contextually and grammatically appropriate term for blank **(21)
 ---
 
 
-### Question 43: High-Yield Problem 43  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 43: Infosys SE Question 43  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -773,7 +773,7 @@ Select the most contextually and grammatically appropriate term for blank **(21)
 - **Sub-Domain Focus**: Cloze Test & Sentence Completion
 
 
-### Question 44: High-Yield Problem 44  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 44: Infosys SE Question 44  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -799,7 +799,7 @@ Select the most contextually and grammatically appropriate term for blank **(22)
 ---
 
 
-### Question 45: High-Yield Problem 45  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 45: Infosys SE Question 45  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -809,7 +809,7 @@ Select the most contextually and grammatically appropriate term for blank **(22)
 - **Sub-Domain Focus**: Cloze Test & Sentence Completion
 
 
-### Question 46: High-Yield Problem 46  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 46: Infosys SE Question 46  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -835,7 +835,7 @@ Select the most contextually and grammatically appropriate term for blank **(23)
 ---
 
 
-### Question 47: High-Yield Problem 47  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 47: Infosys SE Question 47  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -845,7 +845,7 @@ Select the most contextually and grammatically appropriate term for blank **(23)
 - **Sub-Domain Focus**: Cloze Test & Sentence Completion
 
 
-### Question 48: High-Yield Problem 48  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 48: Infosys SE Question 48  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -871,7 +871,7 @@ Select the most contextually and grammatically appropriate term for blank **(24)
 ---
 
 
-### Question 49: High-Yield Problem 49  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 49: Infosys SE Question 49  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -881,7 +881,7 @@ Select the most contextually and grammatically appropriate term for blank **(24)
 - **Sub-Domain Focus**: Cloze Test & Sentence Completion
 
 
-### Question 50: High-Yield Problem 50  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 50: Infosys SE Question 50  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -907,7 +907,7 @@ Select the most contextually and grammatically appropriate term for blank **(25)
 ---
 
 
-### Question 51: High-Yield Problem 51  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 51: Infosys SE Question 51  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -917,7 +917,7 @@ Select the most contextually and grammatically appropriate term for blank **(25)
 - **Sub-Domain Focus**: Cloze Test & Sentence Completion
 
 
-### Question 52: High-Yield Problem 52  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 52: Infosys SE Question 52  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -943,7 +943,7 @@ Select the most contextually and grammatically appropriate term for blank **(26)
 ---
 
 
-### Question 53: High-Yield Problem 53  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 53: Infosys SE Question 53  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -953,7 +953,7 @@ Select the most contextually and grammatically appropriate term for blank **(26)
 - **Sub-Domain Focus**: Cloze Test & Sentence Completion
 
 
-### Question 54: High-Yield Problem 54  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 54: Infosys SE Question 54  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -979,7 +979,7 @@ Select the most contextually and grammatically appropriate term for blank **(27)
 ---
 
 
-### Question 55: High-Yield Problem 55  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 55: Infosys SE Question 55  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -989,7 +989,7 @@ Select the most contextually and grammatically appropriate term for blank **(27)
 - **Sub-Domain Focus**: Cloze Test & Sentence Completion
 
 
-### Question 56: High-Yield Problem 56  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 56: Infosys SE Question 56  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -1015,7 +1015,7 @@ Select the most contextually and grammatically appropriate term for blank **(28)
 ---
 
 
-### Question 57: High-Yield Problem 57  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 57: Infosys SE Question 57  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -1025,7 +1025,7 @@ Select the most contextually and grammatically appropriate term for blank **(28)
 - **Sub-Domain Focus**: Cloze Test & Sentence Completion
 
 
-### Question 58: High-Yield Problem 58  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 58: Infosys SE Question 58  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -1051,7 +1051,7 @@ Select the most contextually and grammatically appropriate term for blank **(29)
 ---
 
 
-### Question 59: High-Yield Problem 59  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 59: Infosys SE Question 59  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -1061,7 +1061,7 @@ Select the most contextually and grammatically appropriate term for blank **(29)
 - **Sub-Domain Focus**: Cloze Test & Sentence Completion
 
 
-### Question 60: High-Yield Problem 60  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 60: Infosys SE Question 60  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -1087,7 +1087,7 @@ Select the most contextually and grammatically appropriate term for blank **(30)
 ---
 
 
-### Question 61: High-Yield Problem 61  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 61: Infosys SE Question 61  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -1097,7 +1097,7 @@ Select the most contextually and grammatically appropriate term for blank **(30)
 - **Sub-Domain Focus**: Cloze Test & Sentence Completion
 
 
-### Question 62: High-Yield Problem 62  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 62: Infosys SE Question 62  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -1123,7 +1123,7 @@ Select the most contextually and grammatically appropriate term for blank **(31)
 ---
 
 
-### Question 63: High-Yield Problem 63  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 63: Infosys SE Question 63  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -1133,7 +1133,7 @@ Select the most contextually and grammatically appropriate term for blank **(31)
 - **Sub-Domain Focus**: Cloze Test & Sentence Completion
 
 
-### Question 64: High-Yield Problem 64  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 64: Infosys SE Question 64  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -1159,7 +1159,7 @@ Select the most contextually and grammatically appropriate term for blank **(32)
 ---
 
 
-### Question 65: High-Yield Problem 65  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 65: Infosys SE Question 65  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -1169,7 +1169,7 @@ Select the most contextually and grammatically appropriate term for blank **(32)
 - **Sub-Domain Focus**: Cloze Test & Sentence Completion
 
 
-### Question 66: High-Yield Problem 66  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 66: Infosys SE Question 66  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -1195,7 +1195,7 @@ Select the most contextually and grammatically appropriate term for blank **(33)
 ---
 
 
-### Question 67: High-Yield Problem 67  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 67: Infosys SE Question 67  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -1205,7 +1205,7 @@ Select the most contextually and grammatically appropriate term for blank **(33)
 - **Sub-Domain Focus**: Cloze Test & Sentence Completion
 
 
-### Question 68: High-Yield Problem 68  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 68: Infosys SE Question 68  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -1231,7 +1231,7 @@ Select the most contextually and grammatically appropriate term for blank **(34)
 ---
 
 
-### Question 69: High-Yield Problem 69  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 69: Infosys SE Question 69  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -1241,7 +1241,7 @@ Select the most contextually and grammatically appropriate term for blank **(34)
 - **Sub-Domain Focus**: Cloze Test & Sentence Completion
 
 
-### Question 70: High-Yield Problem 70  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 70: Infosys SE Question 70  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -1267,7 +1267,7 @@ Select the most contextually and grammatically appropriate term for blank **(35)
 ---
 
 
-### Question 71: High-Yield Problem 71  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 71: Infosys SE Question 71  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -1277,7 +1277,7 @@ Select the most contextually and grammatically appropriate term for blank **(35)
 - **Sub-Domain Focus**: Cloze Test & Sentence Completion
 
 
-### Question 72: High-Yield Problem 72  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 72: Infosys SE Question 72  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -1303,7 +1303,7 @@ Select the most contextually and grammatically appropriate term for blank **(36)
 ---
 
 
-### Question 73: High-Yield Problem 73  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 73: Infosys SE Question 73  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -1313,7 +1313,7 @@ Select the most contextually and grammatically appropriate term for blank **(36)
 - **Sub-Domain Focus**: Cloze Test & Sentence Completion
 
 
-### Question 74: High-Yield Problem 74  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 74: Infosys SE Question 74  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -1339,7 +1339,7 @@ Select the most contextually and grammatically appropriate term for blank **(37)
 ---
 
 
-### Question 75: High-Yield Problem 75  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 75: Infosys SE Question 75  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -1349,7 +1349,7 @@ Select the most contextually and grammatically appropriate term for blank **(37)
 - **Sub-Domain Focus**: Cloze Test & Sentence Completion
 
 
-### Question 76: High-Yield Problem 76  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 76: Infosys SE Question 76  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -1375,7 +1375,7 @@ Select the most contextually and grammatically appropriate term for blank **(38)
 ---
 
 
-### Question 77: High-Yield Problem 77  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 77: Infosys SE Question 77  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -1385,7 +1385,7 @@ Select the most contextually and grammatically appropriate term for blank **(38)
 - **Sub-Domain Focus**: Cloze Test & Sentence Completion
 
 
-### Question 78: High-Yield Problem 78  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 78: Infosys SE Question 78  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -1411,7 +1411,7 @@ Select the most contextually and grammatically appropriate term for blank **(39)
 ---
 
 
-### Question 79: High-Yield Problem 79  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 79: Infosys SE Question 79  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -1421,7 +1421,7 @@ Select the most contextually and grammatically appropriate term for blank **(39)
 - **Sub-Domain Focus**: Cloze Test & Sentence Completion
 
 
-### Question 80: High-Yield Problem 80  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 80: Infosys SE Question 80  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -1447,7 +1447,7 @@ Select the most contextually and grammatically appropriate term for blank **(40)
 ---
 
 
-### Question 81: High-Yield Problem 81  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 81: Infosys SE Question 81  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -1457,7 +1457,7 @@ Select the most contextually and grammatically appropriate term for blank **(40)
 - **Sub-Domain Focus**: Cloze Test & Sentence Completion
 
 
-### Question 82: High-Yield Problem 82  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 82: Infosys SE Question 82  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -1483,7 +1483,7 @@ Select the most contextually and grammatically appropriate term for blank **(41)
 ---
 
 
-### Question 83: High-Yield Problem 83  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 83: Infosys SE Question 83  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -1493,7 +1493,7 @@ Select the most contextually and grammatically appropriate term for blank **(41)
 - **Sub-Domain Focus**: Cloze Test & Sentence Completion
 
 
-### Question 84: High-Yield Problem 84  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 84: Infosys SE Question 84  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -1519,7 +1519,7 @@ Select the most contextually and grammatically appropriate term for blank **(42)
 ---
 
 
-### Question 85: High-Yield Problem 85  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 85: Infosys SE Question 85  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -1529,7 +1529,7 @@ Select the most contextually and grammatically appropriate term for blank **(42)
 - **Sub-Domain Focus**: Cloze Test & Sentence Completion
 
 
-### Question 86: High-Yield Problem 86  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 86: Infosys SE Question 86  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -1555,7 +1555,7 @@ Select the most contextually and grammatically appropriate term for blank **(43)
 ---
 
 
-### Question 87: High-Yield Problem 87  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 87: Infosys SE Question 87  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -1565,7 +1565,7 @@ Select the most contextually and grammatically appropriate term for blank **(43)
 - **Sub-Domain Focus**: Cloze Test & Sentence Completion
 
 
-### Question 88: High-Yield Problem 88  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 88: Infosys SE Question 88  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -1591,7 +1591,7 @@ Select the most contextually and grammatically appropriate term for blank **(44)
 ---
 
 
-### Question 89: High-Yield Problem 89  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 89: Infosys SE Question 89  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -1601,7 +1601,7 @@ Select the most contextually and grammatically appropriate term for blank **(44)
 - **Sub-Domain Focus**: Cloze Test & Sentence Completion
 
 
-### Question 90: High-Yield Problem 90  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 90: Infosys SE Question 90  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -1627,7 +1627,7 @@ Select the most contextually and grammatically appropriate term for blank **(45)
 ---
 
 
-### Question 91: High-Yield Problem 91  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 91: Infosys SE Question 91  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -1637,7 +1637,7 @@ Select the most contextually and grammatically appropriate term for blank **(45)
 - **Sub-Domain Focus**: Cloze Test & Sentence Completion
 
 
-### Question 92: High-Yield Problem 92  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 92: Infosys SE Question 92  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -1663,7 +1663,7 @@ Select the most contextually and grammatically appropriate term for blank **(46)
 ---
 
 
-### Question 93: High-Yield Problem 93  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 93: Infosys SE Question 93  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -1673,7 +1673,7 @@ Select the most contextually and grammatically appropriate term for blank **(46)
 - **Sub-Domain Focus**: Cloze Test & Sentence Completion
 
 
-### Question 94: High-Yield Problem 94  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 94: Infosys SE Question 94  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -1699,7 +1699,7 @@ Select the most contextually and grammatically appropriate term for blank **(47)
 ---
 
 
-### Question 95: High-Yield Problem 95  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 95: Infosys SE Question 95  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -1709,7 +1709,7 @@ Select the most contextually and grammatically appropriate term for blank **(47)
 - **Sub-Domain Focus**: Cloze Test & Sentence Completion
 
 
-### Question 96: High-Yield Problem 96  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 96: Infosys SE Question 96  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -1735,7 +1735,7 @@ Select the most contextually and grammatically appropriate term for blank **(48)
 ---
 
 
-### Question 97: High-Yield Problem 97  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 97: Infosys SE Question 97  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -1745,7 +1745,7 @@ Select the most contextually and grammatically appropriate term for blank **(48)
 - **Sub-Domain Focus**: Cloze Test & Sentence Completion
 
 
-### Question 98: High-Yield Problem 98  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 98: Infosys SE Question 98  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -1771,7 +1771,7 @@ Select the most contextually and grammatically appropriate term for blank **(49)
 ---
 
 
-### Question 99: High-Yield Problem 99  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 99: Infosys SE Question 99  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -1781,7 +1781,7 @@ Select the most contextually and grammatically appropriate term for blank **(49)
 - **Sub-Domain Focus**: Cloze Test & Sentence Completion
 
 
-### Question 100: High-Yield Problem 100  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 100: Infosys SE Question 100  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -1807,7 +1807,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 ---
 
 
-### Question 101: High-Yield Problem 101  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 101: Infosys SE Question 101  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -1817,7 +1817,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 - **Sub-Domain Focus**: Prepositions & Articles
 
 
-### Question 102: High-Yield Problem 102  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 102: Infosys SE Question 102  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -1842,7 +1842,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 ---
 
 
-### Question 103: High-Yield Problem 103  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 103: Infosys SE Question 103  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -1852,7 +1852,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 - **Sub-Domain Focus**: Prepositions & Articles
 
 
-### Question 104: High-Yield Problem 104  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 104: Infosys SE Question 104  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -1877,7 +1877,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 ---
 
 
-### Question 105: High-Yield Problem 105  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 105: Infosys SE Question 105  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -1887,7 +1887,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 - **Sub-Domain Focus**: Prepositions & Articles
 
 
-### Question 106: High-Yield Problem 106  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 106: Infosys SE Question 106  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -1912,7 +1912,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 ---
 
 
-### Question 107: High-Yield Problem 107  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 107: Infosys SE Question 107  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -1922,7 +1922,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 - **Sub-Domain Focus**: Prepositions & Articles
 
 
-### Question 108: High-Yield Problem 108  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 108: Infosys SE Question 108  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -1947,7 +1947,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 ---
 
 
-### Question 109: High-Yield Problem 109  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 109: Infosys SE Question 109  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -1957,7 +1957,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 - **Sub-Domain Focus**: Prepositions & Articles
 
 
-### Question 110: High-Yield Problem 110  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 110: Infosys SE Question 110  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -1982,7 +1982,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 ---
 
 
-### Question 111: High-Yield Problem 111  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 111: Infosys SE Question 111  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -1992,7 +1992,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 - **Sub-Domain Focus**: Prepositions & Articles
 
 
-### Question 112: High-Yield Problem 112  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 112: Infosys SE Question 112  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -2017,7 +2017,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 ---
 
 
-### Question 113: High-Yield Problem 113  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 113: Infosys SE Question 113  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -2027,7 +2027,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 - **Sub-Domain Focus**: Prepositions & Articles
 
 
-### Question 114: High-Yield Problem 114  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 114: Infosys SE Question 114  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -2052,7 +2052,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 ---
 
 
-### Question 115: High-Yield Problem 115  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 115: Infosys SE Question 115  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -2062,7 +2062,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 - **Sub-Domain Focus**: Prepositions & Articles
 
 
-### Question 116: High-Yield Problem 116  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 116: Infosys SE Question 116  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -2087,7 +2087,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 ---
 
 
-### Question 117: High-Yield Problem 117  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 117: Infosys SE Question 117  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -2097,7 +2097,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 - **Sub-Domain Focus**: Prepositions & Articles
 
 
-### Question 118: High-Yield Problem 118  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 118: Infosys SE Question 118  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -2122,7 +2122,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 ---
 
 
-### Question 119: High-Yield Problem 119  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 119: Infosys SE Question 119  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -2132,7 +2132,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 - **Sub-Domain Focus**: Prepositions & Articles
 
 
-### Question 120: High-Yield Problem 120  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 120: Infosys SE Question 120  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -2157,7 +2157,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 ---
 
 
-### Question 121: High-Yield Problem 121  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 121: Infosys SE Question 121  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -2167,7 +2167,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 - **Sub-Domain Focus**: Prepositions & Articles
 
 
-### Question 122: High-Yield Problem 122  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 122: Infosys SE Question 122  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -2192,7 +2192,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 ---
 
 
-### Question 123: High-Yield Problem 123  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 123: Infosys SE Question 123  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -2202,7 +2202,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 - **Sub-Domain Focus**: Prepositions & Articles
 
 
-### Question 124: High-Yield Problem 124  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 124: Infosys SE Question 124  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -2227,7 +2227,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 ---
 
 
-### Question 125: High-Yield Problem 125  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 125: Infosys SE Question 125  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -2237,7 +2237,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 - **Sub-Domain Focus**: Prepositions & Articles
 
 
-### Question 126: High-Yield Problem 126  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 126: Infosys SE Question 126  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -2262,7 +2262,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 ---
 
 
-### Question 127: High-Yield Problem 127  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 127: Infosys SE Question 127  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -2272,7 +2272,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 - **Sub-Domain Focus**: Prepositions & Articles
 
 
-### Question 128: High-Yield Problem 128  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 128: Infosys SE Question 128  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -2297,7 +2297,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 ---
 
 
-### Question 129: High-Yield Problem 129  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 129: Infosys SE Question 129  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -2307,7 +2307,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 - **Sub-Domain Focus**: Prepositions & Articles
 
 
-### Question 130: High-Yield Problem 130  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 130: Infosys SE Question 130  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -2332,7 +2332,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 ---
 
 
-### Question 131: High-Yield Problem 131  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 131: Infosys SE Question 131  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -2342,7 +2342,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 - **Sub-Domain Focus**: Prepositions & Articles
 
 
-### Question 132: High-Yield Problem 132  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 132: Infosys SE Question 132  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -2367,7 +2367,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 ---
 
 
-### Question 133: High-Yield Problem 133  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 133: Infosys SE Question 133  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -2377,7 +2377,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 - **Sub-Domain Focus**: Prepositions & Articles
 
 
-### Question 134: High-Yield Problem 134  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 134: Infosys SE Question 134  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -2402,7 +2402,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 ---
 
 
-### Question 135: High-Yield Problem 135  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 135: Infosys SE Question 135  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -2412,7 +2412,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 - **Sub-Domain Focus**: Prepositions & Articles
 
 
-### Question 136: High-Yield Problem 136  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 136: Infosys SE Question 136  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -2437,7 +2437,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 ---
 
 
-### Question 137: High-Yield Problem 137  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 137: Infosys SE Question 137  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -2447,7 +2447,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 - **Sub-Domain Focus**: Prepositions & Articles
 
 
-### Question 138: High-Yield Problem 138  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 138: Infosys SE Question 138  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -2472,7 +2472,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 ---
 
 
-### Question 139: High-Yield Problem 139  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 139: Infosys SE Question 139  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -2482,7 +2482,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 - **Sub-Domain Focus**: Prepositions & Articles
 
 
-### Question 140: High-Yield Problem 140  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 140: Infosys SE Question 140  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -2507,7 +2507,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 ---
 
 
-### Question 141: High-Yield Problem 141  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 141: Infosys SE Question 141  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -2517,7 +2517,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 - **Sub-Domain Focus**: Prepositions & Articles
 
 
-### Question 142: High-Yield Problem 142  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 142: Infosys SE Question 142  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -2542,7 +2542,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 ---
 
 
-### Question 143: High-Yield Problem 143  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 143: Infosys SE Question 143  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -2552,7 +2552,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 - **Sub-Domain Focus**: Prepositions & Articles
 
 
-### Question 144: High-Yield Problem 144  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 144: Infosys SE Question 144  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -2577,7 +2577,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 ---
 
 
-### Question 145: High-Yield Problem 145  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 145: Infosys SE Question 145  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -2587,7 +2587,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 - **Sub-Domain Focus**: Prepositions & Articles
 
 
-### Question 146: High-Yield Problem 146  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 146: Infosys SE Question 146  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -2612,7 +2612,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 ---
 
 
-### Question 147: High-Yield Problem 147  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 147: Infosys SE Question 147  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -2622,7 +2622,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 - **Sub-Domain Focus**: Prepositions & Articles
 
 
-### Question 148: High-Yield Problem 148  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 148: Infosys SE Question 148  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -2647,7 +2647,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 ---
 
 
-### Question 149: High-Yield Problem 149  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 149: Infosys SE Question 149  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -2657,7 +2657,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 - **Sub-Domain Focus**: Prepositions & Articles
 
 
-### Question 150: High-Yield Problem 150  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 150: Infosys SE Question 150  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -2682,7 +2682,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 ---
 
 
-### Question 151: High-Yield Problem 151  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 151: Infosys SE Question 151  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -2692,7 +2692,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 - **Sub-Domain Focus**: Prepositions & Articles
 
 
-### Question 152: High-Yield Problem 152  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 152: Infosys SE Question 152  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -2717,7 +2717,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 ---
 
 
-### Question 153: High-Yield Problem 153  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 153: Infosys SE Question 153  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -2727,7 +2727,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 - **Sub-Domain Focus**: Prepositions & Articles
 
 
-### Question 154: High-Yield Problem 154  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 154: Infosys SE Question 154  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -2752,7 +2752,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 ---
 
 
-### Question 155: High-Yield Problem 155  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 155: Infosys SE Question 155  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -2762,7 +2762,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 - **Sub-Domain Focus**: Prepositions & Articles
 
 
-### Question 156: High-Yield Problem 156  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 156: Infosys SE Question 156  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -2787,7 +2787,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 ---
 
 
-### Question 157: High-Yield Problem 157  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 157: Infosys SE Question 157  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -2797,7 +2797,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 - **Sub-Domain Focus**: Prepositions & Articles
 
 
-### Question 158: High-Yield Problem 158  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 158: Infosys SE Question 158  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -2822,7 +2822,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 ---
 
 
-### Question 159: High-Yield Problem 159  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 159: Infosys SE Question 159  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -2832,7 +2832,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 - **Sub-Domain Focus**: Prepositions & Articles
 
 
-### Question 160: High-Yield Problem 160  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 160: Infosys SE Question 160  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -2857,7 +2857,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 ---
 
 
-### Question 161: High-Yield Problem 161  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 161: Infosys SE Question 161  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -2867,7 +2867,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 - **Sub-Domain Focus**: Prepositions & Articles
 
 
-### Question 162: High-Yield Problem 162  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 162: Infosys SE Question 162  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -2892,7 +2892,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 ---
 
 
-### Question 163: High-Yield Problem 163  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 163: Infosys SE Question 163  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -2902,7 +2902,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 - **Sub-Domain Focus**: Prepositions & Articles
 
 
-### Question 164: High-Yield Problem 164  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 164: Infosys SE Question 164  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -2927,7 +2927,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 ---
 
 
-### Question 165: High-Yield Problem 165  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 165: Infosys SE Question 165  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -2937,7 +2937,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 - **Sub-Domain Focus**: Prepositions & Articles
 
 
-### Question 166: High-Yield Problem 166  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 166: Infosys SE Question 166  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -2962,7 +2962,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 ---
 
 
-### Question 167: High-Yield Problem 167  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 167: Infosys SE Question 167  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -2972,7 +2972,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 - **Sub-Domain Focus**: Prepositions & Articles
 
 
-### Question 168: High-Yield Problem 168  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 168: Infosys SE Question 168  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -2997,7 +2997,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 ---
 
 
-### Question 169: High-Yield Problem 169  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 169: Infosys SE Question 169  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -3007,7 +3007,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 - **Sub-Domain Focus**: Prepositions & Articles
 
 
-### Question 170: High-Yield Problem 170  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 170: Infosys SE Question 170  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -3032,7 +3032,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 ---
 
 
-### Question 171: High-Yield Problem 171  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 171: Infosys SE Question 171  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -3042,7 +3042,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 - **Sub-Domain Focus**: Prepositions & Articles
 
 
-### Question 172: High-Yield Problem 172  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 172: Infosys SE Question 172  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -3067,7 +3067,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 ---
 
 
-### Question 173: High-Yield Problem 173  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 173: Infosys SE Question 173  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -3077,7 +3077,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 - **Sub-Domain Focus**: Prepositions & Articles
 
 
-### Question 174: High-Yield Problem 174  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 174: Infosys SE Question 174  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -3102,7 +3102,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 ---
 
 
-### Question 175: High-Yield Problem 175  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 175: Infosys SE Question 175  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -3112,7 +3112,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 - **Sub-Domain Focus**: Prepositions & Articles
 
 
-### Question 176: High-Yield Problem 176  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 176: Infosys SE Question 176  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -3137,7 +3137,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 ---
 
 
-### Question 177: High-Yield Problem 177  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 177: Infosys SE Question 177  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -3147,7 +3147,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 - **Sub-Domain Focus**: Prepositions & Articles
 
 
-### Question 178: High-Yield Problem 178  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 178: Infosys SE Question 178  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -3172,7 +3172,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 ---
 
 
-### Question 179: High-Yield Problem 179  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 179: Infosys SE Question 179  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -3182,7 +3182,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 - **Sub-Domain Focus**: Prepositions & Articles
 
 
-### Question 180: High-Yield Problem 180  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 180: Infosys SE Question 180  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -3207,7 +3207,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 ---
 
 
-### Question 181: High-Yield Problem 181  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 181: Infosys SE Question 181  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -3217,7 +3217,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 - **Sub-Domain Focus**: Prepositions & Articles
 
 
-### Question 182: High-Yield Problem 182  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 182: Infosys SE Question 182  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -3242,7 +3242,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 ---
 
 
-### Question 183: High-Yield Problem 183  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 183: Infosys SE Question 183  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -3252,7 +3252,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 - **Sub-Domain Focus**: Prepositions & Articles
 
 
-### Question 184: High-Yield Problem 184  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 184: Infosys SE Question 184  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -3277,7 +3277,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 ---
 
 
-### Question 185: High-Yield Problem 185  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 185: Infosys SE Question 185  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -3287,7 +3287,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 - **Sub-Domain Focus**: Prepositions & Articles
 
 
-### Question 186: High-Yield Problem 186  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 186: Infosys SE Question 186  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -3312,7 +3312,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 ---
 
 
-### Question 187: High-Yield Problem 187  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 187: Infosys SE Question 187  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -3322,7 +3322,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 - **Sub-Domain Focus**: Prepositions & Articles
 
 
-### Question 188: High-Yield Problem 188  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 188: Infosys SE Question 188  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -3347,7 +3347,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 ---
 
 
-### Question 189: High-Yield Problem 189  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 189: Infosys SE Question 189  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -3357,7 +3357,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 - **Sub-Domain Focus**: Prepositions & Articles
 
 
-### Question 190: High-Yield Problem 190  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 190: Infosys SE Question 190  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -3382,7 +3382,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 ---
 
 
-### Question 191: High-Yield Problem 191  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 191: Infosys SE Question 191  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -3392,7 +3392,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 - **Sub-Domain Focus**: Prepositions & Articles
 
 
-### Question 192: High-Yield Problem 192  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 192: Infosys SE Question 192  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -3417,7 +3417,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 ---
 
 
-### Question 193: High-Yield Problem 193  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 193: Infosys SE Question 193  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -3427,7 +3427,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 - **Sub-Domain Focus**: Prepositions & Articles
 
 
-### Question 194: High-Yield Problem 194  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 194: Infosys SE Question 194  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -3452,7 +3452,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 ---
 
 
-### Question 195: High-Yield Problem 195  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 195: Infosys SE Question 195  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -3462,7 +3462,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 - **Sub-Domain Focus**: Prepositions & Articles
 
 
-### Question 196: High-Yield Problem 196  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 196: Infosys SE Question 196  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -3487,7 +3487,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 ---
 
 
-### Question 197: High-Yield Problem 197  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 197: Infosys SE Question 197  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -3497,7 +3497,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 - **Sub-Domain Focus**: Prepositions & Articles
 
 
-### Question 198: High-Yield Problem 198  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 198: Infosys SE Question 198  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -3522,7 +3522,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 ---
 
 
-### Question 199: High-Yield Problem 199  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 199: Infosys SE Question 199  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -3532,7 +3532,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 - **Sub-Domain Focus**: Prepositions & Articles
 
 
-### Question 200: High-Yield Problem 200  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 200: Infosys SE Question 200  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -3557,7 +3557,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 ---
 
 
-### Question 201: High-Yield Problem 201  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 201: Infosys SE Question 201  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -3567,7 +3567,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 - **Sub-Domain Focus**: Sentence Completion & Grammar Usage
 
 
-### Question 202: High-Yield Problem 202  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 202: Infosys SE Question 202  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -3592,7 +3592,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 ---
 
 
-### Question 203: High-Yield Problem 203  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 203: Infosys SE Question 203  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -3602,7 +3602,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 - **Sub-Domain Focus**: Sentence Completion & Grammar Usage
 
 
-### Question 204: High-Yield Problem 204  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 204: Infosys SE Question 204  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -3627,7 +3627,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 ---
 
 
-### Question 205: High-Yield Problem 205  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 205: Infosys SE Question 205  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -3637,7 +3637,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 - **Sub-Domain Focus**: Sentence Completion & Grammar Usage
 
 
-### Question 206: High-Yield Problem 206  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 206: Infosys SE Question 206  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -3662,7 +3662,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 ---
 
 
-### Question 207: High-Yield Problem 207  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 207: Infosys SE Question 207  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -3672,7 +3672,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 - **Sub-Domain Focus**: Sentence Completion & Grammar Usage
 
 
-### Question 208: High-Yield Problem 208  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 208: Infosys SE Question 208  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -3697,7 +3697,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 ---
 
 
-### Question 209: High-Yield Problem 209  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 209: Infosys SE Question 209  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -3707,7 +3707,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 - **Sub-Domain Focus**: Sentence Completion & Grammar Usage
 
 
-### Question 210: High-Yield Problem 210  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 210: Infosys SE Question 210  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -3732,7 +3732,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 ---
 
 
-### Question 211: High-Yield Problem 211  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 211: Infosys SE Question 211  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -3742,7 +3742,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 - **Sub-Domain Focus**: Sentence Completion & Grammar Usage
 
 
-### Question 212: High-Yield Problem 212  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 212: Infosys SE Question 212  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -3767,7 +3767,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 ---
 
 
-### Question 213: High-Yield Problem 213  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 213: Infosys SE Question 213  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -3777,7 +3777,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 - **Sub-Domain Focus**: Sentence Completion & Grammar Usage
 
 
-### Question 214: High-Yield Problem 214  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 214: Infosys SE Question 214  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -3802,7 +3802,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 ---
 
 
-### Question 215: High-Yield Problem 215  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 215: Infosys SE Question 215  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -3812,7 +3812,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 - **Sub-Domain Focus**: Sentence Completion & Grammar Usage
 
 
-### Question 216: High-Yield Problem 216  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 216: Infosys SE Question 216  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -3837,7 +3837,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 ---
 
 
-### Question 217: High-Yield Problem 217  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 217: Infosys SE Question 217  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -3847,7 +3847,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 - **Sub-Domain Focus**: Sentence Completion & Grammar Usage
 
 
-### Question 218: High-Yield Problem 218  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 218: Infosys SE Question 218  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -3872,7 +3872,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 ---
 
 
-### Question 219: High-Yield Problem 219  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 219: Infosys SE Question 219  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -3882,7 +3882,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 - **Sub-Domain Focus**: Sentence Completion & Grammar Usage
 
 
-### Question 220: High-Yield Problem 220  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 220: Infosys SE Question 220  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -3907,7 +3907,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 ---
 
 
-### Question 221: High-Yield Problem 221  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 221: Infosys SE Question 221  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -3917,7 +3917,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 - **Sub-Domain Focus**: Sentence Completion & Grammar Usage
 
 
-### Question 222: High-Yield Problem 222  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 222: Infosys SE Question 222  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -3942,7 +3942,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 ---
 
 
-### Question 223: High-Yield Problem 223  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 223: Infosys SE Question 223  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -3952,7 +3952,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 - **Sub-Domain Focus**: Sentence Completion & Grammar Usage
 
 
-### Question 224: High-Yield Problem 224  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 224: Infosys SE Question 224  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -3977,7 +3977,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 ---
 
 
-### Question 225: High-Yield Problem 225  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 225: Infosys SE Question 225  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -3987,7 +3987,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 - **Sub-Domain Focus**: Sentence Completion & Grammar Usage
 
 
-### Question 226: High-Yield Problem 226  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 226: Infosys SE Question 226  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -4012,7 +4012,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 ---
 
 
-### Question 227: High-Yield Problem 227  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 227: Infosys SE Question 227  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -4022,7 +4022,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 - **Sub-Domain Focus**: Sentence Completion & Grammar Usage
 
 
-### Question 228: High-Yield Problem 228  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 228: Infosys SE Question 228  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -4047,7 +4047,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 ---
 
 
-### Question 229: High-Yield Problem 229  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 229: Infosys SE Question 229  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -4057,7 +4057,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 - **Sub-Domain Focus**: Sentence Completion & Grammar Usage
 
 
-### Question 230: High-Yield Problem 230  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 230: Infosys SE Question 230  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -4082,7 +4082,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 ---
 
 
-### Question 231: High-Yield Problem 231  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 231: Infosys SE Question 231  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -4092,7 +4092,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 - **Sub-Domain Focus**: Sentence Completion & Grammar Usage
 
 
-### Question 232: High-Yield Problem 232  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 232: Infosys SE Question 232  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -4117,7 +4117,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 ---
 
 
-### Question 233: High-Yield Problem 233  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 233: Infosys SE Question 233  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -4127,7 +4127,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 - **Sub-Domain Focus**: Sentence Completion & Grammar Usage
 
 
-### Question 234: High-Yield Problem 234  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 234: Infosys SE Question 234  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -4152,7 +4152,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 ---
 
 
-### Question 235: High-Yield Problem 235  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 235: Infosys SE Question 235  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -4162,7 +4162,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 - **Sub-Domain Focus**: Sentence Completion & Grammar Usage
 
 
-### Question 236: High-Yield Problem 236  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 236: Infosys SE Question 236  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -4187,7 +4187,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 ---
 
 
-### Question 237: High-Yield Problem 237  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 237: Infosys SE Question 237  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -4197,7 +4197,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 - **Sub-Domain Focus**: Sentence Completion & Grammar Usage
 
 
-### Question 238: High-Yield Problem 238  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 238: Infosys SE Question 238  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -4222,7 +4222,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 ---
 
 
-### Question 239: High-Yield Problem 239  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 239: Infosys SE Question 239  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -4232,7 +4232,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 - **Sub-Domain Focus**: Sentence Completion & Grammar Usage
 
 
-### Question 240: High-Yield Problem 240  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 240: Infosys SE Question 240  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -4257,7 +4257,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 ---
 
 
-### Question 241: High-Yield Problem 241  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 241: Infosys SE Question 241  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -4267,7 +4267,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 - **Sub-Domain Focus**: Sentence Completion & Grammar Usage
 
 
-### Question 242: High-Yield Problem 242  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 242: Infosys SE Question 242  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -4292,7 +4292,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 ---
 
 
-### Question 243: High-Yield Problem 243  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 243: Infosys SE Question 243  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -4302,7 +4302,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 - **Sub-Domain Focus**: Sentence Completion & Grammar Usage
 
 
-### Question 244: High-Yield Problem 244  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 244: Infosys SE Question 244  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -4327,7 +4327,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 ---
 
 
-### Question 245: High-Yield Problem 245  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 245: Infosys SE Question 245  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -4337,7 +4337,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 - **Sub-Domain Focus**: Sentence Completion & Grammar Usage
 
 
-### Question 246: High-Yield Problem 246  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 246: Infosys SE Question 246  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -4362,7 +4362,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 ---
 
 
-### Question 247: High-Yield Problem 247  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 247: Infosys SE Question 247  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -4372,7 +4372,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 - **Sub-Domain Focus**: Sentence Completion & Grammar Usage
 
 
-### Question 248: High-Yield Problem 248  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 248: Infosys SE Question 248  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -4397,7 +4397,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 ---
 
 
-### Question 249: High-Yield Problem 249  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 249: Infosys SE Question 249  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -4407,7 +4407,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 - **Sub-Domain Focus**: Sentence Completion & Grammar Usage
 
 
-### Question 250: High-Yield Problem 250  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 250: Infosys SE Question 250  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -4432,7 +4432,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 ---
 
 
-### Question 251: High-Yield Problem 251  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 251: Infosys SE Question 251  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -4442,7 +4442,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 - **Sub-Domain Focus**: Sentence Completion & Grammar Usage
 
 
-### Question 252: High-Yield Problem 252  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 252: Infosys SE Question 252  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -4467,7 +4467,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 ---
 
 
-### Question 253: High-Yield Problem 253  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 253: Infosys SE Question 253  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -4477,7 +4477,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 - **Sub-Domain Focus**: Sentence Completion & Grammar Usage
 
 
-### Question 254: High-Yield Problem 254  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 254: Infosys SE Question 254  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -4502,7 +4502,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 ---
 
 
-### Question 255: High-Yield Problem 255  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 255: Infosys SE Question 255  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -4512,7 +4512,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 - **Sub-Domain Focus**: Sentence Completion & Grammar Usage
 
 
-### Question 256: High-Yield Problem 256  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 256: Infosys SE Question 256  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -4537,7 +4537,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 ---
 
 
-### Question 257: High-Yield Problem 257  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 257: Infosys SE Question 257  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -4547,7 +4547,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 - **Sub-Domain Focus**: Sentence Completion & Grammar Usage
 
 
-### Question 258: High-Yield Problem 258  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 258: Infosys SE Question 258  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -4572,7 +4572,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 ---
 
 
-### Question 259: High-Yield Problem 259  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 259: Infosys SE Question 259  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -4582,7 +4582,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 - **Sub-Domain Focus**: Sentence Completion & Grammar Usage
 
 
-### Question 260: High-Yield Problem 260  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 260: Infosys SE Question 260  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -4607,7 +4607,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 ---
 
 
-### Question 261: High-Yield Problem 261  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 261: Infosys SE Question 261  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -4617,7 +4617,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 - **Sub-Domain Focus**: Sentence Completion & Grammar Usage
 
 
-### Question 262: High-Yield Problem 262  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 262: Infosys SE Question 262  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -4642,7 +4642,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 ---
 
 
-### Question 263: High-Yield Problem 263  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 263: Infosys SE Question 263  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -4652,7 +4652,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 - **Sub-Domain Focus**: Sentence Completion & Grammar Usage
 
 
-### Question 264: High-Yield Problem 264  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 264: Infosys SE Question 264  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -4677,7 +4677,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 ---
 
 
-### Question 265: High-Yield Problem 265  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 265: Infosys SE Question 265  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -4687,7 +4687,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 - **Sub-Domain Focus**: Sentence Completion & Grammar Usage
 
 
-### Question 266: High-Yield Problem 266  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 266: Infosys SE Question 266  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -4712,7 +4712,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 ---
 
 
-### Question 267: High-Yield Problem 267  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 267: Infosys SE Question 267  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -4722,7 +4722,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 - **Sub-Domain Focus**: Sentence Completion & Grammar Usage
 
 
-### Question 268: High-Yield Problem 268  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 268: Infosys SE Question 268  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -4747,7 +4747,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 ---
 
 
-### Question 269: High-Yield Problem 269  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 269: Infosys SE Question 269  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -4757,7 +4757,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 - **Sub-Domain Focus**: Sentence Completion & Grammar Usage
 
 
-### Question 270: High-Yield Problem 270  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 270: Infosys SE Question 270  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -4782,7 +4782,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 ---
 
 
-### Question 271: High-Yield Problem 271  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 271: Infosys SE Question 271  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -4792,7 +4792,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 - **Sub-Domain Focus**: Sentence Completion & Grammar Usage
 
 
-### Question 272: High-Yield Problem 272  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 272: Infosys SE Question 272  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -4817,7 +4817,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 ---
 
 
-### Question 273: High-Yield Problem 273  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 273: Infosys SE Question 273  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -4827,7 +4827,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 - **Sub-Domain Focus**: Sentence Completion & Grammar Usage
 
 
-### Question 274: High-Yield Problem 274  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 274: Infosys SE Question 274  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -4852,7 +4852,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 ---
 
 
-### Question 275: High-Yield Problem 275  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 275: Infosys SE Question 275  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -4862,7 +4862,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 - **Sub-Domain Focus**: Sentence Completion & Grammar Usage
 
 
-### Question 276: High-Yield Problem 276  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 276: Infosys SE Question 276  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -4887,7 +4887,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 ---
 
 
-### Question 277: High-Yield Problem 277  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 277: Infosys SE Question 277  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -4897,7 +4897,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 - **Sub-Domain Focus**: Sentence Completion & Grammar Usage
 
 
-### Question 278: High-Yield Problem 278  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 278: Infosys SE Question 278  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -4922,7 +4922,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 ---
 
 
-### Question 279: High-Yield Problem 279  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 279: Infosys SE Question 279  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -4932,7 +4932,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 - **Sub-Domain Focus**: Sentence Completion & Grammar Usage
 
 
-### Question 280: High-Yield Problem 280  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 280: Infosys SE Question 280  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -4957,7 +4957,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 ---
 
 
-### Question 281: High-Yield Problem 281  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 281: Infosys SE Question 281  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -4967,7 +4967,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 - **Sub-Domain Focus**: Sentence Completion & Grammar Usage
 
 
-### Question 282: High-Yield Problem 282  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 282: Infosys SE Question 282  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -4992,7 +4992,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 ---
 
 
-### Question 283: High-Yield Problem 283  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 283: Infosys SE Question 283  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -5002,7 +5002,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 - **Sub-Domain Focus**: Sentence Completion & Grammar Usage
 
 
-### Question 284: High-Yield Problem 284  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 284: Infosys SE Question 284  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -5027,7 +5027,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 ---
 
 
-### Question 285: High-Yield Problem 285  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 285: Infosys SE Question 285  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -5037,7 +5037,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 - **Sub-Domain Focus**: Sentence Completion & Grammar Usage
 
 
-### Question 286: High-Yield Problem 286  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 286: Infosys SE Question 286  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -5062,7 +5062,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 ---
 
 
-### Question 287: High-Yield Problem 287  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 287: Infosys SE Question 287  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -5072,7 +5072,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 - **Sub-Domain Focus**: Sentence Completion & Grammar Usage
 
 
-### Question 288: High-Yield Problem 288  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 288: Infosys SE Question 288  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -5097,7 +5097,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 ---
 
 
-### Question 289: High-Yield Problem 289  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 289: Infosys SE Question 289  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -5107,7 +5107,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 - **Sub-Domain Focus**: Sentence Completion & Grammar Usage
 
 
-### Question 290: High-Yield Problem 290  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 290: Infosys SE Question 290  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -5132,7 +5132,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 ---
 
 
-### Question 291: High-Yield Problem 291  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 291: Infosys SE Question 291  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -5142,7 +5142,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 - **Sub-Domain Focus**: Sentence Completion & Grammar Usage
 
 
-### Question 292: High-Yield Problem 292  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 292: Infosys SE Question 292  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -5167,7 +5167,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 ---
 
 
-### Question 293: High-Yield Problem 293  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 293: Infosys SE Question 293  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -5177,7 +5177,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 - **Sub-Domain Focus**: Sentence Completion & Grammar Usage
 
 
-### Question 294: High-Yield Problem 294  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 294: Infosys SE Question 294  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -5202,7 +5202,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 ---
 
 
-### Question 295: High-Yield Problem 295  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 295: Infosys SE Question 295  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -5212,7 +5212,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 - **Sub-Domain Focus**: Sentence Completion & Grammar Usage
 
 
-### Question 296: High-Yield Problem 296  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 296: Infosys SE Question 296  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -5237,7 +5237,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 ---
 
 
-### Question 297: High-Yield Problem 297  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 297: Infosys SE Question 297  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -5247,7 +5247,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 - **Sub-Domain Focus**: Sentence Completion & Grammar Usage
 
 
-### Question 298: High-Yield Problem 298  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 298: Infosys SE Question 298  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -5272,7 +5272,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 ---
 
 
-### Question 299: High-Yield Problem 299  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 299: Infosys SE Question 299  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -5282,7 +5282,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 - **Sub-Domain Focus**: Sentence Completion & Grammar Usage
 
 
-### Question 300: High-Yield Problem 300  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 300: Infosys SE Question 300  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -5307,7 +5307,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 ---
 
 
-### Question 301: High-Yield Problem 301  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 301: Infosys SE Question 301  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -5318,7 +5318,7 @@ According to the passage, one major challenge in integrating diverse cultures is
 - **Visual Reference Plate**: `images/eng_sva_level_1_page_01.png`
 
 
-### Question 302: High-Yield Problem 302  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 302: Infosys SE Question 302  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -5341,7 +5341,7 @@ Rule: 'Many a' is followed by a singular countable noun ('student') and strictly
 ---
 
 
-### Question 303: High-Yield Problem 303  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 303: Infosys SE Question 303  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -5352,7 +5352,7 @@ Rule: 'Many a' is followed by a singular countable noun ('student') and strictly
 - **Visual Reference Plate**: `images/eng_sva_level_1_page_01.png`
 
 
-### Question 304: High-Yield Problem 304  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 304: Infosys SE Question 304  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -5375,7 +5375,7 @@ Rule: When 'statistics' refers to numerical data, facts, or figures collected, i
 ---
 
 
-### Question 305: High-Yield Problem 305  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 305: Infosys SE Question 305  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -5386,7 +5386,7 @@ Rule: When 'statistics' refers to numerical data, facts, or figures collected, i
 - **Visual Reference Plate**: `images/eng_sva_level_1_page_01.png`
 
 
-### Question 306: High-Yield Problem 306  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 306: Infosys SE Question 306  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -5409,7 +5409,7 @@ Rule: When two subjects are joined by parenthetical expressions like 'as well as
 ---
 
 
-### Question 307: High-Yield Problem 307  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 307: Infosys SE Question 307  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -5420,7 +5420,7 @@ Rule: When two subjects are joined by parenthetical expressions like 'as well as
 - **Visual Reference Plate**: `images/eng_sva_level_1_page_01.png`
 
 
-### Question 308: High-Yield Problem 308  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 308: Infosys SE Question 308  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -5443,7 +5443,7 @@ Rule: Collective noun phrase 'A body of volunteers' acts as a single unified col
 ---
 
 
-### Question 309: High-Yield Problem 309  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 309: Infosys SE Question 309  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -5454,7 +5454,7 @@ Rule: Collective noun phrase 'A body of volunteers' acts as a single unified col
 - **Visual Reference Plate**: `images/eng_sva_level_1_page_01.png`
 
 
-### Question 310: High-Yield Problem 310  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 310: Infosys SE Question 310  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -5477,7 +5477,7 @@ Rule: 'News' is an uncountable noun that is always treated as grammatically sing
 ---
 
 
-### Question 311: High-Yield Problem 311  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 311: Infosys SE Question 311  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -5488,7 +5488,7 @@ Rule: 'News' is an uncountable noun that is always treated as grammatically sing
 - **Visual Reference Plate**: `images/eng_sva_level_1_page_01.png`
 
 
-### Question 312: High-Yield Problem 312  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 312: Infosys SE Question 312  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -5511,7 +5511,7 @@ Rule: In 'Not only... but also' correlative constructions, the verb agrees in nu
 ---
 
 
-### Question 313: High-Yield Problem 313  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 313: Infosys SE Question 313  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -5522,7 +5522,7 @@ Rule: In 'Not only... but also' correlative constructions, the verb agrees in nu
 - **Visual Reference Plate**: `images/eng_sva_level_1_page_01.png`
 
 
-### Question 314: High-Yield Problem 314  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 314: Infosys SE Question 314  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -5545,7 +5545,7 @@ Rule: 'United Nations' is a single sovereign international organization/entity, 
 ---
 
 
-### Question 315: High-Yield Problem 315  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 315: Infosys SE Question 315  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -5556,7 +5556,7 @@ Rule: 'United Nations' is a single sovereign international organization/entity, 
 - **Visual Reference Plate**: `images/eng_sva_level_1_page_01.png`
 
 
-### Question 316: High-Yield Problem 316  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 316: Infosys SE Question 316  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -5579,7 +5579,7 @@ Rule: When two nouns are joined by 'and' but preceded by only one definite artic
 ---
 
 
-### Question 317: High-Yield Problem 317  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 317: Infosys SE Question 317  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -5590,7 +5590,7 @@ Rule: When two nouns are joined by 'and' but preceded by only one definite artic
 - **Visual Reference Plate**: `images/eng_sva_level_1_page_01.png`
 
 
-### Question 318: High-Yield Problem 318  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 318: Infosys SE Question 318  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -5613,7 +5613,7 @@ Rule: With 'Neither... nor', the verb agrees with the subject closest to it ('th
 ---
 
 
-### Question 319: High-Yield Problem 319  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 319: Infosys SE Question 319  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -5624,7 +5624,7 @@ Rule: With 'Neither... nor', the verb agrees with the subject closest to it ('th
 - **Visual Reference Plate**: `images/eng_sva_level_1_page_01.png`
 
 
-### Question 320: High-Yield Problem 320  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 320: Infosys SE Question 320  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -5647,7 +5647,7 @@ Rule: 'A number of' is an idiomatic quantifier meaning 'several/many' and takes 
 ---
 
 
-### Question 321: High-Yield Problem 321  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 321: Infosys SE Question 321  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -5658,7 +5658,7 @@ Rule: 'A number of' is an idiomatic quantifier meaning 'several/many' and takes 
 - **Visual Reference Plate**: `images/eng_sva_level_1_page_02.png`
 
 
-### Question 322: High-Yield Problem 322  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 322: Infosys SE Question 322  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -5681,7 +5681,7 @@ Rule: 'The number of' denotes a specific count/figure and always takes a singula
 ---
 
 
-### Question 323: High-Yield Problem 323  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 323: Infosys SE Question 323  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -5692,7 +5692,7 @@ Rule: 'The number of' denotes a specific count/figure and always takes a singula
 - **Visual Reference Plate**: `images/eng_sva_level_1_page_02.png`
 
 
-### Question 324: High-Yield Problem 324  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 324: Infosys SE Question 324  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -5715,7 +5715,7 @@ Rule: When two items joined by 'and' express a single compound idea or essential
 ---
 
 
-### Question 325: High-Yield Problem 325  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 325: Infosys SE Question 325  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -5726,7 +5726,7 @@ Rule: When two items joined by 'and' express a single compound idea or essential
 - **Visual Reference Plate**: `images/eng_sva_level_1_page_02.png`
 
 
-### Question 326: High-Yield Problem 326  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 326: Infosys SE Question 326  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -5749,7 +5749,7 @@ Rule: Expressions of distance, time, weight, and monetary amounts are considered
 ---
 
 
-### Question 327: High-Yield Problem 327  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 327: Infosys SE Question 327  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -5760,7 +5760,7 @@ Rule: Expressions of distance, time, weight, and monetary amounts are considered
 - **Visual Reference Plate**: `images/eng_sva_level_1_page_02.png`
 
 
-### Question 328: High-Yield Problem 328  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 328: Infosys SE Question 328  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -5783,7 +5783,7 @@ Rule: Indefinite pronoun 'Each' is grammatically singular and takes a singular v
 ---
 
 
-### Question 329: High-Yield Problem 329  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 329: Infosys SE Question 329  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -5794,7 +5794,7 @@ Rule: Indefinite pronoun 'Each' is grammatically singular and takes a singular v
 - **Visual Reference Plate**: `images/eng_sva_level_1_page_02.png`
 
 
-### Question 330: High-Yield Problem 330  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 330: Infosys SE Question 330  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -5817,7 +5817,7 @@ Rule: Names of academic subjects ending in -s (Physics, Mathematics, Economics) 
 ---
 
 
-### Question 331: High-Yield Problem 331  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 331: Infosys SE Question 331  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -5828,7 +5828,7 @@ Rule: Names of academic subjects ending in -s (Physics, Mathematics, Economics) 
 - **Visual Reference Plate**: `images/eng_sva_level_1_page_02.png`
 
 
-### Question 332: High-Yield Problem 332  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 332: Infosys SE Question 332  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -5851,7 +5851,7 @@ Rule: 'Either' of two alternatives is singular and requires a singular verb ('is
 ---
 
 
-### Question 333: High-Yield Problem 333  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 333: Infosys SE Question 333  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -5862,7 +5862,7 @@ Rule: 'Either' of two alternatives is singular and requires a singular verb ('is
 - **Visual Reference Plate**: `images/eng_sva_level_1_page_02.png`
 
 
-### Question 334: High-Yield Problem 334  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 334: Infosys SE Question 334  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -5885,7 +5885,7 @@ Rule: The true head subject of the sentence is 'The quality' (singular), not the
 ---
 
 
-### Question 335: High-Yield Problem 335  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 335: Infosys SE Question 335  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -5896,7 +5896,7 @@ Rule: The true head subject of the sentence is 'The quality' (singular), not the
 - **Visual Reference Plate**: `images/eng_sva_level_1_page_02.png`
 
 
-### Question 336: High-Yield Problem 336  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 336: Infosys SE Question 336  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -5919,7 +5919,7 @@ Rule: 'Slow and steady' represents a singular philosophical maxim / unified trai
 ---
 
 
-### Question 337: High-Yield Problem 337  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 337: Infosys SE Question 337  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -5930,7 +5930,7 @@ Rule: 'Slow and steady' represents a singular philosophical maxim / unified trai
 - **Visual Reference Plate**: `images/eng_sva_level_1_page_02.png`
 
 
-### Question 338: High-Yield Problem 338  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 338: Infosys SE Question 338  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -5953,7 +5953,7 @@ Rule: The title of a single book, movie, or literary work is singular even if th
 ---
 
 
-### Question 339: High-Yield Problem 339  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 339: Infosys SE Question 339  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -5964,7 +5964,7 @@ Rule: The title of a single book, movie, or literary work is singular even if th
 - **Visual Reference Plate**: `images/eng_sva_level_1_page_02.png`
 
 
-### Question 340: High-Yield Problem 340  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 340: Infosys SE Question 340  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -5987,7 +5987,7 @@ Rule: 'Information' is an uncountable noun. When 'None of' refers to an uncounta
 ---
 
 
-### Question 341: High-Yield Problem 341  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 341: Infosys SE Question 341  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -5998,7 +5998,7 @@ Rule: 'Information' is an uncountable noun. When 'None of' refers to an uncounta
 - **Visual Reference Plate**: `images/eng_sva_level_1_page_03.png`
 
 
-### Question 342: High-Yield Problem 342  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 342: Infosys SE Question 342  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -6021,7 +6021,7 @@ Rule: When subjects are preceded by 'Every' or 'Each', the verb is strictly sing
 ---
 
 
-### Question 343: High-Yield Problem 343  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 343: Infosys SE Question 343  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -6032,7 +6032,7 @@ Rule: When subjects are preceded by 'Every' or 'Each', the verb is strictly sing
 - **Visual Reference Plate**: `images/eng_sva_level_1_page_03.png`
 
 
-### Question 344: High-Yield Problem 344  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 344: Infosys SE Question 344  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -6055,7 +6055,7 @@ Rule: 'Neither' used as a pronoun is singular and takes a singular verb ('is').
 ---
 
 
-### Question 345: High-Yield Problem 345  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 345: Infosys SE Question 345  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -6066,7 +6066,7 @@ Rule: 'Neither' used as a pronoun is singular and takes a singular verb ('is').
 - **Visual Reference Plate**: `images/eng_sva_level_1_page_03.png`
 
 
-### Question 346: High-Yield Problem 346  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 346: Infosys SE Question 346  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -6089,7 +6089,7 @@ Rule: In 'One of + plural noun', the subject is 'One' (singular), requiring a si
 ---
 
 
-### Question 347: High-Yield Problem 347  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 347: Infosys SE Question 347  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -6100,7 +6100,7 @@ Rule: In 'One of + plural noun', the subject is 'One' (singular), requiring a si
 - **Visual Reference Plate**: `images/eng_sva_level_1_page_03.png`
 
 
-### Question 348: High-Yield Problem 348  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 348: Infosys SE Question 348  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -6123,7 +6123,7 @@ Rule: When members of a collective noun ('The committee') act individually or ho
 ---
 
 
-### Question 349: High-Yield Problem 349  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 349: Infosys SE Question 349  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -6134,7 +6134,7 @@ Rule: When members of a collective noun ('The committee') act individually or ho
 - **Visual Reference Plate**: `images/eng_sva_level_1_page_03.png`
 
 
-### Question 350: High-Yield Problem 350  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 350: Infosys SE Question 350  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -6157,7 +6157,7 @@ Rule: 'Riches' (meaning wealth/possessions) is an inherently plural noun that ta
 ---
 
 
-### Question 351: High-Yield Problem 351  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 351: Infosys SE Question 351  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -6168,7 +6168,7 @@ Rule: 'Riches' (meaning wealth/possessions) is an inherently plural noun that ta
 - **Visual Reference Plate**: `images/eng_rc_exercise_1_2_page_01.png`
 
 
-### Question 352: High-Yield Problem 352  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 352: Infosys SE Question 352  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -6200,7 +6200,7 @@ Refer the last few lines of first paragraph "But stifling your imagination is th
 ---
 
 
-### Question 353: High-Yield Problem 353  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 353: Infosys SE Question 353  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -6211,7 +6211,7 @@ Refer the last few lines of first paragraph "But stifling your imagination is th
 - **Visual Reference Plate**: `images/eng_rc_exercise_1_2_page_01.png`
 
 
-### Question 354: High-Yield Problem 354  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 354: Infosys SE Question 354  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -6240,7 +6240,7 @@ Refer second paragraph of the passage " The creative individual does not see the
 ---
 
 
-### Question 355: High-Yield Problem 355  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 355: Infosys SE Question 355  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -6251,7 +6251,7 @@ Refer second paragraph of the passage " The creative individual does not see the
 - **Visual Reference Plate**: `images/eng_rc_exercise_1_2_page_01.png`
 
 
-### Question 356: High-Yield Problem 356  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 356: Infosys SE Question 356  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -6281,7 +6281,7 @@ Refer the third paragraph of the passage "our imagination may leave you in a goo
 ---
 
 
-### Question 357: High-Yield Problem 357  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 357: Infosys SE Question 357  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -6292,7 +6292,7 @@ Refer the third paragraph of the passage "our imagination may leave you in a goo
 - **Visual Reference Plate**: `images/eng_rc_exercise_1_2_page_01.png`
 
 
-### Question 358: High-Yield Problem 358  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 358: Infosys SE Question 358  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.

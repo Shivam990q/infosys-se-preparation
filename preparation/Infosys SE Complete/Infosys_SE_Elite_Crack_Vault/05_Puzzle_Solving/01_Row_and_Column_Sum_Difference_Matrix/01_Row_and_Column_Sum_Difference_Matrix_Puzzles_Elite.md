@@ -1,8 +1,8 @@
 # 🏆 Infosys SE Elite Crack Vault — 01 Row and Column Sum Difference Matrix Puzzles Elite
-> **Target Role:** Infosys Systems Engineer (SE) / Specialist Programmer (SP)  
-> **Curation Standard:** **High-Yield & Core Exam Questions ONLY** (All Redundant Variants Purged)  
-> **Total Curated Questions in Topic:** **12 Questions**  
-> **Question Breakdown:** 🔴 `5 Must-Solve` | 🟡 `6 Core SE` | 🔵 `1 Advanced SP/DSE`  
+> **Target Role:** **Infosys Systems Engineer (SE)** (3.6 – 4.0 LPA Recruitment Drive)  
+> **Curation Standard:** **100% Pure SE Role Specific** (All SP/DSE Upper-Level & Practice Variants Purged)  
+> **Total Curated Questions in Topic:** **11 Questions**  
+> **Question Breakdown:** 🔴 `5 Must-Solve` | 🟡 `6 Core SE Level`  
 > **Verification Score:** 100% Mathematically & Deductively Proven with Zero Hallucination  
 
 ---
@@ -510,51 +510,5 @@ Find the missing number (?) from the given matrix:
 - **Option B (74):** Incorrect. Violates the established matrix row/column transformation rule.
 - **Option C (56):** Correct. Exactly matches the derived mathematical rule with zero contradiction.
 - **Option D (52):** Incorrect. Violates the established matrix row/column transformation rule.
-
----
-
-### Question 12: Matrix Number Puzzle 12  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
-> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
-> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
-> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
-
-
-
-**Category:** Topic 01: Row and Column Sum & Difference Puzzles  
-**Format:** Multiple Choice Single Answer (MCQ)  
-**Evaluation Rule:** Objective Pattern Matching  
-
-#### Problem Statement
-Find the missing number (?) from the given matrix:
-
-| Column 1 | Column 2 | Column 3 |
-| :---: | :---: | :---: |
-| 9 | 3 | 27 |
-| 4 | 8 | 32 |
-| 2 | 6 | ? |
-
-
-#### Options
-- [x] **A)** 12
-- [ ] **B)** 2
-- [ ] **C)** 17
-- [ ] **D)** 16
-
-#### Correct Answer
-**Correct Answer:** **Option A) 12**
-
-#### Detailed Mathematical Derivation
-1. **Matrix Layout & Dimensions:** The puzzle presents a matrix of dimensions 3 x 3.
-2. **Governing Rule & Logic:** Each row follows: third = first × second. So ? = 2 × 6 = 12.
-3. **Step-by-Step Algebraic Verification:**
-   - Evaluating the operations across corresponding rows and columns confirms this uniform pattern.
-   - Applying the identical transformation to the row/column containing the target cell produces True = 12$.
-4. **Conclusion:** The unique missing value that preserves structural and arithmetic invariance across the entire grid is 12.
-
-#### Distractor & Elimination Analysis
-- **Option A (12):** Correct. Exactly matches the derived mathematical rule with zero contradiction.
-- **Option B (2):** Incorrect. Violates the established matrix row/column transformation rule.
-- **Option C (17):** Incorrect. Violates the established matrix row/column transformation rule.
-- **Option D (16):** Incorrect. Violates the established matrix row/column transformation rule.
 
 ---

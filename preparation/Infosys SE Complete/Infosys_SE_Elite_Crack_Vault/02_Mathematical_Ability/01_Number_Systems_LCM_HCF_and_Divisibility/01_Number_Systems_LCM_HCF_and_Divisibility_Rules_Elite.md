@@ -1,13 +1,13 @@
 # 🏆 Infosys SE Elite Crack Vault — 01 Number Systems LCM HCF and Divisibility Rules Elite
-> **Target Role:** Infosys Systems Engineer (SE) / Specialist Programmer (SP)  
-> **Curation Standard:** **High-Yield & Core Exam Questions ONLY** (All Redundant Variants Purged)  
-> **Total Curated Questions in Topic:** **22 Questions**  
-> **Question Breakdown:** 🔴 `7 Must-Solve` | 🟡 `12 Core SE` | 🔵 `3 Advanced SP/DSE`  
+> **Target Role:** **Infosys Systems Engineer (SE)** (3.6 – 4.0 LPA Recruitment Drive)  
+> **Curation Standard:** **100% Pure SE Role Specific** (All SP/DSE Upper-Level & Practice Variants Purged)  
+> **Total Curated Questions in Topic:** **19 Questions**  
+> **Question Breakdown:** 🔴 `7 Must-Solve` | 🟡 `12 Core SE Level`  
 > **Verification Score:** 100% Mathematically & Deductively Proven with Zero Hallucination  
 
 ---
 
-### Question 1: High-Yield Problem 1  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 1: Infosys SE Question 1  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -18,7 +18,7 @@
 - **Topic Domain**: **Number Systems & Simplification**
 
 
-### Question 2: High-Yield Problem 2  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 2: Infosys SE Question 2  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -55,7 +55,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 5, Problem 29). V
 ---
 
 
-### Question 3: High-Yield Problem 3  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 3: Infosys SE Question 3  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -66,7 +66,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 5, Problem 29). V
 - **Topic Domain**: **Number Systems & Simplification**
 
 
-### Question 4: High-Yield Problem 4  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 4: Infosys SE Question 4  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -95,7 +95,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 7, Problem 46). V
 ---
 
 
-### Question 5: High-Yield Problem 5  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 5: Infosys SE Question 5  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -106,7 +106,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 7, Problem 46). V
 - **Topic Domain**: **Number Systems & Simplification**
 
 
-### Question 6: High-Yield Problem 6  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 6: Infosys SE Question 6  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -134,7 +134,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 7, Problem 47). V
 ---
 
 
-### Question 7: High-Yield Problem 7  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 7: Infosys SE Question 7  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -145,7 +145,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 7, Problem 47). V
 - **Topic Domain**: **Number Systems & Simplification**
 
 
-### Question 8: High-Yield Problem 8  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 8: Infosys SE Question 8  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -175,7 +175,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 7, Problem 48). V
 ---
 
 
-### Question 9: High-Yield Problem 9  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 9: Infosys SE Question 9  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -186,7 +186,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 7, Problem 48). V
 - **Topic Domain**: **Number Systems & Simplification**
 
 
-### Question 10: High-Yield Problem 10  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 10: Infosys SE Question 10  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -215,7 +215,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 7, Problem 49). V
 ---
 
 
-### Question 11: High-Yield Problem 11  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 11: Infosys SE Question 11  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -226,7 +226,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 7, Problem 49). V
 - **Topic Domain**: **Number Systems & Simplification**
 
 
-### Question 12: High-Yield Problem 12  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 12: Infosys SE Question 12  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -260,7 +260,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 8, Problem 50). V
 ---
 
 
-### Question 13: High-Yield Problem 13  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 13: Infosys SE Question 13  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -271,7 +271,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 8, Problem 50). V
 - **Topic Domain**: **Number Systems & Simplification**
 
 
-### Question 14: High-Yield Problem 14  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 14: Infosys SE Question 14  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -300,7 +300,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 8, Problem 51). V
 ---
 
 
-### Question 15: High-Yield Problem 15  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 15: Infosys SE Question 15  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -311,7 +311,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 8, Problem 51). V
 - **Topic Domain**: **Number Systems & Simplification**
 
 
-### Question 16: High-Yield Problem 16  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 16: Infosys SE Question 16  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -339,7 +339,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 14, Problem 99). 
 ---
 
 
-### Question 17: High-Yield Problem 17  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 17: Infosys SE Question 17  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -350,7 +350,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 14, Problem 99). 
 - **Topic Domain**: **Number Systems & Simplification**
 
 
-### Question 18: High-Yield Problem 18  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 18: Infosys SE Question 18  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -384,7 +384,7 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 18, Problem 131).
 ---
 
 
-### Question 19: High-Yield Problem 19  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 19: Infosys SE Question 19  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -393,88 +393,4 @@ Mathematical quantitative deduction from 250+ Quant Book (Page 18, Problem 131).
 - **Source Module**: `2. Numerical ability - Quantitative Aptitude`
 - **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
 - **Topic Domain**: **Number Systems & Simplification**
-
-
-### Question 20: High-Yield Problem 20  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
-> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
-> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
-> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
-
-
-P is the product of all prime numbers between 
-1 and 100. Then the number of zeros at the 
-end of the product is?
-
-### Options
-- a.  0
-- b.  1
-- c.  24
-- d.  Not
-
-### Correct Answer
-> [!IMPORTANT]
-> **Verified Answer Key**: `B`
-
-### Step-by-Step Mathematical Proof & Arithmetic Solution
-Mathematical quantitative deduction from 250+ Quant Book (Page 18, Problem 132). Verified against master key: Answer option B. Step-by-step formula and arithmetic reduction confirms answer.
-
-### Visual Figure / Data Table
-![Numerical Chart](../../../images/quant_num_system_02_page_01.png)
-
----
-
-
-### Question 21: High-Yield Problem 21  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
-> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
-> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
-> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
-
- (ID: `SEC02_BOOK_P19_Q139`)
-- **Source Module**: `2. Numerical ability - Quantitative Aptitude`
-- **Source File**: `250 + Video Solution Quant Assorted Book.pdf`
-- **Topic Domain**: **Number Systems & Simplification**
-
-
-### Question 22: High-Yield Problem 22  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
-> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
-> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
-> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
-
-
-The value of 8
-2
-5 ÷ 3
-1
-2 of 7
-1
-5 - (7
-1
-5 - 2
-7
-10) ÷ (1
-7
-8 ÷ 
-1
-1
-3 of 
-3
-16) is ?
-
-### Options
-- a.  7 10
-- b.  -  2 3
-- c.  -  4 15
-- d.  3 5
-
-### Correct Answer
-> [!IMPORTANT]
-> **Verified Answer Key**: `C`
-
-### Step-by-Step Mathematical Proof & Arithmetic Solution
-Mathematical quantitative deduction from 250+ Quant Book (Page 19, Problem 139). Verified against master key: Answer option C. Step-by-step formula and arithmetic reduction confirms answer.
-
-### Visual Figure / Data Table
-![Numerical Chart](../../../images/quant_num_system_02_page_01.png)
-
----
 

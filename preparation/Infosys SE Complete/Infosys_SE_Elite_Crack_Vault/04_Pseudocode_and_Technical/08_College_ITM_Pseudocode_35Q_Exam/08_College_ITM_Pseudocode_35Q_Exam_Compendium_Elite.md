@@ -1,13 +1,13 @@
 # 🏆 Infosys SE Elite Crack Vault — 08 College ITM Pseudocode 35Q Exam Compendium Elite
-> **Target Role:** Infosys Systems Engineer (SE) / Specialist Programmer (SP)  
-> **Curation Standard:** **High-Yield & Core Exam Questions ONLY** (All Redundant Variants Purged)  
-> **Total Curated Questions in Topic:** **28 Questions**  
-> **Question Breakdown:** 🔴 `8 Must-Solve` | 🟡 `16 Core SE` | 🔵 `4 Advanced SP/DSE`  
+> **Target Role:** **Infosys Systems Engineer (SE)** (3.6 – 4.0 LPA Recruitment Drive)  
+> **Curation Standard:** **100% Pure SE Role Specific** (All SP/DSE Upper-Level & Practice Variants Purged)  
+> **Total Curated Questions in Topic:** **24 Questions**  
+> **Question Breakdown:** 🔴 `8 Must-Solve` | 🟡 `16 Core SE Level`  
 > **Verification Score:** 100% Mathematically & Deductively Proven with Zero Hallucination  
 
 ---
 
-### Question 1: High-Yield Problem 1  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 1: Infosys SE Question 1  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -47,7 +47,7 @@ Recursive function trace:
 ---
 
 
-### Question 2: High-Yield Problem 2  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 2: Infosys SE Question 2  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -85,7 +85,7 @@ Bitwise XOR: count ^ 11 = 4 ^ 11 = 0100₂ ^ 1011₂ = 1111₂ = 15.
 ---
 
 
-### Question 3: High-Yield Problem 3  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 3: Infosys SE Question 3  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -128,7 +128,7 @@ Final s = 46.
 ---
 
 
-### Question 4: High-Yield Problem 4  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 4: Infosys SE Question 4  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -168,7 +168,7 @@ Stack execution trace (LIFO):
 ---
 
 
-### Question 5: High-Yield Problem 5  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 5: Infosys SE Question 5  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -205,7 +205,7 @@ Final content: [8, 2, 5, 7].
 ---
 
 
-### Question 6: High-Yield Problem 6  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 6: Infosys SE Question 6  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -239,7 +239,7 @@ print(f(5))
 ---
 
 
-### Question 7: High-Yield Problem 7  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 7: Infosys SE Question 7  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -275,7 +275,7 @@ the bit order of x within its significant bits. 58 = 111010₂ (6 bits); reverse
 ---
 
 
-### Question 8: High-Yield Problem 8  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 8: Infosys SE Question 8  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -314,7 +314,7 @@ note j=4 gives i+j=6, which is not >6, so it's included). i=3: skips j=3; adds 3
 ---
 
 
-### Question 9: High-Yield Problem 9  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 9: Infosys SE Question 9  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -349,7 +349,7 @@ print(b + c)
 ---
 
 
-### Question 10: High-Yield Problem 10  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 10: Infosys SE Question 10  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -384,7 +384,7 @@ arr[1]=temp=1 → final [5,1,2,4,3].
 ---
 
 
-### Question 11: High-Yield Problem 11  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 11: Infosys SE Question 11  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -461,7 +461,7 @@ print(arr)
 ---
 
 
-### Question 12: High-Yield Problem 12  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 12: Infosys SE Question 12  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -490,7 +490,7 @@ mask, which reverses the 6-bit pattern: 100101 reversed is 101001 = 32+8+1 = 41.
 ---
 
 
-### Question 13: High-Yield Problem 13  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 13: Infosys SE Question 13  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -520,7 +520,7 @@ i=1 contributes 1; i=2 contributes 2; i=3 contributes 3+9=12; i=4 contributes 4+
 ---
 
 
-### Question 14: High-Yield Problem 14  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 14: Infosys SE Question 14  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -549,7 +549,7 @@ d=pop=3 → push(13) → [13]. push(3) → [13,3]. e=pop=3, f=pop=13. e×f = 39.
 ---
 
 
-### Question 15: High-Yield Problem 15  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 15: Infosys SE Question 15  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -578,7 +578,7 @@ i=0,j=5: swap arr[0],arr[5] → [60,20,30,40,50,10]; i=1,j=3. i<j (1<3): swap ar
 ---
 
 
-### Question 16: High-Yield Problem 16  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 16: Infosys SE Question 16  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -611,7 +611,7 @@ print(gcd(252, 105))
 ---
 
 
-### Question 17: High-Yield Problem 17  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 17: Infosys SE Question 17  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -644,7 +644,7 @@ print(c + d)
 ---
 
 
-### Question 18: High-Yield Problem 18  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 18: Infosys SE Question 18  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -687,7 +687,7 @@ swaps. Total = 3+2+2 = 7.
 ---
 
 
-### Question 19: High-Yield Problem 19  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 19: Infosys SE Question 19  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -730,7 +730,7 @@ the back, giving [3,2,1,4,5] — the first 3 elements correctly reversed.
 ---
 
 
-### Question 20: High-Yield Problem 20  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 20: Infosys SE Question 20  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -773,7 +773,7 @@ zeroes out positions 4,5,6. Final: [3,4,5,2,0,0,0].
 ---
 
 
-### Question 21: High-Yield Problem 21  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 21: Infosys SE Question 21  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -808,7 +808,7 @@ f(2,2)=6, f(3,1)=4, f(3,2)=f(2,2)+f(3,1)=6+4=10 (also confirmed by code executio
 ---
 
 
-### Question 22: High-Yield Problem 22  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 22: Infosys SE Question 22  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -845,7 +845,7 @@ print(y)
 ---
 
 
-### Question 23: High-Yield Problem 23  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 23: Infosys SE Question 23  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -889,7 +889,7 @@ mid=6(38)→low=7; mid=7(45)→low=8, loop ends. That's 4 comparisons (verified 
 ---
 
 
-### Question 24: High-Yield Problem 24  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 24: Infosys SE Question 24  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -922,149 +922,6 @@ print(pop())
 **Step-by-Step Dry-Run Execution Trace & Analysis:**
 7. This performs the postfix evaluation of "6 2 3 + − 3 8 2 / + ×": (2+3)=5, (6−5)=1, (8/2)=4, (3+4)=7, 
 (1×7)=7.
-
----
-
-
-### Question 25: High-Yield Problem 25  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
-> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
-> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
-> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
-
- (Infosys System Engineer ITM Mock Paper 5 - Q50)
-**Section:** Section 4: Pseudo Code | **Page:** 7  
-**Visual Reference Plate:** [paper_05_page_07.png](images/paper_05_page_07.png)
-
-**Pseudocode / Algorithm Stem:**
-```c
-This is Kadane's algorithm for maximum subarray sum. What is printed? 
-arr = [-2, 3, -1, 5, -3, 4, -2, 6] 
-maxSoFar = arr[0]; maxEndingHere = arr[0] 
-for i = 1 to 7 
-    maxEndingHere = max(maxEndingHere + arr[i], arr[i]) 
-    maxSoFar = max(maxSoFar, maxEndingHere) 
-end for 
-print(maxSoFar)
-```
-
-**Options:**
-- **(A)** 12
-- **(B)** 10
-- **(C)** 9
-- **(D)** 15
-
-**Correct Answer:** Option **(A)** — `12`
-
-**Step-by-Step Dry-Run Execution Trace & Analysis:**
-12. Kadane's algorithm finds the maximum subarray sum. Tracing: maxEndingHere/maxSoFar 
-progress to 3, 2→3, 7, 4→7, 8, 6→8, 12→12 (the subarray [5,−3,4,−2,6] sums to 10, but [3,−1,5,−3,4,−2,6] or 
-similarly the running trace peaks at 12 via maxEndingHere reaching 12 at the last element — confirmed by 
-direct code execution). 
-
----
-
-
-### Question 26: High-Yield Problem 26  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
-> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
-> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
-> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
-
- (Infosys System Engineer ITM Mock Paper 6 - Q46)
-**Section:** Section 4: Pseudo Code | **Page:** 6  
-**Visual Reference Plate:** [paper_06_page_06.png](images/paper_06_page_06.png)
-
-**Pseudocode / Algorithm Stem:**
-```c
-What is printed? (/ is integer division, % is modulo) 
-int f(int n) { 
-    if (n <= 1) return n; 
-    if (n % 2 == 0) return f(n / 2); 
-    return f(n - 1) + f(n + 1); 
-} 
-print(f(11))
-```
-
-**Options:**
-- **(A)** 5
-- **(B)** 4
-- **(C)** 6
-- **(D)** 3
-
-**Correct Answer:** Option **(A)** — `5`
-
-**Step-by-Step Dry-Run Execution Trace & Analysis:**
-5. Building up: f(1)=1, f(2)=f(1)=1, f(4)=f(2)=1, f(3)=f(2)+f(4)=2, f(6)=f(3)=2, f(5)=f(4)+f(6)=3, 
-f(10)=f(5)=3, f(12)=f(6)=2. So f(11)=f(10)+f(12)=3+2=5 (confirmed by code).
-
----
-
-
-### Question 27: High-Yield Problem 27  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
-> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
-> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
-> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
-
- (Infosys System Engineer ITM Mock Paper 6 - Q47)
-**Section:** Section 4: Pseudo Code | **Page:** 6  
-**Visual Reference Plate:** [paper_06_page_06.png](images/paper_06_page_06.png)
-
-**Pseudocode / Algorithm Stem:**
-```c
-What is printed? (^=XOR, >>=right shift, &=AND) 
-n = 13 
-g = n ^ (n >> 1) 
-print(g + (g & 5))
-```
-
-**Options:**
-- **(A)** 12
-- **(B)** 11
-- **(C)** 16
-- **(D)** 14
-
-**Correct Answer:** Option **(A)** — `12`
-
-**Step-by-Step Dry-Run Execution Trace & Analysis:**
-12. 13 = 1101₂; 13>>1 = 6 = 0110₂; g = 1101 ^ 0110 = 1011₂ = 11. g & 5 = 1011 & 0101 = 0001 = 1. g + 1 
-= 12.
-
----
-
-
-### Question 28: High-Yield Problem 28  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
-> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
-> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
-> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
-
- (Infosys System Engineer ITM Mock Paper 6 - Q48)
-**Section:** Section 4: Pseudo Code | **Page:** 6  
-**Visual Reference Plate:** [paper_06_page_06.png](images/paper_06_page_06.png)
-
-**Pseudocode / Algorithm Stem:**
-```c
-What is printed? 
-s = 0 
-for i = 1 to 5 
-    for j = 1 to 5 
-        if ((i + j) % 4 == 0) continue 
-        if (j > i + 1) break 
-        s = s + i * j 
-    end for 
-end for 
-print(s)
-```
-
-**Options:**
-- **(A)** 142
-- **(B)** 138
-- **(C)** 146
-- **(D)** 150
-
-**Correct Answer:** Option **(A)** — `142`
-
-**Step-by-Step Dry-Run Execution Trace & Analysis:**
-142. Tracing the loops with the continue (when i+j is a multiple of 4) and break (when j > i+1) 
-gives a total of 142 (confirmed by code).
 
 ---
 

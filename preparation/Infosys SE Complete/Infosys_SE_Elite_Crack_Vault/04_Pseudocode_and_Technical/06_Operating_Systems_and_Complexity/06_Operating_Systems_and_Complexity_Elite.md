@@ -1,13 +1,13 @@
 # 🏆 Infosys SE Elite Crack Vault — 06 Operating Systems and Complexity Elite
-> **Target Role:** Infosys Systems Engineer (SE) / Specialist Programmer (SP)  
-> **Curation Standard:** **High-Yield & Core Exam Questions ONLY** (All Redundant Variants Purged)  
-> **Total Curated Questions in Topic:** **11 Questions**  
-> **Question Breakdown:** 🔴 `2 Must-Solve` | 🟡 `6 Core SE` | 🔵 `3 Advanced SP/DSE`  
+> **Target Role:** **Infosys Systems Engineer (SE)** (3.6 – 4.0 LPA Recruitment Drive)  
+> **Curation Standard:** **100% Pure SE Role Specific** (All SP/DSE Upper-Level & Practice Variants Purged)  
+> **Total Curated Questions in Topic:** **8 Questions**  
+> **Question Breakdown:** 🔴 `2 Must-Solve` | 🟡 `6 Core SE Level`  
 > **Verification Score:** 100% Mathematically & Deductively Proven with Zero Hallucination  
 
 ---
 
-### Question 1: High-Yield Problem 1  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 1: Infosys SE Question 1  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -18,7 +18,7 @@
 - **Topic Domain**: **Data Structures, Trees & Pointers**
 
 
-### Question 2: High-Yield Problem 2  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
+### Question 2: Infosys SE Question 2  `🔴 [🔥 MUST-SOLVE | INFOSYS SE ACTUAL PATTERN]`
 > **🎯 Exam Priority:** **`🔴 [🔥 MUST-SOLVE / HIGH RECURRENCE]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`** (Single/Double Step Deduction)  
 > **💡 Preparation Advice:** **MANDATORY FOR 5-6 NOV DRIVE** (Direct recurring exam concept)
@@ -49,7 +49,7 @@ In operating systems, the processes that are in the ready state, prepared for ex
 ---
 
 
-### Question 3: High-Yield Problem 3  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 3: Infosys SE Question 3  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -60,7 +60,7 @@ In operating systems, the processes that are in the ready state, prepared for ex
 - **Topic Domain**: **Operating Systems & Systems Architecture**
 
 
-### Question 4: High-Yield Problem 4  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 4: Infosys SE Question 4  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -93,7 +93,7 @@ A running process can be transitioned to the blocked (waiting) state by system c
 ---
 
 
-### Question 5: High-Yield Problem 5  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 5: Infosys SE Question 5  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -104,7 +104,7 @@ A running process can be transitioned to the blocked (waiting) state by system c
 - **Topic Domain**: **Operating Systems & Systems Architecture**
 
 
-### Question 6: High-Yield Problem 6  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 6: Infosys SE Question 6  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -135,7 +135,7 @@ interrupt the running process?
 ---
 
 
-### Question 7: High-Yield Problem 7  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 7: Infosys SE Question 7  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -146,7 +146,7 @@ interrupt the running process?
 - **Topic Domain**: **Operating Systems & Systems Architecture**
 
 
-### Question 8: High-Yield Problem 8  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
+### Question 8: Infosys SE Question 8  `🟡 [⭐ CORE SE LEVEL | HIGH PROBABILITY]`
 > **🎯 Exam Priority:** **`🟡 [⭐ CORE SE LEVEL]`**  
 > **📊 Target Difficulty:** **`Infosys SE Standard Level`**  
 > **💡 Preparation Advice:** Essential syllabus concept — highly recommended for sectional cutoff.
@@ -190,58 +190,4 @@ Output (A[i][j]);
 ![Ebook Page Reference](../../../images/pseudocode_ebook_page_05.png)
 
 ---
-
-
-### Question 9: High-Yield Problem 9  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
-> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
-> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
-> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
-
- (ID: `SEC03_EBOOK_Q048`)
-- **Source Module**: `Section III _ Pseudo Codes`
-- **Source File**: `1. Pseudo Codes Technical ebook.pdf`
-- **Topic Domain**: **Operating Systems & Systems Architecture**
-
-
-### Question 10: High-Yield Problem 10  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
-> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
-> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
-> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
-
- / Code Snippet
-```pseudocode
-Evaluate the given postfix 
-expression: 1 2 + 3 * 4 2 - 3 1 + * -
-```
-
-### Options
-- a) 3
-- b) 1
-- c) 0
-- d) 2
-
-### Correct Answer
-> [!IMPORTANT]
-> **Verified Answer Key**: `Option B`
-
-### Step-by-Step Code Execution Trace & Proof
-**Execution Analysis & Formal Proof for Question 48**:
-1. Analyze the syntax, control statements, and operator evaluations.
-2. Executing the code fragment step-by-step yields Option `B`.
-
-### Visual Page Reference / Diagram
-![Ebook Page Reference](../../../images/pseudocode_ebook_page_09.png)
-
----
-
-
-### Question 11: High-Yield Problem 11  `🔵 [🔷 ADVANCED | DSE / SP UPPER LEVEL]`
-> **🎯 Exam Priority:** **`🔵 [🔷 ADVANCED / DSE-SP UPPER LEVEL]`**  
-> **📊 Target Difficulty:** **`Upper Level (Specialist Programmer / Digital Specialist Engineer)`**  
-> **💡 Preparation Advice:** Complex multi-step problem — target if aiming for higher package (6.25 - 9.5 LPA).
-
- (ID: `SEC03_EBOOK_Q096`)
-- **Source Module**: `Section III _ Pseudo Codes`
-- **Source File**: `1. Pseudo Codes Technical ebook.pdf`
-- **Topic Domain**: **Operating Systems & Systems Architecture**
 
